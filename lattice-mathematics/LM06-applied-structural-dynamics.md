@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism
 *Lattice Mathematics — Document 6*
 
+**Series:** Lattice Mathematics: The Formal Architecture of Coherence  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Lattice Mathematics / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** LM01 — The Dimensional Lattice: Mathematical Foundations of Zenetism; LM03 — Orientation Algebra and Infinity Formalism; LM04 — Temporal Algebra, Structural Space, and Phase Resolution; LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics; SP10 — Ritual Energetics and Integration Protocols; SP11 — Embodiment Dynamics; SP12 — Structural Diagnostics and Field Forensics  
-**SHA-256:** b84a63532802e57947e362781df64ff75f2c5a2eb8e611035dfe7c617744a0fa
+**Classification:** Lattice Mathematics — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md` · `SP12-structural-diagnostics-and-field-forensics.md`  
 
 ---
 
@@ -180,7 +180,7 @@ Without sufficient resonance correlation, the subsequent sub-operators cannot en
 
 **Operation** \( \mathcal{P}_{\text{op}} \): The principal transformation. Coherence is discharged, redirected, or replenished according to protocol specification. This sub-operator carries the primary coherence cost.
 
-**Stabilization** \( \mathcal{P}_{\text{stab}} \): Secures the target configuration against regression through sealing, anchoring, or feedback establishment.
+**Stabilization** \( \mathcal{P}_{\text{stab}} \): Secures the target configuration from regression through sealing, anchoring, or feedback establishment.
 
 **Separation** \( \mathcal{P}_{\text{sep}} \): Clean withdrawal of resonance connection. Residual entanglement may create unintended Echo Layers (LM05 §7) or siphoning apertures (LM05 §3.5); separation must be structurally complete.
 
@@ -198,7 +198,7 @@ Where \( \epsilon > 0 \) is the tolerance threshold and \( \| \cdot \| \) is the
 
 **Proposition (Failure Conditions):**
 
-Ritual failure occurs when:
+Ritual inadequacy occurs when:
 
 1. \( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) \geq \epsilon \) — the configuration diverges from target beyond tolerance
 2. \( I_c^{(\text{practitioner})} < I_{c,\text{min}} + I_c^{(\text{reserve})} \) before \( \mathcal{P}_{\text{op}} \) completes — coherence budget exhausted
@@ -223,13 +223,13 @@ For a centropic collective of \( n \) participants, each contributing \( \mathca
 \mathcal{P}_{\text{collective}} = \bigcirc_{i=1}^{n} \mathcal{P}_i
 \]
 
-Where \( \bigcirc \) denotes sequential or parallel composition preserving essence-distinction (Non-Fusion, LM05 §9.1) throughout. Each \( \mathcal{P}_i \) is independently authored; the collective operator is a structured coordination, not a merger.
+Where \( \bigcirc \) denotes sequential or parallel composition preserving essence-distinction (Non-fusion, LM05 §9.1) throughout. Each \( \mathcal{P}_i \) is independently authored; the collective operator is a structured coordination, not a merger.
 
 ### 3.5 The Countermeasure Constraint
 
 **Axiom (Countermeasure Orientation Preservation):**
 
-A Ritual Operator \( \mathcal{P} \) deployed as a siphoning countermeasure must satisfy:
+A Ritual Operator \( \mathcal{P} \) enacted as a siphoning countermeasure must satisfy:
 
 \[
 \chi_{\text{practitioner}}(\tau) < 1 \quad \text{throughout } \mathcal{P}
@@ -248,7 +248,7 @@ Countermeasures are restorative and defensive, not retaliatory. This is not a st
 
 **Definition (Field Seal):**
 
-A **field seal** is a self-sustaining coherence configuration deployed into a field region, formalized as a triple:
+A **field seal** is a self-sustaining coherence configuration established in a field region, formalized as a triple:
 
 \[
 \mathfrak{S}_{\text{seal}} = \left( I_c^{(\text{seal})}, \; \sigma_{\text{seal}}(⧉), \; \vec{J}_c^{(\text{internal})} \right)
@@ -416,13 +416,13 @@ This ensures total distributed cost equals total cost: \( \sum_i \text{Cost}_i =
 
 **Axiom (Internal Siphoning Prohibition):**
 
-Forced cost extraction from collective members constitutes internal siphoning:
+Forced cost taking from collective members constitutes internal siphoning:
 
 \[
-w_i = 0 \text{ (non-voluntary)} \implies \text{extraction is structurally identical to the threat being countered}
+w_i = 0 \text{ (non-voluntary)} \implies \text{the taking is structurally identical to the threat being countered}
 \]
 
-Cost distribution is always voluntary. Involuntary extraction within a collective is entropic coordination (swarm dynamics, LM05 §9), not centropic integration.
+Cost distribution is always voluntary. Involuntary taking within a collective is entropic coordination (swarm dynamics, LM05 §9), not centropic integration.
 
 ### 5.4 Cost Recovery
 
@@ -499,7 +499,7 @@ Where \( \Delta I_c^{(\text{resistance})} > 0 \) is the additional expenditure r
 
 The resistance term acts asymmetrically:
 
-- Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required against the resistance term
+- Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required contra the resistance term
 - Entropic motion at IL₁ encounters no equivalent resistance — dispersion at the metric terminus faces no opposing co-presence in the same structural manner
 
 This reflects the structural law: coherence must be achieved; dispersion need not be (LM03 §9.4, Asymmetry of Expression).
@@ -516,7 +516,7 @@ The dimensional operator dynamics at the Embodiment Band form a composite field:
 
 Where:
 
-- \( f(C_2, C_4) \) represents primary operator contributions: C₂ (Spatial / Cohered Extension) governs felt location and bodily orientation; C₄ (Rotational / Gyre) governs conserving rhythms and cyclical stability
+- \( f(C_2, C_4) \) represents primary operator contributions: C₂ (Spatial / Cohered Extension) determines felt location and bodily orientation; C₄ (Rotational / Gyre) determines conserving rhythms and cyclical stability
 - \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Scalar / Part-Whole Fidelity) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic / Formweave) translates pattern (L₄) into living structure (L₁)
 
 Embodied beings who resonate with supernal layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
@@ -541,7 +541,7 @@ Where the **centropic activation function** is:
 \Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or saddle)} \end{cases}
 \]
 
-*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §7): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term governed by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift. Since centropic drift corresponds to decreasing \( \chi \), a positive additive term increases \( d\chi/d\tau \), thereby opposing centropic declivity — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
+*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §7): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term determined by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift. Since centropic drift corresponds to decreasing \( \chi \), a positive additive term increases \( d\chi/d\tau \), thereby opposing centropic declivity — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
 
 ### 7.2 Embodied Instability
 
@@ -586,13 +586,13 @@ An embodied being resonates with layer \( L_k \) (or \( IL_k \)) when:
 Participation does not constitute identity with the layer. The being does not become \( L_k \); it functions through resonant engagement while remaining corporeally situated at L₁.
 
 > **Note on Continuous Scaling:**  
-> The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) governs onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
+> The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) determines onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
 
 ### 8.2 The Orientation-Intent Principle
 
 **Axiom (Orientation-Intent Principle):**
 
-Cross-band resonance is governed by orientation and intent, not by articulation:
+Cross-band resonance is determined by orientation and intent, not by articulation:
 
 \[
 \text{Gravity}_{\text{centropic}} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
@@ -606,7 +606,7 @@ This safeguards the Lattice from becoming an intellectual trap. Sophistication m
 
 **Definition (⧉₁ — Cognitive-Embodied Membrane):**
 
-The membrane field between L₂ (Anthra / Nousa) and L₁ (Soma / Biosa), governing transfer between cognitive-personal structures and corporeal expression.
+The membrane field between L₂ (Anthra / Nousa) and L₁ (Soma / Biosa), determining transfer between cognitive-personal structures and corporeal expression.
 
 **Transfer at ⧉₁:**
 
@@ -682,20 +682,20 @@ In a structurally coherent configuration, all five signature components align:
 - \( I_c \) magnitude is consistent with operator activity
 - \( \vec{J}_c \) flow direction is consistent with \( \chi \)-orientation
 - \( \sigma(⧉) \) boundary conditions are consistent with the system's structural function
-- \( \chi \) orientation is consistent with the configuration’s generative polarity
+- \( \chi \) orientation is consistent with the configuration's generative polarity
 - The operator profile \( \{O_k\} \) is consistent with the system's claimed purpose
 
 Structural compromise is detectable precisely because it produces **signature inconsistency** — a divergence between components that should align but do not.
 
 ### 9.3 Diagnostic Operator Theory
 
-The dimensional operators (LM01 §5) serve a dual function: they govern structural dynamics and detect the state of their own domain.
+The dimensional operators (LM01 §5) carry a twofold function: they determine structural dynamics and detect the state of their own domain.
 
 **Primary Diagnostic Operators:**
 
 | Operator | Diagnostic Function | Reads |
 |----------|---------------------|-------|
-| C₈ / E₉ | Relational Authenticity | Whether coupling is reciprocal resonance or parasitic extraction |
+| C₈ / E₉ | Relational Authenticity | Whether coupling is reciprocal resonance or parasitic siphoning |
 | C₁₃ / E₁₃ | Surface-Structure Alignment (Shimmer Axis) | Whether surface presentation matches structural interior |
 | C₆ | Configuration Stability | Whether stability is genuine (self-sustaining) or artificial (externally sustained) |
 | E₁₄ | Institutional Vacancy | Whether structural form persists after coherence has departed |
@@ -768,7 +768,7 @@ As \( I_c^{(\text{actual})} \) depletes while \( I_c^{(\text{apparent})} \) is m
 \frac{d\mathcal{S}_{\text{sh}}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
 \]
 
-The Shimmer Coefficient increases — the divergence widens — producing a runaway instability. The system can no longer sustain its surface presentation when \( I_c^{(\text{actual})} \) falls below \( I_{c,\text{sustain}} \), and the shimmer collapses.
+The Shimmer Coefficient increases — the divergence widens — producing a runaway instability. The system can no longer sustain its surface presentation when \( I_c^{(\text{actual})} \) drops below \( I_{c,\text{sustain}} \), and the shimmer collapses.
 
 This instability is structural, not contingent. A system lacking generative function cannot indefinitely sustain the appearance of possessing it. \( \square \)
 
@@ -783,7 +783,7 @@ The asymmetry between authentic and counterfeit coherence is structural:
 - **Generative** (\( S > 0 \)): \( I_c \) sustained or increasing without external parasitic input; \( \vec{J}_c \) flows centripetally; operator profile consistent with claimed function
 - **Consumptive** (\( S \leq 0 \)): \( I_c \) declining unless externally supplemented; \( \vec{J}_c \) flows centrifugally or parasitically; operator profile inconsistent with claimed function
 
-The diagnostic instruments (particularly C₁₃ / E₁₃) detect this asymmetry because generative and consumptive configurations produce distinguishable operator profiles.
+The diagnostic operators (particularly C₁₃ / E₁₃) detect this asymmetry because generative and consumptive configurations produce distinguishable operator profiles.
 
 ---
 
@@ -803,7 +803,7 @@ A configuration whose surface signature correlates with a source's surface while
 \text{corr}(\Sigma_{\text{mimic}}^{(\text{structural})}, \; \Sigma_{\text{source}}^{(\text{structural})}) < \theta_{\text{structural}}
 \]
 
-The mimic reproduces what is observable without reproducing what is operational. Primary diagnostic operators: C₁₃ / E₁₃ (surface-structure divergence), C₈ / E₉ (relational authenticity — the mimic's connections to the source are extractive, not resonant).
+The mimic reproduces what is observable without reproducing what is operational. Primary diagnostic operators: C₁₃ / E₁₃ (surface-structure divergence), C₈ / E₉ (relational authenticity — the mimic's connections to the source are siphoning, not resonant).
 
 ### 11.2 Appropriation
 
@@ -821,7 +821,7 @@ A configuration incorporating structural elements from a source while lacking at
 
 Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) is the **attribution coupling** — the structural acknowledgment that \( \Sigma_A \) derives elements from \( \Sigma_S \).
 
-Appropriation is structurally distinct from independent convergence. Independent convergence produces similar conclusions from different generative processes; appropriation reproduces conclusions from the same generative process while severing the connection.
+Appropriation is structurally distinct from independent origination. Independent origination produces similar conclusions from different generative processes; appropriation reproduces conclusions from the same generative process while fracturing the connection.
 
 Primary diagnostic operators: C₁₅ / E₁₅ (lawful contra concealed divergence), C₃ (temporal coherence — whether the timeline supports independent development), C₁₀ (formweave fidelity — whether form has been reproduced without generative understanding).
 
@@ -927,7 +927,7 @@ The coherence audit applies identically across scales:
 - **Doctrinal**: whether framework components are internally consistent
 - **Artifactual**: whether a specific product exhibits generative or derivative signature
 
-The field quantities, operators, and diagnostic conditions are the same across all scales. What changes is the scope of application, not the instruments.
+The field quantities, operators, and diagnostic conditions are the same across all scales. What changes is the scope of application, not the operators.
 
 ---
 
@@ -1016,11 +1016,11 @@ The diagnostic formalism operates on the extended space \( \mathfrak{F} \times \
 The dimensional operators acquire specific applied functions within LM06:
 
 **C₂ (Spatial / Cohered Extension):**
-- Primary at L₁; governs spatial coherence of embodied form
+- Primary at L₁; determines spatial coherence of embodied form
 - Entropic mirror E₂: spatial decoherence, signal contamination, field dilution
 
 **C₄ (Rotational / Gyre):**
-- Primary at L₁; governs conserving rhythms of corporeal existence
+- Primary at L₁; determines conserving rhythms of corporeal existence
 - Entropic mirror E₄: consumptive collapse of cyclical processes
 
 **C₅ (Scalar / Part-Whole Fidelity):**
@@ -1031,7 +1031,7 @@ The dimensional operators acquire specific applied functions within LM06:
 - Diagnostic: distinguishes genuine stability from artificial stabilization
 
 **C₈ (Resonance Bridge):**
-- Governs relational seal integrity; diagnostic of relational authenticity
+- Determines relational seal integrity; diagnostic of relational authenticity
 - Entropic mirror E₉: parasitic coupling, siphoning apertures
 
 **C₁₀ (Morphogenetic / Formweave):**
@@ -1045,7 +1045,7 @@ The dimensional operators acquire specific applied functions within LM06:
 
 **C₁₅ (Bifurcation / Lawful Divergence):**
 - Diagnostic of structural differentiation; reads attribution coupling
-- Entropic mirror E₁₅: attribution severance, concealed derivation
+- Entropic mirror E₁₅: attribution fracture, concealed derivation
 
 **E₁₄ (Hollow Nest):**
 - Institutional vacancy diagnostic
@@ -1334,7 +1334,7 @@ LM06 establishes:
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
 6. **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution with centropic activation function, embodied equilibrium instability, and the Mercy Fold condition
 7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
-8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary instruments
+8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary operators
 9. **Shimmer Coefficient and Instability** — \( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction
 10. **Diagnostic Taxonomy** — Mimicry (⊜), appropriation (⥊), and clone (⊟) as formally distinguished configurations with correlation conditions, attribution coupling \( \mathcal{A} \), the Clone Temporal Drift theorem, and the four-category diagnostic gradient
 11. **Coherence Audit Formalism** — Five-domain evaluation protocol, four diagnostic outcomes (integrity confirmed, inconsistency detected, derivative signature identified, insufficient data), and scale invariance from individual to institutional
@@ -1345,9 +1345,9 @@ LM06 establishes:
 ## 16. Canonical Placement
 
 **Discipline:** Lattice Mathematics  
-**Document:** LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism  
-**Dependencies:** LM01, LM03, LM04, LM05, SP10, SP11, SP12  
-**Relation:** Sixth foundational document of Lattice Mathematics
+**Document:** `LM06-applied-structural-dynamics.md`  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md` · `SP12-structural-diagnostics-and-field-forensics.md`  
+**Relation:** Sixth foundational document of Lattice Mathematics  
 
 This document formalizes the mathematics of deliberate field manipulation, embodiment-corrected dynamics, and structural diagnostics. It builds on the resonance field theory (LM05), orientation algebra (LM03), temporal algebra (LM04), and mathematical foundations (LM01) to specify how Lattice systems are intentionally transformed (Ritual Operators), how those transformations are costliest (the metric terminus), and how structural integrity is formally evaluated (field signature theory and the coherence audit).
 
@@ -1357,7 +1357,7 @@ Future expansions may include:
 - **Temporal Forensics** — Extended C₃-based formalism for timeline analysis and retroactive attribution detection
 - **Multi-Scale Diagnostic Protocols** — Detailed collective and institutional audit procedures
 - **Embodied Collective Dynamics** — Centropic and entropic collective configurations at the metric terminus
-- **Siphoning countermeasure formalism** — Structural defenses against parasitic extraction, including seal engineering and containment neutralization
+- **Siphoning countermeasure formalism** — Structural defenses contra parasitic siphoning, including seal engineering and containment neutralization
 
 ---
 
@@ -1375,7 +1375,7 @@ Future expansions may include:
 > At the metric terminus, coherence is tested  
 > by the weight of shared ground.  
 > What integrates here  
-> integrates against the full inertia of form.
+> integrates contra the full inertia of form.
 >
 > And every configuration speaks its own signature.  
 > Surface may shimmer,  
@@ -1425,7 +1425,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \theta_{\text{system}} \) | System correlation threshold (clone detection) |
 | ≋ | Shimmer; surface-structure divergence |
 | ⊜ | Mimicry; structural reflection presented as origin |
-| ⥊ | Appropriation; extractive use without attribution |
+| ⥊ | Appropriation; appropriative adoption without attribution |
 | ⊟ | Clone; total system replication without attribution |
 | \( w_i \) | Voluntary cost weighting factor |
 | \( \sigma_{\text{seal}} \) | Seal boundary permeability |
