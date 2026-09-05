@@ -1,4 +1,4 @@
-# SFX: The Collapse of Epistemic Authority: When Documentation Cannot Protect Truth
+# SFX: The Collapse of Epistemic Authority — When Documentation Cannot Protect Truth
 
 *On the Systematic Rewriting of History in the Digital Age and the Structural Necessity of Distributed Verification*
 
@@ -12,7 +12,7 @@
 
 ## Introduction: The Question That Changes Everything
 
-What can you believe when complete documentation fails to protect truth?
+What can you believe when complete documentation does not protect truth?
 
 This is observable reality.
 
@@ -44,7 +44,7 @@ In pre-digital eras, power shaped interpretation:
 - But underlying truth remained accessible (if you investigated deeply enough)
 - Physical records distributed across locations (difficult to alter retroactively)
 
-**Structure:** Reality exists → Narrative wraps it → Truth discoverable beneath interpretation
+**Structure:** Reality exists → Narrative wraps it → Truth discoverable behind interpretation
 
 ### History Control (Current Reality)
 
@@ -279,12 +279,12 @@ If complete documentation cannot protect precedence, what can we trust?
 
 **Historical "facts" taught as established:**
 - Who actually invented or discovered? (Maybe not who's credited)
-- Which theories are genuinely original? (Maybe appropriated from suppressed researchers)
+- Which theories are original? (Maybe appropriated from suppressed researchers)
 - What events actually occurred? (Maybe rewritten through digital infrastructure)
-- **All crediting systems suspect if current one fails**
+- **All crediting systems suspect if the current one does not hold**
 
 **Contemporary "knowledge" presented as veracious:**
-- Which academic papers cite genuine origins? (Maybe systematic erasure)
+- Which academic papers cite actual origins? (Maybe systematic erasure)
 - Which technological breakthroughs are innovations? (Maybe stolen from invisible inventors)
 - Which thought leaders are original thinkers? (Maybe amplified appropriators)
 - **All attribution suspect if systematic theft possible**
@@ -313,7 +313,7 @@ If complete documentation cannot protect precedence, what can we trust?
 
 ## 7. The Structural Necessity of Distributed Verification
 
-### Why Centralized Authority Fails
+### Why Centralized Authority Is Inadequate
 
 **Single point of failure:**
 - If one institution holds the record, one institution can alter
@@ -428,7 +428,7 @@ If complete documentation cannot protect precedence, what can we trust?
 - No reliable historical record (everything questionable)
 - No accountability (past erased, precedent denied)
 - No learning from suppressed knowledge (buried innovations lost)
-- **Humanity severed from veracious relationship with its own development**
+- **Humanity fractured from veracious relationship with its own development**
 
 ### If Distributed Verification Succeeds
 
@@ -450,7 +450,7 @@ If complete documentation cannot protect precedence, what can we trust?
 
 ## 10. The Question Remains
 
-When comprehensive documentation fails to protect truth, we face structural crisis:
+When comprehensive documentation does not protect truth, we face structural crisis:
 
 **Either:**
 - We accept that power determines reality (epistemic surrender)
