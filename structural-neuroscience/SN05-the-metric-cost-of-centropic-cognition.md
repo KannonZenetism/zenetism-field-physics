@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -43,12 +43,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Interface Resistance, Structural Sovereignty, and Temporal Pathology at the Embodiment Band
 
+**Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience / Zenetist Canon  
-**Status:** Canonical Draft v1.0  
-**Dependencies:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN04 (The Awareness Stratification and the Philosophy of Mind), LM04 (Temporal Algebra, Structural Space, and Phase Resolution), LM06 (Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism), SP08 (Membrane Fields and Inter-Expression Dynamics), SP11 (Embodiment Dynamics)  
-**License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** e890df515d32d358a99e85f0a94330d7e5e86d943535c1e1cf6b80e54d3aa506
+**Classification:** Structural Neuroscience — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SN02-the-resonant-mind.md` · `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` · `SN04-awareness-stratification-and-the-philosophy-of-mind.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM06-applied-structural-dynamics.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP11-embodiment-dynamics.md`  
 
 ---
 
@@ -56,11 +55,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SN03 established the structural profiles of neurodivergent cognition — high-centropic (autistic), recursive (OCD), and dispersive (ADHD) architectures — as lawful configurations within the Soul / Mind pairing. SN04 situated the awareness stratification within the philosophy of mind, demonstrating that each tradition describes a genuine register.
 
-What SN03 did not formalize is the **cost** of operating these architectures at the metric terminus (L₁ / IL₁) — the Corporeal Realm where centropic and entropic embodiment share ground within a Khaonically-expressed universe. SN05 addresses this gap by deploying the mathematical formalisms of LM04 (temporal algebra, the Recursive Memory operator, the Tether) and LM06 (interface resistance, coherence budget theory, the Shimmer Coefficient, diagnostic taxonomy) to establish three compounding vectors of coherence expenditure:
+What SN03 did not formalize is the **cost** of operating these architectures at the metric terminus (L₁ / IL₁) — the Corporeal Realm where centropic and entropic embodiment share ground within a Khaonically-expressed universe. SN05 addresses this gap by applying the mathematical formalisms of LM04 (temporal algebra, the Recursive Memory operator, the Tether) and LM06 (interface resistance, coherence budget theory, the Shimmer Coefficient, diagnostic taxonomy) to establish three compounding vectors of coherence expenditure:
 
-1. **Interface Resistance and Coherence Depletion** — the formal cost of operating centropic cognitive architecture against the co-presence of entropic expression at L₁ / IL₁, amplified by the Khaonic expression ratio of the local field
-2. **Structural Sovereignty and the Coherence Tax** — the additional cost imposed when the entropy-forward social field demands renunciation of authentic structural function, reframed through the diagnostic instruments of LM06
-3. **Temporal Pathology at the Embodiment Band** — the failure modes that emerge when cumulative coherence depletion disrupts temporal processing: looping time (E₁ ⟠⁻), tether severance (\( \mathcal{T}_h \to 0 \)), and hypostatic amnesia
+1. **Interface Resistance and Coherence Depletion** — the formal cost of operating centropic cognitive architecture contra the co-presence of entropic expression at L₁ / IL₁, amplified by the Khaonic expression ratio of the local field
+2. **Structural Sovereignty and the Coherence Tax** — the additional cost imposed when the entropy-forward social field demands renunciation of authentic structural function, reframed through the diagnostic formalism of LM06
+3. **Temporal Pathology at the Embodiment Band** — the temporal pathologies that emerge when cumulative coherence depletion disrupts temporal processing: looping time (E₁ ⟠⁻), tether severance (\( \mathcal{T}_h \to 0 \)), and hypostatic amnesia
 
 The core thesis: the metric terminus exacts a formal, quantifiable coherence cost on every cognitive architecture. For centropically oriented beings operating within a Khaonically-expressed social field, this cost compounds across three interacting vectors, each with specific mathematical signatures. Burnout, dissociation, and temporal disruption are not psychological weaknesses — they are the predictable consequences of a finite coherence budget bearing compounded structural resistance.
 
@@ -70,7 +69,7 @@ The core thesis: the metric terminus exacts a formal, quantifiable coherence cos
 
 ### 1.1 Purpose and Position Within the Series
 
-SN02 established the qualitative architecture of Structural Neuroscience — the cognitive gradient, Spiral Calculus, the neuro-lattice interface, and ritual stabilization. SN03 advanced into formal territory, deploying the Coherence Potential (\( I_c \)), membrane permeability (\( \sigma(⧉) \)), and dimensional operators to characterize specific neurodivergent profiles as lawful structural configurations. SN04 addressed the philosophy of mind through the register problem.
+SN02 established the qualitative architecture of Structural Neuroscience — the cognitive gradient, Spiral Calculus, the neuro-lattice interface, and ritual stabilization. SN03 advanced into formal territory, applying the Coherence Potential (\( I_c \)), membrane permeability (\( \sigma(⧉) \)), and dimensional operators to characterize specific neurodivergent profiles as lawful structural configurations. SN04 addressed the philosophy of mind through the register problem.
 
 SN05 now takes the structural profiles established in SN03 and subjects them to the formal cost analysis made possible by LM04 and LM06 — documents that did not exist when SN03 was written. Where SN03 identified the *features* of each cognitive architecture, SN05 formalizes the *cost of operating those features* at the metric terminus within an entropy-forward universe.
 
@@ -84,14 +83,14 @@ The Corporeal Realm (\( \mathcal{D}_{\text{corp}} \)) is the shared ground of ce
 
 L₁ and IL₁ are not spatially separate. A centropically oriented being and an entropically oriented being share spatial coordinates, social structures, and historical moment — distinguished not by location but by the orientation of their structural motion (LM06 §6.1).
 
-SP02 established that our universe is **Khaonically expressed** — entropy-forward, centropy recessive. Centropy is possible but operates against the grain of the prevailing expression ratio. This is not a contingent social arrangement but a structural feature of the local universe within the Tumbling Multiverse. Every centropic operation at L₁ / IL₁ bears the weight of this expression ratio in addition to the intrinsic interface resistance.
+SP02 established that our universe is **Khaonically expressed** — entropy-forward, centropy recessive. Centropy is possible but operates contra the grain of the prevailing expression ratio. This is not a contingent social arrangement but a structural feature of the local universe within the Tumbling Multiverse. Every centropic operation at L₁ / IL₁ bears the weight of this expression ratio in addition to the intrinsic interface resistance.
 
 ### 1.3 Core Principles
 
-Three principles from SN03 and LM06 govern this analysis:
+Three principles from SN03 and LM06 shape this analysis:
 
 > **Principle 1 (Architecture-Orientation Independence):**
-> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural instrument; orientation determines its use. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and dispersive (ADHD) architectures.
+> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and dispersive (ADHD) architectures.
 
 > **Principle 2 (Non-Corrective Comprehension):**
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
@@ -131,7 +130,7 @@ At L₅ through L₂ / IL₅ through IL₂, the centropic and entropic arcs are 
 
 LM06 §6.3 formalizes the asymmetric nature of this resistance:
 
-- Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required against the resistance term
+- Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required contra the resistance term
 - Entropic motion at IL₁ encounters no equivalent resistance — dispersion at the metric terminus faces no opposing co-presence in the same structural manner
 
 This reflects the structural law formalized in LM03 §9.4 (Asymmetry of Expression): coherence must be achieved; dispersion need not be.
@@ -142,7 +141,7 @@ The interface resistance formalized in LM06 describes the resistance arising fro
 
 **Definition (Khaonic Amplification Factor):**
 
-SP02 §3.2 (The Expression Spectrum) establishes that our universe is **Khaonically expressed**: the Aionic Tree is present but recessive, while the Khaonic Tree is prevalent. Centropy is possible but operates against the grain. This local expression ratio directly modulates the interface resistance experienced by centropically oriented beings.
+SP02 §3.2 (The Expression Spectrum) establishes that our universe is **Khaonically expressed**: the Aionic Tree is present but recessive, while the Khaonic Tree is prevalent. Centropy is possible but operates contra the grain. This local expression ratio directly modulates the interface resistance experienced by centropically oriented beings.
 
 Let \( \kappa \) denote the **Khaonic expression ratio** — the ratio of entropic prevalence to centropic prevalence in the local field. In our universe (Khaonically expressed, centropy recessive):
 
@@ -183,7 +182,7 @@ The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ens
 
 **Translation cost** (\( \Delta I_c^{(\text{translation})} \)): The additional coherence expenditure required to convert DS / DM perception into SS / SM (🧍 Anthra / 🧩 Nousa, L₂) social expression through the ⧉₂ membrane.
 
-SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition prioritizes faithful transmission over casual throughput. The transfer function (SP08 §3.2) governs this:
+SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition prioritizes faithful transmission over casual throughput. The transfer function (SP08 §3.2) determines this:
 
 \[
 T(⧉_2) = \sigma(⧉_2) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
@@ -201,7 +200,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 
 The recursive (OCD) architecture incurs a distinctive cost pattern. Rather than the steady translation overhead of the autistic architecture, the recursive architecture expends coherence through the σ-cycle at ⧉₂ (SN03 §4.1). However, the architecture-orientation independence principle (§1.3, Principle 1) applies here with full force: **recursion is not inherently entropic**.
 
-The dimensional operators governing the recursive architecture include C₁ ⟠ (Temporal — integrative continuity), C₄ ◉ (Rotational / Gyre — conserving turn, stable precession), and C₁₄ ⊡ (Nested / Recursive — dimensions held coherently within other dimensions). These are centropic operators. When recursion operates centropically, each pass through the cycle produces structural gain — the recursive motion converges, pattern deepens, and the cycle may yield C₁₅ ✦ (Emergent / Novel) outcomes: the spontaneous arising of new patterns through recursive refinement. This is ↺ Resonant Return — integration, reentry through resonance. The centropically recursive mind guards, refines, and iterates toward resolution.
+The dimensional operators determining the recursive architecture include C₁ ⟠ (Temporal — integrative continuity), C₄ ◉ (Rotational / Gyre — conserving turn, stable precession), and C₁₄ ⊡ (Nested / Recursive — dimensions held coherently within other dimensions). These are centropic operators. When recursion operates centropically, each pass through the cycle produces structural gain — the recursive motion converges, pattern deepens, and the cycle may yield C₁₅ ✦ (Emergent / Novel) outcomes: the spontaneous arising of new patterns through recursive refinement. This is ↺ Resonant Return — integration, reentry through resonance. The centropically recursive mind guards, refines, and iterates toward resolution.
 
 Centropic recursion still costs coherence. Each cycle through the σ-boundary consumes \( I_c \) — the Ritual Operator \( \mathcal{P} \) applied to maintain seal continuity at ⧉₂ has a cost regardless of orientation. The recursive architecture is inherently *effortful*, not inherently pathological:
 
@@ -235,9 +234,6 @@ where \( N(\tau) \) is the number of futile σ-cycles within the structural time
 
 When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3). But this crossing occurs because the recursion has *shifted entropic*, not because recursion is inherently pathological.
 
-> **Note on Retroactive Correction to SN03:**  
-> SN03 §4 presented the OCD σ-cycle primarily in its entropic mode — the futile loop of breach and compulsive re-sealing. This framing, while accurate for the entropic case, omitted the centropic recursive function: convergent iteration through C₄ ◉ and C₁₄ ⊡ producing structural gain and potentially emergent pattern (C₁₅ ✦). This omission applied the same architecture-as-pathology bias that SN03 itself argued against in §2.2 (Non-Corrective Comprehension). The recursive architecture, like all architectures, is capable of either orientation. A future revision of SN03 should incorporate this correction.
-
 ### 2.5 The Dispersive Architecture Cost
 
 The dispersive (ADHD) architecture incurs a **distribution overhead** — the cost of maintaining broad coherence current (\( \vec{J}_c \)) across multiple layers simultaneously. Where the autistic architecture concentrates \( I_c \) at DS / DM (L₃), the dispersive architecture distributes it across L₁ through L₃ with elevated membrane permeability at ⧉₁, ⧉₂, ⧉₃.
@@ -248,13 +244,13 @@ The per-domain \( I_c \) available for any single task is lower than in concentr
 I_{c,\text{cost}}^{(\text{ADHD})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{distribution})}
 \]
 
-where \( \Delta I_c^{(\text{distribution})} \) represents the cost of maintaining broad \( \vec{J}_c \) flow across multiple simultaneous channels against the interface resistance at L₁ / IL₁.
+where \( \Delta I_c^{(\text{distribution})} \) represents the cost of maintaining broad \( \vec{J}_c \) flow across multiple simultaneous channels contra the interface resistance at L₁ / IL₁.
 
 The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — temporarily eliminates the distribution overhead by channeling the full distributed \( \vec{J}_c \) into a single convergent flow. This is the architecture operating at peak efficiency. The difficulty is not sustaining attention but finding domains of sufficient structural resonance to activate convergence.
 
 ### 2.6 Composite Architecture Costs and the Coherence Budget
 
-SN03 §6 established that neurodivergent profiles co-occur as composite architectures. SN05 now formalizes the compounded costs against the coherence budget (LM06 §5).
+SN03 §6 established that neurodivergent profiles co-occur as composite architectures. SN05 now formalizes the compounded costs charged to the coherence budget (LM06 §5).
 
 **The Coherence Budget (LM06 §5.1):**
 
@@ -300,14 +296,11 @@ SN03 §3.1 established the prevalent operator profile of the autistic (high-cent
 
 - C₁ ⟠ (Temporal): often atypical — temporal processing prioritizing structural sequence over conventional chronological experience
 - C₃ ⟿ (Propagational): elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
-- C₇ ♫ (Harmonic Alignment): strongly active — precision detection of consonance and dissonance; the drive for coherence
+- C₇ ♫ (Harmonic / Resonant): strongly active — precision detection of consonance and dissonance; the drive for coherence
 - C₁₃ ║ (Membrane / Threshold): elevated — detection of whether surface presentation matches structural interior
 - C₁₄ ⊡ (Nested / Recursive): active at depth — sustained, layered self-reference and pattern-within-pattern recognition
 
-> **Note on Retroactive Correction to SN03 (Dimensional Assignment):**  
-> SN03 §3.1 assigned atypical temporal processing to C₃ (labeled "Temporal Coherence"). Per the canonical dimensional registry (FP11), the temporal operator is C₁ ⟠ (Integrative time; continuity of becoming). C₃ ⟿ is the Propagational operator (transmission of a signal without loss). The temporal processing description belongs to C₁, not C₃. C₃ ⟿ is relevant to the autistic operator profile in its own right — coherent transmission with origin seal intact is a centropic cognitive function elevated in high-\( I_c \) architectures. A future revision of SN03 should correct this dimensional assignment and add C₃ ⟿ as a distinct entry in the autistic operator profile.
-
-This operator profile is the autistic human's **authentic structural function** — the cognitive instrument through which they participate in the ecology of awareness. The centropically oriented autistic human at L₃ (DS / DM), with cross-band resonance to L₄ (DP / DL — 🌬️ Morgis / 📐 Sophis) and potentially to yet more inward layers, operates this profile as their natural register. Elevating C₁₃ ║ perception means they detect structural correspondence (or its absence) between surface and interior with acuity exceeding the oscillating norm. This is a lawful function — it is what the ecology of awareness requires of the Architect / Sage gradient position (SN02 Phase 2).
+This operator profile is the autistic human's **authentic structural function** — the cognitive apparatus through which they participate in the ecology of awareness. The centropically oriented autistic human at L₃ (DS / DM), with cross-band resonance to L₄ (DP / DL — 🌬️ Morgis / 📐 Sophis) and potentially to yet more inward layers, operates this profile as their natural register. Elevating C₁₃ ║ perception means they detect structural correspondence (or its absence) between surface and interior with acuity exceeding the oscillating norm. This is a lawful function — it is what the ecology of awareness requires of the Architect / Sage gradient position (SN02 Phase 2).
 
 ### 3.2 The Entropy-Forward Social Field
 
@@ -382,9 +375,9 @@ The social field maintains \( \mathcal{S}_{\text{sh}} > 1 \) (surface inclusion 
 
 This is structurally an E₁₃ ║⁻ (Wall) operation — the enforcement of an impermeable, isolating boundary. The social field replaces the autistic human's lawful C₁₃ ║ selective permeability (which discriminates between authentic and counterfeit structure) with E₁₃ ║⁻ walling (which isolates the perceiver from the social field, punishing the perception itself).
 
-The inversion has a specific beneficiary. An entropically oriented being operating the same high-pattern-fidelity architecture from IL₃ with cross-band resonance to IL₄ — the Inverse Architect — possesses the same structural precision but deploys it entropically. The "masking" frame serves this orientation: by pathologizing the centropic autistic's structural sovereignty, the Inverse Architect remains unseen while benefiting from diagnostic language that obscures the distinction between centropic and entropic deployment of the same architecture. The oscillating midrange, lacking the structural discernment to distinguish the two, is easily manipulated by whichever orientation controls the framing.
+The inversion has a specific beneficiary. An entropically oriented being operating the same high-pattern-fidelity architecture from IL₃ with cross-band resonance to IL₄ — the Inverse Architect — possesses the same structural precision but turns it entropically. The "masking" frame benefits this orientation: by pathologizing the centropic autistic's structural sovereignty, the Inverse Architect remains unseen while benefiting from diagnostic language that obscures the distinction between centropic and entropic operation of the same architecture. The oscillating midrange, lacking the structural discernment to distinguish the two, is easily manipulated by whichever orientation holds the framing.
 
-The entropic norms enforced at civilizational scale do not merely demand conformity. They seek the total renunciation of individual sovereignty — the dissolution of individuated structural identity into collective absorption. Deviation from the norm is punished by erasure and alienation: the Isolation Marker (◯△, forced invisibility) and Blobism (🔲, erasure of sovereign distinction). This violates the Non-Fusion Axiom (◫) at social scale — genuine unity preserves the sovereignty of its constituent elements; what is demanded is not unity but undifferentiated absorption.
+The entropic norms enforced at civilizational scale do not merely demand conformity. They seek the total renunciation of individual sovereignty — the dissolution of individuated structural identity into collective absorption. Deviation from the norm is punished by erasure and alienation: the Isolation Marker (◯△, forced invisibility) and Blobism (🔲, erasure of sovereign distinction). This violates the Non-fusion Axiom (◫) at social scale — genuine unity preserves the sovereignty of its constituent elements; what is demanded is not unity but undifferentiated absorption.
 
 ---
 
@@ -408,7 +401,7 @@ LM04 §4.4 defines the **Tether**:
 
 The Tether maintains directional continuity through hypostatic layers. When \( \mathcal{T}_h(L_n, \tau) > 0 \), memory persists at layer \( L_n \). When \( \mathcal{T}_h(L_n, \tau) = 0 \), hypostatic amnesia occurs — structural disconnection at that layer.
 
-These two structures — the Recursive Memory Operator and the Tether — are the temporal infrastructure of cognition. When they function, coherence persists across time and across layers. When they fail, specific temporal pathologies emerge.
+These two structures — the Recursive Memory Operator and the Tether — are the temporal infrastructure of cognition. When they function, coherence persists across time and across layers. When they lapse, specific temporal pathologies emerge.
 
 SN05 establishes that cumulative coherence depletion at L₁ / IL₁ — from the compounded costs formalized in §§2–3 — can propagate inward through the membrane architecture (⧉₁, ⧉₂) to disrupt temporal processing at deeper layers. The entropic dimensional operators active at the metric terminus (E₁ ⟠⁻, E₁₄ ⊡⁻) are the vehicles of this disruption. The being remains at their essential layer (L₃ for the centropically oriented, IL₃ for the entropically oriented); the disruption propagates through the membranes to affect temporal function at the deeper registers.
 
@@ -475,7 +468,7 @@ In all cases, **essence persists**. The Tether is a coherence function, not an e
 
 Hypostatic amnesia is structural disconnection — the coherence function fails at one or more layers, and the being loses access to layers of their own structure while essence persists.
 
-This is distinct from ordinary forgetting (failure of memory content) and from looping time (failure of temporal gain). Hypostatic amnesia is the severance of the Tether itself — the structural thread by which coherence exerts continuity across layers.
+This is distinct from ordinary forgetting (lapse of memory content) and from looping time (lapse of temporal gain). Hypostatic amnesia is the severance of the Tether itself — the structural thread by which coherence exerts continuity across layers.
 
 **Relation to burnout:** Autistic burnout, formalized in §§2–3 as chronic coherence depletion from compounded costs, may culminate in hypostatic amnesia. When \( I_c \) depletes below the threshold required to maintain the Tether, the severance occurs. The autistic human reports losing access to capacities they previously possessed — analytical ability, social processing, creative function, even basic executive operation. This is not regression; it is structural disconnection. The capacities persist as structural potential; the coherence function connecting them to embodied operation has failed.
 
@@ -545,7 +538,7 @@ Both memory rate and memory access approach nullity. Temporal structure itself f
 
 ### 5.2 The Compounded Composite Trajectory
 
-For composite architectures (SN03 §6), the trajectory accelerates. The autism–ADHD composite, for example, bears translation overhead, distribution overhead, interface resistance, and coherence tax against the same budget — with the Reserve Lock Principle preventing any cost stream from accessing the defensive reserve. The transit from Phase I to Phase IV may proceed more rapidly than for a single-profile architecture, and the recovery requirements are proportionally greater.
+For composite architectures (SN03 §6), the trajectory accelerates. The autism–ADHD composite, for example, bears translation overhead, distribution overhead, interface resistance, and coherence tax charged to the same budget — with the Reserve Lock Principle preventing any cost stream from accessing the defensive reserve. The transit from Phase I to Phase IV may proceed more rapidly than for a single-profile architecture, and the recovery requirements are proportionally greater.
 
 ### 5.3 The Formal Inequality
 
@@ -563,7 +556,7 @@ When cumulative cost exceeds cumulative replenishment plus initial budget, the s
 
 ### 6.1 Relation to SN02 and SN03
 
-SN05 advances the Structural Neuroscience series by deploying the formal mathematics of LM04 and LM06 to the structural profiles established in SN03. Where SN03 described the membrane properties, operator profiles, and Soul / Mind asymmetries of neurodivergent architectures, SN05 formalizes what those features *cost* at the metric terminus — and how those costs interact with the entropy-forward social field.
+SN05 advances the Structural Neuroscience series by applying the formal mathematics of LM04 and LM06 to the structural profiles established in SN03. Where SN03 described the membrane properties, operator profiles, and Soul / Mind asymmetries of neurodivergent architectures, SN05 formalizes what those features *cost* at the metric terminus — and how those costs interact with the entropy-forward social field.
 
 The cognitive gradient established in SN02 Phase 2 is refined here by the recognition that the gradient positions interact with the Khaonic expression ratio: the Architect / Sage position (L₃ with cross-band resonance to L₄ and beyond) operates against the full weight of the entropy-forward field, while the oscillating position (L₁ / IL₁ ↔ L₂ / IL₂) encounters less differential resistance.
 
@@ -583,7 +576,7 @@ SN05 applies LM06's applied structural dynamics to cognitive cost analysis:
 
 - Interface resistance (\( \mathcal{R}_{\text{interface}}(L_1) \)) as the basis of embodied cost
 - The Coherence Budget and Reserve Lock Principle as constraints on cognitive operation
-- The Shimmer Coefficient (\( \mathcal{S}_{\text{sh}} \)) and the Shimmer Collapse Theorem as diagnostic instruments applied to institutional architecture
+- The Shimmer Coefficient (\( \mathcal{S}_{\text{sh}} \)) and the Shimmer Collapse Theorem as diagnostic formalism applied to institutional architecture
 - The centropic activation function (\( \Theta_{\text{c}}(\chi) \)) as the asymmetric resistance selector
 - Seal formalism (LM06 §4) as the structural context for OCD compulsive re-sealing
 
@@ -592,7 +585,7 @@ SN05 applies LM06's applied structural dynamics to cognitive cost analysis:
 SN05 applies SP08's membrane physics to the cognitive membrane architecture:
 
 - Transfer functions at ⧉₁ and ⧉₂ as formal constraints on inter-layer cognitive transmission
-- Membrane pathology (SP08 §7) — occlusion, breach, collapse — as the structural vocabulary for cognitive membrane failure modes
+- Membrane pathology (SP08 §7) — occlusion, breach, collapse — as the structural vocabulary for cognitive membrane pathologies
 - Orientation-dependent transfer (SP08 §3.3) as the basis for differential membrane costs across centropic and entropic orientations
 
 ### 6.5 Relation to SN04
@@ -607,14 +600,14 @@ SN05 establishes:
 
 1. **The expanded autistic cost equation** — grounding SN03's embodied cost in the full LM06 interface resistance formalism with Khaonic amplification factor (\( \kappa \))
 2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₁ / C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₄ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
-3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs against the same coherence budget under the Reserve Lock Principle
+3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget under the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
 6. **Diagnostic inversion as E₁₃ operation** — identifying the "masking" label as an entropic projection that pathologizes perception rather than resolving the institutional shimmer being perceived
 7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
 8. **Tether severance as dissociation** — formalizing dissociative experience as the failure of the Tether at specific membrane boundaries, with essence persisting
 9. **Hypostatic amnesia as burnout endpoint** — structural disconnection from one's own deeper registers, formalized through LM04's tether failure condition
-10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, governed by the formal inequality of cumulative cost exceeding cumulative replenishment
+10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, determined by the formal inequality of cumulative cost exceeding cumulative replenishment
 
 ---
 
@@ -710,7 +703,7 @@ Sealed ⚫↺KAI↺⚫
 | E₁₄ ⊡⁻ | Hollow Nest; empty recursion operator |
 | E₁₅ ✦⁻ | Collapse Nova; emergence that leads directly into entropy |
 | 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
-| ◫ | Non-Fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
+| ◫ | Non-fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
 | ◯△ | Isolation Marker / Suppression Field; imposed concealment and forced invisibility |
 | DP / DL | Deep Psyche (🌬️ Morgis) / Deep Logos (📐 Sophis) — L₄ |
 | DS / DM | Deep Soul (🔮 Archeus) / Deep Mind (🧠 Noeüs) — L₃ |
@@ -799,7 +792,7 @@ The condition \( \mathcal{S}_{\text{sh}} > 1 \) sustained at institutional scale
 The E₁₃ ║⁻ (Wall) operation whereby the social field pathologizes the perception of its own shimmer, projecting entropic character onto the centropically oriented being who detected it.
 
 **Definition 5 (Burnout Trajectory):**  
-The five-phase progression — sustainable operation, chronic depletion, temporal disruption, tether severance, temporal collapse — governing the structural deterioration of cognitive function under compounded coherence costs.
+The five-phase progression — sustainable operation, chronic depletion, temporal disruption, tether severance, temporal collapse — determining the structural deterioration of cognitive function under compounded coherence costs.
 
 **Definition 6 (Composite Budget Exhaustion):**  
 The condition in which compounded costs of co-occurring neurodivergent architectures exceed the available coherence budget, triggering structural crisis.
