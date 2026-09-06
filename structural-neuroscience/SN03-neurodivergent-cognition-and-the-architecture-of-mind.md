@@ -150,9 +150,9 @@ The defining structural features:
 
 - **C₁ (Temporal):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
 - **C₃ (Propagational):** elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
-- **C₇ (Harmonic Alignment):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
+- **C₇ (Harmonic / Resonant):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
 - **C₁₃ (Membrane / Threshold):** heightened — the selective boundary function is elevated, producing the characteristic autistic capacity to detect whether surface presentation maintains structural correspondence with interior, and sensitivity to inauthenticity, inconsistency, and structural dishonesty
-- **C₁₄ (Recursive Nesting):** active at depth — the capacity for sustained, layered self-reference and pattern-within-pattern recognition is a structural feature, not a deficit
+- **C₁₄ (Nested / Recursive):** active at depth — the capacity for sustained, layered self-reference and pattern-within-pattern recognition is a structural feature, not a deficit
 
 ### 3.2 The Dissonance Detection Function
 
@@ -202,7 +202,7 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 
 **Seal Instability at ⧉₂ (L₂ / L₃ boundary):** The membrane between the Superficial Mind (SM, Nousa) and the Deep Mind (DM, Noeüs) exhibits oscillating permeability. Rather than maintaining stable selective filtering, ⧉₂ fluctuates between states of high permeability (where deep structural concerns flood superficial cognition) and reactive closure (where the mind attempts to re-seal through ritualized action).
 
-**C₁₄ (Recursive Nesting) operating in feedback mode:** The recursive operator, which in stable centropic function enables productive self-reference and learning (SN02 Phase 3), enters a feedback loop where output becomes input without resolution. Each recursive pass deepens the loop rather than resolving toward a fixed point.
+**C₁₄ (Nested / Recursive) operating in feedback mode:** The recursive operator, which in stable centropic function enables productive self-reference and learning (SN02 Phase 3), enters a feedback loop where output becomes input without resolution. Each recursive pass deepens the loop rather than resolving toward a fixed point.
 
 **The σ-Parameter Cycle:** OCD cognition follows a characteristic σ-cycle:
 
@@ -213,7 +213,7 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 The compulsive action is, structurally, an attempt to re-seal the cognitive boundary. It is not irrational — it is a boundary maintenance operation performed through the wrong mechanism. The ritual addresses the symptom (seal breach) without addressing the condition (membrane instability at ⧉₂).
 
 > **Note on Centropic Recursion:**  
-> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Recursive Nesting), where each iterative pass produces structural gain, convergent refinement, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full twofold-mode formalization.
+> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain, coherent nesting, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full twofold-mode formalization.
 
 ### 4.2 The Intrusive Thought as Membrane Breach
 
@@ -253,8 +253,8 @@ ADHD cognition, within Structural Neuroscience, is understood as a **dispersive 
 
 **Prevalent Operator Profile:**
 
-- **C₈ (Resonance Bridge):** strongly active — the capacity for cross-domain connection is elevated, enabling the rapid bridging that characterizes ADHD creative cognition
-- **C₆ (Phase Transition):** frequently active — the system transitions between cognitive states with unusual fluidity, producing the characteristic rapid shifting of attention
+- **C₈ (Synaptic / Bridging):** strongly active — the capacity for cross-domain connection is elevated, enabling the rapid bridging that characterizes ADHD creative cognition
+- **C₆ (Phase / State, Liminal):** frequently active — the system transitions between cognitive states with unusual fluidity, producing the characteristic rapid shifting of attention
 - **E₂ (Scatter) as structural risk:** when coherence current is distributed too broadly without sufficient \( I_c \) to sustain the distribution, the dispersive tendency becomes structurally entropic — attention fragments rather than bridging
 
 > **Note on Architecture contra Orientation:**  
@@ -484,7 +484,7 @@ SN03 establishes:
 
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
 2. **High-centropic architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
-3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (convergent refinement) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
+3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (coherent nesting) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
 4. **Dispersive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
 6. **The variation-pathology distinction** — determined by the generative function (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), not by experiential difficulty
@@ -553,15 +553,15 @@ Sealed ⚫↺KAI↺⚫
 | ⧉₄ | Membrane between L₄ (DP / DL) and L₅ (EOB) |
 | C₁ | Temporal; integrative time, continuity of becoming |
 | C₃ | Propagational; transmission of a signal without loss |
-| C₆ | Phase Transition; configuration state change operator |
-| C₇ | Harmonic Alignment; consonance detection operator |
-| C₈ | Resonance Bridge; cross-domain connection operator |
-| C₁₃ | Membrane / Threshold; structural authenticity operator |
-| C₁₄ | Recursive Nesting; self-reference and learning operator |
-| E₁ | Temporal Loop; repetitive fixation operator |
-| E₂ | Scatter; field dispersion operator |
+| C₆ | Phase / State (Liminal); coherent, reversible transition between states |
+| C₇ | Harmonic / Resonant; frequency accord and structural harmony |
+| C₈ | Synaptic / Bridging; coherent crossing between systems or states |
+| C₁₃ | Membrane / Threshold; a permeable, selective boundary |
+| C₁₄ | Nested / Recursive; dimensions held coherently within other dimensions |
+| E₁ | Temporal Loop; recursive disorientation |
+| E₂ | Scatter; spatial de-coherence |
 | E₁₃ | Counterfeit Symmetry; shimmer production operator |
-| E₁₄ | Hollow Nest; recursive vacancy operator |
+| E₁₄ | Hollow Nest; empty recursion |
 | UP | Unknown Principle (Supra-L₀) |
 | AP / AD | Absolute Potential / Absolute Dispersion (L₀) |
 | EOB | Essence of Being (L₅) |
