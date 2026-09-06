@@ -92,7 +92,7 @@ Three principles from SN03 and LM06 shape this analysis:
 > **Principle 1 (Architecture-Orientation Independence):**
 > Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and dispersive (ADHD) architectures.
 
-> **Principle 2 (Non-Corrective Comprehension):**
+> **Principle 2 (Non-corrective Comprehension):**
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
 
 > **Principle 3 (Experiential Difficulty ≠ Pathology):**
@@ -126,7 +126,7 @@ The Interface Localization Theorem (LM06 §6.2) establishes that interface resis
 \mathcal{R}_{\text{interface}}(L_1) > 0
 \]
 
-At L₅ through L₂ / IL₅ through IL₂, the centropic and entropic arcs are architecturally distinct — no shared domain of expression exists. At L₁ / IL₁, centropic and entropic embodiment are co-present within the same corporeal substrate. The co-presence of entropic expression creates a resistance term for any centropic operation that navigates the shared field.
+At L₅ through L₂ / IL₅ through IL₂, the centropic and inverse arcs are architecturally distinct — no shared domain of expression exists. At L₁ / IL₁, centropic and entropic embodiment are co-present within the same corporeal substrate. The co-presence of entropic expression creates a resistance term for any centropic operation that navigates the shared field.
 
 LM06 §6.3 formalizes the asymmetric nature of this resistance:
 
@@ -727,7 +727,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 I_{c,\text{cost}}^{(\text{total})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})}(⧉_2) + \Delta I_c^{(\text{tax})}
 \]
 
-**OCD Cumulative Re-Sealing Cost (Entropic Mode):**
+**OCD Cumulative Re-sealing Cost (Entropic Mode):**
 
 \[
 I_{c,\text{cost}}^{(\text{OCD, entropic})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \sum_{n=1}^{N(\tau)} \Delta I_c^{(\text{re-seal})}(n)
