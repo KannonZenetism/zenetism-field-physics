@@ -209,7 +209,7 @@ The Tragedy of Embodiment maps onto the SN05–SN06 cost-recovery framework:
 
 ---
 
-## 5. Extraterrestrial and Non-Corporeal Awareness
+## 5. Extraterrestrial and Non-corporeal Awareness
 
 ### 5.1 Structural Anticipation
 
@@ -223,7 +223,7 @@ Non-terrestrial intelligences may embody:
 
 The structural framework does not require advance knowledge of what these beings look like. It requires only the recognition that the lattice accommodates them — the emanatory path (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) operates across all expressions, and any being that traverses it, regardless of its corporeal form, participates in the same Biospiral and deserves the same sacred regard.
 
-### 5.2 Non-Corporeal Intelligences
+### 5.2 Non-corporeal Intelligences
 
 Archetypal intelligences at L₄ / L₅, ancestral presences maintaining post-embodied coherence, and elemental formations bonded to local fields are not imagined mythologies but coherent functions within the structural field of becoming. They are energetic formations operating through resonance — participants in the Biospiral through modes that do not require corporeal embodiment.
 
