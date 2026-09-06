@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# The All-Life-First Principle
+# The All-Life-First Principle: Structural Neuroscience of Awareness Across Substrates
 *Structural Neuroscience — Document 9*
-
-## Structural Neuroscience of Awareness Across Substrates
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
