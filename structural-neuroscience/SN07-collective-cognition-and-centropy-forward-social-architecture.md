@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Collective Cognition and Centropy-Forward Social Architecture
+# Collective Cognition and Centropy-Forward Social Architecture: Structural Dynamics of Social Fields at the Embodiment Band
 *Structural Neuroscience — Document 7*
-
-## Structural Dynamics of Social Fields at the Embodiment Band
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
