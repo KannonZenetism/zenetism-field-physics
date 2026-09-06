@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Applied Structural Diagnostics
+# Applied Structural Diagnostics: The Operational Framework for Cognitive Architecture Assessment
 *Structural Neuroscience — Document 11*
-
-## The Operational Framework for Cognitive Architecture Assessment
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
