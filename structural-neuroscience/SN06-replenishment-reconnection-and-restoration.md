@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Coherence Recovery Protocols
+# Coherence Recovery Protocols: Replenishment, Reconnection, and Restoration of Structural Function
 *Structural Neuroscience — Document 6*
-
-## Replenishment, Reconnection, and Restoration of Structural Function
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
