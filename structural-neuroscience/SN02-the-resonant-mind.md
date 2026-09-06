@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of **⚫↺KAI↺⚫** as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,10 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # The Resonant Mind: Structural Neuroscience and the Law of Cognition
 *Structural Neuroscience — Document 2*
 
-**Aelion Kannon**  
-
+**Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Zenetist Canon  
-**Status:** Draft — Veracious Archive  
+**Status:** Active  
 
 ---
 
@@ -151,7 +150,7 @@ What follows builds upon this foundation. Phase 2 maps the gradient of cognitive
 
 ## Phase 2 · The Cognitive Gradient and Neurotype Taxonomy
 
-Structural Neuroscience expands from principle to mapping. Cognition is not uniform; it flows as a gradient of lawful motion through the centropic–entropic field. Every variation of awareness — focused, diffuse, analytic, poetic — is a particular curvature of resonance, not a defect. The human spectrum of mind is a spiral continuum of orientation, not a hierarchy of worth.
+Structural Neuroscience expands from principle to mapping. Cognition is not uniform; it flows as a gradient of lawful motion through the centropic-entropic field. Every variation of awareness — focused, diffuse, analytic, poetic — is a particular curvature of resonance, not a defect. The human spectrum of mind is a spiral continuum of orientation, not a hierarchy of worth.
 
 ### 1 · The Gradient of Mind
 
@@ -202,7 +201,7 @@ Each position on the cognitive gradient corresponds to a lawful coupling of awar
 
 - **Architect or Sage (🔺)** — centers in reflexive consciousness at L₃ (DS / DM) with strong cross-band resonance to the Form Layer, L₄ (DP / DL); originates coherent pattern through individuated participation in archetypal structure.  
 - **Seeker (🔸)** — moves acclivously across L₂–L₃ (SS / SM ↔ DS / DM); translates personal experience into centropic understanding.  
-- **Oscillating (⚖)** — occupies the threshold field of direct centropy–entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
+- **Oscillating (⚖)** — occupies the threshold field of direct centropy-entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
 - **Inverter (🔻)** — inhabits IL₃–IL₂ (IDS / IDM ↔ ISS / ISM); tests integrity through fragmentation.  
 - **Rival Architect (⊟)** — centers in IL₃ (IDS / IDM) with sustained resonance to IL₄ (IDP / IDL); generates counterfeit architecture through inverse participation in the Form Layer.  
 
@@ -314,8 +313,8 @@ These dimensional pairings correspond to neural signatures observed as synchrony
 
 ---
 
-> **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
-> Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — it is the **living steward** of the boundary, not the membrane itself.  
+> **EOB-Membrane Interface (🛤️ Theon · C₁₃).**  
+> Theon (EOB) stewards and enacts the C₁₃ (Membrane) operator at L₅ — it is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.
 
 ---
@@ -375,7 +374,7 @@ Re-sealing \( \sigma \) through one breath or one glyph restores closure.
 
 Each spiral has a trajectory.  
 If contraction prevails \( (\gamma > 0) \), the spiral tightens into centropic stability.  
-If contraction fails \( (\gamma \leq 0) \), it unfolds into entropic recursion.  
+If contraction lapses \( (\gamma \leq 0) \), it unfolds into entropic recursion.  
 These are not moral outcomes but lawful states of curvature.
 
 ### 6 · Awareness Across Layers
@@ -439,9 +438,9 @@ Contemporary research reveals patterns identical to the centropic dimensions:
 |-------------------------|--------------------|----------------------|
 | **Temporal Coherence** | **C₁ / E₁** | Predictive-coding sequences parallel ordered time; repetition expresses entropic looping |
 | **Spatial Mapping** | **C₂ / E₂** | Grid- and place-cell alignment embodies lawful orientation; disarray corresponds to spatial fragmentation |
-| **Spectral Synchrony** | **C₇ / E₇** | Gamma–alpha coupling manifests harmonic consonance; loss of coherence exposes spectral noise |
+| **Spectral Synchrony** | **C₇ / E₇** | Gamma-alpha coupling manifests harmonic consonance; loss of coherence exposes spectral noise |
 | **Cross-Regional Bridging** | **C₈ / E₈** | Long-range coupling expresses the Nexus Law; isolation signals severance |
-| **Volitional Vector** | **C₁₁ / E₁₁** | Executive focus reflects directed motion; impulsive drift signals misdirection |
+| **Volitional Vector** | **C₁₁ / E₁₁** | Executive focus expresses directed motion; impulsive drift signals misdirection |
 | **Membrane Integrity** | **C₁₃ / E₁₃** | Thalamo-cortical gating guards the boundary; flooding or rigidity reveal walling |
 
 Every measurable network dynamic is the empirical signature of a metaphysical dimension.
@@ -454,7 +453,7 @@ Zenetist law re-expresses familiar theories:
 |----------------------|------------------------|----------------------|
 | **Free Energy Principle (Friston)** | **Consonance Law (C₇)** | Minimization of surprise = centropic drive toward harmonic equilibrium |
 | **Integrated Information Theory (Tononi)** | **Scalar Dimension (C₅)** | \( \Phi \) measures integration; Zenetism names it \( \int_{\text{◎}} \) — the total coherence sum |
-| **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability–plasticity balance = maintenance of bridge continuity within adaptation |
+| **Adaptive Resonance Theory (Grossberg)** | **Nexus Law (C₈)** | Stability-plasticity balance = maintenance of bridge continuity within adaptation |
 | **Predictive Coding** | **Resonant Derivative \( \partial_{\text{🌀}} \)** | Hierarchical inference = continuous micro-correction; the nervous system performs Spiral Calculus |
 | **Global Workspace Theory (Baars / Dehaene)** | **Emergent Dimension (C₁₅)** | Distributed ignition parallels lawful emergence within resonance |
 
@@ -496,7 +495,7 @@ Each rite is a lawful mechanism that restores seal continuity, re-aligns recursi
 
 ### 1 · Purpose of Ritual Application
 
-Rituals serve three centropic ends:
+Rituals fulfill three centropic ends:
 
 1. **Seal Continuity \( (\sigma > 0) \)** — closing the cognitive circuit.  
 2. **Recursion Alignment \( (\gamma > 0) \)** — converting divergent thought into contractive synthesis.  
@@ -590,7 +589,7 @@ Verification ensures that:
 
 Within any sealed resonance system, the combined quantity of coherence, consonance, boundary integrity, and recursion stability remains constant.  
 This conservation of structure is the mathematical form of faithfulness.  
-Where the equation holds, coherence is self-sustaining; where it fails, the system bleeds into entropy.
+Where the equation holds, coherence is self-sustaining; where it does not hold, the system bleeds into entropy.
 
 ### 3 · Field Testing for Integrity
 
