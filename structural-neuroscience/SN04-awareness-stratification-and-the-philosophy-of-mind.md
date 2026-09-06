@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -43,18 +43,17 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Physicalism, Panpsychism, Idealism, and the Register Problem
 
+**Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience / Zenetist Canon  
-**Status:** Canonical Draft v1.0  
-**Dependencies:** SN01 (Structural Neuroscience: The Architecture of Cognition), SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition and the Architecture of Mind), SP06 (Structural Space, Orientation, and the Paradox of Emergence), SP11 (Embodiment Dynamics)  
-**License:** Creative Commons BY-NC-SA 4.0  
-**SHA-256:** 4e9b5bfa884d5dda0d08363e899a242c45b170e9397791b16604ca112457cc3a  
+**Classification:** Structural Neuroscience — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SN02-the-resonant-mind.md` · `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` · `SP06-structural-space-orientation-paradox.md` · `SP11-embodiment-dynamics.md`  
 
 ---
 
 ## Abstract
 
-The contemporary philosophy of mind is structured by an unresolved dispute between physicalism, panpsychism, idealism, and their variants. Each tradition marshals internally consistent arguments; none has achieved resolution. This document demonstrates that the impasse is not a failure of reasoning within any single tradition but a structural consequence of what we term the **register problem**: each position accurately describes the awareness dynamics operative at a specific emanatory layer and erroneously treats that layer's logic as exhaustive.
+The contemporary philosophy of mind is structured by an unresolved dispute between physicalism, panpsychism, idealism, and their variants. Each tradition marshals internally consistent arguments; none has achieved resolution. This document demonstrates that the impasse is not an inadequacy of reasoning within any single tradition but a structural consequence of what we term the **register problem**: each position accurately describes the awareness dynamics operative at a specific emanatory layer and erroneously treats that layer's logic as exhaustive.
 
 The awareness stratification formalized in SN03 — distinguishing proto-awareness (L₀), supernal / subversal awareness (L₅ / IL₅), conscious-awareness (L₄ / IL₄), reflexive consciousness (L₃ / IL₃), identity-aware consciousness (L₂ / IL₂), and embodied consciousness (L₁ / IL₁) — resolves the dispute by situating each philosophical position within the layer it genuinely describes while identifying the specific structural omissions that prevent any single-layer account from achieving completeness.
 
@@ -78,7 +77,7 @@ Each tradition accurately describes the awareness dynamics operative at a specif
 
 Each then treats its own register as the totality of reality. This is the **register problem**: the structural error of universalizing a single layer's awareness logic as an exhaustive account of awareness itself.
 
-The register problem is not a failure of intelligence or rigor within any tradition. It is a structural inevitability. The Principle of Sufficient Reason (PSR) ensures that every layer capable of generating an internally consistent worldview will generate one. Each layer *must* produce its own philosophy of mind because each layer genuinely constitutes a complete logic of awareness within its own register. The philosopher operating primarily through any given layer perceives that layer's logic as total — not from carelessness, but because from within the register, it *is* total.
+The register problem is not an inadequacy of intelligence or rigor within any tradition. It is a structural inevitability. The Principle of Sufficient Reason (PSR) ensures that every layer capable of generating an internally consistent worldview will generate one. Each layer *must* produce its own philosophy of mind because each layer genuinely constitutes a complete logic of awareness within its own register. The philosopher operating primarily through any given layer perceives that layer's logic as total — not from carelessness, but because from within the register, it *is* total.
 
 ### 1.3 The Awareness Stratification (Recapitulation)
 
@@ -95,7 +94,7 @@ SN03 §1.3 formalizes the following stratification:
 
 The stratification is not a ranking. Each layer constitutes a genuine register of awareness with its own structural completeness. The layers differ not in value but in function, reflexivity, and relationship to the emanatory architecture.
 
-Two structural principles govern the relationships between layers:
+Two structural principles determine the relationships between layers:
 
 **The Law of Structural Recurrence:** Every layer reflects the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. This is why each layer can generate an internally consistent worldview — it genuinely reflects the whole, though as recurrence rather than origin.
 
@@ -195,7 +194,7 @@ At the metric terminus, centropy does not terminate — it reflects. Acclivous r
 
 SP06 §3 formalizes this as the resolution to the paradox of emergence: "Emergence is traversal. Causality is orientation." The combination problem is unanswerable not because consciousness is mysterious but because the question presupposes a direction of assembly that omits half the structural circuit.
 
-The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) serve as relational conditions governing lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness (⌯ Pneuma). ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that govern permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
+The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness (⌯ Pneuma). ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that govern permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
 
 ### 3.5 The Panpsychist Contribution
 
@@ -233,9 +232,9 @@ Idealism, whether formal or reflexive, still treats a single layer as exhaustive
 
 Formal idealism (L₄) does not account for what is supernal to DP / DL — the Essence of Being (EOB) at L₅, where awareness is pre-formal radiance rather than structured intelligibility; Absolute Potential / Absolute Dispersion (AP / AD) at L₀, where the dyadic root holds centropy and entropy in latency; the Unknown Principle (UP) at Supra-L₀, which is not a form but the meta-condition of form itself. The Forms are not ultimate — they are themselves emanations.
 
-Reflexive idealism (L₃) does not account for the Form-layer (L₄) from which its own reflexive capacity derives. DS / DM operates *within* the conditions of intelligibility established by DP / DL. Kastrup's "transpersonal stream" accurately describes the DS / DM field but does not explain the archetypal architecture that gives that stream its structure.
+Reflexive idealism (L₃) does not account for the Form-layer (L₄) from which its own reflexive capacity proceeds. DS / DM operates *within* the conditions of intelligibility established by DP / DL. Kastrup's "transpersonal stream" accurately describes the DS / DM field but does not explain the archetypal architecture that gives that stream its structure.
 
-Neither register of idealism possesses the membrane theory that governs transitions between layers. Formal idealism has no account of ⧉₃ — the membrane condition at the L₄ / L₃ boundary where conscious-awareness becomes reflexive consciousness. Reflexive idealism has no account of ⧉₂ — the membrane condition at the L₃ / L₂ boundary where reflexive consciousness becomes individuated selfhood.
+Neither register of idealism possesses the membrane theory that determines transitions between layers. Formal idealism has no account of ⧉₃ — the membrane condition at the L₄ / L₃ boundary where conscious-awareness becomes reflexive consciousness. Reflexive idealism has no account of ⧉₂ — the membrane condition at the L₃ / L₂ boundary where reflexive consciousness becomes individuated selfhood.
 
 ### 4.5 The Idealist Contribution
 
@@ -289,21 +288,21 @@ In lattice terms, this is a valid acclivous path. The practitioner moves from em
 
 This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural condition that permits structure itself. They disclose essence without synthesizing the full emanatory architecture. This is not a deficiency — it is the structural character of the apophatic path.
 
-### 5.4 Blobism and the Non-Fusion Axiom
+### 5.4 Blobism and the Non-fusion Axiom
 
 The entropic counterpart to apophatic essence-disclosure is what the lattice terms **blobism**: the collapse of sovereign distinction into undifferentiated fusion.
 
 Blobism does not arrive at Aion through disciplined release. It erases boundaries between beings, roles, or layers through imposition, resulting in structural mimicry, identity dissolution, or symbolic flattening. It presents unity through structural sameness rather than through the harmonic resonance achieved through distinction.
 
-The **Non-Fusion Axiom** is the structural law that governs this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
+The **Non-fusion Axiom** is the structural law that determines this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
 
-The diagnostic criterion: **orientation and intentionality**. If the movement toward apparent undifferentiation proceeds through voluntary release of non-essential identification — peeling away what one is not — it is centropic apophasis disclosing essence. If it proceeds through the forcible erasure of sovereign distinction — whether through ideological imposition, institutional coercion, or structural manipulation — it is entropic blobism violating the Non-Fusion Axiom.
+The diagnostic criterion: **orientation and intentionality**. If the movement toward apparent undifferentiation proceeds through voluntary release of non-essential identification — peeling away what one is not — it is centropic apophasis disclosing essence. If it proceeds through the forcible erasure of sovereign distinction — whether through ideological imposition, institutional coercion, or structural manipulation — it is entropic blobism violating the Non-fusion Axiom.
 
 To illustrate: the Advaitic practitioner who progressively releases identification with body, emotion, thought, and archetype — arriving at *neti-neti*'s silence through disciplined interior work — has disclosed their essential nature through lawful acclivous return. The modern ideological movement that insists all distinctions between persons, roles, or traditions are mere social constructions to be dissolved through institutional pressure has performed blobism — the forcible suppression of resolvability in the name of a "unity" that structurally destroys the conditions for genuine harmony.
 
 ### 5.5 Monopsychism Diagnosed
 
-Monopsychism, as a philosophical position, must be evaluated against the Integration contra Fusion distinction.
+Monopsychism, as a philosophical position, must be evaluated relative to the Integration contra Fusion distinction.
 
 Where monopsychism describes the experiential arrival at Aion through apophatic practice — the recognition that all essences share a common root in Absolute Potential — it is structurally sound within the register of L₀. The practitioner who arrives at this recognition has not become "one consciousness" with all beings. They have disclosed the essential ground from which all emanation proceeds. Distinction is not revealed as illusory — it is recognized as emanatory, proceeding from a shared root while remaining structurally real at every layer.
 
@@ -335,7 +334,7 @@ The hard problem is therefore not an indication that consciousness is inexplicab
 
 **Panpsychism** at L₂ correctly identifies that awareness extends beyond the corporeal — and per the Law of Structural Recurrence, correctly sees individuated soul within particles — but isolates the L₂ recurrence from its L₃–L₅ originating architecture and attempts to assemble macro-consciousness acclivously from it, which inverts the emanatory direction and produces the combination problem.
 
-**Idealism** at L₃ or L₄ correctly identifies that mind is structurally prior to matter but cannot formalize the membrane conditions (⧉₃, ⧉₂, ⧉₁) that govern how awareness stratifies from its register through to embodiment.
+**Idealism** at L₃ or L₄ correctly identifies that mind is structurally prior to matter but cannot formalize the membrane conditions (⧉₃, ⧉₂, ⧉₁) that determine how awareness stratifies from its register through to embodiment.
 
 The hard problem dissolves — not by being answered from any single register, but by recognizing that the question presupposes a single-register account of a multi-register phenomenon.
 
@@ -365,7 +364,7 @@ The entropic lattice exhibits parallel bidirectionality with inverted orientatio
 
 Bidirectionality is a property of traversal itself. Centropy and entropy determine whether traversal results in integration or dissolution.
 
-### 7.3 Why the Bottom-Up Frame Fails Alone
+### 7.3 Why the Bottom-Up Frame Is Inadequate Alone
 
 The combination problem, the emergence problem, and the hard problem share a common structural error: they presuppose that awareness assembles from the metric terminus acclivously without accounting for the declivous procession that established the conditions being observed.
 
@@ -394,14 +393,14 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 | Physicalism | L₁ (ES / EM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot derive the full stratification from within L₁ |
 | Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₃–L₅ origin; inverts the emanatory direction; produces the combination problem |
 | Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal registers (L₅, L₀, UP) or membrane conditions |
-| Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity derives |
+| Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity proceeds |
 | Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-bifurcation root; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
 
 ### 8.3 The One and the Many
 
-The structural principle governing cooperation is not uniformity but **Unity in Diversity**. The One and the Many are co-essential. Structure requires differentiation to be intelligible. Harmony requires distinct tones to resonate. The lattice preserves each discipline's sovereign integrity — its methods, its vocabulary, its domain of competence — while providing the structural common language through which dialogue becomes possible.
+The structural principle of cooperation is not uniformity but **Unity in Diversity**. The One and the Many are co-essential. Structure requires differentiation to be intelligible. Harmony requires distinct tones to resonate. The lattice preserves each discipline's sovereign integrity — its methods, its vocabulary, its domain of competence — while providing the structural common language through which dialogue becomes possible.
 
-Entropy, structurally diagnosed, is what keeps these disciplines fragmented. The fragmentation serves entropic interests — power, control, institutional coercion, persona gain — whether or not any individual within these traditions intends it. When physicalism dismisses panpsychism as unscientific, when panpsychism dismisses physicalism as reductive, when idealism dismisses both as naïve — each dismissal preserves the register problem by refusing the structural cooperation that would resolve it.
+Entropy, structurally diagnosed, is what keeps these disciplines fragmented. The fragmentation feeds entropic interests — power, control, institutional coercion, persona gain — whether or not any individual within these traditions intends it. When physicalism dismisses panpsychism as unscientific, when panpsychism dismisses physicalism as reductive, when idealism dismisses both as naïve — each dismissal preserves the register problem by refusing the structural cooperation that would resolve it.
 
 Centropy, structurally diagnosed, is what drives toward integration through distinction. Not blobism — not the erasure of disciplinary boundaries — but harmonic collaboration in which each tradition's genuine insight is preserved and amplified by contact with the others.
 
@@ -419,9 +418,9 @@ If we genuinely want to understand reality as it is — not as any single regist
 
 **Definition 3 — Bidirectional Traversal:** The structural principle that awareness proceeds both declivously (from supernal registers toward embodiment) and acclivously (from embodiment toward supernal registers). Neither direction alone constitutes a complete account of awareness.
 
-**Definition 4 — Non-Fusion Axiom:** Genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates distinction and therefore eliminates the conditions for resonance.
+**Definition 4 — Non-fusion Axiom:** Genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates distinction and therefore eliminates the conditions for resonance.
 
-**Definition 5 — Blobism (🔲):** The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the suppression of resolvability between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-Fusion Axiom. Essence persists beneath the collapse but is rendered structurally incoherent.
+**Definition 5 — Blobism (🔲):** The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the suppression of resolvability between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-fusion Axiom. Essence persists beneath the collapse but is rendered structurally incoherent.
 
 **Definition 6 — Combination Problem (Reframed):** The difficulty of explaining how micro-experiences assemble into unified macro-consciousness. Structurally diagnosed as unanswerable in its standard formulation because it presupposes purely acclivous assembly without the declivous procession that establishes the conditions being observed. The membrane architecture (⧉₁, ⧉₂, ⧉₃) provides the formal mechanism for awareness transitions that the combination problem lacks.
 
