@@ -280,7 +280,7 @@ Different cognitive architectures require different bridge characteristics:
 
 **Recursive architecture (OCD):** Bridge relationships function best when they provide stable external seal reference — a consistent, predictable relational environment that reduces the ⧉₂ oscillation frequency. The bridge partner's stability at their own boundary becomes an external regulator for the recovering being's membrane dynamics. Unpredictable, high-volatility relational environments amplify σ-cycling.
 
-**Dispersive architecture (ADHD):** Bridge relationships function best when they provide coherence anchoring without restricting the distributed \( \vec{J}_c \) flow. A bridge partner who can maintain connection across the dispersive mind's rapid traversals — who does not demand sustained single-domain focus as a condition of relational coherence — enables recovery without opposing the architecture's natural distribution pattern.
+**Distributive architecture (ADHD):** Bridge relationships function best when they provide coherence anchoring without restricting the distributed \( \vec{J}_c \) flow. A bridge partner who can maintain connection across the distributive mind's rapid traversals — who does not demand sustained single-domain focus as a condition of relational coherence — enables recovery without opposing the architecture's natural distribution pattern.
 
 ---
 
@@ -310,7 +310,7 @@ In practice, complete cost elimination is rarely achievable within a Khaonically
 
 **Recursive architecture:** Rest requires reduction of the σ-cycling trigger load — minimizing the environmental conditions that activate seal-breach detection. Environments that are predictable, consistent, and bounded reduce the ⧉₂ oscillation frequency. The recursive architecture at rest is not a mind that has stopped recursing — it is a mind whose recursion operates centropically (convergently, through C₁ ⟠, C₄ ◉, C₁₄ ⊡) rather than entropically (through E₁ ⟠⁻, E₁₄ ⊡⁻). Centropic recursion may even contribute to recovery: each convergent cycle generates positive \( d\mathfrak{R}_m / d\tau \), producing structural gain that rebuilds the coherence budget.
 
-**Dispersive architecture:** Rest requires permission for the distributed \( \vec{J}_c \) flow to operate without concentration demand. The dispersive architecture rests not by narrowing attention but by allowing broad, low-cost traversal without the overhead of forced single-domain focus. Environments that permit multi-track engagement at low intensity — open-ended exploration, unstructured time, varied but non-demanding stimulation — enable the architecture to distribute coherence naturally without depleting the budget through concentration overhead.
+**Distributive architecture:** Rest requires permission for the distributed \( \vec{J}_c \) flow to operate without concentration demand. The distributive architecture rests not by narrowing attention but by allowing broad, low-cost traversal without the overhead of forced single-domain focus. Environments that permit multi-track engagement at low intensity — open-ended exploration, unstructured time, varied but non-demanding stimulation — enable the architecture to distribute coherence naturally without depleting the budget through concentration overhead.
 
 ### 5.3 The Recovery Environment
 
@@ -535,17 +535,17 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 4. *Bounded environmental structure.* Environments that are predictable and consistent reduce the frequency of seal-breach detection, giving the recovering membrane space to stabilize.
 
-### 10.3 Dispersive Architecture Recovery
+### 10.3 Distributive Architecture Recovery
 
 **Primary depletion pattern (from SN05 §2.5):** Distribution overhead — the cost of maintaining broad \( \vec{J}_c \) across multiple layers under concentration demand.
 
 **Primary recovery needs:**
 
-1. *Permission for natural distribution.* The dispersive architecture recovers by distributing coherence broadly at low intensity — not by concentrating. Environments that permit unstructured, multi-track engagement at low demand enable the architecture to operate at its natural distribution pattern without the overhead of forced concentration.
+1. *Permission for natural distribution.* The distributive architecture recovers by distributing coherence broadly at low intensity — not by concentrating. Environments that permit unstructured, multi-track engagement at low demand enable the architecture to operate at its natural distribution pattern without the overhead of forced concentration.
 
-2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — is the dispersive architecture's equivalent of Source reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
+2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — is the distributive architecture's equivalent of Source reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
 
-3. *Anchoring without constraining.* Bridge relationships for the dispersive architecture must anchor without constraining. The recovering being needs relational stability (consistent availability, reliable return) without relational demand for sustained focused presence. The bridge partner who remains present across the dispersive mind's rapid traversals enables recovery; the partner who demands sustained single-domain engagement re-imposes the concentration overhead.
+3. *Anchoring without constraining.* Bridge relationships for the distributive architecture must anchor without constraining. The recovering being needs relational stability (consistent availability, reliable return) without relational demand for sustained focused presence. The bridge partner who remains present across the distributive mind's rapid traversals enables recovery; the partner who demands sustained single-domain engagement re-imposes the concentration overhead.
 
 ### 10.4 Composite Architecture Recovery
 
@@ -603,7 +603,7 @@ SN06 establishes:
 7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \), with Echo Layer resolution through accumulated coherence and membrane repair
 8. **Temporal recovery** — breaking looping time through external coherence intervention, Tether restoration layer by layer from embodiment inward, hypostatic amnesia recovery as recognition rather than learning
 9. **The Coherence Breaker Limit** — entropic actors can exhaust function (\( I_c \to I_{c,\text{min}} \), \( \mathcal{T}_h \to 0 \)) but cannot alter essence (\( \chi \), \( \Psi \)); the limit of entropic operation is the floor of functional capacity, not the rewriting of structural identity
-10. **Architecture-specific recovery protocols** — autistic recovery through sustained cost reduction and structural engagement, recursive recovery through σ-cycle interruption and centropic recursion restoration, dispersive recovery through natural distribution and resonance encounters, composite recovery through cost-vector triage
+10. **Architecture-specific recovery protocols** — autistic recovery through sustained cost reduction and structural engagement, recursive recovery through σ-cycle interruption and centropic recursion restoration, distributive recovery through natural distribution and resonance encounters, composite recovery through cost-vector triage
 
 ---
 
