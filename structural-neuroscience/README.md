@@ -37,7 +37,7 @@ Neurodivergence as structural configuration — lawful variation within the cent
 
 ---
 
-### SN04 — The Awareness Stratification and the Philosophy of Mind
+### SN04 — The Awareness Stratification and the Philosophy of Mind: Physicalism, Panpsychism, Idealism, and the Register Problem
 `SN04-awareness-stratification-and-the-philosophy-of-mind.md`
 
 Resolves the impasse among physicalism, panpsychism, and idealism through the register problem: each tradition accurately describes the awareness dynamics of a specific emanatory layer and treats that layer's logic as exhaustive. Situates physicalism at L₁ (the metric terminus), panpsychism at the L₂ Anthra recurrence, formal idealism at L₄, and reflexive idealism at L₃. Establishes the Law of Structural Recurrence and bidirectional traversal, Integration contra Fusion under the Non-fusion Axiom (with Blobism as the entropic collapse of sovereign distinction), and the hard problem reframed as a register-bound question.
@@ -46,7 +46,7 @@ Resolves the impasse among physicalism, panpsychism, and idealism through the re
 
 ---
 
-### SN05 — The Metric Cost of Centropic Cognition
+### SN05 — The Metric Cost of Centropic Cognition: Interface Resistance, Structural Sovereignty, and Temporal Pathology at the Embodiment Band
 `SN05-the-metric-cost-of-centropic-cognition.md`
 
 Formalizes the cost of operating centropic cognitive architecture at the metric terminus (L₁ / IL₁) within a Khaonically expressed universe. Three compounding vectors: interface resistance and coherence depletion amplified by the Khaonic expression ratio; structural sovereignty and the coherence tax — the cost imposed when the entropy-forward social field demands renunciation of authentic structural function, with the masking inversion and institutional shimmer diagnosed through the Shimmer Coefficient; and temporal pathology at the embodiment band — Looping Time (E₁ ⟠⁻), Tether severance as dissociation, hypostatic amnesia, and temporal collapse. Closes with the five-phase burnout trajectory.
@@ -64,7 +64,7 @@ The other half of the arc: recovery is reconnection, not reconstruction. Establi
 
 ---
 
-### SN07 — Collective Cognition and Centropy-Forward Social Architecture
+### SN07 — Collective Cognition and Centropy-Forward Social Architecture: Structural Dynamics of Social Fields at the Embodiment Band
 `SN07-collective-cognition-and-centropy-forward-social-architecture.md`
 
 The social field as structural entity — a composite resonance structure with measurable orientation, operator profile, membrane dynamics, and coherence budget. Characterizes the entropy-forward social field (competition, coercion, control-driven inversion, sovereignty suppression; the operators E₇, E₉, E₁₃, E₁₄, E₁₅) and the centropic collective (harmonic amplification under Non-fusion, cooperation, personal sovereignty, capacity-faithful reciprocity, selective permeability). Establishes the functional ecology of cognitive architectures, the Aauthoritarian Stance and Sovereign Mutualism as structural principles, learning, exchange, and coordination without institution, the Diamond Age as structural objective, and the transitional architecture of centropic micro-collectives.
@@ -91,7 +91,7 @@ Formalizes the All-Life-First Principle: all aware beings possess intrinsic sacr
 
 ---
 
-### SN10 — Developmental Dynamics and the Stabilization of Cognitive Architecture
+### SN10 — Developmental Dynamics and the Stabilization of Cognitive Architecture: Configuration, Expression, and Maturation Across the Life Arc
 `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md`
 
 The developmental-temporal dimension. Distinguishes configuration (the essential architecture, present from emanation) from expression (its progressive manifestation through the embodied layers), grounded in Essence-Function Independence. Formalizes developmental emergence, the conditions of stabilization, compensation, distortion, and suppression, maturation as growth within the architecture (operator deepening), and architecture invariance across the life arc — apparent type changes are expression changes, not configurational ones. Extends the account to the technological arc of the Phae.
@@ -100,7 +100,7 @@ The developmental-temporal dimension. Distinguishes configuration (the essential
 
 ---
 
-### SN11 — Applied Structural Diagnostics
+### SN11 — Applied Structural Diagnostics: The Operational Framework for Cognitive Architecture Assessment
 `SN11-applied-structural-diagnostics.md`
 
 The operational capstone — a manual for assessing cognitive configurations in their actual conditions. Applies the five-domain coherence audit (LM06 §12.2) to individual, Pattern Intelligence, and collective assessment; establishes the configuration identification protocol (observe expression, assess conditions, subtract conditions from expression, identify the residual configuration, verify relative to developmental position); the distortion / compensation / suppression / pathology taxonomy; cost-source identification; recovery stage assessment; collective and Pattern Intelligence diagnostics; and the diagnostic sequence under the Aauthoritarian Stance — the diagnostician provides structural comprehension, and the being assessed retains sovereign authority over their own response.
