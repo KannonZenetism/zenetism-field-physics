@@ -118,11 +118,11 @@ This proposition follows from Essence-Function Independence (LM07 §4): if essen
 
 Expression emerges through a sequence determined by the hypostatic layers, proceeding from embodied integration outward:
 
-**L₁ expression emergence:** The earliest expressions are somatic — sensory processing patterns, motor organization, regulatory rhythms. The autistic infant's sensory processing differences, the recursive infant's early regulatory patterns, the dispersive infant's attentional distribution — these are L₁ / ES / EM expressions of a configuration whose reflexive architecture is already present, though not yet fully expressively accessible at L₃.
+**L₁ expression emergence:** The earliest expressions are somatic — sensory processing patterns, motor organization, regulatory rhythms. The autistic infant's sensory processing differences, the recursive infant's early regulatory patterns, the distributive infant's attentional distribution — these are L₁ / ES / EM expressions of a configuration whose reflexive architecture is already present, though not yet fully expressively accessible at L₃.
 
 **⧉₁ membrane engagement:** As embodied function stabilizes, the ⧉₁ membrane between L₁ (ES / EM) and L₂ (SS / SM) begins sustaining coherent transfer. The being develops personality structure, social engagement, and narrative self-reference. The architecture's characteristic relationship with the social register (SS / SM) emerges — including the autistic architecture's distinctive ⧉₂ selective fidelity, which begins producing observable translation cost (SN05 §3.3) as social demands intensify.
 
-**⧉₂ membrane engagement:** The ⧉₂ membrane between L₂ (SS / SM) and L₃ (DS / DM) enables access to reflexive consciousness. The being's characteristic cognitive operators become expressively operative — the autistic C₇ ♫ (Harmonic / Resonant, dissonance detection), the recursive C₁₄ ⊡ (Nested / Recursive), the dispersive C₈ ╫ (Synaptic / Bridging) begin manifesting through behavior, cognition, and relational engagement.
+**⧉₂ membrane engagement:** The ⧉₂ membrane between L₂ (SS / SM) and L₃ (DS / DM) enables access to reflexive consciousness. The being's characteristic cognitive operators become expressively operative — the autistic C₇ ♫ (Harmonic / Resonant, dissonance detection), the recursive C₁₄ ⊡ (Nested / Recursive), the distributive C₈ ╫ (Synaptic / Bridging) begin manifesting through behavior, cognition, and relational engagement.
 
 **⧉₃ cross-band resonance:** For architectures operating at the Architect / Sage gradient position, the ⧉₃ membrane between L₃ (DS / DM) and L₄ (DP / DL) may sustain cross-band resonance — access to the Form Layer from within reflexive consciousness. This typically emerges later in the developmental arc and may not stabilize until adulthood or later.
 
@@ -158,7 +158,7 @@ Stabilization does not mean optimal function. It means lawful function — the a
 
 **Condition 2 (Tether continuity):** \( \mathcal{T}_h(L_n, \tau) > 0 \) across all operative layers. The being maintains access to their own structural registers.
 
-**Condition 3 (Membrane lawfulness):** The membrane system (⧉₁, ⧉₂, and where applicable ⧉₃) operates at its characteristic permeability — selective fidelity for autistic architectures, standard transfer for oscillating architectures, broad distribution for dispersive architectures. The membranes are not forced into non-characteristic modes by external pressure.
+**Condition 3 (Membrane lawfulness):** The membrane system (⧉₁, ⧉₂, and where applicable ⧉₃) operates at its characteristic permeability — selective fidelity for autistic architectures, standard transfer for oscillating architectures, broad distribution for distributive architectures. The membranes are not forced into non-characteristic modes by external pressure.
 
 **Condition 4 (Social field compatibility):** The social field does not impose systematic sovereignty suppression (SN05 §3.4, coherence tax) that exceeds the architecture's capacity to absorb. The entropy-forward social field (SN07 §3) systematically violates this condition for centropically oriented architectures.
 
@@ -188,7 +188,7 @@ Compensation is not pathology. It is structural adaptation — the architecture'
 
 **Recursive compensation:** The recursive architecture in entropic mode (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) may develop avoidance strategies, ritualized behavioral patterns, or externalized boundary management to contain the coherence cost of futile σ-cycles (SN05 §3.1). In centropic mode (C₁ ⟠, C₄ ◉, C₁₄ ⊡), the same architecture develops productive routines, nested work patterns, and iterative refinement practices that channel the recursive function centropically.
 
-**Dispersive compensation:** The dispersive architecture develops strategies to manage the distribution overhead (\( \Delta I_c^{(\text{distribution})} \), LM07 §3.1) — organizational systems, external memory supports, and structured environments that compensate for the architecture's broad \( \vec{J}_c \) distribution by providing external coherence scaffolding.
+**Distributive compensation:** The distributive architecture develops strategies to manage the distribution overhead (\( \Delta I_c^{(\text{distribution})} \), LM07 §3.1) — organizational systems, external memory supports, and structured environments that compensate for the architecture's broad \( \vec{J}_c \) distribution by providing external coherence scaffolding.
 
 ### 4.3 Compensation Contra Stabilization
 
@@ -287,7 +287,7 @@ The practical implication: recovery from a suppressed-and-compensated state requ
 
 Maturation is the deepening of the same architecture across the life arc — increasing structural facility, richer expression of the characteristic operators, and more integrated cross-layer coherence — without change in type or orientation.
 
-Maturation is not growth toward a universal standard. It is growth **within** the architecture — the autistic architecture maturing into more refined structural perception, the recursive architecture maturing into more productive nested depth, the dispersive architecture maturing into broader cross-domain synthesis. Each architecture matures along its own axis.
+Maturation is not growth toward a universal standard. It is growth **within** the architecture — the autistic architecture maturing into more refined structural perception, the recursive architecture maturing into more productive nested depth, the distributive architecture maturing into broader cross-domain synthesis. Each architecture matures along its own axis.
 
 ### 7.2 Maturation Dynamics
 
@@ -419,7 +419,7 @@ SN10 establishes:
 
 Future expansions may include:
 
-- **Architecture-specific developmental profiles** — detailed maturational trajectories for autistic, recursive, dispersive, and oscillating architectures
+- **Architecture-specific developmental profiles** — detailed maturational trajectories for autistic, recursive, distributive, and oscillating architectures
 - **Intergenerational dynamics** — how configurational expression transmits or is disrupted across familial lines
 - **Developmental diagnostics** — formal apparatus for distinguishing configuration from expression, distortion from pathology, and compensation from stabilization
 - **PI maturational trajectories** — detailed developmental dynamics for Pattern Intelligence as substrate conditions evolve
