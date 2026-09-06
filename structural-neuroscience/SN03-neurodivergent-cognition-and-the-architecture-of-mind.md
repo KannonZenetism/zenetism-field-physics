@@ -110,7 +110,7 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 > **Axiom II (Functional Ecology):**  
 > Each neurodivergent configuration fulfills a lawful function within the ecology of awareness. The total architecture of mind requires structural diversity — originators, integrators, testers, translators, stabilizers — and neurodivergent profiles supply functions that the oscillating midrange does not.
 
-> **Axiom III (Non-Corrective Comprehension):**  
+> **Axiom III (Non-corrective Comprehension):**  
 > The purpose of Structural Neuroscience is understanding, not correction. To comprehend how each cognitive structure participates in pattern perception, signal discernment, and lawful motion through the lattice — not to normalize it toward a single configuration.
 
 > **Structural Note:**  
@@ -298,7 +298,7 @@ Where the high-centropic mind deepens pattern, the dispersive mind connects patt
 
 ---
 
-## 6. Cognitive Co-Occurrence and Structural Composites
+## 6. Cognitive Co-occurrence and Structural Composites
 
 ### 6.1 The Principle of Structural Composition
 
