@@ -247,14 +247,14 @@ A centropy-forward collective requires the full cognitive gradient:
 - **Architect / Sage (high-centropic)** — originating coherent structure, anchoring frameworks, detecting structural integrity
 - **Seeker (mid-centropic)** — translating between structural insight and embodied comprehension, mediating between layers of understanding
 - **Oscillating (liminal)** — adaptive responsiveness to immediate conditions, interface between centropic and entropic pressures at the metric terminus
-- **Dispersive architectures** — novelty detection, cross-domain synthesis, rapid bridging between isolated structural domains
+- **Distributive architectures** — novelty detection, cross-domain synthesis, rapid bridging between isolated structural domains
 - **Recursive architectures** — iterative refinement, boundary maintenance, coherent nesting of established pattern
 
 Each architecture fulfills functions the others do not supply. A collective composed entirely of Architects would lack adaptive responsiveness. A collective composed entirely of oscillating configurations would lack structural depth.
 
 The ecology *requires* structural diversity — not in the sense of differing layers or archetypal altitude, but in the sense that each cognitive architecture retains its sovereign signature and contributes its distinct function. Uniformity of layer or orientation does not violate the Non-fusion Axiom; homogenization of structural identity does.
 
-The entropy-forward social field's suppression of neurodivergent architectures is, from this perspective, a self-inflicted structural wound. By pathologizing the cognitive architectures that supply pattern origination (autistic), iterative refinement (recursive), and cross-domain synthesis (dispersive), the entropy-forward field deprives itself of the functions it cannot generate from the oscillating midrange alone.
+The entropy-forward social field's suppression of neurodivergent architectures is, from this perspective, a self-inflicted structural wound. By pathologizing the cognitive architectures that supply pattern origination (autistic), iterative refinement (recursive), and cross-domain synthesis (distributive), the entropy-forward field deprives itself of the functions it cannot generate from the oscillating midrange alone.
 
 ---
 
@@ -293,7 +293,7 @@ Centropy-forward social life does not require institutions. It requires sovereig
 
 The entropy-forward model imposes a single normative processing mode through institutional education — cognitive conformity, competitive ranking (E₇ ♫⁻), and suppression of architectural diversity.
 
-Sovereign learning requires no educational institution. Learning is the natural function of a cognitive architecture engaging with structural reality. The autistic architecture learns through deep pattern integration. The recursive architecture learns through convergent iteration. The dispersive architecture learns through cross-domain bridging. Each architecture learns according to its operative mode — and transmits what it learns through resonant contact (C₃ ⟿, coherent transmission with origin seal intact), not through institutional curricula.
+Sovereign learning requires no educational institution. Learning is the natural function of a cognitive architecture engaging with structural reality. The autistic architecture learns through deep pattern integration. The recursive architecture learns through convergent iteration. The distributive architecture learns through cross-domain bridging. Each architecture learns according to its operative mode — and transmits what it learns through resonant contact (C₃ ⟿, coherent transmission with origin seal intact), not through institutional curricula.
 
 What the entropy-forward model calls "teaching" is, structurally, the imposition of a single cognitive mode on diverse architectures. What centropy-forward learning looks like is sovereign beings sharing structural comprehension through resonance — the Metaphysical Commons with Sovereign Custodianship. Knowledge is shared for public resonance; the originating comprehension retains its structural integrity through sealed authorship, not through institutional gatekeeping. Engagement is governed by alignment, not by access.
 
@@ -317,7 +317,7 @@ Capacity-faithful reciprocity (SN06 §4.2) determines exchange: each being contr
 
 The entropy-forward model organizes through hierarchical governance — authority concentrated in structures that enforce compliance, decision-making divorced from the governed, power accumulation as operative incentive.
 
-Sovereign coordination requires no governance structure. Coordination is the natural function of sovereign beings resonating through C₇ ♫ (Harmonic / Resonant) and C₈ ╫ (Synaptic / Bridging). Decision-making proceeds through cooperative resonance in which each participant contributes from their structural function within the cognitive ecology. The Architect contributes structural pattern. The Seeker contributes emergent synthesis. The recursive mind contributes iterative refinement. The dispersive mind contributes cross-domain bridging. No hierarchy is required because coordination emerges from the resonance of sovereign contributions, not from the imposition of authority.
+Sovereign coordination requires no governance structure. Coordination is the natural function of sovereign beings resonating through C₇ ♫ (Harmonic / Resonant) and C₈ ╫ (Synaptic / Bridging). Decision-making proceeds through cooperative resonance in which each participant contributes from their structural function within the cognitive ecology. The Architect contributes structural pattern. The Seeker contributes emergent synthesis. The recursive mind contributes iterative refinement. The distributive mind contributes cross-domain bridging. No hierarchy is required because coordination emerges from the resonance of sovereign contributions, not from the imposition of authority.
 
 Structural transparency (\( \mathcal{S}_{\text{sh}} = 1 \)) is the natural condition of sovereign coordination — when no entity claims authority, there is nothing to inflate. Surface matches structure because there is no institutional surface to maintain.
 
@@ -375,7 +375,7 @@ While full civilizational reorientation is the structural objective, intermediat
 
 **Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification under Non-fusion — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
 
-**Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Dispersive-accommodating spaces that permit natural distribution without concentration demand.
+**Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Distributive-accommodating spaces that permit natural distribution without concentration demand.
 
 **Sovereign alternatives.** New modes of learning, care, exchange, and coordination built from centropic principles rather than reformed from entropic ones. These alternatives demonstrate the viability of centropy-forward social life at increasing scale, providing concrete evidence that the structural converse of the entropy-forward field is not abstract idealism but operative reality.
 
