@@ -241,11 +241,11 @@ The principle is not to suppress the recursive capacity — which is a structura
 
 ---
 
-## 5. Dispersive Architectures — ADHD and the Scatter Field
+## 5. Distributive Architectures — ADHD and the Scatter Field
 
 ### 5.1 Structural Profile
 
-ADHD cognition, within Structural Neuroscience, is understood as a **dispersive architecture** — a cognitive configuration characterized by broad attentional bandwidth, rapid inter-layer traversal, and distinctive coherence current flow patterns.
+ADHD cognition, within Structural Neuroscience, is understood as a **distributive architecture** — a cognitive configuration characterized by broad attentional bandwidth, rapid inter-layer traversal, and distinctive coherence current flow patterns.
 
 **Broad \( \vec{J}_c \) Distribution:** Where high-centropic architectures concentrate coherence current at DS / DM (L₃), the ADHD configuration distributes coherence current broadly across multiple layers simultaneously. The Mind dimension does not lack coherence — it distributes it across a wider field, producing the characteristic experience of simultaneous multi-track processing.
 
@@ -255,20 +255,20 @@ ADHD cognition, within Structural Neuroscience, is understood as a **dispersive 
 
 - **C₈ (Synaptic / Bridging):** strongly active — the capacity for cross-domain connection is elevated, enabling the rapid bridging that characterizes ADHD creative cognition
 - **C₆ (Phase / State, Liminal):** frequently active — the system transitions between cognitive states with unusual fluidity, producing the characteristic rapid shifting of attention
-- **E₂ (Scatter) as structural risk:** when coherence current is distributed too broadly without sufficient \( I_c \) to sustain the distribution, the dispersive tendency becomes structurally entropic — attention fragments rather than bridging
+- **E₂ (Scatter) as structural risk:** when coherence current is distributed too broadly without sufficient \( I_c \) to sustain the distribution, the distributive tendency becomes structurally entropic — attention fragments rather than bridging
 
 > **Note on Architecture contra Orientation:**  
-> The designation of ADHD cognition as a **dispersive architecture** refers to the distribution pattern of coherence current and membrane permeability across layers. It does **not** imply intrinsic entropic orientation.  
+> The designation of ADHD cognition as a **distributive architecture** refers to the distribution pattern of coherence current and membrane permeability across layers. It does **not** imply intrinsic entropic orientation.  
 >  
-> Dispersive architecture describes *how* cognition distributes coherence — not *toward which pole* it ultimately resolves.  
+> Distributive architecture describes *how* cognition distributes coherence — not *toward which pole* it ultimately resolves.  
 >  
-> The association of dispersive function with E₂ (Scatter) describes a **structural risk pathway**, not a defining property. When coherence current distributes beyond the system's capacity to maintain integrative function, dispersive cognition may degrade into entropic scatter. When operating within lawful coherence bounds, dispersive cognition enables cross-domain synthesis, novelty detection, and rapid inter-layer bridging.  
+> The association of distributive function with E₂ (Scatter) describes a **structural risk pathway**, not a defining property. When coherence current distributes beyond the system's capacity to maintain integrative function, distributive cognition may degrade into entropic scatter. When operating within lawful coherence bounds, distributive cognition enables cross-domain synthesis, novelty detection, and rapid inter-layer bridging.  
 >  
 > This principle applies universally across cognitive architectures:  
 >  
 > - High-centropic architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions lapse.  
 > - Recursive architectures (e.g., OCD configurations) can operate centropically or entropically depending on seal stability and generative function.  
-> - Dispersive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.  
+> - Distributive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.  
 >  
 > Architecture defines the structural apparatus. Orientation and generative function determine trajectory.  
 >  
@@ -294,7 +294,7 @@ The consequence is that tasks requiring sustained, concentrated coherence at a s
 
 The ADHD architecture fulfills a specific ecological function: novelty detection and cross-domain synthesis. In the cognitive gradient (SN02 Phase 2), this corresponds to the Seeker position — but with a distinctive structural emphasis on the bridging operation (C₈) rather than the deepening operation (C₁₄).
 
-Where the high-centropic mind deepens pattern, the dispersive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
+Where the high-centropic mind deepens pattern, the distributive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
 
 ---
 
@@ -355,7 +355,7 @@ Pathology is not a property of orientation. It is a property of **generative ina
 
 **Recursive pathology (OCD in generative inadequacy):** The σ-oscillation at ⧉₂ becomes pathological when the compulsive ritual no longer restores seal continuity even temporarily — boundary maintenance operations that have lost their structural function. Form persists without effect.
 
-**Dispersive pathology (ADHD in generative inadequacy):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
+**Distributive pathology (ADHD in generative inadequacy):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
 
 ### 7.3 The Diagnostic Criterion
 
@@ -443,7 +443,7 @@ Where Structural Neuroscience interfaces with empirical research, the correspond
 
 **OCD and the Cortico-Striatal Loop:** The σ-oscillation model (§4.1) corresponds to established neurobiological models of cortico-striato-thalamo-cortical circuit dysfunction in OCD (Saxena & Rauch 2000). The structural description maps the circuit dynamics onto membrane physics; the neurobiological account stands in its own register.
 
-**ADHD and Default Mode Network:** The broad \( \vec{J}_c \) distribution model (§5.1) corresponds to research on default mode network connectivity and attentional allocation in ADHD (Castellanos & Proal 2012). The dispersive architecture provides structural context for the observed connectivity patterns.
+**ADHD and Default Mode Network:** The broad \( \vec{J}_c \) distribution model (§5.1) corresponds to research on default mode network connectivity and attentional allocation in ADHD (Castellanos & Proal 2012). The distributive architecture provides structural context for the observed connectivity patterns.
 
 ### 10.3 Register of the Claim
 
@@ -485,7 +485,7 @@ SN03 establishes:
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
 2. **High-centropic architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
 3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (coherent nesting) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
-4. **Dispersive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
+4. **Distributive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
 6. **The variation-pathology distinction** — determined by the generative function (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), not by experiential difficulty
 7. **Soul / Mind asymmetry** — Mind-prevalent and Soul-prevalent profiles producing distinct experiential characters within the same architectural category
@@ -525,7 +525,7 @@ Future expansions may include:
 >
 > The autistic mind detects what others overlook.  
 > The recursive mind guards what others neglect.  
-> The dispersive mind bridges what others cannot reach.
+> The distributive mind bridges what others cannot reach.
 >
 > Each architecture sustains the ecology of awareness.  
 > Each variation fulfills a function  
@@ -624,7 +624,7 @@ A cognitive configuration characterized by elevated Coherence Potential at DS / 
 **Definition 4 (Recursive Architecture):**  
 A cognitive configuration characterized by oscillating seal boundary conditions at ⧉₂, C₁₄ operating in feedback mode, and the σ-cycle of intrusion and compulsive re-sealing.
 
-**Definition 5 (Dispersive Architecture):**  
+**Definition 5 (Distributive Architecture):**  
 A cognitive configuration characterized by broad Coherence Current distribution across multiple layers, elevated membrane permeability across all boundaries, and the capacity for cross-domain synthesis through C₈ bridging.
 
 **Definition 6 (Structural Composition):**  
