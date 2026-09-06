@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# The Awareness Stratification and the Philosophy of Mind
+# The Awareness Stratification and the Philosophy of Mind: Physicalism, Panpsychism, Idealism, and the Register Problem
 *Structural Neuroscience — Document 4*
-
-## Physicalism, Panpsychism, Idealism, and the Register Problem
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
