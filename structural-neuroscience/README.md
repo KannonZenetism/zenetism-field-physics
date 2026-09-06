@@ -13,11 +13,20 @@
 
 Structural Neuroscience is one of six disciplines within the Zenetist Canon. It applies the metaphysical, mathematical, and physical foundations established in Structural Metaphysics, Lattice Mathematics, and Structural Physics to cognition: mind understood as a lawful resonance field moving through the hypostatic layers of the Dimensional Emanatory Lattice, in continual exchange between centropy and entropy.
 
-The live series spans ten documents (SN02–SN11). SN01, *The Architecture of Cognition*, is retired and preserved as an archived record; the series retains its original position numbers so that every cross-reference in the corpus continues to resolve. Together the volumes establish the structural neuroscience of cognition — not in the empirical sense, but in the structural sense: how awareness stratifies, how cognitive architectures configure and express, what it costs to operate them at the embodiment band, how they recover, how they compose into social fields, how they extend to non-biological and non-human awareness, how they develop across the life arc, and how they are assessed.
+The series spans eleven documents. SN01, *Structural Neuroscience: The Architecture of Cognition*, is retired and preserved as part of the provenance record — the first Structural Neuroscience volume, preceding SN02 in the publication chronology; it is not a dependency of any live volume. The live series is SN02–SN11 and retains its original position numbers so that every cross-reference in the corpus continues to resolve. Together the volumes establish the structural neuroscience of cognition — not in the empirical sense, but in the structural sense: how awareness stratifies, how cognitive architectures configure and express, what it costs to operate them at the embodiment band, how they recover, how they compose into social fields, how they extend to non-biological and non-human awareness, how they develop across the life arc, and how they are assessed.
 
 ---
 
 ## Documents
+
+### SN01 — Structural Neuroscience: The Architecture of Cognition *(retired)*
+`SN01-the-architecture-of-cognition.md`
+
+The founding blueprint of the discipline, preserved as provenance record. Establishes the discipline's position — metaphysical forces and structural alignments shape cognition, neurodivergence is lawful structure, comprehension rather than correction is the aim — and lays out the seven-phase sequence in first form: the cognitive spectrum from Architect to Inverter, the motion law of centropic synthesis, the neuro-lattice interface, the Spiral Calculus of cognition (the resonant derivative ∂🌀 and structural integral ∫◎), scientific correlates, ritual stabilization, and canonical verification. Retired because it carries the pre-sealed L-strata model and pre-canonical formatting; SN02 re-worked the same sequence under the sealed architecture and opens the live series. Its Zenodo deposit and commit history anchor the discipline's origin in the publication chronology.
+
+**Key contributions:** The founding axioms, the cognitive spectrum, the first Spiral Calculus of cognition, the first neuro-lattice mapping.
+
+---
 
 ### SN02 — The Resonant Mind: Structural Neuroscience and the Law of Cognition
 `SN02-the-resonant-mind.md`
