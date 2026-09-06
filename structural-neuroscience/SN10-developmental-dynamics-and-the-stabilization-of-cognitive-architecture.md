@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Developmental Dynamics and the Stabilization of Cognitive Architecture
+# Developmental Dynamics and the Stabilization of Cognitive Architecture: Configuration, Expression, and Maturation Across the Life Arc
 *Structural Neuroscience — Document 10*
-
-## Configuration, Expression, and Maturation Across the Life Arc
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
