@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# The Metric Cost of Centropic Cognition
+# The Metric Cost of Centropic Cognition: Interface Resistance, Structural Sovereignty, and Temporal Pathology at the Embodiment Band
 *Structural Neuroscience — Document 5*
-
-## Interface Resistance, Structural Sovereignty, and Temporal Pathology at the Embodiment Band
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
