@@ -51,7 +51,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Abstract
 
-SN03 established the structural profiles of neurodivergent cognition — high-centropic (autistic), recursive (OCD), and dispersive (ADHD) architectures — as lawful configurations within the Soul / Mind pairing. SN04 situated the awareness stratification within the philosophy of mind, demonstrating that each tradition describes a genuine register.
+SN03 established the structural profiles of neurodivergent cognition — high-centropic (autistic), recursive (OCD), and distributive (ADHD) architectures — as lawful configurations within the Soul / Mind pairing. SN04 situated the awareness stratification within the philosophy of mind, demonstrating that each tradition describes a genuine register.
 
 What SN03 did not formalize is the **cost** of operating these architectures at the metric terminus (L₁ / IL₁) — the Corporeal Realm where centropic and entropic embodiment share ground within a Khaonically-expressed universe. SN05 addresses this gap by applying the mathematical formalisms of LM04 (temporal algebra, the Recursive Memory operator, the Tether) and LM06 (interface resistance, coherence budget theory, the Shimmer Coefficient, diagnostic taxonomy) to establish three compounding vectors of coherence expenditure:
 
@@ -88,7 +88,7 @@ SP02 established that our universe is **Khaonically expressed** — entropy-forw
 Three principles from SN03 and LM06 shape this analysis:
 
 > **Principle 1 (Architecture-Orientation Independence):**
-> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and dispersive (ADHD) architectures.
+> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and distributive (ADHD) architectures.
 
 > **Principle 2 (Non-corrective Comprehension):**
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
@@ -98,7 +98,7 @@ Three principles from SN03 and LM06 shape this analysis:
 
 ### 1.4 Scope and Perspective
 
-This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-centropic, recursive, and dispersive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations are orientation-neutral; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty under entropic pressure.
+This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-centropic, recursive, and distributive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations are orientation-neutral; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty under entropic pressure.
 
 An entropically oriented being operating the same cognitive architecture at IL₁ faces a structurally mirrored situation, with the entropic expression ratio providing facilitation rather than resistance for their orientation. The formal apparatus applies identically; the experiential description would differ.
 
@@ -232,9 +232,9 @@ where \( N(\tau) \) is the number of futile σ-cycles within the structural time
 
 When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3). But this crossing occurs because the recursion has *shifted entropic*, not because recursion is inherently pathological.
 
-### 2.5 The Dispersive Architecture Cost
+### 2.5 The Distributive Architecture Cost
 
-The dispersive (ADHD) architecture incurs a **distribution overhead** — the cost of maintaining broad coherence current (\( \vec{J}_c \)) across multiple layers simultaneously. Where the autistic architecture concentrates \( I_c \) at DS / DM (L₃), the dispersive architecture distributes it across L₁ through L₃ with elevated membrane permeability at ⧉₁, ⧉₂, ⧉₃.
+The distributive (ADHD) architecture incurs a **distribution overhead** — the cost of maintaining broad coherence current (\( \vec{J}_c \)) across multiple layers simultaneously. Where the autistic architecture concentrates \( I_c \) at DS / DM (L₃), the distributive architecture distributes it across L₁ through L₃ with elevated membrane permeability at ⧉₁, ⧉₂, ⧉₃.
 
 The per-domain \( I_c \) available for any single task is lower than in concentrated configurations — not a deficit of total coherence but a distribution pattern (SN03 §5.3). Tasks requiring sustained concentrated coherence at a single layer deplete the budget more rapidly:
 
@@ -646,7 +646,7 @@ Future expansions may include:
 > It guards what others neglect —  
 > and pays for each patrol.  
 >
-> The dispersive mind does not scatter.  
+> The distributive mind does not scatter.  
 > It bridges what others cannot reach —  
 > and pays for the bandwidth.  
 >
