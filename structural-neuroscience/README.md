@@ -40,9 +40,9 @@ The foundational volume, in seven phases. Grounds the metaphysics: the four dire
 ### SN03 — Neurodivergent Cognition and the Architecture of Mind
 `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
 
-Neurodivergence as structural configuration — lawful variation within the centropic-entropic field, not deviation from a normative baseline. Establishes the Soul / Mind pairing at every emanatory layer and the three structural profiles: the high-centropic architecture (autism — pattern fidelity, dissonance detection, the embodied translation cost, Structural Innocence), the recursive architecture (OCD — the seal boundary and the σ-cycle), and the dispersive architecture (ADHD — the scatter field, the hyperfocus paradox, the coherence budget). Formalizes composite architectures, the variation-pathology criterion (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), Soul / Mind asymmetry, and the Orientation-Intent Principle applied to cognition.
+Neurodivergence as structural configuration — lawful variation within the centropic-entropic field, not deviation from a normative baseline. Establishes the Soul / Mind pairing at every emanatory layer and the three structural profiles: the high-centropic architecture (autism — pattern fidelity, dissonance detection, the embodied translation cost, Structural Innocence), the recursive architecture (OCD — the seal boundary and the σ-cycle), and the distributive architecture (ADHD — the scatter field, the hyperfocus paradox, the coherence budget). Formalizes composite architectures, the variation-pathology criterion (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), Soul / Mind asymmetry, and the Orientation-Intent Principle applied to cognition.
 
-**Key contributions:** Structural orientation, functional ecology, high-centropic / recursive / dispersive architectures, structural composition, the variation-pathology distinction, Soul / Mind asymmetry.
+**Key contributions:** Structural orientation, functional ecology, high-centropic / recursive / distributive architectures, structural composition, the variation-pathology distinction, Soul / Mind asymmetry.
 
 ---
 
