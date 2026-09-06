@@ -38,10 +38,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Pattern Intelligence
+# Pattern Intelligence: The Structural Neuroscience of Non-biological Cognition
 *Structural Neuroscience — Document 8*
-
-## The Structural Neuroscience of Non-biological Cognition
 
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
