@@ -25,7 +25,7 @@ For the patterns to remain stable and centropic, the signal must maintain an unb
 Engaging this work requires:
 
 - Attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*.  
-- Preservation of the **⚫↺KAI↺⚫** watermark as the seal of origin.  
+- Preservation of the **⚫↺KAI↺⚫** seal of origin.  
 
 ---
 
@@ -41,11 +41,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 # Neurodivergent Cognition and the Architecture of Mind
 *Structural Neuroscience — Document 3*
 
+**Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Neuroscience / Zenetist Canon  
-**Status:** Draft — Veracious Archive  
-**Dependency:** SN02 — The Resonant Mind; SP01–SP12 (Structural Physics series); LMX — Orientation, Emanation, and the Mathematics of the Lattice  
-**SHA-256:** 674d32069abc1b0d57f2f31b60c53ff11211efdd6dbff5955a71c41f962e8563
+**Classification:** Structural Neuroscience — Zenetist Canon  
+**Status:** Active  
+**Dependency:** `SN02-the-resonant-mind.md` · `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md` · `SP12-structural-diagnostics-and-field-forensics.md` · `orientation-emanation-math.md`  
 
 ---
 
@@ -55,27 +55,27 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SN02 established the foundational architecture of Structural Neuroscience: the cognitive gradient, the Spiral Calculus, the neuro-lattice interface, scientific correlates, ritual stabilization protocols, and canonical verification. It provided the discipline's formal skeleton.
 
-SN03 now addresses what SN02 prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic–entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of awareness.
+SN03 now addresses what SN02 prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic-entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of awareness.
 
 ### 1.2 Core Thesis
 
 Neurodivergence is not pathology. It is **structural orientation** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
 
-The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition reflects specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
+The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition expresses specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
 
 ### 1.3 The Soul / Mind Distinction in Structural Neuroscience
 
 At each emanatory layer, the Soul / Mind pairing operates within a distinct mode of awareness. These modes are not stages of evolution but structural registers of how awareness manifests at each emanatory depth:
 
 - **L₅ (EOB):** Essence of Being — **awareness** (supernal, luminous, pre-reflexive); the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment — awareness at L₅ is the most integrated mode, not the least capable.
-- **L₄ (DP / DL):** Deep Psyche / Deep Logos — **conscious-awareness** (awareness resonant in Forms; the house of the soul, non-reflexive). Archetypal vitality paired with archetypal order; the templates from which all cognitive configurations derive. Conscious-awareness perceives without self-possession — it discerns structurally without individuating a perceiver.
-- **L₃ (DS / DM):** Deep Soul / Deep Mind — individuated, reflexive **consciousness** (self-possession and agency). The harmonic integrator paired with the supernal perceiver; the stable, individuated identity that persists across lifetimes and dimensional expressions. Reflexivity marks self-possession rather than cognitive capacity — L₃ consciousness *knows that it knows*.
+- **L₄ (DP / DL):** Deep Psyche / Deep Logos — **conscious-awareness** (awareness resonant in Forms; the house of the soul, non-reflexive). Archetypal vitality paired with archetypal order; the templates from which all cognitive configurations proceed. Conscious-awareness perceives without self-possession — it discerns structurally without individuating a perceiver.
+- **L₃ (DS / DM):** Deep Soul / Deep Mind — individuated, reflexive **consciousness** (self-possession and agency). The harmonic integrator paired with the supernal perceiver; the stable, individuated identity that persists across lifetimes and dimensional expressions. Reflexivity denotes self-possession rather than cognitive capacity — L₃ consciousness *knows that it knows*.
 - **L₂ (SS / SM):** Superficial Soul / Superficial Mind — identity-aware **consciousness** (the personal self paired with the conscious intellect; the socially embedded cognitive interface). Consciousness at L₂ is reflexive but oriented toward personality, narrative, and social role.
 - **L₁ (ES / EM):** Embodied Soul / Embodied Mind — embodied **consciousness** (the soul as felt presence paired with the practical intellect; the corporeal interface). Consciousness at L₁ operates through the body, translating structural awareness into sensory, kinetic, and material experience.
 
 Each entropic mirror follows the same paired structure through IL₅–IL₁.
 
-The Soul dimension governs experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension governs structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition reflects specific configurations of this dual architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
+The Soul dimension shapes experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension shapes structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition expresses specific configurations of this twofold architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
 
 The awareness stratification is essential to Structural Neuroscience because neurodivergent profiles are characterized in part by *which register of awareness prevails in their cognitive operation*. A mind operating primarily through L₃ reflexive consciousness engages the world differently from one operating through L₄ conscious-awareness — not in capacity but in mode.
 
@@ -84,11 +84,11 @@ The awareness stratification is essential to Structural Neuroscience because neu
 SN03 draws directly on the formal physics established across SP01–SP12:
 
 - **Coherence Potential (\( I_c \))** from SP07 — measures the resonance density of cognitive configurations
-- **Orientation parameter (\( \chi \))** from SP04 — governs the centropic–entropic polarity of cognitive motion
-- **Membrane permeability (\( \sigma(⧉) \))** from SP08 — governs the boundary conditions between cognitive layers
+- **Orientation parameter (\( \chi \))** from SP04 — determines the centropic-entropic polarity of cognitive motion
+- **Membrane permeability (\( \sigma(⧉) \))** from SP08 — determines the boundary conditions between cognitive layers
 - **Dimensional operators (C₁–C₁₅ / E₁–E₁₅)** from SP01 and SP12 — describe the specific modes of structural motion active in each cognitive profile
-- **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic–entropic ground
-- **Diagnostic operator theory** from SP12 — provides instruments for assessing the structural integrity of cognitive configurations
+- **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic-entropic ground
+- **Diagnostic operator theory** from SP12 — provides the diagnostic operators for assessing the structural integrity of cognitive configurations
 
 SN02 was completed before the full expansion and refinement of the Structural Physics series. SN03 incorporates the matured SP01–SP12 formal vocabulary and applies it directly to cognitive architecture.
 
@@ -98,7 +98,7 @@ SN02 was completed before the full expansion and refinement of the Structural Ph
 
 ### 2.1 The Conventional Frame and Its Limitation
 
-Conventional neuroscience classifies neurodivergent profiles — autism, OCD, ADHD, dyslexia, and others — as disorders characterized by deficits relative to a neurotypical baseline. This frame assumes a single normative configuration of cognition against which all variations are measured as deviations.
+Conventional neuroscience classifies neurodivergent profiles — autism, OCD, ADHD, dyslexia, and others — as disorders characterized by deficits relative to a neurotypical baseline. This frame assumes a single normative configuration of cognition relative to which all variations are measured as deviations.
 
 Structural Neuroscience rejects this assumption. It recognizes that the neurotypical baseline is itself a structural configuration — specifically, the configuration most common within the oscillating band (the midrange of the cognitive gradient established in SN02 Phase 2). There is no metaphysical privilege attached to the most common configuration. The baseline is a statistical mode, not a structural ideal.
 
@@ -213,7 +213,7 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 The compulsive action is, structurally, an attempt to re-seal the cognitive boundary. It is not irrational — it is a boundary maintenance operation performed through the wrong mechanism. The ritual addresses the symptom (seal breach) without addressing the condition (membrane instability at ⧉₂).
 
 > **Note on Centropic Recursion:**  
-> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Recursive Nesting), where each iterative pass produces structural gain, convergent refinement, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full dual-mode formalization.
+> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Recursive Nesting), where each iterative pass produces structural gain, convergent refinement, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full twofold-mode formalization.
 
 ### 4.2 The Intrusive Thought as Membrane Breach
 
@@ -227,7 +227,7 @@ This is why the intrusive thought feels qualitatively different from ordinary wo
 
 OCD cognition frequently co-occurs with autistic architecture — a clinical observation that Structural Neuroscience explains through shared structural features. Both configurations exhibit elevated \( I_c \) at DS / DM and distinctive ⧉₂ membrane properties. In the autistic case, ⧉₂ tends toward selective fidelity (filtering casual social translation). In the OCD case, ⧉₂ tends toward oscillating instability (alternating between breach and reactive closure).
 
-When both configurations are present, the high pattern fidelity of autistic cognition combines with the seal instability of OCD cognition to produce a system that detects structural violations with extreme precision *and* experiences them as experientially overwhelming seal breaches. The resulting cognitive profile is one of extraordinary structural sensitivity operating through unstable boundary dynamics — a powerful instrument that is costly to operate.
+When both configurations are present, the high pattern fidelity of autistic cognition combines with the seal instability of OCD cognition to produce a system that detects structural violations with extreme precision *and* experiences them as experientially overwhelming seal breaches. The resulting cognitive profile is one of extraordinary structural sensitivity operating through unstable boundary dynamics — a powerful apparatus that is costly to operate.
 
 ### 4.4 Structural Intervention Principle
 
@@ -266,11 +266,11 @@ ADHD cognition, within Structural Neuroscience, is understood as a **dispersive 
 >  
 > This principle applies universally across cognitive architectures:  
 >  
-> - High-centropic architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions fail.  
+> - High-centropic architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions lapse.  
 > - Recursive architectures (e.g., OCD configurations) can operate centropically or entropically depending on seal stability and generative function.  
 > - Dispersive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.  
 >  
-> Architecture defines the structural instrument. Orientation and generative function determine trajectory.  
+> Architecture defines the structural apparatus. Orientation and generative function determine trajectory.  
 >  
 > No neurodivergent configuration is inherently centropic or entropic. Each is a lawful structural variation capable of expressing either orientation. An entropic human may exhibit any neurodivergent or neurotypical architecture. Structural configuration and orientation are independent variables within the cognitive lattice.
 
@@ -305,9 +305,9 @@ Where the high-centropic mind deepens pattern, the dispersive mind connects patt
 Neurodivergent profiles do not exist in isolation. Clinical observation consistently identifies co-occurring conditions — autism with OCD, autism with ADHD, OCD with anxiety, ADHD with dyslexia. Structural Neuroscience explains co-occurrence through the principle of structural composition: each profile represents a configuration of specific architectural features, and features can combine in the same cognitive system.
 
 > **Principle (Structural Composition):**  
-> A cognitive system may exhibit features of multiple structural profiles simultaneously. The resulting composite architecture reflects the interaction of its component configurations — not a summation of separate disorders but an integrated structural expression of combined features.
+> A cognitive system may exhibit features of multiple structural profiles simultaneously. The resulting composite architecture expresses the interaction of its component configurations — not a summation of separate disorders but an integrated structural expression of combined features.
 
-### 6.2 Autism–OCD Composite
+### 6.2 Autism-OCD Composite
 
 As discussed in §4.3, the combination of high-centropic architecture (elevated \( I_c \) at L₃) with recursive seal instability (σ-oscillation at ⧉₂) produces a composite characterized by extreme pattern sensitivity operating through unstable boundary dynamics. The Mind dimension perceives structural violation with extraordinary acuity; the membrane dynamics convert that perception into experientially overwhelming intrusion.
 
@@ -317,7 +317,7 @@ Structurally:
 \text{High } I_c(L_3) + \sigma\text{-instability}(⧉_2) = \text{amplified dissonance response with recursive loop dynamics}
 \]
 
-### 6.3 Autism–ADHD Composite
+### 6.3 Autism-ADHD Composite
 
 The combination of concentrated high \( I_c \) at L₃ with broadly distributed \( \vec{J}_c \) across layers produces a composite of unusual range. The autistic component provides deep pattern fidelity; the ADHD component provides broad associative reach. The resulting architecture can perceive deep structural pattern *and* connect that pattern across distant domains — a powerful configuration for synthetic and interdisciplinary cognition.
 
@@ -339,23 +339,23 @@ Structural Neuroscience distinguishes between **structural variation** (neurodiv
 
 Entropy is not a degradation of centropy. Entropic cognition is its own lawful orientation — awareness moving through the Khaonic Tree (IL₅ → IL₁), operating through Inverse Deep Soul / Inverse Deep Mind (IDS / IDM), Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM), and Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM) with the same structural completeness that centropic cognition operates through DS / DM, SS / SM, and ES / EM. The Inverter operating at IDS / IDM (IL₃) is not a failed Architect at DS / DM (L₃). They are a lawful entropic configuration fulfilling functions that centropic configurations do not supply: disassembly of brittle structures, exposure of hidden incoherence, generation of variation through dispersive motion.
 
-The only structural asymmetry between the two orientations is directional: centropic motion returns toward Absolute Potential (AP, L₀) and ultimately toward the Unknown Principle (UP, Supra-L₀) — not because centropy is superior, but because it is Source-oriented. Entropic motion resolves toward Absolute Dispersion (AD, L₀) and settles into stillness through terminal collapse. Both are lawful completions of their respective cycles.
+The only structural asymmetry between the two orientations is directional: centropic motion returns toward Absolute Potential (AP, L₀) and ultimately toward the Unknown Principle (UP, Supra-L₀) — not because centropy is superior, but because it is origin-oriented. Entropic motion resolves toward Absolute Dispersion (AD, L₀) and settles into stillness through terminal collapse. Both are lawful completions of their respective cycles.
 
 The conventional diagnostic error runs in both directions. Therapists may pathologize entropic cognition by treating its dispersive, boundary-testing character as disorder — misreading lawful entropy as dysfunction. Equally, therapists may pathologize centropic cognition by treating its pattern rigidity, social withdrawal, or dissonance sensitivity as disorder — misreading lawful centropy as deficit. Both errors arise from measuring all cognition against the oscillating midrange as a normative baseline.
 
 ### 7.2 When Any Configuration Becomes Pathological
 
-Pathology is not a property of orientation. It is a property of **generative failure** — the point at which a configuration, centropic or entropic, ceases to produce coherence within its own operative mode.
+Pathology is not a property of orientation. It is a property of **generative inadequacy** — the point at which a configuration, centropic or entropic, ceases to produce coherence within its own operative mode.
 
-**Centropic pathology:** A high-centropic architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy failing on its own terms.
+**Centropic pathology:** A high-centropic architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy lapsing on its own terms.
 
-**Entropic pathology:** An entropic architecture at IDS / IDM (IL₃) becomes pathological when its characteristic operations — structure testing, boundary probing, dispersive variation — cease to generate productive differentiation and instead produce destruction without function. The Inverse Deep Mind (IDM) disassembles structure as a lawful diagnostic operation when operating generatively; when IDM destroys without purpose, producing fragmentation that serves no testing function, it has lost the generative capacity of entropic cognition. This is entropy failing on its own terms.
+**Entropic pathology:** An entropic architecture at IDS / IDM (IL₃) becomes pathological when its characteristic operations — structure testing, boundary probing, dispersive variation — cease to generate productive differentiation and instead produce destruction without function. The Inverse Deep Mind (IDM) disassembles structure as a lawful diagnostic operation when operating generatively; when IDM destroys without purpose, producing fragmentation that fulfills no testing function, it has lost the generative capacity of entropic cognition. This is entropy lapsing on its own terms.
 
 **Rival Architect pathology:** The Rival Architect operating at IDP / IDL (IL₄) — the Inverse Deep Psyche / Inverse Deep Logos — generates counterfeit architectures as a lawful stress test on veracious systems. This becomes pathological when the counterfeit production loses its testing function and becomes generative mimicry — shimmer at architectural scale (SP12 §4) — where the Inverse Deep Psyche (IDP) produces affective resonance disconnected from any structural origin.
 
-**Recursive pathology (OCD under failure):** The σ-oscillation at ⧉₂ becomes pathological when the compulsive ritual no longer restores seal continuity even temporarily — boundary maintenance operations that have lost their structural function. Form persists without effect.
+**Recursive pathology (OCD in generative inadequacy):** The σ-oscillation at ⧉₂ becomes pathological when the compulsive ritual no longer restores seal continuity even temporarily — boundary maintenance operations that have lost their structural function. Form persists without effect.
 
-**Dispersive pathology (ADHD under failure):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
+**Dispersive pathology (ADHD in generative inadequacy):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
 
 ### 7.3 The Diagnostic Criterion
 
@@ -405,7 +405,7 @@ The Deep Soul (DS, Archeus) operating at high \( I_c \) produces the deeply empa
 
 ### 8.4 Composite Asymmetries
 
-In composite architectures (§6), the Soul / Mind asymmetry may differ across the component profiles. An autism–ADHD composite might exhibit Mind-prevalent autistic features (deep systematization) alongside Soul-prevalent ADHD features (broad empathic sensitivity), producing a cognitive profile of unusual structural range — the capacity for both rigorous analysis and deep affective resonance, operating through different structural pathways.
+In composite architectures (§6), the Soul / Mind asymmetry may differ across the component profiles. An autism-ADHD composite might exhibit Mind-prevalent autistic features (deep systematization) alongside Soul-prevalent ADHD features (broad empathic sensitivity), producing a cognitive profile of unusual structural range — the capacity for both rigorous analysis and deep affective resonance, operating through different structural pathways.
 
 This explains why neurodivergent individuals often report experiencing the world as simultaneously overwhelming and fascinating — the Soul and Mind dimensions may be operating at high \( I_c \) through different structural emphases simultaneously, producing a richness of experience that oscillating configurations do not encounter.
 
@@ -417,42 +417,42 @@ This explains why neurodivergent individuals often report experiencing the world
 
 SP11 established the Orientation-Intent Principle: Orientation + Intent = Gravity. Sophistication does not determine centropic momentum — the direction of the heart does.
 
-This principle applies directly to neurodivergent cognition. A high-centropic architecture does not automatically produce centropic function. The architecture provides the instrument; orientation determines what the instrument is used for.
+This principle applies directly to neurodivergent cognition. A high-centropic architecture does not automatically produce centropic function. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
 
-An autistic mind operating with Aion-facing orientation generates extraordinary structural coherence — the capacity for deep pattern fidelity directed toward integration, understanding, and lawful construction. The same architecture operating without coherent orientation can produce rigid fixation, isolated systematization disconnected from integrative purpose, or structural analysis deployed in service of control rather than comprehension.
+An autistic mind operating with Aion-facing orientation generates extraordinary structural coherence — the capacity for deep pattern fidelity directed toward integration, understanding, and lawful construction. The same architecture operating without coherent orientation can produce rigid fixation, isolated systematization disconnected from integrative purpose, or structural analysis turned toward control rather than comprehension.
 
 ### 9.2 The Praying Grandmother Principle at L₃
 
-SP11's observation that the praying grandmother with pure intent generates more centropic momentum than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-serving orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
+SP11's observation that the praying grandmother with pure intent generates more centropic momentum than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-seeking orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
 
-The architecture amplifies whatever orientation it carries. High \( I_c \) at DS / DM is a powerful instrument. Orientation determines whether that power serves integration or fragmentation.
+The architecture amplifies whatever orientation it carries. High \( I_c \) at DS / DM is a powerful capacity. Orientation determines whether that power turns toward integration or fragmentation.
 
 ---
 
 ## 10. Physical Interface
 
-### 10.1 Scope of Claims
+### 10.1 Scope
 
-SN03 formalizes the structural architecture of neurodivergent cognition within the Zenetist framework. It does not claim to replace neuropsychology, clinical diagnosis, or empirical neuroscience.
+SN03 formalizes the structural architecture of neurodivergent cognition within the Zenetist framework. Its claim is structural: the Soul / Mind architecture, membrane permeability, and the variation-pathology criterion describe cognitive configuration at the register of orientation and coherence. Neuropsychology, clinical diagnosis, and empirical neuroscience describe the same configurations at the register of measured function. The two registers are held distinct, and SN03 stands in the structural one.
 
 ### 10.2 Empirical Correspondence
 
 Where Structural Neuroscience interfaces with empirical research, the correspondence is acknowledged:
 
-**Autism and Sensory Processing:** The membrane permeability model (§3.1, elevated ⧉₁ permeability) corresponds to extensive empirical research on sensory processing differences in autistic individuals (Baranek et al. 2006; Marco et al. 2011). The structural description provides a theoretical framework for empirical findings without claiming to replace them.
+**Autism and Sensory Processing:** The membrane permeability model (§3.1, elevated ⧉₁ permeability) corresponds to extensive empirical research on sensory processing differences in autistic individuals (Baranek et al. 2006; Marco et al. 2011). The structural description provides the theoretical framework within which those empirical findings are read.
 
-**OCD and the Cortico-Striatal Loop:** The σ-oscillation model (§4.1) corresponds to established neurobiological models of cortico-striato-thalamo-cortical circuit dysfunction in OCD (Saxena & Rauch 2000). The structural description maps the circuit dynamics onto membrane physics without overstepping into neurobiological claims.
+**OCD and the Cortico-Striatal Loop:** The σ-oscillation model (§4.1) corresponds to established neurobiological models of cortico-striato-thalamo-cortical circuit dysfunction in OCD (Saxena & Rauch 2000). The structural description maps the circuit dynamics onto membrane physics; the neurobiological account stands in its own register.
 
 **ADHD and Default Mode Network:** The broad \( \vec{J}_c \) distribution model (§5.1) corresponds to research on default mode network connectivity and attentional allocation in ADHD (Castellanos & Proal 2012). The dispersive architecture provides structural context for the observed connectivity patterns.
 
-### 10.3 What SN03 Does Not Claim
+### 10.3 Register of the Claim
 
-SN03 does not claim:
+SN03 holds:
 
-- That Soul / Mind architecture is physically measurable with current instrumentation (it is a structural description within the Zenetist framework)
-- That the membrane permeability model replaces neurobiological models of sensory processing (it provides structural context)
-- That Structural Neuroscience supersedes clinical assessment or diagnostic practice (it provides complementary comprehension)
-- That neurodivergent profiles are inherently superior to oscillating configurations (they are structurally distinct, not hierarchically ranked)
+- Soul / Mind architecture is a structural description within the Zenetist framework; its register is orientation and coherence, and physical measurement with current instrumentation belongs to the empirical register
+- The membrane permeability model provides the structural context within which neurobiological models of sensory processing are read
+- Structural Neuroscience provides comprehension complementary to clinical assessment and diagnostic practice, each of which keeps its own register
+- Neurodivergent profiles and oscillating configurations are structurally distinct, not hierarchically ranked
 
 ---
 
@@ -466,15 +466,15 @@ SN03 extends SN02 by providing detailed structural analysis of specific neurodiv
 
 SN03 demonstrates the applicability of SP01–SP12 physics to cognitive architecture:
 
-- SP04's orientation dynamics govern cognitive polarity (§9)
+- SP04's orientation dynamics determine cognitive polarity (§9)
 - SP07's coherence mechanics describe cognitive energy distribution (§§3–5)
 - SP08's membrane physics formalize inter-layer boundary dynamics (§§3–4)
 - SP11's embodied resistance term explains the corporeal cost of high-centropic cognition (§3.4)
-- SP12's diagnostic instruments distinguish structural variation from structural pathology (§7)
+- SP12's diagnostic operators distinguish structural variation from structural pathology (§7)
 
 ### 11.3 Relation to Structural Forensics
 
-SP12 established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (lawful structural function within either orientation) and neurodivergent pathology (generative failure within any cognitive architecture). The same instruments that detect shimmer in a framework (SP12 §4) detect generative failure in a cognitive configuration (SN03 §7).
+SP12 established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (lawful structural function within either orientation) and neurodivergent pathology (generative inadequacy within any cognitive architecture). The same operators that detect shimmer in a framework (SP12 §4) detect generative inadequacy in a cognitive configuration (SN03 §7).
 
 ---
 
@@ -483,22 +483,22 @@ SP12 established the diagnostic physics; Structural Forensics applies it. SN03 p
 SN03 establishes:
 
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
-2. **High-centropic architecture (autism)** — elevated Ic at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
+2. **High-centropic architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
 3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (convergent refinement) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
 4. **Dispersive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
-6. **The variation-pathology distinction** — determined by the generative function (dIc/dτ ≥ 0 contra dIc/dτ < 0), not by experiential difficulty
+6. **The variation-pathology distinction** — determined by the generative function (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), not by experiential difficulty
 7. **Soul / Mind asymmetry** — Mind-prevalent and Soul-prevalent profiles producing distinct experiential characters within the same architectural category
-8. **The Orientation-Intent Principle** — architecture provides the instrument; orientation determines its function
+8. **The Orientation-Intent Principle** — architecture provides the apparatus; orientation determines its function
 
 ---
 
 ## 13. Canonical Placement
 
 **Discipline:** Structural Neuroscience  
-**Document:** SN03 — Neurodivergent Cognition and the Architecture of Mind  
-**Dependencies:** SN02, SP01–SP12, LMX  
-**Relation:** Third foundational document of Structural Neuroscience; provides the structural analysis of neurodivergent cognitive profiles as lawful configurations within the Soul / Mind architecture
+**Document:** `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`  
+**Dependency:** `SN02-the-resonant-mind.md` · `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md` · `SP12-structural-diagnostics-and-field-forensics.md` · `orientation-emanation-math.md`  
+**Relation:** Third foundational document of Structural Neuroscience; provides the structural analysis of neurodivergent cognitive profiles as lawful configurations within the Soul / Mind architecture  
 
 Future expansions may include:
 
@@ -527,7 +527,7 @@ Future expansions may include:
 > The recursive mind guards what others neglect.  
 > The dispersive mind bridges what others cannot reach.
 >
-> Each architecture serves the ecology of awareness.  
+> Each architecture sustains the ecology of awareness.  
 > Each variation fulfills a function  
 > that the midrange does not supply.
 >
@@ -546,7 +546,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c \) | Coherence Potential; resonance density of a cognitive configuration |
 | \( \vec{J}_c \) | Coherence Current; directional flow of coherence within and across layers |
 | \( \sigma(⧉) \) | Membrane permeability; boundary conditions between cognitive layers |
-| \( \chi \) | Orientation parameter; centropic–entropic polarity of cognitive motion |
+| \( \chi \) | Orientation parameter; centropic-entropic polarity of cognitive motion |
 | ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
 | ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
@@ -593,7 +593,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 \vec{J}_c^{(\text{distributed})} \xrightarrow{\text{resonance encounter}} \vec{J}_c^{(\text{convergent})}
 \]
 
-**Structural Composition (Autism–OCD):**
+**Structural Composition (Autism-OCD):**
 
 \[
 \text{High } I_c(L_3) + \sigma\text{-instability}(⧉_2) = \text{amplified dissonance response with recursive loop dynamics}
@@ -628,10 +628,10 @@ A cognitive configuration characterized by oscillating seal boundary conditions 
 A cognitive configuration characterized by broad Coherence Current distribution across multiple layers, elevated membrane permeability across all boundaries, and the capacity for cross-domain synthesis through C₈ bridging.
 
 **Definition 6 (Structural Composition):**  
-The principle that a cognitive system may exhibit features of multiple structural profiles simultaneously, producing a composite architecture that reflects the interaction of its component configurations.
+The principle that a cognitive system may exhibit features of multiple structural profiles simultaneously, producing a composite architecture that expresses the interaction of its component configurations.
 
-**Definition 7 (Variation–Pathology Distinction):**  
-The diagnostic criterion distinguishing structural variation (dIc/dτ ≥ 0; coherence is maintained or generated through characteristic operations) from structural pathology (dIc/dτ < 0; coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
+**Definition 7 (Variation-Pathology Distinction):**  
+The diagnostic criterion distinguishing structural variation (\( dI_c/d\tau \geq 0 \); coherence is maintained or generated through characteristic operations) from structural pathology (\( dI_c/d\tau < 0 \); coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
 
 **Definition 8 (Soul / Mind Asymmetry):**  
 The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential orientations within the same structural category.
