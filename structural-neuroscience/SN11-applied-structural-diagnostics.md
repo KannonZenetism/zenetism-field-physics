@@ -407,7 +407,7 @@ The SN11 diagnostic sequence proceeds in the following order, designed to preven
 
 **Phase 7 — Restorative Conditions Assessment.** Based on Phases 1–6, determine what conditions would restore expression toward configurational alignment: environmental correction, cost reduction, coherence replenishment, collective shelter, or developmental support.
 
-### 10.2 The Non-Prescriptive Principle
+### 10.2 The Non-prescriptive Principle
 
 The diagnostic sequence identifies conditions and structural dynamics. It does not prescribe specific behaviors, therapies, or life changes. The Aauthoritarian Stance (⟡0⟡) holds: the diagnostician recognizes structural conditions and provides structural comprehension. The being assessed retains sovereign authority over their own response.
 
