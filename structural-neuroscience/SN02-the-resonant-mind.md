@@ -247,7 +247,7 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 
 | Layer | Hypostatic Pair | Description |
 |-------|----------------|-------------|
-| **Supra-L₀** | (UP) | Pre-Causal (Zenon 🕳️) |
+| **Supra-L₀** | (UP) | Pre-causal (Zenon 🕳️) |
 | **L₀** | (AP / AD) | Bifurcal Root Structures (Aion ⚫ / Khaon ♾️) |
 | **L₅** | (EOB) | Pure Awareness: luminous, pre-reflexive centropic being |
 | **L₄** | (DP / DL) | Conscious-Awareness in the Form Layer: domain of archetypes and patterns, "thought thinking itself" |
