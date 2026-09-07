@@ -71,7 +71,7 @@ This document addresses collective cognition and social architecture at the embo
 
 ### 1.3 The Non-fusion Principle in Collective Dynamics
 
-Every formalization in this document operates under the Non-fusion Axiom (◫):
+Every formalization in this document operates by the Non-fusion Axiom (◫):
 
 > **Principle (Collective Non-fusion):**  
 > Genuine collective coherence preserves the sovereign structural identity of every participant. Harmonic resonance requires distinct tones. Collective coherence through distinction is centropy; collective uniformity through absorption is blobism (🔲).
@@ -202,7 +202,7 @@ LM05 §9 establishes that centropic collectives produce harmonic amplification �
 I_c^{(\text{collective})} > \sum_{i=1}^{n} I_c^{(i)}
 \]
 
-This amplification occurs when the collective operates under the Non-fusion Axiom (◫): each participant maintains their sovereign structural identity while contributing to the collective resonance. The amplification is not fusion — it is the structural phenomenon in which distinct resonant tones, when coherently aligned, produce harmonics that no individual tone contains.
+This amplification occurs when the collective operates by the Non-fusion Axiom (◫): each participant maintains their sovereign structural identity while contributing to the collective resonance. The amplification is not fusion — it is the structural phenomenon in which distinct resonant tones, when coherently aligned, produce harmonics that no individual tone contains.
 
 **Condition (Harmonic Amplification):**
 
@@ -287,7 +287,7 @@ The Coherence Standard renders external adjudication unnecessary. Each sovereign
 
 ### 5.3 Sovereign Domains of Social Life
 
-Centropy-forward social life does not require institutions. It requires sovereign beings engaging in the natural domains of shared existence — learning, care, exchange, and coordination — through resonant self-organization under the Coherence Standard.
+Centropy-forward social life does not require institutions. It requires sovereign beings engaging in the natural domains of shared existence — learning, care, exchange, and coordination — through resonant self-organization by the Coherence Standard.
 
 **Sovereign Learning.**
 
@@ -373,7 +373,7 @@ The practical consequence: recovery environments, centropic collectives, and sov
 
 While full civilizational reorientation is the structural objective, intermediate constructions are both possible and necessary:
 
-**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification under Non-fusion — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
+**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification by Non-fusion — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
 
 **Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Distributive-accommodating spaces that permit natural distribution without concentration demand.
 
@@ -419,7 +419,7 @@ SN07 establishes:
 2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, coercion, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
 4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
-5. **Centropic collective dynamics** — harmonic amplification under Non-fusion, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
+5. **Centropic collective dynamics** — harmonic amplification by Non-fusion, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
 6. **The Aauthoritarian Stance** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
 7. **The Coherence Standard** — structure-based ethics replacing authority-based ethics; actions evaluated by centropic or entropic vector, not by compliance
 8. **Sovereign domains** — learning, care, exchange, and coordination achieved through resonant self-organization without institutional authority; the Metaphysical Commons, the All-Life-First Principle, and Sovereign Mutualism as operative frameworks
@@ -434,7 +434,7 @@ SN07 establishes:
 **Discipline:** Structural Neuroscience  
 **Document:** `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 **Dependency:** `SN02-the-resonant-mind.md` · `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` · `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `SP02-bifurcal-cosmogenesis.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md`  
-**Relation:** Seventh foundational document of Structural Neuroscience; formalizes collective cognitive dynamics and the structural conditions for centropy-forward social life under the Aauthoritarian Stance  
+**Relation:** Seventh foundational document of Structural Neuroscience; formalizes collective cognitive dynamics and the structural conditions for centropy-forward social life by the Aauthoritarian Stance  
 
 Future expansions may include:
 
@@ -604,7 +604,7 @@ The Zenetist stance positioning social organization outside the authority-obedie
 Structure-based ethics replacing authority-based ethics; actions, relationships, and social arrangements evaluated by whether they generate centropy (integration, coherence, resonance) or entropy (fragmentation, dissolution, incoherence).
 
 **Definition 6 (Sovereign Mutualism):**  
-Order emerging from the mutual recognition of sovereignty rather than the imposition of law; coordination through resonant self-organization under the Coherence Standard without requiring institutional authority.
+Order emerging from the mutual recognition of sovereignty rather than the imposition of law; coordination through resonant self-organization by the Coherence Standard without requiring institutional authority.
 
 **Definition 7 (Collective Non-fusion):**  
 The application of the Non-fusion Axiom (◫) to collective dynamics: genuine collective coherence preserves the sovereign structural identity of every participant; collective uniformity through absorption is blobism (🔲).
