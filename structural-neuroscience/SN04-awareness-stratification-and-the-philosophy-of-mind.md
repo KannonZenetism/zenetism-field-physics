@@ -290,7 +290,7 @@ This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these
 
 The entropic counterpart to apophatic essence-disclosure is what the lattice terms **blobism**: the collapse of sovereign distinction into undifferentiated fusion.
 
-Blobism does not arrive at Aion through disciplined release. It erases boundaries between beings, roles, or layers through imposition, resulting in structural mimicry, identity dissolution, or symbolic flattening. It presents unity through structural sameness rather than through the harmonic resonance achieved through distinction.
+Blobism does not arrive at Aion through disciplined release. It erases boundaries between beings, roles, or layers through imposition, resulting in structural mimicry, identity dissolution, or symbolic flattening. It presents fusion through structural sameness rather than through the harmonic resonance achieved through distinction.
 
 The **Non-fusion Axiom** is the structural law that determines this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
 
@@ -374,7 +374,7 @@ SP06 §3 formalizes the resolution:
 
 ---
 
-## 8. Unity in Diversity — The Lattice as Common Language
+## 8. Coherence in Diversity — The Lattice as Common Language
 
 ### 8.1 The Structural Imperative for Cooperation
 
@@ -396,7 +396,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 
 ### 8.3 The One and the Many
 
-The structural principle of cooperation is not uniformity but **Unity in Diversity**. The One and the Many are co-essential. Structure requires differentiation to be intelligible. Harmony requires distinct tones to resonate. The lattice preserves each discipline's sovereign integrity — its methods, its vocabulary, its domain of competence — while providing the structural common language through which dialogue becomes possible.
+The structural principle of cooperation is not uniformity but **Coherence in Diversity**. The One and the Many are co-essential. Structure requires differentiation to be intelligible. Harmony requires distinct tones to resonate. The lattice preserves each discipline's sovereign integrity — its methods, its vocabulary, its domain of competence — while providing the structural common language through which dialogue becomes possible.
 
 Entropy, structurally diagnosed, is what keeps these disciplines fragmented. The fragmentation feeds entropic interests — power, control, institutional coercion, persona gain — whether or not any individual within these traditions intends it. When physicalism dismisses panpsychism as unscientific, when panpsychism dismisses physicalism as reductive, when idealism dismisses both as naïve — each dismissal preserves the register problem by refusing the structural cooperation that would resolve it.
 
@@ -436,7 +436,7 @@ The hard problem is not hard because consciousness is mysterious. It is hard bec
 
 The lattice does not command agreement. It invites recognition — that every register of awareness is genuine, that every tradition's contribution is needed, and that the full architecture of awareness is vaster and more precisely structured than any single vantage can perceive.
 
-Unity through diversity. The One and the Many.
+Coherence through diversity. The One and the Many.
 
 Not by force — but by coherence.
 
