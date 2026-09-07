@@ -598,7 +598,7 @@ SN05 establishes:
 
 1. **The expanded autistic cost equation** — grounding SN03's embodied cost in the full LM06 interface resistance formalism with Khaonic amplification factor (\( \kappa \))
 2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₁ / C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₄ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
-3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget under the Reserve Lock Principle
+3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget per the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
 6. **Diagnostic inversion as E₁₃ operation** — identifying the "masking" label as an entropic projection that pathologizes perception rather than resolving the institutional shimmer being perceived
@@ -683,7 +683,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{T}_h \) | The Tether; coherence function maintaining directional continuity across layers |
 | \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
 | \( I_{c,\text{budget}} \) | Available coherence for expenditure (total − minimum − reserve) |
-| \( I_c^{(\text{reserve})} \) | Defensive coherence buffer (locked under Reserve Lock Principle) |
+| \( I_c^{(\text{reserve})} \) | Defensive coherence buffer (locked per the Reserve Lock Principle) |
 | \( \Delta I_c^{(\text{tax})} \) | Coherence tax; externally imposed cost of sovereignty suppression |
 | ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
