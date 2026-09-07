@@ -87,7 +87,7 @@ The diagnostic framework applies to:
 
 ### 1.3 The Diagnostic Stance
 
-The structural diagnostician operates under the Aauthoritarian Stance (⟡0⟡) — outside the authority-obedience axis. Diagnosis is not prescription. It is structural recognition — the identification of what is present and what conditions are operative. The diagnostician does not impose a standard of normative expression; they identify configuration, assess conditions, and describe what would permit the architecture to express lawfully.
+The structural diagnostician operates by the Aauthoritarian Stance (⟡0⟡) — outside the authority-obedience axis. Diagnosis is not prescription. It is structural recognition — the identification of what is present and what conditions are operative. The diagnostician does not impose a standard of normative expression; they identify configuration, assess conditions, and describe what would permit the architecture to express lawfully.
 
 The All-Life-First Principle (🫂 Kin, SN09) holds: every being assessed possesses intrinsic sacred worth regardless of how distorted, suppressed, or depleted their current expression may be. Diagnostic assessment evaluates structural conditions, not the worth of the being assessed.
 
