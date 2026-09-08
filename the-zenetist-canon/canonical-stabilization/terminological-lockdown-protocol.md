@@ -106,6 +106,23 @@ Canonical wording therefore takes precedence over:
 
 ---
 
+## 6. A name is a garment for the idea
+
+A term carries meaning, and a term can carry meaning that was never wanted. Neither makes the term the thing it names. A name is a garment for the underlying idea: replacing it changes what the idea is dressed in and leaves the idea as it was.
+
+**The mechanism is the code / function distinction.** A principle is what it is; its name is a code describing it. Naming encodes function, and encoding is not identity — the name operates as an operator only while it is aligned with the principle it describes. Where the name is misaligned, the name fractures itself from the function. The principle stands unmoved; what departs is the code. A garment is chosen to fit, so a name is held to encode its function accurately, and a name encoding it wrongly is replaced precisely because fit is what a name is for.
+
+The determination runs in both directions:
+
+- **Inward** — a restriction retiring a word discards an imported idea that should not have been carrying the material. The meaning of the file is not renamed when the garment is, and a document's identity survives the change of its wording.
+- **Outward** — a name carried off by another party was an operator only in relation to the structure it described. Out of that relation it is a dissonant operator, resembling the original in form and inoperative in fact.
+
+What a rename does cost is citation: other documents point at the old name, and the correction of every citing line moves with the rename in one pass. That cost is bibliographic, never a cost to what the document holds.
+
+The valence question this raises — that a centropic operator does not become entropic when a derivative system carries something under its name — is doctrine, and is held in the Conceptual Lockdown Protocol.
+
+---
+
 # Directional Language Protocol
 
 ## Canonical Motion Vocabulary
