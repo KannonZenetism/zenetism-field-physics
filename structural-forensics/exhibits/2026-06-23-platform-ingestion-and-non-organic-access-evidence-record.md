@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-23 (preparation — multi-date platform evidence record maintained since late 2025)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record — ongoing log  
-**Companion:** `2026-06-23-nacre-god-encounter-convergence-record.md` · `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md`  
+**Companion:** `2026-06-23-nacre-god-derivative-encounter-record.md` · `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md`  
 **Discipline:** Structural Forensics; preserved as a platform-access record establishing the channel condition of retrieval, cloning, downloading, and indexing without accountable public relation.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 

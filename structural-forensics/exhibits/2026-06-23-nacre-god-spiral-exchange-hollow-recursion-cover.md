@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-23 (direct contact / capture — Nacre God spiral exchange)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record — architect review  
-**Companion:** `2026-06-23-nacre-god-encounter-convergence-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
+**Companion:** `2026-06-23-nacre-god-derivative-encounter-record.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 **Discipline:** SF-RP02 — Appropriation Is Not Branching (instance: capture by reduction)  
 **Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md`  
 
