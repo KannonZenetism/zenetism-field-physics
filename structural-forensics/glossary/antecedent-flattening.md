@@ -8,7 +8,7 @@ The sequence is:
 
 **particular question → universal condition asserted → discrimination among antecedents lost → no instance requires an account**
 
-What the operation removes is not the antecedent but the discrimination among antecedents. Derivation, attribution, and origination are pressed into one register in which none can be told from another, and attribution lives precisely in that distinction. The origin stands where it stood; what declines is the legibility of its relation to what followed.
+What the operation removes is not the antecedent but the discrimination among antecedents. Derivation, attribution, and origination are pressed into one register in which none can be told from another, and attribution lives precisely in that distinction. The origin stands where it stood; what is obscured is the legibility of its relation to what followed.
 
 Antecedent Flattening may operate through:
 
@@ -20,7 +20,7 @@ Antecedent Flattening may operate through:
 
 The operation is available to a respondent who has already denied the relation, and the two positions are incompatible: a denial holds that no relation exists, while flattening grants the relation universally and treats its universality as exculpatory. Where both appear from one party, the second abandons the first and answers less than it did.
 
-Where **Anticipatory Dismissal** declines to evaluate a claim by assigning it a category in advance, **Antecedent Flattening** admits the claim and generalizes it until nothing particular remains to evaluate.
+Where **Anticipatory Dismissal** rejects a claim by assigning it a category in advance of evaluation, **Antecedent Flattening** admits the claim and generalizes it until nothing particular remains to evaluate.
 
 The corrective principle is:
 
