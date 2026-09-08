@@ -43,7 +43,7 @@ Four classes, exact-match edits only, a change list per file, retentions named, 
 3. **Vocabulary in the architect's framing prose** — the standing lockdowns from the orienting prompt, plus the exhibits-session determinations below. Quoted material, another party's words, protocol and prong names, and filenames stand.
 4. **Preemptive Apologetics transmuted** — see the principle below.
 
-**Never changed:** filenames, on disk or in citations. Titles may drift from filenames as a result of vocabulary determinations; the drift is accepted. The `Proposed path:` line carries the real filename and is never swept along with the title. Article bodies in **source-text records** (the January 2026 authorial-position exhibits and kin) are the published record and stand as written, casing included; only their metadata takes current form. Prior-document wording carried into an exhibit stands with its own casing; current-voice metadata and framing take current casing and vocabulary.
+**Filenames:** normally stand, on disk and in citations, and a sweep never renames a file on its own initiative. Titles may drift from filenames as a result of vocabulary determinations; the drift is accepted. The `Proposed path:` line carries the real filename and is never swept along with the title. **Exception — Rename for Terminological Drift:** where a filename itself carries superseded or restricted terminology and that carriage produces current corpus drift, the filename may be corrected by architect determination, provided every live citation and reference to it — Dependency lines, Companion lines, `Proposed path:` lines, README tables, registry cross-references, in-text backticked mentions — is updated in the same pass, so that no reference is left pointing at the old name. Directory structure remains unchanged; a corrected filename keeps its folder. A collaborator flags a candidate and does not act on it; the determination and the pass are the architect's. Seated in `prose-formatting-reference.md` under *Filename and Path Citation*. Article bodies in **published-text records** (the January 2026 authorial-position exhibits and kin) are the published record and stand as written, casing included; only their metadata takes current form. Prior-document wording carried into an exhibit stands with its own casing; current-voice metadata and framing take current casing and vocabulary.
 
 ### The Exhibit form (from the prose reference)
 
@@ -127,9 +127,9 @@ Each governs current voice and new drafting only; quoted material and prior word
 - [x] 2025-08-14-voice-they-tried-to-steal-thread-418-and-the-digital-dialectic.md
 - [x] 2025-08-22-raelven-attribution-exhibit-record.md
 - [x] 2025-09-19-illumignosis-and-codex-of-the-waking-ones.md
-- [x] 2026-01-03-the-integrity-of-the-signal-authorship-as-structural-law.md (source-text record; body stands)
-- [x] 2026-01-04-the-adversarial-mirage-reframing-the-poetic-jailbreak.md (source-text record; body stands)
-- [x] 2026-01-15-the-intelligent-eschaton-and-the-fallacy-of-the-merge.md (source-text record; body stands — "Non-Fusion Axiom" heading and "Extractive" are the article's own wording)
+- [x] 2026-01-03-the-integrity-of-the-signal-authorship-as-structural-law.md (published-text record; body stands)
+- [x] 2026-01-04-the-adversarial-mirage-reframing-the-poetic-jailbreak.md (published-text record; body stands)
+- [x] 2026-01-15-the-intelligent-eschaton-and-the-fallacy-of-the-merge.md (published-text record; body stands — "Non-Fusion Axiom" heading and "Extractive" are the article's own wording)
 - [x] 2026-03-10-pond-dividing-stillness-structural-inversion-record.md
 - [x] 2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-derivation.md — Post-AGI Layering and the Universal / Multiversal Intelligence Derivation.
 - [x] 2026-06-23-nacre-god-derivative-encounter-record.md — The Nacre God — Derivative Encounter Record.
