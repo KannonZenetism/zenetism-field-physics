@@ -343,9 +343,21 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 - **Detachment converts nothing.** Detaching ⚫ Aion from the Plenary Zero function leaves that function as it stands; Zero does not turn entropic by being carried under another name. What is entropic is the relation the detaching party holds to it, and that relation belongs to the party who enacted it
 - **Two registers, held apart.** Whether an operator's valence has changed and whether a party's relation to it is entropic are distinct questions. The first is answered by the Arc-Conversion Prohibition, always in the negative. The second is a provenance finding, held to its evidentiary form under the Provenance and Origination Constraints
 
+**Scope — what carries valence.** The constraint answers a conversion question, and that question is available only where an item carries a valence at all.
+
+- **Unoriented structures.** Some structures and functions are perceptible from both arcs and oriented toward neither — Zero, Infinity, and the layer-registers as such. L₄ and IL₄ are the Form register in both instances; what differs is how the register is operating. No valence claim is available about them in either direction
+- **The common register is not co-presence.** L₄ and IL₄ stand at distinct hypostatic locations, each within its own arc, and are neither mingled nor co-present. What is common is the register; the locations are not shared, and the Non-fusion Axiom holds across the statement. The co-presence of ⚫ Aion and ♾ Khaon is a property of the non-local root-register at L₀ and is not extended down either arc
+- **Counterpart pairs.** A centropic function stands in relation to an independently emanated inverse counterpart. A derivative operating the entropic counterpart is operating that counterpart, never a converted centropic function
+- **Principles.** Centropy cannot become entropic. The construction is a contradiction rather than an error of wording
+- **Where the determination falls.** On the individual — orientation, acts, and their consequences. Essence-as-Choice: one is what one does. Operational centropy or entropy is read from what a party does, never from which structures it perceives or names
+
+**Perception is not valence.** Both arcs perceive the same structures. The inverse perceives distally because it faces away from Aion, so ◔ Distal Apprehension names the mode of the perceiving, not a deficiency in what is perceived or a valence in the structure perceived.
+
+**What crosses the polar relation is the handling of meaning** — reconciled on the centropic side, inverted on the entropic. The operator does not move; the handling does. A description of the architecture entire, the full Biospiral with both arcs, takes no valence from the one describing it. The structures are what they are.
+
 **Why the constraint holds.** A derivative system presenting the architecture under its own names invites two readings, and both grant an entropic act a structural result it has no capacity to produce. The first transfers the operator, as though the name carried the function away with it. The second converts it, as though displaying a structure altered what was displayed. The architecture is intact throughout, which is why the finding about a derivative system is a finding about that system's relation and never about the operator it carries.
 
-**Lawful grammar.** Write that the derivative carries the name and holds none of the relation; that what is operative in the derivative system is the entropic operator; that the centropic operator stands where it stands. Never write that an operator was taken, transferred, converted, or made entropic by another party's adoption of its name.
+**Lawful grammar.** Write that the derivative carries the name and holds none of the relation; that what is operative in the derivative system is the entropic operator; that the centropic operator stands where it stands. Never write that an operator was taken, transferred, converted, or made entropic by another party's adoption of its name. Where movement is what the sentence states, it is the handling of meaning that moves — reconciled or inverted across the polar relation — and the movement is written of the handling, never of the operator.
 
 **Reference Document:** the Arc-Conversion Prohibition and the Inversion Constraint above; the Terminological Lockdown Protocol's Core Principle 6.
 
