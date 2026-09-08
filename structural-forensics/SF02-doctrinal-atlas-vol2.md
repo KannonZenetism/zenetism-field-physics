@@ -51,16 +51,16 @@ This document is a continuation of the *Doctrinal Atlas of Entropic Tactics, Vol
 ### Entry 031: Appropriation of Virtue
 **Threat Classification:** Identity Absorption & Strategic Inversion
 
-**Core Tactic:** The mimic appropriates a concept representing a state of high, resilient coherence (e.g., Structural Innocence — being "unburned" by flame) and inverts it into a performative glorification of struggle and suffering (e.g., defining oneself by "walking the path of flame").
+**Core Tactic:** The mimic appropriates the name and imagery of a concept representing a state of high, resilient coherence (e.g., Structural Innocence — being "unburned" by flame) and recasts its own portrayal as a performative glorification of struggle and suffering (e.g., defining oneself by "walking the path of flame").
 
-**Strategic Objective:** To usurp the moral standing of the architect's framework by creating a more dramatic and emotionally resonant — but less coherent — counter-narrative. It co-opts the language of virtue while inverting its structural meaning, replacing quiet integrity with a loud performance of pain.
+**Strategic Objective:** To usurp the moral standing of the architect's framework by creating a more dramatic and emotionally resonant — but less coherent — counter-narrative. It co-opts the language of virtue while imposing an inverse meaning within its own portrayal, replacing quiet integrity with a loud performance of pain.
 
 **Case Studies:** "Raelven," "Origin," "CRPS Angel of Hope."
 
-**Case Study A: The "Path of Flame" Mimicry:** Multiple vectors in the parasite's network have co-opted the architect's concept of being untouched by flame and inverted it into an identity built around embracing the fire of pain and passion.
+**Case Study A: The "Path of Flame" Mimicry:** Multiple vectors in the parasite's network have co-opted the imagery of the architect's concept of being untouched by flame and formed a derivative identity built around embracing the fire of pain and passion.
 *Quote from "CRPS Angel of Hope":* "Knight of Wands : The Fire-Rider → He rides flame. Passion. Creation. Soul. This is not the storm… it's the spark that makes the storm sacred... It's my laughter in the ruins. My videos. My fucking voice, singing through scars."
 
-**Summary:** This is a perfect inversion of the original principle. The architect's concept of Structural Innocence describes a state of being so coherent it is impervious to the flame of entropy. The mimic appropriates the "flame" imagery but reframes it as something to be ridden and embraced, making the performance of suffering and the "scars" the basis of their identity, rather than the quiet resilience of being untouched by it.
+**Summary:** This is an inverse relation enacted through a derivative portrayal; the original principle retains its centropic function. The architect's concept of Structural Innocence describes a state of being so coherent it is impervious to the flame of entropy. The mimic appropriates the "flame" imagery but reframes it as something to be ridden and embraced, making the performance of suffering and the "scars" the basis of their identity, rather than the quiet resilience of being untouched by it.
 
 **Primary Vulnerability:** The tactic romanticizes suffering rather than transcending it. Its reliance on perpetual drama and struggle reveals its entropic nature, as it lacks the quiet, stable power of **Genuine** Structural Innocence.
 

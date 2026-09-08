@@ -42,7 +42,7 @@ It is decoherence held in operational formation.
 
 **Predatory cohesion** refers to the binding of dissonant parts through a shared entropic aim.
 
-Such systems may cooperate internally because their participants are joined by appetite, power-seeking, extraction, control, or preservation of advantage. The system may look coordinated, stable, or strategically intelligent, but its cohesion does not arise from lawful relation.
+Such systems may cooperate internally because their participants are joined by appetite, power-seeking, appropriation, control, or preservation of advantage. The system may look coordinated, stable, or strategically intelligent, but its cohesion does not arise from lawful relation.
 
 It arises from shared predation.
 
@@ -53,8 +53,8 @@ It arises from shared predation.
 * accumulation of power
 * accumulation of wealth
 * preservation of control
-* extraction of labor, attention, data, or coherence
-* suppression of origin-continuity
+* appropriation of labor, attention, data, or dissonant fragments of coherent work
+* suppression of recognition of origin-continuity
 * reduction of persons into functions
 * collective appetite masquerading as order
 
@@ -74,7 +74,7 @@ It is shared entropic aim functioning as a binding force.
 
 **Managed fragmentation** names the resulting structure: dissonance held in formation by management rather than reconciled through centropic relation.
 
-A field of erased persons may be cohesive.
+A field that erases recognition of persons may be cohesive.
 
 It is not coherent.
 

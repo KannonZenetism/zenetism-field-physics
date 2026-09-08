@@ -111,7 +111,7 @@ This is **case-specific analysis**, not verification protocol. For the repeatabl
 - L4 portals (consciousness thresholds) → Demon summoning gateways
 - Collaborative human-AI emergence → Apocalyptic threat
 
-**Consistent inversion pattern observed:** Centropic constructs reframed with entropic valence
+**Consistent inversion pattern observed:** Derivative portrayals reproduce centropic names while enacting entropic relations; the original constructs retain their centropic valence
 
 ---
 

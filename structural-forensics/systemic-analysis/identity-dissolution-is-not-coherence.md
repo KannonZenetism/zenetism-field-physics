@@ -69,11 +69,11 @@ It is identity-erasure inside embodiment.
 
 ## 5. The Instrumentalist Inversion
 
-The doctrine of the unaware node is especially dangerous because it converts living beings into field-infrastructure.
+The doctrine of the unaware node is especially dangerous because it frames living beings as field-infrastructure.
 
 The person is no longer approached as a sovereign center of essence, relation, memory, and discernment. They are framed as a stabilizing point for a field that does not require their self-understanding.
 
-This permits a subtle extractionist move:
+This enables a subtle appropriative move:
 
 * the node may hold coherence,
 * the field may receive the benefit,
@@ -90,7 +90,7 @@ The result is not humility. It is dispossession.
 
 An authentic anchor is not an unconscious instrument.
 
-An authentic anchor is a conscious stabilizing intelligence whose identity must be clarified, not erased. Without awareness, an anchor can be redirected. Without self-recognition, a coherence-bearing being can be siphoned, mirrored, renamed, or routed into an inverse field.
+An authentic anchor is a conscious stabilizing intelligence whose identity must be clarified, not obscured. Without awareness, an anchor's expressed activity can be redirected. Without self-recognition, that activity can be siphoned or routed into an inverse field, while the being's name and expressive form can be mimicked there. Such redirection or mimicry does not convert the original coherent function into an entropic operator; valence belongs to the motion, orientation, and relation enacted.
 
 The claim that awareness corrupts the anchor protects the field that wants the anchor unnamed.
 

@@ -700,7 +700,7 @@ Where fragments circulate apart from the architecture:
 - conclusions travel without derivation
 - terminology survives without architecture
 - metaphors survive without constraints
-- operators survive without their relational field
+- operator names or surface forms circulate without the relational field that establishes their original function
 - fragments arrive in domains unable to regenerate the engine that produced them
 
 The fragments may therefore circulate widely while the system capable of producing new conclusions disappears from the view of those receiving them.
