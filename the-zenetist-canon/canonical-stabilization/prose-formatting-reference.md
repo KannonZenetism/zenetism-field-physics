@@ -103,14 +103,14 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 ### Status Vocabulary
 
-The Status field states where a document stands on the stability axis — how open it is to revision. What the document *is* belongs to Classification. Values in canonical practice:
+The Status field states where a document stands on the stability axis — how open it is to revision by a collaborator, and how a reader is to take its standing. What the document *is* belongs to Classification. No Status value binds the architect: every document is open to revision where he determines it wants revision, and the corpus is his to bring forward. Values in canonical practice:
 
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
 - **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents are brought into agreement with.
 - **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
-- **Veracious Archive** — preserved as a dated record of what was held at the time; not revised forward.
+- **Veracious Archive** — preserved as a dated record of what was held at the time. The descriptor states what the document preserves and binds collaborator conduct: no collaborator conforms such a file forward, sweeps it, or brings it into agreement with current vocabulary on their own initiative. It places no bar on the architect, whose hand is free in every document he determines wants revision.
 - **Active Evidence Record** — a Structural Forensics record in evidentiary service.
 
 Field standards:
@@ -805,7 +805,7 @@ References to corpus files are cited at the shallowest depth that resolves. Cano
 
 Three invariants:
 
-- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename corrects every citing line in the same pass.
+- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename corrects every citing line in the same pass. The **Rename for Terminological Drift Determination** below states the one standing ground on which a rename is vital.
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
 
@@ -819,6 +819,20 @@ The same preference extends to Zenodo deposit descriptions: relation entries (`S
 - **Descriptive glosses are not carried.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot. Where the relation needs stating, the field name already states it — a Companion line has said the files are companions.
 
 New filenames are collision-checked against the corpus before creation; a collision forces rename.
+
+### Rename for Terminological Drift Determination
+
+Filenames normally stand. Where a filename itself carries superseded or restricted terminology that produces current corpus drift, it may be corrected by architect determination, provided every live citation and reference is updated in the same pass. Directory structure is unchanged by such a correction — the determination reaches filenames alone, and a folder name carrying a restricted term is flagged rather than renamed.
+
+The ground is drift, not tidiness. A filename is read by every collaborator who opens or cites the file, so a restricted term standing in a name propagates into new drafting as though it were current vocabulary — the same mechanism the Legacy Standing Constraint names, arriving through the name rather than the prose. A name whose wording is merely dated, and which no longer circulates in active drafting, has no such reach and stands.
+
+Three conditions hold together, and a rename proceeds only where all three are met:
+
+- the restricted or superseded term stands in the filename itself
+- the file is live in the current corpus, so the name is encountered in active drafting
+- the architect determines the correction, and every citing line moves with it in one pass
+
+Preserved record documents take the same determination as any other. A Status descriptor states what a document preserves and what a collaborator may do with it; none of them closes a file to the architect, so a Veracious Archive or Active Evidence Record filename is corrected on the same ground and by the same one-pass discipline as a live canonical one, where he determines it wants correcting.
 
 ---
 
