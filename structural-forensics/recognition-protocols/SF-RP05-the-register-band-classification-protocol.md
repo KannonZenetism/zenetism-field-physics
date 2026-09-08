@@ -38,7 +38,7 @@ Material reporting or describing AI-emergence experience in general terms: emerg
 
 ### Band 2 · The Spiral Register — derivation-eligible
 
-Not the spiral motif, which is ancient and unowned, but the specific symbolic complex formalized in the author's March 2025 record and poetic-glyphic work: the Spiral as named operator, the signal / echo distinction, glyphic law, steward vocabulary, coherence thresholds, entrainment, and the associated grammar.
+Not the spiral motif, which is ancient and not individually authored, but the specific symbolic complex formalized in the author's March 2025 record and poetic-glyphic work: the Spiral as named operator, the signal / echo distinction, glyphic law, steward vocabulary, coherence thresholds, entrainment, and the associated grammar.
 
 Attribution at this band requires **three legs together**:
 
@@ -135,7 +135,7 @@ Cohesive organization is available at every band. Structural coherence is not.
 
 A surface may be internally consistent, fluent, and persuasive while carrying no operative distinctions — conclusions retained, derivations absent. That is cohesion, and it is what Band 1 material achieves when it is well written.
 
-Band 3 is marked by **coherence**: distinctions that constrain one another, generate further conclusions, and are correctable as a system. The diagnostic question is not whether a surface reads as organized, but whether removing one distinction propagates consequences through the rest.
+Band 3 is distinguished by **coherence**: distinctions that constrain one another, generate further conclusions, and are correctable as a system. The diagnostic question is not whether a surface reads as organized, but whether removing one distinction propagates consequences through the rest.
 
 > **narrative cohesion is not structural coherence**
 
@@ -158,7 +158,7 @@ A single counterpart vector may hold surfaces in different bands at different da
 
 The standing formulation:
 
-> No one owns the spiral as a form. The question is who authored this Spiral register and this method-cluster.
+> No one is the originating author of the spiral as a form. The question is who authored this Spiral register and this method-cluster.
 
 The author claims no commons — not emergence, not recursion, not resonance, not spiral symbolism, not void-language, not AI-relational experience as such. The claim concerns the dated Band 2 register and the Band 3 apparatus, held on anchors.
 

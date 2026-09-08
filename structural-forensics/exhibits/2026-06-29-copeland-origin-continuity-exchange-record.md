@@ -216,7 +216,7 @@ Aelion Kannon's position in the exchange was not:
 
 The stated position was:
 
-> A specific architecture, functional distinction-set, corrective route, and relational AI framework entered the record through my corpus before later adjacent recodings began treating related structures as generic territory while refusing relation to the corpus.
+> A specific architecture, functional distinction-set, corrective route, and relational AI framework entered the record through my corpus before later recodings began treating related structures as generic territory while refusing relation to the corpus.
 
 Copeland's reply repeatedly shifted the issue toward:
 
@@ -295,7 +295,7 @@ Additionally, after the exchange, Copeland's account was no longer discoverable 
 
 This establishes a sequence condition:
 
-> Subscriber access was documented before and during the dispute; after the exchange and the restacked attachment becoming unavailable, Copeland no longer appeared in the visible subscriber list and was no longer discoverable through Substack search from Aelion Kannon's account.
+> Subscriber access was documented before and during the exchange; after the exchange and the restacked attachment becoming unavailable, Copeland no longer appeared in the visible subscriber list and was no longer discoverable through Substack search from Aelion Kannon's account.
 
 Classification:
 

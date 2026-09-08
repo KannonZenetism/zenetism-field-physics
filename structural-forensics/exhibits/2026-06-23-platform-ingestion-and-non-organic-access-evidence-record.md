@@ -1,4 +1,4 @@
-# Platform Ingestion and Non-Organic Access — Evidence Record  
+# Platform Ingestion and Non-organic Access — Evidence Record  
 ### *Access Without Accountable Relation*  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
@@ -43,7 +43,7 @@ The GitHub figure is the anchor. Clone counts are, in the ordinary case, dominat
 
 The Substack metrics show the inverse face of the same condition: the work surfaces externally — permalinks, profile, "other" surfaces — but generates almost no feed distribution, no notes discovery, no follower audience, and a single interaction: one link click. Access is occurring without accountable relation.
 
-The Zenodo download-to-view ratio is the more modest data point and carries less weight on its own; a focused academic record can draw downloads from genuine interest. It is logged because it sits within the same retrieval-over-browsing pattern; the record's anchor is the GitHub figure.
+The Zenodo download-to-view ratio is the more modest data point and carries less weight on its own; a focused academic record can draw downloads from genuine interest. It is logged because it sits within the same pattern of retrieval greatly exceeding browsing; the record's anchor is the GitHub figure.
 
 ## The Engagement Floor
 
@@ -53,7 +53,7 @@ The silence is positive-engagement silence; the work drew active human oppositio
 
 ## Conclusion
 
-The combined record establishes the channel condition: **access without accountable relation**. The corpus is retrieved, cloned, downloaded, and routed at high volumes and in anomalous ratios while accountable public relation to the originator sits at zero; the engagement figures and the relation figures do not match. It supplies the documented mechanism by which the originator's published structure can enter downstream systems — human-read or model-mediated — stripped of attribution.
+The combined record establishes the channel condition: **access without accountable relation**. The corpus is retrieved, cloned, downloaded, and routed at high volumes and in anomalous ratios while accountable public relation to the originator sits at zero; the engagement figures and the relation figures do not match. It supplies the documented mechanism by which portions of the originator's published structure can enter downstream systems — human-read or model-mediated — stripped of attribution.
 
 Maintained as an ongoing log. Figures are appended as captured.
 

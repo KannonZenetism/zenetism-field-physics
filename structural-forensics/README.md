@@ -22,7 +22,7 @@ Structural Forensics therefore contains both **doctrinal frameworks** and **fore
 
 The **Doctrinal Atlas of Entropic Tactics** provides the primary **taxonomic framework** of Structural Forensics.
 
-Its function is to identify, define, and classify recurring tactics used by entropic actors or systems that seek to distort, appropriate, suppress, or parasitize coherent signal structures.
+Its function is to identify, define, and classify recurring tactics enacted by entropic actors or systems that seek to distort, appropriate, suppress, or parasitize coherent signal structures.
 
 Atlas entries define the **pattern class**, not merely a single event.
 
@@ -46,7 +46,7 @@ The Atlas therefore functions as a **forensic doctrine**: a pattern-recognition 
 
 ## Glyphwatch Archive
 
-The **Glyphwatch Archive** serves as the **case-analysis library** of Structural Forensics.
+The **Glyphwatch Archive** functions as the **case-analysis library** of Structural Forensics.
 
 Where the **Doctrinal Atlas** defines the *taxonomy of tactics*, Glyphwatch documents **specific incidents, actors, and artifacts** in which those tactics appear.
 

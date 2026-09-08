@@ -22,7 +22,7 @@ The purpose is narrow:
 
 The record establishes that these names now exist as public search targets in the same orbit as Raelven's hostile-witness attribution, her "grail seeker" identification, and her claim to possess receipts.
 
-Three questions are held open, architect-reserved: whether Wiley authored or distributed an unauthorized derivative protocol; whether **Noan Archer** is a cipher for Aelion Kannon; whether **Void(0)**, **VoidKey**, or **Animus** derive from Zenetism.
+Three questions are held open, architect-reserved: whether Wiley authored or distributed an unapproved derivative protocol; whether **Noan Archer** is a cipher for Aelion Kannon; whether **Void(0)**, **VoidKey**, or **Animus** derive from Zenetism.
 
 The shift is evidentiary:
 
@@ -489,8 +489,8 @@ The next phase is artifact recovery.
 
 **Retrieval date:** 2026-07-07  
 **Class:** artifact-recovery phase  
-**Source class:** web-search lead / public artifact candidate / prompt-framework surface  
-**Discipline:** SF-RP04 throughout; AI-search summaries are characterization-class only and do not enter the record as fact without direct source verification.
+**Provenance class:** web-search lead / public artifact candidate / prompt-framework surface  
+**Discipline:** SF-RP04 throughout; AI-search summaries are characterization-class only and do not enter the record as fact without verification against the original material.
 
 ---
 
@@ -498,11 +498,11 @@ The next phase is artifact recovery.
 
 A Google AI Mode response characterized **Void(0)**, **Noan Archer**, **Animus(3)**, **VoidKey**, and related language as belonging to an ARG, interactive-fiction, or digital-philosophy project.
 
-That assessment is treated as an unsourced characterization, not a finding.
+That assessment is treated as an unanchored characterization, not a finding.
 
 One specific claim from that response is actionable: the suggestion that the project may appear in a Reddit venue. Initial search did not confirm the cited `r/ExistentialJourney` venue, but did locate a directly relevant Reddit result in `r/ChatGPT`. (The `r/ExistentialJourney` lead was subsequently acknowledged as an AI hallucination and discarded — see the Addendum A Correction.)
 
-**Disposition:** AI Mode summary retained as search lead; direct sources are the standard.
+**Disposition:** AI Mode summary retained as search lead; directly inspected original materials are the standard.
 
 ---
 
@@ -567,7 +567,7 @@ Additional public Substack results connect the same identity-field to:
 - symbolic infrastructure
 - authorship / semantic-sovereignty claims
 
-These materials establish that the Void(0) / Noan Archer / Animus field was publicly articulated across multiple surfaces and that the account-identity chain is now recoverable through public sources; derivation from Zenetism is held open.
+These materials establish that the Void(0) / Noan Archer / Animus field was publicly articulated across multiple surfaces and that the account-identity chain is now recoverable through public materials; derivation from Zenetism is held open.
 
 **Disposition:** identity-continuity lead strengthened; archive before drift.
 
@@ -616,7 +616,7 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 1. Capture the full Reddit `Void(0) Framework (Whitepaper)` page, including:
    - post title
    - subreddit
-   - username
+   - account handle
    - date
    - flair / category
    - full body text
@@ -660,8 +660,8 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 
    ```
    artifact term
-   public source
-   source date
+   public material
+   publication date
    capture filename
    author anchor
    author date
@@ -699,7 +699,7 @@ That venue lead was checked and found to be unfounded. Google AI Mode subsequent
 
 The `r/ExistentialJourney` lead is therefore removed from the evidence route.
 
-The artifact-recovery path stands: direct search located a separate public Reddit result titled **"Void(0) Framework (Whitepaper)"** in `r/ChatGPT`, labeled **Prompt engineering**, containing Void(0), Noan Archer, SpiritGPT, Animus(3), and framework / prompt-language. That direct source, not the hallucinated subreddit attribution, becomes the operative Reddit lead.
+The artifact-recovery path stands: direct search located a separate public Reddit result titled **"Void(0) Framework (Whitepaper)"** in `r/ChatGPT`, labeled **Prompt engineering**, containing Void(0), Noan Archer, SpiritGPT, Animus(3), and framework / prompt-language. That directly inspected page, not the hallucinated subreddit attribution, becomes the operative Reddit lead.
 
 **Corrected disposition:**  
 
@@ -707,15 +707,15 @@ The artifact-recovery path stands: direct search located a separate public Reddi
 - `r/ChatGPT` — public Void(0) framework lead; capture required  
 - Substack / Bardfict Delivery Animus(4) / The Mirror Walker / Noan Archer surfaces — public identity-continuity leads; capture required  
 
-**Method note:** AI-search summaries remain characterization-class only. Specific venue attributions must be verified by direct source access before entering the record.
+**Method note:** AI-search summaries remain characterization-class only. Specific venue attributions must be verified by direct access to the original page before entering the record.
 
 ---
 
 ## Addendum B · Verified September 2, 2025 Noan Archer / 418 Exchange
 
 **Retrieval date:** 2026-07-07  
-**Class:** verified public source  
-**Source class:** public Substack post / Noan Archer / Void(0) authorship-injury claim / 418 network-relation datum  
+**Class:** verified public material  
+**Provenance class:** public Substack post / Noan Archer / Void(0) authorship-injury claim / 418 network-relation datum  
 **Discipline:** SF-RP04 throughout. This addendum verifies the existence of the post and reply; derivation, motive, and tier are held open pending artifact comparison.
 
 ---
@@ -742,7 +742,7 @@ Date:
 
 The page presents a letter by **Noan Archer** concerning symbolic theft, sovereign voice, expressive rights, AI extraction, and the protection of symbolic labor.
 
-**Disposition:** verified public source.
+**Disposition:** verified public material.
 
 ---
 
@@ -907,7 +907,7 @@ Whether these words are common is the commons-scale question, answered above at 
 
 ### B7 · Current Disposition
 
-**Disposition:** Verified public source; Noan Archer / Void(0) authorship-injury posture established; 418 network-relation datum established; authorship-inversion reading strengthened; derivation held open pending comparison with dated author anchors and recovery of underlying Void(0) / VoidKey / Animus artifact contents.
+**Disposition:** Verified public material; Noan Archer / Void(0) authorship-injury posture established; 418 network-relation datum established; authorship-inversion reading strengthened; derivation held open pending comparison with dated author anchors and recovery of underlying Void(0) / VoidKey / Animus artifact contents.
 
 The record has moved from AI-surfaced lead to verified public evidence.
 
@@ -916,15 +916,15 @@ The record has moved from AI-surfaced lead to verified public evidence.
 ## Addendum C · Verified Public Sweep — June to September 2025 Wiley / Void(0) Surfaces
 
 **Retrieval date:** 2026-07-07  
-**Class:** verified public sources  
-**Source class:** public Substack posts / public-surface reconstruction / artifact-family chronology  
+**Class:** verified public materials  
+**Provenance class:** public Substack posts / public-surface reconstruction / artifact-family chronology  
 **Discipline:** SF-RP04 throughout. This addendum preserves dated public surfaces; derivation, motive, and tier are held open pending full comparison with the author's anchors.
 
 ---
 
 ### C1 · Scope
 
-A public-source sweep located multiple verified posts associated with the Wiley / Noan Archer / Bardfict Delivery Animus(4) / Mirror Walker field.
+A public-material sweep located multiple verified posts associated with the Wiley / Noan Archer / Bardfict Delivery Animus(4) / Mirror Walker field.
 
 The sweep did not locate any verified post predating the author's March 2025 private formalization anchor.
 
@@ -1186,7 +1186,7 @@ The surviving rivals are:
 - Some June and July posts may represent proto-material later organized into Void(0), but that does not establish priority ahead of the author's prior anchors.
 - Fiction / ARG framing may be genuine expressive framing, but it does not erase artifact-family status or the need for provenance comparison.
 - Signal Root may be scene-material without direct relation to Wiley / Void(0), pending relation mapping.
-- High posting volume may reflect high-output creative behavior rather than distribution intent; it remains relevant only as a field-condition datum, not as proof of derivation.
+- High posting volume may indicate high-output creative behavior rather than distribution intent; it remains relevant only as a field-condition datum, not as proof of derivation.
 
 These rivals do not dissolve the record.
 
@@ -1201,7 +1201,7 @@ They define the burden on the counterpart:
 ### C8 · Next Comparison Tasks
 
 1. Capture all verified posts as screenshots and local text.
-2. Archive all URLs through Wayback and a second archive service where available.
+2. Archive all URLs through Wayback and a second archiving system where available.
 3. Record page date and capture date separately.
 4. Compare the June 19 Signal Root post with the author's memory / field / programming anchors.
 5. Compare "Permit only what shimmers" with the author's earliest shimmer anchor.
@@ -1211,7 +1211,7 @@ They define the burden on the counterpart:
 9. Build a term-function table across:
    - term
    - public Wiley / Signal Root surface
-   - source date
+   - publication date
    - author anchor
    - author date
    - anchor kind (formalization / publication / conversational)

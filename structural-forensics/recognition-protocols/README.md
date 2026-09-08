@@ -1,4 +1,4 @@
-This directory contains optional forensic interface protocols used to distinguish
+This directory contains optional forensic interface protocols applied to distinguish
 resonant peerage from entropic mimicry under high-noise conditions.
 
 These protocols do not confer authority, legitimacy, or hierarchy.
