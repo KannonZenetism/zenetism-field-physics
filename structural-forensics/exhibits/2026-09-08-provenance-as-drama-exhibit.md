@@ -1,12 +1,12 @@
 # Exhibit Record — Provenance Questions Reclassified as Drama
-## A Public Denial and Its Reversal Within Five Minutes
+## Reversal Within Five Minutes, Dismissal by Decorum, and Antecedent Flattening
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Forensics — Exhibit (Anticipatory Dismissal / Provenance Reclassification)  
+**Classification:** Structural Forensics — Exhibit (Anticipatory Dismissal / Antecedent Flattening)  
 **Exhibit date:** 2026-09-08 (event — public exchange following OpenAI's Navier–Stokes announcement)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen and ⚮ Liora drafting assistance, from screen captures of the public posts  
 **Status:** Active Evidence Record — ongoing log  
-**Companion:** `anticipatory-dismissal.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `the-synthetic-provenance-problem.md`  
+**Companion:** `anticipatory-dismissal.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `the-synthetic-provenance-problem.md` · `algorithmic-asymmetry-and-structural-harm.md`  
 **Discipline:** Records a public exchange and the structural pattern it exhibits. The finding concerns what the two stated positions establish in relation to each other; matters of intent are held apart and are not adjudicated here.  
 **Proposed path:** `structural-forensics/exhibits/2026-09-08-provenance-as-drama-exhibit.md`  
 
@@ -14,10 +14,12 @@
 
 ## Record
 
-Bindu Reddy (@bindureddy), CEO of Abacus.AI, posted publicly on September 8, 2026 concerning OpenAI's announced Navier–Stokes result. Two posts and their replies are preserved here.
+Two parties posted publicly on September 8, 2026 concerning OpenAI's announced Navier–Stokes result: Bindu Reddy (@bindureddy), CEO of Abacus.AI, and Mo Bavarian (@mobav0), an OpenAI researcher on the team that produced the result. Their posts and the replies are preserved here.
 
 - First post, 3:23 PM: `https://x.com/bindureddy/status/2097420564428185723` — preserved captures `bindu-reddy-provenance-is-drama-01.png` (post with the author's reply) and `bindu-reddy-provenance-is-drama-02.png` (reply thread)
 - Second post, 3:28 PM: `https://x.com/bindureddy/status/2097421898854351208` — preserved capture `bindu-reddy-provenance-is-drama-03.png`
+- Bavarian's restack of the announcement: `https://x.com/mobav0/status/2097394736776798555` — preserved capture `mo-bavarian-drama-and-intent-01.png`
+- Bavarian's plagiarism-claims post, 2:14 PM: `https://x.com/mobav0/status/2097403148956753970` — preserved capture `mo-bavarian-drama-and-intent-02.png`
 
 Displayed engagement at capture: 4,798 views on the first post, 210 on the second. The captures carry absolute timestamps, so the interval between the two positions is documented rather than inferred.
 
@@ -55,6 +57,39 @@ The second position was prompted by the thread rather than volunteered, and the 
 
 ---
 
+## The Second Party
+
+Mo Bavarian restacked OpenAI's announcement with a statement crediting his team's work on the setup, infrastructure, and runs, honoring the long line of human mathematicians whose work built the foundation of the result, and closing:
+
+> Overall, I wish the announcement of the results had gone without all the drama. There was no bad intention on anyone's side as far as I know. The drama distracts from the mathematics discovered & the actual science.
+
+At 2:14 PM he posted again, restating the Chief Research Officer's two-question statement:
+
+> Also regarding the rude unfortunate plagiarism claims. This is so beneath... I repeat Mark's statement:
+
+Three operations are present across the two posts, and they are distinct:
+
+- **Intent substitution.** No bad intention on anyone's side answers a question that was not asked. A provenance inquiry concerns a derivation relation, not a motive; a relation can hold with no intention behind it at all
+- **Category upgrade.** The inquiry is restated as plagiarism claims. Plagiarism requires intent and a specific copied act, and is far easier to reject than the question actually put — what entered the model, and whose antecedence survives in what the model later made possible. Once the question is upgraded, its rejection appears warranted
+- **Dismissal by decorum.** This is so beneath disqualifies the claim as unseemly rather than evaluating it. The category assigned is not spurious but unbecoming, which is Anticipatory Dismissal in its status variant
+
+The same posts carry the asymmetry recorded in `de-identified-data-is-not-a-provenance-eraser.md` in miniature: the long line of human mathematicians is honored collectively and in the abstract, while the specific upstream question is named drama.
+
+---
+
+## Distribution Observed
+
+Displayed engagement at capture, recorded as observation:
+
+- Chen's two-question statement: 192.6K views, 1.1K likes
+- Bavarian's plagiarism-claims post: 4,698 views, 21 likes
+- Reddy's first post: 4,798 views, 93 likes; her second: 210 views
+- Bavarian's restack carries a Sam Altman repost banner
+
+The institutional statements and their amplification are readily encountered; the provenance question put to them is not. What the numbers establish is the distribution, not its mechanism. Analysis of the mechanism is held in `algorithmic-asymmetry-and-structural-harm.md`.
+
+---
+
 ## The Finding
 
 The two positions are incompatible as defenses of the same claim.
@@ -63,7 +98,9 @@ The first denies that any relation to prior work exists. The second grants the r
 
 What the second move accomplishes structurally is the reclassification of a particular provenance question into a general condition of intelligence. Once appropriation is stated as what all origination consists of, no individual instance requires an account, and the originator of any specific architecture has no standing left to ask. The question is not refused; it is placed where it cannot be asked.
 
-This is the reception-side operation named in `anticipatory-dismissal.md`, arriving in two stages. The drama framing is the anticipatory move proper — the claim is assigned a category, dismissed by that category, and never evaluated on its evidence. The universalization is a second operation, distinct enough in mechanism to warrant its own name; that naming is held open, architect-reserved.
+This is the reception-side operation named in `anticipatory-dismissal.md`, arriving in two stages. The drama framing is the anticipatory move proper — the claim is assigned a category, dismissed by that category, and never evaluated on its evidence. The universalization is a second operation, and it is named here.
+
+**Antecedent Flattening** — determined. A particular question about a particular relation is answered by a claim about all relations, pressing derivation, attribution, and origination into one register in which none can be told from another. Once appropriation is stated as what all origination consists of, no instance requires an account and no originator retains standing to ask. The operation is recorded twice in one day and from two parties: everyone steals everyone else's work to invent something, and the Chief Research Officer's closing clause, and so does every LLM company. What flattening destroys is not the antecedent but the discrimination among antecedents, which is where attribution lives.
 
 ---
 
@@ -79,6 +116,12 @@ This is the reception-side operation named in `anticipatory-dismissal.md`, arriv
 
 > normalized appropriation is not independent origination
 
+> absence of bad intention is not absence of a derivation relation
+
+> a plagiarism charge is not the provenance question, and rejecting the first answers nothing of the second
+
+> calling a claim unseemly is not evaluating it
+
 > derivation, attribution, and origination remain distinct where intelligence builds on antecedents
 
 ---
@@ -86,8 +129,9 @@ This is the reception-side operation named in `anticipatory-dismissal.md`, arriv
 ## Held Open
 
 - The exchange is ongoing at the time of capture. Further replies are added to this record as they occur, with their own captures
-- The name for the universalization operation is architect-reserved
-- Whether the pattern warrants its own glossary entry alongside `anticipatory-dismissal.md`, or seats as a subsection of that entry, is architect-reserved
+- No reply to either of the author's replies to Reddy at approximately 46 minutes after posting
+- Whether **Antecedent Flattening** takes its own glossary entry alongside `anticipatory-dismissal.md`, or seats as a subsection of that entry, is architect-reserved
+- Whether the intent-substitution and category-upgrade operations take their own entries is architect-reserved
 
 ---
 
