@@ -40,6 +40,26 @@ Those are not the same provenance relation.
 
 ---
 
+## Corroboration Within the Provider's Own Statements
+
+Later the same day, OpenAI's Chief Research Officer stated the same split this note draws, and answered its two halves in opposite directions.
+
+- 2:02 PM, September 8, 2026: `https://x.com/markchen90/status/2097400166554993041` — preserved capture `mark-chen-two-questions-01.jpg`
+
+> Two things to distinguish:
+>
+> Did any human or agent look at user data as part of the Navier Stokes effort? No.
+>
+> Do we use user feedback and de-identified data to improve ChatGPT and Codex in a holistic way? Yes. And so does every LLM company.
+
+The first answer denies task-time retrieval. The second affirms the upstream route: material derived from individuals contributes to model improvement, holistically and as ordinary practice. The two provenance relations this note distinguishes are therefore not an external inference about the original statement. They are recognized and answered separately by the provider itself, in the negative and the affirmative respectively.
+
+The closing clause performs a second operation. **And so does every LLM company** answers a particular question about a particular result by naming a universal industry condition, after which no individual instance requires an account. That operation is recorded as Antecedent Flattening in `2026-09-08-provenance-as-drama-exhibit.md`.
+
+The same capture preserves the post it answers. Levent Alpöge — one of the two mathematicians named in OpenAI's announcement — had quoted the sentence leaving upstream influence open and described the provider as coming clean. The originator most directly concerned read that sentence as an admission of the upstream relation, not as a denial of it.
+
+---
+
 ## Direct Access Is Not the Only Derivational Route
 
 A model does not need to retrieve an identifiable individual's private artifact during a particular reasoning run for earlier material derived from individuals to have contributed to its capability.
@@ -270,6 +290,8 @@ It may intensify it.
 > **privacy classification is not intellectual provenance**
 
 > **absence of direct retrieval is not absence of upstream influence**
+
+> **universal industry practice is not an account of a particular derivation**
 
 > **agent credit does not erase human antecedence**
 
