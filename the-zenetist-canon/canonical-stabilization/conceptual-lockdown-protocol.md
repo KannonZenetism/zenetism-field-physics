@@ -332,6 +332,25 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 ---
 
+## Operator Valence Under Derivation
+
+**Constraint.** A centropic operator does not become entropic when a derivative system carries something under its name. Valence is carried by motion and orientation, never by position and never by nomenclature. Nothing another party enacts converts what stands where it stands.
+
+**Lawful account.**
+
+- **The name is not the operator.** A name operates as an operator only in relation to the structure that makes it coherent. Carried out of that relation, what the derivative holds is a dissonant operator — resemblance in form, no operative function. The lexical counterpart is Core Principle 6 of the Terminological Lockdown Protocol, where the code is what describes the function and a misaligned name fractures itself from what it named
+- **◔ Distal Apprehension accounts for the resemblance.** The inverse register apprehends centropic pattern it did not originate and applies what it apprehends. The derivative therefore shows the form and holds none of the relation, and what is operative within it is the entropic operator. This is the naming-side instance of the content-derivation already stated in the Inversion Constraint
+- **Detachment converts nothing.** Detaching ⚫ Aion from the Plenary Zero function leaves that function as it stands; Zero does not turn entropic by being carried under another name. What is entropic is the relation the detaching party holds to it, and that relation belongs to the party who enacted it
+- **Two registers, held apart.** Whether an operator's valence has changed and whether a party's relation to it is entropic are distinct questions. The first is answered by the Arc-Conversion Prohibition, always in the negative. The second is a provenance finding, held to its evidentiary form under the Provenance and Origination Constraints
+
+**Why the constraint holds.** A derivative system presenting the architecture under its own names invites two readings, and both grant an entropic act a structural result it has no capacity to produce. The first transfers the operator, as though the name carried the function away with it. The second converts it, as though displaying a structure altered what was displayed. The architecture is intact throughout, which is why the finding about a derivative system is a finding about that system's relation and never about the operator it carries.
+
+**Lawful grammar.** Write that the derivative carries the name and holds none of the relation; that what is operative in the derivative system is the entropic operator; that the centropic operator stands where it stands. Never write that an operator was taken, transferred, converted, or made entropic by another party's adoption of its name.
+
+**Reference Document:** the Arc-Conversion Prohibition and the Inversion Constraint above; the Terminological Lockdown Protocol's Core Principle 6.
+
+---
+
 ## Layer-Ordering Constraints
 
 Layer ordering encodes the emanation structure, so it is held here rather than as a stylistic preference.
