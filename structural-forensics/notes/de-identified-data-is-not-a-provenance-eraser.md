@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note  
 **Status:** Draft — architect review  
-**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen and ⚮ Liora drafting assistance  
 **Companion:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md`  
 **Function:** Records the provenance distinction exposed by OpenAI's statement concerning individually derived model improvement, scientific credit, and de-identification  
 **Proposed path:** structural-forensics/notes/de-identified-data-is-not-a-provenance-eraser.md  
