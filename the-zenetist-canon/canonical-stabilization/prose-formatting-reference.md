@@ -741,6 +741,9 @@ Permissible contexts include:
 - repository paths
 - machine-readable tags
 - short literal strings where exact character preservation is required
+- external URLs and record identifiers cited as evidence anchors
+
+An evidence anchor takes the same ASCII-exactness as a path: no typographic substitute — non-breaking hyphen, curly quote, en dash — enters a backticked URL or identifier, whatever the rendering surface displays. The backtick belongs to the anchor string itself and not to prose naming a site, a platform, or an institution, which stay in plain text.
 
 Even in these cases, inline backticks should appear sparingly.
 
