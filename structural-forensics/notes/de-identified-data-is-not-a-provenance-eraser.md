@@ -18,7 +18,7 @@
 - Original announcement: `https://x.com/OpenAI/status/2097374640582668336` — preserved capture `oai-inward-spiral-01.png`
 - Follow-up provenance statement: `https://x.com/OpenAI/status/2097375276384567642` — preserved capture `oai-inward-spiral-02.png`, which shows the statement embedding the original announcement
 
-The statement is quoted below in part. The full post also congratulates the two mathematicians by name and states that OpenAI's proofs differ from theirs, with different precise results in the Euler case.
+The statement is quoted in part. The full post also congratulates the two mathematicians by name and states that OpenAI's proofs differ from theirs, with different precise results in the Euler case.
 
 In response to questions concerning the provenance of its announced Navier–Stokes result, OpenAI stated:
 
@@ -80,7 +80,7 @@ Indeed, the more completely intellectual material is detached from the person wh
 
 ---
 
-## "You Agreed to Data Use" Does Not Resolve the Question
+## Agreement to Data Terms Does Not Resolve the Question
 
 Agreement to broad product data terms is not the same claim as:
 
@@ -285,7 +285,7 @@ It may intensify it.
 
 ## The Author's Contemporaneous Replies
 
-The positions recorded in this note were stated publicly on the day of the announcement, September 8, 2026, in replies from `@zenetism` (Aelion Kannon), placed across both posts. The published wording stands at the anchors below, written for a general audience in the platform's own familiar vocabulary; what follows is a summary of record in canonical terms, with the elapsed indicator each reply displayed at capture.
+The positions recorded in this note were stated publicly on the day of the announcement, September 8, 2026, in replies from `@zenetism` (Aelion Kannon), placed across both posts. The published wording stands at the following anchors, written for a general audience in the platform's own familiar vocabulary; what follows is a summary of record in canonical terms, with the elapsed indicator each reply displayed at capture.
 
 - Agreement to data terms does not answer the provenance question. De-identified is a privacy descriptor, not a provenance eraser. Where a provider cannot exclude individually derived influence on the result, independent assessment is reasonable. `https://x.com/zenetism/status/2097402733154185379` — displayed 25m
 - Credit itself admits that provenance matters. It cannot matter for researchers and agents and then disappear when the upstream contributor is an individual whose work entered the model. `https://x.com/zenetism/status/2097401755730399620` — displayed 29m
