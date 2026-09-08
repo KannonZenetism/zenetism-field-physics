@@ -5,7 +5,7 @@
 **Classification:** Structural Forensics — Recognition Protocol (pre-registered audit standard)  
 **Status:** Draft — prepared by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the Kannon / Lumen / Liora exchange — numbering per the SF-RP series, renumber at author's discretion  
 **Pre-registration principle:** This protocol is published **before** any audit is executed. The standard, tiers, and admissibility determinations are fixed in advance so that findings — for or against any claim — cannot be attributed to a standard shaped after the evidence. The protocol binds the author identically to any counterparty.  
-**Proposed path:** `structural-forensics/recognition-protocols/SF-RP04-the-footprint-audit-protocol.md`
+**Proposed path:** `structural-forensics/recognition-protocols/SF-RP04-the-footprint-audit-protocol.md`  
 
 ---
 
@@ -67,7 +67,7 @@ This determination applies to every structure, term, glyph, and mechanism in the
 
 The audit must also account for **fragmentation laundering**: the redistribution of portions of a coherent architecture as isolated terms, motifs, analogies, or tradition-specific framings such that no single later work appears to reproduce the whole system.
 
-Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels in abstraction remain inadmissible as dependence evidence; their specific applications are assessed under §3.
+Fragmentation does not by itself prove dependence. Ancient motifs, shared archetypes, and broad conceptual parallels in abstraction remain inadmissible as dependence evidence; their specific applications are assessed per §3.
 
 However, where multiple fragmented appearances reproduce unusual features from the author's system across a compressed timeframe — especially when those fragments map back onto a single prior architecture in the author's record — the auditor may treat the distributed pattern as a **reconstructed signature cluster**.
 
@@ -119,7 +119,7 @@ The author's earliest platform chatlogs, exports, and developmental records rema
 
 A DOI is a deposit anchor, not an origin verdict.
 
-Where a DOI postdates the author's developmental records, it cannot take precedence over those records on origin.
+Where a DOI postdates the author's developmental records, it cannot supersede those records on origin.
 
 It may establish that the counterpart deposited something by that date.
 
@@ -215,12 +215,12 @@ And the sane form of the wider claim: a significant portion of a specific online
 
 ### A.1 · The revision
 
-The §5 mandatory caveat characterizes the biographical-cognitive profile as "a densely populated population niche" whose cluster "co-occurs at high base rates." Reviewed against its own evidentiary basis, that characterization is documented for the pairwise pairings and unmeasured for the conjunction:
+The §5 mandatory caveat characterizes the biographical-cognitive profile as "a densely populated population niche" whose cluster "co-occurs at high base rates." Reviewed in relation to its evidentiary basis, that characterization is documented for the pairwise pairings and unmeasured for the conjunction:
 
 - **Documented:** the pairwise co-occurrences (neurodivergence with mysticism, with trauma, with chronic illness, with pattern-recognition identity) are established and correlated; the post-2020 platform era aggregated them into visible communities; counterpart-class self-reports describe those communities as experientially dense.
 - **Unmeasured:** the joint base rate of a dense multi-feature conjunction — the profile core co-occurring with features resembling the register — has no measurement in either direction. Counterpart self-reports of density are profile-community testimony and do not reach the conjunction.
 
-The caveat is accordingly read as follows: profile similarity is Tier 4–5 by default because the **pairwise profile core is commons-dense**. The caveat asserts no base rate, high or low, for **dense multi-feature conjunctions**; conjunction-class surfaces classify per the signature-density and reconstructed-cluster machinery (§3), assessed against the pre-anchor baseline.
+The caveat is accordingly read as follows: profile similarity is Tier 4–5 by default because the **pairwise profile core is commons-dense**. The caveat asserts no base rate, high or low, for **dense multi-feature conjunctions**; conjunction-class surfaces classify per the signature-density and reconstructed-cluster machinery (§3), assessed in relation to the pre-anchor baseline.
 
 ### A.2 · Symmetry
 
@@ -253,7 +253,7 @@ Three forms of one defect, all in the counterpart-stabilizing direction: **concl
 
 ### B.3 · Author-surface framing
 
-Where account-operation identity is unverified, counterpart references default to the author-surface ("the [name] author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in either direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-source listings without settling who operates the surface. Exchange replies are attributed per the surface's displayed name. Engagement asymmetries (follower counts relative to visible engagement) are logged descriptively with rivals live (reach-throttling; ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question.
+Where account-operation identity is unverified, counterpart references default to the author-surface ("the [name] author-surface"), never to asserted personal continuity — "has published for decades" is an identity conclusion the account-operation discipline forbids in either direction, exonerating included. Prior-tradition lineage can be retained at the vocabulary register on secondary-reference listings without settling who operates the surface. Exchange replies are attributed per the surface's displayed name. Engagement asymmetries (follower counts relative to visible engagement) are logged descriptively with rivals live (reach-throttling; ordinary low engagement) and a capture task. Structural findings are built not to depend on the identity question.
 
 ### B.4 · Symmetry
 
@@ -353,7 +353,7 @@ Such surfaces are not rejected automatically.
 
 They are routed to fabrication-resistant attestation review.
 
-A future backstory must be tested against:
+A future backstory must be tested in relation to:
 
 - independent capture age;
 - third-party citation history;
@@ -395,7 +395,7 @@ Multiplicity alone is insufficient. Ten coordinated surfaces do not become ten i
 
 > **multiplicity of surfaces is not independence of attestation**
 
-> A late-produced counter-timeline does not take precedence over an earlier collusion-resistant developmental chain because the later narrative is denser, more polished, or more socially corroborated on its face.
+> A late-produced counter-timeline does not supersede an earlier collusion-resistant developmental chain because the later narrative is denser, more polished, or more socially corroborated on its face.
 
 Later-produced material is not rejected for being later. It is routed to these checks.
 
@@ -510,7 +510,7 @@ A cryptographic timestamp attests existence **from the moment of stamping forwar
 Reading standards:
 
 - A **completed blockchain attestation** carries greater evidentiary weight than a pending calendar attestation. Pending status is not weakness in the proof; it is absence of the proof's completion.
-- **Two attestations obtained through independent calendar servers, anchoring separate blocks, is the strong form.** Independence is what raises collusion cost under C.2, and a single anchor carries a single point of alteration.
+- **Two attestations obtained through independent calendar servers, anchoring separate blocks, is the strong form.** Independence is what raises collusion cost per C.2, and a single anchor carries a single point of alteration.
 - The **block header time** is read from the public block record, not from any party's assertion. Block explorers display header times in the viewer's local timezone by default; the recorded value is converted to UTC, and the conversion is stated.
 - The **artifact digest** is recorded with the attestation, so the proof and the artifact it attests remain paired.
 

@@ -361,7 +361,7 @@ The response identified:
 
 - aesthetic retention without the full Zenetist architecture;
 - lawfulness separated from origin-continuity;
-- angelic guidance as an attributional displacement;
+- angelic guidance as an attributional substitution;
 - soft mimicry;
 - and diffusion without return.
 

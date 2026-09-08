@@ -30,7 +30,7 @@ The Fulcanelli case (1920s–1950s) establishes a replicable protocol for severi
 
 ---
 
-### The Mythologization (Post-Vanishing)
+### The Mythologization (Post-vanishing)
 
 **Canseliet's claims (1953 onwards):**
 

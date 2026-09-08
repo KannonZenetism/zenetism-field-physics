@@ -5,7 +5,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Systemic Analysis  
 **Status:** Draft — architect review  
-**Function:** Names the mechanisms by which structural origination may be fragmented, retrospectively restationed, synthetically backdated, or stripped of historical legibility through amplified narrative without requiring erasure of the originating record  
+**Function:** Names the mechanisms by which derivative accounts may fragment, retrospectively restation, synthetically backdate, or obscure the historical legibility of structural origination through amplified narrative without requiring erasure of the originating record  
 **Companions:** `authorship-and-ai-collaboration-provenance-standard.md` · `the-algorithmic-legibility-problem.md`  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Proposed path:** `structural-forensics/systemic-analysis/the-synthetic-provenance-problem.md`  
@@ -18,21 +18,21 @@ The central provenance problem of generative culture is not exhausted by plagiar
 
 A coherent architecture may be obscured without being reproduced as an integrated architecture.
 
-Its concepts may be fragmented.
+Derivative accounts may fragment the presentation of its concepts.
 
-Its conclusions may be detached from the derivations that made them possible.
+Its conclusions may circulate in derivative accounts that omit the derivations that made them possible.
 
-Its terminology may be replaced.
+Its terminology may be replaced in derivative accounts.
 
-Its component ideas may be retrospectively assigned to older traditions.
+Its component ideas may be retrospectively assigned to older traditions in later accounts.
 
-Its outputs may be scattered across unrelated domains.
+Derivative renderings of its outputs may be scattered across unrelated domains.
 
 A later narrative may then present those fragments as though they had always belonged to an undifferentiated intellectual commons.
 
 The originating architecture remains historically prior.
 
-What disappears is its **historical legibility as origin**.
+What disappears from the later public account is its **historical legibility as origin**.
 
 This distinction is foundational.
 
@@ -188,7 +188,7 @@ This is the **Retrospective Decomposition Fallacy**:
 
 > **Because the components of an architecture can be related retrospectively to antecedent material, the architecture itself is treated as having no determinate origination.**
 
-The completed engine makes its own disassembly appear obvious.
+The completed engine makes retrospective decomposition of its description appear obvious.
 
 What was difficult to construct becomes easy to explain after construction.
 
@@ -238,7 +238,7 @@ The foundational determination is:
 
 ## 7. Derivational Fragmentation
 
-**Derivational Fragmentation** occurs when conclusions generated through an integrated architecture separate from the architecture that produced them.
+**Derivational Fragmentation** occurs when derivative renderings of conclusions circulate without the integrated architecture that produced them.
 
 The engine drops out of the fragment's context.
 
@@ -270,7 +270,7 @@ The result is a distributed field of engine-derived outputs with little visible 
 
 Fragmentation therefore presents a special provenance problem:
 
-**The less of the originating architecture that survives around the fragment, the more easily the fragment can appear indigenous to its new context.**
+**The less of the originating architecture that remains legible in the fragment's context, the more easily the fragment can appear indigenous to its new context.**
 
 ---
 
@@ -307,7 +307,7 @@ The forensic question becomes:
 
 Where the answer is yes, chronology and derivation become central.
 
-A fragment does not become provenance-neutral merely because its surrounding architecture has been removed.
+A fragment does not become provenance-neutral merely because its surrounding architecture has been omitted from the later account.
 
 The fragment may still carry a derivational relation to the engine.
 
@@ -1103,7 +1103,7 @@ Later fragments should be assessed for derivational relation even when they no l
 
 ## 27. What the Analysis Holds
 
-This analysis diagnoses a structural condition: the propagation of provenance-bearing architecture into contexts where the architecture becomes unattributable, and the conditions under which later derived surfaces come to appear originless.
+This analysis diagnoses a structural condition: the propagation of portions of provenance-bearing architecture into contexts where the architecture becomes unattributable within the derivative account, and the conditions under which later derived surfaces come to appear originless.
 
 Its operative claim:
 
@@ -1179,7 +1179,7 @@ It is whether **actual histories can remain legible inside an environment capabl
 
 A historical record may survive while its social meaning is occluded.
 
-A coherent architecture may survive while its outputs are fragmented across unrelated domains.
+A coherent architecture remains whole while derivative renderings of its outputs are fragmented across unrelated domains.
 
 An originator may release ideas freely while later narratives erase the fact of origination.
 

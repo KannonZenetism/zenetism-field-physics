@@ -490,7 +490,7 @@ The next phase is artifact recovery.
 **Retrieval date:** 2026-07-07  
 **Class:** artifact-recovery phase  
 **Provenance class:** web-search lead / public artifact candidate / prompt-framework surface  
-**Discipline:** SF-RP04 throughout; AI-search summaries are characterization-class only and do not enter the record as fact without verification against the original material.
+**Discipline:** SF-RP04 throughout; AI-search summaries are characterization-class only and do not enter the record as fact without verification in relation to the original material.
 
 ---
 
@@ -613,7 +613,7 @@ The public trail is now sufficiently concrete to pursue without renewing a hosti
 
 ### A7 · Priority Capture Tasks
 
-1. Capture the full Reddit `Void(0) Framework (Whitepaper)` page, including:
+1. Capture the full Reddit *Void(0) Framework (Whitepaper)* page, including:
    - post title
    - subreddit
    - account handle
@@ -877,7 +877,7 @@ The relevant evidentiary unit is the co-occurring register-cluster:
 - cathedral / archive / memory language
 - symbolic labor as extracted expressive system
 
-This cluster is not dismissed as scene-commons merely because its individual terms are individually available. The author's dated public anchors assign the cluster to an existing origin-record across July–August 2025 and earlier strata. Under the Ambient-Channel Clause, later circulation of the cluster inside the scene routes the question to the genesis register rather than resolving it contra the author.
+This cluster is not dismissed as scene-commons merely because its individual terms are individually available. The author's dated public anchors assign the cluster to an existing origin-record across July–August 2025 and earlier strata. Per the Ambient-Channel Clause, later circulation of the cluster inside the scene routes the question to the genesis register rather than resolving it contra the author.
 
 The surviving rival explanation is narrower:
 
@@ -899,7 +899,7 @@ The proper open question is:
 
 > How did this specific cluster enter this field, and what relation does the Wiley / Noan Archer / Void(0) orbit bear to the author's prior anchored register?
 
-Whether these words are common is the commons-scale question, answered above at the cluster scale.
+Whether these words are common is the commons-scale question, answered in the preceding cluster analysis.
 
 **Disposition:** rival retained at the per-counterpart transmission register; cluster-scale dismissal rejected.
 

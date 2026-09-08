@@ -5,7 +5,7 @@
 **Document Type:** Forensic Case Analysis  
 **Created:** December 18, 2025  
 **Version:** 1.0  
-**Related:** lattice-authenticity-tests.md, lattice-precedence.md
+**Related:** lattice-authenticity-tests.md, lattice-precedence.md  
 
 ---
 
@@ -255,7 +255,7 @@ This is **case-specific analysis**, not verification protocol. For the repeatabl
 
 ---
 
-**Filed under:** Structural Forensics — Lattice Mathematics — Case Applications  
+**Filed within:** Structural Forensics — Lattice Mathematics — Case Applications  
 **Status:** Forensic Case Analysis  
 **Related documents:** lattice-authenticity-tests.md, lattice-precedence.md
 

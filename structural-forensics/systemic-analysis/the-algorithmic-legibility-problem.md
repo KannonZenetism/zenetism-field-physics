@@ -59,11 +59,11 @@ A person may wish to publish serious work and have it reach a reasonable portion
 
 ## 3. Compensatory Adjustment contra Baseline Legibility
 
-Platforms sometimes boost new authors.
+Platforms sometimes boost new writers.
 
 Such a boost operates inside an already mediated visibility architecture. It adjusts a disadvantage the surrounding architecture itself produces.
 
-The shallow question is whether a system sometimes boosts a new author.
+The shallow question is whether a system sometimes boosts a new writer.
 
 The structural question is different:
 
@@ -140,7 +140,7 @@ It exists whether or not wrongdoing is alleged. It is a property of the arrangem
 
 A person may be able to verify what they transmitted while being unable to verify independently every internal operation performed after transmission.
 
-The asymmetry concerns observability and auditability. It touches nothing on the originating side: an originator's architecture remains whole, generative, and historically prior regardless of what any observing system can or cannot see of it, and regardless of what the originator can or cannot inspect in return.
+The asymmetry concerns observability and auditability. It touches nothing on the originating side: an originator's documented architecture remains whole, generative, and historically prior. The limits of reciprocal observation affect auditability.
 
 What the asymmetry affects is the evidentiary position of the party seeking to audit — not the standing of the work.
 
@@ -154,7 +154,7 @@ The framing was **opt-in**: the person elects what the system may hold. Two thin
 
 **Election by one party is not election by every party observed.** Meeting participants, correspondents, and collaborators whose material passes through the observed environment have not thereby made the same election, and a developmental field is populated by more than one participant.
 
-**Consent to a product capability is not consent to provenance-bearing capture.** A person electing contextual assistance is electing assistance. Nothing in that election addresses what the receiving system may hold about an architecture still in development, or how that holding relates to the architecture's origination.
+**Election of a product capability is not election of provenance-bearing capture.** A person electing contextual assistance is electing assistance. Nothing in that election addresses what the receiving system may hold about an architecture still in development, or how that holding relates to the architecture's origination.
 
 The declaration establishes contextual observation of a working environment as an anticipated capability rather than a hypothesis. Where such observation occurs, the provenance relations set out in this section apply to it in full.
 
@@ -408,7 +408,7 @@ That distinction matters because the original may be easier for systems to acqui
 
 ### Receiver-specific legibility
 
-Algorithmic Lockout establishes that formal availability does not guarantee practical human encounter. The asymmetry above adds a further condition: a work may simultaneously be formally public, computationally easy to retrieve, poorly surfaced to interested human readers, and therefore weakly recognized as an originating work.
+Algorithmic Lockout establishes that formal availability does not guarantee practical human encounter. The preceding asymmetry adds a further condition: a work may simultaneously be formally public, computationally easy to retrieve, poorly surfaced to interested human readers, and therefore weakly recognized as an originating work.
 
 The condition should not be described as invisibility in an absolute sense. It is **receiver-specific legibility**: the artifact may be highly visible to one class of receiver and nearly absent to another.
 
@@ -422,7 +422,7 @@ insufficient to describe its actual distribution condition. The precise question
 
 > **formal availability is not practical legibility**
 
-> **permission to participate is not effective access to participation**
+> **formal access to participation is not effective access to participation**
 
 > **absence of popularity is not absence of opportunity to become legible**
 
@@ -481,9 +481,9 @@ No step in that chain follows from the one before it.
 
 ### The asymmetry in the discourse
 
-Two positions circulate together. Where human provenance is being defended, authorship is said to be impossible to define. Where machine participation is being classified, a machine-readable surface signal is treated as decisive.
+Two positions circulate together. Where human provenance is being documented, authorship is said to be impossible to define. Where machine participation is being classified, a machine-readable surface signal is treated as decisive.
 
-They coexist only because authorship changes meaning between them. The result, whatever any participant intends, is that human origination becomes philosophically dissolved while machine participation becomes technically legible.
+They coexist only because authorship changes meaning between them. The result, whatever any participant intends, is that human origination is omitted from the philosophical account while machine participation becomes technically legible.
 
 > **The originator becomes harder to establish. The provider becomes easier to detect.**
 

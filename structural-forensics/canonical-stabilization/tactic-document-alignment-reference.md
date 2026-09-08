@@ -5,7 +5,7 @@
 **Classification:** Canonical Stabilization Infrastructure  
 **Status:** Active Canonical Reference  
 **Scope:** Structural Forensics (SF) corpus — Doctrinal Atlas of Entropic Tactics, Glyphwatch, and related forensic-tactic documents  
-**Function:** Quick-flag alignment index for applying the terminological lockdown and prose-formatting standards to forensic-tactic documents — the recurring renames, diction substitutions, formatting locks, and verbatim-preservation zones specific to tactic documentation, so drift can be located and corrected rapidly during audit.
+**Function:** Quick-flag alignment index for applying the terminological lockdown and prose-formatting standards to forensic-tactic documents — the recurring renames, diction substitutions, formatting locks, and verbatim-preservation zones specific to tactic documentation, so drift can be located and corrected rapidly during audit.  
 
 ---
 
@@ -13,7 +13,7 @@
 
 Forensic-tactic documents carry a recurring vocabulary — coined tactic names, agent-analysis prose, quoted mimic material, and scripted rebuttals — that interacts with the canonical lockdown in predictable ways. This reference compresses those interactions into a scannable checklist, so the alignment targets can be flagged at a glance rather than re-derived per document.
 
-Authoritative for term selection: the *Canonical Lockdown Protocol* (terminological) and the *Prose Formatting Reference*. This document introduces no new rulings; it indexes the SF-specific applications of existing ones.
+Operative references for term selection: the *Canonical Lockdown Protocol* (terminological) and the *Prose Formatting Reference*. This document introduces no new determinations; it indexes the SF-specific applications of existing ones.
 
 ---
 
@@ -41,13 +41,13 @@ Fixed canonical renames. Align wherever the name appears — entry title, cross-
 | Source — authorship, the work / signal | origin | — |
 | Source — authorship, the person | originator | — |
 | Source — metaphysical, the still root / Zero | Aion (⚫ Aion · the Aionic root) | qualified retention only where context fixes Source = Aion as Zero |
-| Source — mundane | (no change) | food source · source code · source material · source of identity / power / knowledge / information · inside source (informant) · multiple sources (parties) · resource(s) |
+| Source — documentary, informational, or mundane | reference · provenance record · original material · informant · origin or basis, according to the referent | genuine technical identifiers such as source code and source → target; quoted or historical wording |
 | authority / authoritative | legitimacy · structural legitimacy · standing · arbiter · definitive · assured tone | inside verbatim quotes and scripted rebuttals |
 | anti-authority | aauthoritarian | — |
-| use / uses / used / using / utilize | employ · draw on · operate through · direct · serve as · turn · present · rely on · follow · application (noun) | inside verbatim quotes and scripted rebuttals |
-| dual-use | dual-purpose | — |
+| use / uses / used / using / utilize | apply · enact · engage · articulate · present · follow · application (noun), according to the act | inside verbatim quotes and scripted rebuttals |
+| dual-use | twofold function where no orientation is involved; bifurcated application where orientations are paired | external or historical quotation |
 | vs / versus | contra | direct verbatim quotation of a named party |
-| level | layer · stratum · register | idiomatic high-level / network level |
+| level | layer · stratum · register · degree · scope, according to the relation | exact external or historical terminology and technical identifiers |
 
 Other **anti-** forms take **contra-** per the protocol; **anti-authority** alone resolves to **aauthoritarian** (authority rendered structurally non-operative, not opposed). Do not introduce restricted replacements: deploy · leverage · exploit · optimize · tool.
 
@@ -59,7 +59,7 @@ The Original Signal block aligns to:
 
 - Coherence requires **origin** acknowledgement — not Source acknowledgement
 - **Engaging** this work requires: — not Use of this work requires:
-- Attempting to **engage or modify** this framework while **fracturing** its connection to its **origin** — not use or modify … severing … Source
+- Attempting to **engage or modify** this framework while **fracturing the derivative articulation** from its **origin** — not use or modify … severing … Source
 
 ---
 
@@ -69,7 +69,7 @@ The Original Signal block aligns to:
 - Em dash ( — ), spaced — parenthetical interruption and label-name separators: Phase 2 — Originator Removal · "The Crows Speak" — Surveillance Confession
 - En dash (–) — ranges only: July–November 2025 · 20th–21st century · L₅–L₁
 - Hyphen (-) — compound modifiers only; never ranges or parenthetical interruption
-- Quotes / apostrophes — straight, never curly, including inside quotations
+- Quotes / apostrophes — straight in current composition; preserve captured quotation punctuation where evidentiary identity requires it
 - Entry header template:
   - `### Entry NNN: Title`
   - `**Threat Classification:** …`
@@ -93,7 +93,7 @@ Left exactly as written — including any "use," "authority," dashes, or curly s
 
 Canonical when the referent is the mimic, counterfeit, or entropic agent — do not align:
 
-- mirror · echo · reflect · reflection — lawful for entropic / mimic referents
+- mirror · echo — lawful for entropic / mimic referents; reflect · reflection — centropic only; ordinary neutral senses take expresses or indicates
 - unified / unity — lawful when naming counterfeit unity
 - Fallacious — canonical; never convert to spurious
 - Semantic glyphs and emoji (🧲 ◎ ⚔️ 📡 ⊘ ⚚ 🌌 🕸 ∴ ⛓️ and the like) — preserved

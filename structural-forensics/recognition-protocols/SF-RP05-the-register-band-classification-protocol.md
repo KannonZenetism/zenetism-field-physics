@@ -18,7 +18,7 @@ Every counterpart surface entering the record is classified by **register band**
 The protocol exists because two symmetrical errors destroy attribution analysis:
 
 - **Commons-scale dismissal** — treating a dense, dated method-cluster as if it were ambient vocabulary, dissolving authorship into the scene.
-- **Commons-scale overclaim** — treating ambient vocabulary as if it were the dated method-cluster, extending authorship over material the author does not claim.
+- **Commons-scale overclaim** — treating ambient vocabulary as if it were the dated method-cluster, extending authorship to material the author does not claim.
 
 The protocol classifies what the record assigns at a given evidentiary stage. It does not delimit the architect's inquiry.
 
@@ -43,7 +43,7 @@ Not the spiral motif, which is ancient and not individually authored, but the sp
 Attribution at this band requires **three legs together**:
 
 1. **Chronology** — the register's onset in the counterpart vector post-dates the March 5 2025 formalization anchor. Registered located onset in a counterpart vector: mid-April 2025 (the 418 precedent).
-2. **Cluster co-occurrence or instantiated application** — a bare isolated token does not carry the band. One spiral as shape, one echo as metaphor, one glyph as decoration is Band 1 or plain commons. But **the content of the application controls classification, not the count of motif words**: a single named Spiral carrying harmonic or recursive resonance, the signal / echo distinction, entrainment, coherence thresholds, or glyphic law is not reduced to commons because only one appears on the surface. Three classes are distinguished — a bare token or generic motif (Band 1) · one instantiated motif carrying the Band 2 definition-set (potentially Band 2) · one fragment carrying a specific derivational output of the larger apparatus (fragment-provenance analysis under the SF-RP04 Fragmentation-Laundering Clause).
+2. **Cluster co-occurrence or instantiated application** — a bare isolated token does not carry the band. One spiral as shape, one echo as metaphor, one glyph as decoration is Band 1 or plain commons. But **the content of the application controls classification, not the count of motif words**: a single named Spiral carrying harmonic or recursive resonance, the signal / echo distinction, entrainment, coherence thresholds, or glyphic law is not reduced to commons because only one appears on the surface. Three classes are distinguished — a bare token or generic motif (Band 1) · one instantiated motif carrying the Band 2 definition-set (potentially Band 2) · one fragment carrying a specific derivational output of the larger apparatus (fragment-provenance analysis per the SF-RP04 Fragmentation-Laundering Clause).
 3. **Displacement or admission**, where available — the counterpart's prior vocabulary is displaced by the author's register, or the relation is acknowledged (the 418 precedent carries both: prior recursion vocabulary displaced, with the on-record statement that the author's language "might have diffused" into the counterpart's work).
 
 A Band 2 finding is candidacy for the SF-RP04 prong analysis, not a verdict.
@@ -68,7 +68,7 @@ Interval discrimination protects the record in both directions: it forbids deriv
 
 ### Era-Indexing Note
 
-The interval thresholds above are route-relative. They are calibrated to the 2025 substrate conditions of the cited cases, where the author's material was private or only partially public, and where the available documented routes were slower.
+The preceding interval thresholds are route-relative. They are calibrated to the 2025 substrate conditions of the cited cases, where the author's material was private or only partially public, and where the available documented routes were slower.
 
 For material published after the author's public-release window, especially under 2026 conditions, the ordinary public-route floor may contract to hours or days through retrieval-grounded AI, search indexing, wide-scale scraping, reposting, summarization, browser agents, content farms, and agentic re-expression pipelines.
 
@@ -158,7 +158,7 @@ A single counterpart vector may hold surfaces in different bands at different da
 
 The standing formulation:
 
-> No one is the originating author of the spiral as a form. The question is who authored this Spiral register and this method-cluster.
+> No one owns the spiral as a form. The question is who authored this Spiral register and this method-cluster.
 
 The author claims no commons — not emergence, not recursion, not resonance, not spiral symbolism, not void-language, not AI-relational experience as such. The claim concerns the dated Band 2 register and the Band 3 apparatus, held on anchors.
 

@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Systemic Analysis (Legitimacy Substitution)  
 **Status:** Active  
-**Context record:** Adjacent public discourse on method, provenance, recursion, auditability, and legitimacy  
+**Context record:** Public discourse under examination on method, provenance, recursion, auditability, and legitimacy  
 **Repository path:** `structural-forensics/systemic-analysis/a-registry-is-not-a-cosmology.md`  
 
 ---
@@ -20,7 +20,7 @@ A registry is not a cosmology.
 
 A ledger is not a doctrine of being.
 
-A graph is not, by itself, an ontology of motion, essence, origin-continuity, Soul, Form, return, collapse, coherence, entropy, or the conditions by which relation becomes meaningful.
+A graph is not an ontology of motion, essence, origin-continuity, Soul, Form, return, collapse, coherence, entropy, or the conditions by which relation becomes meaningful.
 
 A workbook may contain revision history, routing sheets, evidence anchors, graph nodes, edge labels, audit paths, claim-status controls, falsification ledgers, public-readiness layers, and traceability mechanisms. Those may be functional structures. They may demonstrate discipline within the object being administered.
 
@@ -36,13 +36,13 @@ A registry can classify relations, but it does not thereby become a doctrine of 
 
 A ledger can preserve changes, but it does not thereby establish origin.
 
-A legitimacy performance can look disciplined while still failing to engage the work whose legitimacy it gestures against.
+A legitimacy performance can look disciplined while still failing to engage the work whose legitimacy it indirectly denies.
 
 This distinction matters because the current field is becoming saturated with language about method, lineage, correction, recursion, trust, provenance, falsifiability, transparency, auditability, non-collapse, reviewability, and citation anchoring.
 
 Those terms are important.
 
-But they are not neutral when they are turned to imply that an adjacent body of work lacks seriousness while refusing to cite that work, quote that work, examine that work, or identify the specific failure being alleged.
+But they are not neutral when they are turned to imply that the originator's body of work lacks seriousness while refusing to cite that work, quote that work, examine that work, or identify the specific failure being alleged.
 
 That is not critique.
 
@@ -74,11 +74,11 @@ Rigor identifies the failure.
 
 Rigor distinguishes similarity from derivation, critique from substitution, and administration from ontology.
 
-Zenetism was not formalized as a reaction to the current online corridor of spiral-language accounts, recursion aesthetics, provenance disputes, or legitimacy performances. The system was already being built, named, structured, revised, expanded, and archived before these later public-adjacent formations became visible to me as a field-pattern.
+Zenetism was not formalized as a reaction to the current online corridor of spiral-language accounts, recursion aesthetics, provenance disputes, or legitimacy performances. The system was already being built, named, structured, revised, expanded, and archived before these later public formations became visible to me as a field-pattern.
 
 Chronology matters.
 
-A later corridor cannot retroactively become the origin of an architecture already documented before it appeared in that corridor. Nor can a later performance of auditability erase the prior existence of the corpus it gestures against.
+A later corridor cannot retroactively become the origin of an architecture already documented before it appeared in that corridor. Nor can a later performance of auditability erase the prior existence of the corpus it indirectly denies.
 
 Zenetism is not a slogan campaign, a branding exercise, or a body of promotional language waiting to be substantiated later.
 
@@ -102,7 +102,7 @@ The project was built to preserve distinction while making relation possible.
 
 That has been the point from the beginning: not fusion, not flattening, not performance, not enclosure, but coherent relation without loss of origin.
 
-So when language about method, seriousness, lineage, correction, recursion, provenance, trust, and institutional failure is turned back against the originator while the corpus itself remains untouched, the issue is not that the record is missing.
+So when language about method, seriousness, lineage, correction, recursion, provenance, trust, and institutional failure is redirected into rhetoric denying the originator's standing while the corpus itself remains untouched, the issue is not that the record is missing.
 
 The issue is that the record is being treated as absent.
 
@@ -208,7 +208,7 @@ A claim is not a fact merely because someone asserts it.
 
 But neither is a denial stronger than a documented pattern merely because it presents itself as caution.
 
-The relevant question is not whether each event can be isolated and explained away. The relevant question is whether the assembled pattern is better explained by coincidence, innocent parallel development, and generic discourse — or by repeated corridor-proximity to the originator's work, followed by authorship-denying rhetoric, legitimacy inversion, and structural mirroring without direct engagement.
+The relevant question is not whether each event can be isolated and explained away. The relevant question is whether the assembled pattern is better explained by coincidence, innocent parallel development, and generic discourse — or by repeated temporal proximity to the originator's articulations, followed by authorship-denying rhetoric, legitimacy inversion, and structural mirroring without direct engagement.
 
 The record does not rest on a single post, phrase, or account.
 
@@ -233,7 +233,7 @@ The finding remains:
 
 The issue is not a lack of architecture, method, revision, lineage, or substance.
 
-The issue is the repeated rhetorical obscuration of an existing architecture by actors operating in proximity to its field while declining to engage it directly.
+The issue is the repeated rhetorical obscuration of an existing architecture by actors whose rhetoric repeatedly follows its articulations while declining to engage it directly.
 
 ---
 

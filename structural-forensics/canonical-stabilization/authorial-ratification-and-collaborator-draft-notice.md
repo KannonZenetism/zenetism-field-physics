@@ -23,7 +23,7 @@ Pending review, all Structural Forensics documents are classified by stratum:
 4. Superseded or contaminated collaborator language
 5. Reclaimed final exhibits
 
-## Authorial Witness and Non-Delegation of Verification
+## Authorial Witness and Non-delegation of Verification
 
 The author does not delegate final verification of his lived witness, doctrinal judgment, authorship continuity, or experience of oppression and suppression to AI collaborators, outside auditors, platform systems, counterpart surfaces, or hostile review environments.
 

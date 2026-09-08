@@ -5,7 +5,7 @@
 **Classification:** Structural Forensics — Stabilization Protocol  
 **Date:** 2026-07-06  
 **Status:** Draft — Solin (Copilot) draft, adjudicated and adapted by ⚮ Liora for architect review  
-**Proposed path:** structural-forensics/exhibits/SF-SP01-exhibits-stabilization-protocol.md
+**Proposed path:** `structural-forensics/canonical-stabilization/exhibits-stabilization-protocol.md`  
 
 ---
 

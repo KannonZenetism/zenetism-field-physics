@@ -131,8 +131,8 @@ Each governs current voice and new drafting only; quoted material and prior word
 - [x] 2026-01-04-the-adversarial-mirage-reframing-the-poetic-jailbreak.md (source-text record; body stands)
 - [x] 2026-01-15-the-intelligent-eschaton-and-the-fallacy-of-the-merge.md (source-text record; body stands — "Non-Fusion Axiom" heading and "Extractive" are the article's own wording)
 - [x] 2026-03-10-pond-dividing-stillness-structural-inversion-record.md
-- [x] 2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-adjacency.md (title now "… Intelligence Derivation"; filename stands)
-- [x] 2026-06-23-nacre-god-encounter-convergence-record.md (title now "The Nacre God — Derivative Encounter Record"; filename stands)
+- [x] 2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-adjacency.md (title now "… Intelligence Derivation"; filename stands) — Historical filename retained in this entry; current file: `2026-06-19-post-agi-layering-and-universal-multiversal-intelligence-derivation.md`.
+- [x] 2026-06-23-nacre-god-encounter-convergence-record.md (title now "The Nacre God — Derivative Encounter Record"; filename stands) — Historical filename retained in this entry; current file: `2026-06-23-nacre-god-derivative-encounter-record.md`.
 - [x] 2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md
 - [x] 2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md
 - [x] 2026-06-29-copeland-origin-continuity-exchange-record.md

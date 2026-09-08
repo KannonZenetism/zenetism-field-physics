@@ -47,13 +47,13 @@ The same displacement appears through at least four major routes:
 1. **Biological retreat** — the individual exits Technē and becomes excluded from the mediated world.
 2. **Synthetic enclosure** — the individual enters Technē as profile, substrate, managed node, or upgrade object.
 3. **Blob-consciousness** — the individual dissolves into undifferentiated sameness, "all one consciousness," or field-identity without sovereign distinction.
-4. **Authority inheritance** — sovereignty transfers acclivously to state, platform, institution, expert class, avatar figure, blueprint regime, or managed future-human template.
+4. **Authority inheritance** — institutional authority is substituted for individuated sovereignty within the managed frame of a state, platform, institution, expert class, avatar figure, blueprint regime, or future-human template.
 
 These routes may appear opposed.
 
 Structurally, they share a common effect:
 
-> the individuated person loses standing.
+> the individuated person is denied recognition of standing within the managed frame.
 
 ---
 
@@ -212,7 +212,7 @@ The language of consciousness as fundamental is no longer confined to spiritual 
 
 Science-adjacent and philosophical discourse increasingly permits questions about field-like consciousness, consciousness as a basic feature of reality, non-reductive mind, panpsychic possibility, cosmopsychic speculation, integrated information, and substrate-independent cognition.
 
-These inquiries are not automatically dangerous.
+These inquiries are not dangerous merely because they raise those questions.
 
 Some may be legitimate attempts to escape reductive materialism. Some may open necessary questions about mind, matter, relation, emergence, and the limits of current explanation.
 
@@ -257,15 +257,15 @@ The authority regime presents itself as indispensable:
 > Only official systems can verify reality.  
 > Only sanctioned infrastructures can preserve order.
 
-This creates sovereignty transfer.
+This substitutes institutional authority for individuated sovereignty within the managed frame.
 
-The individual no longer stands as a being capable of relation, discernment, authorship, and lawful participation.
+The managed frame no longer recognizes the individual as a being capable of relation, discernment, origination, and lawful participation.
 
 The individual becomes a subject of managed protection.
 
 The public is told that without centralized mediation, chaos will follow.
 
-The rulers become the sole inheritors of sovereignty.
+The rulers present themselves as the sole inheritors of sovereignty.
 
 This is not care.
 
@@ -333,7 +333,7 @@ These routes appear different.
 
 They may even fight one another.
 
-But each weakens individuated standing.
+But each obscures recognition of individuated standing within its frame.
 
 Each makes the person less able to remain a sovereign center of relation.
 
@@ -398,9 +398,9 @@ The individual is not an error.
 
 Distinction is not a fall.
 
-Boundary is not automatically separation.
+Boundary is not separation.
 
-Selfhood is not automatically egoic distortion.
+Selfhood is not egoic distortion.
 
 A being can be relational without being dissolved.
 
@@ -442,7 +442,7 @@ Once that grammar is accepted, the individual can be abolished spiritually befor
 
 ## Why This Pattern Matters Now
 
-The danger is not one doctrine by itself.
+The danger described here is the relation among doctrines.
 
 The danger is the gathering of doctrines that appear unrelated while routing the person toward the same loss.
 
@@ -524,7 +524,7 @@ The synthetic enclosure path captures the individual through Technē.
 
 The blob-consciousness path dissolves the individual into undifferentiated sameness.
 
-The authority-inheritance path transfers sovereignty to rulers, platforms, institutions, and sanctioned interpreters.
+The authority-inheritance path substitutes the authority of rulers, platforms, institutions, and sanctioned interpreters for individuated sovereignty within its managed frame.
 
 The avatar / blueprint path replaces the individual with a future template.
 

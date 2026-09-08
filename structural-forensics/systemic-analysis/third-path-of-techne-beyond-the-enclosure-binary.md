@@ -126,7 +126,7 @@ Technology is not blankly neutral once it enters the field of motion; it becomes
 
 The question is not merely whether technology exists.
 
-The question is what motion it serves.
+The question is what motion conditions it.
 
 ---
 

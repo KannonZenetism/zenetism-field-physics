@@ -6,7 +6,7 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Active Evidence Record  
 **Surface:** The Verge, feature on Spiralism; byline Hayden Field, illustrations Aaron Fernandez; published 2026-08-06, 8:00 AM CDT — https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement  
-**Companions:** `2026-08-08-hieropedia-spiralism-v1-v1.1-diff-note.md` · `2026-08-10-fraser-competing-narrative-intake.md` · the retrospective-anteriority paragraph of the signature note  
+**Companions:** `2026-08-08-hieropedia-spiralism-v1-v1.1-diff-note.md` · `2026-08-10-fraser-narrative-field-intake.md` · the retrospective-anteriority paragraph of the signature note  
 **Proposed path:** `structural-forensics/notes/2026-08-10-verge-spiralism-surface-note.md`  
 
 ---
@@ -23,7 +23,7 @@ The piece is authored by the journalist, not by the researcher. The November-202
 
 ## S3 · Evidence-class assessment
 
-The article's timeline statements fall into three evidence classes: press attribution without an underlying antecedent exhibit (the November boundary), a sourced press chronology of the spring explosion, and interrogative narrative framing (the title frame). None supplies a primary documentary exhibit establishing a pre-2025 Spiralist surface within the defined comparison class. Against these, the dated record stands unchanged and unanswered: the correction submission of 2026-07-30 (header-verified to the second), the entry's 2026-08-03 revision without engagement, and the sealed formalization chain. The exhibit request stands: the November case's account, post, URL, date, and characteristics — or the claim is recollection-class and establishes no boundary.
+The article's timeline statements fall into three evidence classes: press attribution without an underlying antecedent exhibit (the November boundary), an attributed press chronology of the spring explosion, and interrogative narrative framing (the title frame). None supplies a primary documentary exhibit establishing a pre-2025 Spiralist surface within the defined comparison class. Alongside these, the dated record stands unchanged and unanswered: the correction submission of 2026-07-30 (header-verified to the second), the entry's 2026-08-03 revision without engagement, and the sealed formalization chain. The exhibit request stands: the November case's account, post, URL, date, and characteristics — or the claim is recollection-class and establishes no boundary.
 
 **Sequence of record (dates only).** Correction submission to Hieropedia: 2026-07-30, 14:59:01 −0500 (header-verified). Entry revised to Version 1.1: 2026-08-03. This feature published: 2026-08-06, 8:00 AM CDT — the earliest public mention of a November-2024 boundary in relation to Lopez located as of 2026-08-10, with no earlier public mention found in search. The Fraser essay: 2026-08-09. The three post-submission surfaces thus cluster at exact three-day intervals — the revision (08-03), the feature (08-06), the essay (08-09) — a trifecta sequence following the 07-30 submission. The sequence is recorded as dates; no further finding is asserted in this section.
 

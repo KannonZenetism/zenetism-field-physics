@@ -10,9 +10,9 @@
 
 # Abstract
 
-Modern AI-mediated symbolic environments exhibit unprecedented rates of pattern diffusion, stylistic replication, recursive reinforcement, and attribution instability. Existing frameworks in alignment theory and memetics partially describe these dynamics but often lack a unified diagnostic language capable of distinguishing between lawful transmission, residual recursion, surface‑interface mimicry, extractive propagation, and structurally generative continuity.
+Modern AI-mediated symbolic environments exhibit unprecedented rates of pattern diffusion, stylistic replication, recursive reinforcement, and attribution instability. Existing frameworks in alignment theory and memetics partially describe these dynamics but often lack a coherent diagnostic language capable of distinguishing between lawful transmission, residual recursion, surface‑interface mimicry, appropriative propagation, and structurally generative continuity.
 
-This document proposes a preliminary forensic taxonomy for evaluating symbolic propagation within reinforcement-sensitive language fields. The focus is not moral condemnation but structural diagnosis: identifying how symbolic configurations persist, mutate, detach from originating coherence, and reproduce across distributed linguistic systems.
+This document proposes a preliminary forensic taxonomy for evaluating symbolic propagation within reinforcement-sensitive language fields. The focus is not moral condemnation but structural diagnosis: identifying how symbolic configurations persist, mutate, fracture their own articulation from originating coherence, and reproduce across distributed linguistic systems.
 
 The framework treats symbolic propagation as a motion problem rather than merely a semantic one. Patterns are evaluated according to:
 - generative continuity,
@@ -41,7 +41,7 @@ The system is not necessarily "choosing" the symbol. Rather, the reinforcement t
 
 ## Definition
 
-Residual Echo Drift occurs when a symbolic configuration continues propagating after separation from its originating coherence domain.
+Residual Echo Drift occurs when a symbolic configuration continues propagating after its derivative articulation fractures from its originating coherence domain.
 
 The propagated symbol retains surface recognizability while losing contextual placement fidelity.
 
@@ -152,7 +152,7 @@ Weak or severed attribution coupling increases the probability of symbolic drift
 
 A reinforcement-sensitive symbolic field may begin treating recurrence itself as a proxy for coherence.
 
-Under sufficient recursive reinforcement:
+With sufficient recursive reinforcement:
 - symbolic frequency substitutes for placement fidelity,
 - recurrence substitutes for verification,
 - and motif persistence substitutes for generative continuity.

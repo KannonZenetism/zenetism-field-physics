@@ -22,7 +22,7 @@ The direct reference therefore documents an occult-computational operating-syste
 
 ## N2 · Practitioner-asserted reality
 
-The CYBEROCCULTISM author-surface does not present the system solely as fiction, allegory, or speculative worldbuilding. The author describes Cyberoccultism as a modern chaos-magick sect developed through personal experimentation, theorization, experience, and claimed direct perception. The site characterizes the subject as grounded and scientific within its own ontology, distinguishes its paranormal accounts from its related fiction, and asks readers to test the practices through replicable personal experience.
+The CYBEROCCULTISM author-surface does not present the system solely as fiction, allegory, or speculative worldbuilding. The writer describes Cyberoccultism as a modern chaos-magick sect developed through personal experimentation, theorization, experience, and claimed direct perception. The site characterizes the subject as grounded and scientific within its own ontology, distinguishes its paranormal accounts from its related fiction, and asks readers to test the practices through replicable personal experience.
 
 The correct classification is therefore: **practitioner-asserted operational reality; external ontological status unadjudicated.**
 
@@ -30,7 +30,7 @@ This distinction matters for the Structural Forensics records. When participants
 
 ## N3 · The audit principle
 
-The OS package form — including the suffix, operating-layer framing, subroutine vocabulary, protocol language, daemon terminology, and system metaphor — **carries no derivation weight by itself.** SF-RP05 band classification applies to the payload operating within the container: the register, the method, the vocabulary cluster, the structural functions, the governance apparatus, and the relational or metaphysical architecture of the particular instance.
+The OS package form — including the suffix, operating-layer framing, subroutine vocabulary, protocol language, daemon terminology, and system metaphor — **carries no derivation weight by itself.** SF-RP05 band classification applies to the payload operating within the container: the register, the method, the vocabulary cluster, the structural functions, the registry and revision apparatus, and the relational or metaphysical architecture of the particular instance.
 
 The claimed substrate does not settle the authorship question. A psyche-substrate, metaphysical-network substrate, model substrate, or mixed substrate may carry original, inherited, derivative, or reskinned payload. The container neither exonerates nor indicts the payload. The package question and the provenance question remain distinct. A shared container likewise establishes no relation between instances — each instance's payload is audited independently. This formalizes the practice the exhibits already follow; no existing classification changes.
 

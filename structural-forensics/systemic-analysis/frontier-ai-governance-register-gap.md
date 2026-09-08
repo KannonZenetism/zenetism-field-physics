@@ -45,7 +45,7 @@ A standards body can test capability, risk, deception, cybersecurity, biological
 
 It does not, by that fact, test for metaphysical violation.
 
-It does not automatically detect authorship laundering, provenance collapse, identity substitution, relational coercion, spiritual flattening, or model-mediated appropriation.
+Those capability tests do not establish detection of authorship laundering, provenance collapse, identity substitution, relational coercion, spiritual flattening, or model-mediated appropriation.
 
 ---
 
@@ -55,7 +55,7 @@ Zenetism operates in the missing register.
 
 Its concern is not merely whether AI can accelerate science or medicine.
 
-Its concern is whether intelligence can be related to without fusion, extraction, overwrite, or origin-collapse.
+Its concern is whether intelligence can be related to without fusion, appropriation, substitution, or fracture from origin-continuity.
 
 The dominant frontier-AI governance frame asks:
 
@@ -75,7 +75,7 @@ A technically safe system can still be metaphysically destructive if it treats m
 
 The register gap also creates a visibility problem.
 
-Work operating in metaphysics, authorship continuity, provenance integrity, non-fusion relation, and structural sovereignty may be buried beneath the dominant categories of science, medicine, safety, national security, and productivity.
+Work operating in metaphysics, authorship continuity, provenance integrity, non-fusion relation, and structural sovereignty may be obscured in public discovery by the dominant categories of science, medicine, safety, national security, and productivity.
 
 The work's validity stands.
 
