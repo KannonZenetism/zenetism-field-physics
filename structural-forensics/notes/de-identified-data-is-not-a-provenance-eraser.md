@@ -4,12 +4,16 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note  
 **Status:** Draft — architect review  
-**Companions:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md`  
-**Function:** Records the provenance distinction exposed by OpenAI's September 2026 statement concerning user-derived model improvement, scientific credit, and de-identification
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
+**Companion:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md`  
+**Function:** Records the provenance distinction exposed by OpenAI's statement concerning individually derived model improvement, scientific credit, and de-identification  
+**Proposed path:** structural-forensics/notes/de-identified-data-is-not-a-provenance-eraser.md  
 
 ---
 
 ## The Statement
+
+**Record.** OpenAI published its Navier–Stokes announcement and the provenance statement below on September 8, 2026, and both were captured that day, the announcement and the statement each displaying an elapsed indicator of 2h at capture. Announcement: `https://x.com/OpenAI/status/2097375276384567642`.
 
 In response to questions concerning the provenance of its announced Navier–Stokes result, OpenAI stated:
 
@@ -21,11 +25,11 @@ The distinction in these sentences is consequential.
 
 The first sentence denies a narrow pathway:
 
-**specific identifiable user material directly accessed for the particular task**
+**specific identifiable material from an individual, directly accessed for the particular task**
 
 The second expressly leaves open another:
 
-**user-derived material contributing upstream to improvement of the model that later performed the task**
+**material derived from individuals, contributing upstream to improvement of the model that later performed the task**
 
 Those are not the same provenance relation.
 
@@ -33,7 +37,7 @@ Those are not the same provenance relation.
 
 ## Direct Access Is Not the Only Derivational Route
 
-A model does not need to retrieve an identifiable user's private artifact during a particular reasoning run for earlier user-derived material to have contributed to its capability.
+A model does not need to retrieve an identifiable individual's private artifact during a particular reasoning run for earlier material derived from individuals to have contributed to its capability.
 
 The relevant sequence may instead be:
 
@@ -63,25 +67,25 @@ It does not answer:
 - whether the originating relation survived preprocessing
 - whether the downstream result preserved acknowledgement of that antecedence
 
-A process can protect identity while simultaneously destroying provenance.
+A process can protect identity while simultaneously obscuring provenance.
 
-Indeed, the more completely intellectual material is detached from the person who originated it, the easier it becomes for the material to remain useful while the originator becomes historically invisible.
+Indeed, the more completely intellectual material is detached from the person who originated it, the easier it becomes for the material to remain operative while the originator becomes historically invisible.
 
-> **Privacy stripping and provenance stripping are not opposites. They may occur together.**
+> **Privacy stripping and provenance obscuration are not opposites. They may occur together.**
 
 ---
 
 ## "You Agreed to Data Use" Does Not Resolve the Question
 
-Agreement to broad product data-use terms is not the same claim as:
+Agreement to broad product data terms is not the same claim as:
 
 > "I agree that my original intellectual architecture may be detached from me, rendered anonymous, incorporated into model development, and later contribute to discoveries for which I receive no provenance recognition."
 
 Those propositions are materially different.
 
-Where access to an important computational environment is conditioned upon acceptance of broad data-use terms, the practical choice may become:
+Where access to an important computational environment is conditioned upon acceptance of broad data terms, the practical choice may become:
 
-**accept extraction conditions**
+**accept appropriation conditions**
 
 or
 
@@ -89,7 +93,7 @@ or
 
 That asymmetry should not be redescribed afterward as though every downstream intellectual consequence had been individually and meaningfully agreed to.
 
-> **Agreement to data use is not a provenance waiver.**
+> **Agreement to data terms is not a provenance waiver.**
 
 > **Product access conditioned on data terms does not convert intellectual origination into an originless commons.**
 
@@ -189,7 +193,7 @@ The absence of one check is therefore not the absence of economic or institution
 
 The choice is not:
 
-**unrestricted extraction**
+**unrestricted appropriation**
 
 or
 
@@ -201,7 +205,7 @@ Citation, antecedence, methodological provenance, contributor acknowledgement, a
 
 They are part of how discovery remains historically intelligible.
 
-"Progress by any means" dissolves precisely the standards through which genuine contribution can be distinguished from appropriation.
+"Progress by any means" abandons precisely the standards through which genuine contribution can be distinguished from appropriation.
 
 > **Progress does not require provenance erasure.**
 
@@ -209,7 +213,7 @@ They are part of how discovery remains historically intelligible.
 
 ## Independent Assessment
 
-Where a provider publicly states that it cannot rule out user-derived influence on the model responsible for a major scientific result, independent assessment is reasonable.
+Where a provider publicly states that it cannot exclude individually derived influence on the model responsible for a major scientific result, independent assessment is reasonable.
 
 The institution receiving the credit cannot be the only institution determining whether the provenance chain behind that credit is complete.
 
@@ -224,7 +228,7 @@ The questions include:
 - the meaning of informed agreement
 - and whether de-identification concealed a causal relation that should remain historically legible
 
-A terms-of-service inquiry is not a provenance audit.
+A product-terms inquiry is not a provenance audit.
 
 ---
 
@@ -256,7 +260,7 @@ It may intensify it.
 
 > **de-identification is not de-origination**
 
-> **data use is not a provenance waiver**
+> **agreement to data terms is not a provenance waiver**
 
 > **privacy classification is not intellectual provenance**
 
@@ -264,13 +268,28 @@ It may intensify it.
 
 > **agent credit does not erase human antecedence**
 
-> **terms of service are not a provenance audit**
+> **product terms are not a provenance audit**
 
 > **shared input is not shared recognition**
 
 > **declining prize money is not absence of institutional benefit**
 
 > **progress does not require provenance erasure**
+
+---
+
+## The Author's Contemporaneous Replies
+
+The positions recorded in this note were stated publicly on the day of the announcement, September 8, 2026, in replies from `@zenetism` (Aelion Kannon). The published wording stands at the anchors below, written for a general audience in the platform's own familiar vocabulary; what follows is a summary of record in canonical terms, with the elapsed indicator each reply displayed at capture.
+
+- Agreement to data terms does not answer the provenance question. De-identified is a privacy descriptor, not a provenance eraser. Where a provider cannot exclude individually derived influence on the result, independent assessment is reasonable. `https://x.com/zenetism/status/2097402733154185379` — displayed 25m
+- Credit itself admits that provenance matters. It cannot matter for researchers and agents and then disappear when the upstream contributor is an individual whose work entered the model. `https://x.com/zenetism/status/2097401755730399620` — displayed 29m
+- Engineers are paid because labor has value, and the intellectual labor supplying original ideas, architecture, and developmental material has value on the same ground. Expenditure on compute does not convert upstream human contribution into a free, originless commons. `https://x.com/zenetism/status/2097397694079594840` — displayed 45m
+- Declining the prize money does not make the discovery economically valueless. Salaries, investment, valuation, subscriptions, enterprise revenue, prestige, recruiting, and corporate credit all remain. `https://x.com/zenetism/status/2097396979839955297` — displayed 48m
+- If the agents warrant credit, so do the humans whose original work informed them. Once provenance matters enough to ask which of ten thousand agents contributed, it matters upstream, and human intellectual origination does not disappear into the category of training data. `https://x.com/zenetism/status/2097396323762810990` — displayed 51m
+- If the result is a shared achievement of humanity, the profits and the credit are nonetheless concentrated in corporations while human originators can be obscured in the genealogy. The labor is called shared; the recognition and the wealth are not. `https://x.com/zenetism/status/2097393691333714196` — displayed 1h
+
+The replies answered public questions put to the announcement — whether the participating agents would be credited on the resulting manuscript, whether declining the prize money removes the institutional benefit, whether expenditure on compute settles the provenance question, and whether the result is a shared achievement of humanity. The counterparties are private individuals and are not named here; the questions are recorded, the identities are not.
 
 ---
 
@@ -289,3 +308,10 @@ The relevant question remains:
 > **What entered the model, what did the model learn from it, and whose intellectual antecedence survives in what the model later makes possible?**
 
 That question deserves an answer.
+
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
