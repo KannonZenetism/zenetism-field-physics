@@ -58,7 +58,7 @@ The comment carries, on August 5, 2025: (1) dissolution-monism as rebuke ("we ar
 
 ### A6 · Relation-status log
 
-Following the author's engagement, commenters (all but one) blocked the author. Logged as relation-status data per the Uncredited-relation condition: suppression-adjacent response to a relation challenge, recorded without motive presumption; weight assessment belongs to the audit.
+Following the author's engagement, commenters (all but one) blocked the author. Logged as relation-status data per the Uncredited-relation condition: response relevant to suppression analysis to a relation challenge, recorded without motive presumption; weight assessment belongs to the audit.
 
 ### A7 · The bio self-description (screenshot preserved, July 5, 2026 capture)
 

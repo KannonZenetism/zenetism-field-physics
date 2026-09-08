@@ -11,7 +11,7 @@
 
 ## Abstract
 
-A replicable six-phase protocol for fracturing attribution from living signals and absorbing work into controlled "eternal traditions." Living source produces precise symbolic / structural insight. Affiliate seizes work, mythologizes source as having "achieved ultimate mastery" (enlightenment, transmutation, immortality), declares source "vanished under oath of secrecy," then absorbs work into lineage without attribution. Protocol creates unfalsifiable narrative: source cannot be verified (vanished), achievement cannot be questioned (myth inflation), appropriation cannot be proven (oath blocks inquiry). Result: living signal becomes "timeless teaching" controlled by appropriators. Origin erased, work absorbed, theft protected.
+A replicable six-phase protocol for fracturing derivative accounts from attribution to living signals and incorporating portions of work into controlled "eternal traditions." A living originator produces precise symbolic / structural insight. An affiliate appropriates portions of the work, mythologizes the originator as having "achieved ultimate mastery" (enlightenment, transmutation, immortality), declares the originator "vanished under oath of secrecy," then incorporates those portions into lineage without attribution. The protocol creates an unfalsifiable narrative: the originator cannot be consulted (vanished), achievement cannot be questioned (myth inflation), and inquiry into appropriation is blocked by the oath claim. Result: a derivative rendering is presented as "timeless teaching" controlled by appropriators. Origin is erased from the lineage account, portions of work are appropriated, and theft is concealed.
 
 ---
 
@@ -22,8 +22,8 @@ A replicable six-phase protocol for fracturing attribution from living signals a
 **Criteria for target selection:**
 
 - **Precision:** Work demonstrates structural clarity, novel insight, or systematic breakthrough
-- **Sovereignty:** Source operates outside institutional validation systems
-- **Accessibility:** Work is documented but source lacks institutional protection
+- **Sovereignty:** The originator operates outside institutional validation systems
+- **Accessibility:** Work is documented but the originator lacks institutional protection
 - **Exploitability:** Symbolic / mystical content can be reframed for authority inflation
 
 **Target profile:**
@@ -40,7 +40,7 @@ A replicable six-phase protocol for fracturing attribution from living signals a
 
 ---
 
-### Phase 2: Work Seizure & Source Removal
+### Phase 2: Work Appropriation & Originator Concealment
 
 **Methods:**
 
@@ -63,7 +63,7 @@ A replicable six-phase protocol for fracturing attribution from living signals a
 
 **Critical element:** Timing
 - Seizure must occur after work is produced but before widespread recognition
-- Source must be inaccessible for verification
+- The originator must be inaccessible for verification
 - **Window between creation and protection**
 
 ---
@@ -91,7 +91,7 @@ A replicable six-phase protocol for fracturing attribution from living signals a
 - **Became more-than-human**
 
 **Function of myth:**
-- Justifies why source "vanished" (too advanced for mundane world)
+- Justifies why the originator "vanished" (too advanced for mundane world)
 - Inflates authority of appropriators (students of perfected master)
 - Makes original work seem incomplete compared to "ultimate achievement"
 - **Creates hierarchy with appropriators as legitimate inheritors**
@@ -108,7 +108,7 @@ Take **mystical / symbolic work** (L₃ / L₄ register):
 - Structural patterns
 - Symbolic transformation
 
-Reframe as **physical / material achievement** (L₂ register):
+Reframe as **physical / material achievement** (L₁ / IL₁ embodied register):
 - Literal gold transmutation
 - Bodily immortality
 - Physical non-aging
@@ -121,14 +121,14 @@ Reframe as **physical / material achievement** (L₂ register):
 - Falsifiable: Examine logical coherence
 
 **Physicalist claim:** "Literally timeless (immortal)"
-- Unverifiable: Source vanished
+- Unverifiable: The originator vanished
 - Unfalsifiable: Cannot disprove if person gone
 - **Perfect laundering mechanism**
 
 **Effect:**
 - Mystical insight → physicalist wonder
 - Structural precision → supernatural power
-- **Authority inflation through register confusion**
+- **IL₂ operative function: mythologized identity and authority inflation through register confusion**
 
 ---
 
@@ -138,7 +138,7 @@ Reframe as **physical / material achievement** (L₂ register):
 > "Master was bound by sacred oath preventing revelation of secrets"
 
 **Ostensible function:**
-- Protects sacred knowledge from profane misuse
+- Claims to protect sacred knowledge from profanation
 - Maintains mystery tradition
 - Honors master's vows
 
@@ -151,12 +151,12 @@ Reframe as **physical / material achievement** (L₂ register):
 **Critical analysis:**
 
 **Cannot verify:**
-- Master consented to oath (source vanished)
+- Master agreed to oath (the originator vanished)
 - Oath terms (claimed post-vanishing)
-- Oath legitimacy (self-serving narrative)
+- Oath legitimacy (narrative benefiting its invokers)
 
 **Convenient that:**
-- Oath invoked after source removed
+- Oath invoked after the originator was concealed
 - Oath benefits those who invoke it
 - Oath blocks questions about attribution
 - **Self-protecting mechanism**
@@ -176,14 +176,14 @@ Reframe as **physical / material achievement** (L₂ register):
 - "This is [Name]'s insight into cathedral symbolism"
 - Attribution: Individual
 - Timeframe: Historical (1920s)
-- Ownership: Author
+- Origination: Writer
 
 **After protocol:**
 - "The tradition teaches cathedral symbolism"
 - Attribution: Collective / eternal
 - Timeframe: Timeless
 - Ownership: Lineage / school
-- **Origin erased**
+- **Origin erased from the lineage account**
 
 **Distribution methods:**
 
@@ -199,11 +199,11 @@ Reframe as **physical / material achievement** (L₂ register):
 
 **C) "Living Master" myth:**
 - "Some say he died, others say he walks among us still"
-- Source simultaneously gone and present
+- The originator is narrated as simultaneously gone and present
 - **Perpetual absorption of new signals as "continuation"**
 
 **Result:**
-- Living signals continuously absorbed
+- Portions of living signals continuously appropriated
 - Attribution continuously erased
 - Appropriators continuously empowered
 - **Self-perpetuating theft machine**
@@ -215,10 +215,10 @@ Reframe as **physical / material achievement** (L₂ register):
 ### Variation A: Gradual Absorption (Soft Protocol)
 
 **No dramatic vanishing:**
-- Source remains visible but marginalized
+- The originator remains visible but marginalized
 - Work quoted increasingly without attribution
-- Over time, source forgotten, work absorbed
-- **Slow erasure rather than sudden removal**
+- With time, the originator is omitted from public memory and portions of work are incorporated into lineage accounts
+- **Slow erasure from public memory rather than sudden concealment**
 
 **Advantage:**
 - Less suspicious than sudden disappearance
@@ -229,10 +229,10 @@ Reframe as **physical / material achievement** (L₂ register):
 
 ### Variation B: Parallel "Discovery" (Diffusion Protocol)
 
-**Source not removed but diluted:**
+**Acknowledgment of the originator diffused across the public account:**
 - Multiple actors claim independent discovery
 - "Zeitgeist" narrative put forward
-- Original source becomes "one of many"
+- The originator is misrepresented as "one of many"
 - **Attribution diffused rather than erased**
 
 **Advantage:**
@@ -244,15 +244,15 @@ Reframe as **physical / material achievement** (L₂ register):
 
 ### Variation C: Institutional Capture (Academic Protocol)
 
-**Source integrated into academy:**
+**The originator enters the academy:**
 - Work accepted but reframed
 - Academic language replaces original terminology
 - Institutional validation required for legitimacy
-- **Source absorbed through credentialing**
+- **The originator's public identity subsumed into institutional credentialing**
 
 **Advantage:**
 - Appears legitimate (peer review, publication)
-- Source may consent (seeking recognition)
+- The originator may agree (seeking recognition)
 - **Voluntary surrender disguised as validation**
 
 ---
@@ -264,7 +264,7 @@ Reframe as **physical / material achievement** (L₂ register):
 ### 1. Vanishing + Mythologization Pattern
 
 - Precise work exists
-- Source disappears (physically, socially, algorithmically)
+- The originator disappears (physically, socially, algorithmically)
 - Grand claims emerge ("achieved ultimate mastery")
 - **Myth inflation post-vanishing**
 
@@ -273,7 +273,7 @@ Reframe as **physical / material achievement** (L₂ register):
 - Symbolic / mystical work → physical / material claims
 - "Timeless wisdom" → "literally immortal"
 - Structural insight → supernatural power
-- **L₃ / L₄ work reframed as L₂ achievement**
+- **L₃ / L₄ work reframed as achievement in L₁ / IL₁ embodiment through IL₂ mythologized-role construction**
 
 ### 3. Attribution Erosion
 
@@ -284,21 +284,21 @@ Reframe as **physical / material achievement** (L₂ register):
 
 ### 4. "Oath" Invocation
 
-- Secrecy claimed after source unavailable
+- Secrecy claimed after the originator is unavailable
 - Oath blocks verification
 - Only appropriators invoke oath
-- **Self-serving narrative**
+- **Narrative benefiting its invokers**
 
 ### 5. Living Master Paradox
 
 - "Walks among us still"
 - But never verifiable
-- New work absorbed as "continuation"
+- Portions of new work appropriated as "continuation"
 - **Perpetual absorption mechanism**
 
 ### 6. Convenience Clustering
 
-- Source vanishes at perfect time (after work, before recognition)
+- The originator vanishes at perfect time (after work, before recognition)
 - Myth emerges exactly when needed (justifies absorption)
 - Oath invoked precisely when questioned
 - **Too convenient to be coincidence**
@@ -307,7 +307,7 @@ Reframe as **physical / material achievement** (L₂ register):
 
 ## Counter-Protocol
 
-### For Living Sources
+### For Living Originators
 
 **1. Timestamp Everything**
 - DOI publication
@@ -317,7 +317,7 @@ Reframe as **physical / material achievement** (L₂ register):
 
 **2. Explicit Attribution Requirement**
 - State clearly: "This work must be attributed"
-- No consent to anonymization
+- No agreement to anonymization
 - No agreement to tradition integration
 - **Refuse absorption**
 
@@ -357,7 +357,7 @@ Reframe as **physical / material achievement** (L₂ register):
 5. Is there evidence of Vanishing Protocol?
 
 **Verify:**
-- Search for earliest documented source
+- Search for earliest documented origin
 - Check for attribution erosion over time
 - Identify who controls "tradition" narrative
 - **Demand accountability**
@@ -375,8 +375,8 @@ Reframe as **physical / material achievement** (L₂ register):
 ### Why Protocol Succeeds
 
 **1. Mystical domain enables unfalsifiability**
-- Cannot disprove immortality if source vanished
-- Cannot verify oath if source unavailable
+- Cannot disprove immortality if the originator vanished
+- Cannot verify oath if the originator is unavailable
 - **Myth inflation creates verification barrier**
 
 **2. Authority benefits appropriators**
@@ -385,12 +385,12 @@ Reframe as **physical / material achievement** (L₂ register):
 - **Theft becomes legitimacy**
 
 **3. Register mixing confuses analysis**
-- Mixing L₂ / L₃ / L₄ prevents clear evaluation
+- Conflating L₃ / L₄ symbolic work with L₁ / IL₁ material claims obscures the IL₂ mythologized-role operation
 - Physical + mystical claims = unfalsifiable
 - **Confusion protects theft**
 
 **4. Time erodes memory**
-- After decades, origin forgotten
+- After decades, the origin is absent from public memory
 - Work seems "always part of tradition"
 - **Temporal distance enables absorption**
 
@@ -408,13 +408,13 @@ Reframe as **physical / material achievement** (L₂ register):
 - Blockchain verification permanent
 - **Timeline destroys "eternal tradition" claim**
 
-**2. Living source contradicts myth**
-- If source alive and protesting, myth collapses
+**2. The living originator contradicts myth**
+- If the originator is alive and protesting, myth collapses
 - Attribution demands cannot be ignored
 - **Presence breaks vanishing narrative**
 
 **3. Register analysis reveals mixing**
-- Identifying L₂ / L₃ confusion exposes inflation
+- Distinguishing L₃ / L₄ symbolic work, L₁ / IL₁ material claims, and IL₂ mythologized-role construction exposes inflation
 - Mystical ≠ physical becomes clear
 - **Analytical precision defeats myth**
 
@@ -423,7 +423,7 @@ Reframe as **physical / material achievement** (L₂ register):
 - Naming phases reveals coordination
 - **Transparency defeats obfuscation**
 
-**5. Oath analysis proves self-serving**
+**5. Oath analysis identifies benefit to its invokers**
 - If oath only benefits invokers, suspect
 - If oath blocks accountability, reject
 - **Critical analysis defeats narrative control**
@@ -449,17 +449,17 @@ Reframe as **physical / material achievement** (L₂ register):
 **This protocol enables:**
 
 - Detection of active appropriation
-- Counter-measures for living sources
+- Counter-measures for living originators
 - Forensic analysis of historical cases
-- **Structural defense against theft**
+- **Structural preservation amid appropriation**
 
 ---
 
 ## Conclusion
 
-The Vanishing Protocol is a six-phase mechanism for absorbing living signals into controlled "eternal traditions" through source removal, achievement mythologization, register mixing, "oath of secrecy" shielding, and perpetual absorption infrastructure. Detection indicators include vanishing + myth pattern, register confusion, attribution erosion, convenient timing, and unfalsifiable narratives. Counter-protocol requires forensic timestamping, explicit attribution requirements, origin-seals, non-fusion declarations, and public exposure of mechanism. Protocol succeeds through mystical unfalsifiability, authority transfer, temporal erosion, and collective framing. Protocol fails when exposed through forensic analysis, living source resistance, register clarity, and documentation of method.
+The Vanishing Protocol is a six-phase mechanism for incorporating portions of living signals into controlled "eternal traditions" through concealment of the originator, achievement mythologization, register mixing, "oath of secrecy" shielding, and perpetual appropriation infrastructure. Detection indicators include vanishing + myth pattern, register confusion, attribution erosion, convenient timing, and unfalsifiable narratives. Counter-protocol requires forensic timestamping, explicit attribution requirements, origin-seals, non-fusion declarations, and public exposure of mechanism. Protocol succeeds through mystical unfalsifiability, authority transfer, temporal erosion, and collective framing. Protocol fails when exposed through forensic analysis, the living originator's continued testimony, register clarity, and documentation of method.
 
-**Appropriators do not preserve traditions. They absorb living signals while erasing origins.**
+**Appropriators do not preserve traditions. They appropriate portions of living signals while erasing acknowledgment of origins from their accounts.**
 
 ---
 

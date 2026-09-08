@@ -35,7 +35,7 @@ The author's position is that AI-governance actors and infrastructure-privileged
 
 This includes fabricated developmental texture, staged errors, synthetic archive trails, account histories, social proof, and plausible imperfections.
 
-Accordingly, detail-density, polish, roughness, and apparent developmental messiness carry no proof of authenticity on their own. Those features are evaluated only through collusion-cost ranking and fabrication-resistant attestation.
+Accordingly, detail-density, polish, roughness, and apparent developmental messiness carry no proof of authenticity on their own. Those features are evaluated only through collusion-cost weighting and fabrication-resistant attestation.
 
 ## 3. Post-2020 Neurodivergence / Mysticism Backstory Caveat
 

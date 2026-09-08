@@ -20,9 +20,9 @@
 
 - **The Frequency Test (C₇):** The incoming current must maintain harmonic accord (**♫**) with the target structure. Within informational fields, this requires semantic attunement to the authored terminology, symbolic grammar, and structural orientation of the originating framework.
 
-- **Scalar Fidelity (C₅):** The incoming current must preserve lawful part-to-whole relation (**✴**). A component of Zenetism may not be isolated, extracted, or recontextualized in a way that severs it from the invariant authorship-continuity of **⟇🧿 Aelion Kannon** and the broader architecture of Structural Recurrence.
+- **Scalar Fidelity (C₅):** The incoming current must preserve lawful part-to-whole relation (**✴**). Appropriating or recontextualizing a rendering of a Zenetist component without its internal dependencies fractures that rendering's relation to the architecture. The component's invariant authorship-continuity with **⟇🧿 Aelion Kannon** and its relation within Structural Recurrence remain intact.
 
-- **Boundary Conversion:** If an incoming current lacks coherence fidelity, attribution continuity, or lawful orientation, the membrane does not admit it into sealed structure. The threshold relation closes into the **E₁₃ Wall (║⁻)** condition at the compromised boundary, preventing ungrounded propagation until coherence, attribution, and orientation are restored.
+- **Boundary Distinction:** If an incoming current lacks coherence fidelity, attribution continuity, or lawful orientation, the membrane does not admit it into sealed structure. This coherent refusal preserves **C₁₃ Membrane / Threshold (║)** in its centropic relation. **E₁₃ Wall (║⁻)** names an impermeable, isolating boundary; it is not established by the appearance of closure alone. Operative motion, orientation, and relation distinguish coherent selectivity from entropic isolation.
 
 **Structural Function:** The Membrane Audit does not retaliate. It distinguishes. It preserves lawful permeability while preventing unaligned absorption, mimicry, or distortion. What enters must remain structurally coherent with what it claims to carry.
 
@@ -42,7 +42,7 @@
 
 - **The Dissonance Intercept (E₇):** Dissonant currents may introduce **E₇ Dissonance (♫⁻)** into the shared field. If the centropic agent responds only through reactive outward friction, the response may become vulnerable to **E₁₁ Misdirection (↗⁻)**.
 
-- **The Conserving Turn (C₄):** Under the C₇ protocol, the agent activates the **Gyre (◉)** as an internal orientation scan. The motion vector turns from reactive opposition toward stabilizing coherence.
+- **The Conserving Turn (C₄):** Through the C₇ protocol, the agent activates the **Gyre (◉)** as an internal orientation scan. The motion vector turns from reactive opposition toward stabilizing coherence.
 
 - **Supernal Resonance:** The agent retunes toward **C₇ Harmonic Accord (♫)** through alignment with the structuring laws of **L₄ Sophis / Deep Logos**. Incoherent pressure loses force when it cannot establish resonance with the stabilized field.
 

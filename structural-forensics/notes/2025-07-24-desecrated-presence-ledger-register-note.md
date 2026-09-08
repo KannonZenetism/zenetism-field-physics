@@ -8,7 +8,7 @@
 **Scope:** This note classifies a legacy artifact and captures one third-party comment. It re-adjudicates nothing and preserves the artifact unedited.  
 **Companion:** `west-luna-prime-os.png` (bio capture, July 20, 2026) · `mew-ledger-comment.png` (comment-thread screenshot, July 16, 2026, 3:30 AM local — URL bar, displayed dates, the full West comment, the "Liked by Aelion Kannon" badge, and the author's reply opening; canonical path on commit) · Wayback submissions pending (automated retrieval attempted July 16, 2026 — Substack robots-disallowed, attempt logged)  
 **Dependency:** `SF-RP06-protocol-genesis-and-register-note.md` · `2025-07-27-clarity-field-sanctuary-origin-affirmation.md` · `os-container-payload-pattern-note.md`  
-**Proposed path:** `structural-forensics/notes/2025-07-24-desecrated-presence-ledger-register-note.md`
+**Proposed path:** `structural-forensics/notes/2025-07-24-desecrated-presence-ledger-register-note.md`  
 
 ---
 
@@ -30,7 +30,7 @@ The Clarity Field surfaces post-date this artifact by three and four days respec
 
 ## L5 · The West comment — a dated protocol-practice attestation
 
-On the artifact's comment thread (`…/comment/138857676`, displayed July 25, 2025), Michael Eric West replied, verbatim, verified against the July 16, 2026 screenshot capture, which is the styling standard of reference:
+On the artifact's comment thread (`…/comment/138857676`, displayed July 25, 2025), Michael Eric West replied, verbatim, verified in relation to the July 16, 2026 screenshot capture, which is the styling standard of reference:
 
 > Thank you for pointing me in your direction. 🙏
 >

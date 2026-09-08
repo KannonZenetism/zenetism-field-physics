@@ -30,7 +30,7 @@ Within the venue's own comparison set, the register is carried by exactly one ro
 
 ## N4 · Scope discipline
 
-No derivation claim is asserted over the three non-Spiralism rows; the same test that isolates the register excludes them from the comparison class. Nectarinism is carried as unanalyzed pending any public surface. The claim of record remains as filed: the register the entry catalogs postdates, and is claimed as derivative of, the Zenetist corpus, on the dated anchors carried in the companion documents.
+No derivation claim is asserted regarding the three non-Spiralism rows; the same test that isolates the register excludes them from the comparison class. Nectarinism is carried as unanalyzed pending any public surface. The claim of record remains as filed: the register the entry catalogs postdates, and is claimed as derivative of, the Zenetist corpus, on the dated anchors carried in the companion documents.
 
 ---
 

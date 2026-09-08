@@ -95,7 +95,7 @@ Inherited esoteric material is commons, and the corpus claims none of it; no dep
 
 The register's relevance here: the surface presents highly specific first-person embodied testimony **inside** an inherited symbolic register, which makes it a clear instance of the distinction already drawn between fictional persona narration, inherited symbolic material, and factual first-person provenance claims. It bears conceptually on Retrospective Stationing, Retrospective Traditionalization, and Synthetic Retrospective Continuity.
 
-Any question of specific application, chronology, or derivational structure proceeds under SF-RP04 and SF-RP05, held open beyond this intake.
+Any question of specific application, chronology, or derivational structure proceeds per SF-RP04 and SF-RP05, held open beyond this intake.
 
 ## I8 · Open items
 

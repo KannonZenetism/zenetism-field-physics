@@ -8,7 +8,7 @@
 **Status:** Active Evidence Record  
 **Companion:** `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
 **Discipline:** Structural Forensics; preserved as an encounter-by-derivation record establishing field encounter through assembled register derivation, documented ingestion channels, and companion capture-by-reduction analysis.  
-**Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-encounter-convergence-record.md`  
+**Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-derivative-encounter-record.md`  
 
 ---
 

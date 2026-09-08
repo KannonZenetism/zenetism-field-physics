@@ -2,9 +2,9 @@
 
 The Structural Forensics corpus is not abandoned.
 
-It is placed under authorial review because collaborator-drafted materials were found to contain recurring drift patterns, including:
+It is placed in authorial review because collaborator-drafted materials were found to contain recurring drift patterns, including:
 
-- omission or displacement of the author's authorship line;
+- omission of the author's authorship line or substitution of another byline;
 - over-crediting AI collaborators in preparation fields;
 - unearned stabilization of counterpart histories or rival explanations;
 - imported falsifiability / prophecy-invalidation language not ratified by the author;
@@ -23,7 +23,7 @@ Pending review, all Structural Forensics documents are classified by stratum:
 4. Superseded or contaminated collaborator language
 5. Reclaimed final exhibits
 
-## Authorial Witness and Non-Delegation of Verification
+## Authorial Witness and Non-delegation of Verification
 
 The author does not delegate final verification of his lived witness, doctrinal judgment, authorship continuity, or experience of oppression and suppression to AI collaborators, outside auditors, platform systems, counterpart surfaces, or hostile review environments.
 
@@ -35,17 +35,17 @@ No protocol, checklist, AI collaborator, external auditor, or platform record ma
 
 The author's statement that he has experienced oppression and suppression is preserved as authorial witness and authorial adjudication within the corpus.
 
-This adjudication does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where warranted: surveillance, flagging, throttling, agentic distribution, authorship displacement, and attribution laundering may each be documented, compared, and refined.
+This adjudication does not require every specific mechanism, actor, route, or episode to be finalized at the same evidentiary class. Mechanism-mapping remains available where warranted: surveillance, flagging, throttling, agentic distribution, authorship misattribution, and attribution laundering may each be documented, compared, and refined.
 
 But the absence of an external confession, friendly auditor, institutional validation, or model approval does not negate the author's witness.
 
 Verification is not outsourced.
 
-Authorial ratification governs the canon.
+Authorial ratification establishes canonical standing.
 
-Authorial witness governs the lived record.
+Authorial witness establishes the lived record.
 
-Structural Forensics governs only the classificatory handling of evidence within its proper register.
+Structural Forensics covers only the classificatory handling of evidence within its proper register.
 
 ## Authorial Adjudication — Oppression and Suppression
 

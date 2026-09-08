@@ -7,13 +7,13 @@
 
 ---
 
-**Truth-status** refers to the condition by which a claim is permitted to count as "truth" within a given social, institutional, religious, scientific, or political framework.
+**Truth-status** refers to the condition by which a claim is accepted as counting as "truth" within a given social, institutional, religious, scientific, or political framework.
 
 Truth-status is not identical with veracity.
 
-A claim may receive truth-status because it is spoken by an authorized figure, recognized discipline, credentialed institution, dominant culture, or governing interpretive chain. This does not guarantee that the claim bears veracious relation to reality.
+A claim may receive truth-status because it is spoken by an institutionally approved figure, recognized discipline, credentialed institution, dominant culture, or governing interpretive chain. This does not guarantee that the claim bears veracious relation to reality.
 
-Likewise, a claim may be denied truth-status because it emerges outside permitted channels. This denial does not prove the claim is spurious.
+Likewise, a claim may be denied truth-status because it emerges outside institutionally accepted channels. This denial does not prove the claim is spurious.
 
 **Veracity** refers to structural integrity, evidential bearing, coherence of relation, and resonance with what is actually the case insofar as it can be discerned.
 
@@ -27,7 +27,7 @@ Therefore:
 
 * truth-status is socially granted
 * veracity is structurally borne
-* authorized truth may be spurious
+* institutionally approved truth may be spurious
 * unrecognized knowledge may remain veracious
 * lack of audit does not erase the record
 * lack of recognition does not nullify what is structurally the case

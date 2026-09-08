@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol  
 **Status:** Active Canonical Reference  
-**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-fractured recurrence. It establishes origin-continuity as the minimal condition of an honest shared field.  
+**Function:** A recognition protocol that refutes the thesis that any later configuration standing downstream of an earlier one is, by that fact alone, a legitimate branch, and that distinguishes lawful branching from origin-fractured recurrence. It establishes origin-continuity as the minimal condition of lawful transmission.  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`  
 
 ---
@@ -35,7 +35,7 @@ A framework that ends its analysis at *downstream* has not resolved the question
 
 A genuine branch announces its own separation. A fork, a schism, a semantic split each say, in effect, *this is a separate line now*. That declaration is not incidental to branching; it is constitutive of it. It is what distinguishes a branch from a copy.
 
-Origin-fractured recurrence does the opposite. It suppresses the declaration, retains the structure, and removes only the name. Measured against the branch conditions these frameworks themselves require — traceable inheritance, a stable relational difference, independent continuation — name-stripping-with-structure-preservation does not pass as a branch. It is the negative of one. The single case the thesis most needs to file under *branch* is the case its own definition excludes.
+Origin-fractured recurrence does the opposite. It suppresses the declaration, retains the structure, and removes only the name. Measured in relation to the branch conditions these frameworks themselves require — traceable inheritance, a stable relational difference, independent continuation — name-stripping-with-structure-preservation does not pass as a branch. It is the negative of one. The single case the thesis most needs to file under *branch* is the case its own definition excludes.
 
 ## Traceability Is Not Optional
 
@@ -47,19 +47,19 @@ The relation is reconstructed through the registered evidence: chronology, struc
 
 > **Absence of a visible transmission pathway is not evidence of independent emergence.**
 
-This yields the governing test: either a provenance relation between the earlier and later structure can be reconstructed — in which case the relation is real and acknowledgement is owed — or the claim of inheritance is not being made at all. What the thesis quietly requires is a relation strong enough to claim the inheritance yet unreconstructible enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
+This yields the operative test: either a provenance relation between the earlier and later structure can be reconstructed — in which case the relation is real and acknowledgement is owed — or the claim of inheritance is not being made at all. What the thesis quietly requires is a relation strong enough to claim the inheritance yet unreconstructible enough to escape the attribution. No honest account of descent grants that combination. It has to be smuggled.
 
 ## The Middle Cases Do Not Rescue It
 
-The test above is not a denial of complexity. Genuine middle cases exist: unconscious parallel development, shared upstream influence, ambient diffusion of terminology, partial derivation, model-mediated contamination of a common pool. These are real, and a serious account must allow for them.
+The preceding test is not a denial of complexity. Genuine middle cases exist: unconscious parallel development, shared upstream influence, ambient diffusion of terminology, partial derivation, model-mediated contamination of a common pool. These are real, and a serious account must allow for them.
 
 They do not rescue the thesis, because not one of them licenses removing the seal of origin. Parallel development is compatible with acknowledgement. Diffusion is compatible with acknowledgement. Partial derivation is compatible with acknowledgement. Every honest middle case can be stated while keeping the origin legible. The configuration that no middle case supplies is the only one that matters here: retain the architecture and omit the origin. That is not a position on the map of descent. It is the absence on which the thesis silently depends.
 
-Nor do these classes hold presumptive standing. Parallel development, independent emergence, collective emergence, and shared terrain remain possible classifications; none is a default explanation. Where a derivation claim has not met its evidentiary threshold, the relation stays open. Where it has, an affirmative counter-classification acquires a responsive burden.
+Nor do these classes hold presumptive standing. Parallel development, independent emergence, collective emergence, and corresponding subject matter remain possible classifications; none is a default explanation. Where a derivation claim has not met its evidentiary threshold, the relation stays open. Where it has, an affirmative counter-classification acquires a responsive burden.
 
 > **A counter-classification must answer the evidence already established.**
 
-A later surface does not earn *independent*, *parallel*, *collective*, or *convergent* because direct transmission is unavailable to inspection. Failure to establish one classification does not establish another. Open remains open where the checks remain incomplete — but *open* never operates as a device for granting an unsupported alternative equal weight against a classification that has met its threshold.
+A later surface does not earn *independent*, *parallel*, *collective*, or *convergent* because direct transmission is unavailable to inspection. Failure to establish one classification does not establish another. Open remains open where the checks remain incomplete — but *open* never operates as a device for granting an unsupported alternative equal weight alongside a classification that has met its threshold.
 
 ## The Symmetry Requirement
 
@@ -71,7 +71,7 @@ A common form of the thesis affirms that provenance is nonredundant and then mak
 
 ## Where the Thesis Becomes Unstable
 
-The conclusion is methodological, and it is exact. On the very cases it is most often invoked to cover — the provenance-fracturing cases — the framework supplies the vocabulary that converts a fractured transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested legitimacy*, *no recoverable original*. Each term is individually defensible. Assembled over an erasure, they launder it into lineage.
+The conclusion is methodological, and it is exact. On the very cases it is most often invoked to cover — the provenance-fracturing cases — the framework supplies the vocabulary that converts a fractured transfer into ordinary genealogy: *descendant*, *separate instantiation*, *divergent reading*, *contested legitimacy*, *no recoverable original*. Each term is individually defensible. Assembled around erasure from the public account, they launder it into lineage.
 
 A framework that cannot distinguish acknowledged branching from origin-fractured recurrence does not protect lineage. It metabolizes appropriation into genealogy. That is not a theory of provenance. It is a mechanism for dissolving it.
 

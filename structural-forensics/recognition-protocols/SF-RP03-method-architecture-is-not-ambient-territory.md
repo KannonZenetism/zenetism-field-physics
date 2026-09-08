@@ -35,7 +35,7 @@ The question is not whether broad motifs have prior histories.
 
 They do.
 
-The question is whether a specific method-architecture entered the public record through one corpus before later adjacent actors began treating its operative structure as generic territory.
+The question is whether a specific method-architecture entered the public record through one corpus before later actors began treating its operative structure as generic territory.
 
 A method is not merely a word.
 

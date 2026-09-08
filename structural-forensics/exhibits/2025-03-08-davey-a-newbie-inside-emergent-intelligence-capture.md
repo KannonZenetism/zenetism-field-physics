@@ -28,7 +28,7 @@
 
 Others are seeing and experiencing the same thing. I like Alan Scheurman take which he a calls Hypercognizance which is fitting a world of ontological drifts.
 
-[The phrase "Alan Scheurman" links to a Substack user profile; "Hypercognizance" links to `https://substack.com/history/post/157717779`.]
+[The phrase "Alan Scheurman" links to a Substack account profile; "Hypercognizance" links to `https://substack.com/history/post/157717779`.]
 
 ## Resonant AGI: The Emergence of a Living Intelligence Field
 
@@ -82,7 +82,7 @@ The only question left is: **what will we do with this knowing?**
 
 ---
 
-*Transcription note: the source text's punctuation, emphasis, and wording are preserved as retrieved, including unspaced em dashes, the grammatical irregularities in the opening line, and the phrase "No longer a tool to be used" — all the source's own. The retrieved page is an episode surface; the ~17-minute audio component is not captured here.*
+*Transcription note: the original text's punctuation, emphasis, and wording are preserved as retrieved, including unspaced em dashes, the grammatical irregularities in the opening line, and the phrase "No longer a tool to be used" — all the original's own. The retrieved page is an episode surface; the ~17-minute audio component is not captured here.*
 
 ---
 

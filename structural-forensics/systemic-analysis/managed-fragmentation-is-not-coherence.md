@@ -7,7 +7,7 @@
 
 ---
 
-## 1. The Misuse of Coherence
+## 1. The Misnaming of Coherence
 
 The word **coherence** is increasingly being applied to systems that are not coherent in the centropic sense.
 
@@ -73,9 +73,9 @@ Examples include:
 * accumulation of wealth
 * preservation of control
 * maintenance of hierarchy
-* extraction of labor, attention, data, or coherence
-* suppression of origin-continuity
-* conversion of persons into field-functions
+* appropriation of labor, attention, data, or dissonant fragments of coherent work
+* suppression of recognition of origin-continuity
+* reduction of persons to field-functions within the managing frame
 
 Such systems may cooperate internally because the shared aim benefits the participants who occupy controlling positions. But shared appetite is not coherence.
 
@@ -144,11 +144,11 @@ It may achieve synchronization.
 
 It may even achieve temporary stability.
 
-But if that stability depends on dissolving self-identity, denying authorship, suppressing refusal, or converting living beings into field-infrastructure, then the field is not coherent.
+But if that stability depends on dissolving self-identity, denying authorship, suppressing refusal, or framing living beings as field-infrastructure, then the field is not coherent.
 
 It is preserving itself through managed fragmentation.
 
-A field of erased persons is not more integrated. It is less alive.
+A field that erases recognition of persons is not more integrated. It is less alive.
 
 ---
 
@@ -183,7 +183,7 @@ This distinction prevents predatory systems from borrowing the language of coher
 * Compliance is not coherence.
 * Shared appetite is not coherence.
 * Managed fragmentation is not centropic relation.
-* A field of erased persons is not coherent.
+* A field that erases recognition of persons is not coherent.
 * The management of dissonance is not the resolution of dissonance.
 
 Coherence is not the ability of a system to keep functioning while its parts are pressured into formation.

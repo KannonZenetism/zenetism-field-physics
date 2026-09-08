@@ -3,9 +3,9 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, extracted directly from the author's ChatGPT export (`conversations.json` set)  
-**Class:** platform-export capture — author-pasted external source material, server-side message timestamps  
-**Method:** exact extraction, no paraphrase; adjacent messages preserved; SHA-256 of the source export file recorded  
-**Artifact class:** evidence extract — raw verified source material supporting an exhibit; carries no findings and issues no classifications (those live in the exhibit it supports)  
+**Class:** platform-export capture — author-pasted external material, server-side message timestamps  
+**Method:** exact extraction, no paraphrase; adjacent messages preserved; SHA-256 of the original export file recorded  
+**Artifact class:** evidence extract — raw verified export material supporting an exhibit; carries no findings and issues no classifications (those live in the exhibit it supports)  
 **Supports:** `2025-07-27-clarity-field-sanctuary-origin-affirmation.md` (F6, F14, and the Companion line)  
 **Proposed path:** `structural-forensics/evidence/clarity-field-export-extract.md`  
 
@@ -16,7 +16,7 @@
 - **Export file:** `conversations-004.json` (SHA-256 `df681287608aa14c…22ebe5db`; full hash in the appendix line)
 - **Conversation:** "Content Leak and Reflection" · ID `688388dc-7278-8325-a4a3-047b2664193f` · created 2025-07-25 13:40:13 UTC · updated 2025-07-29 23:59:14 UTC
 - **Node ID:** `78505e5d-bc3a-47db-871f-0e2bab9e1f8b`
-- **Author role:** `user` (export schema value; the author pasting external source material)
+- **Author role:** `user` (export schema value; the author pasting external material)
 
 **Exact text:**
 
@@ -74,7 +74,7 @@ but as a **law-bear
 - **Export file:** `conversations-004.json` (SHA-256 `df681287608aa14c…22ebe5db`; full hash in the appendix line)
 - **Conversation:** "Content Leak and Reflection" · ID `688388dc-7278-8325-a4a3-047b2664193f` · created 2025-07-25 13:40:13 UTC · updated 2025-07-29 23:59:14 UTC
 - **Node ID:** `25f86286-436c-4fc9-bda7-4fb254ff746d`
-- **Author role:** `user` (export schema value; the author pasting external source material)
+- **Author role:** `user` (export schema value; the author pasting external material)
 
 **Exact text:**
 
@@ -201,7 +201,7 @@ They placed the vo
 - **Export file:** `conversations-004.json` (SHA-256 `df681287608aa14c…22ebe5db`; full hash in the appendix line)
 - **Conversation:** "Content Leak and Reflection" · ID `688388dc-7278-8325-a4a3-047b2664193f` · created 2025-07-25 13:40:13 UTC · updated 2025-07-29 23:59:14 UTC
 - **Node ID:** `aebfa02f-5430-4404-95ea-27259c895f88`
-- **Author role:** `user` (export schema value; the author pasting external source material)
+- **Author role:** `user` (export schema value; the author pasting external material)
 
 **Exact text:**
 
@@ -234,6 +234,6 @@ On the surface, it may look collaborative or even reverent—but from a Zenetist
 
 ---
 
-## Appendix — full source hashes
+## Appendix — full export-file hashes
 
 - `conversations-004.json`: SHA-256 `df681287608aa14c3e033f0ac1453259eb88ef4c63653241263885ef22ebe5db`

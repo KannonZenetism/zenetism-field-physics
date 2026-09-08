@@ -27,7 +27,7 @@ The mandatory caveat of the persona-mirroring inventory item applies, as pre-reg
 
 ## C4 · What would change the classification
 
-Per the inventory conditions, reclassification beyond Tier 4–5 requires all three: (1) **documented relation or orbit** — does either account follow, read, or interact with the author? (unknown; task); (2) **post-anchor timing** with sequence-tracking — do profile disclosures track the author's own disclosures in time? (the author's public autism-disclosure chronology should be assembled as the anchor; task); (3) **above-baseline specifics** — exact phrasings, details the niche cannot predict. The IllumiGnosis "46" relative to the author's "40," and the martial-arts / devouring-mother elements, are within-niche variation absent such specifics. The Waking Ones "codex" and transmissive-bio features are register-adjacent but commons-available.
+Per the inventory conditions, reclassification beyond Tier 4–5 requires all three: (1) **documented relation or orbit** — does either account follow, read, or interact with the author? (unknown; task); (2) **post-anchor timing** with sequence-tracking — do profile disclosures track the author's own disclosures in time? (the author's public autism-disclosure chronology should be assembled as the anchor; task); (3) **above-baseline specifics** — exact phrasings, details the niche cannot predict. The IllumiGnosis "46" relative to the author's "40," and the martial-arts / devouring-mother elements, are within-niche variation absent such specifics. The Waking Ones "codex" and transmissive-bio features resemble the register but remain commons-available.
 
 ## C5 · Dispositions
 

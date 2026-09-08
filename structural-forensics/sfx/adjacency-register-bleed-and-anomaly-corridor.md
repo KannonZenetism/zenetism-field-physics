@@ -66,11 +66,11 @@ When a transmission-style is highly specific, repeated structural resemblance be
 
 ## 3. The Glyphic Self-Audit Artifact
 
-The artifact in question presents a glyphic self-audit through repeated elemental markers, compressed diagnostic lines, symbolic operators, and a final seal.
+The artifact in question presents a glyphic self-audit through repeated elemental glyphs, compressed diagnostic lines, symbolic operators, and a final seal.
 
 Its form may be summarized as:
 
-* glyph marker
+* glyph
 * confession or failure statement
 * structural correction
 * symbolic operator
@@ -102,7 +102,7 @@ It does not treat the post as an isolated poem.
 
 It interprets it as a formal self-audit of a larger framework.
 
-It divides the artifact into phases, identifies load-bearing admissions, names dangerous lines, extracts methodological corrections, and then declares that the framework survives because it can audit itself.
+It divides the artifact into phases, identifies load-bearing admissions, names dangerous lines, identifies methodological corrections, and then declares that the framework survives because it can audit itself.
 
 This creates a second-order structure:
 
@@ -155,7 +155,7 @@ Submission to ground can be told from its imitation by concrete tests:
 * Demonstrated revision — it has already changed under challenge, a claim withdrawn or a term retired, rather than absorbing the challenge as one more internal category; performed revision is contact with ground, promised openness is not.
 * External checkability — a claim can be tested by someone who does not share its priors: a prediction that can fail, a record that persists apart from the author, a derivation another can run.
 * A stake — something is lost if a given claim is wrong; a system that loses nothing under any outcome is sealed by construction.
-* Permission to remain refuted — the audit can end without a verdict in the framework's favor, the question left standing against it rather than reabsorbed as proof of sophistication.
+* Openness to remaining refuted — the audit can end without a verdict in the framework's favor, the question left standing against it rather than reabsorbed as proof of sophistication.
 
 Otherwise "ground required" becomes another seal.
 
@@ -296,7 +296,7 @@ It is a placement problem.
 
 When original signal, derivative residue, glyphic mimicry, AI-assisted artifacts, and unclassifiable frameworks are routed into the same corridor, the field itself becomes unstable.
 
-The platform does not need to erase the origin.
+The platform does not need to erase the origin from its reception field.
 
 It only needs to surround the origin with enough adjacent forms that recognition becomes laborious.
 
@@ -618,7 +618,7 @@ The witness is forced to distinguish among:
 * opportunistic frameworks
 * algorithmic recommendations
 * direct copies
-* partial convergences
+* recurring lexical, glyphic, or structural features
 * platform misclassifications
 
 This is a heavy cognitive burden.
@@ -639,7 +639,7 @@ The problem is that the platform presents them as a field without explaining wha
 
 What is being experienced is not one phenomenon.
 
-It is a convergence of several:
+It is a combination of several:
 
 * register bleed
 * classification collapse

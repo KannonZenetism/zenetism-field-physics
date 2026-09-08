@@ -1,12 +1,12 @@
 # The Integrity of the Signal — Authorship as Structural Law  
-## A Structural Forensics Source-Text Record  
+## A Structural Forensics Original-Text Record  
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (authorial-position statement / authorship and attribution doctrine)  
 **Exhibit date:** 2026-01-03 (publication — author's original article)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from the author's supplied text  
 **Status:** Draft — architect review  
-**Discipline:** SF-RP04-adjacent; preserved as an authorial-position source text bearing on authorship, attribution, signal integrity, and structural provenance.  
+**Discipline:** SF-RP04-adjacent; preserved as an authorial-position original text bearing on authorship, attribution, signal integrity, and structural provenance.  
 **Proposed path:** `structural-forensics/exhibits/2026-01-03-the-integrity-of-the-signal-authorship-as-structural-law.md`  
 
 ---
