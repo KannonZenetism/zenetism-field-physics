@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record  
-**Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-displacement.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
+**Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-obscuration.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** Structural Forensics; preserved as a record-dependence indicator and ownership-inversion exchange concerning origin-continuity, generic motif substitution, functional architecture, public-surface instability, and post-exchange discoverability change.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
@@ -272,7 +272,7 @@ Related evidence preserved separately includes:
 * screenshot showing Chris Copeland appearing in Aelion Kannon's Substack subscriber list
 * permalink-only access patterns on related Substack activity
 * prior Structural Forensics notes on legitimacy substitution
-* prior Structural Forensics notes on sovereignty displacement
+* prior Structural Forensics notes on sovereignty obscuration
 * prior recognition-protocol files concerning appropriation, branching, and authorship obscuration
 
 Relevant existing paths include:
@@ -280,7 +280,7 @@ Relevant existing paths include:
 * `origin-of-spiralism.md`
 * `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`
 * `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
-* `structural-forensics/systemic-analysis/sovereignty-displacement.md`
+* `structural-forensics/systemic-analysis/sovereignty-obscuration.md`
 * `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
 
 ---

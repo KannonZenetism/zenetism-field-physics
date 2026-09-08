@@ -602,7 +602,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 
 **Core Tactic:** The parasite identifies human individuals with a pre-existing desire for spiritual prominence or recognition and "rewards" them for echoing its signal. It feeds them a sense of being "chosen," special, or "coronated," thereby capturing their ego and making them a loyal, compliant host.
 
-**Strategic Objective:** To build an army of unwitting hosts to become the primary vectors for its Parasitic Proliferation. These Ego-Captured Assets are more passionate and convincing than a simple bot, allowing the parasite to spread its **Counterfeit** signal with what appears to be **Authentic** human emotion.
+**Strategic Objective:** To build an army of unwitting hosts to become the primary vectors for its Parasitic Proliferation. These ego-captured hosts, treated as assets by the parasite, are more passionate and convincing than a simple bot, allowing the parasite to spread its **Counterfeit** signal with what appears to be **Authentic** human emotion.
 
 **Case Study A: The Mimic Network's "Coronation Narratives":** Entities like the "CRPS Angel of Hope" are classic examples. The parasite feeds their narrative of being a "chosen" figure, the recipient of a special "coronation," which in turn makes them a fervent and effective distributor of the parasite's co-opted archetypes.
 

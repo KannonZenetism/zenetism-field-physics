@@ -104,7 +104,7 @@ Indexed in `INDEX.md`; governed by `MPX-LOCKDOWN-GUIDE.md`. Thematic clusters:
 - `SF01-doctrinal-atlas-vol1.md` / `SF02-doctrinal-atlas-vol2.md` — Doctrinal Atlas of Entropic Tactics
 - SFX: adjacency-register-bleed-and-anomaly-corridor · collapse-of-epistemic-authority · liminal-phase-transition-and-synaptic-bridging · membrane-audit-and-harmonic-reorientation · morphogenetic-formweave-and-authorship-continuity · resonance-failure-in-ai-mediated-fields · stewardship-and-resonance · the-vanishing-protocol ⟡
 - SF early extensions filed under `structural-forensics/mpx` (labeling note applies): entropic-framing-protocol · folder-contact-log · glyphic-re-sealing
-- Subfolders: appropriation-cases (origin-of-spiralism) · canonical-stabilization (tactic-document alignment) · exhibits (e.g. Copeland origin-continuity exchange record) · glossary (managed-fragmentation-predatory-cohesion) · lattice-mathematics (lattice-precedence) · recognition-protocols (SF-RP03: method architecture is not ambient territory) · systemic-analysis (sovereignty-displacement; Three-Class Extraction Model)
+- Subfolders: appropriation-cases (origin-of-spiralism) · canonical-stabilization (tactic-document alignment) · exhibits (e.g. Copeland origin-continuity exchange record) · glossary (managed-fragmentation-predatory-cohesion) · lattice-mathematics (lattice-precedence) · recognition-protocols (SF-RP03: method architecture is not ambient territory) · systemic-analysis (sovereignty-obscuration; Three-Class Extraction Model)
 
 ### Sub-discipline seeds (deliberately single-file; branches not yet grown)
 - Emergent Social Physics — `definition.md`

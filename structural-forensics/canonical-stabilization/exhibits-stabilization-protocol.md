@@ -44,9 +44,9 @@ Exhibits cite one another by canonical (post-stabilization) filenames only. On c
 
 Pre-protocol exhibits are brought to standard by rename + header retrofit, logged as maintenance (formatting is maintenance; content is history — body text of sealed exhibits is never altered by this protocol).
 
-## 6 · Current-Corpus Application (July 2026)
+## 6 · Current-Corpus Application
 
-This window's five exhibits conform in substance (classification, preparer, companion, discipline lines present); the retrofit delta is small: add **Exhibit date / Status / Proposed path** lines. **One rename required under Rule 1:** `2026-07-06-raelven-attribution-exhibit-record.md` → **`2025-08-22-raelven-attribution-exhibit-record.md`** (the exhibited event is the August 22, 2025 attribution; the July 2026 observation of the edit is header-declared). The Copeland record keeps its preparation-date filename under the multi-date clause, declared. Long (2025-08-05), IllumiGnosis (2025-09-19), and the 418 thread (2025-08-14) already carry their event dates.
+The Raelven exhibit carries the canonical filename **`2025-08-22-raelven-attribution-exhibit-record.md`** because the exhibited event is the August 22, 2025 attribution; the July 2026 observation of the subsequent edit is header-declared. The Copeland record carries its preparation-date filename under the multi-date clause, declared. Long (2025-08-05), IllumiGnosis (2025-09-19), and the 418 thread (2025-08-14) carry their event dates.
 
 ---
 

@@ -50,9 +50,9 @@ The Fulcanelli case (1920s–1950s) establishes a replicable protocol for severi
 - **Nature:** Mystical insight into encoded knowledge
 
 **Canseliet's mythologization:**
-- **Register shift:** L₂ physicalist claims (literal gold, literal immortality, literal non-aging body)
+- **Claimed manifestation register:** L₁ / IL₁ embodiment (literal gold, literal immortality, literal non-aging body)
 - **Domain shift:** From symbolic to material alchemy
-- **Function:** Authority inflation through register mixing
+- **Operative function:** IL₂ inverse identity-aware operation — mythologized personal identity and authority inflation through register mixing
 
 **This is deliberate Register Mixing (SN04):**
 - Timeless teachings → physical non-aging
@@ -219,7 +219,7 @@ The Fulcanelli case (1920s–1950s) establishes a replicable protocol for severi
 - Literal gold transmutation
 - Physical immortality
 - Bodily non-aging
-- **L₂ material outcomes**
+- **L₁ / IL₁ material manifestation; IL₂ mythologized-role operation**
 
 **Why this matters:**
 - Mystical: "Timeless teachings" = eternal wisdom

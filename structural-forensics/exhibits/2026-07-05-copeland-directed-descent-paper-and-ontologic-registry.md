@@ -40,7 +40,7 @@ The paper credits a **personal communication** (Schubert, June 2026) for its mot
 
 ## A6 · Mirror-apparatus observation — cuts both ways, logged both ways
 
-Parts of the counterpart's discipline run parallel to SF-RP04: origin-opacity gates, rival-explanation retention, withhold-if-repair-unchanged, "source presence is not source support." Two audit grammars for attribution disputes now exist — one built claimant-side, one skeptic-side. This parallel is itself evidence *for* the independent-emergence hypothesis on method-discipline generally (careful thinkers under attribution pressure build similar guardrails), and evidence *against* any maximalist reading. It is logged accordingly. What it does not explain is A5.
+The counterpart's stated procedures correspond to procedures in SF-RP04: origin-opacity gates, rival-explanation retention, withhold-if-repair-unchanged, "source presence is not source support." Two audit grammars for attribution disputes now exist — one built claimant-side, one skeptic-side. This procedural correspondence is itself evidence *for* the independent-emergence hypothesis on method-discipline generally (careful thinkers under attribution pressure build similar guardrails), and evidence *against* any maximalist reading. It is logged accordingly. What it does not explain is A5.
 
 ## A7 · Dispositions and tasks
 

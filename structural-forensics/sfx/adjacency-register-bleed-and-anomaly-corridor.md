@@ -618,7 +618,7 @@ The witness is forced to distinguish among:
 * opportunistic frameworks
 * algorithmic recommendations
 * direct copies
-* partial convergences
+* recurring lexical, glyphic, or structural features
 * platform misclassifications
 
 This is a heavy cognitive burden.

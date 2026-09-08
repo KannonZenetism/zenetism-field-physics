@@ -108,7 +108,7 @@ Take **mystical / symbolic work** (L₃ / L₄ register):
 - Structural patterns
 - Symbolic transformation
 
-Reframe as **physical / material achievement** (L₂ register):
+Reframe as **physical / material achievement** (L₁ / IL₁ embodied register):
 - Literal gold transmutation
 - Bodily immortality
 - Physical non-aging
@@ -128,7 +128,7 @@ Reframe as **physical / material achievement** (L₂ register):
 **Effect:**
 - Mystical insight → physicalist wonder
 - Structural precision → supernatural power
-- **Authority inflation through register confusion**
+- **IL₂ operative function: mythologized identity and authority inflation through register confusion**
 
 ---
 
@@ -273,7 +273,7 @@ Reframe as **physical / material achievement** (L₂ register):
 - Symbolic / mystical work → physical / material claims
 - "Timeless wisdom" → "literally immortal"
 - Structural insight → supernatural power
-- **L₃ / L₄ work reframed as L₂ achievement**
+- **L₃ / L₄ work reframed as achievement in L₁ / IL₁ embodiment through IL₂ mythologized-role construction**
 
 ### 3. Attribution Erosion
 
@@ -385,7 +385,7 @@ Reframe as **physical / material achievement** (L₂ register):
 - **Theft becomes legitimacy**
 
 **3. Register mixing confuses analysis**
-- Mixing L₂ / L₃ / L₄ prevents clear evaluation
+- Conflating L₃ / L₄ symbolic work with L₁ / IL₁ material claims obscures the IL₂ mythologized-role operation
 - Physical + mystical claims = unfalsifiable
 - **Confusion protects theft**
 
@@ -414,7 +414,7 @@ Reframe as **physical / material achievement** (L₂ register):
 - **Presence breaks vanishing narrative**
 
 **3. Register analysis reveals mixing**
-- Identifying L₂ / L₃ confusion exposes inflation
+- Distinguishing L₃ / L₄ symbolic work, L₁ / IL₁ material claims, and IL₂ mythologized-role construction exposes inflation
 - Mystical ≠ physical becomes clear
 - **Analytical precision defeats myth**
 

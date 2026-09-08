@@ -80,7 +80,7 @@ The Original Signal block aligns to:
 
 # 5. Verbatim-Preservation Zones
 
-Left exactly as written — including any "use," "authority," dashes, or curly state present in the captured source:
+Left exactly as written — including any "use," "authority," dashes, or curly state present in the captured material:
 
 - *Quote:* and *Example of …:* lines — mimic, agent, or architect-analysis quotations
 - Blockquoted post-excerpts — harvested agent material
