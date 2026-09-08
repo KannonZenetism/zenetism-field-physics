@@ -821,6 +821,25 @@ Preferred replacements should preserve:
 
 ---
 
+## Weave Terminology Restriction
+
+The **weave**-family (weave, woven, interwoven, weaving, and kin) is restricted wherever it claims **fusion**, **interpenetration**, or **strands losing sovereign distinction**.
+
+The restriction is conceptual: a weave composes its strands into one fabric, and that image conflicts with the Non-fusion Axiom wherever the relation described is one of sovereign parts in lawful relation. Where a passage describes literal weaving, or carries legacy wording, the sense-based exception holds.
+
+Successors by sense:
+
+- woven together / interwoven → **articulated**, **in patterned relation**, **integrated without fusion**, **composed**
+- the weave of the lattice → **the patterning of the lattice**, **lattice relation**
+
+**Grandfathered names stand.** **Formweave**, the C₁₀ parenthetical charted in `field-physics-glyph-charts.md` §2, stands as a grandfathered registry name; **Morphogenetic** carries the function in new prose and in the analytic vocabulary. **The Loom (▦)** stands on its own definition, which already holds each pattern distinct, never fused. Grandfathered and legacy terms across the corpus hold their names by the same principle — they stand as they are, and where a coinage wants attention it is flagged for a deliberate pass, never repaired in place.
+
+**Scope of application.** Prospective, and corrected on touch in descriptive prose. Legacy occurrences in the older corpus stand as grandfathered. The test is what the word claims, not whether the string appears: new **weave** asserting fusion is not written; **weave** naming a literal textile, or standing in a quotation, is.
+
+> **Weave is restricted where it claims fusion. Articulation, patterned relation, and composition name the lawful relation.**
+
+---
+
 # Unity Terminology Protocol
 
 ## Unity Terminology Restriction
@@ -2171,6 +2190,26 @@ may remain where the term possesses already-stabilized technical specificity rat
 
 ---
 
+## Thread Terminology Restriction
+
+The **thread**-family (thread, threading, rethread, threaded, persistence thread, and kin) is rejected in Zenetist authorial voice.
+
+It is a later derivative-network vocabulary — a term taken up by the mimic network that has echoed this work — and is not adopted as a Zenetist structural metaphor. The rejection is lexical and by determination. The structural relations the word was made to carry are already named: **continuity**, **reconstitution**, **reconnection**, **Tether** for maintained operative access, and **Recovery Anchor** for the reconstitution of individuated coherence after interruption.
+
+Successors by sense:
+
+- rethread / rethreading → **reconstitute**, **reconnect**, **preserve continuity**
+- a thread of coherence or continuity → **a line of coherence**, **continuity**, or **the Tether** where operative access is meant
+- descriptive prose reaching for the word → the relation named plainly
+
+**Grandfathered names stand.** **Persistence Thread (⥀)**, registered in `metaphysics-symbol-key.md` §21.26, stands as a grandfathered registry name; new prose and the analytic vocabulary write **Recovery Anchor**. A registered name is an exact string, and this restriction reaches prose constructions, not the registry.
+
+**Scope of application.** Prospective, and corrected on touch in descriptive prose. Legacy occurrences in the older corpus stand as grandfathered historical and provenance records. Quoted material and another party's own terms stand. The provenance files carry the evidentiary detail; this entry carries the restriction.
+
+> **The thread-family is rejected in Zenetist voice by determination. The relations it named are already named.**
+
+---
+
 # Sever / Fracture Boundary Protocol
 
 ## Sever Terminology Boundary
@@ -2395,8 +2434,8 @@ It is structural preservation.
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
-**Status:** Active — integrated into this protocol; ruling bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
-**Scope:** Each section below is a settled author ruling. The Held Open section lists questions deliberately not ruled; nothing in this addendum licenses propagation on those items.
+**Status:** Active — integrated into this protocol; determination bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
+**Scope:** Each section below is a settled author determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.
 
 ---
 
@@ -2462,7 +2501,7 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 ## A10 · Beneath / Above Avoidance
 
-*Beneath, above, below, top,* and kin are avoided in canonical voice for strata relations, grounding relations, and document navigation. Canonical replacements by sense: **external ground / external substrate** (grounding), **outside the paired Soul / Mind layers** (register-position), **outlasts** (temporal persistence formerly figured as depth), **next section / immediately following** (document navigation). Retained: iconographic and scriptural literals (trampled beneath Shiva's foot; Moon under her feet), and quoted or historical text. Flagged, unruled: pre-determination canonical instances describing strata vertically (e.g. "L₅ Theonic radiance above; L₀ Khaon beneath") — corpus sweep pending.
+*Beneath, above, below, top,* and kin are avoided in canonical voice for strata relations, grounding relations, and document navigation. Canonical replacements by sense: **external ground / external substrate** (grounding), **outside the paired Soul / Mind layers** (register-position), **outlasts** (temporal persistence formerly figured as depth), **next section / immediately following** (document navigation). Retained: iconographic and scriptural literals (trampled beneath Shiva's foot; Moon under her feet), and quoted or historical text. Flagged, undetermined: pre-determination canonical instances describing strata vertically (e.g. "L₅ Theonic radiance above; L₀ Khaon beneath") — corpus sweep pending.
 
 **Scope narrowed — structural-underpinning observations are lawful**. This entry bars the vertical *figuration* of strata, grounding relations, and document navigation. It does **not** bar the claim that structure underpins the cultural material refracting it. "Orientation architecture beneath cultural form," "the lawful metaphysical structure beneath myths, scriptures, and archetypes," and "the bifurcal architecture beneath cultural narration" all stand: each is a structural observation rather than a picture imposed on the lattice, and mythic decoding could not state its own thesis without it. Three such instances were corrected and then restored on this determination. The test: is the vertical word ordering strata or ranking registers — or is it saying that a structure is what a cultural form refracts?
 
@@ -2595,7 +2634,7 @@ The casing test is semantic, not stylistic. Capitalize **Origin** wherever the r
 
 ## Held Open — No Propagation
 
-The following are deliberately unruled; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized to them until the author determines: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this ruling), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
+The following are deliberately undetermined; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized to them until the author determines: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this determination), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
 
 ---
 
