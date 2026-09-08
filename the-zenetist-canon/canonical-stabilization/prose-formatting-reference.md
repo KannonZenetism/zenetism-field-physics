@@ -157,11 +157,15 @@ This prohibition does **not** apply when the date itself is substantively necess
 - comparative chronology, including Zenetism / Spiralism developmental-timeline comparison and other intentional precedence or sequence analysis
 - historical-event chronology where the event date is part of the claim being documented
 - publication, upload, deposit, capture, correspondence, export, archival, or repository chronology being analyzed as evidence
-- source, citation, bibliographic, DOI, publication, repository, commit, archive, capture, or externally anchored record dates when the date is evidentiary
-- dates contained in quotations, reproduced records, screenshots, source excerpts, or other preserved evidence where altering the date would alter the source
+- reference, citation, bibliographic, DOI, publication, repository, commit, archive, capture, or externally anchored record dates when the date is evidentiary
+- dates contained in quotations, reproduced records, screenshots, reference excerpts, or other preserved evidence where altering the date would alter the record
 - dates required to state a temporal relationship that is itself under analysis, such as `before`, `after`, `within`, `preceded`, `followed`, or a measured interval between documented events
 
-The exception is narrow. A document being about provenance, history, development, or chronology does not license general internal dating. Each retained date must perform an identifiable evidentiary, comparative, historical, or source-preservation function in the passage where it appears.
+The exception is narrow. A document being about provenance, history, development, or chronology does not license general internal dating. Each retained date must perform an identifiable evidentiary, comparative, historical, or record-preservation function in the passage where it appears.
+
+**The test has two prongs.** A date is preserved or introduced only where both hold: its value is anchored in an external record — a deposit, a commit, a capture, correspondence, a published item, a quoted document — and the date performs a deliberate timeline or provenance function in the passage. Function alone is not sufficient. A date standing in a timeline position carries the appearance of evidence, and that appearance is exactly what an unanchored value borrows when it lands there. Encountering a date in a file is no evidence of its value; a date already standing takes the same test as a new one when the file is opened.
+
+**A present calendar date is not evidence of an event's date.** A collaborating model's date for the current moment, whether or not it is correct, states nothing about when a development, determination, revision, rename, or authorship event occurred. The two are distinct questions. This holds past the unreliable-clock ground recorded in the Date and Provenance Insertion Determination: a correct present date is still not evidence of the event's date.
 
 The distinction is functional:
 
@@ -171,13 +175,15 @@ External timestamped records — not internally asserted document dates — anch
 
 When uncertain whether a date qualifies for retention, do not delete it automatically and do not reinterpret it. Flag the instance for architect review. Ambiguity is resolved by function, not by date format or location alone.
 
-### Filename Dates
+### Filename and Title Dates
 
-The Internal Date Prohibition addresses dates carried inside a document. Filename dates are addressed here.
+The Internal Date Prohibition addresses dates carried in a document's body. Dates in filenames and document titles are addressed here.
 
-New work is better named without a date where the date carries no evidentiary weight. Instruments whose identity includes their issuance — correspondence, exhibits, captures, transmission records — keep their dated names, since there the date is part of what the filename identifies.
+New work is named without a date unless the date performs the evidentiary function set out in the prohibition. Instruments whose identity includes their issuance — correspondence, exhibits, captures, transmission records — keep their dated names, since there the date is part of what the name identifies. A date placed in a name for orientation, versioning, or ordinary chronology is not added, and a collaborator supplies no date to a filename or title on any ground.
 
-Existing filenames stand as they are. A filename is a citation: other documents reference it, and a rename erases every citation pointing at the old name. Where a dated filename is worth changing, the rename and the correction of every citing line move in one pass, at the architect's determination.
+The ground is the weight a date carries, not the lack of it. A dated name is a citation anchor: other documents reference it, later work repeats it, and a value that entered without anchoring propagates through every citing line as though it had been verified. The corpus is large enough that a full audit of dated names would take years even if composition stopped, and a date the architect did not set is one he has no means of verifying at that scale.
+
+Existing filenames and the titles matching them stand as they are — including the dated MPX entry names, whose dates are their identity and their citation anchors. A rename erases every citation pointing at the old name, so where a dated name is worth changing, the rename and the correction of every citing line move in one pass, at the architect's determination.
 
 ### Date and Provenance Insertion Determination
 
@@ -919,7 +925,7 @@ MPX entries place a horizontal rule between major ## sections. This is the preva
 
 ## Register and Drafting Fingerprint
 
-MPX entries are composed in the technical register. Within that register, an entry may retain the natural line-rhythm of its drafting collaborator — including single-sentence line breaks — provided it does not cross into poetic-register features (bold-saturation, glyph-at-line-end articulation, staggered verse breaks). Register, terminology, and the formatting locks remain canonical regardless of drafting source; line-rhythm may bear the collaborator's fingerprint without becoming poetic-register drift.
+MPX entries are composed in the technical register. Within that register, an entry may retain the natural line-rhythm of its drafting collaborator — including single-sentence line breaks — provided it does not cross into poetic-register features (bold-saturation, glyph-at-line-end articulation, staggered verse breaks). Register, terminology, and the formatting locks remain canonical regardless of which collaborator drafted the entry; line-rhythm may bear the collaborator's fingerprint without becoming poetic-register drift.
 
 ## Naming-Register Consistency
 
