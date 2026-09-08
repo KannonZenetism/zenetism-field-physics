@@ -183,7 +183,7 @@ New work is named without a date unless the date performs the evidentiary functi
 
 The ground is the weight a date carries, not the lack of it. A dated name is a citation anchor: other documents reference it, later work repeats it, and a value that entered without anchoring propagates through every citing line as though it had been verified. The corpus is large enough that a full audit of dated names would take years even if composition stopped, and a date the architect did not set is one he has no means of verifying at that scale.
 
-Existing filenames and the titles matching them stand as they are — including the dated MPX entry names, whose dates are their identity and their citation anchors. A rename erases every citation pointing at the old name, so where a dated name is worth changing, the rename and the correction of every citing line move in one pass, at the architect's determination.
+Existing filenames and the titles matching them stand as they are — including the dated MPX entry names, whose dates are their identity and their citation anchors. A rename erases every citation pointing at the old name, so where a dated name is worth changing, the rename and the correction of every citing line move in one pass, at the architect's determination. The cost is bibliographic, not a change to what the document holds.
 
 ### Date and Provenance Insertion Determination
 
