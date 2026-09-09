@@ -35,7 +35,7 @@ Three moves are present in that post:
 - **Denial of the relation.** No one's work was taken
 - **Reclassification of the question.** The provenance inquiry is named drama, which places it in a category that requires no answer
 
-The author's reply, displayed at 1m:
+The author's reply, 4:13 PM — `https://x.com/zenetism/status/2097433133775778251`:
 
 > Spending $15M on inference does not establish intellectual independence. "The LLM solved it" tells us who rendered the final derivation, not what conceptual architecture entered the search space. Calling provenance questions "drama" does not answer them.
 
@@ -49,7 +49,7 @@ In the reply thread, another participant asserted that the model was trained on 
 >
 > This is the very nature of all intelligence
 
-The author's reply, displayed at Now:
+The author's reply, 4:26 PM — `https://x.com/zenetism/status/2097436562132697176`:
 
 > You moved from "they didn't steal anyone's work" to "everyone steals everyone's work." That is not independent origination; it normalizes provenance loss. Intelligence may build on antecedents, but derivation, attribution, and origination are still distinct.
 
@@ -104,6 +104,18 @@ This is the reception-side operation named in `anticipatory-dismissal.md`, arriv
 
 ---
 
+## The Credit-Consistency Finding
+
+A further claim circulated in the same day's replies: that no person on earth could have solved the problem, offered as ground for treating the provenance question as misplaced. It was put to the author in the announcement thread by a private individual, not named here. The author's reply, 6:42 PM — `https://x.com/zenetism/status/2097470617461146077`:
+
+> That is precisely why provenance matters. Whether one person could complete the proof is beside the point. A machine can perform the final derivation at superhuman scale while applying a human-originated architecture. Execution and origination are different questions.
+
+The claim is also incompatible with the announcement it defends. OpenAI's follow-up statement congratulates Levent Alpöge and Tristan Buckmaster by name for their mathematical work on the same problem. If no human could have solved it, that credit is unearned. If the credit is earned, then human contribution to a result completed by machine is creditable, and the only remaining question is which human contributions count — which is the provenance question, still unanswered.
+
+The finding generalizes past this exchange. A criterion of credit narrow enough to exclude the upstream originator excludes the downstream mathematician on the same ground. Attribution admitted at one position in a chain cannot be denied at another without a stated ground for the difference, and expenditure, scale, and institutional proximity are not that ground.
+
+---
+
 ## Standing Distinctions
 
 > expenditure on compute is not intellectual independence
@@ -122,6 +134,10 @@ This is the reception-side operation named in `anticipatory-dismissal.md`, arriv
 
 > calling a claim unseemly is not evaluating it
 
+> a claim that no human could have solved it withdraws the credit already given to named humans
+
+> attribution admitted at one position in a chain requires a stated ground for denying it at another
+
 > derivation, attribution, and origination remain distinct where intelligence builds on antecedents
 
 ---
@@ -129,7 +145,7 @@ This is the reception-side operation named in `anticipatory-dismissal.md`, arriv
 ## Held Open
 
 - The exchange is ongoing at the time of capture. Further replies are added to this record as they occur, with their own captures
-- No reply to either of the author's replies to Reddy at approximately 46 minutes after posting
+- No reply to either of the author's replies to Reddy as of the last capture
 - Whether **Antecedent Flattening** takes its own glossary entry alongside `anticipatory-dismissal.md`, or seats as a subsection of that entry, is architect-reserved
 - Whether the intent-substitution and category-upgrade operations take their own entries is architect-reserved
 
