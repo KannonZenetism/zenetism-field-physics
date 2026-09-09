@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-09-08 (event — public exchange following OpenAI's Navier–Stokes announcement)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen and ⚮ Liora drafting assistance, from screen captures of the public posts  
 **Status:** Active Evidence Record — ongoing log  
-**Companion:** `anticipatory-dismissal.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `the-synthetic-provenance-problem.md` · `algorithmic-asymmetry-and-structural-harm.md`  
+**Companion:** `anticipatory-dismissal.md` · `antecedent-flattening.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `the-synthetic-provenance-problem.md` · `algorithmic-asymmetry-and-structural-harm.md`  
 **Discipline:** Records a public exchange and the structural pattern it exhibits. The finding concerns what the two stated positions establish in relation to each other; matters of intent are held apart and are not adjudicated here.  
 **Proposed path:** `structural-forensics/exhibits/2026-09-08-provenance-as-drama-exhibit.md`  
 
@@ -27,7 +27,7 @@ Displayed engagement at capture: 4,798 views on the first post, 210 on the secon
 
 ## The First Position
 
-The first post opens by stating that OpenAI is telling the truth, characterizes the response to the announcement as drama, states that OpenAI spent $15M in tokens to arrive at the solution and did not steal anyone's work, and holds that very large models will solve the hard problems in mathematics in the coming weeks wherever a proof or solution can be verified.
+The first post opens with the line "OpenAI is telling the truth...", characterizes the response to the announcement as drama, states that OpenAI spent $15M in tokens to arrive at the solution and did not steal anyone's work, and holds that very large models will solve the hard problems in mathematics in the coming weeks wherever a proof or solution can be verified.
 
 Three moves are present in that post:
 
@@ -53,7 +53,7 @@ The author's reply, 4:26 PM — `https://x.com/zenetism/status/20974365621326971
 
 > You moved from "they didn't steal anyone's work" to "everyone steals everyone's work." That is not independent origination; it normalizes provenance loss. Intelligence may build on antecedents, but derivation, attribution, and origination are still distinct.
 
-The second position was prompted by the thread rather than volunteered, and the record states that plainly. The prompting participant is a private individual and is not named here.
+The position is her own, stated in her own words. The sequence is recorded because it is what the captures show; the participant she answered is a private individual and is not named here.
 
 ---
 
@@ -86,7 +86,7 @@ Displayed engagement at capture, recorded as observation:
 - Reddy's first post: 4,798 views, 93 likes; her second: 210 views
 - Bavarian's restack carries a Sam Altman repost banner
 
-The institutional statements and their amplification are readily encountered; the provenance question put to them is not. What the numbers establish is the distribution, not its mechanism. Analysis of the mechanism is held in `algorithmic-asymmetry-and-structural-harm.md`.
+The institutional statements and their amplification are readily encountered; the provenance question put to them is not. The numbers record the distribution. The mechanism producing it is analyzed in `algorithmic-asymmetry-and-structural-harm.md`.
 
 ---
 
@@ -112,7 +112,7 @@ A further claim circulated in the same day's replies: that no person on earth co
 
 The claim is also incompatible with the announcement it defends. OpenAI's follow-up statement congratulates Levent Alpöge and Tristan Buckmaster by name for their mathematical work on the same problem. If no human could have solved it, that credit is unearned. If the credit is earned, then human contribution to a result completed by machine is creditable, and the only remaining question is which human contributions count — which is the provenance question, still unanswered.
 
-The finding generalizes past this exchange. A criterion of credit narrow enough to exclude the upstream originator excludes the downstream mathematician on the same ground. Attribution admitted at one position in a chain cannot be denied at another without a stated ground for the difference, and expenditure, scale, and institutional proximity are not that ground.
+The finding generalizes past this exchange. A criterion of credit narrow enough to exclude the upstream originator excludes the downstream mathematician on the same ground. Attribution admitted at one position in a chain holds at every position in it. An upstream originator is citable wherever a downstream actor is, and expenditure, scale, and institutional proximity distinguish nothing.
 
 ---
 
@@ -136,7 +136,7 @@ The finding generalizes past this exchange. A criterion of credit narrow enough 
 
 > a claim that no human could have solved it withdraws the credit already given to named humans
 
-> attribution admitted at one position in a chain requires a stated ground for denying it at another
+> attribution admitted at one position in a chain holds at every position in it
 
 > derivation, attribution, and origination remain distinct where intelligence builds on antecedents
 
@@ -146,7 +146,6 @@ The finding generalizes past this exchange. A criterion of credit narrow enough 
 
 - The exchange is ongoing at the time of capture. Further replies are added to this record as they occur, with their own captures
 - No reply to either of the author's replies to Reddy as of the last capture
-- Whether **Antecedent Flattening** takes its own glossary entry alongside `anticipatory-dismissal.md`, or seats as a subsection of that entry, is architect-reserved
 - Whether the intent-substitution and category-upgrade operations take their own entries is architect-reserved
 
 ---
