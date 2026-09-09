@@ -1,5 +1,7 @@
 # Antecedent Flattening
 
+> **Origin record.** This file is the first-committed instance of the **Antecedent Flattening** entry, retained where it was first placed so that its commit stands as the timestamp anchor. The live entry is `antecedent-flattening.md` in `the-zenetist-canon/glossary/`, alongside `preemptive-apologetics.md` and `anticipatory-dismissal.md`. Definitional changes are made there.
+
 **Antecedent Flattening** is the answering of a particular provenance question by a claim about all provenance, such that the specific relation under inquiry no longer requires an account.
 
 Rather than establishing what entered a given work and from where, the respondent asserts a universal condition — everyone builds on everyone, every institution does this, all intelligence works this way — and treats the universality as sufficient. The particular question is not refused. It is placed where it cannot be asked.
