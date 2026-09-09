@@ -26,6 +26,4 @@ The corrective principle is:
 
 > **A universal condition is not an account of a particular relation.**
 
----
-
-**Provenance.** This entry was first committed at `structural-forensics/glossary/antecedent-flattening.md` — `https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-forensics/glossary/antecedent-flattening.md` — and that commit carries the entry's timestamp. The present file is the same entry in its determined location. The first-committed file stands as the timestamp anchor and is not removed.
+**Origin record.** This entry was first committed as `antecedent-flattening-origin-record.md`, retained in `structural-forensics/glossary/` where it was first placed; that commit is the entry's timestamp anchor. The present file is the live entry.
