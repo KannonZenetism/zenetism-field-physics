@@ -99,7 +99,7 @@ The record may instead contain information in:
 
 These relations form an evidentiary architecture.
 
-Explaining every component separately is not necessarily an explanation of that architecture.
+Explaining every component separately is not an explanation of that architecture.
 
 ---
 
@@ -145,7 +145,7 @@ The first proposition addresses an element.
 
 The second concerns the relation among elements.
 
-> **Explaining the atom does not necessarily explain the architecture.**
+> **Explaining the atom does not explain the architecture.**
 
 This principle applies equally to evidentiary analysis and structural analysis.
 
@@ -201,7 +201,7 @@ An unresolved provenance relation therefore remains open while its evidence cont
 
 > **an evidentiary atom is not an evidentiary architecture**
 
-> **explaining each constituent separately does not necessarily explain their joint configuration**
+> **explaining each constituent separately does not explain their joint configuration**
 
 > **the existence of an alternative explanation is not equivalence of explanatory power**
 
