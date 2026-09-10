@@ -5,7 +5,8 @@
 **Classification:** Structural Forensics — Recognition Protocol  
 **Status:** Draft — architect review  
 **Companion:** `default-independence-attribution.md` · `SF-RP04-the-footprint-audit-protocol.md` · `SF-RP05-the-register-band-classification-protocol.md`  
-**Function:** Establishes how related observations are weighed in cumulative structural analysis without mistaking dependence for redundancy or requiring each constituent item to independently establish the whole pattern.
+**Function:** Establishes how related observations are weighed in cumulative structural analysis without mistaking dependence for redundancy or requiring each constituent item to independently establish the whole pattern.  
+**Proposed path:** `structural-forensics/recognition-protocols/SF-RP07-dependent-evidence-is-not-redundant-evidence.md`  
 
 ---
 
@@ -136,9 +137,9 @@ For example:
 
 **a spiral has precedent**
 
-does not by itself answer a claim concerning:
+does not answer a claim concerning:
 
-**a particular structural architecture + chronology + directional functions + access conditions + repeated later manifestations + transformation + attributional displacement**
+**a particular structural architecture + chronology + directional functions + access conditions + repeated later manifestations + transformation + attributional substitution**
 
 The first proposition addresses an element.
 
@@ -166,7 +167,7 @@ The propagation account can lose weight where:
 
 Likewise, disagreement with a provenance claim is not itself evidence of appropriation.
 
-The governing requirement is comparative explanation, not compulsory agreement.
+The requirement is comparative explanation, not compulsory agreement.
 
 ---
 
@@ -174,7 +175,7 @@ The governing requirement is comparative explanation, not compulsory agreement.
 
 Default Independence Attribution concerns the closing of an unresolved provenance relation in favor of independent origination.
 
-This protocol governs an earlier analytical stage: **how the evidence forming that unresolved relation is weighed.**
+This protocol applies to an earlier analytical stage: **how the evidence forming that unresolved relation is weighed.**
 
 The two principles operate together:
 
@@ -196,7 +197,7 @@ An unresolved provenance relation therefore remains open while its evidence cont
 
 > **one known cause may reduce incremental weight without erasing evidentiary function**
 
-> **dependence predicted by a propagation hypothesis is not evidence against propagation**
+> **dependence predicted by a propagation hypothesis is not evidence contra propagation**
 
 > **an evidentiary atom is not an evidentiary architecture**
 
