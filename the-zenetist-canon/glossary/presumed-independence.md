@@ -1,26 +1,28 @@
-# Presumed Independence
+# Default Independence Attribution
 
-**Presumed Independence** is the conversion of undemonstrated contact into affirmative independent origination, by which an unresolved provenance relation is assigned by default to the later-visible party.
+**Default Independence Attribution** is the assignment of independent origination to a later-visible party where contact remains unresolved, treating undemonstrated contact as though it established absence of derivation.
 
-Where two bodies of work hold the same structure and no contact between them has been demonstrated, the relation between them stands unresolved. Presumed Independence closes it without evidence: undemonstrated contact is treated as demonstrated absence, and the later work is credited with originating what it carries.
+Where two bodies of work hold the same structure and the question of contact between them is open, the relation between them stands unresolved. Default Independence Attribution closes it in one direction: the later work is credited with originating what it carries, on no ground beyond the absence of a demonstration it was never required to answer.
 
 The sequence is:
 
-**shared structure observed → contact undemonstrated → independence asserted → the relation assigned to the later-visible party**
+**shared structure observed → contact unresolved → independence assigned → the relation closed in favor of the later-visible party**
 
-The default runs one direction only. Demonstrating contact requires the record of what entered a system, and that record is held by the party whose independence is being presumed, while the burden of producing it lands on the originator, who has no access to it. The presumption therefore resolves in favor of whoever holds the evidence, on the ground that the evidence has not been produced.
+The default runs one direction only. Demonstrating contact requires the record of what entered a system, and that record is held by the party whose independence is being assigned, while the burden of producing it lands on the originator, who has no access to it. The attribution therefore resolves in favor of whoever holds the evidence, on the ground that the evidence has not been produced.
 
-Presumed Independence may operate through:
+Default Independence Attribution may operate through:
 
 * treating undemonstrated contact as demonstrated absence
 * vocabulary that names the relation as independent — arrived at separately, reached the same finding on its own
 * attribution of the same finding to shared conditions, common circumstance, or the period
 * placing the evidentiary burden on the earlier party, who holds no access to the record that would settle it
-* presenting the presumption as caution or neutrality rather than as the claim it is
+* presenting the attribution as caution or neutrality rather than as the claim it is
 
-It is the counterpart error to unevidenced accusation, and the two carry unequal cost. Asserting contact without evidence is named as accusation and is answered as misconduct; asserting independence without evidence passes as rigor. Both assert a relation that has not been established.
+An unresolved relation is not an evidentially null one. Structural correspondence is weighed cumulatively — by chronology, specificity, access conditions, recurrence, and the wider record — and an accumulation of correspondences carries weight that no single correspondence carries. What this entry bars is the leap from *contact is undemonstrated* to *origination was independent*. It bars nothing about the weighing of what has been documented.
 
-Where **Anticipatory Dismissal** rejects a claim by assigning it a category in advance of evaluation, and **Antecedent Flattening** answers a particular question by generalizing it, **Presumed Independence** closes the open relation itself, assigning it by default while asserting nothing in form.
+The attribution is seldom recognized as a claim at all. Naming contact is heard as accusation and answered as misconduct, while assigning independence passes as rigor, though it closes the same open relation.
+
+Where **Anticipatory Dismissal** rejects a claim by assigning it a category in advance of evaluation, and **Antecedent Flattening** answers a particular question by generalizing it, **Default Independence Attribution** closes the open relation itself, assigning it by default while asserting nothing in form.
 
 The corrective principle is:
 
