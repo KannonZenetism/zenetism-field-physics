@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **External record:** Anthropic, *Detecting and Countering Misuse of AI: September 2026*  
 **Companion:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `default-independence-attribution.md` · `SF-RP07-dependent-evidence-is-not-redundant-evidence.md`  
