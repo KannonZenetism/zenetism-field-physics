@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Companion:** `default-independence-attribution.md` · `SF-RP04-the-footprint-audit-protocol.md` · `SF-RP05-the-register-band-classification-protocol.md`  
 **Function:** Establishes how related observations are weighed in cumulative structural analysis without mistaking dependence for redundancy or requiring each constituent item to independently establish the whole pattern.  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP07-dependent-evidence-is-not-redundant-evidence.md`  
