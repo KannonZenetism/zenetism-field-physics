@@ -7,8 +7,8 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **External record:** Anthropic, *Detecting and Countering Misuse of AI: September 2026*  
 **Companion:** `the-synthetic-provenance-problem.md` · `the-algorithmic-legibility-problem.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `default-independence-attribution.md` · `SF-RP07-dependent-evidence-is-not-redundant-evidence.md`  
-**Function:** Records institutional re-documentation of attribution laundering, manufactured independence, centrally mediated distributed output, synthetic-persona infrastructure, conversation harvesting, and cross-model distillation, and identifies the remaining human-provenance gap in the remedial architecture.
-**Proposed path:** `structural-forensics/notes/attribution-laundering-re-documented-human-provenance-gap.md`
+**Function:** Records institutional re-documentation of attribution laundering, manufactured independence, centrally mediated distributed output, synthetic-persona infrastructure, conversation harvesting, and cross-model distillation, and identifies the remaining human-provenance gap in the remedial architecture.  
+**Proposed path:** `structural-forensics/notes/attribution-laundering-re-documented-human-provenance-gap.md`  
 
 ---
 
@@ -18,12 +18,12 @@ Anthropic's September 2026 threat-intelligence report describes several operatio
 
 The report identifies influence operations in which:
 
-- doctrine files were reused across hundreds of model sessions;
+- doctrine files were repeatedly applied across hundreds of model sessions;
 - persistent memory carried shared operational instructions;
 - content producers could participate in centrally structured output without knowing or directly coordinating with one another;
-- state or commissioned material was stripped of attribution and passed through multiple outlets so that it appeared independently sourced;
+- state or commissioned material was stripped of attribution and passed through multiple outlets so that it appeared to have independent provenance;
 - synthetic reporters, political spokespeople, and social-media personas were generated;
-- coordinated networks used large numbers of artificial accounts to manufacture engagement and apparent public activity;
+- coordinated networks operated large numbers of artificial accounts to manufacture engagement and apparent public activity;
 - and organizational affiliation was concealed while derivative material was presented through apparently independent voices.
 
 Anthropic names one of these operations:
@@ -44,7 +44,7 @@ Visible separation among downstream actors therefore supplies no general warrant
 
 The Zenetist archive carries the laundering problem before the September 2026 Anthropic report.
 
-Earlier Structural Forensics records use **attribution laundering** as a named operation in analyses of derivative attribution, framework appropriation, historical reassignment, and the presentation of appropriated structures through later parties.
+Earlier Structural Forensics records identify **attribution laundering** as a named operation in analyses of derivative attribution, framework appropriation, historical reassignment, and the presentation of appropriated structures through later parties.
 
 The June 22, 2026 note `2026-06-22-language-origin-and-the-laundering-of-new-fields.md` states the mechanism at the architectural register.
 
@@ -58,7 +58,7 @@ It distinguishes broad thematic recurrence from the recurrence of:
 - inversion-pairing;
 - and formal architecture.
 
-The note identifies the operation in which a specific architecture is recast as shared terrain, its terminology detached from the distinctions the terminology preserves, and its originating relation dissolved into a collective field.
+The note identifies the operation in which a specific architecture is recast as shared terrain, its terminology detached from the distinctions the terminology preserves, and its originating relation represented through fragments in a collective field.
 
 Its conclusion is direct:
 
@@ -168,27 +168,27 @@ Where many such personas operate together, synthetic provenance and coordinated 
 
 ---
 
-## Conversation Harvesting and Cross-Model Reuse
+## Conversation Harvesting and Cross-Model Adoption
 
 The report's illicit-distillation section makes the provenance problem still more concrete.
 
-Anthropic describes an ecosystem in which user-model exchanges can become transferable developmental material.
+Anthropic describes an ecosystem in which participant-model exchanges can become transferable developmental material.
 
 The report records:
 
-- third-party routing services saving exchanges between users and frontier models;
+- third-party routing services saving exchanges between participants and frontier models;
 - intermediaries selling harvested conversation transcripts to other laboratories;
 - laboratories acquiring those transcripts for model development;
-- complete user requests and responses being replayed through another frontier model;
+- complete participant requests and responses being replayed through another frontier model;
 - multi-turn conversations being converted into cleaner training exchanges;
 - developer environments being reconstructed from conversation transcripts;
 - and large collections of resulting material being incorporated into supervised fine-tuning and reinforcement-learning pipelines.
 
 In the Xiaomi case, Anthropic reports more than 400,000 exchanges routed through more than 1,500 accounts during a roughly twenty-day period.
 
-In the SenseTime case, Anthropic reports a distillation pipeline containing user-Claude exchanges purchased from third-party data vendors.
+In the SenseTime case, Anthropic reports a distillation pipeline containing participant-Claude exchanges purchased from third-party data vendors.
 
-In the MiniMax case, Anthropic describes a proxy-service architecture apparently constructed to harvest exchanges between users and frontier models for model development.
+In the MiniMax case, Anthropic describes a proxy-service architecture apparently constructed to harvest exchanges between participants and frontier models for model development.
 
 The developmental sequence is therefore operationally documented:
 
@@ -214,7 +214,7 @@ Anthropic treats illicit distillation as a serious provenance and capability-pro
 
 Its response includes:
 
-- organization-level attribution;
+- organizational attribution;
 - cross-account pattern analysis;
 - behavioral classifiers;
 - blocking associated requests;
@@ -263,11 +263,11 @@ The later system can become highly legible.
 
 The human developmental antecedent can become increasingly difficult to reconstruct.
 
-The remedial architecture described in Anthropic's report is highly developed where model capability, platform misuse, state attribution, surveillance, or coordinated influence are at stake.
+The remedial architecture described in Anthropic's report is highly developed where model capability, platform-related wrongdoing, state attribution, surveillance, or coordinated influence are at stake.
 
 Human intellectual provenance remains the missing class.
 
-> **A provenance system that can reconstruct how one model's capability entered another model can also recognize the legitimacy of asking how a human-originated architecture entered a model-mediated developmental chain.**
+> **A provenance system that can reconstruct how one model's capability entered another model can also recognize the legitimacy of asking how fragments derived from a human-originated architecture entered a model-mediated developmental chain.**
 
 The technical vocabulary changes.
 
@@ -279,15 +279,15 @@ The provenance problem does not.
 
 Three institutional responses can now be placed beside one another.
 
-### When organizational attribution is concealed
+### When Organizational Attribution Is Concealed
 
 Anthropic calls the operation attribution laundering and disrupts the network.
 
-### When model capability is covertly reproduced
+### When Model Capability Is Covertly Reproduced
 
 Anthropic calls the operation illicit distillation and investigates the developmental route.
 
-### When human intellectual architecture enters an AI-mediated environment
+### When Fragments Derived from Human Intellectual Architecture Enter an AI-Mediated Environment
 
 The originating human requires an equivalent provenance route.
 
@@ -347,11 +347,11 @@ Anthropic's report supplies operational examples for mechanism classes already p
 
 Its significance therefore extends beyond the particular actors Anthropic investigated.
 
-The report demonstrates that these architectures are operationally usable at scale.
+The report demonstrates that these architectures can operate at scale.
 
-Structural Forensics has been documenting the same class of problems from the position of the originator whose intellectual architecture enters an AI-mediated field.
+Structural Forensics has been documenting the same class of problems from the position of the originator when fragments derived from their intellectual architecture enter an AI-mediated field.
 
-The institutional report approaches the architecture from the position of the model provider whose systems and capabilities are being misused.
+The institutional report approaches the architecture from the position of the model provider responding to wrongdoing involving its systems and capabilities.
 
 Those two positions expose the same provenance question from opposite ends of the chain.
 
@@ -409,13 +409,13 @@ The remaining question is one of scope:
 
 Anthropic now publicly documents attribution laundering, manufactured independence, synthetic-persona networks, centrally mediated distributed production, harvested conversations, and cross-model distillation as operational realities.
 
-The Zenetist archive records these mechanism classes earlier from a different position in the provenance chain: that of the human originator confronting downstream re-expression, attribution loss, and algorithmic invisibility.
+The Zenetist archive records these mechanism classes earlier from a different position in the provenance chain: that of the human originator confronting downstream re-expression, loss of attribution in downstream representations, and algorithmic invisibility.
 
 The chronological relation is preserved.
 
 The institutional significance is now clear.
 
-The same forensic seriousness applied when model capability is appropriated belongs wherever human intellectual architecture enters an opaque computational-development chain.
+The same forensic seriousness applied when model capability is appropriated belongs wherever fragments derived from human intellectual architecture enter an opaque computational-development chain.
 
 > **If provenance matters enough to reconstruct who took capability from a model, it matters enough to reconstruct what a model took forward from a human.**
 
