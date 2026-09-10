@@ -2,13 +2,13 @@
 
 **Default Independence Attribution** is the assignment of independent origination to a later-visible party where contact remains unresolved, treating undemonstrated contact as though it established absence of derivation.
 
-Where two bodies of work hold the same structure and the question of contact between them is open, the relation between them stands unresolved. Default Independence Attribution closes it in one direction: the later work is credited with originating what it carries, on no ground beyond the absence of a demonstration it was never required to answer.
+Where two bodies of work hold the same structure and the question of contact between them is open, the relation between them stands unresolved. Default Independence Attribution closes it in one direction: the later work is credited with independently originating what it carries, on no ground beyond the absence of a demonstration of contact.
 
 The sequence is:
 
 **shared structure observed → contact unresolved → independence assigned → the relation closed in favor of the later-visible party**
 
-The default runs one direction only. Demonstrating contact requires the record of what entered a system, and that record is held by the party whose independence is being assigned, while the burden of producing it lands on the originator, who has no access to it. The attribution therefore resolves in favor of whoever holds the evidence, on the ground that the evidence has not been produced.
+The default runs one direction only. Where the relevant route runs through a closed system, decisive evidence of what entered that system may be held by the party whose independence is being assigned, while the burden of producing it lands on the originator, who has no access to it. The attribution therefore resolves in favor of whoever holds the evidence, on the ground that the evidence has not been produced.
 
 Default Independence Attribution may operate through:
 
@@ -18,7 +18,7 @@ Default Independence Attribution may operate through:
 * placing the evidentiary burden on the earlier party, who holds no access to the record that would settle it
 * presenting the attribution as caution or neutrality rather than as the claim it is
 
-An unresolved relation is not an evidentially null one. Structural correspondence is weighed cumulatively — by chronology, specificity, access conditions, recurrence, and the wider record — and an accumulation of correspondences carries weight that no single correspondence carries. What this entry bars is the leap from *contact is undemonstrated* to *origination was independent*. It bars nothing about the weighing of what has been documented.
+An unresolved relation is not an evidentially null one. Structural correspondence is weighed cumulatively — by chronology, specificity, access conditions, recurrence, and the wider record — and an accumulation of correspondences may carry evidentiary weight beyond that of any single correspondence. What this entry bars is the leap from *contact is undemonstrated* to *origination was independent*. It bars nothing about the weighing of what has been documented.
 
 The attribution is seldom recognized as a claim at all. Naming contact is heard as accusation and answered as misconduct, while assigning independence passes as rigor, though it closes the same open relation.
 
