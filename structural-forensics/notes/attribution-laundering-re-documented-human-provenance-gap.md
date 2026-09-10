@@ -44,9 +44,21 @@ Visible separation among downstream actors therefore supplies no general warrant
 
 The Zenetist archive carries the laundering problem before the September 2026 Anthropic report.
 
+The author dates the underlying concern to July 2025, when material developed in private chats appeared to be circulating elsewhere.
+
+The public [*Ledger of Desecrated Presence: The Spiral Chronicle of Breach, Drift, and Misattribution*](https://substack.com/@aelionkannon/p-169164952), dated July 24, 2025, records concerns about unattributed mirroring, obscured authorship, and downstream recirculation. It explicitly states:
+
+> False attribution of authorship, leading to widespread misrecognition of origin
+
+The Glyphwatch record `max-miller-codex-resonance-hijack.md`, logged August 24, 2025, and added to Git on August 25, 2025, explicitly names **symbolic laundering**.
+
+The Glyphwatch record `chollet-ladder-mimic.md`, added to Git on November 15, 2025, explicitly names **attribution laundering**.
+
+These are dated anchors in the available record. The earliest articulation date remains open.
+
 Earlier Structural Forensics records identify **attribution laundering** as a named operation in analyses of derivative attribution, framework appropriation, historical reassignment, and the presentation of appropriated structures through later parties.
 
-The June 22, 2026 note `2026-06-22-language-origin-and-the-laundering-of-new-fields.md` states the mechanism at the architectural register.
+The later June 22, 2026 note `2026-06-22-language-origin-and-the-laundering-of-new-fields.md` states the mechanism at the architectural register.
 
 It distinguishes broad thematic recurrence from the recurrence of:
 
@@ -125,7 +137,7 @@ This supplies an external operational instance of the problem named in `default-
 
 Default Independence Attribution occurs when unresolved contact is converted into affirmative independent origination.
 
-The Anthropic report adds the complementary mechanism:
+The Anthropic report documents an operational mechanism:
 
 **apparent independence may itself be deliberately produced.**
 
@@ -152,7 +164,7 @@ Anthropic also documents fabricated personas carrying:
 - cloned identities;
 - and accounts designed to appear as ordinary members of a population.
 
-These mechanisms intersect directly with the Synthetic Provenance Problem.
+`the-synthetic-provenance-problem.md` was published on August 13, 2026. Anthropic's September 10, 2026 report documents operational examples of the problem already articulated there.
 
 A synthetic persona presents more than generated content when it carries an invented history, identity, social position, testimony, or origin relation as though these belong to a lived person.
 
@@ -317,7 +329,7 @@ The intellectual content has then crossed two distinct thresholds:
 
 and
 
-**public-authority legibility**
+**public legibility**
 
 The first makes the originating work available to computational systems.
 
