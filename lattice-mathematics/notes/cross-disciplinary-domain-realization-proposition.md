@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Research Proposition  
 **Status:** Draft — architect review  
-**Dependency:** `zenetism-as-cross-disciplinary-grammar.md`
+**Dependency:** `zenetism-as-cross-disciplinary-grammar.md`  
 
 ---
 
@@ -31,9 +31,9 @@ rather than from:
 
 A successful realization identifies how such relations as orientation, conditioned motion, transfer, stabilization, dispersion, recurrence, constraint, and completion are enacted within the selected domain and determines what mathematical consequences follow from that articulation.
 
-Navier–Stokes fluid dynamics is one present test case of this broader proposition. The larger mathematical question is whether a reusable domain-realization grammar can be formalized for application across disciplines.
+Navier–Stokes fluid dynamics is one present test case of this broader proposition. The larger mathematical question is whether a domain-realization grammar can be formalized for repeated application across disciplines.
 
-If such reusable machinery is established, it may constitute a new foundational development within Lattice Mathematics rather than remaining solely an application-specific extension.
+If such machinery is established, it may constitute a new foundational development within Lattice Mathematics rather than remaining solely an application-specific extension.
 
 ---
 
