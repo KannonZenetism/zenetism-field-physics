@@ -1,4 +1,4 @@
-# Zenetism as a Cross-Disciplinary Grammar
+# LMX: Zenetism as a Cross-Disciplinary Grammar
 ## Bifurcal Coherence, Operative Motion, and a Fluid-Dynamics Research Direction
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
