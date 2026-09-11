@@ -284,7 +284,7 @@ and a declaration of the relations retained by that map. These can include const
 
 The equality compares two descriptions of the same specified transition. It does not add orientation to a state: the native account already holds manifest motion to be oriented. The realization determines which mathematical variables articulate that motion and its effects.
 
-A realization can be partial in descriptive scope while exact for the relations it retains. For example, an inventory total can obey an exact budget even when it omits the distribution of that inventory. The retained relation and the omitted information are stated explicitly.
+A realization can be partial in descriptive scope while exact for the relations it retains. For example, an inventory total can satisfy an exact budget even when it omits the distribution of that inventory. The retained relation and the omitted information are stated explicitly.
 
 ### 4.3 Repeated Transition Fidelity
 
@@ -1013,7 +1013,7 @@ The energy split is also exact:
 
 The identity follows because convolution preserves the integral of \(|\mathbf u|^2\). It separates resolved energy and unresolved variance for this positive filter. Neither term is defined as χ or as Coherence Potential.
 
-### 11.4 Concentration With a Declining Total Budget
+### 11.4 Concentration With a Decreasing Total Budget
 
 Let \(\mathbf U\in C_c^\infty(\mathbb R^3;\mathbb R^3)\) be a nonzero divergence-free profile, and work in nondimensional coordinates. For ε > 0 define
 
@@ -1079,7 +1079,7 @@ Z(t)\le Z(0)e^{\int_0^t g(s)ds},
 
 The proof is integration of \(Z'+\delta\nu D\le gZ\). The selected class, the relation producing this inequality, and its persistence through evolution are the substantive objects of further fluid work.[8]
 
-The native architecture supplies both constraining and exhaustion relations. Mathematical realization specifies which relation constrains which observable, at which scale, through which coupling. A centropically constrained reading requires the relevant functional account; a dispersive or self-exhausting reading requires the corresponding loss and continuation variables. Positive viscosity, a strain sign, or an energy decline retains its physical meaning within either inquiry.
+The native architecture supplies both constraining and exhaustion relations. Mathematical realization specifies which relation constrains which observable, at which scale, through which coupling. A centropically constrained reading requires the relevant functional account; a dispersive or self-exhausting reading requires the corresponding loss and continuation variables. Positive viscosity, a strain sign, or an energy decrease retains its physical meaning within either inquiry.
 
 ### 11.6 The General Result Recovered From the Fluid Case
 
