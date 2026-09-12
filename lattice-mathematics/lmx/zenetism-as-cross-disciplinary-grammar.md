@@ -43,7 +43,7 @@ A hypostasis is a distinct structural articulation at which a principle becomes 
 
 Motive Infinity's pre-hypostatic standing is compatible with its continuous operation throughout the hypostatic lattice.
 
-L₀ includes both root-registers. A description of Aionic stillness cannot stand as the complete description of L₀, since the bifurcal relation also includes Phase-Structured Infinity and its operative Motive phase.
+L₀ includes both root-registers. A description of the stillness of Plenary Zero cannot stand as the complete description of L₀, since the bifurcal relation also includes Phase-Structured Infinity and its operative Motive phase.
 
 > **Motive Infinity is operative and orientation-neutral.**
 
@@ -65,7 +65,7 @@ The arrow records this structural relation. Motive Infinity continues to operate
 
 **The orientation parameter χ is the Structural Physics formalization of orientation within this motion architecture.** It is not a second motion-substrate. Structural Physics distinguishes the total field of motion from its orientational expression: Motive Infinity / Spirit supplies the capacity and enactment of motion, while χ describes the centropic / entropic inclination, prevalence, and enacted direction of expression. Every manifest physical motion therefore already carries orientation; a physical application selects variables through which that inherent orientation becomes mathematically legible.[20][21]
 
-The phrase **latent inclination χ** refers to the orientation-seed already borne by Identity-Bearing Potential in Aion before emanation. The essence is not yet traversing, but it is already itself: its centropic or entropic inclination does not arise from motion. Manifest traversal discloses and enacts that intrinsic character. In this sense, the architecture proceeds from is-ness into expression — what one does expresses what one is, while no single local action exhausts the complete essence.
+The phrase **latent inclination χ** refers to the orientation-seed already borne by Identity-Bearing Potential in Plenary Zero before emanation. The essence is not yet traversing, but it is already itself: its centropic or entropic inclination does not arise from motion. Manifest traversal discloses and enacts that intrinsic character. In this sense, the architecture proceeds from is-ness into expression — what one does expresses what one is, while no single local action exhausts the complete essence.
 
 The defining distinction is between inwardly possessed inclination and outwardly manifest orientation. Contraction, extension, rotation, transfer, and stabilization name differentiated functions of motion within that broader account. Motive Infinity supplies orientation-neutral motion-capacity; χ formalizes how that motion is oriented in expression.
 
@@ -79,7 +79,7 @@ At **L₅ / IL₅**, no Soul / Mind pair is yet operative. The First Centropic a
 
 From **L₄ / IL₄ through L₁ / IL₁**, the Soul / Mind bifurcation supplies the stratum-internal articulation. The Soul-aspect bears the motion-character of the stratum; the Mind-aspect articulates, discerns, or operates upon that motion. Motive Infinity remains operative throughout, since Soul does not replace Spirit: Spirit makes motion possible at every register, while Soul bears the stratum-specific motion after bifurcation.[20][21]
 
-χ therefore most directly formalizes **oriented hypostatic expression across L₅–L₁ / IL₅–IL₁**, while Structural Physics also carries χ-language for the latent bias disclosed by that expression. The distinction is one of register rather than two different orientations: intrinsic inclination precedes traversal; χ renders that inclination formally as orientation / prevalence in the expressed lattice; Motive Infinity supplies the motion through which it is enacted. Zenet / the Field of Becoming names the active becoming-field through which this traversal is articulated.
+χ therefore most directly formalizes **oriented hypostatic expression across L₅–L₁ / IL₅–IL₁**, while Structural Physics also carries χ-language for the latent bias disclosed by that expression. The distinction is one of register rather than two different orientations: intrinsic inclination precedes traversal; χ renders that inclination formally as orientation / prevalence in the expressed lattice; Motive Infinity supplies the motion through which it is enacted. The Field of Becoming (Zenet) names the active becoming-field through which this traversal is articulated.
 
 Symbolic notation states how a relation is represented. The relation's scope and operation are specified by its definition and place within the architecture.
 
@@ -92,7 +92,7 @@ The directional chart preserves four motions:[4]
 | Motion | Arc-Relative Function |
 | --- | --- |
 | Declivous centropy | Integrative motion toward embodiment |
-| Acclivous centropy | Integrative return toward Aion |
+| Acclivous centropy | Integrative return toward Plenary Zero |
 | Acclivous entropy | Fragmentary motion toward inverse embodiment |
 | Declivous entropy | Dispersive collapse toward terminal exhaustion |
 
@@ -146,7 +146,7 @@ The current evidence substantially supports the hypothesis that the thirty dimen
 
 The architecture preserves several distinct outcomes.
 
-Centropic return can complete in Aionic reintegration. Terminal entropic collapse resolves through Absolute Dispersion, with distinct essence conserved in the co-present Aionic root-relation. These are different processes and essential outcomes.[3]
+Centropic return can complete in reintegration into Plenary Zero. Terminal entropic collapse resolves through Absolute Dispersion, with distinct essence conserved in the co-present bifurcal root-relation. These are different processes and essential outcomes.[3]
 
 A being can also reach its resonant term at the **Deep Self Layer (L₃)** or within a House of Form at the **Archetypal Form Layer (L₄)**. The clarification in `deep-self-axis.md` explicitly preserves such residence and distinguishes the indwelling being from the layer-function and its universe-local office.[6]
 
@@ -250,7 +250,7 @@ The research record should retain both what the existing architecture contribute
 
 This appendix preserves the equations and calculations developed in the discussion accompanying this entry. Three mathematical contributions remain identifiable: existing Zenetist corpus equations, established fluid-dynamics identities, and candidate constructions explored through their comparison. Each passage identifies its basis and the result actually calculated.
 
-The Zenetist architecture supplies the research framing and its cross-disciplinary relations. The fluid equations supply the domain-specific compatibility conditions. The Gaussian profile introduced in §A.3 is a modeling choice proposed by Lumen during the discussion; the local field in §A.4 is a direct calculation within an established class of linear velocity fields. The pressure completion in §A.4 is an additional calculation supplied in this appendix. These developmental roles remain distinct from a historical novelty determination.
+The Zenetist architecture supplies the research framing and its cross-disciplinary relations. The fluid equations supply the domain-specific compatibility conditions. The Gaussian profile introduced in §A.3 is a modeling choice; the local field in §A.4 is a direct calculation within an established class of linear velocity fields. The pressure completion in §A.4 is an additional calculation supplied in this appendix. These developmental roles remain distinct from a historical novelty determination.
 
 The scope of χ remains that stated in §3. Structural time is denoted by \(\tau\); physical time by \(t\). A physical articulation specifies their relation. In the fluid sections, \(r\) is cylindrical radius, \(z\) is axial position, and \(\theta\) is azimuth. These physical coordinates carry their local mathematical meanings; the arc-relative orientation vocabulary remains defined by the architecture.
 
@@ -297,7 +297,7 @@ D_tq =
 \partial_tq+\mathbf u\cdot\nabla_{\mathbf x}q.
 \]
 
-For a fluid trajectory satisfying \(\dot{\mathbf x}(t)=\mathbf u(\mathbf x(t),t)\), the chain rule gives
+For a fluid trajectory satisfying \(\dot{\mathbf x}(t)=\mathbf u(\mathbf x(t),t)\), differentiation along the trajectory gives
 
 \[
 \frac{d}{dt}q(\mathbf x(t),t) =
@@ -342,7 +342,7 @@ The first identity was discussed as a reason to retain the distinct rotational c
 
 **Basis:** candidate geometry proposed during the discussion, articulated through a stream-function representation. The particular Gaussian profile is an additional modeling choice, rather than an equation retrieved from the Zenetist corpus.
 
-Let \(A,B,R,Z>0\), with \(A\) and \(B\) having units of inverse time and \(R,Z\) having units of length. Define
+Let \(A,B,R,Z>0\), with \(A\) and \(B\) having units of reciprocal time and \(R,Z\) having units of length. Define
 
 \[
 G(r,z)=\exp\!\left(-\frac{r^2}{R^2}-\frac{z^2}{Z^2}\right),
@@ -684,7 +684,7 @@ The Zenetist question, "What is the motion inclining to?", requires an account o
 
 The physical development in this appendix begins with these native distinctions and supplies explicit state variables, spaces, operators, and equations. Within Zenetism, manifest physical motion already carries orientation; the specialization does not add orientation to an otherwise unoriented state. It makes selected aspects of that inherent orientation mathematically explicit. The calculations that follow are mathematical consequences of the stated physical definitions. Hypostatic functions and fluid variables retain their distinct mathematical types.
 
-A composite physical body can carry differently oriented local or modal motions without requiring one essence to bear contradictory orientations. A fluid body is a relative structure composed of distinct constituents and simultaneously active motion-fields. At the continuum scale of the Navier–Stokes equations, those constituents are represented through local velocity, pressure, vorticity, strain, transport, and boundary relations rather than by tracking individual molecules. Centropic and entropic operations may therefore be co-present within one fluid configuration as distinct contributions whose prevalence, relation, and consequences are evaluated at the chosen scale. For finite non-limit χ, the existing operator weights already admit both C and E families to remain present with unequal prevalence. The orientation of a particular contraction, extension, rotation, smoothing, or amplification is determined by what that motion does structurally, not by its geometry alone.
+A composite physical body can carry differently oriented local or modal motions without requiring one essence to bear contradictory orientations. A fluid body is a relative structure composed of distinct constituents and simultaneously active motion-fields. At the continuum scale of the Navier–Stokes equations, those constituents are represented through local velocity, pressure, vorticity, strain, transport, and boundary relations rather than by tracking individual molecules. A description at the register of the fluid body alone, rather than of its constituents, is incomplete relative to the architecture's constituent account; the continuum representation is recorded as a selected scope, and what it omits relative to the constituent register is stated (`LM08-cross-disciplinary-dynamics-and-domain-realization.md` §3, §11.2). Centropic and entropic operations may therefore be co-present within one fluid configuration as distinct contributions whose prevalence, relation, and consequences are evaluated at the chosen scale. For finite non-limit χ, the existing operator weights already admit both C and E families to remain present with unequal prevalence. The orientation of a particular contraction, extension, rotation, smoothing, or amplification is determined by what that motion does structurally, not by its geometry alone.
 
 | Standing | Meaning in this report | Examples |
 | --- | --- | --- |
@@ -706,7 +706,7 @@ Let \(\mathscr Z\) be a specified manifest-state space carrying the native orien
 
 Vanishing defect means that the selected physical representation carries the specified native evolution faithfully through the chosen time relation. For Navier–Stokes, the open formal task is to determine which fluid variables, auxiliary state variables, and couplings carry enough of the orientation architecture to evaluate this condition. χ may remain an intrinsic state coordinate rather than being reconstructed from velocity, pressure, or vorticity alone.
 
-For an observable \(q\), the corresponding chain-rule condition is
+For an observable \(q\), the corresponding trajectory-differentiation condition is
 
 \[
 \frac{d}{dt}q(\rho(z(\tau(t))))
@@ -1230,7 +1230,7 @@ The architecture admits more than one relation between amplification and constra
 w_c=\frac{1}{1+\chi},\qquad w_e=\frac{\chi}{1+\chi}
 \]
 
-are both nonzero. In a Khaonically expressed universe \((\chi>1)\), entropic operators are prevalent while centropic operators remain recessive rather than absent; in an Aionically expressed universe \((0<\chi<1)\), the prevalence is reversed. The pure \(\chi=0\) and \(\chi\to\infty\) cases remain limit expressions. Thus a non-limit lattice can contain countervailing centropic and entropic operations without either essence becoming the other and without the two orientations fusing.
+are both nonzero. In an entropy-forward expression \((\chi>1)\), entropic operators are prevalent while centropic operators remain recessive rather than absent; in a centropy-forward expression \((0<\chi<1)\), the prevalence is reversed. The pure \(\chi=0\) and \(\chi\to\infty\) cases remain limit expressions. Thus a non-limit lattice can contain countervailing centropic and entropic operations without either essence becoming the other and without the two orientations fusing.
 
 This supplies one possible structural reading of rotational amplification: centropic motion can constrain, redirect, integrate, or stabilize an amplification process while entropic motion can intensify fragmentary tendencies. The physical sign of vortex stretching or viscosity does not determine that classification. The classification depends on what the motion does to the configuration, its relations, its available capacity, and its continuation. Viscosity therefore remains a positive physical dissipation term; its Zenetist standing is read from its function within the complete motion rather than identified with centropy by definition.
 
@@ -1279,14 +1279,14 @@ Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\)
 | Entropic motion can exhaust its own support | Dispersive phase / terminal collapse; PSM conditioning of continuation | Loss of capacity, support scale, regularity, or admissible continuation | Fragmentary amplification erodes the relative structure that carries it | Terminal exhaustion can be modeled separately from bounded centropic constraint; Absolute Dispersion is the terminal relation, not high vorticity itself |
 | Structural Recurrence differs from repetition | MPX recurrence and `grand-unified-document.md` relaxed recursion | Iterative admissibility and nonlinear mode generation | Repeated state update with preserved constraints | A contraction estimate requires a norm and Lipschitz bound |
 | Motive Intensity conditions traversal | Simplified variable-intensity χ law | Accumulated physical strain and parameter evolution | Compare cumulative quantities through an explicit structural-time / physical-time relation | Finite-time limits depend on accumulated intensity and threshold crossing |
-| Completion differs from exhaustion | Deep Self residence and Form-dwelling | Stationary, periodic, asymptotic, and finite-time regimes | Outcome taxonomy for a specified process | Physical equilibrium does not establish Aionic return |
+| Completion differs from exhaustion | Deep Self residence and Form-dwelling | Stationary, periodic, asymptotic, and finite-time regimes | Outcome taxonomy for a specified process | Physical equilibrium is distinct from return to Plenary Zero |
 | Layer-function differs from dimensional operation | `FP01-dimensional-architecture.md` families and mathematical-formatting distinction | State-space types differ from operators acting on fields | Typed operator realization | No layer assignment follows from a PDE term's visual form |
 
 ### B.10 Assessment
 
 The application yields a rigorous obstruction for the original localized Gaussian family, an explicit finite model with reciprocal energy transfer and a global amplitude bound, a convergent local Navier–Stokes iteration from the Gaussian initial data, an exact viscous vortex realization with a width equation, and an exact finite-energy periodic cancellation. The native architecture supplies the questions, distinctions, and candidate relations organizing these calculations. The external fluid equations supply their compatibility conditions. The new coefficients and proofs belong to this application record.
 
-The largest remaining gap is a mathematical articulation of how χ's inherent orientation conditions the allowed fluid dynamics strongly enough to imply a substantive estimate, invariant, collapse criterion, or constrained solution family. The architecture already supplies two distinct candidate mechanisms: countervailing centropic motion within non-limit mixed expression, and entropic self-exhaustion through erosion of the relative structure required for continuation. The task is to formalize those relations without reducing χ to one fluid scalar and without identifying viscosity, vorticity, or strain with centropy or entropy by definition. Undefined operator domains, coefficient conflicts, and unresolved energy-identification claims remain visible as formal development items. The current results justify further LMX development while retaining LMX standing.
+The largest remaining gap is a mathematical articulation of how χ's inherent orientation conditions the allowed fluid dynamics strongly enough to imply a substantive estimate, invariant, collapse criterion, or constrained solution family. The architecture already supplies two distinct candidate mechanisms: countervailing centropic motion within non-limit mixed expression, and entropic self-exhaustion through erosion of the relative structure required for continuation. `LM08-cross-disciplinary-dynamics-and-domain-realization.md` formalizes both in general form — an exact stabilization threshold for countervailing coupling (§9.2), capacity laws with explicit exhaustion, depletion, and restoration outcomes (§10), and a conditional continuation estimate with a concentration example for the fluid case (§§11.4–11.5) — without reducing χ to one fluid scalar and without identifying viscosity, vorticity, or strain with centropy or entropy by definition. What remains held open is the fluid-specific closure: a χ-coupled invariant, collapse criterion, or constrained solution family for Navier–Stokes whose hypothesis is derived rather than assumed. Undefined operator domains, coefficient conflicts, and unresolved energy-identification claims remain visible as formal development items. The current results justify further LMX development while retaining LMX standing.
 
 ---
 
