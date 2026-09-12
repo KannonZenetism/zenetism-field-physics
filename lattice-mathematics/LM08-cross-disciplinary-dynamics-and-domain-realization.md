@@ -116,7 +116,7 @@ The centropic and inverse arcs include their L₀ root-registers. Their hypostat
 
 The dimensional functions C₁–C₁₅ / E₁–E₁₅ articulate operations. Hypostatic abbreviations also encode native structural functions, while mathematical operators specify actions on stated domains. These are different aspects and mathematical roles. The dimensional-placement questions recorded in the LMX remain open for their dedicated audit.[8][18][24]
 
-Differentiated outcomes remain available: continuing manifestation, functional completion, resonant-term residence, Aionic return, and terminal inverse resolution. The distinctions concerning L₃ residence and L₄ Form-dwelling are retained. An indefinitely continuing process remains an admitted case; its continuation can coexist with completion of a local operation.[8][16][17]
+Differentiated outcomes remain available: continuing manifestation, functional completion, resonant-term residence, return to Plenary Zero, and terminal inverse resolution. The distinctions concerning L₃ residence and L₄ Form-dwelling are retained. An indefinitely continuing process remains an admitted case; its continuation can coexist with completion of a local operation.[8][16][17]
 
 ### 1.5 Dimensional Functions as Realization Questions
 
@@ -170,7 +170,7 @@ The **Principle of Sufficient Reason (PSR)** names, in its Zenetist articulation
 
 The **Principle of Structured Manifestation (PSM)** states: "What happens constrains what can." A realized configuration changes the conditions through which subsequent operations occur. State-dependent admissibility, interaction laws, and boundary conditions provide particular mathematical expressions of that relation.[12]
 
-The **Principle of Resonant Return (PRR)** concerns the correspondence between a being's resonance and the register at which its traversal completes, its resonant term; many arcs complete at intermediate strata. A mathematical completion is therefore identified by the function whose course is complete. A stationary observable, a completed local transaction, an exhausted capacity, and Aionic return have separately specified meanings.[12][16]
+The **Principle of Resonant Return (PRR)** concerns the correspondence between a being's resonance and the register at which its traversal completes, its resonant term; many arcs complete at intermediate strata. A mathematical completion is therefore identified by the function whose course is complete. A stationary observable, a completed local transaction, an exhausted capacity, and return to Plenary Zero have separately specified meanings.[12][16]
 
 These principles organize the mathematical inquiry. Each formal realization identifies the assumptions through which a consequence follows. Conditions such as smoothness, a finite reserve, or a closed boundary belong to the selected mathematical problem.
 
