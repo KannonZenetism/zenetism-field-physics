@@ -46,7 +46,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Zenetist Canon  
 **Status:** Draft — architect review  
-**Function:** Develops a mathematical grammar for expressing Zenetist dynamics across disciplines, preserving distinctions among essential inclination, enacted orientation, constituent function, composite interaction, and domain-specific evolution  
+**Function:** Develops a mathematical grammar for expressing Zenetist dynamics across disciplines, preserving distinctions among intrinsic inclination, enacted orientation, constituent function, composite interaction, and domain-specific evolution  
 **Dependency:** `LM01-mathematical-foundations.md` · `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` · `zenetism-as-cross-disciplinary-grammar.md` · `cross-disciplinary-domain-realization-proposition.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 
 ---
@@ -61,7 +61,7 @@ Two kinds of translation remain distinct. A canonical / analytic crosswalk prese
 
 ## Abstract
 
-Zenetism is articulated as a cross-disciplinary grammar of structured manifestation and oriented motion. This volume develops the mathematical conditions through which selected relations of that grammar can be expressed in disciplinary state spaces, interaction laws, and evolution equations. Essential inclination, operative motion, stratum-specific motion-bearing, and functional capacity retain their different architectural roles.
+Zenetism is articulated as a cross-disciplinary grammar of structured manifestation and oriented motion. This volume develops the mathematical conditions through which selected relations of that grammar can be expressed in disciplinary state spaces, interaction laws, and evolution equations. Intrinsic inclination, operative motion, stratum-specific motion-bearing, and functional capacity retain their different architectural roles.
 
 The construction begins with identity-bearing constituents and their relations, rather than an undifferentiated aggregate. Domain-realization maps carry selected states and operations into another mathematical description. Exact intertwining, quantitative fidelity defects, and composition identities specify how dynamical consequences are retained. Observation-fiber criteria determine when a reduced description admits an autonomous evolution. A nonlinear two-constituent example exhibits the interaction information omitted by a mean alone.
 
@@ -106,7 +106,7 @@ These standings preserve developmental provenance. A calculation newly completed
 
 Phase-Structured Infinity carries Latent, Motive, and Dispersive phase-conditions. **Absolute Motion — Motive Infinity / Spirit — supplies and sustains active motion throughout traversal.** Its orientation-neutral operation makes both centropic and entropic expression possible. **Zenet / Field of Becoming** names the motive-register articulation of becoming, with its identity preserved through the current vocabulary determination.[8][10][11][15]
 
-Essential inclination belongs to distinct Identity-Bearing Potential before manifestation. The First Centropic Hypostasis, Theon at L₅, and the First Inverse Hypostasis, Nekron at IL₅, articulate the first manifest orientations. Both precede the Soul / Mind bifurcation. From L₄ / IL₄ through L₁ / IL₁, the Soul-aspect bears stratum-specific motion and the Mind-aspect articulates that motion. Spirit remains operative throughout.[11][13][14]
+Intrinsic inclination belongs to distinct Identity-Bearing Potential before manifestation. The First Centropic Hypostasis, Theon at L₅, and the First Inverse Hypostasis, Nekron at IL₅, articulate the first manifest orientations. Both precede the Soul / Mind bifurcation. From L₄ / IL₄ through L₁ / IL₁, the Soul-aspect bears stratum-specific motion and the Mind-aspect articulates that motion. Spirit remains operative throughout.[11][13][14]
 
 The parameter χ formally articulates orientation within this architecture. The phrase *latent inclination χ* concerns the inclination borne by essence before enacted traversal. Its manifest readings concern that inclination's expression and the prevalence of operations in a specified configuration. These readings retain their register distinctions.[3][7][8][19]
 
@@ -166,11 +166,11 @@ The record is a proposed analytic form for the questions already posed by the na
 
 ### 2.3 Three Principles of Continuation
 
-The **Principle of Sufficient Reason (PSR)** names, in its Zenetist articulation, the requisite motion principle, essentially Motive Infinity. A mathematical model begins with an admitted space of possibilities and an operative process; the model records a selected formal aspect of that prerequisite.[12][22]
+The **Principle of Sufficient Reason (PSR)** names, in its Zenetist articulation, the requisite motion principle, essentially Motive Infinity: possibility is realized where nothing prevents it, and the principle holds for lawful manifestation rather than for the empirical confirmation of every possible world. A mathematical model begins with an admitted space of possibilities and an operative process; the model records a selected formal aspect of that prerequisite.[12][22]
 
 The **Principle of Structured Manifestation (PSM)** states: "What happens constrains what can." A realized configuration changes the conditions through which subsequent operations occur. State-dependent admissibility, interaction laws, and boundary conditions provide particular mathematical expressions of that relation.[12]
 
-The **Principle of Resonant Return (PRR)** concerns correspondence between orientation and resonant term. A mathematical completion is therefore identified by the function whose course is complete. A stationary observable, a completed local transaction, an exhausted capacity, and Aionic return have separately specified meanings.[12][16]
+The **Principle of Resonant Return (PRR)** concerns the correspondence between a being's resonance and the register at which its traversal completes, its resonant term; many arcs complete at intermediate strata. A mathematical completion is therefore identified by the function whose course is complete. A stationary observable, a completed local transaction, an exhausted capacity, and Aionic return have separately specified meanings.[12][16]
 
 These principles organize the mathematical inquiry. Each formal realization identifies the assumptions through which a consequence follows. Conditions such as smoothness, a finite reserve, or a closed boundary belong to the selected mathematical problem.
 
@@ -208,9 +208,9 @@ The variable e records interactions or connections, and b records boundary and e
 
 A composite is therefore represented through its constituents and their relations. Replacing the whole state by \(\sum_i x_i\) is a particular observation of this description. Section 7 determines when an observation retains enough information for a closed evolution.
 
-### 3.2 Essential Inclination and Functional State
+### 3.2 Intrinsic Inclination and Functional State
 
-An intrinsic inclination record can be attached to tagᵢ, while the changing variables xᵢ record expressed capacity, motion, and access. A field's χ-description can then depend on the enacted relations among constituents and on their boundaries. The essential record, the realized behavior, and the collective expression receive separate mathematical roles.[7][8]
+An intrinsic inclination record can be attached to tagᵢ, while the changing variables xᵢ record expressed capacity, motion, and access. A field's χ-description can then depend on the enacted relations among constituents and on their boundaries. The intrinsic record, the realized behavior, and the collective expression receive separate mathematical roles.[7][8]
 
 In this volume, local subscripts on χ indicate the specified register or application. They do not rename the canonical parameter. The value space for a general orientation description is denoted by \(\mathscr O\); a scalar equation selects a numerical chart and its domain when needed. The scalar laws inherited from the corpus retain their own coefficient and endpoint conditions.
 
@@ -1184,7 +1184,7 @@ The architectural scope remains wider than any one physical scalar or domain. Th
 | Question | Current Treatment |
 | --- | --- |
 | Full and simplified χ evolution have different sign behavior | The LMX's explicit linearization and the inherited formulas remain the reference; this volume makes no coefficient correction |
-| Essential inclination and evolving expression share χ-language | The draft records the role of each occurrence and preserves the distinction between essential identity, expression, and collective prevalence |
+| Intrinsic inclination and evolving expression share χ-language | The draft records the role of each occurrence and preserves the distinction between essential identity, expression, and collective prevalence |
 | Dimensional primary placement differs among references | Functions are articulated here; primary placement remains in the dedicated dimensional audit |
 | The native sealed norm awaits a complete construction | Each proof in this volume specifies its actual norm or state space; no unnamed sealed norm is assumed |
 | A scalar valuation is needed for some memory or capacity inequalities | The relevant functional is defined where an inequality is derived; an operator and its numerical valuation retain distinct types |
