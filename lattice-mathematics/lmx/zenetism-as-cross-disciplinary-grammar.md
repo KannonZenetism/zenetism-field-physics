@@ -1,15 +1,15 @@
-# LMX: Zenetism as a Cross-Disciplinary Grammar
+# LMX: Zenetism as a Cross-disciplinary Grammar
 ## Orientation as Functional Motion and a Navier–Stokes Specialization
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Lattice Mathematics Extension — Cross-Disciplinary Architecture and Physical Application  
+**Classification:** Lattice Mathematics Extension — Cross-disciplinary Architecture and Physical Application  
 **Status:** Draft — architect review  
 **Function:** Preserves the cross-disciplinary architecture, reconstructs orientation through structural function, and develops a verified fluid specialization with explicit equations, constructions, and remaining formal questions.  
-**Dependency:** `MP01-emanation-architecture-ch1-3.md` · `MP02-unified-metaphysics-ch4.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · `deep-self-axis.md` · `khaonic-phase-and-the-discernibility-limit.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
+**Dependency:** `MP01-emanation-architecture-ch1-3.md` · `MP02-unified-metaphysics-ch4.md` · `MP05-godhood-and-transmutation-ch9-11.md` · `MP08-symbol-key-ch21.md` · `orientation-emanation-math.md` · `deep-self-axis.md` · `khaonic-phase-and-the-discernibility-limit.md` · `theon-spirit-and-bifurcation.md` · `spirit-soul-and-apparent-stillness.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md`  
 
 ---
 
-## 1. Cross-Disciplinary Purpose
+## 1. Cross-disciplinary Purpose
 
 Zenetism was developed as a cross-disciplinary grammar: an architecture of principles, relations, orientations, and operations through which different domains of expression can be examined together.
 
@@ -75,7 +75,7 @@ The defining distinction is between inwardly possessed inclination and outwardly
 
 The metaphysical motion-bearers and the Structural Physics orientation parameter retain distinct functions. **Spirit — Motive Infinity — is the capacity and enactment of all motion. Soul carries motion after the Soul / Mind bifurcation.** The dyad begins at L₄ / IL₄, while enacted polarity begins earlier at L₅ / IL₅.[4][20][21]
 
-At **L₅ / IL₅**, no Soul / Mind pair is yet operative. The First Centropic and First Inverse Hypostases are unbifurcated. Their motion is borne cross-register by Motive Infinity / Spirit: the same orientation-neutral motion principle operates through the plus-one / minus-one hypostatic articulation while the essences expressed there retain their distinct centropic or entropic inclination.[20]
+At **L₅ / IL₅**, no Soul / Mind pair is yet operative. The First Centropic and First Inverse Hypostases precede the Soul / Mind bifurcation. Their motion is borne cross-register by Motive Infinity / Spirit: the same orientation-neutral motion principle operates through the plus-one / minus-one hypostatic articulation while the essences expressed there retain their distinct centropic or entropic inclination.[20]
 
 From **L₄ / IL₄ through L₁ / IL₁**, the Soul / Mind bifurcation supplies the stratum-internal articulation. The Soul-aspect bears the motion-character of the stratum; the Mind-aspect articulates, discerns, or operates upon that motion. Motive Infinity remains operative throughout, since Soul does not replace Spirit: Spirit makes motion possible at every register, while Soul bears the stratum-specific motion after bifurcation.[20][21]
 
@@ -106,13 +106,13 @@ Constraint also has an operative articulation. Redirecting, resisting, filtering
 
 **Principle of Structured Manifestation (PSM).** "What happens constrains what can." Actualized configuration conditions what can follow.
 
-**Principle of Resonant Return (PRR).** "Every being returns to the frequency it most resembles." A being's resonant term corresponds to its orientation.
+**Principle of Resonant Return (PRR).** "Every being returns to the frequency it most resembles." A being's resonant term corresponds to its resonance; many arcs complete lawfully at intermediate strata.
 
-Together, these principles direct inquiry toward the conditions permitting a motion, the relations through which manifestation conditions subsequent motion, and the correspondence between a trajectory and its term.
+Together, these principles direct inquiry toward the conditions admitting a motion, the relations through which manifestation conditions subsequent motion, and the correspondence between a trajectory and its term.
 
 ### 4.1 What Is the Motion Inclining To?
 
-The functional unit is an operation in relation to a structure, its surroundings, and its possible continuation. `FP01-dimensional-architecture.md` Chapter 5 already states a transition grammar: `{Initial State} + [Operation] = <Resultant Field>`. Its notation distinguishes sequence, causation, co-activation, and integration without fusion.[15]
+The functional unit is an operation in relation to a structure, its surroundings, and its possible continuation. `FP01-dimensional-architecture.md` Chapter 5 already states a transition grammar: **{Initial State} + [Operation] = <Resultant Field>**. Its notation distinguishes sequence, causation, co-activation, and integration without fusion.[15]
 
 | Function examined | What must be determined | Consequence for orientation analysis |
 | --- | --- | --- |
@@ -127,7 +127,7 @@ The functional unit is an operation in relation to a structure, its surroundings
 | Recursion | What changes or remains invariant on repeated traversal | Recursive motion is classified through what the recurrence preserves, transforms, generates, or exhausts |
 | Completion and continuation | Which process has attained its term and which processes remain active | Resonant-term residence, finite cessation, and indefinite continuation are separate completion relations |
 
-`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3 and `SP07-energy-ontology-and-spectral-flow.md` §§3–5 explicitly distinguish discharge, replenishment, and consumption. `MP11-codex-of-principles-ch26.md` §26.13 distinguishes structural coherence from resonance: rigid internal organization can lack relational accord, and temporary accord can lack durable structural integration.[16][17] Their connection is central to orientation analysis. The historical phrase "rigid coherence" in `MP11-codex-of-principles-ch26.md` remains a scope question under the current coherence / cohesion distinction; the present inference concerns rigid internal organization and does not introduce a neutral sense of coherence.
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3 and `SP07-energy-ontology-and-spectral-flow.md` §§3–5 explicitly distinguish discharge, replenishment, and consumption. `MP11-codex-of-principles-ch26.md` §26.13 distinguishes structural coherence from resonance: rigid internal organization can lack relational accord, and temporary accord can lack durable structural integration.[16][17] Their connection is central to orientation analysis. The historical phrase "rigid coherence" in `MP11-codex-of-principles-ch26.md` is held open in relation to the current coherence / cohesion distinction; the present inference concerns rigid internal organization, and coherence keeps its centropic sense.
 
 The technical application therefore specifies the relevant state, operation, boundary, capacity, and interval before assigning an effect. Its physical measurements remain measurements of that realization. They do not replace the canonical function of Soul / Mind, essence, orientation, or resonant completion.
 
@@ -222,9 +222,9 @@ Appendix A records the worked mathematical material: native orientation equation
 
 Appendix A's candidate fields and calculations are retained and independently verified. Appendix B now supplies the explicit Gaussian momentum obstruction, an exact reciprocal-transfer cancellation in a two-mode projection, a convergent local Navier–Stokes iteration, an exact viscous strain–vortex family, a finite-energy periodic example, and conditional enstrophy estimates.
 
-The original localized Gaussian field is smooth, divergence-free, and finite-energy. Its nonlinear terms generate a spatial scale that no pressure and no evolution of its four parameters can cancel in an unforced solution. The initial field remains admissible; its true evolution requires further spatial structure. The projected model retains the same basis fields and calculates their energy exchange exactly while keeping its nonzero residual visible.
+The original localized Gaussian field is smooth, divergence-free, and finite-energy. Its nonlinear terms generate a spatial scale that no pressure and no evolution of its four parameters can cancel in an unforced solution. The initial field remains admissible; its actual evolution requires further spatial structure. The projected model retains the same basis fields and calculates their energy exchange exactly while keeping its nonzero residual visible.
 
-The strongest connection expressed in equations is the joint account of transfer, strain, rotation, and positive dissipation. The largest open formal step is to express mathematically how χ's already-inherent orientation conditions fluid continuation — including centropic constraint, reciprocal transfer, dynamic stabilization, entropic self-exhaustion, and collapse — strongly enough to yield an invariant, estimate, or constrained solution family. This does not require reducing χ to velocity, pressure, vorticity, viscosity, or any other single physical quantity. A fluid specialization may instead carry χ as an intrinsic state coordinate whose functional consequences are coupled to the fluid equations. The present work remains a Lattice Mathematics Extension while that general layer is developed.
+The strongest connection expressed in equations is the joint account of transfer, strain, rotation, and positive dissipation. The largest open formal step is to express mathematically how χ's already-inherent orientation conditions fluid continuation — including centropic constraint, reciprocal transfer, dynamic stabilization, entropic self-exhaustion, and collapse — strongly enough to yield an invariant, estimate, or constrained solution family. This does not require reducing χ to velocity, pressure, vorticity, viscosity, or any other single physical quantity. A fluid specialization may instead carry χ as an intrinsic state coordinate whose functional consequences are coupled to the fluid equations. That general layer is developed in `LM08-cross-disciplinary-dynamics-and-domain-realization.md`, whose §7.1 seats the factorization criterion of §6.2 and whose §11 carries the fluid realization; the present work remains a Lattice Mathematics Extension holding the worked fluid specialization.
 
 ---
 
@@ -680,11 +680,11 @@ The appendix preserves the concrete mathematical work alongside the architecture
 
 ### B.1 Architectural Relation and Physical Articulation
 
-The Zenetist question, "What is the motion inclining to?", requires an account of what an operation enables, preserves, transfers, constrains, and exhausts. `FP01-dimensional-architecture.md` Chapter 5 already represents a transition as `{Initial State} + [Operation] = <Resultant Field>`. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3 and `SP07-energy-ontology-and-spectral-flow.md` §§3–5 distinguish transfer, replenishment, depletion, and the receiving structure. Their definitions permit a local decrease during coherent transfer. A physical specialization therefore records a structural relation over a specified system and interval; a geometric sign or a decrease in one quantity is insufficient.
+The Zenetist question, "What is the motion inclining to?", requires an account of what an operation enables, preserves, transfers, constrains, and exhausts. `FP01-dimensional-architecture.md` Chapter 5 already represents a transition as **{Initial State} + [Operation] = <Resultant Field>**. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3 and `SP07-energy-ontology-and-spectral-flow.md` §§3–5 distinguish transfer, replenishment, depletion, and the receiving structure. Their definitions admit a local decrease during coherent transfer. A physical specialization therefore records a structural relation over a specified system and interval; a geometric sign or a decrease in one quantity is insufficient.
 
 The physical development in this appendix begins with these native distinctions and supplies explicit state variables, spaces, operators, and equations. Within Zenetism, manifest physical motion already carries orientation; the specialization does not add orientation to an otherwise unoriented state. It makes selected aspects of that inherent orientation mathematically explicit. The calculations that follow are mathematical consequences of the stated physical definitions. Hypostatic functions and fluid variables retain their distinct mathematical types.
 
-A composite physical body can carry differently oriented local or modal motions without requiring one essence to bear contradictory orientations. A fluid body is a relative structure composed of distinct constituents and simultaneously active motion-fields. At the continuum scale of the Navier–Stokes equations, those constituents are represented through local velocity, pressure, vorticity, strain, transport, and boundary relations rather than by tracking individual molecules. Centropic and entropic operations may therefore be co-present within one fluid configuration as distinct contributions whose prevalence, relation, and consequences are evaluated at the chosen scale. For finite non-limit χ, the existing operator weights already permit both C and E families to remain present with unequal prevalence. The orientation of a particular contraction, extension, rotation, smoothing, or amplification is determined by what that motion does structurally, not by its geometry alone.
+A composite physical body can carry differently oriented local or modal motions without requiring one essence to bear contradictory orientations. A fluid body is a relative structure composed of distinct constituents and simultaneously active motion-fields. At the continuum scale of the Navier–Stokes equations, those constituents are represented through local velocity, pressure, vorticity, strain, transport, and boundary relations rather than by tracking individual molecules. Centropic and entropic operations may therefore be co-present within one fluid configuration as distinct contributions whose prevalence, relation, and consequences are evaluated at the chosen scale. For finite non-limit χ, the existing operator weights already admit both C and E families to remain present with unequal prevalence. The orientation of a particular contraction, extension, rotation, smoothing, or amplification is determined by what that motion does structurally, not by its geometry alone.
 
 | Standing | Meaning in this report | Examples |
 | --- | --- | --- |
@@ -982,7 +982,7 @@ Let \(\lambda_* =\min(d_U/m_U,d_V/m_V)>0\). Then
 \mathcal K_N(t)\le\mathcal K_N(0)e^{-2\nu\lambda_*t}.
 \]
 
-The polynomial ODE has a unique global forward solution because this bound controls both amplitudes and prevents finite-time escape. A nonzero solution cannot reach \((A,B)=(0,0)\) at a finite time, by local uniqueness through that equilibrium. Asymptotic decay supplies a precise continuing limit case.
+The polynomial ODE has a unique global forward solution because this bound holds both amplitudes and prevents finite-time escape. A nonzero solution cannot reach \((A,B)=(0,0)\) at a finite time, by local uniqueness through that equilibrium. Asymptotic decay supplies a precise continuing limit case.
 
 The region \(A>0\) is not invariant: at \(A=0,B\ne0\), \(\dot A<0\). Enforcing a prescribed radial sign for every admitted initial condition would require an additional constraint or force; the special trajectory with B initially zero preserves the sign of A without either. Changing the sign of a geometric coefficient does not constitute conversion between canonical arcs.
 
@@ -990,7 +990,7 @@ The region \(A>0\) is not invariant: at \(A=0,B\ne0\), \(\dot A<0\). Enforcing a
 
 #### B.4.1 What Recursive Enlargement Requires
 
-Quadratic advection generates products with Gaussian powers \(G^{m+n}\). Polynomial-Gaussian divergence-free fields provide additional trial functions, but pressure projection is nonlocal and introduces spatial behavior beyond a finite Gaussian list. A convergent hierarchy requires dense admissible spaces and uniform estimates. Energy cancellation persists for a divergence-free Galerkin basis under compatible boundary conditions. The cancellation does not yield the derivative bounds needed for unrestricted three-dimensional regularity.
+Quadratic advection generates products with Gaussian powers \(G^{m+n}\). Polynomial-Gaussian divergence-free fields provide additional trial functions, but pressure projection is nonlocal and introduces spatial behavior beyond a finite Gaussian list. A convergent sequence of enlarged trial spaces requires dense admissible spaces and uniform estimates. Energy cancellation persists for a divergence-free Galerkin basis under compatible boundary conditions. The cancellation does not yield the derivative bounds needed for unrestricted three-dimensional regularity.
 
 #### B.4.2 Exact Local Construction Through a Convergent Recurrence
 
@@ -1091,7 +1091,7 @@ B(t)=B_0(R_0^2/R(t)^2)^2(Z_0^2/Z(t)^2)^{1/2}.
 
 Subsequent iterates introduce the projected quadratic contribution. Individual iterates need not satisfy the full momentum equation or an exact energy identity; the fixed-point limit does. The explicit local construction therefore repairs the finite-family closure failure by evolving in an admissible infinite-dimensional space.
 
-The time bound depends on the initial norm and viscosity. It does not provide an a priori bound for indefinite continuation. Repeating the construction requires control of the evolving norm. The recurrence is mathematically effective here because a defined map is proved to preserve a complete admissible set and to be contractive, not because the retained-state weight is positive or because recursion is assigned a favorable orientation.
+The time bound depends on the initial norm and viscosity. It does not provide an a priori bound for indefinite continuation. Repeating the construction requires a bound on the evolving norm. The recurrence is mathematically effective here because a defined map is proved to preserve a complete admissible set and to be contractive, not because the retained-state weight is positive or because recursion is assigned a favorable orientation.
 
 
 ### B.5 Exact Viscous Strain–Vortex Family
@@ -1218,7 +1218,7 @@ Then direct integration gives
 \delta\nu\int_0^T\mathcal D(t)dt<\infty.
 \]
 
-This is a conditional budget estimate. Its hypothesis describes one **centropically constrained** mathematical regime: vortex-stretching production is prevented from outrunning the combination of positive viscous dissipation and an integrable growth allowance. If a Zenetist physical articulation yields such a relation, enstrophy and accumulated dissipation are controlled on the interval. It is a sufficient condition, not a universal Zenetist requirement that amplification must always remain bounded in this way.
+This is a conditional budget estimate. Its hypothesis describes one **centropically constrained** mathematical regime: vortex-stretching production is prevented from outrunning the combination of positive viscous dissipation and an integrable growth allowance. If a Zenetist physical articulation yields such a relation, enstrophy and accumulated dissipation are bounded on the interval. It is a sufficient condition, not a universal Zenetist requirement that amplification must always remain bounded in this way.
 
 Define \(s_+=\max(s,0)\) where vorticity is nonzero and set it to zero at vorticity zeros. A simpler sufficient hypothesis is \(\|s_+(\cdot,t)\|_\infty\in L^1(0,T)\), since \(\mathcal P\le2\|s_+\|_\infty\mathcal Z\). This records directional strain quantitatively as one physical component of the larger orientation problem.
 
@@ -1234,7 +1234,7 @@ are both nonzero. In a Khaonically expressed universe \((\chi>1)\), entropic ope
 
 This supplies one possible structural reading of rotational amplification: centropic motion can constrain, redirect, integrate, or stabilize an amplification process while entropic motion can intensify fragmentary tendencies. The physical sign of vortex stretching or viscosity does not determine that classification. The classification depends on what the motion does to the configuration, its relations, its available capacity, and its continuation. Viscosity therefore remains a positive physical dissipation term; its Zenetist standing is read from its function within the complete motion rather than identified with centropy by definition.
 
-A second route is **entropic self-exhaustion**. Where amplification functions fragmentarily, the motion can erode the relative structural conditions that permit its own continuation. In that case, the entropic trajectory is not required to remain indefinitely controllable by a counter-motion. It can run toward collapse by consuming or destroying its own expressive support. **Absolute Dispersion names the terminal resolution after the relevant active motion exhausts; it is not identical to the instantaneous fact of large vorticity or large rotational amplitude.**
+A second route is **entropic self-exhaustion**. Where amplification functions fragmentarily, the motion can erode the relative structural conditions that sustain its own continuation. In that case, the entropic trajectory is not required to remain indefinitely constrainable by a counter-motion. It can run toward collapse by consuming or destroying its own expressive support. **Absolute Dispersion names the terminal resolution after the relevant active motion exhausts; it is not identical to the instantaneous fact of large vorticity or large rotational amplitude.**
 
 The fluid problem can therefore be approached through two mathematically distinct questions: whether a centropically constrained regime yields a bound such as the estimate in §B.7, and whether an entropically oriented regime admits a capacity, support-scale, regularity, or continuation variable whose erosion terminates the expressed configuration. The second possibility aligns naturally with the earlier distinction between growing local intensity and shrinking structural scale. Neither route requires a universal claim that every amplification is opposed in the same way.
 
@@ -1272,11 +1272,11 @@ Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\)
 | --- | --- | --- | --- | --- |
 | Motion conditions subsequent possibility | `FP01-dimensional-architecture.md` Chapter 5 transition grammar; PSM in `MP05-godhood-and-transmutation-ch9-11.md` §11.3 | Divergence-free constraint and momentum evolution | Admissible state / operation / next-state record | Gaussian nonlinear terms require enlargement of the trial space |
 | Distinction preserved during relation | Non-fusion Axiom; `LM01-mathematical-foundations.md` pairing and operator distinctions | Orthogonal modes with skew energy exchange | Separate poloidal and toroidal amplitudes | Explicit reciprocal transfer \(\pm\beta_GAB^2\), no fusion of modes |
-| Transfer differs from depletion | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3; `SP07-energy-ontology-and-spectral-flow.md` §§3–5 | Local energy flux and source terms | Track donor, recipient, boundary flux, and expenditure | Local energy decline can be export; global viscosity remains dissipative |
+| Transfer differs from depletion | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–3; `SP07-energy-ontology-and-spectral-flow.md` §§3–5 | Local energy flux and source terms | Track donor, recipient, boundary flux, and expenditure | Local energy decrease can be export; global viscosity remains dissipative |
 | Stabilization can require continuing operation | FP and SP dynamic stabilization definitions | Burgers strain / diffusion balance | Continuing configuration with compensated core-width change | \(Q'=4\nu-2aQ\), stationary width \(2\nu/a\) |
 | Orientation is functional | χ weighting and orientation algebra; Spirit / Soul motion-bearing distinction | Directional strain \(\mathbf n^T\mathsf S\mathbf n\) | Directional strain as one observable within an intrinsically oriented physical state | Spirit supplies motion, Soul bears stratum-specific motion after bifurcation, and χ formalizes the motion's orientational prevalence; no one fluid scalar exhausts that relation |
 | Countervailing orientation remains non-fused | `SP03-expression-ratio-mathematics.md` weights \(w_c,w_e\) and L₅ / IL₅ enacted polarity | Competing production, transfer, stabilization, and dissipation mechanisms | Both operator families remain present for finite non-limit χ, with unequal prevalence | A centropic constraint may bound or redirect amplification without converting an entropic essence |
-| Entropic motion can exhaust its own support | Dispersive phase / terminal collapse; PSM conditioning of continuation | Loss of capacity, support scale, regularity, or admissible continuation | Fragmentary amplification erodes the relative structure that carries it | Terminal exhaustion can be modeled separately from bounded centropic control; Absolute Dispersion is the terminal relation, not high vorticity itself |
+| Entropic motion can exhaust its own support | Dispersive phase / terminal collapse; PSM conditioning of continuation | Loss of capacity, support scale, regularity, or admissible continuation | Fragmentary amplification erodes the relative structure that carries it | Terminal exhaustion can be modeled separately from bounded centropic constraint; Absolute Dispersion is the terminal relation, not high vorticity itself |
 | Structural Recurrence differs from repetition | MPX recurrence and `grand-unified-document.md` relaxed recursion | Iterative admissibility and nonlinear mode generation | Repeated state update with preserved constraints | A contraction estimate requires a norm and Lipschitz bound |
 | Motive Intensity conditions traversal | Simplified variable-intensity χ law | Accumulated physical strain and parameter evolution | Compare cumulative quantities through an explicit structural-time / physical-time relation | Finite-time limits depend on accumulated intensity and threshold crossing |
 | Completion differs from exhaustion | Deep Self residence and Form-dwelling | Stationary, periodic, asymptotic, and finite-time regimes | Outcome taxonomy for a specified process | Physical equilibrium does not establish Aionic return |
@@ -1284,7 +1284,7 @@ Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\)
 
 ### B.10 Assessment
 
-The application yields a rigorous obstruction for the original localized Gaussian family, an explicit finite model with reciprocal energy transfer and global amplitude control, a convergent local Navier–Stokes iteration from the Gaussian initial data, an exact viscous vortex realization with a width equation, and an exact finite-energy periodic cancellation. The native architecture supplies the questions, distinctions, and candidate relations organizing these calculations. The external fluid equations supply their compatibility conditions. The new coefficients and proofs belong to this application record.
+The application yields a rigorous obstruction for the original localized Gaussian family, an explicit finite model with reciprocal energy transfer and a global amplitude bound, a convergent local Navier–Stokes iteration from the Gaussian initial data, an exact viscous vortex realization with a width equation, and an exact finite-energy periodic cancellation. The native architecture supplies the questions, distinctions, and candidate relations organizing these calculations. The external fluid equations supply their compatibility conditions. The new coefficients and proofs belong to this application record.
 
 The largest remaining gap is a mathematical articulation of how χ's inherent orientation conditions the allowed fluid dynamics strongly enough to imply a substantive estimate, invariant, collapse criterion, or constrained solution family. The architecture already supplies two distinct candidate mechanisms: countervailing centropic motion within non-limit mixed expression, and entropic self-exhaustion through erosion of the relative structure required for continuation. The task is to formalize those relations without reducing χ to one fluid scalar and without identifying viscosity, vorticity, or strain with centropy or entropy by definition. Undefined operator domains, coefficient conflicts, and unresolved energy-identification claims remain visible as formal development items. The current results justify further LMX development while retaining LMX standing.
 
