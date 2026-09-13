@@ -210,9 +210,9 @@ The subject is a coupled physical configuration carrying radial motion, axial mo
 
 The work proceeds by specifying the physical state variables and operators, retaining the distinctions of the originating architecture, and determining which quantitative relations follow. Candidate fields can then be evaluated through the momentum equation, incompressibility, viscosity, pressure, initial conditions, and the relevant spatial conditions.
 
-The contribution sought is an explicit relation, construction, cancellation, or estimate arising through that specialization. Each such result carries its own derivation and stated conditions.
+The contribution sought is an explicit relation, construction, cancellation, or estimate arising through that specialization. Each such result carries its own calculation and stated conditions.
 
-Existing corpus definitions, proposed physical correspondences, and newly derived relations remain identifiable in the development record. A discrepancy between an intended motion and a written equation receives a local mathematical determination, preserving the distinction between conceptual specification and its formal implementation.
+Existing corpus definitions, proposed physical correspondences, and newly calculated relations remain identifiable in the development record. A discrepancy between an intended motion and a written equation receives a local mathematical determination, preserving the distinction between conceptual specification and its formal implementation.
 
 Appendix A records the worked mathematical material: native orientation equations, a localized divergence-free velocity family and its energy integral, a local contraction / extension / rotation solution, the vorticity balance, the reduced orientation trajectory, and the basis for the equation-specific development now recorded in Appendix B. Existing corpus formulas, established fluid identities, and candidate constructions retain their distinct provenance.
 
@@ -666,13 +666,13 @@ The record currently contains:
 | Native weighted operator, temporal derivative, and coherence flux | Existing corpus equations with exact references |
 | Gaussian spiral-and-axial family | Candidate physical field with verified divergence, axis smoothness, and kinetic-energy integral |
 | Linear contraction / extension / rotation family | Local exact solution with \(b=2a\), \(\dot\Omega=2a\Omega\), and explicit pressure |
-| Vorticity orientation and enstrophy balances | Established physical identities, derived for the stated conditions |
+| Vorticity orientation and enstrophy balances | Established physical identities, worked out for the stated conditions |
 | Simplified orientation trajectory | Exact scalar solution verified for constant positive Motive Intensity |
 | Full orientation-law linearization | Verified sign calculation retained with the reconciliation item |
 | Mathematical articulation of inherent orientation in fluid variables | Typed representation and information-retention criteria proposed; a general dynamical coupling remains open |
-| Finite-energy candidate evolution and critical-time estimates | Exact Gaussian obstruction, projected transfer dynamics, and necessary scaling conditions derived; see Appendix B and the validation report |
+| Finite-energy candidate evolution and critical-time estimates | Exact Gaussian obstruction, projected transfer dynamics, and necessary scaling conditions calculated; see Appendix B and the validation report |
 
-The appendix preserves the concrete mathematical work alongside the architecture that motivated its examination. Each further result can be added with its definitions, derivation, conditions, and developmental relation intact.
+The appendix preserves the concrete mathematical work alongside the architecture that motivated its examination. Each further result can be added with its definitions, calculation, conditions, and developmental relation intact.
 
 ---
 
@@ -692,7 +692,7 @@ A composite physical body can carry differently oriented local or modal motions 
 | C | Formal relation already written in the corpus | Orientation weights, coherence continuity, trajectory-following derivative |
 | E | Established external mathematics | Incompressible momentum, pressure projection, vorticity transport, Galerkin energy cancellation, Burgers and Beltrami classes |
 | P | Proposed correspondence or modeling choice | Choosing a fluid state and a structural-effect record; selecting the Gaussian trial space |
-| D | Derivation supplied or independently completed in this application | Gaussian obstruction, explicit two-mode coefficients, residuals, conditional estimates |
+| D | Calculation supplied or independently completed in this application | Gaussian obstruction, explicit two-mode coefficients, residuals, conditional estimates |
 
 The D label states a developmental contribution to this application. Historical priority for a mathematical theorem requires a separate literature determination.
 
@@ -814,7 +814,7 @@ D_t\mathbf n={}&(I-\mathbf n\mathbf n^T)\mathsf S\mathbf n\\
 \end{aligned}
 \]
 
-The derivation follows from \(\boldsymbol\omega=w\mathbf n\), \(\mathbf n\cdot\partial_i\mathbf n=0\), and \(\mathbf n\cdot\Delta\mathbf n=-|\nabla\mathbf n|^2\). At vorticity zeros the vector equation remains the primary equation. Vorticity alignment and directional strain are established subjects; see Galanti, Gibbon, and Heritage, [Vorticity Alignment Results](https://arxiv.org/abs/chao-dyn/9709003). Here \(\mathbf n\) means the physical direction of vorticity. Neither \(\mathbf n\) nor \(s\) is identified with χ.
+The result follows from \(\boldsymbol\omega=w\mathbf n\), \(\mathbf n\cdot\partial_i\mathbf n=0\), and \(\mathbf n\cdot\Delta\mathbf n=-|\nabla\mathbf n|^2\). At vorticity zeros the vector equation remains the primary equation. Vorticity alignment and directional strain are established subjects; see Galanti, Gibbon, and Heritage, [Vorticity Alignment Results](https://arxiv.org/abs/chao-dyn/9709003). Here \(\mathbf n\) means the physical direction of vorticity. Neither \(\mathbf n\) nor \(s\) is identified with χ.
 
 The local enstrophy budget, \(e_\omega=|\boldsymbol\omega|^2/2\), is
 
@@ -923,7 +923,7 @@ Fix \(R,Z>0\). Define the divergence-free fields
 \qquad \mathbf V=G(0,r,0).
 \]
 
-Set \(\mathbf u_N=A(t)\mathbf U+B(t)\mathbf V\). Here \(A,B\in\mathbb R\); allowing signs is an explicit extension of Appendix A's initial positive-parameter geometry. Galerkin projection sets the momentum residual's inner products with \(\mathbf U,\mathbf V\) to zero. This is an established approximation method; the following coefficients are derived for these specific candidate fields.
+Set \(\mathbf u_N=A(t)\mathbf U+B(t)\mathbf V\). Here \(A,B\in\mathbb R\); allowing signs is an explicit extension of Appendix A's initial positive-parameter geometry. Galerkin projection sets the momentum residual's inner products with \(\mathbf U,\mathbf V\) to zero. This is an established approximation method; the following coefficients are calculated for these specific candidate fields.
 
 The basis is orthogonal. Its mass and dissipation constants are
 
@@ -1268,7 +1268,7 @@ Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\)
 
 ### B.9 Relation-by-Relation Standing
 
-| Native relation | Corpus formal relation | Established fluid relation | Proposed physical correspondence | Derived outcome / open requirement |
+| Native relation | Corpus formal relation | Established fluid relation | Proposed physical correspondence | Calculated outcome / open requirement |
 | --- | --- | --- | --- | --- |
 | Motion conditions subsequent possibility | `FP01-dimensional-architecture.md` Chapter 5 transition grammar; PSM in `MP05-godhood-and-transmutation-ch9-11.md` §11.3 | Divergence-free constraint and momentum evolution | Admissible state / operation / next-state record | Gaussian nonlinear terms require enlargement of the trial space |
 | Distinction preserved during relation | Non-fusion Axiom; `LM01-mathematical-foundations.md` pairing and operator distinctions | Orthogonal modes with skew energy exchange | Separate poloidal and toroidal amplitudes | Explicit reciprocal transfer \(\pm\beta_GAB^2\), no fusion of modes |
@@ -1286,13 +1286,13 @@ Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\)
 
 The application yields a rigorous obstruction for the original localized Gaussian family, an explicit finite model with reciprocal energy transfer and a global amplitude bound, a convergent local Navier–Stokes iteration from the Gaussian initial data, an exact viscous vortex realization with a width equation, and an exact finite-energy periodic cancellation. The native architecture supplies the questions, distinctions, and candidate relations organizing these calculations. The external fluid equations supply their compatibility conditions. The new coefficients and proofs belong to this application record.
 
-The largest remaining gap is a mathematical articulation of how χ's inherent orientation conditions the allowed fluid dynamics strongly enough to imply a substantive estimate, invariant, collapse criterion, or constrained solution family. The architecture already supplies two distinct candidate mechanisms: countervailing centropic motion within non-limit mixed expression, and entropic self-exhaustion through erosion of the relative structure required for continuation. `LM08-cross-disciplinary-dynamics-and-domain-realization.md` formalizes both in general form — an exact stabilization threshold for countervailing coupling (§9.2), capacity laws with explicit exhaustion, depletion, and restoration outcomes (§10), and a conditional continuation estimate with a concentration example for the fluid case (§§11.4–11.5) — without reducing χ to one fluid scalar and without identifying viscosity, vorticity, or strain with centropy or entropy by definition. What remains held open is the fluid-specific closure: a χ-coupled invariant, collapse criterion, or constrained solution family for Navier–Stokes whose hypothesis is derived rather than assumed. Undefined operator domains, coefficient conflicts, and unresolved energy-identification claims remain visible as formal development items. The current results justify further LMX development while retaining LMX standing.
+The largest remaining gap is a mathematical articulation of how χ's inherent orientation conditions the allowed fluid dynamics strongly enough to imply a substantive estimate, invariant, collapse criterion, or constrained solution family. The architecture already supplies two distinct candidate mechanisms: countervailing centropic motion within non-limit mixed expression, and entropic self-exhaustion through erosion of the relative structure required for continuation. `LM08-cross-disciplinary-dynamics-and-domain-realization.md` formalizes both in general form — an exact stabilization threshold for countervailing coupling (§9.2), capacity laws with explicit exhaustion, depletion, and restoration outcomes (§10), and a conditional continuation estimate with a concentration example for the fluid case (§§11.4–11.5) — without reducing χ to one fluid scalar and without identifying viscosity, vorticity, or strain with centropy or entropy by definition. What remains held open is the fluid-specific closure: a χ-coupled invariant, collapse criterion, or constrained solution family for Navier–Stokes whose hypothesis is proved rather than assumed. Undefined operator domains, coefficient conflicts, and unresolved energy-identification claims remain visible as formal development items. The current results justify further LMX development while retaining LMX standing.
 
 ---
 
 ## References
 
-The reference baseline for this working revision is repository commit `1bdce4562707912a4db398dcccdfb07568bc59b8`. The previous draft referenced `43f148cc109a0c4445525581901ff7e7743a4d1f`; that earlier record is preserved in the comparison package. Earlier publication chronology remains with the respective historical records.
+The reference baseline for this working revision is repository commit `1bdce4562707912a4db398dcccdfb07568bc59b8`. The previous revision referenced `43f148cc109a0c4445525581901ff7e7743a4d1f`; that earlier record is preserved in the comparison package. Earlier publication chronology remains with the respective historical records.
 
 [1] `MP01-emanation-architecture-ch1-3.md`, Author's Preface.
 
