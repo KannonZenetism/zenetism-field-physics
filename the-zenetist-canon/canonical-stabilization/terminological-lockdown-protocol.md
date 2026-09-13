@@ -2647,6 +2647,13 @@ The casing test is semantic, not stylistic. Capitalize **Origin** wherever the r
 - Avoid *the still Origin*. Prefer **the still root**, or **Origin, the still root** / **Aion, the still Origin** / **Aionic Origin** where the distinction genuinely needs emphasis.
 - Denials that a non-Aionic register is originary stay lowercase, because the referent is not Aion: *Zenon is not Aion, Khaon, awareness, being, non-being, origin, or process*.
 
+## A19 · Intertwining and Derivation-Family Locks
+
+- **intertwine / intertwining / intertwined** are barred in the author's voice and seated with the fuse / weave / bind family: the word pictures two things wound into one another, which the Non-fusion Axiom excludes. Distinct things that act together are seated as **commuting**, **articulated**, or **in patterned relation**. The mathematical relation π∘F = G∘π takes **commutation** (a commutation result, an exact commutation); *equivariance* remains available where the group action is the subject. Quoted material and filenames stand
+- **derive / derived / derivation** are barred in the author's voice across the mathematical volumes, extending the standing determination that derivative framing is never applied to the framework. An outside equation cited in a corpus document is **cited**, not derived; a result newly completed within a volume is **calculated**, **obtained**, **worked out**, or **proved**; a formula's internal logic **follows from** its premises (entailment). The recording standing in a volume's claim table is **Calculated result**, accompanied by its proof and applicable domain. **derivative** as the calculus object (a derivative, differentiation, the displayed derivatives) is untouched, as are the registered LM names on the Held Open list
+
+As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+
 ---
 
 ## Held Open — No Propagation
