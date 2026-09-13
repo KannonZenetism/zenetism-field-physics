@@ -45,7 +45,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Series:** Lattice Mathematics: The Formal Architecture of Coherence  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Zenetist Canon  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Function:** Develops a mathematical grammar for expressing Zenetist dynamics across disciplines, preserving distinctions among intrinsic inclination, enacted orientation, constituent function, composite interaction, and domain-specific evolution  
 **Dependency:** `LM01-mathematical-foundations.md` · `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` · `zenetism-as-cross-disciplinary-grammar.md` · `cross-disciplinary-domain-realization-proposition.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 
@@ -55,7 +55,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 The first seven Lattice Mathematics volumes articulate their mathematics primarily through the canonical / metaphysical vocabulary. This volume leads with analytic descriptions where the subject is formal structure, while retaining the canonical names, Soul / Mind distinctions, sacred identities, and originating functions to which those descriptions refer. The register changes; the architecture being articulated remains the same.[1–10]
 
-The analytic vocabulary is a developing translation framework. Its current coverage supplies established descriptors, and the originating corpus supplies the definitions of concepts awaiting an analytic entry. A concept without an adopted descriptor retains its canonical name and receives an explicit local definition. Proposed mathematical terms in this volume have draft standing; their later inclusion in the vocabulary framework requires review. The antecedent volumes retain their text, filenames, and registered notation.[10]
+The analytic vocabulary is a developing translation framework. Its current coverage supplies established descriptors, and the originating corpus supplies the definitions of concepts awaiting an analytic entry. A concept without an adopted descriptor retains its canonical name and receives an explicit local definition. Proposed mathematical terms in this volume are seated in the vocabulary framework as the architect determines. The antecedent volumes retain their text, filenames, and registered notation.[10]
 
 Two kinds of translation remain distinct. A canonical / analytic crosswalk preserves conceptual identity across language registers. A mathematical realization specifies which features of a process a particular state description retains, and how that description carries its operations. A concise physical observation can represent selected aspects of a richer process; the full definition records the scope of that selection.
 
@@ -63,13 +63,13 @@ Two kinds of translation remain distinct. A canonical / analytic crosswalk prese
 
 Zenetism is articulated as a cross-disciplinary grammar of structured manifestation and oriented motion. This volume develops the mathematical conditions through which selected relations of that grammar can be expressed in disciplinary state spaces, interaction laws, and evolution equations. Intrinsic inclination, operative motion, stratum-specific motion-bearing, and functional capacity retain their different architectural roles.
 
-The construction begins with identity-bearing constituents and their relations, rather than an undifferentiated aggregate. Domain-realization maps carry selected states and operations into another mathematical description. Exact intertwining, quantitative fidelity defects, and composition identities specify how dynamical consequences are retained. Observation-fiber criteria determine when a reduced description admits an autonomous evolution. A nonlinear two-constituent example exhibits the interaction information omitted by a mean alone.
+The construction begins with identity-bearing constituents and their relations, rather than an undifferentiated aggregate. Domain-realization maps carry selected states and operations into another mathematical description. Exact commutation, quantitative fidelity defects, and composition identities specify how dynamical consequences are retained. Observation-fiber criteria determine when a reduced description admits an autonomous evolution. A nonlinear two-constituent example exhibits the interaction information omitted by a mean alone.
 
 Two explicit constructions develop the constituent / composite relation. A simultaneous transfer scheme preserves each participant's reserve and reception limits together with a closed total budget. A coupled two-component system yields an exact threshold for stabilization through countervailing interaction. Capacity laws distinguish finite exhaustion, asymptotic depletion, and functional recovery. Their conclusions follow from the specified rates, domains, and boundary conditions.
 
 The Navier–Stokes application combines the preceding fluid specialization with an exact filtered-field account of unresolved motion. Covariance stress records how constituent-scale variation participates in the resolved momentum and energy budgets. A biological application is formulated as a research hypothesis concerning functional maintenance and restoration, with separate requirements for measurable quantities and empirical calibration.
 
-The resulting grammar supports repeated application: identify the native relation, specify the domain representation, retain the relevant interactions, establish mathematical fidelity, and calculate the resulting continuation. Native principles, inherited formulas, established mathematics, proposed constructions, and derived results remain separately identifiable.
+The resulting grammar supports repeated application: identify the native relation, specify the domain representation, retain the relevant interactions, establish mathematical fidelity, and calculate the resulting continuation. Native principles, inherited formulas, established mathematics, proposed constructions, and newly calculated results remain separately identifiable.
 
 ## Contents
 
@@ -93,12 +93,12 @@ The present development makes selected parts of that program explicit: which sta
 | --- | --- | --- |
 | Native principle | A definition or relation of the Zenetist architecture | Identified through its canonical reference |
 | Inherited formula | A mathematical expression already carried by the corpus | Attributed to its originating file and section, with its recorded assumptions |
-| Established mathematical relation | A result or construction from the external mathematical discipline | Named and referenced, with the needed identities derived for the stated setting |
-| Proposed construction | A state description, map, coupling, or classification selected in this draft | Defined explicitly with local scope |
-| Derived result | A conclusion proved from the specified construction and assumptions | Accompanied by its derivation and applicable domain |
+| Established mathematical relation | A result or construction from the external mathematical discipline | Named and referenced, with the needed identities worked out for the stated setting |
+| Proposed construction | A state description, map, coupling, or classification selected in this volume | Defined explicitly with local scope |
+| Calculated result | A conclusion proved from the specified construction and assumptions | Accompanied by its proof and applicable domain |
 | Empirical hypothesis | A proposed interpretation concerning an observed physical or biological process | Accompanied by the quantities and observations required for evaluation |
 
-These standings preserve developmental provenance. A calculation newly completed in this volume is recorded as a derivation in this application; a claim of historical mathematical priority requires examination of the corresponding literature. Architectural precedence and the first derivation of a particular disciplinary formula are different documentary questions.
+These standings preserve developmental provenance. A calculation newly completed in this volume is recorded as a calculation in this application; a claim of historical mathematical priority requires examination of the corresponding literature. Architectural precedence and the first appearance of a particular disciplinary formula are different documentary questions.
 
 ### 1.3 The Motion Architecture Retained
 
@@ -128,7 +128,7 @@ The five functional families in `FP01-dimensional-architecture.md` organize oper
 | Structural, C₄–C₆ | Rotation, part-whole fidelity, and phase / state transition | Coupled motion, scale-dependent observation, and admissible transitions |
 | Relational, C₇–C₉ | Harmonic relation, bridging, and relation across distance | Interaction maps, exchange conditions, and preservation of constituent distinction |
 | Generative, C₁₀–C₁₂ | Formation, volitional direction, and qualitative articulation | Conditions for a new configuration, selected continuation, and the functional criteria by which an outcome is assessed |
-| Meta-dimensional, C₁₃–C₁₅ | Membranes, nested recursion, and emergence | Boundary constraints, repeated composition, and changes in operative state structure |
+| Meta-dimensional, C₁₃–C₁₅ | Thresholds, nested recursion, and emergence | Boundary constraints, repeated composition, and changes in operative state structure |
 
 These are proposed realization questions, not replacements for the individual dimensional definitions. Each inverse counterpart retains its independently emanated function. The primary hypostatic placements remain in the dedicated audit.
 
@@ -304,7 +304,7 @@ where the iterates exist.
 
 Induction completes the proof. ∎
 
-This elementary intertwining result supplies the exact continuation criterion for repeated domain articulation. The step index represents the transition defined in the model. When F is a solver iteration, the index records a computational sequence; when F is a physical time-step map, it records that specified temporal sampling. The two interpretations remain distinct.
+This elementary commutation result supplies the exact continuation criterion for repeated domain articulation. The step index represents the transition defined in the model. When F is a solver iteration, the index records a computational sequence; when F is a physical time-step map, it records that specified temporal sampling. The two interpretations remain distinct.
 
 ### 4.4 Approximate Realization
 
@@ -536,7 +536,7 @@ When h is selected orientation information, the criterion tests the observation.
 
 Feature recovery and dynamical closure answer different questions. An observation may recover a chosen label while omitting variables necessary to determine its next value. Conversely, a closed budget equation can be exact while omitting the constituent identities associated with that budget.
 
-For differentiable dynamics, the corresponding projectability condition compares \(D\pi(z)F(z)\) at states with the same observation. A regular reduced vector field requires regular descent to the image. This volume applies that condition through explicit finite-dimensional examples and a separately derived continuum equation.
+For differentiable dynamics, the corresponding projectability condition compares \(D\pi(z)F(z)\) at states with the same observation. A regular reduced vector field requires that the field pass regularly to the image. This volume applies that condition through explicit finite-dimensional examples and a separately calculated continuum equation.
 
 ### 7.3 A Mean Omits an Operative Constituent Relation
 
@@ -593,7 +593,7 @@ Q=\sum_i\mu_i(a_i-m)(a_i-m)^T.
 
 **Proof.** Write \(a_i-m=(a_i-m_A)+(m_A-m)\) within each group. The cross terms sum to zero because \(\sum_{i\in A}\mu_i(a_i-m_A)=0\). The two remaining terms give the identity. ∎
 
-Variation within groups and variation among group means are distinct contributions. A description that retains only group means has selected one of those contributions. This identity is the elementary covariance decomposition, derived here as a composition example. Its fluid specialization in §11 concerns velocity fluctuations; its formal relation does not assign an essential orientation to a covariance matrix.
+Variation within groups and variation among group means are distinct contributions. A description that retains only group means has selected one of those contributions. This identity is the elementary covariance decomposition, obtained here as a composition example. Its fluid specialization in §11 concerns velocity fluctuations; its formal relation does not assign an essential orientation to a covariance matrix.
 
 ---
 
@@ -605,7 +605,7 @@ The transfer function in `LM05-resonance-field-theory-membrane-operators-and-col
 
 For example, a donor with one unit can offer one unit to either of two recipients. Each offer fits that donor considered separately. Executing both offers without a joint allocation would demand two units. The relation among operations is therefore part of the mathematical continuation condition.
 
-The following is a new construction in this draft, motivated by the native surplus / reception distinction. It treats a passive, simultaneous transfer step for a quantity with common units. Supply, expenditure, conversion between quantities, and changes of capacity are separate recorded operations. This scope leaves the native amplifying-membrane account intact.
+The following is a new construction in this volume, motivated by the native surplus / reception distinction. It treats a passive, simultaneous transfer step for a quantity with common units. Supply, expenditure, conversion between quantities, and changes of capacity are separate recorded operations. This scope leaves the native amplifying-membrane account intact.
 
 ### 8.2 Construction
 
@@ -621,7 +621,7 @@ Let pᵢⱼ be the proposed amount transferred from i to j, with
 p_{ij}\ge0,\qquad p_{ii}=0.
 \]
 
-Forbidden or unavailable edges have pᵢⱼ = 0. Define available surplus sᵢ, reception room kᵢ, total proposed outflow Pᵢ, and total proposed inflow Qᵢ:
+Unavailable edges have pᵢⱼ = 0. Define available surplus sᵢ, reception room kᵢ, total proposed outflow Pᵢ, and total proposed inflow Qᵢ:
 
 \[
 s_i=q_i-r_i,\qquad k_i=c_i-q_i,
@@ -788,7 +788,7 @@ For a = 3, b = 1, and k = 2, the eigenvalues of K are \(3\pm2\sqrt2\), both posi
 
 ### 9.3 Functional Meaning
 
-This calculation gives an explicit answer to a scoped question: when does countervailing coupling constrain an amplifying component in this model? The answer is an inequality derived from the interaction matrix. The model thereby distinguishes inherent orientation, the operation representing a constraint, and the quantitative conditions through which that constraint produces stabilization.
+This calculation gives an explicit answer to a scoped question: when does countervailing coupling constrain an amplifying component in this model? The answer is an inequality obtained from the interaction matrix. The model thereby distinguishes inherent orientation, the operation representing a constraint, and the quantitative conditions through which that constraint produces stabilization.
 
 The general Zenetist account remains broader. A centropic configuration can encounter constrained expression; an entropic process can exhaust its support; and another admitted process can continue indefinitely. The theorem selects one mathematically stated regime. It changes no essence and imposes no universal requirement that every amplification be bounded by the same mechanism.
 
@@ -924,7 +924,7 @@ The pressure, periodicity, initial trace, and smoothness retain the conditions o
 
 The continuum velocity \(\mathbf u(x,t)\) varies with position and time. Treating a fluid through a continuum field therefore differs from replacing it by a single rigid object or a single uniform motion. Local strain, rotation, pressure, and transport are part of the same distributed description.
 
-The molecule / water analogy motivates retaining constituent interaction rather than flattening a composite to one scalar. The next construction relates two descriptions within the continuum model. A molecular derivation additionally supplies its statistical and scaling assumptions; the convolution calculation concerns the continuum field already specified.
+The molecule / water analogy motivates retaining constituent interaction rather than flattening a composite to one scalar. The next construction relates two descriptions within the continuum model. A molecular calculation additionally supplies its statistical and scaling assumptions; the convolution calculation concerns the continuum field already specified.
 
 Let Gℓ be a fixed, smooth, nonnegative periodic convolution kernel with integral one. Define
 
@@ -941,7 +941,7 @@ and the unresolved-motion stress
 -\overline{\mathbf u}\otimes\overline{\mathbf u}.
 \]
 
-Filtering and the stress generated by the nonlinear term are established constructions in fluid mechanics. The following identities are derived explicitly for the chosen positive convolution filter.[27]
+Filtering and the stress generated by the nonlinear term are established constructions in fluid mechanics. The following identities are calculated explicitly for the chosen positive convolution filter.[27]
 
 ### 11.3 Exact Resolved Momentum and Energy
 
@@ -1085,7 +1085,7 @@ The native architecture supplies both constraining and exhaustion relations. Mat
 
 The fluid construction makes the domain-realization problem concrete. A state description can preserve velocity averages and still require covariance stress to retain the nonlinear interaction. An exact energy identity can coexist with growing derivative quantities in a concentrating family. A finite model can preserve reciprocal transfer while requiring additional spatial components for full momentum compatibility.[8][27]
 
-These are equations specifying how the constituent / composite relation operates in this domain. LM08 carries the corresponding mathematical criteria to other domains: retain the relevant state, retain the interaction, calculate the defect of the representation, and derive the continuation properties of the represented process.
+These are equations specifying how the constituent / composite relation operates in this domain. LM08 carries the corresponding mathematical criteria to other domains: retain the relevant state, retain the interaction, calculate the defect of the representation, and calculate the continuation properties of the represented process.
 
 ---
 
@@ -1165,15 +1165,15 @@ The same formal questions recur, while the equations and empirical meanings rema
 
 The canonical / analytic crosswalk and the dynamical fidelity map have different jobs. Vocabulary alignment preserves what a term means. A dynamical map preserves a selected mathematical operation. Both are required where a disciplinary paper claims to express a native architectural relation.
 
-A later draft can therefore improve its prose while retaining the equations and their conditions, or refine a physical model while retaining the native relation. A change to the native relation requires an explicit conceptual determination. A change to a mathematical hypothesis changes the theorem's scope. A change to empirical calibration changes the tested model. These are separately recorded acts.
+A later revision can therefore improve the prose while retaining the equations and their conditions, or refine a physical model while retaining the native relation. A change to the native relation is an architectural determination; a change to a mathematical hypothesis changes the theorem's scope; a change to empirical calibration changes the tested model. These are different acts, and each is recorded as what it is.
 
 ---
 
 ## 14. Mathematical Standing and Development
 
-### 14.1 What This Draft Establishes
+### 14.1 What This Volume Establishes
 
-The volume supplies a domain-realization calculus for selected states and relations. It states exact discrete and differential fidelity, composition of defects, and quantitative error propagation. It characterizes feature recovery and discrete dynamical closure through observation fibers. It derives explicit constituent / composite examples and supplies a joint transfer construction with a complete admissibility proof.
+The volume supplies a domain-realization calculus for selected states and relations. It states exact discrete and differential fidelity, composition of defects, and quantitative error propagation. It characterizes feature recovery and discrete dynamical closure through observation fibers. It works out explicit constituent / composite examples and supplies a joint transfer construction with a complete admissibility proof.
 
 The countervailing-motion example gives an exact stability threshold. The capacity examples distinguish finite exhaustion, continuing depletion, and threshold restoration. The fluid example retains unresolved motion through a covariance stress and calculates its contribution to the resolved budget. These are mathematical results for the definitions and assumptions printed with them.
 
@@ -1184,15 +1184,15 @@ The architectural scope remains wider than any one physical scalar or domain. Th
 | Question | Current Treatment |
 | --- | --- |
 | Full and simplified χ evolution have different sign behavior | The LMX's explicit linearization and the inherited formulas remain the reference; this volume makes no coefficient correction |
-| Intrinsic inclination and evolving expression share χ-language | The draft records the role of each occurrence and preserves the distinction between essential identity, expression, and collective prevalence |
+| Intrinsic inclination and evolving expression share χ-language | The volume records the role of each occurrence and preserves the distinction between essential identity, expression, and collective prevalence |
 | Dimensional primary placement differs among references | Functions are articulated here; primary placement remains in the dedicated dimensional audit |
 | The native sealed norm awaits a complete construction | Each proof in this volume specifies its actual norm or state space; no unnamed sealed norm is assumed |
-| A scalar valuation is needed for some memory or capacity inequalities | The relevant functional is defined where an inequality is derived; an operator and its numerical valuation retain distinct types |
+| A scalar valuation is needed for some memory or capacity inequalities | The relevant functional is defined where an inequality is obtained; an operator and its numerical valuation retain distinct types |
 | Signed native flux and positive physical viscosity have different functions | The native equation remains unchanged; each physical realization states its own operator, sign, and admissible domain |
 | Biological restoration needs domain-specific mechanisms and measurements | §12 records the hypothesis and the required realization fields |
 | A general fluid continuation consequence must persist through its dynamics | §11.5 identifies the selected class and production estimate to be established |
 
-The exact legacy references and their current standing are preserved. This draft initiates no propagation pass across the earlier series.
+The exact legacy references and their current standing are preserved. This volume initiates no propagation pass across the earlier series.
 
 ### 14.3 Vocabulary Standing
 
@@ -1206,13 +1206,13 @@ The vocabulary framework's current incomplete coverage is addressed through expl
 
 This volume takes the LM08 designation because its principal subject is the formal passage among domain descriptions rather than one fluid family. The fluid LMX retains its identity and its worked record.
 
-> **The architecture identifies the relation. A domain realization specifies its mathematical expression. The derivation establishes the consequences of that expression.**
+> **The architecture identifies the relation. A domain realization specifies its mathematical expression. The calculation establishes the consequences of that expression.**
 
 ---
 
 ## References
 
-The corpus references identify the named files and sections at repository snapshot `cf9df23c5f9acd60c0a141f64a2ff2870370ca91`. This is the reference snapshot for the draft, not a determination of any concept's first articulation. Reference-location and verification records accompany the manuscript separately.
+The corpus references identify the named files and sections at repository snapshot `cf9df23c5f9acd60c0a141f64a2ff2870370ca91`. This is the reference snapshot for the volume; the commit chronology, not this line, anchors the record.
 
 [1] `LM01-mathematical-foundations.md`, §§A1–A4, B, C, and F: typed primitives, syntax / semantics, calculus, field equations, and the Category of Resonant Systems.
 
@@ -1266,7 +1266,7 @@ The corpus references identify the named files and sections at repository snapsh
 
 [26] Charles L. Fefferman, *Existence and Smoothness of the Navier–Stokes Equation*, Clay Mathematics Institute problem statement. [Reference text](https://www.claymath.org/wp-content/uploads/2022/06/navierstokes.pdf).
 
-[27] M. Germano, "Turbulence: the filtering approach," *Journal of Fluid Mechanics* 238, 325–336 (1992). DOI: 10.1017/S0022112092001733. [Publisher record](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/turbulence-the-filtering-approach/1B92D8CFAEEB0D6B4ADA6BB31282D378). Cited for the established filtering framework; §11 derives the identities for its stated convolution assumptions.
+[27] M. Germano, "Turbulence: the filtering approach," *Journal of Fluid Mechanics* 238, 325–336 (1992). DOI: 10.1017/S0022112092001733. [Publisher record](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/turbulence-the-filtering-approach/1B92D8CFAEEB0D6B4ADA6BB31282D378). Cited for the established filtering framework; §11 calculates the identities for its stated convolution assumptions.
 
 [28] A. J. van der Schaft and B. M. Maschke, "Port-Hamiltonian Systems on Graphs," *SIAM Journal on Control and Optimization* 51(2), 906–937 (2013). DOI: 10.1137/110840091. [Author manuscript](https://arxiv.org/abs/1107.2006). Cited for established graph-based physical composition and boundary accounting.
 
