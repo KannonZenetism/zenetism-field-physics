@@ -24,6 +24,10 @@ These entries represent non-sequential clarifications, expansions, and technical
 - `structural-empirical-interface.md` — May 19, 2026
 - `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` — May 19, 2026
 
+### September 2026
+
+- `low-entropy-is-not-centropy.md` — Sep 14, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
