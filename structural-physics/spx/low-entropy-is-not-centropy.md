@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics Extension — Orientation, Order, and Entropy Reduction  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `MP08-symbol-key-ch21.md` §§21.6, 21.13 · `MP02-unified-metaphysics-ch4.md` *Note on Essence-as-Choice* · `entropic-action-is-not-entropic-essence.md` · `centropic-affliction-contra-entropic-collapse.md` · `spirit-soul-and-apparent-stillness.md` · `love-as-prime-coherence.md` · `SP06-structural-space-orientation-paradox.md` §1.2 · `SP03-expression-ratio-mathematics.md` · `SP11-embodiment-dynamics.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §7.1 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `when-coordination-is-not-coherence.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 
 ---
@@ -23,7 +23,7 @@ Open-system entropy budgets and stochastic processes illustrate the information 
 
 **Low entropy is not centropy.** Centropy has its own positive structural functions: lawful integration, coherent differentiation, synthesis, and Aionic reintegration. Zenetist entropy has its own orientation and operations: fragmentation, disintegration, entropic externalization, and collapse. Their definitions are held in `MP08-symbol-key-ch21.md` §21.13 and the core vocabulary of `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.2.
 
-The distinction concerns primitives and their relations. Centropy is neither negative entropy nor an anti-entropy operation, and an ordinary entropy scale is not the architecture containing both orientations. An entropy decrease can accompany centropic integration; the decrease measures the specified entropy change, while the integration is established through the process's structural relations.
+The distinction concerns primitives and their relations. Centropy is neither negative entropy nor an entropy-reduction operation, and an ordinary entropy scale is not the architecture containing both orientations. An entropy decrease can accompany centropic integration; the decrease measures the specified entropy change, while the integration is established through the process's structural relations.
 
 An entropic arrangement can also maintain regularity, coordination, predictability, or a small value of a selected entropy quantity. The existing concepts of managed fragmentation and predatory cohesion give this possibility a developed structural account. Organization is available to entropic motion; coherence names lawful centropic integration.
 
