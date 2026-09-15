@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Hypostatic Determination, Potential, and Non-fusion  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `MP08-symbol-key-ch21.md` · `the-twofold-tetralemma.md` · `the-agnostic-tetralemma.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `awareness-spectrum-and-its-inverse-arc.md` · `archetypal-number-and-essence-indexing.md` · `cascade-continuum-conflation-canonical-definitions.md`  
 
 ---
