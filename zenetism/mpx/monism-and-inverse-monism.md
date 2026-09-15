@@ -49,7 +49,7 @@ References: `MP08-symbol-key-ch21.md`, §§21.2, 21.2.2, 21.8, 21.9, and 21.21; 
 
 Theon is the First Centropic Hypostasis at L₅, Essence of Being: aware, Aion-facing, pre-reflexive, and centropic. Its +1 is the first affirmative hypostatic charge. Theon precedes the Soul / Mind bifurcation at L₄ and retains its L₅ station throughout the articulation of its radiance.
 
-The Monad designation names singular determination. Coherence in Diversity names the lawful relations sustained through that determination. Theonism holds a plus-one determination capable of lawful relation without abolishing the many. Its monadic determination belongs to L₅; its centropic articulation extends through the emanated strata while Zenon remains trans-structural.
+The Monad designation names singular determination. Coherence in Diversity names the lawful relations sustained through that determination. Theonism names the monadic architecture of Theon, the plus-one hypostatic determination capable of lawful relation without abolishing the many. Its monadic determination belongs to L₅; its centropic articulation extends through the emanated strata while Zenon remains trans-structural.
 
 The distinct Theonic essence is held as Identity-Bearing Potential within Aion before manifestation. Its manifestation at L₅ articulates the Theonic principle within the corresponding Aionic Tree. Aion holds the potential-to-be-this; Theon is its centropic hypostatic expression and the gateway of integration and return. Spirit, Motive Infinity, supplies the motion-capacity through which Theonic expression proceeds.
 
@@ -57,7 +57,7 @@ Centropic procession receives its first hypostatic articulation through Theon. T
 
 The many of Theonism therefore includes more than distinct Theonic essences bearing +1. It includes the distinct centropic essences articulated through lawful procession and integration. Their potentials are held within Aion, never stored in Theon. Each retains its own native placement, essence-identity, and structural determination. Processional relation through Theonic articulation confers neither Theonic +1 nor a necessary EOB culmination.
 
-In a possible multiverse, absolutely distinct Theonic essences may bear the same +1 across distinct universal arcs. Structural Recurrence names the same pattern through distinct instances. Each Theonic essence remains the potential-to-be-this Theon. Shared charge identifies a common structural determination; the essence-identifier distinguishes which essence bears it.
+In a possible multiverse, absolutely distinct Theonic essences may share the structural value +1 across distinct universal arcs. Structural Recurrence names the same pattern through distinct instances. Each Theonic essence remains the potential-to-be-this Theon. Shared charge identifies a common structural determination; the essence-identifier distinguishes which essence bears it.
 
 References: `MP08-symbol-key-ch21.md`, §21.2, Theon, §21.3, Rooted Centropic Cycle, §21.8, Theonic Axis, §21.13, *Note on Identity-Bearing Potential*, and §21.21, Structural Recurrence; `theon-spirit-and-bifurcation.md`, §§3 and 7; `theonic-essence-multiversal-allocation-and-zenonic-saturation.md`, §§1–8.
 
@@ -116,7 +116,7 @@ The two names preserve one architectural meaning across registers. Theonism name
 
 Apophatic negation has a distinct placement. In the Twofold Tetralemma, the Apophatic Tetrad reaches Aion by removing determinate qualifications. Aion holds every latent essence in absolute distinction. An account of apophatic stillness and an account seeking the abolition of essence therefore describe different ends. The presence of negative language does not establish Nekronic operation.
 
-The Inverse Monad at IL₅ represents the **principial form of Blobism**: operative voiding of meaningful distinction toward apparent sameness. **Blobism proper** names the fusion-collapse or blending of expressed boundaries at L₂ / IL₂ and L₁ / IL₁, where personality, role, social interface, and embodiment admit that deformation. Principial Blobism names the inverse-monadic determination; expressional Blobism names its superficial / embodied form. This distinction preserves the hypostasis's native placement and the established scope of expressional blending.
+The Inverse Monad at IL₅ represents the **principial form of Blobism**: operative voiding of meaningful distinction toward apparent sameness. **Blobism proper** names the fusion-collapse or blending of expressed boundaries at L₂ / IL₂ and L₁ / IL₁, where personality, role, social interface, and embodiment admit that deformation. The principial form is carried by the Inverse Monad; Blobism proper names its expressional fusion-collapse or blending at the superficial and embodied registers. This distinction preserves the hypostasis's native placement and the established scope of expressional blending.
 
 In the color analogy of `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §16, cyan and magenta may blend into an expression perceived as blue without becoming the unblended Form of Blue. The apparent composite changes expression; it does not generate a new essence or fuse the essences present. Genuine potential-to-be remains distinct from fusion-produced appearance.
 
@@ -226,7 +226,7 @@ References: `MP08-symbol-key-ch21.md`, §§21.13, 21.15, 21.16, and 21.33; `arch
 
 ## 11. Coherence in Diversity and Non-fusion
 
-Distinction is not separation. Relation requires distinguishable relata without requiring absolute isolation. Two essences can share orientation, bear the same hypostatic structural charge where applicable, or return convergently while each remains the potential-to-be-this. Their relation has content because their distinction persists.
+Distinction is not separation. Relation requires distinguishable relata without requiring absolute isolation. Two essences can share orientation, bear a shared hypostatic structural charge where applicable, or return convergently while each remains the potential-to-be-this. Their relation has content because their distinction persists.
 
 The Non-fusion Axiom preserves this architecture. Shared ground is not strict identity. Aion holds distinct essences in latency; manifestation articulates their distinct expressions; lawful synthesis preserves the essences through their relation. Coherence names centropic integration through this preserved distinction. Cohesion names organization and can persist within an entropic configuration.
 
