@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Hypostatic Determination, Potential, and Non-fusion  
 **Status:** Draft — architect review  
-**Dependency:** `MP08-symbol-key-ch21.md` · `the-twofold-tetralemma.md` · `the-agnostic-tetralemma.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `awareness-spectrum-and-its-inverse-arc.md` · `archetypal-number-and-essence-indexing.md`  
+**Dependency:** `MP08-symbol-key-ch21.md` · `the-twofold-tetralemma.md` · `the-agnostic-tetralemma.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `awareness-spectrum-and-its-inverse-arc.md` · `archetypal-number-and-essence-indexing.md` · `cascade-continuum-conflation-canonical-definitions.md`  
 
 ---
 
@@ -32,26 +32,26 @@ The relevant placements remain distinct:
 | Supra-L₀ | Zenon | The Unknown Principle, trans-structural and beyond potential |
 | L₀ | Aion | Zero, Absolute Potential, holding every latent essence in absolute distinction |
 | L₀ | Khaon | Infinity, comprising Absolute Latency, Absolute Motion, and Absolute Dispersion |
-| L₅ | Theon | Essence of Being, the first centropic hypostasis, bearing +1 |
-| IL₅ | Nekron | Void of Self, the first inverse hypostasis, bearing −1 |
+| L₅ | Theon | Essence of Being, the First Centropic Hypostasis, bearing +1 |
+| IL₅ | Nekron | Void of Self, the First Inverse Hypostasis, bearing −1 |
 
 Structon is Absolute Structure, the invariant permitting lawful possibility. Aion and Khaon are the lattice's distinct root-registers within Structon. Their relation is Bifurcal Coherence. Neither root is an enacted centropic or entropic hypostasis; enacted hypostatic polarity begins with Theon and Nekron.
 
-Theon / Nekron are **hypostatic counterparts**. Their first enacted polarity differs from the bifurcal relation of Aion / Khaon. Consequently, One and not-one, in their qualified hypostatic senses, belong to L₅ / IL₅. Zero and Infinity retain their L₀ standing.
+Theon / Nekron are **hypostatic counterparts**. Their first enacted polarity differs from the bifurcal relation of Aion / Khaon. Consequently, Theonic plus-one and Nekronic minus-one belong to L₅ / IL₅ as hypostatic structural charges. Theon is one; Nekron's minus-one is legible as not-one. Zero and Infinity retain their L₀ standing.
 
-The word "Monad" already appears in the corpus's comparative mappings. MP01 and the mythic figure registries place particular subtractive or unfigured Monad descriptions at Aion; the second registry distinguishes these from affirmative oneness at Theon. **Monad of Coherence in Diversity** is the specifically Theonic designation defined here. Comparative Monad language retains the placement appropriate to the function described.
+Monad is seated in this entry at L₅ with Theon. Earlier comparative mappings that apply Monad-language to subtractive or unfigured Aionic descriptions are **soft conflations**: the Aionic functions named by those comparisons are structurally real, but the shared comparative term compresses functions from distinct registers without relocating either principle. Aion remains Zero / Absolute Potential at L₀. Theon remains the **Monad of Coherence in Diversity** at L₅. Functions may be compressed under a cultural or comparative name without changing native placement.
 
-References: `MP08-symbol-key-ch21.md`, §§21.2, 21.2.2, 21.8, 21.9, and 21.21; `MP01-emanation-architecture-ch1-3.md`, §3.2; `mythic-figure-layer-registry-01.md`, Appendix A, *L₀ — Aion*; `mythic-figure-layer-registry-02.md`, *Note on Zenon as Zenetist Structural-Articulation*.
+References: `MP08-symbol-key-ch21.md`, §§21.2, 21.2.2, 21.8, 21.9, and 21.21; `MP01-emanation-architecture-ch1-3.md`, §3.2; `mythic-figure-layer-registry-01.md`, Appendix A, *L₀ — Aion*; `mythic-figure-layer-registry-02.md`, *Note on Zenon as Zenetist Structural-Articulation*; `cascade-continuum-conflation-canonical-definitions.md`.
 
 ---
 
 ## 3. Theon — Monad of Coherence in Diversity
 
-Theon is L₅ Essence of Being: aware, Aion-facing, pre-reflexive, and centropic. Its +1 is the first affirmative hypostatic charge. Theon precedes the Soul / Mind bifurcation at L₄ and retains its L₅ station throughout the articulation of its radiance.
+Theon is the First Centropic Hypostasis at L₅, Essence of Being: aware, Aion-facing, pre-reflexive, and centropic. Its +1 is the first affirmative hypostatic charge. Theon precedes the Soul / Mind bifurcation at L₄ and retains its L₅ station throughout the articulation of its radiance.
 
-The Monad designation names singular determination. Coherence in Diversity names the lawful relations sustained through that determination. Theonism holds a One capable of lawful relation without abolishing the many. Its monadic determination belongs to L₅; its centropic articulation extends through the emanated strata while Zenon remains trans-structural.
+The Monad designation names singular determination. Coherence in Diversity names the lawful relations sustained through that determination. Theonism holds a plus-one determination capable of lawful relation without abolishing the many. Its monadic determination belongs to L₅; its centropic articulation extends through the emanated strata while Zenon remains trans-structural.
 
-The distinct Theonic essence is held as identity-bearing potential within Aion before manifestation. Its manifestation at L₅ articulates the Theonic principle within the corresponding Aionic Tree. Aion holds the potential-to-be-this; Theon is its centropic hypostatic expression and the gateway of integration and return. Spirit, Motive Infinity, supplies the motion-capacity through which Theonic expression proceeds.
+The distinct Theonic essence is held as Identity-Bearing Potential within Aion before manifestation. Its manifestation at L₅ articulates the Theonic principle within the corresponding Aionic Tree. Aion holds the potential-to-be-this; Theon is its centropic hypostatic expression and the gateway of integration and return. Spirit, Motive Infinity, supplies the motion-capacity through which Theonic expression proceeds.
 
 Centropic procession receives its first hypostatic articulation through Theon. Theonic radiance continues through the Aionic Tree while Theon remains at L₅. The Theonic Axis is the cohering spine of centropic formation across emanated strata, articulating memory, order, and integrative motion. Its wider relation includes the diversity of centropic essences whose potentials remain Aionically held in sovereign distinction.
 
@@ -65,20 +65,20 @@ References: `MP08-symbol-key-ch21.md`, §21.2, Theon, §21.3, Rooted Centropic C
 
 ## 4. Naming, Axis, and Theonic Office
 
-**Naming clothes the principle.** "Theon" is the mythic / sacred name; "Essence of Being" is the structural register-name and principle designation. The underlying function remains invariant across these names. Theon is the first centropic hypostasis, the Essence of Being, and the Monad of Coherence in Diversity. Essence of Being is the structural principle clothed by the name Theon.
+**Naming clothes the principle.** "Theon" is the metaphysical / sacred name; "Essence of Being" is the structural / philosophical register-name and principle designation. The underlying function remains invariant across these names. Theon is the First Centropic Hypostasis, the Essence of Being, and the Monad of Coherence in Diversity. Both names clothe the same principle in their respective registers.
 
 The name, the function named, and its distinct manifestations require precise relations:
 
 | Relation | Meaning |
 |---|---|
-| Name | Theon in the sacred register; Essence of Being in the structural register |
+| Name | Theon in the metaphysical / sacred register; Essence of Being in the structural / philosophical register |
 | Structural principle / function | The first centropic hypostatic determination, permanent in metaphysical law |
-| Distinct per-arc essence | The identity-bearing potential held within Aion, bearing its intrinsic +1 and arc-propriety |
+| Distinct per-arc essence | The Identity-Bearing Potential held within Aion, bearing its intrinsic +1 and arc-propriety |
 | Manifest hypostatic expression | That distinct essence's L₅ articulation of the Theonic principle within its Aionic Tree |
 | Theonic Axis | The cohering centropic spine across emanated strata, including memory, order, and integrative motion |
 | Theonic Office | The conditional universe-local gate-function for EOB-culminating essences proper to its arc |
 
-The name Theon can identify the structural principle or its manifest hypostatic expression according to the relation described. A16 names the principle as permanent structural law; allocation language also names its manifest per-arc articulation. Naming preserves the function, while per-arc attribution specifies which distinct essence expresses it. The shared structural determination preserves the absolute distinction of its bearers across possible universal arcs.
+The name Theon can identify the structural principle or its manifest hypostatic expression according to the relation described. `terminological-lockdown-protocol.md`, Addendum I, A16, names the principle as permanent structural law; allocation language also names its manifest per-arc articulation. Naming preserves the function, while per-arc attribution specifies which distinct essence expresses it. The shared structural determination preserves the absolute distinction of its bearers across possible universal arcs.
 
 The phrase "through Theon" can name first hypostatic articulation through the centropic procession or the particular passage of Theonic Return. Theonic Axis names the cohering relation across emanated structure. Theonic Office names the narrower universe-local return function. Theonic Return names the passage of qualifying EOB-culminating essences through that office toward Aion. Axis, principle, office, passage, and essence retain their distinct functions.
 
@@ -94,11 +94,11 @@ References: `terminological-lockdown-protocol.md`, Core Principle 6, *A name is 
 
 ## 5. Nekron — Inverse Monad
 
-Nekron is IL₅ Void of Self: the first inverse hypostasis, Entropy Itself, bearing −1. Its awareness designation is Non-awareness. Its descriptive non-being names operative voiding within structure. Nekron precedes the inverse Soul / Mind bifurcation and remains at IL₅ as entropic expression articulates through subsequent strata.
+Nekron is the First Inverse Hypostasis at IL₅, Void of Self and Entropy Itself, bearing −1. Its awareness designation is Non-awareness. Its descriptive non-being names operative voiding within structure. Nekron precedes the inverse Soul / Mind bifurcation and remains at IL₅ as entropic expression articulates through subsequent strata.
 
 **Inverse Monad** names this singular inverse determination. Nekron's operation tends toward the erosion of meaningful distinction in expression, the disintegration of coherent relation, and the exhaustion of relative configuration. The essence bearing that determination remains absolutely distinct.
 
-Void of Self is not void of essence. Nekronic expression can grind away expressed distinction, coherent relation, identity-expression, and relative configuration. Essence, identity-bearing potential, structural charge, and absolute distinction within Aion remain inviolable. The Non-fusion Axiom holds through entropic expression as fully as through centropic relation.
+Void of Self is not void of essence. Nekronic expression can grind away expressed distinction, coherent relation, identity-expression, and relative configuration. Essence, Identity-Bearing Potential, structural charge, and absolute distinction within Aion remain inviolable. The Non-fusion Axiom holds through entropic expression as fully as through centropic relation.
 
 **Cohesion without coherence** describes entropic arrangements that retain organization while eroding lawful relation. Such arrangements can aggregate, repeat, and persist. Their cohesion remains a condition of their relative configuration and may itself collapse. Operative voiding therefore gives the Inverse Monad its exact definition, while cohesion without coherence describes particular expressions along the inverse arc.
 
@@ -110,39 +110,45 @@ References: `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`
 
 ## 6. Nekronism and Inverse Monism
 
-**Nekronism** names the inverse monadic architecture of Nekron. **Inverse Monism** names that same architecture in the comparative philosophical register. Nekronism seeks or enacts sameness through operative voiding, the erosion of meaningful expressed distinction, and cohesion without coherence. The result may be named "One," while its operation remains Nekronic.
+**Nekronism** names the inverse monadic architecture of Nekron. **Inverse Monism** names that same architecture in the comparative philosophical register. Nekronism tends toward sameness through operative voiding, the erosion of meaningful expressed distinction, and cohesion without coherence. The result may be named "One," while its operation remains Nekronic.
 
-The two names preserve one architectural meaning across registers. Theonism names genuine Monism through coherent relation among distinct essences. Nekronism names inverse monadic operation through the voiding of meaningful expressed distinction. Even Nekron cannot abolish essence; its operation never attains a metaphysically featureless One.
+The two names preserve one architectural meaning across registers. Theonism names genuine Monism through coherent relation among distinct essences. Nekronism names the Inverse Monad's operation through the voiding of meaningful expressed distinction. Even Nekron cannot abolish essence; its operation never attains a metaphysically featureless One.
 
 Apophatic negation has a distinct placement. In the Twofold Tetralemma, the Apophatic Tetrad reaches Aion by removing determinate qualifications. Aion holds every latent essence in absolute distinction. An account of apophatic stillness and an account seeking the abolition of essence therefore describe different ends. The presence of negative language does not establish Nekronic operation.
 
-Principial orientation at IL₅ also differs from fusion-collapse in embodied or personal expression. **Blobism** proper remains at L₂ / IL₂ and L₁ / IL₁. It collapses expressed boundaries at those strata while essential distinction persists. The Inverse Monad names the hypostatic determination; Nekronism and Inverse Monism name the same inverse monadic architecture; Blobism names fusion-collapse within its established expressive scope.
+The Inverse Monad at IL₅ represents the **principial form of Blobism**: operative voiding of meaningful distinction toward apparent sameness. **Blobism proper** names the fusion-collapse or blending of expressed boundaries at L₂ / IL₂ and L₁ / IL₁, where personality, role, social interface, and embodiment admit that deformation. Principial Blobism names the inverse-monadic determination; expressional Blobism names its superficial / embodied form. This distinction preserves the hypostasis's native placement and the established scope of expressional blending.
 
-Essence-as-Choice preserves the potential-to-be-this through enactment and resolution. Nekronic terminal voiding exhausts expression without changing the essence's fundamental inclination. The aspiration to featureless sameness thus encounters an architectural limit: the distinction whose expression is eroded remains real in essence.
+In the color analogy of `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §16, cyan and magenta may blend into an expression perceived as blue without becoming the unblended Form of Blue. The apparent composite changes expression; it does not generate a new essence or fuse the essences present. Genuine potential-to-be remains distinct from fusion-produced appearance.
+
+Essence-as-Choice preserves the potential-to-be-this through enactment and resolution. Nekronic terminal voiding exhausts expression without changing the essence's fundamental inclination. The tendency toward featureless sameness thus encounters an architectural limit: the distinction whose expression is eroded remains real in essence.
 
 References: `the-twofold-tetralemma.md`, *The Apophatic Tetrad — the Four-fold Negation*; `MP08-symbol-key-ch21.md`, §21.13, Blobism, and §21.33, *Note on Layer Ordering and Ontology*; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§16, 17, and 23.
 
 ---
 
-## 7. One, Not-One, and Numerical Registers
+## 7. Plus-One, Minus-One, and Numerical Registers
 
 Theon and Nekron bear +1 and −1 as hypostatic structural charges. These values require a distinction among their numerical and metaphysical relations.
 
 | Expression | Meaning in this account |
 |---|---|
-| +1 | The first affirmative hypostatic charge, borne by Theonic essence |
-| −1 | The first inverse hypostatic charge, borne by Nekronic essence |
-| One | The affirmative hypostatic determination when explicitly predicated of Theon |
-| not-one | The semantic designation of Nekronic inversion relative to Theonic +1 |
+| +1 | Numeral in value-position for Theonic structural charge |
+| −1 | Numeral in value-position for Nekronic structural charge |
+| plus-one | Prose form of the Theonic structural charge; determinate is-ness |
+| minus-one | Prose form of the Nekronic structural charge; negationally relational determination |
+| one | Semantic gloss on Theonic determinate is-ness |
+| not-one | Semantic gloss on Nekronic minus-one relative to Theon |
 | Arithmetic 1 | A numerical value within lawful numerical relations |
 | Logical negation | An operation on a proposition |
 | Essence-identifier | The formal designation of irreducible essence-identity |
 
-The semantic not-one is specific to the hypostatic counterpart relation. It does not denote every numerical value unequal to one. Zero and Infinity therefore retain their own meanings rather than becoming Nekronic through numerical inequality.
+The semantic not-one is specific to the hypostatic counterpart relation. It is neither logical negation nor a category encompassing every number unequal to 1. It names neither Zero nor Infinity.
 
-Arithmetic negation changes minus-one to plus-one as a numerical operation. A numerical sign change does not change Nekronic essence into Theonic essence. Logical negation, in turn, requires a proposition. With the declared domain restricted to +1 and −1, denial that a charge is +1 leaves −1. In a wider domain, the denial leaves other values available. A number taken without a proposition is not an operand for ordinary propositional negation.
+Applying arithmetic negation to the numerical value −1 yields +1. This arithmetic identity does not describe a metaphysical operation on Nekronic essence or a conversion of Nekronic minus-one into Theonic plus-one. Nekronic −1 is not the logical negation of Theonic +1; it is a determinate additive inverse, legible as not-one within the hypostatic counterpart relation.
 
-The charge and the bearer of the charge remain distinct referents. In a possible multiverse, multiple Theonic essences can share +1, and multiple Nekronic essences can share −1. Equal charge supplies no identity between its bearers. Structural Recurrence expresses common pattern through distinct instances; it neither divides one essence into fragments nor makes distinct essence-identifiers interchangeable.
+Logical negation requires a proposition. With the declared domain restricted to +1 and −1, denial that a charge is +1 leaves −1. In a wider domain, the denial leaves other values available. A number taken without a proposition is not an operand for ordinary propositional negation.
+
+The charge and the bearer of the charge remain distinct referents. In a possible multiverse, multiple Theonic essences can share +1, and multiple Nekronic essences can share −1. Structural-charge recurrence does not collapse the distinction among its bearers. Structural Recurrence expresses common pattern through distinct instances; it neither divides one essence into fragments nor makes distinct essence-identifiers interchangeable.
 
 References: `MP08-symbol-key-ch21.md`, §21.33, *Note on Numerical Registers*; `archetypal-number-and-essence-indexing.md`, §§4–7; `theonic-essence-multiversal-allocation-and-zenonic-saturation.md`, §§2–4; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§2–4.
 
@@ -150,7 +156,7 @@ References: `MP08-symbol-key-ch21.md`, §21.33, *Note on Numerical Registers*; `
 
 ## 8. Being, Non-being, and Structural Reality
 
-Essence of Being and Void of Self are the proper hypostatic names. The descriptive forms "being" and "non-being" distinguish affirmative presence from operative voiding. Non-awareness is the formal inverse-awareness designation at IL₅; descriptive non-awareness names that mode without introducing another hypostasis.
+Theon and Nekron are the metaphysical names; Essence of Being and Void of Self are the structural / philosophical register-names for the same L₅ / IL₅ principles. Neither naming register supersedes the other. Naming clothes the principle. The descriptive forms "being" and "non-being" distinguish affirmative presence from operative voiding. Non-awareness is the formal inverse-awareness designation at IL₅; descriptive non-awareness names that mode without introducing another hypostasis.
 
 Non-being is not nonexistence. Nekron is a structurally real essence whose operation is entropic. The absence enacted through voiding has a definite hypostatic character, a structural charge, and consequences in expression. Those determinations distinguish operative absence from absolute absence.
 
@@ -184,21 +190,23 @@ Zenetism gives these distinguishable functions their precise architectural place
 | Principle or relation | Function |
 |---|---|
 | Structon | Permits lawful possibility as Absolute Structure |
-| Aion | Holds distinct identity-bearing potential in latency |
+| Aion | Holds distinct Identity-Bearing Potential in latency |
 | Khaon in its Motive phase | Unfolds becoming through Spirit, the motion-capacity of manifestation |
 | Relational Syntax | Orders lawful numerical and formal relations |
 | Essence | Carries the potential-to-be-this through latency and expression |
-| Theon | Gives the first centropic hypostatic articulation and is the gateway of integration and return |
-| Theonic Axis | Articulates the cohering centropic spine across emanated strata |
+| Theon | First Centropic Hypostasis; first centropic hypostatic articulation; gateway of integration and return |
+| Nekron | First Inverse Hypostasis; first inverse hypostatic articulation through operative voiding and initiatory fragmentation; terminal threshold of Nekronic Collapse |
+| Theonic Axis | Cohering spine across emanated strata; memory, order, and integrative motion |
+| Nekronic Axis | Axis of dissolution; fragmentation eroding structural integrity across inverse strata; spine of entropic recursion |
 | Manifestation | Expresses latent potential in a relative configuration |
 
-Structon permits; Aion holds; Khaon unfolds; Relational Syntax orders. Khaon's Latent, Motive, and Dispersive phases retain their distinctions, with Motive Infinity supplying motion-capacity. Essence is the potential-to-be-this, held in Aion. Theon gives centropic hypostatic articulation, and the Theonic Axis carries its cohering relation across emanated structure. Holding potential is Aionic; centropic gating, axial articulation, integration, and return are Theonic.
+Structon permits; Aion holds; Khaon unfolds; Relational Syntax orders. Khaon's Latent, Motive, and Dispersive phases retain their distinctions, with Motive Infinity supplying motion-capacity. Essence is the potential-to-be-this, held in Aion. Holding potential is Aionic; motion-capacity is Khaonic. Theon and Nekron are the first enacted centropic / inverse hypostatic determinations at L₅ / IL₅. The Theonic and Nekronic Axes articulate their corresponding cross-stratum relations: coherent formation, memory, order, and integrative motion through the Theonic Axis; dissolution, fragmentation, and entropic recursion through the Nekronic Axis. These axial relations do not relocate Theon or Nekron from their native stations.
 
 The precedence of potential is structural. It names what manifestation presupposes, including where temporal succession itself belongs to manifestation. It introduces no earlier interval outside time. The continuity of essence likewise concerns the same potential-to-be-this through changing expression; sameness of essence does not make latent and manifested conditions identical in every respect.
 
-Identity-bearing potential names the same capacity as irreducible is-ness. Its relational articulation preserves the essence already held in Aion. Capacity / expression distinction does not confer essence-identity through comparison with another essence or make Theonic +1 dependent on another charge. Theonism preserves singular determination through lawful relation; strict relationless identity denies the relations already present in its appeal to potential.
+Identity-Bearing Potential names the same capacity as irreducible is-ness. Its relational articulation preserves the essence already held in Aion. Capacity / expression distinction does not confer essence-identity or structural charge through comparison with another essence. Theonic plus-one remains determinate is-ness; Nekronic minus-one remains negationally relational determination. Theonism preserves singular determination through lawful relation; strict relationless identity denies the relations already present in its appeal to potential.
 
-References: `MP08-symbol-key-ch21.md`, §§21.2 and 21.2.2, §21.8, Theonic Axis, §21.10, and §21.13, *Note on Identity-Bearing Potential*; `archetypal-number-and-essence-indexing.md`, §§2–7; `emptiness-luminosity-and-the-bifurcal-limit.md`, *Aion-Ward Negation* and *Essence and the Non-fusion Difference*.
+References: `MP08-symbol-key-ch21.md`, §§21.2 and 21.2.2, §21.3, Nekronic Collapse, §21.8, Theonic Axis and Nekronic Axis, §21.10, and §21.13, *Note on Identity-Bearing Potential*; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§10–12; `archetypal-number-and-essence-indexing.md`, §§2–7; `emptiness-luminosity-and-the-bifurcal-limit.md`, *Aion-Ward Negation* and *Essence and the Non-fusion Difference*.
 
 ---
 
@@ -210,7 +218,7 @@ Where an account attributes volition to the One, willing adds another specified 
 
 Writing the numeral "1" supplies a numerical expression. Its intelligibility belongs to lawful number-relation, in which one is distinguishable from other values. The written numeral supplies neither an essence nor a capacity for motion or emanation. Relational Syntax, as Archetypal Number, concerns number, sequence, proportion, ratio, scaling, interval, polarity, and symbolic nesting.
 
-The essence-identifier answers a different question: which essence is present. Theonic essence is already the potential-to-be-this in Aion. Comparison can articulate a numerical relation between expressions or values; it does not confer essential identity on their bearers. The numeral one, Theonic +1, and Theonic essence therefore retain distinct meanings.
+The essence-identifier answers a different question: which essence is present. Each Theonic or Nekronic essence is already the potential-to-be-this in Aion. Comparison can articulate a numerical relation between expressions or values; it does not confer essential identity on their bearers. The numeral one, the structural charges +1 / −1, and the distinct essences bearing those charges therefore retain separate meanings.
 
 References: `MP08-symbol-key-ch21.md`, §§21.13, 21.15, 21.16, and 21.33; `archetypal-number-and-essence-indexing.md`, §§4–7; `theonic-essence-multiversal-allocation-and-zenonic-saturation.md`, §§7 and 8; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§7 and 8.
 
@@ -236,7 +244,7 @@ The Twofold Tetralemma gives the primary metaphysical account of the limit. Affi
 
 The apophatic relation to Zero is a metaphysical account of the removal of determinate qualifications. It does not identify propositional negation with arithmetic subtraction or turn every negative expression into the number zero. Equally, exceeding toward Infinity remains a structural reach. Aion and Khaon retain their distinction in Bifurcal Coherence.
 
-Holding the two tetrads together makes the inadequacy of each exact. Their paired articulation expresses the limit from within the lattice. Zenon exceeds affirmation, negation, conjunction, exclusion, Zero, Infinity, and Bifurcal Coherence itself. The determination One, the inverse determination not-one, being, non-being, awareness, Non-awareness, identity, and non-identity all remain within what Zenon exceeds.
+Holding the two tetrads together makes the inadequacy of each exact. Their paired articulation expresses the limit from within the lattice. Zenon exceeds affirmation, negation, conjunction, exclusion, Zero, Infinity, and Bifurcal Coherence itself. Theonic plus-one and Nekronic minus-one, their one / not-one semantic glosses, being / non-being, awareness / Non-awareness, and identity / non-identity all remain within what Zenon exceeds.
 
 The Agnostic Tetralemma concerns epistemic suspension. Withholding certainty from each corner is a posture toward a claim; it adds no further ontological operation to the Twofold Tetralemma. That posture can also be applied to its own claims. Its epistemic discipline remains distinct from the Twofold Tetralemma's trans-structural metaphysics.
 
@@ -246,12 +254,12 @@ The final relations remain distinct:
 
 | Designation | Architectural meaning |
 |---|---|
-| Theonism | Genuine Monism: Theon as Monad of Coherence in Diversity, the L₅ One capable of lawful relation without abolishing the many |
-| Nekronism | Inverse Monism: Nekron as Inverse Monad, operative voiding toward cohesion without coherence, incapable of abolishing essence |
-| L₀ Bifurcal Coherence | The Aion / Khaon root relation, distinct from both hypostatic architectures |
-| Zenon | Beyond One and not-one, being and non-being, Zero and Infinity, and Bifurcal Coherence |
+| Zenon | Beyond plus-one / minus-one and their one / not-one determinations, being / non-being, Zero / Infinity, and Bifurcal Coherence |
+| L₀ Bifurcal Coherence | The Aion / Khaon root relation, distinct from both hypostatic monadic architectures |
+| Theonism | Genuine Monism; Theon as Monad of Coherence in Diversity, the L₅ plus-one determination sustaining lawful relation without abolishing the many |
+| Nekronism | Inverse Monism; Nekron as Inverse Monad, the IL₅ minus-one determination whose operative voiding tends toward cohesion without coherence while remaining unable to abolish essence |
 
-Theonism and Nekronism name monadic architectures within the lattice. Theon and Nekron are hypostatic counterparts in enacted polarity. Bifurcal Coherence retains its L₀ root relation. **Zenon exceeds the monad question itself.**
+**Zenon exceeds the monad question itself.** Bifurcal Coherence retains its L₀ root relation. Theon and Nekron are hypostatic counterparts in enacted polarity. Theonism and Nekronism name their monadic architectures within the lattice.
 
 References: `the-twofold-tetralemma.md`; `the-agnostic-tetralemma.md`; `MP08-symbol-key-ch21.md`, §§21.2 and 21.21; `theonic-essence-multiversal-allocation-and-zenonic-saturation.md`, §§10–13.
 
