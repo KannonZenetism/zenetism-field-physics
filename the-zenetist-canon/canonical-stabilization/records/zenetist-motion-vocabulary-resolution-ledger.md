@@ -90,12 +90,12 @@ These are the items that currently appear to require an actual source-file corre
 
 | Priority | Issue | Primary Source(s) | Current Standing | Required Action | Done |
 |---|---|---|---|---|---|
-| P1 | Active-process wording incorrectly includes **dispersive** and can make Motive Infinity appear dispersive | `khaonic-phase-and-the-discernibility-limit.md` | **REVISE / SEPARATE FIX** | Preserve the distinction between active process and terminal phase, but replace phase-confusing active-process wording. Do not make Motive Infinity fragmentary; attribute fragmentation to entropically oriented hypostatic motion where applicable | [ ] |
+| P1 | Active-process wording incorrectly includes **dispersive** and can make Motive Infinity appear dispersive | `khaonic-phase-and-the-discernibility-limit.md` | **CLOSED** | Verified: orientation-neutral Motive Infinity, continuing configuration change, actual entropic fragmentation, terminal Dispersive Infinity, and the discernibility limit remain distinct | [x] |
 | P1 | Incoherence Quotient carries broad "dispersive" wording, and its stated negative / 0–1 scale does not follow from the written nonnegative quotient | `the-incoherence-quotient.md` | **SEPARATE FIX** | Review terminology and mathematics separately. Reserve Dispersive for Khaonic terminal phase; define any signed margin separately or revise the metric domain / normalization | [ ] |
 | P1 | Full and simplified χ evolution laws may have different sign behavior | `LM03-orientation-algebra-and-infinity-formalism.md`; `SP03-expression-ratio-mathematics.md`; LMX Appendix A | **SEPARATE FIX** | Verify intended dynamics and equations in a separate mathematical review before any sign replacement | [ ] |
 | P1 | Signed structural flux coefficient: negative `D(χ)` / up-gradient relation contra well-posed physical transport | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` | **SEPARATE FIX** | Determine exact mathematical standing. Keep native signed relation distinct from positive physical viscosity and from any well-posed physical specialization | [ ] |
 | P1 | Any scalar "memory magnitude" associated with the Recursive Memory operator requires a separate definition | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` | **SEPARATE FIX** | Determine whether scalar valuation is actually required. If required, define a scalar functional; otherwise remove / avoid unsupported scalar operations | [ ] |
-| P1 | "Apparent stasis is slow entropy" may conflict with frozen χ = 1 being stagnative but not intrinsically entropic | `spirit-soul-and-apparent-stillness.md`; `terminological-lockdown-protocol.md`; `zenetist-analytic-vocabulary-and-accessibility-framework.md` | **SEPARATE FIX** | Establish scope: ordinary unreplenished manifest configurations, formal frozen equilibrium, and active dynamic stabilization must remain distinct | [ ] |
+| P1 | "Apparent stasis is slow entropy" may conflict with frozen χ = 1 being stagnative but not intrinsically entropic | `spirit-soul-and-apparent-stillness.md`; `terminological-lockdown-protocol.md`; `zenetist-analytic-vocabulary-and-accessibility-framework.md` | **CLOSED** | Verified: observational macro-stasis, possible entropic drift, passage through \( \chi = 1 \), frozen stagnation, entropic trapping, and active dynamic stabilization retain distinct scope | [x] |
 
 ---
 
@@ -110,7 +110,7 @@ These are the items that currently appear to require an actual source-file corre
 | V03 | Principle of Resonant Return (PRR) | **REVIEW** | Decide whether to add and settle exact wording |
 | V04 | Resonant term | **REVIEW** | Confirm that completion of traversal, office closure, register vacancy, and cessation of motion remain distinct and decide whether this needs a framework entry |
 | V05 | Motive activity, continuing scope, and discernibility | **REVIEW** | Conceptual distinction appears relevant. Wording must preserve Motive Infinity's orientation-neutral standing |
-| V06 | "Dispersive dynamics contra Dispersive Infinity" | **REVISE** | Reject this title / wording. Replace with a neutral active-process formulation; write fragmentary language only for entropically oriented breakdown. Also correct the originating MPX terminology |
+| V06 | "Dispersive dynamics contra Dispersive Infinity" | **CLOSED** | Revised wording approved and verified in the originating MPX; Analytic Vocabulary propagation remains deferred |
 | V07 | Dimensional operator and hypostatic function | **REVIEW** | Decide whether the distinction needs explicit framework wording |
 | V08 | Five functional families of dimensional operation | **REVIEW** | Decide whether these are stable analytic vocabulary rather than volume-specific organization |
 | V09 | Field state contra geometry | **REVIEW** | Decide whether this should become general analytic vocabulary |
@@ -133,7 +133,7 @@ These are the items that currently appear to require an actual source-file corre
 | V18 | Signed structural flux coefficient | **SEPARATE FIX** | Resolve mathematical standing in LM05 / LMX specialization. Vocabulary wording cannot solve the PDE issue |
 | V19 | Recursive Memory operator and scalar memory valuation | **SEPARATE FIX** | Determine whether a scalar functional is needed and define it if so |
 | V21 | Orientation-law translation fidelity | **SEPARATE FIX** | Resolve full-law contra simplified-law χ sign behavior before canonical mathematical integration |
-| V22 | Apparent stasis, stagnation, and dynamic stabilization | **SEPARATE FIX** | Architecturally reconcile scopes rather than merely add a glossary entry |
+| V22 | Apparent stasis, stagnation, and dynamic stabilization | **CLOSED** | Stasis / stagnation scope reconciliation verified in the Spirit / Soul MPX; wider series alignment remains deferred |
 | V26 | Incoherence Quotient domain / signed embodiment margin | **SEPARATE FIX** | Reconcile formula, range, negative branch, normalization, denominator behavior, thresholds, and terminology |
 
 ## Group C — Research / Methodology Items Requiring Separate Review before General Vocabulary Integration
@@ -246,7 +246,7 @@ Possible architecture to test, not yet approved:
 - [ ] V03 decision
 - [ ] V04 decision
 - [ ] V05 decision
-- [ ] V06 revised wording approved
+- [x] V06 revised wording approved
 - [ ] V07 decision
 - [ ] V08 decision
 - [ ] V09 decision
@@ -267,7 +267,7 @@ Possible architecture to test, not yet approved:
 - [ ] V18 signed structural flux issue resolved
 - [ ] V19 Recursive Memory scalar issue resolved
 - [ ] V21 χ evolution / sign issue resolved
-- [ ] V22 stasis / stagnation scope resolved
+- [x] V22 stasis / stagnation scope resolved
 - [ ] V26 IQ mathematics resolved
 
 ## Held Research Items
@@ -280,8 +280,8 @@ Possible architecture to test, not yet approved:
 
 ## Terminology Propagation after Architect Approval
 
-- [ ] Correct active-process terminology in `khaonic-phase-and-the-discernibility-limit.md`
-- [ ] Review phase-confusing "dispersive" language in `the-incoherence-quotient.md`
+- [x] Correct active-process terminology in `khaonic-phase-and-the-discernibility-limit.md`
+- [x] Review phase-confusing "dispersive" language in `the-incoherence-quotient.md`
 - [ ] Search targeted related files for the same architectural misdescription
 - [ ] Do **not** alter standard mathematical meanings of "dispersion / dispersive" solely because of the Zenetist phase reservation
 - [ ] Update `zenetist-analytic-vocabulary-and-accessibility-framework.md` only after the relevant entry decisions are complete
