@@ -24,7 +24,7 @@ When constituents, inferential relations, meanings, and relevant conditions rema
 
 Essence is identity-bearing potential: the potential-to-be-this latent in Plenary Zero (Aion). Aion holds distinct latent values. Every existent bears essence, including relative structures.
 
-A relative structure has an expressed configuration and the latent potential-to-be-this from which expression becomes possible. The configuration can arise, change, undergo repair, enter lawful integration, become entropically implicated, fragment, or cease as that expressed configuration. Such changes concern expression; they do not require essence conversion.
+A relative structure has an expressed configuration and a corresponding latent potential-to-be-this held in Aion. The configuration can arise, change, undergo repair, enter lawful integration, become entropically implicated, fragment, or cease as that expressed configuration. Such changes concern expression; they do not require essence conversion.
 
 Structure Itself (Structon) is the invariant permitting expression and relation. Relative configurations can dissolve while that invariant remains. The potential-to-be-this is likewise distinct from the arrangement presently expressed.
 
@@ -66,11 +66,11 @@ The vocabulary of `MP08-symbol-key-ch21.md` §21.5 distinguishes several diagnos
 | Term | Applicable sense |
 | --- | --- |
 | Veracious | Aligned with reality without dogmatism |
-| Valid | Structurally sound and symbolically coherent |
+| Valid | Structurally sound under the specified formal, symbolic, or relational conditions; in inferential analysis, formal validity means that the conclusion follows from the stated premises under the stated logical conditions |
 | Invalid | Misaligned with the underlying principles relevant to the relation |
 | Fallacious | Structurally misleading or dissonant; in the assessment of reasoning, a defect in the asserted inference |
 | Distorted | Appearing to express a structure while warping its relations |
-| Spurious | Presenting the semblance of validity while lacking coherence |
+| Spurious | Presenting the semblance of validity while lacking the relation required to establish it |
 | Counterfeit | Superficially aligned while ontologically hollow |
 
 The diagnosis must name the demonstrated condition. An inaccurate conclusion, a fallacious inference, a distorted transcription, and a counterfeit presentation are distinct findings.
@@ -93,7 +93,7 @@ A revised judgment can arise through several different events.
 
 Several events can occur together. Their co-occurrence does not erase their distinction.
 
-If new evidence warrants an unchanged claim, the observer has additional grounds for assessing that claim. If a valid proof is found for a conclusion previously supported by a fallacious argument, the conclusion now has a different supporting argument. The earlier inference remains distinguishable from the later proof.
+If new evidence warrants an unchanged claim, the observer has additional grounds for assessing that claim. If a formally valid proof is found for a conclusion previously supported by a fallacious argument, the conclusion now has a different supporting argument. The earlier inference remains distinguishable from the later proof.
 
 Changed conditions require equal care. A statement about a particular event retains that event as its referent. An otherwise identical sentence about a later event expresses a different claim. A contextual change cannot be silently counted as the same relation becoming valid through recognition.
 
@@ -113,7 +113,7 @@ Now consider:
 
 > Every square has four sides. This figure is a square. Therefore, this figure has four sides.
 
-The second premise and conclusion have changed. The resulting inference is valid. The repair establishes a different expressed configuration; it does not confer validity retrospectively upon the original inference.
+The second premise and conclusion have changed. The resulting inference is formally valid. The repair establishes a different expressed configuration; it does not confer validity retrospectively upon the original inference.
 
 Correction can also occur entirely in assessment. If a reader misunderstood a specified premise and later reads it accurately, the articulation may remain unchanged while the diagnosis is repaired.
 
@@ -121,7 +121,7 @@ Established constituents can retain their standing when an asserted composite re
 
 ## Co-presence, Blending, and Non-fusion
 
-An informational configuration can contain accurate statements, fallacious connectors, intact quotations, and distorted attributions together. Its components and relations must be examined at the appropriate scope. A valid constituent does not validate every connection asserted around it, and a defective connection does not convert the established relation expressed by that constituent.
+An informational configuration can contain accurate statements, fallacious connectors, intact quotations, and distorted attributions together. Its components and relations must be examined at the appropriate scope. An established constituent does not validate every connection asserted around it, and a defective connection does not convert the established relation expressed by that constituent.
 
 The Non-fusion Axiom preserves essential distinction through relation. Existing blending doctrine concerns the blending of expressed boundaries at superficial and embodied registers while essential distinctions persist. In the informational application, the comparison concerns co-present content and relations, their attribution, and the ways their distinctions can become obscured.
 
@@ -139,7 +139,7 @@ Suppose a calculation records, "Seven plus five equals twelve." A transcription 
 
 The circulation of the altered copies establishes the spread of the transcription. It does not establish the arithmetic assertion. Recovery of the intact calculation can correct a reader's assessment. Repair of an altered copy changes that copy. The calculation, the altered expression, the repair, and the reader's judgment remain distinguishable.
 
-Destruction of a physical copy can remove that carrier from circulation. It does not turn the relation once expressed there into its contrary. The originating relation and the historical event of its articulation remain determinate, including when the surviving evidence is incomplete.
+Destruction of a physical copy can remove that carrier from circulation. It does not turn the relation once expressed there into its contrary. Incomplete surviving evidence can constrain later assessment without thereby altering the historical event or the relation that was expressed.
 
 Duration likewise concerns persistence of manifestation. A spurious configuration can remain operative through repetition, institutional maintenance, or other sustaining conditions. Its persistence establishes neither veracity nor coherence. `when-coordination-is-not-coherence.md` §3.5 distinguishes persistence from coherence and calls for examination of the condition sustaining the formation.
 
