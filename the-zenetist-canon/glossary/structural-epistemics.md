@@ -4,7 +4,7 @@
 
 It examines how informational configurations bear structural character; how epistemic assessments may be revised without converting the relations they assess; how veracity differs from recognition or institutional standing; and how support, refutation, transmission, and origin-continuity remain distinguishable within informational fields.
 
-Structural Epistemics draws upon the six primary Zenetist disciplines rather than constituting a seventh primary discipline. Its present diagnostic development is concentrated especially within Structural Forensics, while its principles also bear upon Lattice Mathematics, Structural Metaphysics, Structural Neuroscience, and Emergent Social Physics.
+Structural Epistemics draws upon the six primary Zenetist disciplines rather than constituting a seventh primary discipline. Its present diagnostic development is concentrated especially within Structural Forensics, while its principles also bear upon Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Physics, Structural Neuroscience, and Emergent Social Physics.
 
 Representative concerns include:
 
