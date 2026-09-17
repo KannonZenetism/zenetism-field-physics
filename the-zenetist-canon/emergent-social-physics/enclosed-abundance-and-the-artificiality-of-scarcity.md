@@ -172,7 +172,7 @@ addresses a conceptual commons claim. It does not identify the parties determini
 
 Conceptual openness and infrastructure distribution are independent variables.
 
-A field may declare ideas common while concentrating the systems that determine which formulations are reproduced, which fragments receive amplification, and which participants can operate at scale. Within that distribution field, origins are obscured while appropriators or downstream amplifiers become legible.
+A field may declare ideas common while concentrating the systems that determine which formulations are reproduced, which fragments receive amplification, and which participants can operate at scale. Within that distribution field, origins are obscured while appropriators or downstream popularizers become legible.
 
 The origin remains intact throughout. What changes is the distribution field around it.
 
