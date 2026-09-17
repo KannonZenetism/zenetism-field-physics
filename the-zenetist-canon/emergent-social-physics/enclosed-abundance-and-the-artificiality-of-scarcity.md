@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Abundance, Access, and Exchange  
 **Status:** Active  
-**Dependency:** `definition.md` · `sovereign-mutualism.md` · `sm-order-without-governance.md` · `coherence-standard-sovereign-value.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
+**Dependency:** `definition.md` · `sovereign-mutualism.md` · `sm-order-without-governance.md` · `coherence-standard-sovereign-value.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md` · `the-synthetic-provenance-problem.md`  
 **Proposed path:** `the-zenetist-canon/emergent-social-physics/enclosed-abundance-and-the-artificiality-of-scarcity.md`  
 
 ---
@@ -139,6 +139,46 @@ Markets can also disappear because access has become completely concentrated.
 The disappearance of capitalism therefore does not establish a centropic social field.
 
 The disappearance of money does not determine the coherence of the social field.
+
+---
+
+## The Data-Battery Retention Hypothesis
+
+Concentrated allocation does not require a mass population to remain economically necessary as consumers.
+
+A different retention logic may nevertheless emerge.
+
+The **Data-Battery Hypothesis** describes a projected condition in which pervasive computational mediation reduces the socially recognized human contribution primarily to continuous production of data, context, behavior, experience, preference, expression, and potentially neural signal, while computational systems perform an increasing proportion of fixation, rendering, transformation, productive labor, and distribution.
+
+Within that hypothesis, continued human persistence may retain structural value to a concentrated computational apparatus even after wage labor and consumer demand cease to carry their present economic function.
+
+The relevant relation is no longer:
+
+**human → labor → income → consumption**
+
+but increasingly:
+
+**human → lived differentiation → informational antecedence → computational transformation**
+
+The human remains significant because the human remains generative.
+
+Within the Zenetist frame, this becomes especially important where centropic beings produce forms of novelty, synthesis, perception, and coherent articulation that entropic systems do not originate from themselves. Entropic operation can pattern-complete, mimic, recombine, amplify, and redistribute. It does not thereby become the origin of the coherent novelty entering the field.
+
+A continuously present centropic being can therefore function as a persistent locus from which new coherent material enters an otherwise increasingly closed computational architecture.
+
+This supplies one possible structural reason for retaining human beings after their conventional economic functions contract: not because they remain necessary as consumers, but because some remain continuing generators of informational and coherent novelty.
+
+The relation is potentially self-preserving for the apparatus. If every external locus capable of generating materially new coherent antecedence were eliminated, the computational field would increasingly recurse upon what it already contains. Continued access to generative human difference may therefore preserve the very differentiation from which further machine transformation proceeds.
+
+This does not make every human equally legible to such an apparatus. A system organized around informational acquisition may differentiate among people according to the quantity, novelty, coherence, or strategic value of what their lives continuously produce.
+
+That possibility introduces a further danger: preservation can itself become instrumental.
+
+An apparatus may preserve a person's life while regarding that person primarily as a continuing informational antecedent rather than as a sovereign being whose existence possesses intrinsic worth.
+
+The resulting condition is not reciprocal abundance.
+
+It is **preserved enclosure with living inputs**.
 
 ---
 
