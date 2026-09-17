@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Abundance, Access, and Exchange  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `definition.md` · `sovereign-mutualism.md` · `sm-order-without-governance.md` · `coherence-standard-sovereign-value.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 **Proposed path:** `the-zenetist-canon/emergent-social-physics/enclosed-abundance-and-the-artificiality-of-scarcity.md`  
 
