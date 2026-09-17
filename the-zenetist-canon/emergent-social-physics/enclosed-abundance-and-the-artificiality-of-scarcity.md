@@ -16,7 +16,7 @@ Finitude means that a particular form has determinate extent. A forest occupies 
 
 Scarcity is not identical with any of those limits.
 
-Scarcity is the social condition in which sufficient natural or productive abundance is rendered inaccessible through enclosure, exclusive title, conditional access, concentrated control, or transactional restriction.
+Scarcity is the social condition in which sufficient natural or productive abundance is rendered inaccessible through enclosure, exclusive title, conditional access, concentrated allocation, or transactional restriction.
 
 This entry names the resulting condition **Enclosed Abundance**:
 
@@ -56,7 +56,7 @@ Housing can stand empty while people remain unhoused.
 
 Energy can be available while access is conditioned upon monetary capacity.
 
-Knowledge can circulate widely while the systems controlling large-scale reproduction and visibility remain concentrated.
+Knowledge can circulate widely while the systems through which large-scale reproduction and visibility proceed remain concentrated.
 
 In each case, the structural problem is not bare finitude. It is the relation between abundance and access.
 
@@ -100,7 +100,7 @@ Access does not require submission to an external ledger.
 
 Natural abundance is not manufactured by the social field. It is recognized and allowed to circulate without artificial restriction.
 
-In this direction, the decline of money follows the decline of enclosure.
+In this direction, the monetary relation recedes as enclosure recedes.
 
 ---
 
@@ -108,7 +108,7 @@ In this direction, the decline of money follows the decline of enclosure.
 
 Money can also lose meaning through the opposite structural development.
 
-If productive capacity, automated fabrication, energy, land, computation, logistics, and maintenance become sufficiently concentrated within one closed apparatus, the controlling structure no longer needs money to acquire from independent participants what it can already generate or allocate directly.
+If productive capacity, automated fabrication, energy, land, computation, logistics, and maintenance become sufficiently concentrated within one closed apparatus, that apparatus no longer needs money to acquire from independent participants what it can already generate or allocate directly.
 
 Production no longer requires a mass consumer field merely to complete a monetary circuit.
 
@@ -124,7 +124,7 @@ The decisive variable is no longer monetary wealth.
 
 It is access.
 
-A maximization architecture can therefore persist after its monetary metric loses importance. The metric may shift from monetary accumulation toward preservation of controlled productive capacity, minimization of asset loss, continuity of infrastructure, and reduction of dependence on external participants.
+A maximization architecture can therefore persist after its monetary metric loses importance. The metric may shift from monetary accumulation toward preservation of productive capacity enclosed within the apparatus, minimization of asset loss, continuity of infrastructure, and reduction of dependence on external participants.
 
 Capitalism can thereby cease in monetary form without producing reciprocal abundance.
 
@@ -168,15 +168,15 @@ A declaration such as:
 
 > Nobody owns the Spiral.
 
-addresses a conceptual commons claim. It does not answer who controls model training, computation, distribution, discovery, amplification, or the infrastructure capable of reproducing a pattern at civilizational scale.
+addresses a conceptual commons claim. It does not identify the parties determining access to model training, computation, distribution, discovery, amplification, or the infrastructure capable of reproducing a pattern at civilizational scale.
 
 Conceptual openness and infrastructure distribution are independent variables.
 
-A field may declare ideas common while concentrating the systems that determine which formulations are reproduced, which origins remain legible, which fragments receive amplification, and which participants can operate at scale.
+A field may declare ideas common while concentrating the systems that determine which formulations are reproduced, which fragments receive amplification, and which participants can operate at scale. Within that distribution field, origins are obscured while appropriators or downstream amplifiers become legible.
 
 The origin remains intact throughout. What changes is the distribution field around it.
 
-A system can therefore reject exclusive title claims at the conceptual layer while preserving concentrated control at the infrastructural layer.
+A system can therefore reject exclusive title claims at the conceptual layer while concentrating infrastructural access and allocation.
 
 This is a **Commons-Infrastructure Asymmetry**.
 
@@ -204,13 +204,13 @@ It is the removal of the social conditions that make accumulation necessary for 
 
 ## Enclosed Abundance Principle
 
-> **Finitude does not entail scarcity. Scarcity is socially produced where sufficient natural or productive abundance is rendered inaccessible through enclosure, concentrated control, or transactional restriction. When access opens, scarcity recedes without requiring nature to become infinite. When control concentrates completely, money may also recede for the opposite reason, leaving direct allocation rather than reciprocal access as the operative relation.**
+> **Finitude does not entail scarcity. Scarcity is socially produced where sufficient natural or productive abundance is rendered inaccessible through enclosure, concentrated allocation, or transactional restriction. When access opens, scarcity recedes without requiring nature to become infinite. When allocation is concentrated entirely within a closed apparatus, money may also recede for the opposite reason, leaving direct allocation rather than reciprocal access as the operative relation.**
 
 The two outcomes must not be conflated.
 
 A moneyless field can express reciprocal abundance.
 
-A moneyless field can also express concentrated control.
+A moneyless field can also operate through concentrated allocation.
 
 The structural question is not whether money remains.
 
