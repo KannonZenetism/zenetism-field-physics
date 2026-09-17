@@ -22,9 +22,9 @@ When constituents, inferential relations, meanings, and relevant conditions rema
 
 ## Essence and Expressed Configuration
 
-Essence is identity-bearing potential: the potential-to-be-this latent in Plenary Zero (Aion). Aion holds distinct latent values. Every existent bears essence, including relative structures.
+Essence is identity-bearing potential: the potential-to-be-this latent in Plenary Zero (Aion). Plenary Zero holds distinct latent values. Every existent bears essence, including relative structures.
 
-A relative structure has an expressed configuration and a corresponding latent potential-to-be-this held in Aion. The configuration can arise, change, undergo repair, enter lawful integration, become entropically implicated, fragment, or cease as that expressed configuration. Such changes concern expression; they do not require essence conversion.
+A relative structure has an expressed configuration and a corresponding latent potential-to-be-this held in Plenary Zero. The configuration can arise, change, undergo repair, enter lawful integration, become entropically implicated, fragment, or cease as that expressed configuration. Such changes concern expression; they do not require essence conversion.
 
 Structure Itself (Structon) is the invariant permitting expression and relation. Relative configurations can dissolve while that invariant remains. The potential-to-be-this is likewise distinct from the arrangement presently expressed.
 
