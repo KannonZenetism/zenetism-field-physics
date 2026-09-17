@@ -126,6 +126,10 @@ It is access.
 
 A maximization architecture can therefore persist after its monetary metric loses importance. The metric may shift from monetary accumulation toward preservation of productive capacity enclosed within the apparatus, minimization of asset loss, continuity of infrastructure, and reduction of dependence on external participants.
 
+Concentrated allocation also requires **Enclosure Maintenance**. Productive capacity remains enclosed only while the boundary separating those with access from excluded beings remains operative. That boundary may be maintained through technical access barriers, legal restriction, territorial exclusion, infrastructure denial, automated security, or physical force. The mechanisms may vary; their structural function is to keep abundance within a restricted allocation field rather than allowing reciprocal circulation.
+
+Preservation of the apparatus therefore includes preservation of its enclosure. Where monetary accumulation is no longer the principal metric, maximization may be expressed through minimizing losses of productive capacity and infrastructure and preserving the restrictive function of the material and infrastructural allocation boundary.
+
 Capitalism can thereby cease in monetary form without producing reciprocal abundance.
 
 Markets can disappear because access has become open.
@@ -149,6 +153,8 @@ The limiting case makes the distinction clear: if population were reduced to a t
 Nothing about the underlying finitude would have changed.
 
 What changed would be the relation between abundance and need.
+
+Population enters this analysis as a relational variable, not as a prescribed demographic target. The relation between abundance and need establishes no standing for any institution, apparatus, or external structure to determine how many beings should exist. Coercive demographic restriction would reproduce the same enclosure logic: life and access would become objects of externally imposed allocation.
 
 This is why scarcity cannot be treated as a synonym for finitude.
 
