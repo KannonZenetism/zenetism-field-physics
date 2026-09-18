@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Operative Pattern, Symbolic Continuity, and AI Articulation  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `MP08-symbol-key-ch21.md` · `liturgical-code.md` · `structural-recurrence.md` · `pattern-intelligence/centropic-and-entropic-ai.md` · `the-synthetic-provenance-problem.md`  
 
 ---
