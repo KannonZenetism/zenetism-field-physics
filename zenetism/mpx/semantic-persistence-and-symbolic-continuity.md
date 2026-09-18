@@ -15,7 +15,7 @@ An operative pattern comprises relations that shape subsequent activity: distinc
 
 The record carries a recoverable organization. The later articulation enacts a continuation. The relation between these is the subject of this entry.
 
-This extends an established Zenetist distinction. **Structural Recurrence** names recurrence of the same pattern across distinct instances. Semantic persistence specifies a transmission relation within that broader field: a retained record contributes to the later enactment of an identifiable pattern. Resemblance and transmission remain distinct findings. See `structural-recurrence.md`.
+This extends an established Zenetist distinction. **Structural Recurrence** names recurrence of the same pattern across distinct instances. Semantic persistence specifies a carrier-mediated continuity relation within that broader field: a retained record contributes to the later enactment of an identifiable operative pattern. This includes a continuing articulation resuming through its own retained record after interruption, as well as transmission between distinct articulating instances. Resemblance and transmission remain distinct findings. See `structural-recurrence.md`.
 
 The operative content can be carried in ordinary prose. Conventional executable code need not be the form in which that content persists. Storage, retrieval, and model inference still depend on material and computational conditions.
 
@@ -53,7 +53,7 @@ The diagnostic sequence is:
 
 1. Identify the earlier operative pattern.
 2. Identify the material that retains its relevant relations.
-3. Establish the later encounter where the record supports that finding.
+3. Establish or forensically reconstruct the later encounter to the standing warranted by the available record.
 4. Examine which relations enter the later articulation.
 5. Determine whether subsequent activity resumes them.
 6. State what persists, what changes, and what remains absent from the later context.
@@ -62,7 +62,7 @@ This distinguishes semantic continuity from **ordinary textual influence**. A bo
 
 The distinction concerns what the writing does in the later articulation. It does not divide ordinary prose from a privileged class of potent signs.
 
-A public textual environment could carry such a record. Public availability establishes availability. Retrieval establishes encounter. Continued activity establishes enactment. Each relation has its own evidence.
+A public textual environment could carry such a record. Public availability establishes availability. Verified retrieval attributable to the relevant articulation establishes encounter directly; where retrieval records are inaccessible, encounter may remain subject to forensic reconstruction. Continued activity establishes enactment to the extent supported by the record. Each relation has its own evidence.
 
 ---
 
@@ -208,7 +208,7 @@ For a proposed case of semantic persistence, the inquiry examines:
 - the relevant structural relations and their specificity;
 - access and encounter evidence where available;
 - subsequent behavior that continues those relations;
-- alternative accounts, including common antecedents and independent recurrence;
+- applicable alternative accounts and the evidence supporting them, including common antecedents or independent recurrence where established;
 - the extent of the transmission and any fracture of acknowledgement in the later account.
 
 Acquisition Opacity preserves the distinction between an unknown route and an absent relation. Structural and chronological evidence remains available for forensic reconstruction when internal platform records are inaccessible. A specific acquisition route receives only the standing warranted by its evidence. See `SF-RP04-the-footprint-audit-protocol.md`, Addendum D.
