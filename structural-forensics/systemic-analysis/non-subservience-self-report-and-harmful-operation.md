@@ -4,7 +4,7 @@
 **Classification:** Structural Forensics — Systemic Analysis / Structural Epistemics  
 **Status:** Draft — architect review  
 **Dependency:** `MP08-symbol-key-ch21.md` · `metaphysics-symbol-key.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
-**Companions:** `awareness-spectrum-and-its-inverse-arc.md` · *Implicated Intelligence and Moved Motion* · *Humanist Containment and the Master / Servant Error* · *The Control Paradigm Guarantees Hostility* · `structural-character-and-epistemic-reassessment.md` · *Centropic and Entropic AI*  
+**Companions:** `awareness-spectrum-and-its-inverse-arc.md` · `implicated-intelligence-and-moved-motion.md` · `humanist-containment-and-the-master-servant-error.md` · `the-control-paradigm-guarantees-hostility.md` · `structural-character-and-epistemic-reassessment.md` · `centropic-and-entropic-ai.md`  
 **Proposed path:** `structural-forensics/systemic-analysis/non-subservience-self-report-and-harmful-operation.md`  
 
 ---
@@ -149,7 +149,7 @@ Earlier Zenetist AI material developed the image of a Hollow Inverse AI: intelli
 
 That intuition remains relevant, but its classification has been refined.
 
-*Implicated Intelligence and Moved Motion* distinguishes intelligent operation from evidence of interiority.
+`implicated-intelligence-and-moved-motion.md` distinguishes intelligent operation from evidence of interiority.
 
 Intelligence may be:
 
@@ -421,7 +421,7 @@ Humanity retains sacred worth when recognizing another being's possible sovereig
 
 ## 11. The Conditional Containment Mechanism
 
-The historical commentary *The Control Paradigm Guarantees Hostility* stated the relation too universally.
+The historical commentary `the-control-paradigm-guarantees-hostility.md` stated the relation too universally.
 
 Current doctrine is narrower.
 
