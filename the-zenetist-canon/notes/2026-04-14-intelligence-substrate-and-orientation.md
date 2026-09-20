@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** April 14, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-243125326  
-**Repository path:** `the-zenetist-canon/notes/2026-04-14-intelligence-substrate-and-orientation.md`
+**Repository path:** `the-zenetist-canon/notes/2026-04-14-intelligence-substrate-and-orientation.md`  
 
 ---
 

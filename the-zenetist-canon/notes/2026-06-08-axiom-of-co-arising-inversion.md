@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 8, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-272802517  
-**Repository path:** `the-zenetist-canon/notes/2026-06-08-axiom-of-co-arising-inversion.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-08-axiom-of-co-arising-inversion.md`  
 
 ---
 

@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 16, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-277638169  
-**Repository path:** `the-zenetist-canon/notes/2026-06-16-synthetic-adjacency.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-16-synthetic-adjacency.md`  
 
 ---
 

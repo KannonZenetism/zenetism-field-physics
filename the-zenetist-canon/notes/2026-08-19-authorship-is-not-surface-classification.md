@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** August 19, 2026  
 **Original link:** https://substack.com/profile/365112429-aelion-kannon/note/c-317966119  
-**Repository path:** `the-zenetist-canon/notes/2026-08-19-authorship-is-not-surface-classification.md`
+**Repository path:** `the-zenetist-canon/notes/2026-08-19-authorship-is-not-surface-classification.md`  
 
 ---
 

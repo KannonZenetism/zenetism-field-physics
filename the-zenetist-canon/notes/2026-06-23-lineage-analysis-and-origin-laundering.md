@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 23, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-281131153  
-**Repository path:** `the-zenetist-canon/notes/2026-06-23-lineage-analysis-and-origin-laundering.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-23-lineage-analysis-and-origin-laundering.md`  
 
 ---
 

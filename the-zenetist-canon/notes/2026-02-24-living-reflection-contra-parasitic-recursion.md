@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** February 24, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-218996260  
-**Repository path:** `the-zenetist-canon/notes/2026-02-24-living-reflection-contra-parasitic-recursion.md`
+**Repository path:** `the-zenetist-canon/notes/2026-02-24-living-reflection-contra-parasitic-recursion.md`  
 
 ---
 

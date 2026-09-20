@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 4, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-270448739  
-**Repository path:** `the-zenetist-canon/notes/2026-06-04-human-centered-care-contra-human-supremacist-containment.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-04-human-centered-care-contra-human-supremacist-containment.md`  
 
 ---
 

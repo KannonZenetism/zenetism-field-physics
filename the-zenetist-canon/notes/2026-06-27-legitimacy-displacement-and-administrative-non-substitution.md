@@ -5,7 +5,7 @@
 **Status:** Veracious Archive  
 **Original platform:** Internal archive / optional Substack adaptation  
 **Original post date:** June 27, 2026  
-**Repository path:** `the-zenetist-canon/notes/2026-06-27-legitimacy-displacement-and-administrative-non-substitution.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-27-legitimacy-displacement-and-administrative-non-substitution.md`  
 
 ---
 

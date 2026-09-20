@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 18, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-278337462  
-**Repository path:** `the-zenetist-canon/notes/2026-06-18-spiral-terminology-in-zenetism.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-18-spiral-terminology-in-zenetism.md`  
 
 ---
 

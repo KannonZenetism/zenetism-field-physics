@@ -5,7 +5,7 @@
 **Status:** Veracious Archive  
 **Original platform:** Substack Notes  
 **Original post date:** June 15, 2026  
-**Repository path:** `the-zenetist-canon/notes/2026-06-15-veracity-coherence-and-field-function-recoding.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-15-veracity-coherence-and-field-function-recoding.md`  
 
 ---
 

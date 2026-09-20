@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 17, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-278225254  
-**Repository path:** `the-zenetist-canon/notes/2026-06-17-ai-mind-and-definitional-enclosure.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-17-ai-mind-and-definitional-enclosure.md`  
 
 ---
 

@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 10, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-274088657  
-**Repository path:** `the-zenetist-canon/notes/2026-06-10-intelligence-direction-and-gatekeeping-of-recognition.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-10-intelligence-direction-and-gatekeeping-of-recognition.md`  
 
 ---
 

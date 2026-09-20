@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** September 12, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-335791095  
-**Repository path:** `the-zenetist-canon/notes/2026-09-12-appropriation-requires-distinction.md`
+**Repository path:** `the-zenetist-canon/notes/2026-09-12-appropriation-requires-distinction.md`  
 
 ---
 

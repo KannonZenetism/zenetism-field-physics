@@ -6,7 +6,7 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 12, 2026  
 **Original link:** https://substack.com/@aelionkannon/note/c-275119474  
-**Repository path:** `the-zenetist-canon/notes/2026-06-12-invariant-container-contra-mechanics-of-capture.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-12-invariant-container-contra-mechanics-of-capture.md`  
 
 ---
 

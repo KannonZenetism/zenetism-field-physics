@@ -6,11 +6,11 @@
 **Original platform:** Substack Notes  
 **Original post date:** June 29, 2026  
 **Original link:** https://substack.com/profile/365112429-aelion-kannon/note/c-284691857  
-**Repository path:** `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
+**Repository path:** `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
 
 ---
 
-The phrase **“ownership over reality”** is not mine.
+The phrase **"ownership over reality"** is not mine.
 
 It belongs to those attempting to recode origin-continuity as property.
 
@@ -24,11 +24,11 @@ That is provenance.
 
 A framework can describe many domains without claiming possession over those domains.
 
-Jung did not “own” the unconscious because he named the collective unconscious.
+Jung did not "own" the unconscious because he named the collective unconscious.
 
-Freud did not “own” analysis because psychoanalysis entered the record through his framework.
+Freud did not "own" analysis because psychoanalysis entered the record through his framework.
 
-Whitehead did not “own” process because process philosophy bears his formal imprint.
+Whitehead did not "own" process because process philosophy bears his formal imprint.
 
 The ordinary scholarly distinction is simple:
 
@@ -80,7 +80,7 @@ There is also a record issue here.
 
 Closely related framings, talking points, and reversals repeatedly appear after they are written, tested, or formalized within my working field. This is not presented as a feeling. It is a sequence condition preserved across time.
 
-When the response is then to accuse the originator of “ownership,” the structure becomes clearer:
+When the response is then to accuse the originator of "ownership," the structure becomes clearer:
 
 the work is treated as close enough to require displacement, but not close enough to receive relation.
 
