@@ -27,6 +27,7 @@ These entries represent non-sequential clarifications, expansions, and technical
 ### September 2026
 
 - `low-entropy-is-not-centropy.md` — Sep 14, 2026
+- `dynamic-stabilization-under-nonequilibrium-conditions.md` — Sep 20, 2026
 
 ---
 
