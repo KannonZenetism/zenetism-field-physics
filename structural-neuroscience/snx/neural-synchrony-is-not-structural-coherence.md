@@ -1,4 +1,4 @@
-# SNX: Neural Synchrony Is Not Structural Coherence
+# SNX: Neural Synchrony Is Not Structural Coherence — Integration, Segregation, Metastability, and Composite Dynamics
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Extension  

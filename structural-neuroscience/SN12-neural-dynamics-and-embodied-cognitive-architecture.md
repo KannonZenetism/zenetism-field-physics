@@ -40,7 +40,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Neural Dynamics and Embodied Cognitive Architecture
+# Neural Dynamics and Embodied Cognitive Architecture: Physical Interface, Stabilization, Distortion, and Restoration
 
 *Structural Neuroscience — Document 12*
 

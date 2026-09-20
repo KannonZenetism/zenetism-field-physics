@@ -1,4 +1,4 @@
-# SPX: Low Entropy Is Not Centropy: Orientation, Order, and Entropy Reduction
+# SPX: Low Entropy Is Not Centropy — Orientation, Order, and Entropy Reduction
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics Extension — Orientation, Order, and Entropy Reduction  

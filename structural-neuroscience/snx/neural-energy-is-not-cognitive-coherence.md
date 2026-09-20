@@ -1,4 +1,4 @@
-# SNX: Neural Energy Is Not Cognitive Coherence
+# SNX: Neural Energy Is Not Cognitive Coherence — Metabolic Support, Functional Capacity, and the Cost of Embodied Cognition
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Extension  
