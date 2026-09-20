@@ -49,8 +49,18 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Neuroscience — Zenetist Canon  
 **Status:** Draft — architect review  
 **Subtitle:** Physical Interface, Stabilization, Distortion, and Restoration  
-**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `MP08-symbol-key-ch21.md` §21.9 · `SP11-embodiment-dynamics.md` §§2, 7.1 · `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 7, 9–10, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2  
+**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `MP08-symbol-key-ch21.md` §21.9 · `SP11-embodiment-dynamics.md` §§2, 7.1 · `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 7, 9–10, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§2–3, 6.7  
 **Companion:** `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  
+
+---
+
+## Register Note
+
+The preceding live Structural Neuroscience volumes, SN02–SN11, were written primarily in the canonical / metaphysical register. SN12 intentionally leads with the **Analytic Register** for physical and neuroscientific articulation. Canonical names, Soul / Mind distinctions, sacred identities, and originating functions remain intact. The register changes; the underlying Zenetist architecture remains the same.
+
+The `zenetist-analytic-vocabulary-and-accessibility-framework.md` supplies adopted analytic descriptors that provide disciplinary legibility while preserving canonical identity. A concept lacking an adopted analytic descriptor retains its canonical name with an explicit local definition. The earlier Structural Neuroscience volumes retain their existing text, filenames, terminology, and registered notation.
+
+Canonical / analytic translation and physical / neuroscientific realization are distinct operations. Translation preserves conceptual identity across language registers. A physical realization specifies how a process is articulated through physical variables, constituent interactions, boundary conditions, and observable relations at the declared scale. Its account identifies the originating functions represented and the scope of that representation. An analytic descriptor identifies a concept across registers; a proposed neural realization requires the physical relations through which its selected functions are expressed.
 
 ---
 

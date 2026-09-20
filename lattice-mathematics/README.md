@@ -21,7 +21,7 @@ It is not metaphorical mathematics. It is a structured symbolic system with defi
 
 ## Foundational Documents
 
-The Lattice Mathematics series consists of seven volumes:
+The Lattice Mathematics series consists of eight volumes:
 
 | File | Volume |
 |------|--------|
@@ -32,6 +32,7 @@ The Lattice Mathematics series consists of seven volumes:
 | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` | Document 5 |
 | `LM06-applied-structural-dynamics.md` | Document 6 |
 | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` | Document 7 |
+| `LM08-cross-disciplinary-dynamics-and-domain-realization.md` | Document 8 |
 
 ### LM01 — Mathematical Foundations
 
@@ -136,6 +137,12 @@ Formalizes:
 - The Collective Cost Shelter theorem
 
 LM07 carries the collective and recovery mathematics that SN05–SN07 apply.
+
+---
+
+### LM08 — Cross-disciplinary Dynamics and Domain Realization
+
+Develops a mathematical grammar for expressing Zenetist dynamics across disciplines through specified constituents, interactions, observations, and domain variables. Distinguishes canonical / analytic translation from domain realization and examines the information retained by a selected description, its predictive continuation, and physical capacity relations.
 
 ---
 
@@ -321,6 +328,7 @@ Zenetist documents follow a structural lexicon that avoids moralized binaries an
 - `LM05-*` — Resonance field theory, membrane operators, and collective dynamics
 - `LM06-*` — Applied structural dynamics and diagnostic formalism
 - `LM07-*` — Collective dynamics, recovery formalism, and the Khaonic expression ratio
+- `LM08-*` — Cross-disciplinary dynamics and domain realization
 - `README.md` — Discipline overview and architectural summary
 
 ---
@@ -347,7 +355,7 @@ If referencing this discipline, cite the work as *Lattice Mathematics: The Forma
 
 ## Status
 
-The seven volumes are Active and citable as current, and remain open to revision.
+The eight volumes are Active and citable as current, and remain open to revision.
 
 Core operator algebra and invariants are stable. LM03–LM07 carry the full formalization of the Structural Physics series (SP02–SP12); LM07 additionally carries the formalization of Structural Neuroscience SN05–SN07.
 
