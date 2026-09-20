@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics Extension — Orientation, Order, and Entropy Reduction  
 **Status:** Active  
-**Dependency:** `MP08-symbol-key-ch21.md` §§21.6, 21.13 · `MP02-unified-metaphysics-ch4.md` *Note on Essence-as-Choice* · `entropic-action-is-not-entropic-essence.md` · `centropic-affliction-contra-entropic-collapse.md` · `spirit-soul-and-apparent-stillness.md` · `love-as-prime-coherence.md` · `SP06-structural-space-orientation-paradox.md` §1.2 · `SP03-expression-ratio-mathematics.md` · `SP11-embodiment-dynamics.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §7.1 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `when-coordination-is-not-coherence.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
+**Dependency:** `MP08-symbol-key-ch21.md` §§21.6, 21.13 · `MP02-unified-metaphysics-ch4.md` *Note on Essence-as-Choice* · `entropic-action-is-not-entropic-essence.md` · `centropic-affliction-contra-entropic-collapse.md` · `spirit-soul-and-apparent-stillness.md` · `love-as-prime-coherence.md` · `SP06-structural-space-orientation-paradox.md` §1.2 · `SP03-expression-ratio-mathematics.md` · `SP11-embodiment-dynamics.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §7.1 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `when-coordination-is-not-coherence.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md` · `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–2, 8–9 · `neural-synchrony-is-not-structural-coherence.md` §§2, 6 · `dynamic-stabilization-under-nonequilibrium-conditions.md`  
 
 ---
 
@@ -162,6 +162,18 @@ The mathematical result developed in this SPX rests on the independently valid f
 ### Consciousness-Entropy Frameworks
 
 Campbell's MBT entropy extends information-system language into consciousness quality, organization, and ethical development. Its active domain is his consciousness metaphysics. It is distinct from thermodynamic entropy, Shannon entropy, CIT entropy, and Zenetist entropy. The comparison developed later examines its relational content and the information a scalar representation would need to preserve. [E5–E7]
+
+---
+
+## Physical Preservation and Embodied Function
+
+**Low entropy is not centropy, but non-identity does not imply physical irrelevance.** At L₁ / IL₁, preservation of organized molecular, cellular, tissue, and systemic structure can materially support continued embodied function. Physical degradation can impair the structures through which that function is expressed. Essential orientation and the material conditions of embodiment remain distinct and consequential.
+
+In the brain, deterioration of neural tissue can distort or fracture embodied cognitive expression and restrict operative access. Within the Zenetist architecture, this impairment concerns the embodied relation without implying destruction of non-physical Mind or of the Soul / Mind architecture. `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–2, 8–9 develops the distinction among tissue condition, access, expression, and essential continuity.
+
+Thermodynamic entropy describes a specified physical state; entropy production records irreversible entropy generation within a stated process and boundary. Information-theoretic entropy quantifies uncertainty in a specified distribution or process; a signal-entropy estimate depends on the recording and estimator. Variability describes variation across observations, while complexity measures characterize specified aspects of organization or temporal structure. Physical tissue degradation concerns material deterioration. Their relationships require assessment of the preparation, physical scale, measurement conditions, and affected function. The physiological significance of a neural entropy increase or decrease therefore depends on that specified relation, as the measurement distinctions in `neural-synchrony-is-not-structural-coherence.md` §§2, 6 make clear.
+
+Living systems can maintain organized low-entropy structure through ongoing material and energy exchange while producing thermodynamic entropy. The physical boundary and comparison conditions specify the low-entropy description; outward entropy exchange can offset positive internal production. `dynamic-stabilization-under-nonequilibrium-conditions.md` develops the distinction between maintained organization and continuing throughput. Positive entropy production can accompany preservation of embodied function; it is not identical with entropic orientation.
 
 ---
 
