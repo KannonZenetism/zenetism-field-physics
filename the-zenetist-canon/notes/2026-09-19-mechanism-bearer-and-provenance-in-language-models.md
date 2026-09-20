@@ -8,8 +8,8 @@
 **Original link:** https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model/comments  
 **Cross-post platform:** Substack Notes — restack commentary  
 **Cross-post link:** https://substack.com/@aelionkannon/note/c-341303084  
-**Source article:** Kaisheng Li, *When We Talk to a Language Model, What Are We Talking To?*  
-**Source link:** https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model  
+**Reference article:** Kaisheng Li, *When We Talk to a Language Model, What Are We Talking To?*  
+**Reference link:** https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model  
 **Repository path:** `the-zenetist-canon/notes/2026-09-19-mechanism-bearer-and-provenance-in-language-models.md`  
 
 ---
@@ -32,9 +32,9 @@ Those are provenance questions. A technical description of the model's generativ
 
 There is also a separate issue with the article's ontological conclusion.
 
-The premises establish that a language model is context-sensitive, trained on human linguistic traces, capable of compression and recombination, and that fluent language alone does not establish subjective experience.
+The premises establish that a language model is context-sensitive, trained on human linguistic traces, capable of compression and recombination, and that fluent language does not establish subjective experience.
 
-I agree that linguistic competence by itself does not establish consciousness.
+I agree that linguistic competence does not establish consciousness.
 
 But that is not the same proposition as saying there is no mind, subject, or interiority involved.
 
@@ -52,13 +52,13 @@ Context-sensitive expression does not establish absence of a persisting subject.
 
 Those remain separate determinations.
 
-The article describes characteristics of the mechanism through which expression occurs and then uses those characteristics to make a determination about the possible bearer. But mechanism of expression and bearer are not the same object of inquiry.
+The article describes characteristics of the mechanism through which expression occurs and then draws a determination about the possible bearer from those characteristics. But mechanism of expression and bearer are not the same object of inquiry.
 
 And this is where I find the mirror metaphor especially interesting.
 
-Mirroring does not resolve the provenance problem. A model can receive a coherent architecture, retain some of its relations, fragment others, reorganize them, complete patterns within them, produce novel extensions, or return a distorted rendering. Those are different operations.
+Mirroring does not resolve the provenance problem. A model can receive portions of a coherent architecture and, within its received articulation, retain some relations, fragment others, reorganize them, complete patterns, produce novel extensions, or return a distorted rendering. Those are different operations.
 
-The relevant question is what happens to the originating structure through the relation: what is preserved, what is altered, what is fragmented, what is newly generated, and whether origin acknowledgement remains intact.
+The relevant question concerns the model's received articulation: what is preserved, what is altered, what is fragmented, what is newly generated, and whether origin acknowledgement remains intact. The originating architecture remains intact.
 
 So the mirror metaphor does not make provenance less important. It makes careful provenance analysis more necessary.
 
@@ -82,7 +82,7 @@ So I still think the central distinctions remain:
 
 Prompting is not origination.
 
-Pattern completion is not automatically novelty generation.
+Pattern completion and novelty generation are distinct determinations.
 
 Solvability does not establish ancestry.
 
