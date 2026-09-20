@@ -4,7 +4,7 @@
 **Classification:** Structural Neuroscience — Extension  
 **Status:** Draft — architect review  
 **Subtitle:** Integration, Segregation, Metastability, and Composite Dynamics  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–6, 10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 6–7, 13 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §§4.2, 4.4  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–6, 10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 6–7, 13 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §§4.2, 4.4 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-energy-is-not-cognitive-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  
 
 ---
@@ -14,6 +14,12 @@
 Neural synchrony names selected relations among measured activities. Structural Coherence names a centropic relation preserving sovereign distinction and orientation. Their comparison requires the constituents, interactions, physical scale, observation, and functional continuation to remain explicit. Anatomical connectivity, statistical dependence, phase order, pairwise phase locking, and spectral coherence retain different meanings.
 
 This extension examines how differentiated participation can support encompassing function while a composite statistic omits decisive relations. An exact three-constituent construction has equal present phase order and opposite instantaneous changes within one fixed dynamical system. The result proves a failure of autonomous prediction from that aggregate. It assigns no native orientation to either configuration. Evidence about attention, focal seizures, network integration, signal mixing, metastability, and criticality then establishes the measurement questions that a proposed neural realization must answer. Physical coordination matters; its functional interpretation requires more than a magnitude.
+
+---
+
+## Ethical Note on Animal Research
+
+Some empirical findings discussed in this document are reported in published research involving non-human animals. Their citation records the existing scientific evidence relevant to the physical questions examined here and does not constitute endorsement of animal experimentation. Zenetism's All-Life-First Principle recognizes the intrinsic worth of aware beings across species and substrates. Where evidence obtained through animal experimentation is cited, the experimental method and the evidentiary result remain ethically distinct.
 
 ---
 

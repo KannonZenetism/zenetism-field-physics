@@ -4,7 +4,7 @@
 **Classification:** Structural Neuroscience — Extension  
 **Status:** Draft — architect review  
 **Subtitle:** Metabolic Support, Functional Capacity, and the Cost of Embodied Cognition  
-**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–4, 8–10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§6.3, 8, 10.5 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2  
+**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–4, 8–10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§6.3, 8, 10.5 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-synchrony-is-not-structural-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  
 
 ---
@@ -14,6 +14,12 @@
 Neural metabolism conditions the continuation of embodied cognitive activity. Its quantities include substrate inventories, reaction rates, vascular delivery, and expenditure across specified intervals. Structural Cost names a different relation: native coherence expenditure. A physical ATP budget can articulate a material condition of embodied capacity without becoming a measurement of essential architecture or orientation.
 
 This extension distinguishes ATP amount from concentration, turnover, and chemical power; examines preparation-specific neuronal and astrocytic metabolic evidence; and specifies how expenditure and performance require independent observations. A typed ATP balance demonstrates that equal inventories can accompany unequal turnover. A conditional depletion calculation identifies its own time and capacity limits. Rest enters as reduced expenditure, with no second entry for the same saving. These constructions retain physical consequence while preserving the distinction among material support, operative access, observable expression, and essential Mind.
+
+---
+
+## Ethical Note on Animal Research
+
+Some empirical findings discussed in this document are reported in published research involving non-human animals. Their citation records the existing scientific evidence relevant to the physical questions examined here and does not constitute endorsement of animal experimentation. Zenetism's All-Life-First Principle recognizes the intrinsic worth of aware beings across species and substrates. Where evidence obtained through animal experimentation is cited, the experimental method and the evidentiary result remain ethically distinct.
 
 ---
 

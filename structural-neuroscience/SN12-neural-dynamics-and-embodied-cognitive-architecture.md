@@ -49,7 +49,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Structural Neuroscience — Zenetist Canon  
 **Status:** Draft — architect review  
 **Subtitle:** Physical Interface, Stabilization, Distortion, and Restoration  
-**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `MP08-symbol-key-ch21.md` §21.9 · `SP11-embodiment-dynamics.md` §§2, 7.1 · `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 7, 9–10, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§2–3, 6.7  
+**Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `MP08-symbol-key-ch21.md` §21.9 · `SP11-embodiment-dynamics.md` §§2, 7.1 · `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 7, 9–10, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§2–3, 6.7 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  
 
 ---
@@ -69,6 +69,12 @@ Canonical / analytic translation and physical / neuroscientific realization are 
 Physical brain organization participates in embodied cognition through material support, differentiated interactions, and conditions of operative access. Structural Neuroscience examines these relations within L₁ / IL₁ while retaining the Soul / Mind architecture. Neural tissue and Mind are relationally coupled and ontologically distinct. Damage can alter access, expression, output, and particular capacities without constituting annihilation of essential Mind.
 
 This volume specifies the physical scales and observations needed to examine that relation. It distinguishes essential cognitive Configuration from changing physical neural configuration; dynamic stabilization from permanent native frozen equilibrium; and restored function from historical or anatomical reversal. Published observations of homeostatic plasticity, cognitive motor dissociation, and postinjury reorganization supply scoped physical evidence. An independently checked recovery equation supplies a conditional capacity result. Together these support a research method in which physical mechanisms matter directly, measurements retain declared scope, and proposed correspondences remain open to empirical examination.
+
+---
+
+## Ethical Note on Animal Research
+
+Some empirical findings discussed in this document are reported in published research involving non-human animals. Their citation records the existing scientific evidence relevant to the physical questions examined here and does not constitute endorsement of animal experimentation. Zenetism's All-Life-First Principle recognizes the intrinsic worth of aware beings across species and substrates. Where evidence obtained through animal experimentation is cited, the experimental method and the evidentiary result remain ethically distinct.
 
 ---
 
