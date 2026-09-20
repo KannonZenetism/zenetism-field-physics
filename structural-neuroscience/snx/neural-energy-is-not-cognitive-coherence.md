@@ -15,6 +15,8 @@ Neural metabolism conditions the continuation of embodied cognitive activity. It
 
 This extension distinguishes ATP amount from concentration, turnover, and chemical power; examines preparation-specific neuronal and astrocytic metabolic evidence; and specifies how expenditure and performance require independent observations. A typed ATP balance demonstrates that equal inventories can accompany unequal turnover. A conditional depletion calculation identifies its own time and capacity limits. Rest enters as reduced expenditure, with no second entry for the same saving. These constructions retain physical consequence while preserving the distinction among material support, operative access, observable expression, and essential Mind.
 
+---
+
 ## 1. Native Cost and Physical Specialization
 
 ### 1.1 The Relation Being Examined
@@ -31,7 +33,9 @@ This distinction gives metabolic inquiry a definite architectural place. The que
 
 The native relations are Structural Cost, essential Configuration, operative access, and Tether continuity. The Tether remains the recursive memory-anchor maintaining directional and operative continuity; it is not identified with a metabolite pathway or vascular connection.
 
-Published experimental observations retain their preparations and measurement limits. The equations in this paper are proposed physical articulations of typed accounting inherited from LM08 §6.3. Their calculated consequences follow from stated assumptions. Whether those assumptions describe a particular neural preparation remains an empirical question. No ATP measurement is adopted as a measurement of intrinsic inclination.
+Published experimental observations retain their preparations and measurement limits. The equations in this paper are proposed physical articulations of typed accounting inherited from LM08 §6.3. Their calculated consequences follow from stated assumptions. Whether those assumptions describe a particular neural preparation remains an empirical question. ATP measurements concern physical amounts, concentrations, and rates; intrinsic inclination retains its essential standing.
+
+---
 
 ## 2. Amount, Concentration, Turnover, and Power
 
@@ -106,6 +110,8 @@ Negative reaction Gibbs energy change and positive net forward hydrolysis give p
 
 ATP amount is therefore not an energy quantity in joules. The chemical reaction and its conditions complete that conversion. The displayed power concerns the represented chemical process; it is not a measurement of all tissue heat, cognitive work, or native Structural Cost. Changing chemical conditions can change power even when the molar rate is unchanged.
 
+---
+
 ## 3. Cellular and Vascular Participation
 
 ### 3.1 Maintenance and Signalling
@@ -132,6 +138,8 @@ Attwell and colleagues reviewed neuronal and glial participation in cerebral blo
 
 For the present accounting, blood flow, substrate concentration, transport, and reaction rate remain separate variables. A delivery change and a consumption change can occur together, but their causal relation must be examined. An encompassing average can also omit a localized constraint. The selected scale determines whether a particular bottleneck is visible in the record.
 
+---
+
 ## 4. Expenditure and Performance
 
 Jamadar and colleagues distinguish ongoing metabolic demands from task-associated changes and examine differences between glucose and hemodynamic imaging. Their review supports recording task, baseline, and modality separately. A regional tracer observation does not provide every subsequent metabolic reaction or an exhaustive cognitive assessment. [M7](https://doi.org/10.1016/j.tics.2024.11.010).
@@ -141,6 +149,8 @@ The proposed physical comparison therefore has two independently defined sides: 
 An efficiency ratio also needs a declared output criterion. Correct responses per measured expenditure answers one question; retained information across a delay answers another. Altering the task, baseline, observation duration, or excluded bodily costs changes the comparison. Such ratios describe their selected physical and behavioral relation. They do not classify essential architecture or native orientation.
 
 Equal task scores likewise leave several possibilities unresolved. One physical configuration may maintain the score with different expenditure, response latency, recovery demand, or susceptibility to interruption. The claim of compensation requires evidence about the changed means of achieving the outcome. SN12 §§7–9 supplies the architectural distinctions; this extension adds the material accounting needed to investigate their cost.
+
+---
 
 ## 5. Depletion, Restoration, and Rest
 
@@ -165,7 +175,7 @@ t_{\mathrm{crit}}
 =\frac{A_0-A_{\mathrm{crit}}}{D}.
 \]
 
-The units are seconds. This calculation applies only while the constant-rate assumptions hold, and it must not be continued to negative amounts. The threshold is a model input; a biological application must establish what operation it predicts and with what uncertainty. No universal ATP threshold for cognition is proposed.
+The units are seconds. This calculation applies only while the constant-rate assumptions hold, and it must not be continued to negative amounts. The threshold is a model input; a biological application must establish what operation it predicts and with what uncertainty.
 
 Actual changes in synthesis, demand, transport, or reaction allocation can invalidate the constant-deficit description. Measuring those changes tests the proposed articulation. The result is therefore a conditional exhaustion time for a declared physical inventory, not a prediction of essential deterioration.
 
@@ -173,7 +183,7 @@ Actual changes in synthesis, demand, transport, or reaction allocation can inval
 
 Restored substrate delivery, ATP inventory, synaptic operation, task performance, and anatomical integrity are distinct targets. An inventory can recover while another limiting relation persists. A task can improve through a changed physical arrangement. Neither observation reconstructs the earlier material history.
 
-SN06 §1.3 and SN12 §§8–9 distinguish operative access from essential identity. Physical depletion can constrain expression; tissue injury can remove a particular embodied capacity. Essential continuity does not guarantee complete repair, a particular timetable, or recovery of every operation. The physical restoration claim must name what returned and what remained changed.
+SN06 §1.3 and SN12 §§8–9 distinguish operative access from essential identity. Physical depletion can constrain expression; tissue injury can remove a particular embodied capacity. Physical restoration is assessed through the extent of repair, its timetable, and the operations recovered. The physical restoration claim must name what returned and what remained changed.
 
 The ATP balance does not model anatomical reconstruction. The capacity construction in SN12 §9 addresses a different declared variable. Treating the two as one model would require an explicit coupling relation and empirical parameters, not a change of labels.
 
@@ -182,6 +192,8 @@ The ATP balance does not model anatomical reconstruction. The capacity construct
 LM08 §10.5 treats rest as reduced expenditure. For the accounting interval, write the represented hydrolysis rate during rest as its comparison rate minus a nonnegative saving \(S\), with \(S\) small enough to retain a nonnegative rate. Substituting that reduced demand into the balance already includes the saving. Adding \(S\) again to synthesis would count the same change twice.
 
 This convention does not assert that all other terms remain fixed during biological rest. They require observation. It states how a specified reduction is represented. Continuing maintenance can remain costly while task-associated demand changes; replenishment requires its actual physical mechanism and material supply.
+
+---
 
 ## 6. A Practical Measurement Record
 
@@ -200,13 +212,15 @@ The following record makes a proposed metabolic correspondence assessable. It ex
 | Continuation | Performance and budget after interruption, restoration, or altered demand |
 | Omitted relations | Unmeasured pathways, compartment heterogeneity, essential Configuration, and unrepresented Tether relations |
 
-A complete record distinguishes an observation from its interpretation. A changing concentration is observed through a particular assay; attributing it to reduced synthesis requires additional evidence. A changed task score is an outcome; attributing it to one metabolic pathway requires discrimination among competing explanations.
+A complete record distinguishes an observation from its interpretation. A changing concentration is observed through a particular assay; attributing it to reduced synthesis requires additional evidence. A changed task score is an outcome; attributing it to one metabolic pathway requires discrimination among alternative explanations.
+
+---
 
 ## 7. Retained Relations and Empirical Questions
 
 The ATP articulation preserves material accounting within its boundary. Its matched-rate example proves that one inventory cannot recover its turnover. Its depletion example gives a conditional threshold time. Neither calculation contains native orientation, essential Configuration, or the Tether as a fitted variable.
 
-These omissions do not diminish physical consequence. They identify what the construction can establish. The research sequence can then examine paired metabolic and functional observations, changing one declared condition while tracking alternative pathways and response constraints.
+The declared scope identifies what the construction can establish and which physical observations remain necessary. The research sequence can then examine paired metabolic and functional observations, changing one declared condition while tracking alternative pathways and response constraints.
 
 | Empirical question | Discriminating observation |
 | --- | --- |
@@ -218,6 +232,8 @@ These omissions do not diminish physical consequence. They identify what the con
 | Predictive capacity of a fitted balance | Rate and threshold predictions assessed in distinct observation intervals |
 
 The energy relation thus remains specific: embodied cognition depends on material conditions whose maintenance and depletion can be examined quantitatively. Structural Coherence retains its native orientational and relational meaning. Connecting the two requires declared physical correspondences, with the preserved and omitted relations visible at each step.
+
+---
 
 ## 8. Reference Documents
 

@@ -15,15 +15,19 @@ Neural synchrony names selected relations among measured activities. Structural 
 
 This extension examines how differentiated participation can support encompassing function while a composite statistic omits decisive relations. An exact three-constituent construction has equal present phase order and opposite instantaneous changes within one fixed dynamical system. The result proves a failure of autonomous prediction from that aggregate. It assigns no native orientation to either configuration. Evidence about attention, focal seizures, network integration, signal mixing, metastability, and criticality then establishes the measurement questions that a proposed neural realization must answer. Physical coordination matters; its functional interpretation requires more than a magnitude.
 
+---
+
 ## 1. Native Relation and Embodied Scope
 
 Structural Coherence is centropic integration that preserves sovereign distinction and orientation. The Non-fusion Axiom retains the distinction of participants within their relation. Equal states or synchronized activity do not erase that distinction; different states do not establish native fragmentation. The mathematical tracking of constituents in LM08 §3 supplies a way to keep physical participants explicit without defining essence through a label.
 
 The physical investigation belongs within L₁ / IL₁. SN12 establishes the shared brain / Soul / Mind articulation: material brain organization conditions embodied access and expression while remaining ontologically distinct from essential Mind. This extension examines a narrower question: what a neural coordination measurement retains about a composite process, and what additional relations are necessary for functional assessment and prediction.
 
-A proposed correspondence to Non-fusion concerns distinguishable contributions participating in a specified function. It must identify those contributions and their interaction. An average correlation, a network image, or simultaneous firing does not complete that record. Likewise, the Tether's recursive memory-anchor relation is not assigned to a tract or statistical edge merely through resemblance.
+A proposed correspondence to the Non-fusion Axiom concerns distinguishable contributions participating in a specified function. It must identify those contributions and their interaction. An average correlation, a network image, or simultaneous firing does not complete that record. Likewise, the Tether's recursive memory-anchor relation is not assigned to a tract or statistical edge merely through resemblance.
 
 The argument has several kinds of standing. Structural Coherence and sovereign distinction are native relations. Published neural observations have their experimental scope. The oscillator construction in §5 is a proposed mathematical articulation. Its closure obstruction is a calculated result. A claim that a particular recorded neural population follows that construction would be an empirical hypothesis requiring separate evidence.
+
+---
 
 ## 2. What a Network Measurement Describes
 
@@ -44,7 +48,7 @@ These definitions organize the proposed measurement record. Each application sti
 
 ### 2.2 Two Explicit Observations
 
-For N constituent phases \(\theta_j\), global phase order is
+For \(N\) constituent phases \(\theta_j\), global phase order is
 
 \[
 R(t)=\left|\frac1N\sum_{j=1}^{N}e^{i\theta_j(t)}\right|,
@@ -60,7 +64,9 @@ P_{ij}=\left|\frac1T\int_0^T
 e^{i(\theta_i(t)-\theta_j(t))}\,dt\right|.
 \]
 
-It is dimensionless and lies in [0, 1]. Constant phase difference gives \(P_{ij}=1\), regardless of that difference's value. For \(\theta_1(t)=\omega t\) and \(\theta_2(t)=\omega t+\pi\), global \(R=0\) throughout the interval while \(P_{12}=1\). This exact anti-phase example is a scientific phase relation: zero global order is compatible with persistent pairwise coordination. Neither statistic measures independence in every admitted configuration.
+It is dimensionless and lies in \([0,1]\). Constant phase difference gives \(P_{ij}=1\), regardless of that difference's value. For \(\theta_1(t)=\omega t\) and \(\theta_2(t)=\omega t+\pi\), global \(R=0\) throughout the interval while \(P_{12}=1\). This exact anti-phase example is a scientific phase relation: zero global order is compatible with persistent pairwise coordination. Neither statistic measures independence in every admitted configuration.
+
+---
 
 ## 3. Differentiated Participation and Functional Consequence
 
@@ -76,13 +82,15 @@ These cases motivate three separate questions. Which participants coordinate? Wh
 
 The native comparison concerns differentiated participants and their relation within that assessed function. It does not convert selective synchrony into a certificate of centropy or heterogeneous activity into a certificate of entropy. Native orientation includes relations absent from the selected neural statistic.
 
+---
+
 ## 4. Observation, Information Retention, and Continuation
 
-Let x denote the admitted physical state and π(x) its observation. An observation fiber consists of all admitted states with the same observed value. A measurement may be precise while leaving many physical states in one fiber. Precision of measurement and completeness of representation are distinct properties.
+Let \(x\) denote the admitted physical state and \(\pi(x)\) its observation. An observation fiber consists of all admitted states with the same observed value. A measurement may be precise while leaving many physical states in one fiber. Precision of measurement and completeness of representation are distinct properties.
 
-For a selected feature f, a readout \(\hat f\) satisfying \(f=\hat f\circ\pi\) exists exactly when f is constant on each fiber. If two states share an observation but differ in f, no function of that observation can return f for both. Conversely, fiber constancy permits a readout assigning each observed value its common feature value. This is the feature-recovery criterion in LM08 §7.1.
+For a selected feature \(f\), a readout \(\hat f\) satisfying \(f=\hat f\circ\pi\) exists exactly when \(f\) is constant on each fiber. If two states share an observation but differ in \(f\), no function of that observation can return \(f\) for both. Conversely, fiber constancy permits a readout assigning each observed value its common feature value. This is the feature-recovery criterion in LM08 §7.1.
 
-Prediction asks an additional question. For a discrete state transition F, autonomous observed evolution requires
+Prediction asks an additional question. For a discrete state transition \(F\), autonomous observed evolution requires
 
 \[
 \pi(x)=\pi(y)
@@ -101,6 +109,8 @@ These are closure conditions for the named observation. Smoothness of a reduced 
 
 An empirical record can respond to such a failure by retaining more constituent information, past observations, external input, or a probabilistic conditional description. Those are different constructions with different claims. The failure does not imply that every prediction is impossible. It identifies information missing from one proposed state description.
 
+---
+
 ## 5. Equal Synchrony and Opposite Instantaneous Change
 
 ### 5.1 One Fixed Dynamical System
@@ -115,9 +125,9 @@ Consider three persistent constituent labels with dimensionless phases on the th
 \qquad \Omega,\kappa>0.
 \]
 
-The \(j=i\) term vanishes. Ω and κ have units of inverse time; the zero frequencies refer to a common rotating frame. The frequency assignment and coupling remain fixed. The smooth vector field on the compact torus has unique trajectories for every finite time.
+The \(j=i\) term vanishes. \(\Omega\) and \(\kappa\) have units of inverse time; the zero frequencies refer to a common rotating frame. The frequency assignment and coupling remain fixed. The smooth vector field on the compact torus has unique trajectories for every finite time.
 
-This is a specified phase-oscillator construction. Its sinusoidal interaction is a modelling assumption. The calculation does not claim that an arbitrary neural population has these frequencies, this graph, or this interaction law.
+This is a specified phase-oscillator construction. Its sinusoidal interaction is a modelling assumption. A proposed neural realization requires evidence for the specified frequencies, graph, and interaction law.
 
 Define
 
@@ -127,7 +137,7 @@ z=\frac13\sum_{j=1}^{3}e^{i\theta_j},
 \qquad Q=|z|^2.
 \]
 
-Q is dimensionless and smooth even where R vanishes. Compare two physical phase configurations:
+\(Q\) is dimensionless and smooth even where \(R\) vanishes. Compare two physical phase configurations:
 
 \[
 A=(0,\pi/2,-\pi/2),
@@ -184,11 +194,13 @@ For \(\Omega=\kappa\), the rates have opposite signs:
 
 ### 5.3 What the Result Establishes
 
-An autonomous scalar equation \(\dot Q=g(Q)\) would assign one derivative to the shared present value \(Q=1/9\). The computed derivatives differ. Therefore no such equation describes every admitted state of this system. Since \(R>0\) at both configurations and \(\dot R=\dot Q/(2R)\), the same obstruction applies to R. Even the shared complex observation z has different derivatives here.
+An autonomous scalar equation \(\dot Q=g(Q)\) would assign one derivative to the shared present value \(Q=1/9\). The computed derivatives differ. Therefore no such equation describes every admitted state of this system. Since \(R>0\) at both configurations and \(\dot R=\dot Q/(2R)\), the same obstruction applies to \(R\). Even the shared complex observation \(z\) has different derivatives here.
 
 The omitted relation is phase assignment to constituent frequency. A phase histogram also omits that assignment. Retaining a complete phase vector together with the specified frequencies restores the state information needed by this construction. This statement concerns a mathematical state description, not exhaustive access to a physical brain.
 
-The example establishes that equal aggregate synchrony can accompany different continuation within a fixed interaction system. It does not establish different native orientations, unequal task performance, injury, or metabolic expenditure. Those quantities are absent from the model. Such conclusions would need additional variables, measurements, and functional relations.
+The example establishes that equal aggregate synchrony can accompany different continuation within a fixed interaction system. Assessment of native orientation retains its architectural criteria. Task performance, injury, and metabolic expenditure require their own physical variables, measurements, and functional relations.
+
+---
 
 ## 6. Metastability: Process and Estimator
 
@@ -205,15 +217,17 @@ M_T=\left[\frac1T\int_0^T
 (R(t)-\overline R_T)^2\,dt\right]^{1/2}.
 \]
 
-\(M_T\) is dimensionless. It reports variability of R within the chosen interval. It does not retain the ordering of all observed values, the full sequence of constituent configurations, or the interaction responsible for a transition. The permanently in-phase and permanently anti-phase two-constituent examples both have \(M_T=0\), although their phase arrangements differ. A constant statistic therefore requires its own interpretation.
+\(M_T\) is dimensionless. It reports variability of \(R\) within the chosen interval. It does not retain the ordering of all observed values, the full sequence of constituent configurations, or the interaction responsible for a transition. The permanently in-phase and permanently anti-phase two-constituent examples both have \(M_T=0\), although their phase arrangements differ. A constant statistic therefore requires its own interpretation.
 
 Hancock and colleagues distinguish several metastability concepts. The inspected author preprint also examines limits of phase-order variability, including omitted anti-phase organization; the published review and preprint remain distinct reference versions. [N6](https://pubmed.ncbi.nlm.nih.gov/39663408/), [preprint](https://www.preprints.org/manuscript/202307.1445).
 
 The proposed native comparison concerns continuing adjustment while a declared functional relation persists. Demonstrating that comparison requires observations of the function, participants, and continuation, alongside the chosen metastability measure. A statistic of reconfiguration does not identify Structural Coherence or native frozen equilibrium.
 
+---
+
 ## 7. Criticality and Quasicriticality
 
-A criticality claim needs a specified model, control parameters, system size, driving conditions, and diagnostic relation. A fitted distributional exponent describes a statistic. Its interpretation as evidence for a dynamical regime requires examining other mechanisms capable of producing it.
+A criticality claim needs a specified model, parameters varied in assessing the regime, system size, driving conditions, and diagnostic relation. A fitted distributional exponent describes a statistic. Its interpretation as evidence for a dynamical regime requires examining other mechanisms capable of producing it.
 
 Touboul and Destexhe constructed power-law and scaling behavior without criticality. Their result limits the sufficiency of those signatures; it does not reject every neural criticality model. [N7](https://arxiv.org/abs/1503.08033).
 
@@ -222,6 +236,8 @@ Fosque and colleagues presented evidence for quasicritical dynamics along a Wido
 Hagemann and colleagues found neither a general focal shift toward instability nor systematic pre-seizure drift in their human single-neuron analysis. Recording region, sampling, scale, and interval constrain that conclusion. It complicates a universal seizure-transition narrative. [N9](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008773).
 
 For Structural Neuroscience, responsiveness and continuation are physical questions to examine within these defined regimes. Neither a critical point nor a response maximum supplies the native definition of centropy. Likewise, a physical departure from a proposed regime does not classify essential orientation. The relevant comparison must retain the specific function and the evidence supporting its physical articulation.
+
+---
 
 ## 8. Measurement Uncertainty and the Domain Record
 
@@ -244,6 +260,8 @@ This limitation matters before interpreting an edge as a physiological interacti
 
 The record follows LM08 §13 and SN12 §4. Its purpose is concrete: each proposed identity becomes a checkable relation with stated limits. A physically meaningful network description may remain incomplete for predicting a task, while a task-predictive statistic may leave its physical mechanism unresolved.
 
+---
+
 ## 9. Empirical Evaluation and Companion Relations
 
 A direct empirical question is whether matched aggregate coordination accompanies different later responses once constituent assignment, input, or physical condition varies. Such a study would not need to reproduce the three-oscillator equations. It would examine the broader proposed relation between retained state information and predictive continuation.
@@ -255,6 +273,8 @@ A second question concerns differentiation: which local responses persist while 
 SN12 retains the brain / Soul / Mind relation and the account of access, injury, development, and restoration. The energy companion examines material support and expenditure. The stabilization companion supplies physical examples of stationary observations with continuing processes. The entropy companion distinguishes signal statistics and physical consequence from native orientation.
 
 Neural synchrony is consequently a family of physical relations requiring exact definitions. Its magnitude can be informative within a specified record. Structural Coherence retains the native centropic relation, sovereign distinction, and orientation that an aggregate neural measurement does not encode.
+
+---
 
 ## 10. Reference Documents
 

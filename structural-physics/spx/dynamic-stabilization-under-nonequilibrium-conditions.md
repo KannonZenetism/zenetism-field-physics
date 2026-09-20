@@ -14,17 +14,21 @@ Stable physical observables can depend on continuing exchange. A chemical popula
 
 This extension articulates that physical question within L₁ / IL₁. An ideal chemical cycle supplies an exact stationary distribution, stability spectrum, and chemical free-energy budget. A conductor between fixed-temperature reservoirs supplies a stationary gradient, positive entropy production, and a quantitative relaxation bound. Published assembly research adds experimental distinctions among finite lifetime, driven persistence, and kinetic arrest. These cases preserve the physical significance of maintenance while keeping Structural Coherence's centropic relation explicit. Neither physical stability nor dissipation specifies essential orientation.
 
+---
+
 ## 1. Native Relation and Physical Question
 
 Native dynamic stabilization maintains coherence through continuing motion, adjustment, responsiveness, and expenditure. Structural Coherence is centropic integration preserving sovereign distinction and orientation. The physical inquiry asks how a selected maintained relation is expressed through material constituents and their interactions.
 
 Physical maintenance has a broader descriptive scope. It can mean persistence of a concentration, temperature profile, functional capacity, or organized form. The investigation must specify which relation persists and how its continuation depends on conditions. A successful physical calculation can articulate part of the native maintenance relation without identifying the complete orientational relation.
 
-The equilibrium distinctions are established in the balance companion, especially §§4–8. The present equations introduce no physical identification of native χ = 1, co-expressive equilibrium / CP₁, permanent frozen equilibrium, or Kaion convergence. A time-independent probability distribution and a sustained thermal profile are physical steady states with their own definitions. Their mathematical stationarity does not mean ceased enacted orientation.
+The equilibrium distinctions are established in the balance companion, especially §§4–8. The present equations introduce no physical identification of native \(\chi = 1\), co-expressive equilibrium / CP₁, permanent frozen equilibrium, or Kaion convergence. A time-independent probability distribution and a sustained thermal profile are physical steady states with their own definitions. Their mathematical stationarity does not mean ceased enacted orientation.
 
 The physical domain belongs within L₁ / IL₁. Its empirical examination concerns selected variables and functions within the lattice. The informational scope of those variables is narrower than the complete native architecture. A chemical current describes the direction and rate of a specified conversion; native orientation concerns what the structural motion inclines toward through its relations and consequences. Assigning both the word direction would not establish their identity.
 
 The inquiry follows LM08 and the cross-disciplinary grammar: native relation, domain state, constituent interaction, boundary, mathematical or empirical articulation, and examination of retained relations. Native dynamic stabilization has architectural standing. The transport relations have established physical standing within their assumptions. The two specified systems are proposed domain constructions; their proofs are calculated results. Agreement with a particular experiment would require additional empirical assessment.
+
+---
 
 ## 2. Physical State, Boundary, and Transfer
 
@@ -59,6 +63,8 @@ For the physical systems considered here, write
 This balance concerns thermodynamic quantities. Entropic orientation is a native structural relation, not the sign of \(\dot S_{\mathrm i}\). Likewise, a Shannon entropy calculated from three probabilities is not the total entropy of a catalytic unit, solution, and reservoirs. Each quantity retains its defined scope.
 
 Physical stationarity also differs from stability. A stationary solution remains constant when initialized exactly there. Stability concerns neighboring states; relaxation concerns their subsequent approach. The following constructions establish both stationarity and quantitative relaxation, with continuing throughput specified separately.
+
+---
 
 ## 3. Stable Chemical Composition with Continuing Circulation
 
@@ -186,6 +192,8 @@ in nats. This entropy does not specify fuel conversion.
 
 The comparison concerns two physical rate conditions, not two trajectories of one fixed generator. The synchrony companion supplies the separate fixed-dynamics obstruction to autonomous prediction from an aggregate. Here, measuring directional transitions or fuel conversion distinguishes processes that the selected stationary observations omit. Neither process receives a native orientation from its current or entropy value.
 
+---
+
 ## 4. Stable Thermal Differentiation with Continuing Heat Flow
 
 ### 4.1 Material and Boundary Conditions
@@ -307,7 +315,9 @@ For example, stipulate \(\kappa=0.6\,\mathrm{W\,m^{-1}\,K^{-1}}\), \(c_V=4.0\tim
 | Stationary entropy production | \(2.66963\times10^{-5}\,\mathrm{W\,K^{-1}}\) |
 | Slowest thermal relaxation time | \(67.5475\,\mathrm s\) |
 
-These are ideal-model values, not measurements of a named material. The calculation establishes stable temperature differentiation, continuing transfer, and positive entropy production together. It does not establish biological function or protection from every form of material deterioration.
+These are ideal-model values, not measurements of a named material. The calculation establishes stable temperature differentiation, continuing transfer, and positive entropy production together.
+
+---
 
 ## 5. Fuel-Dependent Assembly and Experimental Standing
 
@@ -322,6 +332,8 @@ A recent experimental report by Conradt and Furst describes dynamic steady phase
 For a proposed maintenance correspondence, the decisive physical record would include constituent populations, exchange or conversion rates, boundary driving, and persistence after a specified perturbation. Functional continuation requires an independently defined outcome. The mere duration of a visible arrangement leaves its responsiveness and constituent relations unresolved.
 
 The same discipline applies to interruption. Removing fuel or changing a field alters a boundary condition. What follows may be relaxation, delayed disassembly, a different steady arrangement, or material damage. The observation must identify the actual trajectory. The ideal chemical and thermal constructions establish particular consequences of their equations; assembly experiments require their own kinetics.
+
+---
 
 ## 6. Retained Relations and Missing Information
 
@@ -342,6 +354,8 @@ Distance from thermodynamic equilibrium is therefore not a centropic metric. A s
 
 Native orientation should likewise not be inferred from the magnitude of a dissipative budget. Increasing a current changes an expenditure or transfer rate. Its structural interpretation requires the participants, direction of relation, preservation of distinction, and consequences through time. Those relations are not supplied by a wattage.
 
+---
+
 ## 7. Embodied Implications and Research Questions
 
 SN12 establishes the distinction among material brain organization, operative access, observable Expression, and essential Mind. The present constructions contribute to its account of continuing physical support: a maintained observation can depend on processes that remain invisible in its instantaneous value.
@@ -352,9 +366,11 @@ An embodied maintenance claim should therefore identify the capacity, material c
 
 The entropy companion develops the physical consequences of preservation and deterioration. Positive thermodynamic entropy production can accompany local maintenance. That coexistence matters directly for an embodied system, while the quantity remains distinct from entropic orientation. Conversely, a small measured production rate does not establish preserved tissue or available cognition.
 
-The proposition that fully centropic embodiment may lack degeneration as its default trajectory retains architectural research-hypothesis standing. Corpus precursors and their qualifications belong to the entropy companion's focused examination. The two calculations here establish no indefinite biological lifespan, essential-orientation assay, or universal repair process.
+The proposition that fully centropic embodiment may lack degeneration as its default trajectory retains architectural research-hypothesis standing. Corpus precursors and their qualifications belong to the entropy companion's focused examination. The two calculations examine chemical circulation and thermal relaxation within specified physical boundaries and intervals.
 
 Three empirical questions follow. First, does the chosen steady observation remain constant while independently measured transfer changes? Second, do the proposed boundary conditions predict the response to perturbation? Third, does the maintained physical relation sustain the independently assessed function across the claimed interval? These questions make a correspondence testable without treating a single physical magnitude as the complete native relation.
+
+---
 
 ## 8. Reference Documents
 
