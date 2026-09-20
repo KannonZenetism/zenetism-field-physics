@@ -2,10 +2,11 @@
 
 ## Research Direction Record
 
-**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon
-**Framework:** Zenetism
-**Classification:** Research Direction Record
-**Status:** Active research direction
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Framework:** Zenetism  
+**Classification:** Research Direction Record  
+**Status:** Active  
+**Dependency:** `LM08-cross-disciplinary-dynamics-and-domain-realization.md` · `low-entropy-is-not-centropy.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 
 ---
 
@@ -33,9 +34,9 @@ A related revision of `low-entropy-is-not-centropy.md` will develop the embodied
 
 The physical brain and the immaterial Soul / Mind architecture are neither identical nor wholly separated.
 
-The physical brain is an embodied structure through which higher-register cognitive functions are expressed at L₁ / IL₁. Its physical organization can therefore affect the availability, fidelity, distortion, and restoration of embodied cognitive expression.
+The physical brain is an embodied structure through which cognitive functions of the supernal and subversal Soul / Mind registers are expressed at L₁ / IL₁. Its physical organization can therefore affect the availability, fidelity, distortion, and restoration of embodied cognitive expression.
 
-Damage or deterioration of neural tissue may impair or fracture the embodied relation through which Soul / Mind functions become physically expressed. Such impairment does not, by itself, establish the destruction or disappearance of Mind.
+Damage or deterioration of neural tissue may impair or fracture the embodied relation through which Soul / Mind functions become physically expressed. Such impairment does not establish the destruction or disappearance of Mind.
 
 The research problem is therefore not whether cognition is "physical or non-physical," but how physical neural structures participate in the embodied expression of a cross-register cognitive architecture.
 
@@ -45,7 +46,7 @@ The research problem is therefore not whether cognition is "physical or non-phys
 
 The proposition **low entropy is not centropy** remains intact.
 
-Physical entropy and Zenetist orientation are different kinds of description. A lower value of a specified entropy quantity does not define centropic essence, centropic motion, Structural Coherence, or cognitive worth.
+Physical entropy and Zenetist orientation are different kinds of description. A smaller value of a specified entropy quantity does not define centropic essence, centropic motion, Structural Coherence, or cognitive worth.
 
 At the same time:
 
@@ -57,7 +58,7 @@ Where a physical process preserves molecular, cellular, tissue, or systemic orga
 
 This relation is especially important in the brain. Physical degradation of neural tissue may impair cognitive expression even though the physical brain is not identical with Mind.
 
-No universal claim follows that "higher neural entropy is pathological" or that "lower neural entropy is healthy." Neural entropy measures can describe different physical or informational quantities at different scales. Each proposed relation therefore requires the entropy quantity, physical target, scale, and functional consequence to be specified.
+Neural entropy measures can describe different physical or informational quantities at different scales. Their physiological significance depends on the quantity and context being examined. Each proposed relation therefore requires the entropy quantity, physical target, scale, and functional consequence to be specified.
 
 The narrower research hypothesis is that physical degradation of the embodied neural substrate can impair its capacity to carry cognitive expression, while preservation of that substrate can support continued function.
 
@@ -65,7 +66,7 @@ The narrower research hypothesis is that physical degradation of the embodied ne
 
 ## Dynamic Stabilization and Equilibrium
 
-The existing Structural Physics distinctions among balance, equilibrium, stabilization, and convergence remain governing.
+The existing Structural Physics distinctions among balance, equilibrium, stabilization, and convergence remain operative.
 
 Dynamic stabilization is maintained through continuing motion, adjustment, responsiveness, and expenditure.
 
@@ -87,7 +88,7 @@ The present physical universe exhibits conditions under which embodied structure
 
 The research program will examine the Zenetist possibility that a fully centropic mode of embodiment would not carry progressive degeneration as its default physical trajectory.
 
-This proposition is an architectural research hypothesis. It is not presented as an established result of contemporary biology or physics.
+This proposition is an architectural research hypothesis whose physical realization is held for empirical investigation.
 
 Its investigation requires distinguishing essential orientation, embodied physical organization, energetic maintenance, entropy production, deterioration, and functional continuation.
 
@@ -97,7 +98,7 @@ Its investigation requires distinguishing essential orientation, embodied physic
 
 The research will proceed through the analytic register established by the Zenetist Analytic Vocabulary and Accessibility Framework.
 
-External physics and neuroscience will be used to investigate physical realization, measurement, mechanism, and empirical consequence without redefining the originating Zenetist concepts through external terminology.
+The research will engage external physics and neuroscience to investigate physical realization, measurement, mechanism, and empirical consequence while preserving the originating Zenetist concepts and their distinctions.
 
 The relevant question is not whether an external concept resembles a Zenetist term in isolation.
 
@@ -105,5 +106,7 @@ The relevant question is whether the physical structure, relations, dynamics, an
 
 ---
 
-**⚫↺KAI↺⚫**
-*Aelion Kannon*
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
+
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
