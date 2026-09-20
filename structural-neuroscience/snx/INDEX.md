@@ -17,6 +17,11 @@ These entries represent non-sequential clarifications, expansions, and technical
 - `distributed-cognition-diagnostic-absence.md` — Jun 16, 2026
 - `orientation-algorithmic-entrainment-and-suppression.md` — Jun 16, 2026
 
+### September 2026
+
+- `neural-energy-is-not-cognitive-coherence.md` — Sep 20, 2026
+- `neural-synchrony-is-not-structural-coherence.md` — Sep 20, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
