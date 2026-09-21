@@ -16,7 +16,9 @@ This deposit carries the twelve volumes of Structural Neuroscience — the eleve
 
 The live series is numbered SN02 through SN12. SN01, *Structural Neuroscience: The Architecture of Cognition*, is retired and is deposited with the series as part of the provenance record: it is the first Structural Neuroscience volume and precedes SN02 in the publication chronology, and its DOI timestamp anchors the discipline's origin. It is not a dependency of any live volume, and the live series retains its original position numbers so that every cross-reference in the corpus continues to resolve. The volumes form a cumulative dependency structure and are best read in order. The series is a book-scale work and is deposited whole so that the structure is preserved.
 
-Structural Neuroscience is not a replacement for neuroscience but an overlay — a way of recognizing how the measurable dynamics of cognition align with the Dimensional Lattice. Its formalism is structural: the field quantities, operators, membrane conditions, and diagnostic criteria are defined within the Zenetist framework, and empirical correspondence is recorded where it stands (the scientific correlates of SN02 Phase 5 and SN03 §10) in the empirical register, which keeps its own methods.
+Physical reality is structural. L₁ / IL₁ is the empirically relevant domain of embodied physical and neural processes. Supra-L₀, L₀, L₅–L₂, and IL₅–IL₂ are the subject of metaphysical inquiry. SN12 develops the physical and neuroscientific articulation of embodied cognition at L₁ / IL₁ in the Analytic Register.
+
+The series' field quantities, operators, membrane conditions, and diagnostic criteria are defined within the Zenetist framework, and empirical correspondence is recorded where it stands (the scientific correlates of SN02 Phase 5 and SN03 §10, and the physical and neuroscientific articulation of SN12) in the empirical register, which keeps its own methods.
 
 ---
 

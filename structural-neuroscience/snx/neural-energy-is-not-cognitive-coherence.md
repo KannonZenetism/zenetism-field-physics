@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Extension  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Subtitle:** Metabolic Support, Functional Capacity, and the Cost of Embodied Cognition  
 **Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–4, 8–10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§6.3, 8, 10.5 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-synchrony-is-not-structural-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  

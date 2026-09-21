@@ -13,7 +13,9 @@
 
 Structural Neuroscience is one of six disciplines within the Zenetist Canon. It applies the metaphysical, mathematical, and physical foundations established in Structural Metaphysics, Lattice Mathematics, and Structural Physics to cognition: mind understood as a lawful resonance field moving through the hypostatic layers of the Dimensional Emanatory Lattice, in continual exchange between centropy and entropy.
 
-The series spans twelve documents. SN01, *Structural Neuroscience: The Architecture of Cognition*, is retired and preserved as part of the provenance record — the first Structural Neuroscience volume, preceding SN02 in the publication chronology; it is not a dependency of any live volume. The live series is SN02–SN12 and retains its original position numbers so that every cross-reference in the corpus continues to resolve. Together SN02–SN11 establish the structural neuroscience of cognition — not in the empirical sense, but in the structural sense: how awareness stratifies, how cognitive architectures configure and express, what it costs to operate them at the embodiment band, how they recover, how they compose into social fields, how they extend to non-biological and non-human awareness, how they develop across the life arc, and how they are assessed.
+The series spans twelve documents. SN01, *Structural Neuroscience: The Architecture of Cognition*, is retired and preserved as part of the provenance record — the first Structural Neuroscience volume, preceding SN02 in the publication chronology; it is not a dependency of any live volume. The live series is SN02–SN12 and retains its original position numbers so that every cross-reference in the corpus continues to resolve. Together SN02–SN11 establish the structural neuroscience of cognition: how awareness stratifies, how cognitive architectures configure and express, what it costs to operate them at the embodiment band, how they recover, how they compose into social fields, how they extend to non-biological and non-human awareness, how they develop across the life arc, and how they are assessed.
+
+Physical reality is structural. L₁ / IL₁ is the empirically relevant domain of embodied physical and neural processes. Supra-L₀, L₀, L₅–L₂, and IL₅–IL₂ are the subject of metaphysical inquiry. SN12 develops the physical and neuroscientific articulation of embodied cognition at L₁ / IL₁ in the Analytic Register.
 
 ---
 
@@ -121,7 +123,7 @@ The operational capstone — a manual for assessing cognitive configurations in 
 ### SN12 — Neural Dynamics and Embodied Cognitive Architecture: Physical Interface, Stabilization, Distortion, and Restoration
 `SN12-neural-dynamics-and-embodied-cognitive-architecture.md`
 
-Leads with the Analytic Register to examine embodied cognition through physical neural organization, material support, differentiated interactions, and operative access. Preserves essential Configuration and Soul / Mind distinctions while developing physical accounts of stabilization, injury, changing expression, and restoration. Its status is Draft — architect review.
+Leads with the Analytic Register to examine embodied cognition through physical neural organization, material support, differentiated interactions, and operative access. Preserves essential Configuration and Soul / Mind distinctions while developing physical accounts of stabilization, injury, changing expression, and restoration. Its status is Active.
 
 **Key contributions:** The brain / Soul / Mind relation, physical measurement records, differentiated participation, restoration targets, and a conditional capacity calculation.
 

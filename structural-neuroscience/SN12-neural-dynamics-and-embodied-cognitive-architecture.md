@@ -47,7 +47,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Series:** Structural Neuroscience: The Architecture and Dynamics of Cognition  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Zenetist Canon  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Subtitle:** Physical Interface, Stabilization, Distortion, and Restoration  
 **Dependency:** `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` §§1.3, 7.2 · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 · `SN11-applied-structural-diagnostics.md` §§2–3 · `MP08-symbol-key-ch21.md` §21.9 · `SP11-embodiment-dynamics.md` §§2, 7.1 · `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 7, 9–10, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2 · `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§2–3, 6.7 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  
