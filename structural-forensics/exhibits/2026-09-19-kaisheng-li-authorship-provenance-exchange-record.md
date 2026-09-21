@@ -63,6 +63,7 @@ The X metadata records `2026-09-19T19:04:03.000Z`. The retrieved HTML displays 7
 | Li's post-objection reply and first article acknowledgment | After the September 20 objection; exact date and time not independently established | Complete reply and first acknowledgment supplied by Aelion | Explicit acknowledgment of contribution to the core architecture; intermediate acknowledgment contains erroneous "Her" |
 | Aelion's pronoun correction request | After the erroneous acknowledgment; exact date and time unavailable | Aelion's report of the request; public wording not supplied | Request to correct "Her" to "His" |
 | Later corrected article acknowledgment | After the correction request according to Aelion's account; exact date and time unavailable | Corrected public acknowledgment supplied verbatim by Aelion | "His" replaces "Her"; acknowledgment and provenance restoration remain intact |
+| Aelion's subsequent comment on contribution scope | After the comment beginning "Thank you — I appreciate this", according to Aelion; exact date and time unavailable | Complete comment supplied by Aelion and preserved in §XI | Accepts the pronoun correction and acknowledgment while asserting origination and antecedent articulation of the identified distinctions |
 
 The exhibit filename follows the first substantive Aelion response, matching the event-date practice in `2026-09-12-gnostic-nick-monism-distinction-exchange-record.md`. It does not adopt the unverified September 18 initiating-post date. Repository commit times record archival preservation, not Substack publication times.
 
@@ -358,6 +359,20 @@ The corrected acknowledgment replaces "Her" with "His". Both acknowledgment vers
 
 Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording remains his characterization of that contribution's scope.
 
+### Aelion's Subsequent Comment on Contribution Scope
+
+**Aelion Kannon** — reported as posted to the September 20 article after the comment beginning "Thank you — I appreciate this". The wording below is supplied by Aelion; the exact public timestamp and individual permalink remain open for preservation.
+
+> Thank you for correcting the pronoun. I appreciate that, and I appreciate your willingness to add the acknowledgment.
+>
+> There is one part of the wording I do want to clarify, though, precisely because the issue we have been discussing is provenance. I do not think “helped clarify and sharpen the core architecture” accurately describes the relation.
+>
+> My contribution was not simply clarification or sharpening of an architecture that was already present in the article. The provenance architecture I raised — including the distinction between origination and prompting, the inquiry into what conceptual structure existed before model completion, the mechanism / bearer distinction, and “solvability does not establish ancestry” — was articulated in my responses before it appeared in the later article.
+>
+> So I would characterize the contribution as origination and antecedent articulation of those particular distinctions, rather than clarification of an already-existing architecture.
+>
+> I appreciate that you were willing to acknowledge the exchange, and I wanted to make this final distinction explicit because it is essentially the same provenance distinction the exchange itself has been about.
+
 ### Three Publication States
 
 | Element | Preserved initial state | Intermediate acknowledgment supplied by Aelion | Corrected acknowledgment supplied by Aelion |
@@ -449,7 +464,7 @@ A diagnosis of conceptual distortion through derivational fragmentation would re
 
 ## XV. Evidentiary Standing and Continuing Record
 
-The record establishes an antecedent public formulation, exact and architectural recurrence in the preserved initial article, an initial attribution failure, a provenance objection, and Li's explicit acknowledgment of contribution followed by a reported article amendment. The added acknowledgment materially strengthens the transmission finding and changes the article's documented attribution state. The later corrected acknowledgment supplied by Aelion replaces "Her" with "His" while preserving the express credit.
+The record establishes an antecedent public formulation, exact and architectural recurrence in the preserved initial article, an initial attribution failure, a provenance objection, and Li's explicit acknowledgment of contribution followed by a reported article amendment. The added acknowledgment materially strengthens the transmission finding and changes the article's documented attribution state. The later corrected acknowledgment supplied by Aelion replaces "Her" with "His" while preserving the express credit. Aelion's subsequent comment on the scope of that contribution is preserved in §XI. Any subsequent reply remains open for preservation.
 
 The outstanding preservation questions are specific: the initiating Note's exact date; individual Substack reply permalinks and times; the complete first follow-up article; the complete wording of the first September 20 acknowledgment, Aelion's clarification, and his provenance objection; both reported placements of the first acknowledgment; the complete amended second article; and the public pronoun correction request. Complete amended-body comparison remains open.
 
