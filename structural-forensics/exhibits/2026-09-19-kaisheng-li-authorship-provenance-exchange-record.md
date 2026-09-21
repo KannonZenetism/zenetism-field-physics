@@ -403,6 +403,8 @@ Li's intermediate characterization and the exhibit's historical finding remain d
 >
 > I truly appreciate your rigor throughout this exchange. It has made the piece stronger and far more faithful to its own premises.
 
+Li's closing description frames the exchange as improving the article's fidelity to its premises. The identified provenance premises were antecedently articulated by Aelion and subsequently adopted in the article. Their origin remains Aelion's; incorporation into Li's exposition preserves that antecedence.
+
 Aelion also supplied the following revised public article acknowledgment, preserved verbatim and visible in image 16 in the [image register](#preserved-image-evidence):
 
 > Acknowledgments
