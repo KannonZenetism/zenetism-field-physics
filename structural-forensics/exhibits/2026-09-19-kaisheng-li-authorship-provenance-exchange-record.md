@@ -20,7 +20,7 @@ This exhibit classifies the initial uncredited publication of the identified con
 
 The sequence is: **antecedence → direct encounter → explicit uptake → unattributed downstream publication → provenance objection → explicit acknowledgment → article amendment / provenance restoration**.
 
-The latest documented publication state includes the corrected acknowledgment with "His", supplied by Aelion as publicly corrected wording. The initial PDF contains no acknowledgment. The first added acknowledgment with the erroneous "Her", Aelion's correction request, and the later corrected acknowledgment remain distinct in the record. The complete amended live article was not retrievable, so the extent of other article changes remains unverified.
+The latest documented publication state includes an acknowledgment expressly crediting Aelion's origination and antecedent articulation of the identified distinctions, supplied by Aelion as the revised public wording. The initial PDF contains no acknowledgment. The first acknowledgment with the erroneous "Her", the pronoun-corrected acknowledgment, and the subsequent origination acknowledgment remain distinct in the record, together with Aelion's intervening requests. The complete amended live article was not retrievable, so the extent of other article changes remains unverified.
 
 ---
 
@@ -64,6 +64,7 @@ The X metadata records `2026-09-19T19:04:03.000Z`. The retrieved HTML displays 7
 | Aelion's pronoun correction request | After the erroneous acknowledgment; exact date and time unavailable | Aelion's report of the request; public wording not supplied | Request to correct "Her" to "His" |
 | Later corrected article acknowledgment | After the correction request according to Aelion's account; exact date and time unavailable | Corrected public acknowledgment supplied verbatim by Aelion | "His" replaces "Her"; acknowledgment and provenance restoration remain intact |
 | Aelion's subsequent comment on contribution scope | After the comment beginning "Thank you — I appreciate this", according to Aelion; exact date and time unavailable | Complete comment supplied by Aelion and preserved in §XI | Accepts the pronoun correction and acknowledgment while asserting origination and antecedent articulation of the identified distinctions |
+| Li's reply on origination and revised acknowledgment | After Aelion's comment on contribution scope, according to the supplied exchange; exact date and time unavailable | Complete reply and revised public acknowledgment supplied by Aelion and preserved in §XI | Express acceptance of origination and antecedent articulation; article acknowledgment states direct reliance on those distinctions |
 
 The exhibit filename follows the first substantive Aelion response, matching the event-date practice in `2026-09-12-gnostic-nick-monism-distinction-exchange-record.md`. It does not adopt the unverified September 18 initiating-post date. Repository commit times record archival preservation, not Substack publication times.
 
@@ -355,9 +356,9 @@ The following is the complete first added acknowledgment as supplied by Aelion, 
 
 The corrected acknowledgment replaces "Her" with "His". Both acknowledgment versions name Aelion, identify two particular contributions, and recognize the exchange's part in the article's core architecture. The first amendment restores provenance; the later amendment corrects the pronoun while preserving that acknowledgment. The initial uncredited state, the intermediate acknowledgment, Aelion's correction request, and the corrected acknowledgment remain separately recorded.
 
-**Scope of acknowledgment:** Aelion Kannon does not accept Li's phrase "helped clarify and sharpen the core architecture presented here" as a complete description of his contribution. The antecedent formulations preserved in §§II and V already articulate the distinction between prompting and origination; the inquiry into antecedent conceptual structure; the distinction between inherited substrate and originary contribution; "Solvability does not establish ancestry"; the mechanism / bearer distinction; and the distinction between pattern completion and novelty generation.
+**Scope of acknowledgment:** Aelion Kannon does not accept Li's earlier phrase "helped clarify and sharpen the core architecture presented here" as a complete description of his contribution. The antecedent formulations preserved in §§II and V already articulate the distinction between prompting and origination; the inquiry into antecedent conceptual structure; the distinction between inherited substrate and originary contribution; "Solvability does not establish ancestry"; the mechanism / bearer distinction; and the distinction between pattern completion and novelty generation.
 
-Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording remains his characterization of that contribution's scope.
+Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The earlier acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording is preserved as his intermediate characterization of that contribution's scope. His subsequent reply and revised acknowledgment below expressly recognize origination and antecedent articulation.
 
 ### Aelion's Subsequent Comment on Contribution Scope
 
@@ -373,18 +374,36 @@ Li's characterization and the exhibit's historical finding remain distinct. The 
 >
 > I appreciate that you were willing to acknowledge the exchange, and I wanted to make this final distinction explicit because it is essentially the same provenance distinction the exchange itself has been about.
 
-### Three Publication States
+### Li's Reply and Revised Origination Acknowledgment
 
-| Element | Preserved initial state | Intermediate acknowledgment supplied by Aelion | Corrected acknowledgment supplied by Aelion |
-| :--- | :--- | :--- | :--- |
-| Article identity | Title, Kaisheng Li byline, and September 20 publication date visible in the PDF | Li identifies an amendment to the same article | Aelion reports the public pronoun correction in the same article |
-| Aelion's exact ancestry sentence | Present on page 16 without credit | Repeated and attributed in the added acknowledgment | Attribution retained in the corrected acknowledgment |
-| Provenance architecture | Present in the article, including pages 15–16 | Li expressly acknowledges the exchange's contribution to the core architecture | Express acknowledgment retained |
-| Acknowledgment | Absent throughout the preserved 22-page article copy | First added Acknowledgments section supplied verbatim | Corrected Acknowledgments section supplied verbatim |
-| Pronoun | No acknowledgment containing a pronoun | Erroneous "Her"; followed by Aelion's correction request | Corrected "His" |
-| Other article changes | Complete initial text preserved | Extent of any other additions, deletions, or revisions unverified | Complete amended-body comparison remains open |
+**Kaisheng Li** — reply to Aelion's comment beginning "Thank you for correcting the pronoun", supplied by Aelion. The reply is preserved verbatim:
 
-**Comparison result:** The supplied record preserves the initial uncredited article, the first added acknowledgment, and the later corrected acknowledgment. The two acknowledgment texts differ only in "Her" / "His". Complete comparison of the article bodies remains open.
+> Thank you for this critical and precise distinction. You are entirely correct—and it would indeed be ironic to blur the provenance of a framework in an article dedicated to provenance!
+>
+> To reflect the actual history of these ideas accurately, I have updated the Acknowledgments wording to explicitly honor your original and antecedent articulation of these specific distinctions (including the mechanism/bearer distinction and the principle that solvability does not establish ancestry), rather than framing it merely as a clarification of a pre-existing structure.
+>
+> I truly appreciate your rigor throughout this exchange. It has made the piece stronger and far more faithful to its own premises.
+
+Aelion also supplied the following revised public article acknowledgment, preserved verbatim:
+
+> Acknowledgments
+>
+> I am deeply indebted to Aelion Kannon for our public exchange prior to the drafting of this piece. The specific provenance architecture developed here—including the distinction between mechanism of expression and possible bearer, the inquiry into antecedent conceptual structures prior to model completion, and the formulation that "solvability does not establish ancestry"—was first originated and articulated by him during our discussion. This article builds directly upon those fundamental distinctions.
+
+The reply accepts the distinction between antecedent origination and clarification of a pre-existing structure. The revised acknowledgment expressly attributes origination and prior articulation of the specified provenance architecture to Aelion and states that the article builds directly upon those distinctions. This replaces the earlier "clarify and sharpen" characterization in the supplied acknowledgment record. The initial publication finding remains attached to the uncredited publication state; the subsequent attribution correction is recorded in its own terms.
+
+### Four Publication States
+
+| Element | Preserved initial state | First acknowledgment supplied by Aelion | Pronoun-corrected acknowledgment supplied by Aelion | Origination acknowledgment supplied by Aelion |
+| :--- | :--- | :--- | :--- | :--- |
+| Article identity | Title, Kaisheng Li byline, and September 20 publication date visible in the PDF | Li identifies an amendment to the same article | Aelion reports the public pronoun correction in the same article | Revised acknowledgment in the same article, reported by Aelion |
+| Aelion's exact ancestry sentence | Present on page 16 without credit | Repeated and attributed in the added acknowledgment | Attribution retained in the corrected acknowledgment | Expressly attributed as first originated and articulated by Aelion |
+| Provenance architecture | Present in the article, including pages 15–16 | Li expressly acknowledges the exchange's contribution to the core architecture | Express acknowledgment retained | Specified architecture expressly attributed to Aelion; direct reliance acknowledged |
+| Acknowledgment | Absent throughout the preserved 22-page article copy | First added Acknowledgments section supplied verbatim | Corrected Acknowledgments section supplied verbatim | Revised Acknowledgments section supplied verbatim |
+| Pronoun | No acknowledgment containing a pronoun | Erroneous "Her"; followed by Aelion's correction request | Corrected "His" | "him"; attribution names Aelion Kannon |
+| Other article changes | Complete initial text preserved | Extent of any other additions, deletions, or revisions unverified | Complete amended-body comparison remains open | Complete amended-body comparison remains open |
+
+**Comparison result:** The supplied record preserves the initial uncredited article and three successive acknowledgment texts. The first two acknowledgment texts differ only in "Her" / "His". The third replaces the contribution-as-clarification description with explicit attribution of origination and antecedent articulation, together with direct reliance. Complete comparison of the article bodies remains open.
 
 The complete amended article was not reconstructed by appending the acknowledgment to the initial PDF. Such a composite would not establish the actual amended publication state.
 
@@ -464,7 +483,7 @@ A diagnosis of conceptual distortion through derivational fragmentation would re
 
 ## XV. Evidentiary Standing and Continuing Record
 
-The record establishes an antecedent public formulation, exact and architectural recurrence in the preserved initial article, an initial attribution failure, a provenance objection, and Li's explicit acknowledgment of contribution followed by a reported article amendment. The added acknowledgment materially strengthens the transmission finding and changes the article's documented attribution state. The later corrected acknowledgment supplied by Aelion replaces "Her" with "His" while preserving the express credit. Aelion's subsequent comment on the scope of that contribution is preserved in §XI. Any subsequent reply remains open for preservation.
+The record establishes an antecedent public formulation, exact and architectural recurrence in the preserved initial article, an initial attribution failure, a provenance objection, and Li's explicit acknowledgment of contribution followed by a reported article amendment. The added acknowledgment materially strengthens the transmission finding and changes the article's documented attribution state. The later corrected acknowledgment supplied by Aelion replaces "Her" with "His" while preserving the express credit. Aelion's subsequent comment on the scope of that contribution is preserved in §XI. Li's subsequent reply and revised acknowledgment are also preserved there: they expressly credit origination and antecedent articulation. Aelion has indicated that he does not intend to press the exchange further. The exchange is recorded as concluded from his side.
 
 The outstanding preservation questions are specific: the initiating Note's exact date; individual Substack reply permalinks and times; the complete first follow-up article; the complete wording of the first September 20 acknowledgment, Aelion's clarification, and his provenance objection; both reported placements of the first acknowledgment; the complete amended second article; and the public pronoun correction request. Complete amended-body comparison remains open.
 
