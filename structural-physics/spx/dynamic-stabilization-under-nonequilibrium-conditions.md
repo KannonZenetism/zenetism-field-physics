@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics — Extension  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8 · `SP11-embodiment-dynamics.md` §§2–3 · `biological-form-and-embodied-coherence.md` §§1–2, 7 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 6–7, 9, 12–13 · `zenetism-as-cross-disciplinary-grammar.md` §§3–6.2  
 **Companion:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` · `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `low-entropy-is-not-centropy.md`  
 

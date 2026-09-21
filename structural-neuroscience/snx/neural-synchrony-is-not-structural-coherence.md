@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Extension  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Subtitle:** Integration, Segregation, Metastability, and Composite Dynamics  
 **Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1–6, 10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 6–7, 13 · `zenetism-as-cross-disciplinary-grammar.md` §6.2 · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §§4.2, 4.4 · `SN09-the-all-life-first-principle.md` §1.3  
 **Companion:** `neural-energy-is-not-cognitive-coherence.md` · `dynamic-stabilization-under-nonequilibrium-conditions.md` · `low-entropy-is-not-centropy.md`  

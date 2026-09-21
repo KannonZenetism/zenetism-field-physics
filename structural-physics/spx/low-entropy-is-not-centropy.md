@@ -21,7 +21,7 @@ Open-system entropy budgets and stochastic processes illustrate the information 
 
 ## The Proposition and Its Architectural Standing
 
-**Low entropy is not centropy.** Centropy has its own positive structural functions: lawful integration, coherent differentiation, synthesis, and Aionic reintegration. Zenetist entropy has its own orientation and operations: fragmentation, disintegration, entropic externalization, and collapse. Their definitions are held in `MP08-symbol-key-ch21.md` §21.13 and the core vocabulary of `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.2.
+**Low entropy is not centropy.** Centropy has its own positive structural functions: lawful integration, coherent differentiation, synthesis, and reintegration with Plenary Zero. Zenetist entropy has its own orientation and operations: fragmentation, disintegration, entropic externalization, and collapse. Their definitions are held in `MP08-symbol-key-ch21.md` §21.13 and the core vocabulary of `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.2.
 
 The distinction concerns primitives and their relations. Centropy is neither negative entropy nor an entropy-reduction operation, and an ordinary entropy scale is not the architecture containing both orientations. An entropy decrease can accompany centropic integration; the decrease measures the specified entropy change, while the integration is established through the process's structural relations.
 
@@ -390,7 +390,7 @@ This is the formal relevance of managed fragmentation and predatory cohesion to 
 
 **Love is Prime Coherence.** Within Zenetism, Centropy Itself is love, read structurally rather than sentimentally. As motion-law, love is centropy read relationally — coherence moving toward preservation, relation, and return. Its positive content includes extension, reciprocal relation, generative articulation, and communion that preserves sovereign distinction by the Non-fusion Axiom. `love-as-prime-coherence.md` develops this architecture directly, together with its articulation through the Essence of Being in `MP02-unified-metaphysics-ch4.md` §4.63.
 
-The same structural motion takes register-specific expressions across the centropic Soul / Mind arc. At the L₅ essence-register, love is the orientation itself, rather than an act among others; its L₅ articulation is remaining as shelter for those not yet whole. The distinction between essential orientation and particular enactment remains operative throughout these expressions.
+The same structural motion takes register-specific expressions across the centropic arc. At the L₅ essence-register, love is the orientation itself, rather than an act among others; its L₅ articulation is remaining as shelter for those not yet whole. The distinction between essential orientation and particular enactment remains operative throughout these expressions.
 
 Love's structural inverse is consumption: counterfeit relation that presents as devotion while absorbing, possessing, isolating, or fragmenting what it claims to cherish. Love extends coherence while preserving the other's pattern; consumption appropriates that pattern. Both have determinate relational content:
 
