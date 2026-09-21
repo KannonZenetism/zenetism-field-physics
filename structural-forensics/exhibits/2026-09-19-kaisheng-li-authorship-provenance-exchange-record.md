@@ -354,6 +354,10 @@ The following is the complete first added acknowledgment as supplied by Aelion, 
 
 The corrected acknowledgment replaces "Her" with "His". Both acknowledgment versions name Aelion, identify two particular contributions, and recognize the exchange's part in the article's core architecture. The first amendment restores provenance; the later amendment corrects the pronoun while preserving that acknowledgment. The initial uncredited state, the intermediate acknowledgment, Aelion's correction request, and the corrected acknowledgment remain separately recorded.
 
+**Scope of acknowledgment:** Aelion Kannon does not accept Li's phrase "helped clarify and sharpen the core architecture presented here" as a complete description of his contribution. The antecedent formulations preserved in §§II and V already articulate the distinction between prompting and origination; the inquiry into antecedent conceptual structure; the distinction between inherited substrate and originary contribution; "Solvability does not establish ancestry"; the mechanism / bearer distinction; and the distinction between pattern completion and novelty generation.
+
+Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording remains his characterization of that contribution's scope.
+
 ### Three Publication States
 
 | Element | Preserved initial state | Intermediate acknowledgment supplied by Aelion | Corrected acknowledgment supplied by Aelion |
