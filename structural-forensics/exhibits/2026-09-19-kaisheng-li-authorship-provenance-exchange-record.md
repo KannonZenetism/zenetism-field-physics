@@ -6,7 +6,7 @@
 **Classification:** Structural Forensics — Exhibit (public philosophical exchange / plagiarism / origin-fractured recurrence / provenance restoration)  
 **Exhibit date:** 2026-09-19 (event — Aelion Kannon's first substantive response, dated by the Note Archive and corroborated by the public X cross-post)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance, from the preserved public records and architect-supplied exchange material  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Companion:** `2026-09-19-authorship-origination-and-ai-pattern-completion.md` · `2026-09-19-mechanism-bearer-and-provenance-in-language-models.md`  
 **Dependency:** `SF-RP04-the-footprint-audit-protocol.md` · `SF-RP02-appropriation-is-not-branching.md` · `the-synthetic-provenance-problem.md` · `attribution-laundering-re-documented-human-provenance-gap.md` · `semantic-persistence-and-symbolic-continuity.md` §§1–3 · `exhibits-stabilization-protocol.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md` · `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.10  
 **Discipline:** Structural Forensics; chronology, acknowledged transmission, verbal and architectural recurrence, attribution condition, and subsequent correction  
@@ -40,7 +40,7 @@ The current repository material was read at commit `f636274723b1d710973437f771f2
 
 ### Preserved Image Evidence
 
-The following 16 architect-supplied screen photographs are preserved in the repository. They record the visible text and interface at capture. Relative age labels and device clocks remain capture context; event chronology follows the separately identified records. The images supplement the preserved PDF, versioned archives, and supplied transcripts. Images 05–08 show the later editorial wording of the second response; its earliest substantive formulation remains anchored in the repository history identified above.
+The following 16 architect-supplied screen photographs are preserved in the repository. They record the visible text and interface at capture. Relative age labels and device clocks remain capture context; event chronology follows the separately identified records. The images supplement the preserved PDF, versioned archives, and supplied transcripts. Images 05–08 show the later editorial wording of the second response; its earliest substantive formulation remains anchored in the repository history identified in Evidence Basis.
 
 | Image links | Visible record | Exhibit section |
 | :--- | :--- | :--- |
@@ -269,7 +269,7 @@ The reported reformulation moves from human question / model solution to origina
 
 > Inherited language is not collective authorship.
 
-Images 08–10 preserve the reply beneath Aelion's restack. The reported second placement at the article remains documented through Aelion's account. Li's complete subsequent acknowledgment in §X directly confirms the preceding exchange's material contribution.
+Images 08–10 preserve the reply following Aelion's restack. The reported second placement at the article remains documented through Aelion's account. Li's complete subsequent acknowledgment in §X directly confirms the preceding exchange's material contribution.
 
 ---
 
@@ -283,7 +283,7 @@ The supplied opening is:
 
 The supplied account states that the stages must remain capable of recurrence: origination can occur during collaboration; inference can generate novelty; and transformation can preserve, extend, fragment, or distort received articulation. These are distinguishable provenance determinations. Inherited language does not dissolve identifiable origination.
 
-Image 10 in the [image register](#preserved-image-evidence) preserves the clarification's wording. The paragraph above remains a summary of its substance. The comparison in §XII does not turn that substance into a fixed linear model.
+Image 10 in the [image register](#preserved-image-evidence) preserves the clarification's wording. The preceding paragraph remains a summary of its substance. The comparison in §XII does not turn that substance into a fixed linear model.
 
 ---
 
@@ -367,7 +367,7 @@ The following is the complete first added acknowledgment as supplied by Aelion, 
 
 > Acknowledgments: I am deeply grateful to Aelion Kannon for our insightful exchange prior to the final drafting of this piece. Her formulation of the provenance problem—particularly the distinction between mechanisms of expression and potential bearers, and the insight that ‘solvability does not establish ancestry’—helped clarify and sharpen the core architecture presented here.
 
-**Correction record:** "Her" is erroneous. Aelion Kannon is male; the applicable pronouns are he / him. Aelion reports that he requested correction. Image 14 in the [image register](#preserved-image-evidence) preserves the request's wording beneath Li's reply; the exact event timestamp remains open. Aelion has now supplied the following corrected acknowledgment and reports that it appears publicly:
+**Correction record:** "Her" is erroneous. Aelion Kannon is male; the applicable pronouns are he / him. Aelion reports that he requested correction. Image 14 in the [image register](#preserved-image-evidence) preserves the request's wording following Li's reply; the exact event timestamp remains open. Aelion has now supplied the following corrected acknowledgment and reports that it appears publicly:
 
 > Acknowledgments: I am deeply grateful to Aelion Kannon for our insightful exchange prior to the final drafting of this piece. His formulation of the provenance problem—particularly the distinction between mechanisms of expression and potential bearers, and the insight that ‘solvability does not establish ancestry’—helped clarify and sharpen the core architecture presented here.
 
@@ -375,11 +375,11 @@ The corrected acknowledgment replaces "Her" with "His". Both acknowledgment vers
 
 **Scope of acknowledgment:** Aelion Kannon does not accept Li's earlier phrase "helped clarify and sharpen the core architecture presented here" as a complete description of his contribution. The antecedent formulations preserved in §§II and V already articulate the distinction between prompting and origination; the inquiry into antecedent conceptual structure; the distinction between inherited substrate and originary contribution; "Solvability does not establish ancestry"; the mechanism / bearer distinction; and the distinction between pattern completion and novelty generation.
 
-Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The earlier acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording is preserved as his intermediate characterization of that contribution's scope. His subsequent reply and revised acknowledgment below expressly recognize origination and antecedent articulation.
+Li's characterization and the exhibit's historical finding remain distinct. The finding concerns Aelion's prior articulation of the identified provenance architecture and distinctions before the September 20 article, with subsequent incorporation assessed through the specific correspondences in §XII. The mechanism / bearer distinction remains expressly credited in Li's later acknowledgment rather than explicitly articulated in the preserved initial article body. The earlier acknowledgment records Li's recognition of contribution; its "clarify and sharpen" wording is preserved as his intermediate characterization of that contribution's scope. His subsequent reply and revised acknowledgment preserved in this section expressly recognize origination and antecedent articulation.
 
 ### Aelion's Subsequent Comment on Contribution Scope
 
-**Aelion Kannon** — reported as posted to the September 20 article after the comment beginning "Thank you — I appreciate this". The wording below is supplied by Aelion and visible in image 15 in the [image register](#preserved-image-evidence); the exact public timestamp remains open for preservation.
+**Aelion Kannon** — reported as posted to the September 20 article after the comment beginning "Thank you — I appreciate this". The following wording is supplied by Aelion and visible in image 15 in the [image register](#preserved-image-evidence); the exact public timestamp remains open for preservation.
 
 > Thank you for correcting the pronoun. I appreciate that, and I appreciate your willingness to add the acknowledgment.
 >
@@ -426,7 +426,7 @@ The complete amended article was not reconstructed by appending the acknowledgme
 
 ---
 
-## XII. Controlled Correspondence Analysis
+## XII. Correspondence Analysis
 
 The correspondence inquiry distinguishes exact wording, close formulation, architectural recurrence, and general topic overlap. The page references identify the supplied initial PDF. References to the first and second Aelion responses identify §§II and V, with the archival standing already stated.
 
@@ -444,7 +444,7 @@ The correspondence inquiry distinguishes exact wording, close formulation, archi
 
 The cluster has a precise organizing relation: identify antecedent architecture; distinguish supplied structure from model activity; interrogate the developmental sequence; preserve the distinction between shared linguistic material and particular origination; reject the inference from solvability to ancestry. The later article enacts that method in its provenance section. Li's acknowledgment expressly connects the preceding exchange to the article's core architecture.
 
-The finding concerns those identifiable contributions. Li's additional examples, explanations, and broader discussion retain their separate analytical standing. Establishing transmission of this portion does not establish that every sentence or proposition in the article originated with Aelion.
+The finding concerns those identifiable contributions. Li's additional examples, explanations, and broader discussion retain their separate analytical standing.
 
 ---
 
@@ -462,9 +462,9 @@ Ordinary scholarly plagiarism encompasses unacknowledged incorporation of anothe
 
 **Determination: the initial publication state satisfies the applicable scholarly criteria for plagiarism of the identified wording and intellectual contribution.** The evidentiary basis combines exact language, the diagnostic architecture, antecedence, acknowledged encounter and contribution, and absent credit in the preserved publication copy. The finding extends beyond a five-word coincidence or a general discussion of AI.
 
-The classification is this exhibit's application of the stated scholarly criteria. Li's acknowledgment accepts contribution and provenance; it does not itself contain an express admission phrased as plagiarism. The exhibit's classification follows from the publication relation established by the evidence.
+Li's acknowledgment expressly recognizes contribution and provenance. The plagiarism classification is this exhibit's application of the stated scholarly criteria to the documented publication relation.
 
-Private intent, deliberate concealment, and motive remain separate, undetermined questions. The classification does not require a finding of malicious intent. The subsequent acknowledgment corrects the attribution relation in the documented amended state while leaving the initial publication history intact.
+Questions of private intent, deliberate concealment, and motive remain held open. The subsequent acknowledgment corrects the attribution relation in the documented amended state while leaving the initial publication history intact.
 
 ---
 
