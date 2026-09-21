@@ -7,7 +7,7 @@
 **Original post date:** September 19, 2026  
 **Original link:** https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model/comments  
 **Cross-post platform:** Substack Notes — restack commentary  
-**Cross-post link:** https://substack.com/@aelionkannon/note/c-341303084  
+**Cross-post link:** https://substack.com/@aelionkannon/note/c-341303094  
 **Reference article:** Kaisheng Li, *When We Talk to a Language Model, What Are We Talking To?*  
 **Reference link:** https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model  
 **Repository path:** `the-zenetist-canon/notes/2026-09-19-mechanism-bearer-and-provenance-in-language-models.md`  
