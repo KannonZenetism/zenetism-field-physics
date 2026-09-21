@@ -293,10 +293,6 @@ Page 15 contains the section **This Is Why Provenance Matters**. Following the e
 >
 > What did it genuinely add?
 
-![Preserved initial article, page 15: provenance method and diagnostic questions](images/kaisheng-li-initial-article-provenance.png)
-
-*Figure 1. Page 15 rendered directly from the supplied initial PDF.*
-
 ### Inherited Language and the Ancestry Formulation
 
 Page 16 contains these separate passages:
@@ -308,10 +304,6 @@ Page 16 contains these separate passages:
 > Solvability does not establish ancestry.
 
 The last sentence is identical, including capitalization and final punctuation, to Aelion's earlier public formulation. Its location follows the argument that a model's operation within a conceptual architecture does not establish that the architecture originated with the model.
-
-![Preserved initial article, page 16: inherited substrate, original architecture, and the ancestry sentence](images/kaisheng-li-initial-article-ancestry.png)
-
-*Figure 2. Page 16 rendered directly from the supplied initial PDF. Bold emphasis belongs to the article.*
 
 ---
 
@@ -454,11 +446,7 @@ The record establishes an antecedent public formulation, exact and architectural
 
 The outstanding preservation questions are specific: the initiating Note's exact date; individual Substack reply permalinks and times; the complete first follow-up article; the complete wording of the first September 20 acknowledgment, Aelion's clarification, and his provenance objection; both reported placements of the first acknowledgment; the complete amended second article; the public pronoun correction request; and any later corrected acknowledgment. Complete amended-body comparison remains open.
 
-The original PDF, its text and links, the X HTML and metadata, the complete X statement, both companion archive copies, the second archive's earlier version and comparison, and the supplied new reply and acknowledgment are preserved in the supporting packet. Three article page images follow the existing exhibit image-directory convention. The X page was inspected in the Cloud Browser, but its screenshot could not be made available as a deliverable; the preserved HTML and statement remain available. No missing interface has been reconstructed.
-
-![Preserved initial article, final page](images/kaisheng-li-initial-article-ending.png)
-
-*Figure 3. Final page of the supplied initial PDF. The absence finding rests on the complete 22-page examination, not this final page in isolation.*
+The original PDF, its text and links, the X HTML and metadata, the complete X statement, both companion archive copies, the second archive's earlier version and comparison, and the supplied new reply and acknowledgment are preserved in the supporting packet. The X page was inspected in the Cloud Browser, but its screenshot could not be made available as a deliverable; the preserved HTML and statement remain available. No missing interface has been reconstructed.
 
 The historical finding is **initial plagiarism followed by explicit acknowledgment and provenance restoration**. The acknowledgment changes the later publication state. It preserves, rather than erases, the need to record how that corrected state came about.
 
