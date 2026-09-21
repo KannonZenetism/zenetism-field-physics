@@ -26,7 +26,7 @@ The latest documented publication state includes an acknowledgment expressly cre
 
 ## Evidence Basis
 
-The record combines three evidentiary classes: independently retrieved public material; repository preservation with identifiable versions; and architect-supplied quotations or reports of the exchange. A quoted public acknowledgment remains direct evidence of what Li acknowledges even where its available custody is Aelion's supplied transcript. Independent platform verification and the content of that acknowledgment are separate determinations.
+The record combines three evidentiary classes: independently retrieved public material; repository preservation with identifiable versions; and architect-supplied quotations, reports, or screen photographs of the exchange. A quoted public acknowledgment remains direct evidence of what Li acknowledges even where its available custody is Aelion's supplied transcript. Independent platform verification and the content of that acknowledgment are separate determinations.
 
 The independently retrieved material comprises the complete X cross-post of Aelion's first argument and its publication metadata. The supplied 22-page PDF preserves the September 20 article without acknowledgment. The current Note Archive preserves both substantive Aelion responses. The first response's wording matches the public X statement after typographic quotation and whitespace normalization; the quotation in §II retains the retrieved X punctuation. The second response in §V reproduces the current Note Archive exactly and is identified as that archival version.
 
@@ -37,6 +37,23 @@ The comparison keeps four records distinct: the earliest preserved substantive A
 The current repository material was read at commit `f636274723b1d710973437f771f267c9321909c8`. Both companion records exist in `the-zenetist-canon/notes/`: [the authorship Note Archive](https://github.com/KannonZenetism/zenetism-field-physics/blob/f636274723b1d710973437f771f267c9321909c8/the-zenetist-canon/notes/2026-09-19-authorship-origination-and-ai-pattern-completion.md) and [the mechanism / bearer Note Archive](https://github.com/KannonZenetism/zenetism-field-physics/blob/f636274723b1d710973437f771f267c9321909c8/the-zenetist-canon/notes/2026-09-19-mechanism-bearer-and-provenance-in-language-models.md). Semantic persistence is a Dependency because its retention, encounter, interpretation, and continuation criteria inform the analysis in §XIV.
 
 "Li" identifies the public author designation Kaisheng Li / Gradient Physics Publication. The exhibit examines the attributed statements and publication sequence. The account's personal identity was not independently authenticated.
+
+### Preserved Image Evidence
+
+The following 16 architect-supplied screen photographs are preserved in the repository. They record the visible text and interface at capture. Relative age labels and device clocks remain capture context; event chronology follows the separately identified records. The images supplement the preserved PDF, versioned archives, and supplied transcripts. Images 05–08 show the later editorial wording of the second response; its earliest substantive formulation remains anchored in the repository history identified above.
+
+| Image links | Visible record | Exhibit section |
+| :--- | :--- | :--- |
+| [01](images/kaisheng-li-exchange-01.png) · [02](images/kaisheng-li-exchange-02.png) · [03](images/kaisheng-li-exchange-03.png) | Initiating Note and Aelion's first response, including the provenance inquiry and ancestry formulation | §§I–II |
+| [04](images/kaisheng-li-exchange-04.png) | Exchange context and Li's announcement of the first follow-up article | §III |
+| [05](images/kaisheng-li-exchange-05.png) · [06](images/kaisheng-li-exchange-06.png) · [07](images/kaisheng-li-exchange-07.png) · [08](images/kaisheng-li-exchange-08.png) | First follow-up article card and Aelion's second response in its later editorial wording; closing distinctions and beginning of Li's reply | §§IV–VI |
+| [09](images/kaisheng-li-exchange-09.png) · [10](images/kaisheng-li-exchange-10.png) | Li's first explicit acknowledgment across consecutive views; Aelion's clarification visible in image 10 | §§VI–VII |
+| [11](images/kaisheng-li-exchange-11.png) | September 20 article title, byline, and displayed publication date | §VIII |
+| [12](images/kaisheng-li-exchange-12.png) | Article passage on inherited substrate, original architecture, and the ancestry formulation | §VIII |
+| [13](images/kaisheng-li-exchange-13.png) | Aelion's provenance objection on the article comments page | §IX |
+| [14](images/kaisheng-li-exchange-14.png) | Li's post-objection reply and Aelion's acknowledgment and pronoun correction request | §§X–XI |
+| [15](images/kaisheng-li-exchange-15.png) | Aelion's comment on contribution scope and Li's reply recognizing antecedent origination | §XI |
+| [16](images/kaisheng-li-exchange-16.png) | Revised article acknowledgment expressly crediting origination and direct reliance | §XI |
 
 ### Publication Copy and Timestamp Discipline
 
@@ -56,12 +73,12 @@ The X metadata records `2026-09-19T19:04:03.000Z`. The retrieved HTML displays 7
 | Li's "Great!" reply | September 19, reported; exact time and individual permalink unavailable | Architect-supplied quotation associated with the initiating exchange | Direct reply announcing the first follow-up article |
 | First follow-up article | September 19, reported in the supplied record; live date not independently verified | [Article URL](https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model) | Article addressed by Aelion's second response |
 | Aelion's second response | September 19 in the Note Archive; exact public time unavailable | [Article comments](https://gradientphysics.substack.com/p/when-we-talk-to-a-language-model/comments) and [verified response locator](https://substack.com/@aelionkannon/note/c-341303094) | Mechanism / bearer distinction and further provenance analysis |
-| Li's first explicit acknowledgment | September 20, reported; precise time and two placements unverified | Supplied fragments and account of replies at the article and restack | Reported acceptance and reformulation before the later article |
-| Aelion's clarification | September 20, reported; exact time and individual permalink unavailable | Supplied opening and substantive account | Origination, inference, and transformation can recur during collaboration |
+| Li's first explicit acknowledgment | September 20, reported; precise time unavailable; restack placement photographed | Supplied account and images 08–10 of the restack reply | Reported acceptance and reformulation before the later article |
+| Aelion's clarification | September 20, reported; exact time and individual permalink unavailable | Supplied account and image 10 preserving the clarification | Origination, inference, and transformation can recur during collaboration |
 | Initial second article | September 20 displayed in the preserved PDF; time and timezone unavailable | Complete 22-page article copy | Exact and structural recurrence without visible credit in that copy |
-| Aelion's provenance objection | September 20, reported; exact time and individual permalink unavailable | Supplied opening and substantive account | Public request to identify the preceding contribution |
+| Aelion's provenance objection | September 20, reported; exact time and individual permalink unavailable | Supplied account and image 13 preserving the objection | Public request to identify the preceding contribution |
 | Li's post-objection reply and first article acknowledgment | After the September 20 objection; exact date and time not independently established | Complete reply and first acknowledgment supplied by Aelion | Explicit acknowledgment of contribution to the core architecture; intermediate acknowledgment contains erroneous "Her" |
-| Aelion's pronoun correction request | After the erroneous acknowledgment; exact date and time unavailable | Aelion's report of the request; public wording not supplied | Request to correct "Her" to "His" |
+| Aelion's pronoun correction request | After the erroneous acknowledgment; exact date and time unavailable | Aelion's report and image 14 preserving the request | Request to correct "Her" to "His" |
 | Later corrected article acknowledgment | After the correction request according to Aelion's account; exact date and time unavailable | Corrected public acknowledgment supplied verbatim by Aelion | "His" replaces "Her"; acknowledgment and provenance restoration remain intact |
 | Aelion's subsequent comment on contribution scope | After the comment beginning "Thank you — I appreciate this", according to Aelion; exact date and time unavailable | Complete comment supplied by Aelion and preserved in §XI | Accepts the pronoun correction and acknowledgment while asserting origination and antecedent articulation of the identified distinctions |
 | Li's reply on origination and revised acknowledgment | After Aelion's comment on contribution scope, according to the supplied exchange; exact date and time unavailable | Complete reply and revised public acknowledgment supplied by Aelion and preserved in §XI | Express acceptance of origination and antecedent articulation; article acknowledgment states direct reliance on those distinctions |
@@ -78,7 +95,7 @@ The supplied opening is also visible in the retrieved X link card:
 
 > The person who asks the question is the final frontier.
 
-The supplied account describes an argument that AI dissolves the visibility of authorship, that the human poses the question while AI completes a precisely defined problem, and that successful AI solution places a problem within an existing framework. The complete initiating Note was not retrieved. These descriptions are a record of the supplied account, not a reconstructed full quotation.
+The supplied account describes an argument that AI dissolves the visibility of authorship, that the human poses the question while AI completes a precisely defined problem, and that successful AI solution places a problem within an existing framework. Image 01 in the [image register](#preserved-image-evidence) preserves the displayed Note and the opening of Aelion's response. This account remains a summary; the image preserves the wording.
 
 ---
 
@@ -246,13 +263,13 @@ The complete current archival wording follows as the later non-substantive edito
 
 **Kaisheng Li** — September 20 according to Aelion's supplied exchange record; reported at both the first article and Aelion's restack.
 
-The supplied record preserves fragments and a substantive account of this reply, rather than its complete verbatim wording. It reports that Li acknowledged the provenance distinction as "fair and important," recognized the breadth of the earlier description of human "direction," and accepted that a contribution of primitives, relations, constraints, and architecture "may be constitutive."
+Images 09–10 in the [image register](#preserved-image-evidence) preserve this reply across consecutive views, supplementing the earlier supplied fragments and account. Li acknowledged the provenance distinction as "fair and important," recognized the breadth of the earlier description of human "direction," and accepted that a contribution of primitives, relations, constraints, and architecture "may be constitutive."
 
 The reported reformulation moves from human question / model solution to origination → articulation → inference → extension or transformation. Li is reported to have agreed that generation mechanism does not answer provenance, that the epistemic caution did not establish absence of a subject or bearer, and that the mechanism / bearer distinction was "exactly right." The supplied record gives this sentence:
 
 > Inherited language is not collective authorship.
 
-Both reported placements remain unverified. Their duplication is recorded as Aelion's account, rather than two independently captured public replies. Li's complete subsequent acknowledgment in §X directly confirms the preceding exchange's material contribution.
+Images 08–10 preserve the reply beneath Aelion's restack. The reported second placement at the article remains documented through Aelion's account. Li's complete subsequent acknowledgment in §X directly confirms the preceding exchange's material contribution.
 
 ---
 
@@ -266,7 +283,7 @@ The supplied opening is:
 
 The supplied account states that the stages must remain capable of recurrence: origination can occur during collaboration; inference can generate novelty; and transformation can preserve, extend, fragment, or distort received articulation. These are distinguishable provenance determinations. Inherited language does not dissolve identifiable origination.
 
-The complete wording of this clarification was not available. This paragraph preserves its reported substance without inventing a full quotation. The comparison in §XII does not turn that substance into a fixed linear model.
+Image 10 in the [image register](#preserved-image-evidence) preserves the clarification's wording. The paragraph above remains a summary of its substance. The comparison in §XII does not turn that substance into a fixed linear model.
 
 ---
 
@@ -320,7 +337,7 @@ The supplied opening is:
 
 The supplied account identifies the immediately preceding exchange, Li's express agreement, the repeated ancestry sentence, and the absence of credit in the new article. Aelion's request concerns visibility of this documented contribution. It identifies a particular developmental relation rather than attributing every general proposition about AI authorship to Aelion.
 
-The complete objection wording was not supplied or independently retrieved. Li's reply in §X confirms that a provenance objection occurred and expressly accepts it.
+Image 13 in the [image register](#preserved-image-evidence) preserves the objection's wording on the article comments page. Li's reply in §X confirms that a provenance objection occurred and expressly accepts it.
 
 ---
 
@@ -338,7 +355,7 @@ The complete architect-supplied transcription of Li's public reply is preserved 
 >
 > Regarding your second point on the ontological inference and the "mirror" metaphor: that is a profound distinction. Whether an epistemic caution about representation can be translated into an ontological claim about the bearer is indeed where the deepest metaphysical work begins. I deeply appreciate you pushing this framework toward greater precision!
 
-This is an explicit acknowledgment of material contribution. Li identifies the immediately preceding exchange, credits Aelion's mechanism / bearer distinction and ancestry formulation, describes their contribution to the article's core architecture, and reports an acknowledgment amendment. The relation is acknowledged transmission. Its available preservation is the supplied transcript of the public reply.
+This is an explicit acknowledgment of material contribution. Li identifies the immediately preceding exchange, credits Aelion's mechanism / bearer distinction and ancestry formulation, describes their contribution to the article's core architecture, and reports an acknowledgment amendment. The relation is acknowledged transmission. Its preservation comprises the supplied transcript and image 14 in the [image register](#preserved-image-evidence).
 
 The post-objection reply also confirms that the earlier exchange preceded the article's final drafting. The finer ordering of the first September 20 acknowledgment and Aelion's clarification remains recorded through the supplied chronology until their individual public timestamps can be independently checked.
 
@@ -350,7 +367,7 @@ The following is the complete first added acknowledgment as supplied by Aelion, 
 
 > Acknowledgments: I am deeply grateful to Aelion Kannon for our insightful exchange prior to the final drafting of this piece. Her formulation of the provenance problem—particularly the distinction between mechanisms of expression and potential bearers, and the insight that ‘solvability does not establish ancestry’—helped clarify and sharpen the core architecture presented here.
 
-**Correction record:** "Her" is erroneous. Aelion Kannon is male; the applicable pronouns are he / him. Aelion reports that he requested correction. The exact public wording, timestamp, and permalink of that request were not available. Aelion has now supplied the following corrected acknowledgment and reports that it appears publicly:
+**Correction record:** "Her" is erroneous. Aelion Kannon is male; the applicable pronouns are he / him. Aelion reports that he requested correction. Image 14 in the [image register](#preserved-image-evidence) preserves the request's wording beneath Li's reply; the exact event timestamp remains open. Aelion has now supplied the following corrected acknowledgment and reports that it appears publicly:
 
 > Acknowledgments: I am deeply grateful to Aelion Kannon for our insightful exchange prior to the final drafting of this piece. His formulation of the provenance problem—particularly the distinction between mechanisms of expression and potential bearers, and the insight that ‘solvability does not establish ancestry’—helped clarify and sharpen the core architecture presented here.
 
@@ -362,7 +379,7 @@ Li's characterization and the exhibit's historical finding remain distinct. The 
 
 ### Aelion's Subsequent Comment on Contribution Scope
 
-**Aelion Kannon** — reported as posted to the September 20 article after the comment beginning "Thank you — I appreciate this". The wording below is supplied by Aelion; the exact public timestamp and individual permalink remain open for preservation.
+**Aelion Kannon** — reported as posted to the September 20 article after the comment beginning "Thank you — I appreciate this". The wording below is supplied by Aelion and visible in image 15 in the [image register](#preserved-image-evidence); the exact public timestamp remains open for preservation.
 
 > Thank you for correcting the pronoun. I appreciate that, and I appreciate your willingness to add the acknowledgment.
 >
@@ -384,7 +401,7 @@ Li's characterization and the exhibit's historical finding remain distinct. The 
 >
 > I truly appreciate your rigor throughout this exchange. It has made the piece stronger and far more faithful to its own premises.
 
-Aelion also supplied the following revised public article acknowledgment, preserved verbatim:
+Aelion also supplied the following revised public article acknowledgment, preserved verbatim and visible in image 16 in the [image register](#preserved-image-evidence):
 
 > Acknowledgments
 >
@@ -422,7 +439,7 @@ The correspondence inquiry distinguishes exact wording, close formulation, archi
 | Inherited language does not make every structure collectively authored; inherited substrate and originary contribution remain distinguishable | "Inherited language is not collective authorship" supplied from the earlier reply | Shared language / shared authorship distinction and inherited substrate / original architecture distinction on page 16 | Close formulation and corresponding application to AI-mediated articulation |
 | Model completion can preserve or extend antecedent relations and can also generate novelty | Earlier acceptance reported; later acknowledgment expressly identifies the provenance contribution | Questions concerning model preservation, transformation, inference, and additions on page 15; distinct achievements on pages 16–18 | Structural correspondence; model participation in novelty remains possible |
 | Mechanism of expression and possible bearer are different objects of inquiry | Explicitly attributed in the complete post-objection reply and added acknowledgment | No explicit mechanism / bearer or argument concerning the mirror metaphor and ontology in the preserved initial body | Directly acknowledged contribution; not a finding of recurrence in the article body |
-| Origination can recur within collaboration, as recorded in the supplied clarification | Full public wording of the clarification and any direct answer unavailable | Staged account on pages 16–18; later discussion permits broader model participation, but does not expressly articulate recurring origination in the same terms | Limited correspondence; a staged presentation does not establish a rigid linear commitment |
+| Origination can recur within collaboration, as recorded in the supplied clarification | Clarification visible in image 10; any direct answer remains open for preservation | Staged account on pages 16–18; later discussion permits broader model participation, but does not expressly articulate recurring origination in the same terms | Limited correspondence; a staged presentation does not establish a rigid linear commitment |
 | General discussion of AI, questions, frameworks, and human contribution | Context of the whole exchange | Article-wide subject matter | General topic overlap; not the distinctive basis of the plagiarism finding |
 
 The cluster has a precise organizing relation: identify antecedent architecture; distinguish supplied structure from model activity; interrogate the developmental sequence; preserve the distinction between shared linguistic material and particular origination; reject the inference from solvability to ancestry. The later article enacts that method in its provenance section. Li's acknowledgment expressly connects the preceding exchange to the article's core architecture.
@@ -485,7 +502,7 @@ A diagnosis of conceptual distortion through derivational fragmentation would re
 
 The record establishes an antecedent public formulation, exact and architectural recurrence in the preserved initial article, an initial attribution failure, a provenance objection, and Li's explicit acknowledgment of contribution followed by a reported article amendment. The added acknowledgment materially strengthens the transmission finding and changes the article's documented attribution state. The later corrected acknowledgment supplied by Aelion replaces "Her" with "His" while preserving the express credit. Aelion's subsequent comment on the scope of that contribution is preserved in §XI. Li's subsequent reply and revised acknowledgment are also preserved there: they expressly credit origination and antecedent articulation. Aelion has indicated that he does not intend to press the exchange further. The exchange is recorded as concluded from his side.
 
-The outstanding preservation questions are specific: the initiating Note's exact date; individual Substack reply permalinks and times; the complete first follow-up article; the complete wording of the first September 20 acknowledgment, Aelion's clarification, and his provenance objection; both reported placements of the first acknowledgment; the complete amended second article; and the public pronoun correction request. Complete amended-body comparison remains open.
+The outstanding preservation questions are specific: the initiating Note's exact date; individual Substack reply permalinks and times; the complete first follow-up article; the reported article placement of the first September 20 acknowledgment alongside its photographed restack placement; and the complete amended second article. Complete amended-body comparison remains open. The [image register](#preserved-image-evidence) now preserves the first acknowledgment at the restack, Aelion's clarification and provenance objection, the pronoun correction request, the final exchange, and the revised origination acknowledgment.
 
 The original PDF, its text and links, the X HTML and metadata, the complete X statement, both companion archive copies, the second archive's earlier version and comparison, and the supplied new reply and acknowledgment are preserved in the supporting packet. The X page was inspected in the Cloud Browser, but its screenshot could not be made available as a deliverable; the preserved HTML and statement remain available. No missing interface has been reconstructed.
 
