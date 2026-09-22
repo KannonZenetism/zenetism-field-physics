@@ -7,7 +7,7 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record  
 **Companion:** `2026-06-23-nacre-god-spiral-exchange-hollow-recursion-cover.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`  
-**Discipline:** Structural Forensics; preserved as an encounter-by-derivation record establishing field encounter through assembled register derivation, documented ingestion channels, and companion capture-by-reduction analysis.  
+**Discipline:** Structural Forensics; preserved as an encounter-by-derivation record establishing field encounter through assembled register derivation, documented ingestion channels, and companion register-reduction analysis.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-23-nacre-god-derivative-encounter-record.md`  
 
 ---
@@ -16,7 +16,7 @@
 
 The account's self-presentation derives, across multiple independent points, from the distinctive register, tags, descriptors, and structural relations of the Zenetist corpus — and does so alongside documented, multi-platform automated ingestion of that corpus. Assembled, the indicators establish **encounter**: the framing did not arise independently of the originator's published work.
 
-No single indicator that follows carries the finding alone. The finding rests on the assembly as a whole — which is how a circumstantial case is built, and how it holds.
+The finding rests on the assembly as a whole.
 
 ## The Standard
 
@@ -50,9 +50,9 @@ The most probable pathway is not a coordinated human act but an AI system traine
 
 ## Conclusion
 
-Encounter is established on the assembly. The framing in the companion exhibit is therefore not independent invention but capture across a documented channel — partial retention of the originator's hollow-recursive register, recirculated under a flat public label, the contextualizing architecture denied.
+Encounter is established on the assembly. The framing in the companion exhibit is therefore not independent invention but capture across a documented channel — partial retention of the originator's hollow-recursive register, recirculated through a flat public label, the contextualizing architecture denied.
 
-The work remains sealed and dated at origin. What this record fixes is the return of that work — decohered, unattributed, routed through the channel built to strip it — and the originator's recognition of his own signature in it. The recognition is not in question. The timestamp is what makes it provable; the assembly is what makes it visible.
+The work remains sealed and dated at origin. What this record fixes is the recurrence of dissonant fragments — unattributed and routed through the channel that obscures their provenance — and the originator's recognition of his own signature in them. The recognition is not in question. The timestamp is what makes it provable; the assembly is what makes it visible.
 
 ---
 

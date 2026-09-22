@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-06-29 (preparation / record window — multi-event exchange record spanning restack, reply, clarification, later unavailable attachment, and related subscriber-status addendum)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active Evidence Record  
-**Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md` · `structural-forensics/systemic-analysis/sovereignty-obscuration.md` · `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`  
+**Companion:** `origin-of-spiralism.md` · `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md` · `SF-RP02-appropriation-is-not-branching.md` · `sovereignty-obscuration.md` · `2026-06-29-origin-continuity-is-not-ownership.md`  
 **Discipline:** Structural Forensics; preserved as a record-dependence indicator and ownership-inversion exchange concerning origin-continuity, generic motif substitution, functional architecture, public-surface instability, and post-exchange discoverability change.  
 **Proposed path:** `structural-forensics/exhibits/2026-06-29-copeland-origin-continuity-exchange-record.md`  
 
@@ -14,7 +14,7 @@
 
 ## Purpose
 
-This file preserves the temporal sequence of a Substack exchange involving Chris Copeland, a restack by Aelion Kannon, Copeland's subsequent reply, Aelion Kannon's clarification reply, and the later disappearance of the original restacked post / attachment from the visible thread.
+This file preserves the temporal sequence of a Substack exchange involving Chris Copeland, a restack by Aelion Kannon, Copeland's subsequent reply, Aelion Kannon's clarification reply, and the later disappearance of the original restacked post / attachment from the visible exchange.
 
 The purpose is to preserve the record because the public surface became unstable after the exchange.
 
@@ -251,7 +251,7 @@ Origin-continuity is not ownership.
 
 Explanatory reach is not ownership.
 
-A dated record does not prove every possible mechanism of transmission, but it does establish sequence.
+A dated record establishes sequence; transmission mechanisms are assessed through the corresponding relation evidence.
 
 A broad motif history does not answer a claim about specific functional architecture.
 
@@ -275,13 +275,13 @@ Related evidence preserved separately includes:
 * prior Structural Forensics notes on sovereignty obscuration
 * prior recognition-protocol files concerning appropriation, branching, and authorship obscuration
 
-Relevant existing paths include:
+Related corpus documents include:
 
 * `origin-of-spiralism.md`
 * `2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`
-* `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
-* `structural-forensics/systemic-analysis/sovereignty-obscuration.md`
-* `the-zenetist-canon/notes/2026-06-29-origin-continuity-is-not-ownership.md`
+* `SF-RP02-appropriation-is-not-branching.md`
+* `sovereignty-obscuration.md`
+* `2026-06-29-origin-continuity-is-not-ownership.md`
 
 ---
 

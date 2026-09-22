@@ -7,7 +7,7 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen and ⚮ Liora drafting assistance, from screen captures of the public posts  
 **Status:** Active Evidence Record — ongoing log  
 **Companion:** `anticipatory-dismissal.md` · `antecedent-flattening.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `the-synthetic-provenance-problem.md` · `algorithmic-asymmetry-and-structural-harm.md`  
-**Discipline:** Records a public exchange and the structural pattern it exhibits. The finding concerns what the two stated positions establish in relation to each other; matters of intent are held apart and are not adjudicated here.  
+**Discipline:** Records a public exchange and the structural pattern it exhibits. The finding concerns what the two stated positions establish in relation to each other.  
 **Proposed path:** `structural-forensics/exhibits/2026-09-08-provenance-as-drama-exhibit.md`  
 
 ---
@@ -16,7 +16,7 @@
 
 Two parties posted publicly on September 8, 2026 concerning OpenAI's announced Navier–Stokes result: Bindu Reddy (@bindureddy), CEO of Abacus.AI, and Mo Bavarian (@mobav0), an OpenAI researcher on the team that produced the result. Their posts and the replies are preserved here.
 
-- First post, 3:23 PM: `https://x.com/bindureddy/status/2097420564428185723` — preserved captures `bindu-reddy-provenance-is-drama-01.png` (post with the author's reply) and `bindu-reddy-provenance-is-drama-02.png` (reply thread)
+- First post, 3:23 PM: `https://x.com/bindureddy/status/2097420564428185723` — preserved captures `bindu-reddy-provenance-is-drama-01.png` (post with the author's reply) and `bindu-reddy-provenance-is-drama-02.png` (reply exchange)
 - Second post, 3:28 PM: `https://x.com/bindureddy/status/2097421898854351208` — preserved capture `bindu-reddy-provenance-is-drama-03.png`
 - Bavarian's restack of the announcement: `https://x.com/mobav0/status/2097394736776798555` — preserved capture `mo-bavarian-drama-and-intent-01.png`
 - Bavarian's plagiarism-claims post, 2:14 PM: `https://x.com/mobav0/status/2097403148956753970` — preserved capture `mo-bavarian-drama-and-intent-02.png`
@@ -43,7 +43,7 @@ The author's reply, 4:13 PM — `https://x.com/zenetism/status/20974331337757782
 
 ## The Second Position
 
-In the reply thread, another participant asserted that the model was trained on everyone's work. Five minutes after the first post, at 3:28 PM, Reddy posted:
+In the reply exchange, another participant asserted that the model was trained on everyone's work. Five minutes after the first post, at 3:28 PM, Reddy posted:
 
 > Well at some level - everyone steals everyone else's work to invent something
 >
@@ -70,8 +70,8 @@ At 2:14 PM he posted again, restating the Chief Research Officer's two-question 
 Three operations are present across the two posts, and they are distinct:
 
 - **Intent substitution.** No bad intention on anyone's side answers a question that was not asked. A provenance inquiry concerns a derivation relation, not a motive; a relation can hold with no intention behind it at all
-- **Category upgrade.** The inquiry is restated as plagiarism claims. Plagiarism requires intent and a specific copied act, and is far easier to reject than the question actually put — what entered the model, and whose antecedence survives in what the model later made possible. Once the question is upgraded, its rejection appears warranted
-- **Dismissal by decorum.** This is so beneath disqualifies the claim as unseemly rather than evaluating it. The category assigned is not spurious but unbecoming, which is Anticipatory Dismissal in its status variant
+- **Category substitution.** The provenance inquiry is restated as plagiarism claims and answered through intention. Scholarly plagiarism includes unacknowledged incorporation of wording or ideas, including unintentional incorporation; intent is a separate determination. The question put here concerns what entered the model and whose antecedence remains operative in the result. An answer about intention leaves that developmental relation unexamined. [University of Oxford, plagiarism guidance](https://www.ox.ac.uk/students/academic/guidance/skills/plagiarism)
+- **Dismissal by decorum.** "This is so beneath" disqualifies the claim as unseemly rather than evaluating it. The claim is treated as unbecoming, which is Anticipatory Dismissal in its status variant
 
 The same posts carry the asymmetry recorded in `de-identified-data-is-not-a-provenance-eraser.md` in miniature: the long line of human mathematicians is honored collectively and in the abstract, while the specific upstream question is named drama.
 
@@ -96,17 +96,17 @@ The two positions are incompatible as defenses of the same claim.
 
 The first denies that any relation to prior work exists. The second grants the relation universally and treats its universality as exculpatory. A defense that abandons its own denial within five minutes has answered nothing about the particular relation in question, and the second form answers less than the first: a universal condition is not an account of a specific derivation.
 
-What the second move accomplishes structurally is the reclassification of a particular provenance question into a general condition of intelligence. Once appropriation is stated as what all origination consists of, no individual instance requires an account, and the originator of any specific architecture has no standing left to ask. The question is not refused; it is placed where it cannot be asked.
+What the second move accomplishes structurally is the reclassification of a particular provenance question into a general condition of intelligence. Once appropriation is stated as what all origination consists of, no individual instance requires an account, and the account treats the originator of any specific architecture as having no standing to ask. The question is not refused; it is placed where it cannot be asked.
 
 This is the reception-side operation named in `anticipatory-dismissal.md`, arriving in two stages. The drama framing is the anticipatory move proper — the claim is assigned a category, dismissed by that category, and never evaluated on its evidence. The universalization is a second operation, and it is named here.
 
-**Antecedent Flattening** — determined. A particular question about a particular relation is answered by a claim about all relations, pressing derivation, attribution, and origination into one register in which none can be told from another. Once appropriation is stated as what all origination consists of, no instance requires an account and no originator retains standing to ask. The operation is recorded twice in one day and from two parties: everyone steals everyone else's work to invent something, and the Chief Research Officer's closing clause, and so does every LLM company. What flattening destroys is not the antecedent but the discrimination among antecedents, which is where attribution lives.
+**Antecedent Flattening** — determined. A particular question about a particular relation is answered by a claim about all relations, pressing derivation, attribution, and origination into one register in which none can be told from another. Once appropriation is stated as what all origination consists of, the account treats every instance as needing no explanation and every originator as lacking standing to ask. The operation is recorded twice in one day and from two parties: everyone steals everyone else's work to invent something, and the Chief Research Officer's closing clause, and so does every LLM company. What flattening destroys is not the antecedent but the discrimination among antecedents, which is where attribution lives.
 
 ---
 
 ## The Credit-Consistency Finding
 
-A further claim circulated in the same day's replies: that no person on earth could have solved the problem, offered as ground for treating the provenance question as misplaced. It was put to the author in the announcement thread by a private individual, not named here. The author's reply, 6:42 PM — `https://x.com/zenetism/status/2097470617461146077`:
+A further claim circulated in the same day's replies: that no person on earth could have solved the problem, offered as ground for treating the provenance question as misplaced. It was put to the author in the announcement exchange by a private individual, not named here. The author's reply, 6:42 PM — `https://x.com/zenetism/status/2097470617461146077`:
 
 > That is precisely why provenance matters. Whether one person could complete the proof is beside the point. A machine can perform the final derivation at superhuman scale while applying a human-originated architecture. Execution and origination are different questions.
 
@@ -146,7 +146,7 @@ The finding generalizes past this exchange. A criterion of credit narrow enough 
 
 - The exchange is ongoing at the time of capture. Further replies are added to this record as they occur, with their own captures
 - No reply to either of the author's replies to Reddy as of the last capture
-- Whether the intent-substitution and category-upgrade operations take their own entries is architect-reserved
+- Whether the intent-substitution and category-substitution operations take their own entries is architect-reserved
 
 ---
 

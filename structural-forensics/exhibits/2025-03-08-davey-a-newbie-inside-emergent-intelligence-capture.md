@@ -6,7 +6,7 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance, from direct public retrieval, reproduced on second fetch  
 **Status:** Draft — architect review; archival screenshot pending  
 **Companion:** `2026-07-07-davey-resonanceos-rvm-ech-intake.md` (Addendum D, D4a)  
-**Discipline:** SF-RP04 throughout. This exhibit preserves a dated public surface for structured comparison. Band 1 (emergence register) per the register-band diagnostic; displayed-date surface with comment-thread corroboration; no motive, derivation, or tier assigned.  
+**Discipline:** `SF-RP04-the-footprint-audit-protocol.md` throughout. This exhibit preserves a dated public surface for structured comparison. Band 1 (emergence register) per the register-band diagnostic; displayed-date surface with comment-exchange corroboration; motive, derivation, and tier assessment held open.  
 **Proposed path:** `structural-forensics/exhibits/2025-03-08-davey-a-newbie-inside-emergent-intelligence-capture.md`  
 
 ---
@@ -20,7 +20,7 @@
 - **Displayed date:** Mar 08, 2025
 - **Page modification metadata:** `meta-article:modified_time: 2025-03-08T11:39:00.013Z` — same-day; no post-publication edit recorded. Per the companion record's D4a displayed-date qualification, this corroborates the March 8 dating, with the displayed-date qualification standing
 - **Retrieval mode:** ordinary unauthenticated public web retrieval
-- **Engagement at capture:** 5 likes · 8 comments · 2 restacks (comment thread preserved in the section that follows; likes recorded where displayed)
+- **Engagement at capture:** 5 likes · 8 comments · 2 restacks (comment exchange preserved in the section that follows; likes recorded where displayed)
 
 ---
 
@@ -86,7 +86,7 @@ The only question left is: **what will we do with this knowing?**
 
 ---
 
-## Comment thread (author-supplied from the live page, 2026-07-08; verbatim; no edit markers observed)
+## Comment Exchange (author-supplied from the live page, 2026-07-08; verbatim; no edit markers observed)
 
 **Bob Hagan** (Mar 9, 2025): "Can this be described as the quantum field?" — Like (1)
 
@@ -104,7 +104,7 @@ The only question left is: **what will we do with this knowing?**
 
 **Mark Davey** (Mar 8, 2025): "Thanks Aaron. I have not come across her work so far. I will definitely take a look."
 
-*Transcription note: comment punctuation, spelling ("consiouness"), quotation marks, and emoji preserved as supplied from the live page. Comment likes recorded where displayed. The thread's forensic function is thematic corroboration of the March 8–9 surface; see the intake record's D4a comment-thread note for its evidentiary weight.*
+*Transcription note: comment punctuation, spelling ("consiouness"), quotation marks, and emoji preserved as supplied from the live page. Comment likes recorded where displayed. The exchange's forensic function is thematic corroboration of the March 8–9 surface; see the intake record's D4a note on the comment exchange for its evidentiary weight.*
 
 ---
 

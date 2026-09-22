@@ -12,7 +12,7 @@
 
 ---
 
-## I1 · Scope and evidentiary discipline
+## I1 · Scope and Evidentiary Discipline
 
 This exhibit stands at intake class. It preserves an observation and its basis: the author's classification, recorded as such. Dependence, derivation, and external determination of synthetic status are held open.
 
@@ -24,17 +24,17 @@ Three classes are held apart throughout and are never collapsed:
 
 Only the first is presently held. The second has not been located. The third has not been performed.
 
-## I2 · The surface
+## I2 · The Surface
 
 **Title:** *I Tested Thoth's Method for Seeing Archons With Physical Eyes for 30 Nights — Night 19 Broke Me*
 
-**URL:** `https://www.youtube.com/watch?v=NQosfXe_hZ4`
+**URL:** `https://www.youtube.com/watch?v=NQosfXe_hZ4`  
 
-**Displayed release date:** 2026-08-14, per the author's YouTube capture, preserved as the contemporaneous surface record.
+**Displayed release date:** 2026-08-14, per the author's YouTube capture, preserved as the contemporaneous surface record.  
 
 The title is independently indexed by YouTube search.
 
-## I3 · Associated channel set
+## I3 · Associated Channel Set
 
 The surface displays the video as **"Hermetic Talk and 3 more"**.
 
@@ -46,11 +46,11 @@ Public indexing surfaces the same video on:
 
 The Library of Thoth search surface describes itself as a personal channel and points toward `@danielmorenoyt`.
 
-**The fourth associated channel is held open.** Its identity is not inferred from the "and 3 more" label, and no fourth channel is named here.
+**The fourth associated channel remains to be identified.**
 
 A broader presented network is publicly linked through The Reality Codex, which describes Daniel Moreno as founder of Insights Academy, Law Of Insights, Library of Thoth, and further properties. That network may bear on surface and account-operation analysis. It is not conflated with the four-channel collaboration set on this video.
 
-## I4 · Author classification and its basis
+## I4 · Author Classification and Its Basis
 
 The author classifies the displayed persona as synthetic at approximately 99.9 percent personal confidence.
 
@@ -64,15 +64,15 @@ The author classifies the displayed persona as synthetic at approximately 99.9 p
 
 The author notes long-duration familiarity with rendered and animated human figures, through lifelong engagement with rendered media, as part of the perceptual basis for the recognition.
 
-Per SF-RP04 §9, author recognition of this kind is a lawful **intake signal**. It is recorded here as author classification with a stated perceptual basis, and the protocol externalizes it through the registered checks where the matter proceeds further.
+Per `SF-RP04-the-footprint-audit-protocol.md` §9, author recognition of this kind is a lawful **intake signal**. It is recorded here as author classification with a stated perceptual basis, and the protocol externalizes it through the registered checks where the matter proceeds further.
 
-## I5 · Disclosure status
+## I5 · Disclosure Status
 
 A targeted public search has **not located** an explicit statement that the persona is AI-generated.
 
 That result establishes that no disclosure was located in that search; disclosure elsewhere is held open, and the author's classification rests on its own stated basis (I4).
 
-## I6 · First-person provenance classes carried by the title
+## I6 · First-person Provenance Classes Carried by the Title
 
 The title is recorded here because of what it claims, independently of who or what produced it.
 
@@ -83,21 +83,21 @@ The title is recorded here because of what it claims, independently of who or wh
 
 Four testimonial classes are stacked into a single first-person narrative: experimental labor → physical embodiment → longitudinal lived duration → autobiographical consequence.
 
-This is the configuration §12 of *The Synthetic Provenance Problem* treats: the presentation of non-lived embodiment and biography in the factual register of first-person testimony — not anthropomorphic phrasing, and not legible fiction.
+This is the configuration `the-synthetic-provenance-problem.md` §12 treats: the presentation of non-lived embodiment and biography in the factual register of first-person testimony — not anthropomorphic phrasing, and not legible fiction.
 
-Where the persona is human, the claims are ordinary autobiography and nothing in §12 applies. The classification and the claim-analysis are separate, and the second does not depend on the first.
+The claim-analysis identifies the four testimonial relations presented by the title. Synthetic status is separately assessed through the author's recorded observations and the technical verification task at I8.
 
-## I7 · Register note
+## I7 · Register Note
 
 The associated channels operate within a Hermetic, Gnostic, and Thoth-oriented register.
 
-Inherited esoteric material is commons, and the corpus claims none of it; no dependence determination follows from the register.
+The inherited esoteric register supplies the setting in which the first-person provenance claims appear.
 
 The register's relevance here: the surface presents highly specific first-person embodied testimony **inside** an inherited symbolic register, which makes it a clear instance of the distinction already drawn between fictional persona narration, inherited symbolic material, and factual first-person provenance claims. It bears conceptually on Retrospective Stationing, Retrospective Traditionalization, and Synthetic Retrospective Continuity.
 
-Any question of specific application, chronology, or derivational structure proceeds per SF-RP04 and SF-RP05, held open beyond this intake.
+Any question of specific application, chronology, or derivational structure proceeds per `SF-RP04-the-footprint-audit-protocol.md` and `SF-RP05-the-register-band-classification-protocol.md`, held open beyond this intake.
 
-## I8 · Open items
+## I8 · Open Items
 
 - external technical verification of synthetic status — not performed
 - platform disclosure status — not located

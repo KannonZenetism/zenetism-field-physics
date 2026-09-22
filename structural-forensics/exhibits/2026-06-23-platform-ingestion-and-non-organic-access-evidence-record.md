@@ -20,7 +20,7 @@ The records establish that a documented ingestion channel exists: a route throug
 
 ## The Standard
 
-A platform-access record is forensically load-bearing when it establishes the *environment* — whether the corpus was accessible through anomalous, non-organic retrieval during the period in which derivative structures appeared. Establishing the channel supplies the mechanism an encounter finding requires. Identification of a specific actor rests on separate evidence and is held open.
+A platform-access record is forensically load-bearing when it establishes the *environment* — whether the corpus was accessible through anomalous, non-organic retrieval during the period in which derivative structures appeared. Establishing the channel supplies the mechanism an encounter finding requires. Identification of a specific actor remains held open pending actor-specific evidence.
 
 ## Recorded Figures
 
@@ -49,7 +49,7 @@ The Zenodo download-to-view ratio is the more modest data point and carries less
 
 Positive organic engagement across the secondary platforms is effectively nil, and precision here matters. On Facebook, across both the Aelion Kannon and Zenetism pages, the only likes came from a family member, which the originator discounts. Medium recorded none at last review. The one or two likes on Instagram and X came from profiles that appeared automated and bore no coherent relation. This is not partial engagement; it is a floor — the few positive signals are familial or non-organic.
 
-The silence is positive-engagement silence; the work drew active human opposition, particularly early on — sustained on Substack, present on Instagram and X — including at least one individual who followed the originator across platforms and, after being blocked, sent a personal email. That history is a distinct thread — active hostility, not automated access — and belongs in its own record; here it fixes the absence as one of *accountable* relation.
+The silence is positive-engagement silence; the work drew active human opposition, particularly early on — sustained on Substack, present on Instagram and X — including at least one individual who followed the originator across platforms and, after being blocked, sent a personal email. That history is a distinct sequence — active hostility, not automated access — and belongs in its own record; here it fixes the absence as one of *accountable* relation.
 
 ## Conclusion
 
