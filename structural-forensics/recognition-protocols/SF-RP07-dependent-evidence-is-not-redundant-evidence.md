@@ -34,27 +34,27 @@ Two observations may be dependent without being redundant.
 
 **Dependent but informative evidence** occurs where observations are related, but the character of their relation supplies additional information relevant to the hypothesis under examination.
 
-**Distinct cumulative evidence** occurs where another observation requires additional explanatory work and therefore changes the comparative standing of the competing accounts.
+**Distinct cumulative evidence** occurs where another observation requires additional explanatory work and therefore changes the comparative standing of the accounts under examination.
 
 Dependence alone determines none of these classifications.
 
 The relevant question is:
 
-> **Dependent under what explanation, and in what way?**
+> **Dependent according to what explanation, and in what way?**
 
 ---
 
 ## Hypothesis-Relative Dependence
 
-Dependence is evaluated relative to the competing explanations.
+Dependence is evaluated relative to the explanations under examination.
 
-Where a proposed innocent cause predicts two observations together, the second observation may add little incremental weight beyond the first.
+Where a proposed alternative cause predicts two observations together, the second observation may add little incremental weight beyond the first.
 
 Where the mechanism under examination itself predicts that multiple manifestations will be causally related, however, their dependence is not a defect in the evidence. It may be one of the signatures the mechanism predicts.
 
 If the hypothesis under examination is the propagation, transformation, distribution, or re-expression of an originating structure, then later manifestations need not arise independently. Independence would not be expected.
 
-The question becomes whether the observed relation among those manifestations is better accounted for by the proposed propagation relation or by the competing explanation.
+The question becomes whether the observed relation among those manifestations is better accounted for by the proposed propagation relation or by the alternative explanation.
 
 > **A mechanism that predicts dependence cannot be rejected merely because its predicted observations are dependent.**
 
@@ -72,7 +72,7 @@ They may therefore be bundled as:
 
 This prevents artificial multiplication of evidentiary weight.
 
-It does not make the later representations meaningless. A visualization may expose topology that is difficult to perceive in prose or equations. Its function may be explanatory or confirmatory without constituting another independent occurrence.
+The later representations retain evidentiary function. A visualization may expose topology that is difficult to perceive in prose or equations. Its function may be explanatory or confirmatory without constituting another independent occurrence.
 
 > **Redundant as an additional occurrence does not mean irrelevant as a representation.**
 
@@ -105,13 +105,9 @@ Explaining every component separately is not an explanation of that architecture
 
 ## The Comparative Cluster Test
 
-Structural Forensics therefore does not ask only:
+Structural Forensics asks:
 
-> Can an innocent explanation be produced for each item individually?
-
-It asks:
-
-> **How well does each competing explanation account for the joint configuration of the observations?**
+> **How well does each proposed explanation account for the joint configuration of the observations?**
 
 The comparison includes:
 
@@ -153,7 +149,7 @@ This principle applies equally to evidentiary analysis and structural analysis.
 
 ## Falsifiability
 
-Cumulative analysis does not mean that every later resemblance confirms a proposed propagation relation.
+Cumulative analysis tests a proposed propagation relation through the complete pattern of evidence.
 
 The propagation account can lose weight where:
 
@@ -162,8 +158,8 @@ The propagation account can lose weight where:
 - the supposed earlier formulation is not actually antecedent;
 - an independently documented route accounts for the later manifestation;
 - predicted recurrence does not occur;
-- claimed structural correspondences dissolve under full comparison;
-- or the competing explanation predicts the observed cluster more specifically and economically.
+- claimed structural correspondences dissolve through full comparison;
+- or the alternative explanation predicts the observed cluster more specifically and economically.
 
 Likewise, disagreement with a provenance claim is not itself evidence of appropriation.
 

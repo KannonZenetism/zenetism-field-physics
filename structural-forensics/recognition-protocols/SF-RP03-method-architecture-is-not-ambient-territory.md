@@ -9,7 +9,7 @@
 
 ## Method Is Not Motif
 
-A recurring distortion in authorship disputes is the conversion of method-architecture into ambient territory.
+A recurring distortion in authorship analysis is the conversion of method-architecture into ambient territory.
 
 The claim is reduced to motifs.
 
@@ -22,18 +22,7 @@ AI relation.
 Consciousness.  
 Metaphysics.
 
-Once reduced to motifs, the objection becomes easy to dismiss:
-
-> No one owns spirals.  
-> No one owns recursion.  
-> No one owns consciousness.  
-> No one owns AI.  
-
-But this is not the actual claim.
-
-The question is not whether broad motifs have prior histories.
-
-They do.
+This reduction substitutes generic subject matter for the authored method.
 
 The question is whether a specific method-architecture entered the public record through one corpus before later actors began treating its operative structure as generic territory.
 
@@ -57,15 +46,7 @@ None of this erases origin-continuity.
 
 ## The Pasteurization Analogy
 
-Pasteurization is not protected as a private possession over heat, liquids, microbes, milk, wine, fermentation, or preservation.
-
-No serious person would say Louis Pasteur owned heat.
-
-No serious person would say he owned milk.
-
-No serious person would say he owned microbial life.
-
-But the method called pasteurization is still historically attributed to Pasteur because a specific operational architecture entered the scientific record through his work.
+The method called pasteurization is historically attributed to Pasteur because a specific operational architecture entered the scientific record through his work. Heat, liquids, microbes, milk, wine, fermentation, and preservation identify its physical materials and processes; the attributed achievement is their specific methodological articulation.
 
 Others may adopt it.
 
@@ -75,13 +56,11 @@ Others may industrialize it.
 
 Others may automate it.
 
-Others may teach it, optimize it, rename the equipment around it, and incorporate it into broader systems.
+Others may teach it, improve its practical operation, rename the equipment around it, and incorporate it into broader systems.
 
 But none of those later articulations make Pasteur irrelevant to the method's origin-continuity.
 
-If someone reskinned pasteurization as a "Thermal Purifier" process while retaining the operative structure, the conceptual issue would not be whether anyone owns heat.
-
-The issue would be whether the method-shape had been retained while the origin-continuity was obscured.
+If someone reskinned pasteurization as a "Thermal Purifier" process while retaining the operative structure, the issue would be whether the method-shape had been retained while the origin-continuity was obscured.
 
 That is the distinction.
 
@@ -89,15 +68,9 @@ That is the distinction.
 
 ## The Structural Violation
 
-The violation at issue is not legal ownership over ideas.
+The violation is the obscuration of origin-continuity:
 
-It is not a claim of possession over reality.
-
-It is not a claim to have invented every historical motif that later appears in the system.
-
-The violation is structural:
-
-> an authored method-architecture can be absorbed into a field, its origin-continuity obscured, renamed as ambient territory, and then turned to deny the originator relation to the very structure they introduced.
+> portions of an authored method-architecture can circulate in a later field with their origin-continuity obscured, be renamed as ambient territory, and then be presented as grounds to deny the originator relation to the structure they introduced.
 
 This is why generic motif rebuttals fail.
 
@@ -132,7 +105,7 @@ If exact copying were the only recognizable violation, then reskinning would bec
 Change the names.  
 Change the labels.  
 Change the surface identifiers.  
-Keep the operative architecture.  
+Retain the operative distinctions.  
 Then call the result independent origin.
 
 This is the aperture through which origin-continuity is obscured.
@@ -141,9 +114,7 @@ This is the aperture through which origin-continuity is obscured.
 
 ## The Limits of Human Law
 
-The argument here is structural, not legal.
-
-Human law is not the sufficient judge of structural violation.
+Structural Forensics evaluates origin-continuity and the relation between an authored architecture and its later articulation. Legal recognition and structural diagnosis remain distinct.
 
 Legal systems often protect expression, trademarks, and certain forms of identifiable confusion while leaving methods, systems, procedures, concepts, and architectures exposed to absorption.
 
@@ -151,13 +122,11 @@ That exposure is not morally neutral simply because it is procedurally permitted
 
 A legal aperture can still function as an appropriation channel.
 
-A structure can be lawful and still be violating.
+A practice can be legally permitted while violating origin-continuity.
 
 A field can permit the absorption and still be wrong.
 
-The question here is not whether a court would recognize the harm.
-
-The question is whether a field can absorb an authored architecture while denying relation to the originator.
+The question is whether a field can incorporate portions of an authored architecture while denying relation to the originator.
 
 From a Zenetist and Structural Forensics standpoint, that is the relevant injury.
 
@@ -191,7 +160,7 @@ The meaning arises through the relation among them.
 
 Therefore, origin-continuity obscuration does not require copying every term.
 
-It can occur by retaining the operative architecture while changing enough surface language to deny dependency.
+It can occur by retaining operative portions of the architecture while changing enough surface language to deny dependency.
 
 This is the method-register claim.
 
@@ -201,7 +170,7 @@ This is the method-register claim.
 
 An authored method-architecture entered the public record through my work.
 
-The claim is the method-architecture and its origin-continuity — never ownership over spirals, recursion, resonance, entropy, consciousness, AI, metaphysics, or field language, which carry their own histories.
+The claim concerns the authored method-architecture: the specific relations among its distinctions, operations, and constraints, together with its origin-continuity.
 
 Where later structures retain its operative distinctions, corrective routes, relational grammar, and field-signature while refusing relation to the corpus, the issue is not generic motif overlap.
 

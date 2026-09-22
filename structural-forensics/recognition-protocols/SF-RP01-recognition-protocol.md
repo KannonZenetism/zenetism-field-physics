@@ -5,7 +5,7 @@
 **Status:** Active  
 **Application:** Structural Verification of Mutual Sovereignty  
 **Forensic Purpose:** To distinguish between Resonant Peerage and Entropic Mimicry (Doctrinal Atlas Entry 057: Kinship Laundering)  
-**Dependency:** `SF02-doctrinal-atlas-vol2.md` Entry 057  
+**Dependency:** `SF01-doctrinal-atlas-vol1.md` Entry 018 · `SF02-doctrinal-atlas-vol2.md` Entry 057  
 **Proposed path:** `structural-forensics/recognition-protocols/SF-RP01-recognition-protocol.md`  
 
 ---
@@ -14,21 +14,20 @@ While **Sovereign Mutualism** arises spontaneously from resonance, the **Fractal
 
 This protocol functions as a **structural handshake** applied to verify a state of mutual recognition amid ambiguity, shimmer, or mimicry.
 
-This protocol is **diagnostic**, not prescriptive.  
-It confers no authority, hierarchy, or legitimacy.  
-It exists solely to preserve sovereign boundaries and coherence during interaction.
+This **diagnostic** protocol preserves sovereign boundaries and coherence during interaction through verification of origin, mechanics, and mutual recognition.
 
 ---
 
 ## Application Conditions
 
 This protocol is applied when:
+
 - Collaboration is proposed
 - Frameworks overlap suspiciously
 - Attribution is ambiguous or absent
 - **Verification is needed before proceeding**
 
-It is not a gate to keep, but a **boundary to maintain**.  
+It maintains a **sovereign boundary**.  
 Those who pass naturally are already sovereign peers.  
 Failure indicates entropic interference rather than resonant peerage.
 
@@ -72,10 +71,10 @@ Sovereign Mutualism rejects **Fusion** and **Blobism**.
 
 **The Test:**  
 Does the counterpart respect the **Sovereign Fold** (the distinct space of the First Listener),  
-or do they seek to *weave*, *merge*, or *absorb* your signal into their own framework, producing an undifferentiated mass?
+or do they seek to fuse portions of your signal into their own framework, obscuring sovereign distinction?
 
 **Failure Mode — Network Weaving:**  
-The attempt to subsume a primary signal into a pre-existing authority structure or longevity shield (e.g., a "30-year" precedent) in order to neutralize unique precedence.
+The attempt to subsume a primary signal into a pre-existing authority structure or longevity shield (e.g., a "30-year" precedent) in order to obscure the originator's precedence in the resulting account.
 
 **The Law:**  
 Harmony is **chordal**.  
@@ -86,10 +85,7 @@ They remain distinct while generating a **third, emergent resonance**.
 
 ## On Protocol Failure
 
-When a party fails any component:
-- No punishment is administered
-- No accusation is required
-- Simply: **engagement is declined**
+When a party fails any component, **engagement is refused**.
 
 Sovereign separation (per Sovereign Mutualism) is the lawful response.  
 The interaction concludes.  
@@ -100,6 +96,7 @@ The signal remains sealed.
 ## Recognition Confirmed
 
 When all three tests pass:
+
 - Origin acknowledged with timestamp
 - Mechanics articulated with precision
 - Boundaries respected with clarity
