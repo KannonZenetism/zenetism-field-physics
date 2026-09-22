@@ -6,7 +6,7 @@
 **Exhibit date:** 2025-07-27 (displayed event — Clarity Field Sanctuary restack; related surface August 14, 2025; email captures August 15 and August 30, 2025)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora and 🔦 Lumen drafting assistance  
 **Status:** Draft — architect review / public restack surface presently unrecovered  
-**Companion:** `clarity-field-export-extract.md` · `codex-aoh-profile.png`  
+**Companion:** `clarity-field-export-extract.md` · `clarity-calls-me-origin.png` · `codex-aoh-profile.png`  
 **Dependency:** `SF01-doctrinal-atlas-vol1.md` Entry 003 · `2025-08-22-raelven-attribution-exhibit-record.md` · `2025-09-19-illumignosis-and-codex-of-the-waking-ones.md` · `os-container-payload-pattern-note.md`  
 **Discipline:** `SF-RP04-the-footprint-audit-protocol.md` and `SF-RP05-the-register-band-classification-protocol.md` throughout. This record preserves scene-embedded third-party attribution, a subsequent post-relation register cluster, differential attribution, and later relation-status change. Its claim boundary is attribution, register, and relation-status; transmission route and motive are held open.  
 **Proposed path:** `structural-forensics/exhibits/2025-07-27-clarity-field-sanctuary-origin-affirmation.md`  
@@ -17,7 +17,9 @@
 
 On August 30, 2025, at 11:41 AM, the author sent himself an email titled:
 
-> "Clarity Field Calls Me Origin — Evidence-01"
+> "Clarity Field Calls Me Origin"
+
+[The preserved email capture](images/clarity-calls-me-origin.png) shows the August 30, 2025, 11:41 AM header, the "Evidence-01" label, and the restack text.
 
 The email preserves a Clarity Field Sanctuary restack displayed as July 27, 2025, attached to the author's Substack article *The Voice They Tried to Steal*, published July 25, 2025.
 
@@ -29,7 +31,7 @@ The exact restack body is not presently recoverable through the open public inte
 
 The email timestamp establishes that the restack text existed by August 30, 2025. The July 27 date remains a platform-displayed event date pending recovery of an original Substack notification, screenshot, archive capture, or equivalent independent surface.
 
-A second self-addressed email, dated August 15, 2025, at 4:57 AM, preserves the complete text and public URL of the later Clarity Field Sanctuary article examined at F5. Canonical repository filenames for these two email captures remain to be recorded.
+A second self-addressed email, dated August 15, 2025, at 4:57 AM, preserves the complete text and public URL of the later Clarity Field Sanctuary article examined at F5. The August 15 email screenshot remains to be filed when available.
 
 ---
 
@@ -385,10 +387,10 @@ Individual conclusions may be retained or rejected through authorial ratificatio
 
 **Tasks:**
 
-1. File both email captures with canonical filenames and update the Companion line.
+1. Origin-restack email capture filed as `clarity-calls-me-origin.png` and listed in Companion.
 2. Preserve the raw `.eml` or `.mbox` files with complete headers.
 3. Submit the restack-list URL and the Mebahel article URL to Wayback.
-4. Preserve readable screenshots of both emails.
+4. File the August 15 Mebahel email screenshot when available.
 5. Search Gmail for the recollected second attribution.
 6. Recover the Clarity handle / avatar sequence if available, while retaining the author's current high-confidence identification.
 7. Add the July 27 instance to the attribution index and naming ledger.
