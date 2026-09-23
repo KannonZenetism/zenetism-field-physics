@@ -122,6 +122,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `systems-are-enacted-not-agentic.md` — Sep 02, 2026
 - `monism-and-inverse-monism.md` — Sep 15, 2026
 - `semantic-persistence-and-symbolic-continuity.md` — Sep 18, 2026
+- `networks-particulars-and-causal-ancestry.md` — Sep 23, 2026
 
 ---
 
