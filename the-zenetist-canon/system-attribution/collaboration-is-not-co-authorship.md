@@ -28,7 +28,7 @@ Distinct contributional roles can remain fully real within one collaborative wor
 
 ## Particularity Requires Particulars
 
-> “Moreover, particularity requires something to be particular, namely originators and collaborators. Without that, or any other distinction, nothing particular remains.”
+> Moreover, particularity requires something to be particular, namely originators and collaborators. Without that, or any other distinction, nothing particular remains.
 
 Collaboration presupposes distinguishable collaborators. Provenance presupposes distinguishable relations of origin, contribution, transformation, or continuation. Relation itself presupposes relata.
 
