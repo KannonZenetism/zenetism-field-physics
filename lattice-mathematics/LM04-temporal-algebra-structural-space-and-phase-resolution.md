@@ -130,7 +130,7 @@ Formally, \( \mathfrak{d}(\mathcal{L}) \) is a topological space \( (X, \mathscr
 
 1. \( \mathfrak{d}(\mathcal{L}) \) is not a metric space at supernal or subversal layers (L₂–L₅ / IL₂–IL₅). Metric structure emerges only at embodiment (L₁ / IL₁).
 2. \( \mathfrak{d}(\mathcal{L}) \) is **pre-polar** with respect to centropy and entropy — it stands as the invariant relational condition through which both orientations become distinguishable and traversable.
-3. \( \mathfrak{d}(\mathcal{L}) \) does not exist at Supra-L₀ or L₀ in the hypostatic sense. Trans-structural and pre-hypostatic domains precede relational differentiation.
+3. \( \mathfrak{d}(\mathcal{L}) \) does not exist at Supra-L₀ or L₀ in the hypostatic sense. Trans-structural and pre-hypostatic domains precede manifested hypostatic spatial differentiation.
 
 ### 2.3 The Second-Order Space Theorem
 
@@ -152,9 +152,9 @@ Formally:
 
 1. By the Dependency Ordering Axiom (§2.1), spatial differentiation \( \mathfrak{d} \) requires motion \( \mathfrak{m} \) as a necessary condition.
 
-2. Motion requires \( \mathcal{M} > 0 \) (Activation Theorem, LM03 §2.6). When \( \mathcal{M} = 0 \), the system resides in either \( \Phi_1 \) (Latent) or \( \Phi_3 \) (Dispersive), where no traversal occurs and no relational distinction arises.
+2. Motion requires \( \mathcal{M} > 0 \) (Activation Theorem, LM03 §2.6). When \( \mathcal{M} = 0 \), the system resides in either \( \Phi_1 \) (Latent) or \( \Phi_3 \) (Dispersive), where no traversal occurs and no manifested hypostatic spatial differentiation arises.
 
-3. Without relational distinction, the generating set for \( \mathscr{T} \) is empty, so \( \mathfrak{d}(\mathcal{L}) = \emptyset \).
+3. Without manifested hypostatic spatial differentiation, the generating set for \( \mathscr{T} \) is empty, so \( \mathfrak{d}(\mathcal{L}) = \emptyset \).
 
 4. Conversely, when \( \mathcal{M} > 0 \) and traversal proceeds through the lattice, structural configurations become relationally distinguishable, generating a non-trivial topology.
 

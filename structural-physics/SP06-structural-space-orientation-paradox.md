@@ -107,6 +107,12 @@ Thus:
 - Motion is traversal along structure, not movement within a container.
 - Time is the experiential trace of oriented traversal.
 
+In descriptions of non-embodied hypostatic domains, "non-spatial" means that their relations are not determined by the ordinary physical laws and geometry of embodied spacetime. Structural space retains differentiation, relational extension, relative position, inter-domain relations, layering, membrane relations, directionality, and topology. Inter-layer traversal is domain shift across structural thresholds, not physical travel through ordinary three-dimensional space.
+
+Diagrammatic stacking represents these relations. A layer could be represented as an indefinitely extended horizontal domain while retaining its membrane relations and traversal conditions. Horizontal extension does not preclude layering. Layering does not entail hierarchy of worth, and causal precedence establishes no superiority.
+
+Vertical, left-to-right, right-to-left, radial, or mixed arrangements can express the architecture when they preserve its actual relations and motion distinctions. The present vertical imagery articulates centropic procession and Aion-facing return, entropic motion, erosion of relative structure, terminal dynamics, and membrane traversal. Acclivous and declivous retain their arc-relative meanings through any change of diagrammatic arrangement.
+
 ### 1.2 Clarification on Latent Essence, Motive Infinity, and Manifest Orientation
 
 The dependency order **Structure → Motion → Spatial Differentiation → Orientation → Time** describes *manifest* orientation: the enacted direction of traversal within time and the material universe, which is a result of motion. Three registers must be held distinct, so that this does not collapse into the claim that centropy and entropy require motion in order to be what they are.

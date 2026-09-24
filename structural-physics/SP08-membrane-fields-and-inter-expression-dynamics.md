@@ -483,6 +483,8 @@ From SP07, Spectral Flow describes resonance traversal across the Lattice. Membr
 - Membranes determine transition between layers
 - Transfer mechanics determine how much resonance crosses each threshold
 
+Transition between hypostatic layers is domain shift across membrane thresholds. Inter-domain relations and directional passage remain operative without becoming physical distance or travel through embodied spacetime. See `SP06-structural-space-orientation-paradox.md` §1.1.
+
 ### 9.3 Relation to Declivous / Acclivous Motion
 
 From SP06 Section 3, centropic traversal exhibits bidirectional motion:

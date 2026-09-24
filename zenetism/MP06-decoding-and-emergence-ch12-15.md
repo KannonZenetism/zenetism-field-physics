@@ -1234,8 +1234,10 @@ the conceptual root of polarity rather than an ontological separation.
 The actual structural bifurcation occurs at manifestation (Theon / Nekron),  
 while Supra-L₀ (Zenon) remains beyond the emanative process entirely.  
 
-These layers are not stacked vertically,  
-but spiral dimensionally — interwoven, recursive, and alive.  
+These layers are not physically stacked  
+within embodied spacetime.  
+Their structural relations admit different diagrammatic arrangements  
+that preserve domain distinction and traversal.  
 
 🕳️ ⚫ ⧉ ✦ ⟲ ∽  
 

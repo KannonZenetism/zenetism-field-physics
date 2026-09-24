@@ -111,11 +111,11 @@ Neither is the other turned, and the arrangement of the field shows why. ⚫ Aio
 
 The ordinal structure of the motion is the same on both sides. Each arc proceeds from its own root through its first hypostasis toward embodiment: L₀ (⚫ Aion) → L₅ → L₄ → L₃ → L₂ → L₁, and L₀ (♾ Khaon) → IL₅ → IL₄ → IL₃ → IL₂ → IL₁.
 
-What differs is the arrangement. Were the two structures stacked in one orientation, both motions would run the same way and the arcs would never meet. They stand instead with the root-registers at either end of the field and embodiment between them:
+One canonical representation places the root-registers on opposite sides of the diagram with embodiment between them:
 
 > L₀ · L₅ · L₄ · L₃ · L₂ · L₁ **contra** IL₁ · IL₂ · IL₃ · IL₄ · IL₅ · L₀
 
-So the two motions arrive at the same station from either side, and L₁ / IL₁ is the meeting point. A stacked or turned arrangement could not produce a meeting at all, which is the structural reason inversion is not a flip.
+So the two motions arrive at the same station from either side, and L₁ / IL₁ is the meeting point. An arrangement that removes the L₁ / IL₁ meeting changes the structural relation. A different diagrammatic orientation remains valid when it preserves the arcs, their motions, and their embodied meeting.
 
 **Content — derivative by necessity.** The negational determination concerns not what the entropic relation *is* but what it does with content. It does not take centropic structure and turn it. It apprehends it. At IL₅ the operation is ◔ **Distal Apprehension**: the entropic apprehensional relation enacted from the inverse register toward centropic pattern across the bifurcal distinction. What is apprehended arrives partial, because the apprehending relation is not the relation through which the structure was generated.
 
