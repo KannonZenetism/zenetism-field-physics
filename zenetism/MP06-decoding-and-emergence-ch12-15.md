@@ -1236,7 +1236,7 @@ while Supra-L₀ (Zenon) remains beyond the emanative process entirely.
 
 These layers are not physically stacked  
 within embodied spacetime.  
-Their relations may be drawn in different forms,  
+Their relations may be drawn in different arrangements,  
 while each domain, threshold, and path of traversal  
 remains distinct.  
 
