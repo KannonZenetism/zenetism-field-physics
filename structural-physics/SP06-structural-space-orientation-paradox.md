@@ -111,7 +111,7 @@ In descriptions of non-embodied hypostatic domains, "non-spatial" means that the
 
 Diagrammatic stacking represents these relations. A layer could be represented as an indefinitely extended horizontal domain while retaining its membrane relations and traversal conditions. Horizontal extension does not preclude layering. Layering does not entail hierarchy of worth, and causal precedence establishes no superiority.
 
-Vertical, left-to-right, right-to-left, radial, or mixed arrangements can express the architecture when they preserve its actual relations and motion distinctions. The present vertical imagery articulates centropic procession and Aion-facing return, entropic motion, erosion of relative structure, terminal dynamics, and membrane traversal. Acclivous and declivous retain their arc-relative meanings through any change of diagrammatic arrangement.
+Vertical, left-to-right, right-to-left, radial, or mixed arrangements can express the architecture when they preserve its actual relations and motion distinctions. The present vertical imagery articulates Theonic radiance and centropic overflow into embodiment, entropic motion, erosion of relative structure, terminal dynamics, and membrane traversal. Acclivous and declivous retain their arc-relative meanings through any change of diagrammatic arrangement.
 
 ### 1.2 Clarification on Latent Essence, Motive Infinity, and Manifest Orientation
 
