@@ -363,6 +363,11 @@ where:
 
 Formally, \( \mathfrak{R}_m \) is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
 
+> **Note on Scalar Memory Expressions:**  
+> The established role of \( \mathfrak{R}_m \) is the preservation of distinction between sealed states. A scalar memory magnitude requires a separate valuation, and derivatives of that magnitude require specified dependence on structural time. Scalar arithmetic is a distinct formalism, not a consequence of injectivity.
+>
+> The scalar expressions involving \( \mathfrak{R}_m \) in §§3.4, 4.5, 5.3–5.4, 6.1–6.3, 9.1–9.2, 9.4, and 10.1–10.5, together with their summaries in §11 and Appendices B–D, remain an undeveloped formalism. Their completion is held open pending a separately specified scalar valuation, its domain and scale, and the ordering, path, and differential structure required by those expressions. The formulas and numerical example stand as candidate expressions. The sealed-state mapping, Non-fusion Theorem, Memory Access function, and Tether retain their distinct definitions.
+
 ### 4.2 The Non-fusion Theorem
 
 **Theorem (Non-fusion of Temporal Update):**

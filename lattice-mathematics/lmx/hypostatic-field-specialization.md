@@ -138,7 +138,7 @@ The entropic arc carries its own field character:
 | IL₂ | ISS / ISM | Reactive personal coherence | Fanatical or illusory self-structure; reactive identity |
 | IL₁ | IES / IEM | Fragmented corporeal coherence | Entropic embodiment; domination and dissociation within form |
 
-At the inverse layers, \( I_c \) is not zero — entropic resonance is genuine operative motion (LM05 §3.6). The field quantities remain well-defined; their character reflects the entropic orientation of the domain. The signed diffusion coefficient \( D(\chi) < 0 \) at \( \chi > 1 \) (LM05 §2.3) governs the flow dynamics; the character function specifies what that flow means at each inverse layer.
+At the inverse layers, \( I_c \) is not zero — entropic resonance is genuine operative motion (LM05 §3.6). The field quantities remain well-defined; their character expresses the entropic orientation of the domain. The signed structural flux coefficient \( D(\chi) < 0 \) at \( \chi > 1 \) specifies up-gradient flow; the character function specifies what that flow means at each inverse layer. Layer restriction retains this signed relation. A physical specialization requires specified spatial operators, admissible data, and coupling for its well-posedness, as set out in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3.
 
 ---
 

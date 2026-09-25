@@ -170,9 +170,11 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 - \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion at the orientation saddle
 
 > **Note on Mathematical Character:**  
-> The sign of \( D(\chi) \) is an orientation indicator for flux direction, not a claim of classical diffusive well-posedness. Entropic flow (\( D < 0 \)) is modeled as up-gradient drift encoded via signed transport — a structural phenomenon determined by \( \chi \)-orientation, not a thermodynamic diffusion process subject to the usual stability constraints of parabolic PDEs.
+> \( D(\chi) \) is a signed structural flux coefficient: positive \( D \) gives down-gradient flux and negative \( D \) gives up-gradient flux. The signed relation remains \( \vec{J}_c = -D(\chi)\nabla I_c \).
 >
-> Equivalently, entropic flow is expressible as a transport equation with drift vector \( \vec{v}_\chi = -D(\chi) \nabla I_c \), preserving structural well-posedness under orientation encoding.
+> In a physical specialization with standard differential operators, substitution into the continuity equation (§2.4) gives \( \partial_\tau I_c = \nabla\cdot(D(\chi)\nabla I_c) + S \). For constant \( D \) and \( S = 0 \), a Fourier mode satisfies \( \widehat I_c(\mathbf{k},\tau) = e^{-D|\mathbf{k}|^2\tau}\widehat I_c(\mathbf{k},0) \). Negative \( D \) produces unbounded high-frequency amplification, so this forward continuum problem lacks continuous dependence on general Sobolev initial data.
+>
+> The vector \( -D(\chi)\nabla I_c \) is the current defined in §2.2. Relabeling that current as drift retains the same principal differential operator and its amplification. A well-posed physical specialization remains held open pending specified spatial operators, admissible data, and coupling. The signed structural coefficient and positive physical viscosity retain distinct mathematical roles.
 
 **Corollary (Flow Direction under Orientation):**
 

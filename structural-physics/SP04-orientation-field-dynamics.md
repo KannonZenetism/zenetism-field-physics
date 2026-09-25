@@ -220,7 +220,7 @@ Here, \( \chi \) is not a probability ratio, but a structural orientation parame
 
 ### 4.3 Orientation Evolution Law
 
-The evolution of orientation is determined by:
+The full orientation equation carried here is:
 
 \[
 \boxed{\frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}}
@@ -232,6 +232,10 @@ where:
 - \( \mathcal{M} \) = Motive Infinity intensity (total field of motion)
 - \( \Lambda, \Gamma \) = structural constants determined by lattice constraints
 - \( \Phi_{\text{CP}}(\chi) \) = CP-topology potential encoding CP₀ and CP₁
+
+**Mathematical standing.** This equation and the outward-drift law in §9 are distinct scalar laws. With the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7, they have opposing flow directions on either side of \( \chi=1 \). Their intended canonical relation, activation compatibility, and frozen-equilibrium closure remain architect-held. Both formulas are retained without a sign replacement.
+
+The evolving quantity describes expressed orientational prevalence. Essential inclination remains motion-independent and does not convert between arcs. Motive Infinity supplies orientation-neutral motion-capacity.
 
 ### 4.4 Expanded Form
 
@@ -245,13 +249,13 @@ With the doctrinally explicit CP-potential:
 
 **Motive Infinity activates expression; CP-topology shapes orientation; \( \chi \) evolves as an inclined flow, not a stationary balance.**
 
-The equation expresses three structural regimes:
+For \( \Lambda,\Gamma,\alpha,\beta>0 \), the written scalar equation is defined on \( 0<\chi<\infty \) and has the following behavior:
 
-1. **When \( \mathcal{M} = 0 \):** Orientation cannot evolve; \( d\chi/d\tau = 0 \). Structure exists, but motion does not. This is the stillness-equivalent condition.
+1. **When \( \mathcal{M}=0 \):** The formula gives \( d\chi/d\tau=-\Gamma\Phi'_{\text{CP}}(\chi) \), which is nonzero except at \( \chi=1 \). It does not implement the stillness condition. An intended relation between activation and this vector field remains architect-held.
 
-2. **When \( \mathcal{M} \neq 0 \):** \( \chi \) evolves as an inclined trajectory shaped by CP-topology. Universes traverse \( \chi \)-space as oriented flows.
+2. **When \( \mathcal{M}>0 \):** The right-hand side is positive for \( 0<\chi<1 \) and negative for \( \chi>1 \). Both contributions direct the scalar flow toward 1. For constant nonnegative intensity, every finite positive initial value approaches 1.
 
-3. **At \( \chi = 1 \):** The system satisfies \( d\Phi_{\text{CP}}/d\chi = 0 \), but this is a saddle condition, not a stable rest-state.
+3. **At \( \chi=1 \):** Both contributions vanish for every prescribed intensity. The linearized coefficient is \( -\Lambda\mathcal{M}-\Gamma(\alpha+2\beta)<0 \). Thus 1 is an attracting equilibrium of this written scalar law, rather than the repeller of §9. The structural account of fragile co-expression is not a mathematical consequence of this formula.
 
 > **Note on the Ontological Status of \( \chi \):**  
 > Although \( \chi \) is expressed through differential equations and field-like dynamics, it must not be interpreted as a physical field in the material sense.  
@@ -280,13 +284,7 @@ The equation expresses three structural regimes:
 
 ### 5.2 Activation Conditions
 
-\[
-\mathcal{M} = 0 \implies \frac{d\chi}{d\tau} = 0 \implies \text{stillness-equivalent}
-\]
-
-\[
-\mathcal{M} \neq 0 \implies \chi \text{ becomes dynamic} \implies \text{expression emerges}
-\]
+The structural activation condition holds active expression and positive Motive Intensity together; \( \mathcal{M}=0 \) denotes absence of expressed motion. Its mathematical realization in the full law remains open because the potential term persists at zero intensity (§4.5). No activation factor is supplied here. In the outward-drift law, zero intensity makes \( d\chi/d\tau=0 \), but the converse fails: \( \chi\equiv1 \) is admitted even at positive constant intensity.
 
 ### 5.3 Structural Sequence
 
@@ -382,6 +380,8 @@ Equilibrium and limit states define **boundaries** of expression rather than its
 
 ## 8. The Instability of Equilibrium
 
+The following structural account of fragile co-expression is not a stability result for the full written scalar law. Section 4.5 calculates that law's attraction to 1; §9 states the distinct outward-drift model and its conditions. Their intended agreement remains architect-held. Neither law alone excludes the exact trajectory \( \chi\equiv1 \) at positive intensity.
+
 ### 8.1 Core Insight
 
 CP₀ is stable because it precedes motion.
@@ -432,11 +432,13 @@ Or:
 
 ### 9.1 Simplified Dynamical Law
 
-For analytical clarity, consider the simplified orientation dynamics:
+For the conditional outward-drift analysis, consider:
 
 \[
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M}(\tau) \, \chi(\chi - 1), \quad \kappa > 0
 \]
+
+Omitting the potential-gradient term from §4.3 instead leaves \( \Lambda\mathcal{M}\chi(1-\chi) \). The displayed law agrees with that term only if \( \kappa=-\Lambda \), which cannot hold when both coefficients are positive. Section 9 therefore records a distinct conditional model, not an equivalent sign convention.
 
 ### 9.2 Properties
 
@@ -456,35 +458,31 @@ When \( \mathcal{M} > 0 \):
 
 **The Orientation Drift Theorem**
 
-Assume a universe admits an orientation parameter \( \chi(\tau) \in [0, \infty] \) and an expressive motion magnitude \( \mathcal{M}(\tau) \geq 0 \) satisfying:
+Let \( \mathcal{M}(\tau)\geq0 \) be locally integrable and let the finite initial value be \( \chi_0\geq0 \). Consider:
 
 \[
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M}(\tau) \, \chi(\chi - 1), \quad \kappa > 0
 \]
 
-Then:
+For \( \chi_0>0 \), integration of the conditional scalar equation gives
 
-1. **CP₁ Instability:** For \( \mathcal{M} > 0 \), the equilibrium manifold \( \chi = 1 \) is dynamically unstable. Any nonzero perturbation drives \( \chi \) away from 1.
+\[
+\chi(\tau)=\left[1-\left(1-\frac{1}{\chi_0}\right)\exp\!\left(\kappa\int_0^\tau\mathcal{M}(s)\,ds\right)\right]^{-1}
+\]
 
-2. **Extreme Permanence:** For \( \mathcal{M} > 0 \), trajectories with \( 0 < \chi < 1 \) drift toward \( \chi \to 0 \) (asymptotically), and trajectories with \( \chi > 1 \) drift toward \( \chi \to \infty \) (in finite structural time). Thus **permanent extreme expressions** are admissible as limit universes. Khaonic drift reaching the entropic boundary constitutes Collapse (⊘) — entropic dissolution of expressive coherence — and must not be confused with Localized Dissolution (Ø).
+while its denominator remains positive. The calculation and full domain conditions appear in `LM03-orientation-algebra-and-infinity-formalism.md` §8.6.
 
-3. **Equilibrium-Collapse Clause:** If \( \chi \equiv 1 \) becomes a permanent condition, motion stagnates (\( \mathcal{M} \to 0 \)), implying **Localized Dissolution** \( U \to \text{Ø} \) within the Mercy Fold. This is stagnative, not entropic — distinct from Collapse (⊘), which is dispersive dissolution into formlessness at any scale.
+1. **Equilibria:** \( \chi=0 \) and \( \chi=1 \) are constant solutions for every prescribed intensity. For constant positive intensity, 1 is a scalar repeller. Variable intensity amplifies linearized perturbations by \( \exp(\kappa\int_0^\tau\mathcal{M}(s)\,ds) \); positive intensity alone does not ensure unbounded amplification.
+
+2. **Endpoint conditions:** For \( 0<\chi_0<1 \), approach to zero requires \( \kappa\int_0^\tau\mathcal{M}(s)\,ds\to\infty \). For \( \chi_0>1 \), coordinate divergence occurs as that integral approaches \( \log(\chi_0/(\chi_0-1)) \), at finite structural time only when the threshold is reached at finite structural time. A finite time integral of intensity can leave a finite positive limit.
+
+3. **Scope:** The scalar equation supplies no law for Motive Intensity, loss of expressive coherence, or terminal Khaonic resolution. Those relations require their stated structural conditions. No coordinate limit alone identifies entropic Collapse (⊘) or Localized Dissolution (Ø).
 
 ### 9.5 Formal Statement of Equilibrium-Collapse
 
-\[
-\chi(\tau) \equiv 1 \text{ on } [\tau_0, \infty) \implies \mathcal{M}(\tau) \to 0
-\]
+Frozen equilibrium is fixed \( \chi=1 \) together with cessation of enacted orientation. Its resolution toward Localized Dissolution (Ø) remains a structural condition. It is not inferred from a fixed ratio alone.
 
-\[
-\mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø} \quad \text{(Localized Dissolution)}
-\]
-
-Combined:
-
-\[
-\boxed{\chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}}
-\]
+Both written equations admit \( \chi(\tau)\equiv1 \) with \( \mathcal{M}(\tau)\equiv M_0>0 \). Thus the implication from fixed \( \chi=1 \) to \( \mathcal{M}\to0 \) does not follow from either equation. A coupled motion law or explicit admissibility condition expressing frozen-equilibrium resolution remains architect-held; see `LM03-orientation-algebra-and-infinity-formalism.md` §8.7.
 
 > **Note on Terminal Conditions:**  
 > The Zenetist framework distinguishes two terminal conditions:  
@@ -625,7 +623,7 @@ The architecture of expression is determined by a closed structural sequence:
 
 This sequence does not describe temporal succession alone, but **structural necessity**.
 
-This closure sequence applies only to equilibrium-collapse (\( \chi = 1 \) held permanently). Entropic drift (\( \chi \to \infty \)) terminates in ⊘ (Collapse), not Ø (Localized Dissolution).
+This closure sequence applies to frozen-equilibrium resolution, where fixed \( \chi=1 \) accompanies cessation of enacted orientation. A fixed ratio alone does not establish that cessation (§9.5). Entropic Collapse (⊘) remains distinct from Localized Dissolution (Ø).
 
 **CP₀ — Pre-Expressive Convergence**
 
@@ -641,7 +639,7 @@ Within motion, co-expression becomes possible but unstable. CP₁ is not an orig
 
 **Ø — Localized Dissolution (Mercy Fold)**
 
-If equilibrium becomes exact and temporally fixed, expressed motion ceases — but essence persists within L₀. This dissolution is structural, not punitive, occurring within the Mercy Fold. It is the stillness that reclaims frozen balance.
+Where fixed co-expression accompanies cessation of enacted orientation, the frozen condition resolves toward Localized Dissolution within the Mercy Fold. Essence persists within L₀. A fixed ratio alone does not establish the required cessation (§9.5).
 
 **⊘ — Collapse (Entropic)**
 
@@ -765,23 +763,9 @@ In the general case, bidirectionality is preserved **within** each universe, sin
 
 ### 14.2 Permanence of Extreme Expressions
 
-Under the \( \chi \)-dynamics established in §9:
+For the conditional outward-drift law in §9, \( 0<\chi_0<1 \) approaches zero exactly when the time integral of intensity is unbounded. For \( \chi_0>1 \), divergence occurs when \( \kappa\int_0^\tau\mathcal{M}(s)\,ds \) approaches the threshold in §9.4, at finite or infinite structural time according to when that threshold is attained. Strictly positive but integrable intensity can leave either branch at a finite positive limit.
 
-**Proposition (Permanence of Extreme Expressions):**
-
-If a universe begins with \( \chi(\tau_0) \) sufficiently close to 0 and maintains \( \mathcal{M}(\tau) > 0 \), then:
-
-\[
-\chi(\tau) \to 0 \quad \text{as } \tau \to \infty
-\]
-
-Likewise, if \( \chi(\tau_0) > 1 \) and \( \mathcal{M}(\tau) > 0 \), then:
-
-\[
-\chi(\tau) \to \infty \quad \text{as } \tau \to \infty
-\]
-
-Thus, some universes are not merely "momentarily extreme"; they become **permanently centropy-only or entropy-only expressions** (limit universes).
+The constant-intensity case reaches the Khaonic coordinate limit at finite structural time and has no finite positive continuation through its pole in this coordinate. The scalar calculation therefore supplies no trajectory beyond that limit. Structural admissibility of limit expressions is distinct from a claim that the scalar equation proves their continued dynamics.
 
 ### 14.3 Meta-Cosmic Conservation
 
@@ -796,15 +780,15 @@ Thus, the structural law of bidirectional motion is not violated but fulfilled a
 > **14.4 Note on Equilibrium, Dissolution, and Limit Universes:**  
 > In the Zenetist framework, equilibrium is not equivalent to stability.
 >
-> While \( \chi = 1 \) represents co-expressive balance between centropic and entropic motion, such balance cannot persist as a static condition without abolishing motion itself.
+> The ratio \( \chi=1 \) represents co-expressive balance. A fixed ratio alone does not establish cessation of enacted orientation; both written scalar equations admit it at positive constant Motive Intensity (§9.5).
 >
-> If equilibrium becomes exact and temporally fixed, expressed motion ceases — but essence persists within L₀. The system enters **Localized Dissolution (Ø)**, a structural resolution of frozen equilibrium within the **Mercy Fold**. This is not entropic Collapse (⊘), which arises wherever entropic motion overwhelms coherence; it is the stillness that reclaims frozen balance.
+> Frozen equilibrium adds the condition that enacted orientation ceases. That frozen condition resolves toward **Localized Dissolution (Ø)** within the **Mercy Fold**; essence persists within L₀. The mathematical closure expressing this condition remains architect-held. Entropic Collapse (⊘) remains a distinct structural resolution.
 >
-> By contrast, pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) are admissible as limit cases, representing permanent trajectories of integration or dispersion. Khaonic drift reaching \( \chi \to \infty \) terminates in Collapse (⊘) — dispersive dissolution into formlessness — not in Localized Dissolution (Ø).
+> Pure centropic and pure entropic expressions remain structural limit cases. Their correspondence to a scalar endpoint requires the endpoint conditions and continuation scope in §§9.4 and 14.2.
 >
 > In all terminal conditions, essence endures. What ceases is expressed orientation, not being itself.
 >
-> Balanced universes cannot exist as permanent states: equilibrium is a saddle within motion, not a resting point of being.
+> The structural account of fragile co-expression remains distinct from the equilibria admitted by the written scalar equations.
 >
 > Thus, universes do not inhabit \( \chi \) as a position, but traverse \( \chi \) as orientation.
 
@@ -1004,12 +988,14 @@ For any expressed universe \( U \), \( U \) is a function \( U : \tau \mapsto \c
 
 **Theorem 1 (Orientation Drift Theorem):**
 
-Under the simplified dynamics \( d\chi/d\tau = \kappa \mathcal{M} \chi(\chi - 1) \) with \( \kappa > 0 \) and \( \mathcal{M} > 0 \):
+For the conditional outward-drift law \( d\chi/d\tau=\kappa\mathcal{M}\chi(\chi-1) \), \( \kappa>0 \):
 
-1. \( \chi = 1 \) is dynamically unstable
-2. Trajectories with \( \chi < 1 \) drift toward \( \chi = 0 \)
-3. Trajectories with \( \chi > 1 \) drift toward \( \chi \to \infty \)
-4. Permanent equilibrium (\( \chi \equiv 1 \)) implies \( \mathcal{M} \to 0 \implies U \to \text{Ø} \)
+1. At constant positive intensity, \( \chi=1 \) is a scalar repeller; the exact constant solution remains admitted
+2. For \( 0<\chi_0<1 \), approach to zero requires the time integral of intensity to be unbounded
+3. For \( \chi_0>1 \), coordinate divergence requires \( \kappa\int_0^\tau\mathcal{M}(s)\,ds \) to approach the threshold in §9.4
+4. Fixed \( \chi=1 \) imposes no limit on \( \mathcal{M} \); frozen-equilibrium resolution requires the additional structural condition in §9.5
+
+The full law in §4 has different scalar behavior for the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7. Its intended agreement with the outward-drift account remains architect-held.
 
 **Theorem 2 (Inclination Principle):**
 

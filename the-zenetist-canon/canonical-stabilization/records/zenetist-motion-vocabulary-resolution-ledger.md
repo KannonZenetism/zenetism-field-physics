@@ -4,25 +4,24 @@
 >
 > Administrative tracking document only. It does not alter, supersede, or propagate into any Zenetist corpus file. No entry is approved merely because it appears here.
 
-## Purpose
+## Purpose and Review Boundary
 
-This ledger separates four things that were mixed together in the motion / cross-disciplinary vocabulary research package:
+This ledger tracks the original 30-item motion / cross-disciplinary vocabulary package. Each item has one disposition in §III. The target index, verification record, and decision list point to those entries rather than maintaining duplicate checklists.
 
-1. proposed additions to `zenetist-analytic-vocabulary-and-accessibility-framework.md`
-2. terminology corrections discovered during review
-3. genuine mathematical or architectural issues that require separate correction
-4. research-only constructions that should remain outside the general vocabulary framework unless separately approved
+The repository baseline is `KannonZenetism/zenetism-field-physics` commit `487ee30d9111ec89add2d2c3e6a2f550fbf5c884`. The attached ledger and repository ledger were identical at that baseline. Completion in this record means verification in the baseline or in the accompanying local patch, as stated for each item. No commit, push, merge, publication, or remote-file change is asserted.
 
-Continue the review through this persistent checklist until the entire review is closed.
+The bounded pass covers the named originating definitions, equations, surrounding sections, and directly dependent formulations. It adds no general vocabulary entries, selects no physical realization or new scalar valuation, and leaves the architect-held metric question unchanged.
 
 ## Status Key
 
-- **REVIEW** — proposed vocabulary / clarification still requires architect decision
-- **REVISE** — the idea may stand, but the proposed wording is architecturally inaccurate
-- **SEPARATE FIX** — genuine issue in an originating corpus / math file; do not treat as a vocabulary-only edit
-- **HOLD** — do not integrate into the general vocabulary framework yet
-- **NO CHANGE** — already adequately covered
-- **CLOSED** — architect determination settled and verified in the required target(s)
+- **CLOSED** — the stated target correction is verified; any separate research hold remains explicit
+- **NO CHANGE** — existing coverage is verified and an additional entry would duplicate it
+- **REVIEW** — definite corrections are recorded, but the specified architect decision remains open
+- **HOLD** — intentional research standing; no integration or decision is due within this pass
+- **REVISE** and **SEPARATE FIX** — retained package categories; their earlier entries now carry the more precise disposition in §III
+- **[x]** — correction or no-change assessment complete for the stated scope
+- **[ ]** — the identified resolution remains incomplete
+- **—** — intentional hold, distinct from an unfinished correction
 
 ---
 
@@ -84,222 +83,155 @@ Do not capitalize or canonize these phrases unless a later architect decision es
 
 ---
 
-# II. Immediate Correction Tracker
+# II. Correction Target Index
 
-These are the items that currently appear to require an actual source-file correction or dedicated resolution, rather than merely an Analytic Vocabulary decision.
+The six P1 issues retain their identities here. Their completion standing appears once, in §III.
 
-| Priority | Issue | Primary Source(s) | Current Standing | Required Action | Done |
-|---|---|---|---|---|---|
-| P1 | Active-process wording incorrectly includes **dispersive** and can make Motive Infinity appear dispersive | `khaonic-phase-and-the-discernibility-limit.md` | **CLOSED** | Verified: orientation-neutral Motive Infinity, continuing configuration change, actual entropic fragmentation, terminal Dispersive Infinity, and the discernibility limit remain distinct | [x] |
-| P1 | Incoherence Quotient carries broad "dispersive" wording, and its stated negative / 0–1 scale does not follow from the written nonnegative quotient | `the-incoherence-quotient.md` | **SEPARATE FIX** | Review terminology and mathematics separately. Reserve Dispersive for Khaonic terminal phase; define any signed margin separately or revise the metric domain / normalization | [ ] |
-| P1 | Full and simplified χ evolution laws may have different sign behavior | `LM03-orientation-algebra-and-infinity-formalism.md`; `SP03-expression-ratio-mathematics.md`; LMX Appendix A | **SEPARATE FIX** | Verify intended dynamics and equations in a separate mathematical review before any sign replacement | [ ] |
-| P1 | Signed structural flux coefficient: negative `D(χ)` / up-gradient relation contra well-posed physical transport | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` | **SEPARATE FIX** | Determine exact mathematical standing. Keep native signed relation distinct from positive physical viscosity and from any well-posed physical specialization | [ ] |
-| P1 | Any scalar "memory magnitude" associated with the Recursive Memory operator requires a separate definition | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` | **SEPARATE FIX** | Determine whether scalar valuation is actually required. If required, define a scalar functional; otherwise remove / avoid unsupported scalar operations | [ ] |
-| P1 | "Apparent stasis is slow entropy" may conflict with frozen χ = 1 being stagnative but not intrinsically entropic | `spirit-soul-and-apparent-stillness.md`; `terminological-lockdown-protocol.md`; `zenetist-analytic-vocabulary-and-accessibility-framework.md` | **CLOSED** | Verified: observational macro-stasis, possible entropic drift, passage through \( \chi = 1 \), frozen stagnation, entropic trapping, and active dynamic stabilization retain distinct scope | [x] |
+| Priority | ID | Issue | Required target or direct dependency |
+|---|---|---|---|
+| P1 | V06 | Active-process wording and orientation-neutral Motive Infinity | `khaonic-phase-and-the-discernibility-limit.md` |
+| P1 | V26 | IQ phase terminology, quotient domain, signed branch, normalization, denominator, and thresholds | `the-incoherence-quotient.md` §§1–8; IQ references in `FP02-applied-resonance-manual.md` Ch. 10, `FP04-field-immunity-architecture.md` Ch. 15, and `entropic-self-exhaustion-and-centropic-endurance.md` §4 |
+| P1 | V21 | Full and outward-drift χ laws and their consequences | `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and dependent statements; `SP04-orientation-field-dynamics.md`; `zenetism-as-cross-disciplinary-grammar.md` A.7 / B.8. `SP03-expression-ratio-mathematics.md` was checked and contains no χ evolution ODE |
+| P1 | V18 | Signed structural flux and forward physical well-posedness | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3; `hypostatic-field-specialization.md` §5; `zenetism-as-cross-disciplinary-grammar.md` A.7 / B.7.2 |
+| P1 | V19 | Recursive Memory state mapping and unsupported scalar operations | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.1 and the dependent sections listed in its scalar-memory note |
+| P1 | V22 | Apparent stasis, entropic drift, frozen stagnation, and dynamic stabilization | `spirit-soul-and-apparent-stillness.md`; `terminological-lockdown-protocol.md`; vocabulary framework §6.8.8 |
 
 ---
 
 # III. Full 30-Entry Package Tracker
 
+In the following tables, **framework** means `zenetist-analytic-vocabulary-and-accessibility-framework.md`. All 18 formerly open vocabulary proposals were assessed together; existing definitions were checked before any addition was considered.
+
 ## Group A — General Vocabulary Candidates
 
-| ID | Package Proposal | Current Status | What Remains |
-|---|---|---|---|
-| V01 | Principle of Sufficient Reason (PSR), general Zenetist sense | **REVIEW** | Decide whether / how to gather the general Zenetist principle into the framework without making an application-specific definition primary |
-| V02 | Principle of Structured Manifestation (PSM) | **REVIEW** | Decide whether the principle belongs in the general framework and settle exact wording |
-| V03 | Principle of Resonant Return (PRR) | **REVIEW** | Decide whether to add and settle exact wording |
-| V04 | Resonant term | **REVIEW** | Confirm that completion of traversal, office closure, register vacancy, and cessation of motion remain distinct and decide whether this needs a framework entry |
-| V05 | Motive activity, continuing scope, and discernibility | **REVIEW** | Conceptual distinction appears relevant. Wording must preserve Motive Infinity's orientation-neutral standing |
-| V06 | "Dispersive dynamics contra Dispersive Infinity" | **CLOSED** | Revised wording approved and verified in the originating MPX; Analytic Vocabulary propagation remains deferred |
-| V07 | Dimensional operator and hypostatic function | **REVIEW** | Decide whether the distinction needs explicit framework wording |
-| V08 | Five functional families of dimensional operation | **REVIEW** | Decide whether these are stable analytic vocabulary rather than volume-specific organization |
-| V09 | Field state contra geometry | **REVIEW** | Decide whether this should become general analytic vocabulary |
-| V10 | Field-state transformation grammar | **REVIEW** | Determine whether this is stable framework vocabulary or formal / application-specific language |
-| V11 | Catalysis | **REVIEW** | Check for existing definition / synonym and decide framework standing |
-| V12 | Branching | **REVIEW** | Check for existing definition / synonym and decide framework standing |
-| V13 | Co-activation and constructive reinforcement | **REVIEW** | Determine whether both terms are required or whether this proliferates synonyms |
-| V14 | Boundary flexibility | **REVIEW** | Determine whether it is general analytic vocabulary or domain-specific language |
-| V15 | Standing-Wave Relation | **REVIEW** | Confirm native standing and scope before framework insertion |
-| V16 | χ: essential inclination and manifest orientation | **REVIEW — HIGH IMPORTANCE** | Preserve distinction among essential inclination, manifest orientation, evolving expression, physical diagnostic scalar, and geometric direction. Motive Infinity remains orientation-neutral |
-| V17 | Spectral rotation function | **REVIEW** | Clarify that `r(χ)` is a dimensionless signed weighting, not physical angular rotation, vorticity, or angular momentum |
-| V20 | Rest contribution and reference budget | **NO CHANGE** | Already covered; do not duplicate |
-| V28 | Motion declaration: direction, intensity, density, and continuation | **REVIEW** | Decide whether the multi-coordinate notation discipline belongs in the general framework |
-| V29 | Resonant attunement and held integration | **REVIEW** | Clarify transient attunement contra sustained / embodied integration without creating a new conflicting sense of coherence |
+| ID | Package Proposal | Disposition | Verification and Remaining Scope | Done |
+|---|---|---|---|---|
+| V01 | Principle of Sufficient Reason (PSR), general Zenetist sense | **NO CHANGE** | Framework §6.8.2 already carries the general Zenetist principle and distinguishes its applications; no additional entry | [x] |
+| V02 | Principle of Structured Manifestation (PSM) | **NO CHANGE** | Framework §6.8.2 already defines the principle with its originating MP reference | [x] |
+| V03 | Principle of Resonant Return (PRR) | **NO CHANGE** | Framework §6.8.4 already defines PRR; no additional entry | [x] |
+| V04 | Resonant term | **NO CHANGE** | Framework §6.8.4 already distinguishes completed traversal, office closure, register vacancy, and cessation of motion | [x] |
+| V05 | Motive activity, continuing scope, and discernibility | **NO CHANGE** | Framework §7.6 already distinguishes activity, continuation, and discernibility; the V06 propagation hold remains in force | [x] |
+| V06 | "Dispersive dynamics contra Dispersive Infinity" | **CLOSED** | Originating MPX correction verified in the baseline. Analytic Vocabulary propagation remains intentionally deferred; older framework wording is not silently reapproved | [x] |
+| V07 | Dimensional operator and hypostatic function | **NO CHANGE** | Framework §6.9.1 already distinguishes dimensional operation from hypostatic placement and function | [x] |
+| V08 | Five functional families of dimensional operation | **NO CHANGE** | Framework §6.9.1 already gathers the five registry families; no parallel classification added | [x] |
+| V09 | Field state contra geometry | **NO CHANGE** | Framework §6.9.7 already defines the distinction and cites FP12 Chapter 44 | [x] |
+| V10 | Field-state transformation grammar | **NO CHANGE** | Framework §6.9.7 already distinguishes structural syntax from arithmetic and preserves the held general mathematical realization | [x] |
+| V11 | Catalysis | **NO CHANGE** | Framework §6.9.7 already defines threshold change without identity-collapse; no synonym added | [x] |
+| V12 | Branching | **NO CHANGE** | Framework §6.9.7 already distinguishes branching, fragmentation, and numerical identity | [x] |
+| V13 | Co-activation and constructive reinforcement | **NO CHANGE** | Framework §6.9.7 already distinguishes simultaneous operation from conditional reinforcement; both functions remain in one entry | [x] |
+| V14 | Boundary flexibility | **NO CHANGE** | Framework §6.9.7 already carries the scoped relation; the boundary-family invariant and protective Wall scope remain held in §6.9.3 | [x] |
+| V15 | Standing-Wave Relation | **NO CHANGE** | Framework §6.9.7 already carries the established function; standalone glyph registration remains held open | [x] |
+| V16 | χ: essential inclination and manifest orientation | **CLOSED** | Framework §6.5 corrected: the unenacted register is L₀, not all pre-Soul registers. Onset at L₅ / IL₅ and the existing fixed-inclination / evolving-expression hold remain intact | [x] |
+| V17 | Spectral rotation function | **CLOSED** | Framework §6.6.2 already defines the signed bounded weighting. LM03 §4.5 reciprocal-product identity corrected without division by r(1)=0; χ>0 stated for reciprocal expressions | [x] |
+| V20 | Rest contribution and reference budget | **NO CHANGE** | Framework §§6.6.3 and 6.7.2 already distinguish avoided expenditure and the reference-budget double-counting guard; no duplicate entry | [x] |
+| V28 | Motion declaration: direction, intensity, density, and continuation | **NO CHANGE** | Framework §6.9.7 already separates the motion-declaration parameters and preserves physical identification as proposed | [x] |
+| V29 | Resonant attunement and held integration | **NO CHANGE** | Framework §6.8.5 already distinguishes transient attunement from held integration; the older MP11 coherence wording remains explicitly held | [x] |
 
-## Group B — Formal or Mathematical Questions That Require Separate Work
+## Group B — Formal or Mathematical Questions
 
-| ID | Package Proposal | Current Status | What Remains |
-|---|---|---|---|
-| V18 | Signed structural flux coefficient | **SEPARATE FIX** | Resolve mathematical standing in LM05 / LMX specialization. Vocabulary wording cannot solve the PDE issue |
-| V19 | Recursive Memory operator and scalar memory valuation | **SEPARATE FIX** | Determine whether a scalar functional is needed and define it if so |
-| V21 | Orientation-law translation fidelity | **SEPARATE FIX** | Resolve full-law contra simplified-law χ sign behavior before canonical mathematical integration |
-| V22 | Apparent stasis, stagnation, and dynamic stabilization | **CLOSED** | Stasis / stagnation scope reconciliation verified in the Spirit / Soul MPX; wider series alignment remains deferred |
-| V26 | Incoherence Quotient domain / signed embodiment margin | **SEPARATE FIX** | Reconcile formula, range, negative branch, normalization, denominator behavior, thresholds, and terminology |
+| ID | Package Proposal | Disposition | Verification and Remaining Scope | Done |
+|---|---|---|---|---|
+| V18 | Signed structural flux coefficient | **CLOSED** | The signed relation and up-gradient branch remain; the false drift / well-posedness claim is corrected in LM05 and its specialization. Fourier amplification verified. A well-posed physical realization remains a separate intentional research hold | [x] |
+| V19 | Recursive Memory operator and scalar memory valuation | **REVIEW** | LM04 now distinguishes its injective state mapping from the undeveloped scalar formalism and identifies every dependent section. Retain-for-development or retire-scalar-formalism decision remains open (§V.1) | [ ] |
+| V21 | Orientation-law translation fidelity | **REVIEW** | Full-law and separate drift-law consequences corrected in LM03, SP04, LMX, and framework §6.6.2. False reduction, activation, and endpoint claims repaired; intended dynamics remain an architect decision (§V.2) | [ ] |
+| V22 | Apparent stasis, stagnation, and dynamic stabilization | **CLOSED** | Originating MPX correction verified in the baseline; observational stasis, entropic drift, passage through χ=1, frozen stagnation, entropic trapping, and active stabilization remain distinct. Wider series alignment is intentionally deferred | [x] |
+| V26 | Incoherence Quotient domain / signed embodiment margin | **REVIEW** | Conditional nonnegative unbounded range, zero-denominator exclusion, scale invariance, and dependent EFIR consequences verified. Previous bands retained as recorded proposals. Numerical assignment, normalization, calibration, and any separate signed margin remain open (§V.3) | [ ] |
 
-## Group C — Research / Methodology Items Requiring Separate Review before General Vocabulary Integration
+## Group C — Intentional Research Holds
 
-| ID | Package Proposal | Current Status | What Remains |
-|---|---|---|---|
-| V23 | Physical realization map | **HOLD / REVIEW AS METHODOLOGY** | LMX methodology; decide later whether any concise translation discipline belongs in the framework |
-| V24 | Cumulative motive parameter | **HOLD — LMX ONLY** | Keep as conditional mathematical development until the drift equation on which it depends is settled |
-| V25 | Physical production, transfer, and dissipation budget | **HOLD / REVIEW AS METHODOLOGY** | Keep physical accounting distinct from native orientation; no physical energy sign fixes χ |
-| V27 | Dimensional placement record | **HOLD — AUDIT MACHINERY** | Retain for audit bookkeeping where relevant. Do not canonize as general vocabulary until placement semantics are settled |
-| V30 | Orientation factorization through physical observation | **HOLD — LMX THEOREM** | Keep as a theorem / criterion in LMX, not a native Zenetist law |
+| ID | Package Proposal | Disposition | Retained Standing | Done |
+|---|---|---|---|---|
+| V23 | Physical realization map | **HOLD — METHODOLOGY** | Retain in LMX methodology; no general-framework integration in this pass | — |
+| V24 | Cumulative motive parameter | **HOLD — LMX ONLY** | Retain as conditional mathematical development; its mathematical role does not select the unresolved orientation law | — |
+| V25 | Physical production, transfer, and dissipation budget | **HOLD — METHODOLOGY** | Physical accounting remains distinct from native orientation; no physical energy sign fixes χ | — |
+| V27 | Dimensional placement record | **HOLD — AUDIT MACHINERY** | Retain as audit bookkeeping; placement semantics are not newly determined here | — |
+| V30 | Orientation factorization through physical observation | **HOLD — LMX THEOREM** | Retain as a theorem / criterion in LMX, not a native Zenetist law | — |
 
----
-
-# IV. Source-Specific Terminology Cleanup
-
-## 1. `khaonic-phase-and-the-discernibility-limit.md`
-
-### Concept to Preserve
-
-- activity / resolution
-- bounded / indefinitely continuing
-- cognitively determinable / non-exhaustively determinable
-- active Motive process is distinct from Dispersive Infinity
-- Dispersive Infinity / Absolute Dispersion is terminal
-
-### Wording to Review
-
-Current phrases such as:
-
-- "dispersive dynamics"
-- "dispersive motion"
-- "ongoing dispersive dynamics"
-
-should be reviewed because **Dispersive** is now reserved for the terminal Khaonic phase.
-
-### Replacement Logic
-
-Neutral case:
-
-> ongoing configurational change while Motive Infinity remains active
-
-Entropic breakdown case:
-
-> fragmentary dynamics expressed through entropically oriented hypostatic motion
-
-Terminal case:
-
-> Dispersive Infinity / Dispersive Khaon / Absolute Dispersion
-
-Do not write "fragmentary Motive Infinity."
-
-## 2. `the-incoherence-quotient.md`
-
-Two independent issues must not be conflated.
-
-### Terminology Issue
-
-Review broad applications of these terms:
-
-- dispersive field intensity
-- Active Dispersion
-- Intensified Dispersion
-- dispersive force
-- dispersive expression
-
-and determine whether the intended referent is actually **entropic / fragmentary field behavior** rather than Khaon's Dispersive phase.
-
-### Mathematical Issue
-
-The written quotient contains nonnegative intensity-like terms but the scale also claims:
-
-- negative IQ
-- a 0–1 principal range
-- a maximum at 1
-
-Those properties do not follow from the displayed quotient.
-
-Required later decision:
-
-- normalize the quotient
-- define a separate signed embodiment-margin quantity
-- revise the scale
-- or otherwise specify the mathematical map explicitly
-
-No solution is approved in this ledger.
-
-## 3. `spirit-soul-and-apparent-stillness.md`
-
-Current problem:
-
-> Apparent Stasis Is Slow Entropy
-
-must be scoped in relation to the later distinction that fixed χ = 1 can be a stagnative condition without being intrinsically entropic.
-
-Possible architecture to test, not yet approved:
-
-- apparent macro-stasis of an unreplenished manifest configuration may still undergo entropic drift
-- formal frozen χ = 1 is a stagnative condition without intrinsic entropic orientation
-- active dynamic stabilization is maintained through ongoing adjustment and is neither mere stasis nor frozen equilibrium
+These five holds are intentional dispositions. They are not unchecked corrections and do not acquire canonical standing through this ledger.
 
 ---
 
-# V. Completion Checklist
+# IV. Verification Record and Consolidated Cleanup
 
-## Vocabulary Review
+## V06 — Khaonic Phase and the Discernibility Limit
 
-- [ ] V01 decision
-- [ ] V02 decision
-- [ ] V03 decision
-- [ ] V04 decision
-- [ ] V05 decision
-- [x] V06 revised wording approved
-- [ ] V07 decision
-- [ ] V08 decision
-- [ ] V09 decision
-- [ ] V10 decision
-- [ ] V11 decision
-- [ ] V12 decision
-- [ ] V13 decision
-- [ ] V14 decision
-- [ ] V15 decision
-- [ ] V16 decision
-- [ ] V17 decision
-- [x] V20 no-change standing confirmed
-- [ ] V28 decision
-- [ ] V29 decision
+Verified in `khaonic-phase-and-the-discernibility-limit.md`, *The Resolution*, *Continuing Motion contra Dispersive Infinity Proper*, and *The Four-Way Distinction*: Motive Infinity remains orientation-neutral; ongoing configuration change, actual entropic fragmentation, terminal Dispersive Infinity, and cognitive discernibility have distinct scope. The earlier pending lists of "dispersive dynamics," "dispersive motion," and "ongoing dispersive dynamics" were stale descriptions of this completed target correction. Framework propagation remains the separate deferred scope recorded at V06.
 
-## Separate Formal / Corpus Corrections
+## V22 — Apparent Stillness
 
-- [ ] V18 signed structural flux issue resolved
-- [ ] V19 Recursive Memory scalar issue resolved
-- [ ] V21 χ evolution / sign issue resolved
-- [x] V22 stasis / stagnation scope resolved
-- [ ] V26 IQ mathematics resolved
+Verified in `spirit-soul-and-apparent-stillness.md`, *Apparent Stasis, Entropic Drift, and Stagnation*, its summary, and the protocol's balance distinctions. The former *Apparent Stasis Is Slow Entropy* formulation has already been replaced. Its old proposed architecture is no longer pending work in this ledger. Wider series alignment remains deferred.
 
-## Held Research Items
+## V26 — IQ Terminology and Mathematics
 
-- [ ] V23 later methodology decision
-- [ ] V24 retain in LMX unless separately approved
-- [ ] V25 later methodology decision
-- [ ] V27 retain as audit machinery unless separately approved
-- [ ] V30 retain as LMX theorem unless separately approved
+The originating IQ file already separates orientation-neutral Motive Infinity, actual entropic fragmentation, and terminal Dispersive Infinity. Its terminology review was complete at the baseline; the mathematical defect was not. Direct IQ references in FP02, FP04, and the self-exhaustion extension now record the quotient's actual standing.
 
-## Terminology Propagation after Architect Approval
+For finite nonnegative assigned intensities with a finite positive denominator, the raw quotient is nonnegative and unbounded. Zero denominator is undefined, including 0/0. A common positive scaling leaves the ratio unchanged. IQ = 1 states equality of numerator and denominator, not a terminal event. The EFIR weights supply no upper bound while IQ and FRE are unbounded or lack stated bounds. No new normalization, scalar margin, sign convention, numerical threshold, or physical interpretation was introduced. The original IQ, layer, EFIR, and φ tables remain explicitly labeled records for review rather than operative calibrations.
 
-- [x] Correct active-process terminology in `khaonic-phase-and-the-discernibility-limit.md`
-- [x] Review phase-confusing "dispersive" language in `the-incoherence-quotient.md`
-- [ ] Search targeted related files for the same architectural misdescription
-- [ ] Do **not** alter standard mathematical meanings of "dispersion / dispersive" solely because of the Zenetist phase reservation
-- [ ] Update `zenetist-analytic-vocabulary-and-accessibility-framework.md` only after the relevant entry decisions are complete
-- [ ] Any wider corpus propagation requires a separately controlled pass
+## Vocabulary Coverage
+
+All 18 formerly open proposals have existing framework entries. Sixteen require no framework addition; V16 has one register correction, and V17 has one originating identity correction. V20's no-change standing is retained. The V06 propagation hold, V14 boundary-family hold, V15 glyph hold, V16 inclination / expression hold, and V29 older-coherence wording hold remain explicit. No new technical term is canonized.
+
+## Verification Conditions
+
+- [x] Compare the attachment with the pinned repository ledger
+- [x] Verify V06 and V22 in current targets and remove stale pending descriptions
+- [x] Preserve all 30 item identities and record one disposition for each
+- [x] Check mathematical claims through exact algebra and counterexamples
+- [x] Correct V21's remaining "simplified" equation labels and specify the stability conditions for each model in framework §6.6.2
+- [x] Review changed passages with their surrounding sections and direct dependencies
+- [x] Check new terminology and prose formatting; preserve mathematical notation and recorded evidence
+- [x] Preserve the completed non-spatial clarification, Non-fusion, orientation-neutral Motive Infinity, and essential inclination / evolving expression distinction
+- [x] Leave the architect-held metric question unchanged
+- [x] Preserve MP poetic cadence; no MP-series poetic file is altered
+- [x] Retain standard mathematical dispersion terminology where it carries its mathematical meaning
+- [x] Keep V23–V25, V27, and V30 in their intentional research standing
+- [x] Restrict propagation to the named corrections and their direct dependencies
+- [x] Leave wider corpus propagation for a separately bounded pass
 
 ---
 
-# VI. Current Recommended Order of Work
+# V. Irreducible Architect Decisions
 
-To keep this from expanding into another uncontrolled corpus audit:
+The following text is proposed decision wording, not an adopted determination. All independent corrections are included in the local patch. V19, V21, and V26 retain REVIEW standing.
 
-1. **Resolve V06 terminology first**
-2. **Resolve the five genuine separate issues:** V18, V19, V21, V22, V26
-3. **Review the ordinary vocabulary candidates in small groups:** V01–V05, V07–V17, V28–V29
-4. **Leave V23–V25, V27, and V30 outside the general vocabulary framework until separately needed**
-5. **Only then construct the minimal accepted framework patch**
-6. **Run targeted propagation only for terminology explicitly approved during this process**
+## 1. V19 — Scalar Memory Program
+
+**Decision required:** retain the scalar program for separate mathematical specification, or retire it from the active formalism.
+
+**Retain-for-development wording:**
+
+> The Recursive Memory operator remains the injective sealed-state mapping. A separate scalar valuation may be developed for the proposed memory rates and comparisons. Its domain, scale, ordering, structural-time dependence, and path interpretation require explicit determination before the scalar formulas become operative.
+
+**Retirement wording:**
+
+> Recursive Memory remains the injective sealed-state mapping. The unsupported scalar rates, comparisons, numerical trajectories, and dependent scalar diagnostics are retired from the active formalism while the state mapping, Non-fusion Theorem, Memory Access function, and Tether remain.
+
+Selecting the first option requires the actual valuation and its conditions; selecting the second requires coordinated removal of the dependent scalar constructions listed in LM04's note. Injectivity supplies neither choice.
+
+## 2. V21 — Intended χ Dynamics
+
+**Decision required:** retain the written full law as an attracting dynamics with its stated domains; retain the outward drift law as a separate model; or specify a revised full law intended to produce outward drift and cessation at zero Motive Intensity. The revised model requires an explicit sign and activation relation rather than a presumed reduction. If fixed χ = 1 at positive Motive Intensity is structurally inadmissible, specify the admissibility condition or coupled law connecting enacted orientation, cessation of motion, and Localized Dissolution.
+
+**Proposed wording retaining the existing formulas as distinct models:**
+
+> The written full χ law and the outward drift law describe distinct dynamics. The full law retains its attraction toward χ = 1 and its potential term at zero Motive Intensity. The outward drift law remains a separately specified model whose endpoint behavior depends on cumulative Motive Intensity. Neither law converts essential inclination into evolving expression; that relation remains held open.
+
+If this is not the intended model relation, the architect must specify which dynamical properties the revised full law must carry. A positive coefficient cannot supply the asserted sign reversal, and no new coefficient or activation factor is selected here.
+
+## 3. V26 — Numerical Standing of IQ
+
+**Decision required:** retain IQ as the raw nonnegative quotient and retire the unsupported calibrated claims, or develop a separate normalized score and any signed embodiment margin with explicit scalar assignments, sampling domain, units or compatible scales, reference condition, and calibration.
+
+**Raw-quotient wording:**
+
+> IQ retains the written quotient. For finite nonnegative assigned intensities and a finite positive denominator, its range is nonnegative and unbounded; zero denominator is excluded. The former unit-interval bands, negative branch, layer allocations, and terminal numerical thresholds are retired as operative calibrations. Any later calibrated score or signed embodiment margin requires a separate definition.
+
+**Separate-development wording:**
+
+> The written IQ quotient remains distinct from any normalized score or signed embodiment margin. Their scalar assignments, sampling domain, compatible scales, map, reference condition, and relation to the IQ, EFIR, layer, and φ classifications require explicit specification before numerical application.
+
+The current patch preserves the earlier tables as recorded proposals pending this determination. It selects no replacement map, scalar margin, or calibration.
 
 ---
 
-**Retention constraint:** Nothing disappears from this ledger until it is either verified fixed, explicitly rejected, or intentionally held with a recorded reason.
+**Retention constraint:** Every original item remains identified as verified, already covered, awaiting a specified decision, or intentionally held. Administrative completion neither establishes new doctrine nor implies a remote repository change.

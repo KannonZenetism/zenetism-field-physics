@@ -557,7 +557,7 @@ The variable \(\mathbf n\) has the local physical meaning defined here. It is on
 
 **Basis:** the simplified orientation equation and exact trajectory already carried by `LM03-orientation-algebra-and-infinity-formalism.md` §§8.1–8.5.[10]
 
-Motive Intensity \(\mathcal M\) measures motion-capacity. For constant \(\mathcal M>0\),
+Motive Intensity \(\mathcal M\) measures orientation-neutral motion-capacity. For constant \(\mathcal M>0\) and finite positive initial \(\chi_0\),
 
 \[
 \frac{d\chi}{d\tau}
@@ -630,7 +630,11 @@ Direct differentiation yields
 \boxed{F'(1)=-\Lambda\mathcal M-\Gamma(\alpha+2\beta)<0.}
 \]
 
-For constant nonnegative \(\mathcal M\), this scalar law is locally attracting at \(\chi=1\). The simplified law in §A.6 is repelling there when \(\mathcal M>0\). The corpus relates the coefficients by \(\kappa=-\Lambda\) while specifying both as positive. The relation between these written equations and the intended dynamics remains a specific mathematical reconciliation item. Both equations and the calculation are preserved here without changing either corpus equation.
+For constant nonnegative \(\mathcal M\), the full scalar law is attracting at \(\chi=1\). For \(0<\chi<1\), the potential contribution is positive and the motive term nonnegative; the signs reverse for \(\chi>1\). Thus each finite positive trajectory approaches 1. Its domain is \(0<\chi<\infty\); the logarithmic and reciprocal terms do not define the boundary vector field.
+
+The outward-drift law in §A.6 is repelling at 1 for constant positive intensity. Omitting the potential gradient from the full law would leave \(\Lambda\mathcal M\chi(1-\chi)\), so matching the outward-drift term would require \(\kappa=-\Lambda\), incompatible with both coefficients being positive. This is a difference of vector fields, not an equivalent sign convention. The corrected source comparison is `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and `SP04-orientation-field-dynamics.md` §§4 and 9; `SP03-expression-ratio-mathematics.md` supplies the expression weights, not a scalar evolution law.
+
+At \(\mathcal M=0\), the full formula retains \(-\Gamma\Phi'_{\mathrm{CP}}\), so it does not implement cessation of expressed motion. Both equations also admit \(\chi\equiv1\) with constant \(\mathcal M>0\); a fixed ratio does not imply \(\mathcal M\to0\). Frozen-equilibrium resolution requires an additional admissibility condition or coupled law expressing cessation of enacted orientation. The intended vector field, activation compatibility, and frozen-equilibrium closure remain architect-held. Both displayed equations remain unchanged. Evolving expressive prevalence does not alter essential inclination, and Motive Infinity remains orientation-neutral.
 
 **Signed flux and physical viscosity.** The fluid specialization retains \(\nu>0\). For the constant-coefficient scalar equation \(\partial_\tau I_c=D\Delta I_c\), each Fourier mode satisfies
 
@@ -1262,7 +1266,7 @@ for positive initial χ, separation gives
 
 The initial value χ₀ = 0 has the separate constant solution χ = 0. For \(\chi_0>1\), a finite structural-time coordinate divergence occurs only when \(\Theta\) reaches \(\log(\chi_0/(\chi_0-1))\) at a finite structural time. Strictly positive but integrable Motive Intensity can remain below that threshold indefinitely. For \(0<\chi_0<1\), convergence to zero requires unbounded cumulative \(\Theta\). Constant positive intensity yields Appendix A's particular results.
 
-The full written corpus law instead attracts χ to one for positive coefficients. The sign conflict and the unsupported implication \(\chi\equiv1\Rightarrow\mathcal M\to0\) are formal translation-fidelity items, documented separately. Choosing a correction would require determining the intended vector field, activation condition, and role of the coherence potential.
+The full written law attracts χ to one for the stated positive coefficients, while its potential term remains active at zero Motive Intensity. Neither written law implies \(\chi\equiv1\Rightarrow\mathcal M\to0\). The source equations retain distinct mathematical standing in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and `SP04-orientation-field-dynamics.md` §§4 and 9. The intended vector field, activation compatibility, and frozen-equilibrium closure remain architect-held (§A.7). The cumulative-intensity calculation in this section is conditional on the outward-drift law and does not settle that choice.
 
 Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\). A finite \(\tau_*\) can correspond to infinite physical time, and conversely, depending on the time map. A divergence in the χ coordinate need not imply divergence in \(\mathbf u\) or \(\boldsymbol\omega\). Their magnitudes, spatial scales, and regularity must be calculated independently. Neither this scalar law nor a decaying energy law requires every trajectory to return to Plenary Zero.
 

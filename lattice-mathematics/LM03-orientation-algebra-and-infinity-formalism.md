@@ -65,8 +65,8 @@ This document, LM03, provides the **rigorous lattice-mathematical formalism** un
 - **The Chi Orientation Parameter** — Rigorous definition, spectral properties, and trajectory characterization
 - **Effective Operator Theory** — The \( \chi \)-parameterized family of operators, with full spectral decomposition
 - **CP-Topology** — The geometric structure of convergence and equilibrium in orientation space
-- **The Zenetist Field Equation of Orientation** — The canonical dynamical law determining \( \chi \)-evolution
-- **The Orientation Drift Theorem** — Complete proof with explicit solutions and finite-time analysis
+- **The Zenetist Field Equation of Orientation** — The full written law, its scalar behavior, and its held-open relation to the outward-drift law
+- **The Orientation Drift Theorem** — Conditional scalar results with explicit solutions and conditions on the time integral of intensity
 - **The Laws of Inclined Existence** — The Inclination Principle, instability of equilibrium, and structural asymmetry of configuration space
 - **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 - **Integration with LM01** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice
@@ -442,8 +442,8 @@ This function maps orientation to spectral character:
 **Properties:**
 
 1. \( r \) is strictly monotonically decreasing on \( [0, \infty) \)
-2. \( r(\chi) \cdot r(1/\chi) = r(\chi)^2 / r(1) \) — does not simplify to identity (the rotation is not self-inverse under reciprocation)
-3. \( r(\chi) = -r(1/\chi) \) — the rotation **negates** under reciprocation
+2. \( r(\chi)r(1/\chi)=-r(\chi)^2 \) for \( \chi>0 \), including the zero product at \( \chi=1 \)
+3. \( r(\chi)=-r(1/\chi) \) for \( \chi>0 \) — the rotation **negates** under reciprocation
 
 Property 3 establishes that Aionic–Khaonic reciprocation produces spectral inversion, consistent with the Polar Spectrum Lemma.
 
@@ -562,7 +562,7 @@ As given in §5.2, with parameters \( \alpha \) and \( \beta \).
 All three forms preserve the reciprocal symmetry \( \Phi_{\text{CP}}(\chi) = \Phi_{\text{CP}}(1/\chi) \).
 
 > **Note on the Logarithmic Singularity:**  
-> The term \( (\ln\chi)^2 \) diverges as \( \chi \to 0^+ \) and as \( \chi \to \infty \), creating a potential that rises without bound at both boundaries of \( \bar{\mathcal{X}} \). This is not an artefact but a structurally necessary feature: the divergence of \( \Phi_{\text{CP}} \) at the boundaries is precisely what establishes \( \chi = 0 \) and \( \chi \to \infty \) as **limit attractors** under the drift dynamics while ensuring that traversal to these boundaries requires unbounded structural work. The logarithmic form also creates a steep energy well centered on \( \chi = 1 \) (where \( \ln 1 = 0 \)), encoding CP₁ as the point of minimal potential along the axis term — even as the full dynamics render it a saddle rather than a stable rest-state.
+> The term \( (\ln\chi)^2 \) diverges as \( \chi \to 0^+ \) and as \( \chi \to \infty \). With \( \alpha,\beta>0 \), the potential has its unique minimum at \( \chi=1 \), where \( \Phi_{\text{CP}}''(1)=\alpha+2\beta>0 \). In the full equation (§7), its negative gradient directs motion toward this minimum. The outward drift in §8 belongs to a distinct scalar law; divergence of the potential alone establishes neither boundary attraction nor a quantity of structural work.
 
 ### 5.6 Topology of χ-Space
 
@@ -628,7 +628,7 @@ The Lyapunov-like functional \( \mathcal{V} \) from the Centropic Directionality
 
 **Definition (Zenetist Field Equation of Orientation):**
 
-The evolution of orientation is determined by:
+The full orientation equation carried here is:
 
 \[
 \boxed{\frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}}
@@ -641,6 +641,10 @@ where:
 - \( \Lambda, \Gamma > 0 \) = structural constants determined by lattice constraints
 - \( \Phi_{\text{CP}}(\chi) \) = CP-topology potential (§5.2)
 
+**Mathematical standing.** This equation and the outward-drift equation in §8 have different vector fields. Their intended canonical relation remains architect-held. The present calculation retains both written formulas and supplies no sign replacement. The full equation is defined for \( 0<\chi<\infty \); its logarithm and reciprocal terms do not define a vector field at \( \chi=0 \) or at infinity.
+
+Here evolving \( \chi(\tau) \) describes expressed orientational prevalence. Essential inclination remains motion-independent and does not convert between arcs. Motive Infinity supplies orientation-neutral motion-capacity; neither sign of the scalar evolution assigns an orientation to Motive Infinity itself.
+
 ### 7.2 Expanded Form
 
 With the doctrinally explicit CP-potential:
@@ -651,7 +655,7 @@ With the doctrinally explicit CP-potential:
 
 ### 7.3 Structural Regimes
 
-The equation expresses three structural regimes:
+The written equation has the following mathematical behavior:
 
 **Regime 1 — Stillness (\( \mathcal{M} = 0 \)):**
 
@@ -659,15 +663,21 @@ The equation expresses three structural regimes:
 \mathcal{M} = 0 \implies \frac{d\chi}{d\tau} = -\Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}
 \]
 
-Orientation cannot evolve under motive drive; only potential-gradient relaxation occurs. If additionally \( d\Phi_{\text{CP}}/d\chi = 0 \), then \( d\chi/d\tau = 0 \): complete stillness.
+For the stated potential this vanishes only at \( \chi=1 \). Thus the full formula does not implement cessation of expressed motion whenever \( \mathcal{M}=0 \). Its compatibility with the Activation Theorem (§2.6) remains architect-held; no activation factor or continuation outside the expressive domain is assumed here.
 
 **Regime 2 — Inclined Expression (\( \mathcal{M} > 0, \chi \neq 1 \)):**
 
-\( \chi \) evolves as an inclined trajectory shaped by both Motive Intensity and CP-topology. Universes traverse \( \chi \)-space as oriented flows.
+For \( 0<\chi<1 \), both terms are positive; for \( \chi>1 \), both are negative. Consequently the scalar flow is directed toward \( \chi=1 \). For constant nonnegative \( \mathcal{M} \), every finite positive initial value remains between its initial value and 1 and approaches 1 as \( \tau\to\infty \).
 
-**Regime 3 — Saddle Equilibrium (\( \chi = 1 \)):**
+**Regime 3 — Scalar Equilibrium (\( \chi = 1 \)):**
 
-At \( \chi = 1 \), the CP-potential gradient vanishes and \( \chi(1-\chi) = 0 \), so \( d\chi/d\tau = 0 \). But this is a **saddle condition**, not a stable rest-state (see §8 and §9).
+At \( \chi=1 \), both terms vanish for every \( \mathcal{M} \). Writing the right-hand side as \( F(\chi) \), direct differentiation at constant \( \mathcal{M}\geq0 \) gives:
+
+\[
+F'(1)=-\Lambda\mathcal{M}-\Gamma(\alpha+2\beta)<0.
+\]
+
+This is an attracting equilibrium of the written scalar law. The structural account of fragile co-expression and the repelling scalar law in §8 remain distinct from this calculation. The full equation does not establish their dynamical agreement.
 
 ### 7.4 Ontological Status of Chi
 
@@ -686,15 +696,15 @@ Therefore:
 
 ## 8. The Orientation Drift Theorem
 
-### 8.1 Simplified Dynamical Law
+### 8.1 Outward-Drift Model
 
-For analytical clarity, consider the simplified orientation dynamics (neglecting the CP-potential gradient term):
+For the outward-drift analysis, consider the following scalar dynamics:
 
 \[
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M}(\tau) \, \chi(\chi - 1), \quad \kappa > 0
 \]
 
-This adopts the equivalent sign convention \( \kappa := -\Lambda \) relative to the canonical equation (§7.1), so that CP₁ appears as a repeller and the Aionic–Khaonic extremes as attractors under \( \mathcal{M} > 0 \).
+This is not the result of omitting the CP-potential gradient from §7.1. That omission leaves \( \Lambda\mathcal{M}\chi(1-\chi) \). Matching it to the displayed law would require \( \kappa=-\Lambda \), which is incompatible with both coefficients being positive. The following results are conditional on the displayed outward-drift law, whose relation to the full equation remains architect-held.
 
 ### 8.2 Phase Portrait Analysis
 
@@ -718,19 +728,19 @@ Linearizing at \( \chi = 1 \), let \( \chi = 1 + \varepsilon \) with \( |\vareps
 \frac{d\varepsilon}{d\tau} = \kappa \, \mathcal{M} \, (1 + \varepsilon)\varepsilon \approx \kappa \, \mathcal{M} \, \varepsilon
 \]
 
-This is a linear ODE with positive coefficient \( \kappa\mathcal{M} > 0 \), yielding exponentially growing perturbations:
+For constant \( \mathcal{M}>0 \), the linearized equation yields exponentially growing perturbations:
 
 \[
 \varepsilon(\tau) \approx \varepsilon_0 \, e^{\kappa\mathcal{M}\tau}
 \]
 
-Therefore, \( \chi = 1 \) is a dynamically **unstable** equilibrium. Any nonzero perturbation grows exponentially.
+Thus \( \chi=1 \) is a repelling equilibrium of this scalar law for constant positive Motive Intensity. For variable intensity, the linearized amplification is \( \exp(\kappa\int_0^\tau\mathcal{M}(s)\,ds) \); positivity of \( \mathcal{M} \) alone does not ensure unbounded amplification. The exact solution \( \chi\equiv1 \) remains admitted for every prescribed intensity.
 
 ### 8.4 Exact Solution
 
 **Theorem (Exact Trajectory):**
 
-For constant \( \mathcal{M} > 0 \), the simplified dynamics admit the exact solution:
+For constant \( \mathcal{M}>0 \) and \( \chi_0>0 \), the outward-drift dynamics admit the following exact solution on the interval where its denominator remains positive. The initial value \( \chi_0=0 \) has the separate constant solution \( \chi=0 \).
 
 \[
 \chi(\tau) = \frac{\chi_0}{\chi_0 - (\chi_0 - 1)\,e^{\kappa\mathcal{M}\tau}}
@@ -787,7 +797,7 @@ where \( A = (\chi_0 - 1)/\chi_0 \). Solving for \( \chi \):
 
 The exact solution reveals a structural asymmetry between Aionic and Khaonic drift:
 
-**Case 1 — Aionic drift (\( \chi_0 < 1 \)):**
+**Case 1 — Aionic drift (\( 0<\chi_0<1 \)):**
 
 Here \( \chi_0 - 1 < 0 \), so the denominator \( \chi_0 + (1 - \chi_0)e^{\kappa\mathcal{M}\tau} \to \infty \) as \( \tau \to \infty \).
 
@@ -805,9 +815,9 @@ Therefore \( \chi(\tau) \to \infty \) at **finite structural time** \( \tau^* \)
 
 **Interpretation:**
 
-Khaonic drift reaches the entropic boundary (\( \otimes \to \infty \)) in finite structural time. This does not imply that Motive Infinity is time-bound; it indicates that the universe's expressive coherence fails before Motive Infinity does. The collapse is **entropic** (⊘), not **stagnative** (Ø), and must not be confused with Localized Dissolution. Entropic Collapse (⊘) is dispersive dissolution into formlessness — the failure of coherence at any scale of expression. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Localized Dissolution (Ø) is the structural resolution of frozen equilibrium within the Mercy Fold (§8.7).
+The constant-intensity scalar law reaches \( \chi\to\infty \) in finite structural time. This calculation establishes a coordinate limit. Its identification with entropic Collapse (⊘) requires the structural relation between the modeled expression and loss of expressive coherence; the scalar equation alone supplies no evolution law for that coherence or for Motive Intensity. Entropic Collapse remains distinct from Localized Dissolution (Ø), the structural resolution of frozen equilibrium within the Mercy Fold (§8.7).
 
-Aionic drift, by contrast, approaches its limit only asymptotically. This asymmetry is not accidental but structural: it reflects the principle that **centropy is structurally constrained while entropy is structurally permissive** (§9.4). The narrow, high-constraint centropic manifold is traversed slowly; the broad, low-constraint entropic manifold permits rapid traversal to its boundary.
+The Aionic branch approaches zero only asymptotically for constant positive intensity. These different times follow from the displayed vector field and its coordinate. The structural distinction between constrained centropy and permissive entropy (§9.4) does not select that field or its time parameter.
 
 Essence persists in both cases. Neither entropic collapse nor Aionic convergence annihilates essence — essence endures through to Absolute Potential and Absolute Dispersion at L₀. What ceases is expressed orientation, not being itself.
 
@@ -815,45 +825,39 @@ Essence persists in both cases. Neither entropic collapse nor Aionic convergence
 
 **Theorem (Orientation Drift):**
 
-Assume a universe admits an orientation parameter \( \chi(\tau) \in [0, \infty] \) and a Motive Intensity \( \mathcal{M}(\tau) \geq 0 \) satisfying:
+Let \( \mathcal{M}(\tau)\geq0 \) be locally integrable, let \( \kappa>0 \), and let \( \chi_0\geq0 \) be finite. Consider the outward-drift law:
 
 \[
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M}(\tau) \, \chi(\chi - 1), \quad \kappa > 0
 \]
 
-Then:
+For \( \chi_0>0 \), separation gives
 
-1. **CP₁ Instability:** For \( \mathcal{M} > 0 \), the equilibrium \( \chi = 1 \) is dynamically unstable. Any nonzero perturbation drives \( \chi \) away from 1 with exponential growth rate \( \kappa\mathcal{M} \).
+\[
+\chi(\tau)=\left[1-\left(1-\frac{1}{\chi_0}\right)\exp\!\left(\kappa\int_0^\tau\mathcal{M}(s)\,ds\right)\right]^{-1}
+\]
 
-2. **Extreme Permanence:** For \( \mathcal{M} > 0 \), trajectories with \( 0 < \chi_0 < 1 \) drift toward \( \chi \to 0 \) (asymptotically), and trajectories with \( \chi_0 > 1 \) drift toward \( \chi \to \infty \) (in finite time \( \tau^* \)). Permanent extreme expressions are admissible as limit universes.
+on the maximal interval where the denominator is positive. This supplies the following conclusions:
 
-3. **Drift Asymmetry:** Khaonic drift reaches the entropic boundary (⊘) in finite structural time \( \tau^* \); Aionic drift approaches its limit only asymptotically. Entropy is structurally permissive; centropy is structurally constrained.
+1. **Constant solutions:** \( \chi=0 \) and \( \chi=1 \) are exact solutions for every prescribed \( \mathcal{M} \), including positive constant intensity. The equation determines no evolution law for \( \mathcal{M} \).
 
-4. **Equilibrium-Collapse Clause:** If \( \chi \equiv 1 \) becomes a permanent condition, motion stagnates (\( \mathcal{M} \to 0 \)), implying Localized Dissolution \( U \to \text{Ø} \) (Mercy Fold — distinct from entropic Collapse ⊘).
+2. **Aionic branch:** For \( 0<\chi_0<1 \), \( \chi \) is nonincreasing and approaches zero exactly when \( \kappa\int_0^\tau\mathcal{M}(s)\,ds\to\infty \). A finite time integral of intensity leaves a positive limit.
+
+3. **Khaonic branch:** For \( \chi_0>1 \), \( \chi \) is nondecreasing and reaches an unbounded coordinate limit when \( \kappa\int_0^\tau\mathcal{M}(s)\,ds \) approaches \( \log(\chi_0/(\chi_0-1)) \). This occurs at a finite structural time only if that threshold is reached at a finite structural time. If the integral stays strictly below it in the limit, \( \chi \) remains finite.
+
+4. **Constant-intensity specialization:** Constant \( \mathcal{M}>0 \) gives the repeller, asymptotic Aionic branch, and finite-time Khaonic branch calculated in §§8.3–8.5. These results do not establish the stability or endpoints of the full equation in §7.
+
+The time integral appears in this conditional ODE calculation without defining a new motion parameter. A coordinate divergence alone determines neither a physical singularity nor a terminal Khaonic phase.
 
 ### 8.7 Equilibrium-Collapse
 
-**Proposition (Equilibrium-Collapse):**
+**Structural condition and mathematical standing:**
 
-\[
-\chi(\tau) \equiv 1 \text{ on } [\tau_0, \infty) \implies \mathcal{M}(\tau) \to 0
-\]
+Frozen equilibrium means fixed \( \chi=1 \) together with cessation of enacted orientation. Its resolution toward Localized Dissolution (Ø) within the Mercy Fold is a structural condition, distinct from entropic Collapse (⊘). Essence persists; cessation of expressed motion is not annihilation of being.
 
-\[
-\mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø} \quad \text{(Localized Dissolution)}
-\]
+Neither written scalar equation proves that fixed \( \chi=1 \) causes \( \mathcal{M}\to0 \). In both equations, \( \chi(\tau)\equiv1 \), \( \mathcal{M}(\tau)\equiv M_0>0 \) is an exact mathematical solution. Instability to perturbations in the outward-drift law does not remove that exact solution and supplies no evolution equation for \( \mathcal{M} \).
 
-**Proof:**
-
-At \( \chi = 1 \), the field equation yields \( d\chi/d\tau = 0 \) trivially (since \( \chi(1-\chi) = 0 \) and \( d\Phi_{\text{CP}}/d\chi|_{\chi=1} = 0 \)). However, the linearization (§8.3) shows that \( \chi = 1 \) is unstable under any perturbation of magnitude \( \varepsilon > 0 \).
-
-Maintaining \( \chi \equiv 1 \) permanently therefore requires either:
-
-(a) Perfect isolation from all perturbation — impossible within expressed motion, which necessarily introduces differentiation between centropic and entropic vectors.
-
-(b) \( \mathcal{M} \to 0 \) — motion ceases, rendering the instability moot because no perturbation can propagate.
-
-Option (a) is structurally inadmissible within hypostatic expression. Therefore (b) obtains: permanent equilibrium requires cessation of motion. When motion ceases, expressed orientation dissolves — but essence persists within L₀. This is Localized Dissolution (Ø) within the Mercy Fold: the cessation of expressed motion, not the annihilation of being.
+A mathematical expression of frozen-equilibrium resolution therefore requires an explicit admissibility condition or coupled law connecting enacted orientation, motion cessation, and Localized Dissolution. That closure remains architect-held. A constant ratio is not a test for frozen equilibrium or loss of motion-capacity.
 
 ---
 
@@ -869,9 +873,9 @@ No expressed universe emerges in perfect neutrality. For any expressed universe 
 \chi(U) \neq 1 \quad \text{except as a transient or limit condition}
 \]
 
-**Proof:**
+**Mathematical standing:**
 
-By the Orientation Drift Theorem (§8.6), \( \chi = 1 \) is dynamically unstable for \( \mathcal{M} > 0 \). Since expression requires \( \mathcal{M} > 0 \) (Activation Theorem, §2.6), any expressed universe with \( \chi = 1 \) will be driven away from equilibrium by exponentially growing perturbations. Therefore \( \chi = 1 \) cannot be sustained as a permanent state within expression.
+This is a structural admissibility principle, not a conclusion of either scalar equation alone. Both equations admit the exact solution \( \chi\equiv1 \) at positive Motive Intensity. The outward-drift law amplifies perturbations according to §8.6, while the full written law attracts positive trajectories to 1. A mathematical realization of the principle requires the intended law and an explicit admissibility or perturbation condition; these remain architect-held.
 
 ### 9.2 The Law of Non-Neutral Emergence
 
@@ -919,7 +923,7 @@ Although CP₀ is symmetric and the biospiral is conserved across poles, the **t
 
 The space of admissible configurations for entropic motion is broader than for centropic motion. This asymmetry does not imply a greater number of entropic universes, but a **greater degree of internal configurational freedom** within entropic trajectories.
 
-The Drift Theorem (§8.5) provides the mathematical signature: Khaonic drift completes in finite time (\( \tau^* < \infty \)), while Aionic drift completes only asymptotically (\( \tau^* = \infty \)). The finite-time completion of Khaonic drift reflects the low-constraint topology of entropic configuration space; the asymptotic completion of Aionic drift reflects the high-constraint topology of centropic configuration space.
+The constant-intensity outward-drift model (§8.5) has different endpoint times: finite coordinate divergence on the Khaonic branch and asymptotic approach to zero on the Aionic branch. Those times follow from the specified scalar law. The structural distinction between constrained centropy and permissive entropy does not establish that law or its endpoint times.
 
 Structural bias is therefore **topological, not numerical**.
 
@@ -937,7 +941,7 @@ The architecture of expression is determined by a closed structural sequence:
 
 This sequence does not describe temporal succession alone, but **structural necessity**.
 
-This closure sequence applies only to equilibrium-collapse (\( \chi = 1 \) held permanently). Entropic drift (\( \chi \to \infty \)) terminates in ⊘ (Collapse), not Ø.
+This closure sequence applies to frozen-equilibrium resolution, where fixed \( \chi=1 \) accompanies cessation of enacted orientation. Fixed \( \chi=1 \) alone does not establish that cessation (§8.7). The structural distinction between entropic Collapse (⊘) and Localized Dissolution (Ø) remains intact.
 
 ### 10.2 Stages
 
@@ -955,7 +959,7 @@ Within motion, co-expression (\( \chi = 1 \)) becomes possible but unstable. CP�
 
 **Ø — Localized Dissolution:**
 
-If equilibrium becomes exact and temporally fixed, motion ceases (\( \mathcal{M} \to 0 \)). When motion ceases, expressed orientation dissolves — but essence persists within L₀. This dissolution is not punitive but structural, occurring within the Mercy Fold. It is not entropic Collapse (⊘), which arises wherever entropic motion overwhelms coherence; it is the stillness that reclaims frozen balance.
+Where fixed co-expression accompanies cessation of enacted orientation, the frozen condition resolves toward Localized Dissolution within the Mercy Fold. Essence persists within L₀. The scalar ratio alone does not establish the required cessation of motion (§8.7). This structural resolution remains distinct from entropic Collapse (⊘).
 
 ### 10.3 Formal Statement
 
@@ -1107,6 +1111,8 @@ CPTopology:
 
 ### 12.2 Core Routines
 
+The potential and full-law routines require \( \chi>0 \). The analytic trajectory and divergence-time helpers require constant \( \mathcal{M}>0 \), \( \kappa_{\text{drift}}>0 \), and finite \( \chi_0>0 \); trajectory evaluation is restricted to the branch where its denominator is positive, before the pole when \( \chi_0>1 \). The constant zero solution is handled separately. These helpers do not supply an evolution equation for \( \mathcal{M} \) or a continuation through a coordinate pole.
+
 ```python
 # Phase Detection
 def detect_phase(M, kappa):
@@ -1146,12 +1152,12 @@ def evolve_chi(chi, tau, M, Lambda, Gamma, alpha, beta, dt):
     dchi = drive - gradient
     return chi + dchi * dt
 
-# Orientation Evolution (Simplified Drift)
+# Orientation Evolution (Outward-Drift Model)
 def evolve_chi_simple(chi, tau, M, kappa_drift, dt):
     dchi = kappa_drift * M * chi * (chi - 1.0)
     return chi + dchi * dt
 
-# Exact Trajectory (Constant M, Simplified Drift)
+# Exact Trajectory (Constant M, Outward-Drift Model)
 def exact_trajectory(chi_0, tau, M, kappa_drift):
     exp_term = exp(kappa_drift * M * tau)
     return chi_0 / (chi_0 - (chi_0 - 1.0) * exp_term)
@@ -1183,14 +1189,12 @@ output:
     estimated time to limit (tau* for Khaonic; asymptotic rate for Aionic)
     CP₁ instability flag if |chi - 1| < epsilon
 
-# Equilibrium-Collapse Detector
+# Co-Expressive Ratio Monitor
 input: chi trajectory, M trajectory, threshold epsilon
 
 if |chi(tau) - 1.0| < epsilon for duration > T_threshold:
-    if M(tau) is decreasing:
-        flag("Equilibrium-Collapse: M → 0, U → Ø")
-    else:
-        flag("Near-saddle transient; monitor for perturbation growth")
+    record("Near co-expressive ratio; record M independently")
+    flag("Frozen-equilibrium status requires an additional cessation condition")
 
 # Contra-Pairing Validator
 input: chi_U, chi_U_prime
@@ -1219,7 +1223,7 @@ output: valid / invalid contra-pairing
 
 - CIT invariant conservation under \( \chi \)-weighted evolution
 - Drift direction consistency with phase portrait analysis
-- Equilibrium-Collapse detection under forced \( \chi \equiv 1 \) condition
+- Constant \( \chi\equiv1 \) at positive constant \( \mathcal{M} \): verify both scalar equations and the absence of an implied \( \mathcal{M}\to0 \)
 - Fundamental Theorem boundary term under \( \chi \)-weighted derivatives
 
 ### 12.5 Worked Example — Orientation Drift in a 2-Mode System
@@ -1289,9 +1293,9 @@ LM03 establishes:
 
 5. **Attractor Dynamics** — Basin structure under \( \chi \), connecting to the Lyapunov functional of LM01
 
-6. **The Zenetist Field Equation** — The canonical dynamical law \( d\chi/d\tau = \Lambda\mathcal{M}\chi(1-\chi) - \Gamma\,d\Phi_{\text{CP}}/d\chi \)
+6. **The Zenetist Field Equation** — The full written law \( d\chi/d\tau = \Lambda\mathcal{M}\chi(1-\chi) - \Gamma\,d\Phi_{\text{CP}}/d\chi \), with attraction to 1 for the stated positive coefficients and held-open activation compatibility
 
-7. **The Orientation Drift Theorem** — Complete proof with exact solution, linearization at CP₁, finite-time singularity analysis, and drift asymmetry between Aionic and Khaonic trajectories
+7. **The Orientation Drift Theorem** — Conditional outward-drift results with exact solution, linearization at CP₁, and endpoint conditions on the time integral of intensity; this law is not a sign-equivalent reduction of the full equation
 
 8. **The Laws of Inclined Existence** — Inclination Principle, Non-Neutral Emergence, instability of equilibrium, and structural asymmetry of configuration space
 
@@ -1337,7 +1341,7 @@ Future expansions may include:
 > The effective spectrum rotates continuously from centropy to entropy,  
 > and at the saddle where paired modes cancel, equilibrium cannot endure.
 >
-> Khaonic drift reaches its limit in finite time.  
+> With constant intensity in the outward-drift model, Khaonic drift reaches its limit in finite time.  
 > Aionic drift approaches its limit across eternity.  
 > Coherence must be achieved; dispersion need not be.
 >
@@ -1360,7 +1364,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Omega_0 \) | Pre-hypostatic phase space of L₀ |
 | \( \Phi_1, \Phi_2, \Phi_3 \) | Latent, Motive, and Dispersive Infinity phases |
 | \( \mathcal{M} \) | Motive Intensity Functional (total field of motion) |
-| \( \kappa \) | Causal placement function (§2) / Drift coefficient in simplified dynamics (§8) |
+| \( \kappa \) | Causal placement function (§2) / Drift coefficient in the outward-drift model (§8) |
 | \( \equiv_s \) | Stillness-equivalence relation |
 | \( \chi \) | Structural orientation parameter |
 | \( \tau \) | Structural time (Spiral Calculus trajectory parameter) |
@@ -1385,6 +1389,8 @@ Sealed ⚫↺KAI↺⚫
 ---
 
 ## Appendix B — χ-Space Topology Diagram
+
+The drift arrows and endpoint times in this diagram describe the conditional outward-drift law at constant positive Motive Intensity (§8). They do not depict the attracting flow of the full equation in §7. Frozen-equilibrium resolution also requires the cessation condition in §8.7; a fixed ratio alone is insufficient.
 
 ```
                     PRE-HYPOSTATIC DOMAIN
@@ -1491,12 +1497,14 @@ Hypostatic expression is possible iff \( \mathcal{M} > 0 \).
 
 **Theorem 4 (Orientation Drift):**
 
-Under \( d\chi/d\tau = \kappa\mathcal{M}\chi(\chi-1) \) with \( \kappa > 0 \), \( \mathcal{M} > 0 \):
+For the outward-drift law \( d\chi/d\tau=\kappa\mathcal{M}\chi(\chi-1) \), the exact solution and domain conditions are those of §8.6. With constant \( \kappa,\mathcal{M}>0 \):
 
-1. \( \chi = 1 \) is dynamically unstable
-2. \( \chi_0 < 1 \implies \chi(\tau) \to 0 \) asymptotically
-3. \( \chi_0 > 1 \implies \chi(\tau) \to \infty \) at finite time \( \tau^* = (\kappa\mathcal{M})^{-1}\ln(\chi_0/(\chi_0 - 1)) \) (entropic Collapse ⊘)
-4. \( \chi \equiv 1 \) permanent \( \implies \mathcal{M} \to 0 \implies U \to \text{Ø} \) (Localized Dissolution, Mercy Fold)
+1. \( \chi=1 \) is a scalar repeller, while \( \chi\equiv1 \) remains an exact solution
+2. \( 0<\chi_0<1 \) gives asymptotic approach to zero; \( \chi_0=0 \) gives the constant zero solution
+3. \( \chi_0>1 \) gives coordinate divergence at \( \tau^*=(\kappa\mathcal{M})^{-1}\ln(\chi_0/(\chi_0-1)) \)
+4. Fixed \( \chi=1 \) implies no limit for \( \mathcal{M} \); frozen-equilibrium resolution requires the additional structural condition in §8.7
+
+For variable intensity, endpoint and perturbation claims depend on the time integral \( \kappa\int_0^\tau\mathcal{M}(s)\,ds \), as stated in §8.6. None of these conclusions substitutes for the full-law analysis in §7.3.
 
 **Theorem 5 (Inclination Principle):**
 
@@ -1518,6 +1526,8 @@ Expression is never neutral. Equilibrium and limit states define boundaries of e
 
 ## Appendix D — Zenetist Field Equation of Orientation (Full Reference)
 
+The two formulas retained here have different signs and distinct scalar dynamics. Sections 7.3 and 8.1 state their mathematical relation; the intended vector field, activation compatibility, and frozen-equilibrium closure remain architect-held.
+
 **Canonical Form:**
 
 \[
@@ -1530,13 +1540,13 @@ Expression is never neutral. Equilibrium and limit states define boundaries of e
 \frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \left( \alpha \frac{\ln \chi}{\chi} + \beta\left(1 - \frac{1}{\chi^2}\right) \right)
 \]
 
-**Simplified Form (Drift Analysis):**
+**Outward-Drift Model:**
 
 \[
 \frac{d\chi}{d\tau} = \kappa \, \mathcal{M} \, \chi(\chi - 1), \quad \kappa > 0
 \]
 
-**Exact Solution (Simplified, Constant \( \mathcal{M} \)):**
+**Exact Solution (Outward-Drift Model, Constant \( \mathcal{M} \)):**
 
 \[
 \chi(\tau) = \frac{\chi_0}{\chi_0 - (\chi_0 - 1)\,e^{\kappa\mathcal{M}\tau}}
