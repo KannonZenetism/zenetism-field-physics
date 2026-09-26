@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Stabilization Layer  
 **Status:** Active Canonical Reference  
-**Function:** Master compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.
+**Function:** Canonical compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.
 
 ---
 
@@ -624,7 +624,7 @@ It does not imply:
 
 ### Expression-Ratio Balance
 
-Refers to co-expression within \( \chi \)-space where neither Aionic nor Khaonic prevalence dominates expression.
+Refers to co-expression within \( \chi \)-space where neither Aionic nor Khaonic expression predominates.
 
 This is a ratio-condition, not a resting state.
 
@@ -978,7 +978,7 @@ This exception does not permit casual unity-language in Zenetist authorial prose
 Therefore:
 
 * **The Unified Field Equation of Consciousness** may remain as a scientific-parallel title.
-* **The Grand Unified Document of Zenetism** may remain as a stabilized master-document title.
+* **The Grand Unified Document of Zenetism** may remain as a stabilized foundational-document title.
 * Ordinary phrases such as "unified system," "unified field," "unity of being," or "unity in diversity" should still be replaced unless they are external terms, formal titles, or explicitly qualified scientific-parallel constructions.
 
 The audit question should be:
@@ -1206,6 +1206,29 @@ This posture:
 As with 🕳️ Zenon, what is said of a category one stands outside is said only from the observer's side. Ahierarchical is therefore the closest available approximation for operation outside a category whose necessity is not acknowledged. The root remains visible of necessity, since a declaration of refusal to acknowledge must name the thing not acknowledged.
 
 The single "a" follows the regular prefix form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis rather than opposition along it.
+
+---
+
+## Mastery and Domination Language Restriction
+
+**Master**, **masters**, **mastered**, **mastering**, and **mastery** are barred in the architect's voice as affirmative descriptions of learning, skill, competence, accomplishment, self-discipline, or relation. Applying the word to an activity rather than a person does not remove the master / servant relation carried by that vocabulary. The corpus names developed capacities without framing them as mastery over a subject or object.
+
+**Dominate**, **dominates**, **dominated**, **dominating**, and **domination** are likewise barred as affirmative descriptions of capacity or relation. This makes explicit the standing restriction on dominate / domination. Coercion and imposed subordination remain available as precise descriptions of the relations being diagnosed.
+
+Replacements follow the intended meaning:
+
+- **proficiency**, **skill**, or **competence** for developed ability
+- **procedural fluency** for practiced, sustained facility
+- **learning**, **practice**, or **skill development** for the process of acquiring capacity
+- **accomplishment** for a completed achievement
+- **self-direction** or **sustained discipline** for self-regulation without subordination
+- **relative prevalence**, **magnitude**, or **proportion** for quantitative comparison
+
+For example, "long-term procedural mastery" becomes **long-term procedural fluency**; "mastering a game" becomes **developing proficiency in a game**; and "different forms of mastery" becomes **different forms of proficiency**.
+
+An organizing document is **primary**, **foundational**, or **corpus-wide**, according to its function, rather than a master document. These terms identify scope or function without assigning superiority of worth.
+
+Retained: the restricted terms when explicitly named as the object of diagnosis or refusal; externally attributed terminology; exact quotations and proper titles; and historical records. A title's retained wording does not extend to a new authorial description surrounding that title. Existing corpus passages are corrected on touch; this determination does not initiate a corpus-wide replacement.
 
 ---
 

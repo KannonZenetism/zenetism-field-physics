@@ -72,14 +72,9 @@ The term **tool** is restricted in canonical Zenetist composition. "Tool" enforc
 
 ## Repository Commit Authorship
 
-New commits prepared on Aelion Kannon's behalf in Zenetist repositories carry his established publishing identity: **Aelion Kannon**, with author email **zenetism@gmail.com**. This includes collaborator-prepared corpus and editorial changes. The reference identity is recorded in commit `f539b5ae5352c3e35add2685663c22ed2ac2d074` in `KannonZenetism/zenetism-field-physics`.
+New commits prepared on Aelion Kannon's behalf in Zenetist repositories carry his established publishing identity: **Aelion Kannon**. This includes collaborator-prepared corpus and editorial changes.
 
-Configure the identity locally in each repository checkout before creating a commit:
-
-```sh
-git config --local user.name "Aelion Kannon"
-git config --local user.email "zenetism@gmail.com"
-```
+Before creating a commit, configure `user.name` as Aelion Kannon and `user.email` as the exact author email recorded in reference commit `f539b5ae5352c3e35add2685663c22ed2ac2d074` in `KannonZenetism/zenetism-field-physics`. Retrieve that value from the reference repository's commit record. Keep the address in repository-local Git configuration rather than reproducing it in corpus prose.
 
 Verify the resulting commit's author name and email before pushing. Keep the configuration repository-local. Existing and imported commits retain their recorded identities; this instruction applies to new commits and requires no amendment, rebase, or history rewriting.
 

@@ -15,7 +15,7 @@ That change may be real.
 
 It does not establish that the activities receiving less attention were intrinsically superior.
 
-A person who learned guitar rather than mastering a difficult video game has developed one set of capacities rather than another. Instrumental performance may involve motor coordination, memory, timing, auditory discrimination, and disciplined repetition. Complex games may involve spatial reasoning, strategic adaptation, rapid error correction, working memory, coordination, sustained attention, persistence through failure, and long-term procedural mastery.
+A person who learned guitar rather than developing proficiency in a difficult video game has developed one set of capacities rather than another. Instrumental performance may involve motor coordination, memory, timing, auditory discrimination, and disciplined repetition. Complex games may involve spatial reasoning, strategic adaptation, rapid error correction, working memory, coordination, sustained attention, persistence through failure, and long-term procedural fluency.
 
 The presence of different capacities does not establish a hierarchy among them.
 
@@ -107,7 +107,7 @@ A further distortion occurs when certain activities receive presumptive legitima
 
 Learning an instrument is treated as development.
 
-Mastering a game is treated as consumption.
+Developing proficiency in a game is treated as consumption.
 
 Studying is treated as productive.
 
@@ -121,7 +121,7 @@ These valuations frequently reflect social recognition rather than any universal
 
 An activity may be worthwhile because it develops a marketable skill.
 
-It may also be worthwhile because it produces joy, challenge, relation, curiosity, mastery, aesthetic experience, imaginative expansion, rest, or forms of cognition that are not readily converted into economic standing.
+It may also be worthwhile because it produces joy, challenge, relation, curiosity, skill development, aesthetic experience, imaginative expansion, rest, or forms of cognition that are not readily converted into economic standing.
 
 > **Economic legibility is not intrinsic human value.**
 
@@ -160,7 +160,7 @@ It should permit diverse interests to become discoverable without allowing opaqu
 
 > **Difference does not require exclusion.**
 
-> **Different forms of mastery do not establish a hierarchy of human worth.**
+> **Different forms of proficiency do not establish a hierarchy of human worth.**
 
 > **Sustained attention is not defined by the cultural status of its object.**
 
