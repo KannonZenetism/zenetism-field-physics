@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Neuroscience — Note / Social Cognition, Identity, and Cultural Valuation  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Function:** Distinguishes genuine concerns about algorithmic mediation from personal hierarchies that treat some interests, skills, and forms of sustained attention as intrinsically more worthwhile than others  
 
 ---
