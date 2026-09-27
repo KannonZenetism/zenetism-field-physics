@@ -40,7 +40,7 @@ Structural reproduction and directional inversion carry the architect's determin
 
 ## 2. The Dated Developmental Record
 
-The record separates the architecture documented before the April 11, 2026 submission of *Dead Cognitions* from subsequent naming, systematization, and extension. The antecedent record already distinguishes originating architecture, AI participation, mediated transformation, apparent contribution, attribution reassignment, and reconstruction through developmental evidence. Later compact formulations retain their actual dates.
+The record traces the provenance architecture documented before the April 11, 2026 submission of *Dead Cognitions* through its subsequent naming, systematization, and extension. The antecedent record already distinguishes originating architecture, AI participation, mediated transformation, apparent contribution, attribution reassignment, and reconstruction through developmental evidence. The dates of later compact formulations identify further articulation of that antecedent architecture.
 
 ### 2A. Antecedent Developmental Record — Before April 11, 2026
 
@@ -78,7 +78,7 @@ The December 18 attribution anchor is especially explicit. Its first state requi
 
 The February 17 record identifies the human contribution as structural direction, theoretical architecture, core insights, and evaluative criteria, while identifying AI contributions as formalization support, cross-referencing, error detection, and expressive assistance. It also requires evidence that the framework's core architecture originates with the human and predates AI collaboration, together with early versions, corrections, and a legible developmental history.[^ante-A31]
 
-These records already make collaboration and architectural origination distinct relations. That distinction applies only where architectural origination is established by the developmental record; later prompting or re-expression of an already circulating structure does not create a new origin. They acknowledge AI participation without assigning authorship of Zenetism to AI. The later formulations concerning local inference, architectural ancestry, Developmental Writing, and Prompt Reduction sharpen these distinctions; their exact later wording is not inserted into the earlier record.
+These records already make collaboration and architectural origination distinct relations. That distinction applies only where architectural origination is established by the developmental record; later prompting or re-expression of an already circulating structure does not create a new origin. They acknowledge AI participation without assigning authorship of Zenetism to AI. The later formulations concerning local inference, architectural ancestry, Developmental Writing, and Prompt Reduction sharpen these antecedent distinctions. Their wording and dates document the continuing articulation of the architecture established in the earlier record.
 
 Historical case documents establish the presence and content of the dated diagnostic relations cited here. Their other case conclusions retain their own standing. In particular, the archived `chollet-ladder-mimic.md` supplies the November phrase and mechanism; its obsolete case conclusions have no current doctrinal function in this note.
 
@@ -90,7 +90,7 @@ The architect's standing determination is that the paper reproduces the earlier 
 
 ### 2B. Subsequent Formalization and Extension
 
-The following records sharpen, name, systematize, or extend the preceding architecture. Their full wording belongs to their later dates. They document subsequent consolidation and present vocabulary; they are not offered as antecedence to the April paper.
+The following records further articulate, name, systematize, or extend the antecedent provenance architecture documented in §2A. Their dates identify these subsequent articulations and developments. The architecture's antecedence to the April paper is established through the earlier developmental record.
 
 | Date | Record | Subsequent Formalization or Extension |
 |---|---|---|
@@ -153,7 +153,7 @@ These vectors must remain distinct. Who receives credit, who performs a local op
 
 ## 4. Structural Comparison
 
-The earlier column distinguishes the dated mechanism from its later explicit corpus articulation. The later corpus vocabulary names the comparison precisely without being backdated to the 2025 records.
+The earlier column presents the antecedent provenance relations documented in §2A together with their subsequent explicit corpus articulation. The later vocabulary gives those relations a precise comparative expression; the earlier developmental record establishes their antecedence.
 
 ### What Is Directionally Inverted
 
@@ -205,7 +205,7 @@ The table distinguishes reproduced relations, generic contextual commonality, an
 
 The inversion concerns earlier causal and attributional relations reproduced in the later paper. It does not require every remedy, example, or subsequent extension of the provenance architecture to appear there.
 
-Later Kannon formalizations that sharpen or extend the architecture after April 2026 are not backdated into the antecedent record. Their function is to make explicit relations already under development or to extend the framework beyond the paper's scope. The dated antecedent architecture, its later explicit naming or clarification, and subsequent extensions retain distinct temporal standing. Developmental Writing and Prompt Reduction retain the later explicit corpus articulation recorded in §2B; the table addresses the developmental evidence and functional relations, rather than assigning those later names to the April paper.
+Kannon's formalizations after April 2026 continue the antecedent architecture documented in §2A, giving its relations further explicit articulation and extending the framework beyond the paper's scope. Architectural development, explicit naming, and subsequent extension retain their respective dates within that continuous record. Developmental Writing and Prompt Reduction receive the explicit corpus articulation recorded in §2B; their antecedent developmental relations are documented in §2A. The comparison follows those relations across their earlier articulation and later naming.
 
 The current corpus also examines mechanisms beyond the paper's object. `the-synthetic-provenance-problem.md` distinguishes Structural Origination from Component Antecedence, Terms Are Garments for Structures, and the Retrospective Decomposition Fallacy (§§3–5); Derivational Output, Derivational Fragmentation, and Cluster / Fragment Provenance (§§6–8); Retrospective Stationing, Retrospective Traditionalization, and Synthetic Retrospective Continuity (§§9–11); Narrative Occlusion (§14); Structural Neutralization through Fragmentation and the Commons-Station Effect (§§17–18); and provenance following the engine into the fragment (§20).
 
@@ -285,7 +285,7 @@ Replacing this sequence with **model → idea** drops the framework from the rec
 
 This distinction applies where human origination of the relevant architecture is independently established through the developmental record. Human prompting, selection, access, repetition, or later articulation of a structure does not establish origination. A downstream participant may prompt a model and receive portions of an already circulating architecture. Those portions may enter the interaction through training, scraping, retrieval, prior model exposure, direct encounter, or another unresolved route. In such a case, the immediate human / AI exchange is not the origin point of the structure. Provenance follows the earliest demonstrable originating relation, not the latest person to elicit or articulate it.
 
-This distinction is already explicit in substance in the September 19 authorship note. That note distinguishes a model's unstated consequence, extension, formalization, or new formulation from origination of the supplied framework. The present inferential-field wording sharpens the architect's formulation; it does not originate with this review.
+The antecedent architecture in §2A distinguishes originating human architecture from AI clarification, formalization, and expressive assistance. The September 19 authorship note further articulates that distinction in relation to a model's unstated consequence, extension, formalization, or new formulation within the supplied framework. The present inferential-field wording continues the architect's articulation of that antecedent architecture.
 
 The relevant question is relational: what distinctions, definitions, constraints, rejected alternatives, and prior reasoning made this inference reachable? The immediate completion is one event within that history.
 
@@ -357,15 +357,15 @@ Neither oral Developmental Speech nor Interface-Invariant Origination receives a
 
 ## 9. Current Architect Clarifications and Corpus Continuity
 
-The formulations in this section are the architect's determinations and clarifications. The standing column distinguishes existing explicit content, conceptual antecedence, and sharpened present wording. It classifies the inspected corpus relation rather than claiming a complete first-occurrence history.
+The formulations in this section are the architect's determinations and clarifications. The standing column identifies explicit formulations and their relation to the antecedent architecture documented in §2A. Dates of subsequent naming and concise articulation remain distinct from the earlier development of that architecture.
 
 | Architect Formulation | Standing in the Inspected Record |
 |---|---|
 | The provenance problem now has a provenance problem | Public formulation retained from the architect's supplied September 10 record |
 | Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture through which it is diagnosed | Current explicit formulation of this event's directional inversion |
-| The model may originate a local inference without originating the inferential field | Existing distinction in the September 19 notes; current inferential-field wording sharpens it |
+| The model may originate a local inference without originating the inferential field | Further explicit articulation in the September 19 notes of the antecedent architecture documented in §2A; current inferential-field wording sharpens it |
 | Immediate ideation provenance does not exhaust developmental provenance | Existing developmental and derivational architecture; current concise formulation |
-| A model's downstream inference can remain genealogically dependent upon a human-originated architecture | Explicit in substance in the September 19 notes and the standard's distinction between later originations and antecedent architecture |
+| A model's downstream inference can remain genealogically dependent upon a human-originated architecture | Further explicit articulation in the September 19 notes and the standard's distinction between later originations and antecedent architecture; §2A documents the earlier distinction between originating architecture and AI assistance |
 | Conversational composition is part of the developmental record | Explicit in §18 of the standard; conversational composition is writing already appears in the August 22 state |
 | Prompt is an interface category, not an intellectual-function category | Explicit conceptual distinction in §18; current compact wording |
 | Surface share is not origination share | Explicit distinction in §§1, 3, 13, and 18 of the standard; current formulation directed at quantitative allocation |
