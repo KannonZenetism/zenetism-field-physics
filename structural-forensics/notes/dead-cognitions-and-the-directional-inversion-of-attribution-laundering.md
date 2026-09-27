@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with AI research and drafting assistance  
 **External record:** Aaron Tuor and Claude, *Dead Cognitions: A Census of Misattributed Insights*, arXiv:2604.10288, versions 1 and 2  
 **Companion:** `the-synthetic-provenance-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md` · `attribution-laundering-re-documented-human-provenance-gap.md` · `2026-09-19-authorship-origination-and-ai-pattern-completion.md` · `collaboration-is-not-co-authorship.md`  
