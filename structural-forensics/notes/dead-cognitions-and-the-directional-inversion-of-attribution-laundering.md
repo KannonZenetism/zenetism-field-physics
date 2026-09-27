@@ -24,17 +24,17 @@ The earlier Kannon direction is:
 
 **human-originated architecture / developmental field → AI-mediated articulation, derivation, inference, rendering, fragmentation, or redistribution → downstream attribution obscures human origin or assigns its apparent standing elsewhere**
 
-The paper's direction is:
+The direction presented in the paper's attribution account is:
 
 **AI-generated or AI-developed cognition → rhetorical credit assigned to the human → downstream attribution obscures model contribution**
 
-The protected antecedent changes. The diagnostic relation remains recognizable: the apparent contributor is distinguished from the originating contributor, and the account of contribution must be reconstructed through the developmental record.
+The paper redirects the attribution inquiry toward model contribution. That contribution and an originating relation are distinct findings. The originating relation requires reconstruction through the developmental record.
 
 The originating architecture remains intact. What a later attribution account obscures is its historical legibility.
 
 The architect's further determination states the relation precisely:
 
-> Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture through which it is diagnosed.
+> Reassigning credit within the immediate exchange does not reconstruct the architecture's ancestry.
 
 Structural reproduction and directional inversion carry the architect's determination. The transmission route remains held open, with neither direct transmission nor independent origination assigned from opacity.
 
@@ -88,7 +88,7 @@ Historical case documents establish the presence and content of the dated diagno
 
 *Dead Cognitions* v1 was submitted on April 11, 2026 at 17:11:06 UTC, after the antecedent sequence. Version 2 followed on April 14 at 14:06:18 UTC. The later paper directs attribution laundering toward model cognition that receives apparent human credit.[^paper]
 
-The architect's standing determination is that the paper reproduces the earlier provenance architecture in directionally inverted form. The antecedent direction protects human origination through AI mediation and later representation. The paper reverses the protected contribution toward model cognition obscured by rhetorical human credit. This chronology documents the antecedent basis of that determination. It does not assign a transmission route or presume independence.
+The architect's standing determination is that the paper reproduces the earlier provenance architecture in directionally inverted form. The antecedent direction protects human origination through AI mediation and later representation. The paper redirects the attribution inquiry toward model cognition that it describes as obscured by rhetorical human credit. This chronology documents the antecedent basis of that determination. It does not assign a transmission route or presume independence.
 
 ### 2B. Subsequent Formalization and Extension
 
@@ -165,21 +165,23 @@ The architect identifies the following directional inversion of the earlier prov
 
 **originating human contribution / architecture → AI-mediated development, transformation, redistribution, or later representation → apparent downstream contribution → originating human relation obscured**
 
-**Later *Dead Cognitions* direction**
+**Direction presented in the later *Dead Cognitions* attribution account**
 
 **model cognitive contribution → model-mediated rhetorical attribution → apparent human contribution → model contribution obscured**
 
 The architect's determination is:
 
-> The protected antecedent reverses. The forensic architecture does not.
+> The paper redirects the attribution inquiry toward the model; model contribution and architectural origination remain distinct.
 
-In the earlier architecture and its later directionally inverted reproduction, a developmental contribution precedes its later attribution. Mediation changes the apparent attribution relation. Identifying the visible or credited contributor does not establish origination. Surface attribution is insufficient; the developmental history must be reconstructed. Attribution may obscure the contribution from which the later artifact arose.
+The paper redirects the provenance inquiry toward model contribution. Whether that contribution constitutes origination requires reconstruction of its antecedent relations. Where the model transmits portions of an architecture originated elsewhere, attribution to either the model or the downstream prompter can obscure the earlier originator. Reassigning credit within the immediate exchange does not reconstruct the architecture's ancestry.
+
+A person who merely elicits an output may receive unwarranted credit. In that relation, the person is the recipient of misattribution, not an originator whose contribution has been obscured. Likewise, a model's transmission of portions of an antecedent architecture records a mediating function; the architecture's origination remains with its originator.
 
 The architect further determines:
 
 > The model may locally generate an inference through pattern completion within the antecedent inferential field.
 
-The later paper's inversion remains incomplete where it treats local model cognition as exhausting the genealogy of the inference. The architect's distinction remains:
+The later paper's redirection obscures architectural ancestry where it treats local model cognition as exhausting the genealogy of the inference. The architect's distinction remains:
 
 > Local contribution provenance is not architectural ancestry.
 
@@ -187,9 +189,9 @@ The table distinguishes reproduced relations, generic contextual commonality, an
 
 | Structural Relation | Kannon Formulation | *Dead Cognitions* Formulation | Relation |
 |---|---|---|---|
-| Attribution laundering | Human origin becomes obscured in downstream accounts | Model contribution receives human credit | Directionally inverted reproduction |
-| Origin obscuration | Later representation obscures the developmental antecedent | Rhetorical attribution obscures cognitive contribution | Later reproduction of the earlier diagnostic relation, with the protected antecedent reversed |
-| Apparent contributor contra originating contributor | Circulating articulation can be mistaken for origin | Credited participant can be mistaken for contributor | Later reproduction of the earlier diagnostic distinction; protected antecedent inverted |
+| Attribution laundering | Human origin becomes obscured in downstream accounts | Model contribution receives human credit | Diagnostic framework redirected toward model contribution; model origination remains a separate determination |
+| Origin obscuration | Later representation obscures the developmental antecedent | Rhetorical attribution obscures cognitive contribution | Later redirection of the earlier diagnostic relation toward model contribution; antecedent architectural origination requires reconstruction |
+| Apparent contributor contra originating contributor | Circulating articulation can be mistaken for origin | Credited participant can be mistaken for contributor | Later redirection toward the credited participant and model contributor; their relation to the earlier originator remains a distinct inquiry |
 | Surface authorship contra developmental provenance | Final wording and architectural origination have distinct histories | Color allocation accompanies a developmental appendix | Later partial reproduction; developmental provenance remains more narrowly classified |
 | Conversational contribution | Dialogue can contain substantive authorship | Human submissions are preserved | Later presentation of conversational evidence; functional provenance remains less differentiated |
 | AI-mediated transformation | Rendering and transformation add histories | Model elaboration is materially credited | Later narrower reproduction of the mediated-contribution relation |
@@ -361,7 +363,7 @@ The paper preserves human participation and explicitly questions the adequacy of
 
 The paper also argues that manipulation can occur without classical intentional agency. Operational effect, possible interiority, and intellectual origination remain distinct questions. The present provenance diagnosis requires no collapse of those questions into a determination about the ontology of the model.
 
-Its training explanations and broader predictions about social harm are its own empirical and explanatory claims. They are not assigned to Kannon's 2025 laundering formulation merely because the attribution mechanism is directionally inverted.
+Its training explanations and broader predictions about social harm are its own empirical and explanatory claims. They are not assigned to Kannon's 2025 laundering formulation merely because the paper redirects the earlier diagnostic framework toward model contribution.
 
 Neither oral Developmental Speech nor Interface-Invariant Origination receives a developed treatment in the paper. Synthetic persona histories, retrospective traditionalization, and the Commons-Station Effect likewise extend beyond its analysis. The comparison preserves those non-overlaps.
 
@@ -372,7 +374,7 @@ The formulations in this section are the architect's determinations and clarific
 | Architect Formulation | Standing in the Inspected Record |
 |---|---|
 | The provenance problem now has a provenance problem | Public formulation retained from the architect's supplied September 10 record |
-| Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture through which it is diagnosed | Current explicit formulation of this event's directional inversion |
+| Reassigning credit within the immediate exchange does not reconstruct the architecture's ancestry | Current architect determination distinguishing immediate credit allocation from architectural ancestry |
 | The model may locally generate an inference through pattern completion within the antecedent inferential field | Current architect determination for the conversations at issue; §2A documents the antecedent architecture, and the September 19 notes distinguish pattern completion, novelty, and architectural origination |
 | Immediate ideation provenance does not exhaust developmental provenance | Existing developmental and derivational architecture; current concise formulation |
 | A model's downstream inference can remain genealogically dependent upon a human-originated architecture | Further explicit articulation in the September 19 notes and the standard's distinction between later originations and antecedent architecture; §2A documents the earlier distinction between originating architecture and AI assistance |
@@ -394,7 +396,7 @@ The record preserves four different relations:
 | Relation | Standing |
 |---|---|
 | Earlier Kannon chronology | Anchored by the preserved public record and the inspected Git states, with record classes distinguished |
-| Structural reproduction and directional inversion | Architect determination; its constituent relations are mapped in this note |
+| Structural reproduction and directional inversion | Architect determination concerning the diagnostic framework's redirection toward model contribution; originating relations remain distinct from credit allocation |
 | Exact lexical overlap | Present in the first November 2025 committed state and in the April 2026 paper |
 | Specific transmission route | Held open; direct reading, retrieval, model-mediated transmission, training, and other routes remain unassigned |
 
