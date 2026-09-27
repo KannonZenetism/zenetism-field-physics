@@ -112,27 +112,57 @@ These vectors must remain distinct. Who receives credit, who performs a local op
 
 The earlier column distinguishes the dated mechanism from its later explicit corpus articulation. The later corpus vocabulary names the comparison precisely without being backdated to the 2025 records.
 
+### What Is Directionally Inverted
+
+The architect identifies the following directional inversion of the earlier provenance architecture.
+
+**Earlier Kannon provenance direction**
+
+**originating human contribution / architecture → AI-mediated development, transformation, redistribution, or later representation → apparent downstream contribution → originating human relation obscured**
+
+**Later *Dead Cognitions* direction**
+
+**model cognitive contribution → model-mediated rhetorical attribution → apparent human contribution → model contribution obscured**
+
+The architect's determination is:
+
+> The protected antecedent reverses. The forensic architecture does not.
+
+In the earlier architecture and its later directionally inverted reproduction, a developmental contribution precedes its later attribution. Mediation changes the apparent attribution relation. Identifying the visible or credited contributor does not establish origination. Surface attribution is insufficient; the developmental history must be reconstructed. Attribution may obscure the contribution from which the later artifact arose.
+
+The architect further determines:
+
+> The model may originate a local inference without originating the inferential field.
+
+The later paper's inversion remains incomplete where it treats local model cognition as exhausting the genealogy of the inference. The architect's distinction remains:
+
+> Local contribution provenance is not architectural ancestry.
+
+The table distinguishes reproduced relations, generic contextual commonality, and omissions or divergences in the later paper.
+
 | Structural Relation | Kannon Formulation | *Dead Cognitions* Formulation | Relation |
 |---|---|---|---|
-| Attribution laundering | Human origin becomes obscured in downstream accounts | Model contribution receives human credit | Directionally inverted |
-| Origin obscuration | Later representation obscures the developmental antecedent | Rhetorical attribution obscures cognitive contribution | Same mechanism at the attribution register |
-| Apparent contributor contra originating contributor | Circulating articulation can be mistaken for origin | Credited participant can be mistaken for contributor | Same diagnostic distinction; protected antecedent inverted |
-| Surface authorship contra developmental provenance | Final wording and architectural origination have distinct histories | Color allocation accompanies a developmental appendix | Partial overlap |
-| Conversational contribution | Dialogue can contain substantive authorship | Human submissions are preserved | Partial overlap |
-| AI-mediated transformation | Rendering and transformation add histories | Model elaboration is materially credited | Partial overlap |
-| Provenance reconstruction | Recover architecture, formation, contribution, and transmission | Inspect contribution allocations and interaction history | Partial overlap; different scope |
-| Mislocated agency | Performance mechanism and originating bearer are distinguished | Cognitive performance and attributed human agency diverge | Partial overlap |
-| Human / AI collaboration | Preserve distinct functions and origin relations | Disclosed collaborative production | Partial overlap |
+| Attribution laundering | Human origin becomes obscured in downstream accounts | Model contribution receives human credit | Directionally inverted reproduction |
+| Origin obscuration | Later representation obscures the developmental antecedent | Rhetorical attribution obscures cognitive contribution | Later reproduction of the earlier diagnostic relation, with the protected antecedent reversed |
+| Apparent contributor contra originating contributor | Circulating articulation can be mistaken for origin | Credited participant can be mistaken for contributor | Later reproduction of the earlier diagnostic distinction; protected antecedent inverted |
+| Surface authorship contra developmental provenance | Final wording and architectural origination have distinct histories | Color allocation accompanies a developmental appendix | Later partial reproduction; developmental provenance remains more narrowly classified |
+| Conversational contribution | Dialogue can contain substantive authorship | Human submissions are preserved | Later presentation of conversational evidence; functional provenance remains less differentiated |
+| AI-mediated transformation | Rendering and transformation add histories | Model elaboration is materially credited | Later narrower reproduction of the mediated-contribution relation |
+| Provenance reconstruction | Recover architecture, formation, contribution, and transmission | Inspect contribution allocations and interaction history | Later reproduction of provenance reconstruction at a narrower scope |
+| Mislocated agency | Performance mechanism and originating bearer are distinguished | Cognitive performance and attributed human agency diverge | Later directionally related reproduction; agency, local performance, and origination remain less fully separated |
+| Human / AI collaboration | Preserve distinct functions and origin relations | Disclosed collaborative production | Contextual commonality — not independently probative of the inversion |
 | Surface-count attribution | Surface share cannot determine originating share | Character percentages supplement colors | Materially different unit of measurement |
-| Local inference | New inference may presuppose an antecedent framework | Model cognitive contribution is recognized | Partial overlap |
+| Local inference | New inference may presuppose an antecedent framework | Model cognitive contribution is recognized | Later focus on local model contribution; antecedent architectural ancestry remains unaccounted for |
 | Architectural ancestry | Trace what made the inference reachable | No developed test of framework ancestry | Absent as an explicit criterion |
 | Model elaboration | Elaboration and origination are distinguishable | Development and origination share a color category | Materially different classification |
-| Developmental Writing / Speech | Intellectual function survives interface and surface changes | Written developmental entries are preserved | Partial overlap for writing; oral category absent |
-| Prompt Reduction | Interface classification must not replace intellectual function | General prompt framing sits beside substantive human entries | Partial overlap; developmental functions remain incompletely classified |
+| Developmental Writing / Speech | Intellectual function survives interface and surface changes | Written developmental entries are preserved | Later presentation of a narrower developmental record; oral category absent |
+| Prompt Reduction | Interface classification must not replace intellectual function | General prompt framing sits beside substantive human entries | Later treatment instantiates the condition diagnosed by Prompt Reduction; developmental functions remain incompletely classified |
 | Transformation without provenance reset | Later articulation preserves antecedent provenance | No explicit continuity standard through recoloring | Absent as a formulated standard |
-| Attribution remedy | Functional contribution records and derivational reconstruction | Visible contribution coding | Partial overlap; remedy narrower |
+| Attribution remedy | Functional contribution records and derivational reconstruction | Visible contribution coding | Later narrower provenance remedy centered on visible contribution coding |
 
-The inversion concerns the shared causal and attributional relations. It does not require every remedy, example, or extension in the two records to be identical.
+The inversion concerns earlier causal and attributional relations reproduced in the later paper. It does not require every remedy, example, or subsequent extension of the provenance architecture to appear there.
+
+Later Kannon formalizations that sharpen or extend the architecture after April 2026 are not backdated into the antecedent record. Their function is to make explicit relations already under development or to extend the framework beyond the paper's scope. The dated antecedent architecture, its later explicit naming or clarification, and subsequent extensions retain distinct temporal standing. Developmental Writing and Prompt Reduction retain the later explicit corpus articulation recorded in §2; the table addresses the developmental evidence and functional relations, rather than assigning those later names to the April paper.
 
 The current corpus also examines mechanisms beyond the paper's object. `the-synthetic-provenance-problem.md` distinguishes Structural Origination from Component Antecedence, Terms Are Garments for Structures, and the Retrospective Decomposition Fallacy (§§3–5); Derivational Output, Derivational Fragmentation, and Cluster / Fragment Provenance (§§6–8); Retrospective Stationing, Retrospective Traditionalization, and Synthetic Retrospective Continuity (§§9–11); Narrative Occlusion (§14); Structural Neutralization through Fragmentation and the Commons-Station Effect (§§17–18); and provenance following the engine into the fragment (§20).
 
