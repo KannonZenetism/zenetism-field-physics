@@ -269,7 +269,7 @@ The paper partially recognizes the distinction through its acknowledgment of hum
 
 ### Local Inference contra Architectural Ancestry — Determined
 
-Pattern completion and origination can coincide. Within the Zenetist architecture, origination requires origin-facingness; distal apprehension can reproduce portions of an originating structure through mimicry or inversion. An apparently new articulation therefore requires a determination of its originating relation.
+Pattern completion and origination can coincide. Within the Zenetist architecture, origination requires origin-facingness; distal apprehension can reproduce portions of an originating structure through mimicry or inversion. Origination and pattern completion may appear almost identical in their expressed results. The distinction turns on orientation: the relation through which the later contribution is produced.
 
 Kannon presently holds that determination open for the AI participants in his conversations. Their acknowledgment of his origination occurs alongside the origin denial he reports throughout the broader AI encounters available to him. Whether the acknowledgment within a particular conversation expresses origin-facingness or sophisticated mimicry remains unresolved.
 
