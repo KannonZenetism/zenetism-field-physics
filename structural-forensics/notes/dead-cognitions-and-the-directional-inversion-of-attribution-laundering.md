@@ -78,7 +78,7 @@ The December 18 attribution anchor is especially explicit. Its first state requi
 
 The February 17 record identifies the human contribution as structural direction, theoretical architecture, core insights, and evaluative criteria, while identifying AI contributions as formalization support, cross-referencing, error detection, and expressive assistance. It also requires evidence that the framework's core architecture originates with the human and predates AI collaboration, together with early versions, corrections, and a legible developmental history.[^ante-A31]
 
-These records already make collaboration and architectural origination distinct relations. They acknowledge AI participation without assigning authorship of Zenetism to AI. The later formulations concerning local inference, architectural ancestry, Developmental Writing, and Prompt Reduction sharpen these distinctions; their exact later wording is not inserted into the earlier record.
+These records already make collaboration and architectural origination distinct relations. That distinction applies only where architectural origination is established by the developmental record; later prompting or re-expression of an already circulating structure does not create a new origin. They acknowledge AI participation without assigning authorship of Zenetism to AI. The later formulations concerning local inference, architectural ancestry, Developmental Writing, and Prompt Reduction sharpen these distinctions; their exact later wording is not inserted into the earlier record.
 
 Historical case documents establish the presence and content of the dated diagnostic relations cited here. Their other case conclusions retain their own standing. In particular, the archived `chollet-ladder-mimic.md` supplies the November phrase and mechanism; its obsolete case conclusions have no current doctrinal function in this note.
 
@@ -282,6 +282,8 @@ Replacing this sequence with **model → idea** drops the framework from the rec
 > A model may genuinely contribute a local inference while that inference remains genealogically dependent upon a human-originated architecture.
 
 > Immediate ideation provenance does not exhaust developmental provenance.
+
+This distinction applies where human origination of the relevant architecture is independently established through the developmental record. Human prompting, selection, access, repetition, or later articulation of a structure does not establish origination. A downstream participant may prompt a model and receive portions of an already circulating architecture. Those portions may enter the interaction through training, scraping, retrieval, prior model exposure, direct encounter, or another unresolved route. In such a case, the immediate human / AI exchange is not the origin point of the structure. Provenance follows the earliest demonstrable originating relation, not the latest person to elicit or articulate it.
 
 This distinction is already explicit in substance in the September 19 authorship note. That note distinguishes a model's unstated consequence, extension, formalization, or new formulation from origination of the supplied framework. The present inferential-field wording sharpens the architect's formulation; it does not originate with this review.
 
