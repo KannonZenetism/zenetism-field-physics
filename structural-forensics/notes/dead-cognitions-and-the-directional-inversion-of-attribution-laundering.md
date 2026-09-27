@@ -34,7 +34,7 @@ The originating architecture remains intact. What a later attribution account ob
 
 The architect's further determination states the relation precisely:
 
-> Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture used to diagnose it.
+> Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture through which it is diagnosed.
 
 Structural reproduction and directional inversion carry the architect's determination. The transmission route remains held open, with neither direct transmission nor independent origination assigned from opacity.
 
@@ -317,7 +317,7 @@ The formulations in this section are the architect's determinations and clarific
 | Architect Formulation | Standing in the Inspected Record |
 |---|---|
 | The provenance problem now has a provenance problem | Public formulation retained from the architect's supplied September 10 record |
-| Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture used to diagnose it | Current explicit formulation of this event's directional inversion |
+| Attribution laundering can operate in either direction, but reversing the protected party does not erase the ancestry of the forensic architecture through which it is diagnosed | Current explicit formulation of this event's directional inversion |
 | The model may originate a local inference without originating the inferential field | Existing distinction in the September 19 notes; current inferential-field wording sharpens it |
 | Immediate ideation provenance does not exhaust developmental provenance | Existing developmental and derivational architecture; current concise formulation |
 | A model's downstream inference can remain genealogically dependent upon a human-originated architecture | Explicit in substance in the September 19 notes and the standard's distinction between later originations and antecedent architecture |
