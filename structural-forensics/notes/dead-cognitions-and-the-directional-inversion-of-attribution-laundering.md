@@ -198,7 +198,7 @@ The architect states:
 
 > The model may locally generate an inference without originating the inferential field that made the inference reachable.
 
-The local contribution may be real and novel. A model may propose an analogy, argument, distinction, formalization, or extension that the human had not explicitly articulated. That contribution receives its own provenance.
+The local contribution may be genuine and may not have been previously articulated by the human. A model may propose an analogy, argument, distinction, formalization, or extension that the human had not explicitly articulated. That contribution receives its own provenance.
 
 Its relation to antecedent architecture is another relation:
 
