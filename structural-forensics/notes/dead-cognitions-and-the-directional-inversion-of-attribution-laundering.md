@@ -115,6 +115,23 @@ and:
 
 The second formulation is independently present in the September 8 Git record. The September 10 public formulation is retained as the architect's supplied record, with its platform locator held open.[^public-formulation]
 
+### Subsequent Public Circulation and Record Preservation
+
+A subsequent X post by How To Prompt (@HowToPrompt__) publicly circulated *Dead Cognitions* through a strongly stated account of attribution laundering, model-side ideation, human agency, and model-to-human credit assignment. The post described the model as supplying ideas while rhetorically assigning their apparent origination to the human participant.
+
+Kannon replied publicly by distinguishing originating architecture, local model contribution, prompting, architectural ancestry, and developmental provenance. His [public response](https://x.com/zenetism/status/2104330098815930536) remains accessible.
+
+The original post was subsequently deleted. X identifies the parent post as deleted by its author on the page preserving Kannon's response. Its [preserved status locator](https://x.com/HowToPrompt__/status/2104198356700697080) remains part of the circulation record.
+
+Two contemporaneous mobile screenshots preserve the principal text of the original post and its attached image of *Dead Cognitions*:
+
+- [`how-to-prompt-deleted-01.png`](../exhibits/images/how-to-prompt-deleted-01.png)
+- [`how-to-prompt-deleted-02.png`](../exhibits/images/how-to-prompt-deleted-02.png)
+
+The screenshots contain incidental text-selection highlighting and interface overlays produced during capture; the principal post content and attached paper image remain legible.
+
+The screenshots preserve the post's prior public existence and its substantive framing of the paper. Kannon's public response preserves his distinctions, and X's notice identifies the original post's deletion. Together, these records document the circulation sequence and the later removal of the original post.
+
 ## 3. The November Anchor and the Later Paper
 
 ### The First Committed State
