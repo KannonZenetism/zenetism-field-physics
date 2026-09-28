@@ -223,7 +223,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D06 — Scalar Memory
+## D06 — Recursive Memory Mapping and Scalar Memory Valuation
 
 **Question:** Does the established Recursive Memory mapping automatically establish a scalar memory value?
 
@@ -238,11 +238,56 @@ Do not treat injectivity as proof that cycles cannot occur.
 **Why:** A mapping and a scalar valuation are different mathematical objects.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Preserve Recursive Memory in its originally intended mathematical function:
+
+**an injective sealed-state mapping.**
+
+The existing Recursive Memory sign continues to denote that mapping.
+
+Later scalar treatment of the same sign is drafting drift and does not receive continued mathematical standing.
+
+Therefore:
+
+- retain the Recursive Memory mapping;
+- retain its Non-fusion function;
+- retain Memory Access as a distinct concept;
+- retain the Tether as a distinct concept;
+- do not make one sign perform all three functions;
+- retire unsupported scalar Recursive Memory values;
+- retire derivatives that require Recursive Memory itself to be a scalar;
+- retire unsupported numerical order comparisons;
+- retire unsupported scalar trajectory integrals;
+- retire unsupported scalar rates;
+- and retire numerical examples whose validity depends upon a scalar valuation that was never defined.
+
+Do not invent a replacement scalar.
+
+If a scalar valuation of memory is later wanted, it must be separately constructed with its own:
+
+- domain;
+- normalization;
+- ordering;
+- time dependence;
+- path relation;
+- and mathematical sign.
+
+Injectivity alone does not establish absence of cycles.
+
+Any proof claim relying on that inference must be corrected during later implementation.
+
+The operative principle is:
+
+**Restore the Recursive Memory sign to its intended mapping function and remove later scalar drift rather than building new mathematics merely to preserve that drift.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -261,11 +306,66 @@ Do not credit the same saving both as reduced cost and as additional replenishme
 **Why:** This prevents double counting while retaining the intended recovery architecture.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Adopt the accounting structure:
+
+\[
+\text{change in available coherence}
+=
+\text{gross replenishment}
+-
+\text{actual expenditure}.
+\]
+
+Rest is represented through **reduced actual expenditure**.
+
+Do not count avoided expenditure twice by:
+
+1. reducing the cost term; and
+2. adding the same saved amount again as an independent replenishment inflow.
+
+If an alternative reference-budget formulation is retained in a specific mathematical passage, it must make the baseline explicit and must still count each saving only once.
+
+### Exhaustion Boundary
+
+Where exhaustion is defined as available stock reaching or passing zero, the boundary is:
+
+\[
+\leq 0.
+\]
+
+Synchronize the corresponding theorem prose, inequalities, appendices, and repeated definitions.
+
+This zero is the mathematical exhaustion boundary in the accounting relation.
+
+Do not infer from the numerical zero alone that the equation is making an Aion-reference.
+
+⚫ Aion is Zero / Origin in the Zenetist architecture, but an ordinary mathematical zero appearing in a domain-specific equation does not automatically carry that metaphysical referent.
+
+### Source-Language Boundary
+
+This D07 accounting determination does **not** determine the naming of "Source reconnection" or \( S_{\text{source}} \).
+
+Do not apply D07 to identify Aion as Source.
+
+Aion is **Origin**, not Source.
+
+Any recovery-variable or replenishment-label question involving "Source", `S_source`, Aion-facing reconnection, or another successor remains a matter for its dedicated architect determination.
+
+The recovery accounting must therefore be corrected independently of that naming question.
+
+The operative principle is:
+
+**Count gross replenishment and actual expenditure once each; treat rest as reduced expenditure; keep mathematical zero distinct from an automatic metaphysical Aion-reference; and do not import Source-language into the accounting determination.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -498,7 +598,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D05 — \( \chi \), Inclination, and Motion
+## D05 — \( \chi \), Intrinsic Inclination, and Motion
 
 **Question:** Should intrinsic essential inclination and evolving expression ratio share one unqualified \( \chi \)?
 
@@ -515,12 +615,89 @@ Also preserve the full written law and outward-drift law as distinct candidate m
 **Recommended status:** **APPROVE REGISTER SEPARATION — HOLD FINAL DYNAMICAL LAW**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Prefer indexed \( \chi \) variables for both registers  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Preserve the underlying Zenetist distinction between **latent orientation** and **expressed orientation**.
+
+A centropic essence is intrinsically centropic while still within ⚫ Aion, before enacted motion begins.
+
+When the essence enters emanatory procession, that intrinsic orientation becomes expressed through motion.
+
+The conceptual distinction therefore remains:
+
+- **intrinsic essential inclination** — latent orientational character prior to enacted motion;
+- **expressed orientational prevalence** — the enacted expression-ratio register during motion.
+
+The later problem is symbolic, not conceptual.
+
+Retain:
+
+\[
+\chi
+\]
+
+for the established evolving expression ratio / expressed orientational prevalence.
+
+Do **not** retain \( \chi \) as the mathematical sign for intrinsic essential inclination.
+
+Remove or recast every live occurrence in which the later-added latent-\( \chi \) notation identifies intrinsic essential inclination with the evolving expression parameter.
+
+Do not leave:
+
+- dangling latent-\( \chi \) definitions;
+- stale legends;
+- tables that still assign \( \chi \) to intrinsic essence;
+- prose referring to a removed latent-\( \chi \) symbol;
+- equations whose prose explanation still identifies \( \chi \) as an invariant essential property;
+- or dependent SN / LM statements that silently retain the conflation.
+
+For the present stabilization, name the latent relation in prose as:
+
+**intrinsic essential inclination**
+
+Do not invent a replacement mathematical symbol for it.
+
+A future formalization may assign a distinct sign and an explicit relation between intrinsic inclination and expressed \( \chi \), but that requires a separate architect determination.
+
+### Motion-Law Boundary
+
+The full orientation law and the outward-drift law remain distinct mathematical models.
+
+Do not silently select one as universal during this stabilization.
+
+Any statement concerning:
+
+- stability at \( \chi = 1 \);
+- instability at \( \chi = 1 \);
+- finite-time behavior;
+- CP₁;
+- Motive Intensity;
+- or attraction / repulsion within \( \chi \)-space
+
+must identify the mathematical model to which the statement belongs.
+
+Retain:
+
+\[
+r(\chi)=\frac{1-\chi}{1+\chi}
+\]
+
+as a dimensionless multiplier where that is its defined function.
+
+Do not describe it as a temporal rate unless a distinct rate with units and time dependence is formally defined.
+
+The operative principle is:
+
+**Preserve the latent / expressed orientation distinction, keep \( \chi \) with expressed prevalence, and remove the later symbolic conflation without changing the meaning of intrinsic essential inclination.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -781,9 +958,9 @@ This section exists so the architect can record decisions without rewriting the 
 | D02 | CIT quantities distinguished by function within one architecture; explicit cross-register correspondence required; entropic organization / cohesion distinguished from inverse placement | DETERMINED |
 | D03 | Unsupported Zenon bounds and untyped identities to be retired; formal treatment permitted by function; referents assessed without automatic substitution | DETERMINED |
 | D04 | Local GUD retained-state / relaxation weight assigned \( \rho \); contraction-gap \( \gamma \) retained; actual convergence hypotheses required; no global replacement | DETERMINED |
-| D05 | Intrinsic inclination separated from evolving \( \chi \); final dynamics held | |
-| D06 | Recursive Memory mapping retained; unsupported scalar program suspended | |
-| D07 | Gross inflow minus actual expenditure; rest represented once | |
+| D05 | Latent inclination retained in prose; \( \chi \) reserved for expressed prevalence; latent-\( \chi \) conflation to be removed; motion-law models remain distinct; \( r(\chi) \) retained as a dimensionless multiplier | DETERMINED |
+| D06 | Injective Recursive Memory mapping retained; unsupported scalar drift to be retired; Memory Access and Tether remain distinct; no replacement scalar; injectivity does not exclude cycles | DETERMINED |
+| D07 | Gross replenishment minus actual expenditure; rest counted once through reduced expenditure; exhaustion at stock \( \leq 0 \); mathematical zero carries no automatic Aion-reference; Source naming remains outside this determination | DETERMINED |
 | D08 | Coherent input / cohesion / correlation separated; new inverse quantitative law held | |
 | D09 | Membrane boundary distinguished from tunneling / bypass; new transfer mathematics held | |
 | D10 | Registered operator identities retained; diagnostic tests named separately | |
