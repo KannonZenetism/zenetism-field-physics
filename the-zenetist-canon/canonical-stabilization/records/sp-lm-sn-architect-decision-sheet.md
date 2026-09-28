@@ -369,7 +369,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D10 — Operator Identity and Locus
+## D10 — Operator Identity, Primary Inlay, and Hypostatic Coupling
 
 **Question:** Should existing dimensional indices be assigned new diagnostic meanings merely because those meanings appear in SP12 or SN material?
 
@@ -384,11 +384,93 @@ Likewise distinguish an operator's primary inlay from a location at which its fu
 **Why:** Existing operator identity should not be rewritten to make a later diagnostic passage appear internally aligned.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+The current registered dimensional operator functions must remain aligned with the canonical Field Physics operator registry and glyph charts, especially FP11 and the current Field Physics glyph-chart material.
+
+Later SP, LM, SN, GUD, or extension passages do not redefine an existing operator merely by assigning a different diagnostic function to the same index.
+
+Retain the registered functions, including the current identities of:
+
+- C₃;
+- C₁₃ / E₁₃;
+- C₁₅ / E₁₅;
+- and the remaining registered dimensional operators.
+
+Where SP12 or dependent material assigns those indices to different functions such as:
+
+- parity;
+- attribution;
+- temporal coherence;
+- surface / structure comparison;
+- "provenance severance" in the existing diagnostic wording;
+- or another diagnostic predicate,
+
+name the diagnostic function separately rather than changing the registered operator identity.
+
+Do not solve the mismatch by substituting another existing operator index unless that operator actually performs the required registered function.
+
+If a genuinely new diagnostic operator is later required, it must receive a separate registry determination.
+
+### Primary Inlay and Coupling Site
+
+Distinguish:
+
+- **primary dimensional inlay**;
+- **secondary hypostatic coupling**;
+- **physical-realization site**;
+- and **context-specific expression site**.
+
+An operator's effect or physical realization at a hypostatic layer does not establish that layer as the operator's primary inlay.
+
+Where the current registered Field Physics architecture establishes a primary dimensional inlay, retain that assignment.
+
+Additional supported sites may be represented as secondary couplings or physical-realization sites without changing the primary inlay.
+
+### Dimension-to-Hypostasis Coupling Audit
+
+The later implementation phase must include a bounded cross-corpus audit of dimensional-to-hypostatic assignments.
+
+At minimum inspect:
+
+- FP11;
+- the current Field Physics glyph charts;
+- FP01;
+- relevant additional Field Physics files;
+- LM principal volumes;
+- relevant LMX files;
+- the Grand Unified Document;
+- Structural Physics operator tables;
+- Structural Neuroscience dependencies;
+- and current registry / attribution material.
+
+The purpose of this audit is to identify and reconcile cases where:
+
+- the same dimension is assigned incompatible primary hypostatic locations;
+- a secondary coupling is presented as a primary inlay;
+- a physical-realization site is mistaken for canonical dimensional placement;
+- a later document silently reassigns a registered operator;
+- or static layer ranges conflict without an explicit functional reason.
+
+FP11 and the current Field Physics glyph charts are the operative operator-function references.
+
+Do not rewrite those current registered functions merely to accommodate later drift.
+
+Where an apparent discrepancy concerns **primary inlay and secondary coupling**, preserve both only after labeling their functions explicitly.
+
+Where a genuine unresolved placement question remains after the cross-corpus audit, report it for architect determination rather than selecting a location by majority occurrence.
+
+The operative principle is:
+
+**Registered operator identity remains stable; primary inlay, secondary coupling, and physical realization must be distinguished rather than collapsed.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -703,7 +785,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ## D08 — Collective and Parasitic Quantities
 
-**Question:** What quantity is actually being measured in inverse collective organization?
+**Question:** What quantity is actually being measured in entropic collective organization?
 
 **Recommended architect determination:**
 
@@ -713,7 +795,7 @@ Keep at least three concepts distinct:
 - organizational cohesion;
 - ordinary correlation.
 
-Do not call an entropic collective's holding relation `coherence` merely because it is organized.
+Do not call an entropic collective's holding relation "coherence" merely because it is organized.
 
 Do not retain the withdrawn universal target-removal diagnostic.
 
@@ -722,15 +804,71 @@ Require any depletion, persistence, or finite-collapse claim to state whether th
 **Recommended status:** **APPROVE CONCEPTUAL DISTINCTIONS — HOLD NEW FUNCTION / SIGN LAW**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
 
+Keep the following mathematically and conceptually distinct:
+
+- coherent-input availability;
+- entropic cohesion;
+- ordinary correlation.
+
+Write **entropic** when describing operational orientation, motion, tendency, or organization.
+
+Write **inverse** when describing architectural placement or structural register, such as inverse lattice, inverse layer, or inverse hypostasis.
+
+Therefore, prefer **entropic organization / cohesion** rather than "inverse organization" when the passage concerns operative organization rather than architectural placement.
+
+Coherence remains centropic.
+
+Cohesion may describe the organization holding an entropic configuration together.
+
+Ordinary correlation is not itself coherence.
+
+Where \( I_c \) already denotes coherent content or Coherence Potential, do not rename that variable to mean entropic cohesion merely to repair the prose.
+
+If a distinct quantitative measure of entropic cohesion is later needed, it requires its own definition, symbol, domain, and mathematical relations.
+
+Do not invent that new functional during this stabilization.
+
+### Parasitic Accounting
+
+Retire the universal target-removal diagnostic.
+
+The presently written subtraction formula does not establish that removal of the target necessarily causes collapse of the parasitic collective.
+
+Target dependence may occur in a specific configuration, but it is not a universal diagnostic established by the current mathematics.
+
+Describe persistence through the actual holding conditions of the configuration, which may include:
+
+- coordination;
+- appropriated coherent input;
+- replenishment of consumable inputs;
+- member relations;
+- and other explicitly defined conditions.
+
+Do not treat an algebraic stock quantity as though it were a temporal evolution law.
+
+Where coefficients \( \eta_i \) vary with time, retain them only with the mathematically required product-rule contribution.
+
+Otherwise, explicitly restrict the corresponding theorem to constant coefficients and fixed membership.
+
+Where collective amplification is claimed, retain the actual required correlation threshold and nonzero-contribution conditions rather than replacing them with a looser qualitative claim.
+
+The operative principle is:
+
+**Coherent input, entropic cohesion, and correlation are distinct. Repair the existing misidentifications without inventing a new cohesion scalar.**
+
+Implementation remains deferred; this entry records the architect's determination only.
+
 ---
 
-## D09 — Membrane Object and Transfer Law
+## D09 — Membrane Object, Transfer Law, and Orientation Boundary
 
 **Question:** Do the current membrane equations actually describe intra-arc transfer, cross-arc transfer, bypass, tunneling, and boundary-state behavior through one mathematical object?
 
@@ -747,12 +885,78 @@ Do not infer that greater permeability creates transfer when the clamped surplus
 **Recommended status:** **APPROVE ARCHITECTURAL BOUNDARY — HOLD NEW TRANSFER MATHEMATICS**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Retire unsupported bypass constructions entirely  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+There is no orientation-boundary crossing of essence.
+
+A centropic essence remains centropic.
+
+An entropic essence remains entropic.
+
+Embodied action, environmental influence, deformation, suppression, entropic implication, behavioral divergence, or cross-arc interaction does not alter essential orientation.
+
+A centropic being may enact entropic behavior without thereby becoming entropic in essence.
+
+An entropic structure may negatively affect a centropic being, and a centropic being may affect an entropic structure, without either essence crossing into or converting into the opposite orientation.
+
+Therefore:
+
+- do not represent centropic essence as traversing into the inverse arc;
+- do not represent entropic essence as traversing into the centropic arc;
+- do not present membrane permeability, flooding, pressure, energy transfer, or resonance as an implicit mechanism of essence conversion;
+- distinguish embodied interaction from orientation conversion;
+- distinguish causal influence from essential transformation.
+
+### Membrane Formalism
+
+Transfer must be typed according to the path actually available.
+
+Intra-arc transfer may remain intra-arc transfer.
+
+Cross-arc effects must be represented through lawful interaction, boundary pressure, mediated effect, reception, obstruction, resonance, embodied relation, or another explicitly defined non-conversion relation.
+
+A membrane or boundary region may possess a mathematical state without becoming a hypostasis.
+
+Do not create an additional layer merely to formalize a threshold or boundary state.
+
+Retain the existing clamped transfer law only within the domain its actual formula supports.
+
+For that formula, positive transfer requires the complete set of conditions established by the reviewed mathematics, including positive permeability, positive surplus, and available receiving capacity.
+
+Do not claim that merely increasing permeability creates transfer where the clamped surplus is zero.
+
+### Tunneling / Bypass
+
+The current clamped membrane law does not mathematically establish tunneling or bypass.
+
+If tunneling is to remain as a distinct canonical operation, it requires a separately defined transfer law.
+
+Do not invent that law during this stabilization.
+
+Where an existing displayed chain appears to show:
+
+\[
+C \rightarrow E
+\]
+
+or another cross-orientation traversal, determine what function the passage is actually trying to represent.
+
+If it represents embodied interaction or mediated boundary effect, later implementation should restate it in that form.
+
+If it literally asserts arc conversion of essence, the claim is incompatible with the architecture and must not be retained.
+
+The operative principle is:
+
+**Interaction across embodied relation is possible; essential orientation conversion is not. Membrane mathematics must preserve that distinction.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -961,9 +1165,9 @@ This section exists so the architect can record decisions without rewriting the 
 | D05 | Latent inclination retained in prose; \( \chi \) reserved for expressed prevalence; latent-\( \chi \) conflation to be removed; motion-law models remain distinct; \( r(\chi) \) retained as a dimensionless multiplier | DETERMINED |
 | D06 | Injective Recursive Memory mapping retained; unsupported scalar drift to be retired; Memory Access and Tether remain distinct; no replacement scalar; injectivity does not exclude cycles | DETERMINED |
 | D07 | Gross replenishment minus actual expenditure; rest counted once through reduced expenditure; exhaustion at stock \( \leq 0 \); mathematical zero carries no automatic Aion-reference; Source naming remains outside this determination | DETERMINED |
-| D08 | Coherent input / cohesion / correlation separated; new inverse quantitative law held | |
-| D09 | Membrane boundary distinguished from tunneling / bypass; new transfer mathematics held | |
-| D10 | Registered operator identities retained; diagnostic tests named separately | |
+| D08 | Coherent input, entropic cohesion, and correlation remain distinct; universal target-removal diagnostic to be retired; product-rule and amplification conditions retained; no new cohesion scalar | DETERMINED |
+| D09 | Essential orientation does not convert; interaction and transfer require explicit scope and conditions; clamped transfer does not establish tunneling / bypass; a separate law remains required | DETERMINED |
+| D10 | Registered operator functions retained; primary inlay, coupling, and realization sites distinguished; bounded placement audit required during later implementation; unresolved placement requires architect determination | DETERMINED |
 | D11 | Gravity / resonance name to be selected | |
 | D12 | Unsupported empirical identities recast as proposed correspondences | |
 | D13 | Surface / operative / generative diagnostic objects separated | |
