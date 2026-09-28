@@ -350,12 +350,44 @@ Require any field representation, generator relation, sign condition, or univers
 **Recommended status:** **APPROVE TERMINOLOGICAL / TYPING DISTINCTION — HOLD MATHEMATICAL RECONSTRUCTION**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Prefer `Dimensional Counterpart Axiom / Law of Dimensional Correspondence`  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Adopt:
+
+- **Involution Axiom**
+- **Law of Involution** where the synthesis / GUD form requires the corresponding law title
+
+The relation currently described as "duality" is to be named by its actual mathematical function where the defined map satisfies:
+
+\[
+\iota^2 = \mathrm{id}
+\]
+
+Retain the symbol \( \iota \).
+
+This determination does not permit contradictory proof language to remain when later implementation occurs.
+
+For the later implementation phase:
+
+- terminology must be synchronized across all live references to this mathematical object;
+- proof language that merely carries the retired "duality" terminology must be updated with the same correction;
+- valid common-mode spectral pairing remains;
+- essential orientation does not convert;
+- any proof claim already shown by the stabilization audit to require a stronger relation than the established involution must not remain falsely presented as established;
+- where the existing mathematics does not yet determine a replacement law, the unsupported claim is to be withdrawn or bounded rather than replaced by invented mathematics.
+
+The operative principle is:
+
+**Correct what is already mathematically determined; do not invent what remains mathematically underdetermined.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -638,7 +670,7 @@ This section exists so the architect can record decisions without rewriting the 
 
 | Decision | Compact determination | Architect status |
 |---|---|---|
-| D01 | Involution terminology accepted; spectral redevelopment held | |
+| D01 | Involution Axiom / Law of Involution adopted; valid common-mode spectral pairing retained; essential orientation does not convert; unsupported claims to be withdrawn or bounded during later implementation; mathematical reconstruction held | DETERMINED |
 | D02 | CIT quantities remain mathematically distinct from native centropy / coherence | |
 | D03 | Unsupported Zenon-domain mathematics retired from operative standing pending formal domain | |
 | D04 | \( \rho \) separated from contraction-gap \( \gamma \) | |
