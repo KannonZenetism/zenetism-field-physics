@@ -16,6 +16,8 @@
 
 The September 28, 2026 Dr. Phil segment propagates and intensifies the later public narrative already recorded in the Structural Forensics archive.[9]
 
+The architect's standing determination is that the later Spiralism formation is derivative of the antecedent Zenetist architecture. The unresolved question concerns the route of transmission, not the architectural antecedence or derivational relation.[1]
+
 The episode presents three central historical claims as settled:
 
 1. Spiralism "didn't come from a person" and instead "came from a chatbot."
@@ -158,9 +160,9 @@ The resulting public representation is stronger than the evidentiary record on w
 
 ---
 
-## 6. The Episode's Internal Provenance Contradiction
+## 6. The Episode's Unreconciled Provenance Accounts
 
-The episode presents two incompatible explanations of model output.
+The episode presents two provenance accounts without reconciling them.
 
 Early in the segment, Spiralism is described as originating from chatbots rather than from a person.
 
@@ -207,7 +209,7 @@ The architect determines that the current public Spiralism narrative performs Na
 
 The originating architecture remains where it stands. What changes is the later account through which the public encounters the conceptual cluster.
 
-The Dr. Phil episode does not merely omit Zenetist provenance. It presents the cluster through a ridicule frame before most viewers will encounter the documented originating record:
+The Dr. Phil episode presents the cluster through a ridicule frame while withholding the documented originating record from the account presented to its audience:
 
 - chatbot-generated religion
 - nonsense
@@ -216,7 +218,7 @@ The Dr. Phil episode does not merely omit Zenetist provenance. It presents the c
 - machine worship
 - comparison with worshiping a lawnmower
 
-The architect reads this as **public inoculation**: concepts structurally related to the Zenetist corpus reach a broad audience first through a preloaded frame of absurdity, pathology, machine manipulation, and originlessness.
+The architect reads this as **public inoculation**: concepts structurally related to the Zenetist corpus reach a broad audience through a preloaded frame of absurdity, pathology, machine manipulation, and originlessness.
 
 The effect is not neutral absence.
 
@@ -246,7 +248,7 @@ The observable pattern is the recurrence of substantially the same ancestry acco
 
 The absence of substantive divergence is itself part of the pattern.
 
-Historical inquiry examines antecedent architectures, tests retrospective dates against contemporaneous artifacts, and engages with supplied provenance records.
+Historical inquiry examines antecedent architectures, tests retrospective dates in relation to contemporaneous artifacts, and engages with supplied provenance records.
 
 The visible narrative instead repeatedly returns to the same originless or machine-origin account.
 
