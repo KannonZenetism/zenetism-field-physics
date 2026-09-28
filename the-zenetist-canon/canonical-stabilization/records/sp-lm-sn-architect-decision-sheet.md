@@ -53,7 +53,7 @@ These questions require an actual preference among more than one structurally de
 
 ## D02 — CIT and Native Correspondence
 
-**Question:** Should CIT spectral entropy / concentration remain distinct from native centropic coherence and inverse cohesion?
+**Question:** Should CIT spectral entropy / concentration remain distinct from native centropic coherence and entropic cohesion?
 
 **Recommended determination:** **YES.**
 
@@ -64,11 +64,38 @@ Any future native correspondence requires an explicit mapping and stated conditi
 **Why:** This preserves the distinction between mathematical quantity and metaphysical referent without discarding the existing CIT mathematics.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Retain the CIT mathematical quantities within their declared mathematical register.
+
+- \( H \) remains spectral entropy.
+- Its complement \( C \) remains spectral concentration.
+- Neither quantity is automatically identical with strict Zenetist entropy, native centropy, native coherence, or LM05 Coherence Potential merely because the structures correspond.
+- Any cross-register correspondence must state its domain, function, and conditions explicitly.
+- Empirical and mathematical articulation are not external to Zenetism. The L₁ / IL₁ embodied register is the physical / empirical register within the Zenetist architecture.
+- The metaphysical, mathematical, and empirical scopes may differ in how they articulate the same architecture without implying that the architecture itself is inadequate.
+- Where entropic organization is being described, write **cohesion** rather than coherence.
+- Write **inverse** for architectural placement or structure and **entropic** for operation, motion, orientation, tendency, or organizational valence.
+- Therefore prefer **entropic organization / cohesion**, not "inverse organization", unless the passage is specifically naming architectural placement.
+- Coherent content present within an entropic context may still be separately identified as coherent content.
+
+Do not create a new native-coherence functional during this stabilization pass unless the existing mathematics already establishes one.
+
+Where live prose presently collapses spectral, native, field, or empirical quantities into identity without an explicit correspondence, the later implementation pass should correct the claim while preserving legitimate cross-disciplinary correspondence.
+
+Where normalization, changing-support, conservation, or correspondence claims require additional mathematical hypotheses, do not invent those hypotheses.
+
+The operative principle is:
+
+**Preserve one architecture across distinct formal, metaphysical, and empirical registers; distinguish the quantities where their mathematical or semantic functions differ.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -87,11 +114,53 @@ Do not substitute Aion, Zero, or another bound merely to keep the old formula in
 **Why:** Zenon is trans-structural allowance, not an ordinary member or endpoint of a structural integration domain.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Zenon is trans-structural Allowance and must not function as an ordinary bound or member of a structural mathematical domain.
+
+Therefore Zenon must not be treated as:
+
+- an ordinary integration bound;
+- a scalar endpoint;
+- a field member;
+- a lattice station;
+- a continuum member;
+- or an untyped limit / supremum object.
+
+Unsupported Zenon-bounded integrals and corresponding untyped limit / supremum identities are to be retired from operative mathematical standing during the later implementation phase.
+
+However, this does **not** mean Zenon is barred from formal treatment.
+
+Zenon may be represented according to its actual function, including as the trans-structural Saturation horizon / point for centropic essence through Allowance, where the formalism is explicitly constructed to express that relation.
+
+The architect does not approve mechanical replacement of Zenon with Aion, Zero, \( 0 \), Infinity, or another bound.
+
+For each affected formula or passage, the later implementation phase must determine whether:
+
+1. the attributed function actually belongs to Aion;
+2. the formula should be retired from operative standing;
+3. the passage should be clarified by prose;
+4. or a series-consistent **Note** should be added explaining the canonical relation.
+
+Where a Note is added, match the established Note heading and formatting conventions already present in the affected series.
+
+Preserve earlier mathematical forms as provenance where appropriate rather than silently erasing them.
+
+Preserve valid synthesis titles.
+
+The operative principle is:
+
+**Zenon may be formally related to structure without being represented as an ordinary structural member or bound. Where an older formulation assigns Zenon a function that belongs to Aion, correct the referent by function rather than by automatic substitution.**
+
+The architecture itself is not inadequate. The correction concerns particular inherited formal representations that do not yet express the current architecture precisely.
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -108,11 +177,49 @@ Any convergence statement must carry the required mapping, domain, and Lipschitz
 **Why:** The two quantities perform different mathematical functions.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Distinguish the retained-state / relaxation weight from the separately defined contraction-gap quantity.
+
+Adopt:
+
+\[
+\rho
+\]
+
+for the local retained-state / relaxation weight in the affected Grand Unified Document recurrence constructions.
+
+Preserve:
+
+\[
+\gamma
+\]
+
+for its distinct contraction-gap function.
+
+This is a scoped notation correction, not a global \( \gamma \rightarrow \rho \) replacement.
+
+The repeated recurrence equations, explanatory prose, hypotheses, and proof claims belonging to the same construction must remain synchronized.
+
+A coefficient range or positivity condition alone does not establish convergence.
+
+Any convergence claim must carry the actual mathematical conditions required for the stated result, including the applicable self-map, domain, metric or norm structure, and contraction / Lipschitz hypothesis.
+
+Where those conditions are already established by the reviewed mathematics, synchronize the proof language accordingly.
+
+Where they remain unspecified, do not invent them merely to preserve an earlier convergence statement.
+
+The operative principle is:
+
+**Separate the two mathematical functions and synchronize every established consequence; do not manufacture missing hypotheses.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -671,9 +778,9 @@ This section exists so the architect can record decisions without rewriting the 
 | Decision | Compact determination | Architect status |
 |---|---|---|
 | D01 | Involution Axiom / Law of Involution adopted; valid common-mode spectral pairing retained; essential orientation does not convert; unsupported claims to be withdrawn or bounded during later implementation; mathematical reconstruction held | DETERMINED |
-| D02 | CIT quantities remain mathematically distinct from native centropy / coherence | |
-| D03 | Unsupported Zenon-domain mathematics retired from operative standing pending formal domain | |
-| D04 | \( \rho \) separated from contraction-gap \( \gamma \) | |
+| D02 | CIT quantities distinguished by function within one architecture; explicit cross-register correspondence required; entropic organization / cohesion distinguished from inverse placement | DETERMINED |
+| D03 | Unsupported Zenon bounds and untyped identities to be retired; formal treatment permitted by function; referents assessed without automatic substitution | DETERMINED |
+| D04 | Local GUD retained-state / relaxation weight assigned \( \rho \); contraction-gap \( \gamma \) retained; actual convergence hypotheses required; no global replacement | DETERMINED |
 | D05 | Intrinsic inclination separated from evolving \( \chi \); final dynamics held | |
 | D06 | Recursive Memory mapping retained; unsupported scalar program suspended | |
 | D07 | Gross inflow minus actual expenditure; rest represented once | |
