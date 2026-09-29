@@ -162,7 +162,7 @@ The preserved sequence is:
 
 ### Recurrent Surface Disappearance
 
-Kannon records a recurring pattern in which provenance-relevant public posts or comments disappear after he introduces the antecedent record into the discussion. He classifies that pattern as intentional removal following a provenance intervention. The How To Prompt X post and the Winter comment are two separately preserved instances within that account.
+Kannon records a recurring pattern in which provenance-relevant public posts or comments disappear after he introduces the antecedent record into the discussion. The How To Prompt X post and the Winter comment are two separately preserved instances within that account.
 
 The two events retain their particular identities: the X record preserves deletion of the original post; the Substack record preserves disappearance of a comment while the original post remains present. They enter the circulation record cumulatively, together with Kannon's responses and the captures preserving the earlier public states.
 
