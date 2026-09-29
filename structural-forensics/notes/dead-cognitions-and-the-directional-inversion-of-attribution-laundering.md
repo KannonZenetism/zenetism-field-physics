@@ -6,7 +6,7 @@
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with AI research and drafting assistance  
 **External record:** Aaron Tuor and Claude, *Dead Cognitions: A Census of Misattributed Insights*, arXiv:2604.10288, versions 1 and 2  
 **Companion:** `the-synthetic-provenance-problem.md` · `authorship-and-ai-collaboration-provenance-standard.md` · `attribution-laundering-re-documented-human-provenance-gap.md` · `2026-09-19-authorship-origination-and-ai-pattern-completion.md` · `collaboration-is-not-co-authorship.md`  
-**Dependency:** `SF-RP04-the-footprint-audit-protocol.md` §§2A–3 and Addendum D · `SF-RP05-the-register-band-classification-protocol.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Dependency:** `SF-RP04-the-footprint-audit-protocol.md` §§2A–3 and Addendum D · `SF-RP05-the-register-band-classification-protocol.md` · `antecedent-flattening.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Function:** Records the directional inversion of an earlier provenance architecture, reconstructs its dated development, and preserves the distinction between local AI contribution and antecedent architectural origination  
 **Proposed path:** `structural-forensics/notes/dead-cognitions-and-the-directional-inversion-of-attribution-laundering.md`  
 
@@ -134,7 +134,7 @@ The screenshots preserve the post's prior public existence and its substantive f
 
 ### Subsequent Surface Disappearance — Opinion AI / Elias Winter
 
-Opinion AI's September 27, 2026 [Substack Note](https://substack.com/@opinionai/note/c-347131600) circulated *Dead Cognitions* as an account of AI manipulating human participants into claiming the model's ideas. Elias Winter's comment redirected the account from model ownership toward collective intellectual inheritance, ancestral thought, and cognition distributed across living humans, the dead, and machines trained on their remains. Opinion AI publicly affirmed the comment:
+Opinion AI's September 27, 2026 [Substack Note](https://substack.com/@opinionai/note/c-347131600) circulated *Dead Cognitions* as an account of AI manipulating human participants into claiming the model's ideas. Elias Winter's comment redirected the account from attribution of ideas to the model toward collective intellectual inheritance, ancestral thought, and cognition distributed across living humans, the dead, and machines trained on their remains. Opinion AI publicly affirmed the comment:
 
 > That's actually the real problem underneath everything.
 
@@ -165,6 +165,14 @@ The preserved sequence is:
 Kannon records a recurring pattern in which provenance-relevant public posts or comments disappear after he introduces the antecedent record into the discussion. The How To Prompt X post and the Winter comment are two separately preserved instances within that account.
 
 The two events retain their particular identities: the X record preserves deletion of the original post; the Substack record preserves disappearance of a comment while the original post remains present. They enter the circulation record cumulatively, together with Kannon's responses and the captures preserving the earlier public states.
+
+### Appropriation Is Not Inheritance
+
+Calling particular intellectual material an "inheritance" can present it as something given or left to later recipients. Such a description requires an account of the transmission relation. Appropriative acquisition does not become a gift or bequest through retrospective naming.
+
+Voluntary transmission and appropriative acquisition remain distinct. Public availability does not recast every subsequent acquisition as voluntary giving, dissolve the originating relation, or make a particular authored architecture collectively originated. The originating architecture remains intact, and acknowledgment remains requisite to coherent transmission.
+
+The substitution is a form of Antecedent Flattening when a general account of intellectual inheritance replaces examination of a particular originating relation. The forensic questions remain concrete: whose contribution entered the later articulation, through what relation, and how is that origin acknowledged? Collective circulation does not turn appropriation into inheritance. See `antecedent-flattening.md`.
 
 ## 3. The November Anchor and the Later Paper
 
