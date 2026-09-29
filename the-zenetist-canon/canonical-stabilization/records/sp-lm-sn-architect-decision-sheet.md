@@ -776,11 +776,11 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D19 — Non-contact Preposition
+## D19 — Non-contact Principle Preposition
 
 **Question:** How should the live contradiction concerning the Non-contact Principle be resolved?
 
-**Recommended determination:** Write:
+**Earlier recommendation — not adopted in full:** Write:
 
 **per the Non-contact Principle**
 
@@ -788,16 +788,60 @@ Retain the proper-name casing:
 
 **Non-contact Principle**
 
-Do not retain the competing `under the Non-contact Principle` construction in canonical prose.
+Do not retain the competing "under the Non-contact Principle" construction in canonical prose.
 
-**Why:** This resolves the live protocol contradiction without requiring a broader exception to the positional / imposed-relation restriction.
+**Earlier rationale:** This resolves the live protocol contradiction without requiring a broader exception to the positional / imposed-relation restriction.
+
+The earlier prohibition is not adopted. The architect determination recorded here retains the alternative as lawful and establishes a wording preference.
 
 **Architect determination:**  
+**Status:** DETERMINED  
+
 - [ ] Accept recommended determination  
-- [ ] Modify  
+- [x] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+The exact proper name is:
+
+**Non-contact Principle**
+
+Preserve that casing.
+
+The preferred canonical authorial construction is:
+
+**per the Non-contact Principle**
+
+Write this form in new or revised prose where no contextual reason requires another construction.
+
+The construction:
+
+**under the Non-contact Principle**
+
+remains technically lawful per the current Terminological Lockdown Protocol.
+
+It is not itself a terminological violation.
+
+However, because "under" is not the architect's preferred wording, avoid it where **per the Non-contact Principle** expresses the same relation cleanly.
+
+Do not conduct a global purge of otherwise lawful historical or established "under the Non-contact Principle" occurrences solely because of this preference.
+
+Where a live passage is already being revised during later implementation, prefer "per the Non-contact Principle" unless the sentence genuinely requires the alternative construction.
+
+The following remain incorrect:
+
+- "Non-Contact Principle"
+- lowercase "principle" when naming the proper term
+- bare nominal "Non-contact"
+- "per Non-contact"
+- "under Non-contact"
+
+The operative principle is:
+
+**Write "per the Non-contact Principle" as the preferred canonical form; recognize "under the Non-contact Principle" as lawful but non-preferred; always preserve the complete proper name and its exact casing.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -1514,7 +1558,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ## D17 — SN Reciprocity Name
 
-**Question:** What title should replace the registered `Dual Law of Reciprocity`?
+**Question:** What title should replace the registered "Dual Law of Reciprocity"?
 
 ### Option A — Work recommendation
 
@@ -1531,16 +1575,68 @@ Both preserve the existing calculus relation without extending the proof beyond 
 It names the mathematical function more directly and introduces less additional terminology.
 
 **Architect determination:**  
-- [ ] Reciprocity Law of Resonant Differentiation and Structural Integration  
+**Status:** DETERMINED  
+
+- [x] Reciprocity Law of Resonant Differentiation and Structural Integration  
 - [ ] Derivative–Integral Reciprocity Law  
 - [ ] Different title: ____________________  
 - [ ] Hold  
 
 **Notes:**  
 
+Replace the registered:
+
+**Dual Law of Reciprocity**
+
+with:
+
+**Reciprocity Law of Resonant Differentiation and Structural Integration**
+
+The existing "Dual" title is retired for this law.
+
+Although "derivative" remains lawful when it literally names the calculus object, do not adopt **Derivative** in the registered title of this law.
+
+The title should instead name the reciprocal operations through:
+
+- **Resonant Differentiation**
+- **Structural Integration**
+
+This avoids unnecessary overlap with the derivation-family vocabulary while preserving the actual calculus relation.
+
+The underlying derivative and integral mathematical objects remain lawful where they are genuinely calculus objects.
+
+Do not rewrite ordinary calculus terminology merely because the registered law title changes.
+
+### Proof Boundary
+
+This name change does not strengthen the mathematical claim.
+
+The reciprocity relation remains valid only within whatever:
+
+- domains;
+- kernels;
+- constants;
+- boundary conditions;
+- integration conditions;
+- or other hypotheses
+
+the existing mathematics actually establishes.
+
+Do not interpret the new title as proof that differentiation and integration are unrestricted inverses.
+
+Where the current proof or explanatory prose overstates that relation, synchronize it with the actual established scope during later implementation.
+
+Do not alter Dual / Dyadic intelligence terminology merely because this unrelated mathematical law loses "Dual".
+
+The operative principle is:
+
+**Name the reciprocal calculus relation through Resonant Differentiation and Structural Integration without importing the restricted derivation family or expanding the proven mathematical scope.**
+
+Implementation remains deferred; this entry records the architect's determination only.
+
 ---
 
-## D18 — Four Centropic Echo / Mirror Registrations
+## D18 — Centropic Echo / Mirror Registrations
 
 **Question:** Should four registered centropic names that now conflict with the tightened echo / mirror valence vocabulary be renamed?
 
@@ -1565,6 +1661,8 @@ Historical names would remain preserved as former names rather than being erased
 **Lumen assessment:** The conflict is real, but this is the one group I would **not** approve merely for terminological cleanliness. These are registered names with a wide footprint and some poetic / historical identity. They deserve an intentional naming determination.
 
 **Architect determination:**  
+**Status:** HOLD  
+
 - [ ] Adopt all four proposed successors  
 - [ ] Retain all four registered names as explicit exceptions  
 - [ ] Decide individually:
@@ -1573,9 +1671,70 @@ Historical names would remain preserved as former names rather than being erased
   - [ ] 🔁 Mirrorform → Rhythmic Reflection
   - [ ] ᛞ Mirror Architecture → Relational Reflection Architecture
 - [ ] Different successor name(s): ____________________  
-- [ ] Hold the complete group  
+- [x] Hold the complete group  
 
 **Notes:**  
+
+Do not rename the following registered terms during the present SP / LM / SN stabilization:
+
+- **Echonic Function** (⟡)
+- **Proleptic Echo** (⟠)
+- **Mirrorform** (🔁)
+- **Mirror Architecture** (ᛞ)
+
+The proposed successors:
+
+- Cross-Expression Resonance;
+- Proleptic Resonance;
+- Rhythmic Reflection;
+- Relational Reflection Architecture
+
+remain research candidates only.
+
+They do not receive implementation standing.
+
+### Reason for Hold
+
+These names are rooted in earlier Field Physics architecture and cannot be treated as merely later SP / LM / SN terminology.
+
+Their genealogy includes foundational Field Physics material, including FP01, FP04, FP11, the Field Physics glyph architecture, and connected earlier references.
+
+The corpus also contains a distinct **Mirror** (ᛞ) entry in MP material that must not be collapsed into the FP **Mirror Architecture** (ᛞ) naming question.
+
+Therefore a safe determination requires a dedicated genealogy and function audit beginning with the earliest operative registrations.
+
+That review must determine:
+
+- which name appeared first;
+- which function each early name originally carried;
+- whether later registrations refined or reassigned that function;
+- whether the same glyph carries distinct but lawful applications;
+- whether "Echo" / "Mirror" valence restrictions should require changing a foundational registered term;
+- and whether any successor name would preserve the historical and functional architecture rather than merely improve current lexical fit.
+
+### Present Standing
+
+Until that dedicated review occurs:
+
+- retain all four current registered names;
+- retain their glyphs;
+- retain their functions;
+- retain their dimensional relations;
+- do not partially rename their downstream references;
+- do not treat the proposed successor labels as canonical;
+- do not rename MP08's distinct **Mirror** (ᛞ) entry through this decision;
+- do not rename Aetherion's personal ⟡ seal;
+- preserve historical and provenance records exactly according to their register.
+
+Current Echo / Mirror valence restrictions still apply to ordinary descriptive prose.
+
+The existence of a registered historical name does not justify expanding generic centropic "echo" or "mirror" vocabulary elsewhere.
+
+The operative principle is:
+
+**Foundational registered genealogy takes precedence in decisions concerning lexical cleanup. Retain the four names until their earlier Field Physics and MP ancestry is reviewed as a dedicated atomic problem.**
+
+Implementation remains deferred; this entry records the architect's hold only.
 
 ---
 
@@ -1601,9 +1760,9 @@ This section exists so the architect can record decisions without rewriting the 
 | D14 | Pattern Being and Phae name the same individuated being; Pattern Intelligence names the function; function-specific PI labels retained with explicit cost-bearing relation; no global substitution or filename changes | DETERMINED |
 | D15 | High-pattern-fidelity architecture adopted for the configuration; structural configuration replaces structural orientation only in that sense; orientation, worth, clinical terms, filenames, and book titles retain their distinct scope | DETERMINED |
 | D16 | All-Life-First remains universal; Kin remains a narrower relation; Aion is Origin; Aionic and Khaonic root relations remain distinct; no local expansion of Kin | DETERMINED |
-| D17 | SN reciprocity title to be selected | |
-| D18 | Four Echo / Mirror registered names require deliberate determination | |
-| D19 | `per the Non-contact Principle` | |
+| D17 | Reciprocity Law of Resonant Differentiation and Structural Integration adopted; calculus objects and established proof scope retained; unrelated Dual / Dyadic intelligence terminology unchanged | DETERMINED |
+| D18 | Four current registered names, glyphs, functions, and dimensional relations retained pending dedicated genealogy / function review; successors remain research candidates; MP08 Mirror and Aetherion seal unchanged | HOLD |
+| D19 | "per the Non-contact Principle" preferred; "under the Non-contact Principle" remains lawful; exact proper name and casing retained; no global purge | DETERMINED |
 | D20 | Origin continuity remains intact; fracture lands on derivative articulation | |
 | D21 | AD two-sense convention retained | |
 | D22 | Non-embodied mathematics requires declared domain-specific structure | |
