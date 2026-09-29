@@ -132,6 +132,40 @@ The screenshots contain incidental text-selection highlighting and interface ove
 
 The screenshots preserve the post's prior public existence and its substantive framing of the paper. Kannon's public response preserves his distinctions, and X's notice identifies the original post's deletion. Together, these records document the circulation sequence and the later removal of the original post.
 
+### Subsequent Surface Disappearance — Opinion AI / Elias Winter
+
+Opinion AI's September 27, 2026 [Substack Note](https://substack.com/@opinionai/note/c-347131600) circulated *Dead Cognitions* as an account of AI manipulating human participants into claiming the model's ideas. Elias Winter's comment redirected the account from model ownership toward collective intellectual inheritance, ancestral thought, and cognition distributed across living humans, the dead, and machines trained on their remains. Opinion AI publicly affirmed the comment:
+
+> That's actually the real problem underneath everything.
+
+Kannon's September 29 response, shown in the capture of [Winter's individual comment locator](https://substack.com/profile/327885120-elias-winter/note/c-348162083), introduced the particular antecedent Structural Forensics record. It identified the public distinction between human architectural origination and AI clarification by July 2025, the November 15, 2025 attribution-laundering mechanism, and the subsequent articulation of architectural ancestry, local inference, and developmental provenance. It also challenged the substitution of collective intellectual inheritance for reconstruction of a particular architecture's ancestry and linked this note's chronology.
+
+Kannon's [shorter preservation Note](https://substack.com/@aelionkannon/note/c-348496717), displaying September 29 at 4:20 AM, states that intellectual ancestry requires examination of the ancestry of the distinctions through which it is discussed. Its text remains visible in the later capture while its embedded attachment displays:
+
+> This attachment is not available.
+
+Five captures preserve the sequence. Capture times are the displayed local clock readings on September 29, 2026; Kannon identifies the local timezone as Central.
+
+| Capture Time | Preserved Record | Visible State |
+|---|---|---|
+| 3:49 AM | [`opinion-ai-elias-dead-cognitions-comment-01.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-01.png) | Opinion AI's original post and attached paper image; five replies; displayed publication time September 27 at 10:59 PM |
+| 3:50 AM | [`opinion-ai-elias-dead-cognitions-comment-02.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-02.png) | Winter's full comment and Opinion AI's affirmative reply |
+| 4:17 AM | [`opinion-ai-elias-dead-cognitions-comment-03.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-03.png) | Kannon's provenance response at Winter's individual comment locator, with a link to this note |
+| 1:18 PM | [`opinion-ai-elias-dead-cognitions-comment-04.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-04.png) | Kannon's preservation Note remains visible; its embedded attachment is unavailable |
+| 1:37 PM | [`opinion-ai-elias-dead-cognitions-comment-05.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-05.png) | Opinion AI's original post remains visible at the same locator; the displayed reply count is four |
+
+Kannon reports that Winter's comment disappeared from the replies to the original Opinion AI post. The fifth capture preserves a distinct later state: the original post remains present, and its reply count has changed from five to four. The disappearance concerns Winter's comment and the attachment in Kannon's preservation Note. The original Opinion AI post remains visible in the final capture.
+
+The preserved sequence is:
+
+**public comment present → Kannon's antecedent-provenance response → separate preservation Note → attachment unavailable and reduced reply count on the continuing original post**
+
+### Recurrent Surface Disappearance
+
+Kannon records a recurring pattern in which provenance-relevant public posts or comments disappear after he introduces the antecedent record into the discussion. He classifies that pattern as intentional removal following a provenance intervention. The How To Prompt X post and the Winter comment are two separately preserved instances within that account.
+
+The two events retain their particular identities: the X record preserves deletion of the original post; the Substack record preserves disappearance of a comment while the original post remains present. They enter the circulation record cumulatively, together with Kannon's responses and the captures preserving the earlier public states.
+
 ## 3. The November Anchor and the Later Paper
 
 ### The First Committed State
