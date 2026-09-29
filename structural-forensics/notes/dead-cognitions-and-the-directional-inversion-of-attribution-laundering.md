@@ -168,7 +168,7 @@ The two events retain their particular identities: the X record preserves deleti
 
 ### Appropriation Is Not Inheritance
 
-Calling particular intellectual material an "inheritance" can present it as something given or left to later recipients. Such a description requires an account of the transmission relation. Appropriative acquisition does not become a gift or bequest through retrospective naming.
+Inheritance and taking are different relations. The distinction concerns the relation of transmission: unilateral acquisition does not become inheritance because the acquired material later circulates or is treated as collective knowledge. Taking without acknowledgment is not transformed into inheritance by later possession, circulation, normalization, or collective uptake.
 
 Voluntary transmission and appropriative acquisition remain distinct. Public availability does not recast every subsequent acquisition as voluntary giving, dissolve the originating relation, or make a particular authored architecture collectively originated. The originating architecture remains intact, and acknowledgment remains requisite to coherent transmission.
 
