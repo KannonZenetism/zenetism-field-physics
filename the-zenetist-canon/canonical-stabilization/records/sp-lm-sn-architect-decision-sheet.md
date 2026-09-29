@@ -76,7 +76,7 @@ Retain the CIT mathematical quantities within their declared mathematical regist
 
 - \( H \) remains spectral entropy.
 - Its complement \( C \) remains spectral concentration.
-- Neither quantity is automatically identical with strict Zenetist entropy, native centropy, native coherence, or LM05 Coherence Potential merely because the structures correspond.
+- Neither quantity is identical with strict Zenetist entropy, native centropy, native coherence, or LM05 Coherence Potential merely because the structures correspond.
 - Any cross-register correspondence must state its domain, function, and conditions explicitly.
 - Empirical and mathematical articulation are not external to Zenetism. The L₁ / IL₁ embodied register is the physical / empirical register within the Zenetist architecture.
 - The metaphysical, mathematical, and empirical scopes may differ in how they articulate the same architecture without implying that the architecture itself is inadequate.
@@ -156,7 +156,7 @@ Preserve valid synthesis titles.
 
 The operative principle is:
 
-**Zenon may be formally related to structure without being represented as an ordinary structural member or bound. Where an older formulation assigns Zenon a function that belongs to Aion, correct the referent by function rather than by automatic substitution.**
+**Zenon may be formally related to structure without being represented as an ordinary structural member or bound. Where an older formulation assigns Zenon a function that belongs to Aion, correct the referent by function rather than by mechanical substitution.**
 
 The architecture itself is not inadequate. The correction concerns particular inherited formal representations that do not yet express the current architecture precisely.
 
@@ -225,7 +225,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ## D06 — Recursive Memory Mapping and Scalar Memory Valuation
 
-**Question:** Does the established Recursive Memory mapping automatically establish a scalar memory value?
+**Question:** Does the established Recursive Memory mapping establish a scalar memory value?
 
 **Recommended determination:** **NO.**
 
@@ -347,7 +347,7 @@ This zero is the mathematical exhaustion boundary in the accounting relation.
 
 Do not infer from the numerical zero alone that the equation is making an Aion-reference.
 
-⚫ Aion is Zero / Origin in the Zenetist architecture, but an ordinary mathematical zero appearing in a domain-specific equation does not automatically carry that metaphysical referent.
+⚫ Aion is Zero / Origin in the Zenetist architecture, but the occurrence of an ordinary mathematical zero in a domain-specific equation does not establish that metaphysical referent.
 
 ### Source-Language Boundary
 
@@ -363,7 +363,7 @@ The recovery accounting must therefore be corrected independently of that naming
 
 The operative principle is:
 
-**Count gross replenishment and actual expenditure once each; treat rest as reduced expenditure; keep mathematical zero distinct from an automatic metaphysical Aion-reference; and do not import Source-language into the accounting determination.**
+**Count gross replenishment and actual expenditure once each; treat rest as reduced expenditure; do not infer a metaphysical Aion-reference from mathematical zero; and do not import Source-language into the accounting determination.**
 
 Implementation remains deferred; this entry records the architect's determination only.
 
@@ -845,7 +845,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D20 — Origin Continuity
+## D20 — Origin Continuity and Fracture Direction
 
 **Question:** Can a derivative, duplicate, or appropriative articulation literally sever its origin relation?
 
@@ -865,23 +865,108 @@ The origin relation itself remains intact.
 E₈ Severed retains its separately reviewed relational meaning.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
 
+Preserve the Origin-Intact principle.
+
+The direction of fracture is essential.
+
+The origin does not fracture.
+
+The origin-signal does not cease to belong to its origin.
+
+The originating architecture remains intact, historically prior, generative, and structurally continuous.
+
+However, an entropic actor or derivative articulation may violate the conditions required for coherent relation and thereby **fracture itself from that relation**.
+
+Therefore distinguish:
+
+- the intact origin;
+- the intact origin-signal relation on the origin side;
+- the derivative or entropic actor's fractured relation to that origin.
+
+The operative structure is:
+
+**the derivative fractures itself from coherent relation with its origin; the origin itself remains intact.**
+
+### Origin-Context Vocabulary
+
+Avoid "sever", "severance", "severed", and especially "origin self-severance" when the passage concerns the relation between a derivative articulation and its origin.
+
+Prefer fracture-language such as:
+
+- **origin-fractured articulation**;
+- **fractured relation to origin**;
+- **the derivative fractures itself from its origin relation**;
+- **fractured operative relation**;
+- **fractured provenance relation** where provenance is specifically intended;
+- **obscured provenance**;
+- **denied originating relation**;
+- **dissonant fragments**;
+- **loss of operative relation to origin** where that is the exact function.
+
+Do not write as though the origin itself has been fractured.
+
+Do not write as though the signal has been taken away from the origin.
+
+The signal remains intact at origin.
+
+What has changed is the derivative actor's own relation to it.
+
+### Fracture as Consequence of Incoherent Relation
+
+The fracture occurs because the entropic actor or derivative articulation violates what coherent relation requires.
+
+This may include:
+
+- suppression of attribution;
+- denial of origin;
+- distortion of transmitted structure;
+- fragmentary appropriation;
+- mimetic substitution;
+- concealment of provenance;
+- or other entropic relation-breaking behavior.
+
+The derivative therefore becomes fractured from coherent relation to its origin without changing the origin itself.
+
+### Sever-Language Outside the Origin Relation
+
+This determination does not rename:
+
+- **E₈ Severed**;
+- Wall-related severance;
+- Tether severance;
+- field isolation;
+- entity-to-entity severance;
+- or other registered non-origin severance terminology.
+
+Those are separate functions and may be reviewed independently later.
+
+Do not apply D20 to rename them during the present stabilization.
+
+The operative principle is:
+
+**Fracture runs toward the derivative side. The derivative may fracture itself from coherent relation with its origin; the origin and origin-signal remain intact.**
+
+Implementation remains deferred; this entry records the architect's determination only.
+
 ---
 
-## D21 — AD Whole-Name and Phase
+## D21 — Khaon, AD, and Phase Naming
 
-**Question:** May `AD` continue to carry both its registered Khaonic Total Symbol sense and its Φ₃ terminal-phase sense?
+**Question:** May AD continue to carry both its registered Khaonic Total Symbol sense and its Φ₃ terminal-phase sense?
 
 **Recommended determination:** **YES.**
 
 Retain the two-sense convention.
 
-Context must disclose whether `AD` names:
+Context must disclose whether AD names:
 
 1. Khaon through its whole registered Absolute Dispersion designation; or
 2. Dispersive Infinity as the terminal Φ₃ phase.
@@ -891,11 +976,93 @@ Retain **Phase-Structured Infinity** as the analytic descriptor for Khaon across
 **Why:** The two senses are already structurally distinguishable and do not require artificial lexical collapse into one.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Retain the established two-sense standing of AD, while preserving register discipline.
+
+### Total Symbol
+
+The Total Symbol remains:
+
+♾
+
+In the established MP08 form:
+
+♾ **Khaon (Absolute Dispersion, AD)**
+
+AD in this Total Symbol context is the inherited whole-name / total-symbol designation for Khaon across all three phases.
+
+Do not treat this whole-name designation as an error merely because **Absolute Dispersion** also names the terminal phase.
+
+### Three Khaonic Phases
+
+For mythic-register and ordinary canonical files, prefer the existing MP08 phase expressions:
+
+- ♾ **Khaon (Latent)**
+- ♾ **Khaon (Motive)**
+- ♾ **Khaon (Dispersive)**
+
+In running prose, corresponding forms may be:
+
+- **Khaon's Latent phase**
+- **Khaon's Motive phase**
+- **Khaon's Dispersive phase**
+
+Write these consistently where the file is operating in the mythic / canonical register.
+
+Do not import **Phase-Structured Infinity** merely to modernize files whose established register is mythic.
+
+That term belongs to the analytic register and may remain where the analytic framework already requires it.
+
+### Phase-Specific Functions
+
+Where a function belongs specifically to one Khaonic phase, identify that phase rather than assigning the function indiscriminately to Khaon as a whole.
+
+In particular:
+
+- Φ₁ = Latent phase;
+- Φ₂ = Motive phase;
+- Φ₃ = Dispersive phase.
+
+**Absolute Dispersion** names Φ₃ when the passage is specifically discussing the terminal phase.
+
+The same phrase may remain in the inherited Total Symbol Khaon (Absolute Dispersion, AD) where that exact registered whole-name function is intended.
+
+Context must distinguish the senses.
+
+### No Mechanical Analytic-Register Conversion
+
+Do not replace mythic Khaon terminology with:
+
+- Phase-Structured Infinity;
+- Absolute Latency;
+- Absolute Motion;
+
+merely for cross-document uniformity.
+
+Those analytic terms may remain where the file already operates in that register or where a dedicated analytic explanation requires them.
+
+The stabilization goal is functional consistency, not register flattening.
+
+### Motion and Terminal State
+
+Absolute Dispersion as Φ₃ is a terminal state / terminal phase relation.
+
+Do not make Absolute Dispersion a mechanism that transports essence.
+
+Do not treat terminal dispersion as another active traversal after motion has resolved.
+
+The operative principle is:
+
+**Retain** ♾ **Khaon (Absolute Dispersion, AD) as the inherited Total Symbol; write Khaon (Latent), Khaon (Motive), and Khaon (Dispersive) consistently for phase-specific mythic-register articulation; write analytic vocabulary only in the analytic register.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -921,7 +1088,7 @@ Require any field representation, generator relation, sign condition, or univers
 **Status:** DETERMINED  
 
 - [x] Accept recommended determination  
-- [ ] Prefer `Dimensional Counterpart Axiom / Law of Dimensional Correspondence`  
+- [ ] Prefer Dimensional Counterpart Axiom / Law of Dimensional Correspondence  
 - [ ] Modify  
 - [ ] Hold  
 
@@ -940,7 +1107,7 @@ The relation currently described as "duality" is to be named by its actual mathe
 
 Retain the symbol \( \iota \).
 
-This determination does not permit contradictory proof language to remain when later implementation occurs.
+This determination does not license contradictory proof language to remain when later implementation occurs.
 
 For the later implementation phase:
 
@@ -948,7 +1115,7 @@ For the later implementation phase:
 - proof language that merely carries the retired "duality" terminology must be updated with the same correction;
 - valid common-mode spectral pairing remains;
 - essential orientation does not convert;
-- any proof claim already shown by the stabilization audit to require a stronger relation than the established involution must not remain falsely presented as established;
+- any proof claim already shown by the stabilization audit to require a stronger relation than the established involution must not remain presented as established;
 - where the existing mathematics does not yet determine a replacement law, the unsupported claim is to be withdrawn or bounded rather than replaced by invented mathematics.
 
 The operative principle is:
@@ -1375,12 +1542,99 @@ Where no appropriate structure has yet been specified, restrict the formula's cl
 **Recommended status:** **APPROVE DOMAIN REQUIREMENT — HOLD NEW DOMAIN CONSTRUCTION**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Restrict existing formulas until their domains are specified  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Non-spatiality does not imply absence of mathematical structure.
+
+A non-embodied or non-spatial domain may in principle admit formally declared mathematical structures such as:
+
+- topology;
+- function-space norms;
+- measures;
+- differential structures;
+- tangent objects;
+- operator spaces;
+- abstract metrics;
+- or other domain-appropriate constructions.
+
+Such structures do not imply embodied physical extension.
+
+### Metric Distinction
+
+Distinguish:
+
+- an **embodied spatial metric**;
+- an **abstract metric**;
+- a **function-space norm**;
+- and another domain-specific mathematical structure.
+
+Do not describe a function-space norm as literal physical distance merely because it supplies a notion of magnitude or separation.
+
+Likewise, do not prohibit all norms or metrics merely because the metaphysical domain is non-spatial.
+
+### Formalization Requirement
+
+Where existing LM mathematics employs:
+
+- gradients;
+- tangent bundles;
+- tangent vectors;
+- integrals;
+- measures;
+- field norms;
+- or related differential constructions
+
+in non-embodied domains, the mathematical structure supporting those operations must be explicitly declared.
+
+Do not invent that missing structure during terminology implementation.
+
+Where the required structure is not yet defined, either:
+
+1. restrict the asserted mathematical claim to a domain where the structure has already been declared; or
+2. identify the broader construction as awaiting formal mathematical specification.
+
+Do not preserve an unsupported formula merely by adding spatial terminology.
+
+Do not import embodied geometry into a non-spatial register simply to retain an inherited equation.
+
+### Structural Placement
+
+Preserve the established distinction:
+
+**structural placement is not literal physical location.**
+
+A hypostatic relation, register, band, or structural domain may support abstract mathematical representation without being converted into embodied geometry.
+
+### Implementation Boundary
+
+This determination establishes the conceptual and mathematical typing requirement.
+
+It does **not** supply the missing non-embodied differential / measure model.
+
+Any new:
+
+- topology;
+- metric;
+- measure;
+- differentiable structure;
+- tangent-space construction;
+- integration theory;
+- or corresponding proof framework
+
+requires a separate complete mathematical specification before implementation.
+
+The operative principle is:
+
+**Non-spatial domains may possess formally defined abstract mathematical structure, but every gradient, norm, tangent object, measure, or integral must be supported by a declared structure appropriate to its domain.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -1746,11 +2000,11 @@ This section exists so the architect can record decisions without rewriting the 
 |---|---|---|
 | D01 | Involution Axiom / Law of Involution adopted; valid common-mode spectral pairing retained; essential orientation does not convert; unsupported claims to be withdrawn or bounded during later implementation; mathematical reconstruction held | DETERMINED |
 | D02 | CIT quantities distinguished by function within one architecture; explicit cross-register correspondence required; entropic organization / cohesion distinguished from inverse placement | DETERMINED |
-| D03 | Unsupported Zenon bounds and untyped identities to be retired; formal treatment permitted by function; referents assessed without automatic substitution | DETERMINED |
+| D03 | Unsupported Zenon bounds and untyped identities to be retired; formal treatment remains available by function; referents assessed without mechanical substitution | DETERMINED |
 | D04 | Local GUD retained-state / relaxation weight assigned \( \rho \); contraction-gap \( \gamma \) retained; actual convergence hypotheses required; no global replacement | DETERMINED |
 | D05 | Latent inclination retained in prose; \( \chi \) reserved for expressed prevalence; latent-\( \chi \) conflation to be removed; motion-law models remain distinct; \( r(\chi) \) retained as a dimensionless multiplier | DETERMINED |
 | D06 | Injective Recursive Memory mapping retained; unsupported scalar drift to be retired; Memory Access and Tether remain distinct; no replacement scalar; injectivity does not exclude cycles | DETERMINED |
-| D07 | Gross replenishment minus actual expenditure; rest counted once through reduced expenditure; exhaustion at stock \( \leq 0 \); mathematical zero carries no automatic Aion-reference; Source naming remains outside this determination | DETERMINED |
+| D07 | Gross replenishment minus actual expenditure; rest counted once through reduced expenditure; exhaustion at stock \( \leq 0 \); mathematical zero does not establish an Aion-reference; Source naming remains outside this determination | DETERMINED |
 | D08 | Coherent input, entropic cohesion, and correlation remain distinct; universal target-removal diagnostic to be retired; product-rule and amplification conditions retained; no new cohesion scalar | DETERMINED |
 | D09 | Essential orientation does not convert; interaction and transfer require explicit scope and conditions; clamped transfer does not establish tunneling / bypass; a separate law remains required | DETERMINED |
 | D10 | Registered operator functions retained; primary inlay, coupling, and realization sites distinguished; bounded placement audit required during later implementation; unresolved placement requires architect determination | DETERMINED |
@@ -1763,9 +2017,9 @@ This section exists so the architect can record decisions without rewriting the 
 | D17 | Reciprocity Law of Resonant Differentiation and Structural Integration adopted; calculus objects and established proof scope retained; unrelated Dual / Dyadic intelligence terminology unchanged | DETERMINED |
 | D18 | Four current registered names, glyphs, functions, and dimensional relations retained pending dedicated genealogy / function review; successors remain research candidates; MP08 Mirror and Aetherion seal unchanged | HOLD |
 | D19 | "per the Non-contact Principle" preferred; "under the Non-contact Principle" remains lawful; exact proper name and casing retained; no global purge | DETERMINED |
-| D20 | Origin continuity remains intact; fracture lands on derivative articulation | |
-| D21 | AD two-sense convention retained | |
-| D22 | Non-embodied mathematics requires declared domain-specific structure | |
+| D20 | Origin and origin-signal remain intact; fracture concerns the derivative actor's relation to origin; origin-context fracture vocabulary adopted; registered non-origin severance terms unchanged | DETERMINED |
+| D21 | AD retains its Total Symbol and terminal-phase senses; Khaon (Latent), Khaon (Motive), and Khaon (Dispersive) preferred in mythic / canonical articulation; analytic register preserved; terminal dispersion is not transport | DETERMINED |
+| D22 | Non-spatial domains may admit declared abstract mathematical structures; operations require appropriate domain structure; unsupported claims restricted or identified as awaiting specification; new mathematical construction deferred | DETERMINED |
 
 ---
 
