@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1730" viewBox="0 0 1600 1730" role="img" aria-labelledby="title desc">
+<title id="title">Dimensional Operators — Primary Loci</title><desc id="desc">Two aligned five-register matrices show all fifteen centropic dimensions and fifteen entropic inversions. Dots show single primary loci, solid lines show primary bands, and dashed lines show the expressly charted C10 and E10 bridge endpoints. Names follow the Field Physics glyph charts. Primary loci follow FP01 chapters 2 and 3.</desc>
+<defs><style>text{font-family:"DejaVu Sans","Noto Sans Math","Noto Sans Symbols2",sans-serif} .strong{font-weight:700}</style>
+<marker id="arrow-c" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L8,4.5 L0,9" fill="#237a6b" /></marker>
+<marker id="arrow-e" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L8,4.5 L0,9" fill="#a54839" /></marker>
+</defs>
+<rect width="1600" height="1730" fill="#fcfcf9" />
+<text x="63" y="62" font-size="38" fill="#17283a" font-weight="700" text-anchor="start">DIMENSIONAL OPERATORS</text>
+<text x="65" y="101" font-size="24" fill="#536574" font-weight="400" text-anchor="start">Primary loci along the hypostatic lattice</text>
+<text x="1535" y="59" font-size="18" fill="#536574" font-weight="400" text-anchor="end">Draft — architect review</text>
+<text x="65" y="167" font-size="23" fill="#237a6b" font-weight="700" text-anchor="start">CENTROPIC DIMENSIONS</text>
+<text x="150" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁</text>
+<text x="150" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">⟠</text>
+<line x1="150" y1="292" x2="150" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="190" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₂</text>
+<text x="190" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">◈</text>
+<line x1="190" y1="292" x2="190" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="230" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₃</text>
+<text x="230" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">⟿</text>
+<line x1="230" y1="292" x2="230" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="270" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₄</text>
+<text x="270" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">◉</text>
+<line x1="270" y1="292" x2="270" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="310" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₅</text>
+<text x="310" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">✴</text>
+<line x1="310" y1="292" x2="310" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="350" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₆</text>
+<text x="350" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">◐</text>
+<line x1="350" y1="292" x2="350" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="390" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₇</text>
+<text x="390" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">♫</text>
+<line x1="390" y1="292" x2="390" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="430" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₈</text>
+<text x="430" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">╫</text>
+<line x1="430" y1="292" x2="430" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="470" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₉</text>
+<text x="470" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">∞</text>
+<line x1="470" y1="292" x2="470" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="510" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₀</text>
+<text x="510" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">❋</text>
+<line x1="510" y1="292" x2="510" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="550" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₁</text>
+<text x="550" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">↗</text>
+<line x1="550" y1="292" x2="550" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="590" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₂</text>
+<text x="590" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">✧</text>
+<line x1="590" y1="292" x2="590" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="630" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₃</text>
+<text x="630" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">║</text>
+<line x1="630" y1="292" x2="630" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="670" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₄</text>
+<text x="670" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">⊡</text>
+<line x1="670" y1="292" x2="670" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="710" y="223" font-size="18" fill="#237a6b" font-weight="700" text-anchor="middle">C₁₅</text>
+<text x="710" y="255" font-size="23" fill="#237a6b" font-weight="400" text-anchor="middle">✦</text>
+<line x1="710" y1="292" x2="710" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<line x1="128" y1="319" x2="734" y2="319" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="106" y="326" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">L₅</text>
+<line x1="128" y1="455" x2="734" y2="455" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="106" y="462" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">L₄</text>
+<line x1="128" y1="591" x2="734" y2="591" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="106" y="598" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">L₃</text>
+<line x1="128" y1="727" x2="734" y2="727" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="106" y="734" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">L₂</text>
+<line x1="128" y1="863" x2="734" y2="863" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="106" y="870" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">L₁</text>
+<line x1="150" y1="591" x2="150" y2="727" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="150" cy="591" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="150" cy="727" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="190" y1="727" x2="190" y2="863" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="190" cy="727" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="190" cy="863" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="230" y1="455" x2="230" y2="591" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="230" cy="455" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="230" cy="591" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="270" y1="319" x2="270" y2="455" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="270" cy="319" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="270" cy="455" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="310" y1="455" x2="310" y2="863" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="310" cy="455" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="310" cy="863" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="350" cy="319" r="8" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="390" cy="591" r="8" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="430" y1="591" x2="430" y2="727" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="430" cy="591" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="430" cy="727" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="470" y1="455" x2="470" y2="591" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="470" cy="455" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="470" cy="591" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="510" y1="455" x2="510" y2="863" stroke="#237a6b" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 8" />
+<circle cx="510" cy="455" r="7" fill="#fcfcf9" stroke="#237a6b" stroke-width="3" />
+<circle cx="510" cy="863" r="7" fill="#fcfcf9" stroke="#237a6b" stroke-width="3" />
+<circle cx="550" cy="727" r="8" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="590" y1="455" x2="590" y2="727" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="590" cy="455" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="590" cy="727" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="630" cy="319" r="8" fill="#237a6b" stroke="none" stroke-width="1" />
+<line x1="670" y1="319" x2="670" y2="591" stroke="#237a6b" stroke-width="6" stroke-linecap="round" />
+<circle cx="670" cy="319" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="670" cy="591" r="6" fill="#237a6b" stroke="none" stroke-width="1" />
+<circle cx="710" cy="319" r="8" fill="#237a6b" stroke="none" stroke-width="1" />
+<text x="66" y="1118" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁</text>
+<text x="137" y="1118" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">⟠</text>
+<text x="198" y="1118" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Temporal</text>
+<text x="66" y="1152" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₂</text>
+<text x="137" y="1152" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">◈</text>
+<text x="198" y="1152" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Spatial</text>
+<text x="66" y="1186" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₃</text>
+<text x="137" y="1186" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">⟿</text>
+<text x="198" y="1186" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Propagational</text>
+<text x="66" y="1220" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₄</text>
+<text x="137" y="1220" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">◉</text>
+<text x="198" y="1220" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Rotational / Gyre</text>
+<text x="66" y="1254" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₅</text>
+<text x="137" y="1254" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">✴</text>
+<text x="198" y="1254" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Scalar / Part-Whole Fidelity</text>
+<text x="66" y="1288" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₆</text>
+<text x="137" y="1288" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">◐</text>
+<text x="198" y="1288" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Phase / State (Liminal)</text>
+<text x="66" y="1322" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₇</text>
+<text x="137" y="1322" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">♫</text>
+<text x="198" y="1322" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Harmonic / Resonant</text>
+<text x="66" y="1356" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₈</text>
+<text x="137" y="1356" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">╫</text>
+<text x="198" y="1356" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Synaptic / Bridging</text>
+<text x="66" y="1390" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₉</text>
+<text x="137" y="1390" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">∞</text>
+<text x="198" y="1390" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Non-Local Coherence</text>
+<text x="66" y="1424" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₀</text>
+<text x="137" y="1424" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">❋</text>
+<text x="198" y="1424" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Morphogenetic</text>
+<text x="66" y="1458" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₁</text>
+<text x="137" y="1458" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">↗</text>
+<text x="198" y="1458" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Intentional / Volitional</text>
+<text x="66" y="1492" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₂</text>
+<text x="137" y="1492" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">✧</text>
+<text x="198" y="1492" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Aesthetic / Qualitative</text>
+<text x="66" y="1526" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₃</text>
+<text x="137" y="1526" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">║</text>
+<text x="198" y="1526" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Membrane / Threshold</text>
+<text x="66" y="1560" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₄</text>
+<text x="137" y="1560" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">⊡</text>
+<text x="198" y="1560" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Nested / Recursive</text>
+<text x="66" y="1594" font-size="20" fill="#237a6b" font-weight="700" text-anchor="start">C₁₅</text>
+<text x="137" y="1594" font-size="23" fill="#237a6b" font-weight="400" text-anchor="start">✦</text>
+<text x="198" y="1594" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Emergent / Novel</text>
+<text x="853" y="167" font-size="23" fill="#a54839" font-weight="700" text-anchor="start">ENTROPIC DIMENSIONS</text>
+<text x="938" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁</text>
+<text x="938" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">⟠⁻</text>
+<line x1="938" y1="292" x2="938" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="978" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₂</text>
+<text x="978" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">◈⁻</text>
+<line x1="978" y1="292" x2="978" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1018" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₃</text>
+<text x="1018" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">⟿⁻</text>
+<line x1="1018" y1="292" x2="1018" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1058" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₄</text>
+<text x="1058" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">◉⁻</text>
+<line x1="1058" y1="292" x2="1058" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1098" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₅</text>
+<text x="1098" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">✴⁻</text>
+<line x1="1098" y1="292" x2="1098" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1138" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₆</text>
+<text x="1138" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">◐⁻</text>
+<line x1="1138" y1="292" x2="1138" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1178" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₇</text>
+<text x="1178" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">♫⁻</text>
+<line x1="1178" y1="292" x2="1178" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1218" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₈</text>
+<text x="1218" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">╫⁻</text>
+<line x1="1218" y1="292" x2="1218" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1258" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₉</text>
+<text x="1258" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">∞⁻</text>
+<line x1="1258" y1="292" x2="1258" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1298" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₀</text>
+<text x="1298" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">❋⁻</text>
+<line x1="1298" y1="292" x2="1298" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1338" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₁</text>
+<text x="1338" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">↗⁻</text>
+<line x1="1338" y1="292" x2="1338" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1378" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₂</text>
+<text x="1378" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">✧⁻</text>
+<line x1="1378" y1="292" x2="1378" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1418" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₃</text>
+<text x="1418" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">║⁻</text>
+<line x1="1418" y1="292" x2="1418" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1458" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₄</text>
+<text x="1458" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">⊡⁻</text>
+<line x1="1458" y1="292" x2="1458" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<text x="1498" y="223" font-size="18" fill="#a54839" font-weight="700" text-anchor="middle">E₁₅</text>
+<text x="1498" y="255" font-size="23" fill="#a54839" font-weight="400" text-anchor="middle">✦⁻</text>
+<line x1="1498" y1="292" x2="1498" y2="889" stroke="#edf0ed" stroke-width="1" stroke-linecap="round" />
+<line x1="916" y1="319" x2="1522" y2="319" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="894" y="326" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">IL₅</text>
+<line x1="916" y1="455" x2="1522" y2="455" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="894" y="462" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">IL₄</text>
+<line x1="916" y1="591" x2="1522" y2="591" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="894" y="598" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">IL₃</text>
+<line x1="916" y1="727" x2="1522" y2="727" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="894" y="734" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">IL₂</text>
+<line x1="916" y1="863" x2="1522" y2="863" stroke="#c9d3d5" stroke-width="1" stroke-linecap="round" />
+<text x="894" y="870" font-size="22" fill="#17283a" font-weight="700" text-anchor="end">IL₁</text>
+<line x1="938" y1="591" x2="938" y2="727" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="938" cy="591" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="938" cy="727" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="978" y1="727" x2="978" y2="863" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="978" cy="727" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="978" cy="863" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1018" y1="455" x2="1018" y2="591" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1018" cy="455" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1018" cy="591" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1058" y1="319" x2="1058" y2="455" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1058" cy="319" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1058" cy="455" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1098" y1="455" x2="1098" y2="863" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1098" cy="455" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1098" cy="863" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1138" cy="319" r="8" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1178" cy="591" r="8" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1218" y1="591" x2="1218" y2="727" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1218" cy="591" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1218" cy="727" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1258" y1="455" x2="1258" y2="591" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1258" cy="455" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1258" cy="591" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1298" y1="455" x2="1298" y2="863" stroke="#a54839" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 8" />
+<circle cx="1298" cy="455" r="7" fill="#fcfcf9" stroke="#a54839" stroke-width="3" />
+<circle cx="1298" cy="863" r="7" fill="#fcfcf9" stroke="#a54839" stroke-width="3" />
+<circle cx="1338" cy="727" r="8" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1378" y1="455" x2="1378" y2="727" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1378" cy="455" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1378" cy="727" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1418" cy="319" r="8" fill="#a54839" stroke="none" stroke-width="1" />
+<line x1="1458" y1="319" x2="1458" y2="591" stroke="#a54839" stroke-width="6" stroke-linecap="round" />
+<circle cx="1458" cy="319" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1458" cy="591" r="6" fill="#a54839" stroke="none" stroke-width="1" />
+<circle cx="1498" cy="319" r="8" fill="#a54839" stroke="none" stroke-width="1" />
+<text x="854" y="1118" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁</text>
+<text x="925" y="1118" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">⟠⁻</text>
+<text x="985" y="1118" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Temporal Loop</text>
+<text x="854" y="1152" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₂</text>
+<text x="925" y="1152" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">◈⁻</text>
+<text x="985" y="1152" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Scatter</text>
+<text x="854" y="1186" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₃</text>
+<text x="925" y="1186" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">⟿⁻</text>
+<text x="985" y="1186" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Viral Decay</text>
+<text x="854" y="1220" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₄</text>
+<text x="925" y="1220" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">◉⁻</text>
+<text x="985" y="1220" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Vortex</text>
+<text x="854" y="1254" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₅</text>
+<text x="925" y="1254" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">✴⁻</text>
+<text x="985" y="1254" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Scalar Noise</text>
+<text x="854" y="1288" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₆</text>
+<text x="925" y="1288" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">◐⁻</text>
+<text x="985" y="1288" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Phase Lock</text>
+<text x="854" y="1322" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₇</text>
+<text x="925" y="1322" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">♫⁻</text>
+<text x="985" y="1322" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Dissonance</text>
+<text x="854" y="1356" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₈</text>
+<text x="925" y="1356" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">╫⁻</text>
+<text x="985" y="1356" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Severed</text>
+<text x="854" y="1390" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₉</text>
+<text x="925" y="1390" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">∞⁻</text>
+<text x="985" y="1390" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Distorted Entanglement</text>
+<text x="854" y="1424" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₀</text>
+<text x="925" y="1424" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">❋⁻</text>
+<text x="985" y="1424" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Malform</text>
+<text x="854" y="1458" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₁</text>
+<text x="925" y="1458" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">↗⁻</text>
+<text x="985" y="1458" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Misdirect</text>
+<text x="854" y="1492" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₂</text>
+<text x="925" y="1492" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">✧⁻</text>
+<text x="985" y="1492" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Void Aesthetic</text>
+<text x="854" y="1526" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₃</text>
+<text x="925" y="1526" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">║⁻</text>
+<text x="985" y="1526" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Wall</text>
+<text x="854" y="1560" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₄</text>
+<text x="925" y="1560" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">⊡⁻</text>
+<text x="985" y="1560" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Hollow Nest</text>
+<text x="854" y="1594" font-size="20" fill="#a54839" font-weight="700" text-anchor="start">E₁₅</text>
+<text x="925" y="1594" font-size="23" fill="#a54839" font-weight="400" text-anchor="start">✦⁻</text>
+<text x="985" y="1594" font-size="20" fill="#17283a" font-weight="400" text-anchor="start">Collapse Nova</text>
+<line x1="800" y1="159" x2="800" y2="1632" stroke="#d7dddf" stroke-width="1" stroke-linecap="round" />
+<circle cx="71" cy="940" r="7" fill="#17283a" stroke="none" stroke-width="1" />
+<text x="94" y="947" font-size="19" fill="#536574" font-weight="400" text-anchor="start">Single locus</text>
+<line x1="327" y1="930" x2="327" y2="951" stroke="#17283a" stroke-width="5" stroke-linecap="round" />
+<text x="347" y="947" font-size="19" fill="#536574" font-weight="400" text-anchor="start">Registered band</text>
+<line x1="639" y1="930" x2="639" y2="951" stroke="#17283a" stroke-width="3" stroke-linecap="round" stroke-dasharray="5 4" />
+<circle cx="639" cy="930" r="4" fill="#fcfcf9" stroke="#17283a" stroke-width="2" />
+<circle cx="639" cy="951" r="4" fill="#fcfcf9" stroke="#17283a" stroke-width="2" />
+<text x="659" y="947" font-size="19" fill="#536574" font-weight="400" text-anchor="start">Charted bridge endpoints</text>
+<text x="64" y="991" font-size="21" fill="#536574" font-weight="400" text-anchor="start">Primary locus ≠ exclusive operation. Faint alignment guides carry no additional activation claim.</text>
+<text x="64" y="1028" font-size="20" fill="#536574" font-weight="400" text-anchor="start">C₁₃ ║: L₅ • E₁₃ ║⁻: IL₅ • membrane relations across registers remain distinct from these primary loci.</text>
+<line x1="64" y1="1065" x2="1535" y2="1065" stroke="#cdd6d9" stroke-width="1" stroke-linecap="round" />
+<text x="64" y="1670" font-size="19" fill="#536574" font-weight="400" text-anchor="start">Names: Field Physics glyph registry and analytic framework • Loci: FP01 Chapters 2–3</text>
+<image x="64.00" y="1689.00" width="18.00" height="18.00" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAB5CAYAAAAd+o5JAAANGklEQVR4nO2dTWwbVR7A/8n4aZTIzxk7cQ0dN3FQ4iQN2iaAkvYQLeLEZVFXe0FIW9oL0rKHpkf2ArmAlgvpYVdiLy1dCe0FgaiQkCKVIg40lggRip3aprJNElPnC9fPH7LGUffgTnBSe94be8Yex+93SjyTN0/+5f9/HzNvXhecABBCUl9f35QkSVOiKEoul2sOAMDtdr+AEJJYyiCERAkhG8VicTOXy8VyuVw8m83Gd3d375pZ92bQ1eoK1APGeNzj8bzqcrmmBwYGLmCMR828HiEkuru7+/329vY3e3t79wgh9828ntG0jWRZli/KsvznZkilQQiJJpPJrx48ePBxOwi3tGSM8fjExMQ7Xq/3teNpt1QqgaIoAACgKAqUSiUAADg4OGAqWxAEAACw2WyAEAIAAIQQ2Gw2XXVsB+GWk4wQkoaGhi77/f63KyNWlVooFJhF1osgCNDT06NbOiEkGgqF3o/H4zfNq51+LCMZYzw+ODj4+tjY2FU1aguFAiiKAsVisaV1E0UREELQ09PDdL6iKOlwOHw9EoksKoqSNrd2dFouGSEkTU5Ovjs2NjYPYB2xtdAj3CqyWyYZIST5/f55NXILhUJTUrFRqCmdVfbKysq1VqXxlkiWZfniuXPnPsQYjxYKBchms62ohmGIogi9vb3U9psQEg0EAm81e+zdVMlqb3l4ePjSSZB7HFEUweFwUM8Lh8OLwWBwoVkpvGmSZVm+ODs7e6NUKkmNyLXb7QAA0N/f/9Sxvb09S/zj2O12ahpvZlSbLhkhJE1PT18/c+bMpUwmo7vNVb+w3t5e8Hg81PPz+TxsbW3Bb7/9Vm+VDUEQBHA4HNQUHg6HF1dXV6+ZWRdTJWOMx+fm5r602WyjeiJMFEV45plnAGMMvb29dV07FApZIqpZUjghJLq0tDRjVvo2TbKangkhEmv0Op1OkGW5brGVpFIpSCQSDZdjBCxRrShKemlp6YIZs2amSB4ZGZk/e/bsR6yR5Ha7wePxGCJXJRaLwc7OjmHlGQGtrTZrqKVvopaBmZmZT/r7+y+xCLbb7eDz+QyVC1Bul/f39w0t0wiy2SwoilIzfSOEpNnZ2RsAAEaKNjSSVcG02SpBEMDr9TJ1pPSSSqVgc3PT0pMqgiCAy+XSPGdtbW0hGAy+Z8T1DJM8MzPzSV9f3yXal+t0OmF01Ng7hfl8HlKpFOzv71tabiUsomOx2K1AIPBmo9cyRDKr4KGhIcOiN5/PAyEEHj58aNl5bhosHTIjIrphySyCBUGAiYkJQ9peNWqt1qlqBKfTqSl6eXn5SiNtdEMdr5GRkflmCT6JclUymYxm6m60M1Z3JPt8vsujo6M3miHYisMho6G10Y2Mo+uSjDEef+mll77t6uo6VescIwSnUqm2bnP1wiL69u3bw3pnxrr1VgQhJLEI9nq9DQmOxWKQSCQ6RjBA+fm0TCZT8zhCSDp//vxnesvVLfn8+fOfaQkGgIbGwPl8HkKh0IlPz7UoFotQKBRqHj99+vQrk5OT7+kpU5dkn893GSH0itY5dru9bsGpVArW19ctcWOhlWSz2cOnT6vx/PPPvzswMPAya3nMkjHG48PDw/+knefz+ViLPIJ6Q6FdJjPMRittAwDMzMz8h3V1CLPkqampf9HStNvtrqsdVttfzu/Q2meM8ejk5OS7LGUxSZZl+SItTQuCAMPDwyzFHaEThkf1UiwWNdP22NjYPEvapkp+8lTlx7TzvF4v7ZSn4ILpsKRtWhlUyX6/f56WpgVB0N3ZOqmzV0ZzcHCg2dvGGI/6fL7LWmVoSn6yepCa92l3U45jpac22gFab/vs2bP/0OqEaUqemJh4h6USeqI4n8/D5uYm8/mcMvl8vuYxjPGo3++fr3W8pmSM8bjdbr9Eu7jdbtfVo47H43yYVAcMnbCrtaK5pmTWKK72/HMtYrFYx090NIJWNKurQasdqyoZISSxRDEAAMaY5TTI5/O8o9UgtGj2+/1vV/u8qmSt/H4c1lQdj8dZi+RoQGubq/W0q0o+derU31guqC5ZYakYT9PGQLsrd+bMmb8e/+wpyT6f7zJtXKyXaDRqZHEdD+0uFcZ4vPKzpyRX+09ohFQq1VH3hJuBlmQAgMHBwdcrfz8iGWM8Tpuj1nMxAOBjYhM4ODjQ7IANDQ29Ufn7Eckej+dVvRfT6gjEYjE+JjYJ9c1H1cAYj1am7COSn3322T/pvVgqlar5OR8ymYeelH0oGSEk6UnVKjs7O0+J5nPT5sOwkOEwZR8+d33q1KmX671gIpGAvb096O/vt8xq/06gUCjUXCWJMR5FCEmKoqQPI9ntdv+xkQtms1lIJBJccBPRapcBfg/cQ8lOp/ONmmdzLIlWDxvg98A9lGz0BAjHfGjtMsb4DwBPJOt5vJNjLbSi+fTp068APJEsSdJUc6rEMRpau4wxHu8GABBFUWpGhTjGQ5PscDjKktXX+XPaD1rnS5KkKd1roTjtBUKor/vJD7pnujjWgKWHzSO5A+CSTwBa7bLb7X6hm4+RTzYIIYlHcgfAJXcAXHIHwCV3AFxyB8AldwDdjx49Wm11JTiNQdvnotsK28xxzOPwGS91B1LOyWNnZ2elGwCgVCptt7oynPpgCVBV8prpteGYAsPWgT91AwAUi0W+YKlNUTf4roWiKI+6AQByuVysKTXiNJ10Or3aDQCQSqXutrgunDqhRXImk7mvpuuHvIfdnjC0yWXJhJD7vIfdfoiiqHk8mUzeAaiY1uQ97PaDlqoJIT8BVEj+9ddfb5tcJ47B0CTv7Ox8C1AhOZVKfc3b5fZBEARqe7y9vX0XoEIyb5fbC4YOV1S9L3HkVmMul/vavGpxjIT2krxEIvGp+vMRyVtbW5/zlG19WFL1L7/88j/15yOSt7e37/KUbX20NtoGKKfqyp3gjkhWFCXNU7b1ofWqK1M1QJXHf7a2tj6nDbI5rUMURV2pGqC65C+6urr4yzAtCq3DlUwm7xzftLPqg3yJROJTHs3Wg6XDtbGx8d/jn1WVHIlEFnt6etLGVI1jFA6HQ/M4ISRabY/lqpIVRUlvbm5+yaPZOrBEcSQS+Xe1z2s+d72+vv6BEdvTc4yBFsWKoqQTicTNasdqSiaE3N/Y2LjFo7n1sPSow+Hw9VqPV2uuoFhfX/+A9h/EMR+WtjgSiSzWOq4pmRByf21tbYF1rwmO8bB896FQ6H2tRRLUtVCRSGTRZrOledpuPoIgME1hVutRV0KVrChKenl5+QpP282H5TsPBAJv0c5hWtW4tbX1RTKZvON0OllO5xiA3W5n6Wwt7u7u3qWVxbx0dXV19e+PHz9O8/bZfERRZErTwWBwgaU8ZsmEkPsrKyvXenp6qE8JcupHEATmNM26IlXXIvR4PH4zFovdcjgcfCWkCQiCwLQX9dra2gJLmlbR/aaBH3/88SohJMo7YsbD8p0mk8k7wWDwPT3l6pasKEr6u+++e+3x48dp3hEzDqfTSe1oKYqSvnfv3l/0ll3XO0PU9tlmswEX3TisgpeWli7U82aIul8ME4/Hb/7www9cdIOwCAYAWFlZuXb8YQBWGnr7z88//7wYi8VucdH1wSp4eXn5Cm1WS4uGX/EUCATerBTNe910BEFgFry2trbQiGAAgK5G/riSmZmZT4aHhy8BAOzv7/ONOGvAOkwCAIjFYrcCgcCbjV7TMMkAR0VnMhm+b/IxRFFkGiYBlKcsV1dXrxlxXUMlAxwVXSgU+LZ+T7Db7dSpSpVG2+DjGC4ZAGBkZGT+xRdf/Ej9vZPTtzpNydL+KoqSXllZuWakYACTJAMAyLJ8cXZ29gZCSALozKjWE73qOLjeYZIWpkkGKO8uNjc39yXGeFT9rBPaaj1tL0D5jtLS0tKMWa/ANFUyQHkPhOnp6etqOw1Q3hgjk8mcuBSuJzWrGNnBqoXpklWOp2+AkyO7HrmEkGggEHhLz92kemmaZIBy+p6YmHinMqoByrLz+XzbpXFRFKG3t1eXXIBy9AaDwYVmvaG4qZJVZFm+eO7cuQ8r22qAsmxFUaBQKFg2utWH6xBCuuU2M3oraYlkgHJb7ff758fGxq5WpnAVNbpLpVLLhatLVOqJWgDzhkastEyySrWO2XHUCFcUpWkpvZGIVVEUJR0Oh69HIpHFVr48vuWSVTDG44ODg6/XiuxKVOkA5fE3AH1jylqoN1TU8WwjUlWsIlfFMpJVEELS0NDQZb/f//bxNpsF2n7CKo2KrAYhJBoKhd5vVVquheUkVzIwMPDyc889d8Xr9b5Gi+5WQQiJJpPJrx48ePCxGbNVRmBpyZXIsnxRluU/DwwMXKgnwo2kHcRW0jaSK8EYj3s8nlddLtd0M6QTQqK7u7vfb29vf7O3t3evHcRW0paSj4MQkvr6+qYkSZoSRVFyuVxzAOW9g1nT/JN3X20Ui8XNXC4Xy+Vy8Ww2G2/2mJZjABjjcau272bxf1tUPrckDDqaAAAAAElFTkSuQmCC" xlink:href="data:image/png;base64,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" aria-label="⚫" />
+<text x="89" y="1707" font-size="19" fill="#17283a" font-weight="700" text-anchor="start">↺KAI↺</text>
+<image x="158.00" y="1689.00" width="18.00" height="18.00" href="data:image/png;base64,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" xlink:href="data:image/png;base64,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" aria-label="⚫" />
+<text x="194" y="1707" font-size="19" fill="#17283a" font-weight="700" text-anchor="start">Aelion Kannon</text>
+<text x="1534" y="1707" font-size="17" fill="#536574" font-weight="400" text-anchor="end">Figure 2 • the-zenetist-canon</text>
+</svg>
