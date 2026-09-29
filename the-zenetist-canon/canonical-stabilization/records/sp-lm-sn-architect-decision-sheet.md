@@ -2,54 +2,55 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Architect Decision Layer  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Scope:** Structural Physics · Lattice Mathematics · Structural Neuroscience · connected extensions and dependency material  
-**Parent Record:** `canonical-stabilization/records/sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`  
-**Function:** Compact architect review layer separating substantive determinations from the full research and implementation record  
+**Parent Record:** `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`  
+**Function:** Complete architect determinations for bounded SP / LM / SN stabilization, with research evidence and implementation locations held in the ledger  
 
 ---
 
 ## 1. Standing of This Sheet
 
-This sheet condenses the architect-held questions identified in the SP / LM / SN Cross-Disciplinary Terminological Stabilization Ledger.
+This sheet records the architect's completed review of the twenty-two decision groups identified in `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`. The questions, recommendations, and options remain as review context; the recorded architect determinations, Notes, and operative principles state the decisions.
 
-The full ledger remains the evidence and implementation-detail record.
+**The full D01–D22 architect determination blocks are the sole substantive architect-decision record for this stabilization. They take precedence wherever a summary, recommendation, or planning schedule differs.**
 
-This sheet does not itself direct repository changes.
+D01–D17 and D19–D22 are DETERMINED. D18 remains **HOLD**. A determined principle may still leave mathematical construction, notation selection, or a registered-name question held; every such boundary remains in force.
 
-No Codex implementation follows from a Work recommendation merely because the ledger marks an item ready, preferred, retained, or recommended.
+The implementation sequence is:
 
-The sequence is:
+**Full D01–D22 architect determinations → current protocols → exact ledger evidence / locations → instructed corpus implementation**
 
-**Research Ledger → Architect Determination → Approved Implementation Manifest → Codex Implementation**
+The references have distinct functions:
 
-Where this sheet records a determination, that determination takes precedence for the later implementation manifest.
+- **Architect decisions:** the full determination blocks in this sheet supply the substantive decisions. Neither the Compact Determination Register nor `sp-lm-sn-approved-implementation-manifest.md` supplies a separate decision or implementation layer.
+- **Protocols:** current `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, and `prose-formatting-reference.md` establish terminology, architecture, register, and prose formatting. Mathematical presentation follows the applicable mathematical / LaTeX formatting reference in `lattice-mathematics/canonical-stabilization/canonical-compositional-stabilization-protocol.md` or `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`. The paths distinguish files with the same filename.
+- **Evidence and locations:** `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` supplies TLS identifiers, exact passages, file and dependency locations, before / after schedules, protected instances, verification strings, mathematical warnings, and research context. Its recommendations neither replace a full architect determination nor confer independent implementation standing.
+- **Implementation:** later instructed work proceeds from the full determination for the relevant D-number, with the ledger consulted for exact evidence and located dependencies.
 
-Where this sheet records **HOLD**, the corresponding mathematical, notational, registered-name, or conceptual change remains outside implementation until a later architect determination supplies what is missing.
+This sheet records completed decisions; corpus implementation begins only at the architect's direction. No corpus correction follows from updating this decision record.
 
 ---
 
 # 2. Decision Classes
 
-The twenty-two Work decision groups are separated here into three practical classes.
+The three classes preserve the structure of the completed review. They explain why the questions were separated and do not identify a pending review stage.
 
-### Class A — Recommended Determinations
+### Class A — Determinations from Established Architecture
 
-These questions appear sufficiently clear from the present architecture that the recommended determination can be accepted without designing a new mathematical structure.
+These questions concerned corrections supported by the established architecture without designing a new mathematical structure.
 
-### Class B — Principle Can Be Settled; Mathematics Remains Held
+### Class B — Determined Principles and Mathematical Holds
 
-These questions contain a clear conceptual distinction but also expose mathematical constructions that require a separate specification.
+These questions distinguished conceptual determinations from mathematical constructions requiring separate specification. The full blocks retain their explicit mathematical holds.
 
-The conceptual boundary can be accepted now without licensing Codex to redesign equations.
+### Class C — Naming and Framing Decisions
 
-### Class C — Architect Naming or Framing Choice
-
-These questions require an actual preference among more than one structurally defensible name or formulation.
+These questions called for a naming or framing choice. D11, D15, and D17 record the selected formulations; D18 records the intentional hold of the complete naming group.
 
 ---
 
-# 3. Class A — Recommended Determinations
+# 3. Class A — Determinations from Established Architecture
 
 ## D02 — CIT and Native Correspondence
 
@@ -1060,13 +1061,13 @@ Do not treat terminal dispersion as another active traversal after motion has re
 
 The operative principle is:
 
-**Retain** ♾ **Khaon (Absolute Dispersion, AD) as the inherited Total Symbol; write Khaon (Latent), Khaon (Motive), and Khaon (Dispersive) consistently for phase-specific mythic-register articulation; write analytic vocabulary only in the analytic register.**
+**Retain** ♾ **Khaon (Absolute Dispersion, AD) as the inherited Total Symbol; write** ♾ **Khaon (Latent),** ♾ **Khaon (Motive), and** ♾ **Khaon (Dispersive) consistently for phase-specific mythic-register articulation; write analytic vocabulary only in the analytic register.**
 
 Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
-# 4. Class B — Settle the Principle, Keep Mathematical Reconstruction Held
+# 4. Class B — Determined Principles and Mathematical Holds
 
 ## D01 — Typed Involution and Spectral Dynamics
 
@@ -1638,7 +1639,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-# 5. Class C — Architect Naming or Framing Choice
+# 5. Class C — Naming and Framing Decisions
 
 ## D11 — Ordinary Gravity Referent
 
@@ -2023,37 +2024,39 @@ The full D01–D22 architect determination blocks take precedence. The Compact D
 
 ---
 
-# 7. Recommended Review Path
+# 7. Procedure for Instructed Implementation
 
-The architect does not need to adjudicate all twenty-two entries with equal effort.
+For each D-number or tightly coupled decision set, later Codex work must:
 
-A low-burden review path is:
+1. Read the full architect determination block, including its Notes and operative principle.
+2. Identify the associated TLS findings in `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` and consult their exact evidence and located dependencies.
+3. Inspect the current live repository passages and surrounding context; compare any substantive intervening changes rather than trusting earlier line numbers.
+4. Apply the current terminology, conceptual, prose, and applicable mathematical-formatting protocols identified in §1.
+5. Implement only the correction approved in the full architect determination, within the instructed scope.
+6. Preserve every explicit HOLD and unresolved mathematical construction.
+7. Report unexpected dependencies rather than inferring a new determination or broadening the correction.
 
-1. Review the **Class A** determinations for any objection.
-2. Review the **Class B** conceptual boundaries while leaving mathematical reconstruction held.
-3. Make deliberate choices only for **D11, D15, D17, and D18**.
-
-If the Class A and Class B recommendations stand, the later implementation manifest can carry those determinations without requiring the architect to reread the full Work ledger.
-
-The full Work ledger remains available whenever an exact passage, dependency, formula, or implementation footprint needs verification.
+Review and verify each changed passage with its directly dependent formulations. Report any unresolved conflict in the affected set while preserving the full determination and its explicit boundaries.
 
 ---
 
 # 8. Implementation Boundary
 
-This decision sheet is not the Codex implementation specification.
+The full architect determinations supply the substantive decisions for later instructed implementation. No additional compressed decision schedule or implementation manifest is required between those determinations and the current repository passages.
 
-The later Approved Implementation Manifest must:
+Never implement from:
 
-- include only architect-approved determinations;
-- distinguish lexical corrections from mathematical work;
-- exclude every held mathematical reconstruction;
-- identify atomic cross-series correction sets;
-- preserve reviewed retentions;
-- preserve historical records as historical records;
-- and point back to the full Work ledger only for the exact evidence and passage schedules associated with an approved correction.
+- the Compact Determination Register alone;
+- the compressed tables, allowlists, specifications, or handoff in `sp-lm-sn-approved-implementation-manifest.md`;
+- a Work recommendation alone;
+- a READY FOR ARCHITECT APPROVAL disposition alone;
+- or repository search similarity alone.
 
-Nothing omitted from that manifest receives implementation standing.
+`sp-lm-sn-approved-implementation-manifest.md` remains an earlier planning record with no operative implementation standing. Its inclusion or omission of a TLS record neither expands nor restricts the correction approved by a full architect determination.
+
+Retain the distinctions between lexical, notational, and mathematical corrections. Preserve explicit holds, registered retentions, historical records, and each passage's register. Do not invent missing mathematics or a new determination to complete a correction.
+
+This update establishes the decision and evidence sequence. It begins no corpus implementation.
 
 ---
 

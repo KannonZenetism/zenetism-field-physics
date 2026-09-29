@@ -1,56 +1,38 @@
 # SP / LM / SN Approved Implementation Manifest
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Canonical Stabilization Infrastructure — Codex Implementation Layer  
-**Status:** Active  
+**Classification:** Canonical Stabilization Infrastructure — Historical Implementation Planning  
+**Status:** Veracious Archive  
 **Scope:** Structural Physics · Lattice Mathematics · Structural Neuroscience · approved connected dependencies only  
 **Research Record:** `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`  
 **Decision Layer:** `sp-lm-sn-architect-decision-sheet.md`  
-**Function:** Bounded Codex implementation manifest for architect-approved SP / LM / SN stabilization changes  
+**Function:** Preserved earlier implementation-planning model; schedules and summaries carry no implementation standing  
 
 ---
 
-# 1. Standing of This Manifest
-
-This manifest records the implementation standing supplied by the completed determinations in `sp-lm-sn-architect-decision-sheet.md`.
-
-D01–D17 and D19–D22 are DETERMINED. D18 is an intentional HOLD. A determined principle may still leave mathematical construction, notation selection, or a separate registered-name choice held.
-
-The schedules admit only the specified parts of the named TLS records in `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`. That research record supplies passage evidence, file locations, dependent occurrences, protected retentions, and verification strings. Its recommendations do not create additional implementation standing.
-
-**Active identifies this manifest's operative standing. Activation does not begin corpus implementation.** A separate instruction to carry out a pass is required; the preparation of this manifest changes no corpus passage.
-
-The operative sequence is:
-
-**Research Record → Architect Determination → Approved Manifest → Instructed Implementation**
+**This document records an earlier implementation-planning model and has no operative implementation standing. The complete D01–D22 architect determination blocks in `sp-lm-sn-architect-decision-sheet.md` take precedence for substantive decisions. The research ledger supplies exact evidence and implementation locations. No compressed schedule, allowlist, or decision summary in this file confers standing for a corpus change.**
 
 ---
 
-# 2. Activation and Execution Boundary
+# 1. Standing of This Record
 
-The decision schedule is populated, the admitted TLS subsets are explicit, and the remaining holds are recorded here. The metadata status is **Active**.
+This file preserves the earlier implementation-planning model as a historical record. Its title and retained planning material identify that model; they do not establish a current implementation stage.
 
-A later implementation instruction applies only to the schedules in §§10–11. It does not admit every recommendation in a linked TLS record or every member of a coordinated set.
-
-A Pass I name change that depends on a Pass II proof-standing correction must wait until both can be completed together. In particular, the D01 rename must not leave the unsupported proof claim in place. Report that dependency at the end of Pass I; do not execute the coupled mathematical work without the instruction covering Pass II.
-
-An unexpected dependency may be inspected and reported. It receives no change standing merely because a search finds the same string.
+The full architect determinations in `sp-lm-sn-architect-decision-sheet.md` take precedence. `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` supplies exact evidence and locations.
 
 ---
 
-# 3. Precedence
+# 2. Historical Planning Material
 
-For this project, apply:
+The schedules, allowlists, specifications, procedural statements, and completion criteria retained in §§4–24 belong to the earlier planning model. They are historical material, not instructions for later implementation.
 
-1. the completed determinations in `sp-lm-sn-architect-decision-sheet.md`;
-2. their bounded implementation schedules in this manifest;
-3. the current `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, and `prose-formatting-reference.md` for the corresponding function and register;
-4. the exact admitted passage schedules in `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`;
-5. earlier ledgers and historical records as evidence of their recorded standing.
+Descriptions such as "approved", "admitted", and "standing" in those sections record that former model and confer no present implementation standing. The decision summaries and allowlists remain unrevised; they are not a substitute for the full determinations.
 
-If this manifest or a research recommendation conflicts with a completed determination, retain the determination and stop the conflicting subset for correction. The manifest cannot broaden or reverse the decision it records.
+---
 
-Historical text remains historical text. Its continued presence does not reinstate a retired recommendation.
+# 3. Current Implementation Reference
+
+Later work follows the full determination for the relevant D-number and the procedure in `sp-lm-sn-architect-decision-sheet.md` §§7–8. No instruction to execute a pass follows from this archived manifest.
 
 ---
 
@@ -765,21 +747,21 @@ Keep the blocked set unchanged and continue only with independent approved sets.
 
 ---
 
-# 23. Codex Handoff Form
+# 23. Historical Handoff Form
 
-The manifest is Active. No corpus pass has been initiated by its preparation. A later instruction may state:
+The following handoff belonged to the earlier planning model. It is preserved as historical text and is not a current implementation instruction:
 
 > Implement Pass I of `sp-lm-sn-approved-implementation-manifest.md`. Follow the completed determinations in `sp-lm-sn-architect-decision-sheet.md` and consult `sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` only for the admitted TLS subsets and their exact dependency schedules. Apply `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, and `prose-formatting-reference.md`. Preserve every hold. Complete independent Pass I sets and report any set that requires its coupled Pass II correction before proceeding with that mathematical work. Do not broaden the scope from search similarity.
 
-The handoff is an example for a later instruction, not a command issued by this file.
+The former handoff has no operative standing. Later work follows `sp-lm-sn-architect-decision-sheet.md` §§7–8.
 
 ---
 
-# 24. Completion Standard
+# 24. Historical Completion Criteria
 
-Manifest preparation is complete when its decision schedule matches all twenty-two determinations, its admitted TLS subsets and exclusions are explicit, its file references resolve, and its status is Active. That state does not certify corpus implementation.
+The criteria in this section belonged to the earlier planning model. They do not establish completion of later work or restore this manifest to operative standing.
 
-An instructed implementation pass is complete only when:
+The former model described an implementation pass as complete only when:
 
 - every admitted action in that pass has been implemented and verified, or separately reported with its exact blocker;
 - every admitted mathematical action follows its bounded specification;
