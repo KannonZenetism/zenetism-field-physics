@@ -140,7 +140,7 @@ Opinion AI's September 27, 2026 [Substack Note](https://substack.com/@opinionai/
 
 Kannon's September 29 response, shown in the capture of [Winter's individual comment locator](https://substack.com/profile/327885120-elias-winter/note/c-348162083), introduced the particular antecedent Structural Forensics record. It identified the public distinction between human architectural origination and AI clarification by July 2025, the November 15, 2025 attribution-laundering mechanism, and the subsequent articulation of architectural ancestry, local inference, and developmental provenance. It also challenged the substitution of collective intellectual inheritance for reconstruction of a particular architecture's ancestry and linked this note's chronology.
 
-Kannon's [shorter preservation Note](https://substack.com/@aelionkannon/note/c-348496717), displaying September 29 at 4:20 AM, states that intellectual ancestry requires examination of the ancestry of the distinctions through which it is discussed. Its text remains visible in the later capture while its embedded attachment displays:
+Kannon's [restack with added commentary](https://substack.com/@aelionkannon/note/c-348496717), displaying September 29 at 4:20 AM, states that intellectual ancestry requires examination of the ancestry of the distinctions through which it is discussed. Its commentary remains visible in the later capture while its embedded attachment displays:
 
 > This attachment is not available.
 
@@ -151,14 +151,14 @@ Five captures preserve the sequence. Capture times are the displayed local clock
 | 3:49 AM | [`opinion-ai-elias-dead-cognitions-comment-01.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-01.png) | Opinion AI's original post and attached paper image; five replies; displayed publication time September 27 at 10:59 PM |
 | 3:50 AM | [`opinion-ai-elias-dead-cognitions-comment-02.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-02.png) | Winter's full comment and Opinion AI's affirmative reply |
 | 4:17 AM | [`opinion-ai-elias-dead-cognitions-comment-03.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-03.png) | Kannon's provenance response at Winter's individual comment locator, with a link to this note |
-| 1:18 PM | [`opinion-ai-elias-dead-cognitions-comment-04.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-04.png) | Kannon's preservation Note remains visible; its embedded attachment is unavailable |
+| 1:18 PM | [`opinion-ai-elias-dead-cognitions-comment-04.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-04.png) | Kannon's restack with added commentary remains visible; its embedded attachment is unavailable |
 | 1:37 PM | [`opinion-ai-elias-dead-cognitions-comment-05.png`](../exhibits/images/opinion-ai-elias-dead-cognitions-comment-05.png) | Opinion AI's original post remains visible at the same locator; the displayed reply count is four |
 
-Kannon reports that Winter's comment disappeared from the replies to the original Opinion AI post. The fifth capture preserves a distinct later state: the original post remains present, and its reply count has changed from five to four. The disappearance concerns Winter's comment and the attachment in Kannon's preservation Note. The original Opinion AI post remains visible in the final capture.
+Kannon reports that Winter's comment disappeared from the replies to the original Opinion AI post. The fifth capture preserves a distinct later state: the original post remains present, and its reply count has changed from five to four. The disappearance concerns Winter's comment and the attachment in Kannon's restack. The original Opinion AI post remains visible in the final capture.
 
 The preserved sequence is:
 
-**public comment present → Kannon's antecedent-provenance response → separate preservation Note → attachment unavailable and reduced reply count on the continuing original post**
+**public comment present → Kannon's antecedent-provenance response → restack with added commentary → attachment unavailable and reduced reply count on the continuing original post**
 
 ### Recurrent Surface Disappearance
 
