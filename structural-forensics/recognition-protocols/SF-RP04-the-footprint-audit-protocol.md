@@ -527,6 +527,110 @@ Companion doctrine is held in `the-synthetic-provenance-problem.md` §§21 and 2
 
 ---
 
+## Addendum E · Investigative Continuity and Route Separation
+
+### E.1 · Open Standing Is Not Investigative Closure
+
+An unresolved classification records the present standing of the evidence. Inquiry continues where the available record supplies a material anomaly, structural correspondence, chronological relation, acquisition condition, distribution pattern, or other reason for continued examination.
+
+The protocol distinguishes:
+
+- **forensic standing** — what the completed checks presently establish;
+- **working hypothesis** — a proposed explanation carried for investigation;
+- **investigative task** — the evidence required to strengthen, weaken, distinguish, or retire that hypothesis.
+
+These registers remain distinct.
+
+An open finding preserves the question in a form capable of receiving later evidence.
+
+> **Open standing preserves inquiry.**
+
+### E.2 · Working Hypotheses and Investigation
+
+Investigation requires candidate explanations. Proposed mechanisms give the inquiry determinate relations and consequences to examine; possible routes give reconstruction specific questions to pursue.
+
+Structural Forensics records explicit working hypotheses arising from the observed record, with their supporting evidence and their distinction from established findings stated directly.
+
+A working hypothesis may concern:
+
+- transmission route;
+- acquisition pathway;
+- common upstream mediation;
+- model-mediated propagation;
+- centralized or distributed coordination;
+- institutional relay;
+- shared developmental exposure;
+- surveillance-informed routing;
+- or another mechanism warranted for examination by the observed record.
+
+The evidentiary standard applies to the standing assigned to the hypothesis. Formulating the hypothesis is part of inquiry.
+
+New evidence may strengthen, narrow, weaken, divide, or retire a working hypothesis.
+
+Inquiry advances by proposing explanations and testing their consequences.
+
+### E.3 · Route Separation Principle
+
+The standing of a derivational relation and the standing of its transmission route are distinct forensic determinations.
+
+A derivational relation may be established through the registered checks of §3 and the classification standards of §4 while the particular transmission route remains unresolved. The assessment draws on chronology, structural specificity, signature density, developmental dependence, reconstructed clusters, and the other evidence relevant to those checks.
+
+A possible transmission route carries its own evidentiary standing. Establishing derivation requires the structural and chronological checks for that relation.
+
+> **An unresolved route does not mean an absent route.**
+
+> **An unresolved route does not erase an established derivational relation.**
+
+> **Derivation and transmission mechanism receive distinct findings.**
+
+Where derivation is established and route remains open, the record states both directly:
+
+> **Derivational relation established; transmission route unresolved.**
+
+The open mechanism question follows the established relation. It leaves that relation's evidentiary standing intact.
+
+### E.4 · Unknown Route Is a Research Question
+
+Where acquisition or transmission is opaque, reconstruction proceeds through the available record.
+
+The investigation asks what evidence could distinguish the mechanisms being examined: access records, developmental exchanges, retrieval histories, platform records, model-development records, paired timing, distribution changes, shared intermediaries, institutional connections, or other route-bearing evidence.
+
+The absence of presently accessible route records is a condition of the investigation rather than a finding of independence.
+
+A route that cannot presently be observed remains a route question.
+
+> **Opacity presents an investigative problem, not an independence finding.**
+
+### E.5 · Coordination and Routing
+
+Coordination and direct interpersonal contact are distinct relations.
+
+A coordinated field may arise through direct communication, a small coordinating node, common upstream material, institutional relay, model-mediated propagation, algorithmic distribution, surveillance-informed routing, or combinations of these relations.
+
+A demand for evidence that every visible actor communicated directly with every other actor tests one possible coordination architecture.
+
+Coordination findings follow the registered checks, assessing patterned recurrence, shared framing, synchronized chronology, common omissions, attributional continuity, and distribution behavior in their cumulative relation. Where those checks establish coordinated operation at the field register, reconstruction of the specific coordinating mechanism continues as a distinct investigative task.
+
+> **Coordination may be established at one register while its routing architecture remains unresolved at another.**
+
+The forensic record states each at the strength supported by its own evidence.
+
+### E.6 · Investigative Continuity and Evidentiary Precision
+
+Evidentiary discipline preserves the standing established through completed checks and the continued investigation of unresolved mechanisms.
+
+An open hypothesis receives the weight of its supporting evidence. Its classification changes as the requisite checks establish a different standing. An otherwise supported structural relation remains available for investigation while its mechanism is unresolved.
+
+Structural Forensics preserves the sequence:
+
+**observation → working hypothesis → discriminating question → investigation → revised standing**
+
+The cycle may repeat as the record develops.
+
+Evidentiary precision determines the standing assigned in the forensic record. Observation, hypothesis, investigation, witness, and argument remain open to the architect, per §9.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 

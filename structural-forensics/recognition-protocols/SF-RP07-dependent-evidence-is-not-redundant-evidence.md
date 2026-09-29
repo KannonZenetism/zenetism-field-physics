@@ -185,6 +185,18 @@ An unresolved provenance relation therefore remains open while its evidence cont
 
 ---
 
+## Derivation and Route Are Distinct Findings
+
+The evidentiary standing of a derivational relation is distinct from the evidentiary standing of its transmission mechanism.
+
+Where cumulative structural and chronological evidence establishes derivation through the registered checks, an unresolved route does not return the relation to generic resemblance or presumed independence. The record states the derivational finding and holds the route question open for investigation.
+
+A hypothesized route remains a hypothesis until route-bearing evidence establishes it.
+
+See `SF-RP04-the-footprint-audit-protocol.md`, Addendum E, for the Investigative Continuity and Route Separation standard.
+
+---
+
 ## Standing Distinctions
 
 > **dependent evidence is not redundant evidence**
