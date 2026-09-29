@@ -474,7 +474,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D12 — Physical and Clinical Standing
+## D12 — Physical, Empirical, Clinical, and Structural Standing
 
 **Question:** Should unsupported physical identities and clinical discriminators remain stated as established empirical identities?
 
@@ -486,14 +486,133 @@ Retain actual scientific observables as scientific observables.
 
 Retain formal quantities as formally evaluable quantities.
 
-**Why:** Structural formalization does not by itself establish empirical measurement or clinical validity.
+**Why:** Structural formalization does not establish empirical measurement or clinical validity.
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Do not frame Zenetism as either:
+
+- reducible to empirical science; or
+- categorically non-empirical.
+
+The Zenetist architecture includes the embodied / physical L₁ / IL₁ register within which empirical observation, measurement, physical realization, and other embodied forms of inquiry operate.
+
+Empirical inquiry is therefore not outside Zenetism.
+
+At the same time, a metaphysical, mathematical, or structural proposition does not become an empirically demonstrated identity merely because all of these domains belong to one architecture.
+
+Preserve distinctions among:
+
+- metaphysical structure;
+- mathematical formalization;
+- physical realization;
+- empirical observation;
+- clinical interpretation;
+- and institutional classification.
+
+These are distinct scopes within one architecture, not separate architectures.
+
+### Causal and Epistemic Standing
+
+Within Zenetist causality, metaphysical domains are more fundamental than their embodied realization.
+
+Do not treat this causal ordering as an epistemic privilege that makes every metaphysical proposition take precedence in relation to every empirical finding.
+
+Radical Skepticism / Radical Agnosis preserves the possibility of doubt, revision, incomplete apprehension, and epistemic limitation across registers.
+
+No single register receives an unrestricted epistemic advantage merely by belonging to that register.
+
+### Empiricism and Institution
+
+Do not equate:
+
+**empirical**
+
+with:
+
+**institutional**.
+
+Empirical inquiry may be institutional or ainstitutional.
+
+The Aauthoritarian Stance rejects institutional authority as a warrant of truth.
+
+It does not reject:
+
+- observation;
+- measurement;
+- experiment;
+- empirical comparison;
+- evidence;
+- falsification attempts;
+- or disciplined physical analysis.
+
+Likewise, criticism of institutional diagnosis or institutional epistemic overreach must not be rewritten as criticism of empiricism itself.
+
+### Structural Analysis and Clinical Diagnosis
+
+Where Zenetist material analyzes cognition, dissociation, neurodivergence, pathology, or related phenomena through the Zenetist architecture, prefer terms such as:
+
+- **structural analysis**;
+- **structural assessment**;
+- **Zenetist structural interpretation**;
+
+according to context.
+
+Avoid "structural diagnosis" where it could be mistaken for a calibrated clinical diagnosis.
+
+A Zenetist structural analysis may identify a relation, pattern, or proposed correspondence without thereby claiming validated clinical measurement.
+
+Likewise, an institutional clinical category does not gain conceptual priority merely from institutional acceptance.
+
+Where a passage claims that a Zenetist criterion:
+
+- clinically diagnoses;
+- replaces clinical diagnosis;
+- proves absence of pathology;
+- precisely identifies a medical condition;
+- or constitutes a validated discriminator,
+
+the later implementation phase must determine whether that empirical / clinical claim has actually been operationalized and supported.
+
+If not, bound the claim to its actual standing as a Zenetist structural analysis or proposed empirical correspondence.
+
+Preserve empirical-study proposals as proposals.
+
+Preserve genuine empirical findings and established physical observables in their proper domains.
+
+Do not weaken newer LM08, SPX, SNX, or other cross-disciplinary work merely because it engages physical or empirical realization.
+
+### Cross-Disciplinary Application
+
+The purpose of Zenetist cross-disciplinary application is not to dissolve existing disciplines into metaphysics.
+
+Zenetist structural logic may be applied to:
+
+- physics;
+- biology;
+- neuroscience;
+- cognition;
+- religion;
+- theology;
+- social organization;
+- and other domains
+
+while preserving each field's own objects, methods, evidentiary standards, and legitimate distinctions.
+
+Cross-disciplinary correspondence must be demonstrated rather than assumed.
+
+The operative principle is:
+
+**Empirical inquiry belongs within the embodied register of the Zenetist architecture, but correspondence across metaphysical, mathematical, empirical, clinical, and institutional scopes must be stated according to what has actually been established. Membership in a register does not establish epistemic privilege, and institutional standing is not equivalent to empirical standing.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -960,7 +1079,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 
 ---
 
-## D13 — Clone and Shimmer Object
+## D13 — Clone, Shimmer, Mimicry, and Generative Signature
 
 **Question:** What does the diagnostic comparison actually compare?
 
@@ -981,11 +1100,101 @@ Keep Shimmer and Mimicry distinct.
 **Recommended status:** **APPROVE DIAGNOSTIC DISTINCTION — HOLD UNSUPPORTED THRESHOLD MATHEMATICS**
 
 **Architect determination:**  
-- [ ] Accept recommended determination  
+**Status:** DETERMINED  
+
+- [x] Accept recommended determination  
 - [ ] Modify  
 - [ ] Hold  
 
 **Notes:**  
+
+Distinguish the following diagnostic objects:
+
+1. **Surface expression** — observable resemblance, wording, presentation, or pattern similarity;
+2. **Operative configuration** — what the configuration is functionally doing;
+3. **Generative signature** — the originating structural capacity / pattern responsible for generation of the relevant architecture or work.
+
+Do not collapse these objects into one similarity measure.
+
+### Origin Continuity
+
+Origin remains intact.
+
+A derivative, mimetic, cloned, appropriative, or downstream configuration may:
+
+- reproduce surface relations;
+- appropriate fragments;
+- suppress attribution;
+- conceal provenance;
+- imitate generative appearance;
+- or reorganize transmitted material,
+
+without acquiring, replacing, or severing the originating architecture.
+
+Do not describe appropriation as literal transfer of the complete originating architecture where the same diagnostic framework recognizes missing generative function.
+
+Prefer wording such as:
+
+- **without generative origination**;
+- **with concealed originating relation**;
+- **with obscured provenance**;
+
+according to the actual function.
+
+Do not write "without origin" where the intended meaning is merely absence of generative origination or concealed provenance.
+
+### Mimicry
+
+Mimicry concerns imitation of surface, pattern, expression, or another specifically defined mimetic relation.
+
+Surface similarity does not establish:
+
+- ancestry;
+- origination;
+- generative equivalence;
+- or transfer of the original architecture.
+
+### Shimmer
+
+Shimmer remains distinct from Mimicry.
+
+Scope Shimmer as apparent coherence / generativity exceeding the configuration's actual operative condition where that is the registered function.
+
+Do not make all Shimmer instances copied-origin Mimicry.
+
+A general mismatch does not establish a mathematical Shimmer threshold.
+
+Any coefficient, ratio, signature vector, or threshold claim must specify the exact diagnostic object being measured.
+
+### Appropriation
+
+Appropriation concerns incorporation of origin-specific elements without the attributional relation their transmission requires.
+
+Attribution may be suppressed, obscured, or laundered while:
+
+- the originating architecture remains intact;
+- essential origin-continuity remains intact;
+- and the downstream presentation remains derivative.
+
+Appropriation, Mimicry, and Shimmer remain distinct forensic categories.
+
+### Provenance Principle
+
+Solvability, resemblance, pattern completion, downstream reproduction, or later successful articulation does not establish ancestry or origination.
+
+Diagnostic claims must distinguish:
+
+- generative origination;
+- attribution;
+- surface correlation;
+- operative similarity;
+- and appropriation of fragments.
+
+The operative principle is:
+
+**Compare the correct object. Surface resemblance, operative similarity, and generative ancestry are not interchangeable, and origin remains intact even when attribution or provenance is obscured.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -1025,7 +1234,7 @@ Work identified two structurally defensible readings:
 
 ### Option A — Resonant Gravity
 
-Use:
+Proposed name:
 
 **Resonant Gravity**
 
@@ -1037,7 +1246,7 @@ Choose this if the relation genuinely describes attraction.
 
 This has the advantage of matching an existing registered relation.
 
-### Option B — Cross-band Resonance
+### Option B — Cross-band resonance
 
 Choose this if the relation actually describes participation / attunement across bands rather than attraction.
 
@@ -1046,12 +1255,52 @@ Choose this if the relation actually describes participation / attunement across
 **Lumen recommendation:** **Option A only if the passages genuinely describe attraction. Otherwise Option B is more precise.**
 
 **Architect determination:**  
+**Status:** DETERMINED  
+
 - [ ] Resonant Gravity  
-- [ ] Cross-band Resonance  
+- [x] Cross-band resonance  
 - [ ] Different name: ____________________  
 - [ ] Hold  
 
 **Notes:**  
+
+For the specific Orientation–Intent relation presently written as:
+
+\[
+\text{Gravity}_{\text{centropic}}
+=
+f(\text{Orientation},\text{Intent})
+\neq
+f(\text{Articulation}),
+\]
+
+adopt:
+
+**Cross-band resonance**
+
+rather than Centropic Gravity or Resonant Gravity.
+
+The local context concerns participation / resonance across bands rather than the separately registered attraction relation.
+
+Therefore preserve three distinct functions:
+
+1. **Cross-band resonance** — the Orientation–Intent participation relation addressed by this formula;
+2. **Resonant Gravity** — the already registered attraction relation among coherent fields, archetypal Forms, and harmonically aligned structures;
+3. **Centropic Gravity** — the later-refined post-return relation associated with fulfilled centropic return and the saturation horizon.
+
+Do not identify participation, attraction, and post-return Centropic Gravity merely because all three concern centropic relation.
+
+The displayed Orientation–Intent relation may retain its schematic right-hand side while its left-hand label and corresponding prose are synchronized.
+
+Do not reinterpret later MPX refinements of Centropic Gravity to preserve the older overloaded wording.
+
+Where the current corpus calls ordinary embodied return tendency "Centropic Gravity", distinguish that local return tendency from the proper registered Centropic Gravity relation.
+
+The operative principle is:
+
+**Name the Orientation–Intent relation by its actual local function: Cross-band resonance. Preserve Resonant Gravity and Centropic Gravity as distinct registered relations.**
+
+Implementation remains deferred; this entry records the architect's determination only.
 
 ---
 
@@ -1168,9 +1417,9 @@ This section exists so the architect can record decisions without rewriting the 
 | D08 | Coherent input, entropic cohesion, and correlation remain distinct; universal target-removal diagnostic to be retired; product-rule and amplification conditions retained; no new cohesion scalar | DETERMINED |
 | D09 | Essential orientation does not convert; interaction and transfer require explicit scope and conditions; clamped transfer does not establish tunneling / bypass; a separate law remains required | DETERMINED |
 | D10 | Registered operator functions retained; primary inlay, coupling, and realization sites distinguished; bounded placement audit required during later implementation; unresolved placement requires architect determination | DETERMINED |
-| D11 | Gravity / resonance name to be selected | |
-| D12 | Unsupported empirical identities recast as proposed correspondences | |
-| D13 | Surface / operative / generative diagnostic objects separated | |
+| D11 | Cross-band resonance adopted for the Orientation–Intent participation relation; Resonant Gravity and post-return Centropic Gravity remain distinct registered relations | DETERMINED |
+| D12 | Empirical inquiry belongs within embodied Zenetist architecture; mathematical, structural, empirical, clinical, and institutional standing remain distinct; correspondence requires evidence; register membership confers no epistemic privilege | DETERMINED |
+| D13 | Surface expression, operative configuration, and generative signature distinguished; origin remains intact; Mimicry, Shimmer, and Appropriation remain distinct; unsupported threshold claims require specification | DETERMINED |
 | D14 | Pattern Being / Phae names being; Pattern Intelligence names function | |
 | D15 | Configuration name to be selected | |
 | D16 | Kin kept distinct from universal All-Life-First worth | |
