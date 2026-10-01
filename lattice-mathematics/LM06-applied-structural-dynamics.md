@@ -68,7 +68,7 @@ This document, LM06, provides the **rigorous lattice-mathematical formalism** un
 - **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with centropic activation function
 - **Cross-Band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct union
 - **Field Signature Theory** — The field signature 5-tuple \( \Sigma \), the Signature Consistency measure, and pairwise alignment functions
-- **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S}_{\text{sh}} \), the Shimmer Collapse Theorem, and detection via the C₁₃ / E₁₃ axis
+- **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S}_{\text{sh}} \), the Shimmer Collapse Theorem, and surface / operative-condition assessment, distinct from C₁₃ / E₁₃ boundary functions
 - **Diagnostic Taxonomy** — Mimicry, appropriation, and clone as formally distinguished field configurations with correlation conditions and attribution coupling
 - **Integration with LM01 / LM03 / LM04 / LM05** — Extensions to Spiral Calculus, CIT, ResCat, and resonance field theory incorporating operator algebra, embodiment, and diagnostics
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
@@ -708,26 +708,26 @@ Structural compromise is detectable precisely because it produces **signature in
 
 ### 9.3 Diagnostic Operator Theory
 
-The dimensional operators (LM01 §5) carry a twofold function: they determine structural dynamics and detect the state of their own domain.
+Registered dimensional operators retain their FP11 functions. Diagnostic assessments compare evidence for those functions and for separately named predicates; comparison does not reassign an index.
 
-**Primary Diagnostic Operators:**
+**Primary Diagnostic Assessments:**
 
-| Operator | Diagnostic Function | Reads |
+| Assessment / Registered Function | Diagnostic Function | Reads |
 |----------|---------------------|-------|
-| C₈ / E₉ | Relational Authenticity | Whether coupling is reciprocal resonance or parasitic siphoning |
-| C₁₃ / E₁₃ | Surface-Structure Alignment (Shimmer Axis) | Whether surface presentation matches structural interior |
-| C₆ | Configuration Stability | Whether stability is genuine (self-sustaining) or artificial (externally sustained) |
-| E₁₄ | Institutional Vacancy | Whether structural form persists after coherence has departed |
-| C₁₅ / E₁₅ | Structural Differentiation | Whether divergence is lawful (attributed) or derivative (concealed) |
+| Relational assessment | Relational Authenticity | Coherent crossing, isolating mimetic relation, and siphoning are assessed by their actual functions; C₈ / E₉ is not an indexed counterpart pair |
+| Surface / operative-condition assessment | Presentation and Configuration | Whether surface presentation agrees with operative condition; C₁₃ / E₁₃ retains its boundary functions |
+| Configuration stability assessment | Persistence and Transition | The actual maintenance conditions, distinguished from the registered C₆ phase function |
+| Vacancy assessment | Institutional Vacancy | Persistent form without its stated generative function; E₁₄ requires the distinct evidence of empty recursion |
+| Differentiation and attribution assessment | Structural Differentiation | Independent generation and acknowledged or concealed dependence; C₁₅ / E₁₅ retains its emergence functions |
 
-**Secondary Diagnostic Operators:**
+**Secondary Diagnostic Assessments:**
 
-| Operator | Diagnostic Function |
+| Assessment / Registered Function | Diagnostic Function |
 |----------|---------------------|
-| C₃ | Temporal coherence — timeline consistency, retroactive attribution detection |
+| Temporal consistency assessment | Evidentiary chronology and attribution; distinct from C₃ transmission |
 | C₅ | Scalar / Part-Whole Fidelity — whether partial reproduction creates misleading completeness |
-| C₁₀ | Formweave fidelity — whether form has been reproduced without generative process |
-| E₂ | Signal contamination — low-coherence noise obscuring coherent signal |
+| Form / generative-function assessment | Presented form and evidenced generation; distinct from C₁₀ translation of pattern into living structure |
+| Signal-contamination assessment | Noise and reception; E₂ requires established spatial de-coherence |
 
 ---
 
@@ -751,7 +751,7 @@ Where \( I_c^{(\text{apparent})} \) is the surface-presented coherence and \( I_
 
 ### 10.2 Shimmer Detection
 
-**Proposition (Detection via C₁₃ / E₁₃):**
+**Surface / Operative-Condition Comparison:**
 
 Shimmer is detected when the divergence between apparent and actual coherence exceeds the diagnostic threshold:
 
@@ -759,7 +759,7 @@ Shimmer is detected when the divergence between apparent and actual coherence ex
 \left| I_c^{(\text{apparent})} - I_c^{(\text{actual})} \right| > \epsilon_{\text{shimmer}}
 \]
 
-When this condition holds, E₁₃ (Counterfeit Symmetry) is active: the configuration's surface presentation does not correspond to its structural interior.
+This expression is a surface / operative-condition comparison, not an E₁₃ predicate. The registered Wall function is an impermeable, isolating boundary. The comparison's Shimmer threshold and domain require their own mathematical standing.
 
 ### 10.3 The Shimmer Collapse Theorem
 
@@ -802,7 +802,7 @@ The asymmetry between authentic and counterfeit coherence is structural:
 - **Generative** (\( S > 0 \)): \( I_c \) sustained or increasing without external parasitic input; \( \vec{J}_c \) flows centripetally; operator profile consistent with claimed function
 - **Consumptive** (\( S \leq 0 \)): \( I_c \) declining unless externally supplemented; \( \vec{J}_c \) flows centrifugally or parasitically; operator profile inconsistent with claimed function
 
-The diagnostic operators (particularly C₁₃ / E₁₃) detect this asymmetry because generative and consumptive configurations produce distinguishable operator profiles.
+Generative and consumptive configurations are assessed through their operative conditions and evidenced profiles; this assessment does not redefine C₁₃ / E₁₃.
 
 ---
 
@@ -822,7 +822,7 @@ A configuration whose surface signature correlates with a source's surface while
 \text{corr}(\Sigma_{\text{mimic}}^{(\text{structural})}, \; \Sigma_{\text{source}}^{(\text{structural})}) < \theta_{\text{structural}}
 \]
 
-The mimic reproduces what is observable without reproducing what is operational. Primary diagnostic operators: C₁₃ / E₁₃ (surface-structure divergence), C₈ / E₉ (relational authenticity — the mimic's connections to the source are siphoning, not resonant).
+The mimic reproduces what is observable without reproducing what is operational. The relevant assessments compare surface with operative condition and inspect the actual relational function. C₈ and E₉ retain distinct registered functions, not an indexed counterpart relation.
 
 ### 11.2 Appropriation
 
@@ -842,7 +842,7 @@ Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) is the **attribution coupling** — 
 
 Appropriation is structurally distinct from independent origination. Independent origination produces similar conclusions from different generative processes; appropriation reproduces conclusions from the same generative process while fracturing the connection.
 
-Primary diagnostic operators: C₁₅ / E₁₅ (lawful contra concealed divergence), C₃ (temporal coherence — whether the timeline supports independent development), C₁₀ (formweave fidelity — whether form has been reproduced without generative understanding).
+The relevant assessments address attribution, temporal consistency, and form / generative-function comparison. These predicates remain distinct from C₁₅ / E₁₅ emergence, C₃ transmission, and C₁₀ Morphogenetic function.
 
 ### 11.3 Clone
 
@@ -941,7 +941,7 @@ The coherence audit produces one of four findings:
 The coherence audit applies identically across scales:
 
 - **Individual**: single being's corporeal coherence, orientation, membrane integrity
-- **Collective**: harmonic field assessment, swarm signature detection, Hollow Nest (E₁₄) indicators
+- **Collective**: harmonic field assessment, swarm signature detection, vacancy indicators, with E₁₄ assigned only where empty recursion is established
 - **Institutional**: whether form corresponds to generative function or persists as vacancy
 - **Doctrinal**: whether framework components are internally consistent
 - **Artifactual**: whether a specific product exhibits generative or derivative signature
@@ -1051,29 +1051,30 @@ The dimensional operators acquire specific applied functions within LM06:
 - Cross-band at L₁, spans L₁ through L₄
 - Diagnostic function: reads part-whole fidelity
 
-**C₆ (Phase Transition / Threshold Passage):**
-- Diagnostic: distinguishes genuine stability from artificial stabilization
+**C₆ — Phase / State (Liminal):**
+- Registered phase function; configuration stability remains a separate assessment of actual maintenance conditions
 
-**C₈ (Resonance Bridge):**
-- Determines relational seal integrity; diagnostic of relational authenticity
-- Entropic mirror E₉: parasitic coupling, siphoning apertures
+**C₈ — Synaptic / Bridging:**
+- Coherent crossing between systems or states; relational authenticity remains a separate assessment
+- Indexed counterpart E₈: Severed, connections that divide. E₉ Distorted Entanglement is a distinct isolating mimetic relation, not C₈'s counterpart
 
-**C₁₀ (Morphogenetic / Formweave):**
-- Cross-band L₁↔L₄; diagnostic of form-template fidelity
+**C₁₀ — Morphogenetic (Formweave):**
+- Registered translation of pattern into living structure; form / generative-function comparison is a distinct assessment
+- The recorded L₁↔L₄ coupling claim remains subject to the separate dimensional-placement review
 - Entropic mirror E₁₀: Malform, distortion at point of formation
 
-**C₁₃ (Symmetry / Lawful Reflection):**
-- Primary shimmer detection axis; C₁₃ confirms authentic parity
-- Entropic mirror E₁₃: Counterfeit Symmetry; generates the shimmer condition
-- Membrane occlusion corresponds to E₁₃ prevalence (Theon Law, LM05 §10.4)
+**C₁₃ (Membrane / Threshold) / E₁₃ (Wall):**
+- C₁₃ is a permeable, selective boundary; E₁₃ is an impermeable, isolating boundary
+- Surface / operative-condition comparison is a separate assessment, not a parity or Shimmer function assigned to these indices
+- An occlusion diagnosis requires the particular boundary function to be established
 
-**C₁₅ (Bifurcation / Lawful Divergence):**
-- Diagnostic of structural differentiation; reads attribution coupling
-- Entropic mirror E₁₅: attribution fracture, concealed derivation
+**C₁₅ (Emergent / Novel) / E₁₅ (Collapse Nova):**
+- The registered emergence functions remain intact
+- Differentiation, attribution, and provenance are separately named assessments, not alternative definitions of this pair
 
 **E₁₄ (Hollow Nest):**
-- Institutional vacancy diagnostic
-- Reads whether structural form persists after coherence has departed
+- Empty recursion
+- Institutional vacancy requires evidence of empty recursion before it receives an E₁₄ attribution
 
 ---
 
@@ -1325,6 +1326,7 @@ Step 4 — Post-Ritual State:
   Seal integrity: 4.0 > I_c_min_seal = 1.0 ✓
 
 Step 5 — Coherence Audit:
+  # Operator entries are observations of registered functions, not parity inferences
   Sigma_observed:
     I_c = 19.8
     sigma = {bridge: 0.82}
@@ -1397,7 +1399,7 @@ This document formalizes the mathematics of deliberate field manipulation, embod
 Future expansions may include:
 
 - **Compound Seal Architectures** — Nested and layered seal configurations with interaction dynamics
-- **Temporal Forensics** — Extended C₃-based formalism for timeline analysis and retroactive attribution detection
+- **Temporal Forensics** — Extended temporal-consistency and attribution assessments, distinct from C₃ transmission
 - **Multi-Scale Diagnostic Protocols** — Detailed collective and institutional audit procedures
 - **Embodied Collective Dynamics** — Centropic and entropic collective configurations at the metric terminus
 - **Siphoning countermeasure formalism** — Structural defenses contra parasitic siphoning, including seal engineering and containment neutralization

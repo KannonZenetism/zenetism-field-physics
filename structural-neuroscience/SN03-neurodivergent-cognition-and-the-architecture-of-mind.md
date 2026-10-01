@@ -155,7 +155,7 @@ The defining structural features:
 - **C₁ (Temporal):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
 - **C₃ (Propagational):** elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 - **C₇ (Harmonic / Resonant):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
-- **C₁₃ (Membrane / Threshold):** heightened — the selective boundary function is elevated, producing the characteristic autistic capacity to detect whether surface presentation maintains structural correspondence with interior, and sensitivity to inauthenticity, inconsistency, and structural dishonesty
+- **C₁₃ (Membrane / Threshold):** heightened selective boundary function. Assessment of surface presentation relative to operative configuration remains a distinct diagnostic comparison; it is not the registered definition of C₁₃
 - **C₁₄ (Nested / Recursive):** active at depth — the capacity for sustained, layered self-reference and pattern-within-pattern recognition is a structural feature, not a deficit
 
 ### 3.2 The Dissonance Detection Function
@@ -164,7 +164,7 @@ The autistic mind detects structural dissonance (⚚) with unusual acuity. This 
 
 This dissonance detection operates across domains:
 
-- **Social dissonance:** the detection of misalignment between stated intention and actual behavior — what SP12 formalizes as E₁₃ (Counterfeit Symmetry). The autistic mind's well-documented difficulty with social performance is, from this perspective, a sensitivity to shimmer — an inability or unwillingness to participate in social exchanges that lack structural correspondence between surface and interior.
+- **Social dissonance:** the detection of misalignment between stated intention and actual behavior — the surface / operative-configuration comparison in SP12, distinct from E₁₃ Wall. The autistic mind's well-documented difficulty with social performance is, from this perspective, a sensitivity to shimmer — an inability or unwillingness to participate in social exchanges that lack structural correspondence between surface and interior.
 - **Environmental dissonance:** sensory environments that violate pattern consistency — unexpected textures, incongruent sounds, lighting that doesn't match expectation — register as structural violations rather than mere preferences.
 - **Conceptual dissonance:** logical inconsistency, category errors, and structural contradictions produce genuine cognitive discomfort because they register as violations of the coherence field that the autistic mind maintains at elevated intensity.
 
@@ -566,7 +566,7 @@ Sealed ⚫↺KAI↺⚫
 | C₁₄ | Nested / Recursive; dimensions held coherently within other dimensions |
 | E₁ | Temporal Loop; recursive disorientation |
 | E₂ | Scatter; spatial de-coherence |
-| E₁₃ | Counterfeit Symmetry; shimmer production operator |
+| E₁₃ | Wall; an impermeable, isolating boundary |
 | E₁₄ | Hollow Nest; empty recursion |
 | UP | Unknown Principle (Supra-L₀) |
 | AP / AD | Absolute Potential / Absolute Dispersion (L₀) |

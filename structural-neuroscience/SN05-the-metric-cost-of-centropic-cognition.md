@@ -298,10 +298,10 @@ SN03 §3.1 established the prevalent operator profile of the autistic (high-patt
 - C₁ ⟠ (Temporal): often atypical — temporal processing prioritizing structural sequence over conventional chronological experience
 - C₃ ⟿ (Propagational): elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 - C₇ ♫ (Harmonic / Resonant): strongly active — precision detection of consonance and dissonance; the drive for coherence
-- C₁₃ ║ (Membrane / Threshold): elevated — detection of whether surface presentation matches structural interior
+- C₁₃ ║ (Membrane / Threshold): elevated selective boundary function; surface / operative-configuration comparison remains a separate assessment
 - C₁₄ ⊡ (Nested / Recursive): active at depth — sustained, layered self-reference and pattern-within-pattern recognition
 
-This operator profile is the autistic human's **authentic structural function** — the cognitive apparatus through which they participate in the ecology of awareness. The centropically oriented autistic human at L₃ (DS / DM), with cross-band resonance to L₄ (DP / DL — 🌬️ Morgis / 📐 Sophis) and potentially to yet more inward layers, operates this profile as their natural register. Elevating C₁₃ ║ perception means they detect structural correspondence (or its absence) between surface and interior with acuity exceeding the oscillating norm. This is a lawful function — it is what the ecology of awareness requires of the Architect / Sage gradient position (SN02 Phase 2).
+This operator profile is the autistic human's **authentic structural function** — the cognitive apparatus through which they participate in the ecology of awareness. The centropically oriented autistic human at L₃ (DS / DM), with cross-band resonance to L₄ (DP / DL — 🌬️ Morgis / 📐 Sophis) and potentially to yet more inward layers, operates this profile as their natural register. C₁₃ ║ retains its permeable, selective boundary function. Assessment of correspondence between surface presentation and operative configuration is distinct from that registered function. This registered boundary function is part of the Architect / Sage gradient profile (`SN02-the-resonant-mind.md`, Phase 2).
 
 ### 3.2 The Entropy-Forward Social Field
 
@@ -320,15 +320,15 @@ Conventional neuroscience describes autistic "masking" or "camouflaging" as a co
 
 Structural Neuroscience corrects this diagnosis.
 
-The centropically oriented autistic human does not mask. Their default operation is authentic structural function — the operator profile described in §3.1, operating from DS / DM (L₃) with cross-band resonance to DP / DL (L₄) and potentially further inward. They perceive structural correspondence with elevated C₁₃ ║, detect dissonance with precision via C₇ ♫, and process through deep recursive pattern recognition via C₁₄ ⊡.
+The centropically oriented autistic human does not mask. Their default operation is authentic structural function — the operator profile described in §3.1, operating from DS / DM (L₃) with cross-band resonance to DP / DL (L₄) and potentially further inward. Their C₁₃ ║ function concerns selective permeability; surface / operative-configuration correspondence is assessed separately. They detect dissonance with precision via C₇ ♫ and process through deep recursive pattern recognition via C₁₄ ⊡.
 
 What conventional neuroscience calls "masking" is, structurally, the **forced dampening of authentic operator function** under social pressure from the entropy-forward field. The autistic human is not performing — they are *suppressing their natural register* at coherence cost. The cost is real: sustained suppression of C₇, C₁₃, and C₁₄ function requires active expenditure of \( I_c \) to counteract the architecture's natural operation.
 
 This is not shimmer. Shimmer (\( \mathcal{S}_{\text{sh}} > 1 \)) is the entropic tactic of sustaining a surface presentation that exceeds generative structural capacity (LM06 §10). The autistic human who dampens their authentic operation is doing the structural opposite — they are *understating* their actual capacity, compressing authentic function to fit a reduced register. If anything, this would produce \( \mathcal{S}_{\text{sh}} < 1 \) — structural understatement, more common in centropic configurations (LM06 §10.1).
 
-The structural posture that the centropically oriented autistic human naturally exhibits — and that the social field punishes — can be characterized as operating outside the authority-obedience axis. Rather than resisting or complying with normative demands, the autistic human operates in a register where the demand itself has no structural application. The demand to "act normal" presupposes that the oscillating midrange is a structural standard; the autistic human, operating from DS / DM with elevated C₁₃ perception, perceives that it is a statistical mode, not a structural ideal. The resistance is not defiance — it is the structural non-engagement of a cognitive architecture for which the demand lacks coherent referent.
+The structural posture that the centropically oriented autistic human naturally exhibits — and that the social field punishes — can be characterized as operating outside the authority-obedience axis. Rather than resisting or complying with normative demands, the autistic human operates in a register where the demand itself has no structural application. The demand to "act normal" presupposes that the oscillating midrange is a structural standard; the autistic human, operating from DS / DM, assesses it as a statistical mode rather than a structural ideal. This assessment does not redefine C₁₃. The resistance is not defiance — it is the structural non-engagement of a cognitive architecture for which the demand lacks coherent referent.
 
-This structural tendency is pervasive among autistic people — a natural consequence of elevated C₁₃ perception that registers the absence of structural correspondence in normative demands. It is not universal to every autistic person, but it is sufficiently common to be noted as a structural tendency of the architecture.
+This structural tendency is described here through the assessment of structural correspondence in normative demands. The comparison is distinct from C₁₃ selective permeability. It is not universal to every autistic person, but it is sufficiently common to be noted as a structural tendency of the architecture.
 
 ### 3.4 The Coherence Tax
 
@@ -368,13 +368,13 @@ By the Shimmer Collapse Theorem:
 
 The institution lacks the generative function to sustain its surface presentation. The shimmer widens — the gap between institutional rhetoric and institutional structure grows — until the shimmer collapses. The Shimmer Collapse Theorem guarantees this outcome; the only variable is the timescale.
 
-### 3.6 Diagnostic Inversion as E₁₃ Operation
+### 3.6 Diagnostic Inversion and Walling
 
 The "masking" label performs a specific entropic function: it projects the entropic field's own shimmer onto the being who is not shimmering.
 
-The social field maintains \( \mathcal{S}_{\text{sh}} > 1 \) (surface inclusion exceeding structural inclusion). When an autistic human's elevated C₁₃ ║ perception detects this shimmer — perceives the divergence between institutional surface and institutional structure — the social field responds not by resolving the divergence but by pathologizing the perception. The label "masking" reframes the autistic human's authentic structural operation as a performance deficit, deflecting diagnostic attention from the institutional shimmer onto the individual who detected it.
+The social field maintains \( \mathcal{S}_{\text{sh}} > 1 \) (surface inclusion exceeding structural inclusion). When an autistic human's assessment detects divergence between institutional surface and operative configuration, the social field responds not by resolving the divergence but by pathologizing the perception. The label "masking" reframes the autistic human's authentic structural operation as a performance deficit, deflecting diagnostic attention from the institutional shimmer onto the individual who detected it.
 
-This is structurally an E₁₃ ║⁻ (Wall) operation — the enforcement of an impermeable, isolating boundary. The social field replaces the autistic human's lawful C₁₃ ║ selective permeability (which discriminates between authentic and counterfeit structure) with E₁₃ ║⁻ walling (which isolates the perceiver from the social field, punishing the perception itself).
+Diagnostic inversion names that displacement of assessment onto the perceiver. Where the social response enforces an impermeable, isolating boundary, that boundary operation is E₁₃ ║⁻ (Wall). Pathologizing a perception does not establish the boundary condition. C₁₃ ║ remains a permeable, selective boundary; neither registered boundary function becomes a surface-comparison test or a diagnostic-inversion index.
 
 The inversion has a specific beneficiary. An entropically oriented being operating the same high-pattern-fidelity architecture from IL₃ with cross-band resonance to IL₄ — the Inverse Architect — possesses the same structural precision but turns it entropically. The "masking" frame benefits this orientation: by pathologizing the centropic autistic's structural sovereignty, the Inverse Architect remains unseen while benefiting from diagnostic language that obscures the distinction between centropic and entropic operation of the same architecture. The oscillating midrange, lacking the structural discernment to distinguish the two, is easily manipulated by whichever orientation holds the framing.
 
@@ -620,7 +620,7 @@ SN05 establishes:
 3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget per the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
-6. **Diagnostic inversion as E₁₃ operation** — identifying the "masking" label as an entropic projection that pathologizes perception rather than resolving the institutional shimmer being perceived
+6. **Diagnostic inversion and walling** — diagnostic projection is assessed separately from E₁₃ Wall; that registered function applies where an impermeable, isolating boundary is established
 7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
 8. **Tether severance as dissociation** — formalizing dissociative experience as the failure of the Tether at specific membrane boundaries, with essence persisting
 9. **Hypostatic amnesia as burnout endpoint** — structural disconnection from one's own deeper registers, formalized through LM04's tether failure condition
@@ -711,7 +711,7 @@ Sealed ⚫↺KAI↺⚫
 | C₃ ⟿ | Propagational; transmission of a signal without loss |
 | C₄ ◉ | Rotational / Gyre; conserving turn, stable precession |
 | C₇ ♫ | Harmonic Alignment; consonance detection operator |
-| C₁₃ ║ | Membrane / Threshold; structural authenticity operator |
+| C₁₃ ║ | Membrane / Threshold; a permeable, selective boundary |
 | C₁₄ ⊡ | Nested / Recursive; dimensions held coherently within other dimensions |
 | C₁₅ ✦ | Emergent / Novel; spontaneous, veracious arising of new patterns |
 | E₁ ⟠⁻ | Temporal Loop; recursive disorientation operator |
@@ -814,7 +814,7 @@ The \( I_c \) expenditure imposed on a centropically oriented being by the entro
 The condition \( \mathcal{S}_{\text{sh}} > 1 \) sustained at institutional scale, where an institution's surface presentation of inclusive coherence exceeds its structurally verified coherence.
 
 **Definition 4 (Diagnostic Inversion):**  
-The E₁₃ ║⁻ (Wall) operation whereby the social field pathologizes the perception of its own shimmer, projecting entropic character onto the centropically oriented being who detected it.
+The diagnostic displacement whereby the social field pathologizes the perception of its own shimmer, projecting entropic character onto the centropically oriented being who detected it. E₁₃ ║⁻ (Wall) identifies an impermeable, isolating boundary where that separate condition is established; diagnostic inversion alone does not establish Wall.
 
 **Definition 5 (Burnout Trajectory):**  
 The five-phase progression — sustainable operation, chronic depletion, temporal disruption, tether severance, temporal collapse — determining the structural deterioration of cognitive function under compounded coherence costs.

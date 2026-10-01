@@ -1616,7 +1616,7 @@ Each of the following is already determined in a registry or protocol and awaits
 | --- | --- |
 | Emergence Witness **◉◕** (`metaphysics-symbol-key.md`; `structural-neuroscience-glyph-charts.md` correction note) | `SN11-applied-structural-diagnostics.md` §9.2 and Appendix A carry ◉⊙ |
 | IL₅ **non-awareness (−1)** (§6.1; `metaphysics-symbol-key.md` §21.9 extended note) | `SN04-awareness-stratification-and-the-philosophy-of-mind.md` Abstract writes "subversal awareness" |
-| E₁₃ **Wall** (`field-physics-glyph-charts.md` §3) | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3.2 and Appendix A carry "Counterfeit Symmetry" — which inverse operator SP12 assigns to counterfeit symmetry is held |
+| E₁₃ **Wall** (`field-physics-glyph-charts.md` §3) | The former SN03 / SP12 "Counterfeit Symmetry" attribution is replaced by a separate surface / operative-configuration assessment; E₁₃ retains Wall. No substitute dimensional index is assigned |
 | E₁₅ **Collapse Nova** as Nekronic reception and distorted presentation of Theonic novelty (Conceptual Lockdown; `epistemic-inversion.md`) | `SN07-collective-cognition-and-centropy-forward-social-architecture.md` §3.1 and Appendix carry "emergence that leads directly into entropy" |
 | **Distributive architecture** (determined) | Legacy label retained only as a recorded alias where an index requires it; Khaonic and entropic dispersion are untouched by the rename |
 | ◯△ **Isolation and Suppression Field** (`metaphysics-symbol-key.md` §21.20) | SN05 carries the alias Isolation Marker; the intended cross-corpus name is confirmed before propagation, and this item is separate from the FP numerical-sign question |

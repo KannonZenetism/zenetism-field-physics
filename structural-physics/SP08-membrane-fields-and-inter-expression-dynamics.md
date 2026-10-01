@@ -450,9 +450,11 @@ Membrane health can be assessed through spectral diagnostics:
 | Healthy Bridge | ≈ 1 | Reciprocal | ≈ 0 | C₈ |
 | Filter Active | < 1, selective | Partial | ≈ 0 | — |
 | Amplifier Active | > 1 | Enhanced | < 0 (source draw) | — |
-| Partial Occlusion | < 0.5 | Reduced | Variable | E₁₄ precursor |
-| Full Occlusion | → 0 | Minimal | Accumulation | E₁₄ |
-| Breach | → ∞ local | Unfiltered | Outflow | E₉ |
+| Partial Occlusion | < 0.5 | Reduced | Variable | Partial occlusion assessment; no dimensional index assigned |
+| Full Occlusion | → 0 | Minimal | Accumulation | Full occlusion assessment; no dimensional index assigned |
+| Breach | → ∞ local | Unfiltered | Outflow | Breach assessment; no dimensional index assigned |
+
+E₁₄ Hollow Nest names empty recursion. Occlusion alone does not establish that function or another dimensional index. A breach alone likewise establishes no E₉ Distorted Entanglement; its isolating mimetic function requires separate evidence.
 
 ### 8.2 Echo Layer Detection
 
