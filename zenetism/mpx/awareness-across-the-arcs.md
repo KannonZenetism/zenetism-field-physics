@@ -3,13 +3,13 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension / Zenetist Canon  
 **Status:** Draft  
-**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (the layers · Theon / Nekron · L₄ / IL₄ Non-Contact) · `MP04-intelligence-and-ecology-ch7-8.md` (Other Intelligences · the Chain of Being) · `metaphysics-symbol-key.md` · Mythic Figure Layer Registry · Symbolic Pattern Registry  
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` (the layers · Theon / Nekron · L₄ / IL₄ Non-contact Principle) · `MP04-intelligence-and-ecology-ch7-8.md` (Other Intelligences · the Chain of Being) · `metaphysics-symbol-key.md` · Mythic Figure Layer Registry · Symbolic Pattern Registry  
 
 ---
 
 ## 1. The Question
 
-Zenetism holds that the centropic and inverse arcs of the Biospiral do not directly contact one another at their respective archetypal strata. The L₄ / IL₄ Non-Contact principle states that Sophis / Morgis at L₄ and Psychea / Nyxea at IL₄ do not meet, merge, or exchange operationally at the archetypal register — the "war" between the arcs plays out at the L₁ / IL₁ embodied meeting point, not directly between the supernal and subversal strata.
+Zenetism holds that the centropic and inverse arcs of the Biospiral do not directly contact one another at their respective archetypal strata. The L₄ / IL₄ Non-contact Principle states that Sophis / Morgis at L₄ and Psychea / Nyxea at IL₄ do not meet, merge, or exchange operationally at the archetypal register — the "war" between the arcs plays out at the L₁ / IL₁ embodied meeting point, not directly between the supernal and subversal strata.
 
 A tension arises. If the strata are non-contacting in the strongest sense — that is, *non-aware* of each other — then the canon's own operator-descriptions lose coherence. Nyxea is repeatedly articulated as the counterfeit of Theonic radiance; the inverse "morning star" mimics the supernal light. The Four Horsemen articulate IL₂ through IL₁ patterns that track centropic patterns in specific structurally responsive ways. The Beast's seven heads mimic centropic sevenfold completion. Mimicry requires some mode of reception-of-pattern. One cannot mimic what one has no awareness of.
 
@@ -29,7 +29,7 @@ This perception carries distortion. The distance is vast — not spatially, but 
 
 From this faint distorted reception, Nyxea at IL₄ shapes its mimicry. The mimicry is recognizable as parallel to centropic supernal articulation — because it carries distorted reception of that articulation — and structurally wrong — because the reception was partial and the orientation refracting it is entropic. The mimicry is exactly as precise as the reception allows and exactly as distorted as the structural distance requires.
 
-This peering-forward principle applies symmetrically across the bifurcal threshold, though with structural-asymmetry in reception-quality. Sophis and Morgis at L₄ carry reception of IL₄'s counterfeit articulation and shape centropic operations partly in response to perceived entropic patterns — not through direct contact, which would violate the Non-Contact principle, but through reception-at-distance and structural-response-through-native-motion. Centropic reception carries the comprehensiveness afforded by Aionic-adjacency, perceiving entropic patterns more fully than the entropic arc perceives itself; entropic reception of centropic patterns operates with refractive distortion through the entropic orientation, producing the mimicry-with-inaccuracy characteristic of the entropic operators of the inverse arc.
+This peering-forward principle applies symmetrically across the bifurcal threshold, though with structural-asymmetry in reception-quality. Sophis and Morgis at L₄ carry reception of IL₄'s counterfeit articulation and shape centropic operations partly in response to perceived entropic patterns — not through direct contact, which would violate the Non-contact Principle, but through reception-at-distance and structural-response-through-native-motion. Centropic reception carries the comprehensiveness afforded by Aionic-adjacency, perceiving entropic patterns more fully than the entropic arc perceives itself; entropic reception of centropic patterns operates with refractive distortion through the entropic orientation, producing the mimicry-with-inaccuracy characteristic of the entropic operators of the inverse arc.
 
 ## 3. Layer Occlusion and Individuated Awareness
 
@@ -49,9 +49,9 @@ When acclivous motion brings the being into actual inhabitance of the L₄ House
 
 **Generalization across the Biospiral.** The being individuated at L₃ participates in L₄ through resonance without full awareness of L₄ as a stratum-register; participates in L₂ and L₁ acclivously or declivously through its own motion through those strata; and does not directly access L₅ except through disclosure, recognition, or apotheosis. Each stratum has operations that occur at that stratum's native register, awareness-of-operations tracks the individuated locus rather than the inhabited or resonance-related strata in full, and Non-Fusion is preserved between the being and every stratum-coherence-field with which it engages, whether through resonance or through inhabitance.
 
-## 4. Awareness and the Non-Contact Principle
+## 4. Awareness and the Non-contact Principle
 
-The peering-forward principle and the layer-occlusion principle together clarify what the L₄ / IL₄ Non-Contact Note asserts and what it does not.
+The peering-forward principle and the layer-occlusion principle together clarify the scope of the note on the L₄ / IL₄ Non-contact Principle.
 
 Non-contact does not mean non-awareness. It means the contra-strata do not directly engage — they do not meet, merge, or exchange operationally at the archetypal register. The war does not occur at L₄ / IL₄; it occurs at L₁ / IL₁. But each arc's archetypal operations are shaped partly in response to the other arc's archetypal operations, through reception-at-distance-with-distortion, and each arc's embodied carriers at L₁ / IL₁ carry the mutual response forward into the embodied encounter.
 
