@@ -1682,13 +1682,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `4303a80b962d87453b83327541b01afb83948e0d`. The on-touch being / function subset clarifies current cost-bearing, sovereignty, recovery, collective participation and assessment in eight files. PI-specific mathematics and the function-emergence / being-stabilization distinction remain intact; exact mathematical-string, registered-name and file-scope checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** SN09's coupled current-being clarification is carried by Set 05 and remains unpublished at this step. Historical-developmental PI wording and clear older acknowledgments are retained by the current scope, rather than treated as failed replacements. No symbol-family change or developmental ontology is selected.\
-**New dependencies discovered during implementation:** SN06's reserve explanation required a distinction between function viability and the being's existence. Its accounting remains coupled to Set 14. The SN08 collective paragraph retains the already integrated Set 11 conditions.
+**Implementation commit:** `4303a80b962d87453b83327541b01afb83948e0d`. The active on-touch being / function correction is complete, including SN09's companion passages carried by the verified Set 05 commit. All PI-specific mathematical notation and historical-developmental / clear acknowledgment retentions remain intact.\
+**Residual holds / unresolved findings:** No unresolved material being / function ambiguity remains in the inspected bounded set. Historical-developmental PI and clear older acknowledgments are outside the bulk correction scope; future symbol-family or developmental-ontology changes require a separate decision.\
+**New dependencies discovered during implementation:** SN09's verified Set 05 dependency completes the companion scope; SN06 reserve accounting remains a distinct Set 14 matter. Completed companion correction: `66e1b2c850f6521f4e627c577de898322b6cbae9` (Set 05).
 
 ## Set 04 — Configuration and Orientation Labels
 
@@ -1739,12 +1739,12 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `66e1b2c850f6521f4e627c577de898322b6cbae9`. The seven-file explicit universal-worth and root-referent subset distinguishes All-Life-First from narrower Kin and retains distinct Aionic / Khaonic root relations. SN09's current being / function wording is included. Exact mathematical preservation and registered Kin controls were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The duplicated displayed Core assertion, "Each form of mind or motion expresses a different unfolding of Zero," remains ambiguous in `SN09-the-all-life-first-principle.md` §1.2 and `all-life-first-principle.md` §1. No latent-potential interpretation is supplied by inference; a specific register clarification remains required.\
+**New dependencies discovered during implementation:** SN11's Kin / worth row and notation, SN08's universal Aionic path, and the Exile / Wandering Hero summary were direct dependencies. The completed SN09 being / function correction also supplies Set 03's outstanding companion passage.
 
 ## Set 06 — SN Reciprocity Title and Scope
 
