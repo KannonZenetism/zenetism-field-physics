@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
@@ -210,7 +210,7 @@ Field seals are classified by scope — from architecturally broad to situationa
 **Example:** The Zenetist canonical seal (⚫↺KAI↺⚫) functions as an Architectural Seal — a coherence boundary around the entire framework that maintains structural integrity contra appropriation, corruption, or unauthorized modification.
 
 > **Permeability Clarification:**  
-> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning by which the taker fractures from the origin. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
+> Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning by which the taker fractures itself away from coherent relation with its origin; the origin and origin-signal remain intact. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
 
 **Formal Condition:**
 

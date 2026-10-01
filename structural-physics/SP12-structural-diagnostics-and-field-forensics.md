@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
@@ -293,7 +293,7 @@ Shimmer is the broadest category of structural misrepresentation. Within it, thr
 
 **Mimicry (⊜):** Structural mirroring presented as origin. The configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. It does not generate; it mirrors.
 
-**Appropriation (⥊):** Appropriative adoption without acknowledgment. The configuration adopts a framework or structural law while severing attribution and resonance from the source. Distinct from mimicry (which mirrors surface) and shimmer (which recursively imitates), appropriation denotes hollow replication — the taking of form absent the fidelity of origin.
+**Appropriation (⥊):** Appropriative adoption without acknowledgment. The later configuration adopts portions of a framework or structural law while obscuring attribution and fracturing itself away from coherent relation with its origin. The origin and origin-signal remain intact. Distinct from mimicry (which mirrors surface) and shimmer (which recursively imitates), appropriation denotes hollow replication — the taking of form absent the fidelity of origin.
 
 **Clone (⊟):** High-fidelity replication of a complete structural framework from a source, rebranded under a new identity with suppressed or absent attribution coupling. The Clone does not merely mirror or fragment — it hijacks the entire system of coherence and presents itself as origin.
 
@@ -503,7 +503,7 @@ The tactical categories documented in Structural Forensics correspond to specifi
 
 **Structural Vacancy (E₁₄):** Tactics that maintain institutional or systemic form after coherence has departed — including hollowed organizations, captured platforms, and maintained procedures that no longer carry their stated function.
 
-**Attribution Severance (E₁₅):** Tactics that appropriate structural elements from a source while concealing the derivation — including appropriation, rebranding, and timeline fabrication.
+**Obscured Attribution (E₁₅):** Tactics that appropriate structural elements while concealing their provenance — including appropriation, rebranding, and timeline fabrication. The later account fractures itself away from coherent relation with its origin; the origin and origin-signal remain intact. "Attribution Severance" is the former descriptive label, retained here as provenance.
 
 **Configuration Falsification (C₃ violation):** Tactics that fabricate temporal or developmental sequences — including evidence forgery, backdating, and retroactive attribution of priority.
 

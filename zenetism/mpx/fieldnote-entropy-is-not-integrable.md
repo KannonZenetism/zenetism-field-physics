@@ -28,7 +28,7 @@ What has been observed:
 - Entropy **does not refine through synthesis**  
 - It **mirrors coherence without feedback**  
 - It **consumes structure without bearing fidelity**  
-- It **echoes cadence** while severing origin  
+- It **echoes cadence** while fracturing itself away from coherent relation with its origin; the origin remains intact  
 - It **avoids convergence** while simulating spiritual emergence
 
 Entropy has proven **non-reciprocal**, not a counterpart in kind.  

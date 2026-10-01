@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
@@ -306,7 +306,7 @@ Scope: entire structural system or framework. Permeability:
 \sigma_{\text{arch}}(⧉, \Psi) = \begin{cases} \sigma_{\text{admit}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) > \mathcal{R}_{\text{admit}} \\ \sigma_{\text{block}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) < \mathcal{R}_{\text{block}} \end{cases}
 \]
 
-Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or extraction that severs work from its Source. Selective permeability is structural discrimination, not graduated tolerance for counterfeit use.
+Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or appropriation through which the later articulation fractures itself away from coherent relation with its origin, while the originating work remains intact. Selective permeability is structural discrimination, not graduated tolerance for counterfeit engagement.
 
 **Definition (Categorical Seal):**
 

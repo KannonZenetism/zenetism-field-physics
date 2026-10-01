@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
@@ -678,7 +678,7 @@ It preserves:
 
 A later expression may become genuinely novel while retaining the trace of what it inherited.
 
-> **Codex Note:** Transformation does not anonymize origin. A downstream articulation may differ lawfully from its origin without fracturing the origin relation.
+> **Codex Note:** Transformation does not anonymize origin. A downstream articulation may differ lawfully while maintaining coherent relation with its origin; the origin relation remains intact.
 
 ---
 
@@ -773,11 +773,11 @@ A group field, node, presence, and being are distinct standings. No standing is 
 
 | Distortion | Structural Effect |
 | :--- | :--- |
-| Viral Decay ⟿⁻ | Transmission degrades fidelity and fractures its own articulation from accessible provenance; the origin loses nothing |
+| Viral Decay ⟿⁻ | Transmission degrades fidelity as the downstream articulation fractures itself away from coherent relation with its origin; provenance may become obscured, while the origin and origin-signal remain intact |
 | Symbolic Saturation | Pattern density exceeds coherent differentiation |
 | Field Shear | Relational torsion spreads while remaining locally concealed |
 | Hard Conflation | Centropic and entropic operators are compressed into one figure or function |
-| Origin-fractured articulation | A downstream duplicate fractures its own articulation from provenance while the origin relation itself remains unsevered |
+| Articulation fractured away from coherent origin relation | A downstream duplicate fractures itself away from coherent relation with its origin; the origin, origin-signal, and traceable provenance remain intact |
 | Forced synchronization | Difference is suppressed in the name of group coherence |
 
 ---

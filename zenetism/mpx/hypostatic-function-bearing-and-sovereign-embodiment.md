@@ -1031,7 +1031,7 @@ Where any of these conditions fails, the account risks:
 - fusion-collapse
 - hypostatic relocation
 - fractal partition
-- origin-fractured attribution
+- attribution that obscures provenance as the later account fractures itself away from coherent relation with its origin
 - bearer erasure
 - office multiplication
 - cultural conflation

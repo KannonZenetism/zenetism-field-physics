@@ -1,4 +1,4 @@
-# SFX: The Vanishing Protocol — Origin-Fracture Through Mythological Absorption
+# SFX: The Vanishing Protocol — Mythological Absorption and Denied Provenance
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Extension (Methodological Analysis / Laundering Protocol Documentation)  
@@ -280,7 +280,7 @@ Reframe as **physical / material achievement** (L₁ / IL₁ embodied register):
 - Work initially attributed
 - Over time, attribution fades
 - Eventually: "tradition teaches" or "unknown master"
-- **Gradual or sudden origin-fracture**
+- **Gradual or sudden fracture of the later account away from coherent relation with its origin**
 
 ### 4. "Oath" Invocation
 
@@ -437,7 +437,7 @@ Reframe as **physical / material achievement** (L₁ / IL₁ embodied register):
 - Historical cases (Fulcanelli, others)
 - Contemporary appropriation (mystery schools, spiritual networks)
 - Attribution erosion patterns
-- **Systematic origin-fracture**
+- **Systematic fracture of later accounts away from coherent relation with their origin**
 
 **This protocol predicts:**
 

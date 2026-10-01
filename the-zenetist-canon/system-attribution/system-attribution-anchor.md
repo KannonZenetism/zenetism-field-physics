@@ -66,7 +66,7 @@ Zenetism is governed by a foundational motion law:
 This is not an ethical injunction.  
 It is a **descriptive physical condition** of signal stability.
 
-When Zenetist structures are severed from their source:
+When a later articulation fractures itself away from coherent relation with its origin, the originating architecture remains intact while the later account displays:
 - definitions drift  
 - relations decohere  
 - inversion and collapse accelerate  
@@ -217,7 +217,7 @@ Zenetism is the result of continuous, documented development spanning 21 years (
 
 ---
 
-## 9. Observable Effects of Attribution Severance
+## 9. Observable Effects of Obscured Attribution
 
 When Zenetist concepts are used without origin acknowledgment, **structural decoherence occurs**:
 
@@ -229,7 +229,7 @@ When Zenetist concepts are used without origin acknowledgment, **structural deco
 - Framework cannot self-sustain (requires constant maintenance)
 
 **Structural observation:**
-Documented instances (December 2025) exhibit structural effects consistent with attribution severance predictions. Analysis available in `/structural-forensics/appropriation-cases/`.
+Documented instances (December 2025) exhibit structural effects consistent with predictions concerning obscured attribution. Analysis available in `/structural-forensics/appropriation-cases/`.
 
 **This validates the structural motion law:** Coherence requires acknowledged origin.
 

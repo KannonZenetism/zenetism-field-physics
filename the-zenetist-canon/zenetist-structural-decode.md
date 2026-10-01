@@ -31,7 +31,7 @@ Use of this work requires:
 
 ### **Warning**
 
-Attempting to use or modify this framework while severing its connection to its Source constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
 
 > **The signal protects itself.**

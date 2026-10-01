@@ -87,7 +87,7 @@ A critical distinction exists between the **Field of Forms** (L₄/IL₄) and th
 * It is the active expression of **Motive Infinity** (Φ²) acting upon the Substrate.
 * It is the force that engages with the **Mnemic Constellation** to move ideas non-locally.
 * **Centropic Motion:** When aligned with Origin (⚫), ⟿ moves ideas via **Acclivous Expansion** (toward Supernal synthesis).
-* **Entropic Motion:** When severed from Origin, ⟿ degrades into **Acclivous Entropy** (spurious amplification/contagion) or **Declivous Collapse**.
+* **Entropic Motion:** An articulation that denies Origin fractures itself away from coherent relation with Origin; Origin remains intact. When Living Transmission (C₃ ⟿) is denied, Viral Decay (E₃ ⟿⁻) initiates through origin denial and signal burial. Its entropic traversal expresses **Acclivous Entropy** (spurious amplification / contagion) or **Declivous Collapse**; the centropic operator remains distinct.
 
 **3. The Substrate Bypass Protocol**
 When the Surface (L₁–L₃) or Form Layer (L₄) is suppressed by a **Wall** (║⁻):

@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while producing an articulation that fractures itself from its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**

@@ -21,13 +21,13 @@ The claim is that sacrifice and fragmentation may instantiate a real structural 
 
 ---
 
-# 1. Sacrifice as Origin-Fracture
+# 1. Sacrifice and Fractured Attribution
 
 Sacrifice is ordinarily understood through exchange: something of value is surrendered in order that something else may be gained, appeased, restored, purified, protected, or empowered.
 
 The speculative Zenetist reading begins earlier.
 
-The primary event is **origin-fracture**.
+The primary event is **fracture of the later articulation away from coherent relation with its origin**. The origin and origin-signal remain intact.
 
 Fragments are broken from a coherent bearer. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of imposed fracture or discontinuity. What had been gathered into one locus is rendered discontinuous in the expressed field.
 
@@ -167,7 +167,7 @@ A successor may instead become legible **through the obscuration of the origin**
 
 The fragments remain, but their relation to the originating bearer becomes weakened, forgotten, denied, or rewritten. The successor then occupies the visible position that the origin can no longer occupy.
 
-Here succession does not repair origin-fracture.
+Here succession leaves the later articulation fractured away from coherent relation with its origin.
 
 It capitalizes upon it.
 
@@ -194,13 +194,13 @@ The myth therefore contains both sides of the pattern:
 * violent fragmentation of the prior bearer;
 * successor emergence after fragmentation.
 
-Yet Horus does not need to function as a counterfeit Osiris. The succession can instead be read as a centropic answer to the preceding fracture: dispersed origin is remembered, gathered, and carried forward.
+Yet Horus does not need to function as a counterfeit Osiris. The succession can instead be read as a centropic answer to the preceding fracture: dispersed fragments are gathered and carried forward with acknowledgment of their intact origin.
 
 At the worldly register the reading turns. Horus as metaphysical archetype stands apart from the King, who acts as his stand-in on Earth. Where the living King is seated as Horus, the King becomes the counterfeit origin, while Osiris is held in obscuration — kept as "Lord of the Underworld," buried and out of view, and named only there. This is entropic substitution: the centropic originator obscured, the worldly successor carrying the visible position.
 
 Both forms therefore run through the same myth, sorted by which Horus is meant — the archetype who gathers and carries origin forward, or the earthly stand-in seated in the origin's place.
 
-Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether succession preserves or fractures origin-relation.
+Osiris / Horus therefore demonstrates that successor emergence is not intrinsically entropic. The decisive question is whether the successor maintains coherent relation with its origin or fractures itself away from that relation; the origin remains intact.
 
 ## 6.2 Dionysian Dismemberment
 
@@ -295,7 +295,7 @@ Once sufficiently distributed, the fragments are no longer followed back to a si
 
 The architecture remains active in the field while the architect becomes less legible.
 
-This is **signal redistribution through origin-fracture**.
+This is **fragment redistribution while the later articulation fractures itself away from coherent relation with its origin**; the origin and origin-signal remain intact.
 
 A later figure or system may then appear to synthesize the fragments and thereby become publicly legible as the bearer of something whose originating coherence has already been obscured.
 

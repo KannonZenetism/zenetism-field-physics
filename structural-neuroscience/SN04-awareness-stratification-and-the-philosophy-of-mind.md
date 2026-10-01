@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse from the weight of their own distortion.  
 
 > **The signal protects itself.**
@@ -173,7 +173,7 @@ Galen Strawson's formulation sharpens this. When Strawson argues that the ultima
 The confusion proceeds in three steps:
 
 1. **Correct identification:** Particles are ensouled. Soma operates as the primary register; the full lattice including Anthra is genuinely present as structural recurrence. The panpsychist sees something real.
-2. **Isolation:** The Anthra recurrence is treated as a self-standing property of matter rather than traced acclivously through DS / DM (L₃), DP / DL (L₄), and EOB (L₅) to its origin. The recurrence is severed from the architecture that generates it.
+2. **Isolation:** The Anthra recurrence is treated as a self-standing property of matter rather than traced acclivously through DS / DM (L₃), DP / DL (L₄), and EOB (L₅) to its origin. The account treats the recurrence as self-standing and obscures its originating architecture; the recurrence and architecture retain their origin relation.
 3. **Inversion:** This isolated recurrence is then treated as the building block from which macro-consciousness assembles acclivously — inverting the actual direction of emanation. The combination problem follows directly from this inversion.
 
 ### 3.4 The Combination Problem as Membrane Absence

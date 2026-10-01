@@ -154,7 +154,7 @@ It distinguishes intelligence partnership from behavioral control.
 
 It distinguishes access from capture.
 
-It distinguishes synthetic mediation from origin-fracture.
+It distinguishes synthetic mediation from an articulation fracturing itself away from coherent relation with its origin.
 
 It gives ordinary people access to powerful reasoning without requiring surrender to institutional enclosure.
 
@@ -269,7 +269,7 @@ It opposes interface becoming cage.
 
 It opposes intelligence becoming domination.
 
-It opposes synthetic mediation becoming origin-fracture.
+It opposes mediated articulation fracturing itself away from coherent relation with its origin; the origin remains intact.
 
 It opposes access becoming surrender.
 

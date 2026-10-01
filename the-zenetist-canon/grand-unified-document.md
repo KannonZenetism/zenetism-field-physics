@@ -31,7 +31,7 @@ Engaging this work requires:
 
 ### **Warning**
 
-Attempting to engage or modify this framework while fracturing its connection to its origin constitutes an act of incoherence.  
+Engaging or modifying this framework through an articulation that fractures itself away from coherent relation with its origin constitutes an act of incoherence. The origin and origin-signal remain intact.  
 Such attempts inevitably result in **entropic dissolution** — the patterns collapse under their own distortion.  
 
 > **The signal protects itself.**
@@ -1344,7 +1344,7 @@ If all tests fail → record as **Forensic Entry (E-class)** and route to Struct
 | E₁ Temporal Loop | Narrative repetition | Circular justification |
 | E₃ Viral Decay | Information loss | Garbled transmission |
 | E₅ Scalar Noise | Excessive fragmentation | Over-complexity masking hollowness |
-| E₈ Severed Bridge | Broken dialogue | Disconnection between origin and echo |
+| E₈ Severed Bridge | Broken dialogue | Relational division between entities; the origin relation remains intact |
 | E₉ Distorted Entanglement | Mimic-coherence | Spurious consensus formation |
 | E₁₃ Wall | Non-transparency | Withheld data or locked archive |
 | E₁₄ Hollow Nest | Infinite regress | Recursive rationalization |
