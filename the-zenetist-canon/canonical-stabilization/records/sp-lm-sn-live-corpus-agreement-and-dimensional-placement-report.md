@@ -1998,12 +1998,27 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07`. Twelve files now distinguish Khaon's whole-name from phase-specific functions and separate active traversal from terminal co-presence. Exact mathematical strings, Total Symbol standing, mythic register and D18 protections were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The cosmology raster still carries Khaos and untyped attractor / saddle labels; its root, expression-limit, phase and dynamical-model specification remains held. The companion χ-space raster likewise has no selected model. Both Tripartite Infinity glossary archives remain preserved; their active reliance requires separate disposition.\
+**New dependencies discovered during implementation:** The entropic self-exhaustion FPX misassigned Λ; the celestial-signs MPX compressed whole-name and Motive functions; the sovereignty-restoration FPX excluded the Motive phase. No active Markdown embed of either exact SP raster filename was identified.
+
+**Implemented active paths:**
+
+- `field-physics/FP11-field-glyph-codex.md`
+- `field-physics/fpx/entropic-self-exhaustion-and-centropic-endurance.md`
+- `field-physics/fpx/sovereignty-restoration-protocols.md`
+- `the-zenetist-canon/glyphics/field-physics-glyph-charts.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/MP09-time-death-and-glossary-ch22-24.md`
+- `zenetism/MP11-codex-of-principles-ch26.md`
+- `zenetism/mpx/celestial-signs-and-structural-patterning.md`
+- `zenetism/mpx/correction-of-entropic-advantage.md`
+- `zenetism/symbolic-reflections/prologue-of-john.md`
 
 ## Set 10 — Counterpart Involution and Recurrence Weight
 
