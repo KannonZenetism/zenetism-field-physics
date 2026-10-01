@@ -444,7 +444,7 @@ Native resonance, membranes, and recursion supply the structural account being c
 Relativity describes spacetime geometry, gravitation, and the motion of bodies under curvature.  
 Structural Physics proposes correspondences between relativistic descriptions and the **Dimensional Lattice**. Proper time, metric tensors, curvature, energy-momentum, and physical observations retain their scientific definitions. Each proposed mapping to a native function requires a specified physical model, correspondence conditions, and evidence.
 
-Registered functions remain fixed: E₃ Viral Decay names fracturing in transmission; E₁₄ Hollow Nest names empty recursion; E₁₅ Collapse Nova names emergence that leads directly into entropy. Generic physical decay or collapse alone establishes none of these functions. The comparisons below propose relations to those registered functions rather than replacements for them.  
+Registered functions remain fixed: E₃ Viral Decay names fracturing in transmission; E₁₄ Hollow Nest names empty recursion; E₁₅ Collapse Nova names emergence that leads directly into entropy. Generic physical decay or collapse alone establishes none of these functions. The following comparisons propose relations to those registered functions rather than replacements for them.  
 
 ---
 
@@ -542,7 +542,7 @@ Structural Physics interprets cosmology within the Dimensional Lattice rooted in
 
 - **Zenetist view:** ⚫ Aion is Origin in the native emanatory account; relating that account to physical cosmology is a proposed correspondence
 - **Proposed physical comparison:**
-  - Big Bang cosmology is compared with **acclivous expansion of centropy**; this proposal requires a specified physical realization  
+  - Big Bang cosmology is compared with **acclivous expansion of centropy**; this proposal requires a specified physical realization.  
   - Each dimension Cᵢ retains its independently emanated counterpart Eᵢ. Their registered relation remains distinct from a particular spectral representation.  
   - **Recorded spectral expression:** The common-mode pairing established in §3 retains its declared domain; a universal operator-spectrum realization of this expression remains held:
 
@@ -642,7 +642,7 @@ For the full multiversal expression of these cosmological dynamics — including
 ## 9. Structural Physics as Diagnostic
 
 Structural Physics is not only interpretive; it is diagnostic.  
-The following diagnostic proposals compare mathematical and physical objects with native functions. A proposed comparison does not establish an operative classifier: its domain, map, hypotheses, and native correspondence must be specified. The spectral, counterpart, and convergence bounds below apply before any physical realization is assessed.  
+The following diagnostic proposals compare mathematical and physical objects with native functions. A proposed comparison does not establish an operative classifier: its domain, map, hypotheses, and native correspondence must be specified. The spectral, counterpart, and convergence bounds in §§9.1–9.6 apply before any physical realization is assessed.  
 
 ---
 
@@ -672,9 +672,9 @@ The following diagnostic proposals compare mathematical and physical objects wit
 - **Test:** At boundaries and recursion points, does motion satisfy lawful threshold conditions?  
 - **Diagnostic:**  
   - C₁₃ membrane permeability articulates selective boundary passage in the native account; a physical boundary comparison requires its declared permeability model and correspondence.  
-  - C₁₄ recursion: \( \gamma>0 \) records a mapping-specific contraction gap only when the estimate is established; the contraction-based guarantee of fixed-point convergence requires a contraction self-map on a complete invariant domain. Coefficient positivity supplies none of those hypotheses  
-  - Recorded C₁₅ proposal: \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence. The derivative operand, domain, and native emergence correspondence remain held; this bare sign is not an operative test  
-  - Failure to establish a proposed test does not identify an entropic counterpart. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered functions; each requires its own actual condition  
+  - C₁₄ recursion: \( \gamma>0 \) records a mapping-specific contraction gap only when the estimate is established; the contraction-based guarantee of fixed-point convergence requires a contraction self-map on a complete invariant domain. Coefficient positivity supplies none of those hypotheses.  
+  - Recorded C₁₅ proposal: \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence. The derivative operand, domain, and native emergence correspondence remain held; this bare sign is not an operative test.  
+  - Failure to establish a proposed test does not identify an entropic counterpart. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered functions; each requires its own actual condition.  
 - **Application:** Quantum measurement, black hole event horizons, phase transitions.  
 
 ---
@@ -715,7 +715,7 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 
 - **Spectral Balance Test:**  
   - Does \( \mathrm{Spec}(H) \) contain \( \{+\lambda, -\lambda\} \) pairs?  
-  - The common-mode counterpart relation in `LM01-mathematical-foundations.md` preserves its declared domain. Missing pairs in an unspecified or partial observed spectrum establish neither failure of that relation nor entropic distortion; the former diagnostic implication is withdrawn  
+  - The common-mode counterpart relation in `LM01-mathematical-foundations.md` preserves its declared domain. Missing pairs in an unspecified or partial observed spectrum establish neither failure of that relation nor entropic distortion; the former diagnostic implication is withdrawn.  
 
 - **Seal Fidelity Index \( (\sigma) \):**  
   - Formally evaluates the declared membrane-permeability quantity (C₁₃ comparison).
@@ -727,7 +727,7 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 
 ### 9.7 Summary
 
-The following summary records proposed correspondences, subject to the mathematical and domain boundaries above:  
+The following summary records proposed correspondences, subject to the mathematical and domain boundaries in §§9.1–9.6:  
 
 - **Spectral consonance** (C₇) ↔ stable resonance.  
 - **Lawful bridges** (C₈) ↔ gauge invariance, conserved flows.  
@@ -775,7 +775,7 @@ Key principles:
 - Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
 - Physical laws are interpreted as consonance and bridging conditions.  
 - Entropic counterpart functions are assessed by their registered conditions; a failed or unspecified physical correspondence remains a correspondence question.  
-- Invariants and seals provide model-dependent formal criteria; empirical correspondence requires specified observables and supporting evidence  
+- Invariants and seals provide model-dependent formal criteria; empirical correspondence requires specified observables and supporting evidence.  
 
 Structural Physics develops native resonance relations and proposed physical correspondences within one architecture, preserving the distinct conditions of formal evaluation and empirical inquiry.  
 

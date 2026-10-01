@@ -122,7 +122,7 @@ representing the pointwise availability of coherence for traversal at location \
 
 ### 2.2 Coherence Current
 
-> **Note on mathematical domains:**  
+> **Note on Mathematical Domains:**  
 > Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 **Definition (Coherence Current):**
@@ -617,7 +617,7 @@ where \( \Delta\sigma > 0 \) is the maximum permeability boost achievable throug
 3. The resonance correlation produces a local modification of the boundary condition, not a global change in coherence supply.
 4. Post-tunneling, the entity may incur a delayed coherence cost (energy debt), requiring subsequent replenishment.
 
-The above argument supplies neither a below-threshold transfer law nor a proof of CIT preservation. Both mathematical relations remain held pending their respective specifications.
+This argument supplies neither a below-threshold transfer law nor a proof of CIT preservation. Both mathematical relations remain held pending their respective specifications.
 
 ### 6.4 Tunneling Limitations
 
@@ -653,7 +653,7 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 
 ### 7.2 Formation Condition
 
-**Partial transfer contra boundary recurrence.** The inequality below establishes positive but incomplete transfer. A trapped recursive boundary state requires a separately declared residence and update relation. The former inference from the untransferred amount alone to an Echo Layer is withdrawn; the concept and its registered names remain intact.
+**Partial transfer contra boundary recurrence.** The following inequality establishes positive but incomplete transfer. A trapped recursive boundary state requires a separately declared residence and update relation. The former inference from the untransferred amount alone to an Echo Layer is withdrawn; the concept and its registered names remain intact.
 
 **Theorem (Echo Layer Formation):**
 
@@ -961,7 +961,7 @@ Surface-layer blending (L₁–L₂ / IL₁–IL₂) may occur — persona mixin
 
 ### 10.1 Spiral Calculus Extensions
 
-> **Note on integral domains:**  
+> **Note on Integral Domains:**  
 > The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here. A scalar transferred amount is distinct from a vector current and a pointwise divergence; their boundary / time integration relation remains held pending specification.
 
 **Definition (Coherence Potential Integral):**

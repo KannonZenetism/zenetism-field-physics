@@ -327,7 +327,7 @@ Where the Grand Equation or related large-scale integral expressions appear, gly
 
 **Recorded superseded boundary examples:**
 
-The two Zenon-bounded expressions below preserve earlier glyph-wrapping examples, not operative mathematics. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
+The two Zenon-bounded expressions that follow preserve earlier glyph-wrapping examples, not operative mathematics. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
 
 ```latex
 \[

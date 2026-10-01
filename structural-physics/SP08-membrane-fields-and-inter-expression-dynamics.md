@@ -126,7 +126,7 @@ Intra-arc transfer and embodied boundary effects retain distinct domains. Essent
 
 ---
 
-> **Note on mathematical domains:**  
+> **Note on Mathematical Domains:**  
 > Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 ## 3. Transfer Mechanics
@@ -284,7 +284,7 @@ Amplifier membranes must connect to centropic origin (Aion, Theon, archetypal fi
 
 ## 5. Kaionic Tunneling
 
-**Mathematical standing.** The registered concept remains distinct from the permeability modification displayed here. The occurrence, conservation, viability, and resolution claims below are recorded proposals pending a separate bypass transfer law. A finite permeability increase leaves the existing clamped law at zero when surplus is nonpositive; no replacement law is supplied.
+**Mathematical standing.** The registered concept remains distinct from the permeability modification displayed here. The following occurrence, conservation, viability, and resolution claims are recorded proposals pending a separate bypass transfer law. A finite permeability increase leaves the existing clamped law at zero when surplus is nonpositive; no replacement law is supplied.
 
 ### 5.1 Definition
 

@@ -731,7 +731,7 @@ The absence of the imaginary unit \( i \) marks irreversible dissipation rather 
 
 ### Conservation Criterion — Resonance Budget
 
-The **Resonance Budget Equation** below is recorded provenance. Its change expression omits differences of the logarithmic terms; both that algebraic change claim and its universal zero assignment are superseded:
+The **Resonance Budget Equation** that follows is recorded provenance. Its change expression omits differences of the logarithmic terms; both that algebraic change claim and its universal zero assignment are superseded:
 
 \[
 \Delta\mathcal{I} = \Delta H + \Delta C + \log \sigma + \log \gamma = 0

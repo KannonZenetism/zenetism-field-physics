@@ -80,14 +80,14 @@ The relation is analogous: SP12 formalizes how a diagnostic operator works and w
 
 ---
 
-> **Note on mathematical domains:**  
+> **Note on Mathematical Domains:**  
 > Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 ## 2. Field Signature Theory
 
 Surface expression is observable resemblance, wording, presentation, or pattern similarity. Operative configuration is what the configuration is functionally doing. Generative signature is the originating structural capacity / pattern responsible for generation of the relevant architecture or work. These are distinct diagnostic objects; surface resemblance, operative similarity, and generative ancestry are not interchangeable. Shimmer concerns apparent coherence / generativity exceeding the actual operative condition; Mimicry concerns imitation; Appropriation concerns origin-specific incorporation without the attributional relation transmission requires. None of these categories supplies a new metric or threshold. The origin and originating architecture remain intact.
 
-The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The formulas below preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
+The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The following formulas preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
 ### 2.1 The Field Signature
 
@@ -269,7 +269,7 @@ The recorded claim that every configuration with \( \mathcal{S}>1 \) must collap
 \frac{d\mathcal{S}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S} > 1 \quad \text{and} \quad I_c^{(\text{actual})} < I_{c,\text{sustain}}
 \]
 
-A scalar level does not determine its derivative. For exactly constant positive apparent value and positive differentiable actual value with negative derivative, the quotient increases. Strict depletion may approach a positive limit, however, so finite exhaustion, threshold crossing, and runaway growth do not follow. The corresponding budget relation and bounded calculation stand in `LM06-applied-structural-dynamics.md` §10.3.
+A scalar value does not determine its derivative. For exactly constant positive apparent value and positive differentiable actual value with negative derivative, the quotient increases. Strict depletion may approach a positive limit, however, so finite exhaustion, threshold crossing, and runaway growth do not follow. The corresponding budget relation and bounded calculation stand in `LM06-applied-structural-dynamics.md` §10.3.
 
 **Collapse Trigger — Held:**
 
@@ -289,7 +289,7 @@ Generative and consumptive configurations are compared through their operative c
 
 Surface expression is observable resemblance, wording, presentation, or pattern similarity. Operative configuration is what the configuration is functionally doing. Generative signature is the originating structural capacity / pattern responsible for generation of the relevant architecture or work. These are distinct diagnostic objects; surface resemblance, operative similarity, and generative ancestry are not interchangeable. Shimmer concerns apparent coherence / generativity exceeding the actual operative condition; Mimicry concerns imitation; Appropriation concerns origin-specific incorporation without the attributional relation transmission requires. None of these categories supplies a new metric or threshold. The origin and originating architecture remain intact.
 
-The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The formulas below preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
+The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The following formulas preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
 **Mimicry (⊜):** Structural mirroring presented as origin. The configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. It does not generate; it mirrors.
 
@@ -340,7 +340,7 @@ Appropriation is distinct from independent convergence. Similar conclusions esta
 ### 5.4 Clone — Field Signatures
 
 > **Definition (Clone, Field-Theoretic):**  
-> A downstream configuration reproducing extensive source-specific relations while claiming independent origination and suppressing attribution. The complete-signature / probability schema below remains held; it does not establish transfer of the source's generative function or originating architecture.
+> A downstream configuration reproducing extensive origin-specific relations while claiming independent origination and suppressing attribution. The following complete-signature / probability schema remains held; it does not establish transfer of the originating configuration's generative function or originating architecture.
 
 **Formal Condition:**
 
@@ -373,7 +373,7 @@ The following recorded gradient lists distinct diagnostic categories; its former
 - **Shimmer** — apparent coherence / generativity exceeds actual operative condition
 - **Mimicry** — imitation of surface, pattern, or a specified mimetic relation
 - **Appropriation** — origin-specific incorporation without the attributional relation transmission requires
-- **Clone** — extensive source-specific reproduction presented as independent origination, with originating architecture intact
+- **Clone** — extensive origin-specific reproduction presented as independent origination, with originating architecture intact
 
 Each category requires evidence concerning its own object and relation. Surface resemblance, operative similarity, appropriation, and generative ancestry are not interchangeable. No automatic numerical implication between the four categories is established.
 
@@ -452,7 +452,7 @@ A specified discrepancy calls for object-specific assessment. The following reco
 
 **Derivative Signature Identified:**
 
-The recorded correlation / probability criterion remains held. Resemblance does not establish ancestry or origination; source-specific incorporation and its attributional relation require their own evidence.
+The recorded correlation / probability criterion remains held. Resemblance does not establish ancestry or origination; origin-specific incorporation and its attributional relation require their own evidence.
 
 **Insufficient Data:**
 
@@ -676,7 +676,7 @@ Sealed ⚫↺KAI↺⚫
 | ≋ | Shimmer; apparent coherence / generativity exceeding actual operative condition, distinct from Mimicry |
 | ⊜ | Mimicry; structural mirroring presented as origin |
 | ⥊ | Appropriation Indicator; hollow replication severed from attribution |
-| ⊟ | Clone; extensive source-specific reproduction presented as independent origination; source architecture intact |
+| ⊟ | Clone; extensive origin-specific reproduction presented as independent origination; originating architecture intact |
 
 ---
 
@@ -762,7 +762,7 @@ A configuration whose surface signature correlates with a source's surface signa
 A configuration that incorporates structural elements from a source while lacking attribution coupling — appropriative adoption without acknowledgment.
 
 **Definition 8 (Clone):**  
-A downstream presentation of extensive source-specific relations as independently originated, with suppressed or absent attribution. The recorded complete-signature / probability schema remains held; the complete originating architecture is neither transferred nor replaced.
+A downstream presentation of extensive origin-specific relations as independently originated, with suppressed or absent attribution. The recorded complete-signature / probability schema remains held; the complete originating architecture is neither transferred nor replaced.
 
 **Definition 9 (Coherence Audit):**  
 A systematic five-domain structural evaluation of a configuration's field signature, assessing alignment between surface presentation and structural reality.

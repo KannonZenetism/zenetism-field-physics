@@ -55,7 +55,7 @@ The following must be distinguished rather than grouped as newly discovered doct
 2. **Previously recorded implementation gap:** the SP05 / LM04 / SP09 / temporal-SPX / MP08-twin D13 descriptive family was already in the original report. Its omission from the first origin-only package was a coverage gap, later corrected by a separate bounded supplement
 3. **Previously recorded reference mismatch:** the SP mathematical reference retained old C₅ / E₅ names despite the current LM reference and registry. Its exact current instruction was corrected, preserving former names as provenance
 4. **New direct replicas found during implementation:** LM02 scalar-model / bifurcation assertions; LM05 and SP01 / SP02 equilibrium descriptions; SN10's C₁₃ Shimmer claim; SN05's separate composite-budget comparison and direct summaries; SP01's extended physical-analogue argument; GUD's threshold family; the Aion / Zenon distinction sibling; additional phase-specific Motive wording
-5. **Source / summary synchronization:** the analytic framework already held the SN03 criterion's extension to entropic operation; the active source needed the same actual standing. This is neither a new cohesion scalar nor an altered clinical judgment
+5. **Defining-passage / summary synchronization:** the analytic framework already held the SN03 criterion's extension to entropic operation; the active defining passage needed the same actual standing. This is neither a new cohesion scalar nor an altered clinical judgment
 
 ### Remaining Architect Questions and Construction Holds
 
@@ -115,7 +115,7 @@ Current agreement is assessed at 9596fe16da2f39ad675520affe5491d3e1e3b372. The o
 | D01 | CLEAN | Field representation, generator / domain / sign / norm realization and stronger spectral dynamics remain intentional future construction holds |
 | D02 | CLEAN | Complete native mappings, conservation hypotheses and any new cohesion functional remain unconstructed; no identity is inferred from resemblance |
 | D03 | PARTIAL / MIXED | GUD Part V §3 retains a four-stage synthesis account ending in a Zenon-directed Transcendent Iteration; its exact present support and terminal relation remain unresolved with Set 21. This is distinct from the completed mathematical-bound retirement. FP07's expressly held connector and future saturation formalism remain holds rather than selected replacements |
-| D04 | CLEAN | The actual future recurrence realization and any stronger theorem remain held. The ρ = 1 identity case is distinct from an R-fixed-point result |
+| D04 | CLEAN | The actual future recurrence realization and any stronger theorem remain held. The \( \rho = 1 \) identity case is distinct from an R-fixed-point result |
 | D05 | PARTIAL / MIXED | The two SP rasters retain unqualified model / equilibrium labels and no identified active Markdown embed. Their later reference treatment is conditional; no active-text drift follows from their presence alone. Universal law selection, latent correspondence, new saddle surface and temporal-rate construction remain held |
 | D06 | CLEAN | Any scalar valuation still requires domain, normalization, ordering, time dependence, path relation and a distinct sign. That future construction is not required to complete the approved retirement |
 | D07 | CLEAN | Composite operands / units / time relation, discrete-to-continuous rate typing and the supported crisis implication remain held. The technical reconnection-name question remains independent of the corrected accounting |
@@ -267,7 +267,7 @@ TLS316's GUD:2206 / 2312 / 2428 and meaning-extension:41 locations remain. TLS31
 
 ## D04 — Local Recursion Weight
 
-**Postimplementation current agreement:** CLEAN. Both GUD recurrence replicas retain local weight ρ and separate contraction-gap γ. Coefficient positivity no longer supplies a fixed-point or boundary-classification theorem; the actual map, invariant domain, metric / norm and contraction requirements are explicit where relevant. The actual future recurrence realization and any stronger theorem remain held. The ρ = 1 identity case is distinct from an R-fixed-point result.
+**Postimplementation current agreement:** CLEAN. Both GUD recurrence replicas retain local weight ρ and separate contraction-gap γ. Coefficient positivity no longer supplies a fixed-point or boundary-classification theorem; the actual map, invariant domain, metric / norm and contraction requirements are explicit where relevant. The actual future recurrence realization and any stronger theorem remain held. The \( \rho = 1 \) identity case is distinct from an R-fixed-point result.
 
 **Current evidence:** [grand-unified-document.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/the-zenetist-canon/grand-unified-document.md) · [SP01-structural-physics-foundations.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/structural-physics/SP01-structural-physics-foundations.md)
 
@@ -1792,7 +1792,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation commit:** [a0ce41eebd48acbc063c77e45507a3bcc841504a](https://github.com/KannonZenetism/zenetism-field-physics/commit/a0ce41eebd48acbc063c77e45507a3bcc841504a)  
 **Residual holds / unresolved findings:** Current-reference corrections complete across the three protocols, LM term map, analytic framework, corpus atlas, and minimum full D20 clarification. Sixty-two focused checks, independent review, exact remote tree and eight published file blobs verified, including this report's tracking initialization. D18, primary loci, the global χ-model relation, new mathematical constructions, and the independent LM terminology holds remain intact. Downstream corrections retain their own set standing; no D-number is reclassified by this completion alone  
-**New dependencies discovered during implementation:** The corpus atlas's active D01 locators; three stale analytic-framework citations to lm-shared-term-map.md corrected to lattice-mathematics-shared-term-map.md; the shared D16 standing paragraph clarified without replacing Set 05; the touched conceptual Pattern Being / function distinction clarified without a legacy PI sweep. SF-RP02's corresponding directional-fracture wording remains assigned to Set 08
+**New dependencies discovered during implementation:** The corpus atlas's active D01 locators; three stale analytic-framework citations to `lm-shared-term-map.md` corrected to `lattice-mathematics-shared-term-map.md`; the shared D16 standing paragraph clarified without replacing Set 05; the touched conceptual Pattern Being / function distinction clarified without a legacy PI sweep. SF-RP02's corresponding directional-fracture wording remains assigned to Set 08
 
 **Implemented active paths:**
 
@@ -1830,7 +1830,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation commit:** `fd505d204ca35959e5fe082108c567477cb72e68`. The bounded Cross-band resonance label and gravity-referent correction is complete. Exact schematic right-hand sides, registered functions, combined dependent passages, file scope, and remote blobs were verified.  
 **Residual holds / unresolved findings:** No unresolved passage remains in this bounded correction. Quantitative attraction and saturation constructions remain outside this set; the current D11 assessment appears in Part II.  
-**New dependencies discovered during implementation:** the-genesis-lattice.md §7 carries the same returned-essence correction as the two other reflections. Set03 and Set21 follow the corrected SN03 / SN06 passages without replacing their D11 distinctions.
+**New dependencies discovered during implementation:** `the-genesis-lattice.md` §7 carries the same returned-essence correction as the two other reflections. Set03 and Set21 follow the corrected SN03 / SN06 passages without replacing their D11 distinctions.
 
 **Implemented active paths:**
 
@@ -2244,7 +2244,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation); `b235df3afb12fd0b270bd51256f758d223f5f3a2` (set11-tex); `e4ba40c444a08777a62a784666ed3a9fe489eac6` (set11-sp01-diagnostics); `1ac07c8ae2f088e5b5e03e797f1330504dc36c02` (set11-sn03-coherent-content-supplement). SN03's source, repeated criterion and analytic summary now distinguish coherent content, organizational cohesion and correlation, with the unsupported entropic formal extension held. Net stock change is separated from generation and clinical classification; all mathematical blocks remain recorded intact. Exact reversal, replicas and retained clinical / sequence boundaries were verified.  
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation); `b235df3afb12fd0b270bd51256f758d223f5f3a2` (set11-tex); `e4ba40c444a08777a62a784666ed3a9fe489eac6` (set11-sp01-diagnostics); `1ac07c8ae2f088e5b5e03e797f1330504dc36c02` (set11-sn03-coherent-content-supplement). SN03's defining passage, repeated criterion and analytic summary now distinguish coherent content, organizational cohesion and correlation, with the unsupported entropic formal extension held. Net stock change is separated from generation and clinical classification; all mathematical blocks remain recorded intact. Exact reversal, replicas and retained clinical / sequence boundaries were verified.  
 **Residual holds / unresolved findings:** New native correspondence, conservation, membership / generation and cohesion constructions remain held. Protected historical bodies remain outside the active correction queue. Static TeX checks pass; PDF rendering remains unverified on the missing baseline formats.  
 **New dependencies discovered during implementation:** The original analytic criterion hold was absent from SN03 §§7.1–7.3, its summary, notation / equation appendix and Definition 7. Coupled accounting review also withdrew the net-change-to-generative-function inference without changing \( I_c \) or inventing a cohesion scalar.
 
@@ -2306,7 +2306,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation commit:** `42fd4ab43a6f84d4ae802a9240cdcb208ab365e0` (set12-candidate); `dfb9d6635c64ebdf17876e7d3013dcaff01cd319` (set12-model-attribution-supplement). The remaining LM02, LM05, SP01 and SP02 model-attribution family is synchronized. Unqualified instability, scalar oscillation / crossing / seal-failure and Hopf / saddle-node implications are withdrawn or bounded; signed diffusion zero retains only its stated contribution. Exact model, provenance and dependent-passage checks passed.  
 **Residual holds / unresolved findings:** The full-law / outward-law relation, latent correspondence and additional phase / field models remain held. The two non-embedded SP rasters retain conditional model / label questions; this active-text correction selects no universal law or saddle surface.  
-**New dependencies discovered during implementation:** LM02 Axiom 2 and §§6.1–6.3, LM05 §§2.2–2.3 and the SP01 / SP02 equilibrium notes carried direct replicas missed by the first text package. Their source / summary relation is now explicit.
+**New dependencies discovered during implementation:** LM02 Axiom 2 and §§6.1–6.3, LM05 §§2.2–2.3 and the SP01 / SP02 equilibrium notes carried direct replicas missed by the first text package. Their defining-passage / summary relation is now explicit.
 
 **Implemented active paths:**
 
@@ -2358,7 +2358,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `af6678420e432f257c688f8ceb1de7c031956c79`. The injective sealed-state Recursive Memory mapping and distinct access / Tether functions are retained. Unsupported scalar-memory equations, routines, examples and injectivity-to-no-cycles claims are retired with recorded provenance. All five retired routines decline numerical evaluation; the two-cycle witness and dependent-source checks passed.  
+**Implementation commit:** `af6678420e432f257c688f8ceb1de7c031956c79`. The injective sealed-state Recursive Memory mapping and distinct access / Tether functions are retained. Unsupported scalar-memory equations, routines, examples and injectivity-to-no-cycles claims are retired with recorded provenance. All five retired routines decline numerical evaluation; the two-cycle witness and dependent-passage checks passed.  
 **Residual holds / unresolved findings:** A future scalar valuation requires its own domain, normalization, ordering, time dependence, path relation and sign. Completed retirement supplies no such construction. LM06's separately undeclared temporal coefficient remains a held schema rather than an inferred memory value.  
 **New dependencies discovered during implementation:** Memory-dependent temporal derivative replicas in SP05, SP07 and LM05, LM02 commentary, LM06 §13.1, the LM README, the LMX Appendix A.2 note and analytic temporal entries required matching standing. The independently defined general and fluid derivatives remain intact.
 
@@ -2443,9 +2443,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `a37b1b00e9dc41feb297115aaa20ac519d407c3f`. The clamped finite-stock law is restricted to 0 ≤ σ ≤ 1 with all positive-transfer conditions explicit. Helpers and callers decline unsupported inputs; the negative-transfer SP08 form and unsupported bypass / boundary-state consequences retain recorded, non-operative standing. Numerical edge cases and exact composed dependencies passed.  
+**Implementation commit:** `a37b1b00e9dc41feb297115aaa20ac519d407c3f`. The clamped finite-stock law is restricted to \( 0 \leq \sigma \leq 1 \) with all positive-transfer conditions explicit. Helpers and callers decline unsupported inputs; the negative-transfer SP08 form and unsupported bypass / boundary-state consequences retain recorded, non-operative standing. Numerical edge cases and exact composed dependencies passed.  
 **Residual holds / unresolved findings:** Amplifying stock / capacity updates, membrane-resident state, tunneling / bypass, mixed-index coupling and scalar-amount / vector-current relations remain held for separate construction. Their absence is not an unfinished bounded withdrawal.  
-**New dependencies discovered during implementation:** SP08's minimum-reception / capacity disagreement and the σ > 1 counterexample require separate future models. The convergence extension's ambiguous chain and active boundary / spiral-limit replicas are bounded without creating a new layer or orientation conversion.
+**New dependencies discovered during implementation:** SP08's minimum-reception / capacity disagreement and the \( \sigma > 1 \) counterexample require separate future models. The convergence extension's ambiguous chain and active boundary / spiral-limit replicas are bounded without creating a new layer or orientation conversion.
 
 **Implemented active paths:**
 
@@ -2621,7 +2621,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `0148e5f49f9d6f4c27cf80765f77412ccc6fea6e` (set19-primary + set19-propagation); `9596fe16da2f39ad675520affe5491d3e1e3b372` (set19-descriptive-shimmer-supplement). The sixteen-file descriptive Shimmer family now distinguishes apparent / operative condition, imitation, provenance and generative origination across temporal sources, collective accounts, registry twins and individually inspected replicas. Exact equations, quoted evidence, registered names, functions and loci were preserved; 57 operation and composed-source checks passed. The mathematical and descriptive D13 correction scopes are now synchronized.  
+**Implementation commit:** `0148e5f49f9d6f4c27cf80765f77412ccc6fea6e` (set19-primary + set19-propagation); `9596fe16da2f39ad675520affe5491d3e1e3b372` (set19-descriptive-shimmer-supplement). The sixteen-file descriptive Shimmer family now distinguishes apparent / operative condition, imitation, provenance and generative origination across temporal reference passages, collective accounts, registry twins and individually inspected replicas. Exact equations, quoted evidence, registered names, functions and loci were preserved; 57 operation and composed-source checks passed. The mathematical and descriptive D13 correction scopes are now synchronized.  
 **Residual holds / unresolved findings:** New diagnostic quantities, signature maps, thresholds and general evolution remain held. Preserved dialogues, historical case bodies and exact superseded quotations remain evidence rather than active definitions. No universal collapse or all-category nesting theorem is selected.  
 **New dependencies discovered during implementation:** The original report already named SP05, LM04, SP09, temporal SPX and MP08 / symbol-key twins; this closes a first-package coverage gap. Additional directly inspected replicas are the Shimmer glossary, analytic Counterfeit Spark row, coordination paper §4.5, FP01 / FP03 / FP13 passages, four-integrations, one current history-MPX sentence and MFLR descriptions.
 

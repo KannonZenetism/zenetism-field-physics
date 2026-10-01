@@ -125,7 +125,7 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in Â
 
 ### B3. Function Spaces & Norms
 
-> **Note on mathematical domains:**  
+> **Note on Mathematical Domains:**  
 > Abstract Hilbert / normed-space calculations retain their declared assumptions. Their identification with the full non-embodied lattice requires its domain-specific realization. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 - Hilbert space \( \mathcal{H} \) with sealed norm \( \|\cdot\|_{\text{seal}} \)
