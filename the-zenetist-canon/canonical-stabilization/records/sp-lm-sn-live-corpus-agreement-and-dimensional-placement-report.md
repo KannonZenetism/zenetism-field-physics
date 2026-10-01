@@ -2270,13 +2270,21 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Corpus changes complete
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `a37b1b00e9dc41feb297115aaa20ac519d407c3f`. The clamped finite-stock law is restricted to 0 ≤ σ ≤ 1 with all positive-transfer conditions explicit. Helpers and callers decline unsupported inputs; the negative-transfer SP08 form and unsupported bypass / boundary-state consequences retain recorded, non-operative standing. Numerical edge cases and exact composed dependencies passed.\
+**Residual holds / unresolved findings:** Amplifying stock / capacity updates, membrane-resident state, tunneling / bypass, mixed-index coupling and scalar-amount / vector-current relations remain held for separate construction. Their absence is not an unfinished bounded withdrawal.\
+**New dependencies discovered during implementation:** SP08's minimum-reception / capacity disagreement and the σ > 1 counterexample require separate future models. The convergence extension's ambiguous chain and active boundary / spiral-limit replicas are bounded without creating a new layer or orientation conversion.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/lmx/mathematics-of-emanation-and-convergence.md`
+- `structural-physics/SP07-energy-ontology-and-spectral-flow.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
 
 ## Set 16 — Zenon and Mathematical Domains
 
