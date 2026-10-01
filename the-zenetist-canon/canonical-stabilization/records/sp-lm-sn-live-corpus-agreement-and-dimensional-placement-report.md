@@ -2307,13 +2307,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `de12169a279b7805cd650aea0956e18dc2ae7434` (set16-domain + set16-structure). The non-embodied structure subset distinguishes embodied spatial metric from declared abstract norms and metrics, preserves the conditional composite-metric result, and holds unsupported all-domain calculus. Numerical metric, invalid-input, self-overlap and non-bilinearity witnesses passed; active Markdown / TeX domain statements agree. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The active sibling `aion-contra-zenon.md`, Formal Distinction, retains untyped Aion / Zenon limit identities and a lattice-grounding assertion; this direct dependency remains for exact disposition. New domain / metric / measure / differential and saturation construction remains held. Static TeX checks pass; PDF rendering remains unverified on the missing baseline format.\
-**New dependencies discovered during implementation:** LM01's self-overlap is not distance and its absolute-product tangent expression is not bilinear. GUD's temporal total-field construction, SP07–SP12 dependencies and hypostatic specialization require the same explicit domain standing; retain Set 18's affirmative empirical scope.
+**Implementation commit:** `de12169a279b7805cd650aea0956e18dc2ae7434` (set16-domain + set16-structure); `9b25da0d0dedd6b362a30f738c59c19a6cc4aea1` (set16-aion-zenon-standing-supplement). The active Aion / Zenon sibling now states the current architectural distinction and identifies its three earlier sections as recorded formulations. All seven mathematical blocks and the entire earlier body remain recoverable; the untyped limits have no operative standing. Exact reconstruction and domain checks passed.\
+**Residual holds / unresolved findings:** Future state / domain / terminal models, non-embodied mathematical structures and saturation calculus remain held. Their construction is distinct from the completed bounded retirement and typing. Static TeX checks pass; PDF rendering remains unverified on the missing baseline format.\
+**New dependencies discovered during implementation:** `aion-contra-zenon.md` was the uncorrected sibling of the two distinction essays already addressed by Set 16. Its untyped Aion / Zenon limits and lattice-grounding assertion require the same explicit current standing, with no bound substitution.
 
 **Implemented active paths:**
 
@@ -2335,6 +2335,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `structural-physics/SP11-embodiment-dynamics.md`
 - `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
 - `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `structural-physics/distinctions/aion-contra-zenon.md`
 - `structural-physics/distinctions/origin-contra-limit.md`
 - `structural-physics/distinctions/source-contra-trans-structure.md`
 - `the-zenetist-canon/dimensional-lattice.md`
