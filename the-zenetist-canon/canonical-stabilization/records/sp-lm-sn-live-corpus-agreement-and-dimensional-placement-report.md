@@ -2081,13 +2081,18 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2`. The collective subset separates coherent input, entropic cohesion and correlation; retains the exact variable-coefficient product rule for fixed finite membership; propagates the actual amplification threshold and nonzero-contribution conditions; and withdraws universal target-removal collapse. Focused derivative, threshold and degenerate-case checks and exact composed passages were verified. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The spectral definitions, conservation and native-correspondence family, active Markdown / TeX replicas and SP01 diagnostic dependencies remain for the subsequent Set 11 subsets. New cohesion, membership and generation laws remain held.\
-**New dependencies discovered during implementation:** The SN08 collective paragraph supplies the prerequisite for Set 03. Retain the complete LM07 product-rule proof, summary and appendix during Set 19 integration; retain SP09's particular holding-condition account.
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral). The spectral primary subset separates H spectral entropy and C spectral concentration from native / field quantities across definitions, proofs, routines, examples and appendices. Finite normalized identities remain; unsupported conservation, changing-support and native diagnostic implications are bounded. Endpoint, support-change, normalization and quotient checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** Active Markdown / TeX propagation and SP01 mathematical-diagnostic replicas remain for subsequent Set 11 subsets. Complete native correspondence and conservation constructions remain held.\
+**New dependencies discovered during implementation:** Retain Set 13 memory provenance in LM04 / LM05, Set 14 gross-net accounting and Set 19 distinct diagnostic objects. General fixed-basis unitary motion requires its actual support conditions.
 
 **Implemented active paths:**
 
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
 - `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
 - `lattice-mathematics/lmx/hypostatic-field-specialization.md`
 - `structural-neuroscience/README.md`
@@ -2096,6 +2101,8 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
 - `structural-neuroscience/SN11-applied-structural-diagnostics.md`
 - `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `the-zenetist-canon/grand-unified-document.md`
+- `the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md`
 
 ## Set 12 — Intrinsic Inclination and Model Attribution
 
