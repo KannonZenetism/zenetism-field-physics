@@ -97,7 +97,7 @@ Three principles from SN03 and LM06 shape this analysis:
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
 
 > **Principle 3 (Experiential Difficulty ≠ Pathology):**
-> Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the stated model: \( dI_c/d\tau < 0 \) (SN03 §7.3). The costs formalized here are structural costs, not diagnostic indicators.
+> Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the stated model, assessed through its actual operative and budget conditions. A negative rate \( dI_c/d\tau < 0 \) records net coherent-content depletion, which can coexist with generation or replenishment when actual expenditure is greater (SN03 §7.3). The costs formalized here are structural costs, not diagnostic indicators.
 
 ### 1.4 Scope and Perspective
 
@@ -233,7 +233,7 @@ I_{c,\text{cost}}^{(\text{OCD, entropic})} = I_{c,\text{cost}}^{(\text{structura
 
 where \( N(\tau) \) is the number of futile σ-cycles within the structural time interval.
 
-When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \), crossing the variation-pathology threshold (SN03 §7.3). But this crossing occurs because the recursion has *shifted entropic*, not because recursion is inherently pathological.
+When the cycles accelerate (each breach demanding faster re-sealing, each re-sealing lasting shorter durations), the coherence expenditure per unit structural time increases — a feedback loop that may drive \( dI_c/d\tau < 0 \) when actual expenditure exceeds gross replenishment. This sign records net depletion; the loss of generative function is assessed through the futile recurrence and its actual operative and budget conditions (SN03 §7.3). Recursion is not inherently pathological, and the derivative sign establishes neither generative function nor essential orientation.
 
 ### 2.5 The Distributive Architecture Cost
 

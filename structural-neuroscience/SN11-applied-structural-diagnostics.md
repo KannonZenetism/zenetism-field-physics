@@ -243,7 +243,7 @@ SN10 §5.3 establishes the conceptual distinction. SN11 operationalizes it:
 
 **Pathology indicators:**
 
-- \( dI_c/d\tau < 0 \) sustained — coherence is depleting without replenishment
+- \( dI_c/d\tau < 0 \) sustained — net coherent content is depleting as actual expenditure exceeds gross replenishment; generative function is assessed through the operative conditions that follow
 - Characteristic operators have lost generative function — they no longer produce structural gain even when conditions are supportive
 - Tether discontinuity at operative layers — the being has lost access to their own structural registers
 - Temporal pathology (LM04 §6) may be present — looping time, temporal collapse, or hypostatic amnesia
@@ -252,9 +252,9 @@ SN10 §5.3 establishes the conceptual distinction. SN11 operationalizes it:
 
 ### 5.2 The Variation-Pathology Axis
 
-SN03 §7.3 established: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology. SN11 integrates this with the distortion distinction as a native structural assessment. Clinical significance and intervention require evidence in the clinical domain:
+SN03 §7.3 retains the earlier sign associations as recorded provenance. Operatively, \( dI_c/d\tau \geq 0 \) records net coherent-content maintenance or increase, and \( dI_c/d\tau < 0 \) records depletion. The table preserves those recorded associations; native structural assessment follows the characteristic operators' actual generative function and its operative and budget conditions. Generation or replenishment can coexist with net depletion, and received coherent input can sustain nonnegative change. Formal extension to entropic operation remains held; coherent-input availability, entropic cohesion, and ordinary correlation remain distinct. Clinical significance and intervention require evidence in the clinical domain:
 
-| Condition | \( dI_c/d\tau \) | Characteristic Operators | Proposed Structural Support |
+| Condition | Recorded \( dI_c/d\tau \) Association (Provenance) | Characteristic Operators | Proposed Structural Support |
 |-----------|-----------------|------------------------|-------------|
 | **Stabilized variation** | \( \geq 0 \) | Operative, producing gain | No additional structural support indicated by this criterion |
 | **Distorted variation** | \( \geq 0 \) (low positive) | Suppressed but intact | Environmental correction — remove suppressive conditions |
