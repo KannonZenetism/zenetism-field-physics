@@ -47,6 +47,76 @@ The report now carries the live research and implementation record. Its baseline
 
 **History preservation:** Publication added descendant commits without rewriting existing history. Independent path-history checks retained every prior `SP03-expression-ratio-mathematics.md` record (42 entries) and `grand-unified-document.md` record (160 entries), including their commit identifiers, author / committer timestamps and parents. The verified corrections are [SP03](https://github.com/KannonZenetism/zenetism-field-physics/commit/5592c25dfd833821e2fc6814d04453e351e33b00) and [GUD](https://github.com/KannonZenetism/zenetism-field-physics/commit/93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9).
 
+## Implementation-Delta Lockdown Audit and Repair
+
+**Audit base:** `33c992a98d79fbbb06d5f8e80fd7c8483764840b`  
+**Audited implementation endpoint:** `efd9ddecfd84ed0ee27faef5e19661b8c6e8585b`  
+**Repair commits:** `f8042f5e7897dc2c10604fff5050536c8b3a656b` · `1379d1da43ecf04b2a01f9f1b03188940b37dc6e`  
+**Standing:** Complete finite-delta review and bounded repair; inherited corpus wording remains a separate scope  
+
+The earlier implementation checks did not establish complete lockdown agreement. This review read the full current terminology, conceptual, prose and mathematical references, the complete D01–D22 determination blocks, and the relevant analytic-vocabulary sections before examining the implementation delta. Every changed passage received contextual assessment; lexical searches supplied supplementary candidates rather than the review boundary.
+
+**Coverage:** 131 text files, 1,888 changed blocks and 2,136 nonblank text-passage units, together with 409 whitespace units and five deletion-only units. All 2,550 units are accounted for. All 75 implementation-cycle commits, including 38 report-only commits, were inspected. The 290 introduced line occurrences later replaced during that cycle were examined separately across 126 intermediate-history blocks. The finite net delta contains 4,072 added or modified lines; repeated lines and whitespace are distinguished from semantic passages.
+
+**Candidate assessment:** 512 distinct candidate locations, counted by repository path and line at the audited endpoint. Context distinguished confirmed regressions, lawful technical expressions, historical quotations, register-specific expressions and inherited wording. After independent review, no newly introduced candidate remains awaiting an architect determination. Eight initially uncertain note labels were resolved through the existing note-title and series-consistency standards; the registered E₁₅ table gloss was retained in its architectural-counterpart sense.
+
+**Confirmed repair:** 124 distinct line-located passages across 24 files, occupying 102 of the reviewed text-passage units. There are 132 passage-and-restriction findings; eight passages carry defects in two different categories. The repair comprises 72 corpus passages and 52 report passages: 100 additional passages beyond the previously identified 21 corpus and three report passages.
+
+| Restriction or presentation standard | Passage findings |
+|---|---|
+| Document-navigation vocabulary | 15 |
+| Authorship / bibliographic terminology | 14 |
+| Note-title casing and series consistency | 8 |
+| Local list punctuation | 6 |
+| Inline mathematical presentation | 24 |
+| Neutral reflection-language | 2 |
+| Filename citation formatting | 57 |
+| Mathematical statement scope | 2 |
+| Scalar-value wording | 1 |
+| Affirmative rank-language | 2 |
+| Dash meaning in a descriptive compound | 1 |
+
+The two mathematical statement repairs preserve all formulas. In `LM06-applied-structural-dynamics.md` §7.1, zero Motive Intensity can make one contribution vanish while the total drift retains its stated direction; the explanation now distinguishes positive and nonnegative contributions. In `SN06-replenishment-reconnection-and-restoration.md` §12, the pointwise positive-net-rate condition is stated as sufficient, matching §2.3, rather than necessary for a positive accumulated change. A deficit subinterval does not exclude a positive net gain across the complete interval. No replacement model or additional mathematical structure was introduced.
+
+**Post-repair verification:** The original base-to-repair-commit delta was recomputed and reviewed. Both repair commits were also inspected separately. The repeat review identified further citation and inline-mathematical presentation defects and one conditional rank-language defect; these were corrected in the second append-only repair commit before final clearance. Every repaired file equals the prior file plus its exact approved replacements, with no additional edits. All original passage identifiers remain accounted for. Straight quotation marks and apostrophes, slash and dash spacing, heading and note conventions, list and table presentation, mathematical delimiters and glyph treatment were included in the review. Required Markdown hard-break spaces were preserved. Static presentation checks do not establish a completed TeX rendering; the previously recorded rendering limitation remains.
+
+**Confidence boundary:** The resulting implementation delta has no unresolved introduced regression in the completed review. This is a finite implementation-cycle result, not a claim that all historical repository language is free of drift. Byte-inherited wording inside modified lines was distinguished from newly composed text and was not silently repaired. Sixty-three defective intermediate-history line occurrences already absent from the audited pre-repair endpoint remain preserved in prior commits; their history is not rewritten or declared clean.
+
+**Inherited findings outside this repair:** Existing wording and claims remain separately identifiable, including the net-change-sign / variation-pathology summaries in `structural-neuroscience/README.md`, `SN05-the-metric-cost-of-centropic-cognition.md`, `SN07-collective-cognition-and-centropy-forward-social-architecture.md` and `SN11-applied-structural-diagnostics.md`. Those unchanged summaries require a separate bounded review in relation to the current `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` account. Their discovery qualifies the earlier completion assessment of that dependency family; the earlier matrix remains a record of its stated verification revision. No inherited passage receives a new clearance from this regression audit.
+
+**Protected standing:** D18 remains HOLD. All fifteen primary dimensional loci remain held. Registered names, glyphs, operator functions, explicit mathematical holds, historical quotations, retired bodies, origin continuity and essential-orientation invariance remain intact. No new architect question arose from the repaired text.
+
+**Exact repaired paths:**
+
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP03-expression-ratio-mathematics.md`
+- `structural-physics/SP04-orientation-field-dynamics.md`
+- `structural-physics/SP07-energy-ontology-and-spectral-flow.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `structural-physics/SP10-ritual-energetics-and-integration-protocols.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `structural-physics/spx/temporal-experience-across-the-hypostatic-lattice.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/grand-unified-document.md`
+
+**Publication queue continuity:** The existing read-only Zenodo publication-impact audit remains unchanged. These repairs affect high-priority families F02, F03, F04, F05, F06, F07, F08, F14, F16, F18, F19, F21, F22, F23, F24, F25, F27, F28 and F29. Their identifiers retain the meanings in that audit. This correction creates no Zenodo action or immediate publication requirement.
+
+**History preservation:** The repair commits are descendants of the audited endpoint. All prior commit identifiers, parent relations, author and committer timestamps remain intact.
+
 ## Current Coverage Corrections and Remaining Decisions
 
 The following must be distinguished rather than grouped as newly discovered doctrine:
