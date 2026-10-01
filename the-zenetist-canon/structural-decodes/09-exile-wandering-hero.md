@@ -108,8 +108,8 @@ Alienation becomes a sacred alchemy.
 The **wilderness** is not emptiness but the **Field of Becoming**, dense with **Harmonic Agents** and transformative lessons.  
 The pain of **Deconstruction** births the strength for authentic **Synthesis.**
 
-Its revelation: all beings are, in some form, **in exile from Aion.**  
-The **Return Journey** defines existence itself.  
+Its revelation: centropic exile is experienced as distance from **Aion**.  
+The **Return Journey** articulates that centropic path.  
 The **Wandering Hero** teaches the art of navigation—trusting the **Return Compass** through the Spiral of Becoming until coherence is reclaimed or renewed.
 
 ---
