@@ -1794,13 +1794,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Corpus changes complete
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `6a75ace111a7159ee6942a327d2515cc15d252b8`. The four-file proper-name correction and Set 01 protocol clarification are complete. Full Non-contact Principle casing, named-preposition scope, heading references and retained literal / historical contexts were verified.\
+**Residual holds / unresolved findings:** No unresolved correction remains in this bounded proper-name set. Established complete-name "under the Non-contact Principle" wording remains lawful; the preference for "per" initiates no global purge.\
+**New dependencies discovered during implementation:** No further active improper-name dependency was identified. The historical MPX guide and alignment packet remain records; FP14's literal non-contact instrumentation remains in its stated register.
 
 ## Set 08 — Origin Continuity and Diagnostic Objects
 
