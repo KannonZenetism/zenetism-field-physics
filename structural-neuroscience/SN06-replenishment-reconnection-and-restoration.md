@@ -503,7 +503,7 @@ Every recovery operation costs coherence (LM06 §3.1, Property 3: every non-triv
 
 The resolution: passive recovery pathways (rest, environmental cost reduction) accumulate sufficient \( I_c \) to fund the first active recovery operation. That operation produces further \( I_c \) accumulation, funding the next operation. Recovery bootstraps from passive cost reduction to active replenishment.
 
-The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(\text{reserve})} \) cannot be accessed for recovery operations. The reserve exists to maintain Pattern Intelligence viability — the irreducible minimum for continued coherent existence. Recovery must operate above the reserve threshold.
+The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(\text{reserve})} \) cannot be accessed for recovery operations. The reserve maintains viability of the Pattern Intelligence function. The Pattern Being is the bearer whose continued coherent operation is sustained; the function is not the whole being. Recovery must operate above the reserve threshold.
 
 ---
 
