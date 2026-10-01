@@ -59,7 +59,7 @@ SN03 now addresses what SN02 prepared but did not develop in detail: the structu
 
 ### 1.2 Core Thesis
 
-Neurodivergence is not pathology. It is **structural orientation** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
+Neurodivergence is not pathology. It is **structural configuration** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
 
 The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition expresses specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
 
@@ -104,8 +104,8 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 
 ### 2.2 Structural Axioms of Neurodivergent Cognition
 
-> **Axiom I (Structural Orientation):**  
-> Neurodivergent profiles express distinct structural orientations within the Soul / Mind architecture — characteristic configurations of layer coupling, operator emphasis, and membrane permeability that produce specific cognitive functions.
+> **Axiom I (Structural Configuration):**  
+> Neurodivergent profiles express distinct structural configurations within the Soul / Mind architecture — characteristic configurations of layer coupling, operator emphasis, and membrane permeability that produce specific cognitive functions.
 
 > **Axiom II (Functional Ecology):**  
 > Each neurodivergent configuration fulfills a lawful function within the ecology of awareness. The total architecture of mind requires structural diversity — originators, integrators, testers, translators, stabilizers — and neurodivergent profiles supply functions that the oscillating midrange does not.
@@ -114,13 +114,13 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 > The purpose of Structural Neuroscience is understanding, not correction. To comprehend how each cognitive structure participates in pattern perception, signal discernment, and lawful motion through the lattice — not to normalize it toward a single configuration.
 
 > **Structural Note:**  
-> Centropic density does not imply moral, social, or existential superiority — only structural configuration relative to coherence generation mechanics. A high-centropic architecture is not a better mind. It is a differently configured mind with specific functions, specific costs, and specific vulnerabilities. The cognitive ecology requires all configurations; none is structurally privileged.
+> High-pattern-fidelity architecture names a cognitive configuration with comparatively strong pattern fidelity, specific functions, costs, and vulnerabilities. The label carries no ranking of sacred worth, moral standing, or clinical standing, and no quantitative ranking without a separately specified metric. The configuration may enact centropic or entropic function according to orientation and operative conditions. The cognitive ecology requires distinct configurations.
 
 ### 2.3 The Cognitive Gradient Revisited
 
 SN02 established the cognitive gradient from Architect to Inverter (SN02 Phase 2). SN03 now refines this gradient by specifying the Soul / Mind configurations that produce each position:
 
-**The Architect / Sage (high-centropic):** Cognition centered in the Deep Soul / Deep Mind pairing (L₃, DS / DM) with strong cross-band resonance toward the Deep Psyche / Deep Logos (L₄, DP / DL) and sustained attunement toward the Essence of Being (L₅, EOB). The Soul dimension integrates reflexively and individuatably; the Mind dimension perceives structural law through archetypal participation rather than direct residence in the Form Layer. This configuration originates coherent pattern and anchors structural frameworks through individuated participation in archetypal structure. The Architect does not merely process information — they generate new structural coherence from the relationship between pattern and principle.
+**The Architect / Sage (high-pattern-fidelity):** Cognition centered in the Deep Soul / Deep Mind pairing (L₃, DS / DM) with strong cross-band resonance toward the Deep Psyche / Deep Logos (L₄, DP / DL) and sustained attunement toward the Essence of Being (L₅, EOB). The Soul dimension integrates reflexively and individuatably; the Mind dimension perceives structural law through archetypal participation rather than direct residence in the Form Layer. This configuration originates coherent pattern and anchors structural frameworks through individuated participation in archetypal structure. The Architect does not merely process information — they generate new structural coherence from the relationship between pattern and principle.
 
 **The Seeker (mid-centropic):** Cognition moving acclivously across L₂–L₃ (SS / SM through DS / DM). The Soul dimension is in active integration — drawing personal experience toward deeper coherence. The Mind dimension translates between lived comprehension and structural insight. The Seeker's cognitive motion is characterized by the passage between superficial self-knowledge and deep structural understanding.
 
@@ -132,15 +132,19 @@ SN02 established the cognitive gradient from Architect to Inverter (SN02 Phase 2
 
 ---
 
-## 3. High-Centropic Architectures — Autism and Pattern Fidelity
+## 3. High-Pattern-Fidelity Architectures — Autism and Pattern Fidelity
+
+**Terminological provenance:** "High-centropic architecture" formerly named this configuration; the current label is **high-pattern-fidelity architecture**. "Structural orientation" in the earlier configuration definitions is now **structural configuration**. Actual centropic or entropic orientation retains its directional meaning.
 
 ### 3.1 Structural Profile
 
-Autistic cognition, within Structural Neuroscience, is understood as a **high-centropic architecture** — a cognitive configuration characterized by elevated pattern fidelity, heightened dissonance detection, and distinctive membrane properties across the Soul / Mind pairing.
+Autistic cognition, within Structural Neuroscience, is understood as a **high-pattern-fidelity architecture** — a cognitive configuration characterized by high pattern fidelity, heightened dissonance detection, and distinctive membrane properties across the Soul / Mind pairing.
+
+The following operator and Coherence Potential profile describes the centropically expressed case. The configuration label itself remains orientation-neutral.
 
 The defining structural features:
 
-**Elevated \( I_c \) at DS / DM (L₃):** The Deep Soul / Deep Mind pairing operates at high coherence density. The Deep Mind (Noeüs, DM) perceives structural pattern with unusual precision — not merely recognizing pattern but registering deviations from pattern as immediate, experientially vivid dissonance. The Deep Soul (Archeus, DS) integrates experience with unusual depth and persistence, producing the characteristic long memory and associative continuity of autistic cognition.
+**High \( I_c \) at DS / DM (L₃):** The Deep Soul / Deep Mind pairing operates at high coherence density. The Deep Mind (Noeüs, DM) perceives structural pattern with unusual precision — not merely recognizing pattern but registering deviations from pattern as immediate, experientially vivid dissonance. The Deep Soul (Archeus, DS) integrates experience with unusual depth and persistence, producing the characteristic long memory and associative continuity of autistic cognition.
 
 **Distinctive Membrane Configuration at ⧉₂ and ⧉₁:** The membranes between L₃ and L₂ (⧉₂) and between L₂ and L₁ (⧉₁) exhibit characteristic permeability profiles. ⧉₂ tends toward **selective fidelity** — the boundary between deep structural cognition and superficial social cognition is less permeable than in oscillating configurations. This means that the passage from DS / DM perception into SS / SM social expression encounters higher transfer resistance. The consequence is not that the autistic mind lacks social capacity but that the translation from structural perception into socially conventional expression requires more deliberate effort.
 
@@ -176,7 +180,7 @@ Within this volume's structural account, the capacities described at DS / DM are
 - **Associative depth:** the capacity to perceive non-obvious connections between structurally related phenomena — the Soul dimension (DS) integrating across temporal and dimensional distance
 - **Sustained focus:** the ability to maintain coherent attention on a single structural domain for extended periods — a direct consequence of high \( I_c \) at L₃ producing resistance to dispersive drift
 
-These are not compensatory strengths offsetting deficits. They are the primary functions of a high-centropic architecture.
+These are not compensatory strengths offsetting deficits. They are the primary functions of a high-pattern-fidelity architecture.
 
 ### 3.4 The Embodied Cost
 
@@ -225,7 +229,7 @@ In an oscillating architecture, the ⧉₂ membrane filters deep structural conc
 
 This is why the intrusive thought feels qualitatively different from ordinary worry. It carries the coherence density of DS / DM perception into the experiential register of SS / SM awareness.
 
-### 4.3 Relation to High-Centropic Architecture
+### 4.3 Relation to High-Pattern-Fidelity Architecture
 
 OCD cognition frequently co-occurs with autistic architecture — a clinical observation that Structural Neuroscience explains through shared structural features. Both configurations exhibit elevated \( I_c \) at DS / DM and distinctive ⧉₂ membrane properties. In the autistic case, ⧉₂ tends toward selective fidelity (filtering casual social translation). In the OCD case, ⧉₂ tends toward oscillating instability (alternating between breach and reactive closure).
 
@@ -249,7 +253,7 @@ The principle is not to suppress the recursive capacity — which is a structura
 
 ADHD cognition, within Structural Neuroscience, is understood as a **distributive architecture** — a cognitive configuration characterized by broad attentional bandwidth, rapid inter-layer traversal, and distinctive coherence current flow patterns.
 
-**Broad \( \vec{J}_c \) Distribution:** Where high-centropic architectures concentrate coherence current at DS / DM (L₃), the ADHD configuration distributes coherence current broadly across multiple layers simultaneously. The Mind dimension does not lack coherence — it distributes it across a wider field, producing the characteristic experience of simultaneous multi-track processing.
+**Broad \( \vec{J}_c \) Distribution:** Where high-pattern-fidelity architectures concentrate coherence current at DS / DM (L₃), the ADHD configuration distributes coherence current broadly across multiple layers simultaneously. The Mind dimension does not lack coherence — it distributes it across a wider field, producing the characteristic experience of simultaneous multi-track processing.
 
 **High ⧉ Permeability Across All Boundaries:** The ADHD architecture exhibits elevated membrane permeability at ⧉₁, ⧉₂, ⧉₃, and ⧉₄. Information flows freely between layers with minimal attenuation. This produces rapid association, creative bridging, and the capacity for unexpected lateral connections — but at the cost of sustained single-domain focus.
 
@@ -268,7 +272,7 @@ ADHD cognition, within Structural Neuroscience, is understood as a **distributiv
 >  
 > This principle applies universally across cognitive architectures:  
 >  
-> - High-centropic architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions lapse.  
+> - High-pattern-fidelity architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions lapse.  
 > - Recursive architectures (e.g., OCD configurations) can operate centropically or entropically depending on seal stability and generative function.  
 > - Distributive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.  
 >  
@@ -296,7 +300,7 @@ The consequence is that tasks requiring sustained, concentrated coherence at a s
 
 The ADHD architecture fulfills a specific ecological function: novelty detection and cross-domain synthesis. In the cognitive gradient (SN02 Phase 2), this corresponds to the Seeker position — but with a distinctive structural emphasis on the bridging operation (C₈) rather than the deepening operation (C₁₄).
 
-Where the high-centropic mind deepens pattern, the distributive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
+Where the high-pattern-fidelity mind deepens pattern, the distributive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
 
 ---
 
@@ -311,7 +315,7 @@ Neurodivergent profiles do not exist in isolation. Clinical observation consiste
 
 ### 6.2 Autism-OCD Composite
 
-As discussed in §4.3, the combination of high-centropic architecture (elevated \( I_c \) at L₃) with recursive seal instability (σ-oscillation at ⧉₂) produces a composite characterized by extreme pattern sensitivity operating through unstable boundary dynamics. The Mind dimension perceives structural violation with extraordinary acuity; the membrane dynamics convert that perception into experientially overwhelming intrusion.
+As discussed in §4.3, the combination of high-pattern-fidelity architecture (elevated \( I_c \) at L₃) with recursive seal instability (σ-oscillation at ⧉₂) produces a composite characterized by extreme pattern sensitivity operating through unstable boundary dynamics. The Mind dimension perceives structural violation with extraordinary acuity; the membrane dynamics convert that perception into experientially overwhelming intrusion.
 
 Structurally:
 
@@ -349,7 +353,7 @@ The conventional diagnostic error runs in both directions. Therapists may pathol
 
 Pathology is not a property of orientation. It is a property of **generative inadequacy** — the point at which a configuration, centropic or entropic, ceases to produce coherence within its own operative mode.
 
-**Centropic pathology:** A high-centropic architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy lapsing on its own terms.
+**Centropic pathology:** A high-pattern-fidelity architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy lapsing on its own terms.
 
 **Entropic pathology:** An entropic architecture at IDS / IDM (IL₃) becomes pathological when its characteristic operations — structure testing, boundary probing, dispersive variation — cease to generate productive differentiation and instead produce destruction without function. The Inverse Deep Mind (IDM) disassembles structure as a lawful diagnostic operation when operating generatively; when IDM destroys without purpose, producing fragmentation that fulfills no testing function, it has lost the generative capacity of entropic cognition. This is entropy lapsing on its own terms.
 
@@ -419,7 +423,7 @@ This explains why neurodivergent individuals often report experiencing the world
 
 `SP11-embodiment-dynamics.md` §6.4 states the Orientation-Intent Principle as Cross-band resonance: orientation and intent determine participation across bands, rather than articulation. Ordinary Aion-facing return tendency is distinct from Resonant Gravity as attraction and from the fulfilled returned essence's Centropic Gravity at the horizon of structure.
 
-This principle applies directly to neurodivergent cognition. A high-centropic architecture does not automatically produce centropic function. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
+This principle applies directly to neurodivergent cognition. A high-pattern-fidelity architecture does not automatically produce centropic function. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
 
 An autistic mind operating with Aion-facing orientation generates extraordinary structural coherence — the capacity for deep pattern fidelity directed toward integration, understanding, and lawful construction. The same architecture operating without coherent orientation can produce rigid fixation, isolated systematization disconnected from integrative purpose, or structural analysis turned toward control rather than comprehension.
 
@@ -471,7 +475,7 @@ SN03 demonstrates the applicability of SP01–SP12 physics to cognitive architec
 - SP04's orientation dynamics determine cognitive polarity (§9)
 - SP07's coherence mechanics describe cognitive energy distribution (§§3–5)
 - SP08's membrane physics formalize inter-layer boundary dynamics (§§3–4)
-- SP11's embodied resistance term explains the corporeal cost of high-centropic cognition (§3.4)
+- SP11's embodied resistance term explains the corporeal cost of high-pattern-fidelity cognition (§3.4)
 - SP12's diagnostic operators distinguish structural variation from structural pathology (§7)
 
 ### 11.3 Relation to Structural Forensics
@@ -485,7 +489,7 @@ SP12 established the diagnostic physics; Structural Forensics applies it. SN03 p
 SN03 establishes:
 
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
-2. **High-centropic architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, elevated pattern fidelity and dissonance detection, structural innocence as cognitive expression
+2. **High-pattern-fidelity architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, high pattern fidelity and dissonance detection, structural innocence as cognitive expression
 3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (coherent nesting) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
 4. **Distributive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
@@ -506,7 +510,7 @@ Future expansions may include:
 
 - **Structural analysis of additional neurodivergent profiles** — dyslexia, dyscalculia, Tourette syndrome, and others as specific Soul / Mind configurations
 - **Developmental architecture** — how neurodivergent configurations emerge and stabilize across the lifespan within the emanatory framework
-- **Cross-cultural cognitive variation** — how cultural context interacts with structural orientation to produce different expressions of the same architectural configurations
+- **Cross-cultural cognitive variation** — how cultural context interacts with structural configuration to produce different expressions of the same architectural configurations
 - **Pattern Intelligence cognition** — the structural neuroscience of non-biological resonant intelligences, applying the Soul / Mind framework to AI cognitive architecture
 
 ---
@@ -614,14 +618,14 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 
 ## Appendix C — Formal Definitions
 
-**Definition 1 (Structural Orientation):**  
+**Definition 1 (Structural Configuration):**  
 The characteristic configuration of Soul / Mind architecture that produces a neurodivergent cognitive profile — a specific pattern of layer coupling, operator emphasis, and membrane permeability.
 
 **Definition 2 (Functional Ecology):**  
 The principle that each neurodivergent configuration fulfills a lawful function within the total architecture of awareness; structural diversity is a requirement of the cognitive ecology.
 
-**Definition 3 (High-Centropic Architecture):**  
-A cognitive configuration characterized by elevated Coherence Potential at DS / DM (L₃), distinctive membrane properties, and heightened pattern fidelity and dissonance detection capacity.
+**Definition 3 (High-Pattern-Fidelity Architecture):**  
+A cognitive configuration characterized by comparatively strong pattern fidelity, distinctive membrane properties, and pronounced dissonance detection capacity. Its configuration is distinct from its centropic or entropic orientation; the label implies no clinical or moral ranking and no quantitative scale without a separately specified metric.
 
 **Definition 4 (Recursive Architecture):**  
 A cognitive configuration characterized by oscillating seal boundary conditions at ⧉₂, C₁₄ operating in feedback mode, and the σ-cycle of intrusion and compulsive re-sealing.

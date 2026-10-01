@@ -238,7 +238,7 @@ Restore resonance with DP / DL (🌬️ Morgis / 📐 Sophis, L₄) and potentia
 This stage cannot be forced. Cross-band resonance restores when the \( I_c \) accumulated through Stages 1–3 reaches the threshold for sustained cross-layer resonance at ⧉₃. Attempting to force L₄ resonance from a partially recovered L₃ base produces unstable connection — flickering insight without sustained capacity.
 
 > **Note on Autistic Inward Resonance:**  
-> Autistic cognition is not exhaustively bound to L₃ or L₄. While it often operates through reflexive individuation at L₃ with strong L₄ resonance, some high-centropic configurations exhibit inward continuity beyond these registers — through L₅ (EOB), L₀ (AP / AD), and in exceptional cases to comprehension resonant with Supra-L₀ (UP) — permitting unusual articulation of inward structural reality. The acclivous centropic path (L₃ → L₄ → L₅ → L₀ → Supra-L₀) is the return arc toward Source (⚫ Aion, L₀) and, for the most centropically coherent essences, beyond Source to the trans-structural horizon (🕳️ Zenon, Supra-L₀) where structural articulation falls silent. Autistic pattern fidelity may permit sustained resonance along this arc that other cognitive configurations do not achieve. Recovery of this full inward resonance range is the completion of Stage 4, not merely the restoration of L₃–L₄ coupling.
+> Autistic cognition is not exhaustively bound to L₃ or L₄. While it often operates through reflexive individuation at L₃ with strong L₄ resonance, some high-pattern-fidelity configurations exhibit inward continuity beyond these registers — through L₅ (EOB), L₀ (AP / AD), and in exceptional cases to comprehension resonant with Supra-L₀ (UP) — permitting unusual articulation of inward structural reality. The acclivous centropic path (L₃ → L₄ → L₅ → L₀ → Supra-L₀) is the return arc toward Source (⚫ Aion, L₀) and, for the most centropically coherent essences, beyond Source to the trans-structural horizon (🕳️ Zenon, Supra-L₀) where structural articulation falls silent. Autistic pattern fidelity may permit sustained resonance along this arc that other cognitive configurations do not achieve. Recovery of this full inward resonance range is the completion of Stage 4, not merely the restoration of L₃–L₄ coupling.
 
 ---
 
@@ -278,7 +278,7 @@ The C₈ / E₉ diagnostic axis (LM06 §9.3) distinguishes these: whether coupli
 
 Different cognitive architectures require different bridge characteristics:
 
-**Autistic architecture (high-centropic):** Bridge relationships function best when they operate through the DS / DM register — shared structural engagement rather than social performance. Parallel activity (working alongside), shared pattern exploration, and direct communication that does not require SS / SM social translation all reduce the bridge cost. The bridge that demands social performance as a condition of support re-imposes the coherence tax within the recovery context.
+**Autistic architecture (high-pattern-fidelity):** Bridge relationships function best when they operate through the DS / DM register — shared structural engagement rather than social performance. Parallel activity (working alongside), shared pattern exploration, and direct communication that does not require SS / SM social translation all reduce the bridge cost. The bridge that demands social performance as a condition of support re-imposes the coherence tax within the recovery context.
 
 **Recursive architecture (OCD):** Bridge relationships function best when they provide stable external seal reference — a consistent, predictable relational environment that reduces the ⧉₂ oscillation frequency. The bridge partner's stability at their own boundary becomes an external regulator for the recovering being's membrane dynamics. Unpredictable, high-volatility relational environments amplify σ-cycling.
 
@@ -316,7 +316,7 @@ In practice, complete cost elimination is rarely achievable within a Khaonically
 
 ### 5.3 The Recovery Environment
 
-The ideal recovery environment, for any cognitive architecture, minimizes the three SN05 cost vectors while maximizing the four replenishment pathways (Source, bridge, rest, collective). In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural orientation (enabling Source reconnection and bridge replenishment).
+The ideal recovery environment, for any cognitive architecture, minimizes the three SN05 cost vectors while maximizing the four replenishment pathways (Source, bridge, rest, collective). In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural configuration (enabling Source reconnection and bridge replenishment).
 
 The Khaonically-expressed social field rarely provides such environments spontaneously. They must be deliberately constructed — which itself costs coherence. This recursive cost (the cost of constructing the conditions for recovery) should be recognized as a structural feature of centropically oriented life within an entropy-forward field, not as a personal failure to "manage self-care."
 

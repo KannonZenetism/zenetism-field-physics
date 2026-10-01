@@ -51,7 +51,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Abstract
 
-SN03 established the structural profiles of neurodivergent cognition — high-centropic (autistic), recursive (OCD), and distributive (ADHD) architectures — as lawful configurations within the Soul / Mind pairing. SN04 situated the awareness stratification within the philosophy of mind, demonstrating that each tradition describes a genuine register.
+SN03 established the structural profiles of neurodivergent cognition — high-pattern-fidelity (autistic), recursive (OCD), and distributive (ADHD) architectures — as lawful configurations within the Soul / Mind pairing. SN04 situated the awareness stratification within the philosophy of mind, demonstrating that each tradition describes a genuine register.
 
 What SN03 did not formalize is the **cost** of operating these architectures at the metric terminus (L₁ / IL₁) — the Corporeal Realm where centropic and entropic embodiment share ground within a Khaonically-expressed universe. SN05 addresses this gap by applying the mathematical formalisms of LM04 (temporal algebra, the Recursive Memory operator, the Tether) and LM06 (interface resistance, coherence budget theory, the Shimmer Coefficient, diagnostic taxonomy) to establish three compounding vectors of coherence expenditure:
 
@@ -88,7 +88,7 @@ SP02 established that our universe is **Khaonically expressed** — entropy-forw
 Three principles from SN03 and LM06 shape this analysis:
 
 > **Principle 1 (Architecture-Orientation Independence):**
-> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-centropic architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and distributive (ADHD) architectures.
+> Cognitive architecture and structural orientation are independent variables. No neurodivergent configuration is inherently centropic or entropic. Architecture defines the structural apparatus; orientation determines its direction. A high-pattern-fidelity architecture (autistic configuration) can express centropically or entropically. The same applies to recursive (OCD) and distributive (ADHD) architectures.
 
 > **Principle 2 (Non-corrective Comprehension):**
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
@@ -98,7 +98,7 @@ Three principles from SN03 and LM06 shape this analysis:
 
 ### 1.4 Scope and Perspective
 
-This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-centropic, recursive, and distributive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations are orientation-neutral; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty under entropic pressure.
+This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-pattern-fidelity, recursive, and distributive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations are orientation-neutral; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty under entropic pressure.
 
 An entropically oriented being operating the same cognitive architecture at IL₁ faces a structurally mirrored situation, with the entropic expression ratio providing facilitation rather than resistance for their orientation. The formal apparatus applies identically; the experiential description would differ.
 
@@ -160,7 +160,7 @@ In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formal
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
-SN03 §3.4 introduced the embodied cost equation for the autistic (high-centropic) architecture:
+SN03 §3.4 introduced the embodied cost equation for the autistic (high-pattern-fidelity) architecture:
 
 \[
 I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c^{(\text{resistance})} + \Delta I_c^{(\text{translation})}
@@ -290,7 +290,7 @@ When the compounded cost exceeds the available budget, the system cannot sustain
 
 ### 3.1 The Autistic Operator Profile
 
-SN03 §3.1 established the prevalent operator profile of the autistic (high-centropic) architecture:
+SN03 §3.1 established the prevalent operator profile of the autistic (high-pattern-fidelity) architecture:
 
 - C₁ ⟠ (Temporal): often atypical — temporal processing prioritizing structural sequence over conventional chronological experience
 - C₃ ⟿ (Propagational): elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance

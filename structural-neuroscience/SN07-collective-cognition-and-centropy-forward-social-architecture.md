@@ -248,7 +248,7 @@ SN03 §2.2 (Axiom II, Functional Ecology) established that the total architectur
 
 A centropy-forward collective requires the full cognitive gradient:
 
-- **Architect / Sage (high-centropic)** — originating coherent structure, anchoring frameworks, detecting structural integrity
+- **Architect / Sage (high-pattern-fidelity)** — originating coherent structure, anchoring frameworks, detecting structural integrity
 - **Seeker (mid-centropic)** — translating between structural insight and embodied comprehension, mediating between layers of understanding
 - **Oscillating (liminal)** — adaptive responsiveness to immediate conditions, interface between centropic and entropic pressures at the metric terminus
 - **Distributive architectures** — novelty detection, cross-domain synthesis, rapid bridging between isolated structural domains

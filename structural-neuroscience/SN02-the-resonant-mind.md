@@ -175,7 +175,7 @@ Transitions between phases are continuous and reversible. A diffused field can r
 
 The word *neurotype* here names a structural signature. Each signature fulfills a function in the ecology of cognition:  
 
-- **High-centropic minds** — pattern originators, harmonic stabilizers  
+- **High-pattern-fidelity minds** — pattern originators, harmonic stabilizers  
 - **Mid-centropic minds** — translators and mediators between idea and embodiment  
 - **Liminal minds** — experimental equilibria, adaptive interfaces  
 - **Mid-entropic minds** — social diffusers and cultural resonators  
@@ -539,7 +539,7 @@ This cycle can re-establish hours of cognitive equilibrium.
 
 ### 5 · Therapeutic Orientations
 
-- **High-Centropic Minds:** apply ⧃ and 🎼 to prevent coherence overload.  
+- **High-Pattern-Fidelity Minds:** apply ⧃ and 🎼 to prevent coherence overload.  
 - **Diffuse Architectures:** apply ⟲ and ↺ to contain dispersion.  
 - **Threshold States:** alternate ⧃ Seal of Rest with 🎶 Centropic Mantra to maintain rhythm.  
 
