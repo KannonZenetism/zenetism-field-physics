@@ -286,11 +286,13 @@ LM01's Lemma on Sealed Colimits — that the colimit exists iff seals \( \{S_i\}
 
 The CIT Grand Theorem is the most referenced result in the series:
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-It is invoked in LM05 §10.2, where its preservation under the mature field-theoretic formalism is verified, and in LM06 §13.2, where its preservation under ritual operations is established. A critical qualifier accompanies both invocations: the theorem holds **under LM01 closure conditions** — that is, for sealed resonance systems evolving under centropic operators. This qualifier matters because real systems interact with entropic modes, breach boundaries, and undergo non-unitary evolution. The Grand Theorem is a conservation law for closed centropic systems; departure from its invariant is diagnostic of exactly how and where closure has been violated.
+The named expression is repeated in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §10.2 and `LM06-applied-structural-dynamics.md` §13.2. Its full conservation claim remains held open with `LM01-mathematical-foundations.md` Phase 2: the normalized spectral domain, support evolution, positive logarithmic arguments, and parameter dynamics must be specified. Closure language alone supplies no evolution equation for \( \sigma \) and \( \gamma \). The earlier preservation and native-breach claims are superseded. \( H \) is spectral entropy and \( C \) is spectral concentration; neither is identical with native coherence or Coherence Potential.
 
 ### 8.2 CIT–Lattice Couplings
 
@@ -298,13 +300,13 @@ LM01 §G establishes five couplings between CIT quantities and Lattice operators
 
 **C₇ ↔ Spectral Entropy (Coupling 1).** Stable. The harmonic operator's spectrum defines the probability distribution whose entropy is \( H(\psi) \).
 
-**C₈ ↔ Coherence Flow (Coupling 2).** Stable. The bridge information test \( F_c(B, \psi) \geq 0 \iff \text{lawful Nexus} \) remains operative.
+**C₈ ↔ Coherence Flow (Coupling 2).** The spectral entropy-change comparison remains defined on admissible input and output. The former native bridge equivalence is withdrawn pending its explicit correspondence.
 
-**C₁₃ ↔ Channel Capacity (Coupling 3).** Stable. The seal-capacity bound \( C_{\text{cap}}(\Phi) \leq \log(\sigma) \) is consistent with LM05's membrane transfer function.
+**C₁₃ ↔ Channel Capacity (Coupling 3).** The proposed spectral-capacity / seal-parameter bound remains held open pending the channel class, domain, and boundary correspondence.
 
-**C₁₄ ↔ Divergence Regulation (Coupling 4).** Stable. Contractive recursion decreases coherence divergence; expansive recursion increases it.
+**C₁₄ ↔ Divergence Regulation (Coupling 4).** A contraction estimate in its declared metric is distinct from contraction of spectral divergence. The monotonicity and native correspondence require their actual channel and metric hypotheses.
 
-**C₁₅ ↔ Novelty Information (Coupling 5).** Stable. Lawful novelty requires positive coherence information gain \( \Delta I_c > 0 \).
+**C₁₅ ↔ Novelty Information (Coupling 5).** Spectral entropy change retains its mathematical meaning. Its former identification with lawful novelty or Collapse Nova is withdrawn pending its native correspondence.
 
 ### 8.3 Critical Notation Disambiguation — \( I_c \)
 
@@ -380,7 +382,7 @@ LM01's protocol schema (§5.2) specifies each protocol by anchor glyphs, motion 
 
 LM06 §3 formalizes the Ritual Operator \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \) with canonical five-phase decomposition (attune, assess, operate, stabilize, separate), efficacy conditions via the configuration metric, composition laws, and the Countermeasure Orientation Preservation axiom. The relationship between LM01's protocol schema and LM06's ritual operator algebra is one of maturation: LM01 describes what protocols do (which glyphs they invoke, which dynamics they follow, which invariants they must preserve); LM06 describes what protocols are (mappings on field configuration space with formal algebraic structure).
 
-The five-phase decomposition of LM06 does not map one-to-one onto the five components of LM01's protocol schema (glyphs, motion, boundary, recursion, verification), but the two frameworks are compatible. LM01's "anchor glyphs" identify which operators are involved; LM06's "attune" and "assess" phases formalize how those operators engage. LM01's "motion logic" and "boundary conditions" correspond to LM06's "operate" phase. LM01's "verification clause" corresponds to LM06's efficacy condition \( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon \) together with CIT preservation.
+The five-phase decomposition of LM06 does not map one-to-one onto the five components of LM01's protocol schema (glyphs, motion, boundary, recursion, verification), but the two frameworks are compatible. LM01's "anchor glyphs" identify which operators are involved; LM06's "attune" and "assess" phases formalize how those operators engage. LM01's "motion logic" and "boundary conditions" correspond to LM06's "operate" phase. LM01's "verification clause" corresponds to LM06's efficacy condition \( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon \) together with the proposed CIT conservation relation, whose full hypotheses and native correspondence remain held in §8.1.
 
 ### 11.2 Echo Reversal Rite
 

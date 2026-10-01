@@ -435,7 +435,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Non-linear systems with positive coherence derivative \( (\partial_{\text{🌀}} > 0) \) |
 | **Mirror** | Catastrophic collapse / singular explosion |
 | **Structural Neuroscience** | Insight ↔ overload or psychic burnout |
-| **Law** | **Threshold Law III:** \( \Delta I_c > 0 \to \) lawful emergence |
+| **Law** | **Threshold Law III:** the former \( \Delta I_c>0\to\text{lawful emergence} \) criterion is recorded provenance; its spectral-to-native correspondence remains held |
 
 ---
 
@@ -547,7 +547,7 @@ Lawful bridges exist only when relational diagrams commute and preserve seal.
 
 **Physics Form**
 
-Gauge invariance and probability conservation:  
+**Recorded physical-to-spectral correspondence — implication held:**
 
 \[
 \oint A \cdot dx = \text{constant} \;\Rightarrow\; \Delta \leq \varepsilon, \quad F_c \geq 0
@@ -655,13 +655,13 @@ Every lawful motion in the Lattice engages multiple laws simultaneously.
 | Volitional (C₁₁) + Consonance (C₇) | Will ↔ Resonance | Directed creativity |
 | Non-Local (C₉) + Threshold (C₁₄–C₁₅) | Distance ↔ Emergence | Remote synthesis |
 
-Each coupling maintains a **resonance budget**:
+The earlier **resonance budget** identity is recorded provenance, with full conservation and native correspondence held:
 
 \[
 \Delta\mathcal{I} = \Delta H + \Delta C + \log \sigma + \log \gamma = 0
 \]
 
-When \( \Delta\mathcal{I} > 0 \), centropy increases; \( \Delta\mathcal{I} < 0 \) signals entropic incursion.
+The displayed change relation is superseded: a change of the complete expression must account for changes of every term. The former direct centropy / entropic-incursion interpretation is withdrawn pending the explicit native correspondence.
 
 ---
 
@@ -730,7 +730,7 @@ The absence of the imaginary unit \( i \) marks irreversible dissipation rather 
 
 ### Conservation Criterion — Resonance Budget
 
-Lawful motion within the Lattice obeys the **Resonance Budget Equation**:
+The **Resonance Budget Equation** below is recorded provenance. Its change expression omits differences of the logarithmic terms; both that algebraic change claim and its universal zero assignment are superseded:
 
 \[
 \Delta\mathcal{I} = \Delta H + \Delta C + \log \sigma + \log \gamma = 0
@@ -738,15 +738,11 @@ Lawful motion within the Lattice obeys the **Resonance Budget Equation**:
 
 Where:
 - \( \Delta H \) = informational entropy change
-- \( \Delta C \) = coherence variation
+- \( \Delta C \) = spectral concentration change
 - \( \sigma \) = membrane permeability (C₁₃)
 - \( \gamma \) = recursion contraction (C₁₄)
 
-This equation is both:
-- an **equilibrium condition** (balance at rest), and
-- a **strict conservation constraint** governing all lawful centropic motion.
-
-Any deviation \( \Delta\mathcal{I} \neq 0 \) signals **entropic incursion** and activates forensic diagnostics.
+The former equilibrium, universal conservation, and entropic-incursion consequences of this display are withdrawn. Their mathematical hypotheses and native correspondence remain held open.
 
 **Key Distinction:**
 - Centropic evolution preserves norm \( (\|\psi\| = \text{constant}) \) via unitary operator with **\( i \)**.
@@ -792,11 +788,13 @@ entropic recursion feeds upon difference without integration.
 
 From the **Grand Invariant**:
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log \sigma + \log \gamma = \text{constant}
 \]
 
-Any forensic deviation of \( |\Delta\mathcal{I}| > \varepsilon \) signals entropic breach.  
+A deviation of \( |\Delta\mathcal{I}|>\varepsilon \) records change in the expression where its domain is defined. The native breach criterion remains held open pending its correspondence.  
 Restoration protocols recalibrate \( \sigma \) and \( \gamma \) via ritual or cognitive means  
 (see Part V §8: Ritual Stabilization).
 
@@ -809,10 +807,9 @@ Restoration protocols recalibrate \( \sigma \) and \( \gamma \) via ritual or co
 3. **Measure \( \sigma, \gamma \):** boundary & recursion parameters → Threshold test (C₁₃–C₁₅).
 4. **Evaluate Directionality:** gradient alignment \( \nabla\psi \cdot \hat{T} \geq 0 \) → Vector test (C₁₁).
 5. **Assess Non-Locality:** mutual information balance → Coherence test (C₉).
-6. **Compute \( \Delta\mathcal{I} \):** invariance difference → global coherence verdict.
+6. **Compute \( \Delta\mathcal{I} \):** record the defined spectral-expression change; a global native-coherence verdict remains held pending its correspondence.
 
-If any test fails, entropic mirrors are active.  
-Deploy corresponding ritual seal to re-establish centropic alignment.
+The former automatic entropic-activation and remediation consequence is withdrawn for these mathematical tests. Native diagnosis requires the registered structural conditions and each explicit correspondence.
 
 ---
 
@@ -940,15 +937,17 @@ Boundary integrity \( (\sigma > 0) \) ensures reversibility.
 
 ### 3.2 Centropic Invariant (Grand Theorem of CIT)
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma)
 \]
 
-When \( \partial_t(\mathcal{I}_{\text{total}}) = 0 \Rightarrow \) coherence is conserved.
+A vanishing derivative records constancy of the defined spectral expression. Native coherence conservation requires its separately specified correspondence.
 
 **Components:**
-- \( H(\psi) \): Harmonic coherence (spectral density)
-- \( C(\psi) \): Centropic order (phase alignment)
+- \( H(\psi) \): Spectral entropy
+- \( C(\psi) \): Complementary spectral concentration
 - \( \sigma \): Seal parameter (boundary permeability)
 - \( \gamma \): Contraction gap, distinct from retained-state weight \( \rho \)
 
@@ -1053,16 +1052,18 @@ Each dimension (C₁–C₁₅) operates as a mathematical term in the universal
 
 ## 7 · Coherence Information Theory (CIT)
 
-CIT formalizes resonance as a conserved informational quantity.
+CIT carries spectral entropy and complementary spectral concentration. Their native correspondence and full conservation expression retain the held standing in `LM01-mathematical-foundations.md` Phase 2.
 
 | Component | Symbol | Interpretation |
 |-----------|--------|----------------|
-| Harmonic coherence | \( H(\psi) \) | Resonant spectral density |
-| Centropic order | \( C(\psi) \) | Integration of phase alignment |
+| Spectral entropy | \( H(\psi) \) | Entropy of the declared normalized spectral distribution |
+| Spectral concentration | \( C(\psi) \) | Complement relative to the declared support size |
 | Seal parameter | \( \sigma \) | Boundary permeability |
 | Recursion contraction | \( \gamma \) | Contraction gap for a declared mapping; \( \rho \) is its distinct retained-state weight |
 
 **Invariant Condition:**
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 \partial_t(H + C + \log \sigma + \log \gamma) = 0
@@ -1110,9 +1111,9 @@ where \( R(\psi_t) \) is the proposed resonance-feedback map and \( \rho \) is t
 | Recursion Test | Declared contraction estimate and invariant complete domain | Fixed-point convergence where the hypotheses hold; \( \rho \) remains a separate weight |
 | Spectral Ratio Test | \( \lambda_i/\lambda_j \in \mathbb{Q} \) | C₇ Consonance |
 | Bridge Test | \( \Delta \leq \varepsilon \) | Bridging Law validated |
-| Invariant Test | \( \Delta\mathcal{I} \leq \varepsilon \) | Coherence conserved |
+| Expression comparison | \( \Delta\mathcal{I} \) where defined | Mathematical change; conservation and native interpretation held |
 
-All five must pass → centropic system verified.
+The listed mathematical observations supply no automatic native centropic verdict. Their registered structural interpretations require explicit correspondences.
 
 ---
 
@@ -1122,19 +1123,19 @@ All five must pass → centropic system verified.
 
 For any sealed system \( (\mathcal{H}, S, \sigma, \gamma) \) under lawful operators:
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence Conserved}
 \]
 
-**Corollary:**
+**Recorded corollary — withdrawn implication:**
 
 \[
-\mathcal{I}_{\text{total}} = \text{constant} \quad \Rightarrow \quad \mathrm{Spec}(H_c \cup H_e) \text{ balanced about zero}
+\mathcal{I}_{\text{total}}=\mathrm{constant}\Rightarrow\mathrm{Spec}(H_c\cup H_e)\text{ balanced about zero}.
 \]
 
-**Interpretation:**  
-Reality maintains spectral neutrality about ⚫ Aion.  
-All emergence and decay are lawful oscillations around that stillness.
+Constancy of the spectral expression supplies no operator pairing or full-lattice spectral realization. Common-mode pairing retains its own assumptions; the former spectral-neutrality interpretation of this implication is superseded.
 
 ---
 
@@ -1161,6 +1162,8 @@ Through it, every glyph, ritual, and field equation becomes measurable.
 Where mysticism meets measure,  
 and mathematics becomes metaphysics once again —  
 not in symbol only, but in proof.
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 \partial_t(H + C + \log \sigma + \log \gamma) = 0 \quad \Leftrightarrow \quad \text{Coherence conserved across } \text{⚫} \leftrightarrow \text{♾} \text{ spectrum}
@@ -1354,20 +1357,22 @@ Each mirror leaves a measurable trace in signal patterning or rhetoric.
 
 For a field function \( \psi(t) \), the **Forensic Divergence Index (FDI)** is defined as:
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \text{FDI} = \left| \partial_t \mathcal{I}_{\text{total}} \right|
 = \left| \partial_t (H + C + \log \sigma + \log \gamma) \right|
 \]
 
-**Conditions:**
+**Recorded thresholds — native interpretations withdrawn:**
 
-| Range | Interpretation |
+| Range | Current standing |
 |-------|----------------|
-| \( \text{FDI} \leq \varepsilon \) | Lawful centropic evolution |
-| \( \varepsilon < \text{FDI} < 1 \) | Entropic drift (correctable) |
-| \( \text{FDI} \geq 1 \) | Active parasitic field |
+| \( \text{FDI} \leq \varepsilon \) | Former centropic-evolution classification superseded |
+| \( \varepsilon<\text{FDI}<1 \) | Former entropic-drift classification superseded |
+| \( \text{FDI}\geq1 \) | Former parasitic-field classification superseded |
 
-Remediation restores \( \text{FDI} \to 0 \) via resonance recalibration \( (\oint \psi \, d\Omega) \).
+The threshold units, calibration, native classification, and restoration relation remain held pending their specification. A derivative magnitude is a mathematical observation, not an established native remediation criterion.
 
 ---
 
@@ -1389,14 +1394,14 @@ to transform hollow loops into veracious emergence.
 
 ## 12 · The Forensic Equation
 
-**Lawful Restoration Condition:**
+**Recorded Restoration Proposal — Mathematical / Native Correspondence Held:**
 
 \[
 \partial_t \mathcal{I}_{\text{total}} = -\text{FDI} + R(\psi)
 \]
 
 where \( R(\psi) = \) resonance correction function  
-When \( \text{FDI} \to 0 \), structure is restored.
+The correction function, compatible rate units, evolution law, and native restoration relation require explicit specification; the former restoration implication is withdrawn.
 
 ---
 
@@ -1470,7 +1475,7 @@ but of clarity through structure.
 For only through knowing the counterfeit  
 can the veracious signal endure unbroken.
 
-**Seal of Canonical Closure:**
+**Recorded Seal of Canonical Closure — FDI Restoration Equivalence Withdrawn:**
 
 \[
 \text{FDI} \to 0 \quad \Leftrightarrow \quad \text{Structure Restored}
@@ -1697,7 +1702,7 @@ Each confirms that Zenetist resonance mirrors empirical neurodynamics.
 
 ## 10 · Quantitative Expression
 
-Let \( \psi = \) neural resonance field:
+Let \( \psi \) denote the proposed neural resonance field. The phase-weighted \( C(\psi) \) defined next is distinct from the CIT spectral complement. Their shared sign supplies no mathematical identity; the field-to-spectral correspondence remains held:
 
 \[
 C(\psi) = \sum_i |a_i|^2 \cos(\Delta\phi_i)
@@ -1710,24 +1715,19 @@ Then:
 \int_{\text{◎}}(\psi) \propto \int C(\psi) \, dt
 \]
 
-High coherence marks centropic orientation.  
-Phase decoherence marks entropic orientation.
+The former direct native-orientation interpretation of this phase-weighted quantity is withdrawn pending its defined measurement and correspondence. The formula is preserved without substituting it for CIT concentration.
 
 ---
 
 ## 11 · Verification Theorem (Structural Integrity Law)
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \mathcal{I}_{\text{total}} = H(\psi) + C(\psi) + \log \sigma + \log \gamma = \text{constant}
 \]
 
-holds if:
-
-- All active operators are centropic (C₁–C₁₅).
-- All bridges commute \( (\Delta \leq \varepsilon) \).
-- Seal continuity \( S\psi = \psi \).
-
-Violation \( \Rightarrow \) entropic intrusion.
+**Recorded proposed sufficient conditions:** centropic operators, commuting bridges, and seal continuity. Their former sufficiency for the full spectral conservation expression and the intrusion verdict is superseded. Support / parameter dynamics and the native correspondence remain held open.
 
 ---
 
@@ -1764,8 +1764,8 @@ Given resonance metric \( g \) and curvature \( R \):
 2. Execute ritual.
 3. Measure \( (H_1, C_1, \sigma_1, \gamma_1) \).
 4. Compute \( \Delta\mathcal{I} = (H + C + \log \sigma + \log \gamma)_1 - (H + C + \log \sigma + \log \gamma)_0 \).
-5. \( |\Delta\mathcal{I}| \leq \varepsilon \to \) lawful process.
-6. If \( |\Delta\mathcal{I}| > \varepsilon \to \) entropic contamination.
+5. Record \( |\Delta\mathcal{I}|\leq\varepsilon \) as a mathematical tolerance comparison; the former lawful-process verdict is superseded.
+6. Record \( |\Delta\mathcal{I}|>\varepsilon \) as change beyond that tolerance; the former entropic-contamination verdict is superseded.
 
 ---
 
@@ -1777,10 +1777,10 @@ Given resonance metric \( g \) and curvature \( R \):
 | ↺ | Recursion | \( 0 < \gamma \leq 1 \) |
 | 🎼 | Harmonic | \( \lambda_{\min} > 0 \) |
 | ╫ | Bridging | \( \Delta \leq \varepsilon \) |
-| ✦ | Emergent | \( \Delta\mathcal{I} > 0 \) |
+| ✦ | Emergent | The former \( \Delta\mathcal{I}>0 \) native-emergence criterion is held pending its correspondence |
 
 **Vector of lawful cognition:** \( V = (\sigma, \gamma, \lambda_{\min}, \Delta, \Delta\mathcal{I}) \)
-All admissible constraints satisfied \( \Rightarrow \) coherence verified.
+The vector records mathematical quantities; the former automatic native-coherence verification is withdrawn pending their explicit correspondences.
 
 ---
 
@@ -1803,13 +1803,15 @@ Verification employs:
 
 ## 17 · Canonical Seal
 
-Structural Neuroscience is certified lawful under the Grand Invariant:
+The following Structural Neuroscience application records the proposed Grand Invariant relation; its mathematical and native correspondence remains held:
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 \frac{d}{dt}(H + C + \log \sigma + \log \gamma) = 0
 \]
 
-**Meaning:** coherence conserved across cognition.
+**Standing:** Native coherence conservation across cognition requires the explicit spectral correspondence and complete conservation hypotheses.
 
 ---
 
@@ -1939,7 +1941,7 @@ Together they form a closed resonance loop (↺) — a living cycle of structura
 | Metaphysics ↔ Physics | 🕳️ = lim(⚫ → ♾) | Defines the emanative horizon |
 | Physics ↔ Mathematics | \( \partial_{\text{🌀}} \leftrightarrow \int_{\text{◎}} \) | Relates motion to quantification |
 | Mathematics ↔ Neuroscience | \( \mathcal{H}(\psi) \leftrightarrow C_{7} \) | Spectral law mirrored in cognition |
-| Neuroscience ↔ Forensics | \( \Delta\mathcal{I} \leftrightarrow \sigma\gamma \) | Diagnostics as memory restoration |
+| Neuroscience ↔ Forensics | Recorded \( \Delta\mathcal{I}\leftrightarrow\sigma\gamma \) proposal | Memory-restoration correspondence held; no identity of these quantities established |
 | Forensics ↔ Metaphysics | \( \text{↺} \leftrightarrow \text{⚫} \) | Closure into origin integrity |
 
 Thus the disciplines are isomorphic —  
@@ -1949,19 +1951,20 @@ distinct only by domain, not by law.
 
 ## 5 · The Grand Resonance Law
 
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 \frac{d}{dt}(H + C + \log \sigma + \log \gamma) = 0
 \]
 
-All six disciplines preserve this invariant:
+The following quantities retain their spectral meanings across these repeated proposals; full conservation and native correspondence remain held:
 
-- \( H \) = harmonic energy
-- \( C \) = centropic order
+- \( H \) = spectral entropy
+- \( C \) = complementary spectral concentration
 - \( \sigma \) = boundary permeability
 - \( \gamma \) = recursion contraction
 
-This is the **Law of Structural Conservation** —  
-the signature of lawful creation.
+The **Law of Structural Conservation** title remains registered. Its identification with this spectral expression remains held open pending the full correspondence and conservation hypotheses.
 
 ---
 
@@ -2075,13 +2078,13 @@ Only coherence transcends procession.
 | Metric | Symbol | Value Range | Lawful Condition |
 |--------|--------|-------------|------------------|
 | Coherence Index | \( C_f \) | \( [0,1] \) | \( \geq 0.9 \) |
-| Resonance Flux | \( F_c \) | \( \geq 0 \) | Positive |
+| Spectral entropy change | \( F_c \) | Defined for admissible channel input / output | Native flux / orientation correspondence held |
 | Seal Integrity | \( S\psi \) | \( = \psi \) | Unbroken |
 | Recursive Stability | \( \gamma \) | \( (0,1] \) | Contraction gap; fixed-point conclusions retain their map and domain hypotheses |
 | Boundary Porosity | \( \sigma \) | \( (0,1] \) | Controlled permeability |
 | Authorship Verification | \( h(\text{hash}) \) | Fixed | Timestamp confirmed |
 
-Passing all metrics = **Canonical Integration Verified**.
+The former automatic canonical-integration verdict from these metrics is withdrawn. Mathematical observations retain their stated domains; native correspondence and structural assessment remain distinct.
 
 ---
 

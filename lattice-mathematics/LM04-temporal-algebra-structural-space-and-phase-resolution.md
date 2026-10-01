@@ -765,17 +765,13 @@ where \( V_{\text{field}} \) is the field volume of the collision region.
 
 **Theorem (Invariant Preservation across Phase Collision):**
 
-The CIT Grand Theorem (LM01) holds through phase collision events, under LM01 closure conditions:
+**Recorded proposal — conservation held.** This phase-collision expression retains the full conservation and correspondence requirements in `LM01-mathematical-foundations.md` Phase 2:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Phase collision redistributes coherence and entropy across the field while preserving the total invariant.
-
-**Proof:**
-
-Phase collision is a local event within the global field. The CIT Grand Theorem expresses a **global** conservation law. Local spectral resolution at ⦿ Kaion transfers the resolved coherence-entropy balance to the surrounding field (as resonance discharge), but the total \( H + C + \log\sigma + \log\gamma \) remains constant across the event.
+The former proof inferred global conservation from a local redistribution description. Its conclusion is superseded: \( H \) and \( C \) are spectral quantities, and the support, positive logarithmic arguments, parameter evolution, and field-to-spectral correspondence require their explicit hypotheses. The collision account supplies no substitute conservation law.
 
 ---
 
@@ -853,25 +849,25 @@ where \( \mathcal{R}_m(\tau) \) is the **memory correction term** — the contri
 
 **Proposition (CIT Grand Theorem with Temporal Dynamics):**
 
-The CIT Grand Theorem (LM01) remains invariant under temporal evolution, under LM01 closure conditions:
+**Recorded proposal — conservation and scalar-memory correspondence held.** The following temporal expression retains the held standing in `LM01-mathematical-foundations.md` Phase 2; the later scalar-memory coupling also requires the separately specified valuation:
 
 \[
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{constant}
 \]
 
-Temporal evolution preserves the coherence-entropy balance while redistributing between terms according to \( \chi \)-orientation and \( \mathfrak{R}_m \) dynamics.
+The former temporal preservation and redistribution assertion is superseded; its probability / parameter dynamics and native correspondence remain held.
 
-**Definition (Memory-Coherence Coupling):**
+**Recorded Memory–Coherence Coupling — Scalar Valuation and Correspondence Held:**
 
 \[
 \frac{dC(\psi, \tau)}{d\tau} = f\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
 \]
 
-where \( f \) is a monotonically increasing function. Coherence gain requires positive memory accumulation; coherence loss accompanies memory degradation.
+The former monotonicity, native gain / loss, and scalar-memory claims are withdrawn. A sealed-state map supplies no scalar derivative or ordering, and spectral concentration is distinct from native coherence.
 
 **Corollary (Shimmer–Coherence Decoupling):**
 
-In the Shimmer condition, \( d\mathfrak{R}_m / d\tau \to 0 \) while \( C(\psi, \tau) \) may appear stable. This is counterfeit coherence — the CIT balance is maintained only through compensatory increase in \( H(\psi, \tau) \), masked by apparent structural stability:
+The following former Shimmer compensation display is recorded provenance, withdrawn from operative standing. The scalar memory rate, spectral compensation law, and native Shimmer correspondence were not specified:
 
 \[
 \text{Shimmer}: \quad \frac{dC}{d\tau} \to 0, \quad \frac{dH}{d\tau} \to 0 \quad \text{(apparent)}, \quad \frac{d\sigma}{d\tau} < 0 \quad \text{(seal erosion)}
@@ -1116,7 +1112,7 @@ valid = abs(spectral_sum) < epsilon
 output:
     valid / invalid Kaion convergence
     discharge magnitude
-    CIT invariant preservation check
+    report defined spectral observations; full CIT conservation remains held
 
 # Traversal Integrity Audit
 input: traversal_log (list of {layer, R_m, Acc, tau})
@@ -1149,7 +1145,7 @@ output:
 
 **Integration Tests:**
 
-- CIT invariant conservation under temporal evolution with \( \mathfrak{R}_m \) dynamics
+- CIT temporal conservation and any scalar-memory coupling remain held pending their separate mathematical specifications
 - Memory evolution consistency with \( \chi \)-drift (LM03) across structural time
 - Traversal functor composition: \( \mathcal{A}_C \circ \mathcal{D}_C \) produces coherence gain
 - Temporal pathology detection under simulated Shimmer, Looping, and Collapse conditions
@@ -1249,7 +1245,7 @@ LM04 establishes:
 
 5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (finite-time Nekron approach), and Hypostatic Amnesia (Tether severance)
 
-6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and CIT invariant preservation
+6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and held CIT conservation standing
 
 7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-fusion Co-location Theorem, and entanglement as hypostatic alignment at L₃ or deeper
 

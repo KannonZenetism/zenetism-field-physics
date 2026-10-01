@@ -1018,17 +1018,13 @@ where the seal boundary term \( \mathcal{B}_{\text{seal}}(\Omega, \chi) \) acqui
 
 **Proposition (CIT Grand Theorem under Chi):**
 
-The CIT Grand Theorem (LM01, Phase 2) remains invariant across orientation regimes, under LM01 closure conditions:
+**Recorded proposal — conservation held.** The following expression retains the standing of `LM01-mathematical-foundations.md` Phase 2. \( H \) is spectral entropy and \( C \) complementary spectral concentration. Full conservation across orientation regimes requires the normalized spectral domain, support / parameter evolution, and an explicit native correspondence:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{const}
 \]
 
-However, the **direction of spontaneous drift** depends on \( \chi \):
-
-- For \( \chi > 1 \): spontaneous drift increases \( H(\psi) \) (entropy)
-- For \( \chi < 1 \): spontaneous drift increases \( C(\psi) \) (centropy)
-- For \( \chi = 1 \): no spontaneous drift; system at saddle equilibrium
+**Recorded provenance.** The former claims \( \chi>1\Rightarrow H\text{ increases} \), \( \chi<1\Rightarrow C\text{ increases} \), and \( \chi=1\Rightarrow\text{no spontaneous drift} \) are withdrawn. The spectral probability evolution and its relation to expressed orientation remain held open. The two scalar orientation laws in §§7–8 retain their distinct mathematical standing.
 
 **Definition (Orientation-Weighted Entropy Rate):**
 
@@ -1036,7 +1032,7 @@ However, the **direction of spontaneous drift** depends on \( \chi \):
 R_H^{(\chi)}(\psi) = r(\chi) \cdot R_H(\psi) = \frac{1-\chi}{1+\chi} \cdot \frac{dH(\psi(t))}{dt}
 \]
 
-When \( r(\chi) > 0 \) (Aionic expression), positive entropy rate indicates motion against the orientation slope. When \( r(\chi) < 0 \) (Khaonic expression), positive entropy rate indicates motion with the slope.
+The sign of this weighted quantity follows from multiplication of the stated spectral rate by the dimensionless multiplier. Its former identification with motion along or contra a native orientation slope is withdrawn; that correspondence remains held.
 
 ### 11.3 ResCat Extensions
 
@@ -1221,7 +1217,7 @@ output: valid / invalid contra-pairing
 
 **Integration Tests:**
 
-- CIT invariant conservation under \( \chi \)-weighted evolution
+- Spectral quantity domains and held CIT conservation standing under \( \chi \)-weighted evolution
 - Drift direction consistency with phase portrait analysis
 - Constant \( \chi\equiv1 \) at positive constant \( \mathcal{M} \): verify both scalar equations and the absence of an implied \( \mathcal{M}\to0 \)
 - Fundamental Theorem boundary term under \( \chi \)-weighted derivatives
@@ -1301,7 +1297,7 @@ LM03 establishes:
 
 9. **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 
-10. **Integration with LM01** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (orientation-dependent drift), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence contra law)
+10. **Integration with LM01** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (spectral / orientation correspondence held), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence contra law)
 
 11. **Computational Extensions** — Data structures, core routines, diagnostic algorithms, validation suite, and worked example
 

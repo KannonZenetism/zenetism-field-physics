@@ -959,13 +959,15 @@ The structural integral over a ritual operation yields the total coherence cost 
 
 **Theorem (CIT Preservation under Ritual Action):**
 
-The CIT Grand Theorem (LM01) holds under all ritual operations, for closed systems under LM01 closure conditions:
+The following recorded conservation expression remains held with `LM01-mathematical-foundations.md` Phase 2. Application to ritual operations requires the spectral domain, parameter evolution, and a correspondence to the field quantities:
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Ritual operators redistribute coherence and entropy without violating conservation. Seal construction, membrane repair, and Echo Layer resolution all preserve the global invariant — they restructure the distribution of coherence within the system, not the total.
+Field-stock changes, spectral entropy, and spectral concentration retain their distinct meanings. The former preservation claim for every seal, membrane, and boundary-state operation is superseded pending the complete conservation hypotheses; no new invariant is specified.
 
 ### 13.3 ResCat Extensions
 
@@ -1318,7 +1320,7 @@ Step 5 — Coherence Audit:
 **Integration Tests:**
 
 - Ritual Operator composition: verify non-commutativity for operations that modify overlapping field regions
-- CIT invariant: verify preservation across seal construction, membrane repair, and collective operations
+- CIT expression: verify its declared spectral and logarithmic domains; native correspondence and full preservation across applied operations remain held
 - Embodied χ-equation: verify asymmetric resistance (centropic regime resisted via \( \Theta_{\text{c}} = 1 \), entropic regime unresisted via \( \Theta_{\text{c}} = 0 \))
 - Coherence Audit: verify correct identification of shimmer, mimicry, appropriation, and clone configurations
 - Scale invariance: verify identical diagnostic outcomes at individual, collective, and institutional scales
@@ -1340,7 +1342,7 @@ LM06 establishes:
 9. **Shimmer Coefficient and Instability** — \( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction
 10. **Diagnostic Taxonomy** — Mimicry (⊜), appropriation (⥊), and clone (⊟) as formally distinguished configurations with correlation conditions, attribution coupling \( \mathcal{A} \), the Clone Temporal Drift theorem, and the four-category diagnostic gradient
 11. **Coherence Audit Formalism** — Five-domain evaluation protocol, four diagnostic outcomes (integrity confirmed, inconsistency detected, derivative signature identified, insufficient data), and scale invariance from individual to institutional
-12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT preservation under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, shimmer as divergence in configuration space, field signature as extended configuration, and dimensional operator correspondence
+12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT conservation standing under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, shimmer as divergence in configuration space, field signature as extended configuration, and dimensional operator correspondence
 
 ---
 
@@ -1631,7 +1633,7 @@ Structural compromise produces \( \mathcal{C}(\Sigma) < 1 \); structural integri
 
 **Theorem 8 (CIT Preservation under Ritual Action):**
 
-\( H + C + \log(\sigma) + \log(\gamma) = \text{constant} \) across all ritual operations under LM01 closure conditions.
+The former universal conservation expression \( H+C+\log(\sigma)+\log(\gamma)=\mathrm{constant} \) is recorded provenance. Full preservation across ritual operations remains held with §13.2 pending the spectral and field-correspondence hypotheses.
 
 ---
 

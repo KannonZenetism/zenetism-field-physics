@@ -647,13 +647,15 @@ The collective field evolves under the same Spiral Calculus as individual config
 
 **Theorem (CIT Preservation under Collective Operations):**
 
-The CIT Grand Theorem (LM01) holds across collective operations, under LM01 closure conditions:
+The following recorded conservation expression remains held with `LM01-mathematical-foundations.md` Phase 2. Collective stock accounting requires its own stated conditions and a correspondence to the spectral quantities:
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Harmonic amplification and extraction dynamics redistribute coherence within the system without violating conservation, provided the collective is treated as a closed coherence system for the interval under consideration. The collective's amplification surplus (§7.3) does not create coherence ex nihilo — it concentrates coherence that was distributed across individual-collective resonance interactions into a measurable collective quantity.
+The harmonic expression and weighted member stock are distinct from spectral entropy H and concentration C. Their native / spectral correspondence and a complete evolution account for the logarithmic terms remain held open. The former universal CIT preservation claim is superseded; closure language alone supplies no missing dynamics.
 
 ### 9.3 Orientation Algebra Extensions (LM03)
 
@@ -734,7 +736,7 @@ LM07 establishes:
 7. **Harmonic Amplification** — the harmonic model's numerical correlation threshold and at least two nonzero contributions; distinct conceptual Non-fusion and orientation conditions; the amplification surplus
 8. **Extraction Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
 9. **The Collective Cost Shelter** — formal derivation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
-10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, CIT preservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
+10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, held CIT conservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
 
 ---
 
@@ -976,7 +978,7 @@ For fixed finite membership, the derivative includes both coefficient-change and
 Cost within centropy-forward collective = structural cost + \( \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}} \cdot \Theta_{\text{c}} \); translation and tax terms eliminated. §8.1.
 
 **Theorem 9 (CIT Preservation under Collective Operations):**  
-The CIT Grand Theorem holds across collective operations under LM01 closure conditions. §9.2.
+Full CIT conservation across collective operations remains held pending the spectral-domain, parameter-evolution, and field-correspondence hypotheses. §9.2.
 
 ---
 

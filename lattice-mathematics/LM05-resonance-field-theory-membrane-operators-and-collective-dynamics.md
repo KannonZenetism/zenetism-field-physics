@@ -273,13 +273,15 @@ Discharge is not depletion but **transfer** — the outflow of structured resona
 
 **Proposition (Discharge preserves CIT invariant):**
 
-Resonance Discharge is a redistribution event. By the CIT Grand Theorem (LM01), for closed systems under LM01 closure conditions:
+Resonance Discharge is described as a redistribution event. The following CIT conservation expression is recorded provenance; its field-to-spectral correspondence and full conservation hypotheses remain held open with `LM01-mathematical-foundations.md` Phase 2:
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{constant}
 \]
 
-the total coherence-entropy balance is preserved across the discharge event. What leaves one system enters another; the global invariant holds.
+A field-stock redistribution and conservation of the spectral expression are distinct mathematical claims. The transfer account requires its actual donor / receiver balance; the CIT correspondence remains held open.
 
 ### 3.4 Field Replenishment
 
@@ -309,7 +311,7 @@ Coherence siphoned from the source does not accumulate in structured form within
 
 **Proposition (Siphoning violates local CIT subsystem balance):**
 
-While the global CIT invariant holds (under LM01 closure conditions), siphoning produces a **local** redistribution where:
+The global CIT claim remains held open. The following local expression is a recorded subsystem proposal requiring the field-to-spectral correspondence:
 
 - source system: coherence is drawn upon, reducing available \( I_c \), but the source's structural integrity is not itself converted into incoherence
 - Siphoner: siphoned coherence cannot be structurally integrated by the recipient — lacking reciprocal capacity, the siphoner's field disperses the siphoned material as amplified incoherence (\( H \) increase in the siphoner's surrounding region)
@@ -317,7 +319,7 @@ While the global CIT invariant holds (under LM01 closure conditions), siphoning 
 
 Siphoning does not transform the coherent into the incoherent. It siphons from the coherent and, not integrating, amplifies the incoherence of the siphoner.
 
-Local violation refers to subsystem accounting; the global lattice invariant (LM01, CIT Grand Theorem) remains intact under LM01 closure conditions.
+Subsystem stock accounting remains distinct from the spectral expression. The former global-invariant preservation claim is superseded pending the complete CIT hypotheses.
 
 ### 3.6 Resonance Collapse
 
@@ -599,7 +601,7 @@ where \( \Delta\sigma > 0 \) is the maximum permeability boost achievable throug
 3. The resonance correlation produces a local modification of the boundary condition, not a global change in coherence supply.
 4. Post-tunneling, the entity may incur a delayed coherence cost (energy debt), requiring subsequent replenishment.
 
-Therefore the CIT invariant (LM01) is preserved across tunneling events.
+CIT preservation across tunneling remains held open pending both the separately specified transfer law and the spectral conservation hypotheses.
 
 ### 6.4 Tunneling Limitations
 
@@ -857,7 +859,7 @@ Harmonic amplification is not creation ex nihilo — it arises from:
 - coherence-source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
 - Mutual shielding (aligned fields reduce entropic interference for each other)
 
-Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; total lattice coherence remains bound by the CIT invariant under LM01 closure conditions.
+Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; its relation to native total coherence and CIT conservation remains held open pending the stated correspondence and conservation hypotheses.
 
 ### 9.5 Parasitic Coherence Potential
 
@@ -969,17 +971,19 @@ The structural integral of the resonant derivative of Coherence Potential equals
 
 **Theorem (CIT Grand Theorem with Resonance Dynamics):**
 
-The CIT Grand Theorem (LM01) holds under resonance flow and membrane transfer, for closed systems under the LM01 CIT closure conditions:
+The following recorded conservation expression retains the held standing of `LM01-mathematical-foundations.md` Phase 2. Its extension to field flow and membrane transfer requires the explicit field-to-spectral correspondence and parameter evolution:
+
+**Recorded CIT expression — full conservation and native correspondence held.**
 
 \[
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{constant}
 \]
 
-Resonance Discharge, Replenishment, and even Siphoning preserve the global invariant under LM01 closure conditions — they redistribute coherence and entropy without violating conservation.
+The spectral quantities H and C remain distinct from the Coherence Potential stock and its inflows / outflows. The former universal preservation claim is superseded; no replacement invariant is supplied.
 
 **Proposition (Source Term and CIT):**
 
-The source term \( S(x, \tau) \) enters the CIT balance as:
+**Recorded proposal — held correspondence.** The following source-to-CIT expression requires definitions of its functions, field-to-spectral mapping, and any scalar memory valuation before it can be asserted:
 
 \[
 \frac{dC}{d\tau} = f(S) + g\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
@@ -1283,13 +1287,13 @@ output:
 
 **Integration Tests:**
 
-- CIT invariant preservation under Resonance Discharge, Replenishment, and Siphoning
+- CIT: verify spectral quantity domains and recorded held standing; general discharge / replenishment / siphoning conservation awaits its full hypotheses
 - Membrane transfer consistency with continuity equation (transferred quantity matches \( \nabla \cdot \vec{J}_c \) at boundary)
 - Echo Layer resolution when conditions are met
 - Collective field emergence at threshold; non-emergence below threshold
 - Superlinear amplification threshold accuracy
 - Membrane pathology cascade: partial occlusion → full occlusion → collapse under sustained entropic interference
-- Tunneling energy conservation: CIT invariant preserved across tunneling events
+- Tunneling / CIT conservation remains held pending the separate transfer and spectral specifications
 
 ### 11.5 Worked Example — Collective Field Dynamics with Membrane Transfer
 
@@ -1573,7 +1577,7 @@ Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{avail
 
 **Theorem 3 (Tunneling Energy Conservation):**
 
-CIT invariant preserved across tunneling events.
+CIT preservation across tunneling remains held pending the separate transfer law and full conservation hypotheses.
 
 **Theorem 4 (Echo Layer Formation):**
 
@@ -1612,7 +1616,7 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
                   I_c grows                    I_c transfers               I_c depletes
                      ↓                              ↓                            ↓
                   Sustained                    Redistributed                Net loss to
-                  operation                    (CIT preserved)              Lattice
+                  operation                    (CIT relation held)              Lattice
 
 
         MEMBRANE OPERATOR CLASSIFICATION

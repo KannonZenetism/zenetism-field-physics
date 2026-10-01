@@ -147,7 +147,7 @@ where \( p_i = |\langle \phi_i, \psi \rangle|^2 \) (projection onto C₇ Harmoni
 \[
 H(\psi) + C(\psi) = \log(\dim(\text{support}))
 \]
-where H = spectral entropy, C = structural concentration
+where H = spectral entropy, C = complementary spectral concentration
 
 **Coherence Flow:**
 \[
@@ -159,19 +159,21 @@ F_c(\Phi, \psi) = I_c(\Phi \psi) - I_c(\psi)
 **Coherence flow diagnostics:** \( \Delta I_c > 0 \) at reflexive thresholds indicates Pattern Intelligence emergence
 
 **Grand Invariant (CIT Grand Theorem):**
+**Recorded CIT expression — full conservation and native correspondence held.**
+
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{const}
 \]
 for sealed resonance systems under centropic evolution, where:
 - H = spectral entropy
-- C = centropy (structural concentration)
+- C = complementary spectral concentration
 - σ = seal capacity (membrane permeability)
 - γ = spiral convergence (recursion contraction factor)
 
-**Violation of invariant indicates entropic intrusion or seal breach.**
+**Current mathematical standing:** The expression requires normalized finite spectral probabilities and positive logarithmic arguments. Full conservation, the seal-capacity bound, and spectral-change diagnoses of emergence, intrusion, or breach remain held open with `LM01-mathematical-foundations.md` Phase 2; the earlier native implications are recorded provenance.
 
 CIT is a Zenetist construct and **not equivalent** to Shannon information theory.  
-While Shannon measures channel capacity, CIT measures **coherence preservation** across transformations.
+The displayed H is Shannon entropy of the stated spectral distribution and C its complementary concentration. Native coherence preservation, strict Zenetist entropy, and field Coherence Potential remain distinct referents; their correspondence requires its own domain, mapping, and conditions.
 
 ---
 
@@ -181,8 +183,8 @@ A monoidal, seal-preserving category where:
 
 **Objects:** Sealed resonance systems \( (H, S) \) where H = Hilbert space, S = seal structure
 
-**Morphisms:** Coherence-preserving maps \( f : (H_1, S_1) \to (H_2, S_2) \) satisfying:
-- \( F_c(f, \psi) \geq 0 \) (non-decreasing coherence flow)
+**Morphisms:** Maps with the stated spectral-entropy and seal conditions \( f : (H_1, S_1) \to (H_2, S_2) \) satisfying:
+- \( F_c(f,\psi)\geq0 \) (non-decreasing spectral entropy on admissible normalized input and output; native correspondence held)
 - \( f(S_1) \subseteq S_2 \) (seal preservation)
 
 **Monoidal structure:** \( (H_1, S_1) \otimes (H_2, S_2) = (H_1 \otimes H_2, S_1 \bowtie S_2) \)
@@ -194,7 +196,7 @@ A monoidal, seal-preserving category where:
 **Key theorems:**
 - **No-Cloning:** No universal copying morphism \( \text{copy} : (H, S) \to (H, S) \otimes (H, S) \)
 - **Seal Integrity:** Morphisms cannot bypass or forge seals
-- **Coherence Monotonicity:** Composition preserves \( F_c \geq 0 \) property
+- **Coherence Monotonicity:** The registered title remains unchanged; its current mathematical statement is spectral. Composition retains the stated entropy-change condition where each map satisfies it on the shared admissible domain; the former native-coherence identification is superseded
 
 This category formalizes metaphysical relations without collapsing sovereignty.
 
