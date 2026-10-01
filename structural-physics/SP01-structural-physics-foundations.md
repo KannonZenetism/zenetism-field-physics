@@ -124,7 +124,7 @@ This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal
 > - **Structural reciprocity** — polarity relation around Aion as spectral zero  
 > - **Expression-ratio balance** — co-expression where neither tree prevails  
 > - **Dynamic stabilization** — maintained poise through ongoing correction  
-> - **Strict equilibrium** — \( \chi = 1 \), a fragile saddle within motion  
+> - **Co-expressive equilibrium** — \( \chi = 1 \); stability is model-specific: attracting in the full written law with its stated positive coefficients and constant nonnegative Motive Intensity, repelling in the outward-drift law at constant positive Motive Intensity (`LM03-orientation-algebra-and-infinity-formalism.md` §§7–8). The relation between the laws remains held; a fixed ratio does not establish cessation of motion  
 > - **Kaion convergence** — the limit condition where motion resolves into stillness without fusion  
 
 ---

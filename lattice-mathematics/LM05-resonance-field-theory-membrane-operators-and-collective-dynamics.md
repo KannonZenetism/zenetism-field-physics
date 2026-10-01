@@ -159,7 +159,7 @@ The diffusion coefficient modulates coherence flow according to \( \chi \)-orien
 
 - \( \chi < 1 \) (Aionically expressed): \( D(\chi) > 0 \) — standard down-gradient flow; coherence accumulates toward integration basins
 - \( \chi > 1 \) (Khaonically expressed): \( D(\chi) < 0 \) — reversed flow; coherence disperses away from integration basins toward fragmentation
-- \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion; flow determined by perturbation alone
+- \( \chi = 1 \): \( D(\chi) = 0 \) — the stated diffusive contribution vanishes; source and other coupling terms retain their own specified standing
 
 **Proposition (Coupling to Spectral Rotation):**
 
@@ -173,7 +173,7 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 
 - \( \chi < 1 \): \( D(\chi) > 0 \) — standard down-gradient flow (coherence accumulates toward integration basins)
 - \( \chi > 1 \): \( D(\chi) < 0 \) — reversed flow (coherence repelled from integration basins, disperses toward fragmentation)
-- \( \chi = 1 \): \( D(\chi) = 0 \) — no net diffusion at the orientation saddle
+- \( \chi = 1 \): \( D(\chi) = 0 \) — no diffusive contribution at the co-expressive ratio
 
 > **Note on Mathematical Character:**  
 > \( D(\chi) \) is a signed structural flux coefficient: positive \( D \) gives down-gradient flux and negative \( D \) gives up-gradient flux. The signed relation remains \( \vec{J}_c = -D(\chi)\nabla I_c \).
@@ -188,7 +188,7 @@ Since \( \vec{J}_c = -D(\chi) \nabla I_c \), the sign of \( D(\chi) \) directly 
 
 - Under centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of greater integration
 - Under entropic conditions (\( \chi > 1 \)): \( D < 0 \), so \( \vec{J}_c \) flows up-gradient — coherence moves away from integration nodes toward dispersal
-- At the saddle (\( \chi = 1 \)): \( D = 0 \), no diffusive flow — direction determined entirely by perturbation (CP₁ dynamics, LM03 §5)
+- At co-expression (\( \chi = 1 \)): \( D = 0 \), so the stated diffusive contribution vanishes. CP₁ stability is model-specific: attracting in the full written law with its stated positive coefficients and constant nonnegative Motive Intensity, repelling in the outward-drift law at constant positive Motive Intensity (`LM03-orientation-algebra-and-infinity-formalism.md` §§7–8). Their relation and any further field coupling remain held
 
 ### 2.4 The Continuity Equation for Resonance
 

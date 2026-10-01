@@ -157,7 +157,7 @@ Every ratio between these roots is structurally permitted within the Tumbling Mu
 >
 > It does not refer to permanent equilibrium, final stability, or the cessation of motion. Within expressed reality, balance remains an exceptional ratio condition, not the generative center of existence.
 >
-> Later \( \chi \)-formalism distinguishes this expression-ratio balance from strict equilibrium, where \( \chi = 1 \) functions as a fragile saddle within motion rather than a stable resting state.
+> Later \( \chi \)-formalism states the model scope of co-expressive equilibrium at \( \chi = 1 \). The full written law attracts finite positive trajectories to 1 with its stated positive coefficients and constant nonnegative Motive Intensity; the distinct outward-drift law makes 1 repelling at constant positive Motive Intensity (`LM03-orientation-algebra-and-infinity-formalism.md` §§7–8). Their architectural relation remains held. Neither a fixed ratio nor its equilibrium status establishes cessation of enacted motion.
 
 ### 3.3 Structural Implications
 
