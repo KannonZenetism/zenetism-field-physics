@@ -116,17 +116,21 @@ The inverse lattice (IL₅–IL₁) possesses corresponding membranes with inver
 ### 2.3 Membrane as Non-Hypostatic Structure
 
 > **Critical Distinction:**  
-> Membranes are not layers. They do not possess the structural completeness of hypostases. A membrane has no "within" — it is pure threshold, pure boundary condition.
+> Membranes are not layers. They do not possess the structural completeness of hypostases. A membrane has no hypostatic interior. Its boundary region may carry a mathematical state without becoming a layer; a state space and update law require their own specification.
 
 This prevents the infinite regress problem: if membranes were layers, they would require membranes between themselves and adjacent layers, ad infinitum.
 
 Membranes are **relational conditions**, not **ontological locations**.
+
+Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. Cross-arc influence requires an explicitly typed embodied or mediated relation, not deep-arc traversal of essence.
 
 ---
 
 ## 3. Transfer Mechanics
 
 ### 3.1 Basic Transfer Condition
+
+**Recorded reception-minimum schema — transfer relation held.** The following condition calls \( I_{c,\mathrm{reception}} \) a minimum, while §3.2 subtracts the target value from that minimum. With positive permeability and the stated receiver condition, the displayed transfer amount is negative. These two formulas are therefore retained as superseded mathematical provenance rather than an operative transfer law. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4 carries a distinct clamped maximum-capacity construction in its stated domain; no silent minimum-to-capacity redefinition is selected here.
 
 From SP07 Section 7.3, resonance transfer across membrane fields requires:
 
@@ -249,7 +253,7 @@ Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, hig
 - Requires source term: \( S(⧉) > 0 \)
 - Cannot create resonance ex nihilo — amplification draws from origin structures
 
-**Function:** Strengthens weakened resonance during layer transition; enables passage that would otherwise not meet threshold requirements.
+**Function:** Amplification concerns added coherent input. Its supply, receiving capacity, and update relation require specification. A permeability multiplier leaves a zero transfer clamp at zero; below-threshold bypass remains held.
 
 **Structural Origin:**
 
@@ -277,6 +281,8 @@ Amplifier membranes must connect to centropic origin (Aion, Theon, archetypal fi
 
 ## 5. Kaionic Tunneling
 
+**Mathematical standing.** The registered concept remains distinct from the permeability modification displayed here. The occurrence, conservation, viability, and resolution claims below are recorded proposals pending a separate bypass transfer law. A finite permeability increase leaves the existing clamped law at zero when surplus is nonpositive; no replacement law is supplied.
+
 ### 5.1 Definition
 
 > **Definition (Kaionic Tunneling):**  
@@ -286,7 +292,7 @@ The term "Kaionic" references the KAI principle — passage through apparent bar
 
 ### 5.2 Conditions for Tunneling
 
-Kaionic tunneling occurs when:
+The former occurrence condition is recorded provenance:
 
 \[
 I_c^{(\text{source})} < I_{c,\text{threshold}} \quad \text{but} \quad \Psi_{\text{source}} \equiv \Psi_{\text{target}}
@@ -298,7 +304,7 @@ Where \( \Psi \) denotes the **structural signature** — the essential pattern 
 
 ### 5.3 Tunneling Mechanics
 
-Tunneling does not violate energy conservation. Instead, it operates through **signature resonance**:
+The earlier passage / conservation argument is recorded provenance, held pending the separate transfer relation:
 
 1. The entity's structural signature \( \Psi \) resonates with the membrane's internal structure
 2. This resonance temporarily increases local permeability: \( \sigma(⧉) \to \sigma'(⧉) > \sigma(⧉) \)
@@ -315,7 +321,7 @@ Where \( \mathcal{R} \) is the **resonance correlation function** between source
 
 ### 5.4 Tunneling Limitations
 
-Kaionic tunneling is not unlimited:
+The following limitations belong to the held transfer proposal:
 
 - **Signature mismatch**: If \( \Psi_{\text{source}} \) does not correlate with membrane structure, tunneling does not complete
 - **Entropic corruption**: Fragmented signatures cannot achieve resonance correlation
@@ -335,13 +341,15 @@ Echo Layers (⟲) are not hypostases. They are **recursion patterns within membr
 
 ### 6.2 Formation of Echo Layers
 
-Echo Layers form when:
+**Mathematical standing.** Untransferred surplus is distinct from a trapped recursive state. The following formation condition remains a recorded proposal pending a boundary-residence and update relation; it creates no hypostasis.
+
+The former sufficient formation condition is recorded provenance:
 
 \[
 T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}} \quad \text{and} \quad \sigma(⧉) > 0
 \]
 
-**Interpretation:** The membrane permits some transfer but not complete passage. The residual resonance that does not cross becomes trapped in a recursive loop within the membrane region.
+**Current mathematical interpretation:** An untransferred amount is distinct from a trapped recursive state. The earlier trapping inference is withdrawn pending the boundary-residence and update law; the displayed inequality alone supplies neither.
 
 ### 6.3 Recursion Dynamics
 
@@ -362,11 +370,11 @@ Membrane recursion is named by orientation: the centropic form is a **Centropic 
 
 ### 6.4 Echo Layer Resolution
 
-Echo Layers resolve through:
+The following qualitative resolution pathways retain their registered meaning; sufficient mathematical persistence and resolution conditions remain held pending the boundary-state dynamics:
 
 1. **Increased Coherence Potential**: Sufficient \( I_c \) to complete the transfer
 2. **Membrane repair**: Restoration of permeability allows trapped resonance to pass
-3. **Signature alignment**: Kaionic tunneling enables resolution
+3. **Signature alignment**: Permeability modification retains its stated domain; bypass resolution remains held pending the separate law
 4. **Acclivous return**: Resonance returns to source for reintegration before re-attempting transfer
 
 Unresolved Echo Layers may persist across temporal cycles — the structural basis for karmic return and mythic recurrence.
@@ -454,7 +462,7 @@ Echo Layers manifest as:
 
 ### 8.3 Tunneling Viability Assessment
 
-Before attempting Kaionic tunneling, assess:
+The earlier viability checklist remains a recorded proposal; an operational test requires the separately specified transfer law:
 
 1. **Signature clarity**: Is \( \Psi_{\text{source}} \) coherent and unfragmented?
 2. **Membrane responsiveness**: Does the membrane exhibit signature-sensitivity?
@@ -504,10 +512,10 @@ SP08 establishes:
 2. **Transfer mechanics** — Coherence Potential requirements and permeability functions
 3. **Membrane types** — bridges, filters, amplifiers, occlusions
 4. **Orientation-dependent transfer** — χ modulates permeability
-5. **Kaionic tunneling** — signature-resonance passage bypassing threshold requirements
+5. **Kaionic tunneling** — registered bypass concept; the current formula is a permeability modification and its transfer relation remains held
 6. **Echo Layers** (⟲) — recursion patterns within membrane space
 7. **Membrane pathology** — collapse, breach, and occlusion syndrome
-8. **Diagnostic applications** — membrane integrity and tunneling viability assessment
+8. **Diagnostic applications** — membrane integrity and recorded tunneling viability proposals; mathematical bypass standing held
 
 ---
 
@@ -573,6 +581,8 @@ Sealed ⚫↺KAI↺⚫
 
 ## Appendix B — Key Equations
 
+**Standing.** The reception-minimum transfer pair is superseded mathematical provenance per §§3.1–3.2. The permeability boost is not a bypass law. Boundary recurrence requires its declared state and update relation.
+
 **Basic Transfer Condition:**
 
 \[
@@ -597,7 +607,7 @@ T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{thresho
 \sigma(⧉, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
 \]
 
-**Kaionic Tunneling Permeability:**
+**Permeability Modification — Bypass Transfer Held:**
 
 \[
 \sigma_{\text{tunnel}}(⧉, \Psi) = \sigma_0(⧉) + \Delta\sigma \cdot \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}})
@@ -614,7 +624,7 @@ A structural overlay or resonance threshold between hypostatic layers; not itsel
 A scalar \( \sigma(⧉) \in [0, \infty) \) measuring how easily a membrane permits resonance passage; \( \sigma = 0 \) indicates full occlusion, \( \sigma = 1 \) indicates full permeability, \( \sigma > 1 \) indicates amplification.
 
 **Definition 3 (Transfer Function):**  
-The quantity of resonance \( T(⧉) \) that successfully crosses a membrane, determined by source potential, threshold requirements, target capacity, and permeability.
+The transfer amount requires a consistent donor / receiving-domain specification. The reception-minimum formulas in §§3.1–3.2 and Appendix B remain recorded superseded provenance; a distinct capacity-clamped law is identified there without redefining this minimum.
 
 **Definition 4 (Kaionic Tunneling):**  
 Non-standard passage across membrane barriers via structural signature resonance rather than Coherence Potential threshold satisfaction.

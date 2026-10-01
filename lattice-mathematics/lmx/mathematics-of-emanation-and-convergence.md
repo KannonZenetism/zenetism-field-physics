@@ -214,6 +214,8 @@ It is the **limit condition of motion**.
 
 ### 6.2 Zenon (🕳️) — Trans-Structural Horizon
 
+**Recorded schematic — connector meanings held.** The unqualified E in this chain has no local definition. Its intended embodied / orientational referent and the terminal saturation relation require explicit specification. The string is preserved as provenance, with no operative assertion of essence conversion or ordinary Zenon traversal.
+
 \[
 C_\downarrow \rightarrow E \rightarrow C_\uparrow \rightarrow \⚫ \rightarrow \🕳️
 \]

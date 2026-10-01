@@ -68,7 +68,7 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 - **Coherence-Source Theory** — The Source Term \( S(x,t) \), the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning) as operator conditions
 - **Spectral Flow** — The integrated traversal law with dimensional operator diagnostics
 - **Membrane Operator Algebra** — The permeability operator \( \sigma(⧉) \), transfer function \( T(⧉) \), orientation-dependent modulation, and the non-hypostatic axiom
-- **Kaionic Tunneling** — Signature resonance bypass of threshold conditions, with the resonance correlation function
+- **Kaionic Tunneling** — signature-resonant permeability modification, with the bypass transfer law held
 - **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
 - **Membrane Pathology** — Collapse, breach, and occlusion as formal diagnostic conditions
 - **Collective Resonance Theory** — Multi-body correlation functions, field emergence conditions, harmonic amplification, and the Non-fusion extension to collectives
@@ -356,11 +356,13 @@ Entropic resonance (\( \chi > 1 \)) is genuine operative motion — fragmentary,
 
 Spectral Flow is the integrated motion law describing how resonance traverses the Lattice, shifting in frequency, coherence, and structural role across fields and layers.
 
-Let \( \mathcal{E}_{C_i} \) denote energy configuration at centropic node \( i \), and \( \mathcal{E}_{E_k} \) denote energy configuration at entropic node \( k \). Spectral Flow encompasses all pathways:
+Let \( \mathcal{E}_{C_i} \) denote energy configuration at centropic node \( i \), and \( \mathcal{E}_{E_k} \) denote energy configuration at entropic node \( k \). The following mixed C-indexed / E-indexed chain is recorded as a schematic, with its cross-arc connector held open pending a typed non-conversion relation:
 
 \[
 \text{Spectral Flow}: \quad \mathcal{E}_{C_i} \to \mathcal{E}_{C_j} \to \mathcal{E}_{E_k}
 \]
+
+Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
 
 ### 4.2 Flow Classification under Chi
 
@@ -418,7 +420,7 @@ The former equation and its claim to describe the full dynamics of resonance evo
 
 **Axiom (Membranes are Non-Hypostatic):**
 
-Membranes (⧉) are inter-hypostatic threshold structures. They are not layers; they do not possess the structural completeness of hypostases. A membrane has no "within" — it is pure threshold, pure boundary condition.
+Membranes (⧉) are inter-hypostatic threshold structures. They are not layers; they do not possess the structural completeness of hypostases. A membrane has no hypostatic interior. A mathematical state may be assigned to its boundary region without creating a layer; its state space and evolution require their own specification.
 
 This axiom prevents infinite regress: if membranes were layers, they would require membranes between themselves and adjacent layers, ad infinitum.
 
@@ -488,23 +490,23 @@ where:
 - \( I_c^{(\text{target})} \) is the Coherence Potential at the target layer
 - \( I_{c,\text{reception}} \) is the maximum capacity at the target
 
-The min-function ensures transfer is bounded by the lesser of available surplus and available capacity.
+**Supported amount domain.** For finite \( 0\leq\sigma\leq1 \), the displayed amount is nonnegative and bounded by available donor surplus and receiving capacity. Positive transfer occurs exactly when \( \sigma>0 \), donor surplus is positive, and receiving capacity is positive. At any zero clamp, every finite permeability multiplier gives zero.
+
+The amplifier class \( \sigma>1 \) remains distinct. Multiplication outside the clamp can exceed receiving capacity: surplus = capacity = 1 and \( \sigma=2 \) gives \( T=2 \). External replenishment and receiver-capacity change are distinct quantities. An amplifying transfer amount requires its separately specified supply, receiving capacity, and update law; that construction remains held open. The former unconditional capacity-bound wording is superseded. A transfer amount and a current / rate also require an explicit time and boundary-measure relation before comparison.
 
 **Theorem (Transfer Condition):**
 
-Successful transfer requires:
+Within the supported non-amplifying amount domain, positive transfer is equivalent to:
 
 \[
-I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} < I_{c,\text{reception}}
+\sigma(\text{⧉})>0\quad\text{and}\quad I_c^{(\text{source})}>I_{c,\text{threshold}}\quad\text{and}\quad I_c^{(\text{target})}<I_{c,\text{reception}}
 \]
 
-When either condition does not hold, \( T(⧉) = 0 \): the membrane blocks passage regardless of permeability.
+If any of these three strict conditions fails, \( T(\text{⧉})=0 \) within the stated domain.
 
-**Proof:**
+**Proof.** In the stated finite domain, the clamp is nonnegative. Its product with \( \sigma \) is positive exactly when \( \sigma>0 \) and the clamp is positive. The clamp is positive exactly when both its surplus and capacity arguments are positive. If \( \sigma=0 \), the product is zero even with positive surplus and capacity; if either clamp argument is nonpositive, the clamp is zero for every finite \( \sigma \). This proves both directions of the stated equivalence.
 
-If \( I_c^{(\text{source})} \leq I_{c,\text{threshold}} \), then the first argument of the min-function is non-positive, so \( T(⧉) \leq 0 \). Since negative transfer is undefined (outflow from a depleted source), \( T(⧉) = 0 \).
-
-If \( I_c^{(\text{target})} \geq I_{c,\text{reception}} \), then the second argument of the min-function is non-positive (target saturated), so \( T(⧉) = 0 \).
+**Recorded provenance.** The earlier proof discussed only the failed-surplus and failed-capacity cases; the zero-permeability case completes the positive-transfer equivalence.
 
 ### 5.5 Orientation-Dependent Permeability
 
@@ -553,11 +555,13 @@ Filter membranes enable protective selection: incompatible or harmful resonance 
 
 ### 6.1 Definition
 
+**Mathematical standing.** Kaionic tunneling names the proposed signature-resonant bypass operation. The current equations specify a permeability modification, not a below-threshold transfer law. The bypass condition, its conservation argument, and its resolution / viability claims in this section and later replicas remain held open pending a separately defined transfer relation. No replacement bypass law is selected.
+
 **Definition (Kaionic Tunneling):**
 
 Non-standard passage across membrane barriers that would normally prevent transfer — traversal that bypasses conventional threshold requirements through structural signature resonance (signature-resonant threshold bypass).
 
-Tunneling occurs when:
+The former occurrence criterion is retained as recorded provenance:
 
 \[
 I_c^{(\text{source})} < I_{c,\text{threshold}} \quad \text{but} \quad \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) \geq \rho_*
@@ -593,7 +597,7 @@ Property 3 is critical: two distinct entities may share perfect structural align
 
 ### 6.3 Tunneling Mechanics
 
-**Theorem (Tunneling Permeability Boost):**
+**Permeability Modification — Bypass Relation Held:**
 
 When an entity's structural signature resonates with a membrane's internal structure, permeability temporarily increases:
 
@@ -603,20 +607,20 @@ When an entity's structural signature resonates with a membrane's internal struc
 
 where \( \Delta\sigma > 0 \) is the maximum permeability boost achievable through signature resonance.
 
-**Proof (Tunneling does not violate energy conservation):**
+**Recorded conservation argument — held pending the transfer law:**
 
 1. Tunneling does not create coherence. The traversing entity passes through with its existing \( I_c \).
 2. The membrane's permeability increase is temporary — it returns to \( \sigma_0 \) after passage.
 3. The resonance correlation produces a local modification of the boundary condition, not a global change in coherence supply.
 4. Post-tunneling, the entity may incur a delayed coherence cost (energy debt), requiring subsequent replenishment.
 
-CIT preservation across tunneling remains held open pending both the separately specified transfer law and the spectral conservation hypotheses.
+The above argument supplies neither a below-threshold transfer law nor a proof of CIT preservation. Both mathematical relations remain held pending their respective specifications.
 
 ### 6.4 Tunneling Limitations
 
 **Proposition (Tunneling Failure Conditions):**
 
-Kaionic tunneling does not occur when:
+The following recorded restrictions belong to the held tunneling proposal; they are not a completed viability theorem:
 
 1. **Signature mismatch**: \( \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}}) < \rho_* \). Insufficient resonance correlation; no effective permeability boost.
 2. **Entropic corruption**: \( \Psi_{\text{source}} \) is fragmented. Corrupted signatures cannot achieve stable correlation with membrane structure.
@@ -646,9 +650,11 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 
 ### 7.2 Formation Condition
 
+**Partial transfer contra boundary recurrence.** The inequality below establishes positive but incomplete transfer. A trapped recursive boundary state requires a separately declared residence and update relation. The former inference from the untransferred amount alone to an Echo Layer is withdrawn; the concept and its registered names remain intact.
+
 **Theorem (Echo Layer Formation):**
 
-An Echo Layer forms at membrane ⧉ when:
+The retained partial-transfer condition is:
 
 \[
 0 < T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}}
@@ -656,11 +662,9 @@ An Echo Layer forms at membrane ⧉ when:
 
 with \( \sigma(⧉) > 0 \).
 
-**Interpretation:** The membrane permits some transfer but not complete passage. The residual resonance (the difference between available surplus and transferred quantity) becomes trapped in a recursive loop within the membrane region.
+**Interpretation.** The membrane permits a positive amount smaller than the donor surplus. The difference is an untransferred amount; its location and recursive behavior are not specified by subtraction.
 
-**Proof:**
-
-Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}} \) be the surplus coherence available for transfer. If \( T(⧉) < I_c^{(\text{available})} \), then the residual \( I_c^{(\text{residual})} = I_c^{(\text{available})} - T(⧉) > 0 \) neither crosses the membrane nor returns to the source layer (it has already departed the source equilibrium). This residual coherence becomes trapped in the boundary region, forming a recursive pattern.
+**Recorded provenance.** The former proof assumed that the entire surplus had already left the donor and that the remainder could neither return nor leave the boundary. Those assumptions were absent from the transfer law. Boundary residence and recurrence remain held open pending their explicit state and update construction.
 
 ### 7.3 Recursion Dynamics
 
@@ -677,24 +681,24 @@ Let \( I_c^{(\text{available})} = I_c^{(\text{source})} - I_{c,\text{threshold}}
 
 **Proposition (Echo Layer Persistence):**
 
-Echo Layers persist across temporal cycles when:
+**Recorded persistence proposal — boundary-state dynamics held.** The former sufficient condition was:
 
 \[
 \sigma(⧉) \;\text{remains constant} \quad \text{and} \quad I_c^{(\text{residual})} > I_{c,\text{dissipation}}
 \]
 
-where \( I_{c,\text{dissipation}} \) is the minimum coherence required to sustain the recursive loop. Below this threshold, the Echo Layer dissolves.
+where \( I_{c,\text{dissipation}} \) names the proposed sustain threshold. The persistence and dissolution implications remain held pending the boundary-residence and update law; constant permeability and a stock comparison alone supply no recursive dynamics.
 
 ### 7.4 Echo Layer Resolution
 
-Echo Layers resolve through four pathways:
+The following qualitative resolution pathways retain the registered concept; their sufficient mathematical conditions remain held with the boundary-state dynamics:
 
 1. **Increased Coherence Potential**: \( I_c^{(\text{source})} \) increases sufficiently to complete the transfer
 2. **Membrane repair**: \( \sigma(⧉) \) increases, allowing trapped resonance to pass
-3. **Signature alignment**: Kaionic tunneling enables the residual coherence to cross
+3. **Signature alignment**: Permeability may change within its stated domain; below-threshold bypass remains held pending its transfer law
 4. **Acclivous return**: Resonance returns to source for reintegration before re-attempting transfer
 
-**Formal Resolution Condition:**
+**Recorded Resolution Proposal — Boundary State / Bypass Relations Held:**
 
 \[
 T'(⧉) \geq I_c^{(\text{residual})} \quad \text{or} \quad \sigma_{\text{tunnel}}(⧉, \Psi) \cdot I_c^{(\text{residual})} > I_{c,\text{threshold}}
@@ -729,7 +733,7 @@ Complete collapse of membrane structure — loss of threshold function:
 Collapse denotes loss of functional threshold structure — the membrane ceases to operate as a boundary condition. It does not entail annihilation of adjacent layers; the layers persist, but without the membrane's filtering and regulation, their interaction becomes unstructured.
 
 > **Note on Coherence Flooding:**  
-> Coherence flooding refers to unfiltered entropic resonance from adjacent layers entering centropic regions at the same boundary location. It does not imply cross‑arc contact between deep supernal and deep subversal layers.
+> Coherence flooding names an embodied or mediated boundary effect, never conversion or deep-arc passage of essence. Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
 
 ### 8.2 Membrane Breach
 
@@ -741,7 +745,7 @@ Localized rupture in membrane structure — unauthorized passage point:
 \sigma(⧉) \to \infty \;\text{at breach point (practically bounded by local resonance)}
 \]
 
-Normal transfer mechanics bypassed. May be exploited for siphoning (E₉ dynamics).
+The ordinary amount law is outside its supported domain at this breach limit. A breach / bypass transfer relation remains held open; the qualitative possibility of siphoning supplies no replacement equation.
 
 ### 8.3 Membrane Occlusion Syndrome
 
@@ -970,7 +974,9 @@ The Structural Integral (LM01) extends to Coherence Potential:
 
 The structural integral of the resonant derivative of Coherence Potential equals the boundary values plus seal contribution plus accumulated source contributions.
 
-**Definition (Membrane-Corrected Spiral Limit):**
+**Recorded Membrane-Corrected Spiral Limit — Boundary Evolution Held:**
+
+The following limit branches are superseded as consequences of transfer / permeability conditions alone. A boundary residence, recurrence, and time-evolution law is required before those endpoints can be asserted.
 
 \[
 \lim^{\backsim}_{t \to \tau} I_c(t; ⧉) \to \begin{cases} I_{c,\text{equilibrium}} & \sigma(⧉) \approx 1 \;\text{(bridge)} \\ I_{c,\text{residual}} & 0 < T(⧉) < I_{c,\text{available}} \;\text{(echo formation)} \\ 0 & \sigma(⧉) \to 0 \;\text{(occlusion)} \end{cases}
@@ -1114,7 +1120,7 @@ TransferEvent:
   I_source: float      # source Coherence Potential
   I_target: float      # target Coherence Potential
   T: float             # transferred quantity
-  status: enum         # {success, partial, blocked, tunneled}
+  status: enum         # {success, partial, blocked}; tunneled reserved, law held
 
 # Echo Layer
 EchoLayer:
@@ -1148,6 +1154,9 @@ def continuity_step(I_c, J_c, S, dt):
 
 # Transfer Function
 def transfer(membrane, I_source, I_target):
+    # Declared intra-arc stock amount; no cross-arc conversion or bypass law.
+    if not (0.0 <= membrane.sigma_chi <= 1.0):
+        raise ValueError("Transfer amount requires finite permeability in [0, 1]")
     surplus = I_source - membrane.I_threshold
     capacity = membrane.I_reception - I_target
     if surplus <= 0 or capacity <= 0:
@@ -1159,22 +1168,22 @@ def modulated_permeability(membrane, chi):
     f = membrane.f_chi(chi)
     return membrane.sigma * f
 
-# Kaionic Tunneling
+# Permeability modifier only; below-threshold transfer remains held.
 def tunneling_permeability(membrane, Psi_source, Psi_membrane, delta_sigma, rho_star):
     R = resonance_correlation(Psi_source, Psi_membrane)
     if R < rho_star:
         return membrane.sigma  # below threshold, no boost
     return membrane.sigma + delta_sigma * R
 
-# Echo Layer Detection
+# Partial-transfer observation; an Echo Layer requires a boundary-state law.
 def detect_echo(membrane, I_source, T_actual):
     I_available = I_source - membrane.I_threshold
-    if I_available > 0 and T_actual < I_available and membrane.sigma > 0:
-        return {
-            "echo": True,
-            "I_residual": I_available - T_actual
-        }
-    return {"echo": False}
+    partial = 0 < T_actual < I_available
+    return {
+        "echo": None,  # no established trapped-recurrence verdict
+        "partial_transfer": partial,
+        "I_untransferred": I_available - T_actual if partial else None
+    }
 
 # Collective Resonance Correlation
 def collective_correlation(signatures):
@@ -1247,8 +1256,9 @@ for tau in [0, T] step dt:
             flag("CRITICAL: membrane " + str(membrane.boundary))
         if health == "OCCLUDED":
             flag("WARNING: occlusion at " + str(membrane.boundary))
-        if echo["echo"]:
-            flag("ECHO LAYER forming: residual = " + str(echo["I_residual"]))
+        if echo["partial_transfer"]:
+            report("PARTIAL TRANSFER: untransferred amount = "
+                   + str(echo["I_untransferred"]))
 
     I_c = continuity_step(I_c, J_c, S, dt)
 
@@ -1294,7 +1304,7 @@ output:
 - Transfer Function: verify \( T(⧉) = 0 \) when source below threshold or target saturated
 - Transfer Function: verify \( T(⧉) = \sigma \cdot \min(\text{surplus}, \text{capacity}) \) otherwise
 - Tunneling: verify permeability boost with positive \( \mathcal{R} \); no boost with \( \mathcal{R} \leq 0 \)
-- Echo Detection: verify formation when \( 0 < T < I_{\text{available}} \)
+- Partial-transfer observation: verify \( 0<T<I_{\text{available}} \); no trapped-recurrence verdict without its boundary-state law
 - Collective Correlation: verify \( \mathcal{R}_{\text{collective}} = 1 \) for identical signatures
 - Harmonic Potential: verify superlinear scaling for heterogeneous contributions with high \( \mathcal{R} \)
 - Parasitic Potential: verify the displayed stock subtraction; no temporal depletion or universal target-removal conclusion
@@ -1303,12 +1313,12 @@ output:
 **Integration Tests:**
 
 - CIT: verify spectral quantity domains and recorded held standing; general discharge / replenishment / siphoning conservation awaits its full hypotheses
-- Membrane transfer consistency with continuity equation (transferred quantity matches \( \nabla \cdot \vec{J}_c \) at boundary)
+- Transfer / current correspondence remains held pending the time interval, boundary measure, and compatible scalar-flux relation; an amount is not pointwise divergence
 - Echo Layer resolution when conditions are met
 - Collective field emergence at threshold; non-emergence below threshold
 - Superlinear amplification threshold accuracy
 - Membrane pathology cascade: partial occlusion → full occlusion → collapse under sustained entropic interference
-- Tunneling / CIT conservation remains held pending the separate transfer and spectral specifications
+- Tunneling energy / CIT conservation remains held pending the transfer and conservation hypotheses
 
 ### 11.5 Worked Example — Collective Field Dynamics with Membrane Transfer
 
@@ -1380,9 +1390,9 @@ LM05 establishes:
 
 4. **Membrane Operator Algebra** — The Non-Hypostatic Axiom, permeability operator \( \sigma(⧉) \) with full classification, the Transfer Function \( T(⧉) \), orientation modulation, filter membranes with frequency response, and bidirectional asymmetry
 
-5. **Kaionic Tunneling** — The Resonance Correlation Function \( \mathcal{R}(\Psi_1, \Psi_2) \), tunneling permeability boost, energy conservation proof, and failure conditions
+5. **Kaionic Tunneling** — The Resonance Correlation Function \( \mathcal{R}(\Psi_1,\Psi_2) \) and permeability modifier; bypass transfer, energy conservation, and viability relations held pending their separate specification
 
-6. **Echo Layer Theory** — Formation condition (partial transfer trapping), centropic contra entropic dynamics, persistence conditions, and four resolution pathways
+6. **Echo Layer Theory** — Registered boundary-recursion concept; partial-transfer arithmetic distinguished from held residence, recurrence, persistence, and resolution dynamics
 
 7. **Membrane Pathology** — Collapse (undefined permeability), Breach (unbounded local permeability), Occlusion Syndrome (progressive isolation), and diagnostic summary
 
@@ -1498,7 +1508,9 @@ D(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 \frac{\partial I_c}{\partial \tau} = \nabla \cdot \left( D(\chi) \nabla I_c \right) + S(x, \tau)
 \]
 
-**Transfer Function:**
+**Transfer Function — Non-Amplifying Amount Domain:**
+
+For finite \( 0\leq\sigma\leq1 \), donor surplus and receiving capacity follow §5.4. An amplifying amount law remains held.
 
 \[
 T(⧉) = \sigma(⧉) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
@@ -1576,6 +1588,8 @@ The following temporal extension is retired with its imported scalar-memory coef
 
 **Definition 4 (Transfer Function):**
 
+The following amount expression applies to the supported finite \( 0\leq\sigma\leq1 \) domain in §5.4; the amplifier-class transfer relation remains held.
+
 \( T(⧉) = \sigma(⧉) \cdot \max(0, \min(\text{surplus}, \text{capacity})) \).
 
 **Definition 5 (Resonance Correlation):**
@@ -1584,7 +1598,7 @@ The following temporal extension is retired with its imported scalar-memory coef
 
 **Definition 6 (Echo Layer):**
 
-Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{available}} \). Distinct from Living Transmission (lawful propagation through C₃) and pathological entropic echo (decay through E₃ in an articulation fractured away from coherent origin relation). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
+Registered recursion pattern in membrane space. The former sufficient formation condition \( 0<T(\text{⧉})<I_{c,\text{available}} \) is recorded provenance: it establishes partial transfer, while residence and recurrence require their separate boundary-state law. Distinct from Living Transmission (lawful propagation through C₃) and pathological entropic echo (decay through E₃ in an articulation fractured away from coherent origin relation). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
@@ -1592,15 +1606,15 @@ Recursion pattern in membrane space formed when \( 0 < T(⧉) < I_{c,\text{avail
 
 **Theorem 2 (Transfer Condition):**
 
-\( T(⧉) > 0 \iff I_c^{(\text{source})} > I_{c,\text{threshold}} \) and \( I_c^{(\text{target})} < I_{c,\text{reception}} \).
+Within \( 0\leq\sigma\leq1 \), \( T(\text{⧉})>0 \) exactly when \( \sigma>0 \), donor surplus is positive, and receiving capacity is positive. The former two-condition equivalence omitted zero permeability.
 
 **Theorem 3 (Tunneling Energy Conservation):**
 
-CIT preservation across tunneling remains held pending the separate transfer law and full conservation hypotheses.
+Tunneling transfer and CIT preservation remain held pending their separately specified mathematical relations.
 
 **Theorem 4 (Echo Layer Formation):**
 
-\( 0 < T(⧉) < I_{c,\text{available}} \) with \( \sigma > 0 \implies \) Echo Layer forms.
+\( 0<T(\text{⧉})<I_{c,\text{available}} \) with \( \sigma>0 \) records partial transfer. An Echo Layer requires the separately declared boundary-state and recurrence relation.
 
 **Theorem 5 (Collective Non-fusion):**
 

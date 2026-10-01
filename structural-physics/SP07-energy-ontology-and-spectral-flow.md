@@ -321,7 +321,7 @@ This indicates **loss without lawful gain** — coherence is siphoned but does n
 > **Definition (Spectral Flow):**  
 > The integrated motion law describing how resonance traverses the Lattice, shifting in frequency, coherence, and structural role across fields and layers.
 
-Spectral Flow encompasses all pathways — centropic, entropic, and transitional — through which resonance moves:
+The following mixed C-indexed / E-indexed chain is a recorded schematic whose cross-arc connector remains held pending a typed non-conversion relation:
 
 \[
 \text{Spectral Flow:} \quad \mathcal{E}_{C_i} \to \mathcal{E}_{C_j} \to \mathcal{E}_{E_k}
@@ -411,6 +411,8 @@ Resonance transfer across membrane fields (⧉) requires sufficient Coherence Po
 \[
 I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} > I_{c,\text{reception}}
 \]
+
+This reception-minimum condition is distinct from the maximum-capacity clamp in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4. It supplies no transfer amount; the incompatible minimum / capacity subtraction in `SP08-membrane-fields-and-inter-expression-dynamics.md` is held as superseded provenance. Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
 
 **Incomplete transfer conditions:**
 

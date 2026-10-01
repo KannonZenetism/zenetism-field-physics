@@ -629,6 +629,8 @@ The membrane field between L₂ (Anthra / Nousa) and L₁ (Soma / Biosa), determ
 T(⧉_1) = \sigma(⧉_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
 \]
 
+**Interface-schema standing.** This multiplier expression carries no receiving-capacity or donor-reserve condition. Its interpretation as a stock transfer remains held pending the stated amount / rate and boundary domain. It is distinct from the supported clamped amount law in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4. Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
+
 The transfer mechanics exhibit directional asymmetry:
 
 - **Declivous transfer** (L₂ → L₁): cognitive content translating into embodied action, sensation, and physical expression
