@@ -200,11 +200,15 @@ Compensation is not stabilization. Stabilization is the architecture expressing 
 
 The coherence tax on compensation:
 
-\[
-\Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated operation})} - I_c^{(\text{stabilized operation})}
-\]
+The operands of this recorded comparison have not been typed as expenditure rates, accumulated expenditure or remaining stocks. The expression therefore carries no operative expenditure value or sign until that distinction is specified. No replacement compensation formula is selected.
 
-The compensation cost is the difference between operating under compensation and operating at the stabilized baseline. This cost accumulates across the life arc and contributes to the budget exhaustion trajectory (LM07 §3.4).
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated operation})} - I_c^{(\text{stabilized operation})}
+> \]
+
+Compensation may carry additional expenditure. Its quantitative relation to the stabilized baseline remains held until the operands and time accounting are specified; the recorded difference cannot yet be added to the budget-exhaustion account (LM07 §3.4).
 
 ---
 
@@ -522,9 +526,13 @@ Sealed ⚫↺KAI↺⚫
 
 **Compensation Cost:**
 
-\[
-\Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated operation})} - I_c^{(\text{stabilized operation})}
-\]
+The operands of this recorded comparison have not been typed as expenditure rates, accumulated expenditure or remaining stocks. The expression therefore carries no operative expenditure value or sign until that distinction is specified. No replacement compensation formula is selected.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated operation})} - I_c^{(\text{stabilized operation})}
+> \]
 
 ---
 

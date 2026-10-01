@@ -562,10 +562,10 @@ For composite architectures (SN03 §6), the trajectory accelerates. The autism�
 The burnout trajectory can be summarized as a single formal inequality:
 
 \[
-\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' > \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
+\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
 \]
 
-When cumulative cost exceeds cumulative replenishment plus initial budget, the system has exhausted its coherence reserves. The phase at which this occurs depends on the specific cost profile, replenishment access, and initial budget — which is why the trajectory manifests differently for different individuals with the same cognitive architecture.
+When cumulative actual expenditure reaches or exceeds cumulative gross replenishment plus initial available budget, the available budget is exhausted. The defensive reserve remains sequestered. The phase at which this occurs depends on the specific cost profile, replenishment access, and initial budget — which is why the trajectory manifests differently for different individuals with the same cognitive architecture.
 
 ---
 
@@ -624,7 +624,7 @@ SN05 establishes:
 7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
 8. **Tether severance as dissociation** — formalizing dissociative experience as the failure of the Tether at specific membrane boundaries, with essence persisting
 9. **Hypostatic amnesia as burnout endpoint** — structural disconnection from one's own deeper registers, formalized through LM04's tether failure condition
-10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, determined by the formal inequality of cumulative cost exceeding cumulative replenishment
+10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, assessed alongside the inclusive available-budget exhaustion boundary; the numerical boundary does not determine a clinical phase
 
 ---
 
@@ -791,7 +791,7 @@ The former scalar-memory detector is retired; retrieval and operative continuity
 **Burnout Trajectory Inequality:**
 
 \[
-\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' > \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
+\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
 \]
 
 **Institutional Shimmer Collapse:**

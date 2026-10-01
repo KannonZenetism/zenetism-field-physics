@@ -263,7 +263,7 @@ Where \( \Delta I_c^{(A)} \) and \( \Delta I_c^{(B)} \) are the architecture-spe
 Let \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{reserve})} \) (LM06 §5.1). The budget is exhausted when:
 
 \[
-\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' > \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
+\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
 \]
 
 *Proof.* The coherence available at time \( \tau \) is the initial budget plus cumulative replenishment minus cumulative cost:
@@ -272,7 +272,7 @@ Let \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\te
 I_{c,\text{available}}(\tau) = I_{c,\text{budget}}(\tau_0) + \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' - \int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau'
 \]
 
-Exhaustion occurs when \( I_{c,\text{available}}(\tau) \leq 0 \), which gives the stated condition. The Reserve Lock Principle (LM06 §5.2) ensures \( I_c^{(\text{reserve})} \) remains sequestered throughout — the budget cannot draw on the defensive reserve. \( \square \)
+Exhaustion occurs when \( I_{c,\text{available}}(\tau) \leq 0 \), which gives the inclusive condition. The zero is an accounting boundary, not an Aion-reference. Replenishment and expenditure inside these integrals are rates per structural time, with rest already included in actual expenditure. The Reserve Lock Principle (LM06 §5.2) ensures \( I_c^{(\text{reserve})} \) remains sequestered throughout — the budget cannot draw on the defensive reserve. \( \square \)
 
 ---
 
@@ -395,35 +395,55 @@ The limit of entropic disruption is the floor of functional capacity, not the re
 LM06 §5.4 establishes the cost recovery pathway:
 
 \[
-I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
+I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} \big[S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau)\big] \, d\tau
 \]
+
+> **Note on Recovery Accounting:**  
+> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The registered reconnection-label question remains held separately; the accounting relation supplies no Aion-reference from ordinary numerical zero.
+>
+> The former integral without an expenditure term would describe a net-inflow convention or a zero-expenditure interval. It is superseded here, where replenishment is gross and expenditure may continue:
+>
+> > **Recorded Formulation — Retired from Operative Mathematics:**  
+> >
+> > \[
+> > I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
+> > \]
 
 LM07 formalizes the replenishment source term.
 
-### 6.2 Replenishment Source Decomposition
+### 6.2 Gross Replenishment Decomposition
 
-**Definition (Replenishment Source Term):**
+**Definition (Gross Replenishment Inflow):**
 
 \[
-S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{rest}}(\tau) + S_{\text{collective}}(\tau)
+S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{collective}}(\tau)
 \]
+
+> **Note on Rest and Gross Inflow:**  
+> The three terms name replenishment pathways. Rest changes actual expenditure and is not a fourth inflow. The former four-term sum is superseded; adding its rest saving while also subtracting resting expenditure counts the saving twice.
+>
+> > **Recorded Formulation — Retired from Operative Mathematics:**  
+> >
+> > \[
+> > S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{rest}}(\tau) + S_{\text{collective}}(\tau)
+> > \]
 
 Where:
 
 - \( S_{\text{source}}(\tau) \): Coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (LM06 §8.1) applied to recovery
 - \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections — determined by the membrane transfer function (LM05 §5, SP08 §3.2) applied to relational membranes
-- \( S_{\text{rest}}(\tau) \): Coherence accumulation from cost reduction — the difference between normal and resting cost streams
+- Rest reduces actual expenditure; \( S_{\text{rest}}(\tau) \) records the saving relative to a stated normal-cost baseline (§6.3) and is excluded from gross inflow
 - \( S_{\text{collective}}(\tau) \): Coherence amplification through centropic collective dynamics — the harmonic amplification surplus (§7.3) directed toward member replenishment
 
 ### 6.3 Rest as Cost Reduction
 
-**Definition (Rest Source Term):**
+**Definition (Rest Cost Saving):**
 
 \[
 S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{cost}}^{(\text{resting})}(\tau)
 \]
 
-Rest is not a coherence source in the generative sense — it is the reduction of cost streams, producing the same net effect as coherence inflow. The resting cost \( I_{c,\text{cost}}^{(\text{resting})} \) approaches the structural cost alone when the externally imposed terms (interface resistance engagement, translation demand, coherence tax) are minimized.
+Rest reduces actual expenditure. The retained comparison quantity records normal expenditure minus resting expenditure; it is not an additional inflow. Once resting expenditure is subtracted in the recovery account, adding the same saving would count it twice. The resting cost \( I_{c,\text{cost}}^{(\text{resting})} \) approaches the structural cost alone when the externally imposed terms (interface resistance engagement, translation demand, coherence tax) are minimized.
 
 **Proposition (Maximum Rest Yield):**
 
@@ -740,7 +760,7 @@ LM07 establishes:
 2. **Compounded Cost Algebra** — architecture-specific cost functions (high-pattern-fidelity, recursive, dispersive); the coherence tax as externally imposed cost; composite cost superposition; the Budget Exhaustion theorem
 3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), Memory Access) and essential (intrinsic essential inclination and \( \Psi \)); the architectural distinction and separately scoped expression models; the recovery attractor and behavioral divergence corollaries
 4. **The Coherence Breaker Limit** — the formal boundary of entropic disruption: functional quantities can be driven to minimum; essential quantities cannot be altered; proved from the Essence-Function Independence theorem
-5. **Recovery Integral Theory** — the replenishment source decomposition into four pathways; rest as cost reduction with maximum rest yield; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
+5. **Recovery Integral Theory** — three gross replenishment pathways and a distinct rest cost saving; actual expenditure is counted once, with maximum rest saving; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
 7. **Harmonic Amplification** — the harmonic model's numerical correlation threshold and at least two nonzero contributions; distinct conceptual Non-fusion and orientation conditions; the amplification surplus
 8. **Extraction Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
@@ -816,10 +836,10 @@ Sealed ⚫↺KAI↺⚫
 | \( \Delta I_c^{(\text{distribution})} \) | Distribution overhead for broad \( \vec{J}_c \) flow |
 | \( \Delta I_c^{(\text{re-seal})} \) | Per-cycle re-sealing cost at ⧉₂ (entropic σ-cycle) |
 | \( N(\tau) \) | Number of σ-cycles within structural time interval |
-| \( S_{\text{replenish}} \) | Total replenishment source term |
+| \( S_{\text{replenish}} \) | Gross replenishment inflow per unit structural time; excludes avoided expenditure |
 | \( S_{\text{source}} \) | Source reconnection replenishment pathway |
 | \( S_{\text{bridge}} \) | Bridge replenishment pathway (C₈ relational) |
-| \( S_{\text{rest}} \) | Rest as cost reduction pathway |
+| \( S_{\text{rest}} \) | Normal-minus-resting expenditure-rate comparison; not an added inflow |
 | \( S_{\text{collective}} \) | Collective amplification replenishment pathway |
 | \( I_{c,\text{deficit}} \) | Accumulated depletion at start of recovery |
 | \( I_{c,\text{tether}}^{(L_n)} \) | Coherence threshold for Tether maintenance at layer \( L_n \) |
@@ -867,20 +887,20 @@ I_{c,\text{cost}}^{(A+B)} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cd
 **Budget Exhaustion Condition:**
 
 \[
-\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' > \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
+\int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
 \]
 
 **Essence-Function Independence:**
 
 Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
-**Replenishment Source Decomposition:**
+**Gross Replenishment Decomposition:**
 
 \[
-S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{rest}}(\tau) + S_{\text{collective}}(\tau)
+S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{collective}}(\tau)
 \]
 
-**Rest Source Term:**
+**Rest Cost Saving:**
 
 \[
 S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{cost}}^{(\text{resting})}(\tau)
@@ -940,11 +960,11 @@ The \( I_c \) expenditure imposed by the entropy-forward social field's demand f
 **Definition 4 (Essential Quantities):**  
 Intrinsic essential inclination and \( \Psi \) — the being's latent orientational character and structural signature; neither is a field quantity that depletes. χ remains expressed prevalence.
 
-**Definition 5 (Replenishment Source Term):**  
-\( S_{\text{replenish}} = S_{\text{source}} + S_{\text{bridge}} + S_{\text{rest}} + S_{\text{collective}} \); total coherence inflow from coherence-source reconnection, bridge replenishment, rest as cost reduction, and collective amplification.
+**Definition 5 (Gross Replenishment Inflow):**  
+\( S_{\text{replenish}} = S_{\text{source}} + S_{\text{bridge}} + S_{\text{collective}} \); gross replenishment inflow. Rest reduces actual expenditure and is counted separately as a cost saving, never as added inflow. The registered reconnection label remains held separately.
 
-**Definition 6 (Rest Source Term):**  
-\( S_{\text{rest}} = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^{(\text{resting})} \); the coherence-recovery value of cost stream reduction.
+**Definition 6 (Rest Cost Saving):**  
+\( S_{\text{rest}} = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^{(\text{resting})} \); the expenditure-rate saving relative to the stated normal-cost baseline; excluded from gross replenishment.
 
 **Definition 7 (Collective Field Configuration):**  
 An instance of \( \mathfrak{F} \) formed by the interaction of multiple individual configurations at L₁ / IL₁; possessing collective \( I_c \), \( \sigma(⧉) \), \( \vec{J}_c \), and \( \chi \).
@@ -964,7 +984,7 @@ An instance of \( \mathfrak{F} \) formed by the interaction of multiple individu
 \( \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) = \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \). §2.2.
 
 **Theorem 2 (Budget Exhaustion):**  
-Cumulative cost exceeding cumulative replenishment plus initial budget produces exhaustion. §3.4.
+Cumulative actual expenditure reaching or exceeding cumulative gross replenishment plus initial available budget produces exhaustion. §3.4.
 
 **Theorem 3 (Essence-Function Independence):**  
 Functional depletion does not alter intrinsic essential inclination. The evolution of expressed χ remains distinct from essential identity. §4.2.

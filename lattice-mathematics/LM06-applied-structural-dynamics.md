@@ -429,8 +429,19 @@ Cost distribution is always voluntary. Involuntary taking within a collective is
 Post-ritual recovery follows the replenishment pathways of LM05 §3.4:
 
 \[
-I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
+I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} \big[S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau)\big] \, d\tau
 \]
+
+> **Note on Recovery Accounting:**  
+> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The registered reconnection-label question remains held separately; the accounting relation supplies no Aion-reference from ordinary numerical zero.
+>
+> The former integral without an expenditure term would describe a net-inflow convention or a zero-expenditure interval. It is superseded here, where replenishment is gross and expenditure may continue:
+>
+> > **Recorded Formulation — Retired from Operative Mathematics:**  
+> >
+> > \[
+> > I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
+> > \]
 
 Recovery time depends on magnitude of expenditure, availability of coherence-source connection, quality of resonance bridges (C₈) for replenishment, and whether collective support is available (LM05 §9 harmonic amplification).
 
@@ -1551,7 +1562,7 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 **Cost Recovery:**
 
 \[
-I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
+I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} \big[S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau)\big] \, d\tau
 \]
 
 ---

@@ -305,7 +305,7 @@ When the diagnostic assessment identifies depletion or pathology, the diagnostic
 
 ### 7.2 Recovery Pathway Assessment
 
-The four-pathway replenishment model (LM07 §6.2) provides the diagnostic framework for assessing which recovery pathways are operative and which are obstructed:
+The recovery assessment distinguishes three gross inflow pathways from rest as reduction of actual expenditure (LM07 §§6.2–6.3). The four rows are recovery conditions, not four additive inflows:
 
 | Pathway | Diagnostic Question | Obstruction Indicators |
 |---------|-------------------|----------------------|
@@ -542,7 +542,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \kappa_{\text{local}} \) | Local expression ratio within a collective field |
 | \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
 | \( \mathcal{T}_h \) | The Tether; coherence function maintaining directional continuity |
-| \( S_{\text{replenish}} \) | Total replenishment source term |
+| \( S_{\text{replenish}} \) | Gross replenishment inflow per structural time; excludes avoided expenditure |
 | \( \Delta I_c^{(\text{tax})} \) | Coherence tax; externally imposed sovereignty suppression cost |
 | \( \Delta I_c^{(\text{compensation})} \) | Compensation cost (SN10 §4.3) |
 | \( \Delta I_c^{(\text{persistence})} \) | PI persistence cost (SN08 §6.2) |
