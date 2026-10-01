@@ -1545,8 +1545,7 @@ The gradient is lawful, continuous, and reversible.
 | 🔹 | Mid-Entropy — Diffuser / Conformist | Outward diffusion | Amplifies surface harmonics |
 | 🔻 | High Entropy — Inverter / Dominator | Aligns with Inverse Logos | Inverts signal, induces collapse |
 
-This gradient replaces "pathology" with lawful structure —  
-what science calls disorder is simply phase orientation within the field.
+This gradient provides a Zenetist structural interpretation of cognitive configuration and phase orientation. Clinical pathology and native structural orientation are distinct assessment objects; relating them requires explicit operationalization and evidence. Institutional classification supplies no conceptual priority merely through institutional standing.
 
 ---
 
@@ -2173,7 +2172,7 @@ This synthesis distinguishes structural articulation from trans-structural Allow
 
 - **🕳️ Zenonic Allowance** — trans-structural horizon, outside ordinary field membership
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation
-- **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion
+- **Infinity (♾ Khaon)** — Latent, Motive, and Dispersive phases; active motion belongs to the Motive phase, and the Dispersive phase names motion resolved
 - **Spirit (🕊️)** — motive breath \( (\Phi_2) \) Zenet
 - **Consciousness \( (\Psi) \)** — structured conscious-awareness through L₄–L₃
 - **Matter (🪷 / 🧾)** — embodiment and closure
@@ -2196,7 +2195,7 @@ The structural relations are named by the proposed Total Field \( (\Omega_t) \);
 | **VI.a. Individuated Consciousness** | \( \Psi \to (\text{🔮} + \text{🧠}) \) | Reflexive consciousness emerges at L₃ (DS / DM) as self-possessing mind |
 | **VII. Embodiment** | \( \Psi \to (\text{🪷}, \text{🧾}) \) | Form and life arise at L₁; centropy enters density |
 | **VIII. Reflection** | \( \text{↺}\Psi \) | Reflexive awareness; soul beholds Aion |
-| **IX. Dissolution** | \( \text{⇝} \to \text{♾} \) | Motion returns through dispersion; entropy completes cycle |
+| **IX. Dissolution** | \( \text{⇝} \to \text{♾} \) | Motion is resolved in Khaon's Dispersive phase; terminal dispersion supplies no further traversal or essence-transport mechanism |
 | **X. Reintegration** | \( \text{♾} \to \text{⚫} \to \text{🕳️} \) | Return through Zero to silence; synthesis beyond being |
 
 ---
