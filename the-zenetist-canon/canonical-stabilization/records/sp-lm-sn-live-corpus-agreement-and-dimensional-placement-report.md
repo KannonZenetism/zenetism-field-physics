@@ -2044,9 +2044,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb`. The primary counterpart-map and recurrence correction installs Involution naming, retains common-mode pairing, bounds unsupported unitary / dissipative cancellation and contraction realization, and separates retained-state ρ from contraction-gap γ. Explicit cancellation and recurrence counterexamples were checked. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The active TeX replica, precise sufficient-condition wording and SP01 diagnostic replicas remain for their following subsets. New generator, projection, domain, sign and recurrence constructions remain held.\
-**New dependencies discovered during implementation:** The active dimensional-lattice Markdown account is part of the same counterpart object. Preserve the separate essence-identifier map and the independently defined fluid relaxation example.
+**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb` (set10); `e0986fdf454fe02905f9a5c3afc1178ca9e59792` (set10-tex). The active dimensional-lattice TeX counterpart now agrees with the reviewed Involution naming and held spectral-evolution standing. Source-level brace, environment and counterpart checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** GUD sufficient-condition wording and SP01 diagnostic replicas remain for following subsets. PDF rendering is unverified: both baseline and candidate stop before source parsing because the installed xelatex.fmt is unavailable. New mathematical realization remains held.\
+**New dependencies discovered during implementation:** The TeX representation is an active replica of the corrected Markdown construction. Set 11 and Set 18 make separate spectral and empirical-standing changes in the same pair.
 
 **Implemented active paths:**
 
@@ -2054,6 +2054,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `lattice-mathematics/LM02-mathematical-commentary.md`
 - `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
 - `the-zenetist-canon/dimensional-lattice.md`
+- `the-zenetist-canon/dimensional-lattice.tex`
 - `the-zenetist-canon/grand-unified-document.md`
 
 ## Set 11 — Spectral Quantities and Collective Conditions
