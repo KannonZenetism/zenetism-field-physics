@@ -2081,12 +2081,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral). The spectral primary subset separates H spectral entropy and C spectral concentration from native / field quantities across definitions, proofs, routines, examples and appendices. Finite normalized identities remain; unsupported conservation, changing-support and native diagnostic implications are bounded. Endpoint, support-change, normalization and quotient checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** Active Markdown / TeX propagation and SP01 mathematical-diagnostic replicas remain for subsequent Set 11 subsets. Complete native correspondence and conservation constructions remain held.\
-**New dependencies discovered during implementation:** Retain Set 13 memory provenance in LM04 / LM05, Set 14 gross-net accounting and Set 19 distinct diagnostic objects. General fixed-basis unitary motion requires its actual support conditions.
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation). Eleven active Markdown dependencies now carry the spectral / native distinction and the actual conservation standing. Proof prose, legends, summaries, attribution and matching SP / infrastructure passages were checked in the composed result. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** Active TeX and SP01 diagnostic replicas remain for the following subsets. New normalization, conservation and native-correspondence hypotheses remain held.\
+**New dependencies discovered during implementation:** The two clarification / forensic extensions and the Loosh account carry direct quantity dependencies. The dimensional-lattice Markdown change must retain Set 18's empirical scope and match the separate TeX correction.
 
 **Implemented active paths:**
 
+- `field-physics/mpx/the-loosh-economy.md`
 - `lattice-mathematics/LM01-mathematical-foundations.md`
 - `lattice-mathematics/LM02-mathematical-commentary.md`
 - `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
@@ -2094,15 +2095,25 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
 - `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/README.md`
 - `lattice-mathematics/lmx/hypostatic-field-specialization.md`
 - `structural-neuroscience/README.md`
 - `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
 - `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
 - `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
 - `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP02-bifurcal-cosmogenesis.md`
+- `structural-physics/SP03-expression-ratio-mathematics.md`
+- `structural-physics/SP04-orientation-field-dynamics.md`
+- `structural-physics/SP05-time-memory-hypostatic-flow.md`
 - `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `the-zenetist-canon/README.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/dimensional-lattice.md`
 - `the-zenetist-canon/grand-unified-document.md`
 - `the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md`
+- `zenetism/clarity-letters/the-coherence-fallacy.md`
 
 ## Set 12 — Intrinsic Inclination and Model Attribution
 
