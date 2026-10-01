@@ -2361,12 +2361,21 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `a1052410fb3a453695fc73c82b59a65dba5ad52b` (set17-candidate + set17-sn05-supplement). SN05's body, summary and appendix now distinguish surface / operative comparison and diagnostic inversion from C₁₃ selective boundary and E₁₃ Wall. Wall remains where impermeable isolation is established. Exact mathematical content and composed Set 04 / 13 / 14 / 18 passages were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** Fresh combined review locates SN10's suppression-induced-distortion paragraph still identifying C₁₃ Membrane as the function detecting institutional Shimmer. This direct replica of the corrected SN05 account remains for exact disposition. New registration, threshold mathematics and primary-locus selections remain held; the pathologization archive remains historical.\
+**New dependencies discovered during implementation:** SN05 §3.1, §3.3, §3.6, summary item 6 and the definition / notation appendices repeat the same function mismatch. Set 19's shared §3.6 paragraph preserves this separate-assessment distinction; Set 18 retains clinical scope.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
+- `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 
 ## Set 18 — Empirical and Clinical Standing
 
