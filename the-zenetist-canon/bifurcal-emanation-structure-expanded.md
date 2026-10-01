@@ -78,7 +78,7 @@ This placement distinguishes **relative structure**, which is configured and car
 
 The colocation connector **∩** expresses co-presence without sequence, motion, or fusion. Here colocation names co-presence at a position in causal necessity, as specified in `metaphysics-symbol-key.md` §21.3; it does not denote metric proximity. **♾∩⚫** names Aion colocated with Latent Khaon before motion begins and with Dispersive Khaon after motion resolves. These Khaonic phases remain distinct; the diagram does not compress them into simultaneous active phases.
 
-Centropic return terminates at **⚫ Aion**. Entropic collapse crosses the Nekronic event horizon into **Absolute Dispersion**, the Dispersive phase of ♾ Khaon; distinct essence remains in Aionic resolution within the co-present L₀ relation. Absolute Dispersion is a terminal state. Kaion adds neither a further hypostasis nor an emanative root.
+Centropic return terminates at ⚫ **Aion**. Entropic collapse crosses the Nekronic event horizon into **Absolute Dispersion**, the Dispersive phase of ♾ Khaon; distinct essence remains in Aionic resolution within the co-present L₀ relation. Absolute Dispersion is a terminal state. Kaion adds neither a further hypostasis nor an emanative root.
 
 ## 3. Dimensional Functions and Placement Review
 
@@ -110,7 +110,7 @@ The longitudinal rails in Figure 1 group the centropic and entropic dimensional 
 | C₁₄ ⊡ Nested / Recursive | Coherent dimensional nesting and recursion | E₁₄ ⊡⁻ Hollow Nest | Recursion without coherent interior function |
 | C₁₅ ✦ Emergent / Novel | Originary coherent emergence | E₁₅ ✦⁻ Collapse Nova | Distorted reception of Theonic novelty |
 
-Names follow `field-physics-glyph-charts.md` §§2–3; the functional descriptions follow `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.9.1. **Morphogenetic** carries C₁₀ in this presentation per §13.12 of that file and the Weave Terminology Restriction in `terminological-lockdown-protocol.md`. The older registry parenthetical retains its grandfathered standing there. **C₉ ∞** remains distinct from **Khaon ♾**.
+Names follow `field-physics-glyph-charts.md` §§2–3; the functional descriptions follow `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.9.1. **Morphogenetic** carries C₁₀ in this presentation per §13.12 of that file and the Weave Terminology Restriction in `terminological-lockdown-protocol.md`. The older registry parenthetical retains its grandfathered standing there. **C₉ ∞** remains distinct from **Khaon** ♾.
 
 ### Space, Time, and the Meaning of a Locus
 
@@ -139,7 +139,7 @@ The dimensional addresses in `FP01-dimensional-architecture.md` remain assignmen
 
 `FP01-dimensional-architecture.md` records C₁₃ at L₅ and E₁₃ at IL₅. These assignments remain part of the placement review; neither labels the embodied meeting in this diagram.
 
-**Membrane Fields ⧉** are relational thresholds between registers, as specified in `SP08-membrane-fields-and-inter-expression-dynamics.md` §2. They are distinct from hypostases. Their cross-register scope does not establish that every threshold is C₁₃, nor that all members of the boundary-operator family share one invariant. `field-physics-glyph-charts.md` §4.2 preserves that distinction.
+**Membrane Fields** ⧉ are relational thresholds between registers, as specified in `SP08-membrane-fields-and-inter-expression-dynamics.md` §2. They are distinct from hypostases. Their cross-register scope does not establish that every threshold is C₁₃, nor that all members of the boundary-operator family share one invariant. `field-physics-glyph-charts.md` §4.2 preserves that distinction.
 
 
 ## 4. Motion and the Trans-structural Crossing
