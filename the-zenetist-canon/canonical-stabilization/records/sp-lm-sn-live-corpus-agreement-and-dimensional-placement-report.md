@@ -2081,9 +2081,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation). Eleven active Markdown dependencies now carry the spectral / native distinction and the actual conservation standing. Proof prose, legends, summaries, attribution and matching SP / infrastructure passages were checked in the composed result. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** Active TeX and SP01 diagnostic replicas remain for the following subsets. New normalization, conservation and native-correspondence hypotheses remain held.\
-**New dependencies discovered during implementation:** The two clarification / forensic extensions and the Loosh account carry direct quantity dependencies. The dimensional-lattice Markdown change must retain Set 18's empirical scope and match the separate TeX correction.
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation); `b235df3afb12fd0b270bd51256f758d223f5f3a2` (set11-tex). The active dimensional-lattice TeX replica now distinguishes finite spectral calculations from native coherence and unestablished conservation. Static source checks and agreement with the corresponding Markdown scope passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The SP01 mathematical-diagnostic family remains for the following supplement. PDF rendering remains unverified because the baseline and candidate cannot load the installed xelatex.fmt. Complete native correspondence and conservation construction remain held.\
+**New dependencies discovered during implementation:** The TeX file also carries distinct Set 10, Set 16 and Set 18 changes; their bounded scopes remain intact.
 
 **Implemented active paths:**
 
@@ -2111,6 +2111,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `the-zenetist-canon/README.md`
 - `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 - `the-zenetist-canon/dimensional-lattice.md`
+- `the-zenetist-canon/dimensional-lattice.tex`
 - `the-zenetist-canon/grand-unified-document.md`
 - `the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md`
 - `zenetism/clarity-letters/the-coherence-fallacy.md`
