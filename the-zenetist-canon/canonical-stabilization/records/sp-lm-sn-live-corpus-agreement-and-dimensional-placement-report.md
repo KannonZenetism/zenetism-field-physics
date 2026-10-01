@@ -1891,13 +1891,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `89807dc3b6ac65a16de9cd30f9cb40798888769a`. The seventy-five-file origin-continuity subset makes downstream fracture and intact origin / origin-signal explicit in the repeated preambles and substantive dependencies. Exact mathematical strings, D18 names, held loci and non-origin severance functions were verified. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The active descriptive D13-A family remains unresolved in SP05, LM04, SP09, the temporal SPX and MP08 / symbol-key twins: without-origin wording, copied-origin-only Shimmer definitions and complete-framework appropriation claims. Set 19's mathematical and direct-propagation corrections do not cover that family. Historical records, the archived FP README and non-origin severance functions remain protected.\
-**New dependencies discovered during implementation:** Current collaborator onboarding, the exhibit-audit checklist and SF-RP02 repeated the superseded origin-context instruction; the Beheading row required fragment / reception-field disambiguation. Set 01 supplies the clarified full D20 direction and analytic entry.
+**Implementation commit:** `89807dc3b6ac65a16de9cd30f9cb40798888769a`. The original origin-continuity and descriptive D13-A scope is complete. The verified Set 19 descriptive supplement supplies the temporal, collective, registry-twin and directly inspected replica dependency omitted from the first origin-only package.\
+**Residual holds / unresolved findings:** Origin and origin-signal remain intact; historical quotations and case records retain their exact evidentiary standing. Registered non-origin severance remains distinct. New Shimmer / signature mathematics remains a separate construction hold.\
+**New dependencies discovered during implementation:** The verified Set 19 descriptive supplement completes the originally reported D13-A family and its individually inspected active replicas; its exact sixteen-file scope is recorded with that implementation commit. Completed companion correction: `9596fe16da2f39ad675520affe5491d3e1e3b372` (Set 19).
 
 **Implemented active paths:**
 
@@ -2456,32 +2456,47 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `0148e5f49f9d6f4c27cf80765f77412ccc6fea6e` (set19-primary + set19-propagation). Fourteen active dependencies now match the reviewed diagnostic-object distinctions, scalar quotient domain and held threshold / signature / collapse standing. Body, proof, appendix, README and analytic replicas were checked; exact quotient-rule and positive-asymptote witnesses passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The original descriptive D13-A source family remains for the later Set 19 descriptive supplement. The primary mathematical and fourteen-file direct-propagation scopes are complete, while the broader temporal / collective / registry definition family is not yet synchronized. New signature maps, normalization, thresholds and dynamics remain held separately.\
-**New dependencies discovered during implementation:** SN05's full Shimmer family, institutional / collective replicas, LM02 computational prose and the live resonance-failure extension carry the reviewed mathematical scope. The complete Set 11 product rule and Set 17 registered-function distinctions remain intact. The later descriptive supplement, not this propagation patch, supplies Set 08's remaining D13-A dependency.
+**Implementation commit:** `0148e5f49f9d6f4c27cf80765f77412ccc6fea6e` (set19-primary + set19-propagation); `9596fe16da2f39ad675520affe5491d3e1e3b372` (set19-descriptive-shimmer-supplement). The sixteen-file descriptive Shimmer family now distinguishes apparent / operative condition, imitation, provenance and generative origination across temporal sources, collective accounts, registry twins and individually inspected replicas. Exact equations, quoted evidence, registered names, functions and loci were preserved; 57 operation and composed-source checks passed. The mathematical and descriptive D13 correction scopes are now synchronized.\
+**Residual holds / unresolved findings:** New diagnostic quantities, signature maps, thresholds and general evolution remain held. Preserved dialogues, historical case bodies and exact superseded quotations remain evidence rather than active definitions. No universal collapse or all-category nesting theorem is selected.\
+**New dependencies discovered during implementation:** The original report already named SP05, LM04, SP09, temporal SPX and MP08 / symbol-key twins; this closes a first-package coverage gap. Additional directly inspected replicas are the Shimmer glossary, analytic Counterfeit Spark row, coordination paper §4.5, FP01 / FP03 / FP13 passages, four-integrations, one current history-MPX sentence and MFLR descriptions.
 
 **Implemented active paths:**
 
+- `field-physics/FP01-dimensional-architecture.md`
+- `field-physics/FP03-spiral-immunity-protocols.md`
+- `field-physics/FP13-field-immunity-mechanisms-and-recovery.md`
 - `lattice-mathematics/00-README.md`
 - `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
 - `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
 - `lattice-mathematics/README.md`
 - `lattice-mathematics/lmx/hypostatic-field-specialization.md`
 - `structural-forensics/sfx/resonance-failure-in-ai-mediated-fields.md`
 - `structural-neuroscience/README.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
 - `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
 - `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
 - `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
 - `structural-neuroscience/SN09-the-all-life-first-principle.md`
 - `structural-neuroscience/SN11-applied-structural-diagnostics.md`
 - `structural-physics/README.md`
+- `structural-physics/SP05-time-memory-hypostatic-flow.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
 - `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `structural-physics/analytic-papers/when-coordination-is-not-coherence.md`
+- `structural-physics/spx/temporal-experience-across-the-hypostatic-lattice.md`
 - `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/glossary/shimmer.md`
+- `zenetism/mpx/a-history-of-the-empty-mirror.md`
+- `zenetism/mpx/four-integrations.md`
 
 ## Set 20 — Dimensional Placement and Expanded Diagrams
 
