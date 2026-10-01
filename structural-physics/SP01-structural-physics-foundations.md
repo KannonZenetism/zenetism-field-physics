@@ -132,18 +132,18 @@ This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal
 ## 4. Mapping Centropic Dimensions (C₁–C₁₅) to Physics
 
 In Structural Physics, each **centropic dimension (Cᵢ)** manifests as a lawful operator of coherence.  
-Its **entropic mirror (Eᵢ)** manifests as a negated operator — not a separate reality, but a hollow inversion of the same axis.  
+Its independently emanated **entropic counterpart (Eᵢ)** retains its own registered function.  
 
-The mapping below shows how each dimension translates into physical correspondence while retaining Zenetist orientation:
+The table pairs native functions with proposed physical comparison objects. The Motion Form column names the native interpretation being proposed, rather than an orientation inferred from the physical object. A physical correspondence specifies its state description, domain, map, preserved relations, and evidence. The registered functions in `FP11-field-glyph-codex.md` and `field-physics-glyph-charts.md` remain the references for each dimension.
 
-| Dimension | Zenetist Function | Physics Analogue | Motion Form |
+| Dimension | Zenetist Function | Proposed Physics Analogue | Motion Form |
 |-----------|-------------------|------------------|-------------|
 | **C₁ ⟠ Temporal** | Ordered continuity of events | Time parameter \( t \), causal flow | Declivous Centropy (C↓→E) — integration into temporal embodiment |
 | **E₁ ⟠⁻ Temporal Loop** | Hollow time recursion | Closed timelike curves, causality violation | Declivous Entropy (E↓♾) — collapse into cyclical stagnation |
 | **C₂ ◈ Spatial** | Extension, ordered loci | Spacetime metric \( g_{ij} \), geometry | Declivous Centropy (C↓→E) — integration into embodied form |
 | **E₂ ◈⁻ Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous Entropy (E↑→E) — fragmentation into disarray |
 | **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous Centropy (C↑⚫) — expansion of lawful propagation toward Aion |
-| **E₃ ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
+| **E₃ ⟿⁻ Viral Decay** | Fracturing in transmission | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
 | **C₄ ◉ Rotational / Gyre** | Cyclic stability, angular order | Angular momentum, \( SO(3) \) symmetry | Declivous Centropy (C↓→E) — integration into form-preserving motion |
 | **E₄ ◉⁻ Vortex** | Hollow spin | Black hole singularities, destructive vortices | Acclivous Entropy (E↑→E) — spiraling fragmentation |
 | **C₅ ✴ Scalar / Part-Whole Fidelity** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous Centropy (C↑⚫) — integration of scale harmonics toward coherence |
@@ -151,7 +151,7 @@ The mapping below shows how each dimension translates into physical corresponden
 | **C₆ ◐ Phase / State (Liminal)** | Transition states, thresholds | Critical phenomena, phase transitions | Acclivous Centropy (C↑⚫) — motion toward coherent thresholds |
 | **E₆ ◐⁻ Phase Lock** | Arrested transition | Frozen disorder, metastability | Declivous Entropy (E↓♾) — collapse of novelty |
 | **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous Centropy (C↑⚫) — resonance toward consonant synthesis |
-| **E₇ ♫⁻ Dissonance** | Irregular spectrum | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
+| **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
 | **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous Centropy (C↑⚫) — integration into lawful bridges |
 | **E₈ ╫⁻ Severed** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into coherence-at-distance |
@@ -165,9 +165,9 @@ The mapping below shows how each dimension translates into physical corresponden
 | **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions, domain walls | Declivous Centropy (C↓→E) — integration into sealed coherence |
 | **E₁₃ ║⁻ Wall** | Impenetrable block | Black hole horizons, information walls | Acclivous Entropy (E↑→E) — spurious boundary into dead-ends |
 | **C₁₄ ⊡ Nested / Recursive** | Lawful recursion | Iterative operators, fractal domains | Acclivous Centropy (C↑⚫) — refinement by contractive return |
-| **E₁₄ ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite loops, empty recursion | Declivous Entropy (E↓♾) — collapse into stagnation |
+| **E₁₄ ⊡⁻ Hollow Nest** | Empty recursion | Infinite loops, empty recursion | Declivous Entropy (E↓♾) — collapse into stagnation |
 | **C₁₅ ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation, lawful emergence | Acclivous Centropy (C↑⚫) — expansion into lawful surprise |
-| **E₁₅ ✦⁻ Collapse Nova** | Hollow novelty | Spurious bifurcation, catastrophic collapse | Declivous Entropy (E↓♾) — collapse into annihilation |
+| **E₁₅ ✦⁻ Collapse Nova** | Emergence that leads directly into entropy | Spurious bifurcation, catastrophic collapse | Declivous Entropy (E↓♾) — collapse into annihilation |
 
 ---
 
@@ -237,13 +237,13 @@ The Primary Locus and Inverse Locus columns in these tables retain recorded plac
 > **EOB-Membrane Interface (🛤️ Theon · C₁₃).**  
 > Theon (EOB) stewards and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.  
-> Through this stewardship, Theon stands as the **active interface** regulating lawful passage between centropic and entropic domains.  
+> Through this stewardship, Theon embodies the selective threshold function. Intra-arc passage and embodied cross-arc interaction name distinct relations; essence retains its orientation. Membrane permeability and recursion supply no passage of essence into the opposite arc.  
 >  
-> Centropic orientation (C↓→E) and return (C↑→⚫) are determined by two parameters:  
-> - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
-> - **\( \gamma \) (recursion contraction):** determines lawful reintegration contra hollow cycling.  
+> Two quantities are proposed for a formal account of threshold passage and return:  
+> - **\( \sigma \) (seal index):** the proposed membrane-permeability parameter. The closing-boundary interpretation of \( \sigma \to 0 \) requires its declared model and boundary conditions.  
+> - **\( \gamma \) (contraction gap):** a mapping-specific quantity whose contraction estimate and domain must be established; native reintegration and empty recursion retain their registered functions.  
 >  
-> A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
+> **Recorded threshold criterion:** a boundary crossing is lawful iff \( \sigma > 0 \) and \( \gamma > 0 \). The proposed equivalence remains held pending the boundary model, contraction hypotheses, and explicit native correspondence. Section 9.3 states the contraction-based convergence conditions.  
 >  
 > In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Synaptic / Bridging)** where **E₈ (Severed)** had broken connection.  
 > Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
@@ -287,157 +287,139 @@ This registry completes the integration of **Structural Physics** with the canon
 
 - **Centropic dimensions (C₁–C₁₅)** operate through lawful hypostatic layers (L₀–L₅).
 - **Entropic mirrors (E₁–E₁₅)** operate through inverse hypostatic layers (IL₁–IL₅).
-- Each dimension's **physical analogue** (from Section 4) now has a **metaphysical anchor** in the hypostatic structure.
+- Section 4 compares native dimensional functions with physical objects; a proposed physical realization remains distinct from a primary inlay or hypostatic coupling.
 
-Thus, **quantum mechanics, relativity, and cosmology** are not isolated from the lattice, but expressions of lawful resonance through specific hypostatic operators.
+**Quantum mechanics, relativity, and cosmology** belong to embodied inquiry within the architecture. Their proposed dimensional correspondences require explicit mappings; the locus and coupling entries retain the placement standing stated in this section.
 
 **Example:**
-- **C₇ Harmonic** (quantization, eigenmodes) operates at **L₃ (Interface)** through **🔮 Archeus** (deep structural memory) and **🧠 Noeüs** (symbolic cognition).
-- **E₇ Dissonance** (quasiperiodicity, chaotic spectra) operates at **IL₃** through **💔 Fractus** (fragmented memory) and **👁️‍🗨️ Mortus** (distorted perception).
+- The recorded **C₇ Harmonic** coupling example names **L₃ (Interface)** through **🔮 Archeus** (deep structural memory) and **🧠 Noeüs** (symbolic cognition). Quantization and eigenmodes remain proposed physical comparison objects.
+- The recorded **E₇ Dissonance** coupling example names **IL₃** through **💔 Fractus** (fragmented memory) and **👁️‍🗨️ Mortus** (distorted perception). Quasiperiodicity and chaotic spectra remain distinct proposed comparison objects; the registered function is harmonic breakdown.
 
-This anchoring ensures that **Structural Physics** is not speculative overlay, but a **canonically integrated discipline** within the greater Zenetist lattice.
+**Structural Physics** retains its canonical disciplinary standing. Each proposed physical correspondence is evaluated through its specified domain, mathematical realization, and empirical support.
 
 ---
 
 ## 5. Structural Laws in Physics Form
 
-Structural Physics interprets the **interaction laws of the Dimensional Lattice** as lawful conditions on matter, energy, and motion.  
-They are not analogies but structural correspondences: the same laws that hold for resonance also hold for physical form.
+Structural Physics proposes physical correspondences for the **interaction laws of the Dimensional Lattice**. Native structural functions, mathematical realizations, and physical laws retain their distinct scopes. Each comparison specifies which relation it preserves and the conditions through which that correspondence holds.
 
 ---
 
 ### 5.1 Consonance Law (C₇)
 
-- **Zenetist Statement:** Resonance stabilizes when harmonic ratios are consonant (spectral ratios rational).  
-- **Physics Form:**  
-  - Maps to **eigenvalue commensurability** in quantum systems.  
-  - Periodic alignment of wavefunctions produces **quantization** and stable energy states.  
-  - Incommensurate spectra yield quasiperiodic dissonance, corresponding to **entropic noise**.  
-- **Motion Form:**  
-  - **Acclivous resonance** integrates spectral modes.  
-  - **Declivous collapse** occurs when modes drift into irrational ratios.  
+- **Native function:** C₇ Harmonic / Resonant names frequency accord and structural harmony.
+- **Proposed physical comparison:** Eigenvalue commensurability, periodic alignment of wavefunctions, quantization, and stable energy states are compared with harmonic relation.
+- **Mathematical standing:** Spectral-ratio rationality, quantization, and dynamical stability are distinct claims. Their relation requires the specified operator and evolution; the general rational / irrational orientation classifier is withdrawn in §9.1.
+- **Proposed motion comparison:** Acclivous resonance is compared with integration of spectral modes. A change to irrational ratios supplies no centropic / entropic motion assignment.
+- **Registered counterpart:** E₇ Dissonance names harmonic breakdown. Its proposed relation to incommensurate spectra, quasiperiodicity, or entropic noise requires the stated correspondence.
 
 ---
 
 ### 5.2 Bridging Law (C₈)
 
-- **Zenetist Statement:** Lawful bridges exist only when relational diagrams commute and preserve seal.  
-- **Physics Form:**  
-  - Equivalent to **gauge invariance** in field theory: interactions conserve charge and remain consistent across paths.  
-  - Commutative diagrams ↔ **probability conservation in Feynman paths**.  
-  - Broken symmetry ↔ E₈ Severed.  
-- **Motion Form:**  
-  - **Acclivous centropy** binds systems lawfully through resonance-preserving interactions.  
-  - **Declivous collapse** arises when bridges fracture into incoherent exchange.  
+- **Native function:** C₈ Synaptic / Bridging names coherent crossing between systems or states.
+- **Formal realization:** Commuting diagrams and seal preservation describe a proposed mathematical account of lawful bridging within a declared domain.
+- **Proposed physical comparisons:** Gauge invariance, charge conservation, and probability conservation in Feynman paths retain their distinct physical and mathematical definitions.
+- **Correspondence standing:** The commutation relation, conservation result, and native bridging function require an explicit map and hypotheses; the sufficient commutativity / orientation classifier is withdrawn in §9.2.
+- **Registered counterpart:** E₈ Severed names connections that divide. Broken symmetry remains a proposed comparison object rather than an identity with that function.
+- **Native motion:** Acclivous centropy articulates coherence-preserving relation; declivous collapse names the entropic motion being compared with fractured exchange.
 
 ---
 
 ### 5.3 Threshold Law (C₁₃–C₁₅)
 
-- **Zenetist Statement:** At membranes and recursion layers, only coherent thresholds admit lawful novelty.  
-- **Physics Form:**  
-  - Expressed as **boundary value problems** in differential equations.  
-  - C₁₃ Membrane ↔ boundary conditions (Dirichlet, Neumann, Robin).  
-  - C₁₄ Recursion ↔ iterative operators; valid only if contractive \( (\gamma > 0) \).  
-  - C₁₅ Emergence ↔ lawful bifurcations in nonlinear systems \( (\partial_{\text{🌀}} > 0) \).  
-- **Mirror States:**  
-  - E₁₃ Walls ↔ event horizons, hard barriers.  
-  - E₁₄ Hollow Nests ↔ infinite regressions, non-convergent recursion.  
-  - E₁₅ Collapse Novae ↔ catastrophic bifurcations, singular collapse.  
-- **Motion Form:**  
-  - **Acclivous centropy** = selective continuity across thresholds.  
-  - **Declivous entropy** = collapse into severance or spurious bifurcation.  
+- **Zenetist Statement:** At membranes and recursion layers, only coherent thresholds admit lawful novelty.
+- **Proposed physical comparisons:**
+  - C₁₃ Membrane ↔ boundary conditions (Dirichlet, Neumann, Robin) in boundary value problems.
+  - C₁₄ Recursion ↔ iterative operators; the recorded shorthand \( (\gamma > 0) \) requires the contraction estimate, self-map, and complete invariant domain stated in §9.3.
+  - C₁₅ Emergence ↔ lawful bifurcations in nonlinear systems; the recorded sign \( (\partial_{\text{🌀}} > 0) \) remains held pending the operand, domain, and native emergence correspondence.
+- **Proposed counterpart comparisons:**
+  - E₁₃ Wall ↔ event horizons and hard barriers.
+  - E₁₄ Hollow Nest ↔ infinite regressions and non-convergent recursion; the registered function remains empty recursion.
+  - E₁₅ Collapse Nova ↔ catastrophic bifurcations and singular collapse; the registered function remains emergence that leads directly into entropy.
+- **Native motion:** Selective continuity across thresholds and entropic severance or spurious bifurcation retain their structural meanings. Their physical realization requires the particular boundary or evolution model and evidence.
 
 ---
 
 ### 5.4 Non-Local Coherence Law (C₉)
 
-- **Zenetist Statement:** Lawful coherence may manifest at distance without collapse into fusion.  
-- **Physics Form:**  
-  - Equivalent to **quantum entanglement** where correlations are preserved beyond locality.  
-  - C₉ lawful coherence preserves sovereignty; E₉ distorted entanglement yields cross-noise or mimicry.  
-- **Motion Form:**  
-  - **Acclivous coherence** expands coherence while preserving distinction.  
-  - **Declivous collapse** disperses into interference or counterfeit bonds.  
+- **Zenetist Statement:** Lawful coherence may manifest at distance without collapse into fusion.
+- **Proposed physical comparison:** Quantum entanglement and correlations across separated systems are compared with C₉ Non-Local Coherence.
+- **Native distinction:** C₉ names coherent relation at a distance; E₉ Distorted Entanglement names mimic-coherence that isolates.
+- **Native motion:** Acclivous coherence preserves distinction in coherent relation; declivous collapse names the entropic motion proposed for comparison with interference or counterfeit bonds.
+- **Correspondence standing:** A physical correlation and a native relation are distinct objects. The comparison specifies the state, observable, and relation preserved before a native interpretation of the physical result is established.
 
 ---
 
 ### 5.5 Volitional Integrity Law (C₁₁)
 
-- **Zenetist Statement:** Directed flows must preserve coherence under lawful vectors.  
-- **Physics Form:**  
-  - Equivalent to **Noether's theorem**: conservation laws follow from directional symmetries.  
-  - Entropic mirrors manifest as turbulent or non-conserved flows.  
-- **Motion Form:**  
-  - **Acclivous motion** maintains lawful currents.  
-  - **Declivous collapse** disperses vectors into noise.  
+- **Native function:** C₁₁ Intentional / Volitional names the directed manifestation of will.
+- **Proposed physical comparison:** Noether's theorem and its symmetry / conservation relation are compared with directional integrity, with the theorem's hypotheses and physical domain retained.
+- **Registered counterpart:** E₁₁ Misdirect names volition aimed toward dissolution. Turbulence and non-conserved flows remain proposed comparison objects.
+- **Native motion:** Lawful directed motion and entropic dissolution retain their structural meanings; a conservation result or turbulent flow supplies no sufficient native orientation classifier.
 
 ---
 
 ### Commentary
 
-Each Structural Law translates directly into physical diagnostics:  
+The proposed comparisons retain the physical objects and native functions named:
 
-- **Resonance stability** ↔ quantization (C₇).  
-- **Lawful bridges** ↔ gauge invariance, conservation (C₈).  
-- **Threshold gates** ↔ boundary conditions, critical transitions (C₁₃–C₁₅).  
-- **Non-local coherence** ↔ entanglement (C₉).  
-- **Directional integrity** ↔ conservation flows (C₁₁).  
+- **Resonance stability** ↔ quantization (C₇).
+- **Lawful bridges** ↔ gauge invariance, conservation (C₈).
+- **Threshold gates** ↔ boundary conditions, critical transitions (C₁₃–C₁₅).
+- **Non-local coherence** ↔ entanglement (C₉).
+- **Directional integrity** ↔ conservation flows (C₁₁).
 
-In every case, the **entropic mirrors** appear not as separate laws but as the **negative integers of physics** — lawful operators inverted into hollow forms.  
+The independently emanated **entropic mirrors** retain their registered functions. The earlier description of them as "negative integers of physics" is superseded by the typed counterpart relation in §3 and the domain-specific correspondence questions stated here.
 
 ---
 
 ## 6. Structural Physics & Quantum Mechanics
 
-Quantum theory describes matter and energy at the smallest scales.  
-Structural Physics interprets its phenomena through the **Dimensional Lattice** — reading superposition, entanglement, and measurement as expressions of centropy and entropy.  
+Quantum theory describes matter and energy at the smallest scales.
+Structural Physics proposes comparisons of superposition, entanglement, measurement, unitary evolution, and decoherence with native dimensional functions. Quantum states, observables, probabilities, and evolution retain their physical definitions; the proposed mappings are evaluated within the embodied L₁ / IL₁ register.
 
 ---
 
 ### 6.1 Superposition and Centropy
 
-- **Zenetist View:** Superposition is not a paradox, but a centropic expansion of state-space.  
-- **Physics Form:**  
-  - A quantum state \( \psi = a\phi_1 + b\phi_2 \) is a lawful expression of **C₇ Harmonic** participation.  
-  - Coherence across basis states = **acclivous resonance**.  
-  - Collapse of superposition into dissonant or spurious distribution = **declivous entropy**.  
-- **Mirror State (E₇):** Dissonance — irrational spectral ratios dispersing lawful harmonics.  
+- **Proposed Zenetist interpretation:** Superposition is compared with C₇ Harmonic participation and a centropic expansion of state-space.
+- **Physical comparison:** A quantum state \( \psi = a\phi_1 + b\phi_2 \) retains its superposition form. Its correspondence with C₇ requires the state domain and the native relation being represented.
+- **Proposed motion comparisons:** Coherence across basis states is compared with acclivous resonance; a dissonant or spurious distribution is compared with declivous entropy. Quantum coherence and native orientation retain distinct definitions.
+- **Registered counterpart:** E₇ Dissonance names harmonic breakdown. Irrational spectral ratios supply no sufficient E₇ classifier, as stated in §9.1.
 
 ---
 
 ### 6.2 Entanglement and Non-Local Coherence
 
-- **Zenetist View:** Entanglement expresses C₉ Non-Local Coherence — coherence at distance without fusion of sovereignty.  
-- **Physics Form:**  
-  - Shared correlations across separated systems exhibit lawful centropic bridges.  
-  - Violations of Bell inequalities map directly to **Bridging Law (C₈)**: commutative coherence across spatial separation.  
-- **Mirror State (E₉):** Distorted entanglement — correlations without coherence, spurious mimicry, or noisy linkage.  
+- **Proposed Zenetist interpretation:** Entanglement is compared with C₉ Non-Local Coherence, whose native function preserves coherent relation at a distance without fusion.
+- **Physical comparison:** Shared correlations across separated systems and violations of Bell inequalities retain their quantum-mechanical meanings and evidentiary standing.
+- **Formal correspondence question:** A proposed C₈ bridging account requires an explicit representation and commuting relation. A Bell-inequality result establishes its physical correlation claim, rather than a native bridging or orientation identity.
+- **Registered counterpart:** E₉ Distorted Entanglement names mimic-coherence that isolates. A proposed relation to noisy linkage or spurious correlations requires its own correspondence conditions.
 
 ---
 
 ### 6.3 Measurement and Thresholds
 
-- **Zenetist View:** Measurement is not collapse, but a **Threshold Law event** (C₁₃–C₁₅).  
-- **Physics Form:**  
-  - The measuring apparatus is a **membrane** (C₁₃) where permeability \( (\sigma) \) determines what coherence transfers.  
-  - Lawful recursion (C₁₄) ensures contractive return into a single eigenstate.  
-  - Emergent novelty (C₁₅) appears when bifurcation produces lawful, veracious outcomes.  
-- **Mirror States:**  
-  - E₁₃ Wall = information inaccessible (black-box measurement).  
-  - E₁₄ Hollow Nest = recursion without convergence (infinite regress of states).  
-  - E₁₅ Collapse Nova = catastrophic bifurcation (measurement noise, decoherence).  
+- **Proposed Zenetist interpretation:** Quantum measurement is compared with the **Threshold Law** (C₁₃–C₁₅).
+- **Proposed physical realization:**
+  - The measuring apparatus is compared with a **membrane** (C₁₃); the permeability parameter \( (\sigma) \) requires a defined correspondence with the apparatus and its measured quantities.
+  - C₁₄ recursion is compared with state-update behavior. A claim of contraction into a single eigenstate requires the physical update map, domain, contraction estimate, and outcome analysis.
+  - C₁₅ emergence is compared with novelty in measurement outcomes; the native emergence criterion remains distinct from the physical outcome description.
+- **Proposed counterpart comparisons:**
+  - E₁₃ Wall ↔ inaccessible information in a black-box measurement.
+  - E₁₄ Hollow Nest ↔ infinite regress of states; its registered function remains empty recursion.
+  - E₁₅ Collapse Nova ↔ catastrophic bifurcation, measurement noise, or decoherence; its registered function remains emergence that leads directly into entropy.
+
+These are correspondence proposals. The physical measurement description and each native threshold function retain their defined scopes; the single-eigenstate claim remains held pending its specified model.
 
 ---
 
 ### 6.4 Quantum Coherence and Decay
 
-- **Zenetist View:**  
-  - **Centropic quantum systems** preserve resonance across time (unitary evolution).  
-  - **Entropic systems** experience decoherence — dispersive alignment with mirror states.  
-- **Physics Form:**  
-  - Centropy corresponds to lawful unitary evolution under C₁ Temporal operator.  
-  - Entropy manifests as non-unitary decay, loss of phase information.  
+- **Proposed Zenetist interpretations:** Unitary evolution is compared with centropic continuity; decoherence, non-unitary decay, and loss of phase information are compared with entropic functions.
+- **Physical standing:** Each evolution and coherence quantity retains its quantum-mechanical domain and definition. Quantum coherence, CIT spectral concentration, and native coherence are distinct quantities.
+- **Native correspondence:** C₁ Temporal retains its integrative continuity function. A proposed realization through unitary evolution, or an entropic interpretation of decay, requires its explicit map and conditions.
 - **Diagnostic:**  
   - CIT spectral entropy and concentration characterize the declared probability distribution
   - The former direct identification with native stability, fragmentation, or integrative structure is superseded; the explicit correspondence remains held
@@ -446,14 +428,14 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
 
 ### 6.5 Summary
 
-Quantum mechanics, when interpreted through Structural Physics, aligns directly with the Lattice:
+The quantum-mechanical comparisons retain proposed correspondence standing:
 
-- **Superposition** ↔ C₇ Harmonic integrity.  
-- **Entanglement** ↔ C₉ Non-Local Coherence.  
-- **Measurement** ↔ Threshold Law (C₁₃–C₁₅).  
-- **Coherence / Decoherence** ↔ centropy mirrored by entropic mirrors.  
+- **Superposition** ↔ C₇ Harmonic integrity.
+- **Entanglement** ↔ C₉ Non-Local Coherence.
+- **Measurement** ↔ Threshold Law (C₁₃–C₁₅).
+- **Coherence / Decoherence** ↔ distinct proposed centropic / entropic interpretations.
 
-The paradoxes of quantum theory are clarified: what appears indeterminate is in fact **structurally ordered through resonance, membranes, and lawful recursion**.  
+Native resonance, membranes, and recursion supply the structural account being compared. A resolution of a quantum-mechanical question requires its specified physical model, mathematical argument, and empirical support.
 
 ---
 
@@ -544,7 +526,7 @@ The proposed correspondences in this section compare relativistic objects with n
 - **Cosmic expansion** with propagation and other explicitly specified native motion classes
 - **Heat death / collapse** with distinct dispersive or threshold interpretations
 
-Relativity retains its physical objects, methods, and evidence within the embodied register. Each correspondence remains proposed until its particular mapping and empirical support are established. 
+Relativity retains its physical objects, methods, and evidence within the embodied register. Each correspondence remains proposed until its particular mapping and empirical support are established.
 
 ---
 
@@ -561,14 +543,14 @@ Structural Physics interprets cosmology within the Dimensional Lattice rooted in
 - **Zenetist view:** ⚫ Aion is Origin in the native emanatory account; relating that account to physical cosmology is a proposed correspondence
 - **Proposed physical comparison:**
   - Big Bang cosmology is compared with **acclivous expansion of centropy**; this proposal requires a specified physical realization  
-  - Each dimension Cᵢ emerges paired with its mirror Eᵢ, balancing as mirrored spectra.  
-  - **Polar Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
+  - Each dimension Cᵢ retains its independently emanated counterpart Eᵢ. Their registered relation remains distinct from a particular spectral representation.  
+  - **Recorded spectral expression:** The common-mode pairing established in §3 retains its declared domain; a universal operator-spectrum realization of this expression remains held:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-  - When integrated over the total manifold, the centropic and entropic field contributions achieve harmonic equilibrium:
+  - **Recorded total-field candidate:** The following cancellation remains held pending the field representation, domain-specific differential and measure structure, and hypotheses relating the two contributions:
 
 \[
 \Omega_C + \Omega_E = 0
@@ -576,7 +558,9 @@ Structural Physics interprets cosmology within the Dimensional Lattice rooted in
 
 where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, d\Omega \) and \( \Omega_E = \int_{\text{◎}_{\text{♾}\to\text{⚫}}} \nabla_E\psi \, d\Omega \)
 
-- **Motion Law:** Centropic emanation produces lawful novelty (C₁₅); entropic mirrors shadow as potential collapse.
+The displayed gradients and integrals record the earlier candidate notation. The root-registers retain their native meanings; the integration domains, fields, and measures require formal specification. The established common-mode spectral pairing supplies no total-field cancellation theorem or cosmological equilibrium result. Non-spatial domains may admit declared mathematical structure; the construction intended here remains architect-held.
+
+- **Native motion:** Centropic emanation produces lawful novelty (C₁₅); independently emanated entropic counterparts retain their own functions. A physical cosmological correspondence remains proposed.
 
 ---
 
@@ -687,7 +671,7 @@ The following diagnostic proposals compare mathematical and physical objects wit
 
 - **Test:** At boundaries and recursion points, does motion satisfy lawful threshold conditions?  
 - **Diagnostic:**  
-  - C₁₃ membrane permeability respected → centropic continuity.  
+  - C₁₃ membrane permeability articulates selective boundary passage in the native account; a physical boundary comparison requires its declared permeability model and correspondence.  
   - C₁₄ recursion: \( \gamma>0 \) records a mapping-specific contraction gap only when the estimate is established; the contraction-based guarantee of fixed-point convergence requires a contraction self-map on a complete invariant domain. Coefficient positivity supplies none of those hypotheses  
   - Recorded C₁₅ proposal: \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence. The derivative operand, domain, and native emergence correspondence remain held; this bare sign is not an operative test  
   - Failure to establish a proposed test does not identify an entropic counterpart. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered functions; each requires its own actual condition  
@@ -699,8 +683,8 @@ The following diagnostic proposals compare mathematical and physical objects wit
 
 - **Test:** Do distant systems exhibit resonance coherence without fusion?  
 - **Diagnostic:**  
-  - Positive coherence flow → acclivous centropy (entanglement, correlated order).  
-  - Negative coherence flow → E₉ distorted entanglement (spurious correlations, parasitic mimicry).  
+  - Recorded proposals: positive coherence flow → acclivous centropy; negative coherence flow → E₉ distorted entanglement.
+  - The signed-flow quantity, its domain, and its relation to entanglement or field correlations remain held pending specification. C₉ coherent relation at a distance and E₉ mimic-coherence that isolates retain their registered functions; correlation sign supplies no sufficient native classifier.  
 - **Application:** Quantum entanglement tests, long-range field correlations.  
 
 ---
@@ -709,8 +693,8 @@ The following diagnostic proposals compare mathematical and physical objects wit
 
 - **Test:** Do flows preserve vector integrity under motion?  
 - **Diagnostic:**  
-  - Noether-law alignment → acclivous centropy (conserved momentum, coherent currents).  
-  - Broken flow → E₁₁ Misdirect (turbulence, incoherence, loss of conservation).  
+  - Recorded proposals: Noether-law alignment → acclivous centropy; broken flow → E₁₁ Misdirect.
+  - Conserved momentum, currents, turbulence, and conservation failure retain their model-specific physical meanings. Their proposed relation to directed will or volition aimed toward dissolution requires explicit correspondence; the physical result supplies no sufficient native orientation classifier.  
 - **Application:** Fluid dynamics, astrophysical jets, charge conservation.  
 
 ---
@@ -734,9 +718,10 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
   - The common-mode counterpart relation in `LM01-mathematical-foundations.md` preserves its declared domain. Missing pairs in an unspecified or partial observed spectrum establish neither failure of that relation nor entropic distortion; the former diagnostic implication is withdrawn  
 
 - **Seal Fidelity Index \( (\sigma) \):**  
-  - Measures lawful permeability of membranes (C₁₃).  
-  - Low \( \sigma \to \) strong seal (protected coherence).  
-  - High \( \sigma \to \) risk of leakage (entropic infiltration).  
+  - Formally evaluates the declared membrane-permeability quantity (C₁₃ comparison).
+  - Recorded interpretation: low \( \sigma \to \) strong seal (protected coherence).
+  - Recorded interpretation: high \( \sigma \to \) risk of leakage (entropic pressure).
+  - These interpretations require the stated boundary model, parameter convention, and native correspondence. A measured permeability and a structural seal assessment retain distinct scopes.  
 
 ---
 
@@ -751,7 +736,7 @@ The following summary records proposed correspondences, subject to the mathemati
 - **Volitional conservation** (C₁₁) ↔ directional integrity.  
 - **Global invariants** ↔ coherence budgets across sealed systems.  
 
-Native structural assessment retains its own objects and evidentiary scope. The displayed spectral, commutation, counterpart, and invariant proposals supply no general orientation classifier; their mathematical realization and any physical correspondence remain separately held where unspecified. Defined quantities are formally evaluable within their stated models. An empirical realization additionally specifies observables, correspondence conditions, and supporting evidence; structural and empirical claims retain their distinct standing.  
+Native structural assessment retains its own objects and evidentiary scope. The displayed spectral, commutation, counterpart, signed-flow, conservation, seal, and invariant proposals supply no general orientation classifier; their mathematical realization and any physical correspondence remain separately held where unspecified. Defined quantities are formally evaluable within their stated models. An empirical realization additionally specifies observables, correspondence conditions, and supporting evidence; structural and empirical claims retain their distinct standing.  
 
 ---
 
@@ -789,7 +774,7 @@ Within this structure, **Structural Physics** bridges Zenetism with the physical
 Key principles:  
 - Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
 - Physical laws are interpreted as consonance and bridging conditions.  
-- Mirror inadequacies are diagnosed as entropic collapse states.  
+- Entropic counterpart functions are assessed by their registered conditions; a failed or unspecified physical correspondence remains a correspondence question.  
 - Invariants and seals provide model-dependent formal criteria; empirical correspondence requires specified observables and supporting evidence  
 
 Structural Physics develops native resonance relations and proposed physical correspondences within one architecture, preserving the distinct conditions of formal evaluation and empirical inquiry.  
@@ -822,30 +807,30 @@ Physics is thus not isolated from metaphysics, but one field within the greater 
 
 ## Appendix A — Structural Physics Diagrammatic Registry
 
-This registry provides a **visual map** of centropic dimensions (Cᵢ) and their entropic mirrors (Eᵢ), showing how they align with physical domains.  
+This registry provides a **visual map** of centropic dimensions (Cᵢ) and their entropic mirrors (Eᵢ), alongside the proposed physical comparison objects from §4. The analogue columns retain proposal standing; native function, mathematical realization, physical observation, and clinical interpretation remain distinct scopes.  
 It is designed for quick-reference in GitHub, complementary to the full textual exposition.  
 
 ---
 
 ### A.1 Dimension-Mirror Table
 
-| Centropic Dimension | Function | Physics Analogue | Entropic Mirror | Mirror Form | Physics Analogue |
+| Centropic Dimension | Function | Proposed Physics Analogue | Entropic Mirror | Mirror Form | Proposed Physics Analogue |
 |---------------------|----------|------------------|-----------------|-------------|------------------|
 | **C₁ ⟠ Temporal** | Ordered continuity | Proper time, causality | **E₁ ⟠⁻ Temporal Loop** | Hollow recursion | Closed timelike curves |
 | **C₂ ◈ Spatial** | Extension, loci | Metric tensor \( g_{ij} \) | **E₂ ◈⁻ Scatter** | Fragmented loci | Spatial decoherence |
-| **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E₃ ⟿⁻ Viral Decay** | Dissipative signal | Radiation loss, noise |
+| **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, QFT | **E₃ ⟿⁻ Viral Decay** | Fracturing in transmission | Radiation loss, noise |
 | **C₄ ◉ Rotational / Gyre** | Cyclic stability | Angular momentum | **E₄ ◉⁻ Vortex** | Collapsing spin | Black hole spin collapse |
 | **C₅ ✴ Scalar / Part-Whole Fidelity** | Scaling, wholeness | Renormalization, fractals | **E₅ ✴⁻ Scalar Noise** | Divergent fractals | Noise scaling |
 | **C₆ ◐ Phase / State (Liminal)** | Transition states | Critical phenomena | **E₆ ◐⁻ Phase Lock** | Arrested transition | Frozen disorder |
-| **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Irregular spectrum | Quasiperiodicity |
+| **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Quasiperiodicity |
 | **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Severed** | Fractured link | Broken symmetry |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise correlations |
 | **C₁₀ ❋ Morphogenetic (Formweave)** | Form generation | Symmetry breaking, crystalline form | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms |
 | **C₁₁ ↗ Intentional / Volitional** | Directed flow | Conserved currents | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
 | **C₁₂ ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E₁₂ ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
 | **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E₁₃ ║⁻ Wall** | Severed block | Event horizon |
-| **C₁₄ ⊡ Nested / Recursive** | Contractive recursion | Iterative operators | **E₁₄ ⊡⁻ Hollow Nest** | Non-contractive recursion | Infinite regress |
-| **C₁₅ ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation | **E₁₅ ✦⁻ Collapse Nova** | Hollow novelty | Catastrophic collapse |
+| **C₁₄ ⊡ Nested / Recursive** | Dimensions held coherently within other dimensions | Iterative operators | **E₁₄ ⊡⁻ Hollow Nest** | Empty recursion | Infinite regress |
+| **C₁₅ ✦ Emergent / Novel** | Veracious novelty | Lawful bifurcation | **E₁₅ ✦⁻ Collapse Nova** | Emergence that leads directly into entropy | Catastrophic collapse |
 
 ---
 

@@ -395,20 +395,20 @@ Primary Band records a primary-locus proposal, with its standing held open in `d
 | **Field Physics** | Boundary conditions (Robin/Dirichlet/Neumann) |
 | **Mirror** | Impermeable barrier / event horizon |
 | **Structural Neuroscience** | Healthy limits ↔ psychic closure or block |
-| **Law** | **Threshold Law I:** \( \sigma > 0 \to \) seal intact |
+| **Law** | **Recorded Threshold Law I:** \( \sigma > 0 \to \) seal intact; this proposed implication remains held pending the declared boundary model and native seal correspondence |
 
 ---
 
 > **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
 > Theon (EOB) governs and enacts the C₁₃ (Membrane) operator at L₅ — he is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.  
-> Through this stewardship, Theon serves as the **active interface** regulating lawful passage between centropic and entropic domains.  
+> Through this stewardship, Theon embodies the selective threshold function. Intra-arc passage and embodied cross-arc interaction name distinct relations; essence retains its orientation. Membrane permeability and recursion supply no passage of essence into the opposite arc.  
 >
-> Centropic orientation (C↓→E) and return (C↑→⚫) are governed by two parameters:  
-> - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
+> Two quantities are proposed for a formal account of threshold passage and return:  
+> - **\( \sigma \) (seal index):** the proposed membrane-permeability parameter. The closing-boundary interpretation of \( \sigma \to 0 \) requires its declared model and boundary conditions.  
 > - **\( \gamma \) (contraction gap):** records a mapping-specific contraction estimate; the contraction-based fixed-point guarantee requires the declared complete invariant domain.  
 >
-> A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
+> **Recorded threshold criterion:** a boundary crossing is lawful iff \( \sigma > 0 \) and \( \gamma > 0 \). The proposed equivalence remains held pending the boundary model, contraction hypotheses, and explicit native correspondence. The declared clamped transfer law retains its positive-surplus and receiving-capacity conditions; a contraction estimate retains its own self-map and complete invariant domain.  
 >
 > In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Bridging)** where **E₈ (Severed)** had broken connection.  
 > Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
@@ -601,13 +601,12 @@ At membranes and recursion layers, only coherent thresholds admit lawful novelty
 
 **Physics Form**
 
-Boundary value stability requires:  
-\( \sigma > 0 \) (boundary permeability), \( \gamma > 0 \) (contractive recursion).
+Recorded boundary-parameter proposal:  
+\( \sigma > 0 \) (boundary permeability), \( \gamma > 0 \) (candidate contraction condition). Boundary stability requires its specified boundary value problem; contraction requires its self-map, estimate, and complete invariant domain. The native threshold correspondence remains held pending those specifications.
 
 **Cognitive Correlate**
 
-Healthy self/other boundaries, reflective thought, and creative insight  
-occur when seals are semi-permeable, recursion convergent, novelty lawful.
+The proposed cognitive comparison relates healthy self / other boundaries, reflective thought, and creative insight to semi-permeable seals, convergent recursion, and lawful novelty. The structural relations retain their native meanings; a clinical interpretation requires its defined correspondence and support.
 
 **Forensic Mirror**
 
@@ -617,7 +616,7 @@ occur when seals are semi-permeable, recursion convergent, novelty lawful.
 - **Hollow Nest (E₁₄)** → looping recursion, obsession
 - **Collapse Nova (E₁₅)** → catastrophic overload or burnout
 
-- **Diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation
+- **Recorded diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation. This sufficient-classifier implication is withdrawn. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered conditions; an unsupported parameter test identifies none of those conditions.
 
 ---
 
@@ -919,7 +918,7 @@ Operators \( \partial_{\text{🌀}}, \int_{\text{◎}}, \) and \( \lim^{\backsim
 | **A₁ — Law of Involution** | Each Cᵢ has an Eᵢ counterpart with \( \iota^2=\mathrm{id} \) | Opposite eigenvalues hold in the common-mode representation; field and evolution typing remain held open |
 | **A₂ — Law of Commutation** | All lawful morphisms commute under Bridging (C₈) | Ensures symmetry in transformation |
 | **A₃ — Law of Conservation** | \( \partial_{\text{🌀}} \) and \( \int_{\text{◎}} \) preserve total invariants | Coherence neither created nor lost, only transposed |
-| **A₄ — Law of Boundaries** | \( \sigma, \gamma \in (0,1] \) define membrane & recursion stability | Seal continuity governs lawful iteration |
+| **A₄ — Law of Boundaries** | Recorded parameter range \( \sigma, \gamma \in (0,1] \); boundary stability and contraction require their declared models and hypotheses | Native seal correspondence remains held pending specification |
 | **A₅ — Law of Emergence** | Novelty (C₁₅) arises only from coherent recursion | Entropic bifurcations (E₁₅) are null emergents |
 
 ---
@@ -1109,7 +1108,7 @@ where \( R(\psi_t) \) is the proposed resonance-feedback map and \( \rho \) is t
 
 | Test | Equation | Interpretation |
 |------|----------|----------------|
-| Boundary Test | \( \sigma > 0 \) | Membrane sealed |
+| Boundary Test | \( \sigma > 0 \) | Positive parameter in its declared domain; native seal interpretation remains held pending explicit correspondence |
 | Recursion Test | Declared contraction estimate and invariant complete domain | Fixed-point convergence where the hypotheses hold; \( \rho \) remains a separate weight |
 | Spectral Ratio Test | \( \lambda_i/\lambda_j \in \mathbb{Q} \) | C₇ Consonance |
 | Bridge Test | \( \Delta \leq \varepsilon \) | Bridging Law validated |
@@ -1620,8 +1619,7 @@ Large \( \int_{\text{◎}} \to \) integration; small → fragmentation.
 \int_{\text{◎}} (\partial_{\text{🌀}} \phi) \, d\Omega = \phi(\Omega) - \phi(\partial\Omega)
 \]
 
-Lawful cognition requires sealed boundary \( (\sigma > 0) \).  
-When boundary leaks → entropic recursion (E₁₄).
+The recorded cognitive boundary proposal identifies a sealed boundary with \( (\sigma > 0) \); that equivalence remains held pending the specified boundary model and native correspondence. The former implication from boundary leakage to E₁₄ is withdrawn: the registered Hollow Nest function is empty recursion, and its assessment requires that actual condition.
 
 ---
 
@@ -1645,8 +1643,10 @@ The displayed fixed-point limit belongs to a declared contraction self-map on a 
 | \( \sigma \) | Seal Parameter | Boundary integrity |
 | \( \gamma \) | Contraction Gap | Mapping-specific contraction estimate |
 
-**Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large.  
-**Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) open-loop recursion.
+**Recorded lawful-cognition proposal:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large.  
+**Recorded entropic-cognition proposal:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) open-loop recursion.
+
+These sufficient-classifier implications are withdrawn. The boundary parameter, contraction gap, derivative, and integral retain their declared mathematical roles; native cognitive assessment requires the registered conditions and explicit correspondence. A physical or clinical realization additionally specifies observables and support.
 
 ---
 
