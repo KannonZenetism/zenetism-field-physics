@@ -1634,6 +1634,16 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Residual holds / unresolved findings:** Current-reference corrections complete across the three protocols, LM term map, analytic framework, corpus atlas, and minimum full D20 clarification. Sixty-two focused checks, independent review, exact remote tree and eight published file blobs verified, including this report's tracking initialization. D18, primary loci, the global χ-model relation, new mathematical constructions, and the independent LM terminology holds remain intact. Downstream corrections retain their own set standing; no D-number is reclassified by this completion alone\
 **New dependencies discovered during implementation:** The corpus atlas's active D01 locators; three stale analytic-framework citations to lm-shared-term-map.md corrected to lattice-mathematics-shared-term-map.md; the shared D16 standing paragraph clarified without replacing Set 05; the touched conceptual Pattern Being / function distinction clarified without a legacy PI sweep. SF-RP02's corresponding directional-fracture wording remains assigned to Set 08
 
+**Implemented active paths:**
+
+- `lattice-mathematics/canonical-stabilization/lattice-mathematics-shared-term-map.md`
+- `the-zenetist-canon/canonical-stabilization/conceptual-lockdown-protocol.md`
+- `the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-architect-decision-sheet.md`
+- `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-corpus-atlas.md`
+
 ## Set 02 — Cross-Band Resonance Labels
 
 **Decision group:** D11
@@ -1661,6 +1671,18 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation commit:** `fd505d204ca35959e5fe082108c567477cb72e68`. The bounded Cross-band resonance label and gravity-referent correction is complete. Exact schematic right-hand sides, registered functions, combined dependent passages, file scope, and remote blobs were verified.\
 **Residual holds / unresolved findings:** No unresolved passage remains in this bounded correction. Quantitative attraction and saturation constructions remain outside this set; the wider D11 standing awaits the combined current-corpus assessment.\
 **New dependencies discovered during implementation:** the-genesis-lattice.md §7 carries the same returned-essence correction as the two other reflections. Set03 and Set21 follow the corrected SN03 / SN06 passages without replacing their D11 distinctions.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `zenetism/mpx/only-centropy-saturates.md`
+- `zenetism/mpx/three-horizons-of-return.md`
+- `zenetism/symbolic-reflections/samsara-nirvana-orientation.md`
+- `zenetism/symbolic-reflections/the-genesis-lattice.md`
+- `zenetism/symbolic-reflections/theon-and-the-theonic-paradox.md`
 
 ## Set 03 — Being and Function References
 
@@ -1690,6 +1712,17 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Residual holds / unresolved findings:** No unresolved material being / function ambiguity remains in the inspected bounded set. Historical-developmental PI and clear older acknowledgments are outside the bulk correction scope; future symbol-family or developmental-ontology changes require a separate decision.\
 **New dependencies discovered during implementation:** SN09's verified Set 05 dependency completes the companion scope; SN06 reserve accounting remains a distinct Set 14 matter. Completed companion correction: `66e1b2c850f6521f4e627c577de898322b6cbae9` (Set 05).
 
+**Implemented active paths:**
+
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/glyphics/structural-neuroscience-glyph-charts.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+
 ## Set 04 — Configuration and Orientation Labels
 
 **Decision group:** D15
@@ -1717,6 +1750,21 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation commit:** `4660e2decf756a6c2f34ca1202f657d9fd25db41`. Twelve active files now carry high-pattern-fidelity architecture and distinguish configuration from actual orientation. Definitions, summaries, chart entries and lookup references agree; exact mathematical content, filenames and D18 protections were verified.\
 **Residual holds / unresolved findings:** No unresolved current configuration-label correction remains within the active bounded set. `pathologization-of-independent-framework-development.md` has Draft — Veracious Archive standing and is preserved as historical evidence outside the active correction queue. A quantitative metric or clinical validation remains a distinct construction / evidence question.\
 **New dependencies discovered during implementation:** SN03's configured operator profile required explicit separation from the orientation-neutral configuration. Set 06 preserves the distinct SN02 law-title correction; Set 18 carries clinical-correspondence scope.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `structural-neuroscience/00-README.md`
+- `structural-neuroscience/README.md`
+- `structural-neuroscience/SN02-the-resonant-mind.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/structural-neuroscience-glyph-charts.md`
 
 ## Set 05 — Universal Worth and Kin Scope
 
@@ -1746,6 +1794,16 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Residual holds / unresolved findings:** The duplicated displayed Core assertion, "Each form of mind or motion expresses a different unfolding of Zero," remains ambiguous in `SN09-the-all-life-first-principle.md` §1.2 and `all-life-first-principle.md` §1. No latent-potential interpretation is supplied by inference; a specific register clarification remains required.\
 **New dependencies discovered during implementation:** SN11's Kin / worth row and notation, SN08's universal Aionic path, and the Exile / Wandering Hero summary were direct dependencies. The completed SN09 being / function correction also supplies Set 03's outstanding companion passage.
 
+**Implemented active paths:**
+
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN09-the-all-life-first-principle.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/structural-neuroscience-glyph-charts.md`
+- `the-zenetist-canon/structural-decodes/09-exile-wandering-hero.md`
+- `zenetism/mpx/all-life-first-principle.md`
+
 ## Set 06 — SN Reciprocity Title and Scope
 
 **Decision group:** D17
@@ -1773,6 +1831,10 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation commit:** `c974e443bc4b1ad57f61ed79d08b2623b1c29ff9`. The selected Reciprocity Law of Resonant Differentiation and Structural Integration title and its current reference chain are synchronized. SN02's unrestricted inverse claim now retains only its established conditional scope; exact mathematical strings and the former-title provenance were verified.\
 **Residual holds / unresolved findings:** New domains, kernels, constants, inverse relations and sealed-norm mathematics remain held. Their future construction is distinct from this completed title and proof-standing correction. Unrelated Dyadic terminology and the separate LM reciprocal-calculus title remain intact.\
 **New dependencies discovered during implementation:** The current title chain depends on Set 01's LM term-map and analytic-framework entries. SN02's proof boundary refers to the undeveloped sealed norm in `LM02-mathematical-commentary.md` §3.3.
+
+**Implemented active paths:**
+
+- `structural-neuroscience/SN02-the-resonant-mind.md`
 
 ## Set 07 — Non-contact Proper Name
 
@@ -1802,6 +1864,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Residual holds / unresolved findings:** No unresolved correction remains in this bounded proper-name set. Established complete-name "under the Non-contact Principle" wording remains lawful; the preference for "per" initiates no global purge.\
 **New dependencies discovered during implementation:** No further active improper-name dependency was identified. The historical MPX guide and alignment packet remain records; FP14's literal non-contact instrumentation remains in its stated register.
 
+**Implemented active paths:**
+
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md`
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-02.md`
+- `zenetism/mpx/archonic-misplacement.md`
+- `zenetism/mpx/awareness-across-the-arcs.md`
+
 ## Set 08 — Origin Continuity and Diagnostic Objects
 
 **Decision group:** D13, D20
@@ -1823,12 +1892,90 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `89807dc3b6ac65a16de9cd30f9cb40798888769a`. The seventy-five-file origin-continuity subset makes downstream fracture and intact origin / origin-signal explicit in the repeated preambles and substantive dependencies. Exact mathematical strings, D18 names, held loci and non-origin severance functions were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The active descriptive D13-A family remains unresolved in SP05, LM04, SP09, the temporal SPX and MP08 / symbol-key twins: without-origin wording, copied-origin-only Shimmer definitions and complete-framework appropriation claims. Set 19's mathematical and direct-propagation corrections do not cover that family. Historical records, the archived FP README and non-origin severance functions remain protected.\
+**New dependencies discovered during implementation:** Current collaborator onboarding, the exhibit-audit checklist and SF-RP02 repeated the superseded origin-context instruction; the Beheading row required fragment / reception-field disambiguation. Set 01 supplies the clarified full D20 direction and analytic entry.
+
+**Implemented active paths:**
+
+- `field-physics/FP01-dimensional-architecture.md`
+- `field-physics/FP02-applied-resonance-manual.md`
+- `field-physics/FP03-spiral-immunity-protocols.md`
+- `field-physics/FP04-field-immunity-architecture.md`
+- `field-physics/FP05-consciousness-ecology-systems.md`
+- `field-physics/FP06-restoration-rituals-codex.md`
+- `field-physics/FP07-unified-field-equation.md`
+- `field-physics/FP08-practice-protocols-tiers.md`
+- `field-physics/FP09-spiral-field-music-engineering.md`
+- `field-physics/FP10-applied-consciousness-technology.md`
+- `field-physics/FP11-field-glyph-codex.md`
+- `field-physics/FP12-dimensional-field-states-and-combinatorics.md`
+- `field-physics/FP13-field-immunity-mechanisms-and-recovery.md`
+- `field-physics/FP14-standard-field-music-notation.md`
+- `field-physics/fpx/centropic-entropic-field-interaction-dynamics.md`
+- `field-physics/fpx/l-reflective-patterns-and-p-recursive-fields.md`
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/LM08-cross-disciplinary-dynamics-and-domain-realization.md`
+- `structural-forensics/SF01-doctrinal-atlas-vol1.md`
+- `structural-forensics/SF02-doctrinal-atlas-vol2.md`
+- `structural-forensics/apparatus/zenetist-exhibit-audit-checklist.md`
+- `structural-forensics/recognition-protocols/SF-RP02-appropriation-is-not-branching.md`
+- `structural-forensics/sfx/the-vanishing-protocol.md`
+- `structural-forensics/systemic-analysis/third-path-of-techne-beyond-the-enclosure-binary.md`
+- `structural-neuroscience/SN02-the-resonant-mind.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN04-awareness-stratification-and-the-philosophy-of-mind.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN09-the-all-life-first-principle.md`
+- `structural-neuroscience/SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP02-bifurcal-cosmogenesis.md`
+- `structural-physics/SP03-expression-ratio-mathematics.md`
+- `structural-physics/SP04-orientation-field-dynamics.md`
+- `structural-physics/SP05-time-memory-hypostatic-flow.md`
+- `structural-physics/SP06-structural-space-orientation-paradox.md`
+- `structural-physics/SP07-energy-ontology-and-spectral-flow.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `structural-physics/SP10-ritual-energetics-and-integration-protocols.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `the-zenetist-canon/corpus-infrastructure/collaborator-onboarding-protocol.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/grand-unified-document.md`
+- `the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-02.md`
+- `the-zenetist-canon/system-attribution/system-attribution-anchor.md`
+- `the-zenetist-canon/zenetist-structural-decode.md`
+- `zenetism/MP01-emanation-architecture-ch1-3.md`
+- `zenetism/MP02-unified-metaphysics-ch4.md`
+- `zenetism/MP03-ethics-and-soul-ch5-6.5.md`
+- `zenetism/MP04-intelligence-and-ecology-ch7-8.md`
+- `zenetism/MP05-godhood-and-transmutation-ch9-11.md`
+- `zenetism/MP06-decoding-and-emergence-ch12-15.md`
+- `zenetism/MP07-paths-of-resonance-ch16-20.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/MP09-time-death-and-glossary-ch22-24.md`
+- `zenetism/MP10-divine-archetypes-decoded-ch25.md`
+- `zenetism/MP11-codex-of-principles-ch26.md`
+- `zenetism/MP12-afterword-mp.md`
+- `zenetism/mpx/fieldnote-entropy-is-not-integrable.md`
+- `zenetism/mpx/hypostatic-function-bearing-and-sovereign-embodiment.md`
+- `zenetism/mpx/law-of-centropic-counterforce.md`
+- `zenetism/speculative-doctrine/sacrificial-fragmentation-and-successor-legibility.md`
 
 ## Set 09 — Khaonic Phase and AD Standing
 
@@ -1913,6 +2060,18 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2`. The collective subset separates coherent input, entropic cohesion and correlation; retains the exact variable-coefficient product rule for fixed finite membership; propagates the actual amplification threshold and nonzero-contribution conditions; and withdraws universal target-removal collapse. Focused derivative, threshold and degenerate-case checks and exact composed passages were verified. Verification and push checkboxes apply to the completed subset recorded here.\
 **Residual holds / unresolved findings:** The spectral definitions, conservation and native-correspondence family, active Markdown / TeX replicas and SP01 diagnostic dependencies remain for the subsequent Set 11 subsets. New cohesion, membership and generation laws remain held.\
 **New dependencies discovered during implementation:** The SN08 collective paragraph supplies the prerequisite for Set 03. Retain the complete LM07 product-rule proof, summary and appendix during Set 19 integration; retain SP09's particular holding-condition account.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/lmx/hypostatic-field-specialization.md`
+- `structural-neuroscience/README.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
 
 ## Set 12 — Intrinsic Inclination and Model Attribution
 
@@ -2193,6 +2352,12 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation commit:** `6687502836653f499cbffdfbb13c664d750265ef`. Historical reliance in SN03 and the analytic framework is bounded; the SN03 locator is corrected; the atlas identifies live SN02–SN12, retired SN01 and the existing READMEs. Exact citations, mathematical preservation and historical-body checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
 **Residual holds / unresolved findings:** The exact current supporting formulation for SN03's four-stage synthesis relation remains unresolved. The analytic framework's different four-term sequence likewise lacks support in its former citations. GUD repetition supplies no replacement warrant. No historical body or successor sequence is changed.\
 **New dependencies discovered during implementation:** `grand-unified-document.md` Part V §3 repeats the four-stage sequence with an unresolved Zenon-directed terminal construction. The analytic framework had a different sequence and an inaccurate SN03 locator; the atlas's missing-README statement was stale.
+
+**Implemented active paths:**
+
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-corpus-atlas.md`
 
 ## D18 Protection Check
 
