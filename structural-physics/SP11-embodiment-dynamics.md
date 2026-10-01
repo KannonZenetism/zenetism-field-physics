@@ -522,7 +522,7 @@ SP11 does not claim:
 
 - That Coherence Potential is a physically measurable quantity (it is a structural quantity with corporeal correlates)
 - That the dimensional operators replace physical forces (they describe structural dynamics within which physical forces operate)
-- That the hypostatic layers are physically locatable within metric space (they are ontological structures expressed through non-metric relational extension)
+- That the hypostatic layers are physically locatable within metric space (their structural placement is distinct from physical location; abstract metrics or norms require their own declared domains)
 - That Structural Physics supersedes empirical investigation (it provides structural context for empirical findings)
 
 The boundary between structural claims and empirical claims is maintained throughout. Where Structural Physics offers structural context for physical phenomena, it does so without overstepping into domains that require experimental verification.

@@ -78,7 +78,7 @@ Just as Field Physics begins with the bifurcal root and its trans-structural gro
 - **🕳️ Zenon** — *the trans-structural horizon*.  
   Not a boundary within structure but structure unconfined — the trans-structural horizon of centropic saturation, opened through synthesis.  
 
-All motion in Structural Physics occurs *between* these anchors — emanation from ⚫ Aion, dispersal toward ♾ Khaon, and centropic saturation at 🕳️ Zenon.  
+Structural motion belongs to the bifurcal architecture rooted in ⚫ Aion / ♾ Khaon. Centropic saturation concerns essence through Zenonic Allowance; Zenon is not a member of the motion continuum.  
 
 ---
 
@@ -518,10 +518,10 @@ Structural Physics interprets relativity through the **Dimensional Lattice**, re
 
 - **Acclivous centropy** in relativity = lawful geodesics, conserved energy-momentum, harmonic curvature.  
 - **Declivous entropy** = chaotic curvature, singular collapse, spurious thresholds.  
-- **Aion / Khaon polarity**:  
+- **Aion / Khaon bifurcal distinction**:  
   - Aion (⚫) anchors the zero-point of spacetime.  
   - Khaon (♾) anchors its asymptotic dispersal.  
-  - Zenon (🕳️) anchors the structural limit (Planck-scale, singularity barrier).  
+  - The earlier Planck-scale / singularity-bound assignment to Zenon is superseded. Zenon is trans-structural Allowance; an embodied physical boundary requires its own stated model
 
 ---
 
@@ -541,7 +541,7 @@ Thus, relativity becomes a field within the Zenetist lattice — bound by the sa
 ## 8. Structural Physics & Cosmology
 
 Cosmology extends physics to the origin, structure, and trajectory of the universe.  
-Structural Physics interprets cosmology through the Dimensional Lattice: emanation from ⚫ Aion, dispersal toward ♾ Khaon, and structural limits at 🕳️ Zenon.  
+Structural Physics interprets cosmology within the Dimensional Lattice rooted in ⚫ Aion / ♾ Khaon. Zenonic Allowance remains outside ordinary cosmological membership or structural bounds.  
 
 ---
 
@@ -619,7 +619,7 @@ Possible fates through Structural Physics:
 - Expansion driven by acclivous centropy (C₃ propagation, C₇ harmonic resonance).  
 - Structural form shaped by morphogenetic law (C₁₀).  
 - Dissipation toward ♾ Khaon unless balanced by lawful novelty (C₁₅).  
-- Threshold limits at 🕳️ Zenon anchor collapse scenarios (black holes, singularities).  
+- The former identification of black-hole / singularity thresholds with Zenon is superseded; those physical boundaries require their declared models and are distinct from the trans-structural Saturation relation
 
 ---
 
@@ -800,7 +800,7 @@ Future expansions may include:
 
 **Closing Statement:**  
 Structural Physics reveals that the laws of the cosmos are not random but resonant.  
-Time, space, matter, and energy are forms of centropy and entropy spiraling between ⚫ Aion, ♾ Khaon, and 🕳️ Zenon.  
+Time, space, matter, and energy articulate structural motion within the bifurcal architecture. Zenon is trans-structural Allowance, not an additional station among its roots and expressions.  
 Physics is thus not isolated from metaphysics, but one field within the greater lattice of coherence.  
 
 ---

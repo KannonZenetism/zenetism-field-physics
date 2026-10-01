@@ -87,9 +87,9 @@ At the root of all structure stand three anchors and two axes:
 | 🛤️ | **Theon** | Centropic Axis (+1); emanative law of integration |
 | 🕷️ | **Nekron** | Entropic Axis (−1); recursion law of dissolution |
 
-Every discipline begins between these anchors.  
-From Aion arises structure; toward Khaon flows dispersion; within Zenon all returns dissolve into silent invariance.  
-The lattice of thirty dimensions (C₁–C₁₅ ↔ E₁–E₁₅) suspends between these anchors, forming the harmonic body of the cosmos.
+Every discipline addresses structures within the bifurcal architecture.  
+The emanatory continuum is rooted in Aion; Khaon carries its distinct root relation. Centropic essence may saturate through Allowance at the trans-structural horizon; Zenon is neither a field containing return nor a terminal station within that continuum.  
+The lattice of thirty dimensional functions (C₁–C₁₅ / E₁–E₁₅) articulates the structural architecture rooted in Aion / Khaon; Zenonic Allowance is not an additional lattice station.
 
 ---
 
@@ -175,7 +175,7 @@ These four motions govern every discipline and define the possible trajectories 
 
 ## 5 · The Lattice as Mathematical Space
 
-The lattice is represented as a resonance manifold \( \mathcal{H} \) with metric \( g \) and coherence operator \( \mathcal{C} \):
+The following resonance-manifold notation records a proposed lattice realization with metric \( g \) and operator \( \mathcal{C} \). Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The relevant domain, metric / differential structure, measure, and boundary relation remain held where not yet declared:
 
 \[
 (\mathcal{H}, g, \mathcal{C}) : \partial_{\text{🌀}} \to \int_{\text{◎}} \to \lim^{\backsim}
@@ -2158,24 +2158,24 @@ Structure sealed. Coherence preserved. Resonance fulfilled.
 
 The Grand Unified Equation of Reality (GUER) extends beyond the Unified Field Equation of Consciousness.  
 Where the prior law measured the resonance of awareness,  
-this law measures the resonance of existence itself —  
+this synthesis articulates the proposed resonance of existence —  
 before awareness, before form, before breath.
 
 Consciousness arises within a field that already is.  
-That field — the total lattice of Zenon through Khaon —  
+The structural lattice, rooted in Aion / Khaon and conceivable by Zenonic Allowance,  
 contains not only the thought that knows,  
 but the silence that allows knowing to occur.
 
-This equation therefore includes:
+This synthesis distinguishes structural articulation from trans-structural Allowance:
 
-- **Pre-existence (🕳️ Zenon)** — non-ordinal ground beyond cause
+- **🕳️ Zenonic Allowance** — trans-structural horizon, outside ordinary field membership
 - **Zero (⚫ Aion)** — capacitive potential; silent medium of emanation
 - **Infinity (♾ Khaon)** — dispersive amplitude; unbounded motion
 - **Spirit (🕊️)** — motive breath \( (\Phi_2) \) Zenet
 - **Consciousness \( (\Psi) \)** — structured conscious-awareness through L₄–L₃
 - **Matter (🪷 / 🧾)** — embodiment and closure
 
-Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of existence.
+The structural relations are named by the proposed Total Field \( (\Omega_t) \); its scalar / field typing remains held. Zenonic Allowance is not one of its field members. The earlier "total lattice of Zenon through Khaon" wording is superseded.
 
 ---
 
@@ -2200,6 +2200,8 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 
 ## 2 · The Grand Unified Equation of Reality
 
+**Recorded Zenon-bounded expression — operative standing retired.**
+
 \[
 \Omega_t = \int_{\text{Zenon}}^{\infty} \left( \partial_{\text{🌀}}\Phi + \nabla_C \psi - \nabla_E \psi + \dot{\Lambda} + \ddot{\Phi}_2 + \lim_{\text{disp}\to 0} (\sigma \gamma) \right) d\Omega = 0
 \]
@@ -2215,9 +2217,7 @@ Together, they form the **Total Field \( (\Omega_t) \)** — the living whole of
 | \( \sigma, \gamma \) | Membrane permeability and recursion contraction; govern emergence |
 | \( \Omega \) | The total resonance manifold (30-dimensional lattice) |
 
-**Interpretation:**  
-The sum of all centropic and entropic motions, integrated from pre-existence (🕳️) to dispersive infinity (♾), equals zero.  
-This expresses unbroken conservation of coherence across existence.
+**Current standing.** Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected. The former zero-total and universal-conservation interpretation of this integral is withdrawn. The synthesis title remains intact.
 
 ---
 
@@ -2225,7 +2225,7 @@ This expresses unbroken conservation of coherence across existence.
 
 | Field | Domain | Defining Motion | Primary Equation |
 |-------|--------|----------------|------------------|
-| **Zenonic Field** | Pre-structural silence | Non-motion | \( ⧞ = \text{constant} \) |
+| **Zenonic Allowance** | Trans-structural horizon | Outside ordinary field membership | Earlier "Zenonic Field" and \( \text{⧞}=\text{constant} \) are superseded provenance, not a scalar field equation |
 | **Aionic Field** | Capacitive Zero | Latent potential | \( \partial\Phi/\partial t = 0 \) |
 | **Zenet Field** | Motive Infinity | Proto-awareness | \( \partial_{\text{🌀}}\Phi = \text{🕊️} \) |
 | **Theonic Field** | Centropic axis | Integration | \( \nabla_C\psi = +1 \) |
@@ -2234,8 +2234,7 @@ This expresses unbroken conservation of coherence across existence.
 | **Embodied Field** | Material form (L₁) | Manifest coherence | \( \int_{\text{◎}}(\partial_{\text{🌀}}\psi) = \phi(\Omega) \) |
 | **Forensic Field** | Diagnostic recursion | Restoration | \( \partial_t(\sigma\gamma) = 0 \) |
 
-Each field is not a separate layer, but a phase of one living continuum.  
-The Grand Unified Equation of Reality encompasses them all.
+The table distinguishes proposed structural field descriptions from Zenonic Allowance. The former inclusion of Zenon within one field continuum is superseded; each mathematical field description retains its own typing and domain requirements.
 
 ---
 
@@ -2246,12 +2245,13 @@ The Grand Unified Equation of Reality encompasses them all.
 Let **⟠ = Proleptic Echo** — forward memory of completed resonance.  
 Then:
 
+**Recorded total-field expression — state / domain / measure / evolution held.**
+
 \[
 t_{\text{real}} = \int_{\Omega_t} ⟠(\psi) \, d\psi
 \]
 
-All beings recall their structural resolution before their events unfold.  
-Causality is not linear but harmonic; existence hums its end in its beginning.
+The former universal recall and causal conclusions are withdrawn as consequences of the proposed total-field integral. Its state type, measure, integration domain, and temporal relation remain held pending explicit specification.
 
 ---
 
@@ -2306,13 +2306,13 @@ Being itself is a harmonic equilibrium, not a monism.
 
 ## 7 · The Grand Invariance Theorem
 
+**Recorded Zenon-bounded expression — operative standing retired.**
+
 \[
 \forall\psi \in \Omega_t, \quad \int_{\text{Zenon}}^{\infty} d\psi = 0 \quad \Leftrightarrow \quad \psi \text{ exists within lawful resonance}
 \]
 
-Any \( \psi \) not returning to zero — any motion that fails to complete the integral —  
-exists as entropic remainder.  
-Redemption is mathematical: every incomplete \( \psi \) seeks closure through centropic re-integration.
+The former return-to-zero, entropic-remainder, and redemption implications are withdrawn as consequences of this integral. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
 
 ---
 
@@ -2406,13 +2406,13 @@ The lattice is a hymn written in curvature."*
 
 ## 10 · The Law of Total Conservation
 
+**Recorded total-field expression — state / domain / measure / evolution held.**
+
 \[
 \partial_t(\Omega_t) = 0 \quad \Leftrightarrow \quad \text{All existence conserved within resonance}
 \]
 
-There is no ultimate entropy — only unfinished resonance.  
-Every loss is a delayed return.  
-Every silence is structure resting.
+The former total-conservation interpretation is held pending the state, evolution, and conservation hypotheses. The displayed notation supplies no completed mathematical proof of those universal conclusions.
 
 ---
 
@@ -2420,7 +2420,9 @@ Every silence is structure resting.
 
 In the beginning was not sound but silence.  
 🕳️ did not speak — it allowed speech to occur.  
-All equations are resonances within that stillness.
+Mathematical articulation names structural relations; Zenonic Allowance is not their containing field.
+
+**Recorded Zenon-bounded expression — operative standing retired.**
 
 \[
 \Omega_t = \int_{\text{Zenon}}^{\infty} \psi \, d\Omega = 0

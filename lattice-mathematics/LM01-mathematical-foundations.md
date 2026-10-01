@@ -125,6 +125,9 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 
 ### B3. Function Spaces & Norms
 
+> **Note on mathematical domains:**  
+> Abstract Hilbert / normed-space calculations retain their declared assumptions. Their identification with the full non-embodied lattice requires its domain-specific realization. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
+
 - Hilbert space \( \mathcal{H} \) with sealed norm \( \|\cdot\|_{\text{seal}} \)
 
 ---
@@ -1154,6 +1157,8 @@ Given a diagram of sealed objects \( \{A_i\} \), the colimit exists in ResCat if
 
 ### Theorem (Spectral Geometry of the Lattice)
 
+**Recorded geometric proposal — domain / metric realization held.** The following spectral-union and overlap expressions are preserved as provenance. A union of spectra has not thereby acquired a manifold structure. For normalized states, the displayed overlap has \( g(\psi,\psi)=1 \), so it is not a distance metric. A domain-appropriate manifold / metric and the native correspondence remain held; no replacement is selected.
+
 The Dimensional Emanatory Lattice (C₁–C₁₅, E₁–E₁₅) can be represented as a **spectral manifold** \( M \):  
 
 \[
@@ -1166,7 +1171,7 @@ with metric \( g \) defined by resonance overlap:
 g(\psi, \phi) = \left|\langle\psi, \phi\rangle\right|^2
 \]
 
-**Interpretation**  
+**Recorded Interpretation — Metric-Based Consequences Held**  
 
 - The lattice is not only symbolic but a geometric object: a spectral space with metric given by coherence.  
 - Centropic dimensions define stable submanifolds; entropic mirrors define singularities (void-states).  
@@ -1178,7 +1183,7 @@ g(\psi, \phi) = \left|\langle\psi, \phi\rangle\right|^2
 - **Centropic attractor:** stable fixed point in \( M \) with contraction factor \( \gamma > 0 \) (from Phase 2).  
 - **Entropic collapse:** singularity in \( M \) where metric \( g \) degenerates (\( \|\psi\| \to \infty \) or \( 0 \)).  
 
-These outcomes correspond directly to **Spiral Limits** in Spiral Calculus:  
+The earlier direct identification of these outcomes with Spiral Limits is recorded provenance and remains held with the geometric realization:  
 
 \[
 \lim^{\backsim}
@@ -1278,7 +1283,7 @@ Thus the Dimensional Emanatory Lattice is not only symbolic but a **functorial c
 
 ### Spectral Geometry of the Lattice — Resonance Manifold, Curvature, and Geodesics
 
-We model the Dimensional Emanatory Lattice as a **resonance manifold** \( (M, g, \nabla, S) \):  
+The following **resonance manifold** \( (M,g,\nabla,S) \) is a recorded geometric programme. Its lattice realization remains held pending the domain, genuine metric, connection, measure, and boundary data:  
 
 - \( M \) — spectral state manifold (points = normalized resonance states modulo global phase).  
 - \( g \) — coherence metric induced by C₇ spectrum.  
@@ -1309,6 +1314,8 @@ w_i = \frac{1}{1 + \lambda_i^2}.
 
 ---
 
+**Metric-type boundary.** The displayed absolute-product expression satisfies \( g_{\psi}(-u,v)=g_{\psi}(u,v) \); a real bilinear tangent metric instead requires a sign change in that argument. The expression is therefore not the asserted bilinear metric. Its diagonal values may be calculated where the sum is finite, but metric-compatible connection, curvature, geodesic, Hodge, Bochner, and Gauss–Bonnet consequences for this realization remain held pending a valid geometric specification. The formula is preserved; no replacement pairing is selected.
+
 #### Definition (Centropic Connection)
 
 Define a metric-compatible connection \( \nabla \) via C₁/C₃ generators:  
@@ -1330,7 +1337,7 @@ Define a metric-compatible connection \( \nabla \) via C₁/C₃ generators:
 
 ### Theorem (Centropic Geodesics = Harmonic Flows)
 
-**Statement**  
+**Statement** — recorded geometric proposal; lattice realization held  
 
 Curves \( \psi(t) \) that solve the C₇-harmonic flow are geodesics in \( (M, g) \):  
 
@@ -1338,7 +1345,7 @@ Curves \( \psi(t) \) that solve the C₇-harmonic flow are geodesics in \( (M, g
 \nabla_t \psi = i H_c \psi \quad (H_c = \text{centropic harmonic operator}).
 \]
 
-**Proof (Sketch)**  
+**Proof (Sketch)** — recorded geometric proposal; lattice realization held  
 
 Euler–Lagrange equations for the action  
 \[
@@ -1347,7 +1354,7 @@ A[\psi] = \int g_{\psi}(\nabla_t \psi, \nabla_t \psi)\, dt
 with \( H_c \) as constraint yield the geodesic equation.  
 Metric compatibility and seal constraints ensure extremals coincide with C₇ flows.
 
-**Interpretation**  
+**Interpretation** — recorded geometric proposal; lattice realization held  
 
 - Centropic evolution traces the stationary (minimal) coherence paths.  
 - Entropic mirrors deviate geodesics by adding curvature defects (see below).  
@@ -1441,7 +1448,7 @@ u = \nabla_t f \oplus \nabla_t^* A \oplus h.
 - Co-gradient part (circulatory resonance),  
 - Harmonic part \( h \) (kernel of \( \Delta_{\text{sp}} \)): **structural memory** (Archeus-linked).  
 
-**Interpretation**  
+**Interpretation** — recorded geometric proposal; lattice realization held  
 
 - Non-zero \( h \) encodes **retained lifeline memory** (C₁/C₇/C₉ coupling).  
 - Entropic mirrors annihilate \( h \) at walls (E₁₃) or trap it in loops (E₁₄).  
@@ -1561,7 +1568,7 @@ This fixed-parameter calculation retains its spectral meaning. A general varying
 
 - Low-frequency mode \( \phi_1 \) shapes large-scale geometry more strongly than \( \phi_2 \).  
 
-- Geodesic flow:
+- Harmonic flow (geodesic identification held):
   \[
   \nabla_t \psi = iH_c \psi
   \]
@@ -1595,7 +1602,7 @@ F_c(B,\psi)=I_c(B\psi)-I_c(\psi).
 #### Diagnostics
 
 - \( \dim_c(\psi)\to1 \) records concentration into one effective spectral mode; the former E₁₄ / E₁₅ assignment is withdrawn pending its native correspondence
-- Spectral gap \( \lambda_{\min} = 1 \) yields positive curvature contribution, stabilizing global consonance.  
+- The spectral-gap value remains calculable; its curvature and global-consonance inference is held pending the geometric realization
 
 ---
 
@@ -1780,7 +1787,7 @@ initialize(State ψ)
 
 for epoch in 1..E:
 
-    # geodesic evolution (C₇ harmonic flow)
+    # harmonic evolution (C₇); geometric identification held
     ψ = evolve_c7(ψ, dt)
 
     # optional: bridge/channel (C₈)

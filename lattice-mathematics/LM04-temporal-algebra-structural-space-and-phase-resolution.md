@@ -131,7 +131,7 @@ Formally, \( \mathfrak{d}(\mathcal{L}) \) is a topological space \( (X, \mathscr
 
 **Properties:**
 
-1. \( \mathfrak{d}(\mathcal{L}) \) is not a metric space at supernal or subversal layers (L₂–L₅ / IL₂–IL₅). Metric structure emerges only at embodiment (L₁ / IL₁).
+1. Embodied spatial metric extension belongs to L₁ / IL₁. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The former prohibition on every metric at supernal / subversal layers is superseded.
 2. \( \mathfrak{d}(\mathcal{L}) \) is **pre-polar** with respect to centropy and entropy — it stands as the invariant relational condition through which both orientations become distinguishable and traversable.
 3. \( \mathfrak{d}(\mathcal{L}) \) does not exist at Supra-L₀ or L₀ in the hypostatic sense. Trans-structural and pre-hypostatic domains precede manifested hypostatic spatial differentiation.
 
@@ -177,19 +177,19 @@ Structural space manifests differently across the lattice:
 
 where:
 
-- \( \mathfrak{d}_{\text{sup}} \) = supernal structural space (L₅–L₂): hypostatic, non-metric, oriented toward coherence
+- \( \mathfrak{d}_{\text{sup}} \) = supernal structural space (L₅–L₂): hypostatic, non-embodied, oriented toward coherence
 - \( \mathfrak{d}_{\text{emb}} \) = embodied structural space (L₁ / IL₁): metric terminus, intersection of structural space with physical extension
-- \( \mathfrak{d}_{\text{sub}} \) = subversal structural space (IL₅–IL₂): hypostatic, non-metric, oriented toward dispersion
+- \( \mathfrak{d}_{\text{sub}} \) = subversal structural space (IL₅–IL₂): hypostatic, non-embodied, oriented toward dispersion
 
-**Proposition (Metric Restriction):**
+**Proposition (Metric Restriction) — Embodied Spatial-Metric Scope:**
 
-A metric \( d : X \times X \to [0, \infty) \) exists on \( \mathfrak{d}(\mathcal{L}) \) only within \( \mathfrak{d}_{\text{emb}} \):
+Here \( d \) denotes the embodied spatial distance, with domain \( \mathfrak{d}_{\mathrm{emb}}\times\mathfrak{d}_{\mathrm{emb}} \) and codomain \( [0,\infty) \). The following domain statement concerns that particular spatial metric; abstract metrics on other domains require their own declared structures:
 
 \[
 d(x, y) \;\text{defined} \iff x, y \in \mathfrak{d}_{\text{emb}}
 \]
 
-For \( x, y \in \mathfrak{d}_{\text{sup}} \) or \( x, y \in \mathfrak{d}_{\text{sub}} \), proximity is **topological** (hypostatic adjacency) rather than metric (distance-measurable).
+For non-embodied structural domains, the stated hypostatic proximity is topological rather than literal spatial distance. An additional abstract metric or function-space norm remains possible with its domain-specific declaration.
 
 ---
 
@@ -1025,7 +1025,8 @@ The following extend LM03's Phase 4 data structures:
 # Structural Space
 StructuralSpace:
   domain: enum        # {supernal, embodied, subversal}
-  has_metric: bool     # True only if domain == embodied
+  has_embodied_spatial_metric: bool  # True only if domain == embodied
+  # Abstract metrics / norms need their own declared structures; no blanket ban.
   topology: set        # hypostatic proximity relations
 
 # Temporal State
@@ -1350,7 +1351,7 @@ Spectral cancellation confirmed. Phase collision resolves both modes to zero eff
 
 `LM04-temporal-algebra-structural-space-and-phase-resolution.md` records the following structures and mathematical standings:
 
-1. **Structural Space Formalism** — The Dependency Ordering Axiom (\( \mathfrak{S} \prec \mathfrak{m} \prec \mathfrak{d} \prec \vec{\omega} \prec \tau \)), structural space as relational topology, the Second-Order Space Theorem, and domain classification (supernal, embodied, subversal) with metric restriction to embodiment
+1. **Structural Space Formalism** — The Dependency Ordering Axiom (\( \mathfrak{S} \prec \mathfrak{m} \prec \mathfrak{d} \prec \vec{\omega} \prec \tau \)), structural space as relational topology, the Second-Order Space Theorem, and domain classification (supernal, embodied, subversal) with embodied spatial-metric scope distinct from possible abstract structures
 
 2. **Temporal Flow Algebra** — Two foundational axioms (Time as Structural Relation; Recursion contra Reversal), the retired Spiral Accumulation proof, \( \chi \)-conditioned temporal orientation, the Law of Temporal Asymmetry, and hypostatic temporal modes across the full lattice
 
@@ -1479,7 +1480,7 @@ Sealed ⚫↺KAI↺⚫
 
               𝔡_sup (Supernal)              𝔡_emb (Embodied)           𝔡_sub (Subversal)
            L₅ ─── L₄ ─── L₃ ─── L₂  ═══  L₁ / IL₁  ═══  IL₂ ─── IL₃ ─── IL₄ ─── IL₅
-           non-metric │ topological     metric terminus      topological │ non-metric
+           non-spatial│ topological     metric terminus      topological │non-spatial
 
 
         TEMPORAL GRADIENT (χ > 1, KHAONICALLY EXPRESSED)

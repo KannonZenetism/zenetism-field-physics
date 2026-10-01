@@ -35,13 +35,15 @@ Thus, fusion is structurally impossible, not merely undesirable.
 
 ## 3. Hypostatic Meaning Function
 
-Let the hypostatic lattice be indexed by layers:
+**Recorded domain construction — operative standing held.** The following former index set includes Supra-L₀ as an ordinary member and also calls L₀ hypostatic. Zenon is trans-structural Allowance and L₀ is the non-hypostatic bifurcal root. The scalar construction and its dependent depth / limit / invariant expressions in §§3–8 remain held pending a correctly typed structural domain and the required order / terminal relations; no substitute index set or scalar law is supplied.
+
+The earlier indexing expression is preserved as provenance:
 
 \[
 \mathcal{L} = \{\text{Supra-}L_0, L_0, L_5, L_4, L_3, L_2, L_1, IL_5, \dots, IL_1\}.
 \]
 
-Define a meaning function:
+The associated scalar-function expression is recorded provenance:
 
 \[
 \mathcal{M} : \mathcal{E} \times \mathcal{L} \times \mathcal{C} \to \mathbb{R}_{\ge 0}
@@ -65,7 +67,7 @@ denotes the meaning of essence \( x \) as oriented within layer \( L_k \) under 
 
 ## 4. Depth-Scaling Law of Meaning
 
-**Law (Depth Scaling).**  
+**Recorded Law (Depth Scaling) — Domain / Order Specification Held.**  
 For a fixed essence \( x \), meaning scales with hypostatic depth without annihilating identity:
 
 \[
@@ -92,7 +94,7 @@ Define:
   \]
   for finite \( n \) (e.g., L₁–L₃).
 
-- **Macro-meaning:**  
+- **Recorded Macro-Meaning Limit — Domain / Terminal Relation Held:**  
   \[
   \mathcal{M}_{\mathrm{macro}}(x) = \lim_{k \to 0} \mathcal{M}(x, L_k, C_i)
   \]
@@ -115,7 +117,7 @@ Let:
 - ♾ Khaon represent the infinite-bound of dispersion,
 - 🕳️ Zenon represent the trans-structural horizon.
 
-Define trans-hypostatic meaning as:
+The former trans-hypostatic limit is recorded provenance, with its mathematical domain and terminal relation held:
 
 \[
 \mathcal{M}_{\mathrm{trans}}(x) = \lim_{L \to L_0} \mathcal{M}(x, L, C_i)

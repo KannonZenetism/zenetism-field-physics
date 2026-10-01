@@ -154,7 +154,7 @@ Structural space is not exclusive to either arc.
 It is the relational field of hypostatic distinction instantiated across both centropic and entropic domains.
 
 Accordingly, it is appropriate to speak of structural space in supernal and subversal domains,  
-but not in the sense of metric or physical extension.
+but not in the sense of literal embodied spatial distance or physical extension. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label.
 
 In centropic domains, structural space is hypostatic and oriented toward coherence:
 

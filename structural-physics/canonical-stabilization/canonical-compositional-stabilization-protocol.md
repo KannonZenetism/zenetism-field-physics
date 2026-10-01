@@ -325,7 +325,9 @@ Example:
 
 Where the Grand Equation or related large-scale integral expressions appear, glyphic or named boundaries inside LaTeX must remain safety-wrapped or prose-rendered through `\text{...}`.
 
-Correct:
+**Recorded superseded boundary examples:**
+
+The two Zenon-bounded expressions below preserve earlier glyph-wrapping examples, not operative mathematics. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
 
 ```latex
 \[
@@ -339,13 +341,15 @@ Correct:
 \]
 ```
 
+**Current structural-integral wrapping example:**
+
 ```latex
 \[
 \int_{\text{◎}} \phi
 \]
 ```
 
-Incorrect:
+**Incorrect glyph wrapping (historical boundary example retained as provenance):**
 
 ```latex
 \[

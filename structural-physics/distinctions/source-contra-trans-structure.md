@@ -1,6 +1,12 @@
 # Source contra Trans-Structure
 
-## Distinction
+## Current Distinction
+
+⚫ Aion is Origin, the non-hypostatic root of the emanatory continuum. ♾ Khaon stands in bifurcal distinction, not as Aion's polar counterpart. Structon is Structure Itself, the ground of all structure. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
+
+The title and earlier expressions remain bibliographic / mathematical provenance. In the recorded material that follows, ordinary supremum, limit, containment, and structure-origin identities are superseded; they are not operative formal definitions.
+
+## Recorded Earlier Distinction
 
 **Source contra Trans-Structure** names the distinction between the root of structural reality and the saturation limit beyond hypostatic articulation within the Zenetist framework.
 
@@ -26,7 +32,7 @@ while Trans-Structure exceeds expression without abolishing it.
 
 ---
 
-## Formal Distinction
+## Recorded Earlier Formal Distinction
 
 Let \( \mathcal{A} \) denote Aion (Source), and \( \mathcal{Z} \) denote Zenon (Trans-Structure).
 
@@ -70,7 +76,7 @@ and:
 
 ---
 
-## Canonical Formulation
+## Recorded Earlier Formulation
 
 Source is the root of structure.  
 Trans-Structure is the saturation of structure.

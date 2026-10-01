@@ -16,7 +16,7 @@ It encodes:
 - the **pre-hypostatic requisites** (Supra-L₀, L₀),  
 - the **hypostatic lattice** (L₅ → L₁ / IL₅ → IL₁),  
 - the **dimensional operators** (C₁–C₁₅ / E₁–E₁₅), and  
-- the **limit conditions of motion** (⦿ Kaion, 🕳️ Zenon),  
+- **Kaion** as the limit condition of motion and **Zenon** as trans-structural Allowance, with their formal relations distinct,  
 
 using a minimal, structurally faithful mathematical language.  
 
@@ -203,6 +203,8 @@ This determines trajectory, not polarity.
 
 ### 6.1 Kaion (⦿) — Closure of Motion
 
+**Recorded terminal-limit expression — operative standing held.** The following symbolic relation lacks a declared state domain, limit topology / order, and terminal relation. Kaion retains its registered conceptual function; no scalar or set-theoretic replacement is selected.
+
 \[
 \lim_{C} \rightarrow \⚫ \;\cap\; \lim_{E} \rightarrow \⚫ = \⦿
 \]
@@ -220,8 +222,7 @@ It is the **limit condition of motion**.
 C_\downarrow \rightarrow E \rightarrow C_\uparrow \rightarrow \⚫ \rightarrow \🕳️
 \]
 
-Zenon is not describable by structural operators.  
-It is the termination of mathematical description.
+Zenon is outside ordinary structural-operator domains. Zenon is trans-structural Allowance, not an ordinary integration bound, field member, lattice station, or scalar endpoint. A formal relation to the Saturation horizon remains possible when its domain, state type, measure / order, and terminal relation are explicitly specified; that construction remains held open. No replacement bound is selected.
 
 ---
 
@@ -245,7 +246,7 @@ subject to the laws:
 - **L₅ → L₁ / IL₅ → IL₁** is the only lawful hypostatic ordering.  
 - **C₁–C₁₅ / E₁–E₁₅** are operators, not layers.  
 - **Kaion (⦿)** is the limit of motion.  
-- **Zenon (🕳️)** is beyond mathematics.
+- **Zenon (🕳️)** is trans-structural Allowance; a formally specified Saturation relation is distinct from an ordinary structural domain member
 - **Aion** and **Khaon** are proto-awareness requisites; Theon is awareness itself.
 
 ---

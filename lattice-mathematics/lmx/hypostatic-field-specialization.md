@@ -10,7 +10,7 @@
 
 ## 1. Purpose
 
-LM05 defines the Coherence Potential \( I_c \), Coherence Current \( \vec{J}_c \), and Source Term \( S(x, \tau) \) as quantities on structural space \( \mathfrak{d}(\mathcal{L}) \) — the full relational topology of the Lattice. These definitions are deliberately layer-general: the continuity equation, the gradient law, the transfer function, and the collective resonance formalism apply identically whether evaluated at L₅ or L₁, at IL₄ or across ⧉₃.
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` defines the Coherence Potential \( I_c \), Coherence Current \( \vec{J}_c \), and Source Term \( S(x, \tau) \) as quantities on structural space \( \mathfrak{d}(\mathcal{L}) \) — the full relational topology of the Lattice. Pointwise quantities may be layer-general. Their differential, integral, norm, and transfer relations retain the explicitly declared domains in the corresponding mathematical volumes; automatic identical application across all layers remains held pending the required structures.
 
 This generality is a mathematical strength. It is also a point of contact with a deeper question: the Lattice is not homogeneous. Each hypostatic layer carries its own ontological character — archetypal at L₄, psychic at L₃, personal at L₂, corporeal at L₁ — and the field quantities, while formally identical across layers, acquire **structurally distinct meaning** when evaluated at each one.
 
@@ -38,7 +38,7 @@ where \( \mathfrak{d}_{L_k} \subset \mathfrak{d}(\mathcal{L}) \) is the structur
 I_c\big|_{L_k}, \quad \vec{J}_c\big|_{L_k}, \quad S\big|_{L_k}, \quad \sigma(⧉)\big|_{⧉_k}
 \]
 
-Each restriction inherits the full formal structure of its parent quantity — the continuity equation, gradient law, and transfer conditions hold at every layer — but the **structural content** of what the quantity measures changes with the layer.
+A pointwise field restricts to a subset of its declared domain. Differential, integral, norm, and transfer structures require their own restriction / compatibility conditions; a layer label supplies none of those constructions. The former automatic inheritance of all equations at every layer is superseded. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 ### 2.2 Layer-Indexed Character
 
@@ -50,7 +50,7 @@ The **character function** \( \mathfrak{C} \) assigns to each layer restriction 
 \mathfrak{C}(L_k) : Q\big|_{L_k} \mapsto \text{(ontological mode of } Q \text{ at } L_k\text{)}
 \]
 
-The character function modifies interpretation, not the governing equations; continuity, transfer, and diffusion laws remain unchanged under restriction.
+The character function names interpretation. Persistence of an equation under domain restriction requires the declared mathematical structures and boundary conditions; that all-layer extension remains held.
 
 **Proposition (Character Table for \( I_c \)):**
 

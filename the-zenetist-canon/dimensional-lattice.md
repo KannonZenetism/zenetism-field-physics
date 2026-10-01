@@ -192,6 +192,8 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \mathrm{const}
 
 ## 4. Spectral Geometry
 
+**Geometric standing.** The displayed absolute-product tangent pairing is not bilinear: negating one argument leaves its value unchanged. The formula is preserved as a recorded comparison; its metric, connection, geodesic, curvature, and related lattice consequences remain held pending a genuine domain-specific geometric specification. Non-spatiality permits abstract mathematical structures when declared; no replacement metric is selected here.
+
 ### 4.1 Resonance Manifold
 
 **Structure:** \( (M, g, \nabla, S) \) where:
@@ -216,7 +218,7 @@ where \( w_i = 1/(1 + \lambda_i^2) \)
 \nabla_t \psi = i H_c \psi
 \]
 
-**Proof:** Euler-Lagrange for action \( A[\psi] \) with metric compatibility yields geodesic equation. Seal constraints ensure extremals coincide with C₇ flows. □
+**Recorded proof sketch — geometric realization held:** Euler-Lagrange for action \( A[\psi] \) with metric compatibility yields geodesic equation. Seal constraints ensure extremals coincide with C₇ flows. □
 
 ### 4.3 Entropic Singularities
 

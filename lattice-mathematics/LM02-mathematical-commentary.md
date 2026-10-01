@@ -148,7 +148,7 @@ LM01 §B3 references a Hilbert space \( \mathcal{H} \) with "sealed norm" \( \|\
 
 ### 4.1 Manifold and Bundles
 
-The triple of base manifold \( M \), resonance bundle \( R \to M \), and seal line bundle \( S \to M \) (LM01 §C1) provides the geometric substrate. LM04 §2 introduces structural space \( \mathfrak{d}(\mathcal{L}) \) as a relational topology, which refines the base manifold \( M \) by specifying that distance in the Lattice is not spatial but structural — measured by relational proximity within the emanatory architecture. The resonance bundle maps naturally to the Coherence Potential field \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) of LM05, and the seal line bundle maps to the membrane operator algebra of LM05 §5.
+The declared abstract manifold and bundle notation supplies a proposed geometric framework. Its identification with the structural topology in `LM04-temporal-algebra-structural-space-and-phase-resolution.md` and the fields / membranes in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` requires an explicit domain, map, and compatible structures. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label. The pointwise scalar functions and finite algebraic comparisons retain their declared domains. Each tangent field, gradient, divergence, field norm, or integral requires the structures appropriate to that operation and any theorem asserted for it. These may include a base domain, differential / duality structure, field-space membership, a measure, or boundary conditions; no universal conjunction of these prerequisites is imposed on every operation. The all-lattice extension remains held pending those specifications; no non-embodied geometry or measure is installed here.
 
 ### 4.2 PDE Evolution
 
@@ -330,9 +330,11 @@ These are not the same quantity. The spectral entropy of a state and the local c
 
 ### 9.1 Spectral Manifold
 
-The construction of the spectral manifold \( M = \bigcup_{i=1}^{15} (\mathrm{Spec}(C_i) \cup \mathrm{Spec}(E_i)) \) with coherence metric \( g(\psi, \phi) = |\langle\psi, \phi\rangle|^2 \) is stable. The centropic connection \( \nabla \) compatible with both metric and seals provides the geometric substrate for dynamical analysis. The resonance metric (weighted by \( w_i = 1/(1 + \lambda_i^2) \)) ensures that high-frequency modes contribute less to large-scale geometry, a natural consequence of the principle that centropy stabilizes contra spectral fragmentation.
+The spectral-union and overlap formulas in `LM01-mathematical-foundations.md` are recorded geometric proposals. For normalized states, \( |\langle\psi,\psi\rangle|^2=1 \), so the overlap is not a distance metric. The later absolute-product tangent expression is not bilinear. The former stable-geometric-realization claim is superseded; a genuine domain-specific metric / manifold and its correspondence remain held, with no replacement selected.
 
 ### 9.2 Key Results
+
+**Recorded geometric consequences — lattice realization held.** The descriptions in this section preserve the proposed metric / connection / curvature programme. Their application to the lattice requires the valid geometric structures and hypotheses identified in §9.1; they are not completed proofs for the printed overlap or absolute-product pairing. Abstract results in independently declared mathematical domains retain their own hypotheses.
 
 **Centropic Geodesics = Harmonic Flows.** The identification of C₇-harmonic flows as geodesics in \( (M, g) \) is a central result: centropic evolution traces the minimal (stationary) coherence paths. This is structurally analogous to how physical systems follow geodesics in spacetime, with the coherence metric playing the role of the spacetime metric. The result establishes that centropy is not merely a tendency or preference but a variational principle — centropic motion minimizes a well-defined action functional on the resonance manifold.
 
