@@ -33,10 +33,10 @@ The report now carries the live research and implementation record. Its baseline
 
 **Implementation base:** [33c992a98d79fbbb06d5f8e80fd7c8483764840b](https://github.com/KannonZenetism/zenetism-field-physics/commit/33c992a98d79fbbb06d5f8e80fd7c8483764840b). Its sole change from the evidence revision is this report's addition; the baseline corpus findings and their pinned citations remain applicable.
 
-## Findings and Present Standing
+## Baseline Findings and Standing
 
 1. **The full D01–D22 blocks are the substantive decision record.** D01–D17 and D19–D22 are determined. D18 remains HOLD in its complete four-name group. The compact register provides navigation; the archived implementation manifest supplies no operative implementation standing. A settled distinction can retain a mathematical or naming hold within its full block.
-2. **No whole decision group warrants CLEAN.** The current agreement classifications are 5 LIVE DRIFT FOUND, 16 PARTIAL / MIXED, and 1 HOLD — NO IMPLEMENTATION. These assess propagation in the live corpus; they neither reopen settled decisions nor assign the research findings architect-determination standing.
+2. **At the evidence revision, no whole decision group warranted CLEAN.** The agreement classifications were 5 LIVE DRIFT FOUND, 16 PARTIAL / MIXED, and 1 HOLD — NO IMPLEMENTATION. These assessed propagation at the pinned evidence revision; they neither reopened settled decisions nor assigned the research findings architect-determination standing.
 3. **The main coupled defects are typed-object and referent disagreements.** They concern spectral quantities, latent inclination and expressed χ, Recursive Memory, recovery accounting, collective conditions, membrane transfer, Zenon-bounded constructions, diagnostic comparisons, operator identities, being / function language, clinical standing, and root / phase distinctions. Local lexical changes cannot complete equation families whose hypotheses, code, examples and appendices disagree.
 4. **All fifteen primary loci remain open.** FP01, the LM01 Inlay, GUD, SP and SN applications carry different mixtures of proposed primary placement, secondary coupling, physical realization and contextual expression. C₄ / E₄ has particularly explicit contrary primary claims; C₃ / E₃, C₇ / E₇, C₉ / E₉ and C₁₁ / E₁₁ have disjoint recorded distributions. Matching addresses in other pairs supply no primary-locus proof.
 5. **The inverse reasoning is independent.** Each E-pair requires its own function-specific account. A matching index, glyph resemblance, centropic placement or copied band does not establish the inverse locus. E₁₅ retains independently emanated inverse standing and distorted reception of Theonic novelty, never independent entropic origination.
@@ -2041,12 +2041,20 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb`. The primary counterpart-map and recurrence correction installs Involution naming, retains common-mode pairing, bounds unsupported unitary / dissipative cancellation and contraction realization, and separates retained-state ρ from contraction-gap γ. Explicit cancellation and recurrence counterexamples were checked. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The active TeX replica, precise sufficient-condition wording and SP01 diagnostic replicas remain for their following subsets. New generator, projection, domain, sign and recurrence constructions remain held.\
+**New dependencies discovered during implementation:** The active dimensional-lattice Markdown account is part of the same counterpart object. Preserve the separate essence-identifier map and the independently defined fluid relaxation example.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
+- `the-zenetist-canon/dimensional-lattice.md`
+- `the-zenetist-canon/grand-unified-document.md`
 
 ## Set 11 — Spectral Quantities and Collective Conditions
 
