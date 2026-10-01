@@ -2079,13 +2079,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation); `b235df3afb12fd0b270bd51256f758d223f5f3a2` (set11-tex); `e4ba40c444a08777a62a784666ed3a9fe489eac6` (set11-sp01-diagnostics). SP01's rational-spectrum, commutation, incomplete-spectrum and positive-coefficient classifier claims are bounded according to their established mathematics. The completed collective, spectral, Markdown and TeX subsets retain exact local conditions and registered functions; focused numerical and composed-text checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The active SN03 variation / pathology criterion still requires source / summary agreement on coherent content, entropic extension and net change versus generation; that direct family is assigned to the subsequent Set 11 supplement. Future native mappings, conservation and membership / generation constructions remain held; TeX rendering remains unverified.\
-**New dependencies discovered during implementation:** SP01 §9 supplies direct D01 / D02 / D04 dependencies beyond the initial principal-volume footprint. Its corrections resolve the SP01 portion of Set 10's classifier dependency; the GUD threshold family remains for its later Set 18 supplement. Preserve Set 16 and Set 18 scopes.
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2` (set11-collective); `3e0a91425225034a89feff59261e1b70e8d66e21` (set11-spectral); `8002de579877e4099121aef22074b26c1ad02e0a` (set11-propagation); `b235df3afb12fd0b270bd51256f758d223f5f3a2` (set11-tex); `e4ba40c444a08777a62a784666ed3a9fe489eac6` (set11-sp01-diagnostics); `1ac07c8ae2f088e5b5e03e797f1330504dc36c02` (set11-sn03-coherent-content-supplement). SN03's source, repeated criterion and analytic summary now distinguish coherent content, organizational cohesion and correlation, with the unsupported entropic formal extension held. Net stock change is separated from generation and clinical classification; all mathematical blocks remain recorded intact. Exact reversal, replicas and retained clinical / sequence boundaries were verified.\
+**Residual holds / unresolved findings:** New native correspondence, conservation, membership / generation and cohesion constructions remain held. Protected historical bodies remain outside the active correction queue. Static TeX checks pass; PDF rendering remains unverified on the missing baseline formats.\
+**New dependencies discovered during implementation:** The original analytic criterion hold was absent from SN03 §§7.1–7.3, its summary, notation / equation appendix and Definition 7. Coupled accounting review also withdrew the net-change-to-generative-function inference without changing I_c or inventing a cohesion scalar.
 
 **Implemented active paths:**
 
@@ -2100,6 +2100,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `lattice-mathematics/README.md`
 - `lattice-mathematics/lmx/hypostatic-field-specialization.md`
 - `structural-neuroscience/README.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
 - `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
 - `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
 - `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
