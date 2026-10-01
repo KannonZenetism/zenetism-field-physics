@@ -2001,9 +2001,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07` (set09); `5592c25dfd833821e2fc6814d04453e351e33b00` (set09-sp03-phase-gloss-completion); `1aa38b396aceb18f497150a549e860be28c0caf2` (set09-contingency-phase-completion). The contingency MPX's exact opening paragraph now retains Khaon / Absolute Dispersion as the whole-name across the three phases and assigns motion capacity / activity specifically to the Motive phase. The one-paragraph scope, mathematical preservation and existing register were verified. Verification and push checkboxes apply to this completed one-file portion.\
-**Residual holds / unresolved findings:** GUD's prepared Infinity summary and dissolution-process phase clarifications remain unpublished because the publication action requires specific approval after an automated review denial. This technical publication block supplies no new architect or mathematical hold. The two non-embedded SP rasters retain their conditional model / label / root / phase questions.\
-**New dependencies discovered during implementation:** SP03's companion phase-gloss correction is already verified in its separate append-only commit. This MPX paragraph is another portion of the same reviewed phase supplement; the GUD portion remains pending.
+**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07` (set09); `5592c25dfd833821e2fc6814d04453e351e33b00` (set09-sp03-phase-gloss-completion); `1aa38b396aceb18f497150a549e860be28c0caf2` (set09-contingency-phase-completion). The settled active phase-text corrections are complete, including the separately verified SP03, contingency MPX and GUD portions. Khaon / AD whole-name standing, Motive function and terminal resolution remain distinct; prior commit timestamps are preserved. Verification and push checkboxes apply to the completed text portion.\
+**Residual holds / unresolved findings:** Only the conditional two-raster model / label / root / expression-limit / phase specification remains within this bounded set, including Khaos. Neither raster has an identified active Markdown embed. Historical Tripartite glossary bodies remain protected rather than unfinished active corrections.\
+**New dependencies discovered during implementation:** The GUD portion is completed by verified cross-set commit `93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9`. SP03 and the contingency MPX retain their separately recorded completion hashes. These repairs clarify already determined phase functions and introduce no new model or phase assignment. Completed companion correction: `93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9` (Set 18).
 
 **Implemented active paths:**
 
@@ -2407,13 +2407,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `e15a11b7e72667f8693dd285ed2ff84410e36047` (set18 + set18-sp01-relativity); `7caa3c09581bd4e2f6e3554e348a7464ae2b085c` (set18-sp01-correspondence-supplement + set18-gud-threshold-supplement). The twelve-site GUD threshold family now distinguishes coefficient arithmetic, registered boundary functions and their unestablished diagnostic correspondences. Cross-arc passage and automatic positivity / breach / cognition verdicts are bounded; all mathematical strings are preserved as recorded proposals. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** GUD Part V §2 still requires the native-gradient / clinical-classification distinction. The future correspondence and complete boundary models remain held. TeX rendering remains unverified.\
-**New dependencies discovered during implementation:** C₁₃ / EOB, Threshold Law §1.4, A4, Boundary Test and cognitive §§5.3 / 6 repeat the same coefficient-to-verdict leap. The SP01 correction supplies the directly coupled account without a new transfer law.
+**Implementation commit:** `e15a11b7e72667f8693dd285ed2ff84410e36047` (set18 + set18-sp01-relativity); `7caa3c09581bd4e2f6e3554e348a7464ae2b085c` (set18-sp01-correspondence-supplement + set18-gud-threshold-supplement); `93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9` (set09-phase-standing-supplement.patch (GUD portion) + set18-gud-cognitive-gradient-supplement). GUD's two phase-specific summaries and Part V §2 clinical-standing paragraph are now published together in the exact reviewed three-edit result. The native gradient is distinguished from clinical classification, while Infinity / dissolution wording identifies actual phase function. All prior GUD commit identities, timestamps and parents remain intact in the append-only history. Exact file and remote checks passed.\
+**Residual holds / unresolved findings:** The inspected active D12 correspondence-standing correction is complete; empirical calibration, clinical validation and new physical / native mappings require their own evidence. No GUD or SP03 action-approval block remains. Static TeX checks pass; rendering remains unverified because the installed baseline formats are unavailable.\
+**New dependencies discovered during implementation:** The combined GUD completion commit `93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9` supplies the remaining phase dependency for Set 09 and the clinical dependency for Set 18. Its prior 160 historical commit records remain unchanged. The adjacent Part V §3 synthesis sequence remains the distinct unresolved Set 21 support question.
 
 **Implemented active paths:**
 
