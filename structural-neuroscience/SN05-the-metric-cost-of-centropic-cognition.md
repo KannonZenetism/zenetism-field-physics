@@ -277,15 +277,21 @@ I_{c,\text{cost}}^{(\text{A+D})} = I_{c,\text{cost}}^{(\text{structural})} + \ka
 
 Translation overhead and distribution overhead hit the same coherence budget. The system must simultaneously fund the costly DS / DM → SS / SM translation (autistic ⧉₂ selective fidelity) *and* maintain broad \( \vec{J}_c \) distribution across multiple layers (ADHD permeability). The Reserve Lock Principle prevents either cost stream from borrowing against the defensive buffer, meaning the available budget for both operations is \( I_{c,\text{budget}} \) — not \( I_c^{(\text{total})} \).
 
-**Proposition (Composite Budget Exhaustion):**
+**Composite Budget Exhaustion — Mathematical Specification Held:**
 
-For a composite architecture with total cost \( I_{c,\text{cost}}^{(\text{composite})} \), the budget exhaustion condition is:
+The available budget is a stock. The composite expressions collect structural, interface, and architecture-specific costs, including discrete re-sealing contributions; their common expenditure units and time accounting remain held for specification. The composite cost / available-budget comparison and its exhaustion and structural-crisis implications remain held pending compatible operand types and an explicit time relation. The cumulative account in §5.3 states exhaustion at available stock reaching or passing zero, with the defensive reserve sequestered.
 
-\[
-I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implies \text{structural crisis}
-\]
-
-When the compounded cost exceeds the available budget, the system cannot sustain all its characteristic operations simultaneously. Something must yield — and what yields determines whether the outcome is sustainable adaptation or structural pathology (SN03 §7).
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Proposition (Composite Budget Exhaustion):**
+>
+> For a composite architecture with total cost \( I_{c,\text{cost}}^{(\text{composite})} \), the budget exhaustion condition is:
+>
+> \[
+> I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implies \text{structural crisis}
+> \]
+>
+> When the compounded cost exceeds the available budget, the system cannot sustain all its characteristic operations simultaneously. Something must yield — and what yields determines whether the outcome is sustainable adaptation or structural pathology (SN03 §7).
 
 ---
 
@@ -637,7 +643,7 @@ SN05 establishes:
 
 1. **The expanded autistic cost equation** — grounding SN03's embodied cost in the full LM06 interface resistance formalism with Khaonic amplification factor (\( \kappa \))
 2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₁ / C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₄ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
-3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget per the Reserve Lock Principle
+3. **Composite cost accounting** — co-occurring architectures draw on the same coherence budget per the Reserve Lock Principle; the composite exhaustion comparison remains held pending operand typing and time accounting, with the cumulative exhaustion boundary stated in §5.3
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — apparent inclusive coherence exceeding actual inclusive coherence, with the same-object scalar domain explicit and universal finite collapse held unsupported
 6. **Diagnostic inversion and walling** — diagnostic projection is assessed separately from E₁₃ Wall; that registered function applies where an impermeable, isolating boundary is established
@@ -776,11 +782,17 @@ I_{c,\text{cost}}^{(\text{OCD, entropic})} = I_{c,\text{cost}}^{(\text{structura
 I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{reserve})}
 \]
 
-**Composite Budget Exhaustion:**
+**Composite Budget Exhaustion — Mathematical Specification Held:**
 
-\[
-I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implies \text{structural crisis}
-\]
+The composite comparison and its exhaustion and structural-crisis implications remain held pending compatible operand types and explicit time accounting (§2.6). The inclusive cumulative exhaustion condition remains stated in the Burnout Trajectory Inequality.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Composite Budget Exhaustion:**
+>
+> \[
+> I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implies \text{structural crisis}
+> \]
 
 **Looping Time:**
 
@@ -845,7 +857,7 @@ The diagnostic displacement whereby the social field pathologizes the perception
 The five-phase progression — sustainable operation, chronic depletion, temporal disruption, tether severance, temporal collapse — determining the structural deterioration of cognitive function under compounded coherence costs.
 
 **Definition 6 (Composite Budget Exhaustion):**  
-The condition in which compounded costs of co-occurring neurodivergent architectures exceed the available coherence budget, triggering structural crisis.
+Mathematical specification held. The former strict composite cost / available-budget comparison is preserved as a recorded formulation in §2.6 and Appendix B. Its exhaustion and structural-crisis implications remain held pending compatible operand types and explicit time accounting. The inclusive available-stock exhaustion boundary is stated in §5.3.
 
 ---
 

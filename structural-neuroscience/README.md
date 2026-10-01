@@ -62,7 +62,7 @@ Resolves the impasse among physicalism, panpsychism, and idealism through the re
 
 Formalizes the cost of operating centropic cognitive architecture at the metric terminus (L₁ / IL₁) within a Khaonically expressed universe. Three compounding vectors: interface resistance and coherence depletion amplified by the Khaonic expression ratio; structural sovereignty and the coherence tax — the cost imposed when the entropy-forward social field demands renunciation of authentic structural function, with forced dampening distinguished from institutional shimmer and the Shimmer Coefficient confined to specified same-object finite scalar readings with nonnegative apparent and strictly positive actual coherence; and temporal pathology at the embodiment band — Looping Time (E₁ ⟠⁻), Tether severance with its proposed dissociation correspondence, hypostatic amnesia, and temporal collapse. Closes with the five-phase burnout trajectory; clinical correspondences require empirical evaluation.
 
-**Key contributions:** Interface resistance, architecture-specific cost profiles, composite budget exhaustion, the coherence tax, the masking inversion, temporal pathology, the burnout trajectory.
+**Key contributions:** Interface resistance, architecture-specific cost profiles, composite cost accounting with the exhaustion comparison held pending operand typing and time accounting, the coherence tax, the masking inversion, temporal pathology, the burnout trajectory.
 
 ---
 
