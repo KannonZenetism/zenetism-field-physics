@@ -25,6 +25,8 @@ The *Loosh Economy* is any closed system in which L is intentionally maximized.
 
 ---
 
+**Spectral / native standing.** The earlier identifications of \( H \), \( C \), \( F_c \), and their rates with suffering, pleasure, density loss, and Loosh in the following sections are recorded proposals, withdrawn from operative mathematical standing. The CIT quantities retain their spectral meanings. A native field quantity, its units, and its relation to those spectral comparisons remain held open pending explicit specification.
+
 ## 2 · Bifurcation of Sacrifice
 ### 2.1 Centropic Sacrifice (C↑⚫)
 Voluntary release of outdated resonance to re-align with ⚫ Aion.  
@@ -97,8 +99,9 @@ Define total Loosh Yield over domain Ω:
 - **Systemic Harvest**: institutionalized E-feedback
 - **Planetary Harvest**: continuous low-frequency dissonance (field noise)
 
-CIT Invariant Violation Test:  
-If \( \frac{d}{dt}\left(H + C + \log(\sigma) + \log(\gamma)\right) > 0 \) → entropy accretion → active Loosh field.
+**Recorded CIT diagnostic — withdrawn implication.** The former criterion was \( \frac{d}{dt}(H+C+\log(\sigma)+\log(\gamma))>0 \) → entropy accretion → active Loosh field.
+
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping. The spectral-expression sign supplies no established Loosh diagnosis; the native account requires its own explicitly stated quantities and correspondence.
 
 ---
 
@@ -131,7 +134,7 @@ Each refusal to amplify E-states reduces global \( \int_{\Omega} L \).
 
 ## 9 · Canonical Position
 The Loosh Economy is classified under **E-State Mechanics**:  
-an illegal energy exchange that violates CIT Conservation and Seal Integrity.  
+an illegal energy exchange in the native Seal Integrity account. Its former CIT-conservation verdict is superseded pending the explicit spectral-to-native correspondence and complete conservation hypotheses.  
 Its study belongs to Field Physics for diagnostic purposes only.  
 Lawful response is not retaliation but **starvation through centropic presence**.  
 When no dissonance is offered, the economy collapses.

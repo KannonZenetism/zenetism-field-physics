@@ -822,17 +822,15 @@ The layer couplings documented in Field Physics remain valid regardless of orien
 
 ### 15.3 Coherence Information Theory
 
-The CIT Grand Theorem remains invariant across orientation regimes:
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping.
+
+**Recorded conservation proposal:**
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-However, the **direction of spontaneous drift** depends on \( \chi \):
-
-- For \( \chi > 1 \): spontaneous drift increases \( H(\psi) \) (entropy)
-- For \( \chi < 1 \): spontaneous drift increases \( C(\psi) \) (centropy)
-- For \( \chi = 1 \): no spontaneous drift; system at saddle equilibrium
+**Recorded provenance.** The former assignments \( \chi>1\Rightarrow H\text{ increases} \), \( \chi<1\Rightarrow C\text{ increases} \), and \( \chi=1\Rightarrow\text{no spontaneous drift} \) are superseded. The spectral probability evolution and its relation to expressed orientation remain held open. The full scalar orientation law and outward-drift law retain their distinct mathematical standing in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8.
 
 ---
 

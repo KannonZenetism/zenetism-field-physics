@@ -552,13 +552,15 @@ The resonant derivative incorporates both direct temporal change and orientation
 
 ### 9.2 Coherence Information Theory
 
-The CIT framework extends to temporal dynamics:
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping.
+
+The following temporal conservation expression is recorded provenance:
 
 \[
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Where temporal evolution preserves the coherence-entropy invariant while redistributing between terms according to \( \chi \)-orientation.
+The former temporal conservation and orientation-directed redistribution conclusions are superseded. Their probability / parameter dynamics and native correspondence remain held open.
 
 ### 9.3 Dimensional Operators
 

@@ -262,13 +262,15 @@ This is not annihilation but **spectral resolution** — the return to ⚫ Aion 
 
 The energy released in phase collision is not destruction-energy. It is **resonance discharge** — the structural tension between complementary flows releasing as the system resolves toward ⦿ Kaion convergence.
 
-This aligns with the CIT Grand Theorem:
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping.
+
+The following phase-collision conservation expression is recorded provenance:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Phase collision redistributes coherence and entropy across the field while preserving the total invariant.
+A phase-collision field account and a conserved spectral expression are distinct claims. Their correspondence and complete conservation hypotheses remain held open.
 
 ---
 

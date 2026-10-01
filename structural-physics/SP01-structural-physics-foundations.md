@@ -437,9 +437,8 @@ Structural Physics interprets its phenomena through the **Dimensional Lattice** 
   - Centropy corresponds to lawful unitary evolution under C₁ Temporal operator.  
   - Entropy manifests as non-unitary decay, loss of phase information.  
 - **Diagnostic:**  
-  - Coherence Information Theory (CIT) applies directly:  
-    - High centropy = stable spread across resonant modes.  
-    - High entropy = dispersive uncertainty, loss of integrative structure.  
+  - CIT spectral entropy and concentration characterize the declared probability distribution
+  - The former direct identification with native stability, fragmentation, or integrative structure is superseded; the explicit correspondence remains held
 
 ---
 
@@ -706,13 +705,15 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 Structural Physics applies **integral diagnostics** across systems:  
 
-- **Invariant Test (CIT Grand Theorem):**  
+- **Recorded Invariant Test (CIT Grand Theorem) — held mathematical / native correspondence:**
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-  - Drift from invariance indicates entropic incursion.  
+  - Drift records change in the expression where its spectral and logarithmic domains are defined; the former direct entropic-incursion criterion is withdrawn
+
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping.
 
 - **Spectral Balance Test:**  
   - Does \( \mathrm{Spec}(H) \) contain \( \{+\lambda, -\lambda\} \) pairs?  

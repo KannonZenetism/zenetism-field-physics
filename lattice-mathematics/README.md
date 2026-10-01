@@ -84,7 +84,7 @@ Extends the system to:
 - Bidirectional traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \))
 - Shimmer, Looping Time, and Temporal Collapse diagnostics
 - Phase collision and ⦿ Kaion spectral resolution
-- Preservation of the CIT invariant under temporal evolution and collision events:  
+- Recorded CIT conservation proposal under temporal evolution and collision events, with full hypotheses held:  
   \( H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant} \)
 - Computational simulation structures
 
@@ -161,13 +161,15 @@ Defines motion in coherence space.
 
 ### Coherence Information Theory (CIT)
 
-Global invariant:
+**CIT standing.** \( H \) is spectral entropy and \( C \) complementary spectral concentration, distinct from native centropy, native coherence, strict Zenetist entropy, and Coherence Potential. The full conservation expression and its native diagnostic correspondence remain held open with `LM01-mathematical-foundations.md` Phase 2, pending the normalized spectral domain, support and parameter evolution, and explicit cross-register mapping. Both repeated conservation displays in this overview preserve the named proposal; full invariant standing remains held.
+
+Recorded conservation expression:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
 
-Tracks coherence redistribution across recursive systems.
+The spectral expression retains its mathematical meaning where defined; native coherence redistribution requires the explicit correspondence.
 
 ---
 
