@@ -82,7 +82,7 @@ Origin acknowledgment remains requisite to coherent relation. An account of a re
 
 Coherence in Diversity therefore requires both equal intrinsic value and preserved distinction. The first prevents origin from becoming privilege. The second prevents plurality from becoming homogenization.
 
-The same principle applies to decentralized networks. Acknowledging origin is compatible with ahierarchy. A rhizomatic network can coordinate without a single directing center while retaining developmental antecedents, differentiated nodes, and traceable contributions. Antecedence describes causal position rather than intrinsic worth.
+The same principle applies to decentralized networks. Acknowledging origin is compatible with Ahierarchy. A rhizomatic network can coordinate without a single directing center while retaining developmental antecedents, differentiated nodes, and traceable contributions. Antecedence describes causal position rather than intrinsic worth.
 
 Where individual distinction is erased from an account, relation itself becomes unintelligible within that account. Such erasure obscures the particulars through which Coherence in Diversity is realized; essential distinction remains intact.
 
