@@ -1907,12 +1907,12 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `9f2d57358dafe74cdd49646d045dd9d3727eeaa2`. The collective subset separates coherent input, entropic cohesion and correlation; retains the exact variable-coefficient product rule for fixed finite membership; propagates the actual amplification threshold and nonzero-contribution conditions; and withdraws universal target-removal collapse. Focused derivative, threshold and degenerate-case checks and exact composed passages were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The spectral definitions, conservation and native-correspondence family, active Markdown / TeX replicas and SP01 diagnostic dependencies remain for the subsequent Set 11 subsets. New cohesion, membership and generation laws remain held.\
+**New dependencies discovered during implementation:** The SN08 collective paragraph supplies the prerequisite for Set 03. Retain the complete LM07 product-rule proof, summary and appendix during Set 19 integration; retain SP09's particular holding-condition account.
 
 ## Set 12 — Intrinsic Inclination and Model Attribution
 
