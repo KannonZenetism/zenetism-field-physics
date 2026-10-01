@@ -2230,18 +2230,19 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `91854539ea0a5a613fee57b256e9925d55187191`. Gross replenishment minus actual expenditure is synchronized across the recovery integrals, legends, rest account and named burnout boundaries. Rest savings are counted once; both direct integral exhaustion replicas include equality; compensation operands are explicitly held. Rest and zero-boundary numerical witnesses passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** SN05 §2.6, Appendix B and Appendix C Definition 6 still name the strict composite-cost / budget comparison as Composite Budget Exhaustion. Its amount / rate / time relation and distinction from stock reaching zero require an exact current-standing disposition. Registered reconnection naming and future rate construction remain held separately.\
-**New dependencies discovered during implementation:** SN08's four recovery conditions, SN11's assessment, the SN glyph chart and analytic recovery rows required matched scope. Fresh combined review identifies SN05's separate composite-budget family; the integral burnout correction does not resolve it.
+**Implementation commit:** `91854539ea0a5a613fee57b256e9925d55187191` (set14); `90b071738f5ee8c1ad5606ae5718eda379b0b09f` (set14-sn05-exhaustion-supplement). The separate composite-budget family is now explicitly held pending compatible operands and time accounting in SN05, its README summary and the analytic framework. Both strict crisis displays remain recorded; the inclusive cumulative-exhaustion account is unchanged. Exact mathematical, code and direct-replica checks passed.\
+**Residual holds / unresolved findings:** Composite operand types, units, time relation and supported crisis implication remain held for mathematical specification. The bounded standing correction is complete; no guessed sign, replacement rate or compensation law is supplied. The registered reconnection-name question remains distinct.\
+**New dependencies discovered during implementation:** SN05 §2.6, §7 item 3, Appendix B and Definition 6, the SN README and analytic §6.7.2 form the previously missed direct family. LM06 projected-cost admission and continuous-rate recovery are distinct typed accounts.
 
 **Implemented active paths:**
 
 - `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `structural-neuroscience/README.md`
 - `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
 - `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
 - `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
