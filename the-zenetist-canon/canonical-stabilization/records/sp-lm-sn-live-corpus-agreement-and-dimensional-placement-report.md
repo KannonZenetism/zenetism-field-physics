@@ -2366,21 +2366,23 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `a1052410fb3a453695fc73c82b59a65dba5ad52b` (set17-candidate + set17-sn05-supplement). SN05's body, summary and appendix now distinguish surface / operative comparison and diagnostic inversion from C₁₃ selective boundary and E₁₃ Wall. Wall remains where impermeable isolation is established. Exact mathematical content and composed Set 04 / 13 / 14 / 18 passages were verified. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** Fresh combined review locates SN10's suppression-induced-distortion paragraph still identifying C₁₃ Membrane as the function detecting institutional Shimmer. This direct replica of the corrected SN05 account remains for exact disposition. New registration, threshold mathematics and primary-locus selections remain held; the pathologization archive remains historical.\
-**New dependencies discovered during implementation:** SN05 §3.1, §3.3, §3.6, summary item 6 and the definition / notation appendices repeat the same function mismatch. Set 19's shared §3.6 paragraph preserves this separate-assessment distinction; Set 18 retains clinical scope.
+**Implementation commit:** `a1052410fb3a453695fc73c82b59a65dba5ad52b` (set17-candidate + set17-sn05-supplement); `3bfdbee07f8694d005f706c996f7a8f004c7ea66` (set17-sn10-assessment-supplement + set17-sp-reference-names-supplement). The SP mathematical reference now records current C₅ Scalar / Part-Whole Fidelity and E₅ Scalar Noise, preserving former names as provenance and retaining all glyphs, functions and lawful mathematical fractal contexts. This completes the inspected active function / reference correction, including SN05 and SN10 dependencies.\
+**Residual holds / unresolved findings:** Every primary-locus selection and any new diagnostic registration / mathematical threshold remains held. D18 retains its complete registered group; no successor label is installed.\
+**New dependencies discovered during implementation:** The SP and LM mathematical references differed on the C₅ / E₅ names at the original audit. The active SP instruction now agrees with FP11 and its glyph chart without changing the registry.
 
 **Implemented active paths:**
 
 - `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
 - `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md`
 - `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
 - `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
 - `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 
 ## Set 18 — Empirical and Clinical Standing
