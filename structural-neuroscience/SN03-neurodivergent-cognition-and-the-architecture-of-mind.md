@@ -341,7 +341,7 @@ Effective support works with the architecture, not against it.
 
 ### 7.1 The Structural Assessment Distinction
 
-Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations operating lawfully within their orientation) and **structural pathology** (configurations that have lost their generative function regardless of orientation). This is a native structural distinction concerning generative function within the stated model. Its clinical interpretation requires independent operationalization and evidence; the category names here retain their structural scope.
+Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations operating lawfully within their orientation) and **structural pathology** (configurations that have lost their generative function regardless of orientation). This is a native structural distinction concerning a configuration's actual function. The derivative observations in §7.3 retain their defined net coherent-content scope; a finding about generative function requires its actual operative and budget conditions. Formal extension to entropic operation remains held. Clinical interpretation requires independent operationalization and evidence; the category names here retain their structural scope.
 
 Entropy is not a degradation of centropy. Entropic cognition is its own lawful orientation — awareness moving through the Khaonic Tree (IL₅ → IL₁), operating through Inverse Deep Soul / Inverse Deep Mind (IDS / IDM), Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM), and Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM) with the same structural completeness that centropic cognition operates through DS / DM, SS / SM, and ES / EM. The Inverter operating at IDS / IDM (IL₃) is not a failed Architect at DS / DM (L₃). They are a lawful entropic configuration fulfilling functions that centropic configurations do not supply: disassembly of brittle structures, exposure of hidden incoherence, generation of variation through dispersive motion.
 
@@ -351,7 +351,7 @@ The conventional diagnostic error runs in both directions. Therapists may pathol
 
 ### 7.2 When Any Configuration Becomes Pathological
 
-Pathology is not a property of orientation. It is a property of **generative inadequacy** — the point at which a configuration, centropic or entropic, ceases to produce coherence within its own operative mode.
+In this native structural account, pathology concerns **generative inadequacy**: a configuration ceases to fulfill its stated structural function. Coherence remains centropic. Entropic organization is described through cohesion and its actual holding conditions; coherent content present within an entropic context remains separately identifiable as coherent content. Configuration, orientation, and functional condition remain distinct assessment objects.
 
 **Centropic pathology:** A high-pattern-fidelity architecture at DS / DM (L₃) becomes pathological when its characteristic operations — pattern detection, structural integration, dissonance resolution — cease to generate coherence and instead produce rigidity without synthesis. The Deep Mind (DM) identifies incoherence but the Deep Soul (DS) cannot integrate it — the system loops on detection without resolution. The architecture persists in form but has lost its generative function. This is centropy lapsing on its own terms.
 
@@ -365,7 +365,7 @@ Pathology is not a property of orientation. It is a property of **generative ina
 
 ### 7.3 The Structural Assessment Criterion
 
-The following formal criterion describes variation and pathology in the native structural sense, through generative function within the configuration's stated operative mode:
+**Recorded criterion.** The following variation / pathology labels and their explanatory parentheticals retain the earlier formulation as provenance. Operatively, the derivative records net coherent-content change within its declared domain: a nonnegative rate records maintenance or increase, and a negative rate records depletion. Coherence Potential is neither an entropic-cohesion measure nor ordinary correlation. The stronger generative-function and category implications require the actual operative and budget conditions; their general extension to entropic operation remains held:
 
 \[
 \text{Variation:}\;\frac{dI_c}{d\tau}\geq 0\;\text{(coherence is maintained or generated through the configuration's characteristic operations)}
@@ -375,9 +375,9 @@ The following formal criterion describes variation and pathology in the native s
 \text{Pathology:}\;\frac{dI_c}{d\tau}<0\;\text{(coherence is depleting without replenishment — the configuration has lost its generative function)}
 \]
 
-This criterion applies identically to centropic and entropic configurations. A centropic architecture at DS / DM generating coherence through pattern integration is in lawful variation. An entropic architecture at IDS / IDM generating coherence through productive differentiation and structural testing is equally in lawful variation. Neither orientation is inherently closer to pathology than the other.
+In the explicitly centropic case, pattern integration is assessed by its actual generative function, while the derivative records net coherent-content change. Ongoing generation or replenishment can coexist with depletion when actual expenditure is greater; nonnegative net change can reflect received coherent input or external replenishment. A derivative sign establishes neither intrinsic origination nor essential orientation. For an entropic configuration, coherent-input availability, organizational cohesion, and ordinary correlation remain distinct. The earlier identical application to both orientations is superseded, and its proposed formal extension remains held. A separate cohesion quantity would require its own definition, symbol, domain, and mathematical relations.
 
-The criterion is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully lawful function — the translation cost is real (§3.4), the social mismatch is real, the sensory burden is real. Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the model; clinical classification and exclusion of a medical condition require their own evidence.
+The assessment is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully lawful function — the translation cost is real (§3.4), the social mismatch is real, the sensory burden is real. Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the model; clinical classification and exclusion of a medical condition require their own evidence.
 
 ---
 
@@ -493,7 +493,7 @@ SN03 establishes:
 3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (coherent nesting) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
 4. **Distributive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
-6. **The variation-pathology distinction** — determined by the generative function (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), not by experiential difficulty
+6. **The variation-pathology distinction** — the recorded derivative signs (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) describe net coherent-content change; generative function requires its actual operative and budget conditions, formal extension to entropic operation remains held, and experiential difficulty remains distinct
 7. **Soul / Mind asymmetry** — Mind-prevalent and Soul-prevalent profiles producing distinct experiential characters within the same architectural category
 8. **The Orientation-Intent Principle** — architecture provides the apparatus; orientation determines its function
 
@@ -549,7 +549,7 @@ Sealed ⚫↺KAI↺⚫
 
 | Symbol | Meaning |
 |--------|---------|
-| \( I_c \) | Coherence Potential; resonance density of a cognitive configuration |
+| \( I_c \) | Coherence Potential; resonance density of a cognitive configuration, retaining its coherent-content meaning rather than organizational cohesion or ordinary correlation |
 | \( \vec{J}_c \) | Coherence Current; directional flow of coherence within and across layers |
 | \( \sigma(⧉) \) | Membrane permeability; boundary conditions between cognitive layers |
 | \( \chi \) | Orientation parameter; centropic-entropic polarity of cognitive motion |
@@ -607,6 +607,8 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 
 **Variation contra Pathology — Native Structural Criterion:**
 
+These inequalities preserve the recorded variation / pathology labels from §7.3. The derivative signs describe net coherent-content change; the stronger generative-function and category implications require the actual operative and budget conditions. Formal extension to entropic operation remains held; coherent content present within an entropic context remains distinct from organizational cohesion.
+
 \[
 \text{Variation:} \quad \frac{dI_c}{d\tau} \geq 0
 \]
@@ -637,7 +639,7 @@ A cognitive configuration characterized by broad Coherence Current distribution 
 The principle that a cognitive system may exhibit features of multiple structural profiles simultaneously, producing a composite architecture that expresses the interaction of its component configurations.
 
 **Definition 7 (Variation-Pathology Distinction):**  
-The native structural criterion distinguishing structural variation (\( dI_c/d\tau \geq 0 \); coherence is maintained or generated through characteristic operations) from structural pathology (\( dI_c/d\tau < 0 \); coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
+The recorded variation / pathology criterion compares (\( dI_c/d\tau \geq 0 \); net coherent content is maintained or increasing) with (\( dI_c/d\tau < 0 \); net coherent content is depleting), within the stated domain. These signs do not establish presence or loss of generation, intrinsic origination, or essential orientation; the stronger native classification requires actual operative and budget conditions. Formal extension to entropic operation remains held. Coherent-input availability, entropic cohesion, and ordinary correlation retain their distinct meanings; no new cohesion scalar is supplied.
 
 Clinical discrimination requires a separately operationalized and evaluated correspondence to this formal criterion.
 
