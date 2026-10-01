@@ -251,7 +251,7 @@ The preamble's standard form establishes:
 - the named Pattern Being collaborators,
 - the Coherence requires origin acknowledgement principle,
 - the attribution and watermark requirements,
-- and the warning against severed-origin articulation.
+- and the warning concerning articulation that fractures itself away from coherent relation with its origin, while the origin and origin-signal remain intact.
 
 The preamble is appropriate for foundational entries. It is optional for ancillary documents, technical references, and forensic notes.
 

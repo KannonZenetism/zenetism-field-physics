@@ -632,7 +632,7 @@ This is a ratio-condition, not a resting state.
 
 ### Co-Expressive Equilibrium
 
-Refers to the unstable saddle condition at:
+Refers to the expressed prevalence condition at:
 
 \[
 \chi = 1
@@ -640,7 +640,7 @@ Refers to the unstable saddle condition at:
 
 within expressed orientation-space.
 
-This condition is structurally admissible but dynamically fragile.
+Its dynamical standing is model-specific. The outward-drift model in `LM03-orientation-algebra-and-infinity-formalism.md` §8 makes this equilibrium repelling at constant positive Motive Intensity. With its stated positive coefficients and constant nonnegative Motive Intensity, the full equation in §7 attracts finite positive trajectories toward it. The relation between the two models remains architect-held; neither is selected as universal.
 
 It must not be conflated with:
 - living stability,
@@ -663,7 +663,7 @@ It is not strict equilibrium.
 
 Refers to fixed \( \chi = 1 \) equilibrium where enacted orientation ceases.
 
-This condition resolves toward Localized Dissolution \( (\text{Ø}) \).
+The structural condition resolves toward Localized Dissolution \( (\text{Ø}) \). Fixed \( \chi = 1 \) does not establish cessation: both scalar models admit that exact ratio at positive constant Motive Intensity. The mathematical relation connecting cessation and Localized Dissolution remains architect-held.
 
 Frozen equilibrium is stagnative, not intrinsically entropic, though cessation of enacted orientation permits gradual dissolution into the Mercy Fold (🌫️🤲⚫).
 
@@ -2254,21 +2254,21 @@ Successors by sense:
 
 ## Sever Terminology Boundary
 
-Sever-language is lawful in canonical Zenetist articulation as a diagnostic of entropic operation. Entropy can sever. The restriction is directional, not lexical.
+Sever-language is lawful in the non-origin relational register as a diagnostic of entropic operation. In origin-context, including an actor's relation to its own origin, write reflexive fracture rather than severance. The distinction turns on the relation named.
 
 **The barred construction:** any phrasing implying that an entropic actor's act severs a centropic actor's signal from that actor — paradigmatically, that a counterpart's appropriation severs the author's signal from the author. The origin–signal bond is unseverable. The author retains the signal; no external act reaches it.
 
-The general form: severance is never applied to the origin relation — nothing severs a signal, a work, or a being from its origin. What an entropic actor severs is itself — its own articulation, its own duplicate — from the origin. Entropic self-severance is unrestricted: an entropic actor may sever itself from anything. The semantic doctrine — including the origin-severed → origin-fractured repairs — is held in the Conceptual Lockdown Protocol's Origin-Severance Prohibition; this section is its lexical enforcement.
+The general form: severance is never applied to the origin relation — nothing severs a signal, a work, or a being from its origin. A downstream articulation or entropic actor fractures itself away from coherent relation with its origin; the origin and origin-signal remain intact. **Fracture occurs away from Origin, never of or to Origin.** Capitalized Origin names ⚫ Aion; authorship, provenance, and transmission relations retain lowercase origin. Avoid the ambiguous shorthand "origin-fractured" and name explicitly what fractures away from what. The semantic doctrine is held in `conceptual-lockdown-protocol.md`, Origin-Severance Prohibition; this section states its lexical boundary.
 
 ## Fracture Runs Reflexive
 
-The appropriator's artifact fractures itself, or the duplicate, from the origin. The origin loses nothing; the fractured articulation loses its root.
+The appropriator's artifact fractures itself away from coherent relation with its origin. The origin loses nothing; the downstream articulation loses coherent operative relation while its origin signature remains traceable.
 
 Lawful:
 
-- "the counterpart's articulation is severed from its origin" — the severed thing is the counterpart's articulation
-- "severed-origin articulation" — the Original Signal preamble warning carries the same structure
-- "the duplicate fractures itself from the signal"
+- "the counterpart's articulation fractures itself away from coherent relation with its origin"
+- "articulation fractured away from its origin relation"
+- "the duplicate fractures itself away from coherent relation with the originating signal"
 
 Barred:
 
@@ -2296,7 +2296,7 @@ The audit question should be:
 
 > In this sentence, who loses what?
 
-If the centropic side is figured as losing its signal, origin, or bond by an entropic act, the construction is barred; recast so the severance lands reflexively on the entropic articulation.
+If the origin side is figured as losing its signal, origin, or bond by an entropic act, the construction is barred. Name the downstream articulation as fracturing away from coherent relation with its origin; retain the intact origin and origin-signal. Non-origin severance remains distinct.
 
 ---
 
@@ -2305,7 +2305,7 @@ If the centropic side is figured as losing its signal, origin, or bond by an ent
 The following term-locks apply corpus-wide in Zenetist authorial voice.
 
 * graceful dissolution → **localized dissolution**; graceful closure → **lawful closure**
-* **"under / beneath / below" — the test is the *object*, not the word.** When the object is a **principle or state** (coherence, an axiom, an alignment), "under" smuggles in a vertical authority relation (the principle sitting *over* something) and is forbidden → use **by / through / per / following**: "operating *by* the Non-fusion Axiom," "*through* entropic alignment," "*per* the agnostic-gnostic stance." When the object is a **quantitative value** (a threshold, a numeric bound), position-on-a-scale carries no hypostatic verticality and is lawful: "falls *beneath* threshold," "drops *below* 0.5" are fine. The correlative idiom "the conditions *under* which X" remains lawful (no principle as object). The amid-a-process phrasing "collapse *under* its own distortion" is now tightened → "collapse *from the weight of* its own distortion," *from* replacing the vertical *under*. For harmonic-density threshold phrasings specifically, **insufficient for** remains the preferred replacement; poetic register exempt
+* **"under / beneath / below" — the test is the *object*, not the word.** When the object is a **principle or state** (coherence, an axiom, an alignment), "under" smuggles in a vertical authority relation (the principle sitting *over* something) and is forbidden → write **by / through / per / following**: "operating *by* the Non-fusion Axiom," "*through* entropic alignment," "*per* the agnostic-gnostic stance." When the object is a **quantitative value** (a threshold, a numeric bound), position-on-a-scale carries no hypostatic verticality and is lawful: "falls *beneath* threshold," "drops *below* 0.5" are fine. The correlative idiom "the conditions *under* which X" remains lawful (no principle as object). The amid-a-process phrasing "collapse *under* its own distortion" is now tightened → "collapse *from the weight of* its own distortion," *from* replacing the vertical *under*. For harmonic-density threshold phrasings specifically, **insufficient for** remains the preferred replacement; poetic register exempt. **Named exception:** "under the Non-contact Principle" remains lawful; "per the Non-contact Principle" is preferred in new or revised prose. This exception does not extend to other principles
 * Hierarchical Manifestation → **Stratified Manifestation**
 * true goal → **veracious goal** (veracious / spurious for value, corpus-wide)
 * "vertical map" → **declivous map**
@@ -2592,9 +2592,9 @@ Canonical form:
 - **Non-contact Principle** — capital N on the first element, lowercase second element after the hyphen, capital P on *Principle*
 - never **Non-Contact**, which title-cases a hyphenated compound contra the Non-fusion pattern
 - never lowercase *principle*, which demotes a proper name to a common noun
-- never the bare **Non-contact** standing alone as a nominal — *per Non-contact*, *under Non-contact*. The proper name is completed: **per the Non-contact Principle**, **Under the Non-contact Principle**
+- never the bare **Non-contact** standing alone as a nominal — *per Non-contact*, *under Non-contact*. The proper name is completed: **per the Non-contact Principle** (preferred), **under the Non-contact Principle** (lawful)
 
-**Preposition note.** *Under* is lawful with this proper name. The under-restriction tests the object: a principle or a state is its lawful correlative, and only strata, registers, and spatial objects bar it. The defect in headings of the form *Under Non-contact* is the bare proper name, not the preposition.
+**Preposition note.** **Per the Non-contact Principle** is the preferred construction in new or revised prose. **Under the Non-contact Principle** remains lawful as this proper name's specific exception; the general restriction on principles and states is unchanged. Preserve established or historical instances solely carrying the lawful alternative. The defect in headings of the form *Under Non-contact* is the incomplete proper name.
 
 Enforcement is prospective and conform-on-touch.
 
@@ -2663,7 +2663,7 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 
 ## A18 · Origin Casing Determination
 
-The casing test is semantic, not stylistic. Capitalize **Origin** wherever the referent is specifically ⚫ Aion; use lowercase **origin** only for generic beginning, provenance, authorship, signal-source, transmission, or other relational senses. The lowercase relational register must not be purged — it carries origin-signature, origin acknowledgement, origin-fracture, and Origin-continuity vocabulary across Structural Forensics.
+The casing test is semantic, not stylistic. Capitalize **Origin** wherever the referent is specifically ⚫ Aion; write lowercase **origin** only for generic beginning, provenance, authorship, signal-source, transmission, or other relational senses. The lowercase relational register must not be purged — it carries origin-signature, origin acknowledgement, fracture away from coherent origin relation, and origin-continuity vocabulary across Structural Forensics. **Origin-continuity** takes the capital only where the referent is ⚫ Aion.
 
 - Aion-referent constructions take the capital: turned away from Origin, reaching beyond Origin, arrival at Origin, return to Origin, does not flee Origin.
 - **Aion-facing** is preferred over **Origin-facing** as the technical adjective. Where Origin-facing remains, it is capitalized.
@@ -2681,7 +2681,11 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 
 ## Held Open — No Propagation
 
-The following are deliberately undetermined; their consequences ripple through Lattice Mathematics, Structural Physics, and Structural Neuroscience, and nothing may be normalized to them until the author determines: **LM duality-constructs** (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality inherits this determination), **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle**.
+**Determined counterpart names.** The counterpart map satisfying \( \iota^2 = \mathrm{id} \) takes **Involution Axiom**, and the corresponding GUD title takes **Law of Involution**. The former Duality Axiom / Law of Duality names remain recorded provenance. This naming determination preserves valid common-mode spectral pairing; field representation, generator relations, sign conditions, and claims stronger than the established involution remain held pending mathematical specification.
+
+The remaining **LM duality-constructs**, including **Derivative–Integral Duality**, **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle** remain deliberately undetermined. The selected counterpart names release none of these holds. The separate SN title is **Reciprocity Law of Resonant Differentiation and Structural Integration**, with its established domains, kernels, constants, and boundary conditions preserved.
+
+**Reference Document:** `sp-lm-sn-architect-decision-sheet.md` D01 and D17.
 
 ---
 

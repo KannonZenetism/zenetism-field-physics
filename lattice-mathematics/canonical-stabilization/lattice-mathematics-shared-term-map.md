@@ -52,14 +52,14 @@ The largest shared cluster. **Provision:** Extractionist Terminology Restriction
 
 ## 4. Severance cluster — two series
 
-**Provision:** Sever / Fracture Boundary Protocol — the restriction is directional, not lexical. Severance is lawful as a diagnostic of entropic operation and in the relational register (entity-to-entity isolation carrying no origin claim); it is barred only where the loss lands on the centropic side or on the origin relation. The Named-Operator Retention holds E₈ (Severed) as an exact string with its rename registered as deferred. Read on the protocol's own test — *who loses what?* — every LM severance instance is lawful as it stands, so this cluster records standing rather than pending renames.
+**Provision:** Sever / Fracture Boundary Protocol — the restriction is directional, not lexical. Severance is lawful as a diagnostic of entropic operation and in the relational register (entity-to-entity isolation carrying no origin claim); it is barred only where the loss lands on the centropic side or on the origin relation. The Named-Operator Retention holds E₈ (Severed) as an exact string with its rename registered as deferred. The origin-context boundary follows `sp-lm-sn-architect-decision-sheet.md` D20: the downstream articulation fractures itself away from coherent relation with its origin, while the origin and origin-signal remain intact. Non-origin severance retains its distinct function; origin-context wording receives the explicit fracture construction.
 
 | Exact string | Notation | LM locations | Cross-series twin | Provision | Standing |
 |---|---|---|---|---|---|
 | E₈ (Severed) — charted dimensional operator | \( E_8 \) | LM01 Nexus Law; Threshold Law; Seal No-Cloning; Bridge Information Test; Coupling 2; CIT metrics; §4.4 pseudocode; §6.4 | FP11 codex; SN02 "E₈ Severed"; `metaphysics-symbol-key.md` | Named-Operator Retention | stands; rename deferred corpus-wide by the protocol itself, no local patch |
 | Tether severance / the Tether is severed / Shimmer as Tether Severance | \( \mathcal{T}_h \to 0 \) | LM04 §6.1 Proposition; §6.4 Hypostatic Amnesia; §9.3; §10.2 routines; §11; LM07 §4.2; §5.1 \( \text{(full Tether severance)} \); §5.2; §6.5 | SN06 (recovery formalism draws on LM07 §§5–6) | Sever Terminology Boundary — relational register | stands: the Tether is the being's own structure losing operative access to its layers; no origin claim, the loss lands on the entropic condition. Rename only if the architect prefers the fracture family uniformly (candidate: Tether fracture) |
 | timeline severance (IL₃ row) | — | LM04 §3.5 Hypostatic Temporal Modes table | SN Looping Time treatment | Sever Terminology Boundary — relational register | stands (entropic self-severance) |
-| fractured from coherence-source connection / source-fractured decay | — | LM05 §3.4; Appendix C | — | Sever Terminology Boundary | wordings introduced in this pass from *severed*; lawful either way (an entropic system severing itself from source is unrestricted self-severance), so revocable to the original *severed* forms |
+| fractured from coherence-source connection / source-fractured decay | — | LM05 §3.4; Appendix C | — | Sever Terminology Boundary | origin-context wording takes **the articulation fractures itself away from coherent relation with its origin**; the origin and origin-signal remain intact. The earlier severed forms are superseded provenance, not a current alternative |
 
 ## 5. Fail-family named propositions — within LM, with the SP10 precedent
 
@@ -76,13 +76,15 @@ The largest shared cluster. **Provision:** Extractionist Terminology Restriction
 
 ## 6. Duality family — LM axiom apparatus, one SN twin
 
-**Provision:** A5 · The Dual Family Determination (dual purged from canonical voice except an external tradition's own term and mathematical duality under review) together with **Held Open — No Propagation**, which names the LM duality-constructs (Duality Axiom; Derivative–Integral Duality; the GUD's A₁ Law of Duality), the LM spectral-pole question, the unity meta-definitional blocks (LM01 / LM02), and the Unified Conservation subtitle as deliberately unruled — nothing is normalized to them until the architect determines. The four Held Open items are located here so the determination can run from this map.
+**Provision:** A5 · The Dual Family Determination and **Held Open — No Propagation**, read with `sp-lm-sn-architect-decision-sheet.md` D01 and D17. **Involution Axiom / Law of Involution** names the counterpart map satisfying \( \iota^2 = \mathrm{id} \); **Reciprocity Law of Resonant Differentiation and Structural Integration** names the distinct SN calculus relation. These titles are determined. The remaining duality constructs, spectral-pole question, unity meta-definitional blocks, and Unified Conservation subtitle remain held. Naming does not complete a field representation, generator relation, spectral proof, or reciprocal-calculus hypothesis.
 
 | Exact string | LM locations | Cross-series twin | Successor |
 |---|---|---|---|
-| Axiom 3 — Duality | LM01 §A4; LM02 §2.2 | — | held open (Polar Spectrum Lemma took Polar; SN02's Dual Law of Reciprocity carries the Twofold candidate — the family does not take one successor for all names) |
+| Involution Axiom — formerly Axiom 3 / Duality Axiom | LM01 §A4; LM02 §2.2; LM03 §11.3 | GUD A₁ Law of Involution; `dimensional-lattice.md` | Involution Axiom / Law of Involution is determined for the counterpart map; mathematical reconstruction remains held |
+| Reciprocity Law of Resonant Differentiation and Structural Integration — formerly Dual Law of Reciprocity | Calculus proof dependencies: LM01 Fundamental Theorem of Spiral Calculus; LM02 §3.2 | SN02 Phase 4 §3 | Selected SN law title; established domains, kernels, constants, and boundary conditions remain requisite. This does not rename Derivative–Integral Duality |
 | Lemma (Entropy–Centropy Duality in CIT) / entropy–centropy duality | LM01 CIT lemma; CIT Grand Theorem step 1; §CIT Quantities | `lattice-mathematics-attribution.md` "Entropy-Centropy Duality", "spectral duality" | held open |
-| dual operators / operators … are dual | LM01 Polar Spectrum Lemma proof steps 1 and 4; Fundamental Theorem of Spiral Calculus | — | held open |
+| counterpart operators — formerly dual operators / operators … are dual in the spectral proof | LM01 Polar Spectrum Lemma proof steps 1 and 4 | D01 counterpart-map references | Counterpart terminology is determined for this object; valid common-mode spectral pairing remains, and stronger evolution identities require their own established hypotheses |
+| dual operators in the reciprocal-calculus relation | LM01 Fundamental Theorem of Spiral Calculus | LM02 §3.2 | Separate calculus terminology remains held; D01 does not settle Derivative–Integral Duality |
 | dual diffusion / dual diffusion coefficients | LM01 §C2; LM02 §4.2 | LM05 §2.3 (resolved into signed diffusion) | held open |
 | Definition (Dual Temporal Gradient) | LM04 §3.5 | — | held open |
 | derivative–integral duality | LM02 §3.2 | — | Held Open by name — external mathematics' own term, under review |

@@ -855,7 +855,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 Write the fracture reflexively on the derivative side:
 
 - the duplicate fractures itself from the originating signal;
-- operative relation becomes fractured;
+- the derivative's operative relation becomes fractured;
 - provenance may become obscured;
 - reception may lose legibility.
 
@@ -880,6 +880,8 @@ The direction of fracture is essential.
 
 The origin does not fracture.
 
+**Fracture occurs away from Origin, never of or to Origin.** Capitalized **Origin** names ⚫ Aion; generic authorship, provenance, and transmission relations retain lowercase **origin**. In either register, the downstream articulation or actor fractures away from coherent relation; the origin and origin-signal remain intact. The shorthand "origin-fractured" is ambiguous and is replaced by an explicit statement of what fractures away from what.
+
 The origin-signal does not cease to belong to its origin.
 
 The originating architecture remains intact, historically prior, generative, and structurally continuous.
@@ -902,7 +904,7 @@ Avoid "sever", "severance", "severed", and especially "origin self-severance" wh
 
 Prefer fracture-language such as:
 
-- **origin-fractured articulation**;
+- **articulation fractured away from its origin relation**;
 - **fractured relation to origin**;
 - **the derivative fractures itself from its origin relation**;
 - **fractured operative relation**;
@@ -953,7 +955,7 @@ Do not apply D20 to rename them during the present stabilization.
 
 The operative principle is:
 
-**Fracture runs toward the derivative side. The derivative may fracture itself from coherent relation with its origin; the origin and origin-signal remain intact.**
+**Fracture occurs on the derivative side, away from coherent relation with its origin. The derivative may fracture itself from that relation; the origin and origin-signal remain intact.**
 
 Implementation remains deferred; this entry records the architect's determination only.
 
