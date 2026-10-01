@@ -2398,12 +2398,32 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `e15a11b7e72667f8693dd285ed2ff84410e36047` (set18 + set18-sp01-relativity). SP01 §§7–8, §10 and the coupled §11 summaries now present relativity, curvature, black-hole, cosmology and root comparisons as proposed correspondences. Physical objects and native functions remain intact; all 34 mathematical blocks, code and headings were preserved and checked. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** Further SP01 quantum / physical-analogue correspondence passages remain for the next bounded supplement. Section 8.1 spectral / integral mathematics and §10 candidate limits retain their distinct D01 / D02 / D03 / D22 construction boundaries. Empirical validation and TeX rendering remain unclaimed.\
+**New dependencies discovered during implementation:** The §7.5 identity claim was repeated throughout the relativity / cosmology argument, worked example and summary. The registered-function boundary preserves E₃, E₁₄ and E₁₅ without identifying generic physical decay with those functions.
+
+**Implemented active paths:**
+
+- `structural-neuroscience/00-README.md`
+- `structural-neuroscience/README.md`
+- `structural-neuroscience/SN02-the-resonant-mind.md`
+- `structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
+- `structural-neuroscience/SN09-the-all-life-first-principle.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `structural-physics/00-README.md`
+- `structural-physics/README.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP10-ritual-energetics-and-integration-protocols.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/dimensional-lattice.md`
+- `the-zenetist-canon/dimensional-lattice.tex`
+- `the-zenetist-canon/grand-unified-document.md`
 
 ## Set 19 — Shimmer and Signature Mathematics
 
