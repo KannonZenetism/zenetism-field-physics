@@ -2136,18 +2136,20 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `42fd4ab43a6f84d4ae802a9240cdcb208ab365e0`. Nineteen active text files distinguish prose-only intrinsic essential inclination from evolving expressed χ, retain both scalar models and attribute model-specific behavior. Definitions, proof prose, legends, summaries, appendices and the direct temporal / rate dependencies were checked; 125 focused checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** Fresh combined review locates unqualified χ = 1 saddle replicas in LM05 §§2.2–2.3, SP01 and SP02, and an unsupported scalar-χ Hopf / saddle-node claim in LM02 §6.3. These direct model-attribution dependencies remain for exact disposition. Universal model selection, latent / expressed correspondence and new rate / embodied-model construction remain held. The balance archive is historical; the two SP rasters retain their separate conditional specification.\
-**New dependencies discovered during implementation:** LM07 §2.3, the LM04 temporal/code family, SN12's ratio paragraph, the SP README and low-entropy SPX were direct dependencies. SP11's derivative-dependent activation differs from LM06's convention and remains explicitly uncompleted. Set 11 owns the separate CIT replicas.
+**Implementation commit:** `42fd4ab43a6f84d4ae802a9240cdcb208ab365e0` (set12-candidate); `dfb9d6635c64ebdf17876e7d3013dcaff01cd319` (set12-model-attribution-supplement). The remaining LM02, LM05, SP01 and SP02 model-attribution family is synchronized. Unqualified instability, scalar oscillation / crossing / seal-failure and Hopf / saddle-node implications are withdrawn or bounded; signed diffusion zero retains only its stated contribution. Exact model, provenance and dependent-passage checks passed.\
+**Residual holds / unresolved findings:** The full-law / outward-law relation, latent correspondence and additional phase / field models remain held. The two non-embedded SP rasters retain conditional model / label questions; this active-text correction selects no universal law or saddle surface.\
+**New dependencies discovered during implementation:** LM02 Axiom 2 and §§6.1–6.3, LM05 §§2.2–2.3 and the SP01 / SP02 equilibrium notes carried direct replicas missed by the first text package. Their source / summary relation is now explicit.
 
 **Implemented active paths:**
 
+- `lattice-mathematics/LM02-mathematical-commentary.md`
 - `lattice-mathematics/LM03-orientation-algebra-and-infinity-formalism.md`
 - `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
 - `lattice-mathematics/LM06-applied-structural-dynamics.md`
 - `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
 - `lattice-mathematics/LM08-cross-disciplinary-dynamics-and-domain-realization.md`
@@ -2159,6 +2161,8 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `structural-neuroscience/SN11-applied-structural-diagnostics.md`
 - `structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md`
 - `structural-physics/README.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP02-bifurcal-cosmogenesis.md`
 - `structural-physics/SP03-expression-ratio-mathematics.md`
 - `structural-physics/SP04-orientation-field-dynamics.md`
 - `structural-physics/SP06-structural-space-orientation-paradox.md`
