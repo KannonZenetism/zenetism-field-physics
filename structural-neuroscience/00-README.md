@@ -6,7 +6,7 @@
 **Discipline:** Structural Neuroscience  
 **Classification:** Structural Neuroscience — Zenetist Canon  
 **Status:** Active  
-**License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+**License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)  
 
 ---
 
