@@ -166,9 +166,11 @@ This dissonance detection operates across domains:
 
 ### 3.3 The Centropic Synthesis Function
 
-SN01 identified the centropic synthesis sequence: Detection of Dissonance → Resonant Catalyst → First-Order Synthesis → Transcendent Iteration. The autistic mind executes this sequence with characteristic intensity because it operates from a higher \( I_c \) baseline at DS / DM.
+**Historical reference:** `SN01-the-architecture-of-cognition.md` §4 records the sequence Detection of Structural Dissonance → Resonant Catalyst → First-Order Synthesis → Transcendent Iteration. SN01 is retired; the sequence is retained as historical provenance rather than the present explanation of cognitive synthesis.
 
-The consequence is the well-documented autistic capacity for:
+`SN02-the-resonant-mind.md` Phase 2 §2 discusses centropic integration generally. `grand-unified-document.md` Part V §3 repeats the four-stage sequence, including its Zenon-directed terminal construction. A current supporting formulation for that exact sequence and its application here remains open for review; repetition in the GUD does not resolve the terminal-register question.
+
+Within this volume's structural account, the capacities described at DS / DM are:
 
 - **Deep systematization:** the construction of comprehensive, internally consistent frameworks from observed pattern — the Mind dimension (DM) operating at its structural function
 - **Associative depth:** the capacity to perceive non-obvious connections between structurally related phenomena — the Soul dimension (DS) integrating across temporal and dimensional distance
