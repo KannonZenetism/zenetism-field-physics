@@ -2187,12 +2187,12 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `6687502836653f499cbffdfbb13c664d750265ef`. Historical reliance in SN03 and the analytic framework is bounded; the SN03 locator is corrected; the atlas identifies live SN02–SN12, retired SN01 and the existing READMEs. Exact citations, mathematical preservation and historical-body checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The exact current supporting formulation for SN03's four-stage synthesis relation remains unresolved. The analytic framework's different four-term sequence likewise lacks support in its former citations. GUD repetition supplies no replacement warrant. No historical body or successor sequence is changed.\
+**New dependencies discovered during implementation:** `grand-unified-document.md` Part V §3 repeats the four-stage sequence with an unresolved Zenon-directed terminal construction. The analytic framework had a different sequence and an inaccurate SN03 locator; the atlas's missing-README statement was stale.
 
 ## D18 Protection Check
 
