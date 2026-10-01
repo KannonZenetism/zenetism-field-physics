@@ -643,8 +643,7 @@ For the full multiversal expression of these cosmological dynamics — including
 ## 9. Structural Physics as Diagnostic
 
 Structural Physics is not only interpretive; it is diagnostic.  
-It provides **tools and criteria** for distinguishing lawful centropy from entropic collapse within physical systems.  
-These diagnostics extend from particles and fields to stars, galaxies, and cosmological arcs.  
+The following diagnostic proposals compare mathematical and physical objects with native functions. A proposed comparison does not establish an operative classifier: its domain, map, hypotheses, and native correspondence must be specified. The spectral, counterpart, and convergence bounds below apply before any physical realization is assessed.  
 
 ---
 
@@ -652,8 +651,9 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 - **Test:** Do spectral ratios align rationally (consonance) or irrationally (dissonance)?  
 - **Diagnostic:**  
-  - Rational ratios → acclivous centropy (stable quantization, coherent modes).  
-  - Non-rational ratios → E₇ dissonance (quasiperiodicity, chaotic drift).  
+  - Recorded implication: rational ratios → acclivous centropy; withdrawn as an orientation or stability test
+  - Recorded implication: non-rational ratios → E₇ dissonance / chaotic drift; withdrawn as a sufficient diagnostic
+  - The defined spectral-ratio comparison retains its mathematical content, but rationality alone supplies neither motion direction nor stability; irrationality alone does not establish chaos or a registered entropic function  
 - **Application:** Atomic spectra, harmonic oscillators, CMB frequency analysis.  
 
 ---
@@ -662,8 +662,8 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 
 - **Test:** Do relational interactions preserve lawful bridges (commutative, conservation-honoring)?  
 - **Diagnostic:**  
-  - Commutative → acclivous centropy (gauge invariance, lawful exchanges).  
-  - Non-commutative → E₈ Severed (broken symmetry, incoherent transfer).  
+  - Recorded implications: commutative → acclivous centropy; non-commutative → E₈ Severed
+  - These sufficient-classifier implications are withdrawn. Commutation in a declared operator domain and a native relational function are distinct claims; their correspondence requires the stated realization and hypotheses  
 - **Application:** Particle interactions, conserved contra anomalous currents.  
 
 ---
@@ -673,10 +673,9 @@ These diagnostics extend from particles and fields to stars, galaxies, and cosmo
 - **Test:** At boundaries and recursion points, does motion satisfy lawful threshold conditions?  
 - **Diagnostic:**  
   - C₁₃ membrane permeability respected → centropic continuity.  
-  - C₁₄ recursion contractive \( (\gamma > 0) \to \) lawful return loop.  
-  - C₁₅ novelty coherence-positive \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence.  
-  - Inadequacies map to entropic mirrors:  
-    - E₁₃ wall, E₁₄ hollow nest, E₁₅ collapse nova.  
+  - C₁₄ recursion: \( \gamma>0 \) records a mapping-specific contraction gap only when the estimate is established; the contraction-based guarantee of fixed-point convergence requires a contraction self-map on a complete invariant domain. Coefficient positivity supplies none of those hypotheses  
+  - Recorded C₁₅ proposal: \( (\partial_{\text{🌀}} > 0) \to \) veracious emergence. The derivative operand, domain, and native emergence correspondence remain held; this bare sign is not an operative test  
+  - Failure to establish a proposed test does not identify an entropic counterpart. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered functions; each requires its own actual condition  
 - **Application:** Quantum measurement, black hole event horizons, phase transitions.  
 
 ---
@@ -717,7 +716,7 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 
 - **Spectral Balance Test:**  
   - Does \( \mathrm{Spec}(H) \) contain \( \{+\lambda, -\lambda\} \) pairs?  
-  - Missing eigenpairs indicate mirror imbalance → entropic distortion.  
+  - The common-mode counterpart relation in `LM01-mathematical-foundations.md` preserves its declared domain. Missing pairs in an unspecified or partial observed spectrum establish neither failure of that relation nor entropic distortion; the former diagnostic implication is withdrawn  
 
 - **Seal Fidelity Index \( (\sigma) \):**  
   - Measures lawful permeability of membranes (C₁₃).  
@@ -728,7 +727,7 @@ H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 
 ### 9.7 Summary
 
-Diagnostics of Structural Physics render coherence **structurally diagnosable**:  
+The following summary records proposed correspondences, subject to the mathematical and domain boundaries above:  
 
 - **Spectral consonance** (C₇) ↔ stable resonance.  
 - **Lawful bridges** (C₈) ↔ gauge invariance, conserved flows.  
@@ -737,7 +736,7 @@ Diagnostics of Structural Physics render coherence **structurally diagnosable**:
 - **Volitional conservation** (C₁₁) ↔ directional integrity.  
 - **Global invariants** ↔ coherence budgets across sealed systems.  
 
-Thus Structural Physics is not speculative philosophy but a **structural diagnostic**: it encodes the logic by which a system's configuration is discerned as aligned with centropic order or drifting into entropic collapse. Its statements can in principle be measured, but the framework rests on structural logic rather than on empirical confirmation.  
+Native structural assessment retains its own objects and evidentiary scope. The displayed spectral, commutation, counterpart, and invariant proposals supply no general orientation classifier; their mathematical realization and any physical correspondence remain separately held where unspecified.  
 
 ---
 
