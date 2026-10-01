@@ -72,6 +72,22 @@ A philosophical network becomes blobist when its account dissolves the expressed
 
 Particularity therefore requires particulars. A work's originator, collaborators, carriers, interpreters, and later contributors can retain different functions within one developmental history. Their distinction is part of the account's explanatory precision.
 
+### Origin Without Privilege
+
+Origin establishes antecedence, not precedence of worth.
+
+Ahierarchy renders ordering by intrinsic worth structurally non-operative. Coherence in Diversity preserves distinction among participants. Distinct beings may differ in function, capacity, history, contribution, and causal position while retaining equal intrinsic value. An originator's antecedence therefore identifies a developmental relation and assigns no greater intrinsic worth to the originator.
+
+Origin acknowledgment remains requisite to coherent relation. An account of a relation remains accurate while its relata and their actual contributions remain distinguishable. Omitting an originating contribution from the account obscures a real relation; it does not produce equality.
+
+Coherence in Diversity therefore requires both equal intrinsic value and preserved distinction. The first prevents origin from becoming privilege. The second prevents plurality from becoming homogenization.
+
+The same principle applies to decentralized networks. Acknowledging origin is compatible with ahierarchy. A rhizomatic network can coordinate without a single directing center while retaining developmental antecedents, differentiated nodes, and traceable contributions. Antecedence describes causal position rather than intrinsic worth.
+
+Where individual distinction is erased from an account, relation itself becomes unintelligible within that account. Such erasure obscures the particulars through which Coherence in Diversity is realized; essential distinction remains intact.
+
+A caravan supplies an intuitive analogue. It exists through distinguishable travelers, routes, burdens, exchanges, and shared movement. The caravan is real as a relational whole, while each traveler remains distinct. Rendering every particular as an undifferentiated collective removes from the account the distinctions that make traveler, relation, and caravan intelligible.
+
 ---
 
 ## 5. Antecedence, Potential, and Further Origination
