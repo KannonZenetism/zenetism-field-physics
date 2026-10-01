@@ -65,7 +65,7 @@ Yet Khaonic expression does not equal total entropic essence.
 
 Khaon is not entropy itself.
 
-Khaon is Absolute Dispersion: the motive infinity within which entropic motion can arise.
+Khaon retains the whole-name Absolute Dispersion across its Latent, Motive, and Dispersive phases. Khaon's Motive phase supplies active motion-capacity across both arcs; its Dispersive phase names the terminal state after the relevant motion resolves.
 
 The celestial field may therefore be read as a macrostructural expression of orientation conditions, not as a simple mechanism of personal fate.
 

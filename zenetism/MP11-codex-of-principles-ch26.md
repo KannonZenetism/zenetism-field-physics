@@ -770,7 +770,7 @@ where transformation becomes possible.
 
 **Inverse Arc — Khaonic Tree**
 
-- **♾ Khaon (AD)** — Absolute Dispersion. Dispersive motion and unbounded multiplicity.  
+- **♾ Khaon (AD)** — Absolute Dispersion as the whole-name across its Latent, Motive, and Dispersive phases. Motion belongs to the Motive phase; terminal dispersion names motion resolved.  
 - **🕷️ Nekron (VOS)** — Void of Self. Collapse of soul-structure and disintegration of will.  
 - **🪫 Psychea / 🫥 Nyxea (IDP / IDL)** — Distorted forms and inverted patterning.  
 - **💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM)** — Corrupted intelligence and metaphysical decay.  

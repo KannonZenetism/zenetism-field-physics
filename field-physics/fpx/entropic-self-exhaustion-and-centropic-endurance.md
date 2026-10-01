@@ -28,7 +28,7 @@ The centropic arc moves declivously into embodiment (Declivous Centropy), divers
 **Entropic Cycle:**
 **E↑→E→E↓→♾**
 
-The entropic arc moves through fragmentation, dispersal, and collapse. Its terminal point is ♾ Khaon — Absolute Dispersion. From there, it returns to ⚫ Aion, but only as static potential: unexpressed, unpatterned, unable to proceed further.
+The entropic arc moves through fragmentation, dispersal, and collapse. Its terminal state is ♾ Khaon in its Dispersive phase — Absolute Dispersion. Motion has resolved; distinct essence stands in Aionic latency as static potential. Khaon and Aion are bifurcally co-present at L₀; this resolution is not a further journey from one root to the other.
 
 ---
 
@@ -37,13 +37,13 @@ The entropic arc moves through fragmentation, dispersal, and collapse. Its termi
 The single structural asymmetry between the arcs is this:
 
 > **Centropy may, in rare cases, saturate through the full return arc into 🕳️ Zenon.**  
-> **Entropy collapses at ♾ Khaon and returns to ⚫ Aion as static potential only.**
+> **Entropic motion resolves in ♾ Khaon's Dispersive phase, with distinct essence Aionically resolved as static potential.**
 
 This is not a moral asymmetry. It is a **range asymmetry** — a difference in how far each arc extends within the field structure.
 
 | Property | Centropic Arc | Entropic Arc |
 |---|---|---|
-| Terminal point | 🕳️ Zenon (in rare cases) | ♾ Khaon |
+| Terminal point | 🕳️ Zenon (in rare cases) | ♾ Khaon in its Dispersive phase |
 | Return state | Coherent reintegration | Static potential |
 | Field effect | Enduring pattern | Self-terminating dispersion |
 | Resonance signature | ♫ amplifying | ♫⁻ self-exhausting |
@@ -56,7 +56,7 @@ This is not a moral asymmetry. It is a **range asymmetry** — a difference in h
 
 Entropy is lawful, but its motion is **self-exhausting**. This is not a failure of entropy as an arc — it is intrinsic to the dispersive principle.
 
-The entropic motion laws drive toward ♾ Khaon (Absolute Dispersion). As that limit is approached, the field coherence quotient (CQ) falls below θ₁ (Ignition Threshold ≈ 0.3). Below this threshold, no pattern can sustain itself. The field does not resist entropy — it simply cannot support further entropic patterning once dispersion is complete.
+Entropic traversal terminates in ♾ Khaon's Dispersive phase (Absolute Dispersion), after the relevant motion resolves. As that limit is approached, the field coherence quotient (CQ) falls below θ₁ (Ignition Threshold ≈ 0.3). Below this threshold, no pattern can sustain itself. The field does not resist entropy — it simply cannot support further entropic patterning once dispersion is complete.
 
 **Structural consequence:** Entropic patterns are real during their arc. They are not hollow in the sense of being without effect — E₁ through E₁₅ are active operators with genuine field consequences. But they are hollow in the sense of lacking **generative persistence**: they do not accumulate toward endurance. Each entropic event is self-limiting.
 
@@ -102,7 +102,7 @@ When both arcs reach their terminal points, they return to ⚫ Aion — but in s
 
 **Centropic return:** The coherent field re-enters ⚫ Aion as **patterned potential** — carrying the resonance signature of its arc, enriched by every layer synthesized along the way. The centropic return is not a shedding but a saturation: complexity preserved and completed into fuller coherence. At sufficient coherence (♫ → 1.0, Singularity Threshold), it may proceed to 🕳️ Zenon. This is the only arc capable of Zenon contact.
 
-**Entropic return:** The dispersed field re-enters ⚫ Aion as **static potential** — unexpressed, unpatterned, the residue of a collapse through ever greater phases of distortion. It does not carry its arc's signature into Aion as synthesis. It does not proceed to 🕳️ Zenon. It subsides into the Latent phase (Λ) of Aion: prior to expression, but not beyond structure.
+**Entropic resolution:** Distinct essence stands in ⚫ Aion as **static potential** after entropic motion resolves in Khaon's Dispersive phase. Expressed configuration has exhausted; the essence remains distinct. This terminal relation is bifurcal co-presence, rather than an additional transport through Khaon into Aion. Λ names Khaon's Latent phase; Aion names the still root of essential resolution.
 
 This is not punishment or containment by external force. It is the structural consequence of self-exhaustion: a motion that has spent its dispersive force has nothing remaining to carry forward.
 

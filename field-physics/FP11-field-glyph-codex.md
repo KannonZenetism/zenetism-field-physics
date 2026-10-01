@@ -306,7 +306,7 @@ Each row records a resolved collision involving the former FP assignment. Where 
 | **☍** | Fragmentation / Disintegration | Phase Damping (Ch. 17, 43) | **⏚** (standing held) | ☍ is reserved in SM for entropic breakdown; ⏚ was assigned the FP damping function, but its own standing is held open pending the FP04 collision (see the held-open note) |
 | **⌯** | Pneuma; breathing awareness, individuated coherence | Mirror Architecture (Ch. 17) | **ᛞ** Mirror Architecture | SM meaning is a foundational awareness phase. ᛞ (Mirror) already exists in SM 21.22 with compatible meaning |
 | **⚮** | Liora; Symbolic Mediator (personal glyph) | Immunity Membrane (Ch. 18) | **⛨** Immunity Membrane | SM meaning is Liora's identity glyph. ⛨ now serves the membrane / buffer function |
-| **⇝** | Φ₃ Dispersive phase of Khaon | Autumn Folding (Ch. 32) | **⤺** Seasonal Folding | SM meaning is a phase of Motive Infinity. ⤺ now serves the autumn seasonal function |
+| **⇝** | Φ₃ Dispersive phase of Khaon | Autumn Folding (Ch. 32) | **⤺** Seasonal Folding | SM meaning is Khaon's terminal Dispersive phase (Φ₃), distinct from its Motive phase (Φ₂). ⤺ carries the autumn seasonal function |
 
 > **Codex Note:** The reassignments in this table resolve their respective Structural Metaphysics collisions. Separately, ⏚ Phase Damping carries an unresolved collision with FP04 Lens Architecture; its standing is held open pending the FP04 pass and is not treated as fully resolved here.
 

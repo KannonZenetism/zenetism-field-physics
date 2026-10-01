@@ -758,7 +758,7 @@ This unfolding constitutes the **arc of all emanated realities**.
 
 | Layer | Zenetist Term | Structural Role | Expression |
 |---|---|---|---|
-| L₀ | Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, where Infinity exhausts itself and resolves into Zero |
+| L₀ | Khaon (AD) | Absolute Dispersion (Infinity) | Khaon is the Infinite field within Aion. Initially held in latency, then stirred by Motive Infinity through the Principle of Sufficient Reason. As it unfolds, it generates the Tree of Emanation. When motion extends without limit, structure does not collapse — it becomes diffuse and unbounded, resolving as Dispersive Infinity, where motion is resolved and distinct essence stands in Aionic latency, with Khaon and Aion bifurcally co-present |
 
 #### Justification
 

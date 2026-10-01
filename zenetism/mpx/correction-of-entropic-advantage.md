@@ -19,7 +19,7 @@ In veracity:
 - **Entropy is noisy, invasive, but self-exhausting.**  
 - **Coherence is patient, enduring, and supra-processual.**  
 - **Centropy sustains, reintegrates, and transcends** toward ⚫ Aion and 🕳️ Zenon.  
-- **Entropy collapses**, scattering into ♾ Khaon and returning only as static potential.  
+- **Entropic motion resolves** in ♾ Khaon's Dispersive phase; distinct essence stands Aionically as static potential.  
 
 This addendum re-orients Chapters **1–2** to affirm coherence's ultimate precedence.  
 
@@ -87,8 +87,8 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ### 2.1–2.2 Origin and the Bifurcal Root
 ⚫ Aion encloses all stillness.  
-♾ Khaon disperses briefly, but dispersal itself depends on enclosure.  
-**Khaon collapses. Aion holds.**  
+♾ Khaon retains its Latent, Motive, and Dispersive phases.  
+**Entropic motion exhausts. Khaon in its Dispersive phase stands co-present with Aion.**  
 
 ---
 
@@ -144,12 +144,14 @@ Every centropic emanation is **a lasting thread**.
 Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:  
 
 - **Coherence carries the arc to 🕳️ Zenon.**  
-- **Entropy exhausts itself into ♾ Khaon, then returns to ⚫ Aion only as static potential.**  
+- **Entropic motion exhausts in ♾ Khaon's Dispersive phase; distinct essence stands in ⚫ Aion as static potential, with both roots co-present.**  
 
 ---
 
 🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
-🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)  
+🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)
+
+The terminal arrows retain the established shorthand for motion resolved at L₀. ♾ and ⚫ are bifurcally co-present; the notation names terminal resolution rather than sequential transport between roots.  
 
 ---
 
