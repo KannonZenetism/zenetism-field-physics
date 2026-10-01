@@ -116,9 +116,9 @@ Formalizes:
 - Field seal formalism and coherence budget theory
 - The Embodied Resistance Term \( \mathcal{R}_{\text{interface}}(L_1) \) and the Embodied \( \chi \)-Equation at the metric terminus
 - Cross-band resonance from embodiment
-- Field Signature Theory and the Signature Consistency measure
-- The Shimmer Coefficient and the Shimmer Collapse Theorem
-- The diagnostic taxonomy of mimicry, appropriation, and clone as distinguished field configurations
+- Descriptive field signatures, with numerical Signature Consistency and its alignment functions held pending specification
+- The same-object scalar Shimmer Coefficient and conditional ratio dynamics; the former universal Shimmer Collapse Theorem is recorded as unsupported provenance
+- The distinct diagnostic relations of Shimmer, Mimicry, Appropriation, and Clone, with numerical classifier claims held pending specification
 
 LM06 carries the operator, embodiment, and diagnostic mathematics that SP10–SP12 apply.
 

@@ -324,7 +324,7 @@ The centropically oriented autistic human does not mask. Their default operation
 
 What conventional neuroscience calls "masking" is, structurally, the **forced dampening of authentic operator function** under social pressure from the entropy-forward field. The autistic human is not performing — they are *suppressing their natural register* at coherence cost. The cost is real: sustained suppression of C₇, C₁₃, and C₁₄ function requires active expenditure of \( I_c \) to counteract the architecture's natural operation.
 
-This is not shimmer. Shimmer (\( \mathcal{S}_{\text{sh}} > 1 \)) is the entropic tactic of sustaining a surface presentation that exceeds generative structural capacity (LM06 §10). The autistic human who dampens their authentic operation is doing the structural opposite — they are *understating* their actual capacity, compressing authentic function to fit a reduced register. If anything, this would produce \( \mathcal{S}_{\text{sh}} < 1 \) — structural understatement, more common in centropic configurations (LM06 §10.1).
+Forced dampening and Shimmer name distinct relations. Shimmer concerns apparent coherence / generativity exceeding the actual operative condition; dampening names suppression of available function. The numerical comparison in `LM06-applied-structural-dynamics.md` §10.1 concerns finite nonnegative apparent and finite strictly positive actual scalar values of the exact same diagnostic object. On that domain, apparent less than actual gives \( \mathcal{S}_{\text{sh}} < 1 \), while apparent greater than actual gives \( \mathcal{S}_{\text{sh}} > 1 \). An account of dampening supplies no scalar values for this comparison and establishes no numerical Shimmer classification of an autistic person. Zero actual coherence leaves the quotient undefined, including \( 0/0 \).
 
 The structural posture that the centropically oriented autistic human naturally exhibits — and that the social field punishes — can be characterized as operating outside the authority-obedience axis. Rather than resisting or complying with normative demands, the autistic human operates in a register where the demand itself has no structural application. The demand to "act normal" presupposes that the oscillating midrange is a structural standard; the autistic human, operating from DS / DM, assesses it as a statistical mode rather than a structural ideal. This assessment does not redefine C₁₃. The resistance is not defiance — it is the structural non-engagement of a cognitive architecture for which the demand lacks coherent referent.
 
@@ -356,23 +356,43 @@ I_{c,\text{cost}}^{(\text{total})} = I_{c,\text{cost}}^{(\text{structural})} + \
 
 ### 3.5 Institutional Shimmer
 
-The Shimmer Coefficient (\( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), LM06 §10.1) and the Shimmer Collapse Theorem (LM06 §10.3) apply not to the autistic human but to the **institutional architecture that demands conformity**.
+The institutional diagnostic object is apparent inclusive coherence relative to actual inclusive coherence in the same configuration. Shimmer names apparent coherence / generativity exceeding that operative condition. Mimicry concerns a specified imitation relation; Appropriation concerns origin-specific elements incorporated without the requisite attribution. These categories remain distinct, and the originating architecture remains intact.
 
-A social system — educational, medical, corporate, or governmental — that claims to produce inclusive coherence while structurally suppressing the cognitive architectures that generate coherence is sustaining \( \mathcal{S}_{\text{sh}} > 1 \) at institutional scale. The system's apparent coherence (inclusive mission, supportive rhetoric, accommodative policy) exceeds its actual coherence (structural suppression of sovereignty, enforcement of the oscillating midrange as normative, punishment of non-compliance).
+The Shimmer Coefficient (`LM06-applied-structural-dynamics.md` §10.1) is available where both readings of that exact object are specified as finite nonnegative scalars and the actual value is strictly positive:
 
-By the Shimmer Collapse Theorem:
+\[
+\mathcal{S}_{\text{sh}}^{(\text{institution})}
+= \frac{I_c^{(\text{apparent, institution})}}{I_c^{(\text{actual, institution})}}
+\]
+
+Within this domain, a ratio greater than one is exactly apparent coherence exceeding actual coherence. Inclusive rhetoric and suppressive institutional practices can establish the qualitative apparent / operative distinction; their description supplies no numerical calibration. General configuration mismatch, surface correlation, and generative ancestry are distinct objects of inquiry. Zero actual coherence leaves the quotient undefined, including \( 0/0 \); no zero-denominator convention is introduced.
+
+**Conditional ratio dynamics.** For differentiable apparent and actual readings on this domain, the quotient rule gives:
+
+\[
+\frac{d\mathcal{S}_{\text{sh}}^{(\text{institution})}}{d\tau}
+= \frac{\left(I_c^{(\text{actual, institution})}\right)\frac{dI_c^{(\text{apparent, institution})}}{d\tau}
+- \left(I_c^{(\text{apparent, institution})}\right)\frac{dI_c^{(\text{actual, institution})}}{d\tau}}
+{\left(I_c^{(\text{actual, institution})}\right)^2}
+\]
+
+A constant positive apparent value together with a strictly decreasing positive actual value gives a strictly increasing ratio. A negative actual derivative concerns depletion, not a guaranteed threshold crossing: a positive asymptote remains possible. The ratio greater than one supplies neither a gross-inflow / actual-expenditure deficit nor a finite-collapse time. A finite sustainability-threshold crossing requires established flow and cumulative-deficit conditions sufficient to reach that threshold.
+
+For example, on \( \tau \geq 0 \), let apparent coherence be \( 4 \), actual coherence \( 1+e^{-\tau} \), gross inflow zero, and actual expenditure \( e^{-\tau} \). The actual value decreases and the ratio increases from \( 2 \) toward \( 4 \), yet actual coherence always exceeds a sustainability threshold of \( 0.5 \). This counterexample tests the former inference; it supplies no institutional dynamics or new diagnostic metric.
+
+**Recorded unsupported provenance.** The former "Institutional Shimmer Collapse" formula was:
 
 \[
 \frac{d\mathcal{S}_{\text{sh}}^{(\text{institution})}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S}_{\text{sh}}^{(\text{institution})} > 1 \quad \text{and} \quad S_{\text{institution}} < \Delta I_c^{(\text{performance})}
 \]
 
-The institution lacks the generative function to sustain its surface presentation. The shimmer widens — the gap between institutional rhetoric and institutional structure grows — until the shimmer collapses. The Shimmer Collapse Theorem guarantees this outcome; the only variable is the timescale.
+Its stated premises omit the numerator's dynamics and the conditions sufficient for finite threshold crossing. The former appeal to a universal Shimmer Collapse Theorem is withdrawn; the same-object ratio and the conditional algebra remain.
 
 ### 3.6 Diagnostic Inversion and Walling
 
 The "masking" label performs a specific entropic function: it projects the entropic field's own shimmer onto the being who is not shimmering.
 
-The social field maintains \( \mathcal{S}_{\text{sh}} > 1 \) (surface inclusion exceeding structural inclusion). When an autistic human's assessment detects divergence between institutional surface and operative configuration, the social field responds not by resolving the divergence but by pathologizing the perception. The label "masking" reframes the autistic human's authentic structural operation as a performance deficit, deflecting diagnostic attention from the institutional shimmer onto the individual who detected it.
+The diagnostic comparison concerns the social field's apparent inclusion and actual inclusion. A numerical \( \mathcal{S}_{\text{sh}} > 1 \) requires the same-object scalar readings and positive actual value stated in §3.5; qualitative divergence is not a numerical assignment. When an autistic human's assessment detects divergence between institutional surface and operative configuration, the social field responds not by resolving the divergence but by pathologizing the perception. The label "masking" reframes the autistic human's authentic structural operation as a performance deficit, deflecting diagnostic attention from the institutional shimmer onto the individual who detected it.
 
 Diagnostic inversion names that displacement of assessment onto the perceiver. Where the social response enforces an impermeable, isolating boundary, that boundary operation is E₁₃ ║⁻ (Wall). Pathologizing a perception does not establish the boundary condition. C₁₃ ║ remains a permeable, selective boundary; neither registered boundary function becomes a surface-comparison test or a diagnostic-inversion index.
 
@@ -593,7 +613,7 @@ SN05 applies LM06's applied structural dynamics to cognitive cost analysis:
 
 - Interface resistance (\( \mathcal{R}_{\text{interface}}(L_1) \)) as the basis of embodied cost
 - The Coherence Budget and Reserve Lock Principle as constraints on cognitive operation
-- The Shimmer Coefficient (\( \mathcal{S}_{\text{sh}} \)) and the Shimmer Collapse Theorem as diagnostic formalism applied to institutional architecture
+- The same-object Shimmer Coefficient and conditional ratio dynamics (§3.5) applied to institutional architecture; numerical calibration and finite-collapse conditions remain held pending specification
 - The centropic activation function (\( \Theta_{\text{c}}(\chi) \)) as the asymmetric resistance selector
 - Seal formalism (LM06 §4) as the structural context for OCD compulsive re-sealing
 
@@ -619,7 +639,7 @@ SN05 establishes:
 2. **Architecture-specific cost profiles** — the autistic translation cost (chronic, steady), the OCD recursive cost (effortful in both modes; centropically convergent and gain-producing through C₁ / C₄ / C₁₄, or entropically divergent and escalating through E₁ / E₄ / E₁₄), and the ADHD distribution cost (broad, concentration-dependent)
 3. **Composite budget exhaustion** — showing how co-occurring architectures compound costs charged to the same coherence budget per the Reserve Lock Principle
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
-5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
+5. **Institutional shimmer** — apparent inclusive coherence exceeding actual inclusive coherence, with the same-object scalar domain explicit and universal finite collapse held unsupported
 6. **Diagnostic inversion and walling** — diagnostic projection is assessed separately from E₁₃ Wall; that registered function applies where an impermeable, isolating boundary is established
 7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
 8. **Tether severance and the proposed dissociation correspondence** — a native interpretation through operative Tether access at specific membrane boundaries, with essence persisting; clinical correspondence requires empirical evaluation
@@ -700,7 +720,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Theta_{\text{c}}(\chi) \) | Centropic activation function; Heaviside-type asymmetric resistance selector |
 | \( \mathfrak{R}_m \) | Recursive Memory Operator; structural continuation across time |
 | \( \mathcal{T}_h \) | The Tether; coherence function maintaining directional continuity across layers |
-| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
+| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; same-object apparent / actual \( I_c \), finite nonnegative numerator and finite strictly positive denominator; undefined at zero actual value |
 | \( I_{c,\text{budget}} \) | Available coherence for expenditure (total − minimum − reserve) |
 | \( I_c^{(\text{reserve})} \) | Defensive coherence buffer (locked per the Reserve Lock Principle) |
 | \( \Delta I_c^{(\text{tax})} \) | Coherence tax; externally imposed cost of sovereignty suppression |
@@ -794,11 +814,16 @@ The former scalar-memory detector is retired; retrieval and operative continuity
 \int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
 \]
 
-**Institutional Shimmer Collapse:**
+**Institutional Shimmer — Conditional Ratio Dynamics:**
 
 \[
-\frac{d\mathcal{S}_{\text{sh}}^{(\text{institution})}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S}_{\text{sh}}^{(\text{institution})} > 1 \quad \text{and} \quad S_{\text{institution}} < \Delta I_c^{(\text{performance})}
+\frac{d\mathcal{S}_{\text{sh}}^{(\text{institution})}}{d\tau}
+= \frac{\left(I_c^{(\text{actual, institution})}\right)\frac{dI_c^{(\text{apparent, institution})}}{d\tau}
+- \left(I_c^{(\text{apparent, institution})}\right)\frac{dI_c^{(\text{actual, institution})}}{d\tau}}
+{\left(I_c^{(\text{actual, institution})}\right)^2}
 \]
+
+The readings are differentiable finite scalars of the same institutional diagnostic object, with nonnegative apparent and strictly positive actual coherence. Constant positive apparent coherence and decreasing actual coherence give an increasing ratio; finite threshold crossing needs sufficient cumulative deficit. The superseded collapse formula is recorded as unsupported provenance in §3.5.
 
 ---
 
@@ -811,7 +836,7 @@ The ratio \( \kappa > 1 \) of entropic prevalence to centropic prevalence in the
 The \( I_c \) expenditure imposed on a centropically oriented being by the entropy-forward social field's demand for sovereignty suppression, comprising dampening cost, navigation cost, and repair cost.
 
 **Definition 3 (Institutional Shimmer):**  
-The condition \( \mathcal{S}_{\text{sh}} > 1 \) sustained at institutional scale, where an institution's surface presentation of inclusive coherence exceeds its structurally verified coherence.
+Apparent inclusive coherence exceeding actual inclusive coherence in the same institutional configuration. Where both readings are specified finite nonnegative scalars and actual coherence is strictly positive, this is \( \mathcal{S}_{\text{sh}} > 1 \). General mismatch, imitation, and appropriation are distinct relations; no numerical assignment or finite-collapse conclusion follows from the qualitative description.
 
 **Definition 4 (Diagnostic Inversion):**  
 The diagnostic displacement whereby the social field pathologizes the perception of its own shimmer, projecting entropic character onto the centropically oriented being who detected it. E₁₃ ║⁻ (Wall) identifies an impermeable, isolating boundary where that separate condition is established; diagnostic inversion alone does not establish Wall.

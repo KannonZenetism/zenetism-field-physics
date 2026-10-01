@@ -525,7 +525,7 @@ A collective field is an instance of the field configuration space \( \mathfrak{
 \mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(⧉, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
 \]
 
-The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The diagnostic formalism of LM06 §§9–12 applies at collective scale (LM06 §12.4, Scale Invariance).
+The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The qualitative audit domains of `LM06-applied-structural-dynamics.md` §§9–12 extend to collective scale. Each quantitative comparison retains its own diagnostic object and domain; no scale-invariant numerical signature measure or classifier is supplied by that extension.
 
 ### 7.2 Collective Orientation
 
@@ -732,17 +732,19 @@ Where \( h \) modulates permeability based on orientation differential and \( d(
 
 **Proposition (Shimmer at Collective Scale):**
 
-The Shimmer Coefficient (LM06 §10.1) applies to collective fields:
+The Shimmer Coefficient (`LM06-applied-structural-dynamics.md` §10.1) compares apparent and actual coherence of the exact same collective diagnostic object, where both values are finite nonnegative scalars and actual coherence is strictly positive:
 
 \[
 \mathcal{S}_{\text{sh}}^{(\text{collective})} = \frac{I_c^{(\text{apparent, collective})}}{I_c^{(\text{actual, collective})}}
 \]
 
-The Shimmer Collapse Theorem (LM06 §10.3) operates identically at collective scale: a social field sustaining \( \mathcal{S}_{\text{sh}}^{(\text{collective})} > 1 \) without generative function depletes over structural time and collapses.
+On this domain, \( \mathcal{S}_{\text{sh}}^{(\text{collective})} > 1 \) is exactly apparent coherence exceeding actual coherence. Zero actual coherence leaves the quotient undefined, including \( 0/0 \). The ratio measures neither full-configuration distance nor generative ancestry. Shimmer, Mimicry, and Appropriation remain distinct relations.
+
+**Recorded unsupported provenance:** the former claim that the Shimmer Collapse Theorem "operates identically at collective scale" asserted universal collapse. That implication is unsupported. Constant positive apparent coherence and strictly decreasing positive actual coherence imply ratio growth, but decreasing actual coherence can approach a positive asymptote. Collective collapse requires sufficient cumulative deficit relative to a stated sustainability threshold; its flow conditions and time are held pending specification.
 
 **Proposition (Coherence Audit at Collective Scale):**
 
-The five-domain coherence audit (LM06 §12.2) applies to collective fields (LM06 §12.4, Scale Invariance):
+The five-domain coherence audit (`LM06-applied-structural-dynamics.md` §12.2) organizes collective inquiry (`LM06-applied-structural-dynamics.md` §12.4). These comparisons identify their diagnostic objects; numerical readings, signature alignment functions, and classifier thresholds require domain-specific specification:
 
 1. Coherence Magnitude: \( I_c^{(\text{collective, measured})} \stackrel{?}{=} I_c^{(\text{collective, claimed})} \)
 2. Flow Integrity: \( \vec{J}_c^{(\text{collective})} \) flowing toward collective function or toward extraction

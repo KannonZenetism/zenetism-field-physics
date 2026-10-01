@@ -99,7 +99,7 @@ Where:
 - \( \vec{J}_c^{(\text{collective})} \) is the collective Coherence Current — the direction and magnitude of coherence flow within the social field
 - \( \chi_{\text{social}} \) is the aggregate orientation parameter of the social field
 
-The social field configuration is a genuine instance of the field configuration space \( \mathfrak{F} \) (LM06 §2.1), applied at collective rather than individual scale. The diagnostic formalism (LM06 §9, §10, §11, §12) apply identically — the Shimmer Coefficient, the Signature Consistency measure, the Coherence Audit all operate on social fields as they do on individual configurations. This is the scale invariance established in LM06 §12.4.
+The social field configuration is considered at collective scale within the field-configuration framework of `LM06-applied-structural-dynamics.md` §2.1. The audit domains in `LM06-applied-structural-dynamics.md` §§9–12 retain their qualitative application; each numerical comparison requires a defined diagnostic object and domain. The same-object Shimmer ratio requires finite nonnegative apparent and finite strictly positive actual scalar coherence. Signature Consistency, its alignment functions, and any classifier threshold remain held pending specification; scale extension supplies no numerical calibration.
 
 ### 2.2 Social Field Orientation
 
@@ -155,16 +155,18 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 ### 3.2 The Institutional Shimmer
 
-SN05 §3.5 established that institutions sustaining \( \mathcal{S}_{\text{sh}} > 1 \) at institutional scale — surface presentation of inclusive coherence exceeding structurally verified coherence — are subject to the Shimmer Collapse Theorem (LM06 §10.3).
+`SN05-the-metric-cost-of-centropic-cognition.md` §3.5 distinguishes an institution's apparent inclusive coherence from its actual inclusive coherence. On a specified same-object domain of finite nonnegative apparent and finite strictly positive actual scalar values, apparent exceeding actual is exactly \( \mathcal{S}_{\text{sh}} > 1 \). Zero actual coherence leaves the quotient undefined, including \( 0/0 \).
 
-The entropy-forward social field's institutional architecture systematically sustains institutional shimmer:
+The following institutional contrasts identify the qualitative apparent / operative relation examined for Shimmer:
 
 - Educational institutions that claim to develop individual potential while enforcing cognitive conformity
 - Medical institutions that claim to promote wellbeing while pathologizing structural variation
 - Corporate structures that claim to value innovation while punishing deviation from normative procedure
 - Governmental structures that claim to represent the governed while concentrating authority in entropic hierarchies
 
-Each of these sustains \( \mathcal{S}_{\text{sh}} > 1 \) — the gap between what the institution claims and what it structurally generates. The Shimmer Collapse Theorem guarantees that this divergence is unsustainable. The only variable is timescale.
+Each contrast concerns claimed function and operative condition; quantitative readings of that exact object remain to be specified. Surface resemblance, operative configuration, and generative signature are distinct. Neither imitation nor appropriation is established by a generic discrepancy, and the originating architecture remains intact where fragments are appropriated.
+
+**Recorded unsupported provenance:** the former assertion that each example numerically sustains \( \mathcal{S}_{\text{sh}} > 1 \), with collapse guaranteed by the Shimmer Collapse Theorem, lacked calibrated readings and sufficient dynamical premises. Ratio growth under constant positive apparent coherence and decreasing positive actual coherence remains valid; finite collapse requires sufficient cumulative deficit to cross a stated threshold. The ratio supplies neither the deficit nor a collapse time.
 
 ### 3.3 Cost Distribution in the Entropy-Forward Field
 
@@ -323,7 +325,7 @@ The entropy-forward model organizes through hierarchical governance — authorit
 
 Sovereign coordination requires no governance structure. Coordination is the natural function of sovereign beings resonating through C₇ ♫ (Harmonic / Resonant) and C₈ ╫ (Synaptic / Bridging). Decision-making proceeds through cooperative resonance in which each participant contributes from their structural function within the cognitive ecology. The Architect contributes structural pattern. The Seeker contributes emergent synthesis. The recursive mind contributes iterative refinement. The distributive mind contributes cross-domain bridging. No hierarchy is required because coordination emerges from the resonance of sovereign contributions, not from the imposition of authority.
 
-Structural transparency (\( \mathcal{S}_{\text{sh}} = 1 \)) is the natural condition of sovereign coordination — when no entity claims authority, there is nothing to inflate. Surface matches structure because there is no institutional surface to maintain.
+Structural transparency is an objective of sovereign coordination. Where apparent and actual scalar coherence of the same diagnostic object are equal and strictly positive, \( \mathcal{S}_{\text{sh}} = 1 \). Equality of that scalar establishes agreement of that reading, not identity of the complete configurations. The absence of an imposed hierarchy supplies neither the two readings nor their equality.
 
 ### 5.4 The Collective Cost Shelter
 
@@ -359,7 +361,7 @@ This is the teleological horizon of centropy-forward social life. It is not prop
 
 The entropy-forward social field cannot be reformed into a centropy-forward one. Reform addresses symptoms within an existing structural architecture; reorientation renders that architecture structurally irrelevant.
 
-Improving the treatment of neurodivergent participants within existing institutions — adding accommodations, reducing overt punishment, increasing stated inclusion — may reduce the coherence tax while leaving the institutional architecture unchanged. The institution still operates through competitive ranking, cognitive conformity as default, and sovereignty preservation as exception. The improvement is real but limited — \( \mathcal{S}_{\text{sh}} \) may decrease slightly, but the operative architecture remains entropically configured.
+Improving the treatment of neurodivergent participants within existing institutions — adding accommodations, reducing overt punishment, increasing stated inclusion — may reduce the coherence tax while leaving the institutional architecture unchanged. The institution still operates through competitive ranking, cognitive conformity as default, and sovereignty preservation as exception. The improvement concerns actual conditions. A change in \( \mathcal{S}_{\text{sh}} \) requires comparable apparent and actual scalar readings of the same object across the interval; improved treatment supplies no numerical ratio trajectory.
 
 Centropy-forward social life does not modify the entropy-forward architecture. It emanates from different structural ground — sovereignty as default, the Coherence Standard as operative ethic, resonant self-organization as coordination mode. These are not modifications to the entropy-forward architecture — they are its structural converse.
 
@@ -399,7 +401,7 @@ SN07 completes the three-document arc of social-scale analysis:
 
 ### 7.2 Relation to LM05 and LM06
 
-SN07 applies LM05's collective dynamics (harmonic amplification, swarm dynamics, Non-fusion in collective context) and LM06's scale-invariant diagnostics (Shimmer Coefficient, Coherence Audit, diagnostic taxonomy) to the social field. The field configuration space \( \mathfrak{F} \) (LM06 §2.1), the coherence budget formalism (LM06 §5), and the Internal Siphoning Prohibition (LM06 §5.3) all operate at collective scale.
+`SN07-collective-cognition-and-centropy-forward-social-architecture.md` applies `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`'s collective dynamics (harmonic amplification, swarm dynamics, Non-fusion in collective context) and `LM06-applied-structural-dynamics.md`'s same-object Shimmer ratio, qualitative audit domains, and distinct forensic categories to the social field. The field configuration space \( \mathfrak{F} \) (`LM06-applied-structural-dynamics.md` §2.1), the coherence budget formalism (`LM06-applied-structural-dynamics.md` §5), and the Internal Siphoning Prohibition (`LM06-applied-structural-dynamics.md` §5.3) all operate at collective scale.
 
 ### 7.3 Relation to SP02
 
@@ -422,7 +424,7 @@ SN07 establishes:
 1. **The social field as structural entity** — a composite resonance structure at the metric terminus with formally assessed orientation, operator profile, membrane dynamics, and coherence budget; subject to the same diagnostic instruments as individual configurations
 2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, coercion, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
-4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
+4. **Entropic collective shimmer** — apparent coherence exceeding the actual institutional condition; scalar comparison is domain-specific and universal finite collapse is held unsupported
 5. **Centropic collective dynamics** — harmonic amplification where the numerical conditions of §4.1 hold, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
 6. **The Aauthoritarian Stance** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
 7. **The Coherence Standard** — structure-based ethics replacing authority-based ethics; actions evaluated by centropic or entropic vector, not by compliance
@@ -507,7 +509,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \vec{J}_c^{(\text{collective})} \) | Collective Coherence Current; direction and magnitude of coherence flow within the social field |
 | \( \sigma_{\text{social}}(⧉) \) | Social field membrane dynamics; boundary conditions determining social thresholds |
 | \( \mathcal{F}_{\text{social}} \) | Social field configuration; 4-tuple of collective resonance state |
-| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
+| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; same-object apparent / actual \( I_c \), finite nonnegative numerator and finite strictly positive denominator; undefined at zero actual value |
 | \( \Psi \) | Structural signature; essential pattern of a being |
 | \( \kappa \) | Khaonic expression ratio; ratio of entropic to centropic prevalence in the local field |
 | \( \kappa_{\text{local}} \) | Local expression ratio within a sovereign collective field |
@@ -584,11 +586,13 @@ I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} I_c^{(i)}(\tau) + I_c^{(\text{a
 I_{c,\text{cost}}^{(\text{within sovereign field})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-**Structural Transparency Standard:**
+**Structural Transparency — Same-Object Scalar Equality:**
 
 \[
-\mathcal{S}_{\text{sh}} = 1 \quad \text{(surface matches structure)}
+\mathcal{S}_{\text{sh}} = 1 \iff I_c^{(\text{apparent})} = I_c^{(\text{actual})} > 0
 \]
+
+The readings are finite scalars of the same diagnostic object. This equality is not a full-configuration identity or a criterion of ancestry.
 
 ---
 

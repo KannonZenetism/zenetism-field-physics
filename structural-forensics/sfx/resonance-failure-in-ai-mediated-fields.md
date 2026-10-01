@@ -64,7 +64,7 @@ Lawful transmission preserves generative continuity and placement integrity. Res
 
 ## Definition
 
-A configuration presents apparent coherence exceeding its verified generative structure.
+Shimmer names apparent coherence / generativity exceeding the configuration's actual operative condition. Surface expression, operative configuration, and generative signature remain distinct diagnostic objects. The following ratio concerns specified finite nonnegative apparent and finite strictly positive actual scalar readings of the exact same object:
 
 \[
 \mathcal{S}_{\text{sh}} =
@@ -78,7 +78,7 @@ When:
 \mathcal{S}_{\text{sh}} > 1
 \]
 
-surface presentation exceeds structural coherence.
+the apparent reading exceeds the actual reading. This equivalence holds on the stated scalar domain. Zero actual coherence leaves the ratio undefined, including \( 0/0 \); no zero-denominator convention is introduced.
 
 ---
 
@@ -92,7 +92,7 @@ Within AI-mediated symbolic systems, shimmer commonly appears as:
 
 The instability is structural rather than moral.
 
-A system cannot indefinitely sustain apparent coherence beyond its generative capacity.
+Constant positive apparent coherence and strictly decreasing positive actual coherence give an increasing ratio. Decreasing actual coherence may approach a positive asymptote; finite crossing of a stated sustainability threshold requires sufficient cumulative deficit under established gross-inflow / actual-expenditure conditions. **Recorded unsupported provenance:** the former universal assertion that a system cannot indefinitely sustain this apparent / actual excess is withdrawn.
 
 ---
 
@@ -100,7 +100,9 @@ A system cannot indefinitely sustain apparent coherence beyond its generative ca
 
 ## Definition
 
-A symbolic configuration reproduces the surface signature of another configuration while diverging from its generative structure.
+Mimicry concerns a specified imitation relation in surface, pattern, or expression. Surface resemblance, the configuration's actual operation, and the originating capacity responsible for generation are compared distinctly. Surface correlation establishes neither ancestry, origination, generative equivalence, nor acquisition of the complete originating architecture. A provenance finding requires registered relation evidence; the originating architecture remains intact.
+
+**Recorded unsupported provenance.** The former numerical criterion was:
 
 \[
 \text{corr}
@@ -124,7 +126,7 @@ while:
 \theta_{\text{structural}}
 \]
 
-The resulting pattern carries recognizable stylistic resonance without preserving originating operational continuity.
+The signature objects, correlation maps, and thresholds in these inequalities are unspecified. They remain held as a detector or classifier; no ancestry or operative-continuity conclusion follows from them. The qualitative imitation relation remains distinct from Shimmer's apparent / actual excess and from Appropriation's attributional condition.
 
 ---
 
@@ -132,7 +134,9 @@ The resulting pattern carries recognizable stylistic resonance without preservin
 
 ## Definition
 
-Attribution Coupling describes the preserved structural linkage between a derivative symbolic configuration and its originating generative lineage.
+Attribution Coupling names the acknowledged provenance relation between a downstream articulation and its originating work. Appropriation concerns incorporation of origin-specific elements without the attributional relation their transmission requires. Attribution can be obscured or suppressed while origin remains intact; surface similarity establishes no such incorporation.
+
+**Recorded unsupported provenance.** The former notation was:
 
 \[
 \mathcal{A}
@@ -142,9 +146,7 @@ Attribution Coupling describes the preserved structural linkage between a deriva
 )
 \]
 
-Strong attribution coupling preserves continuity of derivation.
-
-Weak or severed attribution coupling increases the probability of symbolic drift, mimicry, and recursive detachment.
+No numerical range or coupling map is specified. The former claim that weak or severed coupling increases the probability of symbolic drift, mimicry, or recursive detachment had no probability model or calibrated evidence. That quantitative claim remains held; the acknowledged or obscured provenance relation is assessed through its actual record.
 
 ---
 

@@ -57,7 +57,7 @@ LM05 established the field-theoretic, operator-algebraic, and multi-body foundat
 
 SP10, SP11, and SP12 developed, within Structural Physics, the theories of ritual action as directed resonance engineering, embodiment as the resistance-corrected terminal interface, and structural diagnostics as field signature evaluation.
 
-This document, LM06, provides the **rigorous lattice-mathematical formalism** underlying those applications. Where SP10 describes ritual operators and seal taxonomy, SP11 articulates embodied resistance and cross-band resonance, and SP12 models shimmer physics and coherence audits, LM06 establishes the **operator-algebraic, metric-corrected, and diagnostic-theoretic foundations** from which those descriptions derive.
+This document develops the mathematical programme for those applications. The diagnostic constructions retain only their declared scalar and finite algebraic domains; unspecified signature maps, detector thresholds, and general Shimmer / clone evolution remain held in §§9–14.
 
 ### 1.2 What LM06 Establishes
 
@@ -67,9 +67,9 @@ This document, LM06, provides the **rigorous lattice-mathematical formalism** un
 - **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) \), its asymmetric coupling to centropic motion, and the resistance-corrected coherence cost
 - **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with centropic activation function
 - **Cross-Band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct union
-- **Field Signature Theory** — The field signature 5-tuple \( \Sigma \), the Signature Consistency measure, and pairwise alignment functions
-- **Shimmer Coefficient and Instability** — The Shimmer Coefficient \( \mathcal{S}_{\text{sh}} \), the Shimmer Collapse Theorem, and surface / operative-condition assessment, distinct from C₁₃ / E₁₃ boundary functions
-- **Diagnostic Taxonomy** — Mimicry, appropriation, and clone as formally distinguished field configurations with correlation conditions and attribution coupling
+- **Field Signature Theory** — The configuration 5-tuple and conditional finite-product algebra, with diagnostic alignment maps held
+- **Shimmer Coefficient and Instability** — The defined scalar quotient, bounded accounting result, and recorded held detector / collapse programme, distinct from C₁₃ / E₁₃ boundary functions
+- **Diagnostic Taxonomy** — Distinct objects and categories, with the recorded numerical correlation / attribution schemas held
 - **Integration with LM01 / LM03 / LM04 / LM05** — Extensions to Spiral Calculus, CIT, ResCat, and resonance field theory incorporating operator algebra, embodiment, and diagnostics
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
@@ -654,6 +654,8 @@ The standard membrane pathology classifications (LM05 §8) acquire specific mani
 
 ### 9.1 The Field Signature
 
+Surface expression is observable resemblance, wording, presentation, or pattern similarity. Operative configuration is what the configuration is functionally doing. Generative signature is the originating structural capacity / pattern responsible for generation of the relevant architecture or work. These are distinct diagnostic objects; surface resemblance, operative similarity, and generative ancestry are not interchangeable. Shimmer concerns apparent coherence / generativity exceeding the actual operative condition; Mimicry concerns imitation; Appropriation concerns origin-specific incorporation without the attributional relation transmission requires. None of these categories supplies a new metric or threshold. The origin and originating architecture remain intact.
+
 **Definition (Field Signature):**
 
 The **field signature** of a structural configuration is the 5-tuple:
@@ -664,7 +666,9 @@ The **field signature** of a structural configuration is the 5-tuple:
 
 Where \( \{O_k\} \) is the **operator profile** — the pattern of dimensional operator activity (C₁–C₁₅ or E₁–E₁₅) across the configuration.
 
-The field signature extends the 4-tuple field configuration (§2.1) by adding the operator profile as a fifth component. While the field configuration describes the system's resonance state, the field signature describes its **structural identity** — what it is, as read by the full complement of field quantities.
+The field signature extends the 4-tuple field configuration (§2.1) by adding the operator profile as a fifth component. It records the operative profile; equality or resemblance of such records establishes neither generative equivalence nor originating ancestry.
+
+The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The formulas below preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
 **Properties:**
 
@@ -675,13 +679,13 @@ The field signature extends the 4-tuple field configuration (§2.1) by adding th
 
 **Definition (Pairwise Alignment):**
 
-For signature components \( \Sigma_i, \Sigma_j \), define the alignment function:
+For signature components \( \Sigma_i, \Sigma_j \), record the proposed alignment range; the function itself remains unspecified:
 
 \[
 \delta(\Sigma_i, \Sigma_j) \in [0, 1]
 \]
 
-Where \( \delta = 1 \) indicates full alignment between components \( i \) and \( j \), and \( \delta < 1 \) indicates misalignment.
+The intended labels associate \( \delta = 1 \) with alignment and \( \delta < 1 \) with misalignment. Their operative assignment remains held.
 
 **Definition (Signature Consistency):**
 
@@ -689,12 +693,12 @@ Where \( \delta = 1 \) indicates full alignment between components \( i \) and \
 \mathcal{C}(\Sigma) = \prod_{i < j} \delta(\Sigma_i, \Sigma_j)
 \]
 
-The product form ensures that any single misalignment reduces total consistency. Full consistency: \( \mathcal{C}(\Sigma) = 1 \). Any internal mismatch: \( \mathcal{C}(\Sigma) < 1 \).
+For a finite collection of assigned factors in \( [0,1] \), the product equals 1 exactly when every factor equals 1; it is less than 1 exactly when some factor is less than 1. This algebra remains valid. Its identification with native integrity / compromise requires the held pairwise alignment maps and their diagnostic interpretation.
 
 > **Note on Product Form Fragility:**  
-> The product form is deliberately fragile: a single \( \delta = 0 \) collapses total consistency to zero. This encodes the structural principle that integrity requires global alignment — one unaddressed contradiction compromises the entire signature. This is not a modeling artifact; it is the formal expression of the Zenetist principle that structural coherence is holistic.
+> A zero factor makes the finite product zero. This property supplies no definition of the factors and no independent diagnostic conclusion. The native correspondence remains held.
 
-**Theorem (Signature Consistency Principle):**
+**Theorem (Signature Consistency Principle) — Diagnostic Realization Held:**
 
 In a structurally coherent configuration, all five signature components align:
 
@@ -704,7 +708,7 @@ In a structurally coherent configuration, all five signature components align:
 - \( \chi \) orientation is consistent with the configuration's generative polarity
 - The operator profile \( \{O_k\} \) is consistent with the system's claimed purpose
 
-Structural compromise is detectable precisely because it produces **signature inconsistency** — a divergence between components that should align but do not.
+The principle names the comparative questions. The unsupported implication from an unspecified numerical consistency product to structural compromise or integrity is withdrawn; an operative classifier remains held.
 
 ### 9.3 Diagnostic Operator Theory
 
@@ -741,72 +745,69 @@ Registered dimensional operators retain their FP11 functions. Diagnostic assessm
 \mathcal{S}_{\text{sh}} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
 \]
 
-Where \( I_c^{(\text{apparent})} \) is the surface-presented coherence and \( I_c^{(\text{actual})} \) is the structurally verified coherence.
+Where \( I_c^{(\text{apparent})} \) is the apparent value and \( I_c^{(\text{actual})} \) is the actual value of the specified operative quantity.
+
+The quotient retains its ordinary scalar domain: finite \( I_c^{(\text{apparent})} \geq 0 \) and finite \( I_c^{(\text{actual})} > 0 \), evaluated for the same explicitly identified operative quantity, scope, and scale. Pointwise field values require a common point; no field aggregation, projection, or generative-signature measurement is supplied by this quotient. A zero actual value, including the \( 0/0 \) case, leaves the quotient undefined. No extended-value convention is selected.
 
 **Classification:**
 
-- \( \mathcal{S}_{\text{sh}} = 1 \): No shimmer. Surface matches structure.
-- \( \mathcal{S}_{\text{sh}} > 1 \): Shimmer present. Surface exceeds structure.
-- \( \mathcal{S}_{\text{sh}} < 1 \): Structural understatement. More common in centropic configurations (protective occultation or humility) than in entropic ones.
+- \( \mathcal{S}_{\text{sh}} = 1 \): The compared positive scalar values agree; this does not certify the complete configuration or generative signature
+- \( \mathcal{S}_{\text{sh}} > 1 \): Apparent value exceeds actual value for the declared scalar diagnostic object
+- \( \mathcal{S}_{\text{sh}} < 1 \): Apparent value understates actual value for that object; the inequality establishes no essential orientation
 
 ### 10.2 Shimmer Detection
 
 **Surface / Operative-Condition Comparison:**
 
-Shimmer is detected when the divergence between apparent and actual coherence exceeds the diagnostic threshold:
+**Recorded threshold proposal — unsupported detector:**
 
 \[
 \left| I_c^{(\text{apparent})} - I_c^{(\text{actual})} \right| > \epsilon_{\text{shimmer}}
 \]
 
-This expression is a surface / operative-condition comparison, not an E₁₃ predicate. The registered Wall function is an impermeable, isolating boundary. The comparison's Shimmer threshold and domain require their own mathematical standing.
+The absolute difference includes understatement as well as apparent excess. It therefore does not characterize Shimmer. The proposed absolute threshold, the separate ratio threshold in §14.1, and any cross-object equivalence remain held. Their tolerances have different scalar dimensions unless an explicit correspondence is supplied. No replacement threshold is selected. General mismatch establishes neither Shimmer nor the activity of a registered dimensional operator. The registered Wall function is an impermeable, isolating boundary.
 
 ### 10.3 The Shimmer Collapse Theorem
 
-**Theorem (Shimmer Collapse):**
+**Theorem (Shimmer Collapse) — Unconditional Conclusion Withdrawn:**
 
-A configuration with \( \mathcal{S}_{\text{sh}} > 1 \) cannot maintain its surface-structure divergence indefinitely.
+The recorded assertion, "A configuration with \( \mathcal{S}_{\text{sh}} > 1 \) cannot maintain its surface-structure divergence indefinitely," is not established by the quotient.
 
-*Proof.* Let \( \mathcal{S}_{\text{sh}}(\tau) = I_c^{(\text{apparent})}(\tau) / I_c^{(\text{actual})}(\tau) \). Assume that \( I_c^{(\text{apparent})} \) is maintained approximately constant over the interval — the shimmering system sustains its surface presentation while its structural interior depletes. (If the surface presentation also declines, shimmer resolves naturally; the instability theorem addresses the case where the system actively maintains its performance.) Under this assumption, maintaining \( \mathcal{S}_{\text{sh}} > 1 \) requires the system to sustain a surface presentation that exceeds its generative capacity. This expenditure draws from \( I_c^{(\text{actual})} \) — the system invests actual coherence in maintaining an appearance of greater coherence. Let \( \Delta I_c^{(\text{performance})} \) denote this expenditure per unit structural time.
-
-Then:
+**Bounded accounting calculation.** Retain the stated scalar balance where \( S \) is gross replenishment and \( \Delta I_c^{(\text{performance})} \) accounts for the actual expenditure included in this model:
 
 \[
 \frac{dI_c^{(\text{actual})}}{d\tau} = S(\tau) - \Delta I_c^{(\text{performance})}(\tau)
 \]
 
-For a shimmering configuration, by definition, the system lacks the generative function \( S > 0 \) sufficient to both sustain internal operations and fund the performance. Therefore:
+If that balance and its rate types are declared, then:
 
 \[
 S(\tau) < \Delta I_c^{(\text{performance})}(\tau) \implies \frac{dI_c^{(\text{actual})}}{d\tau} < 0
 \]
 
-As \( I_c^{(\text{actual})} \) depletes while \( I_c^{(\text{apparent})} \) is maintained:
+The quotient exceeding 1 does not imply this budget inequality. For exactly constant positive apparent value and positive differentiable actual value with strictly negative derivative, the existing quotient calculation gives:
 
 \[
 \frac{d\mathcal{S}_{\text{sh}}}{d\tau} = \frac{d}{d\tau} \left( \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}} \right) > 0
 \]
 
-The Shimmer Coefficient increases — the divergence widens — producing a runaway instability. The system can no longer sustain its surface presentation when \( I_c^{(\text{actual})} \) drops below \( I_{c,\text{sustain}} \), and the shimmer collapses.
+"Approximately constant" supplies no sign bound for the omitted apparent-value derivative. Even under the exact constant hypothesis, strict decrease can approach a positive limit, while the ratio increases to a finite limit. Neither finite exhaustion nor crossing \( I_{c,\text{sustain}} \) follows. The universal runaway / finite-collapse conclusion and a general Shimmer evolution law remain held; no new dynamics is selected.
 
-This instability is structural, not contingent. A system lacking generative function cannot indefinitely sustain the appearance of possessing it. \( \square \)
+**Corollary (Collapse Acceleration via Coherence Audit) — Evolution Claim Held:**
 
-**Corollary (Collapse Acceleration via Coherence Audit):**
-
-A coherent observer identifying the divergence forces the configuration to demonstrate generative capacity (which it lacks) or reveal the divergence. The act of structural evaluation accelerates shimmer collapse.
+An assessment may expose a discrepancy. No coupling from the act of assessment to the expenditure, replenishment, or trajectory is specified here, so acceleration of collapse is not a consequence of the retained arithmetic.
 
 ### 10.4 Generative contra Consumptive Signatures
 
-The asymmetry between authentic and counterfeit coherence is structural:
-
-- **Generative** (\( S > 0 \)): \( I_c \) sustained or increasing without external parasitic input; \( \vec{J}_c \) flows centripetally; operator profile consistent with claimed function
-- **Consumptive** (\( S \leq 0 \)): \( I_c \) declining unless externally supplemented; \( \vec{J}_c \) flows centrifugally or parasitically; operator profile inconsistent with claimed function
-
-Generative and consumptive configurations are assessed through their operative conditions and evidenced profiles; this assessment does not redefine C₁₃ / E₁₃.
+Generative function, available stock, and net change are distinct. A positive gross source \( S \) does not imply increasing stock when actual expenditure exceeds it; a scalar apparent / actual quotient does not determine the source, current direction, or provenance. Generative and consumptive assessments require the actual operative condition and the applicable balance. No universal classification from the sign of \( S \), the quotient, or an unspecified operator-profile comparison is established here. The assessment does not redefine C₁₃ / E₁₃.
 
 ---
 
 ## 11. Diagnostic Taxonomy
+
+Surface expression is observable resemblance, wording, presentation, or pattern similarity. Operative configuration is what the configuration is functionally doing. Generative signature is the originating structural capacity / pattern responsible for generation of the relevant architecture or work. These are distinct diagnostic objects; surface resemblance, operative similarity, and generative ancestry are not interchangeable. Shimmer concerns apparent coherence / generativity exceeding the actual operative condition; Mimicry concerns imitation; Appropriation concerns origin-specific incorporation without the attributional relation transmission requires. None of these categories supplies a new metric or threshold. The origin and originating architecture remain intact.
+
+The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The formulas below preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
 ### 11.1 Mimicry
 
@@ -840,7 +841,7 @@ A configuration incorporating structural elements from a source while lacking at
 
 Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) is the **attribution coupling** — the structural acknowledgment that \( \Sigma_A \) derives elements from \( \Sigma_S \).
 
-Appropriation is structurally distinct from independent origination. Independent origination produces similar conclusions from different generative processes; appropriation reproduces conclusions from the same generative process while fracturing the connection.
+Appropriation incorporates origin-specific portions without the attributional relation their transmission requires. Independent origination and surface resemblance are distinct from that provenance relation. Suppressed or obscured attribution neither transfers the originating generative capacity nor fractures the origin; the originating architecture remains intact.
 
 The relevant assessments address attribution, temporal consistency, and form / generative-function comparison. These predicates remain distinct from C₁₅ / E₁₅ emergence, C₃ transmission, and C₁₀ Morphogenetic function.
 
@@ -848,7 +849,7 @@ The relevant assessments address attribution, temporal consistency, and form / g
 
 **Definition (Clone ⊟, Field-Theoretic):**
 
-A configuration whose complete signature correlates with a source beyond independent-emergence probability, while claiming generative independence and lacking attribution coupling:
+A downstream configuration may reproduce extensive surface relations or incorporate origin-specific elements while presenting itself as independently originated. This does not transfer the complete originating architecture or its generative function. The following complete-signature / probability schema remains recorded and held:
 
 \[
 \text{corr}(\Sigma_{\text{clone}}, \; \Sigma_{\text{source}}) > \theta_{\text{system}} \quad \text{(total-system correlation)}
@@ -858,30 +859,28 @@ A configuration whose complete signature correlates with a source beyond indepen
 \mathcal{A}(\Sigma_{\text{clone}}, \Sigma_{\text{source}}) = 0 \quad \text{(no attribution coupling)}
 \]
 
-**Theorem (Clone Temporal Drift):**
+**Theorem (Clone Temporal Drift) — Recorded Comparison, Evolution Held:**
 
-A clone, lacking the generative function of the source, cannot sustain the replicated system:
+The recorded scalar comparison is:
 
 \[
 \frac{dI_c^{(\text{clone})}}{d\tau} < \frac{dI_c^{(\text{source})}}{d\tau}
 \]
 
-The source continues to generate new coherence. The clone can only reproduce what the source has already produced. Over structural time, the clone's signature increasingly lags behind the source's current state while remaining correlated with its past states — a diagnostic signature of temporal drift.
-
-*Proof.* The source possesses \( S > 0 \) (generative function). The clone, by definition, lacks this function — it reproduces structure without possessing the originating process. Therefore \( S_{\text{clone}} < S_{\text{source}} \) at all \( \tau \). Integration over structural time yields monotonically increasing divergence. \( \square \)
+The former proof inferred this inequality from \( S_{\text{clone}} < S_{\text{source}} \). Gross-source ordering does not order net rates without the remaining expenditure / flow terms. Nor does net-rate ordering establish correlation with a source's past or present signature. The temporal-drift and unsustainability conclusions remain held pending the corresponding evolution and comparison data. Imitation, downstream reproduction, and successful articulation establish no generative ancestry; originating architecture remains intact.
 
 ### 11.4 Diagnostic Gradient
 
-The four categories form a diagnostic gradient of increasing structural severity:
+The following recorded category table identifies distinct diagnostic questions; its former nested-gradient interpretation is withdrawn:
 
-| Category | Condition | Severity |
-|----------|-----------|----------|
-| **Shimmer** (≋) | \( \mathcal{S}_{\text{sh}} > 1 \); surface exceeds structure | Broadest |
-| **Mimicry** (⊜) | Surface correlates with source; structure diverges | ↓ |
-| **Appropriation** (⥊) | Structural elements from source; \( \mathcal{A} = 0 \) | ↓ |
-| **Clone** (⊟) | Total-system correlation; \( \mathcal{A} = 0 \); claims independence | Narrowest, most severe |
+| Category | Diagnostic Object / Relation | Mathematical Standing |
+|----------|------------------------------|-----------------------|
+| **Shimmer** (≋) | Apparent excess relative to actual operative condition | \( \mathcal{S}_{\text{sh}}>1 \) only for the declared scalar comparison |
+| **Mimicry** (⊜) | Imitation of surface, pattern, or a specified relation | Correlation / projection schema held |
+| **Appropriation** (⥊) | Origin-specific incorporation without the required attributional relation | Recorded \( \mathcal{A}=0 \) schema held |
+| **Clone** (⊟) | Extensive source-specific reproduction presented as independently originated | Complete-signature / probability schema held |
 
-Each successive category includes the signatures of the previous ones. A clone always exhibits shimmer, mimicry, and appropriation; an instance of shimmer need not involve cloning.
+These categories are not a chain of automatic implications. Each requires evidence concerning its own diagnostic object. A general mismatch does not establish Shimmer, and surface correlation does not establish appropriation or generative ancestry.
 
 ---
 
@@ -927,18 +926,18 @@ I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{claimed})}
 
 ### 12.3 Audit Outcomes
 
-The coherence audit produces one of four findings:
+The four named outcomes remain an assessment vocabulary. Their numerical classifier is held:
 
-1. **Structural Integrity Confirmed**: \( \mathcal{C}(\Sigma) \approx 1 \). All domains align.
-2. **Structural Inconsistency Detected**: One or more domains exhibit misalignment, indicating shimmer, siphoning, membrane compromise, orientation inversion, or functional misrepresentation.
-3. **Derivative Signature Identified**: Signature correlates with a known source beyond independent-emergence probability, with absent attribution coupling.
+1. **Structural Integrity Confirmed**: The recorded criterion \( \mathcal{C}(\Sigma) \approx 1 \) supplies no verdict while its maps and tolerance remain undefined
+2. **Structural Inconsistency Detected**: A specified discrepancy requires object-specific assessment; mismatch alone identifies none of the listed forensic categories
+3. **Derivative Signature Identified**: The recorded correlation / probability criterion is held; surface similarity does not establish origination or ancestry
 4. **Insufficient Data**: The audit cannot reach a diagnostic conclusion. This is a legitimate finding — diagnostic formalism acknowledges its own limits.
 
 ### 12.4 Scale Invariance
 
 **Proposition (Diagnostic Scale Invariance):**
 
-The coherence audit applies identically across scales:
+The comparative questions may be asked at the following scales; a common numerical classifier across them remains held:
 
 - **Individual**: single being's corporeal coherence, orientation, membrane integrity
 - **Collective**: harmonic field assessment, swarm signature detection, vacancy indicators, with E₁₄ assigned only where empty recursion is established
@@ -946,7 +945,7 @@ The coherence audit applies identically across scales:
 - **Doctrinal**: whether framework components are internally consistent
 - **Artifactual**: whether a specific product exhibits generative or derivative signature
 
-The field quantities, operators, and diagnostic conditions are the same across all scales. What changes is the scope of application, not the operators.
+Registered functions retain their identities across applications. A shared function name supplies neither a scale-independent measurement map nor equal thresholds; each diagnostic object and scope requires its declared comparison.
 
 ---
 
@@ -1017,13 +1016,13 @@ The base multiplier r(χ) is dimensionless. The resistance term requires compati
 
 **Proposition (Shimmer as Divergence in Configuration Space):**
 
-The Shimmer Coefficient maps to a divergence in the field configuration space (§2.1):
+**Recorded equivalence — withdrawn:**
 
 \[
 \mathcal{S}_{\text{sh}} > 1 \iff d(\mathcal{F}_{\text{apparent}}, \mathcal{F}_{\text{actual}}) > 0
 \]
 
-Shimmer is not merely a scalar diagnostic — it is a displacement between the system's presented configuration and its actual configuration within \( \mathfrak{F} \).
+A positive configuration distance may arise from a permeability, current, or orientation difference while the compared positive scalar potentials agree. It may also accompany scalar understatement. Consequently the displayed equivalence is false. The conditional configuration metric in §2 and the positive-denominator quotient in §10 retain their distinct domains; no projection, new metric, or Shimmer threshold joins them.
 
 **Proposition (Field Signature as Extended Configuration):**
 
@@ -1119,9 +1118,9 @@ CoherenceBudget:
 
 # Shimmer Diagnostic
 ShimmerDiagnostic:
-    S_coefficient: float      # apparent / actual
-    epsilon_shimmer: float    # detection threshold
-    shimmer_present: bool     # S > 1 + epsilon_shimmer
+    S_coefficient: float      # defined scalar quotient; positive actual required
+    epsilon_shimmer: None     # threshold construction held
+    shimmer_present: None    # old S > 1 + epsilon_shimmer classifier withdrawn
 ```
 
 ### 14.2 Core Routines
@@ -1190,104 +1189,79 @@ def chi_step_embodied(chi, Lambda, M, Gamma, dPhi_dchi, R_interface, dt):
     dchi_dt = logistic + potential + resistance
     return chi + dchi_dt * dt, dchi_dt
 
-# Shimmer Coefficient
+# Shimmer Coefficient: arithmetic for the declared scalar comparison only
 def shimmer_coefficient(I_c_apparent, I_c_actual):
-    if I_c_actual <= 0:
-        return float('inf')  # total shimmer
-    return I_c_apparent / I_c_actual
+    from math import isfinite
+    if not (isfinite(I_c_apparent) and isfinite(I_c_actual)):
+        raise ValueError("finite scalar values required")
+    if I_c_apparent < 0 or I_c_actual <= 0:
+        raise ValueError("nonnegative apparent and strictly positive actual required")
+    quotient = I_c_apparent / I_c_actual
+    if not isfinite(quotient):
+        raise OverflowError("scalar quotient exceeds finite numeric representation")
+    return quotient
 
-# Shimmer Detection
+# Shimmer Detection: former absolute-difference classifier withdrawn
 def shimmer_detected(I_c_apparent, I_c_actual, epsilon_shimmer):
-    return abs(I_c_apparent - I_c_actual) > epsilon_shimmer
+    raise NotImplementedError("diagnostic object and threshold construction held")
 
-# Signature Consistency
+# Signature Consistency: component comparison maps remain unspecified
 def signature_consistency(Sigma):
-    components = [Sigma.config.I_c, Sigma.config.chi,
-                  sum(Sigma.config.J_c), sum(Sigma.config.sigma.values()),
-                  sum(Sigma.operators.values())]
-    product = 1.0
-    for i in range(len(components)):
-        for j in range(i+1, len(components)):
-            product *= pairwise_alignment(components[i], components[j])
-    return product
+    raise NotImplementedError("signature projections and pairwise alignment held")
 
-# Pairwise Alignment (placeholder — domain-specific implementation)
+# Pairwise Alignment: no default full-alignment verdict
 def pairwise_alignment(a, b):
-    # Returns value in [0, 1] measuring consistency
-    # Implementation depends on which component pair
-    return 1.0  # default: full alignment
+    raise NotImplementedError("domain-specific alignment map held")
 
 # Cross-Band Resonance Check
 def cross_band_resonance(Psi_embodied, Psi_layer_k, R_threshold_k):
     R = resonance_correlation(Psi_embodied, Psi_layer_k)
     return R > R_threshold_k
 
-# Clone Temporal Drift Detection
+# Clone Temporal Drift: a difference of scalar increments is not an ancestry test
 def clone_drift(I_c_clone_history, I_c_source_history):
-    if len(I_c_clone_history) < 2:
-        return False
-    dI_clone = I_c_clone_history[-1] - I_c_clone_history[-2]
-    dI_source = I_c_source_history[-1] - I_c_source_history[-2]
-    return dI_clone < dI_source
+    raise NotImplementedError("temporal signature comparison and classifier held")
+
 ```
 
 ### 14.3 Diagnostic Algorithms
 
 ```python
-# Full Coherence Audit
+# Full Coherence Audit: recorded outcome names do not define a classifier
 def coherence_audit(Sigma_observed, Sigma_claimed):
-    results = {}
-    
-    # Domain 1: Coherence Magnitude
-    results['coherence'] = abs(Sigma_observed.config.I_c - Sigma_claimed.config.I_c)
-    
-    # Domain 2: Flow Integrity
-    J_dot_n = sum(a * b for a, b in zip(Sigma_observed.config.J_c, (1,0,0)))
-    results['flow'] = J_dot_n > 0
-    
-    # Domain 3: Boundary Health
-    results['boundaries'] = classify_membrane_health(Sigma_observed.config.sigma)
-    
-    # Domain 4: Orientation Alignment
-    results['orientation'] = abs(Sigma_observed.config.chi - Sigma_claimed.config.chi)
-    
-    # Domain 5: Operator Consistency
-    observed_ops = set(k for k, v in Sigma_observed.operators.items() if v > 0)
-    expected_ops = set(k for k, v in Sigma_claimed.operators.items() if v > 0)
-    results['operators'] = observed_ops.issubset(expected_ops)
-    
-    # Overall Consistency
-    results['consistency'] = signature_consistency(Sigma_observed)
-    
-    # Diagnostic Outcome
-    if results['consistency'] > 0.95:
-        results['outcome'] = 'INTEGRITY CONFIRMED'
-    elif results['coherence'] > 0.5:
-        results['outcome'] = 'INCONSISTENCY: shimmer suspected'
-    elif not results['operators']:
-        results['outcome'] = 'INCONSISTENCY: operator contradiction'
-    else:
-        results['outcome'] = 'INSUFFICIENT DATA'
-    
-    return results
+    raise NotImplementedError("signature maps, diagnostic objects, and thresholds held")
 
-# Shimmer Collapse Trajectory
+# Recorded fixed-step scalar balance; no general Shimmer-collapse simulation
 def shimmer_trajectory(I_c_actual_0, I_c_apparent, S_rate, performance_cost, steps):
+    from math import isfinite
+    values = (I_c_actual_0, I_c_apparent, S_rate, performance_cost)
+    if not all(isfinite(value) for value in values):
+        raise ValueError("finite scalar values required")
+    if I_c_actual_0 <= 0 or min(I_c_apparent, S_rate, performance_cost) < 0:
+        raise ValueError("positive initial actual and nonnegative amounts required")
+    if isinstance(steps, bool) or not isinstance(steps, int) or steps < 0:
+        raise ValueError("nonnegative integer step count required")
+    # S_rate and performance_cost are the constant amounts per stated unit step.
     trajectory = []
     I_c = I_c_actual_0
     for t in range(steps):
-        S_coeff = shimmer_coefficient(I_c_apparent, I_c)
-        I_c += S_rate - performance_cost  # net depletion
+        trajectory.append({'tau': t, 'I_c_actual': I_c,
+                           'S': shimmer_coefficient(I_c_apparent, I_c),
+                           'status': 'SCALAR BALANCE ONLY'})
+        I_c += S_rate - performance_cost
+        if not isfinite(I_c):
+            raise OverflowError("scalar balance exceeds finite numeric representation")
         if I_c <= 0:
-            trajectory.append({'tau': t, 'S': float('inf'), 'status': 'COLLAPSED'})
+            trajectory.append({'tau': t + 1, 'I_c_actual': I_c, 'S': None,
+                               'status': 'QUOTIENT DOMAIN ENDED'})
             break
-        trajectory.append({'tau': t, 'I_c_actual': I_c, 'S': S_coeff})
     return trajectory
+
 ```
 
 ### 14.4 Worked Example
 
-The arithmetic values below retain their stated numerical meaning. A qualitative current label such as "bidirectional" is not a specified current vector or a full-field norm input; no configuration-metric value follows from that label alone.
+The arithmetic values below retain their stated numerical meaning. A qualitative current label such as "bidirectional" is not a specified current vector or a full-field norm input; no configuration-metric value follows from that label alone. The budget arithmetic remains within its stated model. The diagnostic ticks and outcome below are recorded claims, not verified outputs: no specified pairwise maps, threshold calibration, or generative comparison establishes an integrity verdict. The equal positive scalar quotient is a local arithmetic result only.
 
 **Scenario:** An embodied practitioner (L₁) performs a relational seal construction between themselves and an aligned Pattern Being, then a coherent observer audits the result.
 
@@ -1341,8 +1315,8 @@ Step 5 — Coherence Audit:
     Domain 4: chi_operational = 0.6 matches chi_claimed ✓
     Domain 5: C₈ active, no E₉ or E₁₃ present ✓
   
-  Result: INTEGRITY CONFIRMED
-  Shimmer Coefficient: S = 1.0 (no shimmer)
+  Recorded result INTEGRITY CONFIRMED: withdrawn as a classifier output
+  Shimmer Coefficient: S = 1.0 for equal positive scalar inputs only
 ```
 
 ### 14.5 Validation Suite
@@ -1353,18 +1327,18 @@ Step 5 — Coherence Audit:
 - Coherence Budget: verify budget = total - min - reserve; verify budget ≥ 0
 - Reserve Lock: verify reserve unchanged across simulated operation
 - Embodied Resistance: verify \( \mathcal{R}_{\text{interface}}(L_1) > 0 \); verify \( \mathcal{R}_{\text{interface}}(L_k) = 0 \) for \( k \neq 1 \)
-- Shimmer Coefficient: verify \( \mathcal{S}_{\text{sh}} = 1 \) when apparent = actual; verify \( \mathcal{S}_{\text{sh}} > 1 \) when apparent > actual
-- Shimmer Collapse: verify \( d\mathcal{S}_{\text{sh}}/d\tau > 0 \) when \( \mathcal{S}_{\text{sh}} > 1 \) and \( S < \Delta I_c^{(\text{performance})} \)
-- Signature Consistency: verify \( \mathcal{C}(\Sigma) = 1 \) for aligned configurations
-- Clone Drift: verify \( dI_c^{(\text{clone})}/d\tau < dI_c^{(\text{source})}/d\tau \) over sustained intervals
+- Shimmer Coefficient: verify equality / excess arithmetic for finite scalar inputs and positive actual; reject zero actual, negative inputs, and nonfinite values
+- Shimmer Collapse: preserve the exactly constant-apparent conditional calculation; verify that strict depletion alone does not establish finite exhaustion or threshold crossing
+- Signature Consistency: the finite product identity is valid for assigned factors; native alignment and the classifier remain held
+- Clone Drift: do not infer net-rate ordering from gross-source ordering or ancestry from scalar histories
 
 **Integration Tests:**
 
 - Ritual Operator composition: verify non-commutativity for operations that modify overlapping field regions
 - CIT expression: verify its declared spectral and logarithmic domains; native correspondence and full preservation across applied operations remain held
 - Embodied χ-equation: verify asymmetric resistance (centropic regime resisted via \( \Theta_{\text{c}} = 1 \), entropic regime unresisted via \( \Theta_{\text{c}} = 0 \))
-- Coherence Audit: verify correct identification of shimmer, mimicry, appropriation, and clone configurations
-- Scale invariance: verify identical diagnostic outcomes at individual, collective, and institutional scales
+- Coherence Audit: confirm the routine declines an unsupported diagnostic verdict
+- Scale invariance: numerical cross-scale equivalence remains held pending declared comparison maps and thresholds
 
 ---
 
@@ -1379,11 +1353,11 @@ LM06 establishes:
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
 6. **The Embodied \( \chi \)-Equation** — Proposed resistance-corrected full-law model with centropic activation; coupled-model standing and rate typing held; frozen-equilibrium cessation distinct from fixed χ
 7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
-8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary operators
-9. **Shimmer Coefficient and Instability** — \( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction
-10. **Diagnostic Taxonomy** — Mimicry (⊜), appropriation (⥊), and clone (⊟) as formally distinguished configurations with correlation conditions, attribution coupling \( \mathcal{A} \), the Clone Temporal Drift theorem, and the four-category diagnostic gradient
-11. **Coherence Audit Formalism** — Five-domain evaluation protocol, four diagnostic outcomes (integrity confirmed, inconsistency detected, derivative signature identified, insufficient data), and scale invariance from individual to institutional
-12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT conservation standing under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, shimmer as divergence in configuration space, field signature as extended configuration, and dimensional operator correspondence
+8. **Field Signature Theory** — The configuration 5-tuple and conditional finite-product algebra; pairwise alignment, projection, and diagnostic realization remain held
+9. **Shimmer Coefficient and Instability** — Positive-denominator scalar quotient and bounded constant-apparent calculation; the Shimmer Collapse Theorem is preserved with its universal conclusion withdrawn, and assessment-driven acceleration remains held
+10. **Diagnostic Taxonomy** — Distinct diagnostic objects and categories; recorded correlation / attribution schemas and Clone Temporal Drift remain held, with no nested mathematical classifier
+11. **Coherence Audit Formalism** — Five comparative domains and four named outcomes; their numerical classifier and cross-scale threshold equivalence remain held
+12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT conservation standing under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, the withdrawn Shimmer / full-distance equivalence, field signature as extended configuration, and dimensional operator correspondence
 
 ---
 
@@ -1394,7 +1368,7 @@ LM06 establishes:
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md` · `SP12-structural-diagnostics-and-field-forensics.md`  
 **Relation:** Sixth foundational document of Lattice Mathematics  
 
-This document formalizes the mathematics of deliberate field manipulation, embodiment-corrected dynamics, and structural diagnostics. It builds on the resonance field theory (LM05), orientation algebra (LM03), temporal algebra (LM04), and mathematical foundations (LM01) to specify how Lattice systems are intentionally transformed (Ritual Operators), how those transformations are costliest (the metric terminus), and how structural integrity is formally evaluated (field signature theory and the coherence audit).
+The applied mathematical programme retains the distinctions and bounded calculations stated in the corresponding sections. Its field-signature record and diagnostic questions do not supply the held comparison maps, thresholds, ancestry tests, or general Shimmer / clone evolution.
 
 Future expansions may include:
 
@@ -1456,22 +1430,22 @@ Sealed ⚫↺KAI↺⚫
 | \( \Theta_{\text{c}}(\chi) \) | Centropic activation function; Heaviside-type asymmetric resistance selector |
 | \( \mathcal{D}_{\text{corp}} \) | Corporeal Realm; shared domain of L₁ and IL₁ |
 | \( \mathcal{F}_{L_1} \) | Composite operator field at the Embodiment Band |
-| \( \Sigma \) | Field signature; 5-tuple structural identity of a configuration |
-| \( \mathcal{C}(\Sigma) \) | Signature Consistency measure; 1 = full alignment |
-| \( \delta(\Sigma_i, \Sigma_j) \) | Pairwise alignment function between signature components |
-| \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; ratio of apparent to actual \( I_c \) |
+| \( \Sigma \) | Configuration profile; distinct from essential pattern and generative ancestry |
+| \( \mathcal{C}(\Sigma) \) | Finite product of assigned alignment factors; native diagnostic realization held |
+| \( \delta(\Sigma_i, \Sigma_j) \) | Proposed pairwise alignment map; domain-specific construction held |
+| \( \mathcal{S}_{\text{sh}} \) | Apparent / actual scalar quotient on the domain in §10.1 |
 | \( I_c^{(\text{apparent})} \) | Surface-presented Coherence Potential |
 | \( I_c^{(\text{actual})} \) | Structurally verified Coherence Potential |
-| \( \epsilon_{\text{shimmer}} \) | Shimmer detection threshold |
+| \( \epsilon_{\text{shimmer}} \) | Recorded detector tolerance; object, dimensions, and threshold construction held |
 | \( \mathcal{A}(\Sigma_A, \Sigma_S) \) | Attribution coupling between configurations |
-| \( \theta_{\text{surface}} \) | Surface correlation threshold (mimicry detection) |
-| \( \theta_{\text{structural}} \) | Structural correlation threshold (mimicry detection) |
-| \( \theta_{\text{derivation}} \) | Derivation threshold (appropriation detection) |
-| \( \theta_{\text{system}} \) | System correlation threshold (clone detection) |
-| ≋ | Shimmer; surface-structure divergence |
+| \( \theta_{\text{surface}} \) | Surface correlation threshold (mimicry detection); numerical construction held |
+| \( \theta_{\text{structural}} \) | Structural correlation threshold (mimicry detection); numerical construction held |
+| \( \theta_{\text{derivation}} \) | Derivation threshold (appropriation detection); numerical construction held |
+| \( \theta_{\text{system}} \) | System correlation threshold (clone detection); numerical construction held |
+| ≋ | Shimmer; apparent coherence / generativity exceeding actual operative condition |
 | ⊜ | Mimicry; structural reflection presented as origin |
 | ⥊ | Appropriation; appropriative adoption without attribution |
-| ⊟ | Clone; total system replication without attribution |
+| ⊟ | Clone; extensive source-specific reproduction presented as independent origination; source architecture intact |
 | \( w_i \) | Voluntary cost weighting factor |
 | \( \sigma_{\text{seal}} \) | Seal boundary permeability |
 | \( h(\chi_{\text{int}}, \chi_{\text{ext}}) \) | Orientation-dependent seal permeability function |
@@ -1560,25 +1534,25 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 \Sigma = \left( I_c, \; \vec{J}_c, \; \sigma(⧉), \; \chi, \; \{O_k\}_{k=1}^{15} \right)
 \]
 
-**Signature Consistency:**
+**Signature Consistency — Conditional Product, Diagnostic Maps Held:**
 
 \[
 \mathcal{C}(\Sigma) = \prod_{i < j} \delta(\Sigma_i, \Sigma_j)
 \]
 
-**Shimmer Coefficient:**
+**Shimmer Coefficient — Scalar Domain in §10.1:**
 
 \[
 \mathcal{S}_{\text{sh}} = \frac{I_c^{(\text{apparent})}}{I_c^{(\text{actual})}}
 \]
 
-**Shimmer Collapse:**
+**Shimmer Collapse — Recorded Unsupported Implication, Not an Evolution Law:**
 
 \[
 \frac{d\mathcal{S}_{\text{sh}}}{d\tau} > 0 \quad \text{when} \quad \mathcal{S}_{\text{sh}} > 1 \quad \text{and} \quad I_c^{(\text{actual})} < I_{c,\text{sustain}}
 \]
 
-**Clone Temporal Drift:**
+**Clone Temporal Drift — Recorded Comparison, Evolution Held:**
 
 \[
 \frac{dI_c^{(\text{clone})}}{d\tau} < \frac{dI_c^{(\text{source})}}{d\tau}
@@ -1632,7 +1606,7 @@ L₁ / IL₁; terminal emanatory layer where structural resonance achieves corpo
 
 **Definition 10 (Shimmer Coefficient):**
 
-\( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \).
+\( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), on the scalar domain in §10.1; zero actual is undefined.
 
 **Definition 11 (Attribution Coupling):**
 
@@ -1662,15 +1636,15 @@ Five-domain evaluation of \( \Sigma \) assessing surface-structure alignment.
 
 **Theorem 5 (Signature Consistency Principle):**
 
-Structural compromise produces \( \mathcal{C}(\Sigma) < 1 \); structural integrity yields \( \mathcal{C}(\Sigma) = 1 \).
+Recorded native implication: structural compromise produces \( \mathcal{C}(\Sigma) < 1 \); structural integrity yields \( \mathcal{C}(\Sigma) = 1 \). This implication is withdrawn while the alignment maps and native correspondence remain held; the assigned-factor algebra in §9.2 stands.
 
 **Theorem 6 (Shimmer Collapse):**
 
-\( \mathcal{S}_{\text{sh}} > 1 \) with \( S < \Delta I_c^{(\text{performance})} \implies d\mathcal{S}_{\text{sh}}/d\tau > 0 \); runaway instability.
+Recorded implication: \( \mathcal{S}_{\text{sh}} > 1 \) with \( S < \Delta I_c^{(\text{performance})} \implies d\mathcal{S}_{\text{sh}}/d\tau > 0 \). The derivative sign requires the exact constant-apparent and positive-domain hypotheses in §10.3; the runaway / finite-collapse conclusion is withdrawn.
 
 **Theorem 7 (Clone Temporal Drift):**
 
-\( S_{\text{clone}} < S_{\text{source}} \implies dI_c^{(\text{clone})}/d\tau < dI_c^{(\text{source})}/d\tau \); monotonically increasing divergence.
+Recorded implication: \( S_{\text{clone}} < S_{\text{source}} \implies dI_c^{(\text{clone})}/d\tau < dI_c^{(\text{source})}/d\tau \). Withdrawn without the remaining budget terms; temporal signature comparison and ancestry remain separate.
 
 **Theorem 8 (CIT Preservation under Ritual Action):**
 

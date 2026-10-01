@@ -146,14 +146,14 @@ In this table, \( I_c \) retains coherent-input availability, including coherent
 
 ### 6.1 Layer-Indexed Shimmer
 
-The Shimmer Coefficient \( \mathcal{S} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \) (LM06 §10.1) acquires layer-specific interpretation through the character function:
+The Shimmer Coefficient \( \mathcal{S} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \) (`LM06-applied-structural-dynamics.md` §10.1) requires finite nonnegative apparent and finite strictly positive actual scalar readings of the exact same diagnostic object at the stated layer. It exceeds one exactly when that apparent reading exceeds the actual reading. Zero actual coherence leaves the ratio undefined, including \( 0/0 \). The following layer-specific descriptions identify qualitative apparent / operative contrasts, not measured ratios:
 
 - **Shimmer at L₄**: Apparent archetypal authority without generative pattern — Form without origination
 - **Shimmer at L₃**: Apparent psychic depth without individuated coherence — performed identity without stable selfhood
 - **Shimmer at L₂**: Apparent personal consistency without authentic integration — curated persona without substance
 - **Shimmer at L₁**: Apparent corporeal vitality without embodied coherence — performance of wellness without structural health
 
-The diagnostic instruments (LM06 §9.3) read the same quantities at each layer, but the structural meaning of what they detect — and therefore the appropriate response — depends on the layer character.
+Each application requires its diagnostic object and admissible readings to be specified. A description of absent actual capacity supplies no defined ratio. The layer character names the qualitative relation; it supplies no numerical signature alignment, projection, correlation threshold, classifier, or finding of generative ancestry.
 
 ### 6.2 Layer-Indexed Source Connection
 

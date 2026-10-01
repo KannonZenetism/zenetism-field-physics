@@ -123,9 +123,9 @@ Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory 
 ### SP12 — Structural Diagnostics and Field Forensics
 `SP12-structural-diagnostics-and-field-forensics.md`
 
-The diagnostic capstone. Every structural configuration — individual, collective, institutional, doctrinal, or artifactual — produces a readable field signature: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. Establishes the C / E operators as formal diagnostic operators, provides the formal physics of Shimmer (recursive mimicry as a detectable field phenomenon), clone identification through derivative-source signature mismatch, and systematic coherence audit methodology. Diagnostic physics does not take sides; it reads the field.
+The diagnostic capstone. Every structural configuration — individual, collective, institutional, doctrinal, or artifactual — produces a readable field signature: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. Establishes the C / E operators as formal diagnostic operators, distinguishes Shimmer's apparent / actual excess from Mimicry and Appropriation, and organizes systematic coherence inquiry. The Shimmer ratio retains its same-object scalar domain; numerical signature mismatch, correlation thresholds, and clone classification remain held pending specification. Surface resemblance supplies no generative ancestry. Diagnostic physics does not take sides; it reads the field.
 
-**Key contributions:** Field signature theory, diagnostic operator theory, Shimmer physics, clone identification, coherence audit methodology, the Structural Forensic interface.
+**Key contributions:** Descriptive field signatures, registered diagnostic functions, bounded Shimmer comparison, distinct forensic categories, qualitative coherence audit, the Structural Forensic interface.
 
 ---
 
