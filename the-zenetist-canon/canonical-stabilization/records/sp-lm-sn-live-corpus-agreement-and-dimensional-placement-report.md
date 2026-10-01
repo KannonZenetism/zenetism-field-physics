@@ -2001,9 +2001,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07` (set09); `5592c25dfd833821e2fc6814d04453e351e33b00` (set09-sp03-phase-gloss-completion). The existing SP03 root-register gloss now distinguishes Khaon's registered whole-name from the Motive phase. The exact one-line correction and every retained file byte were verified. An append-only commit preserves all forty-two prior SP03 path-history entries, including their commit identifiers, author / committer timestamps and parents. Verification and push checkboxes apply to the published subsets recorded here.\
-**Residual holds / unresolved findings:** The reviewed GUD and contingency-MPX phase paragraphs remain unpublished pending the separate GUD write check. The two non-embedded SP rasters retain their conditional root / expression-limit / phase / model questions; both Tripartite glossary archives remain protected evidence.\
-**New dependencies discovered during implementation:** The SP03 root-register sentence was a direct phase-function replica. Its prior commit history remains intact; the current correction adds one descendant commit without changing an existing commit.
+**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07` (set09); `5592c25dfd833821e2fc6814d04453e351e33b00` (set09-sp03-phase-gloss-completion); `1aa38b396aceb18f497150a549e860be28c0caf2` (set09-contingency-phase-completion). The contingency MPX's exact opening paragraph now retains Khaon / Absolute Dispersion as the whole-name across the three phases and assigns motion capacity / activity specifically to the Motive phase. The one-paragraph scope, mathematical preservation and existing register were verified. Verification and push checkboxes apply to this completed one-file portion.\
+**Residual holds / unresolved findings:** GUD's prepared Infinity summary and dissolution-process phase clarifications remain unpublished because the publication action requires specific approval after an automated review denial. This technical publication block supplies no new architect or mathematical hold. The two non-embedded SP rasters retain their conditional model / label / root / phase questions.\
+**New dependencies discovered during implementation:** SP03's companion phase-gloss correction is already verified in its separate append-only commit. This MPX paragraph is another portion of the same reviewed phase supplement; the GUD portion remains pending.
 
 **Implemented active paths:**
 
@@ -2018,6 +2018,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `zenetism/MP09-time-death-and-glossary-ch22-24.md`
 - `zenetism/MP11-codex-of-principles-ch26.md`
 - `zenetism/mpx/celestial-signs-and-structural-patterning.md`
+- `zenetism/mpx/contingency-of-worlds.md`
 - `zenetism/mpx/correction-of-entropic-advantage.md`
 - `zenetism/symbolic-reflections/prologue-of-john.md`
 
