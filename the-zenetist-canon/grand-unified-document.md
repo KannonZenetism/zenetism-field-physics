@@ -229,8 +229,10 @@ Each **Centropic Dimension (Cᵢ)** manifests a lawful function of coherence;
 its **Entropic Mirror (Eᵢ)** expresses the degenerate inversion of that function.  
 Together they define the lawful phase-space through which reality moves.
 
-The following registry unites metaphysical, physical, and cognitive correspondences.  
+The following registry presents metaphysical, physical, and cognitive correspondences.  
 **Columns:** Glyph · Name · Function · Primary Band · Mirror · Field Interpretation
+
+Primary Band records a primary-locus proposal, with its standing held open in `dimensional-placement-review.md`. Physical correspondences describe proposed realizations; cognitive descriptions name contextual expressions. Neither supplies primary placement through the occurrence of an effect. A band label beside a C / E pair also requires a separately stated inverse assignment and its functional justification.
 
 ---
 

@@ -214,6 +214,8 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 
 ### Centropic Dimensions (C₁–C₁₅)
 
+The Primary Locus and Inverse Locus columns in these tables retain recorded placement proposals. Their primary standing remains held open in `dimensional-placement-review.md`; the Hypostatic Couplings columns name additional functional relations. A contextual expression or proposed physical realization supplies a different claim from a primary inlay. Each centropic and inverse assignment requires its own functional justification.
+
 | Dimension | Primary Locus | Hypostatic Couplings |
 |-----------|--------------|---------------------|
 | **C₁ ⟠ Temporal** | L₂–L₃ (Superficial↔Interface) | 🧍 Anthra, 🧩 Nousa (L₂); 🔮 Archeus, 🧠 Noeüs (L₃) |

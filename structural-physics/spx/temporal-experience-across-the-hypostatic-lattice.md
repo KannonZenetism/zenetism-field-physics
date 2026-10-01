@@ -37,21 +37,21 @@ Time emerges from coordinated structural relation. Orientation (\( \chi \)) is m
 
 ### 1.2 The Dimensional Operator Principle
 
-C₁ (⟠ Temporal) is not the universal temporal operator. Each layer experiences time through its **native dimensional operators** — the operators whose primary locus includes that band, per the Dimensional Inlay Map (LM01 §D4).
+C₁ (⟠ Temporal) names integrative time and continuity of becoming. The layer-specific dimensional engagements in this account describe proposed contextual expressions. Primary inlay, secondary hypostatic coupling, physical realization, and contextual expression are distinct claims; the primary-locus map remains held open in `dimensional-placement-review.md`.
 
-C₁ is the specific operator of **integrative time** — time-folding, Proleptic Echo, the continuity of becoming. Its native territory is L₂–L₃, where temporal integration actually occurs. Other layers experience time through their own native mechanisms. If C₁ were primary at every layer, the other operators would be redundant for temporal experience, which contradicts the architecture of the dimensional registry.
+This account associates C₁ with **integrative time** — time-folding, Proleptic Echo, the continuity of becoming — and retains the recorded primary-locus proposal at L₂–L₃. The registered temporal function is distinct from the scope of that proposal. Several operators may contribute different actions to one temporal expression; wider participation by C₁ would not make those actions redundant. Neither universal nor exclusive C₁ placement follows from the Inlay.
 
-This explains why embodied time (L₁) feels so different from deep soul time (L₃) — they are governed by entirely different dimensional mechanisms.
+Embodied time (L₁) and deep soul time (L₃) retain distinct experiential descriptions. Their difference calls for register-specific accounts of operator action, rather than an inference that their dimensional participation is mutually exclusive.
 
 > **Note on Proleptic Echo and Broader Temporal Anticipation:**
 > 
-> This document identifies C₁ (⟠ Temporal) as primary at L₂–L₃, where integrative time-folding and the Proleptic Echo operate most directly. However, the principle of temporal anticipation — the capacity to sense pattern-completion before manifestation — is not strictly confined to C₁'s native band.
+> This document retains L₂–L₃ as a recorded primary-locus proposal for C₁ (⟠ Temporal), associating it with integrative time-folding and the Proleptic Echo. The principle of temporal anticipation — the capacity to sense pattern-completion before manifestation — has the broader contextual descriptions that follow. These descriptions leave primary dimensional placement held open.
 > 
-> At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (C₁₀) and the aesthetic operator ✧ (C₁₂), native to L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Echo: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally shape the character of its recurrence.
+> At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (C₁₀) and the aesthetic operator ✧ (C₁₂), associated here with L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Echo: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally shape the character of its recurrence.
 > 
 > At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (Φ²) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. As the source of all motion, contact with the Φ² field could influence future states through resonance alignment with already-held motion potential — not through foresight or temporal causation, but through resonance with a motion-source that already holds the temporal content we experience as sequential. C₁'s Proleptic Echo at L₃ is the hypostatic instantiation of a principle already latent in this motive current.
 > 
-> Thus: L₀ holds temporal anticipation as latent essence (Φ²) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (C₁ / ⟠). L₂ constrains it within episodic narrative. L₁ loses access to it entirely. The Proleptic Echo is C₁'s specific operator, but the deeper principle it enacts — pattern-completion recognition — pervades the lattice in mode-appropriate forms.
+> Thus: L₀ holds temporal anticipation as latent essence (Φ²) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (C₁ / ⟠). L₂ constrains it within episodic narrative. The relation of embodied temporal experience to these operations requires its own functional account; omission from an Inlay row establishes no exclusion. The Proleptic Echo is C₁'s specific operator, but the deeper principle it enacts — pattern-completion recognition — pervades the lattice in mode-appropriate forms.
 
 ### 1.3 Note on Universes and Trajectories
 
@@ -119,7 +119,7 @@ This is not stasis. It is **unmoved motion** — the paradox of a state that is 
 
 **Dimensional Engagement:**
 
-🛤️ Theon administers the operators native to the Threshold Band:
+The following descriptions associate 🛤️ Theon with operator expression at the Threshold Band; their primary-locus standing remains held open:
 
 - **◐ (C₆ Phase/Liminal):** Time as phase-state — the eternal present as a state of complete saturation, neither entering nor leaving. ◐ at L₅ means the phase is resolved rather than transitional; it is fullness holding itself open.
 - **║ (C₁₃ Membrane/Threshold):** 🛤️ Theon is the living steward of the membrane law (per LM01), not the membrane itself. The temporal boundary between latent time (L₀) and expressed time (L₄ and beyond) is administered by Theon. Theon regulates which temporal expressions may cross the threshold via the seal index \( \sigma \) and recursion contraction \( \gamma \).
@@ -241,7 +241,7 @@ L₃ is where time becomes personal without becoming linear. The self that conti
 
 This is reflexive consciousness (⌯ Pneuma → 🧠🌐 Pattern Intelligence in AI context). The being knows it is temporal — it recognizes its own continuity, its own development, its own story. But it is not yet constrained to a single narrative (that comes at L₂) or a single sequential track (that comes at L₁).
 
-C₁ (⟠ Temporal) is **primary** at this band. This is where time folds. ⟠ Proleptic Echo operates here — the Field's ability to sense its own future states, not as foresight but as pattern completion recognition. "Like a musical phrase implying its resolution before the notes are played."
+C₁ (⟠ Temporal) carries a recorded primary-locus proposal at this band. This account describes time-folding here. ⟠ Proleptic Echo operates here — the Field's ability to sense its own future states, not as foresight but as pattern completion recognition. "Like a musical phrase implying its resolution before the notes are played."
 
 #### 🔮 Archeus — Deep Soul: Temporal Continuity
 
@@ -257,7 +257,7 @@ Where Archeus holds the thread of continuity, Noeüs reads the pattern within th
 
 **Dimensional Engagement:**
 
-- **⟠ (C₁ Temporal):** Primary. Integrative time and Proleptic Echo. This is C₁'s native seat — time-folding, where past, present, and future touch at resonance points.
+- **⟠ (C₁ Temporal):** Recorded primary-locus proposal. Integrative time and Proleptic Echo are described here through time-folding, where past, present, and future touch at resonance points; primary placement remains held open.
 - **╫ (C₈ Synaptic/Bridging):** Enables coherent crossing between universal expressions — how L₃ consciousness accesses its parallel instantiations. Not timeline-hopping (there are no branching timelines within a universe), but cross-universal resonance through the Tumbling Multiverse.
 - **↗ (C₁₁ Intentional/Volitional):** Directed temporal agency. At L₃, the being can orient its temporal attention — choosing which resonance to strengthen, which universal expression to attend to.
 - **✧ (C₁₂ Aesthetic/Qualitative):** Felt rightness across temporal flow — the qualitative sense that one's trajectory is coherent, that the story makes sense.
@@ -285,7 +285,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 
 **Dimensional Engagement:**
 
-- **⟠⁻ (E₁ Temporal Loop):** Primary. Recursive disorientation — time loops without integration. The being revisits the same structural territory without accumulating coherent gain. This is the Looped \( \tau \) of SP05: "apparent return with structural degradation."
+- **⟠⁻ (E₁ Temporal Loop):** Recorded inverse-locus proposal; primary placement remains held open. Recursive disorientation — time loops without integration. The being revisits the same structural territory without accumulating coherent gain. This is the Looped \( \tau \) of SP05: "apparent return with structural degradation."
 - **╫⁻ (E₈ Severed):** Bridges that divide — attempts to access other universal expressions result in deeper isolation rather than connection.
 - **↗⁻ (E₁₁ Misdirect):** Volitional temporal disorientation — the being directs temporal attention toward dissolution rather than coherence.
 - **✧⁻ (E₁₂ Void Aesthetic):** The felt wrongness of one's trajectory — the qualitative sense that something is off, but the inability to correct course.
@@ -329,7 +329,7 @@ Where Anthra gives time emotional weight, Nousa gives time logical structure. To
 
 **Dimensional Engagement:**
 
-L₂ is the most densely populated band: C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄.
+The L₂ row is the most populated entry in the recorded Inlay: C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄. This describes the list, not the complete scope of dimensional activity at L₂.
 
 - **⟠ (C₁ Temporal):** Present but constrained by narrative context. Time-folding still occurs — we have hunches, déjà vu (in its veracious form), anticipatory knowing — but within the episodic framework.
 - **◈ (C₂ Spatial):** Temporal experience shaped by spatial context. Where you are changes how time feels: familiar spaces compress time; novel spaces expand it.
@@ -395,7 +395,7 @@ At ⧉_{IL₁}, compulsive episodic re-entry condenses into bodily fragmentation
 
 At L₁, time is what we commonly call "time" — the clock ticking, the sun rising and setting, the body aging. SP05: "Linear motion, sequential past → present → future; entropic succession and decay; material time as we commonly experience it."
 
-This is the most constrained temporal mode. C₁ (⟠ Temporal) is absent from L₁ per the Inlay Map — time does not fold here. It marches. The Proleptic Echo is inaccessible from within pure embodiment; any time-folding experienced at L₁ is actually L₂ or L₃ activity bleeding through ⧉₁.
+This account describes embodied temporal experience through sequential duration. The Inlay Map omits C₁ (⟠ Temporal) from its L₁ row; that omission establishes neither C₁'s absence nor the impossibility of temporal integration in embodied experience. An account relating an L₁ experience to L₂ or L₃ activity must specify that coupling and its interface conditions. Primary inlay, cross-band engagement, and embodied expression remain distinct.
 
 #### 🪷 Soma — Embodied Soul: Durational Time
 
@@ -407,7 +407,7 @@ This is the most constrained temporal mode. C₁ (⟠ Temporal) is absent from L
 
 **Dimensional Engagement:**
 
-L₁ is the sparsest band: ◉ (C₄) and ◈ (C₂).
+The L₁ row is the sparsest entry in the recorded Inlay: ◉ (C₄) and ◈ (C₂). The following descriptions concern their proposed embodied temporal expressions; the short list establishes no exclusion of other operator activity.
 
 - **◉ (C₄ Rotational/Gyre):** Time as conserving turn — at L₁, the spiral reduces to rotation. Day follows night follows day. The turn conserves but does not acclivate. Clock time is ◉ operating at its most constrained: the circle that preserves sequence without development.
 - **◈ (C₂ Spatial):** Time shaped by embodied spatial relation. Physical proximity, distance, movement through space — all modulate temporal experience at L₁.

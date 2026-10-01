@@ -200,9 +200,9 @@ The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consi
 
 ### 5.3 Banding and the Inlay Map
 
-The banding structure (Supra-L₀ through L₅–L₁ and IL₅–IL₁) and the Inlay Map (dimensions assigned to bands) are stable. Two enrichments from later documents should be noted.
+The distinction between pre-hypostatic requisites and the hypostatic bands remains established. The Inlay Map records dimensional assignments whose primary standing remains held open in `dimensional-placement-review.md`. Hypostatic banding does not settle dimensional placement. Two later treatments develop traversal and embodied contributions.
 
-LM04 §5 introduces Bidirectional Traversal — acclivous and declivous dynamics across the Inlay Map — formalizing how field quantities move between bands. This gives the Inlay Map a dynamic character that LM01's static assignment of dimensions to bands does not capture. The Inlay Map tells you which operators are present at each layer; LM04's traversal formalism tells you how those operators interact when a system moves between layers.
+LM04 §5 treats Bidirectional Traversal — acclivous and declivous dynamics between bands. Its traversal relations and LM01's recorded dimensional assignments are distinct claims. The Inlay lists proposed associations rather than an exhaustive account of where operators can act; an unlisted operator is not thereby absent. A traversal treatment must specify the relevant action and interface conditions rather than infer them from a row assignment.
 
 LM06 §6.4 introduces the composite operator field at L₁:
 
@@ -210,7 +210,7 @@ LM06 §6.4 introduces the composite operator field at L₁:
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
 \]
 
-This enriches the Inlay Map at the Embodiment Band by specifying not only which operators are present but how they compose — including cross-band contributions from C₅ (Scalar / Part-Whole Fidelity) spanning L₁ through L₄, and C₁₀ (Morphogenetic / Formweave) translating pattern (L₄) into living structure (L₁).
+This describes a proposed embodied composite: C₂ / C₄ contribute locally, with cross-band contributions from C₅ (Scalar / Part-Whole Fidelity) spanning L₁ through L₄, and C₁₀ (Morphogenetic / Formweave) relating pattern (L₄) to living structure (L₁). Local contribution, cross-band coupling, and physical realization remain distinct from primary dimensional inlay. The endpoint relation preserves the intervening registers and their interfaces.
 
 ### 5.4 Entropic Cascade Operators
 

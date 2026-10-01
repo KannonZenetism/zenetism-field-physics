@@ -521,7 +521,7 @@ This reflects the structural law: coherence must be achieved; dispersion need no
 
 **Definition (Composite Operator Field at L₁):**
 
-The dimensional operator dynamics at the Embodiment Band form a composite field:
+The dimensional operator dynamics at the Embodiment Band form a composite field. Primary contribution here is relative to this embodied model; the global primary-inlay question remains held open in `dimensional-placement-review.md`:
 
 \[
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
@@ -529,7 +529,7 @@ The dimensional operator dynamics at the Embodiment Band form a composite field:
 
 Where:
 
-- \( f(C_2, C_4) \) represents primary operator contributions: C₂ (Spatial / Cohered Extension) determines felt location and bodily orientation; C₄ (Rotational / Gyre) determines conserving rhythms and cyclical stability
+- \( f(C_2, C_4) \) represents primary contributions within this embodied model: C₂ (Spatial / Cohered Extension) determines felt location and bodily orientation; C₄ (Rotational / Gyre) determines conserving rhythms and cyclical stability
 - \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Scalar / Part-Whole Fidelity) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic / Formweave) translates pattern (L₄) into living structure (L₁)
 
 Embodied beings who resonate with supernal layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
@@ -1039,11 +1039,11 @@ The diagnostic formalism operates on the extended space \( \mathfrak{F} \times \
 The dimensional operators acquire specific applied functions within LM06:
 
 **C₂ (Spatial / Cohered Extension):**
-- Primary at L₁; determines spatial coherence of embodied form
+- Primary contribution in the L₁ composite of §6.4; determines spatial coherence of embodied form
 - Entropic mirror E₂: spatial decoherence, signal contamination, field dilution
 
 **C₄ (Rotational / Gyre):**
-- Primary at L₁; determines conserving rhythms of corporeal existence
+- Primary contribution in the L₁ composite of §6.4; determines conserving rhythms of corporeal existence
 - Entropic mirror E₄: consumptive collapse of cyclical processes
 
 **C₅ (Scalar / Part-Whole Fidelity):**

@@ -193,9 +193,9 @@ When \( I_c \) expenditure contra the resistance term depletes coherence reserve
 
 ### 3.4 Dimensional Operators at the Embodiment Band
 
-The Inlay Map (Field Physics / Lattice Mathematics) designates the following primary and cross-band operators at L₁:
+The following embodied model distinguishes primary contributions within its L₁ composite from cross-band contributions present through resonance. This local contribution distinction leaves global primary dimensional inlay held open in `dimensional-placement-review.md`.
 
-**Primary Operators:**
+**Primary Contributions in the Embodied Model:**
 
 **C₂ (Spatial / Cohered Extension)** — At L₁, C₂ determines the spatial coherence of embodied form: felt location, bodily orientation, the coherent extension of the self within the Corporeal Realm. Its coupling to Soma (🪷) provides the spatial grounding of embodied experience. Its entropic mirror, E₂ (Scatter), manifests at IL₁ as spatial decoherence — dissociative space, the fragmentation of bodily presence.
 
@@ -215,7 +215,7 @@ These operators do not function in isolation. At L₁, they produce a composite 
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
 \]
 
-Where \( f \) represents the primary operator contributions (spatial coherence, cyclical stability) and \( g \) represents the cross-band contributions (part-whole reflection, morphogenetic formation). Embodied beings who resonate with the deeper layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
+Where \( f \) represents the primary contributions within this embodied model (spatial coherence, cyclical stability) and \( g \) represents its cross-band contributions (part-whole reflection, morphogenetic formation). Embodied beings who resonate with the deeper layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
 
 ---
 
@@ -657,12 +657,12 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{F}_{L_1} \) | Composite field of dimensional operator dynamics at the Embodiment Band |
 | \( \sigma(⧉_1) \) | Permeability coefficient of the cognitive-to-embodied membrane |
 | \( T(⧉_1) \) | Transfer function at the cognitive-to-embodied membrane |
-| C₂ | Spatial; cohered extension; felt location (primary at L₁) |
-| C₄ | Rotational / Gyre; conserving turn; cyclical stability (primary at L₁) |
+| C₂ | Spatial; cohered extension; felt location (primary contribution in the L₁ model) |
+| C₄ | Rotational / Gyre; conserving turn; cyclical stability (primary contribution in the L₁ model) |
 | C₅ | Scalar / Part-Whole Fidelity; part reflecting whole (cross-band at L₁, spans L₁–L₄) |
 | C₁₀ | Morphogenetic / Formweave; pattern into living structure (cross-band, bridges L₁↔L₄) |
-| E₂ | Scatter; spatial decoherence (primary entropic mirror at IL₁) |
-| E₄ | Vortex; consumptive collapse (primary entropic mirror at IL₁) |
+| E₂ | Scatter; spatial decoherence (primary inverse contribution in the embodied model at IL₁) |
+| E₄ | Vortex; consumptive collapse (primary inverse contribution in the embodied model at IL₁) |
 | E₁₀ | Malform; distortion at the point of formation (cross-band entropic mirror) |
 | Ø | Localized Dissolution; structural resolution of frozen equilibrium with ceased enacted orientation |
 | Soma (🪷) | Embodied Soul; centropic presence in form |

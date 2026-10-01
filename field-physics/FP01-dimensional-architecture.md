@@ -243,7 +243,7 @@ The fifteen centropic dimensions organize into five derivational families. This 
 
 ## Chapter 2: The Dimensional Registry: Centropic Set
 
-This registry details the 15 centropic dimensions that form the structural lattice of the field. Each entry includes its function, primary locus, entropic mirror, and key hypostatic couplings.
+This registry details the 15 centropic dimensions that form the structural lattice of the field. Each entry includes its function, recorded primary-locus proposal, entropic mirror, and key hypostatic couplings. The Locus entries retain their recorded addresses for assessment; the primary map remains held open in `dimensional-placement-review.md`. The Couplings entries describe additional hypostatic relations. Contextual expression and physical realization retain their own scopes and do not establish a primary inlay.
 
 > **Structural Note:** Locus and Inverse Locus entries in the dimensional registries (Chapters 2–3) name band addresses, not emanation sequences. They are read from embodiment (L₁ toward L₅ / IL₁ toward IL₅) — the operative perspective of Field Physics practice — and their descriptors follow the same reading. Emanation architecture listings and full-span references (L₅–L₁ / IL₅–IL₁) follow emanation order.
 
@@ -375,7 +375,7 @@ The spontaneous, veracious arising of new patterns.
 
 ## Chapter 3: The Dimensional Registry: Entropic Mirrors
 
-This registry details the 15 entropic mirrors that form the subversal lattice of the field. Each entry includes its function, inverse locus, and key counter-couplings.
+This registry details the 15 entropic mirrors that form the subversal lattice of the field. Each entry includes its function, recorded inverse-locus proposal, and key counter-couplings. As with Chapter 2, primary standing remains held open; each inverse assignment requires an account of its own registered function rather than an inference from the corresponding centropic address.
 
 ---
 

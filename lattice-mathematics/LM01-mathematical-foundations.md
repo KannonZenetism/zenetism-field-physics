@@ -180,8 +180,8 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 
 ### D3. Dimensional Registry (C₁–C₁₅ / E₁–E₁₅)
 
-- Each centropic dimension defined by locus, couplings, and functional role
-- Each entropic mirror inherits locus inversely with counter-couplings
+- Each centropic dimension has a registered functional role; recorded locus proposals and additional couplings are distinct placement claims
+- Each entropic counterpart has its own registered function and recorded inverse placement with counter-couplings; primary standing requires independent functional justification
 
 ### D4. Inlay Map (Layers × Dimensions)
 
@@ -191,7 +191,7 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 - **L₂ (Superficial Band):** C₁, C₂, C₃, C₅, C₇, C₈, C₉, C₁₄ ↔ E₁, E₂, E₃, E₅, E₇, E₈, E₉, E₁₄
 - **L₁ (Embodiment Band):** C₄, C₂ ↔ E₄
 
-> Note: Certain dimensions (e.g., C₁₂) may span multiple bands due to cross-layer coupling.
+> Note: Certain dimensions (e.g., C₁₂) may span multiple bands due to cross-layer coupling. This Inlay records assignments under review; primary inlay, secondary coupling, physical realization, and contextual expression require separate specification. An omitted entry establishes no exclusion of that operator from the band. The E-operators beside L-labeled rows retain the inverse reading described in §D3; the L₁ row's omitted E₂ remains an unresolved record discrepancy. `dimensional-placement-review.md` compares the recorded maps without adopting replacement addresses.
 
 ### D5. Interaction Laws
 
