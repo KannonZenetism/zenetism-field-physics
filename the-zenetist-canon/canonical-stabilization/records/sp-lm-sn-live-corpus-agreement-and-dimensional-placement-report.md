@@ -2186,13 +2186,29 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Corpus changes complete
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `af6678420e432f257c688f8ceb1de7c031956c79`. The injective sealed-state Recursive Memory mapping and distinct access / Tether functions are retained. Unsupported scalar-memory equations, routines, examples and injectivity-to-no-cycles claims are retired with recorded provenance. All five retired routines decline numerical evaluation; the two-cycle witness and dependent-source checks passed.\
+**Residual holds / unresolved findings:** A future scalar valuation requires its own domain, normalization, ordering, time dependence, path relation and sign. Completed retirement supplies no such construction. LM06's separately undeclared temporal coefficient remains a held schema rather than an inferred memory value.\
+**New dependencies discovered during implementation:** Memory-dependent temporal derivative replicas in SP05, SP07 and LM05, LM02 commentary, LM06 §13.1, the LM README, the LMX Appendix A.2 note and analytic temporal entries required matching standing. The independently defined general and fluid derivatives remain intact.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/README.md`
+- `lattice-mathematics/lmx/zenetism-as-cross-disciplinary-grammar.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-physics/SP05-time-memory-hypostatic-flow.md`
+- `structural-physics/SP07-energy-ontology-and-spectral-flow.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 
 ## Set 14 — Recovery Accounting and Exhaustion
 
