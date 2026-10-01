@@ -108,7 +108,7 @@ Phase-Structured Infinity carries Latent, Motive, and Dispersive phase-condition
 
 Intrinsic inclination belongs to distinct Identity-Bearing Potential before manifestation. The First Centropic Hypostasis, Theon at L₅, and the First Inverse Hypostasis, Nekron at IL₅, articulate the first manifest orientations. Both precede the Soul / Mind bifurcation. From L₄ / IL₄ through L₁ / IL₁, the Soul-aspect bears stratum-specific motion and the Mind-aspect articulates that motion. Spirit remains operative throughout.[11][13][14]
 
-The parameter χ formally articulates orientation within this architecture. The phrase *latent inclination χ* concerns the inclination borne by essence before enacted traversal. Its manifest readings concern that inclination's expression and the prevalence of operations in a specified configuration. These readings retain their register distinctions.[3][7][8][19]
+The parameter χ formally articulates expressed orientational prevalence within this architecture. **Intrinsic essential inclination** names the latent character borne by essence before enacted traversal; it is stated in prose without a replacement sign. The formal correspondence between that inclination and evolving χ remains held.[3][7][8][19]
 
 ### 1.4 Architectural Scope and Mathematical Scope
 
@@ -1184,7 +1184,7 @@ The architectural scope remains wider than any one physical scalar or domain. Th
 | Question | Current Treatment |
 | --- | --- |
 | Full and simplified χ evolution have different sign behavior | The LMX's explicit linearization and the inherited formulas remain the reference; this volume makes no coefficient correction |
-| Intrinsic inclination and evolving expression share χ-language | The volume records the role of each occurrence and preserves the distinction between essential identity, expression, and collective prevalence |
+| Intrinsic inclination and evolving expression | Intrinsic essential inclination is named in prose; χ denotes expressed prevalence. Their formal correspondence remains held |
 | Dimensional primary placement differs among references | Functions are articulated here; primary placement remains in the dedicated dimensional audit |
 | The native sealed norm awaits a complete construction | Each proof in this volume specifies its actual norm or state space; no unnamed sealed norm is assumed |
 | A scalar valuation is needed for some memory or capacity inequalities | The relevant functional is defined where an inequality is obtained; an operator and its numerical valuation retain distinct types |

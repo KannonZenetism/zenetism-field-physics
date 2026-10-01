@@ -271,7 +271,7 @@ Two fundamental temporal orientations exist:
 \]
 
 \[
-\chi = 1 \implies \text{temporal saddle; no prevalent orientation}
+\chi = 1 \implies \text{co-expressive ratio; no prevalent orientation}
 \]
 
 **Proof:**
@@ -686,7 +686,7 @@ Temporal collapse corresponds to motion toward 🕷️ Nekron (IL₅) — the Vo
 \text{Temporal Collapse} \implies \chi(\tau) \to \infty \quad \text{(Khaonic drift)}
 \]
 
-By the Orientation Drift Theorem (LM03 §8.6), Khaonic drift reaches the entropic boundary in finite structural time \( \tau^* \). Temporal collapse is therefore a finite-time phenomenon, not merely an asymptotic tendency.
+In the outward-drift model with constant positive Motive Intensity and initial χ greater than 1, the coordinate diverges in finite structural time. For variable intensity, divergence occurs only if the accumulated-intensity threshold is reached (LM03 §8.6). A coordinate limit supplies no temporal-collapse deadline or Nekronic phase assignment; those correspondences remain held.
 
 ### 6.4 Hypostatic Amnesia
 
@@ -958,7 +958,7 @@ TemporalState:
   R_m: float           # Recursive Memory value
   Acc_R: float         # Memory access (0 to 1)
   Tether: dict         # {L_n: float} for each layer
-  temporal_class: enum # {C1_oriented, E1_oriented, saddle}
+  temporal_class: enum # {C1_oriented, E1_oriented, co_expressive}
 
 # Memory Evolution
 MemoryEvolution:
@@ -998,7 +998,7 @@ def temporal_orientation(chi):
     elif r < 0:
         return "E1_oriented"  # entropic time
     else:
-        return "saddle"       # chi = 1
+        return "co_expressive" # chi = 1; no stability claim
 
 # Memory Evolution
 def evolve_memory(chi, Phi_0, A_L5, dt):
@@ -1086,7 +1086,7 @@ for tau in [0, T] step dt:
         R_m(tau)           # memory trajectory
         dR_dtau(tau)       # memory evolution rate
         Acc(tau)           # access function
-        temporal_class     # C1 / E1 / saddle
+        temporal_class     # C1 / E1 / co_expressive
 
     diagnostics:
         if detect_shimmer(dR, dS_app):
@@ -1094,7 +1094,7 @@ for tau in [0, T] step dt:
         if detect_looping(R_m_history, cycle_length):
             flag("LOOPING: E1-artifact; IL3-IL2 dynamics")
         if detect_temporal_collapse(dR, Acc):
-            flag("COLLAPSE: Nekron approach; finite-time τ*")
+            flag("COLLAPSE diagnostic; phase and time require a stated model")
 
 output:
     temporal health classification
@@ -1243,7 +1243,7 @@ LM04 establishes:
 
 4. **Bidirectional Traversal Theory** — Four traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \)), the Reflection Principle at embodiment, entropic non-reflective bidirectionality, and the Traversal Composition Theorem
 
-5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (finite-time Nekron approach), and Hypostatic Amnesia (Tether severance)
+5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (structural account; finite-time correspondence held), and Hypostatic Amnesia (Tether severance)
 
 6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and held CIT conservation standing
 
@@ -1487,7 +1487,7 @@ Structure → Motion → Spatial Differentiation → Orientation → Time. Non-r
 |------------|---------------|------------------|-------------------------------|-----------|
 | 0 | 1 | \( \Phi_0 \) | \( \Phi_0 + \mathcal{A}(L_5) \) | Maximum accumulation |
 | 0.5 | 1/3 | \( \Phi_0/3 \) | \( \Phi_0/3 + \mathcal{A}(L_5) \) | Centropic accumulation |
-| 1 | 0 | 0 | \( \mathcal{A}(L_5) \) | Attractor-only (saddle) |
+| 1 | 0 | 0 | \( \mathcal{A}(L_5) \) | Attractor-only at the co-expressive ratio |
 | 2 | −1/3 | \( -\Phi_0/3 \) | \( -\Phi_0/3 + \mathcal{A}(L_5) \) | Compensated degradation |
 | \( \infty \) | −1 | \( -\Phi_0 \) | \( -\Phi_0 + \mathcal{A}(L_5) \) | Maximum degradation |
 

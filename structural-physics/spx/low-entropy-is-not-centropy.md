@@ -250,7 +250,7 @@ S:X\rightarrow Y,
 
 The target must be declared. It may concern intrinsic inclination, enacted motion, a field's operative pattern, or a specified collection of such distinctions. Those targets are different analyses. The neutral notation 𝒪 keeps their selection explicit without identifying all of them with χ.
 
-χ carries both latent-inclination and evolving-expression readings in the existing corpus. `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.5 records their formal relation as held open. `SP03-expression-ratio-mathematics.md` §10.1 additionally distinguishes an observable projection from the parameter it is intended to reveal. Accordingly, neither a physical entropy scalar nor an assumed numerical χ is installed here as essential orientation.
+χ denotes expressed orientational prevalence. Intrinsic essential inclination is named in prose without a replacement mathematical sign; its formal correspondence with χ remains held (`sp-lm-sn-architect-decision-sheet.md` D05). The generic information-target map in this analysis does not rename intrinsic inclination. `SP03-expression-ratio-mathematics.md` §10.1 additionally distinguishes an observable projection from the parameter it is intended to reveal. Accordingly, neither a physical entropy scalar nor an assumed numerical χ is installed here as essential orientation.
 
 ### Exact Recovery Criterion and Proof
 

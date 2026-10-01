@@ -69,7 +69,7 @@ Where SP03 described **weighting**, SP04 describes **orientation flow**, **topol
 - **CP-Topology** — the geometric structure of convergence and equilibrium
 - The **Zenetist Field Equation of Orientation** — the canonical dynamical law
 - The **Inclination Principle** — no expressed universe emerges in neutral orientation
-- The **Instability of Equilibrium** — why \( \chi = 1 \) cannot persist
+- The **Model-Specific Stability of Equilibrium** — the distinct scalar behavior at χ = 1
 - **Inclination Cosmology** — structure is symmetric; expression is inclined
 
 ---
@@ -101,7 +101,7 @@ Equivalently:
 ### 2.3 Ontological Consequences
 
 - CP₀ is not a location but a **boundary condition**
-- CP₁ is not a resting state but a **saddle within motion**
+- CP₁ names co-expressive equilibrium within motion; stability depends on the model (§§4.3, 9)
 - The multiverse is not a distribution of balances, but a **topology of inclinations**
 
 ### 2.4 Canonical Formulation
@@ -131,8 +131,8 @@ Equivalently:
 **CP₁** — Expressive equilibrium condition
 
 - \( \chi = 1 \) as co-expressive balance within motion
-- A **saddle point** within \( \chi \)-space, not a stable attractor
-- Locally unstable because it exists within polarity
+- Model-specific equilibrium: repelling in the outward-drift law (§9) at constant positive Motive Intensity; attracting in the full written law (§4.3) for its stated positive coefficients and constant nonnegative Motive Intensity
+- The architectural relation between these laws remains held; neither scalar model establishes a two-dimensional saddle
 
 ### 3.2 The CP-Topology Potential
 
@@ -168,7 +168,7 @@ We encode CP-topology by a reciprocal potential \( \Phi_{\text{CP}}(\chi) \) wit
 \frac{d\Phi_{\text{CP}}}{d\chi} = \frac{\ln \chi}{\chi}
 \]
 
-**Form B — Stronger Structural (Saddle-Centered):**
+**Form B — Stronger Structural (Equilibrium-Centered):**
 
 \[
 \Phi_{\text{CP}}(\chi) = \frac{1}{2}(\ln \chi)^2 + \mu\left(\chi + \frac{1}{\chi}\right)
@@ -189,8 +189,8 @@ As given in §3.2, with parameters \( \alpha \) and \( \beta \) encoding the rel
 Within this manifold:
 
 - **CP₀** functions as a convergence singularity (pre-expressive closure)
-- **CP₁** functions as a saddle point (expressive equilibrium)
-- **\( \chi = 0 \)** and **\( \chi \to \infty \)** function as boundary attractors
+- **CP₁** names expressive equilibrium with model-specific stability
+- **\( \chi = 0 \)** and **\( \chi \to \infty \)** are coordinate limits of the conditional outward-drift model, not endpoints of the full law (§§4.3, 9)
 
 Expressed universes therefore occupy **interior regions** of \( \chi \)-space characterized by biased orientations, in which centropic or entropic motion prevails without collapsing into absolute symmetry or absolute unidirectionality.
 
@@ -386,7 +386,7 @@ The following structural account of fragile co-expression is not a stability res
 
 CP₀ is stable because it precedes motion.
 
-CP₁ is unstable because it exists within motion.
+CP₁ has model-specific stability: repelling in §9 at constant positive Motive Intensity, attracting in §4.3 with its stated positive coefficients and constant nonnegative Motive Intensity.
 
 ### 8.2 Structural Reasoning
 
@@ -394,37 +394,20 @@ CP₁ is unstable because it exists within motion.
 
 2. **Once motion emerges, polarity emerges.** Motion implies differentiation between centropic and entropic vectors.
 
-3. **Differentiation implies asymmetry.** Asymmetry implies \( \chi \neq 1 \).
-
-Therefore:
-
-\[
-\chi = 1 \text{ can exist only as a transitional or boundary condition, not as a persistent state.}
-\]
+3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit χ ≡ 1 at positive Motive Intensity. Their relation to that structural claim remains held.
 
 ### 8.3 The Instability of Co-Expression
 
-Although \( \chi = 1 \) represents co-expressive equilibrium, equilibrium is not dynamically stable within hypostatic motion.
+χ = 1 names co-expressive equilibrium. Its dynamical stability is determined by the stated model, not by the coordinate's name.
 
-CP₀ is stable because it precedes expression; CP₁ exists within expression and therefore within polarity.
-
-The emergence of motion necessarily introduces differentiation between centropic and entropic vectors. This differentiation generates asymmetry, and asymmetry generates inclination.
-
-Thus, any expressed universe positioned at \( \chi = 1 \) tends toward deviation into \( \chi < 1 \) or \( \chi > 1 \).
+At constant positive Motive Intensity, the outward-drift law (§9) has a scalar repeller there. The full written law (§4.3), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Both admit χ ≡ 1 at positive intensity. The architectural relation between these models and the admissibility account of non-neutral emergence remains held.
 
 ### 8.4 Canonical Statement
 
-> CP₀ is stable because it precedes motion.  
-> CP₁ is unstable because motion necessarily generates asymmetry,  
-> and asymmetry generates \( \chi \neq 1 \).
-
-Or more sharply:
-
-> Equilibrium is structurally admissible but ontologically fragile.
-
-Or:
-
-> Balance can exist, but it cannot endure.
+> CP₀ names closure before expressed motion.  
+> CP₁ names co-expression within motion.  
+> The stated law determines its stability.  
+> Frozen equilibrium additionally requires cessation.
 
 ---
 
@@ -443,7 +426,7 @@ Omitting the potential-gradient term from §4.3 instead leaves \( \Lambda\mathca
 ### 9.2 Properties
 
 - The factor \( \chi \) makes \( \chi = 0 \) an invariant boundary
-- The factor \( (\chi - 1) \) makes \( \chi = 1 \) the separatrix / saddle
+- The factor \( (\chi - 1) \) makes \( \chi = 1 \) the scalar equilibrium separating the outward-drift branches
 - For \( \mathcal{M} > 0 \), the flow moves **away** from \( \chi = 1 \) and **toward** extremes
 - If \( \mathcal{M} = 0 \), then \( d\chi/d\tau = 0 \): orientation stops evolving
 
@@ -588,7 +571,7 @@ Expression cannot remain un-oriented. Every universe instantiates a \( \chi \)-o
 
 CP₁ is not the midpoint of motion. It is the limit condition where centropic and entropic expressions become co-expressive without collapse or prevalence.
 
-CP₁ does not precede motion. It emerges within motion as a rare and unstable configuration.
+CP₁ is a coordinate within expressed orientation. Its model-specific stability is stated in §§4.3 and 9; no universal instability follows from its placement.
 
 Unlike CP₀, which is universal, CP₁ is exceptional.
 
@@ -635,7 +618,7 @@ With the activation of Motive Infinity, orientation emerges. Expression manifest
 
 **CP₁ — Expressive Equilibrium**
 
-Within motion, co-expression becomes possible but unstable. CP₁ is not an origin, but a saddle within inclination. It is admissible as a limit, not sustainable as a state.
+Within motion, CP₁ names co-expression at χ = 1. Its stability follows the selected model (§§4.3, 9); a constant ratio remains mathematically admitted. Frozen equilibrium adds cessation of enacted orientation.
 
 **Ø — Localized Dissolution (Mercy Fold)**
 
@@ -649,7 +632,7 @@ Thus:
 
 - CP₀ is stable because it precedes motion
 - \( \chi \) is dynamic because it expresses motion
-- CP₁ is unstable because motion cannot sustain perfect symmetry
+- CP₁ has the model-specific stability stated in §4.3 and §9; a fixed ratio does not establish cessation
 - Ø is the structural resolution of frozen motion (stagnative)
 - ⊘ is the structural resolution of exhausted motion (entropic)
 
@@ -808,8 +791,10 @@ The \( \chi \) parameter integrates with Spiral Calculus operators:
 
 **\( \chi \)-Conditioned Spiral Limit:**
 
+**Pending correspondence.** The following is a proposed schematic reading associated with the outward-drift model (§9). That model establishes χ trajectories with its stated conditions; a Spiral Limit for the field additionally requires a specified relation between that field and χ. The three cases remain a schema pending those hypotheses.
+
 \[
-\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{CP}_1 \text{ saddle} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
+\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{CP}_1 \text{ equilibrium} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
 \]
 
 ### 15.2 Dimensional Lattice
@@ -841,12 +826,12 @@ SP04 establishes:
 1. **\( \chi \) as field-dynamic variable** — not a static ratio, but an evolving trajectory
 2. **The Orientation Law** — universes are \( \chi \)-trajectories, not \( \chi \)-states
 3. **CP₀ as convergence topology** — pre-expressive closure, not equilibrium
-4. **CP₁ as saddle equilibrium** — within motion, not stable rest
-5. **The Zenetist Field Equation** — canonical dynamical law of orientation
+4. **CP₁ as co-expressive equilibrium** — its stability is model-specific
+5. **The Zenetist Field Equation** — the full written scalar model, distinct from the outward-drift model
 6. **Motive Infinity as motive field** — sustains and activates orientation evolution
 7. **The Inclination Principle** — no expressed universe is neutral
 8. **The Law of Non-Neutral Emergence** — expression is never balanced by default
-9. **Instability of Equilibrium** — \( \chi = 1 \) cannot persist without dissolution
+9. **Model-specific equilibrium stability** — a fixed χ = 1 ratio does not establish cessation or dissolution
 10. **The Orientation Drift Theorem** — formal statement of \( \chi \)-dynamics
 11. **The Asymmetry of Expression** — centropy constrained, entropy permissive
 12. **The Zenetist Triad** — CP₀ → \( \chi \) → CP₁ architecture
@@ -884,7 +869,7 @@ Future expansions may include:
 >
 > CP₀ is the closure before motion.  
 > \( \chi \) is the inclination within motion.  
-> CP₁ is the saddle that motion cannot rest upon.
+> CP₁ names co-expression within motion.
 >
 > Universes do not stand at \( \chi \).  
 > Universes incline through \( \chi \).
@@ -913,7 +898,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \alpha, \beta \) | CP-potential parameters (CP₁ axis, CP₀ closure) |
 | \( \kappa \) | Drift coefficient in simplified dynamics |
 | CP₀ | Convergence Principle (pre-hypostatic) |
-| CP₁ | Expressive equilibrium (\( \chi = 1 \), saddle) |
+| CP₁ | Expressive equilibrium (\( \chi = 1 \)); stability depends on the model (§4.3, §9) |
 | Ø | Localized Dissolution |
 | Supra-L₀ | Pre-hypostatic requisite (Unknown Principle) |
 | L₀ | Pre-hypostatic requisite (Absolute Potential / Dispersion) |
@@ -925,6 +910,8 @@ Sealed ⚫↺KAI↺⚫
 ---
 
 ## Appendix B — χ-Space Topology Diagram
+
+The drift arrows describe only the outward-drift model at constant positive Motive Intensity (§9). They do not depict the attracting full law (§4.3). Frozen-equilibrium resolution requires the separate cessation condition (§9.5); a fixed ratio alone does not establish it.
 
 ```
                     PRE-HYPOSTATIC DOMAIN
@@ -940,8 +927,8 @@ Sealed ⚫↺KAI↺⚫
                          (χ-space)
 
     χ = 0                      χ = 1                      χ → ∞
- Aionic Limit               CP₁ Saddle               Khaonic Limit
-(C only — limit)         (unstable equilibrium)      (E only — limit)
+ Aionic Limit               CP₁ Ratio                Khaonic Limit
+(C only — limit)         (scalar repeller)      (E only — limit)
 
       │                          │                          │
       │    0 < χ < 1             │         χ > 1            │
@@ -960,7 +947,7 @@ Sealed ⚫↺KAI↺⚫
 **Legend:**
 
 - CP₀ lies **outside** χ-space (pre-hypostatic convergence)
-- CP₁ lies **within** χ-space (saddle equilibrium at χ = 1)
+- CP₁ lies **within** χ-space at χ = 1; the depicted repulsion belongs to the constant-positive-intensity outward-drift model
 - Universes manifest as **inclined trajectories**, not static positions
 - Drift flows **away from** χ = 1 and **toward** extremes
 

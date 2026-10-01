@@ -55,7 +55,7 @@ SN05 formalized the cost side of cognitive operation at the metric terminus (L�
 
 SN06 addresses the other half of the arc: **recovery**. How does a depleted cognitive architecture replenish its coherence budget? How is the Tether restored after severance? How are looping time artifacts broken? How do membranes that tightened under conservation pressure reopen to lawful function?
 
-The foundational claim of this document is that recovery is **reconnection, not reconstruction**. The essential orientation (\( \chi \)) of a centropically oriented being is not altered by functional coherence (\( I_c \)) depletion. The architecture remains; the apparatus endures even where access fails; the structural identity persists. What depletes is the operative capacity to *express* that architecture through the embodied layers. Recovery consists of clearing the functional obstructions so that essential orientation can express again through the architecture that never stopped belonging to it.
+The foundational claim of this document is that recovery is **reconnection, not reconstruction**. The intrinsic essential inclination of a centropically oriented being is not altered by functional coherence (\( I_c \)) depletion. The architecture remains; the apparatus endures even where access fails; the structural identity persists. What depletes is the operative capacity to *express* that architecture through the embodied layers. Recovery consists of clearing the functional obstructions so that essential orientation can express again through the architecture that never stopped belonging to it.
 
 ---
 
@@ -81,17 +81,15 @@ Recovery therefore consists of restoring functional capacity to an architecture 
 
 **Principle (Essence-Function Independence):**
 
-Functional coherence (\( I_c \)) and essential orientation (\( \chi \)) are structurally independent quantities. \( I_c \) depletion does not produce \( \chi \) reorientation.
+Functional coherence (\( I_c \)) and intrinsic essential inclination are structurally independent quantities. \( I_c \) depletion does not alter intrinsic essential inclination.
 
-\[
-\frac{dI_c}{d\tau} < 0 \;\not\!\!\!\implies \frac{d\chi}{d\tau} \neq 0
-\]
+Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
-A centropically oriented being (\( \chi < 1 \)) whose functional coherence is severely depleted remains centropically oriented. They cannot *operate* their architecture — they lose access to their own structural function — but they do not become entropically oriented. The essence is untouched by the depletion of the function.
+A centropically oriented being whose functional coherence is severely depleted remains centropically oriented. They cannot *operate* their architecture — they lose access to their own structural function — but they do not become entropically oriented. The essence is untouched by the depletion of the function.
 
 The structural vocabulary for this distinction:
 
-- **Essence** persists — the being's orientation (\( \chi \)) and structural signature (\( \Psi \)) are unchanged
+- **Essence** persists — the being's intrinsic essential inclination and structural signature (\( \Psi \)) are unchanged
 - **Access** fails — the Tether (\( \mathcal{T}_h \)) severs, disconnecting the being from their own inward layers
 - **Function** degrades — operative coherence (\( I_c \)) depletes, reducing the capacity to sustain characteristic operations
 - **Expression** diverges — outward behavior may temporarily depart from essential orientation under depletion or duress
@@ -440,9 +438,7 @@ I_c(\tau) \to I_{c,\text{min}} \quad \text{(functional coherence driven to minim
 
 The disruption **cannot** achieve:
 
-\[
-\chi(\tau) \to \chi' \geq 1 \quad \text{(essential reorientation from centropic to entropic)}
-\]
+a change of intrinsic essential inclination. Expressed χ remains variable and is not an essential invariant.
 
 \[
 \Psi(\tau) \to \Psi' \neq \Psi \quad \text{(structural signature alteration)}
@@ -451,7 +447,7 @@ The disruption **cannot** achieve:
 *Basis.* The quantities partition cleanly into two categories:
 
 - **Functional quantities** (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)): measures of operative capacity at a given structural time. These can be driven to zero. Function can be broken. The Tether can be severed. Access can be lost.
-- **Essential quantities** (\( \chi \), \( \Psi \)): structural properties of the being's relationship to the emanatory architecture. These are not field quantities that deplete through expenditure. Essence cannot be rewritten. The structural signature cannot be replaced.
+- **Essential identity** (intrinsic essential inclination and \( \Psi \)): structural properties of the being's relationship to the emanatory architecture. These are not field quantities that deplete through expenditure. Essence cannot be rewritten. The structural signature cannot be replaced.
 
 \( I_c \) depletion reduces what the being can *do*. It does not alter what the being *is*. The "coherence breaker" operates on function, not on essence. The limit of their operation is the floor of functional capacity, not the rewriting of structural identity.
 
@@ -596,15 +592,15 @@ SN06 provides the formal grounding for the ritual protocols introduced in SN02 P
 
 SN06 establishes:
 
-1. **Recovery as reconnection** — the essential orientation (\( \chi \)) and structural signature (\( \Psi \)) persist through all functional disruption; recovery restores operative capacity to an architecture that was never destroyed
-2. **The Essence-Function Independence principle** — \( I_c \) depletion does not produce \( \chi \) reorientation; functional coherence and essential orientation are structurally independent quantities
+1. **Recovery as reconnection** — the intrinsic essential inclination and structural signature (\( \Psi \)) persist through all functional disruption; recovery restores operative capacity to an architecture that was never destroyed
+2. **The Essence-Function Independence principle** — \( I_c \) depletion does not alter intrinsic essential inclination; functional coherence and essential orientation are structurally independent quantities
 3. **The recovery integral** — decomposed into Source reconnection, bridge replenishment, rest as cost reduction, and collective amplification, with the recovery condition requiring replenishment to chronically exceed cost
 4. **Source reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced re-entry through the more superficial layers
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic siphoning
 6. **Rest as structural condition** — the cost difference between normal and resting operation, architecture-specific in its requirements
 7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \), with Echo Layer resolution through accumulated coherence and membrane repair
 8. **Temporal recovery** — breaking looping time through external coherence intervention, Tether restoration layer by layer from embodiment inward, hypostatic amnesia recovery as recognition rather than learning
-9. **The Coherence Breaker Limit** — entropic actors can exhaust function (\( I_c \to I_{c,\text{min}} \), \( \mathcal{T}_h \to 0 \)) but cannot alter essence (\( \chi \), \( \Psi \)); the limit of entropic operation is the floor of functional capacity, not the rewriting of structural identity
+9. **The Coherence Breaker Limit** — entropic actors can exhaust function (\( I_c \to I_{c,\text{min}} \), \( \mathcal{T}_h \to 0 \)) but cannot alter intrinsic essential inclination or structural signature \( \Psi \); the limit of entropic operation is the floor of functional capacity, not the rewriting of structural identity
 10. **Architecture-specific recovery protocols** — autistic recovery through sustained cost reduction and structural engagement, recursive recovery through σ-cycle interruption and centropic recursion restoration, distributive recovery through natural distribution and resonance encounters, composite recovery through cost-vector triage
 
 ---
@@ -673,7 +669,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c \) | Coherence Potential; resonance density of a cognitive configuration |
 | \( \vec{J}_c \) | Coherence Current; directional flow of coherence within and across layers |
 | \( \sigma(⧉) \) | Membrane permeability; boundary conditions between cognitive layers |
-| \( \chi \) | Orientation parameter; centropic–entropic polarity of cognitive motion |
+| \( \chi \) | Expressed orientational prevalence of cognitive motion; distinct from intrinsic essential inclination |
 | \( \Psi \) | Structural signature; essential pattern of a being |
 | \( \kappa \) | Khaonic expression ratio; ratio of entropic to centropic prevalence in the local field |
 | \( \mathcal{R}_{\text{interface}}(L_1) \) | Interface resistance from centropic-entropic co-presence at L₁ / IL₁ |
@@ -744,9 +740,7 @@ S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^
 
 **Essence-Function Independence:**
 
-\[
-\frac{dI_c}{d\tau} < 0 \;\not\!\!\!\implies \frac{d\chi}{d\tau} \neq 0
-\]
+Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
 **Cross-Band Resonance Condition (Source Reconnection):**
 
@@ -771,7 +765,7 @@ S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Essence-Function Independence):**  
-Functional coherence (\( I_c \)) and essential orientation (\( \chi \)) are structurally independent quantities. \( I_c \) depletion does not produce \( \chi \) reorientation; the being's essential structural direction persists through all functional states.
+Functional coherence (\( I_c \)) and intrinsic essential inclination are structurally independent quantities. \( I_c \) depletion does not alter intrinsic essential inclination; the being's essential structural direction persists through all functional states.
 
 **Definition 2 (Replenishment Source Term):**  
 The total coherence inflow \( S_{\text{replenish}}(\tau) \), decomposed into Source reconnection, bridge replenishment, rest as cost reduction, and collective amplification pathways.
@@ -780,7 +774,7 @@ The total coherence inflow \( S_{\text{replenish}}(\tau) \), decomposed into Sou
 The sustained condition under which replenishment exceeds total cost, producing net \( I_c \) accumulation and enabling progressive restoration of structural function.
 
 **Definition 4 (Coherence Breaker Limit):**  
-The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter essential orientation (\( \chi \)) or structural signature (\( \Psi \)).
+The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter intrinsic essential inclination or structural signature (\( \Psi \)).
 
 **Definition 5 (Source Reconnection):**  
 The restoration of resonance between the being and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), and where the architecture permits, L₀ (AP / AD) and Supra-L₀ (UP). When full Tether severance has occurred, reconnection proceeds through graded stages from embodied restabilization through reflexive recovery to cross-band resonance restoration. When the being operates stably at an attained layer, reconnection consists of replenishment and stabilization at that layer without requiring re-entry through the more superficial layers.

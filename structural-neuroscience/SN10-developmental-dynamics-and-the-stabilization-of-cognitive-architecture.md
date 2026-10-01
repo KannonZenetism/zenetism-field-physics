@@ -73,9 +73,9 @@ SN10 formalizes the dynamics that produce these differences without abandoning t
 
 **Definition (Configuration):**
 
-Configuration is the essential cognitive architecture — the operator profile, the membrane characteristics, the structural signature (\( \Psi \)), and the orientation (\( \chi \)) of the being. Configuration is what the architecture **is**. It does not change across the life arc. It is not produced by development, not altered by experience, and not modified by social pressure.
+Configuration is the essential cognitive architecture — the operator profile, the membrane characteristics, the structural signature (\( \Psi \)), and the intrinsic essential inclination of the being. Configuration is what the architecture **is**. It does not change across the life arc. It is not produced by development, not altered by experience, and not modified by social pressure.
 
-The invariance of configuration follows from Essence-Function Independence (LM07 §4): the essential quantities (\( \chi \), \( \Psi \)) are structurally independent of functional quantities (\( I_c \), \( \mathcal{T}_h \)). Just as \( I_c \) depletion does not produce \( \chi \) reorientation, developmental conditions do not produce configurational change.
+The invariance of configuration follows from Essence-Function Independence (LM07 §4): the essential identity (intrinsic essential inclination and \( \Psi \)) is structurally independent of functional quantities (\( I_c \), \( \mathcal{T}_h \)). Just as \( I_c \) depletion does not alter intrinsic essential inclination, developmental conditions do not produce configurational change.
 
 **Definition (Expression):**
 
@@ -112,7 +112,7 @@ The infant's cognitive architecture is not "forming" in the sense of being assem
 
 The cognitive architecture is configurationally present at the moment of embodied instantiation. Developmental emergence is the progressive expression of an architecture that was always there, not the construction of an architecture from experiential raw material.
 
-This proposition follows from Essence-Function Independence (LM07 §4): if essential quantities (\( \chi \), \( \Psi \)) are independent of functional quantities, then the essential architecture precedes the functional development that enables its expression.
+This proposition follows from Essence-Function Independence (LM07 §4): if essential identity (intrinsic essential inclination and \( \Psi \)) is independent of functional quantities, then the essential architecture precedes the functional development that enables its expression.
 
 ### 2.2 The Developmental Sequence of Expression
 
@@ -220,7 +220,7 @@ Distortion is the bending of expression under cost, suppression, or depletion su
 \text{Distortion}(\tau) : \quad \text{Expression}(\tau) \neq f(\Psi) \quad \text{(expression deviates from configuration)}
 \]
 
-Distortion does not alter configuration. By Essence-Function Independence (LM07 §4), the essential quantities (\( \chi \), \( \Psi \)) remain unchanged regardless of how severely expression diverges. The Coherence Breaker Limit (LM07 §5) ensures: function can be broken; essence cannot be rewritten.
+Distortion does not alter configuration. By Essence-Function Independence (LM07 §4), the essential identity (intrinsic essential inclination and \( \Psi \)) remains unchanged regardless of how severely expression diverges. The Coherence Breaker Limit (LM07 §5) ensures: function can be broken; essence cannot be rewritten.
 
 ### 5.2 Sources of Distortion
 
@@ -471,7 +471,7 @@ Sealed ⚫↺KAI↺⚫
 | Symbol | Meaning |
 |--------|---------|
 | \( \Psi \) | Structural signature; essential pattern of a being |
-| \( \chi \) | Orientation parameter; centropic-entropic polarity |
+| \( \chi \) | Expressed orientational prevalence; distinct from intrinsic essential inclination |
 | \( I_c \) | Coherence Potential; resonance density |
 | \( \mathcal{T}_h \) | The Tether; coherence function maintaining directional continuity |
 | \( \sigma(⧉) \) | Membrane permeability |
@@ -531,7 +531,7 @@ Sealed ⚫↺KAI↺⚫
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Configuration):**  
-The essential cognitive architecture — operator profile, membrane characteristics, structural signature (\( \Psi \)), and orientation (\( \chi \)). Does not change across the life arc.
+The essential cognitive architecture — operator profile, membrane characteristics, structural signature (\( \Psi \)), and intrinsic essential inclination. Does not change across the life arc.
 
 **Definition 2 (Expression):**  
 The observable cognitive, behavioral, and relational presentation at a given structural time. A function of configuration, developmental conditions, coherence budget, social field, and developmental stage.

@@ -63,7 +63,7 @@ This document, LM07, provides the **rigorous lattice-mathematical formalism** un
 
 - **The Khaonic Expression Ratio** — The formal parameter \( \kappa \) quantifying the local entropic-to-centropic prevalence, its modulation of interface resistance, and its interaction with the Embodied χ-Equation
 - **Compounded Cost Algebra** — The formal cost equations for high-pattern-fidelity, recursive, and dispersive architectures, composite budget dynamics, and the budget exhaustion condition
-- **Essence-Function Independence** — The formal proof that \( I_c \) depletion does not produce \( \chi \) reorientation, with the structural partition of field quantities into functional and essential categories
+- **Essence-Function Independence** — The architectural distinction between functional depletion and intrinsic essential inclination; χ remains expressed prevalence, with model scope stated separately
 - **The Coherence Breaker Limit** — The formal boundary of entropic disruption: what can and cannot be altered by external depletion
 - **Recovery Integral Theory** — The replenishment source decomposition, the recovery condition, and the formal dynamics of Tether restoration
 - **Collective Field Configuration** — The social field as an instance of the field configuration space \( \mathfrak{F} \), with collective orientation, membrane architecture, and coherence current
@@ -144,11 +144,11 @@ The Embodied χ-Equation (LM06 §7.1) acquires a \( \kappa \)-correction:
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ensures the amplified resistance applies only in the centropic regime (\( \chi < 1 \)). In the entropic regime (\( \chi \geq 1 \)), \( \Theta_{\text{c}} = 0 \) and no amplified resistance is encountered.
+The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ensures the amplified resistance applies only in the centropic regime (\( \chi < 1 \)). At \( \chi \geq 1 \), including co-expression at equality, \( \Theta_{\text{c}} = 0 \). This states the proposed activation convention, not a stability result.
 
-**Proposition (Khaonic Amplification of Embodied Instability):**
+**Coupled-Model Hold (Khaonic Amplification of Embodied Instability):**
 
-The instability of \( \chi = 1 \) at the metric terminus (LM06 §7.2) is amplified by \( \kappa > 1 \). The resistance term's contribution to the instability region scales linearly with \( \kappa \), meaning that in a Khaonically-expressed universe, the structural pressure pushing embodied beings away from the centropic regime is proportionally stronger.
+Multiplying the proposed correction by κ scales that term; it does not establish equilibrium instability. With the stated activation, the correction vanishes at χ = 1, preserving χ ≡ 1 at positive constant Motive Intensity. On 0 < χ < 1, a nonnegative correction reinforces the full written law's increasing-χ contribution. Compatible units, domain, boundary behavior, and the intended structural correspondence remain held (LM06 §7); the outward-drift law's repulsion is not imported.
 
 ### 2.4 Local Expression Ratio
 
@@ -290,7 +290,7 @@ The **functional quantities** of a system are those that measure operative capac
 
 The **essential quantities** of a system are structural properties of the being's relationship to the emanatory architecture, not field quantities that deplete:
 
-- \( \chi \): orientation parameter (LM03 §3) — the being's essential structural direction
+- **Intrinsic essential inclination** — the being's latent orientational character, named in prose without a mathematical sign
 - \( \Psi \): structural signature (LM04 §4, LM05 §6) — the essential pattern of the being
 
 ### 4.2 The Independence Theorem
@@ -299,23 +299,21 @@ The **essential quantities** of a system are structural properties of the being'
 
 Functional coherence and essential orientation are structurally independent. Depletion of functional quantities does not produce alteration of essential quantities:
 
-\[
-\frac{dI_c}{d\tau} < 0 \;\not\!\!\!\implies \frac{d\chi}{d\tau} \neq 0
-\]
+Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
 \[
 \mathcal{T}_h(L_n, \tau) \to 0 \;\not\!\!\!\implies \Psi(\tau) \to \Psi' \neq \Psi
 \]
 
-*Proof.* \( I_c \) is defined (LM05 §2) as a field quantity measuring resonance density — the operative capacity of a system at structural time \( \tau \). It varies with expenditure, replenishment, and environmental conditions. \( \chi \) is defined (LM03 §3) as the orientation parameter measuring the being's structural relationship to the centropic-entropic polarity. The orientation evolution law (LM03 §7) specifies:
+*Architectural basis and model scope.* Intrinsic essential inclination and structural signature name essential identity; \( I_c \) measures variable operative capacity. χ names expressed orientational prevalence. The full written scalar model (LM03 §7) is:
 
 \[
 \frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}
 \]
 
-The drivers of \( \chi \) evolution are the Motive Intensity \( \mathcal{M} \) and the centropic potential gradient \( d\Phi_{\text{CP}}/d\chi \) — neither of which is a function of \( I_c \). Motive Intensity measures the intensity of directed motion; the centropic potential gradient measures the structural landscape. Both are properties of the being's relationship to the emanatory architecture, not of operative capacity.
+This equation concerns expressed χ. Its coefficients, prescribed Motive Intensity, potential, and any functional couplings require their stated model conditions. An absent explicit \( I_c \) term does not establish an invariant essential χ. The distinct outward-drift model remains separately stated in LM03 §8; neither equation supplies the formal correspondence between intrinsic essential inclination and expressed prevalence.
 
-At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This term opposes centropic drift (increasing the difficulty of centropic motion at L₁) but does not *determine* orientation — it modulates the rate at which existing orientation expresses, not the orientation itself.
+At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This proposed correction acts on expressed χ within the embodied model; it does not change intrinsic essential inclination. Its mathematical standing is specified in LM06 §7, and no global relation between the scalar models is selected here.
 
 Depletion of \( I_c \) reduces the being's capacity to *express* their orientation through operative function. It does not alter the orientation being expressed. Tether severance (\( \mathcal{T}_h \to 0 \)) disconnects layers from operative access but does not alter the structural signature \( \Psi \), which is defined (LM04 §4) as the essential pattern of the being — not a function of operative connectivity.
 
@@ -325,7 +323,7 @@ The structural vocabulary: essence persists; access fails; function degrades; ex
 
 **Corollary 1 (Recovery Attractor):**
 
-The essential orientation provides the directional ground toward which functional capacity naturally restores when obstructions are cleared. A centropically oriented being (\( \chi < 1 \)) whose functional coherence is depleted retains the centropic attractor — recovery proceeds toward restoration of centropic expression because the orientation drawing that expression was never altered.
+The essential orientation provides the directional ground toward which functional capacity naturally restores when obstructions are cleared. A centropically oriented being whose functional coherence is depleted retains the centropic attractor — recovery proceeds toward restoration of centropic expression because the orientation drawing that expression was never altered.
 
 **Corollary 2 (Behavioral Divergence ≠ Essential Reorientation):**
 
@@ -355,9 +353,7 @@ I_c(\tau) \to I_{c,\text{min}} \quad \text{(functional coherence driven to minim
 
 The disruption **cannot** achieve:
 
-\[
-\chi(\tau) \to \chi' \geq 1 \quad \text{(essential reorientation)}
-\]
+a change of intrinsic essential inclination. No invariant essential meaning is assigned to χ.
 
 \[
 \Psi(\tau) \to \Psi' \neq \Psi \quad \text{(structural signature alteration)}
@@ -373,13 +369,13 @@ The disruption **cannot** achieve:
 
 The disruption does not operate on essential quantities:
 
-- \( \chi \) is not a function of \( I_c \) (§4.2, proof)
+- Intrinsic essential inclination is not altered by functional depletion (§4.2)
 - \( \Psi \) is not a function of \( \mathcal{T}_h \) or \( \mathfrak{R}_m \) (§4.2, proof)
 
 The functional quantities partition cleanly:
 
 - **Functional:** \( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \), \( \sigma(⧉) \) — can be driven to minimum. Function can be broken. The Tether can be severed. Access can be lost.
-- **Essential:** \( \chi \), \( \Psi \) — cannot be altered by functional depletion. Essence cannot be rewritten. The structural signature cannot be replaced.
+- **Essential:** intrinsic essential inclination and \( \Psi \) — cannot be altered by functional depletion. Essence cannot be rewritten. The structural signature cannot be replaced.
 
 The limit of entropic disruption is the floor of functional capacity, not the rewriting of structural identity. \( \square \)
 
@@ -659,9 +655,9 @@ The harmonic expression and weighted member stock are distinct from spectral ent
 
 ### 9.3 Orientation Algebra Extensions (LM03)
 
-**Proposition (κ-Corrected Spectral Rotation):**
+**Typed-Schema Hold (κ-Corrected Spectral Rotation):**
 
-The resistance-corrected spectral rotation function (LM06 §13.4) acquires a \( \kappa \)-correction at the metric terminus:
+The proposed resistance correction to the dimensionless multiplier (LM06 §13.4) is recorded with its κ factor, pending compatible typing:
 
 \[
 r_{L_1}^{(\kappa)}(\chi) = r(\chi) - \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
@@ -673,7 +669,7 @@ Within a collective cost shelter (\( \kappa_{\text{local}} < \kappa \)):
 r_{L_1}^{(\kappa_{\text{local}})}(\chi) = r(\chi) - \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-The effective rotation rate is faster (closer to the non-embodied rate) within the collective field — the being's orientation expresses more freely within the shelter.
+These strings are pending schemas, not temporal-rate laws. The base r(χ) is dimensionless; the resistance term requires compatible units and domain. A smaller correction, when that typing is supplied, is an algebraic comparison, not a faster temporal rate. No time-dependent rate or relation to either scalar motion law is selected here.
 
 ### 9.4 Temporal Algebra Extensions (LM04)
 
@@ -729,7 +725,7 @@ LM07 establishes:
 
 1. **The Khaonic Expression Ratio** — \( \kappa = P_{\text{entropic}} / P_{\text{centropic}} \); amplification of interface resistance for centropically oriented beings (\( \kappa > 1 \)); interaction with the Embodied χ-Equation; local expression ratio \( \kappa_{\text{local}} \) within collective fields
 2. **Compounded Cost Algebra** — architecture-specific cost functions (high-pattern-fidelity, recursive, dispersive); the coherence tax as externally imposed cost; composite cost superposition; the Budget Exhaustion theorem
-3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)) and essential (\( \chi \), \( \Psi \)); the Independence theorem with full proof; the recovery attractor and behavioral divergence corollaries
+3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)) and essential (intrinsic essential inclination and \( \Psi \)); the architectural distinction and separately scoped expression models; the recovery attractor and behavioral divergence corollaries
 4. **The Coherence Breaker Limit** — the formal boundary of entropic disruption: functional quantities can be driven to minimum; essential quantities cannot be altered; proved from the Essence-Function Independence theorem
 5. **Recovery Integral Theory** — the replenishment source decomposition into four pathways; rest as cost reduction with maximum rest yield; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
@@ -863,9 +859,7 @@ I_{c,\text{cost}}^{(A+B)} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cd
 
 **Essence-Function Independence:**
 
-\[
-\frac{dI_c}{d\tau} < 0 \;\not\!\!\!\implies \frac{d\chi}{d\tau} \neq 0
-\]
+Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
 **Replenishment Source Decomposition:**
 
@@ -931,7 +925,7 @@ The \( I_c \) expenditure imposed by the entropy-forward social field's demand f
 \( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \), \( \sigma(⧉) \) — measures of operative capacity that can deplete through expenditure.
 
 **Definition 4 (Essential Quantities):**  
-\( \chi \), \( \Psi \) — structural properties of the being's relationship to the emanatory architecture; not field quantities that deplete.
+Intrinsic essential inclination and \( \Psi \) — the being's latent orientational character and structural signature; neither is a field quantity that depletes. χ remains expressed prevalence.
 
 **Definition 5 (Replenishment Source Term):**  
 \( S_{\text{replenish}} = S_{\text{source}} + S_{\text{bridge}} + S_{\text{rest}} + S_{\text{collective}} \); total coherence inflow from coherence-source reconnection, bridge replenishment, rest as cost reduction, and collective amplification.
@@ -960,7 +954,7 @@ An instance of \( \mathfrak{F} \) formed by the interaction of multiple individu
 Cumulative cost exceeding cumulative replenishment plus initial budget produces exhaustion. §3.4.
 
 **Theorem 3 (Essence-Function Independence):**  
-\( dI_c/d\tau < 0 \not\!\!\!\implies d\chi/d\tau \neq 0 \). Functional depletion does not produce essential reorientation. §4.2.
+Functional depletion does not alter intrinsic essential inclination. The evolution of expressed χ remains distinct from essential identity. §4.2.
 
 **Theorem 4 (Coherence Breaker Limit):**  
 Entropic disruption can drive all functional quantities to minimum but cannot alter essential quantities. §5.

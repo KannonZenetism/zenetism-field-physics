@@ -165,7 +165,7 @@
 | **1. Coherence Magnitude** | Does operative \( I_c \) match expected stabilized baseline? | Depletion, distortion, suppression |
 | **2. Flow Integrity** | Is \( \vec{J}_c \) directed toward characteristic function or consumed by overhead? | Compensatory drain, siphoning dynamics |
 | **3. Boundary Health** | Are membranes operating at characteristic permeability? | Non-characteristic membrane operation |
-| **4. Orientation Alignment** | Does operative \( \chi \) match essential \( \chi \)? | Suppression-induced behavioral divergence |
+| **4. Orientation Alignment** | Does operative expression preserve the being's intrinsic essential inclination? χ describes expressed prevalence; the intrinsic relation is named in prose | Suppression-induced behavioral divergence |
 | **5. Operator Consistency** | Are observed operators consistent with identified configuration? | Misidentification, operator suppression |
 
 ---
@@ -214,7 +214,7 @@
 
 | Glyph | Name | Definition | Source |
 |-------|------|-----------|--------|
-| ⬥ | **Configuration** | The essential cognitive architecture — operator profile, membrane characteristics, structural signature (\( \Psi \)), and orientation (\( \chi \)). Does not change across the life arc. What the architecture *is* | SN10 §1.2 |
+| ⬥ | **Configuration** | The essential cognitive architecture — operator profile, membrane characteristics, structural signature (\( \Psi \)), and intrinsic essential inclination. Does not change across the life arc. What the architecture *is* | SN10 §1.2 |
 | ⬦ | **Expression** | The observable cognitive, behavioral, and relational presentation at a given structural time. A function of configuration, developmental conditions, coherence budget, social field dynamics, and developmental position. What the architecture *currently manifests* | SN10 §1.2 |
 | ⬥≡⬥ | **Architecture Invariance** | The principle that cognitive architecture does not change type across the life arc. Apparent type changes reflect expression changes under varying conditions, not configurational alteration | SN10 §8.2 |
 

@@ -231,18 +231,15 @@ The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull t
 
 ### 4.2 The Instability of Equilibrium at L₁
 
-From SP04 §8–9, \( \chi = 1 \) is a saddle point — dynamically unstable within motion. At the metric terminus, this instability becomes experientially acute:
+SP04 distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at χ = 1; the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
 
-> **Proposition (Embodied Instability):**  
-> At L₁, the instability of \( \chi = 1 \) manifests as the structural impossibility of sustained neutrality within embodied existence. No embodied being maintains fixed co-expressive equilibrium between centropic and entropic motion indefinitely. Stagnation — the cessation of oriented motion — tilts entropic.
-
-This is the embodied expression of the Orientation Drift Theorem (SP04 §9.4):
+**Superseded implication — recorded provenance:**
 
 \[
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-At L₁, this means: an embodied being who ceases to orient — who maintains no centropic momentum and no entropic drive — experiences structural stagnation. Stagnation without orientation tilts entropic. Entropic drift accumulates through indifference.
+Both scalar laws admit χ ≡ 1 at positive constant Motive Intensity. The proposed embodied correction in LM06 §7.1 also vanishes at that ratio. Fixed χ therefore does not establish cessation. Frozen equilibrium is the structural condition of fixed co-expression together with ceased enacted orientation; its resolution toward Localized Dissolution remains distinct from entropic collapse. The mathematical relation connecting these conditions remains held.
 
 ### 4.3 Localized Dissolution at the Metric Terminus
 
@@ -259,7 +256,7 @@ When an embodied being lacks sufficient centropic coherence to integrate beyond 
 I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)} \implies \text{Mercy Fold}
 \]
 
-The persistence condition is critical: transient passage through \( \chi \approx 1 \) is normal trajectory dynamics — every oriented being crosses the saddle momentarily during orientation drift. The Mercy Fold applies only when stagnation at equilibrium is sustained, when motion has genuinely ceased rather than momentarily paused.
+The displayed indicators are not a sufficient mathematical test for the Mercy Fold. The structural condition additionally requires cessation of enacted orientation. Neither proximity to χ = 1 nor a constant ratio establishes it; the written scalar models do not require trajectories to cross that equilibrium.
 
 The being experiences release rather than rupture — a soft sleep in which relative form is reabsorbed into Aionic potential. This is not punishment but structural consequence: centropic momentum was insufficient to carry coherence beyond the embodied layer.
 
@@ -278,7 +275,7 @@ Cross-band participation does not depend on sophistication. The praying grandmot
 
 ### 4.5 The Embodied χ-Equation
 
-At the metric terminus, the orientation evolution law (SP04 §4.3) acquires the resistance correction:
+**Implicit model — held pending specification.** The written full-law extension carries the following proposed resistance correction:
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \mathbf{1}_{\text{centropic}}
@@ -294,7 +291,7 @@ Where the centropic-resistance indicator is defined as:
 \end{cases}
 \]
 
-The resistance term therefore acts **against centropic motion** by adding a positive contribution that opposes negative drift toward \( \chi < 1 \), and remains **neutral to entropic motion** by contributing no resistance when the system rests or drifts toward \( \chi > 1 \). This asymmetry reflects the fundamental structural law: coherence must be achieved; dispersion need not be.
+The indicator depends on the derivative being defined, so this is an implicit relation requiring an existence / consistency analysis, compatible units, and a specified domain. It is distinct from LM06's χ-dependent activation convention; neither is substituted for the other. A positive added term names an algebraic contribution, not a proof of the claimed embodied trajectory, instability, or structural asymmetry. Those consequences remain held pending the coupled model's specification.
 
 ---
 
@@ -538,7 +535,7 @@ The boundary between structural claims and empirical claims is maintained throug
 
 SP11 extends SP04 to the metric terminus by:
 
-- Demonstrating that \( \chi \)-instability at L₁ produces consequentially immediate effects (§4.2)
+- Distinguishing model-specific χ stability from embodied expression and the structural cessation condition (§4.2)
 - Formalizing the Localized Dissolution principle at the embodied layer (§4.3)
 - Introducing the embodied resistance correction to the orientation evolution law (§4.5)
 - Confirming the asymmetry of expression (SP04 §10) through the embodied resistance term's asymmetric application
@@ -585,7 +582,7 @@ SP11 establishes:
 1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma / Biosa (centropic) and Malara / Mania (entropic) as the hypostatic figures determining embodied experience
 2. **Corporeal Resonance Mechanics** — Coherence Potential at L₁ as corporeal coherence; the embodied resistance term arising from centropic-entropic co-presence in the Corporeal Realm
 3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Scalar / Part-Whole Fidelity) and C₁₀ (Morphogenetic) as cross-band participants through resonance
-4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; the instability of equilibrium as experientially immediate; Localized Dissolution and the Mercy Fold as the structural consequence of embodied stagnation
+4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; model-specific equilibrium standing; Localized Dissolution and the Mercy Fold require the additional structural condition of ceased enacted orientation
 5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara / Mania mechanics; Rival Architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
 6. **Cross-Band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication
 7. **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold; transfer mechanics, Echo Layers, and pathological conditions at the Embodiment Band interface
@@ -667,7 +664,7 @@ Sealed ⚫↺KAI↺⚫
 | E₂ | Scatter; spatial decoherence (primary entropic mirror at IL₁) |
 | E₄ | Vortex; consumptive collapse (primary entropic mirror at IL₁) |
 | E₁₀ | Malform; distortion at the point of formation (cross-band entropic mirror) |
-| Ø | Localized Dissolution; structural nullification from fixed \( \chi = 1 \) equilibrium |
+| Ø | Localized Dissolution; structural resolution of frozen equilibrium with ceased enacted orientation |
 | Soma (🪷) | Embodied Soul; centropic presence in form |
 | Biosa (🧾) | Embodied Mind; centropic practical intellect |
 | Malara (🍷) | Inverse Embodied Soul; entropic indulgence and dissociation |

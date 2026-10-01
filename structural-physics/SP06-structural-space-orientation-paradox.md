@@ -129,7 +129,7 @@ Thus:
 - Motive Infinity causes all motion and causes the Theon / Nekron split; it is not polar, yet enacted polarity follows from it.
 - Enacted polarity is preserved only from the initial ontological split (L₅ / IL₅) onward.
 - Manifest orientation is the enacted, downstream direction within time; the dependency chain determines it alone and does not subordinate essence to motion.
-- Latent inclination \( \chi \) is the structural bias that motion expresses; manifest orientation is its enacted realization (cf. SP04 §5–6).
+- Intrinsic essential inclination is the latent structural bias that motion expresses. χ names expressed orientational prevalence; no sign is assigned here to the intrinsic relation, whose formal correspondence with χ remains held (SP04 §4.3; `sp-lm-sn-architect-decision-sheet.md` D05).
 
 ---
 

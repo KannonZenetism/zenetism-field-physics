@@ -190,7 +190,7 @@ Neither experiment establishes that a restored firing statistic restores the ear
 | Metastability | A specified transient coordination process or declared trajectory estimator |
 | Criticality / quasicriticality | A model-specific regime with stated driving, scale, and diagnostic evidence |
 
-Native expression-ratio balance is \(\chi = 1\). Co-expressive equilibrium / CP₁ has unstable-saddle standing in the current architecture. Permanent frozen \(\chi = 1\) denotes ceased enacted orientation and stagnative resolution toward Localized Dissolution. A scientific steady state, an excitation / inhibition ratio, or a moment of reduced activity does not supply that native condition.
+Native expression-ratio balance is \(\chi = 1\). Co-expressive equilibrium / CP₁ has model-specific stability: repelling in the constant-positive-intensity outward-drift law, attracting in the full written law with its stated positive coefficients and constant nonnegative Motive Intensity. Frozen equilibrium requires ceased enacted orientation in addition to fixed \(\chi = 1\); a fixed ratio alone establishes no cessation. Its structural resolution toward Localized Dissolution remains distinct from either scalar stability result. A scientific steady state, an excitation / inhibition ratio, or a moment of reduced activity does not supply that native condition.
 
 Bifurcal Coherence names the L₀ root relation, distinct from manifestation-scale symmetry. Kaion convergence has its separate limit standing. These distinctions are established in `balance-reciprocity-equilibrium-and-dynamic-stabilization.md` §§4–8. The present recovery equation is a physical capacity construction; it does not import the unresolved inherited χ evolution equations as neural laws.
 

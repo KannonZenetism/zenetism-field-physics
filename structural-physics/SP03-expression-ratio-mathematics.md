@@ -355,6 +355,8 @@ The operators themselves remain unchanged; only their **prevalence** differs.
 
 ## 6. Attractor Dynamics and Basin Structure
 
+**Proposed field-potential correspondence.** The landscape and basin descriptions in this section state a proposed relation between field states and expressed χ. A specified potential, its domain, and an evolution law for the field are required to establish these claims. Neither scalar χ law supplies that field-potential construction. Its mathematical standing remains held; the following landscape properties are proposed conditions, not universal consequences of χ.
+
 ### 6.1 Expression Ratio as Attractor Landscape
 
 The Chi parameter determines the **attractor landscape** of a given universal expression.
@@ -365,11 +367,11 @@ Define the **coherence potential** \( V(\psi, \chi) \) such that:
 \frac{\partial V}{\partial \psi} = 0 \quad \text{at equilibrium points}
 \]
 
-The landscape satisfies:
+The proposed landscape conditions are:
 
 - For \( \chi < 1 \): centropic attractors are "downhill" (lower potential)
 - For \( \chi > 1 \): entropic attractors are "downhill" (lower potential)
-- For \( \chi = 1 \): balanced saddle topology
+- For \( \chi = 1 \): co-expressive balance; stability requires the selected model (SP04 §§4.3, 9)
 
 ### 6.2 Basin Attraction
 
@@ -498,8 +500,10 @@ where \( \partial_{\text{🌀}}^{(c)} \) and \( \partial_{\text{🌀}}^{(e)} \) 
 
 **Spiral Limit under Chi:**
 
+**Pending correspondence.** The following is a proposed schematic reading associated with the outward-drift model (SP04 §9). That model establishes χ trajectories with its stated conditions; a Spiral Limit for the field additionally requires a specified relation between that field and χ. The three cases remain a schema pending those hypotheses.
+
 \[
-\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{co-expressive saddle} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
+\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{co-expressive equilibrium} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
 \]
 
 ### 9.2 Coherence Information Theory

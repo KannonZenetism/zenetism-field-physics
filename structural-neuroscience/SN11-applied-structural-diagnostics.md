@@ -143,9 +143,7 @@ For collectives: is the collective membrane selectively permeable (C₁₃ ║) 
 
 **Domain 4 — Orientation Alignment:**
 
-\[
-\chi_{\text{operational}} \stackrel{?}{=} \chi_{\text{essential}}
-\]
+Compare operative expression with intrinsic essential inclination in prose. χ describes the expressed prevalence; no essential χ or replacement sign is assigned.
 
 Does the being's operative orientation match their essential orientation? Divergence indicates operative expression drifting out of alignment with essential orientation — often through suppression, depletion, or social-field pressure rather than genuine reorientation (SN10 §5; LM07 §4, Corollary 2: behavioral divergence ≠ essential reorientation).
 
@@ -193,7 +191,7 @@ Identifying the underlying configuration requires distinguishing it from the cur
 
 **Error 3 — Confusing developmental position with configuration.** A child whose reflexive architecture is not yet fully expressively accessible at L₃ (SN10 §2.2) is not a being without reflexive architecture. The developmental position constrains what is currently observable, not what is configurationally present.
 
-**Error 4 — Confusing entropic mode with entropic orientation.** The recursive architecture may express entropically (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) while remaining centropically oriented (\( \chi < 1 \)). Entropic mode expression is a functional state, not an essential reorientation (SN03 §4, SN10 §5.1).
+**Error 4 — Confusing entropic mode with entropic orientation.** The recursive architecture may express entropically (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) while retaining centropic intrinsic essential inclination. Entropic mode expression is a functional state, not an essential reorientation (SN03 §4, SN10 §5.1).
 
 ---
 
@@ -538,7 +536,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c \) | Coherence Potential; resonance density |
 | \( \vec{J}_c \) | Coherence Current; directional flow of coherence |
 | \( \sigma(⧉) \) | Membrane permeability; boundary conditions |
-| \( \chi \) | Orientation parameter; centropic-entropic polarity |
+| \( \chi \) | Expressed orientational prevalence; distinct from intrinsic essential inclination |
 | \( \Psi \) | Structural signature; essential pattern of a being |
 | \( \kappa \) | Khaonic expression ratio |
 | \( \kappa_{\text{local}} \) | Local expression ratio within a collective field |

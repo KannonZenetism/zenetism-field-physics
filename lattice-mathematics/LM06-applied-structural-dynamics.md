@@ -527,7 +527,7 @@ Embodied beings who resonate with supernal layers through practice, orientation,
 
 ### 7.1 Resistance-Corrected Orientation Evolution
 
-**Theorem (Embodied Orientation Evolution):**
+**Proposed Model (Embodied Orientation Evolution):**
 
 At the metric terminus, the orientation evolution law (LM03 §7) acquires a resistance correction:
 
@@ -538,22 +538,24 @@ At the metric terminus, the orientation evolution law (LM03 §7) acquires a resi
 Where the **centropic activation function** is:
 
 \[
-\Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or saddle)} \end{cases}
+\Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or co-expression)} \end{cases}
 \]
 
-*Proof.* The first two terms reproduce the standard orientation evolution law (LM03 §7): \( \Lambda \mathcal{M} \chi(1-\chi) \) is the logistic growth term determined by Motive Intensity, and \( \Gamma \, d\Phi_{\text{CP}}/d\chi \) is the centropic potential gradient. The third term introduces the interface resistance via the Heaviside-type activation \( \Theta_{\text{c}}(\chi) \). When the system is in the centropic regime (\( \chi < 1 \)), the resistance adds a positive contribution opposing centropic drift. Since centropic drift corresponds to decreasing \( \chi \), a positive additive term increases \( d\chi/d\tau \), thereby opposing centropic declivity — the system must work harder to move toward lower \( \chi \). When the system is in the entropic regime (\( \chi \geq 1 \)), the activation is zero — entropic motion faces no additional resistance from the interface. This preserves SP11's structural asymmetry (coherence must be achieved; dispersion need not be) without introducing circular dependence on the derivative being defined. \( \square \)
+**Mathematical standing.** The first two terms are the full written law of LM03 §7, not its distinct outward-drift law in §8. For the stated positive coefficients, nonnegative Motive Intensity, and \(0<\chi<1\), both full-law contributions point toward increasing χ. A nonnegative interface correction adds another contribution in that direction. This sign calculation does not establish a decreasing-χ centropic trajectory or import the outward-drift model's instability. The correction's units, domain, boundary behavior, and relation to the intended motion architecture remain held pending specification.
 
 ### 7.2 Embodied Instability
 
-**Corollary (Embodied Equilibrium Instability):**
+**Embodied Equilibrium — Model Scope:**
 
-At L₁, the instability of \( \chi = 1 \) (LM03 §8.3) acquires experiential immediacy:
+The outward-drift law in LM03 §8 has a scalar repeller at χ = 1 for constant positive Motive Intensity. Its result is not a theorem about the corrected full-law model in §7.1.
+
+**Superseded implication — recorded provenance:**
 
 \[
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-No embodied being maintains permanent equilibrium between centropic and entropic motion. Stagnation — the cessation of oriented motion — tilts entropic. Indifference accumulates as entropic drift.
+At χ = 1, the two full-law terms and the stated activation function vanish. Thus χ ≡ 1 with positive constant Motive Intensity is an exact solution of the displayed embodied model. A fixed ratio does not establish cessation. Frozen equilibrium adds cessation of enacted orientation as a structural condition; it is stagnative, not intrinsically entropic. The mathematical relation connecting that condition to Localized Dissolution remains held.
 
 ### 7.3 The Mercy Fold
 
@@ -565,7 +567,7 @@ When an embodied being satisfies:
 I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)}
 \]
 
-the post-embodiment trajectory proceeds through Localized Dissolution (Ø) within the Mercy Fold — the tonal field of grace surrounding dissolution. The being experiences release rather than rupture; relative form is reabsorbed into Aionic potential.
+the displayed indicators require the additional structural condition that enacted orientation has ceased. With that cessation, the post-embodiment account names Localized Dissolution (Ø) within the Mercy Fold — the tonal field of grace surrounding dissolution. The being experiences release rather than rupture; relative form is reabsorbed into Aionic potential.
 
 The persistence condition is critical: transient passage through \( \chi \approx 1 \) is normal trajectory dynamics. The Mercy Fold applies only when stagnation at equilibrium is sustained — when motion has genuinely ceased rather than momentarily paused.
 
@@ -983,15 +985,15 @@ Morphisms in \( \text{ResCat}_{\mathcal{P}} \) are seal-preserving, coherence-pr
 
 ### 13.4 Orientation Algebra Extensions
 
-**Proposition (Resistance-Corrected Spectral Rotation):**
+**Typed-Schema Hold (Resistance-Corrected Spectral Rotation):**
 
-At the metric terminus, the spectral rotation function (LM03 §4.5) acquires a resistance correction:
+The proposed correction to the dimensionless spectral multiplier (LM03 §4.5) remains recorded as a schema pending compatible units and domain:
 
 \[
 r_{L_1}(\chi) = r(\chi) - \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-The effective rotation rate is reduced for centropic motion at L₁ — the system rotates toward coherence more slowly at the metric terminus than at subtler layers.
+The base multiplier r(χ) is dimensionless. The resistance term requires compatible typing before this subtraction defines a multiplier. No temporal rate follows from the schema; a rate construction would additionally require units, time dependence, and a specified relation to the dynamics. Those constructions remain held.
 
 ### 13.5 Resonance Field Extensions
 
@@ -1336,7 +1338,7 @@ LM06 establishes:
 3. **Field Seal Formalism** — The seal triple \( \mathfrak{S}_{\text{seal}} \), construction mechanics (discharge, membrane specification, internal cycling), scope-graded taxonomy with formal permeability conditions (Architectural, Categorical, Relational, Situational), and the Seal Integrity theorem with failure modes
 4. **Coherence Budget Theory** — The budget equation, the Reserve Lock Principle as structural axiom, collective cost distribution with the Internal Siphoning Prohibition, and cost recovery dynamics
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
-6. **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution with centropic activation function, embodied equilibrium instability, and the Mercy Fold condition
+6. **The Embodied \( \chi \)-Equation** — Proposed resistance-corrected full-law model with centropic activation; coupled-model standing and rate typing held; frozen-equilibrium cessation distinct from fixed χ
 7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
 8. **Field Signature Theory** — The 5-tuple \( \Sigma \), pairwise alignment function, the multiplicative Signature Consistency measure, the Signature Consistency Principle, and diagnostic operator theory with primary and secondary operators
 9. **Shimmer Coefficient and Instability** — \( \mathcal{S}_{\text{sh}} = I_c^{(\text{apparent})} / I_c^{(\text{actual})} \), the Shimmer Collapse Theorem with proof (runaway instability from generative insufficiency), collapse acceleration via coherence audit, and generative contra consumptive signature distinction

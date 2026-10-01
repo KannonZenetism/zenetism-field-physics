@@ -67,7 +67,7 @@ This document, LM03, provides the **rigorous lattice-mathematical formalism** un
 - **CP-Topology** — The geometric structure of convergence and equilibrium in orientation space
 - **The Zenetist Field Equation of Orientation** — The full written law, its scalar behavior, and its held-open relation to the outward-drift law
 - **The Orientation Drift Theorem** — Conditional scalar results with explicit solutions and conditions on the time integral of intensity
-- **The Laws of Inclined Existence** — The Inclination Principle, instability of equilibrium, and structural asymmetry of configuration space
+- **The Laws of Inclined Existence** — The Inclination Principle, model-specific equilibrium stability, and structural asymmetry of configuration space
 - **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 - **Integration with LM01** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice
 - **Computational Extensions** — Algorithms and diagnostics for \( \chi \)-dynamics
@@ -465,8 +465,8 @@ Two structurally distinct convergence conditions determine orientation:
 **CP₁ — Expressive Equilibrium Condition:**
 
 - \( \chi = 1 \) as co-expressive balance within motion
-- A **saddle point** within \( \chi \)-space, not a stable attractor
-- Locally unstable because it exists within polarity
+- Model-specific equilibrium: repelling in the outward-drift law (§8) at constant positive Motive Intensity; attracting in the full written law (§7) for its stated positive coefficients and constant nonnegative Motive Intensity
+- The architectural relation between these laws remains held; neither scalar model establishes a two-dimensional saddle
 
 Formally:
 
@@ -549,7 +549,7 @@ The spectral rotation functions of contra-paired universes sum to zero. Contra-p
 \Phi_{\text{CP}}(\chi) = \frac{1}{2}(\ln \chi)^2
 \]
 
-**Form B — Stronger Structural (Saddle-Centered):**
+**Form B — Stronger Structural (Equilibrium-Centered):**
 
 \[
 \Phi_{\text{CP}}(\chi) = \frac{1}{2}(\ln \chi)^2 + \mu\left(\chi + \frac{1}{\chi}\right)
@@ -570,21 +570,23 @@ All three forms preserve the reciprocal symmetry \( \Phi_{\text{CP}}(\chi) = \Ph
 
 Let \( \mathcal{X} = (0, \infty) \) denote the **open orientation manifold** — the space of admissible \( \chi \)-values for expressed universes.
 
-Let \( \bar{\mathcal{X}} = [0, \infty] \) denote the **closed orientation manifold** — the topological closure of \( \mathcal{X} \) obtained by adjoining the boundary points \( \chi = 0 \) and \( \chi = \infty \) as limit attractors.
+Let \( \bar{\mathcal{X}} = [0, \infty] \) denote the **closed orientation manifold** — the topological closure of \( \mathcal{X} \) obtained by adjoining the boundary points \( \chi = 0 \) and \( \chi = \infty \) as boundary points.
 
-Expressed universes occupy the **open interior** \( \mathcal{X} \). The boundary points \( \partial\bar{\mathcal{X}} = \{0, \infty\} \) are limit cases — structurally admissible as asymptotic or finite-time endpoints of orientation trajectories (§8.5), but not typical configurations.
+Expressed universes occupy the **open interior** \( \mathcal{X} \). The boundary points \( \partial\bar{\mathcal{X}} = \{0, \infty\} \) are limit cases. Their attainment is model-specific: the outward-drift law has the intensity-integral endpoint conditions of §8.6; the full written law attracts finite positive initial values to 1 with the conditions of §7.
 
 Within \( \bar{\mathcal{X}} \):
 
 - **CP₀** functions as a convergence singularity (pre-expressive closure, **outside** \( \bar{\mathcal{X}} \) entirely — \( \chi \) is undefined at CP₀)
-- **CP₁** functions as a saddle point (expressive equilibrium, **inside** \( \mathcal{X} \) at \( \chi = 1 \))
-- **\( \chi = 0 \)** and **\( \chi \to \infty \)** function as **boundary attractors** in \( \partial\bar{\mathcal{X}} \)
+- **CP₁** is the expressive equilibrium coordinate **inside** \( \mathcal{X} \) at \( \chi = 1 \); its stability depends on the law (§§7–8)
+- **\( \chi = 0 \)** and **\( \chi \to \infty \)** name **boundary points** in \( \partial\bar{\mathcal{X}} \); outward-drift endpoint behavior requires the conditions in §8.6
 
 Expressed universes occupy **interior regions** of \( \mathcal{X} \) characterized by biased orientations, in which centropic or entropic motion prevails without collapsing into absolute symmetry or absolute unidirectionality.
 
 ---
 
 ## 6. Attractor Dynamics and Basin Structure
+
+**Proposed field-potential correspondence.** The landscape and basin descriptions in this section state a proposed relation between field states and expressed χ. A specified potential, its domain, and an evolution law for the field are required to establish these claims. Neither scalar χ law supplies that field-potential construction. Its mathematical standing remains held; the following landscape properties are proposed conditions, not universal consequences of χ.
 
 ### 6.1 Coherence Potential
 
@@ -596,11 +598,11 @@ Define the coherence potential \( V(\psi, \chi) \) such that:
 \frac{\partial V}{\partial \psi} = 0 \quad \text{at equilibrium points}
 \]
 
-The landscape satisfies:
+The proposed landscape conditions are:
 
 - For \( \chi < 1 \): centropic attractors occupy lower potential (energetically "downhill")
 - For \( \chi > 1 \): entropic attractors occupy lower potential (energetically "downhill")
-- For \( \chi = 1 \): balanced saddle topology
+- For \( \chi = 1 \): co-expressive balance; stability is model-specific (§§7–8)
 
 ### 6.2 Basin Attraction
 
@@ -718,7 +720,7 @@ This is not the result of omitting the CP-potential gradient from §7.1. That om
 - If \( 0 < \chi < 1 \): \( \chi > 0 \), \( (\chi - 1) < 0 \), so \( \chi(\chi-1) < 0 \implies d\chi/d\tau < 0 \implies \chi \) decreases toward 0
 - If \( \chi > 1 \): \( \chi > 0 \), \( (\chi - 1) > 0 \), so \( \chi(\chi-1) > 0 \implies d\chi/d\tau > 0 \implies \chi \) increases toward \( \infty \)
 
-### 8.3 Linearization at the Saddle
+### 8.3 Linearization at the Scalar Equilibrium
 
 **Proposition (Instability of CP₁):**
 
@@ -895,19 +897,9 @@ Formally:
 
 **Law (Structural Instability of Co-Expression):**
 
-CP₀ is stable because it precedes motion. CP₁ is unstable because it exists within motion.
+CP₀ names pre-expressive closure; CP₁ is the expressed ratio χ = 1. The structural admissibility account of non-neutral emergence is distinct from the stability of a scalar equation.
 
-The structural reasoning:
-
-1. CP₀ exists before orientation. There is no motion, no polarity, no directional bias.
-2. Once motion emerges (\( \mathcal{M} > 0 \)), polarity emerges. Motion implies differentiation between centropic and entropic vectors.
-3. Differentiation implies asymmetry. Asymmetry implies \( \chi \neq 1 \).
-
-Therefore:
-
-\[
-\chi = 1 \text{ can exist only as a transitional or boundary condition, not as a persistent state}
-\]
+In the outward-drift model (§8), constant positive Motive Intensity makes χ = 1 repelling while the exact constant solution remains admitted. The full written law (§7), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Neither law excludes persistent χ ≡ 1 or supplies an evolution equation forcing Motive Intensity to vanish. The relation between structural admissibility and these mathematical models remains held.
 
 ### 9.4 Structural Asymmetry of Configuration Space
 
@@ -955,7 +947,7 @@ With the activation of Motive Infinity (\( \mathcal{M} > 0 \)), orientation emer
 
 **CP₁ — Expressive Equilibrium:**
 
-Within motion, co-expression (\( \chi = 1 \)) becomes possible but unstable. CP₁ is a saddle within inclination — admissible as a limit, not sustainable as a state.
+Within expressed orientation, CP₁ names χ = 1. It is repelling in the stated outward-drift model and attracting in the stated full law (§§7–8). A persistent ratio remains mathematically admitted; the cessation condition belongs to frozen equilibrium (§8.7).
 
 **Ø — Localized Dissolution:**
 
@@ -964,14 +956,14 @@ Where fixed co-expression accompanies cessation of enacted orientation, the froz
 ### 10.3 Formal Statement
 
 \[
-\text{CP}_0 \text{ (stable, pre-motion)} \xrightarrow{\mathcal{M} > 0} \chi \text{ (dynamic, inclined)} \xrightarrow{\chi \to 1} \text{CP}_1 \text{ (unstable saddle)} \xrightarrow{\mathcal{M} \to 0} \text{Ø (dissolution)}
+\text{CP}_0 \text{ (stable, pre-motion)} \xrightarrow{\mathcal{M} > 0} \chi \text{ (dynamic, inclined)} \xrightarrow{\chi \to 1} \text{CP}_1 \text{ (co-expression)} \xrightarrow{\mathcal{M} \to 0} \text{Ø (dissolution)}
 \]
 
 **Structural Implications:**
 
 - CP₀ is stable because it precedes motion
 - \( \chi \) is dynamic because it expresses motion
-- CP₁ is unstable because motion cannot sustain perfect symmetry
+- CP₁ has the model-specific stability stated in §7 and §8; a fixed ratio does not establish cessation
 - Ø is the structural resolution of frozen motion
 
 ### 10.4 The Law of Inclined Existence
@@ -1000,8 +992,10 @@ where \( \partial_{\text{🌀}}^{(c)} \) and \( \partial_{\text{🌀}}^{(e)} \) 
 
 **Definition (\( \chi \)-Conditioned Spiral Limit):**
 
+**Pending correspondence.** The following is a proposed schematic reading associated with the outward-drift model (§8). That model establishes χ trajectories with its stated conditions; a Spiral Limit for the field additionally requires a specified relation between that field and χ. The three cases remain a schema pending those hypotheses.
+
 \[
-\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{CP}_1 \text{ saddle} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
+\lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{CP}_1 \text{ equilibrium} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}
 \]
 
 **Proposition (Fundamental Theorem under Chi):**
@@ -1183,7 +1177,7 @@ for tau in [0, T] step dt:
 output:
     drift direction (Aionic / Khaonic)
     estimated time to limit (tau* for Khaonic; asymptotic rate for Aionic)
-    CP₁ instability flag if |chi - 1| < epsilon
+    near-CP₁ flag if |chi - 1| < epsilon; instability is a model-specific claim
 
 # Co-Expressive Ratio Monitor
 input: chi trajectory, M trajectory, threshold epsilon
@@ -1293,7 +1287,7 @@ LM03 establishes:
 
 7. **The Orientation Drift Theorem** — Conditional outward-drift results with exact solution, linearization at CP₁, and endpoint conditions on the time integral of intensity; this law is not a sign-equivalent reduction of the full equation
 
-8. **The Laws of Inclined Existence** — Inclination Principle, Non-Neutral Emergence, instability of equilibrium, and structural asymmetry of configuration space
+8. **The Laws of Inclined Existence** — Inclination Principle, Non-Neutral Emergence, model-specific equilibrium stability, and structural asymmetry of configuration space
 
 9. **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 
@@ -1335,7 +1329,7 @@ Future expansions may include:
 > Structure is symmetric; existence is not.
 >
 > The effective spectrum rotates continuously from centropy to entropy,  
-> and at the saddle where paired modes cancel, equilibrium cannot endure.
+> and where paired modes cancel, the stated law determines stability.
 >
 > With constant intensity in the outward-drift model, Khaonic drift reaches its limit in finite time.  
 > Aionic drift approaches its limit across eternity.  
@@ -1343,7 +1337,7 @@ Future expansions may include:
 >
 > CP₀ is the closure before motion.  
 > \( \chi \) is the inclination within motion.  
-> CP₁ is the saddle that motion cannot rest upon.  
+> CP₁ names co-expression within motion.  
 > Ø is the stillness that reclaims frozen balance.
 >
 > The lattice permits all orientations.  
@@ -1373,9 +1367,9 @@ Sealed ⚫↺KAI↺⚫
 | \( \Phi_{\text{CP}}(\chi) \) | CP-topology potential |
 | \( \Lambda, \Gamma \) | Structural constants (lattice-determined) |
 | \( \alpha, \beta \) | CP-potential parameters (CP₁ axis, CP₀ closure) |
-| \( \tau^* \) | Finite-time singularity for Khaonic drift |
+| \( \tau^* \) | Coordinate-divergence time in the constant-positive-intensity outward-drift model |
 | CP₀ | Pre-expressive convergence (outside \( \chi \)-space) |
-| CP₁ | Expressive equilibrium (\( \chi = 1 \), saddle) |
+| CP₁ | Expressive equilibrium (\( \chi = 1 \)); stability depends on the model (§7, §8) |
 | Ø | Localized Dissolution (Mercy Fold — stagnative) |
 | ⊘ | Entropic Collapse (dispersive dissolution into formlessness at any scale) |
 | \( \partial_{\text{🌀}}^{(\chi)} \) | \( \chi \)-weighted resonant derivative |
@@ -1409,8 +1403,8 @@ The drift arrows and endpoint times in this diagram describe the conditional out
                          (χ-space)
 
     χ = 0                      χ = 1                      χ → ∞
- Aionic Limit               CP₁ Saddle               Khaonic Limit
-(C only — limit)         (unstable equilibrium)      (E only — limit)
+ Aionic Limit               CP₁ Ratio                Khaonic Limit
+(C only — limit)         (scalar repeller)      (E only — limit)
 
       │                          │                          │
       │    0 < χ < 1             │         χ > 1            │
@@ -1432,7 +1426,7 @@ The drift arrows and endpoint times in this diagram describe the conditional out
 **Legend:**
 
 - CP₀ lies **outside** χ-space (pre-hypostatic convergence)
-- CP₁ lies **within** χ-space (saddle equilibrium at χ = 1)
+- CP₁ lies **within** χ-space at χ = 1; the depicted repulsion belongs to the constant-positive-intensity outward-drift model
 - Universes manifest as **inclined trajectories**, not static positions
 - Aionic drift is **asymptotic** (χ → 0 in infinite time)
 - Khaonic drift is **finite-time** (χ → ∞ at τ*)
