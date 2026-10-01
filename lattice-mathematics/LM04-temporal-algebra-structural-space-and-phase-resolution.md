@@ -719,7 +719,7 @@ Temporal collapse names the erosion of coherent temporal continuity. Memory Acce
 
 The earlier paired memory-rate / access criterion, and the finite-time Nekron conclusion drawn from it, are retired from operative mathematics. A time-to-collapse statement requires a specified evolution law and applicable hypotheses. The present mapping supplies neither that law nor a numerical temporal-collapse detector.
 
-In the outward-drift model with constant positive Motive Intensity and initial χ greater than 1, the coordinate diverges in finite structural time. For variable intensity, divergence occurs only if the accumulated-intensity threshold is reached (LM03 §8.6). A coordinate limit supplies no temporal-collapse deadline or Nekronic phase assignment; those correspondences remain held.
+In the outward-drift model with constant positive Motive Intensity and initial χ greater than 1, the coordinate diverges in finite structural time. For variable intensity, divergence occurs only if the accumulated-intensity threshold is reached (`LM03-orientation-algebra-and-infinity-formalism.md` §8.6). A coordinate limit supplies no temporal-collapse deadline or Nekronic phase assignment; those correspondences remain held.
 
 > **Recorded Formulation — Retired from Operative Mathematics:**  
 >

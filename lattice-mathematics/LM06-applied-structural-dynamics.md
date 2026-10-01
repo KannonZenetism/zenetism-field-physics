@@ -560,7 +560,7 @@ Where the **centropic activation function** is:
 
 **Embodied Equilibrium — Model Scope:**
 
-The outward-drift law in LM03 §8 has a scalar repeller at χ = 1 for constant positive Motive Intensity. Its result is not a theorem about the corrected full-law model in §7.1.
+The outward-drift law in LM03 §8 has a scalar repeller at \( \chi = 1 \) for constant positive Motive Intensity. Its result is not a theorem about the corrected full-law model in §7.1.
 
 **Superseded implication — recorded provenance:**
 
@@ -568,7 +568,7 @@ The outward-drift law in LM03 §8 has a scalar repeller at χ = 1 for constant p
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-At χ = 1, the two full-law terms and the stated activation function vanish. Thus χ ≡ 1 with positive constant Motive Intensity is an exact solution of the displayed embodied model. A fixed ratio does not establish cessation. Frozen equilibrium adds cessation of enacted orientation as a structural condition; it is stagnative, not intrinsically entropic. The mathematical relation connecting that condition to Localized Dissolution remains held.
+At \( \chi = 1 \), the two full-law terms and the stated activation function vanish. Thus \( \chi \equiv 1 \) with positive constant Motive Intensity is an exact solution of the displayed embodied model. A fixed ratio does not establish cessation. Frozen equilibrium adds cessation of enacted orientation as a structural condition; it is stagnative, not intrinsically entropic. The mathematical relation connecting that condition to Localized Dissolution remains held.
 
 ### 7.3 The Mercy Fold
 
@@ -712,7 +712,7 @@ The principle names the comparative questions. The unsupported implication from 
 
 ### 9.3 Diagnostic Operator Theory
 
-Registered dimensional operators retain their FP11 functions. Diagnostic assessments compare evidence for those functions and for separately named predicates; comparison does not reassign an index.
+Registered dimensional operators retain their `FP11-field-glyph-codex.md` functions. Diagnostic assessments compare evidence for those functions and for separately named predicates; comparison does not reassign an index.
 
 **Primary Diagnostic Assessments:**
 

@@ -495,7 +495,7 @@ where:
 
 **Supported amount domain.** For finite \( 0\leq\sigma\leq1 \), the displayed amount is nonnegative and bounded by available donor surplus and receiving capacity. Positive transfer occurs exactly when \( \sigma>0 \), donor surplus is positive, and receiving capacity is positive. At any zero clamp, every finite permeability multiplier gives zero.
 
-The amplifier class \( \sigma>1 \) remains distinct. Multiplication outside the clamp can exceed receiving capacity: surplus = capacity = 1 and \( \sigma=2 \) gives \( T=2 \). External replenishment and receiver-capacity change are distinct quantities. An amplifying transfer amount requires its separately specified supply, receiving capacity, and update law; that construction remains held open. The former unconditional capacity-bound wording is superseded. A transfer amount and a current / rate also require an explicit time and boundary-measure relation before comparison.
+The amplifier class \( \sigma>1 \) remains distinct. Multiplication outside the clamp can exceed receiving capacity: \( \text{surplus} = \text{capacity} = 1 \) and \( \sigma=2 \) gives \( T=2 \). External replenishment and receiver-capacity change are distinct quantities. An amplifying transfer amount requires its separately specified supply, receiving capacity, and update law; that construction remains held open. The former unconditional capacity-bound wording is superseded. A transfer amount and a current / rate also require an explicit time and boundary-measure relation before comparison.
 
 **Theorem (Transfer Condition):**
 

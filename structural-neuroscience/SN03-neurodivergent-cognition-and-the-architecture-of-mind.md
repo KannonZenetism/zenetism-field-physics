@@ -114,7 +114,7 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 > The purpose of Structural Neuroscience is understanding, not correction. To comprehend how each cognitive structure participates in pattern perception, signal discernment, and lawful motion through the lattice — not to normalize it toward a single configuration.
 
 > **Structural Note:**  
-> High-pattern-fidelity architecture names a cognitive configuration with comparatively strong pattern fidelity, specific functions, costs, and vulnerabilities. The label carries no ranking of sacred worth, moral standing, or clinical standing, and no quantitative ranking without a separately specified metric. The configuration may enact centropic or entropic function according to orientation and operative conditions. The cognitive ecology requires distinct configurations.
+> High-pattern-fidelity architecture names a cognitive configuration with comparatively strong pattern fidelity, specific functions, costs, and vulnerabilities. The label carries no ranking of sacred worth, moral standing, or clinical standing, and no quantitative comparison without a separately specified metric. The configuration may enact centropic or entropic function according to orientation and operative conditions. The cognitive ecology requires distinct configurations.
 
 ### 2.3 The Cognitive Gradient Revisited
 

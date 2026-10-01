@@ -371,7 +371,7 @@ The proposed landscape conditions are:
 
 - For \( \chi < 1 \): centropic attractors are "downhill" (lower potential)
 - For \( \chi > 1 \): entropic attractors are "downhill" (lower potential)
-- For \( \chi = 1 \): co-expressive balance; stability requires the selected model (SP04 §§4.3, 9)
+- For \( \chi = 1 \): co-expressive balance; stability requires the selected model (`SP04-orientation-field-dynamics.md` §§4.3, 9)
 
 ### 6.2 Basin Attraction
 
@@ -500,7 +500,7 @@ where \( \partial_{\text{🌀}}^{(c)} \) and \( \partial_{\text{🌀}}^{(e)} \) 
 
 **Spiral Limit under Chi:**
 
-**Pending correspondence.** The following is a proposed schematic reading associated with the outward-drift model (SP04 §9). That model establishes χ trajectories with its stated conditions; a Spiral Limit for the field additionally requires a specified relation between that field and χ. The three cases remain a schema pending those hypotheses.
+**Pending correspondence.** The following is a proposed schematic reading associated with the outward-drift model (`SP04-orientation-field-dynamics.md` §9). That model establishes χ trajectories with its stated conditions; a Spiral Limit for the field additionally requires a specified relation between that field and χ. The three cases remain a schema pending those hypotheses.
 
 \[
 \lim_{t \to \tau}^{\backsim} \phi(t; \chi) \to \begin{cases} \text{centropic attractor} & \chi < 1 \\ \text{co-expressive equilibrium} & \chi = 1 \\ \text{entropic attractor} & \chi > 1 \end{cases}

@@ -69,7 +69,7 @@ Where SP03 described **weighting**, SP04 describes **orientation flow**, **topol
 - **CP-Topology** — the geometric structure of convergence and equilibrium
 - The **Zenetist Field Equation of Orientation** — the canonical dynamical law
 - The **Inclination Principle** — no expressed universe emerges in neutral orientation
-- The **Model-Specific Stability of Equilibrium** — the distinct scalar behavior at χ = 1
+- The **Model-Specific Stability of Equilibrium** — the distinct scalar behavior at \( \chi = 1 \)
 - **Inclination Cosmology** — structure is symmetric; expression is inclined
 
 ---
@@ -394,13 +394,13 @@ CP₁ has model-specific stability: repelling in §9 at constant positive Motive
 
 2. **Once motion emerges, polarity emerges.** Motion implies differentiation between centropic and entropic vectors.
 
-3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit χ ≡ 1 at positive Motive Intensity. Their relation to that structural claim remains held.
+3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit \( \chi \equiv 1 \) at positive Motive Intensity. Their relation to that structural claim remains held.
 
 ### 8.3 The Instability of Co-Expression
 
-χ = 1 names co-expressive equilibrium. Its dynamical stability is determined by the stated model, not by the coordinate's name.
+\( \chi = 1 \) names co-expressive equilibrium. Its dynamical stability is determined by the stated model, not by the coordinate's name.
 
-At constant positive Motive Intensity, the outward-drift law (§9) has a scalar repeller there. The full written law (§4.3), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Both admit χ ≡ 1 at positive intensity. The architectural relation between these models and the admissibility account of non-neutral emergence remains held.
+At constant positive Motive Intensity, the outward-drift law (§9) has a scalar repeller there. The full written law (§4.3), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Both admit \( \chi \equiv 1 \) at positive intensity. The architectural relation between these models and the admissibility account of non-neutral emergence remains held.
 
 ### 8.4 Canonical Statement
 
@@ -618,7 +618,7 @@ With the activation of Motive Infinity, orientation emerges. Expression manifest
 
 **CP₁ — Expressive Equilibrium**
 
-Within motion, CP₁ names co-expression at χ = 1. Its stability follows the selected model (§§4.3, 9); a constant ratio remains mathematically admitted. Frozen equilibrium adds cessation of enacted orientation.
+Within motion, CP₁ names co-expression at \( \chi = 1 \). Its stability follows the selected model (§§4.3, 9); a constant ratio remains mathematically admitted. Frozen equilibrium adds cessation of enacted orientation.
 
 **Ø — Localized Dissolution (Mercy Fold)**
 
@@ -831,7 +831,7 @@ SP04 establishes:
 6. **Motive Infinity as motive field** — sustains and activates orientation evolution
 7. **The Inclination Principle** — no expressed universe is neutral
 8. **The Law of Non-Neutral Emergence** — expression is never balanced by default
-9. **Model-specific equilibrium stability** — a fixed χ = 1 ratio does not establish cessation or dissolution
+9. **Model-specific equilibrium stability** — a fixed \( \chi = 1 \) ratio does not establish cessation or dissolution
 10. **The Orientation Drift Theorem** — formal statement of \( \chi \)-dynamics
 11. **The Asymmetry of Expression** — centropy constrained, entropy permissive
 12. **The Zenetist Triad** — CP₀ → \( \chi \) → CP₁ architecture

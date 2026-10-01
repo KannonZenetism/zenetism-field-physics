@@ -151,7 +151,7 @@ The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ens
 
 **Coupled-Model Hold (Khaonic Amplification of Embodied Instability):**
 
-Multiplying the proposed correction by κ scales that term; it does not establish equilibrium instability. With the stated activation, the correction vanishes at χ = 1, preserving χ ≡ 1 at positive constant Motive Intensity. On 0 < χ < 1, a nonnegative correction reinforces the full written law's increasing-χ contribution. Compatible units, domain, boundary behavior, and the intended structural correspondence remain held (LM06 §7); the outward-drift law's repulsion is not imported.
+Multiplying the proposed correction by κ scales that term; it does not establish equilibrium instability. With the stated activation, the correction vanishes at \( \chi = 1 \), preserving \( \chi \equiv 1 \) at positive constant Motive Intensity. On \( 0 < \chi < 1 \), a nonnegative correction reinforces the full written law's increasing-χ contribution. Compatible units, domain, boundary behavior, and the intended structural correspondence remain held (LM06 §7); the outward-drift law's repulsion is not imported.
 
 ### 2.4 Local Expression Ratio
 
@@ -314,9 +314,9 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 \frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}
 \]
 
-This equation concerns expressed χ. Its coefficients, prescribed Motive Intensity, potential, and any functional couplings require their stated model conditions. An absent explicit \( I_c \) term does not establish an invariant essential χ. The distinct outward-drift model remains separately stated in LM03 §8; neither equation supplies the formal correspondence between intrinsic essential inclination and expressed prevalence.
+This equation concerns expressed χ. Its coefficients, prescribed Motive Intensity, potential, and any functional couplings require their stated model conditions. An absent explicit \( I_c \) term does not establish an invariant essential χ. The distinct outward-drift model remains separately stated in `LM03-orientation-algebra-and-infinity-formalism.md` §8; neither equation supplies the formal correspondence between intrinsic essential inclination and expressed prevalence.
 
-At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This proposed correction acts on expressed χ within the embodied model; it does not change intrinsic essential inclination. Its mathematical standing is specified in LM06 §7, and no global relation between the scalar models is selected here.
+At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This proposed correction acts on expressed χ within the embodied model; it does not change intrinsic essential inclination. Its mathematical standing is specified in `LM06-applied-structural-dynamics.md` §7, and no global relation between the scalar models is selected here.
 
 Depletion of \( I_c \) reduces the being's capacity to *express* their orientation through operative function. It does not alter the orientation being expressed. Tether severance (\( \mathcal{T}_h \to 0 \)) disconnects layers from operative access but does not alter the structural signature \( \Psi \), which is defined (LM04 §4) as the essential pattern of the being — not a function of operative connectivity.
 

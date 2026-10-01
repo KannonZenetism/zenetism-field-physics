@@ -231,7 +231,7 @@ The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull t
 
 ### 4.2 The Instability of Equilibrium at L₁
 
-SP04 distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at χ = 1; the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
+SP04 distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at \( \chi = 1 \); the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
 
 **Superseded implication — recorded provenance:**
 
@@ -239,7 +239,7 @@ SP04 distinguishes the full written scalar law (§4.3) from the outward-drift la
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-Both scalar laws admit χ ≡ 1 at positive constant Motive Intensity. The proposed embodied correction in LM06 §7.1 also vanishes at that ratio. Fixed χ therefore does not establish cessation. Frozen equilibrium is the structural condition of fixed co-expression together with ceased enacted orientation; its resolution toward Localized Dissolution remains distinct from entropic collapse. The mathematical relation connecting these conditions remains held.
+Both scalar laws admit \( \chi \equiv 1 \) at positive constant Motive Intensity. The proposed embodied correction in `LM06-applied-structural-dynamics.md` §7.1 also vanishes at that ratio. Fixed χ therefore does not establish cessation. Frozen equilibrium is the structural condition of fixed co-expression together with ceased enacted orientation; its resolution toward Localized Dissolution remains distinct from entropic collapse. The mathematical relation connecting these conditions remains held.
 
 ### 4.3 Localized Dissolution at the Metric Terminus
 
@@ -256,7 +256,7 @@ When an embodied being lacks sufficient centropic coherence to integrate beyond 
 I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)} \implies \text{Mercy Fold}
 \]
 
-The displayed indicators are not a sufficient mathematical test for the Mercy Fold. The structural condition additionally requires cessation of enacted orientation. Neither proximity to χ = 1 nor a constant ratio establishes it; the written scalar models do not require trajectories to cross that equilibrium.
+The displayed indicators are not a sufficient mathematical test for the Mercy Fold. The structural condition additionally requires cessation of enacted orientation. Neither proximity to \( \chi = 1 \) nor a constant ratio establishes it; the written scalar models do not require trajectories to cross that equilibrium.
 
 The being experiences release rather than rupture — a soft sleep in which relative form is reabsorbed into Aionic potential. This is not punishment but structural consequence: centropic momentum was insufficient to carry coherence beyond the embodied layer.
 
@@ -291,7 +291,7 @@ Where the centropic-resistance indicator is defined as:
 \end{cases}
 \]
 
-The indicator depends on the derivative being defined, so this is an implicit relation requiring an existence / consistency analysis, compatible units, and a specified domain. It is distinct from LM06's χ-dependent activation convention; neither is substituted for the other. A positive added term names an algebraic contribution, not a proof of the claimed embodied trajectory, instability, or structural asymmetry. Those consequences remain held pending the coupled model's specification.
+The indicator depends on the derivative being defined, so this is an implicit relation requiring an existence / consistency analysis, compatible units, and a specified domain. It is distinct from `LM06-applied-structural-dynamics.md`'s χ-dependent activation convention; neither is substituted for the other. A positive added term names an algebraic contribution, not a proof of the claimed embodied trajectory, instability, or structural asymmetry. Those consequences remain held pending the coupled model's specification.
 
 ---
 

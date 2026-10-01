@@ -897,9 +897,9 @@ Formally:
 
 **Law (Structural Instability of Co-Expression):**
 
-CP₀ names pre-expressive closure; CP₁ is the expressed ratio χ = 1. The structural admissibility account of non-neutral emergence is distinct from the stability of a scalar equation.
+CP₀ names pre-expressive closure; CP₁ is the expressed ratio \( \chi = 1 \). The structural admissibility account of non-neutral emergence is distinct from the stability of a scalar equation.
 
-In the outward-drift model (§8), constant positive Motive Intensity makes χ = 1 repelling while the exact constant solution remains admitted. The full written law (§7), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Neither law excludes persistent χ ≡ 1 or supplies an evolution equation forcing Motive Intensity to vanish. The relation between structural admissibility and these mathematical models remains held.
+In the outward-drift model (§8), constant positive Motive Intensity makes \( \chi = 1 \) repelling while the exact constant solution remains admitted. The full written law (§7), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Neither law excludes persistent \( \chi \equiv 1 \) or supplies an evolution equation forcing Motive Intensity to vanish. The relation between structural admissibility and these mathematical models remains held.
 
 ### 9.4 Structural Asymmetry of Configuration Space
 
@@ -947,7 +947,7 @@ With the activation of Motive Infinity (\( \mathcal{M} > 0 \)), orientation emer
 
 **CP₁ — Expressive Equilibrium:**
 
-Within expressed orientation, CP₁ names χ = 1. It is repelling in the stated outward-drift model and attracting in the stated full law (§§7–8). A persistent ratio remains mathematically admitted; the cessation condition belongs to frozen equilibrium (§8.7).
+Within expressed orientation, CP₁ names \( \chi = 1 \). It is repelling in the stated outward-drift model and attracting in the stated full law (§§7–8). A persistent ratio remains mathematically admitted; the cessation condition belongs to frozen equilibrium (§8.7).
 
 **Ø — Localized Dissolution:**
 
