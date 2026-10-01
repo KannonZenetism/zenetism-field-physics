@@ -404,7 +404,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 >
 > Centropic orientation (C↓→E) and return (C↑→⚫) are governed by two parameters:  
 > - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
-> - **\( \gamma \) (contraction gap):** records a mapping-specific contraction estimate; fixed-point convergence requires the declared complete invariant domain.  
+> - **\( \gamma \) (contraction gap):** records a mapping-specific contraction estimate; the contraction-based fixed-point guarantee requires the declared complete invariant domain.  
 >
 > A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
 >
@@ -422,7 +422,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Iterative maps; fractal domains with \( \gamma > 0 \) |
 | **Mirror** | Non-convergent loops / infinite regress |
 | **Structural Neuroscience** | Reflective learning ↔ ruminative loop |
-| **Law** | **Threshold Law II:** fixed-point convergence requires a contraction self-map on its declared complete invariant domain; \( \gamma \) is the contraction gap |
+| **Law** | **Threshold Law II:** the contraction-based fixed-point guarantee requires a contraction self-map on its declared complete invariant domain; \( \gamma \) is the contraction gap |
 
 ---
 
