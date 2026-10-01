@@ -518,23 +518,23 @@ The collective orientation \( \chi_{\text{collective}} \) is determined by which
 
 **Theorem (Harmonic Amplification):**
 
-A centropic collective satisfying the Non-fusion Axiom (LM04 §4.2, LM05 §9.1) generates collective coherence exceeding the arithmetic sum of individual contributions:
+For the harmonic construction in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.4, all contributions are nonnegative, at least two are nonzero, and strict amplification requires
 
 \[
-I_c^{(\text{collective})} > \sum_{i=1}^{n} I_c^{(i)}
+\mathcal{R}_{\text{collective}} > \frac{\sum_i I_c^{(i)}}{\left(\sum_i\sqrt{I_c^{(i)}}\right)^2}.
 \]
 
-**Condition:**
+Non-fusion and centropic collective orientation retain their conceptual roles; they are not substitutes for this numerical condition. Ordinary correlation, coherent-input availability, and organizational cohesion remain distinct.
+
+For the harmonic construction satisfying these conditions,
 
 \[
-\forall i : \text{Resolvability}(\Psi_i) > 0 \quad \text{and} \quad \chi_{\text{collective}} < 1
+I_c^{(\text{collective})}>\sum_i I_c^{(i)}.
 \]
 
-Both conditions are necessary:
+**Proof.** In the harmonic expression \( I_c^{(\text{collective})}=(\sum_i\sqrt{I_c^{(i)}})^2\mathcal{R}_{\text{collective}} \), multiplication by the stated strict correlation threshold gives the inequality. At least two nonzero contributions make that threshold less than one.
 
-*Proof.* LM05 §9 establishes harmonic amplification as a property of centropic collectives operating by the Non-fusion Axiom. The amplification arises from the resonance of distinct structural signatures — when sovereign \( \Psi_i \) interact within a centropically oriented field (\( \chi_{\text{collective}} < 1 \)), the resonance interaction produces harmonics that no individual signature contains. This is the collective analogue of the resonance correlation function \( \mathcal{R} \) (LM05 §6): pairwise resonance between distinct signatures generates coherence contributions beyond the individual terms.
-
-If Resolvability(\( \Psi_i \)) = 0 for any \( i \) (the participant has been absorbed — 🔲 Blobism), their distinctive resonance contribution is eliminated and the amplification term for all pairwise interactions involving \( i \) vanishes. If \( \chi_{\text{collective}} \geq 1 \) (the collective's operative orientation is entropic), the interaction dynamics shift from amplification to extraction (LM05 §9, parasitic coherence). \( \square \)
+**Recorded provenance.** The former condition combined only participant resolvability and \( \chi_{\text{collective}}<1 \). Its coefficient-free sufficiency claim is superseded by the existing harmonic model's numerical threshold. Loss of one contribution does not, in general, remove amplification among the remaining nonzero contributions.
 
 **Definition (Amplification Surplus):**
 
@@ -556,17 +556,25 @@ I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\t
 
 Where \( \eta_i(\tau) \in (0, 1] \) is the **extraction coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Extraction is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective extraction.
 
-**Theorem (Entropic Collective Instability):**
+**Stock Derivative with Variable Coefficients**
 
-An entropic collective with \( S_{\text{generative}} \leq 0 \) (no internal generative function) depletes over structural time:
+For fixed finite membership and differentiable \( \eta_i(\tau) \) and \( I_c^{(i)}(\tau) \), the displayed weighted stock has the exact derivative:
 
 \[
-\frac{dI_c^{(\text{collective})}}{d\tau} = S_{\text{generative}} + \sum_{i=1}^{N} \eta_i(\tau) \cdot \frac{dI_c^{(i)}}{d\tau}
+\frac{dI_c^{(\text{collective})}}{d\tau}
+= \sum_{i=1}^{N}\left(\frac{d\eta_i}{d\tau}I_c^{(i)}+\eta_i\frac{dI_c^{(i)}}{d\tau}\right).
 \]
 
-When \( S_{\text{generative}} \leq 0 \) and member depletion is pervasive (\( dI_c^{(i)}/d\tau < 0 \)), both terms are non-positive, yielding \( dI_c^{(\text{collective})}/d\tau \leq 0 \).
+**Proof.** Differentiate each term of the finite weighted sum by the product rule. The sign depends on both contributions. Constant coefficients remove the first contribution; for positive constant coefficients and decreasing member stocks, the fixed-membership weighted stock decreases. Variable coefficients or changed membership require their actual contributions to the accounting.
 
-*Proof.* The entropic collective lacks generative function — it does not produce coherence through its own operative dynamics. Its coherence depends entirely on member extraction (\( \eta_i \cdot I_c^{(i)} \)). When members deplete under compounded costs (§3), their extractable coherence declines. Since \( dI_c^{(i)}/d\tau < 0 \) for depleting members and \( \eta_i > 0 \), the weighted sum is non-positive. The collective compensates by increasing \( \eta_i \) (demanding more), recruiting new members (expanding the base), or sustaining shimmer (\( \mathcal{S}_{\text{sh}} > 1 \)) — all of which accelerate the underlying depletion. By the Shimmer Collapse Theorem (LM06 §10.3), this trajectory is structurally unsustainable. \( \square \)
+**Recorded provenance.** The former "Entropic Collective Instability" theorem wrote
+
+\[
+\frac{dI_c^{(\text{collective})}}{d\tau}
+= S_{\text{generative}}+\sum_i\eta_i\frac{dI_c^{(i)}}{d\tau}.
+\]
+
+That displayed equality is superseded: it omitted the product-rule contribution and introduced an independent term absent from the stock definition. A generative budget relation, changing-membership law, and any finite-exhaustion conclusion remain held open pending their complete mathematical specification. A strictly decreasing positive stock can retain a positive limit; finite collapse requires the cumulative deficit to reach the relevant exhaustion threshold.
 
 ---
 
@@ -721,8 +729,8 @@ LM07 establishes:
 4. **The Coherence Breaker Limit** — the formal boundary of entropic disruption: functional quantities can be driven to minimum; essential quantities cannot be altered; proved from the Essence-Function Independence theorem
 5. **Recovery Integral Theory** — the replenishment source decomposition into four pathways; rest as cost reduction with maximum rest yield; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
-7. **Harmonic Amplification** — formal conditions (resolvability preservation + centropic collective orientation); the amplification surplus; proof from LM05 §9 resonance dynamics
-8. **Extraction Dynamics** — the extraction coefficient \( \eta_i \); the Entropic Collective Instability theorem; structural unsustainability per the Shimmer Collapse Theorem
+7. **Harmonic Amplification** — the harmonic model's numerical correlation threshold and at least two nonzero contributions; distinct conceptual Non-fusion and orientation conditions; the amplification surplus
+8. **Extraction Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
 9. **The Collective Cost Shelter** — formal derivation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
 10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, CIT preservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
 
@@ -882,8 +890,10 @@ S_{\text{replenish}}(\tau) > I_{c,\text{cost}}^{(\text{total})}(\tau) \quad \tex
 **Harmonic Amplification:**
 
 \[
-I_c^{(\text{collective})} > \sum_{i=1}^{n} I_c^{(i)} \quad \text{when} \quad \forall i : \text{Resolvability}(\Psi_i) > 0 \;\text{and}\; \chi_{\text{collective}} < 1
+I_c^{(\text{collective})} > \sum_i I_c^{(i)} \quad\text{when}\quad \mathcal{R}_{\text{collective}}>\frac{\sum_i I_c^{(i)}}{(\sum_i\sqrt{I_c^{(i)}})^2}
 \]
+
+For this harmonic-model condition, contributions are nonnegative and at least two are nonzero; §7.3 retains the distinct conceptual conditions.
 
 **Entropic Collective Extraction:**
 
@@ -929,7 +939,7 @@ The \( I_c \) expenditure imposed by the entropy-forward social field's demand f
 An instance of \( \mathfrak{F} \) formed by the interaction of multiple individual configurations at L₁ / IL₁; possessing collective \( I_c \), \( \sigma(⧉) \), \( \vec{J}_c \), and \( \chi \).
 
 **Definition 8 (Amplification Surplus):**  
-\( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the excess coherence arising through centropic collective resonance by the Non-fusion Axiom.
+\( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the positive difference where the harmonic-model threshold and nonzero-contribution conditions of §7.3 hold.
 
 **Definition 9 (Extraction Coefficient):**  
 \( \eta_i(\tau) \in (0, 1] \); the extraction coefficient at structural time \( \tau \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
@@ -955,10 +965,10 @@ Entropic disruption can drive all functional quantities to minimum but cannot al
 \( S_{\text{replenish}} > I_{c,\text{cost}}^{(\text{total})} \) sustained yields \( dI_c/d\tau > 0 \). §6.4.
 
 **Theorem 6 (Harmonic Amplification):**  
-\( I_c^{(\text{collective})} > \sum I_c^{(i)} \) when all \( \Psi_i \) retain resolvability and \( \chi_{\text{collective}} < 1 \). §7.3.
+\( I_c^{(\text{collective})} > \sum I_c^{(i)} \) in the harmonic model with the numerical correlation threshold, nonnegative contributions, and at least two nonzero terms. §7.3.
 
-**Theorem 7 (Entropic Collective Instability):**  
-An entropic collective without generative function depletes per the Shimmer Collapse Theorem. §7.4.
+**Identity 7 (Weighted Stock Derivative):**  
+For fixed finite membership, the derivative includes both coefficient-change and member-stock-change terms. Constant-coefficient depletion is conditional; broader generation, membership, and finite-exhaustion laws remain held open. §7.4.
 
 **Theorem 8 (Collective Cost Shelter):**  
 Cost within centropy-forward collective = structural cost + \( \kappa_{\text{local}} \cdot \mathcal{R}_{\text{interface}} \cdot \Theta_{\text{c}} \); translation and tax terms eliminated. §8.1.

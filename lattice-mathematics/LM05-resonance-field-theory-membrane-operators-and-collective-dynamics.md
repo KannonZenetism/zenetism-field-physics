@@ -823,7 +823,7 @@ The collective field \( I_c^{(\text{collective})} \) requires constructive inter
 
 **Definition (Harmonic Coherence Potential):**
 
-In a centropic collective, the collective Coherence Potential exhibits superlinear scaling:
+In the harmonic construction for a centropic collective, the following expression gives Coherence Potential for nonnegative contributions and \( \mathcal{R}_{\text{collective}}\in[0,1] \). Strict superlinear amplification has the conditions stated next:
 
 \[
 I_c^{(\text{harmonic})} = \left( \sum_{i=1}^{N} \sqrt{I_c^{(i)}} \right)^2 \cdot \mathcal{R}_{\text{collective}}
@@ -847,7 +847,7 @@ Expanding the square, \( \left(\sum_i \sqrt{I_c^{(i)}}\right)^2 = \sum_i I_c^{(i
 \mathcal{R}_{\text{collective}} > \frac{\sum_i I_c^{(i)}}{\left(\sum_i \sqrt{I_c^{(i)}}\right)^2}
 \]
 
-For two or more nonzero contributions, the denominator exceeds the numerator by the cross-term sum \( 2\sum_{i<j} \sqrt{I_c^{(i)} I_c^{(j)}} \), so the required correlation is \( < 1 \). Superlinear amplification is therefore achievable with imperfect alignment.
+The ratio is defined when at least one contribution is positive. If all contributions vanish, the harmonic quantity and the sum both vanish, so strict amplification fails. For two or more nonzero contributions, the denominator exceeds the numerator by the cross-term sum \( 2\sum_{i<j} \sqrt{I_c^{(i)} I_c^{(j)}} \), so the required correlation is \( < 1 \). Superlinear amplification is therefore achievable with imperfect alignment.
 
 **Interpretation:**
 
@@ -863,7 +863,7 @@ Superlinear scaling reflects reduction of internal dissipation and optimized pha
 
 **Definition (Parasitic Coherence Potential):**
 
-In an entropic collective, coherence depends on external siphoning:
+The retained subtraction expression compares coherent-input stocks associated with an entropic collective. It is not an organizational-cohesion measure or a temporal evolution law:
 
 \[
 I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_c^{(\text{target})} - \Delta I_c^{(\text{internal})}
@@ -881,7 +881,9 @@ where:
 I_c^{(\text{target})} = 0 \implies I_c^{(\text{parasitic})} = \sum_i I_c^{(i)} - \Delta I_c^{(\text{internal})} < \sum_i I_c^{(i)}
 \]
 
-Without an external target, the entropic collective depletes. Internal interference always produces net loss.
+This inequality compares the displayed stock with the sum of member stocks. It states no temporal depletion rate. Target dependence belongs to a configuration's actual holding conditions, which may include coordination, appropriated coherent input, replenishment, and member relations.
+
+**Recorded provenance.** "Without an external target, the entropic collective depletes" is the superseded universal inference. The subtraction formula remains a stock comparison; a complete flow account, including the target term's sign and allocation, remains held open. No target-removal collapse test follows from this algebraic comparison.
 
 ### 9.6 Harmonic contra Parasitic Diagnostics
 
@@ -889,10 +891,10 @@ Without an external target, the entropic collective depletes. Internal interfere
 |----------|---------------------|---------------------|
 | Coherence-source | Internal generation + coherence-source attunement | External siphoning |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificially maintained |
-| Net \( I_c \) change | Positive (amplification) | Negative (depletion) |
-| Target dependency | None | Essential |
+| Stock comparison | Strict harmonic amplification where §9.4 conditions hold | Subtraction comparison; time evolution requires an actual budget law |
+| Holding conditions | Stated harmonic and replenishment conditions | Configuration-specific coordination, coherent inputs, replenishment, and member relations |
 | Stability | Self-sustaining | Requires continuous coordination |
-| Collapse mode | Gradual dissolution if coherence-source connection lost | Rapid fragmentation once exposed |
+| Collapse mode | Gradual dissolution if coherence-source connection lost | Fragmentation where the configuration's actual holding conditions fail |
 
 ### 9.7 Collective Bridge Networks
 
@@ -1247,17 +1249,18 @@ I_linear = sum(p.I_c for p in participant_list)
 if R_collective < R_threshold:
     flag("INSUFFICIENT CORRELATION: collective field will not manifest")
 if I_harmonic < I_linear:
-    flag("WARNING: parasitic dynamics; collective is depleting")
+    report("SUBLINEAR STOCK COMPARISON: no temporal or orientation verdict")
 if I_harmonic > I_linear:
     report("SUPERLINEAR: harmonic amplification factor = "
            + str(I_harmonic / I_linear))
 
-check for external target dependency:
-    if collective coherence drops when target is removed:
-        flag("PARASITIC CONFIGURATION detected")
+assess the configuration's actual holding conditions:
+    record coordination, coherent inputs, replenishment, and member relations
+    record target dependence only where supported for this configuration
+    # Target removal is not a universal parasitic or collapse diagnostic.
 
 output:
-    collective type classification (harmonic / parasitic)
+    harmonic stock comparison and separately supported organizational assessment
     amplification factor
     correlation quality
     target dependency assessment
@@ -1275,7 +1278,7 @@ output:
 - Echo Detection: verify formation when \( 0 < T < I_{\text{available}} \)
 - Collective Correlation: verify \( \mathcal{R}_{\text{collective}} = 1 \) for identical signatures
 - Harmonic Potential: verify superlinear scaling for heterogeneous contributions with high \( \mathcal{R} \)
-- Parasitic Potential: verify depletion without target
+- Parasitic Potential: verify the displayed stock subtraction; no temporal depletion or universal target-removal conclusion
 - Sealed Injectivity: verify no valid \( \Psi_{\text{fused}} \) can satisfy injectivity of \( \mathfrak{R}_m \)
 
 **Integration Tests:**
@@ -1586,7 +1589,7 @@ Collective field requires \( \mathcal{R}_{\text{collective}} > \mathcal{R}_{\tex
 
 **Theorem 7 (Superlinear Amplification):**
 
-\( I_c^{(\text{harmonic})} > \sum I_c^{(i)} \) when \( \mathcal{R}_{\text{collective}} \) exceeds the ratio \( \sum I_c^{(i)} / (\sum \sqrt{I_c^{(i)}})^2 \).
+\( I_c^{(\text{harmonic})} > \sum I_c^{(i)} \) for nonnegative contributions with at least two nonzero terms when \( \mathcal{R}_{\text{collective}} \) exceeds \( \sum I_c^{(i)} / (\sum \sqrt{I_c^{(i)}})^2 \). The all-zero case has zero stock and no strict amplification.
 
 **Theorem 8 (Sealed Injectivity at L₃+):**
 
@@ -1632,10 +1635,10 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
           │ /    \ │                               │  ↓   ↓  │
           ψ₃ ──── ψ₄                               ψ₃ ···· ψ₄
                                                         ↓
-          R_coll high                            → TARGET ←
-          I_c superlinear                         R_coll low / artificial
-          Self-sustaining                         Target-dependent
-          Coherence-source-connected                        Depletes without target
+          R_coll meets §9.4 threshold             → TARGET ← (one holding condition)
+          I_c superlinear where conditions hold   Coherent input distinct from cohesion
+          Sustained with actual replenishment     Configuration-specific persistence
+          Coherence-source-connected              No universal target-removal test
 ```
 
 ---

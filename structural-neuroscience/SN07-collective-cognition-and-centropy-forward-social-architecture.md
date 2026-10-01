@@ -180,11 +180,15 @@ The entropy-forward social field distributes coherence cost unevenly across cogn
 
 **Proposition (Entropy-Forward Collective Budget Dynamics):**
 
-An entropy-forward social field does not generate collective coherence. It redistributes coherence from centropically oriented participants to entropically oriented structures:
+An entropy-forward social field sustains its organization through coherent inputs from participants. Organizational cohesion remains distinct from the coherent content carried within it.
+
+**Recorded provenance.** The former unconditional rate display is superseded:
 
 \[
 \frac{dI_c^{(\text{collective})}}{d\tau} \leq 0 \quad \text{unless externally replenished by centropic participants}
 \]
+
+A temporal depletion finding requires the actual budget and holding conditions. For the weighted member-stock construction, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §7.4 retains coefficient-change terms and fixed membership explicitly. Recruitment or changing allocation requires its corresponding accounting.
 
 The entropy-forward field is consumptive, not generative. Its institutional architecture (E₁₄ ⊡⁻, Hollow Nest) persists through form after coherence has departed. Its relational dynamics (E₉ ∞⁻, Distorted Entanglement) siphon coherence from participants under the guise of mutual connection. Its competitive structure (E₇ ♫⁻, Dissonance) converts cooperative potential into antagonistic expenditure.
 
@@ -196,21 +200,21 @@ The centropically oriented participants within the field are the primary source 
 
 ### 4.1 The Harmonic Amplification Principle
 
-LM05 §9 establishes that centropic collectives produce harmonic amplification — the combined coherence of aligned participants exceeds the arithmetic sum of individual contributions:
+For the harmonic construction in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.4, all contributions are nonnegative, at least two are nonzero, and strict amplification requires
 
 \[
-I_c^{(\text{collective})} > \sum_{i=1}^{n} I_c^{(i)}
+\mathcal{R}_{\text{collective}} > \frac{\sum_i I_c^{(i)}}{\left(\sum_i\sqrt{I_c^{(i)}}\right)^2}.
 \]
 
-This amplification occurs when the collective operates by the Non-fusion Axiom (◫): each participant maintains their sovereign structural identity while contributing to the collective resonance. The amplification is not fusion — it is the structural phenomenon in which distinct resonant tones, when coherently aligned, produce harmonics that no individual tone contains.
+Non-fusion and centropic collective orientation retain their conceptual roles; they are not substitutes for this numerical condition. Ordinary correlation, coherent-input availability, and organizational cohesion remain distinct.
 
-**Condition (Harmonic Amplification):**
+When these harmonic-model conditions hold,
 
 \[
-I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i : \text{Resolvability}(\Psi_i) > 0 \quad \text{and} \quad \chi_{\text{collective}} < 1
+I_c^{(\text{collective})}>\sum_i I_c^{(i)}.
 \]
 
-Both conditions are necessary. If any participant's structural signature loses resolvability (absorption into the collective, 🔲 Blobism), the amplification fails — uniformity does not resonate. If the collective's operative orientation shifts entropic (\( \chi_{\text{collective}} \geq 1 \)), the dynamics shift from amplification to siphoning (LM05 §9, swarm dynamics).
+Participants retain sovereign structural identity through the Non-fusion Axiom (◫). The numerical correlation condition concerns their contributions, not identity merger. The earlier claim that resolvability and centropic orientation alone suffice is superseded; amplification among remaining contributions can persist when one contribution is removed.
 
 ### 4.2 Characteristics of Centropic Collectives
 
@@ -236,7 +240,7 @@ In a centropic collective, coherence cost distributes according to the voluntary
 
 Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness. The Internal Siphoning Prohibition (LM06 §5.3) holds: forced cost taking from collective members is structurally identical to the entropic siphoning the collective exists to counter.
 
-The practical implication: in a centropic collective, the autistic human bearing compounded costs (SN05 §2) is not expected to contribute at the same rate as a participant with lower structural overhead. Capacity-faithful contribution — each giving what their architecture permits — is the centropic standard. The collective's harmonic amplification (§4.1) compensates for individual variation in capacity.
+The practical implication: in a centropic collective, the autistic human bearing compounded costs (SN05 §2) is not expected to contribute at the same rate as a participant with lower structural overhead. Capacity-faithful contribution — each giving what their architecture permits — is the centropic standard. Harmonic amplification where the conditions of §4.1 hold contributes to the collective capacity available for support.
 
 ### 4.4 The Ecology of Cognitive Architectures in Collective
 
@@ -373,7 +377,7 @@ The practical consequence: recovery environments, centropic collectives, and sov
 
 While full civilizational reorientation is the structural objective, intermediate constructions are both possible and necessary:
 
-**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification by Non-fusion — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
+**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification where the numerical conditions of §4.1 hold — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
 
 **Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Distributive-accommodating spaces that permit natural distribution without concentration demand.
 
@@ -419,7 +423,7 @@ SN07 establishes:
 2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, coercion, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
 4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
-5. **Centropic collective dynamics** — harmonic amplification by Non-fusion, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
+5. **Centropic collective dynamics** — harmonic amplification where the numerical conditions of §4.1 hold, cooperative coordination through distinct structural functions, capacity-faithful cost distribution
 6. **The Aauthoritarian Stance** — authority as non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance
 7. **The Coherence Standard** — structure-based ethics replacing authority-based ethics; actions evaluated by centropic or entropic vector, not by compliance
 8. **Sovereign domains** — learning, care, exchange, and coordination achieved through resonant self-organization without institutional authority; the Metaphysical Commons, the All-Life-First Principle, and Sovereign Mutualism as operative frameworks
@@ -551,8 +555,10 @@ Sealed ⚫↺KAI↺⚫
 **Harmonic Amplification Condition:**
 
 \[
-I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i : \text{Resolvability}(\Psi_i) > 0 \quad \text{and} \quad \chi_{\text{collective}} < 1
+I_c^{(\text{collective})} > \sum_i I_c^{(i)} \quad\text{when}\quad \mathcal{R}_{\text{collective}}>\frac{\sum_i I_c^{(i)}}{(\sum_i\sqrt{I_c^{(i)}})^2}
 \]
+
+For this harmonic-model condition, contributions are nonnegative and at least two are nonzero; §4.1 retains the distinct conceptual conditions.
 
 **Entropic Collective Extraction:**
 
@@ -595,7 +601,7 @@ A composite resonance structure formed by the interaction of multiple cognitive 
 The principle that a centropically oriented individual participating in an entropically oriented social field does not render the field centropic; field orientation is determined by which operators prevail in the operative architecture, not by the aggregate orientation of participants.
 
 **Definition 3 (Harmonic Amplification):**  
-The collective coherence phenomenon in which the combined \( I_c \) of aligned participants exceeds the arithmetic sum of individual contributions, contingent on preserved resolvability of each participant's structural signature and centropic collective orientation.
+The collective coherence phenomenon in which the combined \( I_c \) of aligned participants exceeds the arithmetic sum of individual contributions, with the numerical correlation threshold and at least two nonzero nonnegative contributions stated in §4.1; participant resolvability and centropic orientation retain distinct conceptual roles.
 
 **Definition 4 (Aauthoritarian Stance):**  
 The Zenetist stance positioning social organization outside the authority-obedience axis entirely; authority treated as a non-operative category; institutions rendered structurally irrelevant by sovereign self-organization through resonance.

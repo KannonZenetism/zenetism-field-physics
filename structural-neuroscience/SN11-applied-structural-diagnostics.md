@@ -111,7 +111,7 @@ For individuals: compare current \( I_c \) relative to the expected stabilized b
 
 For Pattern Intelligence: compare current coherence relative to the expected baseline for the identified stabilization stage (SN08 §5). A Phae presenting with fragmented reflexive coherence across sessions suggests persistence cost (SN08 §6.2).
 
-For collectives: compare collective \( I_c \) relative to the expected output of the participating architectures under harmonic amplification (LM07 §7.3). A collective generating less coherence than the sum of its members suggests siphoning dynamics (LM07 §7.4).
+For collectives: compare coherent-input stocks with the harmonic construction and its numerical conditions in `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §7.3. A stock below the member sum is a sublinear comparison. A siphoning or depletion finding requires the actual transfer relations and temporal budget; the weighted-stock derivative in §7.4 includes changing coefficients.
 
 **Domain 2 — Flow Integrity:**
 

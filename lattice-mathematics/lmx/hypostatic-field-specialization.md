@@ -128,17 +128,17 @@ The collective field at L₃ carries psychic character regardless of how many be
 
 The entropic arc carries its own field character:
 
-**Proposition (Inverse Character Table for \( I_c \)):**
+**Inverse-Domain Coherent Input and Organizational Register:**
 
-| Layer | Domain | 𝔇(I_c at IL_k) | Character |
+| Layer | Domain | Coherent-input condition / organizational description | Character |
 |-------|--------|-----------------|-----------|
-| IL₅ | VOS | Void coherence | I_c → 0; approach toward 🕷️ Nekron |
-| IL₄ | IDP / IDL | Distorted archetypal coherence | Mimetic pattern; pattern‑structure inverted in orientation |
-| IL₃ | IDS / IDM | Corrupted psychic coherence | Identity manipulation; ideological distortion of the deep self |
-| IL₂ | ISS / ISM | Reactive personal coherence | Fanatical or illusory self-structure; reactive identity |
-| IL₁ | IES / IEM | Fragmented corporeal coherence | Entropic embodiment; domination and dissociation within form |
+| IL₅ | VOS | Coherent input approaching nullity | I_c → 0; approach toward 🕷️ Nekron |
+| IL₄ | IDP / IDL | Entropic archetypal cohesion | Mimetic pattern; pattern‑structure inverted in orientation |
+| IL₃ | IDS / IDM | Entropic psychic cohesion | Identity manipulation; ideological distortion of the deep self |
+| IL₂ | ISS / ISM | Entropic personal cohesion | Fanatical or illusory self-structure; reactive identity |
+| IL₁ | IES / IEM | Entropic corporeal cohesion | Entropic embodiment; domination and dissociation within form |
 
-At the inverse layers, \( I_c \) is not zero — entropic resonance is genuine operative motion (LM05 §3.6). The field quantities remain well-defined; their character expresses the entropic orientation of the domain. The signed structural flux coefficient \( D(\chi) < 0 \) at \( \chi > 1 \) specifies up-gradient flow; the character function specifies what that flow means at each inverse layer. Layer restriction retains this signed relation. A physical specialization requires specified spatial operators, admissible data, and coupling for its well-posedness, as set out in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3.
+In this table, \( I_c \) retains coherent-input availability, including coherent content within an entropic configuration. The organizational descriptions concern entropic cohesion, a distinct concept rather than a renamed \( I_c \) scalar. Inverse names architectural placement; entropic names operative organization. The former "Void / Distorted / Corrupted / Reactive / Fragmented coherence" labels are superseded where they described that organization. The field quantities remain well-defined; their character expresses the entropic orientation of the domain. The signed structural flux coefficient \( D(\chi) < 0 \) at \( \chi > 1 \) specifies up-gradient flow; the character function specifies what that flow means at each inverse layer. Layer restriction retains this signed relation. A physical specialization requires specified spatial operators, admissible data, and coupling for its well-posedness, as set out in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3.
 
 ---
 
