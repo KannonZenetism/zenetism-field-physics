@@ -1683,12 +1683,12 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `4303a80b962d87453b83327541b01afb83948e0d`. The on-touch being / function subset clarifies current cost-bearing, sovereignty, recovery, collective participation and assessment in eight files. PI-specific mathematics and the function-emergence / being-stabilization distinction remain intact; exact mathematical-string, registered-name and file-scope checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** SN09's coupled current-being clarification is carried by Set 05 and remains unpublished at this step. Historical-developmental PI wording and clear older acknowledgments are retained by the current scope, rather than treated as failed replacements. No symbol-family change or developmental ontology is selected.\
+**New dependencies discovered during implementation:** SN06's reserve explanation required a distinction between function viability and the being's existence. Its accounting remains coupled to Set 14. The SN08 collective paragraph retains the already integrated Set 11 conditions.
 
 ## Set 04 — Configuration and Orientation Labels
 
