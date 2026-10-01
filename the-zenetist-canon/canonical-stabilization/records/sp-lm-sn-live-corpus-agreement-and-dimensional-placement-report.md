@@ -2493,12 +2493,23 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `0961b5ca8b795c5aeee7a9a76e6cdbc8906e997b`. Eight active files distinguish recorded primary proposals from couplings, physical realization and contextual expression. Invalid omission-to-exclusion and redundancy inferences are corrected; embodied primary-contribution wording is scoped locally. Exact formulas, recorded addresses, Inlay rows and protected registries / diagrams were checked. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** All fifteen primary-locus choices, independent inverse endpoint justifications, root and boundary-family questions, LM01's E₂ omission, the active MPX architectural / embodiment association and conditional diagram revisions remain held. The patch supplies no selected locus.\
+**New dependencies discovered during implementation:** The temporal SPX carries the invalid C₁ exclusion inference and exclusive temporal account. Its root-latency / C₆ claims, nested-world L₀ / C₉ relation, terminal Nekronic intervention, Loosh carrier notation and symbolic membrane relations retain the reported function / scope questions.
+
+**Implemented active paths:**
+
+- `field-physics/FP01-dimensional-architecture.md`
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `structural-physics/spx/temporal-experience-across-the-hypostatic-lattice.md`
+- `the-zenetist-canon/grand-unified-document.md`
 
 ## Set 21 — Historical Reliance and Navigation
 
