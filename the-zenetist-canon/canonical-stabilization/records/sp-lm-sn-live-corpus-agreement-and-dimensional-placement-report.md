@@ -2044,9 +2044,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb` (set10); `e0986fdf454fe02905f9a5c3afc1178ca9e59792` (set10-tex). The active dimensional-lattice TeX counterpart now agrees with the reviewed Involution naming and held spectral-evolution standing. Source-level brace, environment and counterpart checks passed. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** GUD sufficient-condition wording and SP01 diagnostic replicas remain for following subsets. PDF rendering is unverified: both baseline and candidate stop before source parsing because the installed xelatex.fmt is unavailable. New mathematical realization remains held.\
-**New dependencies discovered during implementation:** The TeX representation is an active replica of the corrected Markdown construction. Set 11 and Set 18 make separate spectral and empirical-standing changes in the same pair.
+**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb` (set10); `e0986fdf454fe02905f9a5c3afc1178ca9e59792` (set10-tex); `d7cce743a290c4c5b9313837d01f51f215e97014` (set10-contraction-scope). GUD now states the Banach-framework guarantee as sufficient, retaining the actual self-map, domain, metric and contraction requirements without calling them necessary for every convergent map. Both recurrence replicas and their counterexamples were verified. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The SP01 coefficient-only recurrence and related spectral-diagnostic replicas remain assigned to the Set 11 diagnostic supplement. Missing generator, projection and recurrence-map mathematics remain held; TeX rendering remains unverified.\
+**New dependencies discovered during implementation:** This follow-on depends on the reviewed Set 10 GUD result. The SP01 supplement supplies the remaining D01 / D04 direct diagnostic dependency.
 
 **Implemented active paths:**
 
