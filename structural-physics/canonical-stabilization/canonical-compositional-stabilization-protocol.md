@@ -644,12 +644,12 @@ Do not reassign dimensional operators to hypostatic layers.
 
 # Fractal Terminology in Mathematical Contexts
 
-The term “fractal” appears in established dimensional operator terminology:
+The current registered names in `FP11-field-glyph-codex.md` and `field-physics-glyph-charts.md` are:
 
-- C₅ ✴ (Scalar / Fractal)
-- E₅ ✴⁻ (Fractal Noise)
+- C₅ ✴ Scalar / Part-Whole Fidelity
+- E₅ ✴⁻ Scalar Noise
 
-These names are retained for continuity.
+The superseded names "Scalar / Fractal" and "Fractal Noise" remain recorded provenance, not operative names. The registered glyphs and functions remain unchanged.
 
 However, generalized “fractal” language should be treated cautiously.
 
