@@ -13,7 +13,7 @@
 
 Infinite potential does not entail infinite actualization. It entails the absence of limiting principles on what may be expressed.
 
-⚫ Aion (Absolute Potential) contains limitless potential. ♾ Khaon (Absolute Dispersion) is the motive stirring of that potential. Essence is the structured possibility within Zero.
+⚫ Aion (Absolute Potential) contains limitless potential. ♾ Khaon (Absolute Dispersion) retains its registered whole-name across the Latent, Motive, and Dispersive phases. Khaon's Motive phase supplies the capacity and activity of motion. Essence is the structured possibility within Zero.
 
 From these, a multiverse is a lawful expression — but not a necessary one. The Tumbling Multiverse (🌐), as formalized in SP02 §3, remains the most structurally elegant expression of infinite potential. It is not, however, a metaphysical requirement. It is a modal expression, not a structural axiom.
 
