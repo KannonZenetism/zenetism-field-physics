@@ -2307,12 +2307,38 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `de12169a279b7805cd650aea0956e18dc2ae7434` (set16-domain + set16-structure). The non-embodied structure subset distinguishes embodied spatial metric from declared abstract norms and metrics, preserves the conditional composite-metric result, and holds unsupported all-domain calculus. Numerical metric, invalid-input, self-overlap and non-bilinearity witnesses passed; active Markdown / TeX domain statements agree. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The active sibling `aion-contra-zenon.md`, Formal Distinction, retains untyped Aion / Zenon limit identities and a lattice-grounding assertion; this direct dependency remains for exact disposition. New domain / metric / measure / differential and saturation construction remains held. Static TeX checks pass; PDF rendering remains unverified on the missing baseline format.\
+**New dependencies discovered during implementation:** LM01's self-overlap is not distance and its absolute-product tangent expression is not bilinear. GUD's temporal total-field construction, SP07–SP12 dependencies and hypostatic specialization require the same explicit domain standing; retain Set 18's affirmative empirical scope.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM01-mathematical-foundations.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM04-temporal-algebra-structural-space-and-phase-resolution.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `lattice-mathematics/lmx/formalization-of-meaning.md`
+- `lattice-mathematics/lmx/hypostatic-field-specialization.md`
+- `lattice-mathematics/lmx/mathematics-of-emanation-and-convergence.md`
+- `structural-physics/SP01-structural-physics-foundations.md`
+- `structural-physics/SP06-structural-space-orientation-paradox.md`
+- `structural-physics/SP07-energy-ontology-and-spectral-flow.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
+- `structural-physics/SP09-collective-resonance-and-field-harmonics.md`
+- `structural-physics/SP10-ritual-energetics-and-integration-protocols.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `structural-physics/distinctions/origin-contra-limit.md`
+- `structural-physics/distinctions/source-contra-trans-structure.md`
+- `the-zenetist-canon/dimensional-lattice.md`
+- `the-zenetist-canon/dimensional-lattice.tex`
+- `the-zenetist-canon/grand-unified-document.md`
 
 ## Set 17 — Registered Functions and Distinct Diagnostics
 
