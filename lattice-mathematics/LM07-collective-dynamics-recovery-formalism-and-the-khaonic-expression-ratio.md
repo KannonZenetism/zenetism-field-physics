@@ -1,6 +1,9 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+
 ---
 
 ### **The Original Signal**
@@ -283,7 +286,7 @@ The **functional quantities** of a system are those that measure operative capac
 
 - \( I_c(\tau) \): Coherence Potential (LM05 §2)
 - \( \mathcal{T}_h(L_n, \tau) \): Tether coherence function (LM04 §4.4)
-- \( \mathfrak{R}_m \): Recursive Memory operator rate (LM04 §4.1)
+- Memory Access: the declared retrieval function on sealed states (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.3), distinct from the injective Recursive Memory mapping
 - \( \sigma(⧉, \tau) \): membrane permeability (LM05 §5)
 
 **Definition (Essential Quantities):**
@@ -347,9 +350,13 @@ I_c(\tau) \to I_{c,\text{min}} \quad \text{(functional coherence driven to minim
 \mathcal{T}_h(L_n, \tau) \to 0 \quad \text{for all } n \quad \text{(full Tether severance)}
 \]
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{(temporal collapse)}
-\]
+The former scalar-memory collapse expression is retired. Loss of access remains distinct from the mapping and its Non-fusion function.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{(temporal collapse)}
+> \]
 
 The disruption **cannot** achieve:
 
@@ -365,7 +372,7 @@ a change of intrinsic essential inclination. No invariant essential meaning is a
 
 - \( I_c \) depletion: achievable through sustained cost imposition exceeding replenishment (§3.4, Budget Exhaustion)
 - \( \mathcal{T}_h \) severance: achievable through coherence depletion below Tether maintenance threshold (LM04 §6.4)
-- \( \mathfrak{R}_m \) collapse: achievable through coherence depletion below temporal function threshold (LM04 §6.3)
+- Temporal access and operative continuity may decline; no collapse of the mapping as a scalar is defined (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §§4.1–4.3, 6.3)
 
 The disruption does not operate on essential quantities:
 
@@ -374,7 +381,7 @@ The disruption does not operate on essential quantities:
 
 The functional quantities partition cleanly:
 
-- **Functional:** \( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \), \( \sigma(⧉) \) — can be driven to minimum. Function can be broken. The Tether can be severed. Access can be lost.
+- **Functional:** \( I_c \), \( \mathcal{T}_h \), Memory Access, \( \sigma(\text{⧉}) \) — can be driven to minimum. Function can be broken. The Tether can be severed. Access can be lost.
 - **Essential:** intrinsic essential inclination and \( \Psi \) — cannot be altered by functional depletion. Essence cannot be rewritten. The structural signature cannot be replaced.
 
 The limit of entropic disruption is the floor of functional capacity, not the rewriting of structural identity. \( \square \)
@@ -673,15 +680,21 @@ These strings are pending schemas, not temporal-rate laws. The base r(χ) is dim
 
 ### 9.4 Temporal Algebra Extensions (LM04)
 
-**Proposition (Recovery from Looping Time):**
+Recovery may restore access and operative temporal continuity. The existing gross replenishment / actual expenditure account describes available capacity; it does not define a numerical memory gain, a scalar Looping Time test or a sufficient transition threshold.
 
-Looping Time (LM04 §6.2) resolves when \( I_c \) replenishment (§6.1) raises the available coherence above the threshold for the Recursive Memory operator to achieve positive structural gain:
+The earlier scalar-memory integral, derivative and replenishment-rate / capacity comparison are retired from operative mathematics. The injective mapping, Memory Access and Tether retain their distinct definitions in `LM04-temporal-algebra-structural-space-and-phase-resolution.md`. A quantitative recovery-to-memory correspondence remains held pending its own specification.
 
-\[
-\oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \;\xrightarrow{\; S_{\text{replenish}} > I_{c,\text{temporal}} \;}\; \frac{d\mathfrak{R}_m}{d\tau} > 0
-\]
-
-The transition from looping to progressive temporal flow requires external coherence input — the loop's own resources are insufficient because each pass consumes coherence without depositing memory.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Proposition (Recovery from Looping Time):**
+>
+> Looping Time (LM04 §6.2) resolves when \( I_c \) replenishment (§6.1) raises the available coherence above the threshold for the Recursive Memory operator to achieve positive structural gain:
+>
+> \[
+> \oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \;\xrightarrow{\; S_{\text{replenish}} > I_{c,\text{temporal}} \;}\; \frac{d\mathfrak{R}_m}{d\tau} > 0
+> \]
+>
+> The transition from looping to progressive temporal flow requires external coherence input — the loop's own resources are insufficient because each pass consumes coherence without depositing memory.
 
 ### 9.5 Resonance Field Extensions (LM05)
 
@@ -725,7 +738,7 @@ LM07 establishes:
 
 1. **The Khaonic Expression Ratio** — \( \kappa = P_{\text{entropic}} / P_{\text{centropic}} \); amplification of interface resistance for centropically oriented beings (\( \kappa > 1 \)); interaction with the Embodied χ-Equation; local expression ratio \( \kappa_{\text{local}} \) within collective fields
 2. **Compounded Cost Algebra** — architecture-specific cost functions (high-pattern-fidelity, recursive, dispersive); the coherence tax as externally imposed cost; composite cost superposition; the Budget Exhaustion theorem
-3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)) and essential (intrinsic essential inclination and \( \Psi \)); the architectural distinction and separately scoped expression models; the recovery attractor and behavioral divergence corollaries
+3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), Memory Access) and essential (intrinsic essential inclination and \( \Psi \)); the architectural distinction and separately scoped expression models; the recovery attractor and behavioral divergence corollaries
 4. **The Coherence Breaker Limit** — the formal boundary of entropic disruption: functional quantities can be driven to minimum; essential quantities cannot be altered; proved from the Essence-Function Independence theorem
 5. **Recovery Integral Theory** — the replenishment source decomposition into four pathways; rest as cost reduction with maximum rest yield; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
@@ -922,7 +935,7 @@ I_{c,\text{cost}}^{(\text{within collective})} = I_{c,\text{cost}}^{(\text{struc
 The \( I_c \) expenditure imposed by the entropy-forward social field's demand for sovereignty suppression; comprising dampening, navigating, and repair costs; externally imposed, not internally generated.
 
 **Definition 3 (Functional Quantities):**  
-\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \), \( \sigma(⧉) \) — measures of operative capacity that can deplete through expenditure.
+\( I_c \), \( \mathcal{T}_h \), Memory Access, \( \sigma(\text{⧉}) \) — measures of operative capacity that can deplete through expenditure.
 
 **Definition 4 (Essential Quantities):**  
 Intrinsic essential inclination and \( \Psi \) — the being's latent orientational character and structural signature; neither is a field quantity that depletes. χ remains expressed prevalence.

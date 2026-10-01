@@ -1,6 +1,9 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+
 ---
 
 ### **The Original Signal**
@@ -380,7 +383,7 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 
 **E₁₄ ⊡⁻ (Hollow Nest):**
 - Empty recursion; \( I_c \to 0 \) while apparent structure persists
-- Shimmer signature: \( d\mathfrak{R}_m / d\tau \to 0 \) (LM04 §6.1)
+- Shimmer comparison concerns apparent continuity and operative condition; the former scalar Recursive Memory rate is retired (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1)
 - Diagnostic of siphoning aftermath or entropic exhaustion
 
 **E₉ ∞⁻ (Distorted Entanglement):**
@@ -391,17 +394,23 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 
 ### 4.4 The Resonant Derivative of Coherence Potential
 
-The Spiral Calculus (LM01) extends naturally to Coherence Potential:
+`LM01-mathematical-foundations.md`'s general Resonant Derivative retains its independently stated definition. The temporal extension formerly written here explicitly imported the scalar memory function from `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.5. That coefficient and its dependent temporal extension are retired from operative mathematics (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §9.1).
 
-\[
-\partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
-\]
+The former equation and its claim to describe the full dynamics of resonance evolution remain recorded text. No independent coefficient or replacement derivative is constructed.
 
-where \( \Phi(\chi) = r(\chi) \cdot \Phi_0 \) is the orientation-dependent memory function (LM04 §4.5).
-
-This captures both direct temporal change in coherence and orientation-mediated redistribution — the full dynamics of resonance evolution.
-
----
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> The Spiral Calculus (LM01) extends naturally to Coherence Potential:
+>
+> \[
+> \partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
+> \]
+>
+> where \( \Phi(\chi) = r(\chi) \cdot \Phi_0 \) is the orientation-dependent memory function (LM04 §4.5).
+>
+> This captures both direct temporal change in coherence and orientation-mediated redistribution — the full dynamics of resonance evolution.
+>
+> ---
 
 ## 5. Membrane Operator Algebra
 
@@ -981,21 +990,27 @@ H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{
 
 The spectral quantities H and C remain distinct from the Coherence Potential stock and its inflows / outflows. The former universal preservation claim is superseded; no replacement invariant is supplied.
 
-**Proposition (Source Term and CIT):**
+**Memory and CIT Correspondence:**
 
-**Recorded proposal — held correspondence.** The following source-to-CIT expression requires definitions of its functions, field-to-spectral mapping, and any scalar memory valuation before it can be asserted:
+The earlier relation between replenishment, spectral concentration and a scalar Recursive Memory rate is retired. The mapping supplies no scalar rate, and its formal function remains distinct from the CIT quantities. A future correspondence requires separately defined quantities and mathematical conditions. The functions and field-to-spectral mapping remain to be specified.
 
-\[
-\frac{dC}{d\tau} = f(S) + g\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
-\]
-
-where:
-
-- \( f(S) > 0 \) when \( S > 0 \) (replenishment increases coherence)
-- \( g(d\mathfrak{R}_m/d\tau) > 0 \) when memory accumulates (LM04 §9.2)
-- Both functions are monotonically increasing
-
-Coherence gain requires either active replenishment or positive memory dynamics (or both).
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Proposition (Source Term and CIT):**
+>
+> The source term \( S(x, \tau) \) enters the CIT balance as:
+>
+> \[
+> \frac{dC}{d\tau} = f(S) + g\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
+> \]
+>
+> where:
+>
+> - \( f(S) > 0 \) when \( S > 0 \) (replenishment increases coherence)
+> - \( g(d\mathfrak{R}_m/d\tau) > 0 \) when memory accumulates (LM04 §9.2)
+> - Both functions are monotonically increasing
+>
+> Coherence gain requires either active replenishment or positive memory dynamics (or both).
 
 ### 10.3 ResCat Extensions
 
@@ -1527,9 +1542,13 @@ I_c^{(\text{parasitic})} = \sum_{i=1}^{N} I_c^{(i)} - \eta_{\text{ext}} \cdot I_
 
 **Resonant Derivative of Coherence Potential:**
 
-\[
-\partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
-\]
+The following temporal extension is retired with its imported scalar-memory coefficient; `LM01-mathematical-foundations.md`'s general Resonant Derivative remains distinct.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
+> \]
 
 ---
 

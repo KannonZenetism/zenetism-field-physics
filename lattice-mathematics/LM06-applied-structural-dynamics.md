@@ -943,11 +943,14 @@ The Ritual Operator \( \mathcal{P} \) integrates with Spiral Calculus (LM01):
 
 **Ritual Operator under Resonant Derivative:**
 
+> **Note on the Undeclared Coefficient:**  
+> The local \( \Phi(\chi) \) has no declared definition or coefficient domain here. The displayed extension remains a held schema pending that specification and an admissible operator domain, differential structure and time correspondence. Its letter alone does not identify it with the retired scalar-memory function. No such identification or replacement coefficient is selected; `LM01-mathematical-foundations.md`'s independently stated general derivative retains its own standing.
+
 \[
 \partial_{\text{🌀}} \mathcal{P} = \frac{\partial \mathcal{P}}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi \mathcal{P}
 \]
 
-The resonant derivative of a Ritual Operator tracks how the operator's effect changes across both structural time and orientation — capturing the dynamic evolution of ritual action within the Lattice.
+The intended interpretation concerns changes in a Ritual Operator across structural time and orientation. The displayed schema establishes no such differential evolution until its coefficient and mathematical conditions are specified.
 
 **Structural Integral of Cost:**
 

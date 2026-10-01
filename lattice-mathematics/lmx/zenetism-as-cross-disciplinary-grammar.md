@@ -258,6 +258,9 @@ The fluid calculations take constant density equal to one. Physical viscosity is
 
 ### A.2 Existing Corpus Equations
 
+> **Note on Current Mathematical Standing:**  
+> The temporal derivative cited from `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §9.1 in this recorded comparison depends on a scalar-memory coefficient retired from operative mathematics. That standing prevents the cited equation from establishing the native-to-fluid correspondence. Its recorded equation and explanatory body remain intact. The independently defined fluid material derivative and the fluid calculations retain their separately stated mathematical basis; a shared algebraic pattern does not supply the missing native coefficient or time correspondence.
+
 **Orientation-weighted operation.** `LM03-orientation-algebra-and-infinity-formalism.md` §4 defines the effective harmonic operator, the operator a universe expresses at its orientation, through orientation-dependent weights.[10] Here the centropic and entropic operators are \(H_c\) and \(H_e\), and their respective weights are \(w_c\) and \(w_e\):
 
 \[

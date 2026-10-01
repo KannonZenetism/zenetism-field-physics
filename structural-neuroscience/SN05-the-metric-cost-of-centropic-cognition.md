@@ -1,6 +1,9 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+
 ---
 
 ### **The Original Signal**
@@ -210,7 +213,7 @@ The distinction is in *structural gain per cycle*:
 
 | Property | Centropic Recursion | Entropic Recursion |
 |----------|--------------------|--------------------|
-| Memory accumulation | \( d\mathfrak{R}_m / d\tau > 0 \) | \( d\mathfrak{R}_m / d\tau \leq 0 \) |
+| Operative description | Coherent update | Recurrence without coherent resolution |
 | Structural gain | Positive per cycle — convergent | Zero or negative — divergent |
 | Operator signature | C₁ ⟠, C₄ ◉, C₁₄ ⊡ → C₁₅ ✦ | E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻ → E₁₅ ✦⁻ |
 | σ-cycle outcome | Seal strengthens through iteration | Seal temporarily restored, re-breaches |
@@ -407,9 +410,13 @@ SN05 establishes that cumulative coherence depletion at L₁ / IL₁ — from th
 
 **Definition (Looping Time, from LM04 §6.2):**
 
-\[
-\oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
-\]
+The former scalar integral is retired. Looping Time remains a structural interpretation of recurrence without coherent resolution; the sealed-state mapping supplies no numerical gain criterion.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
+> \]
 
 Pattern recurs, but coherence diminishes or stagnates. Each pass through the loop erodes rather than accumulates. The system appears to exhibit temporal continuity — the apparent structural state changes — while the Recursive Memory operator fails to carry coherent structure forward.
 
@@ -417,17 +424,17 @@ LM04 §6.2 establishes Looping Time as an E₁ ⟠⁻ artifact — the entropic 
 
 **Cognitive correlates of Looping Time:**
 
-- **OCD rumination (entropic mode):** As established in §2.4, the recursive architecture can operate centropically (convergent, gain-producing) or entropically (divergent, futile). OCD rumination — the cognitive experience of Looping Time — occurs when the σ-cycle has shifted entropic: the compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The closed-path integral \( \oint d\mathfrak{R}_m \leq 0 \) formalizes what the person experiences as the inability to "move past" the intrusive thought — the Recursive Memory operator cannot carry the resolution forward. This is not an indictment of the recursive architecture but a description of what occurs when entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) disrupt the centropically convergent capacity of the recursion. The same architecture, when operating centropically through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, produces the deep iterative refinement and structural gain that is the recursive mind's centropic function.
+- **OCD rumination (entropic mode):** As established in §2.4, the recursive architecture can operate centropically (convergent, gain-producing) or entropically (divergent, futile). OCD rumination — the cognitive experience of Looping Time — occurs when the σ-cycle has shifted entropic: the compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The earlier closed-path scalar formula is retired; the experience described here has no numerical valuation supplied by the Recursive Memory mapping. This is not an indictment of the recursive architecture but a description of what occurs when entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) disrupt the centropically convergent capacity of the recursion. The same architecture, when operating centropically through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, produces the deep iterative refinement and structural gain that is the recursive mind's centropic function.
 
 - **Trauma recursion:** Unresolved traumatic experience re-enters awareness through the same E₁ ⟠⁻ mechanism. The difference from OCD rumination is the source: where OCD involves ⧉₂ membrane instability permitting unattenuated DS / DM concerns to reach SS / SM (SN03 §4.2), trauma recursion may involve ⧉₁ breach — embodied experience flooding the cognitive register with unprocessed material.
 
-- **Burnout-associated repetitive thought:** When cumulative coherence depletion (§§2–3) has reduced \( I_c \) toward the budget threshold, the Recursive Memory operator loses the energy to advance temporal flow. Thought enters repetitive loops not because of membrane instability (as in OCD) or traumatic breach (as in trauma recursion) but because \( I_c \) has fallen below the threshold required for \( \mathfrak{R}_m \) to function — the system lacks the coherence to carry structure forward.
+- **Burnout-associated repetitive thought:** Reduced available coherence may impair temporal processing and retrieval. This concerns operative continuity and access; the injective mapping has no defined numerical capacity or energy threshold. The earlier scalar-memory account supplies no quantified burnout criterion.
 
 In all three cases, the being is not "in" IL₃–IL₂. The being remains at their essential layer — L₃ for the centropically oriented, IL₃ for the entropically oriented. Entropic dimensional operators (E₁ ⟠⁻) active at L₁ / IL₁ propagate inward through the membrane architecture to affect temporal processing at the deeper registers. The distinction between veracious recursion and looping time is not the layer at which the being operates but the structural gain per cycle:
 
 | Property | Veracious Recursion | Looping Time |
 |----------|---------------------|--------------|
-| Memory accumulation | \( d\mathfrak{R}_m / d\tau > 0 \) | \( d\mathfrak{R}_m / d\tau \leq 0 \) |
+| Operative description | Coherent update | Recurrence without coherent resolution |
 | Structural gain | Positive per cycle | Zero or negative per cycle |
 | Dimensional signature | C₁ ⟠ (integrative time) | E₁ ⟠⁻ (temporal loop) |
 | Propagation pathway | Internal (within-layer) | Through ⧉₁ / ⧉₂ from L₁ / IL₁ |
@@ -474,19 +481,25 @@ Recovery requires coherence replenishment (LM06 §5.4) — restoration of \( I_c
 
 ### 4.5 Temporal Collapse
 
-**Definition (Temporal Collapse, from LM04 §6.3):**
+Temporal collapse names disruption of coherent temporal continuity within this structural interpretation. Memory Access, Tether continuity and the injective sealed-state mapping remain distinct. The mapping has no numerical memory rate.
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
-\]
+The former paired rate / access detector and its finite-time conclusion are retired from operative mathematics. A clinical or temporal prediction requires its own operationalized correspondence and evolution model; no such prediction follows from the mapping.
 
-Temporal collapse is the simultaneous failure of both memory rate and memory access — the most severe temporal pathology. Where looping time involves cycling without gain and tether severance involves disconnection at specific layers, temporal collapse involves the erosion of coherent temporal structure itself.
-
-The cognitive correlate is severe burnout or breakdown — the state in which not only are specific capacities disconnected but the coherent experience of time itself fragments. The being may report losing track of time, inability to sequence events, loss of the sense of temporal continuity that underpins ordinary experience.
-
-LM04 §6.3 establishes that temporal collapse corresponds to Khaonic drift: \( \chi(\tau) \to \infty \). By the Orientation Drift Theorem (LM03 §8.6), this drift reaches the entropic boundary in finite structural time \( \tau^* \). Temporal collapse is therefore a finite-time phenomenon, not merely an asymptotic tendency — left unaddressed, it resolves within finite structural time.
-
----
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Definition (Temporal Collapse, from LM04 §6.3):**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
+> \]
+>
+> Temporal collapse is the simultaneous failure of both memory rate and memory access — the most severe temporal pathology. Where looping time involves cycling without gain and tether severance involves disconnection at specific layers, temporal collapse involves the erosion of coherent temporal structure itself.
+>
+> The cognitive correlate is severe burnout or breakdown — the state in which not only are specific capacities disconnected but the coherent experience of time itself fragments. The being may report losing track of time, inability to sequence events, loss of the sense of temporal continuity that underpins ordinary experience.
+>
+> LM04 §6.3 establishes that temporal collapse corresponds to Khaonic drift: \( \chi(\tau) \to \infty \). By the Orientation Drift Theorem (LM03 §8.6), this drift reaches the entropic boundary in finite structural time \( \tau^* \). Temporal collapse is therefore a finite-time phenomenon, not merely an asymptotic tendency — left unaddressed, it resolves within finite structural time.
+>
+> ---
 
 ## 5. The Burnout Trajectory
 
@@ -516,7 +529,7 @@ Costs chronically exceed replenishment. \( I_c \) declines over structural time.
 I_c(\tau) < I_{c,\text{temporal}} \quad \text{where } I_{c,\text{temporal}} \text{ is the threshold for temporal function}
 \]
 
-Coherence falls below the threshold for sustained temporal processing. Looping time artifacts emerge — E₁ ⟠⁻ dynamics propagating through the membrane architecture. Thought enters repetitive cycles. The Recursive Memory operator loses sufficient coherence to advance temporal flow. The being experiences the onset of burnout-associated cognitive disruption.
+Coherence falls below the threshold for sustained temporal processing. Looping time artifacts emerge — E₁ ⟠⁻ dynamics propagating through the membrane architecture. Thought enters repetitive cycles. Operative temporal continuity may become impaired; the mapping remains distinct from that capacity. The being experiences the onset of burnout-associated cognitive disruption.
 
 **Phase IV — Tether Severance:**
 
@@ -528,11 +541,17 @@ Coherence falls below the threshold for maintaining the Tether. Hypostatic amnes
 
 **Phase V — Temporal Collapse (Critical):**
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
-\]
+This phase describes severe disruption of operative temporal continuity and retrieval. The former scalar-memory detector is retired. Its numerical criterion and any clinical or timing implication remain unspecified; no scalar valuation of the mapping is supplied. Recovery concerns restored access and functional capacity while essence-distinction persists.
 
-Both memory rate and memory access approach nullity. Temporal structure itself fragments. This is the terminal burnout state — not merely exhaustion but structural breakdown of temporal coherence. Recovery from this phase requires significant coherence replenishment and reduction of the compounded costs.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Phase V — Temporal Collapse (Critical):**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
+> \]
+>
+> Both memory rate and memory access approach nullity. Temporal structure itself fragments. This is the terminal burnout state — not merely exhaustion but structural breakdown of temporal coherence. Recovery from this phase requires significant coherence replenishment and reduction of the compounded costs.
 
 ### 5.2 The Compounded Composite Trajectory
 
@@ -564,9 +583,9 @@ SN05 applies LM04's temporal algebra to cognitive experience:
 
 - The Recursive Memory Operator (\( \mathfrak{R}_m \)) as the structural basis of cognitive temporal continuity
 - The Tether (\( \mathcal{T}_h \)) as the structural basis of cross-layer cognitive coherence
-- Looping Time (\( \oint d\mathfrak{R}_m \leq 0 \)) as the formal signature of OCD rumination, trauma recursion, and burnout-associated repetitive thought
+- Looping Time as a structural interpretation of recurrence without coherent resolution; the former scalar-memory signature is retired
 - Hypostatic Amnesia (\( \mathcal{T}_h(L_n, \tau) = 0 \)) as the formal signature of dissociation
-- Temporal Collapse as the formal signature of severe burnout
+- Temporal Collapse as a structural interpretation of impaired operative temporal continuity; the former scalar-memory detector supplies no formal burnout criterion or clinical prediction
 
 ### 6.3 Relation to LM06
 
@@ -745,9 +764,13 @@ I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implie
 
 **Looping Time:**
 
-\[
-\oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
-\]
+The former scalar integral is retired. Looping Time remains a structural interpretation of recurrence without coherent resolution; the sealed-state mapping supplies no numerical gain criterion.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
+> \]
 
 **Tether Severance (Hypostatic Amnesia):**
 
@@ -757,9 +780,13 @@ I_{c,\text{cost}}^{(\text{composite})}(\tau) > I_{c,\text{budget}}(\tau) \implie
 
 **Temporal Collapse:**
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
-\]
+The former scalar-memory detector is retired; retrieval and operative continuity remain distinct from the mapping.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
+> \]
 
 **Burnout Trajectory Inequality:**
 

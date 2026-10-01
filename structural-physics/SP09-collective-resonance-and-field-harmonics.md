@@ -399,7 +399,7 @@ Where:
 - Low genuine \( \mathcal{R}_{\text{collective}} \); coordination appears external
 - E₉ (Distorted Entanglement) signatures — siphoning without reciprocity
 - E₁₄ (Hollow Nest) signatures — structure without internal coherence
-- Shimmer recursion (d\( \mathfrak{R}_m \)/dτ → 0 while apparent activity continues)
+- Shimmer comparison concerns apparent continuity and operative condition; the former scalar Recursive Memory rate is retired (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1)
 
 **Structural indicators:**
 - Divergent field topology

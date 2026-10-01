@@ -82,13 +82,13 @@ Extends the system to:
 - Tether coherence function \( \mathcal{T}_h \)
 - \( \chi \)-conditioned temporal orientation
 - Bidirectional traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \))
-- Shimmer, Looping Time, and Temporal Collapse diagnostics
+- Qualitative Shimmer, Looping Time, and Temporal Collapse descriptions; unsupported scalar-memory diagnostics retired
 - Phase collision and ⦿ Kaion spectral resolution
 - Recorded CIT conservation proposal under temporal evolution and collision events, with full hypotheses held:  
   \( H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant} \)
-- Computational simulation structures
+- Retained mapping, access and Tether structures; scalar-memory routines carry explicit unimplemented standing
 
-LM04 completes the temporal and spatial algebra required for Structural Physics.
+`LM04-temporal-algebra-structural-space-and-phase-resolution.md` records temporal and spatial constructions with their stated mathematical standing. The scalar-memory family and its dependent temporal extension are retired pending separate specification.
 
 ---
 
@@ -153,7 +153,7 @@ Develops a mathematical grammar for expressing Zenetist dynamics across discipli
 - Resonant Derivative: \( \partial_{\text{🌀}} \)
 - Structural Integral: \( \int_{\text{◎}} \)
 - Spiral Limit: \( \lim^{\backsim} \)
-- Temporal Resonant Derivative: \( \partial_{\text{🌀}}^{(\tau)} \)
+- Recorded memory-dependent temporal extension: \( \partial_{\text{🌀}}^{(\tau)} \), retired from operative mathematics; the general `LM01-mathematical-foundations.md` derivative remains distinct
 
 Defines motion in coherence space.
 
@@ -194,7 +194,7 @@ Determines directionality of structural evolution.
 - Reflection Principle at embodiment (L₁)
 - Entropic degradation spirals (non-reflective)
 
-Formalizes continuity and accumulation across structural time.
+Distinguishes sealed-state mapping, operative access and Tether continuity. A numerical memory accumulation requires a separately specified valuation; injectivity alone does not exclude cycles.
 
 ---
 

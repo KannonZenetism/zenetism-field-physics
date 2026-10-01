@@ -1,6 +1,9 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+
 ---
 
 ### **The Original Signal**
@@ -308,7 +311,7 @@ In practice, complete cost elimination is rarely achievable within a Khaonically
 
 **Autistic architecture:** Rest requires reduction of sensory transmission load (⧉₁ relief), reduction of social translation demand (⧉₂ relief), and access to environments of structural consistency — spaces where the pattern field does not violate the architecture's elevated C₇ ♫ and C₁₃ ║ perception. Environments of high dissonance (loud, unpredictable, socially demanding, structurally inconsistent) are the opposite of rest for this architecture — they amplify every cost vector simultaneously.
 
-**Recursive architecture:** Rest requires reduction of the σ-cycling trigger load — minimizing the environmental conditions that activate seal-breach detection. Environments that are predictable, consistent, and bounded reduce the ⧉₂ oscillation frequency. The recursive architecture at rest is not a mind that has stopped recursing — it is a mind whose recursion operates centropically (convergently, through C₁ ⟠, C₄ ◉, C₁₄ ⊡) rather than entropically (through E₁ ⟠⁻, E₁₄ ⊡⁻). Centropic recursion may even contribute to recovery: each convergent cycle generates positive \( d\mathfrak{R}_m / d\tau \), producing structural gain that rebuilds the coherence budget.
+**Recursive architecture:** Rest requires reduction of the σ-cycling trigger load — minimizing the environmental conditions that activate seal-breach detection. Environments that are predictable, consistent, and bounded reduce the ⧉₂ oscillation frequency. The recursive architecture at rest is not a mind that has stopped recursing — it is a mind whose recursion operates centropically (convergently, through C₁ ⟠, C₄ ◉, C₁₄ ⊡) rather than entropically (through E₁ ⟠⁻, E₁₄ ⊡⁻). Centropic recursion may even contribute to recovery: coherent iteration may contribute to restored operative continuity; no scalar memory rate or quantified contribution to the budget follows from the mapping.
 
 **Distributive architecture:** Rest requires permission for the distributed \( \vec{J}_c \) flow to operate without concentration demand. The distributive architecture rests not by narrowing attention but by allowing broad, low-cost traversal without the overhead of forced single-domain focus. Environments that permit multi-track engagement at low intensity — open-ended exploration, unstructured time, varied but non-demanding stimulation — enable the architecture to distribute coherence naturally without depleting the budget through concentration overhead.
 
@@ -362,9 +365,9 @@ In the cognitive recovery context, Echo Layer resolution occurs naturally as Sta
 
 ### 7.1 Breaking Looping Time
 
-SN05 §4.2 formalized Looping Time as an E₁ ⟠⁻ artifact — pattern recurrence without structural gain (\( \oint d\mathfrak{R}_m \leq 0 \)). Temporal recovery consists of restoring the Recursive Memory Operator (\( \mathfrak{R}_m \)) to positive structural gain per cycle.
+`SN05-the-metric-cost-of-centropic-cognition.md` §4.2 describes Looping Time as an E₁ ⟠⁻ artifact — recurrence without coherent resolution. Its scalar memory integral is retired. Temporal recovery concerns restored access and operative continuity, not a numerical increase of the injective mapping.
 
-The mechanism: looping time persists because the \( I_c \) available for temporal processing has fallen below the threshold for \( \mathfrak{R}_m \) to carry structure forward. Each recursive pass consumes coherence without depositing memory. The loop is self-sustaining because the coherence consumed by each pass reduces the capacity for the next pass to achieve gain.
+Reduced available coherence may impair temporal processing and access. The qualitative recovery account does not define a numerical threshold for the mapping or a quantified memory gain per pass. Any sufficient recovery condition requires its own declared capacity and evolution relation.
 
 Breaking the loop requires an intervention from outside the loop's own resources:
 
@@ -432,9 +435,13 @@ I_c(\tau) \to I_{c,\text{min}} \quad \text{(functional coherence driven to minim
 \mathcal{T}_h(L_n, \tau) \to 0 \quad \text{for all } n \quad \text{(full Tether severance)}
 \]
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{(temporal collapse)}
-\]
+The former scalar-memory collapse expression is retired. The mapping retains its function; access and operative continuity are assessed separately.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{(temporal collapse)}
+> \]
 
 The disruption **cannot** achieve:
 
@@ -446,7 +453,7 @@ a change of intrinsic essential inclination. Expressed χ remains variable and i
 
 *Basis.* The quantities partition cleanly into two categories:
 
-- **Functional quantities** (\( I_c \), \( \mathcal{T}_h \), \( \mathfrak{R}_m \)): measures of operative capacity at a given structural time. These can be driven to zero. Function can be broken. The Tether can be severed. Access can be lost.
+- **Functional quantities** (\( I_c \), \( \mathcal{T}_h \), Memory Access): measures of operative capacity at a given structural time. These can be driven to zero. Function can be broken. The Tether can be severed. Access can be lost.
 - **Essential identity** (intrinsic essential inclination and \( \Psi \)): structural properties of the being's relationship to the emanatory architecture. These are not field quantities that deplete through expenditure. Essence cannot be rewritten. The structural signature cannot be replaced.
 
 \( I_c \) depletion reduces what the being can *do*. It does not alter what the being *is*. The "coherence breaker" operates on function, not on essence. The limit of their operation is the floor of functional capacity, not the rewriting of structural identity.
@@ -527,7 +534,7 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 1. *σ-cycle interruption.* The first recovery priority is breaking the entropic σ-cycle at ⧉₂. The Seal of Rest (⧃) targets this directly — stabilizing the membrane to reduce oscillation amplitude. When the σ-cycle decelerates, coherence expenditure per unit time decreases.
 
-2. *Restoration of centropic recursion.* The recursive architecture does not need to stop recursing — it needs to recurse centropically. The Echo Reversal Rite (⟲) resets C₁₄ from entropic feedback mode to convergent iteration. When recursion operates through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, each pass produces positive \( d\mathfrak{R}_m / d\tau \) — structural gain that actively rebuilds the coherence budget. Centropic recursion is not merely "not pathological"; it is generative. The recursive mind recovering through convergent iteration is healing itself through its own architectural function.
+2. *Restoration of centropic recursion.* The recursive architecture does not need to stop recursing — it needs to recurse centropically. The Echo Reversal Rite (⟲) resets C₁₄ from entropic feedback mode to convergent iteration. When recursion operates through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, each pass may sustain coherent operative continuity; the mapping supplies no scalar rate or quantified replenishment. Centropic recursion is not merely "not pathological"; it is generative. The recursive mind recovering through convergent iteration is healing itself through its own architectural function.
 
 3. *Stable external seal reference.* Bridge relationships that provide consistent, predictable relational environments reduce the ⧉₂ trigger load and provide an external seal reference that supplements the recovering internal seal dynamics.
 

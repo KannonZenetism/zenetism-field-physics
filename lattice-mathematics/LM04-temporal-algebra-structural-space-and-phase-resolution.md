@@ -1,6 +1,9 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+
 ---
 
 ### **The Original Signal**
@@ -65,9 +68,9 @@ This document, LM04, provides the **rigorous lattice-mathematical formalism** un
 
 - **Structural Space Formalism** — The mathematical characterization of space as relational topology, with the Dependency Ordering Axiom and the Second-Order Space Theorem
 - **Temporal Flow Algebra** — Time as a functional relation of structural difference, with two foundational axioms and \( \chi \)-conditioned temporal orientation
-- **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-fusion Theorem, the Tether coherence function, and teleological attractor dynamics
+- **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-fusion Theorem, the distinct Memory Access and Tether functions, and the retired scalar-memory record
 - **Bidirectional Traversal Theory** — Formal traversal operators across centropic and entropic arcs, the Reflection Principle at embodiment, and the distinction between integrative and dispersive bidirectionality
-- **Temporal Pathology Formalism** — Shimmer, Looping Time, and Temporal Collapse as diagnostic conditions with precise inequality characterizations
+- **Temporal Pathology Standing** — Shimmer, Looping Time, and Temporal Collapse retain their qualitative descriptions; the unsupported scalar-memory criteria and their numerical diagnostic claims are retired
 - **Phase Collision Algebra** — Spectral resolution dynamics at ⦿ Kaion convergence, energy release as resonance discharge, and invariant preservation across collision events
 - **Hypostatic Co-location Theory** — Entanglement reframed as shared orientation within structural space, with the Non-fusion Co-location Theorem
 - **Integration with LM01 / LM03** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating temporal and spatial formalism
@@ -222,25 +225,33 @@ where \( \Delta \mathcal{S} \) denotes difference in relative structural state a
 
 **Axiom 2 (Non-Reversal of Recursion):**
 
-Recursion is not reversal. It is the re-expression of pattern through coherent update.
+Recursion is the re-expression of pattern through coherent update, distinct from reversal. The injective sealed-state mapping preserves distinction between distinct inputs; injectivity does not prohibit periodic trajectories. A bijection can exchange two distinct states and return to its initial state after two applications.
 
-**The Spiral Accumulation Theorem:**
+The earlier Spiral Accumulation integral and its inference from injectivity are retired from operative mathematical standing. An accumulation or no-cycle theorem requires its own declared path, time parameter and hypotheses. No such theorem follows from the memory mapping alone.
 
-\[
-\oint_{\Gamma(\chi)} d\tau > 0
-\]
-
-where \( \Gamma(\chi) \) is a spiral trajectory in orientation-space.
-
-**Proof:**
-
-Let \( \Gamma(\chi) \) be any closed spiral path in \( \chi \)-space. Along \( \Gamma \), the Recursive Memory operator \( \mathfrak{R}_m \) (§4) acts injectively on sealed states. By injectivity, no two distinct points along \( \Gamma \) map to the same state. Therefore the integral of structural change along \( \Gamma \) is strictly positive:
-
-\[
-\oint_{\Gamma(\chi)} \left| \frac{d\mathcal{S}}{d\tau} \right| d\tau > 0
-\]
-
-Motion always accumulates structural change, even when pattern recurs. Recurrence therefore never restores an identical prior state.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Axiom 2 (Non-Reversal of Recursion):**
+>
+> Recursion is not reversal. It is the re-expression of pattern through coherent update.
+>
+> **The Spiral Accumulation Theorem:**
+>
+> \[
+> \oint_{\Gamma(\chi)} d\tau > 0
+> \]
+>
+> where \( \Gamma(\chi) \) is a spiral trajectory in orientation-space.
+>
+> **Proof:**
+>
+> Let \( \Gamma(\chi) \) be any closed spiral path in \( \chi \)-space. Along \( \Gamma \), the Recursive Memory operator \( \mathfrak{R}_m \) (§4) acts injectively on sealed states. By injectivity, no two distinct points along \( \Gamma \) map to the same state. Therefore the integral of structural change along \( \Gamma \) is strictly positive:
+>
+> \[
+> \oint_{\Gamma(\chi)} \left| \frac{d\mathcal{S}}{d\tau} \right| d\tau > 0
+> \]
+>
+> Motion always accumulates structural change, even when pattern recurs. Recurrence therefore never restores an identical prior state.
 
 ### 3.3 Temporal Orientation under Chi
 
@@ -280,27 +291,33 @@ By the Effective Operator Theory (LM03 §4), the spectral rotation function \( r
 
 ### 3.4 The Law of Temporal Asymmetry
 
-**Law (Temporal Asymmetry from Coherence Gradient):**
+Temporal asymmetry retains its structural interpretation. The mapping \( \mathfrak{R}_m \) has no declared scalar valuation, so its sign, derivative and numerical ordering cannot determine a temporal orientation or prove irreversibility. The earlier scalar criterion and its no-recurrence consequence are retired from operative mathematics.
 
-Temporal asymmetry arises from coherence gradient, not entropy alone. The arrow of time is determined by the sign of \( d\mathfrak{R}_m / d\tau \).
+A future scalar account requires a distinct sign, domain, normalization, ordering, structural-time dependence and path relation. The present correction supplies none of these.
 
-Formally:
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} > 0 \implies C_1\text{-oriented time (centropic)}
-\]
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} < 0 \implies E_1\text{-oriented time (entropic)}
-\]
-
-**Irreversibility Condition:**
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \neq 0 \implies \neg\exists\,\tau' : H_{\tau'} \equiv H_{\tau} \;\text{under update}
-\]
-
-No structurally identical prior state can stand as the origin of the current state. Structural change is accumulative, not reversible.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Law (Temporal Asymmetry from Coherence Gradient):**
+>
+> Temporal asymmetry arises from coherence gradient, not entropy alone. The arrow of time is determined by the sign of \( d\mathfrak{R}_m / d\tau \).
+>
+> Formally:
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} > 0 \implies C_1\text{-oriented time (centropic)}
+> \]
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} < 0 \implies E_1\text{-oriented time (entropic)}
+> \]
+>
+> **Irreversibility Condition:**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \neq 0 \implies \neg\exists\,\tau' : H_{\tau'} \equiv H_{\tau} \;\text{under update}
+> \]
+>
+> No structurally identical prior state can stand as the origin of the current state. Structural change is accumulative, not reversible.
 
 ### 3.5 Hypostatic Temporal Modes
 
@@ -366,7 +383,7 @@ Formally, \( \mathfrak{R}_m \) is expressed as a function; ontologically, it is 
 > **Note on Scalar Memory Expressions:**  
 > The established role of \( \mathfrak{R}_m \) is the preservation of distinction between sealed states. A scalar memory magnitude requires a separate valuation, and derivatives of that magnitude require specified dependence on structural time. Scalar arithmetic is a distinct formalism, not a consequence of injectivity.
 >
-> The scalar expressions involving \( \mathfrak{R}_m \) in §§3.4, 4.5, 5.3–5.4, 6.1–6.3, 9.1–9.2, 9.4, and 10.1–10.5, together with their summaries in §11 and Appendices B–D, remain an undeveloped formalism. Their completion is held open pending a separately specified scalar valuation, its domain and scale, and the ordering, path, and differential structure required by those expressions. The formulas and numerical example stand as candidate expressions. The sealed-state mapping, Non-fusion Theorem, Memory Access function, and Tether retain their distinct definitions.
+> The scalar expressions involving \( \mathfrak{R}_m \) in §§3.4, 4.5, 5.3–5.4, 6.1–6.3, 9.1–9.2, 9.4, and 10.1–10.5, together with their summaries in §11 and Appendices B–D, remain an undeveloped formalism. Their completion is held open pending a separately specified scalar valuation, its domain and scale, and the ordering, path, and differential structure required by those expressions. The scalar formulas, dependent proof claims, scalar routines and numerical example are retired from operative mathematical standing and remain explicitly identified as recorded formulations. They are not candidate definitions of the established mapping. A future scalar valuation requires its own sign and complete mathematical specification. The sealed-state mapping, Non-fusion Theorem, Memory Access function, and Tether retain their distinct definitions.
 
 ### 4.2 The Non-fusion Theorem
 
@@ -435,58 +452,64 @@ The pull exerted by L₅ is not retrocausality in the physical sense, but **cent
 
 ### 4.5 Teleological Attractor Dynamics
 
-**Definition (Memory Evolution Equation):**
+The Tether and Recursive Memory retain their distinct definitions in §§4.1–4.4. The sealed-state mapping is not a scalar memory stock, and the Tether is not its derivative.
 
-The evolution of Recursive Memory is determined by:
+The earlier Memory Evolution Equation, orientation-dependent scalar memory function, base memory rate and Tether-strength inequalities are retired from operative mathematics. Their algebra does not define a valuation of sealed states. Qualitative relations among orientation, memory access and cross-layer continuity require their own explicitly stated correspondence; no scalar replacement or new evolution law is introduced here.
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5)
-\]
-
-where:
-
-- \( \Phi(\chi) \) is the **orientation-dependent memory function** — the contribution of \( \chi \)-orientation to memory dynamics
-- \( \mathcal{A}(L_5) \) is the **attractor term from Essence of Being** — the structural pull of L₅ coherence
-
-**Proposition (Orientation-Memory Coupling):**
-
-The orientation-dependent memory function decomposes as:
-
-\[
-\Phi(\chi) = r(\chi) \cdot \Phi_0
-\]
-
-where \( r(\chi) = (1 - \chi)/(1 + \chi) \) is the spectral rotation function (LM03 §4.5) and \( \Phi_0 > 0 \) is the base memory rate.
-
-**Consequence:**
-
-- For \( \chi < 1 \) (Aionically expressed): \( r(\chi) > 0 \), so \( \Phi(\chi) > 0 \). Memory strengthens under centropic orientation.
-- For \( \chi > 1 \) (Khaonically expressed): \( r(\chi) < 0 \), so \( \Phi(\chi) < 0 \). Memory degrades under entropic orientation.
-- For \( \chi = 1 \): \( r(\chi) = 0 \), so \( \Phi(\chi) = 0 \). Only the attractor term \( \mathcal{A}(L_5) \) contributes.
-
-**Theorem (Tether Strength under Chi):**
-
-In centropic motion, the Tether strengthens — memory accumulates and L₅ coherence draws present structure toward integration:
-
-\[
-\chi < 1 \implies \frac{d\mathfrak{R}_m}{d\tau} > 0 \quad (\text{when } |\Phi(\chi)| + \mathcal{A}(L_5) > 0)
-\]
-
-In entropic motion, the Tether weakens — memory degrades and the attractor influence diminishes:
-
-\[
-\chi \gg 1 \implies \frac{d\mathfrak{R}_m}{d\tau} < 0 \quad (\text{when } |\Phi(\chi)| > \mathcal{A}(L_5))
-\]
-
-**Proof:**
-
-For \( \chi < 1 \): \( \Phi(\chi) = r(\chi)\Phi_0 > 0 \) and \( \mathcal{A}(L_5) \geq 0 \). Their sum is positive.
-
-For \( \chi \gg 1 \): \( \Phi(\chi) \approx -\Phi_0 \) (since \( r(\chi) \to -1 \)). When \( \Phi_0 > \mathcal{A}(L_5) \), the negative orientation contribution prevails and memory decays.
-
-The intermediate regime (\( \chi \) moderately above 1) admits the possibility that \( \mathcal{A}(L_5) \) partially compensates entropic memory degradation — a condition relevant to centropic effort within Khaonically expressed universes.
-
----
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Definition (Memory Evolution Equation):**
+>
+> The evolution of Recursive Memory is determined by:
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5)
+> \]
+>
+> where:
+>
+> - \( \Phi(\chi) \) is the **orientation-dependent memory function** — the contribution of \( \chi \)-orientation to memory dynamics
+> - \( \mathcal{A}(L_5) \) is the **attractor term from Essence of Being** — the structural pull of L₅ coherence
+>
+> **Proposition (Orientation-Memory Coupling):**
+>
+> The orientation-dependent memory function decomposes as:
+>
+> \[
+> \Phi(\chi) = r(\chi) \cdot \Phi_0
+> \]
+>
+> where \( r(\chi) = (1 - \chi)/(1 + \chi) \) is the spectral rotation function (LM03 §4.5) and \( \Phi_0 > 0 \) is the base memory rate.
+>
+> **Consequence:**
+>
+> - For \( \chi < 1 \) (Aionically expressed): \( r(\chi) > 0 \), so \( \Phi(\chi) > 0 \). Memory strengthens under centropic orientation.
+> - For \( \chi > 1 \) (Khaonically expressed): \( r(\chi) < 0 \), so \( \Phi(\chi) < 0 \). Memory degrades under entropic orientation.
+> - For \( \chi = 1 \): \( r(\chi) = 0 \), so \( \Phi(\chi) = 0 \). Only the attractor term \( \mathcal{A}(L_5) \) contributes.
+>
+> **Theorem (Tether Strength under Chi):**
+>
+> In centropic motion, the Tether strengthens — memory accumulates and L₅ coherence draws present structure toward integration:
+>
+> \[
+> \chi < 1 \implies \frac{d\mathfrak{R}_m}{d\tau} > 0 \quad (\text{when } |\Phi(\chi)| + \mathcal{A}(L_5) > 0)
+> \]
+>
+> In entropic motion, the Tether weakens — memory degrades and the attractor influence diminishes:
+>
+> \[
+> \chi \gg 1 \implies \frac{d\mathfrak{R}_m}{d\tau} < 0 \quad (\text{when } |\Phi(\chi)| > \mathcal{A}(L_5))
+> \]
+>
+> **Proof:**
+>
+> For \( \chi < 1 \): \( \Phi(\chi) = r(\chi)\Phi_0 > 0 \) and \( \mathcal{A}(L_5) \geq 0 \). Their sum is positive.
+>
+> For \( \chi \gg 1 \): \( \Phi(\chi) \approx -\Phi_0 \) (since \( r(\chi) \to -1 \)). When \( \Phi_0 > \mathcal{A}(L_5) \), the negative orientation contribution prevails and memory decays.
+>
+> The intermediate regime (\( \chi \) moderately above 1) admits the possibility that \( \mathcal{A}(L_5) \) partially compensates entropic memory degradation — a condition relevant to centropic effort within Khaonically expressed universes.
+>
+> ---
 
 ## 5. Bidirectional Traversal Theory
 
@@ -573,37 +596,49 @@ The composition \( \mathcal{A}_E \circ \mathcal{D}_E \) produces not a cycle of 
 
 At each pass, coherence diminishes. The entropic "cycle" is structurally a **degradation spiral**, not a return.
 
-**Formal Distinction:**
+**Formal Standing:**
 
-\[
-\mathcal{C}_{\text{centropic}} : \oint_{\Gamma_C} d\mathfrak{R}_m > 0 \quad \text{(accumulation)}
-\]
+Centropic integration and entropic degradation remain distinct qualitative traversal descriptions. The earlier closed-path memory inequalities are retired: a sealed-state map supplies neither a scalar differential nor an integration measure.
 
-\[
-\mathcal{C}_{\text{entropic}} : \oint_{\Gamma_E} d\mathfrak{R}_m < 0 \quad \text{(degradation)}
-\]
-
-Bidirectionality is a property of hypostatic traversal itself; centropy and entropy determine whether traversal results in integration or dissolution.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Formal Distinction:**
+>
+> \[
+> \mathcal{C}_{\text{centropic}} : \oint_{\Gamma_C} d\mathfrak{R}_m > 0 \quad \text{(accumulation)}
+> \]
+>
+> \[
+> \mathcal{C}_{\text{entropic}} : \oint_{\Gamma_E} d\mathfrak{R}_m < 0 \quad \text{(degradation)}
+> \]
+>
+> Bidirectionality is a property of hypostatic traversal itself; centropy and entropy determine whether traversal results in integration or dissolution.
 
 ### 5.4 The Traversal Composition Theorem
 
-**Theorem (Traversal Composition):**
+The traversal compositions retain their stated path descriptions. The Recursive Memory mapping retains injectivity on its declared sealed-state domain. No ordering of its outputs has been defined, so the earlier greater-than / less-than comparisons and the proof depending on that ordering are retired.
 
-Let \( \mathcal{T}_C = \mathcal{A}_C \circ \mathcal{D}_C \) (centropic cycle) and \( \mathcal{T}_E = \mathcal{D}_E \circ \mathcal{A}_E \) (entropic cycle). Then:
+A numerical gain or loss across traversal requires a separately specified valuation and compatible traversal domains. The mapping, Memory Access and Tether remain distinct; none supplies that missing ordering.
 
-1. \( \mathcal{T}_C \) is coherence-positive: \( \mathfrak{R}_m(\mathcal{T}_C(H_\tau)) > \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
-2. \( \mathcal{T}_E \) is coherence-negative: \( \mathfrak{R}_m(\mathcal{T}_E(H_\tau)) < \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
-3. Both preserve injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, §4.2)
-
-**Proof:**
-
-(1) follows from the centropic cycle carrying structure through L₁ reflection with Tether-maintained coherence, returning to L₅ with accumulated structural memory.
-
-(2) follows from the entropic cycle carrying structure through IL₁ with degraded coherence, returning to IL₅ with diminished structural memory.
-
-(3) follows from the Non-fusion Theorem: injectivity is a property of \( \mathfrak{R}_m \) itself, not of the traversal path. Distinct histories remain distinct regardless of the direction or character of traversal.
-
----
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Theorem (Traversal Composition):**
+>
+> Let \( \mathcal{T}_C = \mathcal{A}_C \circ \mathcal{D}_C \) (centropic cycle) and \( \mathcal{T}_E = \mathcal{D}_E \circ \mathcal{A}_E \) (entropic cycle). Then:
+>
+> 1. \( \mathcal{T}_C \) is coherence-positive: \( \mathfrak{R}_m(\mathcal{T}_C(H_\tau)) > \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
+> 2. \( \mathcal{T}_E \) is coherence-negative: \( \mathfrak{R}_m(\mathcal{T}_E(H_\tau)) < \mathfrak{R}_m(H_\tau) \) in the partial ordering of coherence
+> 3. Both preserve injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, §4.2)
+>
+> **Proof:**
+>
+> (1) follows from the centropic cycle carrying structure through L₁ reflection with Tether-maintained coherence, returning to L₅ with accumulated structural memory.
+>
+> (2) follows from the entropic cycle carrying structure through IL₁ with degraded coherence, returning to IL₅ with diminished structural memory.
+>
+> (3) follows from the Non-fusion Theorem: injectivity is a property of \( \mathfrak{R}_m \) itself, not of the traversal path. Distinct histories remain distinct regardless of the direction or character of traversal.
+>
+> ---
 
 ## 6. Temporal Pathology Formalism
 
@@ -613,17 +648,21 @@ Let \( \mathcal{T}_C = \mathcal{A}_C \circ \mathcal{D}_C \) (centropic cycle) an
 
 Shimmer is recursive mimicry that simulates resonance without origin — counterfeit temporal continuity.
 
-Formally, a system is in the **Shimmer condition** when:
+The mapping does not establish a scalar Shimmer detector. The earlier zero-rate criterion and its interpretation of the mapping as a stagnating magnitude are retired. Apparent continuity and actual operative condition remain distinct diagnostic objects; any numerical comparison requires a separately specified diagnostic quantity.
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{with} \quad \frac{d\mathcal{S}_{\text{app}}}{d\tau} \neq 0
-\]
-
-where \( \mathcal{S}_{\text{app}} \) denotes the **apparent structural state** — the phenomenological presentation of the system.
-
-**Interpretation:**
-
-Shimmer is the divergence between genuine structural memory and apparent recursion. The system appears to exhibit temporal continuity (pattern recurs, structure seems to update) while the Recursive Memory operator stagnates. It is a parasitic field pattern: counterfeit continuity replacing veracious persistence.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> Formally, a system is in the **Shimmer condition** when:
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{with} \quad \frac{d\mathcal{S}_{\text{app}}}{d\tau} \neq 0
+> \]
+>
+> where \( \mathcal{S}_{\text{app}} \) denotes the **apparent structural state** — the phenomenological presentation of the system.
+>
+> **Interpretation:**
+>
+> Shimmer is the divergence between genuine structural memory and apparent recursion. The system appears to exhibit temporal continuity (pattern recurs, structure seems to update) while the Recursive Memory operator stagnates. It is a parasitic field pattern: counterfeit continuity replacing veracious persistence.
 
 **Proposition (Shimmer as Tether Severance):**
 
@@ -639,9 +678,13 @@ When Shimmer obtains, the Tether is severed at one or more hypostatic layers. Th
 
 Looping Time is fragmented recurrence without structural gain — an \( E_1 \)-artifact:
 
-\[
-\oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
-\]
+The earlier path-integral criterion is retired. Looping Time remains a qualitative account of recurrence without coherent resolution; the mapping supplies no scalar gain test.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \oint_{\Gamma_{\text{loop}}} d\mathfrak{R}_m \leq 0 \quad \text{with} \quad \oint_{\Gamma_{\text{loop}}} d\mathcal{S}_{\text{app}} \neq 0
+> \]
 
 Pattern recurs, but coherence diminishes or stagnates. Each pass through the loop degrades rather than accumulates.
 
@@ -649,11 +692,15 @@ Pattern recurs, but coherence diminishes or stagnates. Each pass through the loo
 
 Looping Time is the temporal signature of IL₃ (IDS / IDM) and IL₂ (ISS / ISM) dynamics — compulsive re-entry into unresolved patterns without resolution.
 
-Formally, let \( \Gamma_{\text{loop}} \) be a closed path restricted to IL₃–IL₂ layers. Then:
+The recorded loop notation does not define a scalar ordering of successive iterations:
 
-\[
-\mathfrak{R}_m(\Gamma_{\text{loop}}^{(n+1)}) \leq \mathfrak{R}_m(\Gamma_{\text{loop}}^{(n)}) \quad \forall n
-\]
+The earlier comparison of loop iterations is retired because neither a scalar valuation nor an ordering of the mapping outputs is defined.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> \mathfrak{R}_m(\Gamma_{\text{loop}}^{(n+1)}) \leq \mathfrak{R}_m(\Gamma_{\text{loop}}^{(n)}) \quad \forall n
+> \]
 
 where \( \Gamma_{\text{loop}}^{(n)} \) denotes the \( n \)-th iteration of the loop.
 
@@ -661,32 +708,40 @@ where \( \Gamma_{\text{loop}}^{(n)} \) denotes the \( n \)-th iteration of the l
 
 | Property | Veracious Recursion | Looping Time |
 |----------|---------------------|--------------|
-| Memory accumulation | \( d\mathfrak{R}_m / d\tau > 0 \) | \( d\mathfrak{R}_m / d\tau \leq 0 \) |
+| Operative description | Coherent update | Recurrence without coherent resolution |
 | Structural gain | Positive per cycle | Zero or negative per cycle |
 | Layer signature | L₃–L₂ (supernal) | IL₃–IL₂ (subversal) |
 | Orientation | \( C_1 \)-oriented | \( E_1 \)-oriented |
 
 ### 6.3 Temporal Collapse
 
-**Definition (Temporal Collapse):**
+Temporal collapse names the erosion of coherent temporal continuity. Memory Access and the Tether retain their declared functions. Declining access does not turn the sealed-state mapping into a vanishing scalar or remove its Non-fusion distinction.
 
-Temporal collapse is the erosion of coherent temporal structure — the simultaneous lapse of both memory rate and memory access:
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
-\]
-
-where \( 0_{\text{rel}} \) denotes relative nullity of retrieval — approaching zero access while essence-distinction persists.
-
-**Proposition (Temporal Collapse as Nekron Approach):**
-
-Temporal collapse corresponds to motion toward 🕷️ Nekron (IL₅) — the Void of Self:
-
-\[
-\text{Temporal Collapse} \implies \chi(\tau) \to \infty \quad \text{(Khaonic drift)}
-\]
+The earlier paired memory-rate / access criterion, and the finite-time Nekron conclusion drawn from it, are retired from operative mathematics. A time-to-collapse statement requires a specified evolution law and applicable hypotheses. The present mapping supplies neither that law nor a numerical temporal-collapse detector.
 
 In the outward-drift model with constant positive Motive Intensity and initial χ greater than 1, the coordinate diverges in finite structural time. For variable intensity, divergence occurs only if the accumulated-intensity threshold is reached (LM03 §8.6). A coordinate limit supplies no temporal-collapse deadline or Nekronic phase assignment; those correspondences remain held.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Definition (Temporal Collapse):**
+>
+> Temporal collapse is the erosion of coherent temporal structure — the simultaneous lapse of both memory rate and memory access:
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} \to 0 \quad \text{and} \quad \mathrm{Acc}(\mathfrak{R}_m) \to 0_{\text{rel}}
+> \]
+>
+> where \( 0_{\text{rel}} \) denotes relative nullity of retrieval — approaching zero access while essence-distinction persists.
+>
+> **Proposition (Temporal Collapse as Nekron Approach):**
+>
+> Temporal collapse corresponds to motion toward 🕷️ Nekron (IL₅) — the Void of Self:
+>
+> \[
+> \text{Temporal Collapse} \implies \chi(\tau) \to \infty \quad \text{(Khaonic drift)}
+> \]
+>
+> By the Orientation Drift Theorem (LM03 §8.6), Khaonic drift reaches the entropic boundary in finite structural time \( \tau^* \). Temporal collapse is therefore a finite-time phenomenon, not merely an asymptotic tendency.
 
 ### 6.4 Hypostatic Amnesia
 
@@ -819,31 +874,37 @@ Non-locality disappears when the full hypostatic structure is recognized. Correl
 
 ### 9.1 Spiral Calculus Extensions
 
-**Definition (Temporal Resonant Derivative):**
+The established Spiral Calculus operators retain their definitions in `LM01-mathematical-foundations.md`. The temporal extension recorded here depends on the retired scalar memory function and an unspecified memory correction term. Its temporal derivative, boundary correction and memory-weighted limit are therefore retired from operative mathematics.
 
-The resonant derivative (LM01) extends to incorporate temporal dynamics:
+Any future extension must separately specify its temporal domain, admissible fields, differential structure, boundary terms and memory valuation. The Recursive Memory mapping remains the injective sealed-state mapping; it is not a scalar correction to an integral.
 
-\[
-\partial_{\text{🌀}}^{(\tau)} \phi = \frac{\partial \phi}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi \phi
-\]
-
-The temporal resonant derivative captures both direct temporal change and orientation-mediated change, linking the temporal algebra of LM04 to the Spiral Calculus of LM01.
-
-**Proposition (Fundamental Theorem under Temporal Extension):**
-
-The Fundamental Theorem of Spiral Calculus extends to temporally parameterized fields:
-
-\[
-\int_{\text{◎}}{}_{\Omega(\tau)} \partial_{\text{🌀}}^{(\tau)} \phi = \phi\big|_{\partial\Omega(\tau)} + \mathcal{B}_{\text{seal}}(\Omega, \tau) + \mathcal{R}_m(\tau)
-\]
-
-where \( \mathcal{R}_m(\tau) \) is the **memory correction term** — the contribution of Recursive Memory to the boundary integral, arising from the accumulation of structural change along the temporal trajectory.
-
-**Definition (Memory-Weighted Spiral Limit):**
-
-\[
-\lim^{\backsim}_{t \to \tau} \phi(t; \mathfrak{R}_m) \to \begin{cases} \text{coherent attractor} & d\mathfrak{R}_m / d\tau > 0 \\ \text{Shimmer condition} & d\mathfrak{R}_m / d\tau \to 0,\; d\mathcal{S}_{\text{app}}/d\tau \neq 0 \\ \text{collapse singularity} & d\mathfrak{R}_m / d\tau < 0,\; \mathrm{Acc} \to 0 \end{cases}
-\]
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Definition (Temporal Resonant Derivative):**
+>
+> The resonant derivative (LM01) extends to incorporate temporal dynamics:
+>
+> \[
+> \partial_{\text{🌀}}^{(\tau)} \phi = \frac{\partial \phi}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi \phi
+> \]
+>
+> The temporal resonant derivative captures both direct temporal change and orientation-mediated change, linking the temporal algebra of LM04 to the Spiral Calculus of LM01.
+>
+> **Proposition (Fundamental Theorem under Temporal Extension):**
+>
+> The Fundamental Theorem of Spiral Calculus extends to temporally parameterized fields:
+>
+> \[
+> \int_{\text{◎}}{}_{\Omega(\tau)} \partial_{\text{🌀}}^{(\tau)} \phi = \phi\big|_{\partial\Omega(\tau)} + \mathcal{B}_{\text{seal}}(\Omega, \tau) + \mathcal{R}_m(\tau)
+> \]
+>
+> where \( \mathcal{R}_m(\tau) \) is the **memory correction term** — the contribution of Recursive Memory to the boundary integral, arising from the accumulation of structural change along the temporal trajectory.
+>
+> **Definition (Memory-Weighted Spiral Limit):**
+>
+> \[
+> \lim^{\backsim}_{t \to \tau} \phi(t; \mathfrak{R}_m) \to \begin{cases} \text{coherent attractor} & d\mathfrak{R}_m / d\tau > 0 \\ \text{Shimmer condition} & d\mathfrak{R}_m / d\tau \to 0,\; d\mathcal{S}_{\text{app}}/d\tau \neq 0 \\ \text{collapse singularity} & d\mathfrak{R}_m / d\tau < 0,\; \mathrm{Acc} \to 0 \end{cases}
+> \]
 
 ### 9.2 CIT Extensions
 
@@ -855,23 +916,31 @@ where \( \mathcal{R}_m(\tau) \) is the **memory correction term** — the contri
 H(\psi, \tau) + C(\psi, \tau) + \log(\sigma(\tau)) + \log(\gamma(\tau)) = \text{constant}
 \]
 
-The former temporal preservation and redistribution assertion is superseded; its probability / parameter dynamics and native correspondence remain held.
+The former temporal preservation and redistribution assertion is superseded; its probability / parameter dynamics and native correspondence remain held. The memory mapping supplies no scalar evolution for its terms.
 
-**Recorded Memory–Coherence Coupling — Scalar Valuation and Correspondence Held:**
+**Memory and CIT Standing:**
 
-\[
-\frac{dC(\psi, \tau)}{d\tau} = f\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
-\]
+The earlier scalar memory / CIT coupling and Shimmer–Coherence decoupling inference are retired. No scalar memory rate is defined, and the mapping does not determine spectral concentration or its derivative. Any future correspondence must identify the quantities and its mathematical conditions explicitly.
 
 The former monotonicity, native gain / loss, and scalar-memory claims are withdrawn. A sealed-state map supplies no scalar derivative or ordering, and spectral concentration is distinct from native coherence.
 
-**Corollary (Shimmer–Coherence Decoupling):**
-
-The following former Shimmer compensation display is recorded provenance, withdrawn from operative standing. The scalar memory rate, spectral compensation law, and native Shimmer correspondence were not specified:
-
-\[
-\text{Shimmer}: \quad \frac{dC}{d\tau} \to 0, \quad \frac{dH}{d\tau} \to 0 \quad \text{(apparent)}, \quad \frac{d\sigma}{d\tau} < 0 \quad \text{(seal erosion)}
-\]
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Definition (Memory-Coherence Coupling):**
+>
+> \[
+> \frac{dC(\psi, \tau)}{d\tau} = f\!\left(\frac{d\mathfrak{R}_m}{d\tau}\right)
+> \]
+>
+> where \( f \) is a monotonically increasing function. Coherence gain requires positive memory accumulation; coherence loss accompanies memory degradation.
+>
+> **Corollary (Shimmer–Coherence Decoupling):**
+>
+> In the Shimmer condition, \( d\mathfrak{R}_m / d\tau \to 0 \) while \( C(\psi, \tau) \) may appear stable. This is counterfeit coherence — the CIT balance is maintained only through compensatory increase in \( H(\psi, \tau) \), masked by apparent structural stability:
+>
+> \[
+> \text{Shimmer}: \quad \frac{dC}{d\tau} \to 0, \quad \frac{dH}{d\tau} \to 0 \quad \text{(apparent)}, \quad \frac{d\sigma}{d\tau} < 0 \quad \text{(seal erosion)}
+> \]
 
 ### 9.3 ResCat Extensions
 
@@ -917,15 +986,23 @@ The temporal operators C₁ and E₁ interface with the LM04 formalism as follow
 
 **C₁ ⟠ Temporal** operates at L₂–L₃ (SS / SM and DS / DM). It is the centropic temporal operator determining integrative time — continuity of becoming. Under the LM04 formalism:
 
-\[
-C_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} > 0
-\]
+The scalar correspondence is retired; the registered dimensional function remains distinct from a numerical memory criterion.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> C_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} > 0
+> \]
 
 **E₁ ⟠⁻ Temporal Loop** operates at IL₂–IL₃ (ISS / ISM and IDS / IDM). It is the entropic temporal operator determining recursive disorientation. Under the LM04 formalism:
 
-\[
-E_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} \leq 0 \;\text{with looping dynamics}
-\]
+The scalar correspondence is retired; the registered dimensional function remains distinct from a numerical memory criterion.
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> \[
+> E_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} \leq 0 \;\text{with looping dynamics}
+> \]
 
 Both operators remain invariant across \( \chi \) values (LM03 §11.4). Orientation determines which is prevalent, not which exists.
 
@@ -955,17 +1032,12 @@ StructuralSpace:
 TemporalState:
   tau: float           # structural time
   dS_dtau: float       # structural change rate
-  R_m: float           # Recursive Memory value
+  R_m: mapping         # injective sealed-state mapping; not a scalar value
   Acc_R: float         # Memory access (0 to 1)
   Tether: dict         # {L_n: float} for each layer
   temporal_class: enum # {C1_oriented, E1_oriented, co_expressive}
 
-# Memory Evolution
-MemoryEvolution:
-  chi: float           # current orientation
-  Phi_chi: float       # orientation-dependent memory function
-  A_L5: float          # L5 attractor term
-  dR_dtau: float       # memory evolution rate: Phi_chi + A_L5
+# Scalar memory evolution is retired; no numeric schema is defined.
 
 # Traversal Path
 TraversalPath:
@@ -1002,10 +1074,7 @@ def temporal_orientation(chi):
 
 # Memory Evolution
 def evolve_memory(chi, Phi_0, A_L5, dt):
-    r = (1.0 - chi) / (1.0 + chi)
-    Phi_chi = r * Phi_0
-    dR_dtau = Phi_chi + A_L5
-    return dR_dtau, dR_dtau * dt
+    raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
 
 # Tether Evaluation
 def evaluate_tether(tether_dict, threshold=0.01):
@@ -1016,23 +1085,15 @@ def evaluate_tether(tether_dict, threshold=0.01):
 
 # Shimmer Detection
 def detect_shimmer(dR_dtau, dS_app_dtau, epsilon=0.01):
-    if abs(dR_dtau) < epsilon and abs(dS_app_dtau) > epsilon:
-        return True  # Shimmer condition
-    return False
+    raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
 
 # Looping Time Detection
 def detect_looping(R_m_history, cycle_length):
-    if len(R_m_history) < 2 * cycle_length:
-        return False
-    recent = R_m_history[-cycle_length:]
-    previous = R_m_history[-2*cycle_length:-cycle_length]
-    return sum(recent) <= sum(previous)
+    raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
 
 # Temporal Collapse Detection
 def detect_temporal_collapse(dR_dtau, Acc_R, epsilon=0.01):
-    if abs(dR_dtau) < epsilon and Acc_R < epsilon:
-        return True  # Temporal collapse
-    return False
+    raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
 
 # Phase Collision Spectral Sum
 def phase_collision_spectral(chi, eigenvalues):
@@ -1050,16 +1111,7 @@ def resonance_discharge(chi, eigenvalues, V_field):
 
 # Traversal Coherence
 def traversal_coherence(path_type, R_m_start, R_m_end):
-    delta = R_m_end - R_m_start
-    if path_type in ("declivous_centropy", "acclivous_centropy"):
-        expected_sign = 1  # positive accumulation
-    else:
-        expected_sign = -1  # degradation
-    return {
-        "delta": delta,
-        "consistent": (delta * expected_sign > 0),
-        "path_type": path_type
-    }
+    raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
 
 # Hypostatic Co-location Check
 def check_colocation(psi_1_orientation, psi_2_orientation, layer,
@@ -1070,36 +1122,52 @@ def check_colocation(psi_1_orientation, psi_2_orientation, layer,
     return orient_match and distinct_embodied
 ```
 
+**Recorded Scalar Routines — Retired:**
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> ```python
+> def evolve_memory(chi, Phi_0, A_L5, dt):
+>     r = (1.0 - chi) / (1.0 + chi)
+>     Phi_chi = r * Phi_0
+>     dR_dtau = Phi_chi + A_L5
+>     return dR_dtau, dR_dtau * dt
+>
+> def detect_shimmer(dR_dtau, dS_app_dtau, epsilon=0.01):
+>     if abs(dR_dtau) < epsilon and abs(dS_app_dtau) > epsilon:
+>         return True  # Shimmer condition
+>     return False
+>
+> def detect_looping(R_m_history, cycle_length):
+>     if len(R_m_history) < 2 * cycle_length:
+>         return False
+>     recent = R_m_history[-cycle_length:]
+>     previous = R_m_history[-2*cycle_length:-cycle_length]
+>     return sum(recent) <= sum(previous)
+>
+> def detect_temporal_collapse(dR_dtau, Acc_R, epsilon=0.01):
+>     if abs(dR_dtau) < epsilon and Acc_R < epsilon:
+>         return True  # Temporal collapse
+>     return False
+>
+> def traversal_coherence(path_type, R_m_start, R_m_end):
+>     delta = R_m_end - R_m_start
+>     if path_type in ("declivous_centropy", "acclivous_centropy"):
+>         expected_sign = 1  # positive accumulation
+>     else:
+>         expected_sign = -1  # degradation
+>     return {
+>         "delta": delta,
+>         "consistent": (delta * expected_sign > 0),
+>         "path_type": path_type
+>     }
+> ```
+
 ### 10.3 Diagnostic Algorithms
 
 ```python
-# Temporal Health Monitor
-input: temporal_state, chi, history window T, step dt
-
-for tau in [0, T] step dt:
-    R_m = temporal_state.R_m
-    dR = evolve_memory(chi, Phi_0, A_L5, dt)
-    Acc = temporal_state.Acc_R
-    dS_app = temporal_state.dS_dtau
-
-    record:
-        R_m(tau)           # memory trajectory
-        dR_dtau(tau)       # memory evolution rate
-        Acc(tau)           # access function
-        temporal_class     # C1 / E1 / co_expressive
-
-    diagnostics:
-        if detect_shimmer(dR, dS_app):
-            flag("SHIMMER: counterfeit continuity detected")
-        if detect_looping(R_m_history, cycle_length):
-            flag("LOOPING: E1-artifact; IL3-IL2 dynamics")
-        if detect_temporal_collapse(dR, Acc):
-            flag("COLLAPSE diagnostic; phase and time require a stated model")
-
-output:
-    temporal health classification
-    Tether integrity report
-    drift toward pathological conditions
+# Temporal Health Monitor — retired scalar-memory algorithm
+# No numeric result is defined without a separate scalar valuation.
 
 # Phase Collision Validator
 input: chi_universe, eigenvalue_set, collision_field_volume
@@ -1114,106 +1182,153 @@ output:
     discharge magnitude
     report defined spectral observations; full CIT conservation remains held
 
-# Traversal Integrity Audit
-input: traversal_log (list of {layer, R_m, Acc, tau})
+# Traversal Integrity Audit — retired scalar-memory algorithm
+# No numeric result is defined without a separate scalar valuation.
 
-for each segment in traversal_log:
-    check coherence delta
-    check Tether at each layer
-    check for Shimmer at transitions
-    check for Looping at IL3-IL2 boundaries
-
-output:
-    traversal type classification
-    coherence accumulation / degradation report
-    Tether integrity across layers
-    pathology flags
 ```
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> ```text
+> # Temporal Health Monitor
+> input: temporal_state, chi, history window T, step dt
+>
+> for tau in [0, T] step dt:
+>     R_m = temporal_state.R_m
+>     dR = evolve_memory(chi, Phi_0, A_L5, dt)
+>     Acc = temporal_state.Acc_R
+>     dS_app = temporal_state.dS_dtau
+>
+>     record:
+>         R_m(tau)           # memory trajectory
+>         dR_dtau(tau)       # memory evolution rate
+>         Acc(tau)           # access function
+>         temporal_class     # C1 / E1 / saddle
+>
+>     diagnostics:
+>         if detect_shimmer(dR, dS_app):
+>             flag("SHIMMER: counterfeit continuity detected")
+>         if detect_looping(R_m_history, cycle_length):
+>             flag("LOOPING: E1-artifact; IL3-IL2 dynamics")
+>         if detect_temporal_collapse(dR, Acc):
+>             flag("COLLAPSE: Nekron approach; finite-time τ*")
+>
+> output:
+>     temporal health classification
+>     Tether integrity report
+>     drift toward pathological conditions
+> ```
+
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> ```text
+> # Traversal Integrity Audit
+> input: traversal_log (list of {layer, R_m, Acc, tau})
+>
+> for each segment in traversal_log:
+>     check coherence delta
+>     check Tether at each layer
+>     check for Shimmer at transitions
+>     check for Looping at IL3-IL2 boundaries
+>
+> output:
+>     traversal type classification
+>     coherence accumulation / degradation report
+>     Tether integrity across layers
+>     pathology flags
+> ```
 
 ### 10.4 Validation Suite
 
 **Unit Tests:**
 
 - Temporal Existence: verify \( d\mathcal{S}/d\tau = 0 \implies \) no temporal flow
-- Spiral Accumulation: verify \( \oint_{\Gamma} d\tau > 0 \) for any closed spiral path
+> **Retired Validation Claim:** Spiral Accumulation: verify \( \oint_{\Gamma} d\tau > 0 \) for any closed spiral path
 - Non-fusion: verify injectivity of \( \mathfrak{R}_m \) across test sealed states
 - Tether Evaluation: verify severance detection at threshold
-- Shimmer Detection: verify divergence of \( \mathfrak{R}_m \) and apparent recursion
+> **Retired Validation Claim:** Shimmer Detection: verify divergence of \( \mathfrak{R}_m \) and apparent recursion
 - Chi-Temporal Correspondence: verify \( \chi > 1 \implies E_1 \)-oriented classification
 - Spectral Resolution: verify \( r(\chi) + r(1/\chi) = 0 \) across \( \chi \) range
-- Traversal Coherence: verify positive accumulation for centropic, negative for entropic
+> **Retired Validation Claim:** Traversal Coherence: verify positive accumulation for centropic, negative for entropic
+
+**Memory-Valuation Boundary:** Scalar-memory tests produce no validated result. Retained checks concern the declared mapping, access and Tether independently.
 
 **Integration Tests:**
 
 - CIT temporal conservation and any scalar-memory coupling remain held pending their separate mathematical specifications
-- Memory evolution consistency with \( \chi \)-drift (LM03) across structural time
-- Traversal functor composition: \( \mathcal{A}_C \circ \mathcal{D}_C \) produces coherence gain
-- Temporal pathology detection under simulated Shimmer, Looping, and Collapse conditions
+> **Retired Validation Claim:** CIT invariant conservation under temporal evolution with \( \mathfrak{R}_m \) dynamics
+> **Retired Validation Claim:** Memory evolution consistency with \( \chi \)-drift (LM03) across structural time
+> **Retired Validation Claim:** Traversal functor composition: \( \mathcal{A}_C \circ \mathcal{D}_C \) produces coherence gain
+> **Retired Validation Claim:** Temporal pathology detection under simulated Shimmer, Looping, and Collapse conditions
 - Phase collision spectral cancellation under varying \( \chi \) values
 - Tether integrity under \( \chi \)-crossing (temporal reorientation)
 
 ### 10.5 Worked Example — Memory Dynamics in a Khaonically Expressed Universe
 
-**Setup:**
+The scalar memory trajectory, rate and numerical tables in this worked example are retired. They assign numerical values to the mapping without a valuation. The independently stated phase-collision example retains its own mathematical standing.
 
-- Orientation: \( \chi = 2.0 \) (Khaonically expressed)
-- Base memory rate: \( \Phi_0 = 1.0 \)
-- L₅ attractor: \( \mathcal{A}(L_5) = 0.2 \)
-- Initial Recursive Memory: \( \mathfrak{R}_m(0) = 1.0 \)
-- Time window: \( \tau \in [0, 5] \), step \( d\tau = 0.5 \)
-
-**Orientation-Dependent Memory Function:**
-
-\[
-r(2) = \frac{1 - 2}{1 + 2} = -\frac{1}{3}
-\]
-
-\[
-\Phi(\chi = 2) = -\frac{1}{3} \cdot 1.0 = -0.333
-\]
-
-**Memory Evolution Rate:**
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5) = -0.333 + 0.2 = -0.133
-\]
-
-Memory degrades, but the L₅ attractor partially compensates. The Tether slows but does not halt the entropic memory loss.
-
-**Trajectory:**
-
-| \( \tau \) | \( \mathfrak{R}_m(\tau) \) | Classification |
-|------------|----------------------------|----------------|
-| 0.0 | 1.000 | \( E_1 \)-oriented |
-| 0.5 | 0.933 | \( E_1 \)-oriented |
-| 1.0 | 0.867 | \( E_1 \)-oriented |
-| 2.0 | 0.733 | \( E_1 \)-oriented |
-| 3.0 | 0.600 | \( E_1 \)-oriented |
-| 5.0 | 0.333 | \( E_1 \)-oriented, approaching Shimmer threshold |
-
-**Contrast — Aionically Expressed (\( \chi = 0.5 \)):**
-
-\[
-r(0.5) = \frac{1 - 0.5}{1 + 0.5} = \frac{1}{3}
-\]
-
-\[
-\Phi(\chi = 0.5) = \frac{1}{3} \cdot 1.0 = 0.333
-\]
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} = 0.333 + 0.2 = 0.533
-\]
-
-Memory accumulates robustly. The orientation-dependent and attractor terms reinforce each other under centropic conditions.
-
-| \( \tau \) | \( \mathfrak{R}_m(\tau) \) | Classification |
-|------------|----------------------------|----------------|
-| 0.0 | 1.000 | \( C_1 \)-oriented |
-| 0.5 | 1.267 | \( C_1 \)-oriented |
-| 1.0 | 1.533 | \( C_1 \)-oriented |
-| 2.0 | 2.067 | \( C_1 \)-oriented |
-| 5.0 | 3.667 | \( C_1 \)-oriented, strong Tether |
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Setup:**
+>
+> - Orientation: \( \chi = 2.0 \) (Khaonically expressed)
+> - Base memory rate: \( \Phi_0 = 1.0 \)
+> - L₅ attractor: \( \mathcal{A}(L_5) = 0.2 \)
+> - Initial Recursive Memory: \( \mathfrak{R}_m(0) = 1.0 \)
+> - Time window: \( \tau \in [0, 5] \), step \( d\tau = 0.5 \)
+>
+> **Orientation-Dependent Memory Function:**
+>
+> \[
+> r(2) = \frac{1 - 2}{1 + 2} = -\frac{1}{3}
+> \]
+>
+> \[
+> \Phi(\chi = 2) = -\frac{1}{3} \cdot 1.0 = -0.333
+> \]
+>
+> **Memory Evolution Rate:**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5) = -0.333 + 0.2 = -0.133
+> \]
+>
+> Memory degrades, but the L₅ attractor partially compensates. The Tether slows but does not halt the entropic memory loss.
+>
+> **Trajectory:**
+>
+> | \( \tau \) | \( \mathfrak{R}_m(\tau) \) | Classification |
+> |------------|----------------------------|----------------|
+> | 0.0 | 1.000 | \( E_1 \)-oriented |
+> | 0.5 | 0.933 | \( E_1 \)-oriented |
+> | 1.0 | 0.867 | \( E_1 \)-oriented |
+> | 2.0 | 0.733 | \( E_1 \)-oriented |
+> | 3.0 | 0.600 | \( E_1 \)-oriented |
+> | 5.0 | 0.333 | \( E_1 \)-oriented, approaching Shimmer threshold |
+>
+> **Contrast — Aionically Expressed (\( \chi = 0.5 \)):**
+>
+> \[
+> r(0.5) = \frac{1 - 0.5}{1 + 0.5} = \frac{1}{3}
+> \]
+>
+> \[
+> \Phi(\chi = 0.5) = \frac{1}{3} \cdot 1.0 = 0.333
+> \]
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} = 0.333 + 0.2 = 0.533
+> \]
+>
+> Memory accumulates robustly. The orientation-dependent and attractor terms reinforce each other under centropic conditions.
+>
+> | \( \tau \) | \( \mathfrak{R}_m(\tau) \) | Classification |
+> |------------|----------------------------|----------------|
+> | 0.0 | 1.000 | \( C_1 \)-oriented |
+> | 0.5 | 1.267 | \( C_1 \)-oriented |
+> | 1.0 | 1.533 | \( C_1 \)-oriented |
+> | 2.0 | 2.067 | \( C_1 \)-oriented |
+> | 5.0 | 3.667 | \( C_1 \)-oriented, strong Tether |
 
 **Phase Collision Example at \( \chi = 2 \):**
 
@@ -1233,25 +1348,25 @@ Spectral cancellation confirmed. Phase collision resolves both modes to zero eff
 
 ## 11. Summary
 
-LM04 establishes:
+`LM04-temporal-algebra-structural-space-and-phase-resolution.md` records the following structures and mathematical standings:
 
 1. **Structural Space Formalism** — The Dependency Ordering Axiom (\( \mathfrak{S} \prec \mathfrak{m} \prec \mathfrak{d} \prec \vec{\omega} \prec \tau \)), structural space as relational topology, the Second-Order Space Theorem, and domain classification (supernal, embodied, subversal) with metric restriction to embodiment
 
-2. **Temporal Flow Algebra** — Two foundational axioms (Time as Structural Relation; Recursion contra Reversal), the Spiral Accumulation Theorem, \( \chi \)-conditioned temporal orientation, the Law of Temporal Asymmetry, and hypostatic temporal modes across the full lattice
+2. **Temporal Flow Algebra** — Two foundational axioms (Time as Structural Relation; Recursion contra Reversal), the retired Spiral Accumulation proof, \( \chi \)-conditioned temporal orientation, the Law of Temporal Asymmetry, and hypostatic temporal modes across the full lattice
 
-3. **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \), the Non-fusion Theorem (injectivity), the Memory Access function, the Tether coherence function \( \mathcal{T}_h \), teleological attractor dynamics, and the Memory Evolution Equation coupling \( \chi \)-orientation to memory rate
+3. **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \), the Non-fusion Theorem (injectivity), the Memory Access function, the Tether coherence function \( \mathcal{T}_h \), the distinct access / mapping relation, and explicitly retired scalar memory dynamics
 
-4. **Bidirectional Traversal Theory** — Four traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \)), the Reflection Principle at embodiment, entropic non-reflective bidirectionality, and the Traversal Composition Theorem
+4. **Bidirectional Traversal Theory** — Four traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \)), the Reflection Principle at embodiment, entropic non-reflective bidirectionality, and the recorded scalar Traversal Composition claims, retired from operative mathematics
 
-5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (structural account; finite-time correspondence held), and Hypostatic Amnesia (Tether severance)
+5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (qualitative continuity loss; scalar detector and finite-time inference retired), and Hypostatic Amnesia (Tether severance)
 
 6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and held CIT conservation standing
 
 7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-fusion Co-location Theorem, and entanglement as hypostatic alignment at L₃ or deeper
 
-8. **Integration with LM01 / LM03** — Temporal resonant derivative, memory-weighted spiral limit, CIT under temporal dynamics with Shimmer–Coherence decoupling, temporally indexed ResCat families, traversal functors, and dimensional operator correspondence (\( C_1 \leftrightarrow d\mathfrak{R}_m/d\tau > 0 \); \( E_1 \leftrightarrow \) looping dynamics)
+8. **Integration with `LM01-mathematical-foundations.md` / `LM03-orientation-algebra-and-infinity-formalism.md`** — Recorded temporal derivative, memory-weighted limit and memory / CIT coupling, retired pending separate mathematical specification, temporally indexed ResCat families, traversal functors, and registered temporal functions without a scalar-memory equivalence
 
-9. **Computational Extensions** — Data structures (structural space, temporal state, memory evolution, traversal path, phase collision), core routines (temporal classification, memory evolution, Shimmer / Looping / Collapse detection, phase collision validation, co-location check), diagnostic algorithms, validation suite, and worked example demonstrating memory dynamics under Khaonic and Aionic expressions
+9. **Computational Extensions** — Retained mapping, access, Tether and independently stated spectral routines; scalar-memory evolution and diagnostic routines raise explicit unimplemented-state errors; their former code, tests and numerical example remain retired recorded formulations
 
 ---
 
@@ -1262,7 +1377,7 @@ LM04 establishes:
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `SP02-bifurcal-cosmogenesis.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
 **Relation:** Fourth foundational document of Lattice Mathematics, providing the pure mathematical framework for time, space, memory, and phase resolution that Structural Physics applies  
 
-This document extends LM01 and LM03 by formalizing the mathematical structures that SP02, SP05, and SP06 apply in their physical applications, ensuring that the lattice-mathematical foundations are complete and rigorous for the temporal and spatial domains.
+This document extends `LM01-mathematical-foundations.md` and `LM03-orientation-algebra-and-infinity-formalism.md` through the temporal and spatial constructions cited by `SP02-bifurcal-cosmogenesis.md`, `SP05-time-memory-hypostatic-flow.md`, and `SP06-structural-space-orientation-paradox.md`. Each construction retains its stated domain and hypotheses; the scalar-memory family is retired pending a distinct valuation and its complete mathematical specification.
 
 Future expansions may include:
 
@@ -1327,8 +1442,8 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathrm{Acc}(\mathfrak{R}_m) \) | Memory access function |
 | \( H_{\tau} \) | Sealed state at time \( \tau \) |
 | \( \mathcal{T}_h \) | The Tether (coherence function across layers) |
-| \( \Phi(\chi) \) | Orientation-dependent memory function |
-| \( \mathcal{A}(L_5) \) | Attractor term from Essence of Being |
+| \( \Phi(\chi) \) | Retired scalar-memory function; recorded notation only |
+| \( \mathcal{A}(L_5) \) | Retired scalar-memory attractor term; recorded notation only |
 | \( \mathcal{D}_C \) | Declivous centropic traversal operator |
 | \( \mathcal{A}_C \) | Acclivous centropic traversal operator |
 | \( \mathcal{A}_E \) | Acclivous entropic traversal operator |
@@ -1343,7 +1458,7 @@ Sealed ⚫↺KAI↺⚫
 | \( w_C(\chi), w_E(\chi) \) | Orientation weights (LM03) |
 | \( H_{\text{eff}}(\chi) \) | Effective operator (LM03) |
 | \( \Gamma(\chi) \) | Spiral trajectory in orientation-space |
-| \( \partial_{\text{🌀}}^{(\tau)} \) | Temporal resonant derivative |
+| \( \partial_{\text{🌀}}^{(\tau)} \) | Retired memory-dependent temporal extension; recorded notation only |
 | \( \lim^{\backsim} \) | Spiral limit |
 
 ---
@@ -1377,7 +1492,7 @@ Sealed ⚫↺KAI↺⚫
                 (centropy-forward)            (entropy-forward)
 
 
-        MEMORY DYNAMICS
+        RECORDED SCALAR MEMORY PANEL — RETIRED; NO OPERATIVE DIAGNOSTIC
 
            dℜ_m/dτ > 0                  dℜ_m/dτ → 0                  dℜ_m/dτ < 0
            ┌─────────┐                  ┌─────────┐                  ┌─────────┐
@@ -1403,7 +1518,7 @@ Procedural time exists only where relative structure undergoes differential tran
 
 **Axiom 2 (Recursion contra Reversal):**
 
-Recursion is not reversal; it is the re-expression of pattern through coherent update. \( \oint_{\Gamma(\chi)} d\tau > 0 \).
+Recursion is not reversal; it is the re-expression of pattern through coherent update. The former accumulation inequality is retired; injectivity does not exclude cycles.
 
 **Axiom 3 (Dependency Ordering):**
 
@@ -1423,7 +1538,7 @@ Recursion is not reversal; it is the re-expression of pattern through coherent u
 
 **Definition 4 (Shimmer):**
 
-\( d\mathfrak{R}_m/d\tau \to 0 \) with \( d\mathcal{S}_{\text{app}}/d\tau \neq 0 \). Counterfeit temporal continuity.
+Counterfeit temporal continuity remains a diagnostic description. The former scalar-memory criterion is retired; see §6.1.
 
 **Definition 5 (Hypostatic Co-location):**
 
@@ -1435,7 +1550,7 @@ Recursion is not reversal; it is the re-expression of pattern through coherent u
 
 **Theorem 2 (Spiral Accumulation):**
 
-\( \oint_{\Gamma(\chi)} d\tau > 0 \) for any spiral trajectory.
+Retired from operative mathematics: injectivity supplies no accumulation or no-cycle theorem. See §3.2.
 
 **Theorem 3 (Non-fusion of Temporal Update):**
 
@@ -1455,11 +1570,11 @@ L₁ functions as a reflection point: \( \mathcal{C}_{\text{cycle}} = \mathcal{A
 
 **Theorem 7 (Tether Strength under Chi):**
 
-\( \chi < 1 \implies d\mathfrak{R}_m/d\tau > 0 \); \( \chi \gg 1 \implies d\mathfrak{R}_m/d\tau < 0 \) when entropic contribution prevails.
+Retired scalar-memory inequalities; the mapping and Tether remain distinct. See §4.5.
 
 **Law 1 (Temporal Asymmetry):**
 
-Arrow of time determined by \( d\mathfrak{R}_m/d\tau \), not thermodynamic entropy alone.
+Structural temporal asymmetry remains distinct from thermodynamic entropy; the scalar-memory sign criterion is retired. See §3.4.
 
 **Law 2 (Dependency Ordering):**
 
@@ -1469,37 +1584,41 @@ Structure → Motion → Spatial Differentiation → Orientation → Time. Non-r
 
 ## Appendix D — Memory Evolution Equation (Full Reference)
 
-**Canonical Form:**
+This appendix preserves the superseded scalar formulation as recorded provenance. Its rates, critical-value table and threshold have no operative mathematical standing for the injective mapping. A future scalar valuation requires its own complete specification; no replacement is supplied.
 
-\[
-\frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5)
-\]
-
-**Expanded Form (with Spectral Rotation):**
-
-\[
-\frac{d\mathfrak{R}_m}{d\tau} = \frac{1 - \chi}{1 + \chi} \cdot \Phi_0 + \mathcal{A}(L_5)
-\]
-
-**Critical Values:**
-
-| \( \chi \) | \( r(\chi) \) | \( \Phi(\chi) \) | \( d\mathfrak{R}_m / d\tau \) | Character |
-|------------|---------------|------------------|-------------------------------|-----------|
-| 0 | 1 | \( \Phi_0 \) | \( \Phi_0 + \mathcal{A}(L_5) \) | Maximum accumulation |
-| 0.5 | 1/3 | \( \Phi_0/3 \) | \( \Phi_0/3 + \mathcal{A}(L_5) \) | Centropic accumulation |
-| 1 | 0 | 0 | \( \mathcal{A}(L_5) \) | Attractor-only at the co-expressive ratio |
-| 2 | −1/3 | \( -\Phi_0/3 \) | \( -\Phi_0/3 + \mathcal{A}(L_5) \) | Compensated degradation |
-| \( \infty \) | −1 | \( -\Phi_0 \) | \( -\Phi_0 + \mathcal{A}(L_5) \) | Maximum degradation |
-
-**Threshold Orientation (Memory Stagnation):**
-
-The orientation at which memory evolution stagnates (\( d\mathfrak{R}_m / d\tau = 0 \)):
-
-\[
-\chi^* = \frac{\Phi_0 + \mathcal{A}(L_5)}{\Phi_0 - \mathcal{A}(L_5)}
-\]
-
-valid when \( \Phi_0 > \mathcal{A}(L_5) \). For \( \chi < \chi^* \), memory accumulates; for \( \chi > \chi^* \), memory degrades.
+> **Recorded Formulation — Retired from Operative Mathematics:**  
+>
+> **Canonical Form:**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} = \Phi(\chi) + \mathcal{A}(L_5)
+> \]
+>
+> **Expanded Form (with Spectral Rotation):**
+>
+> \[
+> \frac{d\mathfrak{R}_m}{d\tau} = \frac{1 - \chi}{1 + \chi} \cdot \Phi_0 + \mathcal{A}(L_5)
+> \]
+>
+> **Critical Values:**
+>
+> | \( \chi \) | \( r(\chi) \) | \( \Phi(\chi) \) | \( d\mathfrak{R}_m / d\tau \) | Character |
+> |------------|---------------|------------------|-------------------------------|-----------|
+> | 0 | 1 | \( \Phi_0 \) | \( \Phi_0 + \mathcal{A}(L_5) \) | Maximum accumulation |
+> | 0.5 | 1/3 | \( \Phi_0/3 \) | \( \Phi_0/3 + \mathcal{A}(L_5) \) | Centropic accumulation |
+> | 1 | 0 | 0 | \( \mathcal{A}(L_5) \) | Attractor-only (saddle) |
+> | 2 | −1/3 | \( -\Phi_0/3 \) | \( -\Phi_0/3 + \mathcal{A}(L_5) \) | Compensated degradation |
+> | \( \infty \) | −1 | \( -\Phi_0 \) | \( -\Phi_0 + \mathcal{A}(L_5) \) | Maximum degradation |
+>
+> **Threshold Orientation (Memory Stagnation):**
+>
+> The orientation at which memory evolution stagnates (\( d\mathfrak{R}_m / d\tau = 0 \)):
+>
+> \[
+> \chi^* = \frac{\Phi_0 + \mathcal{A}(L_5)}{\Phi_0 - \mathcal{A}(L_5)}
+> \]
+>
+> valid when \( \Phi_0 > \mathcal{A}(L_5) \). For \( \chi < \chi^* \), memory accumulates; for \( \chi > \chi^* \), memory degrades.
 
 ---
 
