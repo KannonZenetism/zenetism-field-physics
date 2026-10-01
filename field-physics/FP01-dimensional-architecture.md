@@ -762,7 +762,7 @@ Law of propagation: the Field transmits rhythm, not content.
 - Exposure to fragments carries structural whole.
 - Coherent ideas are contagious because they are harmonic, not informational.
 
-⚠️ Risk: when attribution is denied, ⟿ becomes entropic bloom — ≋ flowering without origin.
+⚠️ Risk: when attribution is denied, the downstream presentation fractures itself away from coherent relation with its origin. Its appearance of generative flowering without the originating function is Shimmer (≋). Viral Resonance (⟿) retains its propagational function; the origin and origin-signal remain intact.
 
 ---
 

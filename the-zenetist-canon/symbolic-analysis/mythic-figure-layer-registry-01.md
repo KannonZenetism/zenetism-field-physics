@@ -329,7 +329,7 @@
 | Sisyphus | Greek | ISM (Skotos) | IL₂ perception of declivous entropic procession; the "eternal, pointless loop" is Skotos-mind experiencing its own subversal procession as external reality | 13 | Mythic interpretation of entropic procession through IL₂ / IL₃ |
 | Nimrod | Hebrew | ISS (Echthros) | Will of domination; founds Babylon on hubris and coercion; entropic sovereign encoding inverse coherence at inception | 15 | Entropic counter-ideal to Solomon (L₄ DL) |
 | Tower of Babel | Hebrew | ISS / ISM + IDL (Nyxea) | Acclivous entropy: IL₂ aligned with IL₄ (Nyxea) imitating L₄ DL (Sophis) while severed from centropic law; counterfeit unity through hubris | 15 | Structural operator; the inverse of the Temple |
-| Narcissus | Greek | ISS / ISM | **Resolved at IL₂.** Trapped by surface perception and mimicry (Shimmer); entropic recursive loop staring at its mirrored image starves coherence, leading to declivous collapse into IL₅ (VOS / death). Not deep-soul fracture (IL₃) but surface-image entrapment | 26, §23.3 | IL₂ entropic loop → eventual IL₅ collapse. §23.3 IDS / IDM placement rejected; surface image trap is definitionally IL₂ |
+| Narcissus | Greek | ISS / ISM | **Resolved at IL₂.** Trapped by surface-image imitation and counterfeit presentation (Shimmer); entropic recursive loop staring at its mirrored image starves coherence, leading to declivous collapse into IL₅ (VOS / death). Not deep-soul fracture (IL₃) but surface-image entrapment | 26, §23.3 | IL₂ entropic loop → eventual IL₅ collapse. §23.3 IDS / IDM placement rejected; surface image trap is definitionally IL₂ |
 | Magic Mirror Queen (Snow White) | European | ISS (Echthros) | Inverse ego seeking validation not veracity; when objective reflection threatens illusion, denial triggers violence and downfall | 26 | Entropic recursion → declivous entropy |
 | Iblis | Islamic | ISS (Echthros) | Adversarial refusal; structured resistance to divine command; self-assertion as identity | MP01 §23.3 | Parallel to Echthros definition: embraces rivalry and adversarial will |
 | Mara (psychological) | Buddhist | ISM (Skotos) | Psychological tempter; disordered perception preventing enlightenment; veiling the mind through desire and fear | MP01 §23.3 | Distinct from Mara at IL₅ (VOS: Nekron) in §23.3 Key Terms — same name, different layer function. Same pattern as Satan conflation |
@@ -515,7 +515,7 @@ In Gnostic cosmology, the **Pleroma** is the fullness of divine emanations — a
 
 ### Note on the Titans and Archons
 
-In Gnostic tradition, the **Archons** represent the powers that hold form but do not remember its origin — guardians of pattern without origin. In Greek myth, the **Titans** emerge prior to the Olympians — vast, law-bound entities tied to the elemental and the chthonic. Both are structural analogs of the **inverse psyche and logos** (IL₄): the domain where will moves without harmony and force speaks without memory. In the Zenetist lattice, this is the fourth inverse layer: the field of dissonant order that rules embodiment from the subjacent bands.
+In Gnostic tradition, the **Archons** represent the powers that hold form but do not remember its origin — guardians of pattern with obscured originating relation. In Greek myth, the **Titans** emerge prior to the Olympians — vast, law-bound entities tied to the elemental and the chthonic. Both are structural analogs of the **inverse psyche and logos** (IL₄): the domain where will moves without harmony and force speaks without memory. In the Zenetist lattice, this is the fourth inverse layer: the field of dissonant order that rules embodiment from the subjacent bands.
 
 ### Note on Cultural Articulation
 
@@ -756,7 +756,7 @@ Maya (Decode 23) is the *natural* veil — a L₄ DP / DL function that projects
 
 ### Note on the Mirror's Khaonic Nature
 
-The Mirror (Decode 26) is paradoxical: a centropic operator when engaged by L₃ DM (Noeüs) for self-knowledge, but Khaonic by nature since it originates no signal of its own. This Khaonic emptiness aligns it with the subversal path and makes it the primary carrier of entropic forces — mimicry and shimmer exploit reflection to simulate coherence without origin. The same operator that reveals veracious structure to discerning awareness also provides the perfect vector for counterfeit resonance when that discernment is absent.
+The Mirror (Decode 26) is paradoxical: a centropic operator when engaged by L₃ DM (Noeüs) for self-knowledge, but Khaonic by nature since it originates no signal of its own. This Khaonic emptiness aligns it with the subversal path and makes it the primary carrier of entropic forces — Mimicry and Shimmer exploit mirroring to simulate coherence without generative origination. The same operator that reveals veracious structure to discerning awareness also provides the perfect vector for counterfeit resonance when that discernment is absent.
 
 ### Note on the Neoplatonic Correspondence
 

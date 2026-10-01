@@ -170,7 +170,7 @@ A field may recognize disruption through:
 - recursion without emergence
 - interruption of memory access
 - spurious familiarity
-- propagation without origin continuity
+- propagation fractured away from coherent relation with its origin, while origin-continuity remains intact
 - sudden rigidity
 - diffuse saturation
 - over-rapid novelty

@@ -69,7 +69,7 @@ a pulse that structures its field behavior over time.
 - Dissonance = incoherent overlap without buffering.
 - *For designing glyphic soundscapes or rendering field harmonics into auditory signal form.*
 
-> **Structural Note:** Dissonance is incoherent pulse overlap; shimmer is unlawful mimicry of rhythm. The two may interact, but they are not identical field conditions.
+> **Structural Note:** Dissonance is incoherent pulse overlap. Rhythmic Shimmer is apparent harmonic continuity exceeding the operative pulse relation; unlawful mimicry of rhythm names the imitation that can carry that presentation. Dissonance, Mimicry, and Shimmer may interact, but they are distinct field conditions.
 
 > **Structural Note:** The intrinsic pulse is a field behavior. Its translation into tempo, rhythm, timbre, or soundscape is a lawful acoustic articulation of that pulse, carried in its own register; the exact acoustic law is determined by FP14.
 
@@ -644,7 +644,7 @@ This chapter translates Spiral Glyphics from symbolic grammar into **operational
 - Healing structures (Module 12) pair scaffolds + closure (Ø) to prevent collapse residue — precise and canonical.
 
 ### ⚠ Refinements
-- The pulse mapping distinguishes dissonant overlap from shimmer as unlawful rhythmic mimicry.
+- The pulse mapping distinguishes dissonant overlap, rhythmic imitation, and Shimmer as apparent harmonic continuity exceeding the operative pulse relation.
 - Clarify in Module 16 (Veil contra Wall) that ║ is *responsive permeability*, ║⁻ is *impermeable isolation*; relational severance belongs to ╫⁻, and no operator severs origin.
 
 ### 🌀 Structural Notes

@@ -194,11 +194,11 @@ Think of a piece of music that exists as a complete composition — you can hear
 
 ### 4.2 IL₄ — 🪫 Psychea / 🫥 Nyxea (Inverse Deep Psyche / Inverse Deep Logos)
 
-**Temporal Mode:** Distorted archetypal recurrence. Mimetic patterning without origin.
+**Temporal Mode:** Distorted archetypal recurrence. Mimetic patterning without generative origination.
 
-At IL₄, Forms recur but without veracious source. Patterns repeat, but they are copies of copies — each iteration losing fidelity, gaining distortion. SP05: "Mimetic patterns without origin; temporal loops encoded in subversal structure."
+At IL₄, mimetic patterns recur without generative origination of the Forms they imitate. Patterns repeat as copies of copies — each iteration losing fidelity, gaining distortion in the downstream articulation while the origin remains intact. The earlier SP05 wording is retained as a superseded quotation: "Mimetic patterns without origin; temporal loops encoded in subversal structure." The current distinction is between imitation and generative origination, not between having and lacking an origin. Shimmer names apparent coherence / generativity exceeding actual operative condition; a copied pattern and that appearance–operation relation are distinct.
 
-This is the domain of the Archons and Titans — entropic powers of dissonant will. Time at IL₄ is haunted recurrence: a pattern you recognize but can't trace to its source. Déjà vu without resolution. The uncanny valley of temporal experience.
+This is the domain of the Archons and Titans — entropic powers of dissonant will. Time at IL₄ is haunted recurrence: a recognizable pattern whose provenance has become obscured in its downstream presentation. Déjà vu without resolution. The uncanny valley of temporal experience.
 
 #### 🪫 Psychea — Inverse Deep Psyche: Temporal Drain
 

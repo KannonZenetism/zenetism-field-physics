@@ -335,7 +335,7 @@ Each hypostatic layer engages time according to its structural nature. The follo
 | Embodiment | IL₁ (IES / IEM) | Entropic linearity | Fragmentation and reactive embodiment |
 | Subversal | IL₂ (ISS / ISM) | Reactive episodic motion | Compulsive re-entry into unresolved patterns |
 | Subversal | IL₃ (IDS / IDM) | Fragmented simultaneity | Memory fracture; timeline severance |
-| Subversal | IL₄ (IDP / IDL) | Distorted recurrence | Mimetic patterns without origin |
+| Subversal | IL₄ (IDP / IDL) | Distorted recurrence | Mimetic patterns without generative origination |
 | Subversal | IL₅ (VOS) | Temporal collapse initiation | Time as withdrawal of coherence |
 
 > **Note on Ordering Convention:**  
@@ -646,7 +646,7 @@ A numerical gain or loss across traversal requires a separately specified valuat
 
 **Definition (Shimmer):**
 
-Shimmer is recursive mimicry that simulates resonance without origin — counterfeit temporal continuity.
+Shimmer concerns apparent coherence / generativity exceeding the actual operative condition. Its temporal form is counterfeit continuity: apparent persistence exceeding the operative continuity sustained. Mimicry concerns a specified imitation relation; generative signature concerns the originating capacity responsible for the pattern. These diagnostic objects remain distinct. A mimetic temporal presentation lacks generative origination of the imitated pattern; its origin and originating architecture remain intact.
 
 The mapping does not establish a scalar Shimmer detector. The earlier zero-rate criterion and its interpretation of the mapping as a stagnating magnitude are retired. Apparent continuity and actual operative condition remain distinct diagnostic objects; any numerical comparison requires a separately specified diagnostic quantity.
 
@@ -1539,7 +1539,7 @@ Recursion is not reversal; it is the re-expression of pattern through coherent u
 
 **Definition 4 (Shimmer):**
 
-Counterfeit temporal continuity remains a diagnostic description. The former scalar-memory criterion is retired; see §6.1.
+Counterfeit temporal continuity names apparent persistence exceeding actual operative continuity, distinct from imitation or generative ancestry. The former scalar-memory criterion is retired; see §6.1.
 
 **Definition 5 (Hypostatic Co-location):**
 
