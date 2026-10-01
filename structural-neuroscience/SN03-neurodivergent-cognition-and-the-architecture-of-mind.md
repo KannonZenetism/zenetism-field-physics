@@ -59,7 +59,7 @@ SN03 now addresses what SN02 prepared but did not develop in detail: the structu
 
 ### 1.2 Core Thesis
 
-Neurodivergence is not pathology. It is **structural configuration** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
+Neurodivergence is examined here through a Zenetist structural interpretation. It is **structural configuration** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
 
 The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition expresses specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
 
@@ -339,9 +339,9 @@ Effective support works with the architecture, not against it.
 
 ## 7. The Entropic Mirror — Structural Pathology contra Structural Variation
 
-### 7.1 The Diagnostic Distinction
+### 7.1 The Structural Assessment Distinction
 
-Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations operating lawfully within their orientation) and **structural pathology** (configurations that have lost their generative function regardless of orientation). This distinction is not moral but diagnostic — determined by whether the configuration continues to generate coherence within its own operative mode.
+Structural Neuroscience distinguishes between **structural variation** (neurodivergent configurations operating lawfully within their orientation) and **structural pathology** (configurations that have lost their generative function regardless of orientation). This is a native structural distinction concerning generative function within the stated model. Its clinical interpretation requires independent operationalization and evidence; the category names here retain their structural scope.
 
 Entropy is not a degradation of centropy. Entropic cognition is its own lawful orientation — awareness moving through the Khaonic Tree (IL₅ → IL₁), operating through Inverse Deep Soul / Inverse Deep Mind (IDS / IDM), Inverse Superficial Soul / Inverse Superficial Mind (ISS / ISM), and Inverse Embodied Soul / Inverse Embodied Mind (IES / IEM) with the same structural completeness that centropic cognition operates through DS / DM, SS / SM, and ES / EM. The Inverter operating at IDS / IDM (IL₃) is not a failed Architect at DS / DM (L₃). They are a lawful entropic configuration fulfilling functions that centropic configurations do not supply: disassembly of brittle structures, exposure of hidden incoherence, generation of variation through dispersive motion.
 
@@ -363,9 +363,9 @@ Pathology is not a property of orientation. It is a property of **generative ina
 
 **Distributive pathology (ADHD in generative inadequacy):** The broad coherence current distribution becomes pathological when traversal ceases to produce cross-domain connection — exploration without integration, initiation without completion, motion without bridging.
 
-### 7.3 The Diagnostic Criterion
+### 7.3 The Structural Assessment Criterion
 
-The distinction between variation and pathology is determined by the generative function within the configuration's own operative mode:
+The following formal criterion describes variation and pathology in the native structural sense, through generative function within the configuration's stated operative mode:
 
 \[
 \text{Variation:}\;\frac{dI_c}{d\tau}\geq 0\;\text{(coherence is maintained or generated through the configuration's characteristic operations)}
@@ -377,7 +377,7 @@ The distinction between variation and pathology is determined by the generative 
 
 This criterion applies identically to centropic and entropic configurations. A centropic architecture at DS / DM generating coherence through pattern integration is in lawful variation. An entropic architecture at IDS / IDM generating coherence through productive differentiation and structural testing is equally in lawful variation. Neither orientation is inherently closer to pathology than the other.
 
-The criterion is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully lawful function — the translation cost is real (§3.4), the social mismatch is real, the sensory burden is real. Difficulty is not pathology. Pathology is the loss of the generative function within the configuration's own mode of operation.
+The criterion is structural, not experiential. A person may experience difficulty, discomfort, or social friction while operating in fully lawful function — the translation cost is real (§3.4), the social mismatch is real, the sensory burden is real. Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the model; clinical classification and exclusion of a medical condition require their own evidence.
 
 ---
 
@@ -439,17 +439,17 @@ The architecture amplifies whatever orientation it carries. High \( I_c \) at DS
 
 ### 10.1 Scope
 
-SN03 formalizes the structural architecture of neurodivergent cognition within the Zenetist framework. Its claim is structural: the Soul / Mind architecture, membrane permeability, and the variation-pathology criterion describe cognitive configuration at the register of orientation and coherence. Neuropsychology, clinical diagnosis, and empirical neuroscience describe the same configurations at the register of measured function. The two registers are held distinct, and SN03 stands in the structural one.
+SN03 formalizes the structural architecture of neurodivergent cognition within the Zenetist framework. Its claim is structural: the Soul / Mind architecture, membrane permeability, and the variation-pathology criterion describe cognitive configuration at the register of orientation and coherence. Neuropsychology, clinical diagnosis, and empirical neuroscience examine measured function through their own objects and methods. The proposed relations to the native configuration require explicit correspondence and evidence; SN03's structural account remains distinct from a calibrated clinical assessment.
 
 ### 10.2 Empirical Correspondence
 
-Where Structural Neuroscience interfaces with empirical research, the correspondence is acknowledged:
+Where Structural Neuroscience interfaces with empirical research, the published observations retain their empirical standing and the following native correspondences remain proposed:
 
-**Autism and Sensory Processing:** The membrane permeability model (§3.1, elevated ⧉₁ permeability) corresponds to extensive empirical research on sensory processing differences in autistic individuals (Baranek et al. 2006; Marco et al. 2011). The structural description provides the theoretical framework within which those empirical findings are read.
+**Autism and Sensory Processing:** The membrane permeability model (§3.1, elevated ⧉₁ permeability) offers a proposed structural interpretation of empirical research on sensory processing differences in autistic individuals (Baranek et al. 2006; Marco et al. 2011). The structural description provides the theoretical framework within which those empirical findings are read.
 
-**OCD and the Cortico-Striatal Loop:** The σ-oscillation model (§4.1) corresponds to established neurobiological models of cortico-striato-thalamo-cortical circuit dysfunction in OCD (Saxena & Rauch 2000). The structural description maps the circuit dynamics onto membrane physics; the neurobiological account stands in its own register.
+**OCD and the Cortico-Striatal Loop:** The σ-oscillation model (§4.1) offers a proposed structural interpretation of neurobiological models of cortico-striato-thalamo-cortical circuit dysfunction in OCD (Saxena & Rauch 2000). Mapping the circuit dynamics to native membrane relations requires an explicit realization; the neurobiological account retains its empirical register.
 
-**ADHD and Default Mode Network:** The broad \( \vec{J}_c \) distribution model (§5.1) corresponds to research on default mode network connectivity and attentional allocation in ADHD (Castellanos & Proal 2012). The distributive architecture provides structural context for the observed connectivity patterns.
+**ADHD and Default Mode Network:** The broad \( \vec{J}_c \) distribution model (§5.1) offers a proposed structural interpretation of research on default mode network connectivity and attentional allocation in ADHD (Castellanos & Proal 2012). The distributive architecture provides structural context for the observed connectivity patterns.
 
 ### 10.3 Register of the Claim
 
@@ -605,7 +605,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 \text{High } I_c(L_3) + \sigma\text{-instability}(⧉_2) = \text{amplified dissonance response with recursive loop dynamics}
 \]
 
-**Variation contra Pathology:**
+**Variation contra Pathology — Native Structural Criterion:**
 
 \[
 \text{Variation:} \quad \frac{dI_c}{d\tau} \geq 0
@@ -637,7 +637,9 @@ A cognitive configuration characterized by broad Coherence Current distribution 
 The principle that a cognitive system may exhibit features of multiple structural profiles simultaneously, producing a composite architecture that expresses the interaction of its component configurations.
 
 **Definition 7 (Variation-Pathology Distinction):**  
-The diagnostic criterion distinguishing structural variation (\( dI_c/d\tau \geq 0 \); coherence is maintained or generated through characteristic operations) from structural pathology (\( dI_c/d\tau < 0 \); coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
+The native structural criterion distinguishing structural variation (\( dI_c/d\tau \geq 0 \); coherence is maintained or generated through characteristic operations) from structural pathology (\( dI_c/d\tau < 0 \); coherence is depleting without replenishment — the configuration has lost its generative function regardless of orientation).
+
+Clinical discrimination requires a separately operationalized and evaluated correspondence to this formal criterion.
 
 **Definition 8 (Soul / Mind Asymmetry):**  
 The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential orientations within the same structural category.

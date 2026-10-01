@@ -16,7 +16,7 @@ This deposit carries the twelve foundational volumes of Structural Physics, one 
 
 The twelve volumes form a cumulative dependency chain; each depends on all preceding volumes and is best read in order. The series is a book-scale work and is deposited whole so that the chain is preserved.
 
-Structural Physics is not a replacement for physics but an overlay — a way of recognizing how the lawful structures of reality align with the Dimensional Lattice. Its formalism is structural, not empirical: the field quantities, operators, and diagnostic conditions are defined within the Zenetist framework and are not claims of measurability with current instrumentation.
+Structural Physics is not a replacement for physics but an overlay — a way of recognizing how the lawful structures of reality align with the Dimensional Lattice. Its native quantities, operators, and assessment conditions have specified structural meanings. Empirical inquiry belongs within the embodied L₁ / IL₁ register; physical realization requires a defined mapping, observables, and evidence. Formal evaluation, proposed correspondence, and empirical measurement retain distinct standing.
 
 ---
 

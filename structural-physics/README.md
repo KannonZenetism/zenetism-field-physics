@@ -13,9 +13,11 @@
 
 Structural Physics is one of six disciplines within the Zenetist Canon. It applies the metaphysical and mathematical foundations established in Structural Metaphysics, Field Physics, and Lattice Mathematics to the formal analysis of how expressed universes manifest, orient, and evolve across the Dimensional Emanatory Lattice.
 
-The series spans twelve documents (SP01–SP12), forming a cumulative dependency chain. Each document builds on those before it. Together, they establish the physics of expression — not in the empirical sense, but in the structural sense: how motion, orientation, time, space, energy, coherence, embodiment, and diagnostics operate within and across the hypostatic layers.
+The series spans twelve documents (SP01–SP12), forming a cumulative dependency chain. Each document builds on those before it. Together, they establish the structural physics of expression: how motion, orientation, time, space, energy, coherence, embodiment, and diagnostics operate within and across the hypostatic layers.
 
 ---
+
+Empirical inquiry belongs within the embodied L₁ / IL₁ register. Native formal quantities, physical realizations, measured observables, and proposed correspondences retain their distinct scopes and evidentiary requirements.
 
 ## Documents
 

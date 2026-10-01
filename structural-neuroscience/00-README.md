@@ -18,7 +18,7 @@ The live series is numbered SN02 through SN12. SN01, *Structural Neuroscience: T
 
 Physical reality is structural. L₁ / IL₁ is the empirically relevant domain of embodied physical and neural processes. Supra-L₀, L₀, L₅–L₂, and IL₅–IL₂ are the subject of metaphysical inquiry. SN12 develops the physical and neuroscientific articulation of embodied cognition at L₁ / IL₁ in the Analytic Register.
 
-The series' field quantities, operators, membrane conditions, and diagnostic criteria are defined within the Zenetist framework, and empirical correspondence is recorded where it stands (the scientific correlates of SN02 Phase 5 and SN03 §10, and the physical and neuroscientific articulation of SN12) in the empirical register, which keeps its own methods.
+The series' field quantities, operators, membrane conditions, and diagnostic criteria are defined within the Zenetist framework, and each cross-disciplinary relation retains its evidentiary standing. SN02 Phase 5 and SN03 §10 identify proposed structural correspondences to scientific observations; SN12 distinguishes empirical measurement, physical models, native assessment, and proposed realization. The empirical register keeps its own methods.
 
 ---
 

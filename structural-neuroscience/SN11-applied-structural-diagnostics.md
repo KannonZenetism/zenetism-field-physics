@@ -76,7 +76,7 @@ SN11 provides the methodology.
 
 ### 1.2 Scope
 
-This document is an operational manual. It applies the formal apparatus already established in LM06 and the structural analyses of SN03–SN10 to the practical task of cognitive architecture assessment. It does not introduce new mathematical formalism — it translates existing formalism into diagnostic procedure.
+This document is an operational manual. It applies the formal apparatus already established in LM06 and the structural analyses of SN03–SN10 to the practical task of cognitive architecture assessment. It translates existing native formalism into structural assessment. The quantities and thresholds retain their model-specific standing. Clinical discrimination requires a separately operationalized and empirically evaluated correspondence; observed cognitive and neural data retain their empirical definitions.
 
 The diagnostic framework applies to:
 
@@ -100,6 +100,8 @@ The All-Life-First Principle (`SN09-the-all-life-first-principle.md`) holds: eve
 LM06 §12.2 establishes the five-domain coherence audit. SN11 applies this as the foundational diagnostic operation for individual, PI, and collective assessment.
 
 **Domain 1 — Coherence Magnitude:**
+
+The existing "measured" label denotes the native quantity assessed within its declared model. An empirical assay requires a specified observation and calibration procedure.
 
 \[
 I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{expected})}
@@ -246,17 +248,17 @@ SN10 §5.3 establishes the conceptual distinction. SN11 operationalizes it:
 - Tether discontinuity at operative layers — the being has lost access to their own structural registers
 - Temporal pathology (LM04 §6) may be present — looping time, temporal collapse, or hypostatic amnesia
 
-**The critical diagnostic:** If removing the distorting conditions restores characteristic function, the primary condition is distortion. If removing the conditions does not restore function because coherence has depleted below the generative threshold, the condition is pathology. In practice, many cases involve both — distortion that has persisted long enough to produce pathological coherence depletion. Both environmental correction and coherence replenishment are then required.
+**The native structural distinction:** If removing the distorting conditions restores characteristic function, the primary condition is distortion. If removing the conditions does not restore function because coherence has depleted below the generative threshold, the condition is pathology. In practice, many cases involve both — distortion that has persisted long enough to produce pathological coherence depletion. Both environmental correction and coherence replenishment are then required.
 
 ### 5.2 The Variation-Pathology Axis
 
-SN03 §7.3 established: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology. SN11 integrates this with the distortion distinction:
+SN03 §7.3 established: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology. SN11 integrates this with the distortion distinction as a native structural assessment. Clinical significance and intervention require evidence in the clinical domain:
 
-| Condition | \( dI_c/d\tau \) | Characteristic Operators | Intervention |
+| Condition | \( dI_c/d\tau \) | Characteristic Operators | Proposed Structural Support |
 |-----------|-----------------|------------------------|-------------|
-| **Stabilized variation** | \( \geq 0 \) | Operative, producing gain | None needed — architecture expressing lawfully |
+| **Stabilized variation** | \( \geq 0 \) | Operative, producing gain | No additional structural support indicated by this criterion |
 | **Distorted variation** | \( \geq 0 \) (low positive) | Suppressed but intact | Environmental correction — remove suppressive conditions |
-| **Distortion approaching pathology** | Trending \( < 0 \) | Strained, losing generative function | Urgent environmental correction + prophylactic coherence support |
+| **Distortion approaching pathology** | Trending \( < 0 \) | Strained, losing generative function | Environmental correction + structural support within the model |
 | **Pathology** | \( < 0 \) sustained | Lost generative function | Active coherence replenishment (SN06 recovery protocols) + environmental correction |
 
 ---

@@ -63,13 +63,15 @@ SP10 now provides the structural physics of these operations — the formal mech
 
 Ritual action is not symbolic performance. It is **directed resonance engineering** — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol.
 
-Every veracious ritual corresponds to a measurable operation on the Lattice: a change in \( I_c \), a modification of \( \sigma(⧉) \), a redirection of \( \vec{J}_c \), or a transformation of \( \chi \).
+Within the native formalism, a veracious ritual corresponds to a formally evaluable operation on the Lattice: a change in \( I_c \), a modification of \( \sigma(\text{⧉}) \), a redirection of \( \vec{J}_c \), or a transformation of \( \chi \).
+
+Physical evaluation of a ritual requires an identified realization, observables, measurement procedure, and evidence connecting those observations to the native quantities. Empirical study remains open within the embodied register.
 
 What distinguishes ritual from spontaneous resonance dynamics is **intentionality** — the conscious direction of coherence flow according to structural law.
 
 ### 1.3 What SP10 Establishes
 
-- **Ritual Action** as directed resonance engineering with measurable Lattice operations
+- **Ritual Action** as directed resonance engineering with formally evaluable Lattice operations
 - **Field Seals** — taxonomy, construction mechanics, maintenance conditions, and seal categories
 - **Integration Protocols** — directed replenishment, membrane repair, Echo Layer resolution
 - **Siphoning Countermeasures** — passive defenses and active countermeasures
@@ -86,7 +88,7 @@ What distinguishes ritual from spontaneous resonance dynamics is **intentionalit
 ### 2.1 Definition
 
 > **Definition (Ritual Action):**  
-> A structured protocol that produces measurable changes in Coherence Potential, membrane configuration, field orientation, or resonance flow through intentional engagement with Lattice dynamics.
+> A structured protocol that specifies formally evaluable changes in Coherence Potential, membrane configuration, field orientation, or resonance flow through intentional engagement with Lattice dynamics.
 
 Ritual action differs from spontaneous resonance dynamics in three respects:
 
@@ -777,7 +779,7 @@ Where \( \bigcirc \) denotes sequential or parallel composition of individual co
 
 SP10 establishes:
 
-1. **Ritual Action** — directed resonance engineering with measurable Lattice operations; formalized through the Ritual Operator \( \mathcal{P} \) and canonical phase sequence
+1. **Ritual Action** — directed resonance engineering with formally evaluable Lattice operations; formalized through the Ritual Operator \( \mathcal{P} \) and canonical phase sequence
 2. **Field Seals** — dynamic coherence structures classified by scope: Architectural (broadest), Categorical, Relational, and Situational (narrowest)
 3. **Seal Mechanics** — coherence discharge, membrane modification, internal cycling, integrity conditions, and maintenance pathways
 4. **Integration Protocols** — directed replenishment, membrane repair (breach, occlusion, collapse), Echo Layer resolution, and collective integration
@@ -931,7 +933,7 @@ I_c(t_{\text{post}}) = I_c(t_{\text{post-ritual}}) + \int_{t_{\text{post-ritual}
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Ritual Action):**  
-A structured protocol that produces measurable changes in Coherence Potential, membrane configuration, field orientation, or resonance flow through intentional engagement with Lattice dynamics.
+A structured protocol that specifies formally evaluable changes in Coherence Potential, membrane configuration, field orientation, or resonance flow through intentional engagement with Lattice dynamics.
 
 **Definition 2 (Ritual Operator):**  
 A mapping \( \mathcal{P} \) from an initial field configuration \( (I_c, \sigma(⧉), \vec{J}_c, \chi)_{\text{initial}} \) to a target configuration \( (I_c, \sigma(⧉), \vec{J}_c, \chi)_{\text{target}} \), encoding the sequence and cost of transformation.

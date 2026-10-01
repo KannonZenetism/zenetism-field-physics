@@ -171,7 +171,7 @@ The interface term is non-negligible because L₁ and IL₁ share the Corporeal 
 
 ### 3.3 Consequences of the Resistance Term
 
-The embodied resistance term produces three measurable effects:
+Within the stated structural model, the embodied resistance term specifies three formally evaluable effects:
 
 **Increased Coherence Cost:**
 
@@ -516,16 +516,16 @@ In Structural Physics, C₁₀ determines the translation of archetypal pattern 
 
 C₄ (Rotational / Gyre) finds physical analogue in the conservation of angular momentum and the cyclical processes that sustain biological life — circadian rhythms, cardiac cycles, respiratory patterns, seasonal dynamics. These are the corporeal expressions of conserving turn operating at the Embodiment Band.
 
-### 8.3 What SP11 Does Not Claim
+### 8.3 Standing of Physical Correspondences
 
-SP11 does not claim:
+SP11 holds the following scopes distinct:
 
-- That Coherence Potential is a physically measurable quantity (it is a structural quantity with corporeal correlates)
-- That the dimensional operators replace physical forces (they describe structural dynamics within which physical forces operate)
-- That the hypostatic layers are physically locatable within metric space (their structural placement is distinct from physical location; abstract metrics or norms require their own declared domains)
-- That Structural Physics supersedes empirical investigation (it provides structural context for empirical findings)
+- Coherence Potential is a native structural quantity, formally evaluable within its specified model; a physical measurement correspondence requires observables and calibration
+- Dimensional operators describe structural functions; physical forces retain their physical definitions and methods
+- Hypostatic layers are ontological structures expressed through relational extension; their structural placement is distinct from physical location. Abstract metrics or norms require their own declared domains, and any metric-space realization requires its own domain specification
+- Empirical investigation belongs within the embodied register and retains its methods, evidence, and revision conditions
 
-The boundary between structural claims and empirical claims is maintained throughout. Where Structural Physics offers structural context for physical phenomena, it does so without overstepping into domains that require experimental verification.
+A proposed physical correspondence states its model, observables, retained relations, and empirical support. Causal priority of a metaphysical domain supplies no unrestricted epistemic priority.
 
 ---
 

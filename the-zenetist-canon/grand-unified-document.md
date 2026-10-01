@@ -509,7 +509,7 @@ Where Part I defined the architecture of the Lattice, Part II describes its moti
 how coherence propagates, how entropic tactics deform it, and how the lawful operator set  
 governs every exchange between dimensions.
 
-Each law is both a metaphysical commandment and a measurable dynamic.  
+Each law names a structural relation; its mathematical articulation is formally evaluable within a specified domain.  
 Its violation signals an entropic tactic; its fulfillment sustains structural integrity.
 
 ---
@@ -844,8 +844,8 @@ the cycle becomes an **Entropic Recursion (⟳)** instead of a **Resonant Return
 
 ### 2.9 · Commentary
 
-Field Dynamics and Forensics demonstrate that Zenetism is not symbolic mysticism  
-but a closed analytical system: metaphysical principles ↔ measurable phenomena.
+Field Dynamics and Forensics articulate structural relations.  
+Correspondence with measurable phenomena requires an explicit physical realization and evidence.
 
 - **Physics correspondence:** quantization, symmetry, boundary value problems
 - **Neuroscience correspondence:** phase synchrony, cross-regional coupling, stability metrics
@@ -887,7 +887,7 @@ Structure sealed. Coherence preserved. Resonance fulfilled.
 
 Lattice Mathematics is the quantitative core of Zenetism.  
 It provides the formal operators and computational proofs by which  
-the metaphysical architecture becomes measurable, reproducible, and verifiable.
+specified structural relations become formally evaluable, reproducible, and open to mathematical verification; empirical realization requires its own mapping and observations.
 
 Where Field Physics defines motion, and Structural Physics reveals its embodiment,  
 Lattice Mathematics supplies the invariant equations that make coherence computable.
@@ -1157,7 +1157,7 @@ Together these form a closed, veracious calculus of being.
 ## 13 · Canonical Close
 
 Lattice Mathematics completes the computational skeleton of Zenetism.  
-Through it, every glyph, ritual, and field equation becomes measurable.
+Through it, specified glyph functions, ritual relations, and field equations become formally evaluable within their stated domains.
 
 Where mysticism meets measure,  
 and mathematics becomes metaphysics once again —  
@@ -1686,7 +1686,7 @@ No coherence lost — complete cycle closure.
 
 ## 9 · Experimental Correlates
 
-| Zenetist Law | Neural Analogue | Empirical Correlate |
+| Zenetist Law | Proposed Neural Comparison | Scientific Reference |
 |--------------|----------------|---------------------|
 | C₁ Temporal | Predictive coding | Friston (2010) |
 | C₇ Consonance | Neural synchrony | Varela (2001) |
@@ -1696,13 +1696,13 @@ No coherence lost — complete cycle closure.
 | C₁₄ Recursive | Meta-awareness loop | Buckner (2008) |
 | C₁₅ Emergent | Insight / workspace ignition | Dehaene (2011) |
 
-Each confirms that Zenetist resonance mirrors empirical neurodynamics.
+These scientific references provide neural comparison objects. The relation of each observation to a native dimensional function remains a proposed correspondence requiring explicit definition and evaluation.
 
 ---
 
 ## 10 · Quantitative Expression
 
-Let \( \psi \) denote the proposed neural resonance field. The phase-weighted \( C(\psi) \) defined next is distinct from the CIT spectral complement. Their shared sign supplies no mathematical identity; the field-to-spectral correspondence remains held:
+Let \( \psi \) denote the proposed neural resonance field. The phase-weighted \( C(\psi) \) defined next is distinct from the CIT spectral complement. Their shared sign supplies no mathematical identity; the field-to-spectral correspondence remains held. Empirical evaluation of the proposed neural correspondence requires defined observables, parameters, and domain conditions:
 
 \[
 C(\psi) = \sum_i |a_i|^2 \cos(\Delta\phi_i)
@@ -1715,7 +1715,8 @@ Then:
 \int_{\text{◎}}(\psi) \propto \int C(\psi) \, dt
 \]
 
-The former direct native-orientation interpretation of this phase-weighted quantity is withdrawn pending its defined measurement and correspondence. The formula is preserved without substituting it for CIT concentration.
+The former direct native-orientation interpretation of this phase-weighted quantity is withdrawn pending its defined measurement and correspondence. The formula is preserved without substituting it for CIT concentration. A structural orientation reading additionally identifies the relation enacted by the configuration.  
+Measured synchrony and phase decoherence retain their empirical definitions; neither alone establishes structural orientation.
 
 ---
 

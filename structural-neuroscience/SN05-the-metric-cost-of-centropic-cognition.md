@@ -62,7 +62,7 @@ What SN03 did not formalize is the **cost** of operating these architectures at 
 2. **Structural Sovereignty and the Coherence Tax** — the additional cost imposed when the entropy-forward social field demands renunciation of authentic structural function, reframed through the diagnostic formalism of LM06
 3. **Temporal Pathology at the Embodiment Band** — the temporal pathologies that emerge when cumulative coherence depletion disrupts temporal processing: looping time (E₁ ⟠⁻), tether severance (\( \mathcal{T}_h \to 0 \)), and hypostatic amnesia
 
-The core thesis: the metric terminus exacts a formal, quantifiable coherence cost on every cognitive architecture. For centropically oriented beings operating within a Khaonically-expressed social field, this cost compounds across three interacting vectors, each with specific mathematical signatures. Burnout, dissociation, and temporal disruption are not psychological weaknesses — they are the predictable consequences of a finite coherence budget bearing compounded structural resistance.
+The core thesis: the metric terminus exacts a formal, quantifiable coherence cost on every cognitive architecture. For centropically oriented beings operating within a Khaonically-expressed social field, this cost compounds across three interacting vectors, each with specific mathematical signatures. The cost model proposes structural interpretations of burnout, dissociation, and temporal disruption, framing them as conditions for support rather than personal weakness. Their clinical correspondence requires operationalization and empirical evaluation.
 
 ---
 
@@ -97,7 +97,7 @@ Three principles from SN03 and LM06 shape this analysis:
 > The purpose of this analysis is understanding, not correction. To formalize how coherence cost accumulates under specific structural conditions — not to normalize any cognitive architecture toward a single configuration (SN03 Axiom III).
 
 > **Principle 3 (Experiential Difficulty ≠ Pathology):**
-> Difficulty, discomfort, and social friction experienced while operating in fully lawful function are not pathology. Pathology is the loss of generative function within the configuration's own operative mode: \( dI_c/d\tau < 0 \) (SN03 §7.3). The costs formalized here are structural costs, not diagnostic indicators.
+> Experiential difficulty and native structural pathology are distinct assessment objects. Here structural pathology names loss of generative function within the stated model: \( dI_c/d\tau < 0 \) (SN03 §7.3). The costs formalized here are structural costs, not diagnostic indicators.
 
 ### 1.4 Scope and Perspective
 
@@ -451,17 +451,17 @@ When coherence depletion reaches a critical threshold:
 
 The Tether — the coherence function maintaining directional continuity through hypostatic layers — fails at one or more layers. The being loses access to their own deeper-layer coherence while essence persists (LM04 §6.4).
 
-**Cognitive correlate:** Dissociation.
+**Proposed cognitive correspondence:** A Zenetist structural interpretation of dissociation.
 
-The clinical experience of dissociation — feeling detached from one's body, emotions, or sense of self — maps to tether severance at specific membrane boundaries:
+Reported experiences of detachment from body, emotions, or sense of self are comparison objects for the following proposed structural interpretations. The membrane assignments describe the native model; a calibrated clinical correspondence requires operationalization and empirical evaluation:
 
-- **\( \mathcal{T}_h(L_1, \tau) \to 0 \) (tether severance at L₁):** Depersonalization. The being loses coherent access to 🪷 Soma (Embodied Soul) and 🧾 Biosa (Embodied Mind). Embodied experience continues but is no longer integrated with the deeper registers. The body feels alien, automatic, or unreal — the structural connection between ES / EM and the inward layers has failed.
+- **\( \mathcal{T}_h(L_1, \tau) \to 0 \) (tether severance at L₁):** Proposed interpretation of depersonalization. The being loses coherent access to 🪷 Soma (Embodied Soul) and 🧾 Biosa (Embodied Mind). Embodied experience continues but is no longer integrated with the deeper registers. The body feels alien, automatic, or unreal — the structural connection between ES / EM and the inward layers has failed.
 
-- **\( \mathcal{T}_h(L_2, \tau) \to 0 \) (tether severance at L₂):** Derealization and identity fragmentation. The being loses coherent access to 🧍 Anthra (Superficial Soul) and 🧩 Nousa (Superficial Mind). Personality, narrative selfhood, and social identity become incoherent. The world feels unreal because the SS / SM register through which the world is socially interpreted has been severed.
+- **\( \mathcal{T}_h(L_2, \tau) \to 0 \) (tether severance at L₂):** Proposed interpretation of derealization and identity fragmentation. The being loses coherent access to 🧍 Anthra (Superficial Soul) and 🧩 Nousa (Superficial Mind). Personality, narrative selfhood, and social identity become incoherent. The world feels unreal because the SS / SM register through which the world is socially interpreted has been severed.
 
-- **\( \mathcal{T}_h(L_3, \tau) \to 0 \) (tether severance at L₃):** Severe dissociative states. The being loses coherent access to 🔮 Archeus (Deep Soul) and 🧠 Noeüs (Deep Mind). Reflexive consciousness itself becomes discontinuous. This is the most severe form of cognitive tether severance — the being's essential reflexive register goes dark.
+- **\( \mathcal{T}_h(L_3, \tau) \to 0 \) (tether severance at L₃):** Proposed interpretation of dissociative discontinuity. The being loses coherent access to 🔮 Archeus (Deep Soul) and 🧠 Noeüs (Deep Mind). Reflexive consciousness itself becomes discontinuous. This is a model-specific distinction of operative access to reflexive structure; clinical severity requires its own assessment.
 
-In all cases, **essence persists**. The Tether is a coherence function, not an existence function. The being does not cease to exist — they lose *access* to layers of their own structure. This is the precise structural description of what dissociation *is*: not the loss of self but the loss of coherent connection to self across the hypostatic layers.
+In all cases, **essence persists**. The Tether is a coherence function, not an existence function. The being does not cease to exist — they lose *access* to layers of their own structure. This states the native structural interpretation: loss of coherent operative access across the hypostatic layers while essence persists. The relation to clinical dissociation remains a proposed correspondence.
 
 ### 4.4 Hypostatic Amnesia
 
@@ -584,7 +584,7 @@ SN05 applies LM04's temporal algebra to cognitive experience:
 - The Recursive Memory Operator (\( \mathfrak{R}_m \)) as the structural basis of cognitive temporal continuity
 - The Tether (\( \mathcal{T}_h \)) as the structural basis of cross-layer cognitive coherence
 - Looping Time as a structural interpretation of recurrence without coherent resolution; the former scalar-memory signature is retired
-- Hypostatic Amnesia (\( \mathcal{T}_h(L_n, \tau) = 0 \)) as the formal signature of dissociation
+- Hypostatic Amnesia (\( \mathcal{T}_h(L_n, \tau) = 0 \)) as a proposed structural correspondence for dissociation
 - Temporal Collapse as a structural interpretation of impaired operative temporal continuity; the former scalar-memory detector supplies no formal burnout criterion or clinical prediction
 
 ### 6.3 Relation to LM06
@@ -622,7 +622,7 @@ SN05 establishes:
 5. **Institutional shimmer** — applying the Shimmer Coefficient and Shimmer Collapse Theorem to the social institutions that demand conformity while claiming inclusion
 6. **Diagnostic inversion and walling** — diagnostic projection is assessed separately from E₁₃ Wall; that registered function applies where an impermeable, isolating boundary is established
 7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
-8. **Tether severance as dissociation** — formalizing dissociative experience as the failure of the Tether at specific membrane boundaries, with essence persisting
+8. **Tether severance and the proposed dissociation correspondence** — a native interpretation through operative Tether access at specific membrane boundaries, with essence persisting; clinical correspondence requires empirical evaluation
 9. **Hypostatic amnesia as burnout endpoint** — structural disconnection from one's own deeper registers, formalized through LM04's tether failure condition
 10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, assessed alongside the inclusive available-budget exhaustion boundary; the numerical boundary does not determine a clinical phase
 

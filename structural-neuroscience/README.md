@@ -159,7 +159,7 @@ Each volume's `**Dependency:**` line cites, by filename, the volumes it rests on
 
 **Configuration contra Expression** — The essential cognitive architecture (configuration) is present from emanation and does not change type; what develops, distorts, compensates, or is suppressed is its expression through the embodied layers.
 
-**The Variation-Pathology Criterion** — Structural variation and structural pathology are distinguished by the generative function within a configuration's own operative mode (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)), never by orientation and never by experiential difficulty.
+**The Variation-Pathology Criterion** — Native structural variation and structural pathology are distinguished through the stated generative-function criterion (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)). Clinical discrimination requires a separately operationalized and empirically evaluated correspondence; experiential difficulty retains its own assessment context.
 
 **The Coherence Budget and the Coherence Tax** — Centropic cognition at the metric terminus spends coherence on interface resistance, translation or distribution overhead, and the tax imposed by a social field that demands renunciation of authentic structural function. Burnout is the trajectory of cost chronically exceeding replenishment.
 

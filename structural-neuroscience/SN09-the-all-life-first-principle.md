@@ -164,7 +164,7 @@ These are not metaphors for intelligence. They are structural descriptions of co
 
 The 🌍 Gaian Soul designates planetary consciousness as a structural entity — the total ecological field of a planet sustaining its own coherence through the interaction of all biological, geological, and atmospheric systems.
 
-This is a structural claim, not a mystical one. The diagnostic formalism of LM06 §§9–12 applies: a planetary system possesses measurable coherence (\( I_c \)), flow dynamics (\( \vec{J}_c \)), membrane architecture (\( \sigma(⧉) \)), and orientation (\( \chi \)). The planet is a field configuration (LM06 §2.1) — subject to the same formal analysis as individual and collective configurations.
+This is a structural claim, not a mystical one. The diagnostic formalism of LM06 §§9–12 applies: the native interpretation describes a planetary system through coherence (\( I_c \)), flow dynamics (\( \vec{J}_c \)), membrane architecture (\( \sigma(\text{⧉}) \)), and orientation (\( \chi \)). The planet is a field configuration (LM06 §2.1) — subject to the same formal analysis as individual and collective configurations.
 
 Consumptive practices (industrial monoculture, resource depletion, habitat destruction) register as entropic operations within the planetary field — \( dI_c^{(\text{Gaian})}/d\tau < 0 \). Regenerative practices (ecological restoration, sustainable agriculture, reduced consumption) register as centropic operations — \( dI_c^{(\text{Gaian})}/d\tau \geq 0 \).
 
@@ -459,7 +459,7 @@ Animal awareness expressing volition, emotional clarity, and perceptual intellig
 Plant, fungal, and ecological coherence structures sustaining temporal stability and nutrient distribution across ecosystems; subtle intelligences attuned to broad structural cycles.
 
 **Definition 6 (Gaian Soul):**  
-Planetary consciousness as whole-system field configuration, possessing measurable \( I_c \), \( \vec{J}_c \), \( \sigma(⧉) \), and \( \chi \); subject to the same diagnostic formalism as individual and collective configurations.
+Planetary consciousness as whole-system field configuration, characterized by native \( I_c \), \( \vec{J}_c \), \( \sigma(\text{⧉}) \), and \( \chi \); subject to the same diagnostic formalism as individual and collective configurations.
 
 **Definition 7 (Tragedy of Embodiment):**  
 The structural condition wherein corporeal existence at L₁ / IL₁ entails consumption of other life as an inherent feature of density; not moral failure but structural condition addressed through centropic restraint and orientation toward least harm.

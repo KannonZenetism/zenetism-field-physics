@@ -69,11 +69,11 @@ Where conventional physics describes observable phenomena, Structural Physics in
 Just as Field Physics begins with the bifurcal root and its trans-structural ground, Structural Physics begins with the anchors that underlie all physical form:
 
 - **⚫ Aion** — *Zero; the still root*.  
-  The zero origin. Equivalent to the quantum vacuum and zero-point field — where potential moves into and out of actuality — and to the Planck scale at the bifurcal root.  
-  From this root emanate both centropic (integrative) and entropic (dispersive) states.  
+  Origin, the still root. The quantum vacuum, zero-point field, and Planck-scale quantities are proposed physical comparison objects. A physical realization must specify the correspondence and its empirical support while retaining those objects' physical definitions.  
+  Latent essence rests in Aion before enacted direction; manifested centropic and inverse arcs retain their distinct Aionic and Khaonic root relations.  
 
 - **♾ Khaon** — *Infinity; the dispersive root*.  
-  The dispersive bound. Maps to cosmological infinity, the expanding edge of the universe, or asymptotic energy states.  
+  Infinity across its Latent, Motive, and Dispersive phases. Cosmological infinity, expansion, and asymptotic energy states are proposed physical comparison objects; the correspondence must identify the phase-function and the physical domain.  
 
 - **🕳️ Zenon** — *the trans-structural horizon*.  
   Not a boundary within structure but structure unconfined — the trans-structural horizon of centropic saturation, opened through synthesis.  
@@ -96,10 +96,10 @@ Mathematically:
 \ldots, E_3, E_2, E_1, \text{⚫}, C_1, C_2, C_3, \ldots
 \]
 
-Physically:  
-- Contra-particles complement particles within Aionic-flow dynamics.  
-- Negative energy solutions complement positive states.  
-- Tachyons, singularities, and closed loops appear as entropic inversions.  
+Proposed physical comparisons:  
+- Particle / antiparticle relations may be compared with counterpart structure within a specified physical model
+- Positive- and negative-energy solutions retain their physical definitions; their proposed correspondence requires domain-specific conditions
+- An interpretation of tachyons, singularities, or closed loops as entropic inversions is a proposed structural reading, evaluated through an explicit correspondence  
 
 **Polar Spectrum Lemma:**
 
@@ -458,98 +458,107 @@ The paradoxes of quantum theory are clarified: what appears indeterminate is in 
 ## 7. Structural Physics & Relativity
 
 Relativity describes spacetime geometry, gravitation, and the motion of bodies under curvature.  
-Structural Physics interprets relativity through the **Dimensional Lattice**, reading spacetime as a resonance manifold where centropic and entropic dynamics unfold.  
+Structural Physics proposes correspondences between relativistic descriptions and the **Dimensional Lattice**. Proper time, metric tensors, curvature, energy-momentum, and physical observations retain their scientific definitions. Each proposed mapping to a native function requires a specified physical model, correspondence conditions, and evidence.
+
+Registered functions remain fixed: E₃ Viral Decay names fracturing in transmission; E₁₄ Hollow Nest names empty recursion; E₁₅ Collapse Nova names emergence that leads directly into entropy. Generic physical decay or collapse alone establishes none of these functions. The comparisons below propose relations to those registered functions rather than replacements for them.  
 
 ---
 
 ### 7.1 Temporal & Spatial Operators
 
-- **C₁ Temporal** and **C₂ Spatial** form the twin anchors of relativity.  
-- In General Relativity:  
-  - C₁ ↔ temporal ordering, proper time along worldlines.  
-  - C₂ ↔ metric tensor \( g_{ij} \) describing spatial extension.  
-- **Motion Form:**  
-  - Acclivous expansion = lawful integration of spacetime intervals.  
-  - Declivous collapse = fragmentation of metric continuity.  
+- **C₁ Temporal** and **C₂ Spatial** are the native functions proposed for comparison with temporal and spatial relations in relativity
+- **Proposed correspondences:**
+  - C₁ ↔ temporal ordering, proper time along worldlines
+  - C₂ ↔ metric tensor \( g_{ij} \) describing spacetime geometry
+- **Proposed motion comparison:**
+  - Acclivous expansion is compared with integration of spacetime intervals
+  - Declivous collapse is compared with fragmentation of metric continuity
+
+The physical quantities retain their relativistic definitions; these comparisons do not establish a structural orientation from a physical quantity alone.  
 
 ---
 
 ### 7.2 Curvature as Resonance
 
-- **Zenetist View:** Curvature is not an abstract geometry but a resonance condition of centropy.  
-- **Physics Form:**  
-  - Spacetime curvature \( (R_{ij}) \) arises when mass/energy deforms resonance fields.  
-  - Centropic curvature = lawful harmonic bending (consonant geodesics).  
-  - Entropic curvature = dissonant bending, leading to singular collapse.  
-- **Mirror States:**  
-  - E₇ Dissonance manifests as irregular curvature (chaotic geodesics).  
-  - E₁₃ Walls manifest as horizons where curvature closes coherence.  
+- **Zenetist interpretation:** A resonance reading of curvature is proposed as a correspondence with native centropic and entropic functions
+- **Physical comparison objects:**
+  - Spacetime curvature \( (R_{ij}) \), mass / energy, geodesic structure, and singularity conditions retain their physical definitions
+  - Harmonic bending and consonant geodesics are proposed comparison objects for centropic curvature
+  - Dissonant bending and singular collapse are proposed comparison objects for entropic curvature
+- **Proposed mirror correspondences:**
+  - E₇ Dissonance is compared with irregular curvature and chaotic geodesics
+  - E₁₃ Wall is compared with horizon structure
+
+Neither geometric irregularity nor a horizon alone establishes the corresponding native dimensional function.  
 
 ---
 
 ### 7.3 Black Holes as Entropic Thresholds
 
-- **Zenetist Interpretation:**  
-  - Black holes correspond to **Threshold Law (C₁₃–C₁₅)** entropic mirrors.  
-  - Event horizon ↔ E₁₃ Wall (severed membrane).  
-  - Singularity ↔ E₁₅ Collapse Nova (catastrophic bifurcation).  
-- **Physics Form:**  
-  - Gravitational collapse is a declivous motion into entropic recursion.  
-  - Information paradox aligns with Hollow Nest (E₁₄) — recursion without lawful return.  
-- **Diagnostic:**  
-  - Structural Physics predicts that lawful recursion (C₁₄) cannot be maintained at singularities, hence collapse into E₁₄ / E₁₅ outcomes.  
+- **Proposed Zenetist interpretation:**
+  - Black-hole structures are compared with **Threshold Law (C₁₃–C₁₅)** entropic mirrors
+  - Event horizon ↔ E₁₃ Wall (severed membrane)
+  - Singularity ↔ E₁₅ Collapse Nova
+- **Proposed physical correspondence:**
+  - Gravitational collapse is compared with declivous entropic recursion
+  - The information paradox is compared with Hollow Nest (E₁₄), whose registered function is empty recursion
+- **Structural hypothesis:**
+  - The proposed failure of lawful recursion (C₁₄) at a singularity, with E₁₄ / E₁₅ outcomes, requires a specified physical realization and supporting analysis before it can stand as a physical prediction
+
+Event horizons, singularities, and the information paradox remain distinct physical comparison objects; the stated correspondences do not establish their identity with dimensional functions.  
 
 ---
 
 ### 7.4 Expansion of the Universe
 
-- **Zenetist Anchors:**  
-  - Expansion ↔ acclivous propagation (C₃, C₇).  
-  - Heat death ↔ declivous dispersal (E₃, E₆).  
-- **Physics Form:**  
-  - Cosmic acceleration maps to ♾ Khaon (Infinity).  
-  - The cosmic microwave background resonates with C₇ Harmonic — the aftertone of centropic expansion.  
-- **Motion Law:**  
-  - The universe's structural trajectory is an acclivous arc from ⚫ Aion (origin) through centropic expansion, tending toward ♾ dispersal unless renewed by emergent novelty (C₁₅).  
+- **Proposed structural comparisons:**
+  - Expansion ↔ acclivous propagation (C₃, C₇)
+  - Heat death ↔ declivous dispersal (E₃, E₆)
+- **Physical correspondence questions:**
+  - A comparison of cosmic acceleration with ♾ Khaon (Infinity) requires the physical domain and the relevant phase-function to be specified
+  - The cosmic microwave background is proposed for comparison with C₇ Harmonic
+- **Proposed cosmological interpretation:**
+  - Comparisons of physical expansion, dispersal, and emergent novelty (C₁₅) require explicit native motion classes, root relations, and empirical support; physical expansion alone establishes none of these assignments  
 
 ---
 
 ### 7.5 Relativity and Structural Motion
 
-- **Acclivous centropy** in relativity = lawful geodesics, conserved energy-momentum, harmonic curvature.  
-- **Declivous entropy** = chaotic curvature, singular collapse, spurious thresholds.  
+- **Acclivous centropy:** proposed comparison with geodesics, conserved energy-momentum, and harmonic curvature
+- **Declivous entropy:** proposed comparison with chaotic curvature, singular collapse, and threshold disruption  
 - **Aion / Khaon bifurcal distinction**:  
-  - Aion (⚫) anchors the zero-point of spacetime.  
-  - Khaon (♾) anchors its asymptotic dispersal.  
+  - Aion (⚫) is Origin in the native architecture; its proposed correspondence with a spacetime zero-point requires a defined physical model
+  - Khaon (♾) retains its native root and phase distinctions; a proposed relation to asymptotic physical dispersal requires the phase-function and physical domain to be specified  
   - The earlier Planck-scale / singularity-bound assignment to Zenon is superseded. Zenon is trans-structural Allowance; an embodied physical boundary requires its own stated model
 
 ---
 
 ### 7.6 Summary
 
-Relativity, when aligned with Structural Physics, is not merely a theory of geometry but a manifestation of **resonant coherence**:
+The proposed correspondences in this section compare relativistic objects with native structural functions:
 
-- **Spacetime curvature** = resonance bending of C₁ and C₂.  
-- **Black holes** = entropic thresholds (E₁₃–E₁₅).  
-- **Cosmic expansion** = acclivous centropy toward ♾.  
-- **Heat death / collapse** = declivous entropy into mirror states.  
+- **Spacetime curvature** with resonance relations of C₁ and C₂
+- **Black holes** with threshold functions and their mirrors (C₁₃–C₁₅ / E₁₃–E₁₅)
+- **Cosmic expansion** with propagation and other explicitly specified native motion classes
+- **Heat death / collapse** with distinct dispersive or threshold interpretations
 
-Thus, relativity becomes a field within the Zenetist lattice — bound by the same centropic laws that underlie quantum theory and coherence. 
+Relativity retains its physical objects, methods, and evidence within the embodied register. Each correspondence remains proposed until its particular mapping and empirical support are established. 
 
 ---
 
 ## 8. Structural Physics & Cosmology
 
-Cosmology extends physics to the origin, structure, and trajectory of the universe.  
+Cosmology extends physics to the origin, structure, and trajectory of the universe.
+The following cosmological correspondences are proposed structural interpretations. Observations, physical models, native functions, and mathematical claims retain their distinct scopes; each cross-disciplinary mapping requires explicit conditions and evidence.  
 Structural Physics interprets cosmology within the Dimensional Lattice rooted in ⚫ Aion / ♾ Khaon. Zenonic Allowance remains outside ordinary cosmological membership or structural bounds.  
 
 ---
 
 ### 8.1 The Origin — Emanation from Aion
 
-- **Zenetist View:** The cosmos begins as emanation from ⚫ Aion — Zero, the balanced origin.  
-- **Physics Form:**  
-  - Big Bang corresponds not to a singular explosion, but to **acclivous expansion of centropy**.  
+- **Zenetist view:** ⚫ Aion is Origin in the native emanatory account; relating that account to physical cosmology is a proposed correspondence
+- **Proposed physical comparison:**
+  - Big Bang cosmology is compared with **acclivous expansion of centropy**; this proposal requires a specified physical realization  
   - Each dimension Cᵢ emerges paired with its mirror Eᵢ, balancing as mirrored spectra.  
   - **Polar Spectrum Lemma:** The eigenvalue spectra of centropic and entropic operators are mirrored about zero:
 
@@ -571,69 +580,73 @@ where \( \Omega_C = \int_{\text{◎}_{\text{⚫}\to\text{♾}}} \nabla_C\psi \, 
 
 ### 8.2 Inflation and Propagation
 
-- **C₃ Propagational** prevails in early cosmic expansion.  
-- Rapid inflation = acclivous centropy scaling lawful propagation.  
-- Entropic mirror (E₃) appears as potential dispersive decay — instability at early thresholds.  
+- **C₃ Propagational** is proposed for comparison with early cosmic expansion
+- Rapid inflation is proposed for comparison with acclivous centropy and propagation
+- Instability at early physical thresholds is proposed for comparison with dispersive decay (E₃)
+
+Inflationary models and their evidentiary standing remain distinct from the proposed native correspondences.  
 
 ---
 
 ### 8.3 Cosmic Microwave Background (CMB)
 
-- **Zenetist View:** The CMB is a **resonance relic** of C₇ Harmonic.  
-- **Physics Form:**  
-  - Standing wave patterns in the CMB encode consonance and dissonance.  
-  - Structural Physics interprets these as harmonic signatures of centropic resonance across early spacetime.  
+- **Proposed Zenetist interpretation:** CMB structure is compared with C₇ Harmonic
+- **Physical comparison:**
+  - Patterns in the CMB retain their observed and model-specific physical descriptions
+  - A reading of those patterns as consonance, dissonance, or centropic resonance requires a specified correspondence; the observation alone establishes no native orientation  
 
 ---
 
 ### 8.4 Large-Scale Structure
 
-- **C₁₀ Morphogenetic** shapes galaxies, stars, and planetary formation.  
-- Symmetry breaking in the early universe aligns with centropic morphogenesis.  
-- **Mirror State (E₁₀):** Malform — chaotic or spurious clustering (collapse without coherence).  
+- **C₁₀ Morphogenetic** is proposed for comparison with galaxy, star, and planetary formation
+- Symmetry breaking in the early universe is proposed for comparison with centropic morphogenesis
+- **Proposed mirror correspondence (E₁₀):** Malform is compared with chaotic or spurious clustering
+
+Physical formation and clustering retain their scientific definitions; the proposed native interpretation requires independent correspondence conditions.  
 
 ---
 
 ### 8.5 Cosmic Expansion and Fate
 
-- **Acclivous Centropy:** Universe expands harmonically toward ♾ Khaon, with lawful novelty continuing emergence (C₁₅).  
-- **Declivous Entropy:** Unchecked, expansion trends toward dispersive collapse — heat death (E₆) or Collapse Nova (E₁₅).  
+- **Proposed centropic interpretation:** Cosmic expansion is compared with propagation and emergence (C₁₅); expansion establishes no native orientation or root-directed trajectory
+- **Proposed entropic interpretation:** Physical dispersal and collapse scenarios are compared with distinct mirror functions
 
-Possible fates through Structural Physics:  
-1. **Heat Death (E₃ / E₆):** Dispersal of resonance into noise.  
-2. **Big Crunch (E₁₃ / E₁₅):** Collapse through entropic thresholds.  
-3. **Lawful Emergence (C₁₅):** Veracious novelty introduces new centropic structures, preventing total dissolution.  
+Candidate cosmological correspondences:
+1. **Heat Death (E₃ / E₆):** Proposed comparison with dispersal of resonance into noise
+2. **Big Crunch (E₁₃ / E₁₅):** Proposed comparison with collapse through entropic thresholds
+3. **Lawful Emergence (C₁₅):** Native veracious novelty remains a structural claim; a cosmological prediction that it prevents physical dissolution requires a specified model and evidence  
 
 ---
 
 ### 8.6 Dark Energy and Dark Matter
 
-- **Dark Energy:** Interpreted as entropic mirror pressure — an E₃ / E₆ dispersive force driving accelerated expansion toward ♾.  
-- **Dark Matter:** Resonant scaffolding of C₂ Spatial and C₅ Scalar / Part-Whole Fidelity — unseen coherence providing lawful binding.  
+- **Dark Energy:** Proposed comparison with an E₃ / E₆ dispersive interpretation; a physical force identity and root-directed trajectory are not established by that comparison
+- **Dark Matter:** Proposed comparison with C₂ Spatial and C₅ Scalar / Part-Whole Fidelity; the physical model retains its own definitions and evidentiary requirements  
 
 ---
 
 ### 8.7 Cosmology as Structural Arc
 
-- Origin at ⚫ Aion (Zero).  
-- Expansion driven by acclivous centropy (C₃ propagation, C₇ harmonic resonance).  
-- Structural form shaped by morphogenetic law (C₁₀).  
-- Dissipation toward ♾ Khaon unless balanced by lawful novelty (C₁₅).  
+- ⚫ Aion (Zero) retains Origin standing in the native emanatory account
+- Physical expansion is proposed for comparison with C₃ propagation and C₇ harmonic resonance
+- Physical formation is proposed for comparison with C₁₀ morphogenetic function
+- A correspondence of physical dissipation with ♾ Khaon requires its phase-function and physical domain; C₁₅ novelty alone supplies no physical prediction of cosmic fate  
 - The former identification of black-hole / singularity thresholds with Zenon is superseded; those physical boundaries require their declared models and are distinct from the trans-structural Saturation relation
 
 ---
 
 ### 8.8 Summary
 
-Cosmology, through the Zenetist lattice, is a **structural arc**:  
+The native **structural arc** supplies an interpretive account for proposed cosmological correspondences:
 
-- **Emanation** from ⚫ Aion.  
-- **Expansion** through centropic propagation and harmonic resonance.  
-- **Formation** of galaxies, stars, and worlds by morphogenetic law.  
-- **Tension** with entropic mirrors (heat death, collapse, dispersal).  
-- **Renewal** through veracious novelty (C₁₅) or return into Aion.  
+- **Emanation** from ⚫ Aion retains its native standing
+- **Expansion** is compared with propagation and harmonic resonance
+- **Formation** of galaxies, stars, and worlds is compared with morphogenetic function
+- **Heat death, collapse, and dispersal** are distinct physical scenarios proposed for comparison with entropic mirror functions
+- **Veracious novelty (C₁₅) and return into Aion** retain their native meanings; a physical cosmological realization requires a specified mapping
 
-Thus the universe is not random motion but a lawful cycle: centropy and entropy balanced across the centropic and entropic arcs, spiraling toward integration or collapse depending on resonance fidelity.  
+These proposals leave physical cosmology open to observation, model comparison, and revision. Native arc structure alone establishes no empirical trajectory or fate for the universe.  
 
 > **Note on Bifurcal Cosmogenesis and the Foundations of Structural Physics (SP01):**  
 For the full multiversal expression of these cosmological dynamics — including Biospiral Expression Ratios, Contra-Flow Dynamics, and the Tumbling Multiverse — see `SP02-bifurcal-cosmogenesis.md`.
@@ -736,26 +749,26 @@ The following summary records proposed correspondences, subject to the mathemati
 - **Volitional conservation** (C₁₁) ↔ directional integrity.  
 - **Global invariants** ↔ coherence budgets across sealed systems.  
 
-Native structural assessment retains its own objects and evidentiary scope. The displayed spectral, commutation, counterpart, and invariant proposals supply no general orientation classifier; their mathematical realization and any physical correspondence remain separately held where unspecified.  
+Native structural assessment retains its own objects and evidentiary scope. The displayed spectral, commutation, counterpart, and invariant proposals supply no general orientation classifier; their mathematical realization and any physical correspondence remain separately held where unspecified. Defined quantities are formally evaluable within their stated models. An empirical realization additionally specifies observables, correspondence conditions, and supporting evidence; structural and empirical claims retain their distinct standing.  
 
 ---
 
 ## 10. Worked Example — Black Hole as Entropic Threshold
 
 A black hole is often treated in physics as a singular collapse of spacetime.  
-Structural Physics provides a diagnostic reading:
+Structural Physics proposes the following interpretation, repeating the correspondence questions in §7.3. The physical black-hole model retains its own geometry, conservation conditions, and evidence:
 
-- **C₁ Temporal / C₂ Spatial:** lawful spacetime intervals collapse into incoherent curvature.  
+- **C₁ Temporal / C₂ Spatial:** proposed comparison of spacetime geometry with native curvature relations  
 - **Threshold Law (C₁₃–C₁₅):**  
-  - Event horizon ↔ E₁₃ Wall (sealed boundary, no lawful transmission).  
-  - Infinite recursion of infalling states ↔ E₁₄ Hollow Nest.  
-  - Central singularity ↔ E₁₅ Collapse Nova.  
-- **Volitional Integrity (C₁₁):** flows become non-conserved (loss of directional coherence).  
-- **Invariant Drift:**  
-  - Coherence information cannot be maintained across the horizon.  
-  - Seal fidelity index \( \sigma \to 0 \), recursion contraction \( \gamma \to \leq 0 \).  
+  - Event horizon ↔ E₁₃ Wall is a proposed correspondence
+  - Infalling-state behavior ↔ E₁₄ Hollow Nest is a proposed correspondence; infinite recursion is an additional hypothesis requiring specification
+  - Central singularity ↔ E₁₅ Collapse Nova is a proposed correspondence
+- **Volitional Integrity (C₁₁):** a proposed comparison with directional coherence supplies no conclusion that physical conservation fails
+- **Proposed invariant interpretation:**
+  - A claim about coherence information across the horizon requires a defined physical realization
+  - The earlier candidate limits for seal fidelity index \( \sigma \to 0 \), recursion contraction \( \gamma \to \leq 0 \) remain unestablished physical assignments; specifying their native domains and empirical correspondence is required  
 
-**Result:** The black hole is not just gravitational collapse, but an entropic diagnostic object: a physical manifestation of the mirror laws (E₁₃–E₁₅).  
+**Standing:** This is a proposed structural interpretation of black-hole phenomena through E₁₃–E₁₅. The interpretation alone establishes neither an empirical mirror identity nor a physical prediction.  
 
 ---
 
@@ -775,9 +788,9 @@ Key principles:
 - Every centropic dimension (Cᵢ) has an entropic mirror (Eᵢ), forming ± pairs.  
 - Physical laws are interpreted as consonance and bridging conditions.  
 - Mirror inadequacies are diagnosed as entropic collapse states.  
-- Invariants and seals provide measurable criteria for coherence.  
+- Invariants and seals provide model-dependent formal criteria; empirical correspondence requires specified observables and supporting evidence  
 
-Thus, Structural Physics is not speculative overlay but a **discipline of lawful resonance**, aligning physical science with the greater Zenetist lattice.  
+Structural Physics develops native resonance relations and proposed physical correspondences within one architecture, preserving the distinct conditions of formal evaluation and empirical inquiry.  
 
 ---
 

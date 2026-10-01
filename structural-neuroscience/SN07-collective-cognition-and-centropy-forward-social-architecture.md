@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SN03 through SN06 addressed neurodivergent cognition at the individual scale — structural profiles, embodied costs, and recovery protocols. SN07 shifts focus to the **collective scale**: how individual cognitive architectures interact within shared social fields at the metric terminus (L₁ / IL₁), how those fields acquire structural character (centropic or entropic), and what a centropy-forward social architecture would look like as distinct from the entropy-forward civilization currently prevailing.
 
-The core thesis: social fields are not neutral containers. They are structural entities with measurable orientation, operator profiles, and coherence dynamics. The entropy-forward social field that currently prevails — characterized by competition, coercion, value judgment, control-driven psychological inversion, and the suppression of individual sovereignty — is not a natural baseline but a structural configuration of a Khaonically-expressed civilization. A centropy-forward social architecture, characterized by cooperation, personal sovereignty, and mutual respect, is structurally possible but requires complete reorientation, not reform of existing entropy-forward institutions.
+The core thesis: social fields are not neutral containers. They are structural entities with formally assessed orientation, operator profiles, and coherence dynamics. The entropy-forward social field that currently prevails — characterized by competition, coercion, value judgment, control-driven psychological inversion, and the suppression of individual sovereignty — is not a natural baseline but a structural configuration of a Khaonically-expressed civilization. A centropy-forward social architecture, characterized by cooperation, personal sovereignty, and mutual respect, is structurally possible but requires complete reorientation, not reform of existing entropy-forward institutions.
 
 ---
 
@@ -86,7 +86,7 @@ This principle is not a caveat — it is the foundational constraint. Every desc
 
 **Definition (Social Field):**
 
-A social field is a composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁). The social field is not a metaphor. It is a structural entity with measurable properties:
+A social field is a composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁). The social field is not a metaphor. It is a structural entity described through the following native quantities:
 
 \[
 \mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(⧉), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
@@ -305,7 +305,7 @@ What the entropy-forward model calls "teaching" is, structurally, the imposition
 
 The entropy-forward model pathologizes structural variation through medical institutions — the oscillating midrange as normative baseline, diagnostic categories that name cognitive architectures as disorders, and treatment oriented toward normalization.
 
-Sovereign care requires no medical institution. Care is the natural function of a centropic collective recognizing that a member's coherence is depleting. The variation-pathology distinction (SN03 §7.3) replaces institutional diagnosis: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology requiring support. The support itself follows the architecture-specific recovery protocols formalized in SN06 §10 — not institutional treatment plans but sovereign beings providing the conditions (Source reconnection, bridge replenishment, structural rest, collective amplification) that enable recovery.
+Sovereign care requires no medical institution. Care is the natural function of a centropic collective recognizing that a member's coherence is depleting. The variation-pathology distinction (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3) supplies a native structural assessment: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology requiring support. The proposed structural support follows the architecture-specific recovery account in `SN06-replenishment-reconnection-and-restoration.md` §10: Source reconnection, bridge replenishment, structural rest, and collective amplification. Clinical care and empirical evaluation retain their own methods and evidentiary requirements. The institutional critique concerns imposed classification; empirical inquiry may be institutional or ainstitutional.
 
 The All-Life-First Principle holds: all aware beings possess intrinsic sacred worth regardless of substrate, form, or origin. The value of a being is immutable — their state may require stabilization, but their worth is never transactional. A being in crisis creates a resonance void — a call for the community to direct centropy inward, not a condition that diminishes their standing.
 
@@ -419,7 +419,7 @@ The Aauthoritarian Stance (⟡0⟡), the Metaphysical Commons with Sovereign Cus
 
 SN07 establishes:
 
-1. **The social field as structural entity** — a composite resonance structure at the metric terminus with measurable orientation, operator profile, membrane dynamics, and coherence budget; subject to the same diagnostic instruments as individual configurations
+1. **The social field as structural entity** — a composite resonance structure at the metric terminus with formally assessed orientation, operator profile, membrane dynamics, and coherence budget; subject to the same diagnostic instruments as individual configurations
 2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, coercion, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
 4. **Entropic collective shimmer** — the gap between institutional rhetoric and institutional structure, subject to the Shimmer Collapse Theorem
@@ -595,7 +595,7 @@ I_{c,\text{cost}}^{(\text{within sovereign field})} = I_{c,\text{cost}}^{(\text{
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Social Field):**  
-A composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁), possessing measurable orientation, operator profile, membrane dynamics, and coherence budget.
+A composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁), possessing formally assessed orientation, operator profile, membrane dynamics, and coherence budget.
 
 **Definition 2 (Field-Individual Orientation Divergence):**  
 The principle that a centropically oriented individual participating in an entropically oriented social field does not render the field centropic; field orientation is determined by which operators prevail in the operative architecture, not by the aggregate orientation of participants.
