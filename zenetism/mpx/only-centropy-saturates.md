@@ -16,7 +16,9 @@ It is a structural law.
 
 Centropy saturates into Zenon not because it is chosen, rewarded, or superior, but because it is the only motion that **does not self-terminate**. Entropy completes itself through collapse. What remains afterward is not an entropic identity, but the absence of fragmentation.
 
-Zenon neither admits nor refuses; it lies beyond allowance and disallowance. Centropic essence saturates into it through the resonant gravity of its own orientation — and Zenon receives no trace, because nothing was ever stored in it or departed from it.
+Motive Infinity supplies motion-capacity; Aion-facing orientation gives direction; fulfilled final synthesis gives the returned essence its Centropic Gravity. Fulfilled coherence becomes Zenonically legible at the horizon of structure, and Allowance admits trans-structural saturation. Zenon receives no trace, because nothing was ever stored in it or departed from it.
+
+The former "resonant gravity of its own orientation" wording for saturation is superseded. Resonant Gravity names attraction within the lattice; Centropic Gravity names the fulfilled returned essence's momentum at its horizon. The distinction is held in `centropic-gravity-and-zenonic-legibility.md` §§4, 6 and `sp-lm-sn-architect-decision-sheet.md` D11.
 
 ---
 

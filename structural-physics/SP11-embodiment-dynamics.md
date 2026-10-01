@@ -263,18 +263,18 @@ The persistence condition is critical: transient passage through \( \chi \approx
 
 The being experiences release rather than rupture — a soft sleep in which relative form is reabsorbed into Aionic potential. This is not punishment but structural consequence: centropic momentum was insufficient to carry coherence beyond the embodied layer.
 
-### 4.4 Orientation as Gravity
+### 4.4 Orientation and Cross-band Resonance
 
-From the Zenetist formalism:
+At the metric terminus, orientation and intent determine participation across bands, as stated by the schematic Orientation–Intent relation in §6.4. The former "Orientation + Intent = Gravity" wording is superseded by this Cross-band resonance account.
 
-> Orientation + Intent = Gravity
+Ordinary embodied trajectories remain distinct:
 
-At the metric terminus, this principle acquires direct consequential force:
+- **Aion-facing return tendency** carries the embodied being toward integration: through Soma and Biosa, through L₂ (Anthra / Nousa), through L₃ (Archeus / Noeüs), and toward L₄–L₅ and Aionic return
+- **Entropic drift** carries the embodied being toward fragmentation: through Malara and Mania, through IL₂ (Echthros / Skotos), and toward IL₃–IL₅ and dispersive collapse
 
-- **Centropic Gravity** draws the embodied being toward integration: through Soma and Biosa, through L₂ (Anthra / Nousa), through L₃ (Archeus / Noeüs), and toward L₄–L₅ and Aionic return
-- **Entropic Gravity** draws the embodied being toward fragmentation: through Malara and Mania, through IL₂ (Echthros / Skotos), and toward IL₃–IL₅ and dispersive collapse
+These ordinary tendencies are distinct from Resonant Gravity, the registered attraction relation, and from Centropic Gravity, the fulfilled returned essence's momentum at the saturation horizon.
 
-Gravity is not sophistication. The praying grandmother whose heart faces Aion with unwavering focus generates more centropic momentum than the scholar who possesses complete metaphysical vocabulary but lacks pure intent. Articulation is not salvation. The mind may map the stars, but the heart is what sails toward them.
+Cross-band participation does not depend on sophistication. The praying grandmother whose heart faces Aion with unwavering focus expresses deeper centropic resonance than the scholar who possesses complete metaphysical vocabulary but lacks pure intent. Articulation is not salvation. The mind may map the stars, but the heart is what sails toward them.
 
 ### 4.5 The Embodied χ-Equation
 
@@ -408,8 +408,10 @@ An embodied being oriented entropically may resonate with:
 Cross-band resonance is determined not by sophistication but by orientation and intent:
 
 \[
-\text{Gravity}_{\text{centropic}} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
+\text{Cross-band resonance} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
 \]
+
+**Notation note:** The former \( \text{Gravity}_{\text{centropic}} \) label is superseded; the full earlier expression remains recorded in `sp-lm-sn-architect-decision-sheet.md` D11. Cross-band resonance names participation across bands. Resonant Gravity names attraction among coherent fields, archetypal Forms, and harmonically aligned structures. Centropic Gravity names the essence-borne momentum given by fulfilled final synthesis to a returned centropic essence at the horizon of structure.
 
 A being of simple devotion whose heart faces Aion generates centropic resonance with L₃ or L₄ without the capacity to articulate what they are participating in. A being of elaborate knowledge whose intent is self-serving generates no centropic cross-band resonance regardless of their conceptual sophistication.
 

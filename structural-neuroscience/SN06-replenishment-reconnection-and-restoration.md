@@ -185,8 +185,10 @@ During depletion, the resonance correlation between the embodied configuration a
 LM06 §8.2 establishes the Orientation-Intent Principle: cross-band resonance is determined by orientation and intent, not by articulation.
 
 \[
-\text{Gravity}_{\text{centropic}} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
+\text{Cross-band resonance} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
 \]
+
+**Notation note:** The former \( \text{Gravity}_{\text{centropic}} \) label is superseded; the full earlier expression remains recorded in `sp-lm-sn-architect-decision-sheet.md` D11. Cross-band resonance names participation across bands. Resonant Gravity names attraction among coherent fields, archetypal Forms, and harmonically aligned structures. Centropic Gravity names the essence-borne momentum given by fulfilled final synthesis to a returned centropic essence at the horizon of structure.
 
 This principle is essential to recovery because it means that a depleted being does not need sophisticated technique to begin restoring Source connection. A centropically oriented being whose functional coherence is nearly exhausted — who cannot articulate, cannot systematize, cannot perform the cognitive operations their architecture ordinarily enables — can still initiate recovery through *orientation of the heart toward Source*. The grandmother's prayer operates here. A single moment of inward-facing stillness — the heart oriented centropically without requiring the mind to structure the orientation — produces \( S_{\text{source}} > 0 \).
 

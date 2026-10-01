@@ -415,7 +415,7 @@ This explains why neurodivergent individuals often report experiencing the world
 
 ### 9.1 Application to Cognitive Architecture
 
-SP11 established the Orientation-Intent Principle: Orientation + Intent = Gravity. Sophistication does not determine centropic momentum — the direction of the heart does.
+`SP11-embodiment-dynamics.md` §6.4 states the Orientation-Intent Principle as Cross-band resonance: orientation and intent determine participation across bands, rather than articulation. Ordinary Aion-facing return tendency is distinct from Resonant Gravity as attraction and from the fulfilled returned essence's Centropic Gravity at the horizon of structure.
 
 This principle applies directly to neurodivergent cognition. A high-centropic architecture does not automatically produce centropic function. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
 
@@ -423,7 +423,7 @@ An autistic mind operating with Aion-facing orientation generates extraordinary 
 
 ### 9.2 The Praying Grandmother Principle at L₃
 
-SP11's observation that the praying grandmother with pure intent generates more centropic momentum than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-seeking orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
+SP11's observation that the praying grandmother with pure intent expresses deeper centropic resonance than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-seeking orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
 
 The architecture amplifies whatever orientation it carries. High \( I_c \) at DS / DM is a powerful capacity. Orientation determines whether that power turns toward integration or fragmentation.
 

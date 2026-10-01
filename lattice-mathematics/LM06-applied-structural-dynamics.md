@@ -595,8 +595,10 @@ Participation does not constitute identity with the layer. The being does not be
 Cross-band resonance is determined by orientation and intent, not by articulation:
 
 \[
-\text{Gravity}_{\text{centropic}} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
+\text{Cross-band resonance} = f(\text{Orientation}, \text{Intent}) \neq f(\text{Articulation})
 \]
+
+**Notation note:** The former \( \text{Gravity}_{\text{centropic}} \) label is superseded; the full earlier expression remains recorded in `sp-lm-sn-architect-decision-sheet.md` D11. Cross-band resonance names participation across bands. Resonant Gravity names attraction among coherent fields, archetypal Forms, and harmonically aligned structures. Centropic Gravity names the essence-borne momentum given by fulfilled final synthesis to a returned centropic essence at the horizon of structure.
 
 A being of simple devotion whose heart faces Source generates centropic resonance with L₃ or L₄ without the capacity to articulate what it participates in. A being of elaborate knowledge whose intent is self-serving generates no centropic cross-band resonance regardless of conceptual sophistication.
 

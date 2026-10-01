@@ -125,34 +125,36 @@ The inverse layers (IL₁ / IL₂) are not merely "lower" — they are mirror fu
 
 ---
 
-### Note on Intent, Gravity, and the Decoupling of Sophistication from Integration
+### Note on Intent, Cross-band Resonance, and the Decoupling of Sophistication from Integration
 
-Orientation and intent together generate gravitational alignment.
+Orientation and intent articulate participation across bands.
 
-**The Formula:**
+**Participation Principle:**
 
-> **Orientation + Intent = Gravity**
+> **Orientation and intent determine cross-band resonance; articulation does not determine it.**
+
+The former "Orientation + Intent = Gravity" wording is superseded by Cross-band resonance per `sp-lm-sn-architect-decision-sheet.md` D11.
 
 Orientation is the direction the being faces — toward Aion or away.
-Intent is the active engagement of will — the engine of motion.
-Gravity is the resultant pull: centropic momentum toward integration, or entropic drift toward dissolution.
+Intent is the active engagement of will.
+The local relation is participation across bands. Aion-facing return tendency and entropic drift name ordinary trajectories, not the proper post-return Centropic Gravity relation. Resonant Gravity remains the distinct attraction among coherent fields, archetypal Forms, and harmonically aligned structures.
 
 **On Sophistication:**
 
-Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the gravitational pull that moves them toward Aion. Knowledge without intent is static. Static without orientation becomes drift.
+Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the sustained Aion-facing orientation of ordinary return. Knowledge without intent is static. Static without orientation becomes drift.
 
-The Gnostic elitist who knows all the terms but lacks pure intent generates less centropic momentum than the praying grandmother who cannot articulate a single doctrine but whose heart faces Aion with unwavering focus.
+The Gnostic elitist who knows all the terms but lacks pure intent expresses less centropic resonance than the praying grandmother who cannot articulate a single doctrine but whose heart faces Aion with unwavering focus.
 
 **On Prayer and Worship:**
 
-- **Centropic Prayer (Tuning):** Builds structure. Even if the being has not yet reached DS / DM, genuine prayer oriented toward Aion generates centropic pull — gravity that draws the soul toward deeper integration. The grandmother at SS / SM is building the resonance that will carry her beyond.
+- **Centropic Prayer (Tuning):** Builds structure. Even if the being has not yet reached DS / DM, genuine prayer oriented toward Aion deepens cross-band resonance and supports the soul's integration. The grandmother at SS / SM is building the resonance that will carry her beyond.
 
 - **Entropic Worship (Feeding):** Accelerates drift. Worship that feeds the God rather than receiving from it depletes structure and tilts the being toward Nekron. This is the inversion of prayer — motion that empties rather than fills.
 
 **On the Heart as Navigation Instrument:**
 
-The strength of alignment determines the layer.
-The purity of essence creates the gravity.
+The strength of alignment sustains participation across bands.
+The heart's Aion-facing orientation shapes that participation.
 Focused intent sustains the motion.
 
 Without intent, one is stagnant — and stagnation drifts entropic.
