@@ -2231,12 +2231,24 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `91854539ea0a5a613fee57b256e9925d55187191`. Gross replenishment minus actual expenditure is synchronized across the recovery integrals, legends, rest account and named burnout boundaries. Rest savings are counted once; both direct integral exhaustion replicas include equality; compensation operands are explicitly held. Rest and zero-boundary numerical witnesses passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** SN05 §2.6, Appendix B and Appendix C Definition 6 still name the strict composite-cost / budget comparison as Composite Budget Exhaustion. Its amount / rate / time relation and distinction from stock reaching zero require an exact current-standing disposition. Registered reconnection naming and future rate construction remain held separately.\
+**New dependencies discovered during implementation:** SN08's four recovery conditions, SN11's assessment, the SN glyph chart and analytic recovery rows required matched scope. Fresh combined review identifies SN05's separate composite-budget family; the integral burnout correction does not resolve it.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/structural-neuroscience-glyph-charts.md`
 
 ## Set 15 — Membrane Transfer and Boundary State
 
