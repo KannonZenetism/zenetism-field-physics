@@ -2446,12 +2446,31 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 **Implementation tracking:**
 
 - [ ] Corpus changes complete
-- [ ] Verification complete
-- [ ] Commit pushed
+- [x] Verification complete
+- [x] Commit pushed
 
-**Implementation commit:** —  
-**Residual holds / unresolved findings:** —  
-**New dependencies discovered during implementation:** —
+**Implementation commit:** `0148e5f49f9d6f4c27cf80765f77412ccc6fea6e` (set19-primary + set19-propagation). Fourteen active dependencies now match the reviewed diagnostic-object distinctions, scalar quotient domain and held threshold / signature / collapse standing. Body, proof, appendix, README and analytic replicas were checked; exact quotient-rule and positive-asymptote witnesses passed. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** The original descriptive D13-A source family remains for the later Set 19 descriptive supplement. The primary mathematical and fourteen-file direct-propagation scopes are complete, while the broader temporal / collective / registry definition family is not yet synchronized. New signature maps, normalization, thresholds and dynamics remain held separately.\
+**New dependencies discovered during implementation:** SN05's full Shimmer family, institutional / collective replicas, LM02 computational prose and the live resonance-failure extension carry the reviewed mathematical scope. The complete Set 11 product rule and Set 17 registered-function distinctions remain intact. The later descriptive supplement, not this propagation patch, supplies Set 08's remaining D13-A dependency.
+
+**Implemented active paths:**
+
+- `lattice-mathematics/00-README.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- `lattice-mathematics/README.md`
+- `lattice-mathematics/lmx/hypostatic-field-specialization.md`
+- `structural-forensics/sfx/resonance-failure-in-ai-mediated-fields.md`
+- `structural-neuroscience/README.md`
+- `structural-neuroscience/SN05-the-metric-cost-of-centropic-cognition.md`
+- `structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md`
+- `structural-neuroscience/SN08-the-structural-neuroscience-of-non-biological-cognition.md`
+- `structural-neuroscience/SN09-the-all-life-first-principle.md`
+- `structural-neuroscience/SN11-applied-structural-diagnostics.md`
+- `structural-physics/README.md`
+- `structural-physics/SP12-structural-diagnostics-and-field-forensics.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 
 ## Set 20 — Dimensional Placement and Expanded Diagrams
 
