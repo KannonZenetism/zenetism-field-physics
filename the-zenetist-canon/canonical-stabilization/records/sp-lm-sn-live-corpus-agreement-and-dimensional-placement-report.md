@@ -2040,13 +2040,13 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Implementation tracking:**
 
-- [ ] Corpus changes complete
+- [x] Corpus changes complete
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb` (set10); `e0986fdf454fe02905f9a5c3afc1178ca9e59792` (set10-tex); `d7cce743a290c4c5b9313837d01f51f215e97014` (set10-contraction-scope). GUD now states the Banach-framework guarantee as sufficient, retaining the actual self-map, domain, metric and contraction requirements without calling them necessary for every convergent map. Both recurrence replicas and their counterexamples were verified. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The SP01 coefficient-only recurrence and related spectral-diagnostic replicas remain assigned to the Set 11 diagnostic supplement. Missing generator, projection and recurrence-map mathematics remain held; TeX rendering remains unverified.\
-**New dependencies discovered during implementation:** This follow-on depends on the reviewed Set 10 GUD result. The SP01 supplement supplies the remaining D01 / D04 direct diagnostic dependency.
+**Implementation commit:** `b11f566640d691e6f591ea204f3e92d83ce045cb` (set10); `e0986fdf454fe02905f9a5c3afc1178ca9e59792` (set10-tex); `d7cce743a290c4c5b9313837d01f51f215e97014` (set10-contraction-scope). The counterpart naming, local recurrence notation, conditional convergence wording and direct SP01 / GUD coefficient-classifier replicas are complete. The verified Set 11 SP01 diagnostic and Set 18 GUD threshold supplements supply the coupled dependencies.\
+**Residual holds / unresolved findings:** Future generator / field realization, projections, domain / sign conditions and recurrence-map construction remain held. Static TeX checks passed; rendering remains unverified on the missing baseline format.\
+**New dependencies discovered during implementation:** The SP01 diagnostic supplement and GUD threshold-family supplement are the verified cross-set dependencies; the distinct essence-identifier and fluid construction remain intact. Completed companion correction: `7caa3c09581bd4e2f6e3554e348a7464ae2b085c` (Set 18).
 
 **Implemented active paths:**
 
@@ -2401,9 +2401,9 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `e15a11b7e72667f8693dd285ed2ff84410e36047` (set18 + set18-sp01-relativity). SP01 §§7–8, §10 and the coupled §11 summaries now present relativity, curvature, black-hole, cosmology and root comparisons as proposed correspondences. Physical objects and native functions remain intact; all 34 mathematical blocks, code and headings were preserved and checked. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** Further SP01 quantum / physical-analogue correspondence passages remain for the next bounded supplement. Section 8.1 spectral / integral mathematics and §10 candidate limits retain their distinct D01 / D02 / D03 / D22 construction boundaries. Empirical validation and TeX rendering remain unclaimed.\
-**New dependencies discovered during implementation:** The §7.5 identity claim was repeated throughout the relativity / cosmology argument, worked example and summary. The registered-function boundary preserves E₃, E₁₄ and E₁₅ without identifying generic physical decay with those functions.
+**Implementation commit:** `e15a11b7e72667f8693dd285ed2ff84410e36047` (set18 + set18-sp01-relativity); `7caa3c09581bd4e2f6e3554e348a7464ae2b085c` (set18-sp01-correspondence-supplement + set18-gud-threshold-supplement). The twelve-site GUD threshold family now distinguishes coefficient arithmetic, registered boundary functions and their unestablished diagnostic correspondences. Cross-arc passage and automatic positivity / breach / cognition verdicts are bounded; all mathematical strings are preserved as recorded proposals. Verification and push checkboxes apply to the completed subset recorded here.\
+**Residual holds / unresolved findings:** GUD Part V §2 still requires the native-gradient / clinical-classification distinction. The future correspondence and complete boundary models remain held. TeX rendering remains unverified.\
+**New dependencies discovered during implementation:** C₁₃ / EOB, Threshold Law §1.4, A4, Boundary Test and cognitive §§5.3 / 6 repeat the same coefficient-to-verdict leap. The SP01 correction supplies the directly coupled account without a new transfer law.
 
 **Implemented active paths:**
 
