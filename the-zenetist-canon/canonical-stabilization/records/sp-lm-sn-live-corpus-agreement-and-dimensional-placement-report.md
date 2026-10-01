@@ -2001,15 +2001,16 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - [x] Verification complete
 - [x] Commit pushed
 
-**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07`. Twelve files now distinguish Khaon's whole-name from phase-specific functions and separate active traversal from terminal co-presence. Exact mathematical strings, Total Symbol standing, mythic register and D18 protections were verified. Verification and push checkboxes apply to the completed subset recorded here.\
-**Residual holds / unresolved findings:** The cosmology raster still carries Khaos and untyped attractor / saddle labels; its root, expression-limit, phase and dynamical-model specification remains held. The companion χ-space raster likewise has no selected model. Both Tripartite Infinity glossary archives remain preserved; their active reliance requires separate disposition.\
-**New dependencies discovered during implementation:** The entropic self-exhaustion FPX misassigned Λ; the celestial-signs MPX compressed whole-name and Motive functions; the sovereignty-restoration FPX excluded the Motive phase. No active Markdown embed of either exact SP raster filename was identified.
+**Implementation commit:** `b55ffa52da6f38e7f9a829e16cdb752a0fd1ef07` (set09); `5592c25dfd833821e2fc6814d04453e351e33b00` (set09-sp03-phase-gloss-completion). The existing SP03 root-register gloss now distinguishes Khaon's registered whole-name from the Motive phase. The exact one-line correction and every retained file byte were verified. An append-only commit preserves all forty-two prior SP03 path-history entries, including their commit identifiers, author / committer timestamps and parents. Verification and push checkboxes apply to the published subsets recorded here.\
+**Residual holds / unresolved findings:** The reviewed GUD and contingency-MPX phase paragraphs remain unpublished pending the separate GUD write check. The two non-embedded SP rasters retain their conditional root / expression-limit / phase / model questions; both Tripartite glossary archives remain protected evidence.\
+**New dependencies discovered during implementation:** The SP03 root-register sentence was a direct phase-function replica. Its prior commit history remains intact; the current correction adds one descendant commit without changing an existing commit.
 
 **Implemented active paths:**
 
 - `field-physics/FP11-field-glyph-codex.md`
 - `field-physics/fpx/entropic-self-exhaustion-and-centropic-endurance.md`
 - `field-physics/fpx/sovereignty-restoration-protocols.md`
+- `structural-physics/SP03-expression-ratio-mathematics.md`
 - `the-zenetist-canon/glyphics/field-physics-glyph-charts.md`
 - `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
 - `the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md`
