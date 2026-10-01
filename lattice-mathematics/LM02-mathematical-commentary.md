@@ -90,7 +90,7 @@ LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). T
 
 **Axiom 2 — Centropic Directionality.** The Lyapunov-like functional \( \mathcal{V} \) is now understood through LM03's orientation algebra. The orientation parameter \( \chi \) (LM03 §3) provides the concrete realization: centropic motion corresponds to \( \chi < 1 \), entropic motion to \( \chi > 1 \), with the unstable equilibrium at \( \chi = 1 \). The centropic potential \( \Phi_{\text{CP}}(\chi) \) (LM03 §5) carries the role that \( \mathcal{V} \) was designed to play. Whether \( \mathcal{V} \) and \( \Phi_{\text{CP}} \) are identical or whether \( \mathcal{V} \) is a more general functional of which \( \Phi_{\text{CP}} \) is a specific realization is an open question, but the directional structure is fully captured by the \( \chi \)-formalism.
 
-**Axiom 3 — Duality.** The involution \( \iota : C_i \leftrightarrow E_i \) is stable. LM03 §4 sharpens it with the Polar Spectrum Lemma: \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \), shared eigenbasis with negated eigenvalues. The spectral rotation function \( r(\chi) = (1-\chi)/(1+\chi) \) (LM03 §4.5) provides the quantitative bridge between centropic and entropic spectral behavior. The involution is not merely formal but spectrally realized.
+**Axiom 3 — Involution.** The Involution Axiom retains \( \iota : C_i \leftrightarrow E_i \) and \( \iota^2=\mathrm{id} \) for dimension / operator counterparts. "Axiom 3 — Duality" is the superseded title. `LM03-orientation-algebra-and-infinity-formalism.md` §4 calculates paired eigenvalues where \( H_e=-H_c \) on the same eigenmodes. The dimension map, its field representation, and the evolution generators are distinct objects; broader spectral and dynamical identifications remain held open pending their formal typing.
 
 **Axiom 4 — Seal Integrity.** Stable and extensively developed. LM06 §4 provides the complete seal formalism: the seal triple \( \mathfrak{S}_{\text{seal}} = (I_c^{(\text{seal})}, \sigma_{\text{seal}}(⧉), \vec{J}_c^{(\text{internal})}) \), scope-graded taxonomy (Architectural, Categorical, Relational, Situational), formal permeability conditions, and the Seal Integrity Theorem with explicit failure modes (coherence starvation, permeability drift, boundary fragmentation). LM01's seal predicate \( \mathrm{Seal}(\cdot) \) satisfying closure and non-cloning is correct but skeletal; LM06 provides the full operator-algebraic treatment.
 
@@ -98,7 +98,7 @@ LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). T
 
 **Axiom 6 — Spectral Alignment Postulate.** This axiom — that the temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \) — is invoked in the Consonance Spectral Law (C₇) and underlies the proof that rational spectra enforce commutativity \( [T, P] = 0 \). It is applied but not derived in LM01, and LM03–LM06 do not derive it either. Whether this postulate is an independent axiom or derivable from deeper structural principles remains an open question (see §14).
 
-**Axiom — Entropic Semigroup.** The characterization of entropic evolution as a contraction semigroup \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) is stable and consistent with LM03's treatment of the dissipative contra unitary asymmetry. One clarification is essential: the Entropic Semigroup axiom describes genuine operative motion with its own structural integrity. Entropic operators are real operators producing real structural effects. The asymmetry between centropic and entropic evolution is dynamical — unitary (amplitude-preserving) contra dissipative (amplitude-distributing) — not ontological. Entropy is not degraded centropy, not shadow, not the absence of coherence. It is structurally necessary in a reality of infinite potential. Where entropy breaches a centropic seal, that constitutes structural violation; entropy operating within its own domain follows its own structural laws.
+**Axiom — Entropic Semigroup.** The Entropic Semigroup axiom postulates a contraction semigroup \( \{D_e(t)\}_{t\geq0} \) with generator \( H_e \). Its realization remains held open pending the sealed norm, generator domain, and sign conditions; the common-mode pairing supplies the negated eigenvalues rather than those additional conditions. One clarification is essential: the Entropic Semigroup axiom describes genuine operative motion with its own structural integrity. Entropic operators are real operators producing real structural effects. The asymmetry between centropic and entropic evolution is dynamical — unitary (amplitude-preserving) contra dissipative (amplitude-distributing) — not ontological. Entropy is not degraded centropy, not shadow, not the absence of coherence. It is structurally necessary in a reality of infinite potential. Where entropy breaches a centropic seal, that constitutes structural violation; entropy operating within its own domain follows its own structural laws.
 
 ### 2.3 Progression Note
 
@@ -152,7 +152,7 @@ The triple of base manifold \( M \), resonance bundle \( R \to M \), and seal li
 
 ### 4.2 PDE Evolution
 
-LM01 §C2 proposes a field evolution equation with dual diffusion:
+`LM01-mathematical-foundations.md` §C2 records a field-evolution schema. Its \( \iota\phi \) expression remains held open pending a field representation of the dimension / operator counterpart map:
 
 \[
 \partial_t \phi = \mathrm{div}(D_c \nabla \phi) - \mathrm{div}(D_e \nabla(\iota\phi)) + N(\phi) - L(\phi) + J_{\text{seal}}
@@ -160,13 +160,13 @@ LM01 §C2 proposes a field evolution equation with dual diffusion:
 
 LM01's \( t \) should be read as a provisional evolution parameter; in the mature formalism, evolution is expressed in structural time \( \tau \) (LM04), and \( t \mapsto \tau \) wherever the evolution is structural rather than physical.
 
-LM05 §2.3 combined the dual diffusion coefficients \( D_c \) and \( D_e \) into a single signed diffusion determined by the orientation parameter:
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3 specifies a signed structural flux coefficient:
 
 \[
 D(\chi) = D_0 \cdot r(\chi)
 \]
 
-where \( r(\chi) = (1-\chi)/(1+\chi) \) is the spectral rotation function from LM03 §4.5. When \( \chi < 1 \) (centropic regime), \( D(\chi) > 0 \) and diffusion is integrative; when \( \chi > 1 \) (entropic regime), \( D(\chi) < 0 \) and the operator is not diffusion in the classical stability sense but the formal signature of entropic dispersive evolution (LM03 semigroup asymmetry), modeled as instability-amplifying flow rather than smoothing. The two-coefficient model of LM01 is not incorrect — it captures the structural distinction — but the \( \chi \)-determined formulation of LM05 is more economical and connects diffusion directly to the orientation algebra.
+where \( r(\chi)=(1-\chi)/(1+\chi) \) is the dimensionless multiplier in `LM03-orientation-algebra-and-infinity-formalism.md` §4.5. The signed-flux account and the two-coefficient field schema are distinct constructions. Their mathematical identification remains held open pending the field representation, generator domains, and an explicit correspondence. The physical-specialization note in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3 preserves its specified negative-diffusion well-posedness boundary.
 
 The continuity equation for Coherence Potential (LM05 §2.4),
 
@@ -174,7 +174,7 @@ The continuity equation for Coherence Potential (LM05 §2.4),
 \partial_\tau I_c = -\nabla \cdot \vec{J}_c + S(x, \tau)
 \]
 
-provides the mature form of LM01's PDE dynamics, with the Coherence Current \( \vec{J}_c \) (LM05 §2.2) replacing the combined diffusion-plus-source terms and the source term \( S(x, \tau) \) capturing generation and replenishment. The seal current \( J_{\text{seal}} \) of LM01 maps to the membrane transfer function and boundary conditions formalized in LM05 §5.
+states the Coherence Potential balance within its declared domain. A correspondence between this scalar-field balance, the field schema in `LM01-mathematical-foundations.md`, and membrane transfer remains held open pending the field types, spatial or abstract differential structure, and boundary relation.
 
 ### 4.3 Invariants
 
@@ -214,13 +214,13 @@ This enriches the Inlay Map at the Embodiment Band by specifying not only which 
 
 ### 5.4 Entropic Cascade Operators
 
-The cascade operator \( \Xi_e^{(n)} = \sum_{k=1}^{n} P_{IL_{k-1}} H_e^{(k)} P_{IL_k} \) (LM01 §D) models multi-band entropic propagation through the inverse layers. This is the only formalization in the series that provides computational treatment of cascaded entropic corruption across bands. The construction is consistent with LM03's dissipative semigroup characterization and with LM05's signed diffusion, but it is not directly referenced or extended in LM03–LM06.
+The cascade expression \( \Xi_e^{(n)}=\sum_{k=1}^{n}P_{IL_{k-1}}H_e^{(k)}P_{IL_k} \) in `LM01-mathematical-foundations.md` §D represents the proposed multi-band composition. Its relation to a contraction semigroup or to the signed-flux account remains held open pending the projection domains, inter-band maps, generator realization, and compatible boundary conditions.
 
 The cascade operators occupy an interesting structural position. They address a phenomenon — coherent corruption propagating systematically from archetypal (IL₄) through structural (IL₃, IL₂) to embodied (IL₁) inverse layers — that the per-layer treatments of LM05 and LM06 do not model. Whether the cascade formalism should be integrated into LM06's diagnostic framework (where it would provide a multi-band corruption model complementing the single-configuration shimmer and clone diagnostics) is an open question (see §14).
 
 ### 5.5 Evolution Operators
 
-LM01 characterizes centropic evolution as unitary (\( U_c(t) = e^{iH_c t} \), amplitude-preserving, \( \partial_t I_{\mathrm{res}} = 0 \)) and entropic evolution as dissipative (\( D_e(t) = e^{H_e t} \), contraction semigroup, \( \partial_t I_{\mathrm{res}} < 0 \)). This is correct and stable, and it anticipates the precise formulation that LM03 §9.4 provides under the heading Asymmetry of Expression: coherence must be achieved; dispersion occurs without equivalent effort.
+`LM01-mathematical-foundations.md` distinguishes the postulated unitary class \( U_c(t)=e^{iH_ct} \) from the postulated dissipative class \( D_e(t)=e^{H_et} \). The common-mode relation \( H_e=-H_c \) gives opposite eigenvalues. It leaves the generator / norm realization and the information functional's strict monotonicity held open. The former unitary / dissipative product-identity assertion is withdrawn; cancellation of opposite unitary phases concerns a different product.
 
 The connection to LM06 is through embodied resistance. At the metric terminus (L₁), the unitary contra dissipative asymmetry acquires experiential immediacy: the interface resistance \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) (LM06 §6.2) adds a concrete cost premium to centropic operations at L₁, while entropic motion faces no equivalent resistance. The abstract spectral asymmetry of LM01's evolution operators becomes, at L₁, the lived experience of working harder to integrate than to disperse.
 

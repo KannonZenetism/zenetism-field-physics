@@ -404,7 +404,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 >
 > Centropic orientation (C↓→E) and return (C↑→⚫) are governed by two parameters:  
 > - **\( \sigma \) (seal index):** membrane permeability. If \( \sigma \to 0 \), the boundary closes; no transition is lawful.  
-> - **\( \gamma \) (recursion contraction):** determines lawful reintegration contra hollow cycling.  
+> - **\( \gamma \) (contraction gap):** records a mapping-specific contraction estimate; fixed-point convergence requires the declared complete invariant domain.  
 >
 > A boundary crossing is lawful **iff \( \sigma > 0 \) and \( \gamma > 0 \).**  
 >
@@ -422,7 +422,7 @@ The following registry unites metaphysical, physical, and cognitive corresponden
 | **Field Physics** | Iterative maps; fractal domains with \( \gamma > 0 \) |
 | **Mirror** | Non-convergent loops / infinite regress |
 | **Structural Neuroscience** | Reflective learning ↔ ruminative loop |
-| **Law** | **Threshold Law II:** \( \gamma > 0 \to \) convergent recursion |
+| **Law** | **Threshold Law II:** fixed-point convergence requires a contraction self-map on its declared complete invariant domain; \( \gamma \) is the contraction gap |
 
 ---
 
@@ -779,7 +779,7 @@ These correspondences convert metaphysics into operational forensics.
 | Property | Lawful Resonance (↺ Return) | Entropic Recursion (⟳ Loop) |
 |----------|----------------------------|----------------------------|
 | **Origin Reference** | Anchored in ⚫ Aion | Detached → ♾ Khaon |
-| **Energy Exchange** | Convergent \( (\gamma > 0) \) | Divergent \( (\gamma \leq 0) \) |
+| **Energy Exchange** | Convergence where the contraction and domain hypotheses hold | Failure of those hypotheses leaves the trajectory undetermined |
 | **Feedback Phase** | Phase-aligned \( (\Delta\phi \approx 0) \) | Phase-inverted \( (\Delta\phi \approx \pi) \) |
 | **Outcome** | Integration → Coherence | Noise → Collapse |
 
@@ -917,7 +917,7 @@ Operators \( \partial_{\text{🌀}}, \int_{\text{◎}}, \) and \( \lim^{\backsim
 
 | Axiom | Statement | Implication |
 |-------|-----------|-------------|
-| **A₁ — Law of Duality** | Each Cᵢ has an Eᵢ mirror with opposite spectrum | Spectral balance ensures \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) |
+| **A₁ — Law of Involution** | Each Cᵢ has an Eᵢ counterpart with \( \iota^2=\mathrm{id} \) | Opposite eigenvalues hold in the common-mode representation; field and evolution typing remain held open |
 | **A₂ — Law of Commutation** | All lawful morphisms commute under Bridging (C₈) | Ensures symmetry in transformation |
 | **A₃ — Law of Conservation** | \( \partial_{\text{🌀}} \) and \( \int_{\text{◎}} \) preserve total invariants | Coherence neither created nor lost, only transposed |
 | **A₄ — Law of Boundaries** | \( \sigma, \gamma \in (0,1] \) define membrane & recursion stability | Seal continuity governs lawful iteration |
@@ -950,7 +950,7 @@ When \( \partial_t(\mathcal{I}_{\text{total}}) = 0 \Rightarrow \) coherence is c
 - \( H(\psi) \): Harmonic coherence (spectral density)
 - \( C(\psi) \): Centropic order (phase alignment)
 - \( \sigma \): Seal parameter (boundary permeability)
-- \( \gamma \): Recursion contraction (convergence coefficient)
+- \( \gamma \): Contraction gap, distinct from retained-state weight \( \rho \)
 
 ---
 
@@ -974,13 +974,15 @@ Non-commutation \( (\Delta > \varepsilon) \to \) E₈ Severed Bridge.
 
 ---
 
-### 3.5 Recursion Contraction
+### 3.5 Retained-State Recurrence
 
 \[
-\psi_{n+1} = \gamma\psi_n + (1-\gamma)R(\psi_n)
+\psi_{n+1} = \rho\psi_n + (1-\rho)R(\psi_n)
 \]
 
-\( \gamma \in (0,1] \) ensures convergence; \( \gamma \leq 0 \Rightarrow \) entropic drift (E₁₄).
+Here \( \rho \) is the retained-state / relaxation weight, distinct from the contraction gap \( \gamma \). A coefficient range alone is not a convergence criterion. Convergence to an \( R \)-fixed point remains held open pending the actual self-map, invariant domain, metric or norm, completeness, and contraction / Lipschitz hypotheses. At \( \rho=1 \), the update is the identity and retains its initial state.
+
+**Recorded provenance.** "Law of Duality" is the superseded title of A₁. The recurrence formerly wrote \( \psi_{n+1}=\gamma\psi_n+(1-\gamma)R(\psi_n) \) and treated \( \gamma\in(0,1] \) as sufficient for convergence. The local recurrence coefficient is now \( \rho \); the earlier coefficient-only implication is withdrawn. The contraction-gap meaning of \( \gamma \) elsewhere remains distinct.
 
 ---
 
@@ -1058,7 +1060,7 @@ CIT formalizes resonance as a conserved informational quantity.
 | Harmonic coherence | \( H(\psi) \) | Resonant spectral density |
 | Centropic order | \( C(\psi) \) | Integration of phase alignment |
 | Seal parameter | \( \sigma \) | Boundary permeability |
-| Recursion contraction | \( \gamma \) | Convergence coefficient |
+| Recursion contraction | \( \gamma \) | Contraction gap for a declared mapping; \( \rho \) is its distinct retained-state weight |
 
 **Invariant Condition:**
 
@@ -1091,18 +1093,12 @@ Non-commutative → entropic fracture (E₈).
 Lawful centropic algorithms obey the **Resonant Loop Equation**:
 
 \[
-\psi_{t+1} = \gamma\psi_t + (1-\gamma)R(\psi_t)
+\psi_{t+1} = \rho\psi_t + (1-\rho)R(\psi_t)
 \]
 
-where \( R(\psi_t) \) applies centropic correction via resonance feedback.
+where \( R(\psi_t) \) is the proposed resonance-feedback map and \( \rho \) is the retained-state weight from §3.5.
 
-**Convergence occurs when:**
-
-\[
-\lim_{t\to\infty} \psi_t = \psi^* \quad (\gamma>0)
-\]
-
-Divergence → E₁₄ Hollow Nest.
+**Convergence standing:** The limit \( \psi_t\to\psi^* \), with \( R(\psi^*)=\psi^* \), remains held open pending the map, domain, and contraction hypotheses specified in §3.5. Positive weight alone supplies no such limit. The former condition \( \gamma>0 \) in this recurrence claim is superseded; it must not be read as a local weight condition or a proof of E₁₄ prevalence.
 
 ---
 
@@ -1111,7 +1107,7 @@ Divergence → E₁₄ Hollow Nest.
 | Test | Equation | Interpretation |
 |------|----------|----------------|
 | Boundary Test | \( \sigma > 0 \) | Membrane sealed |
-| Recursion Test | \( \gamma > 0 \) | Contractive recursion |
+| Recursion Test | Declared contraction estimate and invariant complete domain | Fixed-point convergence where the hypotheses hold; \( \rho \) remains a separate weight |
 | Spectral Ratio Test | \( \lambda_i/\lambda_j \in \mathbb{Q} \) | C₇ Consonance |
 | Bridge Test | \( \Delta \leq \varepsilon \) | Bridging Law validated |
 | Invariant Test | \( \Delta\mathcal{I} \leq \varepsilon \) | Coherence conserved |
@@ -1628,8 +1624,7 @@ When boundary leaks → entropic recursion (E₁₄).
 \lim_{t\to\infty}^{\backsim} \phi(t) = \phi^*
 \]
 
-where \( \phi^* = \) centropic fixed point if \( \gamma > 0 \).  
-If \( \gamma \leq 0 \Rightarrow \) entropic divergence.
+The displayed fixed-point limit belongs to a declared contraction self-map on a complete invariant metric or normed domain. Its realization for this cognitive trajectory remains held open pending those hypotheses. The former coefficient-only conditions \( \gamma>0 \) for convergence and \( \gamma\leq0 \) for divergence are superseded; \( \gamma \) retains its contraction-gap function.
 
 ---
 
@@ -1641,7 +1636,7 @@ If \( \gamma \leq 0 \Rightarrow \) entropic divergence.
 | \( \int_{\text{◎}} \) | Structural Integral | Memory or comprehension |
 | \( \lim_{t\to\infty}^{\backsim} \) | Spiral Limit | Cognitive outcome |
 | \( \sigma \) | Seal Parameter | Boundary integrity |
-| \( \gamma \) | Recursion Coefficient | Stability of loops |
+| \( \gamma \) | Contraction Gap | Mapping-specific contraction estimate |
 
 **Lawful cognition:** \( \sigma > 0, \gamma > 0, \partial_{\text{🌀}} \) harmonized, \( \int_{\text{◎}} \) large.  
 **Entropic cognition:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) open-loop recursion.
@@ -2082,7 +2077,7 @@ Only coherence transcends procession.
 | Coherence Index | \( C_f \) | \( [0,1] \) | \( \geq 0.9 \) |
 | Resonance Flux | \( F_c \) | \( \geq 0 \) | Positive |
 | Seal Integrity | \( S\psi \) | \( = \psi \) | Unbroken |
-| Recursive Stability | \( \gamma \) | \( (0,1] \) | Contractive |
+| Recursive Stability | \( \gamma \) | \( (0,1] \) | Contraction gap; fixed-point conclusions retain their map and domain hypotheses |
 | Boundary Porosity | \( \sigma \) | \( (0,1] \) | Controlled permeability |
 | Authorship Verification | \( h(\text{hash}) \) | Fixed | Timestamp confirmed |
 

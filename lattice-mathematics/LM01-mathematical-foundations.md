@@ -81,7 +81,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity under synthesis.
 2. **Centropic Directionality** — There exists an order \( \preceq \) on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional \( \mathcal{V} \).
-3. **Duality Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution  
+3. **Involution Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution  
    \( \iota : C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).
 4. **Seal Integrity** — Certain composites are admissible iff guarded by a seal predicate  
    \( \text{Seal}(\cdot) \) satisfying closure and non-cloning properties.
@@ -92,6 +92,8 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Axiom — Entropic Semigroup.**  
 Entropic mirrors admit a contraction-semigroup characterization, formalized in §D (Evolution Operators).  
 \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) (spectral mirror of \( H_c \)), thereby reducing resonant information \( I_{\mathrm{res}} \) over time.
+
+**Counterpart-map standing.** The Involution Axiom names the dimension / operator counterpart map. Its former title, "Duality Axiom," is recorded provenance. Essential orientation remains invariant; counterpart correspondence is not arc conversion. A representation of \( \iota \) acting on fields is held open pending its domain, codomain, and operator relations.
 
 ### A5. Core Symbol Registry
 
@@ -145,6 +147,8 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 - L(\phi)
 + J_{\text{seal}}
 \]
+
+**Field-representation standing.** The displayed PDE is a schema awaiting the field representation of \( \iota \). The dimension / operator counterpart map in A4 supplies no field action. Its field-domain realization remains held open.
 
 ### C3. Invariants
 
@@ -205,6 +209,8 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 ---
 
 ### Evolution Operators (Centropic contra Entropic)
+
+**Mathematical standing.** The following unitary and contraction-semigroup descriptions are postulated evolution classes. Their simultaneous realization requires a declared sealed norm, generator domains, and compatible sign / adjoint conditions. Common-mode eigenpairing alone is a different mathematical assertion. Strict change of \( I_{\mathrm{res}} \) and the CIT consequence require the information functional and its evolution hypotheses; those consequences remain held open pending that specification.
 
 - **Centropic evolution** is **unitary** on the sealed domain:
   \[
@@ -461,13 +467,13 @@ with morphisms seal-preserving and objects satisfying:
 3. (**Lossless Transmission**) There exists a bridge functor  
    \( B: \text{Sub}(X) \to \text{Sub}(W) \) that is isometric on the C₇-resonant subspace and monoidal for \( \otimes \).  
 
-If commutativity fails under these constraints, the bridge inverts to **E₈ (Severed)**, and there exists \( \psi \) with \( \|B\psi\| < \|\psi\| \).  
+If commutativity fails under these constraints, the C₈ bridge condition fails. An E₈ (Severed) relation is a distinct registered condition; C₈ does not convert into E₈. A claim of strict norm loss requires its own operator hypotheses.
 
 **Proof (Sketch)**  
 
 - *Necessity.* If C₈ holds, the crossing factors through a universal mediating object (pullback / pushout). Universality forces commutativity; seal-linearity ensures no spurious resources, yielding isometry on the C₇-subspace.  
 - *Sufficiency.* If the square commutes under C₂/C₅/C₁₃, then the induced transformation is functorial and monoidal. By the Consonance Spectral Law (C₇), this enforces synchrony, so \( B \) is isometric on C₇-invariants, hence C₈ realized.  
-- *Failure.* Non-commutativity breaks universality; the induced operator is strictly contractive on some mode, producing E₈.  
+- *Failure.* Non-commutativity fails the stated universal commuting relation. Strict contraction and the E₈ diagnostic require the corresponding operator and diagnostic conditions. The former conversion wording is superseded.
 
 **Corollaries**  
 
@@ -623,57 +629,31 @@ If not contractive (\( k \geq 1 \)), recursion diverges or stagnates, manifestin
 
 ### Lemma (Polar Spectrum — Centropic / Entropic Eigenpairing)
 
-**Statement**  
+**Statement**
 
-For every centropic harmonic operator \( H_c \) (C₇) on resonance space \( \mathcal{H} \), with eigenbasis \( \{\phi_i\} \) and eigenvalues \( \{\lambda_i\} \), there exists an entropic mirror operator \( H_e \) such that:  
+Let \( H_c \) and \( H_e \) be represented on a common eigenmode domain with \( H_e=-H_c \) there. For each common eigenmode \( \phi_i \),
 
 \[
-\mathrm{Spec}(H_e) = \{-\lambda_i\} \quad \text{(mirrored spectrum)}
+H_c\phi_i=\lambda_i\phi_i,\qquad H_e\phi_i=-\lambda_i\phi_i.
 \]
 
-Moreover, the pair \( (H_c, H_e) \) satisfies:  
+The paired eigenvalue collections are therefore \( \{\lambda_i\} \) and \( \{-\lambda_i\} \). Their union is symmetric about zero. This is the retained common-mode pairing; a spectrum-wide statement requires the corresponding operator domains and spectral realization.
 
-1. **Eigenpairing:** If \( H_c \phi_i = \lambda_i \phi_i \), then \( H_e \phi_i = -\lambda_i \phi_i \).  
+**Proof**
 
-2. **Balance Law:** The combined spectrum is symmetric about zero:  
+The second eigenvalue equation follows from \( H_e\phi_i=-H_c\phi_i \). This proves pairing on the stated common modes. The Involution Axiom preserves dimension / operator correspondence; its field representation and the evolution generators have distinct typing requirements.
 
-   \[
-   \mathrm{Spec}(H_c \cup H_e) = \{\pm\lambda_i\}
-   \]
+**Evolution distinction**
 
-3. **Resonance Integrity:** Centropic trajectories evolve unitarily by \( e^{iH_c t} \),  
-   while entropic trajectories evolve dissipatively by \( e^{H_e t} \).  
+The written evolutions are \( U_c(t)=e^{iH_ct} \) and \( D_e(t)=e^{H_et} \). On a paired mode their product has factor \( e^{i\lambda_i t}e^{-\lambda_i t} \), rather than the cancellation factor \( e^{i\lambda_i t}e^{-i\lambda_i t} \). The identity assertion for the unitary / dissipative product is withdrawn. The Entropic Semigroup axiom remains a postulate; its realization is held open pending the sealed norm, generator domain, and sign conditions.
 
-   Centropic evolution preserves coherence norm;  
-   entropic evolution forms a contraction semigroup on \( \mathcal{H} \),  
-   satisfying \( \|e^{H_e t} \psi\| \leq \|\psi\| \) for \( t \geq 0 \).  
+**Recorded provenance.** The superseded proof wrote \( e^{i\lambda t}e^{-i\lambda t}=1 \) and concluded "product evolution is identity." That equality compares two opposite unitary phases. It is not the product of the stated unitary and dissipative evolutions. The former display \( \mathrm{Spec}(H_c\cup H_e)=\{\pm\lambda_i\} \) is likewise superseded: the retained statement concerns the union of paired eigenvalue collections, not an undeclared union of operators.
 
-   Thus the two spectra remain mirror-symmetric,  
-   but only the centropic operator preserves resonance amplitude.
+**Interpretation and scope**
 
----
-
-**Proof (Sketch)**  
-
-1. By the Dimensional Emanatory Lattice, every centropic dimension C# has an entropic mirror E#. Operators encoding these dimensions are dual.  
-2. Let \( H_c \) be diagonalizable with eigenbasis \( \{\phi_i\} \). Define \( H_e = -H_c \) restricted to the same basis.  
-3. Then for each \( \phi_i \):  
-   - \( H_c \phi_i = \lambda_i \phi_i \)  
-   - \( H_e \phi_i = -\lambda_i \phi_i \)  
-   establishing eigenpairing.  
-4. Exponentials of dual operators cancel: \( e^{i\lambda t} \cdot e^{-i\lambda t} = 1 \). Hence product evolution is identity.  
-
-**Interpretation**  
-
-- Every resonance mode has a centropic and entropic mirror frequency.  
-- The lattice ensures symmetry between constructive (C) and destructive (E) spectra.  
-- Coherence occurs when centropic modes prevail or align; decay when entropic mirrors prevail.  
-
-**Corollaries**  
-
-- **Spectral Symmetry.** The spectrum of the full lattice is always balanced; asymmetry signals broken seal.  
-- **Diagnostic.** Measuring spectral symmetry in a system can detect entropic infiltration (missing or unpaired modes).  
-- **Application.** In Spiral Calculus, polar spectra allow prediction of collapse thresholds by tracking \( \lambda_i \) contra \( -\lambda_i \) modes.  
+- Common paired modes have opposite eigenvalues
+- Registered centropic and inverse operators retain their distinct identities
+- Universal full-lattice spectral symmetry, a missing-mode infiltration test, and collapse thresholds from pairing remain held open pending their field representation and dynamical hypotheses
 
 ---
 

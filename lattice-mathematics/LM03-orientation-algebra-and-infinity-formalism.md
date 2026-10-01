@@ -336,7 +336,7 @@ Pure centropic or entropic motion is logically admissible but exceedingly rare �
 
 **Definition (Effective Operator):**
 
-Let \( H_c \) and \( H_e \) be the centropic and entropic harmonic operators with spectra satisfying the Polar Spectrum Lemma (LM01):
+Let \( H_c \) and \( H_e \) have the common-mode representation \( H_e=-H_c \) on the eigenmodes in §4.2. The corresponding spectral relation, when the full operator domains realize that relation, is:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -1064,7 +1064,7 @@ The contra-biospiral pairing (§5.4) defines an involutive functor on \( \chi \)
 \iota : F_\chi \mapsto F_{1/\chi}
 \]
 
-satisfying \( \iota \circ \iota = \text{id} \), consistent with the Duality Axiom (LM01, A4.3).
+satisfying \( \iota \circ \iota = \text{id} \), consistent with the Involution Axiom (`LM01-mathematical-foundations.md`, A4.3). This indexed-family relation requires its stated categorical realization; the dimension counterpart map alone supplies no functor on fields.
 
 ### 11.4 Dimensional Lattice
 

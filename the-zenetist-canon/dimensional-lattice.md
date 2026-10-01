@@ -53,13 +53,15 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 
 **Axiom 2 (Centropic Directionality):** There exists partial order \( \preceq \) on states where centropic motion is monotonic with respect to Lyapunov-like functional \( \mathcal{V} \).
 
-**Axiom 3 (Polarity):** Each centropic dimension Cᵢ has entropic mirror Eᵢ with involution \( \iota: C_i \leftrightarrow E_i \) satisfying \( \iota \circ \iota = \mathrm{id} \).
+**Axiom 3 (Involution Axiom):** Each centropic dimension Cᵢ has entropic mirror Eᵢ with involution \( \iota: C_i \leftrightarrow E_i \) satisfying \( \iota \circ \iota = \mathrm{id} \).
 
 **Axiom 4 (Seal Integrity):** Composites are admissible iff guarded by seal predicate \( \mathrm{Seal}(\cdot) \) with closure and no-cloning properties.
 
 **Axiom 5 (Recursion Gate):** Feedback operators must satisfy contractiveness in sealed metric space \( (X, d_{\mathrm{seal}}) \).
 
 **Axiom 6 (Entropic Semigroup):** Entropic evolution forms strongly continuous contraction semigroup \( \{D_e(t)\}_{t \geq 0} \) with generator \( H_e \) reducing resonant information over time.
+
+**Recorded provenance.** "Axiom 3 (Polarity)" is the superseded title of the counterpart-map axiom. The map relates registered dimension / operator counterparts; it is not an orientation conversion or a field-evolution identity.
 
 ### 2.2 Dimensional Registry
 
