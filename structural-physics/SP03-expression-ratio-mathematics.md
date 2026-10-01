@@ -84,7 +84,7 @@ Structural Physics operates within four fundamental domains:
 The pre-hypostatic requisites are not hypostases but **structural conditions** that make hypostatic expression possible:
 
 - **Supra-L₀** — The Unknown Principle; trans-structural ground beyond emanation, causality, and awareness
-- **L₀** — Bifurcal root containing Absolute Potential (stillness at the origin) and Absolute Dispersion (motive possibility)
+- **L₀** — Bifurcal root-register: Absolute Potential names Aion; Absolute Dispersion retains Khaon's registered whole-name across its phases. Motive possibility belongs specifically to Khaon's Motive phase
 
 These requisites do not constitute expressed layers of being. They are the **conditions of possibility** for expression itself.
 
