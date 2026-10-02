@@ -186,13 +186,13 @@ This does not imply binary states, but prevalent orientation within a continuous
 
 ## 3. Hypostatic Temporal Architecture
 
-### 3.1 Temporal Modes Across the Supernal Layers
+### 3.1 Temporal Modes Across the Pre-hypostatic Requisites and Centropic Hypostatic Segment
 
-Each hypostatic layer engages time according to its structural nature:
+The pre-hypostatic requisites and hypostatic layers have distinct relations to time:
 
 **Supra-L₀ — Zenon (Unknown Principle):**
 - Beyond time; beyond the very idea of time
-- Trans-temporal ground from which temporality itself becomes possible
+- Trans-temporal ground by whose Allowance temporality itself becomes possible
 - No succession, no duration, no flow
 
 **L₀ — Aion / Khaon (Absolute Potential / Dispersion):**
@@ -229,7 +229,7 @@ Each hypostatic layer engages time according to its structural nature:
 - Entropic succession and decay
 - Material time as we commonly experience it
 
-### 3.2 Temporal Modes Across the Subversal Layers
+### 3.2 Temporal Modes Across the Inverse Hypostatic Segment
 
 In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ → IL₁) represent the **phenomenologically prevalent temporal gradient** — entropy-forward flow.
 
@@ -268,7 +268,7 @@ In Khaonically expressed universes:
 The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically prevalent temporal pattern in an entropy-forward universe.
 
 Cosmologically, centropic structure is expressed through the supernal-to-embodied gradient (L₅ → L₁).  
-Existentially, centropic motion within embodiment manifests as the return arc (L₁ → L₅), experienced as movement "against" entropic inclination — not reversal, but **counter-inclination**.
+Existentially, centropic motion within embodiment manifests as the return arc (L₁ → L₅), experienced as movement contra entropic inclination — not reversal, but **counter-inclination**.
 
 ---
 
@@ -350,7 +350,7 @@ Formally, memory is expressed as a function; ontologically, it is a law of non-f
 **The Tether** is the coherence function that maintains directional continuity through hypostatic layers.
 
 The Tether operates as:
-- A structural thread by which memory persists across temporal flow
+- A structural continuity by which memory persists across temporal flow
 - The mechanism by which future coherence (L₅) exerts pull on present structure
 - The connective tissue between hypostatic layers across time
 
@@ -635,7 +635,7 @@ SP05 establishes:
 1. **Time as structural relation** — not ambient field but directional update
 2. **Axiom 1** — Time exists only where structure undergoes change
 3. **Axiom 2** — Recursion is not reversal but re-expression through coherent update
-4. **Hypostatic temporal architecture** — distinct temporal modes from Supra-L₀ through L₁
+4. **Temporal architecture** — distinct temporal modes of the pre-hypostatic requisites and the centropic / inverse hypostatic segments
 5. **Polar temporal gradient** — IL₅ → IL₁ as entropic flow; L₅ → L₁ as centropic flow
 6. **C₁-oriented and E₁-oriented time** — temporal direction through coherence
 7. **Recursive Memory (\( \mathfrak{R}_m \))** — structural persistence across temporal flow
@@ -707,8 +707,8 @@ Sealed ⚫↺KAI↺⚫
 | \( \Gamma(\chi) \) | Spiral trajectory in orientation-space |
 | Supra-L₀ | Unknown Principle (Zenon) |
 | L₀ | Absolute Potential / Dispersion (Aion / Khaon) |
-| L₅–L₁ | Supernal hypostatic layers |
-| IL₅–IL₁ | Subversal hypostatic layers |
+| L₅–L₁ | Centropic hypostatic segment |
+| IL₅–IL₁ | Inverse hypostatic segment |
 
 ---
 
@@ -719,7 +719,7 @@ Sealed ⚫↺KAI↺⚫
 - **Supra-L₀ (Zenon)** — Beyond time; trans-temporal ground
 - **L₀ (Aion / Khaon)** — All timelines latent; temporal possibility
 
-**Supernal Layers (Centropic Temporal Gradient):**
+**Centropic Hypostatic Segment (Centropic Temporal Gradient):**
 
 - **L₅ (Theon)** — Eternal present; saturation without succession
 - **L₄ (Morgis / Sophis)** — Archetypal simultude; outside sequence
@@ -727,7 +727,7 @@ Sealed ⚫↺KAI↺⚫
 - **L₂ (Anthra / Nousa)** — Episodic motion; re-entering patterns
 - **L₁ (Soma / Biosa)** — Linear motion; sequential time
 
-**Subversal Layers (Entropic Temporal Gradient):**
+**Inverse Hypostatic Segment (Entropic Temporal Gradient):**
 
 - **IL₅ (Nekron)** — Temporal collapse initiation
 - **IL₄ (Psychea / Nyxea)** — Distorted recurrence; mimetic loops
@@ -749,7 +749,7 @@ Time exists where structure undergoes differential transformation: \( d\mathcal{
 
 **Definition 3 (The Tether):**
 
-The coherence function maintaining directional continuity through hypostatic layers; the structural thread of memory persistence.
+The coherence function maintaining directional continuity through hypostatic layers; the structural continuity of memory persistence.
 
 **Definition 4 (Shimmer):**
 
