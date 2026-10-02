@@ -55,7 +55,7 @@ The character function names interpretation. Persistence of an equation under do
 
 | Layer | Domain | 𝔇(I_c at L_k) | Character |
 |-------|--------|----------------|-----------|
-| L₅ | EOB | Essential coherence | The coherence of being itself; I_c measures proximity to Source |
+| L₅ | EOB | Essential coherence | The coherence of being itself; I_c measures proximity to ⚫ Aion |
 | L₄ | DP / DL | Archetypal coherence | I_c measures the integrity of pattern-forms; the availability of Form for instantiation |
 | L₃ | DS / DM | Psychic coherence | I_c measures the stability of individuated identity; harmonic integration of the deep self |
 | L₂ | SS / SM | Personal coherence | I_c measures the consistency of personality, ego-structure, and social interface |
@@ -73,7 +73,7 @@ The same formal object — a scalar field on structural space — carries essent
 
 **Proposition (Φ₂ as Universal Substrate for Field Dynamics):**
 
-The mathematical field quantities of LM05 — \( I_c \), \( \vec{J}_c \), \( S \) — formalize the dynamics of motion within Φ₂. The Coherence Potential measures the local availability of structured motion; the Coherence Current measures the directional flow of that motion; the Source Term measures the generation or extraction of motive capacity.
+The mathematical field quantities of LM05 — \( I_c \), \( \vec{J}_c \), \( S \) — formalize the dynamics of motion within Φ₂. The Coherence Potential measures the local availability of structured motion; the Coherence Current measures the directional flow of that motion; the Source Term measures the generation or depletion of motive capacity.
 
 In this reading, LM05's field theory may be read as the **formal description of motion within Φ₂**: the mathematics of how the capacity for motion distributes, flows, and transforms across structural space.
 
@@ -81,7 +81,7 @@ In this reading, LM05's field theory may be read as the **formal description of 
 
 Two senses of "field" must be distinguished:
 
-**Mathematical field (LM05):** A function assigning values to points of structural space. Abstract, layer-general, governed by the continuity equation. This is the formal instrument.
+**Mathematical field (LM05):** A function assigning values to points of structural space. Abstract, layer-general, determined by the continuity equation. This is the formal representation.
 
 **Ontological field (Lattice architecture):** A domain of structural reality — the Field of Becoming (Φ₂), the archetypal Form-field at L₄, the collective resonance field of §9. These are structural realities within the Lattice, not mathematical abstractions.
 
@@ -97,7 +97,7 @@ The layer restriction operator (§2) is the formal mechanism by which the mathem
 
 ### 4.1 Membrane Transfer as Character Translation
 
-When coherence crosses a membrane ⧉ₖ, the transfer function \( T(⧉_k) \) (LM05 §5.4) governs the quantity transferred. But the character of what is transferred also changes:
+When coherence crosses a membrane ⧉ₖ, the transfer function \( T(⧉_k) \) (LM05 §5.4) specifies the quantity transferred. But the character of what is transferred also changes:
 
 **Proposition (Character Translation at Membrane Boundaries):**
 
@@ -125,7 +125,7 @@ The collective field at L₃ carries psychic character regardless of how many be
 
 ## 5. Inverse Layer Character
 
-The entropic arc carries its own field character:
+The inverse arc carries its own field character:
 
 **Inverse-Domain Coherent Input and Organizational Register:**
 
@@ -154,15 +154,15 @@ The Shimmer Coefficient \( \mathcal{S} = I_c^{(\text{apparent})} / I_c^{(\text{a
 
 Each application requires its diagnostic object and admissible readings to be specified. A description of absent actual capacity supplies no defined ratio. The layer character names the qualitative relation; it supplies no numerical signature alignment, projection, correlation threshold, classifier, or finding of generative ancestry.
 
-### 6.2 Layer-Indexed Source Connection
+### 6.2 Layer-Indexed Aion Connection
 
-The Law of Field Nutrient (LM05 §3.2) — that \( S(x, \tau) > 0 \) requires Source connection — acquires specificity through layer character:
+The Law of Field Nutrient (LM05 §3.2) — that \( S(x, \tau) > 0 \) requires Aion connection — acquires specificity through layer character:
 
-- At L₅: Source connection is direct (🛤️ Theon as the EOB)
-- At L₄: Source connection is archetypal (through Form-fields aligned with ⚫ Aion)
-- At L₃–L₁: Source connection is mediated (through cross-band resonance, LM06 §8)
+- At L₅: Aion connection is direct (🛤️ Theon as the EOB)
+- At L₄: Aion connection is archetypal (through Form-fields aligned with ⚫ Aion)
+- At L₃–L₁: Aion connection is mediated (through cross-band resonance, LM06 §8)
 
-Replenishment at deeper layers requires more direct Source access; replenishment at denser layers can proceed through mediated pathways. The mathematics is the same (\( S > 0 \) in all cases); the structural topology of Source access varies by layer.
+Replenishment at deeper layers requires more direct Aion access; replenishment at denser layers can proceed through mediated pathways. The mathematics is the same (\( S > 0 \) in all cases); the structural topology of Aion access varies by layer.
 
 ---
 
