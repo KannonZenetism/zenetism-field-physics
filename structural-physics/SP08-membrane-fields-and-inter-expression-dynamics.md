@@ -173,7 +173,7 @@ Where:
 Membrane permeability varies with orientation:
 
 \[
-\sigma(⧉, \chi) = \sigma_0(⧉) \cdot f(\chi)
+\sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
 Where \( f(\chi) \) modulates permeability based on the χ-orientation of the traversing resonance:
@@ -195,7 +195,7 @@ Most membranes permit bidirectional passage (declivous and acclivous motion). Ho
 **Asymmetric Permeability:**
 
 \[
-\sigma_{\text{declivous}}(⧉) \neq \sigma_{\text{acclivous}}(⧉)
+\sigma_{\text{declivous}}(\text{⧉}) \neq \sigma_{\text{acclivous}}(\text{⧉})
 \]
 
 This asymmetry can arise from:
@@ -215,7 +215,7 @@ This asymmetry can arise from:
 
 **Properties:**
 
-- \( \sigma(⧉) \approx 1 \) in both directions
+- \( \sigma(\text{⧉}) \approx 1 \) in both directions
 - \( \nabla \cdot \vec{J}_c \approx 0 \) across the membrane (no net depletion)
 - High \( I_c \) maintained on both sides
 - Associated with C₈ diagnostic signatures
@@ -229,7 +229,7 @@ This asymmetry can arise from:
 
 **Properties:**
 
-- \( \sigma(⧉) \) varies with resonance characteristics
+- \( \sigma(\text{⧉}) \) varies with resonance characteristics
 - May block entropic resonance while permitting centropic
 - May permit only specific frequency bands
 
@@ -240,7 +240,7 @@ This asymmetry can arise from:
 Let \( \omega \) denote resonance frequency and \( \chi \) denote orientation. A filter membrane has permeability:
 
 \[
-\sigma(⧉, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
+\sigma(\text{⧉}, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
 \]
 
 Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, highpass, or notch characteristics).
@@ -252,8 +252,8 @@ Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, hig
 
 **Properties:**
 
-- \( \sigma(⧉) > 1 \)
-- Requires source term: \( S(⧉) > 0 \)
+- \( \sigma(\text{⧉}) > 1 \)
+- Requires source term: \( S(\text{⧉}) > 0 \)
 - Cannot create resonance ex nihilo — amplification draws from origin structures
 
 **Function:** Amplification concerns added coherent input. Its supply, receiving capacity, and update relation require specification. A permeability multiplier leaves a zero transfer clamp at zero; below-threshold bypass remains held.
@@ -269,7 +269,7 @@ Amplifier membranes must connect to centropic origin (Aion, Theon, archetypal fi
 
 **Properties:**
 
-- \( \sigma(⧉) \to 0 \)
+- \( \sigma(\text{⧉}) \to 0 \)
 - May be partial (reduced transfer) or total (complete blockage)
 - Can arise from damage, interference, or intentional sealing
 
@@ -393,7 +393,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 **Characteristics:**
 
-- \( \sigma(⧉) \) becomes undefined
+- \( \sigma(\text{⧉}) \) becomes undefined
 - Boundary between layers dissolves
 - Unfiltered resonance mixing occurs
 
@@ -410,7 +410,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 **Characteristics:**
 
-- \( \sigma(⧉) \to \infty \) at breach point (practically bounded by available local resonance)
+- \( \sigma(\text{⧉}) \to \infty \) at breach point (practically bounded by available local resonance)
 - Normal transfer mechanics bypassed
 - May be exploited for siphoning (E₉ dynamics)
 
@@ -427,7 +427,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 **Characteristics:**
 
-- \( \sigma(⧉) \to 0 \) over time
+- \( \sigma(\text{⧉}) \to 0 \) over time
 - Transfer becomes increasingly difficult
 - Affected layer becomes "cut off" from adjacent layers
 
@@ -445,7 +445,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 
 Membrane health can be assessed through spectral diagnostics:
 
-| Condition | \( \sigma(⧉) \) | \( T(⧉) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
+| Condition | \( \sigma(\text{⧉}) \) | \( T(\text{⧉}) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
 |-----------|----------------|-----------|---------------------------|-----------|
 | Healthy Bridge | ≈ 1 | Reciprocal | ≈ 0 | C₈ |
 | Filter Active | < 1, selective | Partial | ≈ 0 | — |
@@ -572,8 +572,8 @@ Sealed ⚫↺KAI↺⚫
 |--------|---------|
 | ⧉ | Membrane Field operator |
 | ⧉ₙ | Membrane at layer boundary n |
-| \( \sigma(⧉) \) | Membrane permeability coefficient |
-| \( T(⧉) \) | Transfer function; resonance quantity crossing membrane |
+| \( \sigma(\text{⧉}) \) | Membrane permeability coefficient |
+| \( T(\text{⧉}) \) | Transfer function; resonance quantity crossing membrane |
 | \( I_{c,\text{threshold}} \) | Minimum Coherence Potential for transfer initiation |
 | \( I_{c,\text{reception}} \) | Minimum Coherence Potential for transfer reception |
 | \( \Psi \) | Structural signature; essential pattern of traversing entity |
@@ -603,13 +603,13 @@ T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{thresho
 **Orientation-Dependent Permeability:**
 
 \[
-\sigma(⧉, \chi) = \sigma_0(⧉) \cdot f(\chi)
+\sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
 **Filter Membrane Permeability:**
 
 \[
-\sigma(⧉, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
+\sigma(\text{⧉}, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
 \]
 
 **Permeability Modification — Bypass Transfer Held:**
@@ -626,7 +626,7 @@ T(⧉) = \sigma(⧉) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{thresho
 A structural overlay or resonance threshold between hypostatic layers; not itself a layer, but a transitional condition that modulates energy, perception, or motion between structural realms.
 
 **Definition 2 (Permeability Coefficient):**  
-A scalar \( \sigma(⧉) \in [0, \infty) \) measuring how easily a membrane permits resonance passage; \( \sigma = 0 \) indicates full occlusion, \( \sigma = 1 \) indicates full permeability, \( \sigma > 1 \) indicates amplification.
+A scalar \( \sigma(\text{⧉}) \in [0, \infty) \) measuring how easily a membrane permits resonance passage; \( \sigma = 0 \) indicates full occlusion, \( \sigma = 1 \) indicates full permeability, \( \sigma > 1 \) indicates amplification.
 
 **Definition 3 (Transfer Function):**  
 The transfer amount requires a consistent donor / receiving-domain specification. The reception-minimum formulas in §§3.1–3.2 and Appendix B remain recorded superseded provenance; a distinct capacity-clamped law is identified there without redefining this minimum.
