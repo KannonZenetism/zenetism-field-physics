@@ -430,7 +430,7 @@ The membrane at ⧉₁ determines the threshold between L₂ (Superficial Band: 
 From SP08, membrane transfer follows:
 
 \[
-T(⧉_1) = \sigma(⧉_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
+T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
 \]
 
 At ⧉₁, the transfer mechanics have specific characteristics:
@@ -443,7 +443,7 @@ Cognitive-personal content translates into embodied action, sensation, and physi
 - Mental state becoming physiological condition
 - Cognitive pattern becoming habitual behavior
 
-The permeability \( \sigma(⧉_1) \) for declivous transfer is generally moderate — not all thought becomes action, not all cognition achieves physical expression. This selective permeability has a protective function: it prevents the full intensity of cognitive dynamics from overwhelming corporeal capacity.
+The permeability \( \sigma(\text{⧉}_1) \) for declivous transfer is generally moderate — not all thought becomes action, not all cognition achieves physical expression. This selective permeability has a protective function: it prevents the full intensity of cognitive dynamics from overwhelming corporeal capacity.
 
 **Acclivous Transfer (L₁ → L₂):**
 
@@ -655,8 +655,8 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{R}_{\text{interface}} \) | Interface resistance from centropic-entropic co-presence (significant only at L₁) |
 | \( \Delta I_c^{(\text{resistance})} \) | Coherence cost premium from the embodied resistance term |
 | \( \mathcal{F}_{L_1} \) | Composite field of dimensional operator dynamics at the Embodiment Band |
-| \( \sigma(⧉_1) \) | Permeability coefficient of the cognitive-to-embodied membrane |
-| \( T(⧉_1) \) | Transfer function at the cognitive-to-embodied membrane |
+| \( \sigma(\text{⧉}_1) \) | Permeability coefficient of the cognitive-to-embodied membrane |
+| \( T(\text{⧉}_1) \) | Transfer function at the cognitive-to-embodied membrane |
 | C₂ | Spatial; cohered extension; felt location (primary contribution in the L₁ model) |
 | C₄ | Rotational / Gyre; conserving turn; cyclical stability (primary contribution in the L₁ model) |
 | C₅ | Scalar / Part-Whole Fidelity; part reflecting whole (cross-band at L₁, spans L₁–L₄) |
@@ -723,7 +723,7 @@ I_{c,\text{cost}}^{(L_1)} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c
 **Membrane Transfer at ⧉₁:**
 
 \[
-T(⧉_1) = \sigma(⧉_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
+T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
 \]
 
 ---
