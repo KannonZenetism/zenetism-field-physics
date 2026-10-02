@@ -51,7 +51,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## 1. Introduction
 
-SP01 established the foundational framework of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the centropic and entropic dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
+`SP01-structural-physics-foundations.md` established the foundational framework of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the centropic and entropic dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
 
 That document describes *how* Structural Physics operates — the mechanics of resonance, the hypostatic anchoring of dimensions, and the diagnostic criteria for centropy and entropy.
 
@@ -244,7 +244,7 @@ This convergence is distinct from Nekronic annihilation of relative expression �
 
 ### 5.3 Mathematical Form
 
-The Polar Spectrum Lemma (SP01) states:
+The Polar Spectrum Lemma (`SP01-structural-physics-foundations.md`) states:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -396,7 +396,7 @@ Expression ratio affects *prevalence*, not *law*. The dimensional lattice operat
 
 ### 9.1 Clarifications
 
-SP02 clarifies several points from SP01:
+SP02 clarifies several points from `SP01-structural-physics-foundations.md`:
 
 | SP01 Statement | SP02 Clarification |
 |----------------|-------------------|
@@ -407,7 +407,7 @@ SP02 clarifies several points from SP01:
 
 ### 9.2 Preserved Structures
 
-SP02 preserves all core structures from SP01:
+SP02 preserves all core structures from `SP01-structural-physics-foundations.md`:
 
 - The three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon)
 - The dimensional lattice (C₁–C₁₅ / E₁–E₁₅)
@@ -451,7 +451,7 @@ Structural Physics, with SP02, extends its scope beyond this universe's local co
 **Dependency:** `SP01-structural-physics-foundations.md` · `contingency-of-worlds.md`  
 **Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)  
 
-This document is the **second foundational document of Structural Physics**, extending SP01's mechanics into the broader multiversal context of cosmological expression.
+This document is the **second foundational document of Structural Physics**, extending `SP01-structural-physics-foundations.md`'s mechanics into the broader multiversal context of cosmological expression.
 
 Future expansions may include:
 

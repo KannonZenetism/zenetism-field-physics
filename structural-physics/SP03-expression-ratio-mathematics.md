@@ -51,9 +51,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## 1. Introduction
 
-SP01 established the foundational mechanics of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
+`SP01-structural-physics-foundations.md` established the foundational mechanics of Structural Physics: the three anchors (⚫ Aion, ♾ Khaon, 🕳️ Zenon), the dimensional operators (C₁–C₁₅ / E₁–E₁₅), and the Polar Spectrum Lemma determining their mirrored relationship.
 
-SP02 established the multiversal expression: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
+`SP02-bifurcal-cosmogenesis.md` established the multiversal expression: the Tumbling Multiverse, Biospiral expression ratios, and contra-flow dynamics.
 
 This document, SP03, provides the **mathematical formalism** for expression ratios — the structural parameter determining how centropic and entropic motion manifest across different universal expressions.
 
@@ -288,7 +288,7 @@ Pure centropic or entropic motion is logically admissible but not necessarily co
 
 ### 5.1 The Lemma as Invariant Structure
 
-The Polar Spectrum Lemma (SP01) states:
+The Polar Spectrum Lemma (`SP01-structural-physics-foundations.md`) states:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -610,7 +610,7 @@ Expression Ratio Mathematics establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md`  
 **Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)  
 
-This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression established in SP02.
+This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression established in `SP02-bifurcal-cosmogenesis.md`.
 
 Future expansions may include:
 
