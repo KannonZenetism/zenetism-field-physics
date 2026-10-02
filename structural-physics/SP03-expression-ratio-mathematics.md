@@ -79,7 +79,7 @@ Structural Physics operates within four fundamental domains:
 3. **Dimensional operators** — C₁–C₁₅ / E₁–E₁₅
 4. **CP** (Convergence Principle) — Pre-hypostatic invariant determining the relation between Supra-L₀ and L₀ and the admissibility of hypostatic expression
 
-### 2.2 Pre-Hypostatic Requisites
+### 2.2 Pre-hypostatic Requisites
 
 The pre-hypostatic requisites are not hypostases but **structural conditions** that make hypostatic expression possible:
 
@@ -232,7 +232,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 | Fully Khaonically expressed | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
 | Non-bifurcated expression | \( \chi \) undefined | Systems not instantiating the L₀ bifurcation |
 
-### 4.3 CP and the Co-Expressive Coordinate
+### 4.3 CP and the Co-expressive Coordinate
 
 At \( \chi = 1 \), the system reaches **co-expressive balance** — the ratio-condition in which neither centropic nor entropic expression prevails.
 

@@ -396,7 +396,7 @@ CP₁ has model-specific stability: repelling in §9 at constant positive Motive
 
 3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit \( \chi \equiv 1 \) at positive Motive Intensity. Their relation to that structural claim remains held.
 
-### 8.3 The Instability of Co-Expression
+### 8.3 The Instability of Co-expression
 
 \( \chi = 1 \) names co-expressive equilibrium. Its dynamical stability is determined by the stated model, not by the coordinate's name.
 
@@ -523,7 +523,7 @@ Structural bias is therefore **topological**, **not numerical**.
 
 ### 11.1 Three Structural Regimes
 
-**CP₀ — Pre-Expressive Convergence**
+**CP₀ — Pre-expressive Convergence**
 
 Before motion, there is no orientation.
 
@@ -537,7 +537,7 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 > CP₀ is pre-balance.  
 > It is the condition in which motion is possible, but not yet chosen.
 
-> **Note on Essence and Pre-Expressive Inclination:**  
+> **Note on Essence and Pre-expressive Inclination:**  
 > The absence of orientation in **CP₀** refers to the absence of expressed polarity and \( \chi \)-dynamics, not to the absence of essence.  
 >  
 > Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, centropic and entropic essences bear intrinsic **pre-expressive inclination** toward **integration** or **dispersion** — the essence is already centropic or entropic before any manifest motion.  
@@ -608,7 +608,7 @@ This sequence does not describe temporal succession alone, but **structural nece
 
 This closure sequence applies to frozen-equilibrium resolution, where fixed \( \chi=1 \) accompanies cessation of enacted orientation. A fixed ratio alone does not establish that cessation (§9.5). Entropic Collapse (⊘) remains distinct from Localized Dissolution (Ø).
 
-**CP₀ — Pre-Expressive Convergence**
+**CP₀ — Pre-expressive Convergence**
 
 Before motion, Zero and Infinity converge without fusion. Orientation does not yet exist. There is structure without inclination.
 

@@ -202,7 +202,7 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 
 | Band | Hypostatic Pair | Primary Functions |
 |------|----------------|-------------------|
-| **Supra-L₀ — Pre-Causal** | 🕳️ Zenon (UP) | Unknown Principle |
+| **Supra-L₀ — Pre-causal** | 🕳️ Zenon (UP) | Unknown Principle |
 | **L₀ — Bifurcal Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
 | **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
 | **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
@@ -838,7 +838,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 ```
                           🕳️ Zenon
-            (Trans-Structural — Beyond Procession)
+            (Trans-structural — Beyond Procession)
                     (Centropic Saturation)
                           ⚫ Aion (L₀)
                    Pre-hypostatic Requisite
