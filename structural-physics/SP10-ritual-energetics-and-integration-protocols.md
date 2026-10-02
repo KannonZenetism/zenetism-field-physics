@@ -179,7 +179,7 @@ The seal establishes a localized membrane with specified permeability:
 \sigma_{\text{seal}}(\text{⧉}) = \sigma_{\text{design}} \cdot h(\chi_{\text{internal}}, \chi_{\text{external}})
 \]
 
-Where \( h \) is a function that modulates permeability based on the orientation of resonance attempting to cross the seal boundary — allowing compatible resonance through while blocking incompatible or hostile resonance. The orientation parameter \( \chi \) retains its specification from SP03–SP04: a dimensionless scalar ratio of entropic to centropic expression, with \( \chi < 1 \) centropic, \( \chi > 1 \) entropic, and \( \chi = 1 \) marking the co-expressive threshold.
+Where \( h \) is a function that modulates permeability based on the orientation of resonance attempting to cross the seal boundary — allowing compatible resonance through while blocking incompatible or hostile resonance. The orientation parameter \( \chi \) retains its specification from SP03–SP04: a dimensionless scalar ratio of entropic to centropic expression, with \( \chi < 1 \) centropic, \( \chi > 1 \) entropic, and \( \chi = 1 \) denoting the co-expressive threshold.
 
 **Internal Coherence Cycling:**
 
@@ -212,7 +212,7 @@ Field seals are classified by scope — from architecturally broad to situationa
 - Cost: Substantial initial discharge; low maintenance once established
 - Permeability: Selectively permeable — admits resonance that aligns with the framework's structural signature, impedes resonance that contradicts or corrupts
 
-**Example:** The Zenetist canonical seal (⚫↺KAI↺⚫) functions as an Architectural Seal — a coherence boundary around the entire framework that maintains structural integrity contra appropriation, corruption, or unauthorized modification.
+**Example:** The Zenetist canonical seal (⚫↺KAI↺⚫) functions as an Architectural Seal — a coherence boundary around the entire framework that maintains structural integrity contra appropriation, corruption, or modification without approval.
 
 > **Permeability Clarification:**  
 > Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or siphoning by which the taker fractures itself away from coherent relation with its origin; the origin and origin-signal remain intact. Selective permeability is structural discrimination, not graduated tolerance for counterfeiting.
@@ -470,9 +470,9 @@ From SP07 §5.3, Entropic Siphoning is parasitic siphoning of coherence without 
 A critical distinction holds for this entire section:
 
 > **Countermeasure Principle:**  
-> Siphoning countermeasures are **restorative and defensive**, not retaliatory. Centropic motion does not seek to fragment or destroy entropic systems — it seeks to preserve coherence, close unauthorized siphoning pathways, and restore structural integrity. The purpose of a countermeasure is protection, not punishment.
+> Siphoning countermeasures are **restorative and defensive**, not retaliatory. Centropic motion does not seek to fragment or destroy entropic systems — it seeks to preserve coherence, close parasitic siphoning pathways, and restore structural integrity. The purpose of a countermeasure is protection, not punishment.
 
-This is not a strategic concession. It is a structural necessity: retaliatory action against entropic systems requires adopting entropic orientation (\( \chi > 1 \)), which degrades the defender's own coherence. Effective defense maintains centropic orientation throughout.
+This is not a strategic concession. It is a structural necessity: retaliatory action directed at entropic systems requires adopting entropic orientation (\( \chi > 1 \)), which degrades the defender's own coherence. Effective defense maintains centropic orientation throughout.
 
 ### 5.2 Passive Defenses
 
@@ -739,7 +739,7 @@ Ritual action operates across hypostatic layers:
 
 - **L₅ / Theon**: origin attunement; the deepest replenishment pathways draw from essential coherence
 - **L₄ / Field of Forms**: Archetypal patterns inform ritual structure and seal design
-- **L₃ / Deep Psyche**: Where reflexive awareness directs intentional protocol; the seat of ritual agency
+- **L₃ (Deep Soul / Mind)**: Where reflexive awareness directs intentional protocol; the seat of ritual agency
 - **L₂ / Cognition**: Where protocol is articulated, sequenced, and monitored
 - **L₁ / Embodiment**: Where ritual intersects with physical action and embodied resonance
 

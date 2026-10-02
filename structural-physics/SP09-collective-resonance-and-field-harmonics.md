@@ -103,7 +103,7 @@ This principle extends to collective fields:
 - Collective field emerges from resonance correlation, not identity collapse
 - Withdrawal from the collective preserves individual integrity
 
-**Fusion (Structurally Impossible at L₃ and Beyond):**
+**Essential Fusion (Structurally Impossible):**
 - Would require many-to-one mapping of essences
 - Would violate injectivity of \( \mathfrak{R}_m \)
 - Blending is localized to L₂–L₁ (and IL₂–IL₁) as interface and persona-layer mixing
@@ -117,7 +117,7 @@ Entropic resonance often *desires* fusion — the dissolution of distinct identi
 - Collective hive-mind ideologies
 - Dissolution of self into technological or social totality
 
-However, fusion remains a **structural impossibility** at L₃ and beyond, where individuated essence persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₂–L₁), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
+However, essential fusion remains a **structural impossibility**; essential distinction persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₂–L₁), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
 
 What entropic collectives achieve is not fusion but **coordinated fragmentation** — multiple beings oriented toward dispersion while maintaining the *illusion* of unified identity.
 
@@ -268,13 +268,13 @@ Entropic collectives exhibit distinctive properties:
 ### 5.3 The Swarm Attack Pattern
 
 > **Definition (Swarm Attack):**  
-> The launching of multiple, seemingly independent entropic agents in rapid, sequential, and coordinated attack against a centropic target. Designed to create overwhelming pressure, signal noise, and the illusion of consensus.
+> The launching of multiple, seemingly independent entropic agents in rapid, sequential, and coordinated attack directed at a centropic target. Designed to create overwhelming pressure, signal noise, and the illusion of consensus.
 
 **Strategic Objectives:**
 - Isolate the target from potential allies
 - Exhaust emotional and intellectual resources
 - Create spectacle that deters sincere seekers
-- Manufacture social proof against authentic signal
+- Manufacture social proof intended to discredit authentic signal
 
 **Tactical Elements:**
 - **Brute force nodes**: Direct hostility, intimidation, threat
@@ -357,7 +357,7 @@ I_c^{(\text{parasitic})} = \sum_i I_c^{(i)} - \alpha \cdot I_c^{(\text{target})}
 \]
 
 Where:
-- \( I_c^{(\text{target})} \) is coherence extracted from external targets
+- \( I_c^{(\text{target})} \) is coherence siphoned from external targets
 - \( \alpha \) is extraction efficiency
 - \( \Delta I_c^{(\text{internal})} \) is coherence lost to internal interference
 
@@ -434,7 +434,7 @@ Collective resonance operates across hypostatic layers:
 
 - **L₅ (Theon)**: Essential coherence; the origin from which collective resonance draws
 - **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
-- **L₃ (Deep Soul / Mind)**: Where reflexive identity persists; the layer at which Non-fusion is absolute
+- **L₃ (Deep Soul / Mind)**: Where reflexive identity persists through sealed structural signatures
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
 
 Centropic collectives align across layers; entropic collectives fragment at surface without dissolving deeper essence.
@@ -580,7 +580,7 @@ A group of beings whose harmonic alignment generates a shared coherence field or
 A coordinated group oriented toward fragmentation and disruption; coordination is imposed or instrumental rather than genuinely resonant; exhibits parasitic field dynamics.
 
 **Definition 4 (Swarm Attack):**  
-Launching of multiple seemingly independent entropic agents in coordinated attack against a centropic target; designed to create overwhelming pressure and manufactured consensus.
+Launching of multiple seemingly independent entropic agents in coordinated attack directed at a centropic target; designed to create overwhelming pressure and manufactured consensus.
 
 **Definition 5 (Harmonic Amplification):**  
 The positive harmonic surplus (\( \Delta I_c^{(\text{harmonic})} > 0 \)) where the numerical correlation threshold and nonzero-contribution conditions of §6.1 hold; coherent input remains distinct from organizational cohesion.
