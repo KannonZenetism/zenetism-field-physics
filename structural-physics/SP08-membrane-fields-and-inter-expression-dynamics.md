@@ -76,7 +76,7 @@ Membranes are not themselves hypostases. They are **inter-hypostatic thresholds*
 
 ---
 
-## 2. The Membrane Operator (⧉)
+## 2. The Membrane Operator
 
 ### 2.1 Definition
 

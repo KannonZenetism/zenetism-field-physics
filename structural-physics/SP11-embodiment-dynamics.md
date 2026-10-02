@@ -416,7 +416,7 @@ This safeguards the lattice from becoming an intellectual trap. Sophistication m
 
 ---
 
-## 7. Membrane Dynamics at ⧉₁
+## 7. Membrane Dynamics at the Cognitive-Embodied Membrane
 
 ### 7.1 The Cognitive-to-Embodied Threshold
 
@@ -425,7 +425,7 @@ The membrane at ⧉₁ determines the threshold between L₂ (Superficial Band: 
 > **Definition (⧉₁ — Cognitive-Embodied Membrane):**  
 > The membrane field between L₂ and L₁, determining the transfer of resonance between cognitive-personal structures and corporeal expression. ⧉₁ determines what cognitive content achieves embodied expression and what embodied experience achieves cognitive integration.
 
-### 7.2 Transfer Mechanics at ⧉₁
+### 7.2 Transfer Mechanics at the Cognitive-Embodied Membrane
 
 From SP08, membrane transfer follows:
 
@@ -455,7 +455,7 @@ Embodied experience translates into cognitive-personal content. This pathway car
 
 The permeability for acclivous transfer is often asymmetric with declivous transfer — some beings experience high L₁→L₂ transfer (strong embodied awareness) but low L₂→L₁ transfer (difficulty translating intention into action), or vice versa.
 
-### 7.3 Embodied Recursion at ⧉₁
+### 7.3 Embodied Recursion at the Cognitive-Embodied Membrane
 
 From SP08 §6, membrane recursion forms when resonance does not fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied membrane recursion manifests as:
 
@@ -467,7 +467,7 @@ Unresolved integration patterns cycling between cognitive and embodied domains �
 
 Fragmentation patterns trapped at the cognitive-embodied interface — trauma encoding, compulsive behavioral loops, dissociative patterns that cycle without resolution. These are entropic in nature and require reorientation before release (SP10 §4.4 Step 3).
 
-### 7.4 Membrane Pathology at ⧉₁
+### 7.4 Membrane Pathology at the Cognitive-Embodied Membrane
 
 From SP08 §7, membranes may suffer collapse, breach, or occlusion. At ⧉₁:
 
