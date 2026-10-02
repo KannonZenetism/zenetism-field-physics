@@ -954,11 +954,24 @@ The single "a" follows the regular prefix form before a consonant, contra the do
 
 ### 21.20 **Veiling, Inversion and Revelation — Tracking the Metaphysics of Hidden Pattern, Entropic Distortion, and Moments of Coherent Disclosure**
 
-Surface expression is the observable presentation;
-operative configuration is what the configuration does;
-generative signature is the originating capacity responsible for the work.
-Resemblance, operative similarity, and generative ancestry remain distinct.
-The diagnostic relations that follow may co-occur; each is assessed through evidence for its own relation.
+**Surface expression**  
+is the observable presentation;  
+
+**operative configuration**  
+is what the configuration does;  
+
+**generative signature**  
+is the originating capacity  
+responsible for the work.  
+
+**Resemblance**, **operative similarity**,  
+and **generative ancestry**  
+remain distinct.  
+
+The diagnostic relations that follow  
+may co-occur;  
+each is assessed through evidence  
+for its own relation.  
 
 | Symbol | Name | Meaning |
 |---|---|---|
