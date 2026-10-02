@@ -107,11 +107,11 @@ The inverse lattice (IL₅–IL₁) possesses corresponding membranes with inver
 
 | Boundary | Membrane Designation | Function |
 |----------|---------------------|----------|
-| L₀ / IL₅ | ⧉_{IL₅} | Khaonic emergence membrane; first entropic threshold |
-| IL₅ / IL₄ | ⧉_{IL₄} | Nekronic-to-inverse-archetypal transition |
-| IL₄ / IL₃ | ⧉_{IL₃} | Inverse-archetypal-to-inverse-psychic transition |
-| IL₃ / IL₂ | ⧉_{IL₂} | Inverse-psychic-to-inverse-cognitive transition |
-| IL₂ / IL₁ | ⧉_{IL₁} | Inverse-cognitive-to-inverse-embodied transition |
+| L₀ / IL₅ | \( \text{⧉}_{IL_5} \) | Khaonic emergence membrane; first entropic threshold |
+| IL₅ / IL₄ | \( \text{⧉}_{IL_4} \) | Nekronic-to-inverse-archetypal transition |
+| IL₄ / IL₃ | \( \text{⧉}_{IL_3} \) | Inverse-archetypal-to-inverse-psychic transition |
+| IL₃ / IL₂ | \( \text{⧉}_{IL_2} \) | Inverse-psychic-to-inverse-cognitive transition |
+| IL₂ / IL₁ | \( \text{⧉}_{IL_1} \) | Inverse-cognitive-to-inverse-embodied transition |
 
 ### 2.3 Membrane as Non-Hypostatic Structure
 
