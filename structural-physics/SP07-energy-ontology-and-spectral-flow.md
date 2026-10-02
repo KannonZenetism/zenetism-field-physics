@@ -152,7 +152,7 @@ Resonance is not uniform across layers:
 - **L₅–L₄**: High-density resonance fields; archetypal and essential coherence
 - **L₃–L₂**: Variable resonance; dependent on integration and attunement
 - **L₁ / IL₁**: Embodied resonance; intersection with physical energy dynamics
-- **IL₂–IL₅**: Degraded or inverted resonance; entropic depletion zones
+- **IL₅–IL₂**: Degraded or inverted resonance; entropic depletion zones
 
 Motion across layers requires resonance transfer — coherence must be available at each threshold for traversal to occur.
 

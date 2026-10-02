@@ -225,7 +225,7 @@ Where \( f \) represents the primary contributions within this embodied model (s
 
 From SP04, every expressed universe exists as a \( \chi \)-trajectory, not a fixed position. At the metric terminus, the orientation field \( \chi \) acquires its most consequentially manifest expression.
 
-At L₂–L₅, \( \chi \) determines structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) determines dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
+At L₅–L₂, \( \chi \) determines structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) determines dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
 
 The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull toward coherence, synthesis, and Aion-oriented motion. The entropic being at IL₁ experiences \( \chi > 1 \) as the dispersive drive toward fragmentation, coercion, and self-edification.
 

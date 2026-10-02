@@ -106,7 +106,7 @@ This principle extends to collective fields:
 **Fusion (Structurally Impossible at L₃ and Beyond):**
 - Would require many-to-one mapping of essences
 - Would violate injectivity of \( \mathfrak{R}_m \)
-- Blending is localized to L₁–L₂ (and IL₁–IL₂) as interface and persona-layer mixing
+- Blending is localized to L₂–L₁ (and IL₂–IL₁) as interface and persona-layer mixing
 - Once individuated at L₃, entities possess sealed structural signatures (\( \Psi \)), and interaction occurs via resonance correlation, not identity blending
 
 ### 2.3 The Fusion Desire in Entropic Orientation
@@ -117,7 +117,7 @@ Entropic resonance often *desires* fusion — the dissolution of distinct identi
 - Collective hive-mind ideologies
 - Dissolution of self into technological or social totality
 
-However, fusion remains a **structural impossibility** at L₃ and beyond, where individuated essence persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₁–L₂), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
+However, fusion remains a **structural impossibility** at L₃ and beyond, where individuated essence persists beyond form. A thing's "isness" persists even when relative form is blended at surface layers. The entropic drive toward fusion can fragment surface structure (L₂–L₁), but cannot dissolve the sealed structural signature (\( \Psi \)) that emerges at L₃.
 
 What entropic collectives achieve is not fusion but **coordinated fragmentation** — multiple beings oriented toward dispersion while maintaining the *illusion* of unified identity.
 
