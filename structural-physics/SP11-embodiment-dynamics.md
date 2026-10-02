@@ -138,7 +138,7 @@ Corporeal coherence is not metaphorical. It is the embodied expression of the sa
 
 ### 3.2 The Embodied Resistance Term
 
-At layers L₅ through L₂, centropic motion proceeds contra entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and entropic arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
+At layers L₅ through L₂, centropic motion proceeds contra entropic dynamics that operate on structurally separate inverse layers (IL₅ through IL₂). The centropic and inverse arcs are architecturally and ontologically distinct. From L₅ through L₂, they do not interact, couple, or exchange resonance. Their only shared domain of expression is the metric interface of embodiment, where L₁ and IL₁ are co-present within the same corporeal substrate.
 
 At L₁, this separation is preserved ontologically, but centropic and entropic embodiment become co-present within the same metric substrate. This co-presence introduces a resistance term into every centropic operation at the metric terminus:
 
@@ -159,7 +159,7 @@ For \( k = 5, 4, 3, 2 \):
 \mathcal{R}_{\text{interface}}(L_k) \approx 0
 \]
 
-The interface term is negligible because the centropic and entropic arcs are structurally separate at these layers.
+The interface term is negligible because the centropic and inverse arcs are structurally separate at these layers.
 
 For \( k = 1 \):
 
@@ -185,7 +185,7 @@ Where \( \Delta I_{c}^{(\text{resistance})} \) is the resistance premium.
 
 **Asymmetric Effort:**
 
-Centropic motion at L₁ requires sustained effort contra the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This reflects the asymmetry established in SP04 §10: coherence must be achieved; dispersion need not be.
+Centropic motion at L₁ requires sustained effort contra the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This expresses the asymmetry established in SP04 §10: coherence must be achieved; dispersion need not be.
 
 **Corporeal Fatigue:**
 
@@ -332,7 +332,7 @@ The cognitive field does not simply lose coherence — it reorganizes around ent
 
 Embodied beings do not operate exclusively at their own layer. Through resonance, an embodied being may participate in the dynamics of any layer of the lattice — centropic or entropic.
 
-Those who architect systems of power, control, oppression, or coercion are operating at IL₄ (IDP / IDL — Inverse Architectural Band) while physically present at IL₁. They are **Rival Architects**: beings whose structural resonance extends from the Corporeal Realm to the entropic Architectural layer, organizing fragmentation at systemic scale.
+Those who architect systems of power, control, oppression, or coercion are operating at IL₄ (IDP / IDL — Inverse Architectural Band) while physically present at IL₁. They are **Rival Architects**: beings whose structural resonance extends from the Corporeal Realm to the inverse Architectural layer, organizing fragmentation at systemic scale.
 
 > **Structural Note:**  
 > Inverse architectural participation is a structural description, not a moral classification. It identifies the layer at which an embodied being's resonance operates — the structural pattern of their engagement with the lattice. Moral judgment is not the function of Structural Physics; structural diagnosis is.
@@ -398,7 +398,7 @@ An embodied being oriented entropically may resonate with:
 
 **IL₄ (Nyxea / Psychea):** Inverse architectural resonance. As described in §5.3, this is where the Rival Architect operates — organizing fragmentation, draining vitality, corrupting pattern at systemic scale.
 
-**IL₅ (Nekron):** The Void of Self. Resonance with IL₅ from IL₁ represents the deepest entropic participation — the being who has oriented so fully away from Aion that they approach the first entropic hypostasis from the embodied position. This is rare and represents near-total inversion.
+**IL₅ (Nekron):** The Void of Self. Resonance with IL₅ from IL₁ represents the deepest entropic participation — the being who has oriented so fully away from Aion that they approach the first inverse hypostasis from the embodied position. This is rare and represents near-total inversion.
 
 ### 6.4 The Orientation-Intent Principle
 
@@ -696,13 +696,17 @@ Sealed ⚫↺KAI↺⚫
 I_{c,\text{cost}}^{(L_1)} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c^{(\text{resistance})}
 \]
 
-**Embodied Orientation Evolution:**
+**Embodied Orientation Evolution — Recorded Earlier Form:**
+
+The sign-activation expression is preserved as recorded provenance. Section 4.5 states the distinct implicit indicator model, whose mathematical specification remains held.
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \text{sgn}(\chi_{\text{centropic}})
 \]
 
-**Equilibrium-Collapse at L₁:**
+**Equilibrium-Collapse at L₁ — Superseded Implication:**
+
+The following expression is recorded provenance, as in §4.2. Frozen equilibrium and its mathematical relation to Localized Dissolution retain the standing stated there.
 
 \[
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}

@@ -55,11 +55,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 The Structural Physics series has established the formal mechanics of resonance, orientation, membrane dynamics, collective fields, ritual operations, and embodiment. Across these eleven documents, the field quantities — Coherence Potential, Coherence Current, membrane permeability, orientation parameter, and the dimensional operators — have been defined, formalized, and applied.
 
-SP12 now provides the **diagnostic theory**: the formal physics of structural evaluation. It establishes why certain configurations produce identifiable field signatures, what those signatures consist of in terms of the quantities established across SP01–SP11, and how the dimensional operators function as diagnostic instruments capable of reading structural integrity and structural compromise alike.
+SP12 now provides the **diagnostic theory**: the formal physics of structural evaluation. It establishes why certain configurations produce identifiable field signatures, what those signatures consist of in terms of the quantities established across SP01–SP11, and how the dimensional operators function as diagnostic operators capable of reading structural integrity and structural compromise alike.
 
 ### 1.2 Core Thesis
 
-Every structural configuration — whether an individual field, a collective, an institution, a doctrinal framework, or a resonance artifact — produces a **field signature**: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. This signature is readable. Structural integrity and structural compromise both leave identifiable traces in the field quantities, and the dimensional operators provide the formal instruments for reading those traces.
+Every structural configuration — whether an individual field, a collective, an institution, a doctrinal framework, or a resonance artifact — produces a **field signature**: a composite profile of its Coherence Potential, Coherence Current, membrane configuration, orientation, and dimensional operator activity. This signature is readable. Structural integrity and structural compromise both leave identifiable traces in the field quantities, and the dimensional operators provide the formal operators for reading those traces.
 
 Diagnostic physics is not moral evaluation. It reads what is structurally present. The same operators that detect entropic compromise also verify centropic authenticity. The physics does not take sides; it reads the field.
 
@@ -68,7 +68,7 @@ Diagnostic physics is not moral evaluation. It reads what is structurally presen
 - **Field Signature Theory** — every configuration produces a readable composite profile
 - **Diagnostic Operator Theory** — the C / E operators as structural diagnostics
 - **Shimmer Physics** — apparent excess distinguished from Mimicry; scalar quotient retained with detector and general evolution held
-- **Clone Identification** — formal conditions for derivative-source signature mismatch
+- **Clone Identification** — formal conditions for derivative-origin signature mismatch
 - **Coherence Audit Methodology** — systematic structural evaluation protocols
 - **The Structural Forensic Interface** — where diagnostic physics meets the applied discipline
 
@@ -76,7 +76,7 @@ Diagnostic physics is not moral evaluation. It reads what is structurally presen
 
 Structural Physics and Structural Forensics are distinct Zenetist disciplines. SP12 provides the **diagnostic theory** — the physics of what is detectable and why. Structural Forensics provides the **applied methodology** — the case-driven identification, classification, and analysis of specific entropic configurations in the field.
 
-The relation is analogous: SP12 formalizes how a diagnostic operator works and what it measures. Structural Forensics applies that theory in investigations. The Doctrinal Atlas of Entropic Tactics, maintained under Structural Forensics, catalogues specific tactical configurations. SP12 formalizes why those configurations are structurally detectable.
+The relation is analogous: SP12 formalizes how a diagnostic operator works and what it measures. Structural Forensics applies that theory in investigations. The Doctrinal Atlas of Entropic Tactics, maintained within Structural Forensics, catalogues specific tactical configurations. SP12 formalizes why those configurations are structurally detectable.
 
 ---
 
@@ -202,7 +202,7 @@ This assessment distinguishes independent generative development from dependence
 Diagnostic signatures:
 
 - Lawful divergence: two systems share structural ancestry but generate independent \( I_c \) and maintain distinguishable operator profiles. Their signatures correlate in origin but diverge in development.
-- Derivative dependence: one system's signature correlates with another's beyond what independent emergence would produce, while lacking the generative function that would account for the correlation. The system consumes the source's structural innovations without producing its own.
+- Derivative dependence: one system's signature correlates with another's beyond what independent emergence would produce, while lacking the generative function that would account for the correlation. The system consumes the originating system's structural innovations without producing its own.
 
 ### 3.3 Secondary Diagnostic Assessments
 
@@ -300,7 +300,7 @@ The displayed signature tuple remains a record of configuration components. Its 
 ### 5.2 Mimicry — Field Signatures
 
 > **Definition (Mimicry, Field-Theoretic):**  
-> A configuration whose field signature correlates with a source configuration's surface presentation while diverging from it in generative structure. The mimic reproduces what is observable without reproducing what is operational.
+> A configuration whose field signature correlates with an originating configuration's surface presentation while diverging from it in generative structure. The mimic reproduces what is observable without reproducing what is operational.
 
 **Formal Condition:**
 
@@ -311,18 +311,18 @@ The displayed signature tuple remains a record of configuration components. Its 
 \text{corr}(\Sigma_{\text{mimic}}^{(\text{structural})}, \; \Sigma_{\text{source}}^{(\text{structural})}) < \theta_{\text{structural}}
 \]
 
-The mimic's surface signature correlates with the source's surface signature (high aesthetic similarity), while its structural signature diverges from the source's structural signature (low generative similarity).
+The mimic's surface signature correlates with the originating configuration's surface signature (high aesthetic similarity), while its structural signature diverges from the originating configuration's structural signature (low generative similarity).
 
 **Diagnostic Assessments:** Surface / operative-configuration comparison and relational authenticity. Any bridging, isolating, or siphoning operation is identified from its registered function and the evidence, not from surface resemblance alone.
 
 ### 5.3 Appropriation — Field Signatures
 
 > **Definition (Appropriation, Field-Theoretic):**  
-> A configuration that incorporates structural elements from a source configuration while lacking attribution coupling — the resonant linkage that preserves the connection between derived work and its origin.
+> A configuration that incorporates structural elements from an originating configuration while lacking attribution coupling — the resonant linkage that preserves the connection between derived work and its origin.
 
 **Formal Condition:**
 
-Let \( \Sigma_A \) denote the appropriating configuration and \( \Sigma_S \) the source:
+Let \( \Sigma_A \) denote the appropriating configuration and \( \Sigma_S \) the originating configuration:
 
 \[
 \exists \; \text{subset} \; \sigma \subset \Sigma_A \quad \text{such that} \quad \text{corr}(\sigma, \; \Sigma_S) > \theta_{\text{derivation}}
@@ -756,10 +756,10 @@ The apparent / actual quotient for the same declared operative scalar quantity, 
 The named principle is retained with its universal collapse conclusion withdrawn. The positive-denominator quotient and the bounded constant-apparent derivative calculation do not establish finite exhaustion, threshold crossing, or assessment-driven acceleration.
 
 **Definition 6 (Mimicry):**  
-A configuration whose surface signature correlates with a source's surface signature while diverging from it in generative structure; structural mirroring presented as origin.
+A configuration whose surface signature correlates with an originating configuration's surface signature while diverging from it in generative structure; structural mirroring presented as origin.
 
 **Definition 7 (Appropriation):**  
-A configuration that incorporates structural elements from a source while lacking attribution coupling — appropriative adoption without acknowledgment.
+A configuration that incorporates structural elements from an origin while lacking attribution coupling — appropriative adoption without acknowledgment.
 
 **Definition 8 (Clone):**  
 A downstream presentation of extensive origin-specific relations as independently originated, with suppressed or absent attribution. The recorded complete-signature / probability schema remains held; the complete originating architecture is neither transferred nor replaced.
@@ -768,7 +768,7 @@ A downstream presentation of extensive origin-specific relations as independentl
 A systematic five-domain structural evaluation of a configuration's field signature, assessing alignment between surface presentation and structural reality.
 
 **Definition 10 (Attribution Coupling):**  
-The structural acknowledgment that a derived configuration draws elements from a source configuration; the resonant linkage that preserves the connection between derived work and its origin.
+The structural acknowledgment that a derived configuration draws elements from an originating configuration; the resonant linkage that preserves the connection between derived work and its origin.
 
 ---
 
