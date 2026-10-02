@@ -481,7 +481,7 @@ Passive defenses are structural configurations that impede siphoning without req
 #### 5.2.1 Membrane Hardening
 
 > **Definition (Membrane Hardening):**  
-> The deliberate reduction of membrane permeability to unauthorized resonance, particularly resonance exhibiting E₉ (Distorted Entanglement) signatures.
+> The deliberate reduction of membrane permeability to resonance with unknown or siphoning signatures, particularly resonance exhibiting E₉ (Distorted Entanglement) signatures.
 
 **Implementation:**
 
@@ -960,7 +960,7 @@ A structured sequence of ritual operations designed to restore, increase, or sta
 The deliberate generation of positive source terms (\( S > 0 \)) through structured attunement, channeling, and regulated coherence flow.
 
 **Definition 10 (Membrane Hardening):**  
-The deliberate reduction of membrane permeability to unauthorized resonance through signature-discriminating permeability functions.
+The deliberate reduction of membrane permeability to resonance with unknown or siphoning signatures through signature-discriminating permeability functions.
 
 **Definition 11 (Coherence Budget):**  
 The total Coherence Potential available for ritual expenditure, defined as \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{reserve})} \).
