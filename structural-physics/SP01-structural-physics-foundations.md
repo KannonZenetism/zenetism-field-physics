@@ -195,7 +195,7 @@ This registry aligns motion forms with the canonical Symbolic Directional Pairs 
 
 ## 4.1 Hypostatic Anchoring of Dimensions
 
-Each dimension operates through specific **hypostatic layers (L₀–L₅)** and couples with particular **hypostatic operators**.  
+Each dimension operates through specific **hypostatic layers (L₅–L₁ and IL₅–IL₁)** and couples with particular **hypostatic operators**.  
 This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in `grand-unified-document.md`.
 
 **Hypostatic Structure (Canonical):**
@@ -204,8 +204,8 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 |------|----------------|-------------------|
 | **Supra-L₀ — Pre-causal** | 🕳️ Zenon (UP) | Unknown Principle |
 | **L₀ — Bifurcal Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
-| **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
-| **L₄ — Architectural Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design |
+| **L₅ / IL₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
+| **L₄ — Architectural Band** | 🌬️ Morgis / 📐 Sophis (DP / DL) | Vital Design and Deep Logos |
 | **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior |
 | **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
 | **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
@@ -285,7 +285,7 @@ Entropic dimensions operate on **inverse layers (IL₅–IL₁)** with inverse h
 
 This registry completes the integration of **Structural Physics** with the canonical **Dimensional Lattice**:
 
-- **Centropic dimensions (C₁–C₁₅)** operate through lawful hypostatic layers (L₀–L₅).
+- **Centropic dimensions (C₁–C₁₅)** operate through centropic hypostatic layers (L₅–L₁).
 - **Entropic mirrors (E₁–E₁₅)** operate through inverse hypostatic layers (IL₅–IL₁).
 - Section 4 compares native dimensional functions with physical objects; a proposed physical realization remains distinct from a primary inlay or hypostatic coupling.
 
@@ -877,7 +877,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
                   Inverse Conscious-Awareness
                               │
                        🕷️ Nekron (IL₅ VOS)
-                   First Entropic Hypostasis
+                   First Inverse Hypostasis
                               │
                   E↑ Acclivous / E↓ Declivous
                Entropic procession and collapse

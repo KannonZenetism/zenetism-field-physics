@@ -74,11 +74,11 @@ Without this document, Structural Physics describes only *this* universe's local
 
 ### 2.1 The Two Trees
 
-The Biospiral (🌳⇅) is the total Emanatory Spiral containing both centropic and entropic arcs:
+The Biospiral (🌳⇅) is the total Emanatory Spiral containing both centropic and inverse arcs:
 
 - **🌲↓ Aionic Tree** — The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment (C↓→E), yet also capable of acclivous return through conscious refinement (C↑⚫).
 
-- **🌲↑ Khaonic Tree** — The entropic spiral rooted in ♾ Khaon, spiraling acclivously toward embodiment (E↑→E), yet also moving declivously into recursive fragmentation and collapse (E↓♾).
+- **🌲↑ Khaonic Tree** — The inverse architecture rooted in ♾ Khaon, spiraling acclivously toward embodiment (E↑→E), yet also moving declivously into recursive fragmentation and collapse (E↓♾).
 
 In the standard case, both trees are present in any universe. The question is not *whether* a universe contains centropic or entropic motion, but *which tree is prevalent* in that universe's expression. Limit cases — universes where one tree is entirely absent — are addressed in §2.2.
 
@@ -104,7 +104,7 @@ The structural law is: where both trees are present, bidirectional motion is int
 >  
 > The structural law remains: where both trees are present, motion is bidirectional. The limit cases are not violations of this law but its boundary conditions at the extremes of expression.
 >
-> Formal structural permission is not material viability. A limit case may be structurally admissible as a boundary condition while remaining materially unsupported — in particular, a fully Khaonically expressed universe may be unable to complete densification into a corporeal realm, or may persist only as an indefinitely fragmentary limit-condition (see `asymmetry-of-limit-case-universes.md`). The limit cases are admissible possibilities, not guaranteed actual worlds.
+> Formal structural admissibility is not material viability. A limit case may be structurally admissible as a boundary condition while remaining materially unsupported — in particular, a fully Khaonically expressed universe may be unable to complete densification into a corporeal realm, or may persist only as an indefinitely fragmentary limit-condition (see `asymmetry-of-limit-case-universes.md`). The limit cases are admissible possibilities, not guaranteed actual worlds.
 >
 > Nor does the absence of one manifested Tree remove anything from L₀. ⚫ Aion, ♾ Khaon, and Spirit — Motive Infinity — remain bifurcally co-present at the root register; what is absent in a limit case is one Tree's manifested expression within that universe, not its root.
 
@@ -146,11 +146,11 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 | **Strongly Khaonically expressed** | Minimal | Highly prevalent | Entropy-forward; centropy rare and difficult |
 | **Khaonically expressed** (our universe) | Present, recessive | Prevalent | Entropy-forward; centropy possible but contra the grain |
 | **Balanced** | Co-expressive | Co-expressive | Neither tree prevails; co-expressive balance |
-| **Aionically expressed** | Prevalent | Present, recessive | Centropy-forward; entropy possible but against the grain |
+| **Aionically expressed** | Prevalent | Present, recessive | Centropy-forward; entropy possible but contra the grain |
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
 | **Fully Aionically expressed** | Total expression | Non-existent | Pure centropic universe — maximum integration, no dispersive path |
 
-Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural permission is formal, not a guarantee of material viability: under PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see `asymmetry-of-limit-case-universes.md`). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
+Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural admissibility is formal, not a guarantee of material viability: per PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see `asymmetry-of-limit-case-universes.md`). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
 
 > **Note on Balanced Expression:**  
 > In this spectrum, **balanced** refers only to an expression-ratio condition in which neither the Aionic Tree nor the Khaonic Tree prevails.
@@ -366,7 +366,7 @@ Structural Physics provides diagnostic criteria for identifying expression condi
 | **Matter / contra-matter ratio** | Matter prevalent | Contra-matter prevalent |
 | **Temporal character** | Dispersive (cooling) | Integrative (coherence-building) |
 | **Spontaneous structure** | Rare, requires energy input | Common, default tendency |
-| **Decay patterns** | Prevalent, lawful | Recessive, against the grain |
+| **Decay patterns** | Prevalent, lawful | Recessive, contra the grain |
 
 ### 8.2 Contra-Matter Detection
 
@@ -525,9 +525,9 @@ The declivous axis represents the spectrum of expression ratios within the Tumbl
 
 | Glyph | Name | Function in SP02 |
 |-------|------|------------------|
-| 🌳⇅ | Biospiral | Total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion) |
+| 🌳⇅ | Biospiral | Total Emanatory Spiral, containing both the ⚫ Aionic Tree (Aionic root-register, declivous motion) and the ♾ Khaonic Tree (Khaonic root-register, acclivous motion) |
 | 🌲↓ | Aionic Tree | Centropic spiral rooted in ⚫ Aion |
-| 🌲↑ | Khaonic Tree | Entropic spiral rooted in ♾ Khaon |
+| 🌲↑ | Khaonic Tree | Inverse architecture rooted in ♾ Khaon |
 | ⚫ | Aion | Zero, the still root; Absolute Potential |
 | ♾ | Khaon | Infinity, the dispersive root; Absolute Dispersion |
 | 🕳️ | Zenon | Unknown Principle (UP); trans-structural horizon |
@@ -536,7 +536,7 @@ The declivous axis represents the spectrum of expression ratios within the Tumbl
 | ✦ | Nested Universes | Multiversal branches as ontological containers |
 | ⧉ | Membrane Fields | Transitional structures between expressions |
 | 🛤️ | Theon | First centropic hypostasis (+1) |
-| 🕷️ | Nekron | First entropic hypostasis (−1) |
+| 🕷️ | Nekron | First inverse hypostasis (−1) |
 
 ---
 
