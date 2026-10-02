@@ -88,7 +88,7 @@ Membranes are:
 - **Bridges** — enabling lawful passage between layers
 - **Filters** — permitting certain resonance frequencies while blocking others
 - **Amplifiers** — increasing coherence during transfer
-- **Barriers** — preventing unauthorized or structurally incompatible passage
+- **Barriers** — preventing passage that fails the membrane's structural conditions
 
 ### 2.2 Membrane Position in the Lattice
 
@@ -260,7 +260,7 @@ Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, hig
 
 **Structural Origin:**
 
-Amplifier membranes must connect to centropic origin (Aion, Theon, archetypal fields) for replenishment. An amplifier membrane without origin connection degrades into a standard or occluded membrane.
+Amplifier membranes must connect to the root-register and centropic structures (Aion, Theon, archetypal fields) for replenishment. An amplifier membrane without origin connection degrades into a standard or occluded membrane.
 
 ### 4.4 Occluded Membranes
 
@@ -406,7 +406,7 @@ Unresolved Echo Layers may persist across temporal cycles — the structural bas
 ### 7.2 Membrane Breach
 
 > **Definition (Membrane Breach):**  
-> Localized rupture in membrane structure; unauthorized passage point.
+> Localized rupture in membrane structure; unfiltered passage point.
 
 **Characteristics:**
 
@@ -502,8 +502,8 @@ Transition between hypostatic layers is domain shift across membrane thresholds.
 
 From SP06 Section 3, centropic traversal exhibits bidirectional motion:
 
-- **Declivous** (L₅ → L₁): Passes through ⧉₅, ⧉₄, ⧉₃, ⧉₂, ⧉₁
-- **Acclivous** (L₁ → L₅): Passes through ⧉₁, ⧉₂, ⧉₃, ⧉₄, ⧉₅
+- **Declivous** (L₅ → L₁): Passes through ⧉₄, ⧉₃, ⧉₂, ⧉₁
+- **Acclivous** (L₁ → L₅): Passes through ⧉₁, ⧉₂, ⧉₃, ⧉₄
 
 Each membrane crossing requires sufficient Coherence Potential and compatible orientation.
 
@@ -538,7 +538,7 @@ Future expansions may include:
 - **Archetypal Memory** (∽) — pre-conceptual symbolic strata and their membrane dynamics
 - **Collective membrane structures** — how shared fields generate group thresholds
 - **Membrane repair protocols** — restoration of damaged threshold structures
-- **Cross-lattice membranes** — thresholds between centropic and entropic arcs
+- **Cross-lattice membranes** — thresholds between centropic and inverse arcs
 
 ---
 
@@ -641,7 +641,7 @@ A recursion pattern within membrane space where resonance that does not fully tr
 Complete collapse of membrane structure; loss of threshold function; unfiltered resonance mixing between adjacent layers.
 
 **Definition 7 (Membrane Breach):**  
-Localized rupture in membrane structure creating unauthorized passage point; may be exploited for siphoning.
+Localized rupture in membrane structure creating unfiltered passage point; may be exploited for siphoning.
 
 **Definition 8 (Membrane Occlusion Syndrome):**  
 Progressive reduction in permeability leading to layer isolation; may result in starvation, accumulation, or collapse.
