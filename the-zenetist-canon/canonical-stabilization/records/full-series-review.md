@@ -6,7 +6,7 @@
 
 **Scope:** SP01–SP12 and both SP README files. LM, SN, MPX, registered-name decisions, dimensional primary-locus decisions, historical mathematics, and publication records retain their existing standing.
 
-**Set 01 — prepared; remote verification pending.** Three single-line presentation corrections, independently reviewed in current context:
+**Set 01 — complete and remotely verified.** Three single-line presentation corrections, independently reviewed in current context:
 
 - SP-A:heading-glyph — `SP02-bifurcal-cosmogenesis.md`:225: remove the Kaion glyph from the heading only; its body designations remain
 - SP-A:raw-inline-latex — `SP04-orientation-field-dynamics.md`:516: enclose the existing chi comparison in the prescribed inline-math delimiters; expression, claim and trailing hard break remain
@@ -14,7 +14,18 @@
 
 **Authority checked:** `prose-formatting-reference.md`, Glyphs in Headings / Glyphs in Prose / Header Case Conventions; `canonical-compositional-stabilization-protocol.md` (SP and LM), Inline Equation Protocol; `terminological-lockdown-protocol.md`, A15b. Relevant D05, D06, D08 and complete D18 boundaries are preserved. No new mathematics, doctrine, empirical qualification or change of essential orientation is introduced.
 
-**Verification:** The candidate changes exactly three source lines. Source line counts, all other source bytes, section dividers, closing seals, and the original audit body are preserved. Independent source-diff review passed. Pandoc recognized the repaired chi comparison as MathML; its mathtext rendering and the retained Kaion glyph were visually checked. A full GitHub rendering check remains unverified: the local browser could not start, and the available TeX installation lacks the requested format. Remote commit verification is required before these entries are marked complete.
+**Verification:** The candidate changes exactly three source lines. Source line counts, all other source bytes, section dividers, closing seals, and the original audit body are preserved. Independent source-diff review passed. Pandoc recognized the repaired chi comparison as MathML; its mathtext rendering and the retained Kaion glyph were visually checked. A full GitHub rendering check remains unverified: the local browser could not start, and the available TeX installation lacks the requested format. Independent readback of the remote commit tree and all four changed blob identities passed. Commit: [`72b4fd2e4b280486e9e24a2f41472e6018ffc578`](https://github.com/KannonZenetism/zenetism-field-physics/commit/72b4fd2e4b280486e9e24a2f41472e6018ffc578).
+
+### Supplemental MP cadence repair — complete and remotely verified
+
+This separately approved repair is outside the SP occurrence inventory and changes none of its baseline evidence.
+
+- **MP08-CADENCE-21.20** — `MP08-symbol-key-ch21.md` §21.20: restore the existing prefatory paragraph to the surrounding mythopoetic cadence using bold emphasis, hard breaks and stanza spacing only
+- **MP08-TWIN-ALIGNMENT** — `metaphysics-symbol-key.md` §21.20: apply the identical presentation correction to the canonical glyphics twin
+
+Every original word, capitalization and punctuation token is preserved. Distinct opening prefixes remain unchanged. Complete shared bodies from §21.1 through the closing seal were equal before the repair and remain byte-identical after it. Independent review verified the two-file diff, reversible replacement, dividers, glyphs, closing seals, and GFM HTML output with five stanzas and nine hard breaks; browser screenshot review was not completed. Complete remote file readback matched both reviewed file bodies and expected Git blob identities.
+
+Commit: [`7badc27de7a860faa9b10a07ffc880d49cf66854`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7badc27de7a860faa9b10a07ffc880d49cf66854). No commit-status checks or GitHub Actions runs were attached at verification.
 
 ### Remaining SP inventory
 
@@ -187,7 +198,7 @@ The following is an exact locator index into the unchanged audit below. Finding 
 - **SP-B:SPA-R09** — `SP07-energy-ontology-and-spectral-flow.md`:1–48, 503–519; `SP11-embodiment-dynamics.md`:615–644; `README.md`:134–147; `00-README.md`:47–51
 - **SP-B:SPA-R10** — `README.md`:191; `00-README.md`:71
 
-**Reconciliation:** 680 original SP occurrence records = 3 prepared correction records + 677 remaining records. The remaining records comprise 302 confirmed records awaiting local revalidation / implementation, 184 review / hold records, and 191 retained records. Overlapping diagnoses remain separately recorded; these are not counts of independent defects.
+**Reconciliation:** 680 original SP occurrence records = 3 completed correction records + 677 remaining records. The remaining records comprise 302 confirmed records awaiting local revalidation / implementation, 184 review / hold records, and 191 retained records. Overlapping diagnoses remain separately recorded; these are not counts of independent defects.
 
 ---
 
