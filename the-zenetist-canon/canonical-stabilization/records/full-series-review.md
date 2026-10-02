@@ -2,203 +2,263 @@
 
 ## Completion index — SP bounded repair pass
 
-**Implementation baseline:** [`b76fe3fd9fd27b2672f270e30085a76c6f0f20e8`](https://github.com/KannonZenetism/zenetism-field-physics/tree/b76fe3fd9fd27b2672f270e30085a76c6f0f20e8). Current protocol references and all fourteen SP source files were retrieved at this commit and verified against their Git blob identities. The original audit evidence follows this index without alteration.
+**Implementation baseline:** [`b76fe3fd9fd27b2672f270e30085a76c6f0f20e8`](https://github.com/KannonZenetism/zenetism-field-physics/tree/b76fe3fd9fd27b2672f270e30085a76c6f0f20e8). The original audit following this additive index is preserved byte-for-byte. Every locator below refers to that audit / implementation baseline, not shifted current line numbers.
 
-**Scope:** SP01–SP12 and both SP README files. LM, SN, MPX, registered-name decisions, dimensional primary-locus decisions, historical mathematics, and publication records retain their existing standing.
+**Reconciliation:** 155 original finding groups; 680 occurrence records = **278 completed bounded diagnoses + 402 other records**. An occurrence is category + finding ID + file + baseline locator. Co-located diagnoses remain distinct; partial lexical or presentation repair never clears a separate substantive question.
 
-**Set 01 — complete and remotely verified.** Three single-line presentation corrections, independently reviewed in current context:
+- 278: complete; independent remote verification
+- 10: new hold
+- 19: live-reference conflict; held
+- 182: original review / hold unchanged
+- 191: original retention unchanged
 
-- SP-A:heading-glyph — `SP02-bifurcal-cosmogenesis.md`:225: remove the Kaion glyph from the heading only; its body designations remain
-- SP-A:raw-inline-latex — `SP04-orientation-field-dynamics.md`:516: enclose the existing chi comparison in the prescribed inline-math delimiters; expression, claim and trailing hard break remain
-- SP-B:SPA-C21 — `SP09-collective-resonance-and-field-harmonics.md`:62: restore the proper name Non-fusion Axiom
+**Reading this index:** SP source filenames below are relative to `structural-physics/`; supplemental MP entries are identified separately. Set codes point to the exact commit in the publication ledger. Multiple edits needed for one diagnosis count once; atomic companions must all publish before that diagnosis completes. Original review / hold and retention categories remain explicit. LM, SN, MPX and all other original findings are outside this pass.
 
-**Authority checked:** `prose-formatting-reference.md`, Glyphs in Headings / Glyphs in Prose / Header Case Conventions; `canonical-compositional-stabilization-protocol.md` (SP and LM), Inline Equation Protocol; `terminological-lockdown-protocol.md`, A15b. Relevant D05, D06, D08 and complete D18 boundaries are preserved. No new mathematics, doctrine, empirical qualification or change of essential orientation is introduced.
+**Verification:** "Complete (publisher)" means exact staged / created blob identity, commit parent / tree / authorship, successful non-force update and fresh remote-ref readback passed; the final independent remote tree / blob check is still pending. "Complete (independent)" adds that independent verification. Reviewed but unpublished work is pending. Source-diff, mathematical and GFM checks do not imply full GitHub-rendered screenshot review.
 
-**Verification:** The candidate changes exactly three source lines. Source line counts, all other source bytes, section dividers, closing seals, and the original audit body are preserved. Independent source-diff review passed. Pandoc recognized the repaired chi comparison as MathML; its mathtext rendering and the retained Kaion glyph were visually checked. A full GitHub rendering check remains unverified: the local browser could not start, and the available TeX installation lacks the requested format. Independent readback of the remote commit tree and all four changed blob identities passed. Commit: [`72b4fd2e4b280486e9e24a2f41472e6018ffc578`](https://github.com/KannonZenetism/zenetism-field-physics/commit/72b4fd2e4b280486e9e24a2f41472e6018ffc578).
+**Final source verification:** At `24a85a1b506af944767ce7326af80d7650667310`, independent pinned remote review verified the published source commits, trees, candidate hashes / sizes / modes and exact changed-file contents. Relative to the implementation baseline, exactly 17 authorized repository paths changed: 14 SP files, the existing report and the two MP files; all other repository blobs were unchanged. Working file copies matched remote blob identities. No workflow files were configured, and no commit-status checks or Actions runs were attached at that head. Display-math comparison preserved the existing blocks apart from the approved glyph text wrappers; divider and curly-quotation-character counts were unchanged. Representative current math spans passed MathML parsing and visual mathtext checks; full GitHub-rendered visual certification is not claimed.
 
-### Supplemental MP cadence repair — complete and remotely verified
+### Publication ledger
 
-This separately approved repair is outside the SP occurrence inventory and changes none of its baseline evidence.
+Earlier report-only completion update: [`0dbdc00b841c04c8fed26f596fb07b19e272cdca`](https://github.com/KannonZenetism/zenetism-field-physics/commit/0dbdc00b841c04c8fed26f596fb07b19e272cdca). It recorded the verified Set 01 and supplemental MP repairs and changed no source file. The present tracking commit is identified by the repository history rather than an embedded self-reference.
 
-- **MP08-CADENCE-21.20** — `MP08-symbol-key-ch21.md` §21.20: restore the existing prefatory paragraph to the surrounding mythopoetic cadence using bold emphasis, hard breaks and stanza spacing only
-- **MP08-TWIN-ALIGNMENT** — `metaphysics-symbol-key.md` §21.20: apply the identical presentation correction to the canonical glyphics twin
+- **S01 — set01** (3 edit records): [`72b4fd2e4b280486e9e24a2f41472e6018ffc578`](https://github.com/KannonZenetism/zenetism-field-physics/commit/72b4fd2e4b280486e9e24a2f41472e6018ffc578); complete; independent remote verification
+- **P01 — presentation-metadata-01** (6 edit records): [`7a7dc3befe1fd0b86b4bfeef920bcfd76628a827`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7a7dc3befe1fd0b86b4bfeef920bcfd76628a827); complete; independent remote verification
+- **P02 — presentation-metadata-02** (3 edit records): [`4d7646eaa7d29a8f50e1e5066a0409acbe2a2d62`](https://github.com/KannonZenetism/zenetism-field-physics/commit/4d7646eaa7d29a8f50e1e5066a0409acbe2a2d62); complete; independent remote verification
+- **P03 — presentation-metadata-03** (3 edit records): [`2e05262e655a4e909f70753c3e460f54806a0066`](https://github.com/KannonZenetism/zenetism-field-physics/commit/2e05262e655a4e909f70753c3e460f54806a0066); complete; independent remote verification
+- **P04 — presentation-metadata-04** (1 edit records): [`c53b617acabb77a21e5a16292431f1e125718e5f`](https://github.com/KannonZenetism/zenetism-field-physics/commit/c53b617acabb77a21e5a16292431f1e125718e5f); complete; independent remote verification
+- **P05 — presentation-casing-01** (8 edit records): [`7e71d282d571fd889a20cbabbde88227af5121cc`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7e71d282d571fd889a20cbabbde88227af5121cc); complete; independent remote verification
+- **P06 — presentation-casing-02** (8 edit records): [`29982903fc9d5d5052b8ec73b92ab0c8f3949071`](https://github.com/KannonZenetism/zenetism-field-physics/commit/29982903fc9d5d5052b8ec73b92ab0c8f3949071); complete; independent remote verification
+- **P07 — presentation-prose-labels-01** (14 edit records): [`4755560f9817cd8b7cfc6ba93e14b86abe31d2cf`](https://github.com/KannonZenetism/zenetism-field-physics/commit/4755560f9817cd8b7cfc6ba93e14b86abe31d2cf); complete; independent remote verification
+- **P08 — presentation-citations-01** (9 edit records): [`a8fca1e56193b200ff35a5f653e4e68a2577f6d9`](https://github.com/KannonZenetism/zenetism-field-physics/commit/a8fca1e56193b200ff35a5f653e4e68a2577f6d9); complete; independent remote verification
+- **P09 — presentation-citations-02** (7 edit records): [`025dfb901493a3b91d405b4eb6892fa2655c4f88`](https://github.com/KannonZenetism/zenetism-field-physics/commit/025dfb901493a3b91d405b4eb6892fa2655c4f88); complete; independent remote verification
+- **P10 — presentation-glyph-wrapping-01** (17 edit records): [`37ed8b6405acaf9d1b51e20a4490e6960d312dd3`](https://github.com/KannonZenetism/zenetism-field-physics/commit/37ed8b6405acaf9d1b51e20a4490e6960d312dd3); complete; independent remote verification
+- **P11 — presentation-glyph-wrapping-02** (3 edit records): [`33957305880a47b60d0eba518e35ae378024738b`](https://github.com/KannonZenetism/zenetism-field-physics/commit/33957305880a47b60d0eba518e35ae378024738b); complete; independent remote verification
+- **P12 — presentation-glyph-wrapping-03** (33 edit records): [`e8596b70a1eeb72bc47bf15114dd9d17fd398148`](https://github.com/KannonZenetism/zenetism-field-physics/commit/e8596b70a1eeb72bc47bf15114dd9d17fd398148); complete; independent remote verification
+- **P13 — presentation-glyph-wrapping-04** (5 edit records): [`a731d3502a6c97404a2699cf4f0ba0f9f04802b3`](https://github.com/KannonZenetism/zenetism-field-physics/commit/a731d3502a6c97404a2699cf4f0ba0f9f04802b3); complete; independent remote verification
+- **P14 — presentation-glyph-wrapping-05** (4 edit records): [`9c5ac65b34f5c7072547910b0cf9188c77855b28`](https://github.com/KannonZenetism/zenetism-field-physics/commit/9c5ac65b34f5c7072547910b0cf9188c77855b28); complete; independent remote verification
+- **P15 — presentation-glyph-wrapping-06** (1 edit records): [`758dfdacf68b4c95a465554ae8485904f8336e4c`](https://github.com/KannonZenetism/zenetism-field-physics/commit/758dfdacf68b4c95a465554ae8485904f8336e4c); complete; independent remote verification
+- **P16 — presentation-inverse-membrane-labels-01** (5 edit records): [`c369cb5f78f84624b472d9ce8b75b0f7974c66b1`](https://github.com/KannonZenetism/zenetism-field-physics/commit/c369cb5f78f84624b472d9ce8b75b0f7974c66b1); complete; independent remote verification
+- **P17 — presentation-membrane-headings-01** (5 edit records): [`a809564492a7343f6a054022f611ab742d816760`](https://github.com/KannonZenetism/zenetism-field-physics/commit/a809564492a7343f6a054022f611ab742d816760); complete; independent remote verification
+- **P18 — presentation-sp01-static-order-01** (20 edit records): [`b54988a606f51df7a72d84877cc4afc974618222`](https://github.com/KannonZenetism/zenetism-field-physics/commit/b54988a606f51df7a72d84877cc4afc974618222); complete; independent remote verification
+- **P19 — presentation-static-spans-01** (4 edit records): [`bbaf734ed5270b655791217e2cc9556df4f18905`](https://github.com/KannonZenetism/zenetism-field-physics/commit/bbaf734ed5270b655791217e2cc9556df4f18905); complete; independent remote verification
+- **P20 — presentation-diagnostic-standing** (1 edit records): [`ee8933067d6be50f7177b7127bc93c50fefa746e`](https://github.com/KannonZenetism/zenetism-field-physics/commit/ee8933067d6be50f7177b7127bc93c50fefa746e); complete; independent remote verification
+- **P21 — presentation-resolved-citations-01** (2 edit records): [`790bfc5e2cc3d4611e55320c26c93d050761b7e7`](https://github.com/KannonZenetism/zenetism-field-physics/commit/790bfc5e2cc3d4611e55320c26c93d050761b7e7); complete; independent remote verification
+- **C01 — contextual-01** (15 edit records): [`d9132e649acc1045d2699bdceca1998784473422`](https://github.com/KannonZenetism/zenetism-field-physics/commit/d9132e649acc1045d2699bdceca1998784473422); complete; independent remote verification
+- **C02 — contextual-02** (11 edit records): [`707e4d7a8c14d141b21bab468451e062d52181a6`](https://github.com/KannonZenetism/zenetism-field-physics/commit/707e4d7a8c14d141b21bab468451e062d52181a6); complete; independent remote verification
+- **C03 — contextual-03** (21 edit records): [`e0cbe206038066e362bb39edc35ee300dc5557b0`](https://github.com/KannonZenetism/zenetism-field-physics/commit/e0cbe206038066e362bb39edc35ee300dc5557b0); complete; independent remote verification
+- **C04 — contextual-04** (9 edit records): [`36e5fb7458700a47120a342d0fb88b7a7070a692`](https://github.com/KannonZenetism/zenetism-field-physics/commit/36e5fb7458700a47120a342d0fb88b7a7070a692); complete; independent remote verification
+- **C05 — contextual-05** (11 edit records): [`9d99c10e9169ea1f6f838492d818cf0edbaadbad`](https://github.com/KannonZenetism/zenetism-field-physics/commit/9d99c10e9169ea1f6f838492d818cf0edbaadbad); complete; independent remote verification
+- **C06 — contextual-06** (19 edit records): [`7914f4ac2dee4be7cf416919193a56461d081505`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7914f4ac2dee4be7cf416919193a56461d081505); complete; independent remote verification
+- **C07 — contextual-07** (5 edit records): [`dd902a507e21c114657d1f84091c77ad31d01923`](https://github.com/KannonZenetism/zenetism-field-physics/commit/dd902a507e21c114657d1f84091c77ad31d01923); complete; independent remote verification
+- **F01 — contextual-final-01** (13 edit records): [`64245376573240fb425f1db179900d5d29a46d71`](https://github.com/KannonZenetism/zenetism-field-physics/commit/64245376573240fb425f1db179900d5d29a46d71); complete; independent remote verification
+- **F02 — contextual-final-02** (4 edit records): [`c709e2a5dba8354e913e440ee2c6591b2755369d`](https://github.com/KannonZenetism/zenetism-field-physics/commit/c709e2a5dba8354e913e440ee2c6591b2755369d); complete; independent remote verification
+- **F03 — contextual-final-03** (5 edit records): [`09dd2ced361c793b4126b8aa652499faf84649c9`](https://github.com/KannonZenetism/zenetism-field-physics/commit/09dd2ced361c793b4126b8aa652499faf84649c9); complete; independent remote verification
+- **F04 — contextual-final-04** (1 edit records): [`24a85a1b506af944767ce7326af80d7650667310`](https://github.com/KannonZenetism/zenetism-field-physics/commit/24a85a1b506af944767ce7326af80d7650667310); complete; independent remote verification
 
-Every original word, capitalization and punctuation token is preserved. Distinct opening prefixes remain unchanged. Complete shared bodies from §21.1 through the closing seal were equal before the repair and remain byte-identical after it. Independent review verified the two-file diff, reversible replacement, dividers, glyphs, closing seals, and GFM HTML output with five stanzas and nine hard breaks; browser screenshot review was not completed. Complete remote file readback matched both reviewed file bodies and expected Git blob identities.
+**S01 scope:** heading-only Kaion glyph removal at SP02:225; inline delimiters only at SP04:516; proper-name Non-fusion Axiom casing at SP09:62. All other source bytes, line counts, seals and dividers were preserved. MathML / mathtext and glyph checks passed; full GitHub-rendered screenshot verification was not completed.
 
-Commit: [`7badc27de7a860faa9b10a07ffc880d49cf66854`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7badc27de7a860faa9b10a07ffc880d49cf66854). No commit-status checks or GitHub Actions runs were attached at verification.
+### Supplemental MP cadence repair
 
-### Remaining SP inventory
+**Complete and independently remotely verified:** [`7badc27de7a860faa9b10a07ffc880d49cf66854`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7badc27de7a860faa9b10a07ffc880d49cf66854). Outside the 680 SP records. **MP08-CADENCE-21.20** (`MP08-symbol-key-ch21.md` §21.20) and **MP08-TWIN-ALIGNMENT** (`metaphysics-symbol-key.md` §21.20) restore the existing paragraph's cadence using emphasis, hard breaks and stanza spacing. All original words, capitalization and punctuation remain; distinct prefixes are preserved; shared bodies from §21.1 through the closing seal remain byte-identical. Complete remote bodies and blob identities matched. GFM review checked five stanzas and nine hard breaks; no browser screenshot review was completed. No commit-status checks or Actions runs were attached at verification.
 
-The following is an exact locator index into the unchanged audit below. Finding IDs may recur under different categories; category and file / line locator disambiguate them. Line numbers refer to the audit / implementation baseline, not a future shifted file. A listed retained item is preserved, not claimed as a new correction. Review / hold entries are not repair authority. All unlisted non-SP findings remain outside this pass.
+### Corrected diagnoses and boundaries
+
+- **C₁₂ directed row:** SP-A:scoped-locus-display-order, SP01:232 is held. Reversing Superficial→Interface→Architectural would change directed function. Preserve the exact row pending clarification; static-order approval does not cover it.
+- **Eight historical glyph holds:** SP-B:SPA-C31, SP08:161, 162, 166, 167, 168, 169 and SP12:133, 688 remain exact. They belong to the recorded reception-minimum legend / permeability schema or held diagnostic-signature tuples.
+- **Echo Layer conflict:** all 19 SP-B:SPA-C20 records remain held. Analytic framework §§6.6.4 and 13.12 distinguish trapped Echo Layer resonance from pathological Entropic Echo; SP08 §6.3 narrows the term. No blanket Membrane Recursion replacement or automatic centropic-echo violation is adopted.
+- **Extraction coefficient:** safe-045, SP-B:SPA-C02 at SP09:361 remains held. Framework §§6.5 and 6.6.6 reserve the successor gloss for coordinated LM / SP09 / SN determination between siphoning and appropriation. The repair at :360 does not clear :361.
+- **Unknown-signature scope:** the original safe-050 substitution at SP10:484, 963 is held because "structurally incompatible" alone omits unknown-signature attenuation. Its separately reviewed successor (final-021) preserves both unknown-signature attenuation and siphoning-signature exclusion; current publication status is in the exact locator index. Independent E₉ mapping remains held.
+- **Referent-preserving alternatives:** original safe-040 at SP08:91 is held because deletion narrows the admission conditions; its reviewed alternative names passage failing the membrane's structural conditions. Original safe-062 at SP12:205 is rejected because "originator" changes a system antecedent to a person; its reviewed alternative is "originating system." Only the separately reviewed alternatives are tracked as repairs.
+- **Rejected presentation collateral:** citation repairs at SP04:56, 850 leave existing chi spans intact, without the sample's added backticks. Membrane headings at SP11:419, 428, 458, 470 retain their index-bearing scope through the defined Cognitive-Embodied Membrane name.
+- **Bounded CIT standing synchronization:** SP-A:unqualified-cit-conservation at SP02:381–391 and summary-invariant-overreach at :441 are separately tracked below. Completion synchronizes stale prose only; the D02 conservation / native-functional hold and both exact formulas remain.
+- **Protected standing:** E₁₅'s registered gloss, Formweave, E₈ Severed, Tether-severance, D18 echo / mirror names, MP's distinct Mirror, Aetherion's seal, historical PI acknowledgments, all 15 dimensional primary loci and all recorded formulas remain protected. Unresolved mathematical, spectral-root, orientation, empirical / clinical and primary-locus questions keep their individual original dispositions.
+
+### Complete occurrence disposition index
+
+Every original locator appears once, under its original category and finding. A group is fully complete only if every listed original occurrence is complete. "Review / hold unchanged" includes unresolved contextual-review questions as well as expressly established holds; it does not reclassify them all as architect-held.
 
 #### Confirmed presentation-only repairs
 
-- **SP-A:bound-prefix-casing** — `SP01-structural-physics-foundations.md`:205, 841; `SP03-expression-ratio-mathematics.md`:82, 235; `SP04-orientation-field-dynamics.md`:399, 526, 540, 611; `SP05-time-memory-hypostatic-flow.md`:717; `SP06-structural-space-orientation-paradox.md`:136
-- **SP-A:prose-dimensional-latex** — `SP05-time-memory-hypostatic-flow.md`:97, 149, 154, 310, 543, 600, 602, 603, 619, 640, 703, 704
-- **SP-A:metadata-hard-break** — `SP03-expression-ratio-mathematics.md`:611, 626; `SP04-orientation-field-dynamics.md`:848, 863; `SP05-time-memory-hypostatic-flow.md`:655, 670; `SP06-structural-space-orientation-paradox.md`:324
-- **SP-A:architecture-row-order** — `SP01-structural-physics-foundations.md`:207–211
-- **SP-A:inverse-static-range** — `SP01-structural-physics-foundations.md`:262, 289
-- **SP-A:scoped-locus-display-order** — `SP01-structural-physics-foundations.md`:221, 222, 223, 224, 225, 228, 229, 232, 255, 266, 267, 268, 269, 270, 273, 274, 277, 279
-- **SP-A:crossfile-filename-citation** — `SP02-bifurcal-cosmogenesis.md`:54, 247, 399, 410, 454, 422; `SP03-expression-ratio-mathematics.md`:54, 56, 291, 613; `SP04-orientation-field-dynamics.md`:56, 60, 203, 735, 850; `SP06-structural-space-orientation-paradox.md`:84, 132; `SP01-structural-physics-foundations.md`:199
-- **SP-B:SPA-C22** — `SP07-energy-ontology-and-spectral-flow.md`:155; `SP09-collective-resonance-and-field-harmonics.md`:109, 120; `SP11-embodiment-dynamics.md`:228
-- **SP-B:SPA-C23** — `SP11-embodiment-dynamics.md`:75, 362, 379, 391, 587, 711
-- **SP-B:SPA-C24** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:79; `SP11-embodiment-dynamics.md`:419, 428, 458, 470
-- **SP-B:SPA-C25** — `SP07-energy-ontology-and-spectral-flow.md`:448, 449
-- **SP-B:SPA-C26** — `SP12-structural-diagnostics-and-field-forensics.md`:548–555
-- **SP-B:SPA-C30** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:110, 111, 112, 113, 114
-- **SP-B:SPA-C31** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:161, 162, 166, 167, 168, 169, 176, 198, 218, 232, 243, 255, 256, 272, 396, 413, 430, 448, 575, 576, 606, 612, 629; `SP09-collective-resonance-and-field-harmonics.md`:196, 201, 237; `SP10-ritual-energetics-and-integration-protocols.md`:97, 107, 130, 146, 149, 179, 223, 242, 263, 284, 339, 358, 363, 369, 376, 380, 383, 392, 399, 431, 491, 533, 563, 575, 609, 705, 840, 841, 864, 870, 898, 904, 939; `SP11-embodiment-dynamics.md`:433, 446, 658, 659, 726; `SP12-structural-diagnostics-and-field-forensics.md`:109, 111, 124, 133, 591, 688; `README.md`:108
-- **SP-B:SPA-C32** — `SP07-energy-ontology-and-spectral-flow.md`:486; `SP08-membrane-fields-and-inter-expression-dynamics.md`:532; `SP09-collective-resonance-and-field-harmonics.md`:478; `SP10-ritual-energetics-and-integration-protocols.md`:797; `SP11-embodiment-dynamics.md`:598; `SP12-structural-diagnostics-and-field-forensics.md`:605
+- **SP-A:raw-inline-latex**: Complete (independent) [S01] — `SP04-orientation-field-dynamics.md`:516
+- **SP-A:bound-prefix-casing**: Complete (independent) [P05] — `SP01-structural-physics-foundations.md`:205, 841; `SP03-expression-ratio-mathematics.md`:82, 235; `SP04-orientation-field-dynamics.md`:399, 526, 540, 611 | Complete (independent) [P06] — `SP05-time-memory-hypostatic-flow.md`:717; `SP06-structural-space-orientation-paradox.md`:136
+- **SP-A:heading-glyph**: Complete (independent) [S01] — `SP02-bifurcal-cosmogenesis.md`:225
+- **SP-A:prose-dimensional-latex**: Complete (independent) [P07] — `SP05-time-memory-hypostatic-flow.md`:97, 149, 154, 310, 543, 600, 602, 603, 619, 640, 703, 704
+- **SP-A:metadata-hard-break**: Complete (independent) [P01] — `SP03-expression-ratio-mathematics.md`:611, 626; `SP04-orientation-field-dynamics.md`:848, 863; `SP05-time-memory-hypostatic-flow.md`:655, 670 | Complete (independent) [P02] — `SP06-structural-space-orientation-paradox.md`:324
+- **SP-A:architecture-row-order**: Complete (independent) [P18] — `SP01-structural-physics-foundations.md`:207–211
+- **SP-A:inverse-static-range**: Complete (independent) [P18] — `SP01-structural-physics-foundations.md`:262, 289
+- **SP-A:scoped-locus-display-order**: Complete (independent) [P18] — `SP01-structural-physics-foundations.md`:221, 222, 223, 224, 225, 228, 229, 255, 266, 267, 268, 269, 270, 273, 274, 277, 279 | New hold — `SP01-structural-physics-foundations.md`:232
+- **SP-A:crossfile-filename-citation**: Complete (independent) [P08] — `SP02-bifurcal-cosmogenesis.md`:54, 247, 399, 410, 454; `SP03-expression-ratio-mathematics.md`:54, 56, 291, 613 | Complete (independent) [P09] — `SP04-orientation-field-dynamics.md`:56, 60, 203, 735, 850; `SP06-structural-space-orientation-paradox.md`:84, 132 | Complete (independent) [P21] — `SP01-structural-physics-foundations.md`:199; `SP02-bifurcal-cosmogenesis.md`:422
+- **SP-B:SPA-C21**: Complete (independent) [S01] — `SP09-collective-resonance-and-field-harmonics.md`:62
+- **SP-B:SPA-C22**: Complete (independent) [P19] — `SP07-energy-ontology-and-spectral-flow.md`:155; `SP09-collective-resonance-and-field-harmonics.md`:109, 120; `SP11-embodiment-dynamics.md`:228
+- **SP-B:SPA-C23**: Complete (independent) [P06] — `SP11-embodiment-dynamics.md`:75, 362, 379, 391, 587, 711
+- **SP-B:SPA-C24**: Complete (independent) [P17] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:79; `SP11-embodiment-dynamics.md`:419, 428, 458, 470
+- **SP-B:SPA-C25**: Complete (independent) [P07] — `SP07-energy-ontology-and-spectral-flow.md`:448, 449
+- **SP-B:SPA-C26**: Complete (independent) [P20] — `SP12-structural-diagnostics-and-field-forensics.md`:548–555
+- **SP-B:SPA-C30**: Complete (independent) [P16] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:110, 111, 112, 113, 114
+- **SP-B:SPA-C31**: New hold — `SP08-membrane-fields-and-inter-expression-dynamics.md`:161, 162, 166, 167, 168, 169; `SP12-structural-diagnostics-and-field-forensics.md`:133, 688 | Complete (independent) [P10] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:176, 198, 218, 232, 243, 255, 256, 272, 396, 413, 430, 448, 575, 576, 606, 612, 629 | Complete (independent) [P11] — `SP09-collective-resonance-and-field-harmonics.md`:196, 201, 237 | Complete (independent) [P12] — `SP10-ritual-energetics-and-integration-protocols.md`:97, 107, 130, 146, 149, 179, 223, 242, 263, 284, 339, 358, 363, 369, 376, 380, 383, 392, 399, 431, 491, 533, 563, 575, 609, 705, 840, 841, 864, 870, 898, 904, 939 | Complete (independent) [P13] — `SP11-embodiment-dynamics.md`:433, 446, 658, 659, 726 | Complete (independent) [P14] — `SP12-structural-diagnostics-and-field-forensics.md`:109, 111, 124, 591 | Complete (independent) [P15] — `README.md`:108
+- **SP-B:SPA-C32**: Complete (independent) [P02] — `SP07-energy-ontology-and-spectral-flow.md`:486; `SP08-membrane-fields-and-inter-expression-dynamics.md`:532 | Complete (independent) [P03] — `SP09-collective-resonance-and-field-harmonics.md`:478; `SP10-ritual-energetics-and-integration-protocols.md`:797; `SP11-embodiment-dynamics.md`:598 | Complete (independent) [P04] — `SP12-structural-diagnostics-and-field-forensics.md`:605
 
 #### Confirmed contextual terminology repairs
 
-- **SP-A:nekron-designation** — `SP01-structural-physics-foundations.md`:880; `SP02-bifurcal-cosmogenesis.md`:539
-- **SP-A:motive-prepolar** — `SP03-expression-ratio-mathematics.md`:65, 102, 108, 590; `SP04-orientation-field-dynamics.md`:279
-- **SP-A:hypostatic-range** — `SP01-structural-physics-foundations.md`:198, 288
-- **SP-A:paired-name-order** — `SP01-structural-physics-foundations.md`:210
-- **SP-A:paired-layer-disclosure** — `SP01-structural-physics-foundations.md`:211
-- **SP-A:embodied-span-label** — `SP03-expression-ratio-mathematics.md`:652, 653; `SP04-orientation-field-dynamics.md`:905, 906; `SP05-time-memory-hypostatic-flow.md`:710, 711
-- **SP-A:inverse-arc-label** — `SP02-bifurcal-cosmogenesis.md`:77; `SP06-structural-space-orientation-paradox.md`:231
-- **SP-A:inverse-tree-description** — `SP02-bifurcal-cosmogenesis.md`:81, 530
-- **SP-A:root-position** — `SP02-bifurcal-cosmogenesis.md`:528
-- **SP-A:root-axis** — `SP06-structural-space-orientation-paradox.md`:146
-- **SP-A:arc-segment** — `SP06-structural-space-orientation-paradox.md`:148, 150, 151, 304
-- **SP-A:thread-prose** — `SP05-time-memory-hypostatic-flow.md`:353, 752
-- **SP-A:against** — `SP02-bifurcal-cosmogenesis.md`:149, 369; `SP03-expression-ratio-mathematics.md`:386, 395; `SP05-time-memory-hypostatic-flow.md`:271
-- **SP-A:principle-under** — `SP02-bifurcal-cosmogenesis.md`:153
-- **SP-A:permission-family** — `SP02-bifurcal-cosmogenesis.md`:107, 153
-- **SP-A:serve-family** — `SP06-structural-space-orientation-paradox.md`:178
-- **SP-A:override-family** — `SP05-time-memory-hypostatic-flow.md`:486
-- **SP-A:navigation-above** — `SP06-structural-space-orientation-paradox.md`:124
-- **SP-A:dissolve-resolution** — `SP06-structural-space-orientation-paradox.md`:309
-- **SP-A:temporal-scope-label** — `SP05-time-memory-hypostatic-flow.md`:189, 232, 638, 722, 730
-- **SP-A:cp-diagram** — `SP02-bifurcal-cosmogenesis.md`:506; `SP03-expression-ratio-mathematics.md`:669, 670, 683
-- **SP-B:SPA-C01** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:91, 409, 644; `SP10-ritual-energetics-and-integration-protocols.md`:215, 473, 484, 963
-- **SP-B:SPA-C02** — `SP07-energy-ontology-and-spectral-flow.md`:316; `SP09-collective-resonance-and-field-harmonics.md`:360, 361
-- **SP-B:SPA-C03** — `SP07-energy-ontology-and-spectral-flow.md`:514; `README.md`:81
-- **SP-B:SPA-C04** — `SP10-ritual-energetics-and-integration-protocols.md`:182
-- **SP-B:SPA-C05** — `SP11-embodiment-dynamics.md`:188
-- **SP-B:SPA-C06** — `SP12-structural-diagnostics-and-field-forensics.md`:79
-- **SP-B:SPA-C07** — `00-README.md`:35
-- **SP-B:SPA-C08** — `00-README.md`:73
-- **SP-B:SPA-C09** — `SP07-energy-ontology-and-spectral-flow.md`:383
-- **SP-B:SPA-C18** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:263
-- **SP-B:SPA-C19** — `SP12-structural-diagnostics-and-field-forensics.md`:71, 205, 303, 314, 321, 325, 759, 762, 771
-- **SP-B:SPA-C20** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:336, 338–343, 345, 374, 383, 487, 521, 581, 637–638; `SP10-ritual-energetics-and-integration-protocols.md`:76, 406, 408, 410, 434, 660, 706, 785; `SP11-embodiment-dynamics.md`:464, 573
-- **SP-B:SPA-C27** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:541; `SP11-embodiment-dynamics.md`:141, 162, 335
-- **SP-B:SPA-C28** — `SP12-structural-diagnostics-and-field-forensics.md`:58, 62
-- **SP-B:SPA-C29** — `SP09-collective-resonance-and-field-harmonics.md`:271, 277, 583; `SP10-ritual-energetics-and-integration-protocols.md`:475
+- **SP-A:nekron-designation**: Complete (independent) [C01] — `SP01-structural-physics-foundations.md`:880; `SP02-bifurcal-cosmogenesis.md`:539
+- **SP-A:motive-prepolar**: Complete (independent) [C02] — `SP03-expression-ratio-mathematics.md`:65, 102, 108, 590; `SP04-orientation-field-dynamics.md`:279
+- **SP-A:hypostatic-range**: Complete (independent) [C01] — `SP01-structural-physics-foundations.md`:198, 288
+- **SP-A:paired-name-order**: Complete (independent) [C01] — `SP01-structural-physics-foundations.md`:210
+- **SP-A:paired-layer-disclosure**: Complete (independent) [C01] — `SP01-structural-physics-foundations.md`:211
+- **SP-A:embodied-span-label**: Complete (independent) [C02] — `SP03-expression-ratio-mathematics.md`:652, 653; `SP04-orientation-field-dynamics.md`:905, 906 | Complete (independent) [C03] — `SP05-time-memory-hypostatic-flow.md`:710, 711
+- **SP-A:inverse-arc-label**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:77 | Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:231
+- **SP-A:inverse-tree-description**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:81, 530
+- **SP-A:root-position**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:528
+- **SP-A:root-axis**: Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:146
+- **SP-A:arc-segment**: Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:148, 150, 151, 304
+- **SP-A:thread-prose**: Complete (independent) [C03] — `SP05-time-memory-hypostatic-flow.md`:353, 752
+- **SP-A:against**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:149, 369 | Complete (independent) [C02] — `SP03-expression-ratio-mathematics.md`:386, 395 | Complete (independent) [C03] — `SP05-time-memory-hypostatic-flow.md`:271
+- **SP-A:principle-under**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:153
+- **SP-A:permission-family**: Complete (independent) [C01] — `SP02-bifurcal-cosmogenesis.md`:107, 153
+- **SP-A:serve-family**: Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:178
+- **SP-A:override-family**: Complete (independent) [F03] — `SP05-time-memory-hypostatic-flow.md`:486
+- **SP-A:navigation-above**: Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:124
+- **SP-A:dissolve-resolution**: Complete (independent) [C03] — `SP06-structural-space-orientation-paradox.md`:309
+- **SP-A:temporal-scope-label**: Complete (independent) [C03] — `SP05-time-memory-hypostatic-flow.md`:189, 232, 638, 722, 730
+- **SP-A:cp-diagram**: Complete (independent) [F01] — `SP02-bifurcal-cosmogenesis.md`:506; `SP03-expression-ratio-mathematics.md`:669, 670, 683
+- **SP-B:SPA-C01**: Complete (independent) [C04] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:91, 409, 644 | Complete (independent) [C05] — `SP10-ritual-energetics-and-integration-protocols.md`:215, 473 | Complete (independent) [F04] — `SP10-ritual-energetics-and-integration-protocols.md`:484, 963
+- **SP-B:SPA-C02**: Complete (independent) [C04] — `SP07-energy-ontology-and-spectral-flow.md`:316 | Complete (independent) [C05] — `SP09-collective-resonance-and-field-harmonics.md`:360 | New hold — `SP09-collective-resonance-and-field-harmonics.md`:361
+- **SP-B:SPA-C03**: Complete (independent) [C04] — `SP07-energy-ontology-and-spectral-flow.md`:514 | Complete (independent) [C07] — `README.md`:81
+- **SP-B:SPA-C04**: Complete (independent) [C05] — `SP10-ritual-energetics-and-integration-protocols.md`:182
+- **SP-B:SPA-C05**: Complete (independent) [C06] — `SP11-embodiment-dynamics.md`:188
+- **SP-B:SPA-C06**: Complete (independent) [C06] — `SP12-structural-diagnostics-and-field-forensics.md`:79
+- **SP-B:SPA-C07**: Complete (independent) [C07] — `00-README.md`:35
+- **SP-B:SPA-C08**: Complete (independent) [C07] — `00-README.md`:73
+- **SP-B:SPA-C09**: Complete (independent) [C04] — `SP07-energy-ontology-and-spectral-flow.md`:383
+- **SP-B:SPA-C18**: Complete (independent) [C04] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:263
+- **SP-B:SPA-C19**: Complete (independent) [C06] — `SP12-structural-diagnostics-and-field-forensics.md`:71, 205, 303, 314, 321, 325, 759, 762, 771
+- **SP-B:SPA-C20**: Reference conflict — `SP08-membrane-fields-and-inter-expression-dynamics.md`:336, 338–343, 345, 374, 383, 487, 521, 581, 637–638; `SP10-ritual-energetics-and-integration-protocols.md`:76, 406, 408, 410, 434, 660, 706, 785; `SP11-embodiment-dynamics.md`:464, 573
+- **SP-B:SPA-C27**: Complete (independent) [C04] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:541 | Complete (independent) [C06] — `SP11-embodiment-dynamics.md`:141, 162, 335
+- **SP-B:SPA-C28**: Complete (independent) [C06] — `SP12-structural-diagnostics-and-field-forensics.md`:58, 62
+- **SP-B:SPA-C29**: Complete (independent) [C05] — `SP09-collective-resonance-and-field-harmonics.md`:271, 277, 583; `SP10-ritual-energetics-and-integration-protocols.md`:475
 
 #### Confirmed substantive residuals requiring bounded review
 
-- **SP-A:spectral-scope** — `SP01-structural-physics-foundations.md`:87
-- **SP-A:spectral-return** — `SP01-structural-physics-foundations.md`:111
-- **SP-A:cp-diagram** — `SP02-bifurcal-cosmogenesis.md`:520
-- **SP-A:cp-cancellation-interpretation** — `SP03-expression-ratio-mathematics.md`:328
-- **SP-A:aion-agency** — `SP04-orientation-field-dynamics.md`:495
-- **SP-A:saturation-allowance** — `SP04-orientation-field-dynamics.md`:545
-- **SP-A:motive-terminal-distinction** — `SP06-structural-space-orientation-paradox.md`:122
-- **SP-A:motive-pneuma** — `SP06-structural-space-orientation-paradox.md`:206
-- **SP-A:zenon-sequenced** — `SP03-expression-ratio-mathematics.md`:415–421; `SP04-orientation-field-dynamics.md`:289–295
-- **SP-A:zenon-origin-preposition** — `SP05-time-memory-hypostatic-flow.md`:195; `SP06-structural-space-orientation-paradox.md`:139
-- **SP-B:SPA-C10** — `SP10-ritual-energetics-and-integration-protocols.md`:742
-- **SP-B:SPA-C11** — `SP11-embodiment-dynamics.md`:401
-- **SP-B:SPA-C12** — `SP09-collective-resonance-and-field-harmonics.md`:106, 120, 437
-- **SP-B:SPA-C13** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:505, 506
-- **SP-B:SPA-C14** — `README.md`:45, 161
-- **SP-B:SPA-C15** — `SP07-energy-ontology-and-spectral-flow.md`:347–350; `README.md`:54, 56, 169
-- **SP-B:SPA-C16** — `SP11-embodiment-dynamics.md`:705–709
-- **SP-B:SPA-C17** — `SP11-embodiment-dynamics.md`:699–703
+- **SP-A:spectral-scope**: Complete (independent) [F01] — `SP01-structural-physics-foundations.md`:87
+- **SP-A:spectral-return**: Complete (independent) [F01] — `SP01-structural-physics-foundations.md`:111
+- **SP-A:cp-diagram**: Complete (independent) [F01] — `SP02-bifurcal-cosmogenesis.md`:520
+- **SP-A:cp-cancellation-interpretation**: Complete (independent) [F01] — `SP03-expression-ratio-mathematics.md`:328
+- **SP-A:aion-agency**: Complete (independent) [C02] — `SP04-orientation-field-dynamics.md`:495
+- **SP-A:saturation-allowance**: Complete (independent) [F02] — `SP04-orientation-field-dynamics.md`:545
+- **SP-A:motive-terminal-distinction**: Complete (independent) [F02] — `SP06-structural-space-orientation-paradox.md`:122
+- **SP-A:motive-pneuma**: Complete (independent) [F02] — `SP06-structural-space-orientation-paradox.md`:206
+- **SP-A:zenon-sequenced**: Complete (independent) [C02] — `SP03-expression-ratio-mathematics.md`:415–421; `SP04-orientation-field-dynamics.md`:289–295
+- **SP-A:zenon-origin-preposition**: Complete (independent) [C03] — `SP05-time-memory-hypostatic-flow.md`:195; `SP06-structural-space-orientation-paradox.md`:139
+- **SP-B:SPA-C10**: Complete (independent) [C05] — `SP10-ritual-energetics-and-integration-protocols.md`:742
+- **SP-B:SPA-C11**: Complete (independent) [C06] — `SP11-embodiment-dynamics.md`:401
+- **SP-B:SPA-C12**: Complete (independent) [C05] — `SP09-collective-resonance-and-field-harmonics.md`:106, 120, 437
+- **SP-B:SPA-C13**: Complete (independent) [C04] — `SP08-membrane-fields-and-inter-expression-dynamics.md`:505, 506
+- **SP-B:SPA-C14**: Complete (independent) [C07] — `README.md`:45, 161
+- **SP-B:SPA-C15**: Complete (independent) [F03] — `SP07-energy-ontology-and-spectral-flow.md`:347–350; `README.md`:54, 56, 169
+- **SP-B:SPA-C16**: Complete (independent) [C06] — `SP11-embodiment-dynamics.md`:705–709
+- **SP-B:SPA-C17**: Complete (independent) [C06] — `SP11-embodiment-dynamics.md`:699–703
 
 #### Architect-review and held questions
 
-- **SP-A:primary-locus-hold** — `SP01-structural-physics-foundations.md`:217–280
-- **SP-A:root-spectral-reciprocity** — `SP01-structural-physics-foundations.md`:114, 124
-- **SP-A:spectral-aion-zero** — `SP01-structural-physics-foundations.md`:91
-- **SP-A:total-field-candidate** — `SP01-structural-physics-foundations.md`:553–561
-- **SP-A:threshold-proposal** — `SP01-structural-physics-foundations.md`:242–246
-- **SP-A:retired-limit-syntax** — `SP01-structural-physics-foundations.md`:756
-- **SP-A:physical-or-clinical-correspondence-standing** — `SP02-bifurcal-cosmogenesis.md`:120, 193–196, 204–207, 219–221, 229–231, 241–243, 253–263, 289–291, 297–302, 308–311, 363–369, 373–377, 405–406, 437–439, 473, 484–489, 534; `SP03-expression-ratio-mathematics.md`:538–544, 548–552, 556–566, 576; `SP04-orientation-field-dynamics.md`:516, 677, 689–697; `SP05-time-memory-hypostatic-flow.md`:453–465, 469–474, 619–621; `SP06-structural-space-orientation-paradox.md`:281–285, 291–295
-- **SP-A:unqualified-cit-conservation** — `SP02-bifurcal-cosmogenesis.md`:381–391
-- **SP-A:summary-invariant-overreach** — `SP02-bifurcal-cosmogenesis.md`:441
-- **SP-A:quotation-attribution-standing** — `SP02-bifurcal-cosmogenesis.md`:237–241
-- **SP-A:chi-model-scope-residual** — `SP04-orientation-field-dynamics.md`:70, 85–93, 195, 250, 323, 348–357, 395, 472–473, 572, 591–593, 613–617, 629, 641–649, 675, 826–827, 850, 868–875, 951–952, 960, 985–991
-- **SP-A:orientation-direction-limit-case** — `SP02-bifurcal-cosmogenesis.md`:99–105, 83
-- **SP-A:limit-tree-scope** — `SP03-expression-ratio-mathematics.md`:274–281, 464–473; `SP04-orientation-field-dynamics.md`:741–745
-- **SP-A:contra-world-entailment-standing** — `SP03-expression-ratio-mathematics.md`:454–458, 600; `SP04-orientation-field-dynamics.md`:512, 735–743; `SP05-time-memory-hypostatic-flow.md`:433
-- **SP-A:pretemporal-cp-scope** — `SP03-expression-ratio-mathematics.md`:80
-- **SP-A:root-latency-register-reading** — `SP03-expression-ratio-mathematics.md`:112–116, 410; `SP04-orientation-field-dynamics.md`:124–129, 528–538; `SP06-structural-space-orientation-paradox.md`:120–122
-- **SP-A:hypostatic-time-versus-saturation** — `SP05-time-memory-hypostatic-flow.md`:205, 724
-- **SP-A:ordinary-tether-magnitude** — `SP05-time-memory-hypostatic-flow.md`:357
-- **SP-A:temporal-crossing-model** — `SP05-time-memory-hypostatic-flow.md`:478–488
-- **SP-A:amnesia-expression-versus-identity** — `SP05-time-memory-hypostatic-flow.md`:528–535
-- **SP-A:shimmer-severance-object** — `SP05-time-memory-hypostatic-flow.md`:683–684
-- **SP-A:casing-stage-one-ambiguity** — `SP04-orientation-field-dynamics.md`:713, 753
-- **SP-A:logical-derivation-word-scope** — `SP02-bifurcal-cosmogenesis.md`:137
-- **SP-A:signed-charge-analogy** — `SP06-structural-space-orientation-paradox.md`:122
-- **SP-A:all-beings-aionic-scope** — `SP05-time-memory-hypostatic-flow.md`:119–121
-- **SP-B:SPA-C18** — `SP07-energy-ontology-and-spectral-flow.md`:264, 276, 398; `SP08-membrane-fields-and-inter-expression-dynamics.md`:257, 436; `SP09-collective-resonance-and-field-harmonics.md`:222, 435; `SP10-ritual-energetics-and-integration-protocols.md`:334, 740
-- **SP-B:SPA-A01** — `SP07-energy-ontology-and-spectral-flow.md`:393–396; `SP08-membrane-fields-and-inter-expression-dynamics.md`:181–184, 404; `SP10-ritual-energetics-and-integration-protocols.md`:420–426; `SP11-embodiment-dynamics.md`:333, 468
-- **SP-B:SPA-A02** — `SP07-energy-ontology-and-spectral-flow.md`:58; `SP08-membrane-fields-and-inter-expression-dynamics.md`:56; `SP10-ritual-energetics-and-integration-protocols.md`:97, 704–709; `README.md`:108
-- **SP-B:SPA-A03** — `SP11-embodiment-dynamics.md`:505–507
-- **SP-B:SPA-A04** — `SP11-embodiment-dynamics.md`:474, 476, 478, 557
-- **SP-B:SPA-A05** — `SP07-energy-ontology-and-spectral-flow.md`:200–206, 432–442, 543–558, 597
-- **SP-B:SPA-A06** — `SP10-ritual-energetics-and-integration-protocols.md`:186–198, 879–886
-- **SP-B:SPA-A07** — `SP10-ritual-energetics-and-integration-protocols.md`:342–350, 686–692, 919–922
-- **SP-B:SPA-A08** — `SP09-collective-resonance-and-field-harmonics.md`:130–158, 253–255, 291, 374, 402; `SP10-ritual-energetics-and-integration-protocols.md`:596
-- **SP-B:SPA-A09** — `SP09-collective-resonance-and-field-harmonics.md`:303, 418, 424–425, 469, 504–506, 591–592; `SP10-ritual-energetics-and-integration-protocols.md`:590, 596, 600
-- **SP-B:SPA-A10** — `SP07-energy-ontology-and-spectral-flow.md`:360, 372–374, 405, 537; `SP08-membrane-fields-and-inter-expression-dynamics.md`:281, 415; `SP10-ritual-energetics-and-integration-protocols.md`:484, 544–549; `SP09-collective-resonance-and-field-harmonics.md`:403
-- **SP-B:SPA-A11** — `SP07-energy-ontology-and-spectral-flow.md`:287, 474, 510, 603, 612; `SP09-collective-resonance-and-field-harmonics.md`:208, 349, 373, 376, 378, 390, 465; `SP10-ritual-energetics-and-integration-protocols.md`:301, 510, 620, 675
-- **SP-B:SPA-A12** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:95–100
-- **SP-B:SPA-A13** — `SP11-embodiment-dynamics.md`:430–446, 723–727
-- **SP-B:SPA-A14** — `README.md`:90, 177
-- **SP-B:SPA-A15** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:41, 116; `README.md`:87, 142; `SP11-embodiment-dynamics.md`:204, 607
-- **SP-B:SPA-A16** — `SP07-energy-ontology-and-spectral-flow.md`:597; `README.md`:179; `00-README.md`:57
-- **SP-B:SPA-A17** — `SP12-structural-diagnostics-and-field-forensics.md`:678
-- **SP-B:SPA-A18** — `README.md`:155
-- **SP-B:SPA-A19** — `SP10-ritual-energetics-and-integration-protocols.md`:520, 604, 643; `SP11-embodiment-dynamics.md`:574
-- **SP-B:SPA-A20** — `SP12-structural-diagnostics-and-field-forensics.md`:336
-- **SP-B:SPA-A21** — `SP11-embodiment-dynamics.md`:637–639; `SP12-structural-diagnostics-and-field-forensics.md`:627–630
-- **SP-B:SPA-A22** — `SP09-collective-resonance-and-field-harmonics.md`:227
+- **SP-A:primary-locus-hold**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:217–280
+- **SP-A:root-spectral-reciprocity**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:114, 124
+- **SP-A:spectral-aion-zero**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:91
+- **SP-A:total-field-candidate**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:553–561
+- **SP-A:threshold-proposal**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:242–246
+- **SP-A:retired-limit-syntax**: Review / hold unchanged — `SP01-structural-physics-foundations.md`:756
+- **SP-A:physical-or-clinical-correspondence-standing**: Review / hold unchanged — `SP02-bifurcal-cosmogenesis.md`:120, 193–196, 204–207, 219–221, 229–231, 241–243, 253–263, 289–291, 297–302, 308–311, 363–369, 373–377, 405–406, 437–439, 473, 484–489, 534; `SP03-expression-ratio-mathematics.md`:538–544, 548–552, 556–566, 576; `SP04-orientation-field-dynamics.md`:516, 677, 689–697; `SP05-time-memory-hypostatic-flow.md`:453–465, 469–474, 619–621; `SP06-structural-space-orientation-paradox.md`:281–285, 291–295
+- **SP-A:unqualified-cit-conservation**: Complete (independent) [F01] — `SP02-bifurcal-cosmogenesis.md`:381–391
+- **SP-A:summary-invariant-overreach**: Complete (independent) [F01] — `SP02-bifurcal-cosmogenesis.md`:441
+- **SP-A:quotation-attribution-standing**: Review / hold unchanged — `SP02-bifurcal-cosmogenesis.md`:237–241
+- **SP-A:chi-model-scope-residual**: Review / hold unchanged — `SP04-orientation-field-dynamics.md`:70, 85–93, 195, 250, 323, 348–357, 395, 472–473, 572, 591–593, 613–617, 629, 641–649, 675, 826–827, 850, 868–875, 951–952, 960, 985–991
+- **SP-A:orientation-direction-limit-case**: Review / hold unchanged — `SP02-bifurcal-cosmogenesis.md`:99–105, 83
+- **SP-A:limit-tree-scope**: Review / hold unchanged — `SP03-expression-ratio-mathematics.md`:274–281, 464–473; `SP04-orientation-field-dynamics.md`:741–745
+- **SP-A:contra-world-entailment-standing**: Review / hold unchanged — `SP03-expression-ratio-mathematics.md`:454–458, 600; `SP04-orientation-field-dynamics.md`:512, 735–743; `SP05-time-memory-hypostatic-flow.md`:433
+- **SP-A:pretemporal-cp-scope**: Review / hold unchanged — `SP03-expression-ratio-mathematics.md`:80
+- **SP-A:root-latency-register-reading**: Review / hold unchanged — `SP03-expression-ratio-mathematics.md`:112–116, 410; `SP04-orientation-field-dynamics.md`:124–129, 528–538; `SP06-structural-space-orientation-paradox.md`:120–122
+- **SP-A:hypostatic-time-versus-saturation**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:205, 724
+- **SP-A:ordinary-tether-magnitude**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:357
+- **SP-A:temporal-crossing-model**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:478–488
+- **SP-A:amnesia-expression-versus-identity**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:528–535
+- **SP-A:shimmer-severance-object**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:683–684
+- **SP-A:casing-stage-one-ambiguity**: Review / hold unchanged — `SP04-orientation-field-dynamics.md`:713, 753
+- **SP-A:logical-derivation-word-scope**: Review / hold unchanged — `SP02-bifurcal-cosmogenesis.md`:137
+- **SP-A:signed-charge-analogy**: Review / hold unchanged — `SP06-structural-space-orientation-paradox.md`:122
+- **SP-A:all-beings-aionic-scope**: Review / hold unchanged — `SP05-time-memory-hypostatic-flow.md`:119–121
+- **SP-B:SPA-C18**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:264, 276, 398; `SP08-membrane-fields-and-inter-expression-dynamics.md`:257, 436; `SP09-collective-resonance-and-field-harmonics.md`:222, 435; `SP10-ritual-energetics-and-integration-protocols.md`:334, 740
+- **SP-B:SPA-A01**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:393–396; `SP08-membrane-fields-and-inter-expression-dynamics.md`:181–184, 404; `SP10-ritual-energetics-and-integration-protocols.md`:420–426; `SP11-embodiment-dynamics.md`:333, 468
+- **SP-B:SPA-A02**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:58; `SP08-membrane-fields-and-inter-expression-dynamics.md`:56; `SP10-ritual-energetics-and-integration-protocols.md`:97, 704–709; `README.md`:108
+- **SP-B:SPA-A03**: Review / hold unchanged — `SP11-embodiment-dynamics.md`:505–507
+- **SP-B:SPA-A04**: Review / hold unchanged — `SP11-embodiment-dynamics.md`:474, 476, 478, 557
+- **SP-B:SPA-A05**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:200–206, 432–442, 543–558, 597
+- **SP-B:SPA-A06**: Review / hold unchanged — `SP10-ritual-energetics-and-integration-protocols.md`:186–198, 879–886
+- **SP-B:SPA-A07**: Review / hold unchanged — `SP10-ritual-energetics-and-integration-protocols.md`:342–350, 686–692, 919–922
+- **SP-B:SPA-A08**: Review / hold unchanged — `SP09-collective-resonance-and-field-harmonics.md`:130–158, 253–255, 291, 374, 402; `SP10-ritual-energetics-and-integration-protocols.md`:596
+- **SP-B:SPA-A09**: Review / hold unchanged — `SP09-collective-resonance-and-field-harmonics.md`:303, 418, 424–425, 469, 504–506, 591–592; `SP10-ritual-energetics-and-integration-protocols.md`:590, 596, 600
+- **SP-B:SPA-A10**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:360, 372–374, 405, 537; `SP08-membrane-fields-and-inter-expression-dynamics.md`:281, 415; `SP10-ritual-energetics-and-integration-protocols.md`:484, 544–549; `SP09-collective-resonance-and-field-harmonics.md`:403
+- **SP-B:SPA-A11**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:287, 474, 510, 603, 612; `SP09-collective-resonance-and-field-harmonics.md`:208, 349, 373, 376, 378, 390, 465; `SP10-ritual-energetics-and-integration-protocols.md`:301, 510, 620, 675
+- **SP-B:SPA-A12**: Review / hold unchanged — `SP08-membrane-fields-and-inter-expression-dynamics.md`:95–100
+- **SP-B:SPA-A13**: Review / hold unchanged — `SP11-embodiment-dynamics.md`:430–446, 723–727
+- **SP-B:SPA-A14**: Review / hold unchanged — `README.md`:90, 177
+- **SP-B:SPA-A15**: Review / hold unchanged — `SP08-membrane-fields-and-inter-expression-dynamics.md`:41, 116; `README.md`:87, 142; `SP11-embodiment-dynamics.md`:204, 607
+- **SP-B:SPA-A16**: Review / hold unchanged — `SP07-energy-ontology-and-spectral-flow.md`:597; `README.md`:179; `00-README.md`:57
+- **SP-B:SPA-A17**: Review / hold unchanged — `SP12-structural-diagnostics-and-field-forensics.md`:678
+- **SP-B:SPA-A18**: Review / hold unchanged — `README.md`:155
+- **SP-B:SPA-A19**: Review / hold unchanged — `SP10-ritual-energetics-and-integration-protocols.md`:520, 604, 643; `SP11-embodiment-dynamics.md`:574
+- **SP-B:SPA-A20**: Review / hold unchanged — `SP12-structural-diagnostics-and-field-forensics.md`:336
+- **SP-B:SPA-A21**: Review / hold unchanged — `SP11-embodiment-dynamics.md`:637–639; `SP12-structural-diagnostics-and-field-forensics.md`:627–630
+- **SP-B:SPA-A22**: Review / hold unchanged — `SP09-collective-resonance-and-field-harmonics.md`:227
 
 #### Selected lawful and historical retentions
 
-- **SP-A:chi-prevalence-disambiguation** — `SP04-orientation-field-dynamics.md`:721
-- **SP-A:e15-registered-function-conflict** — `SP01-structural-physics-foundations.md`:170, 339, 412, 447, 833
-- **SP-A:authorship-origin-and-being** — `SP01-structural-physics-foundations.md`:10–37; `SP02-bifurcal-cosmogenesis.md`:10–37; `SP03-expression-ratio-mathematics.md`:10–37; `SP04-orientation-field-dynamics.md`:10–37; `SP05-time-memory-hypostatic-flow.md`:13–40; `SP06-structural-space-orientation-paradox.md`:10–37
-- **SP-A:seal-identity** — `SP01-structural-physics-foundations.md`:896–899; `SP02-bifurcal-cosmogenesis.md`:543–546; `SP03-expression-ratio-mathematics.md`:717–720; `SP04-orientation-field-dynamics.md`:1003–1006; `SP05-time-memory-hypostatic-flow.md`:776–779; `SP06-structural-space-orientation-paradox.md`:328–331
-- **SP-A:formweave-registry** — `SP01-structural-physics-foundations.md`:159, 230, 828
-- **SP-A:e8-nonorigin-severance** — `SP01-structural-physics-foundations.md`:156, 190, 248, 324, 664, 677, 826, 831
-- **SP-A:tether-severance-lexeme** — `SP05-time-memory-hypostatic-flow.md`:528, 684
-- **SP-A:retired-memory-record** — `SP05-time-memory-hypostatic-flow.md`:289–299, 365–381, 393–420, 508–514, 554–564, 576–584
-- **SP-A:cit-held-provenance** — `SP01-structural-physics-foundations.md`:706–724; `SP02-bifurcal-cosmogenesis.md`:265–273; `SP03-expression-ratio-mathematics.md`:511–519; `SP04-orientation-field-dynamics.md`:810–818; `SP05-time-memory-hypostatic-flow.md`:588–596
-- **SP-A:two-model-separation** — `SP04-orientation-field-dynamics.md`:236–258, 383–410, 418–468, 749–774, 974–983
-- **SP-A:quantitative-scientific-comparatives** — `SP03-expression-ratio-mathematics.md`:348, 350, 372, 373, 564, 566; `SP06-structural-space-orientation-paradox.md`:275, 277, 285
-- **SP-A:external-or-denied-vertical-terms** — `SP06-structural-space-orientation-paradox.md`:186, 187, 191, 220, 222, 317
-- **SP-A:literal-layout-and-hierarchy-refusal** — `SP01-structural-physics-foundations.md`:891, 892; `SP06-structural-space-orientation-paradox.md`:112, 114
-- **SP-A:external-terminology-and-refusal** — `SP02-bifurcal-cosmogenesis.md`:113, 179, 185, 193, 490, 491
-- **SP-A:quoted-kaion-wording** — `SP02-bifurcal-cosmogenesis.md`:239
-- **SP-A:non-neutral-casing** — `SP04-orientation-field-dynamics.md`:340, 833
-- **SP-A:registered-nonlocal-casing** — `SP01-structural-physics-foundations.md`:157, 180, 229, 344, 347, 393, 395, 434, 682, 827
-- **SP-A:rendered-em-dash-spacing** — `SP03-expression-ratio-mathematics.md`:211, 215
-- **SP-A:mathematical-division-slash** — `SP04-orientation-field-dynamics.md`:157, 254, 287, 431, 437, 438, 460, 976; `SP05-time-memory-hypostatic-flow.md`:141, 510, 744
-- **SP-A:motive-latent-correction-present** — `SP06-structural-space-orientation-paradox.md`:132
-- **SP-A:abstract-geometry-domain-guard** — `SP06-structural-space-orientation-paradox.md`:157
-- **SP-A:chi-limit-calculation** — `SP03-expression-ratio-mathematics.md`:308–328
-- **SP-A:traversal-not-static-reorder** — `SP06-structural-space-orientation-paradox.md`:200–249
-- **SP-A:e10-bidirectional-address** — `SP01-structural-physics-foundations.md`:275
-- **SP-A:self-identification-shorthand** — `SP01-structural-physics-foundations.md`:114; `SP02-bifurcal-cosmogenesis.md`:58, 418, 443, 526; `SP03-expression-ratio-mathematics.md`:58, 60; `SP04-orientation-field-dynamics.md`:58, 66, 824; `SP05-time-memory-hypostatic-flow.md`:61, 93, 633
-- **SP-B:SPA-R01** — `SP08-membrane-fields-and-inter-expression-dynamics.md`:156, 313, 320, 352, 600, 618; `SP12-structural-diagnostics-and-field-forensics.md`:413, 416, 449
-- **SP-B:SPA-R02** — `SP07-energy-ontology-and-spectral-flow.md`:224, 297, 415; `SP08-membrane-fields-and-inter-expression-dynamics.md`:141, 301; `SP10-ritual-energetics-and-integration-protocols.md`:172, 336–339, 566, 844–847; `SP11-embodiment-dynamics.md`:433; `SP12-structural-diagnostics-and-field-forensics.md`:308–311, 348–351
-- **SP-B:SPA-R03** — `SP07-energy-ontology-and-spectral-flow.md`:284, 381, 391, 533, 571–575; `SP10-ritual-energetics-and-integration-protocols.md`:237, 639
-- **SP-B:SPA-R04** — `SP07-energy-ontology-and-spectral-flow.md`:183–193, 563–569, 327–333; `SP08-membrane-fields-and-inter-expression-dynamics.md`:136–149, 287, 347–355, 589; `SP11-embodiment-dynamics.md`:234–259, 278–294; `SP12-structural-diagnostics-and-field-forensics.md`:254–282, 691–736
-- **SP-B:SPA-R05** — `SP11-embodiment-dynamics.md`:206, 208, 511–513, 663; `SP12-structural-diagnostics-and-field-forensics.md`:215, 389, 674
-- **SP-B:SPA-R06** — `SP11-embodiment-dynamics.md`:194–218, 584, 660–666; `SP12-structural-diagnostics-and-field-forensics.md`:154
-- **SP-B:SPA-R07** — `README.md`:187–193; `00-README.md`:69–75; `SP11-embodiment-dynamics.md`:499, 505, 511; `SP12-structural-diagnostics-and-field-forensics.md`:538
-- **SP-B:SPA-R08** — `SP09-collective-resonance-and-field-harmonics.md`:88, 109, 114–122; `SP10-ritual-energetics-and-integration-protocols.md`:149, 237, 527, 680; `SP11-embodiment-dynamics.md`:200–202, 348–350; `SP12-structural-diagnostics-and-field-forensics.md`:294, 518, 546
-- **SP-B:SPA-R09** — `SP07-energy-ontology-and-spectral-flow.md`:1–48, 503–519; `SP11-embodiment-dynamics.md`:615–644; `README.md`:134–147; `00-README.md`:47–51
-- **SP-B:SPA-R10** — `README.md`:191; `00-README.md`:71
+- **SP-A:chi-prevalence-disambiguation**: Retained — `SP04-orientation-field-dynamics.md`:721
+- **SP-A:e15-registered-function-conflict**: Retained — `SP01-structural-physics-foundations.md`:170, 339, 412, 447, 833
+- **SP-A:authorship-origin-and-being**: Retained — `SP01-structural-physics-foundations.md`:10–37; `SP02-bifurcal-cosmogenesis.md`:10–37; `SP03-expression-ratio-mathematics.md`:10–37; `SP04-orientation-field-dynamics.md`:10–37; `SP05-time-memory-hypostatic-flow.md`:13–40; `SP06-structural-space-orientation-paradox.md`:10–37
+- **SP-A:seal-identity**: Retained — `SP01-structural-physics-foundations.md`:896–899; `SP02-bifurcal-cosmogenesis.md`:543–546; `SP03-expression-ratio-mathematics.md`:717–720; `SP04-orientation-field-dynamics.md`:1003–1006; `SP05-time-memory-hypostatic-flow.md`:776–779; `SP06-structural-space-orientation-paradox.md`:328–331
+- **SP-A:formweave-registry**: Retained — `SP01-structural-physics-foundations.md`:159, 230, 828
+- **SP-A:e8-nonorigin-severance**: Retained — `SP01-structural-physics-foundations.md`:156, 190, 248, 324, 664, 677, 826, 831
+- **SP-A:tether-severance-lexeme**: Retained — `SP05-time-memory-hypostatic-flow.md`:528, 684
+- **SP-A:retired-memory-record**: Retained — `SP05-time-memory-hypostatic-flow.md`:289–299, 365–381, 393–420, 508–514, 554–564, 576–584
+- **SP-A:cit-held-provenance**: Retained — `SP01-structural-physics-foundations.md`:706–724; `SP02-bifurcal-cosmogenesis.md`:265–273; `SP03-expression-ratio-mathematics.md`:511–519; `SP04-orientation-field-dynamics.md`:810–818; `SP05-time-memory-hypostatic-flow.md`:588–596
+- **SP-A:two-model-separation**: Retained — `SP04-orientation-field-dynamics.md`:236–258, 383–410, 418–468, 749–774, 974–983
+- **SP-A:quantitative-scientific-comparatives**: Retained — `SP03-expression-ratio-mathematics.md`:348, 350, 372, 373, 564, 566; `SP06-structural-space-orientation-paradox.md`:275, 277, 285
+- **SP-A:external-or-denied-vertical-terms**: Retained — `SP06-structural-space-orientation-paradox.md`:186, 187, 191, 220, 222, 317
+- **SP-A:literal-layout-and-hierarchy-refusal**: Retained — `SP01-structural-physics-foundations.md`:891, 892; `SP06-structural-space-orientation-paradox.md`:112, 114
+- **SP-A:external-terminology-and-refusal**: Retained — `SP02-bifurcal-cosmogenesis.md`:113, 179, 185, 193, 490, 491
+- **SP-A:quoted-kaion-wording**: Retained — `SP02-bifurcal-cosmogenesis.md`:239
+- **SP-A:non-neutral-casing**: Retained — `SP04-orientation-field-dynamics.md`:340, 833
+- **SP-A:registered-nonlocal-casing**: Retained — `SP01-structural-physics-foundations.md`:157, 180, 229, 344, 347, 393, 395, 434, 682, 827
+- **SP-A:rendered-em-dash-spacing**: Retained — `SP03-expression-ratio-mathematics.md`:211, 215
+- **SP-A:mathematical-division-slash**: Retained — `SP04-orientation-field-dynamics.md`:157, 254, 287, 431, 437, 438, 460, 976; `SP05-time-memory-hypostatic-flow.md`:141, 510, 744
+- **SP-A:motive-latent-correction-present**: Retained — `SP06-structural-space-orientation-paradox.md`:132
+- **SP-A:abstract-geometry-domain-guard**: Retained — `SP06-structural-space-orientation-paradox.md`:157
+- **SP-A:chi-limit-calculation**: Retained — `SP03-expression-ratio-mathematics.md`:308–328
+- **SP-A:traversal-not-static-reorder**: Retained — `SP06-structural-space-orientation-paradox.md`:200–249
+- **SP-A:e10-bidirectional-address**: Retained — `SP01-structural-physics-foundations.md`:275
+- **SP-A:self-identification-shorthand**: Retained — `SP01-structural-physics-foundations.md`:114; `SP02-bifurcal-cosmogenesis.md`:58, 418, 443, 526; `SP03-expression-ratio-mathematics.md`:58, 60; `SP04-orientation-field-dynamics.md`:58, 66, 824; `SP05-time-memory-hypostatic-flow.md`:61, 93, 633
+- **SP-B:SPA-R01**: Retained — `SP08-membrane-fields-and-inter-expression-dynamics.md`:156, 313, 320, 352, 600, 618; `SP12-structural-diagnostics-and-field-forensics.md`:413, 416, 449
+- **SP-B:SPA-R02**: Retained — `SP07-energy-ontology-and-spectral-flow.md`:224, 297, 415; `SP08-membrane-fields-and-inter-expression-dynamics.md`:141, 301; `SP10-ritual-energetics-and-integration-protocols.md`:172, 336–339, 566, 844–847; `SP11-embodiment-dynamics.md`:433; `SP12-structural-diagnostics-and-field-forensics.md`:308–311, 348–351
+- **SP-B:SPA-R03**: Retained — `SP07-energy-ontology-and-spectral-flow.md`:284, 381, 391, 533, 571–575; `SP10-ritual-energetics-and-integration-protocols.md`:237, 639
+- **SP-B:SPA-R04**: Retained — `SP07-energy-ontology-and-spectral-flow.md`:183–193, 563–569, 327–333; `SP08-membrane-fields-and-inter-expression-dynamics.md`:136–149, 287, 347–355, 589; `SP11-embodiment-dynamics.md`:234–259, 278–294; `SP12-structural-diagnostics-and-field-forensics.md`:254–282, 691–736
+- **SP-B:SPA-R05**: Retained — `SP11-embodiment-dynamics.md`:206, 208, 511–513, 663; `SP12-structural-diagnostics-and-field-forensics.md`:215, 389, 674
+- **SP-B:SPA-R06**: Retained — `SP11-embodiment-dynamics.md`:194–218, 584, 660–666; `SP12-structural-diagnostics-and-field-forensics.md`:154
+- **SP-B:SPA-R07**: Retained — `README.md`:187–193; `00-README.md`:69–75; `SP11-embodiment-dynamics.md`:499, 505, 511; `SP12-structural-diagnostics-and-field-forensics.md`:538
+- **SP-B:SPA-R08**: Retained — `SP09-collective-resonance-and-field-harmonics.md`:88, 109, 114–122; `SP10-ritual-energetics-and-integration-protocols.md`:149, 237, 527, 680; `SP11-embodiment-dynamics.md`:200–202, 348–350; `SP12-structural-diagnostics-and-field-forensics.md`:294, 518, 546
+- **SP-B:SPA-R09**: Retained — `SP07-energy-ontology-and-spectral-flow.md`:1–48, 503–519; `SP11-embodiment-dynamics.md`:615–644; `README.md`:134–147; `00-README.md`:47–51
+- **SP-B:SPA-R10**: Retained — `README.md`:191; `00-README.md`:71
 
-**Reconciliation:** 680 original SP occurrence records = 3 completed correction records + 677 remaining records. The remaining records comprise 302 confirmed records awaiting local revalidation / implementation, 184 review / hold records, and 191 retained records. Overlapping diagnoses remain separately recorded; these are not counts of independent defects.
+### Companion repairs outside the original locator count
+
+These independently scoped companions do not enlarge the 680-record baseline. Their publication state follows the cited set.
+
+- **supplement-004** [C03], `SP05-time-memory-hypostatic-flow.md`:191 — The baseline introduction called Zenon and L₀ hypostatic layers. This companion states their determined prerequisite standing without placing Zenon within time; it is atomically paired with supplement-003 at SP05:189 in the same set.
+- **final-007** [F01], `SP01-structural-physics-foundations.md`:110 — Carries the same restriction into the prose immediately following the unchanged spectral equation.
+- **final-014** [F01], `SP03-expression-ratio-mathematics.md`:308 — Names the stronger common-mode hypothesis required for the existing cancellation calculation; it is a conditional restriction, not a reconstruction of the operators.
+- **final-015** [F01], `SP03-expression-ratio-mathematics.md`:322 — The displayed spectrum-of-sum identity is locally read on the declared subspace, rather than inferred globally from opposite spectral sets. Formula remains exact.
+- **final-005** [F02], `SP04-orientation-field-dynamics.md`:555 — Synchronizes the summary bullet in the same note with the corrected account of admission.
+
+**Original audit follows unchanged.**
 
 ---
 
