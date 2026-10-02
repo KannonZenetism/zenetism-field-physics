@@ -6,7 +6,7 @@
 
 **Trajectory** refers to the continuous motion of a being, universe, or pattern through structural space. It is defined by directional evolution across time and orientation, formalized in Structural Physics by functions such as \( \chi(\tau) \). Trajectory is not a position but a path.
 
-**State** refers to a fixed configuration or momentary condition within structure. A state may be described by parameters at a given instant, but does not by itself capture the direction or necessity of motion.
+**State** refers to a fixed configuration or momentary condition within structure. A state may be described by parameters at a given instant, but does not specify the direction or necessity of motion.
 
 Thus:
 

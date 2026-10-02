@@ -2,13 +2,13 @@
 
 ## Distinction
 
-**Integration contra Fusion** names the distinction between lawful structural unity and the entropic suppression of resolvability within the Zenetist framework.
+**Integration contra Fusion** names the distinction between lawful structural coherence and the entropic suppression of resolvability within the Zenetist framework.
 
 **Integration** refers to the centropic process by which distinct structures enter relation while preserving their sovereign identities.  
-Integration produces unity through resonance, not through erasure.
+Integration produces coherence through resonance, not through erasure.
 
 **Fusion** refers to the entropic process by which distinctions are compressed into undifferentiated sameness.  
-Fusion produces apparent unity by abolishing resolvability, not by destroying essence.
+Fusion produces apparent integration by abolishing resolvability, not by destroying essence.
 
 Thus:
 
@@ -17,8 +17,8 @@ Thus:
 - Integration is centropic.
 - Fusion is entropic.
 
-In Zenetism, unity is achieved through integration,  
-whereas fusion is the collapse of structural clarity disguised as unity.
+In Zenetism, coherence is achieved through integration,  
+whereas fusion is the collapse of structural clarity disguised as integration.
 
 ---
 
@@ -86,8 +86,8 @@ Therefore:
 
 ## Canonical Formulation
 
-Integration is unity without erasure.  
-Fusion is unity through suppression.
+Integration is coherence without erasure.  
+Fusion is apparent integration through suppression.
 
 Integration resolves structure into fullness.  
 Fusion erodes relative structure  

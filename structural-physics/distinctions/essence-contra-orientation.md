@@ -6,7 +6,7 @@
 
 **Essence** refers to the intrinsic structural character of a being or pattern, persisting across all regimes of reality, including pre-expressive domains such as Absolute Potential (AP), Absolute Dispersion (AD), and CP₀. Essence may retain latent affinity toward integration or dispersion without constituting expressed motion.
 
-**Orientation** refers to the directional bias of motion within hypostatic expression, formalized by the orientation parameter \( \chi \). Orientation exists only after Motive Infinity activates motion and polarity, and governs the trajectory of centropic and entropic expression within \( \chi \)-space.
+**Orientation** refers to the directional bias of motion within hypostatic expression, formalized by the orientation parameter \( \chi \). Orientation exists only after Motive Infinity activates motion and polarity, and determines the trajectory of centropic and entropic expression within \( \chi \)-space.
 
 Thus:
 

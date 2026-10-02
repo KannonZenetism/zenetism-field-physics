@@ -13,7 +13,7 @@ In Zenetism, genuine nullity is not ontologically admissible; it exists only as 
 Thus:
 
 - Stillness is structural.
-- Nullity is anti-structural.
+- Nullity would negate structure.
 - Stillness suspends motion.
 - Nullity would abolish structure.
 

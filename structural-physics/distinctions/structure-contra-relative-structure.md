@@ -5,7 +5,7 @@
 **Structure contra Relative Structure** names the distinction between the invariant laws of the Lattice and the transient configurations of expressed motion.
 
 **Structure (Absolute)** refers to the immutable architecture of the Lattice (CP-Logic).  
-It is the law that permits both coherence and entropy.  
+It is the law that makes both coherence and entropy possible.  
 Structure cannot be destroyed, only expressed.
 
 **Relative Structure** refers to the specific, intelligible forms generated within the Lattice (universes, beings, trajectories).  
@@ -67,7 +67,7 @@ Structure is the law of possibility.
 Relative Structure is the articulation of actuality.
 
 Entropy may dissolve forms,  
-but it cannot dissolve the laws that permit form.
+but it cannot dissolve the laws that make form possible.
 
 Entropy abolishes Relative Structure,  
 but never Structure itself.
