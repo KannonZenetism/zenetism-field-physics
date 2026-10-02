@@ -345,9 +345,9 @@ Where \( \mathcal{E}_{C_i} \) denotes energy configuration at centropic node \( 
 - Characteristic of IL₅ → IL₁ and IL₁ → IL₅ subversal traversal
 
 **Transitional Flow** (\( \chi \approx 1 \)):
-- Resonance at threshold; direction determined by local perturbation
-- Unstable; tends toward resolution in one direction or the other
-- Characteristic of CP₁ dynamics (see SP04)
+- Near co-expression, the direction of drift is model-specific
+- In the outward-drift model at constant positive Motive Intensity, perturbations move away from CP₁; the exact co-expressive trajectory remains admitted
+- The full law attracts finite positive trajectories toward CP₁ with its stated positive coefficients and constant nonnegative Motive Intensity (see `SP04-orientation-field-dynamics.md` §§4.5 and 9)
 
 ### 6.3 Spectral Diagnostics
 

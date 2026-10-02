@@ -51,9 +51,9 @@ Provides the mathematical formalism for expression ratios — the structural par
 ### SP04 — Orientation Field Dynamics
 `SP04-orientation-field-dynamics.md`
 
-The dynamical companion to SP03. Formalizes how orientation evolves over structural time. Introduces the CP-topology potential, the Zenetist Field Equation of Orientation, and proves the Orientation Drift Theorem — including \( \text{CP}_1 \) instability, drift asymmetry between Aionic and Khaonic trajectories, and the Equilibrium-Collapse clause. Codifies the Inclination Principle and the Laws of Inclined Existence.
+The dynamical companion to SP03. Formalizes how orientation evolves over structural time. Introduces the CP-topology potential, the Zenetist Field Equation of Orientation, and the Orientation Drift Theorem for the conditional outward-drift model — including \( \text{CP}_1 \) instability at constant positive Motive Intensity and the stated endpoint conditions. Distinguishes this model from the full written law and records the additional cessation condition for frozen-equilibrium resolution. Codifies the Inclination Principle and the Laws of Inclined Existence.
 
-**Key contributions:** CP-topology, Zenetist Field Equation, Orientation Drift Theorem, Inclination Principle, Orientation Closure Sequence (\( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)), distinction between Localized Dissolution (Ø) and Collapse (⊘).
+**Key contributions:** CP-topology, Zenetist Field Equation, Orientation Drift Theorem, Inclination Principle, Orientation Closure Sequence for frozen-equilibrium resolution (\( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \), with cessation of enacted orientation), distinction between Localized Dissolution (Ø) and Collapse (⊘).
 
 ---
 
@@ -166,7 +166,7 @@ Each document depends on all preceding documents.
 
 **Collapse (⊘)** — Dispersive dissolution into formlessness. Entropic cessation of coherence at any scale of expression. Essence persists, but expressed orientation is lost.
 
-**The Orientation Drift Theorem** — Proves that \( \text{CP}_1 \) is dynamically unstable, that Khaonic drift reaches its limit in finite structural time while Aionic drift approaches asymptotically, and that permanent equilibrium implies dissolution.
+**The Orientation Drift Theorem** — For the outward-drift model at constant positive Motive Intensity, \( \text{CP}_1 \) is a scalar repeller, Khaonic coordinate divergence occurs at finite structural time, and Aionic approach to zero is asymptotic. Frozen-equilibrium resolution requires cessation of enacted orientation in addition to fixed co-expression; the mathematical relation remains held.
 
 **The Inclination Principle** — No expressed universe emerges in perfect neutrality. Expression is never neutral; balance is not the origin of reality but the exception within it.
 

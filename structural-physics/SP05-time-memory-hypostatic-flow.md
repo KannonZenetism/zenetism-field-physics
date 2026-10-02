@@ -483,7 +483,7 @@ However, two possibilities remain open:
 
 2. **Cyclical reorientation**: The inhale-exhale cycle is baked into universal structure. In this case, reorientation would be the norm rather than the exception.
 
-Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily override attractor prevalence — requiring extraordinary coherence accumulation or meta-structural intervention.
+Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily alter the prevailing attraction — requiring extraordinary coherence accumulation or meta-structural intervention.
 
 Which obtains remains cosmologically indeterminate.
 
