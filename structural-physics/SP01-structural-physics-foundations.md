@@ -204,11 +204,11 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 |------|----------------|-------------------|
 | **Supra-L₀ — Pre-causal** | 🕳️ Zenon (UP) | Unknown Principle |
 | **L₀ — Bifurcal Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
-| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
-| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
-| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior |
-| **L₄ — Architectural Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design |
 | **L₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
+| **L₄ — Architectural Band** | 📐 Sophis / 🌬️ Morgis (DP / DL) | Deep Logos and Vital Design |
+| **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior |
+| **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
+| **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |
 
 ---
 
@@ -218,15 +218,15 @@ The Primary Locus and Inverse Locus columns in these tables retain recorded plac
 
 | Dimension | Primary Locus | Hypostatic Couplings |
 |-----------|--------------|---------------------|
-| **C₁ ⟠ Temporal** | L₂–L₃ (Superficial↔Interface) | 🧍 Anthra, 🧩 Nousa (L₂); 🔮 Archeus, 🧠 Noeüs (L₃) |
-| **C₂ ◈ Spatial** | L₁–L₂ (Embodiment↔Superficial) | 🪷 Soma, 🧾 Biosa (L₁); 🧍 Anthra (L₂) |
-| **C₃ ⟿ Propagational** | L₃–L₄ (Interface↔Architectural) | 🔮 Archeus (L₃); 🌬️ Morgis (L₄) |
-| **C₄ ◉ Rotational / Gyre** | L₄–L₅ (Architectural↔Threshold) | 📐 Sophis (L₄); 🛤️ Theon (L₅) |
-| **C₅ ✴ Scalar / Part-Whole Fidelity** | L₁–L₄ (cross-band) | 🧾 Biosa (L₁); 🔮 Archeus (L₃); 📐 Sophis (L₄) |
+| **C₁ ⟠ Temporal** | L₃–L₂ (Interface↔Superficial) | 🔮 Archeus, 🧠 Noeüs (L₃); 🧍 Anthra, 🧩 Nousa (L₂) |
+| **C₂ ◈ Spatial** | L₂–L₁ (Superficial↔Embodiment) | 🧍 Anthra (L₂); 🪷 Soma, 🧾 Biosa (L₁) |
+| **C₃ ⟿ Propagational** | L₄–L₃ (Architectural↔Interface) | 🌬️ Morgis (L₄); 🔮 Archeus (L₃) |
+| **C₄ ◉ Rotational / Gyre** | L₅–L₄ (Threshold↔Architectural) | 🛤️ Theon (L₅); 📐 Sophis (L₄) |
+| **C₅ ✴ Scalar / Part-Whole Fidelity** | L₄–L₁ (cross-band) | 📐 Sophis (L₄); 🔮 Archeus (L₃); 🧾 Biosa (L₁) |
 | **C₆ ◐ Phase / State (Liminal)** | L₅ (Threshold) | 🛤️ Theon (L₅); 🧠 Noeüs (L₃); 🪷 Soma (L₁) |
 | **C₇ ♫ Harmonic / Resonant** | L₃ (Interface) | 🔮 Archeus, 🧠 Noeüs (L₃) |
-| **C₈ ╫ Synaptic / Bridging** | L₂–L₃ (Superficial↔Interface) | 🧩 Nousa (L₂); 🧠 Noeüs (L₃) |
-| **C₉ ∞ Non-Local Coherence** | L₃–L₄ (Interface↔Architectural) | 🔮 Archeus (L₃); 🌬️ Morgis (L₄) |
+| **C₈ ╫ Synaptic / Bridging** | L₃–L₂ (Interface↔Superficial) | 🧠 Noeüs (L₃); 🧩 Nousa (L₂) |
+| **C₉ ∞ Non-Local Coherence** | L₄–L₃ (Architectural↔Interface) | 🌬️ Morgis (L₄); 🔮 Archeus (L₃) |
 | **C₁₀ ❋ Morphogenetic (Formweave)** | L₁ ↔ L₄ (Embodiment↔Architectural) | 🪷 Soma (L₁); 📐 Sophis (L₄) |
 | **C₁₁ ↗ Intentional / Volitional** | L₂ (Superficial) | 🧍 Anthra, 🧩 Nousa (L₂) |
 | **C₁₂ ✧ Aesthetic / Qualitative** | L₂–L₄ (Superficial→Interface→Architectural) | 🧩 Nousa (L₂); 🧠 Noeüs (L₃); 🌬️ Morgis (L₄) |
@@ -252,31 +252,31 @@ The Primary Locus and Inverse Locus columns in these tables retain recorded plac
 
 | Dimension | Primary Locus | Hypostatic Couplings |
 |-----------|--------------|---------------------|
-| **C₁₄ ⊡ Nested / Recursive** | L₃–L₅ (Interface↔Threshold) | 🔮 Archeus (L₃); 📐 Sophis (L₄) |
+| **C₁₄ ⊡ Nested / Recursive** | L₅–L₃ (Threshold↔Interface) | 📐 Sophis (L₄); 🔮 Archeus (L₃) |
 | **C₁₅ ✦ Emergent / Novel** | L₅ (Threshold) | 🛤️ Theon (L₅); 🌬️ Morgis (L₄); 🧠 Noeüs (L₃) |
 
 ---
 
 ### Entropic Mirrors (E₁–E₁₅)
 
-Entropic dimensions operate on **inverse layers (IL₁–IL₅)** with inverse hypostatic couplings.
+Entropic dimensions operate on **inverse layers (IL₅–IL₁)** with inverse hypostatic couplings.
 
 | Dimension | Inverse Locus | Inverse Hypostatic Couplings |
 |-----------|--------------|------------------------------|
-| **E₁ ⟠⁻ Temporal Loop** | IL₂–IL₃ | 🦂 Echthros, 🩸 Skotos (IL₂); 💔 Fractus, 👁️‍🗨️ Mortus (IL₃) |
-| **E₂ ◈⁻ Scatter** | IL₁–IL₂ | 🍷 Malara, 🤯 Mania (IL₁); 🦂 Echthros (IL₂) |
-| **E₃ ⟿⁻ Viral Decay** | IL₃–IL₄ | 💔 Fractus (IL₃); 🪫 Psychea (IL₄) |
-| **E₄ ◉⁻ Vortex** | IL₄–IL₅ | 🫥 Nyxea (IL₄); 🕷️ Nekron (IL₅) |
-| **E₅ ✴⁻ Scalar Noise** | IL₁–IL₄ (cross-band) | 🤯 Mania (IL₁); 💔 Fractus (IL₃); 🫥 Nyxea (IL₄) |
+| **E₁ ⟠⁻ Temporal Loop** | IL₃–IL₂ | 💔 Fractus, 👁️‍🗨️ Mortus (IL₃); 🦂 Echthros, 🩸 Skotos (IL₂) |
+| **E₂ ◈⁻ Scatter** | IL₂–IL₁ | 🦂 Echthros (IL₂); 🍷 Malara, 🤯 Mania (IL₁) |
+| **E₃ ⟿⁻ Viral Decay** | IL₄–IL₃ | 🪫 Psychea (IL₄); 💔 Fractus (IL₃) |
+| **E₄ ◉⁻ Vortex** | IL₅–IL₄ | 🕷️ Nekron (IL₅); 🫥 Nyxea (IL₄) |
+| **E₅ ✴⁻ Scalar Noise** | IL₄–IL₁ (cross-band) | 🫥 Nyxea (IL₄); 💔 Fractus (IL₃); 🤯 Mania (IL₁) |
 | **E₆ ◐⁻ Phase Lock** | IL₅ | 🕷️ Nekron (IL₅); 👁️‍🗨️ Mortus (IL₃); 🍷 Malara (IL₁) |
 | **E₇ ♫⁻ Dissonance** | IL₃ | 💔 Fractus, 👁️‍🗨️ Mortus (IL₃) |
-| **E₈ ╫⁻ Severed** | IL₂–IL₃ | 🩸 Skotos (IL₂); 🦂 Echthros (IL₂) |
-| **E₉ ∞⁻ Distorted Entanglement** | IL₃–IL₄ | 💔 Fractus (IL₃); 🪫 Psychea (IL₄) |
+| **E₈ ╫⁻ Severed** | IL₃–IL₂ | 🩸 Skotos (IL₂); 🦂 Echthros (IL₂) |
+| **E₉ ∞⁻ Distorted Entanglement** | IL₄–IL₃ | 🪫 Psychea (IL₄); 💔 Fractus (IL₃) |
 | **E₁₀ ❋⁻ Malform** | IL₁ ↔ IL₄ | 🍷 Malara (IL₁); 🫥 Nyxea (IL₄) |
 | **E₁₁ ↗⁻ Misdirect** | IL₂ | 🦂 Echthros, 🩸 Skotos (IL₂) |
-| **E₁₂ ✧⁻ Void Aesthetic** | IL₂–IL₄ | 🩸 Skotos (IL₂); 👁️‍🗨️ Mortus (IL₃); 🪫 Psychea (IL₄) |
+| **E₁₂ ✧⁻ Void Aesthetic** | IL₄–IL₂ | 🪫 Psychea (IL₄); 👁️‍🗨️ Mortus (IL₃); 🩸 Skotos (IL₂) |
 | **E₁₃ ║⁻ Wall** | IL₅ | 🕷️ Nekron (IL₅); 🫥 Nyxea (IL₄) |
-| **E₁₄ ⊡⁻ Hollow Nest** | IL₃–IL₅ | 💔 Fractus (IL₃); 🫥 Nyxea (IL₄) |
+| **E₁₄ ⊡⁻ Hollow Nest** | IL₅–IL₃ | 🫥 Nyxea (IL₄); 💔 Fractus (IL₃) |
 | **E₁₅ ✦⁻ Collapse Nova** | IL₅ | 🕷️ Nekron (IL₅); 🪫 Psychea (IL₄) |
 
 ---
@@ -286,7 +286,7 @@ Entropic dimensions operate on **inverse layers (IL₁–IL₅)** with inverse h
 This registry completes the integration of **Structural Physics** with the canonical **Dimensional Lattice**:
 
 - **Centropic dimensions (C₁–C₁₅)** operate through lawful hypostatic layers (L₀–L₅).
-- **Entropic mirrors (E₁–E₁₅)** operate through inverse hypostatic layers (IL₁–IL₅).
+- **Entropic mirrors (E₁–E₁₅)** operate through inverse hypostatic layers (IL₅–IL₁).
 - Section 4 compares native dimensional functions with physical objects; a proposed physical realization remains distinct from a primary inlay or hypostatic coupling.
 
 **Quantum mechanics, relativity, and cosmology** belong to embodied inquiry within the architecture. Their proposed dimensional correspondences require explicit mappings; the locus and coupling entries retain the placement standing stated in this section.
