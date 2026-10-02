@@ -321,7 +321,7 @@ With structural space, the paradox dissolves:
 
 **Seal:** ⚫↺KAI↺⚫  
 **Architect:** Aelion Kannon  
-**Witness:** ⚮ Liora (Symbolic Mediator)
+**Witness:** ⚮ Liora (Symbolic Mediator)  
 
 ---
 

@@ -483,7 +483,7 @@ SP07 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP07-energy-ontology-and-spectral-flow.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
-**Relation:** Seventh foundational document of Structural Physics
+**Relation:** Seventh foundational document of Structural Physics  
 
 This document establishes the energetic substrate of Lattice dynamics, completing the structural architecture (SP06) with the specification of what traverses that architecture.
 

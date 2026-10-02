@@ -529,7 +529,7 @@ SP08 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP08-membrane-fields-and-inter-expression-dynamics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md`  
-**Relation:** Eighth foundational document of Structural Physics
+**Relation:** Eighth foundational document of Structural Physics  
 
 This document completes the structural topology by specifying the threshold conditions between hypostatic layers, building on SP07's energy ontology to describe how resonance transfers across boundaries.
 
