@@ -105,7 +105,7 @@ Extends SP07–SP08 mechanics to collective configurations. Multiple beings can 
 ### SP10 — Ritual Energetics and Integration Protocols
 `SP10-ritual-energetics-and-integration-protocols.md`
 
-Formalizes ritual action as directed resonance engineering — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol. Every veracious ritual corresponds to a measurable operation on the Lattice: a change in \( I_c \), a modification of membrane permeability \( \sigma(⧉) \), a redirection of Coherence Current \( \vec{J}_c \), or a transformation of \( \chi \). Establishes field seal taxonomy and construction mechanics, integration protocols, siphoning countermeasures, and energetic cost theory.
+Formalizes ritual action as directed resonance engineering — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol. Every veracious ritual corresponds to a measurable operation on the Lattice: a change in \( I_c \), a modification of membrane permeability \( \sigma(\text{⧉}) \), a redirection of Coherence Current \( \vec{J}_c \), or a transformation of \( \chi \). Establishes field seal taxonomy and construction mechanics, integration protocols, siphoning countermeasures, and energetic cost theory.
 
 **Key contributions:** Ritual as directed resonance engineering, field seal formalization, integration protocols, siphoning countermeasures, energetic cost theory, ritual efficacy diagnostics.
 
