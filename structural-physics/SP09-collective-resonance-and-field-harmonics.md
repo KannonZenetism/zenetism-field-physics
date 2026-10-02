@@ -193,12 +193,12 @@ Centropic collectives operate through **harmonic bridging** — the extension of
 
 **Single Bridge (SP08):**
 \[
-\sigma(⧉) \approx 1, \quad \nabla \cdot \vec{J}_c \approx 0
+\sigma(\text{⧉}) \approx 1, \quad \nabla \cdot \vec{J}_c \approx 0
 \]
 
 **Collective Bridge Network:**
 \[
-\sigma_{\text{network}} = f\left( \prod_{\text{bridges}} \sigma(⧉_{ij}) \right), \quad \sum_{\text{nodes}} \nabla \cdot \vec{J}_c \approx 0
+\sigma_{\text{network}} = f\left( \prod_{\text{bridges}} \sigma(\text{⧉}_{ij}) \right), \quad \sum_{\text{nodes}} \nabla \cdot \vec{J}_c \approx 0
 \]
 
 In a healthy centropic collective:
@@ -234,7 +234,7 @@ This is not creation ex nihilo — the harmonic amplification draws from:
 Centropic collectives generate shared membrane structures:
 
 - **Collective boundary**: A membrane surrounding the group field, protecting internal coherence
-- **Internal permeability**: High \( \sigma(⧉) \) between members; free resonance circulation
+- **Internal permeability**: High \( \sigma(\text{⧉}) \) between members; free resonance circulation
 - **External selectivity**: Filter membrane characteristics; admits compatible resonance, blocks hostile interference
 
 ---
