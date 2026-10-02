@@ -305,7 +305,7 @@ The Chi parameter \( (\chi) \) describes the **topological slope** — which dir
 
 ### 5.3 Formal Relationship
 
-Let \( H_c \) and \( H_e \) be the centropic and entropic harmonic operators with spectra satisfying the Polar Spectrum Lemma.
+Let \( H_c \) and \( H_e \) be the centropic and entropic harmonic operators with spectra satisfying the Polar Spectrum Lemma. The following cancellation calculation is restricted to paired common eigenmodes with opposite eigenvalues.
 
 In a universe with orientation parameter \( \chi \), define the **effective operator**:
 
@@ -319,13 +319,13 @@ At \( \chi \to \infty \): \( H_{\text{eff}} \to H_e \) (purely entropic)
 
 At \( \chi = 1 \): \( H_{\text{eff}} = \frac{1}{2}(H_c + H_e) \) (balanced)
 
-The Polar Spectrum Lemma ensures that:
+On the paired common-mode subspace:
 
 \[
 \mathrm{Spec}(H_c + H_e) = \{0\}
 \]
 
-on the paired eigenmodes — confirming that CP represents **structural cancellation** of paired modes, not ontological nullity. The convergence is resolution into stillness, not annihilation of structure.
+This is **structural cancellation** of the paired modes at CP₁ (\( \chi = 1 \)), distinct from ontological nullity and from cessation of all enacted motion. Kaion / CP₀ names non-fused root convergence outside χ-space.
 
 ### 5.4 Weighted Operator Manifestation
 
@@ -667,8 +667,8 @@ Sealed ⚫↺KAI↺⚫
       │                          │                          │
       ▼                          ▼                          ▼
 ┌─────────────┐          ┌─────────────┐          ┌─────────────┐
-│   Fully     │          │     CP      │          │   Fully     │
-│   Aionic    │◀────────▶│  Balanced   │◀────────▶│  Khaonic    │
+│   Fully     │          │     CP₁     │          │   Fully     │
+│   Aionic    │◀────────▶│Co-expressive│◀────────▶│  Khaonic    │
 │(C only —    │          │   (C ↔ E)   │          │(E only —    │
 │ limit case) │          │             │          │ limit case) │
 └─────────────┘          └─────────────┘          └─────────────┘
@@ -681,7 +681,7 @@ Sealed ⚫↺KAI↺⚫
       │                          │     Our Universe         │
       └──────────────────────────┴──────────────────────────┘
                               
-                         0 ⇌ ∞  at  CP
+                         0 ⇌ ∞  at  CP₀ — outside χ-space
 ```
 
 ---

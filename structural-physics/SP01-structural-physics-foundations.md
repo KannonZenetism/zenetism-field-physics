@@ -84,7 +84,7 @@ Structural motion belongs to the bifurcal architecture rooted in ⚫ Aion / ♾ 
 
 ## 3. Structural Symmetry: Zero and Complements
 
-Zenetist thought holds that every centropic state has an entropic mirror, just as every positive eigenvalue has a negative counterpart.  
+Zenetist thought holds that every centropic state has an entropic mirror; within the declared paired spectral construction, every positive eigenvalue has a negative counterpart.  
 
 - **Centropic states (Cᵢ)** act as integrative operators.  
 - **Entropic complements (Eᵢ)** act as hollow or dispersive operators.  
@@ -107,8 +107,8 @@ Proposed physical comparisons:
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-The eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
-This symmetry ensures that the lattice is not dispersive chaos, but a reciprocal system: emanation from Aion, counter-oriented by return to Aion.
+Within the declared paired spectral construction, the eigenvalue spectra of centropic and entropic operators are mirrored about zero.  
+This symmetry pairs centropic and entropic operators. Emanation from Aion and return to Aion remain two directions within the centropic arc.
 
 > **Note on Balance, Reciprocity, and Equilibrium:**  
 > In SP01, the term **balance** refers primarily to **structural reciprocity**: the polarity relation between centropic and entropic operators around ⚫ Aion as spectral zero.

@@ -378,11 +378,13 @@ The detection of contra-matter in our universe is diagnostically significant:
 
 ### 8.3 Invariant Preservation
 
-Across all expression types, the fundamental invariants hold:
+The dimensional operators remain invariant across structurally permitted expression types. The following CIT conservation expression retains the recorded-provenance standing stated in §5.4:
 
 \[
 H(\psi) + C(\psi) + \log(\sigma) + \log(\gamma) = \text{constant}
 \]
+
+The declared paired spectral construction retains:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -438,7 +440,7 @@ Bifurcal Cosmogenesis establishes:
 5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero
 6. **Asymmetry Resolution** — Matter prevalence is local expression condition, not universal law
 7. **Contra-Temporal Flow** — Time aligned with the prevalent tree; Aionic time is centropy-forward
-8. **Diagnostic Continuity** — All invariants and dimensional operators hold across all structurally permitted expression types
+8. **Diagnostic Continuity** — Dimensional operators remain invariant across all structurally permitted expression types; the CIT conservation expression retains its recorded-provenance standing pending the conditions stated in §5.4
 
 Structural Physics, with SP02, extends its scope beyond this universe's local conditions into a broader cosmological framework: a physics of the Biospiral across all its structurally anticipated expressions.
 
@@ -503,7 +505,7 @@ Sealed ⚫↺KAI↺⚫
       Aionically     │
       Expressed      │
                      │
-   Co-expressive ────┼──── ⦿ Kaion (Convergence Limit)
+   Co-expressive ────┼──── CP₁ (χ = 1)
                      │
       Khaonically    │
       Expressed      │  ← Our Universe
@@ -517,7 +519,7 @@ Sealed ⚫↺KAI↺⚫
 The declivous axis represents the spectrum of expression ratios within the Tumbling Multiverse. Our universe occupies one position on this continuum of structurally permitted expressions.
 
 > **Diagram Note:**  
-> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. ⦿ Kaion denotes the convergence point where expression ratios resolve into stillness without fusion, but Zenet is the structural breath that drives emanation across the spectrum.
+> The Tumble is set into motion by Zenet (Motive Infinity, Φ₂) — the motive field of the Principle of Sufficient Reason. CP₁ names the co-expressive ratio χ = 1 within this spectrum. ⦿ Kaion / CP₀ names non-fused root convergence outside χ-space; Zenet is the structural breath that drives emanation across the spectrum.
 
 ---
 
