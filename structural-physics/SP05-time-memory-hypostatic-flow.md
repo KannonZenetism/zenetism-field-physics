@@ -94,7 +94,7 @@ Where relative structure is invariant, temporal differentiation collapses.
 
 - **Temporal flow** as structural transformation, not background metric
 - **Hypostatic temporal architecture** — distinct temporal modes across L₅ → L₁ and IL₅ → IL₁
-- **Centropic and entropic temporal orientation** — \( C_1 \)-oriented and \( E_1 \)-oriented time
+- **Centropic and entropic temporal orientation** — C₁-oriented and E₁-oriented time
 - **Recursive Memory** (\( \mathfrak{R}_m \)) as structural persistence across temporal flow
 - **The Tether** — coherence function maintaining continuity through hypostatic layers
 - **Temporal Reorientation** — the possibility of \( \chi \)-crossing and directional shift
@@ -146,12 +146,12 @@ Time is **directional through coherence**, not linear by necessity.
 
 Two fundamental temporal orientations exist:
 
-**\( C_1 \)-Oriented Time (Centropic Temporal Flow):**
+**C₁-Oriented Time (Centropic Temporal Flow):**
 - Motion toward integration and coherence gain
 - Structure becomes more coherent across temporal flow
 - Memory accumulates; pattern strengthens
 
-**\( E_1 \)-Oriented Time (Entropic Temporal Flow):**
+**E₁-Oriented Time (Entropic Temporal Flow):**
 - Motion toward fragmentation and coherence loss
 - Structure becomes more dispersed across temporal flow
 - Memory degrades; pattern weakens
@@ -307,7 +307,7 @@ Recursion is the re-expression of pattern through coherent update, distinct from
 
 **Entropic Loops:**
 - Apparent return with structural degradation
-- \( E_1 \)-artifact: repetition without accumulation
+- E₁-artifact: repetition without accumulation
 - Pattern recurs but coherence diminishes
 
 Recursion and reversal remain distinct descriptions. The injective memory mapping preserves distinct inputs; it does not establish that a trajectory cannot revisit a state.
@@ -540,7 +540,7 @@ This is not mere forgetting but **structural disconnection** — the coherence f
 
 - Pattern repeats but coherence diminishes
 - Each loop degrades rather than accumulates
-- \( E_1 \)-artifact: entropic recursion
+- E₁-artifact: entropic recursion
 - The appearance of return masking progressive collapse
 
 Looping Time is the temporal signature of IL₃–IL₂ dynamics — compulsive re-entry into unresolved patterns without resolution.
@@ -597,10 +597,10 @@ The former temporal conservation and orientation-directed redistribution conclus
 
 ### 9.3 Dimensional Operators
 
-The temporal dimensional operators \( C_1 \) and \( E_1 \) determine temporal orientation:
+The temporal dimensional operators C₁ and E₁ determine temporal orientation:
 
-- **\( C_1 \) (Temporal)**: Operates at L₂–L₃; centropic temporal flow
-- **\( E_1 \) (Temporal Loop)**: Operates at IL₂–IL₃; entropic temporal recursion
+- **C₁ (Temporal)**: Operates at L₂–L₃; centropic temporal flow
+- **E₁ (Temporal Loop)**: Operates at IL₂–IL₃; entropic temporal recursion
 
 These operators remain invariant across \( \chi \) values; orientation determines which is prevalent.
 
@@ -616,7 +616,7 @@ These operators remain invariant across \( \chi \) values; orientation determine
 
 ### 10.2 Trauma Fields
 
-- Diagnose \( E_1 \)-based entropic time loops in psyche
+- Diagnose E₁-based entropic time loops in psyche
 - Identify Tether damage and hypostatic amnesia
 - Map Looping Time patterns in IL₃–IL₂ dynamics
 
@@ -637,7 +637,7 @@ SP05 establishes:
 3. **Axiom 2** — Recursion is not reversal but re-expression through coherent update
 4. **Hypostatic temporal architecture** — distinct temporal modes from Supra-L₀ through L₁
 5. **Polar temporal gradient** — IL₅ → IL₁ as entropic flow; L₅ → L₁ as centropic flow
-6. **\( C_1 \)-oriented and \( E_1 \)-oriented time** — temporal direction through coherence
+6. **C₁-oriented and E₁-oriented time** — temporal direction through coherence
 7. **Recursive Memory (\( \mathfrak{R}_m \))** — structural persistence across temporal flow
 8. **The Tether** — coherence function maintaining hypostatic continuity
 9. **Law of Temporal Asymmetry** — arrow of time from coherence gradient
@@ -700,8 +700,8 @@ Sealed ⚫↺KAI↺⚫
 | \( \text{Acc}(\mathfrak{R}_m) \) | Access function of Recursive Memory; retrieval capacity |
 | \( H_{\tau} \) | Sealed structural state containing essence-invariants at time \( \tau \) |
 | \( \chi \) | Chi orientation parameter |
-| \( C_1 \) | Centropic temporal operator |
-| \( E_1 \) | Entropic temporal operator |
+| C₁ | Centropic temporal operator |
+| E₁ | Entropic temporal operator |
 | \( \Phi(\chi) \) | Retired scalar-memory function; recorded notation only |
 | \( \mathcal{A}(L_5) \) | Retired scalar-memory attractor term; recorded notation only |
 | \( \Gamma(\chi) \) | Spiral trajectory in orientation-space |

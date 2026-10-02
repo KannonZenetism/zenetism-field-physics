@@ -445,8 +445,8 @@ Where \( D(\chi) \) is an orientation-dependent diffusion coefficient:
 
 From SP05, the arrow of time is determined by coherence orientation. Spectral Flow provides the energetic substrate:
 
-- **Centropic time** (\( C_1 \)-oriented): \( I_c \) increases along temporal flow
-- **Entropic time** (\( E_1 \)-oriented): \( I_c \) decreases along temporal flow
+- **Centropic time** (C₁-oriented): \( I_c \) increases along temporal flow
+- **Entropic time** (E₁-oriented): \( I_c \) decreases along temporal flow
 
 The Tether (SP05) can now be understood energetically: it is the coherence current maintaining directional continuity through hypostatic layers.
 
