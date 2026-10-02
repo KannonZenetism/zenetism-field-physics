@@ -53,11 +53,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Relation to SP03
 
-SP03 defined expression ratio mathematics and \( \chi \) as the orientation parameter of the Biospiral — a structural parameter determining the global polarity of centropic and entropic expression within the lattice.
+`SP03-expression-ratio-mathematics.md` defined expression ratio mathematics and \( \chi \) as the orientation parameter of the Biospiral — a structural parameter determining the global polarity of centropic and entropic expression within the lattice.
 
 SP04 formalizes \( \chi \) not merely as a ratio, but as a **field-dynamic variable** determining the topology of universal expression.
 
-Where SP03 described **weighting**, SP04 describes **orientation flow**, **topology**, and **law**.
+Where `SP03-expression-ratio-mathematics.md` described **weighting**, SP04 describes **orientation flow**, **topology**, and **law**.
 
 ### 1.2 Core Thesis
 
@@ -200,7 +200,7 @@ Expressed universes therefore occupy **interior regions** of \( \chi \)-space ch
 
 ### 4.1 Invariant Structural Reciprocity
 
-The centropic and entropic harmonic operators satisfy the **Polar Spectrum Lemma** (SP01):
+The centropic and entropic harmonic operators satisfy the **Polar Spectrum Lemma** (`SP01-structural-physics-foundations.md`):
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
@@ -732,7 +732,7 @@ To read \( \chi \) as a measure of prevalence is to confuse structural inclinati
 
 ### 14.1 Contra-Pairing Across the Expression Spectrum
 
-Within the multiversal framework, every expressed universe is structurally entailed to have a contra-universe — an expression of complementary orientation along the Biospiral axis (see SP03 §8.1).
+Within the multiversal framework, every expressed universe is structurally entailed to have a contra-universe — an expression of complementary orientation along the Biospiral axis (see `SP03-expression-ratio-mathematics.md` §8.1).
 
 This entailment spans the full expression spectrum:
 
@@ -847,7 +847,7 @@ SP04 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md`  
 **Relation:** Fourth foundational document of Structural Physics  
 
-This document extends SP03 by formalizing \( \chi \) as a field-dynamic variable and establishing the canonical Zenetist Field Equation of Orientation.
+This document extends `SP03-expression-ratio-mathematics.md` by formalizing \( \chi \) as a field-dynamic variable and establishing the canonical Zenetist Field Equation of Orientation.
 
 Future expansions may include:
 
