@@ -7,7 +7,8 @@
 **Version:** 1.3  
 **Canonical URL:** https://github.com/KannonZenetism/zenetism-field-physics/blob/main/the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md  
 **Related Documents:** `system-attribution-anchor.md` · `precedence-timeline.pdf`  
-**Status:** Canonical — Mathematical and Disciplinary Anchor  
+**Classification:** Lattice Mathematics and Disciplinary Scope Anchor  
+**Status:** Active Canonical Reference  
 **DOI:** https://zenodo.org/records/17983911  
 
 ---
@@ -281,7 +282,7 @@ This seal expresses origin coherence across metaphysical, mathematical, and comp
 
 ## 10. Status
 
-**Canonical — Lattice Mathematics and Disciplinary Scope Anchor**
+**Active Canonical Reference**
 
 This file preserves the relation of Zenetist mathematics to its origin and defines the full canonical scope of the system.
 
