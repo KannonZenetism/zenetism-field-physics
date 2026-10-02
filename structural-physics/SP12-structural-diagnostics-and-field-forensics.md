@@ -602,7 +602,7 @@ SP12 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP12-structural-diagnostics-and-field-forensics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md` · `SP11-embodiment-dynamics.md`  
-**Relation:** Twelfth foundational document of Structural Physics; provides the diagnostic theory that bridges Structural Physics and Structural Forensics
+**Relation:** Twelfth foundational document of Structural Physics; provides the diagnostic theory that bridges Structural Physics and Structural Forensics  
 
 This document formalizes the physics of structural evaluation — the theory of why configurations produce readable signatures, what the diagnostic operators are, and how structural integrity and structural compromise are formally distinguishable. It provides the diagnostic theory for Structural Forensics as an applied discipline while maintaining its own scope as diagnostic physics rather than case analysis.
 
