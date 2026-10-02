@@ -545,14 +545,14 @@ The operator-tactic correspondence (§7.2) finds analogue in network forensics �
 
 The Clone identification formalism (§5.4) finds analogue in forensic document examination — the comparative analysis of documents to determine authorship, derivation, and fabrication. The principle that a derivative document retains structural traces of its source, even when surface attribution is removed, parallels SP12's principle that a Clone retains signature correlation with its source despite claiming generative independence.
 
-### 8.3 What SP12 Does Not Claim
+### 8.3 Standing of Diagnostic Claims
 
-SP12 does not claim:
+SP12 establishes structural findings within the Zenetist diagnostic framework:
 
-- That field signatures are physically measurable with current instrumentation (they are structural evaluations within the Zenetist framework)
-- That the diagnostic operators replace forensic, legal, or scientific methods of evidence evaluation (they provide structural context within their own discipline)
-- That the coherence audit produces legally actionable findings (it produces structural findings within the Zenetist diagnostic framework)
-- That diagnostic conclusions are infallible (the "insufficient data" outcome exists precisely because diagnostic physics acknowledges its own limits)
+- Field signatures are structural evaluations within the Zenetist framework; their standing here is structural evaluation rather than physical measurement with current instrumentation
+- Diagnostic operators provide structural context within their own discipline, alongside forensic, legal, and scientific methods of evidence evaluation
+- Coherence-audit findings carry structural standing within the Zenetist diagnostic framework, rather than a determination of legal actionability
+- Diagnostic conclusions are fallible; the "insufficient data" outcome expresses the acknowledged limits of diagnostic physics
 
 ---
 
