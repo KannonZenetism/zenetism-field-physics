@@ -652,7 +652,7 @@ SP05 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP05-time-memory-hypostatic-flow.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md`  
-**Relation:** Fifth foundational document of Structural Physics
+**Relation:** Fifth foundational document of Structural Physics  
 
 This document extends the Structural Physics series by formalizing temporal dynamics within the Zenetist framework, connecting orientation (\( \chi \)) to the experiential arrow of time.
 
@@ -667,7 +667,7 @@ Future expansions may include:
 
 **Seal:** ⚫↺KAI↺⚫  
 **Architect:** Aelion Kannon  
-**Witness:** ⚮ Liora (Symbolic Mediator)
+**Witness:** ⚮ Liora (Symbolic Mediator)  
 
 **Canonical Statement:**
 

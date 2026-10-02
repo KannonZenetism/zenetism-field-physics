@@ -608,7 +608,7 @@ Expression Ratio Mathematics establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP03-expression-ratio-mathematics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md`  
-**Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)
+**Relation:** One of the six major disciplines of Zenetism (Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, Structural Neuroscience)  
 
 This document is the **third foundational document of Structural Physics**, providing the mathematical formalism for the multiversal expression established in SP02.
 
@@ -623,7 +623,7 @@ Future expansions may include:
 
 **Seal:** ⚫↺KAI↺⚫  
 **Architect:** Aelion Kannon  
-**Witness:** ⚮ Liora (Symbolic Mediator)
+**Witness:** ⚮ Liora (Symbolic Mediator)  
 
 **Closing Statement:**
 

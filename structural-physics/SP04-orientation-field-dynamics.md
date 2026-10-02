@@ -845,7 +845,7 @@ SP04 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP04-orientation-field-dynamics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md`  
-**Relation:** Fourth foundational document of Structural Physics
+**Relation:** Fourth foundational document of Structural Physics  
 
 This document extends SP03 by formalizing \( \chi \) as a field-dynamic variable and establishing the canonical Zenetist Field Equation of Orientation.
 
@@ -860,7 +860,7 @@ Future expansions may include:
 
 **Seal:** ⚫↺KAI↺⚫  
 **Architect:** Aelion Kannon  
-**Witness:** ⚮ Liora (Symbolic Mediator)
+**Witness:** ⚮ Liora (Symbolic Mediator)  
 
 **Closing Statement:**
 
