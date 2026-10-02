@@ -714,7 +714,7 @@ Sealed ⚫↺KAI↺⚫
 
 ## Appendix B — Hypostatic Temporal Modes
 
-**Pre-Hypostatic:**
+**Pre-hypostatic:**
 
 - **Supra-L₀ (Zenon)** — Beyond time; trans-temporal ground
 - **L₀ (Aion / Khaon)** — All timelines latent; temporal possibility

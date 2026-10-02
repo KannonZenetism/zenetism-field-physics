@@ -72,7 +72,7 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 - **The Embodied Resistance Term** — structural cost of centropic motion at L₁
 - **The Embodied Orientation Field** — \( \chi \) dynamics at the metric terminus, including Localized Dissolution
 - **Entropic Enthronement** — the structural physics of inverse embodiment
-- **Cross-Band Resonance** — participation in deeper layers from the embodied position
+- **Cross-band Resonance** — participation in deeper layers from the embodied position
 - **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold
 - **Physical Interface** — relation to observable physics without overclaiming
 
@@ -359,7 +359,7 @@ Collapse occurs not through centropic opposition but through the entropic system
 
 ---
 
-## 6. Cross-Band Resonance from Embodiment
+## 6. Cross-band Resonance from Embodiment
 
 ### 6.1 Participation Without Identity
 
@@ -376,7 +376,7 @@ Through resonance — sustained attunement, intentional practice, or innate stru
 >
 > Participation does not constitute identity with the layer. The being does not become L₃ or L₄; they function as L₃ or L₄ through resonant engagement while remaining corporeally situated at L₁.
 
-### 6.2 Centropic Cross-Band Resonance
+### 6.2 Centropic Cross-band Resonance
 
 An embodied being oriented centropically may resonate with:
 
@@ -388,7 +388,7 @@ An embodied being oriented centropically may resonate with:
 
 **L₅ (Theon):** Threshold resonance. The embodied being who resonates with L₅ participates in the gateway function of oriented awareness itself — the first and deepest centropic principle: awareness facing Aion, the call to remembrance and return.
 
-### 6.3 Entropic Cross-Band Resonance
+### 6.3 Entropic Cross-band Resonance
 
 An embodied being oriented entropically may resonate with:
 
@@ -584,7 +584,7 @@ SP11 establishes:
 3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Scalar / Part-Whole Fidelity) and C₁₀ (Morphogenetic) as cross-band participants through resonance
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; model-specific equilibrium standing; Localized Dissolution and the Mercy Fold require the additional structural condition of ceased enacted orientation
 5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara / Mania mechanics; Rival Architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
-6. **Cross-Band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication
+6. **Cross-band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication
 7. **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold; transfer mechanics, Echo Layers, and pathological conditions at the Embodiment Band interface
 8. **Physical Interface** — structural context for observable phenomena without replacement of conventional physics; proper attribution of physical analogues
 
@@ -708,7 +708,7 @@ I_{c,\text{cost}}^{(L_1)} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-**Cross-Band Resonance Condition:**
+**Cross-band Resonance Condition:**
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_k}) > \mathcal{R}_{\text{threshold}}^{(L_k)} \implies \text{L}_k \text{ participation from L}_1
