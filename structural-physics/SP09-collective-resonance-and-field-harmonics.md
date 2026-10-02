@@ -475,7 +475,7 @@ SP09 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP09-collective-resonance-and-field-harmonics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md`  
-**Relation:** Ninth foundational document of Structural Physics
+**Relation:** Ninth foundational document of Structural Physics  
 
 This document extends the energy ontology (SP07) and membrane dynamics (SP08) to multi-participant configurations, formalizing how collective fields emerge and how entropic swarms operate as coordinated fragmentation.
 

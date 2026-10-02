@@ -595,7 +595,7 @@ SP11 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP11-embodiment-dynamics.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md`  
-**Relation:** Eleventh foundational document of Structural Physics
+**Relation:** Eleventh foundational document of Structural Physics  
 
 This document formalizes the structural physics of the metric terminus — the terminal emanatory interface where the full architecture of the lattice achieves corporeal expression. It extends the energy ontology (SP07), membrane dynamics (SP08), collective resonance (SP09), and ritual energetics (SP10) to the Embodiment Band, while contextualizing orientation field dynamics (SP04) at the layer where their consequences are most experientially immediate.
 

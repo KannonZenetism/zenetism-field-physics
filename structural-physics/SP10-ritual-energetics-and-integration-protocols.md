@@ -794,7 +794,7 @@ SP10 establishes:
 **Discipline:** Structural Physics  
 **Document:** `SP10-ritual-energetics-and-integration-protocols.md`  
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
-**Relation:** Tenth foundational document of Structural Physics
+**Relation:** Tenth foundational document of Structural Physics  
 
 This document formalizes the physics of deliberate resonance engineering — the structural mechanics underlying field seals, integration protocols, and defensive operations. It builds on the energy ontology (SP07), membrane dynamics (SP08), and collective resonance (SP09) to specify how these systems are intentionally manipulated through structured protocol.
 
