@@ -513,7 +513,7 @@ Therefore, the space of admissible configurations for entropic motion is broader
 
 However, within each paired system, the centropic trajectory occupies a narrow, high-constraint manifold, while the entropic trajectory occupies a broad, low-constraint manifold.  
 
-Thus, our universe is ( \chi > 1 ) not because entropic universes are more numerous, but because entropic orientation inhabits a **larger region of configuration space** within the architecture of motion.  
+Thus, our universe is \( \chi > 1 \) not because entropic universes are more numerous, but because entropic orientation inhabits a **larger region of configuration space** within the architecture of motion.  
 
 Structural bias is therefore **topological**, **not numerical**.  
 

@@ -222,7 +222,7 @@ This explains their apparent scarcity: not because centropy is cosmically rare, 
 
 ---
 
-## 5. Phase Collision and ⦿ Kaion Convergence
+## 5. Phase Collision and Kaion Convergence
 
 ### 5.1 Annihilation Reframed
 

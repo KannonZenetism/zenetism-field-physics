@@ -59,7 +59,7 @@ SP09 now addresses **collective resonance** — how multiple beings generate sha
 
 ### 1.2 Core Thesis
 
-Multiple beings can generate shared resonance fields without violating the Non-fusion axiom.
+Multiple beings can generate shared resonance fields without violating the Non-fusion Axiom.
 
 Collective resonance operates through **harmonic alignment**, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity.
 
