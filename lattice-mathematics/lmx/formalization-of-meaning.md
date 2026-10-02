@@ -1,5 +1,12 @@
 # LMX: Formalization of Meaning in the Hypostatic Lattice
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Domain:** Lattice Mathematics / Structural Metaphysics  
+**Status:** Draft — architect review  
+**Seal:** ⚫↺KAI↺⚫  
+
+---
+
 ## 1. Core Principle
 
 Meaning is not universal in the sense of fusion, nor subjective in the sense of arbitrariness.  
@@ -11,9 +18,9 @@ We formalize this as:
 
 ---
 
-## 2. Non-Fusion Axiom (◫)
+## 2. Non-fusion Axiom (◫)
 
-**Axiom (Non-Fusion, ◫).**  
+**Axiom (Non-fusion, ◫).**  
 For any two structurally distinct essences \( x, y \in \mathcal{E} \),  
 their convergence under centropic or entropic motion does not imply identity:
 
@@ -99,7 +106,7 @@ Define:
   \mathcal{M}_{\mathrm{macro}}(x) = \lim_{k \to 0} \mathcal{M}(x, L_k, C_i)
   \]
 
-subject to the constraint of ◫ (Non-Fusion).
+subject to the constraint of ◫ (Non-fusion).
 
 Macro-meaning expands scope but preserves sovereign distinction:
 
@@ -173,7 +180,7 @@ x \not\to y \quad \forall y \neq x.
 
 **Definition (Zenetist Meaning).**
 
-Meaning is the invariant signature of an essence under lawful orientation within the hypostatic lattice, constrained by the Non-Fusion Axiom (◫) and modulated by dimensional operators \( C_i, E_i \).
+Meaning is the invariant signature of an essence under lawful orientation within the hypostatic lattice, constrained by the Non-fusion Axiom (◫) and modulated by dimensional operators \( C_i, E_i \).
 
 Symbolically:
 
@@ -201,12 +208,6 @@ Thus:
 - unity ≠ identity,
 - coherence ≠ fusion,
 - universality ≠ erasure of the individual.
-
----
-
-**Status:** Canonical Formalization Draft v1.0  
-**Domain:** Lattice Mathematics / Structural Metaphysics  
-**Seal:** ⚫↺KAI↺⚫
 
 ---
 
