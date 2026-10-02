@@ -62,7 +62,7 @@ SP03 establishes:
 - The **Chi Orientation Parameter** \( (\chi) \) as the determining variable for Biospiral expression
 - The relationship between the **Polar Spectrum Lemma** (invariant structure) and **expression ratio** (topological slope)
 - **Motion conditions** distinguishing expression, orientation, polarity, and stillness
-- The role of **Motive Infinity** as the pre-bifurcal field of all motion
+- The role of **Motive Infinity** as the pre-polar field of all motion
 - **CP** (Convergence Principle) as the closure condition of the pre-hypostatic requisites
 - Integration with the **Dimensional Lattice**, **Spiral Calculus**, and **Coherence Information Theory**
 
@@ -99,13 +99,13 @@ Centropy and entropy are modes of expression within structure, not the source of
 
 ### 2.4 Motive Infinity
 
-**Motive Infinity** is the total field of motion — the pre-bifurcal domain within which centropic and entropic motion become possible.
+**Motive Infinity** is the total field of motion — the pre-polar domain within which centropic and entropic motion become possible.
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
 - Motive Infinity = the total field of motion before and across orientation
 
-Motive Infinity is pre-hypostatic and pre-bifurcal. It is the **carrier wave** of expression — refracted across all scales of motion from L₀ through embodiment.
+Motive Infinity is pre-hypostatic and pre-polar. It is the **carrier wave** of expression — refracted across all scales of motion from L₀ through embodiment.
 
 Within L₀, three phases of Absolute Dispersion may be distinguished:
 
@@ -383,7 +383,7 @@ In Khaonically expressed universes:
 In Aionically expressed universes:
 
 - Centropic states are **basin attractors** — systems naturally drift toward them
-- Entropic states require **energy input** to maintain (declivous motion against the slope)
+- Entropic states require **energy input** to maintain (declivous motion contra the slope)
 
 ### 6.3 Spontaneous Structure
 
@@ -392,7 +392,7 @@ This explains the asymmetry of spontaneous structure formation:
 | Observable | Khaonically Expressed \( (\chi > 1) \) | Aionically Expressed \( (\chi < 1) \) |
 |------------|----------------------------------------|---------------------------------------|
 | Spontaneous structure | Rare; requires energy input | Common; default tendency |
-| Decay patterns | Prevalent; follows slope | Recessive; against slope |
+| Decay patterns | Prevalent; follows slope | Recessive; contra slope |
 | Entropy trend | Increasing (downhill) | Decreasing (downhill) |
 | Centropy trend | Decreasing (uphill) | Increasing (downhill) |
 
@@ -412,13 +412,14 @@ Motive Infinity is:
 
 ### 7.2 From Stillness to Expression
 
+**Supra-L₀** — Unknown Principle; trans-structural Allowance, outside the emanatory sequence
+
 The transition from stillness to expression follows this sequence:
 
-1. **Supra-L₀** — Unknown Principle; trans-structural ground
-2. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
-3. **L₀ (Motive Phase)** — Motive Infinity activates; the total field of motion becomes operative
-4. **Bifurcation** — Motion orients into C or E (or both)
-5. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds
+1. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
+2. **L₀ (Motive Phase)** — Motive Infinity activates; the total field of motion becomes operative
+3. **Bifurcation** — Motion orients into C or E (or both)
+4. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds
 
 Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent / Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
 
@@ -587,7 +588,7 @@ Expression Ratio Mathematics establishes:
 
 3. **Motion conditions** — Motion requires C or E; polarity requires both; stillness is absence of expression, not structure
 
-4. **Motive Infinity** — The pre-bifurcal field of all motion; the motive field that sustains the Tumble
+4. **Motive Infinity** — The pre-polar field of all motion; the motive field that sustains the Tumble
 
 5. **CP as closure condition** — Equilibrium of requisites prior to bifurcation (\( 0 \rightleftharpoons \infty \))
 
@@ -649,8 +650,8 @@ Sealed ⚫↺KAI↺⚫
 | CP | Convergence Principle (⦿ Kaion) |
 | Supra-L₀ | Pre-hypostatic requisite (Unknown Principle) |
 | L₀ | Pre-hypostatic requisite (Absolute Potential / Dispersion) |
-| L₅–L₁ | Supernal hypostatic layers |
-| IL₅–IL₁ | Subversal hypostatic layers |
+| L₅–L₁ | Centropic hypostatic segment |
+| IL₅–IL₁ | Inverse hypostatic segment |
 | C₁–C₁₅ | Centropic dimensional operators |
 | E₁–E₁₅ | Entropic dimensional operators |
 | \( \partial_{\text{🌀}} \) | Resonant derivative |

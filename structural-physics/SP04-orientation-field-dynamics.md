@@ -276,7 +276,7 @@ For \( \Lambda,\Gamma,\alpha,\beta>0 \), the written scalar equation is defined 
 
 ### 5.1 Role of Motive Infinity
 
-**Motive Infinity** (\( \mathcal{M} \)) is the pre-bifurcal field of all motion — the total domain within which centropic and entropic expression become possible.
+**Motive Infinity** (\( \mathcal{M} \)) is the pre-polar field of all motion — the total domain within which centropic and entropic expression become possible.
 
 - Motive Infinity ≠ centropy
 - Motive Infinity ≠ entropy
@@ -288,11 +288,12 @@ The structural activation condition holds active expression and positive Motive 
 
 ### 5.3 Structural Sequence
 
-1. **Supra-L₀** — Trans-structural ground (Unknown Principle)
-2. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
-3. **Motive Infinity activation** — The total field of motion becomes operative
-4. **Orientation emergence** — \( \chi \)-field instantiates
-5. **Hypostatic expression** — L₅ → L₁ / IL₅ → IL₁ unfolds
+**Supra-L₀** — Unknown Principle; trans-structural Allowance, outside the emanatory sequence
+
+1. **L₀ (Latent Phase)** — Stillness within Zero; pre-motion potential
+2. **Motive Infinity activation** — The total field of motion becomes operative
+3. **Orientation emergence** — \( \chi \)-field instantiates
+4. **Hypostatic expression** — L₅ → L₁ / IL₅ → IL₁ unfolds
 
 Motive Infinity breaks the stillness-equivalence between Absolute Potential and Latent / Dispersive phases of Absolute Dispersion. Only then does hypostatic expression become possible.
 
@@ -492,7 +493,7 @@ Therefore, in \( \chi \)-space, entropic orientations occupy a **broader region*
 
 ### 10.3 Canonical Formulations
 
-> Aion demands harmony.  
+> Centropic expression requires harmony.  
 > Khaon permits dispersion.
 
 Or:
@@ -902,8 +903,8 @@ Sealed ⚫↺KAI↺⚫
 | Ø | Localized Dissolution |
 | Supra-L₀ | Pre-hypostatic requisite (Unknown Principle) |
 | L₀ | Pre-hypostatic requisite (Absolute Potential / Dispersion) |
-| L₅–L₁ | Supernal hypostatic layers |
-| IL₅–IL₁ | Subversal hypostatic layers |
+| L₅–L₁ | Centropic hypostatic segment |
+| IL₅–IL₁ | Inverse hypostatic segment |
 | C₁–C₁₅ | Centropic dimensional operators |
 | E₁–E₁₅ | Entropic dimensional operators |
 
