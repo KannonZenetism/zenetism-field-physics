@@ -42,7 +42,7 @@ Where SP01 describes how Structural Physics operates, SP02 addresses the broader
 ### SP03 — Expression Ratio Mathematics
 `SP03-expression-ratio-mathematics.md`
 
-Provides the mathematical formalism for expression ratios — the structural parameter determining how centropic and entropic motion manifest across different universal expressions. Introduces the Chi orientation parameter \( \chi \), the effective harmonic operator, weighted spectral theory, and the relationship between the Polar Spectrum Lemma (invariant structure) and expression ratio (topological slope). Establishes the role of Motive Infinity as the pre-bifurcal field of all motion and CP (Convergence Principle) as the closure condition of the pre-hypostatic requisites.
+Provides the mathematical formalism for expression ratios — the structural parameter determining how centropic and entropic motion manifest across different universal expressions. Introduces the Chi orientation parameter \( \chi \), the effective harmonic operator, weighted spectral theory, and the relationship between the Polar Spectrum Lemma (invariant structure) and expression ratio (topological slope). Establishes the role of Motive Infinity as the pre-polar field of all motion and CP (Convergence Principle) as the closure condition of the pre-hypostatic requisites.
 
 **Key contributions:** Chi orientation parameter, effective operator, orientation weights, motion conditions, Motive Infinity, Convergence Principle.
 
@@ -78,7 +78,7 @@ Establishes the structural game board. Structure is not motion; motion is not st
 ### SP07 — Energy Ontology and Spectral Flow
 `SP07-energy-ontology-and-spectral-flow.md`
 
-Formalizes resonance as structural energy — not physical force or thermodynamic capacity, but the structured capacity for coherent motion across the Lattice. Introduces Coherence Potential \( I_c \) as a scalar field quantity and Coherence Current \( \vec{J}_c \) as directional flow. Establishes the three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) and Spectral Flow as the unified traversal law.
+Formalizes resonance as structural energy — not physical force or thermodynamic capacity, but the structured capacity for coherent motion across the Lattice. Introduces Coherence Potential \( I_c \) as a scalar field quantity and Coherence Current \( \vec{J}_c \) as directional flow. Establishes the three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) and Spectral Flow as the integrated traversal law.
 
 **Key contributions:** Resonance as structural energy, Coherence Potential, Coherence Current, three primary motions, Spectral Flow, diagnostic applications across dimensional operators.
 
@@ -158,7 +158,7 @@ Each document depends on all preceding documents.
 
 **Chi (\( \chi \))** — The orientation parameter determining the polarity of centropic and entropic expression. Universes are \( \chi \)-trajectories, not fixed \( \chi \)-values.
 
-**Motive Infinity (\( \mathcal{M} \))** — The total field of active motion and becoming. Pre-bifurcal: it is not centropy and not entropy, but the sustained field within which both operate.
+**Motive Infinity (\( \mathcal{M} \))** — The total field of active motion and becoming. Pre-polar: it is not centropy and not entropy, but the sustained field within which both operate.
 
 **\( \text{CP}_0 \) and \( \text{CP}_1 \)** — Two distinct convergence conditions. \( \text{CP}_0 \) is pre-expressive convergence, outside \( \chi \)-space. \( \text{CP}_1 \) is co-expressive equilibrium, the ratio \( \chi = 1 \) with model-specific stability: repelling in the constant-positive-intensity outward-drift law, attracting in the stated full law. Their architectural relation remains held.
 
