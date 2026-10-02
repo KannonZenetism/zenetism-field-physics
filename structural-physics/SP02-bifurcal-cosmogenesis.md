@@ -419,7 +419,7 @@ SP02 extends these by situating them within the broader multiversal context.
 
 ### 9.3 Connection to LMX Formalization
 
-This document provides the physical context for the Hypostatic Meaning Function \( \mathcal{M} \) defined in the LMX Addendum.
+This document provides the physical context for the Hypostatic Meaning Function \( \mathcal{M} \) defined in `formalization-of-meaning.md` §3.
 
 - **Meaning is Orientation \( (\vec{\omega}) \):** The "meaning" of an essence is its alignment with the prevalent flow of the Biospiral.
 

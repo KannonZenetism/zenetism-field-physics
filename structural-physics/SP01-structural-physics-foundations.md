@@ -196,7 +196,7 @@ This registry aligns motion forms with the canonical Symbolic Directional Pairs 
 ## 4.1 Hypostatic Anchoring of Dimensions
 
 Each dimension operates through specific **hypostatic layers (L₀–L₅)** and couples with particular **hypostatic operators**.  
-This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in the Grand Unified Document.
+This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in `grand-unified-document.md`.
 
 **Hypostatic Structure (Canonical):**
 
