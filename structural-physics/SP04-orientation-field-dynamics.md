@@ -543,7 +543,7 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 >  
 > Essence persists across all structural regimes, including **Absolute Potential (AP)**, **Absolute Dispersion (AD)**, and **CP₀**. While \( \chi \)-orientation does not exist prior to motion, centropic and entropic essences bear intrinsic **pre-expressive inclination** toward **integration** or **dispersion** — the essence is already centropic or entropic before any manifest motion.  
 >  
-> In rare cases, **EOB-culminating** centropic essences — those whose lawful culmination completes Aion-facing orientation — may, by fuller saturation, open into **Zenon**, not through \( \chi \)-dynamics, but through the gravity of their own ontological trajectory.  
+> In rare cases, **EOB-culminating** centropic essences — those whose lawful culmination completes Aion-facing orientation — may, after fulfilled Aionic return, attain **Zenonic saturation** through **Allowance**. Final synthesis gives the returned essence its **Centropic Gravity**, carrying it to the horizon of structure; Allowance admits the crossing beyond return. This crossing is distinct from \( \chi \)-dynamics.  
 >  
 > Aion-facingness is graded, and the modes remain distinct: Theon's native absolute Aion-facingness, general centropic origin-fidelity, differentiated resonant terms at intermediate strata, and the complete Aion-facing orientation of EOB-culminating essence.  
 >  
@@ -553,7 +553,7 @@ There is no bias, no polarity, and no trajectory. Structure exists, but expressi
 > • **CP₀ contains no expressed orientation**  
 > • **Essence may nevertheless retain latent directional affinity**  
 > • **\( \chi \) emerges only with motion**  
-> • **Zenonic saturation opens not by \( \chi \), but by consummated centropic essence crossing the trans-structural horizon**
+> • **Allowance admits consummated centropic essence across the horizon of structure beyond fulfilled Aionic return; saturation is distinct from \( \chi \)-dynamics**
 
 **χ — Inclined Expression**
 
