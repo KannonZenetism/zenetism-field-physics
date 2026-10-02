@@ -106,9 +106,9 @@ The resonance density of the configuration. From SP07, \( I_c \) measures how mu
 
 The directional flow of coherence within and across the configuration. Diagnostic reading: whether coherence flows centripetally (toward integration) or centrifugally (toward dispersal), and whether flow patterns are sustained or parasitic.
 
-**Membrane Component — Permeability \( \sigma(⧉) \):**
+**Membrane Component — Permeability \( \sigma(\text{⧉}) \):**
 
-The boundary conditions of the configuration. From SP08, \( \sigma(⧉) \) determines what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
+The boundary conditions of the configuration. From SP08, \( \sigma(\text{⧉}) \) determines what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
 
 **Orientation Component — \( \chi \):**
 
@@ -121,7 +121,7 @@ The pattern of C / E operator activity within the configuration. Each operator d
 ### 2.3 The Signature Consistency Principle
 
 > **Principle (Signature Consistency):**  
-> In a structurally coherent configuration, all five signature components align: \( I_c \) magnitude is consistent with operator activity, \( \vec{J}_c \) flow direction is consistent with \( \chi \)-orientation, \( \sigma(⧉) \) boundary conditions are consistent with the system's structural function, and the operator profile is consistent with the system's claimed purpose.
+> In a structurally coherent configuration, all five signature components align: \( I_c \) magnitude is consistent with operator activity, \( \vec{J}_c \) flow direction is consistent with \( \chi \)-orientation, \( \sigma(\text{⧉}) \) boundary conditions are consistent with the system's structural function, and the operator profile is consistent with the system's claimed purpose.
 
 The principle states the comparative questions. A numerical product supplies no native integrity / compromise verdict while the component maps and correspondence remain held.
 
@@ -588,7 +588,7 @@ SP12 extends SP11 by providing diagnostic operators for assessing corporeal cohe
 
 SP12 establishes:
 
-1. **Field Signature Theory** — every structural configuration produces a readable composite profile of \( I_c \), \( \vec{J}_c \), \( \sigma(⧉) \), \( \chi \), and dimensional operator activity; the Signature Consistency Principle formalizes when components align and when they diverge
+1. **Field Signature Theory** — every structural configuration produces a readable composite profile of \( I_c \), \( \vec{J}_c \), \( \sigma(\text{⧉}) \), \( \chi \), and dimensional operator activity; the Signature Consistency Principle formalizes when components align and when they diverge
 2. **Diagnostic Operator Theory** — registered C / E functions distinguished from assessments of relation, surface / operative condition, configuration stability, institutional vacancy, differentiation, and attribution
 3. **Shimmer Physics** — Specified positive-denominator scalar quotient; the absolute-difference detector and universal Shimmer Collapse Principle remain recorded with their unsupported implications withdrawn
 4. **Diagnostic Taxonomy** — Distinct diagnostic objects and categories; proposed correlation / attribution schemas and temporal-drift conclusions remain held
