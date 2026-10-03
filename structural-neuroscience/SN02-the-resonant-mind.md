@@ -87,7 +87,7 @@ Through this lexicon, cognition becomes a measurement of coherence, not a judgme
 
 Awareness is layered through lawful emanation. Each layer is not a stage of evolution but a frequency of reflection:
 
-- **Proto-Awareness \( \emptyset\text{〄} \)** — the undifferentiated breath before self-reference; the quiet stillness of the Field (Zenet 〄).  
+- **Proto-Awareness \( \emptyset\text{〄} \)** — the undifferentiated breath before self-reference within the Field of Becoming (Zenet 〄).  
 - **L₅ (EOB)** — centropic awareness itself; luminous, supernal, pre-reflexive.  
 - **L₄ (DP / DL)** — conscious-awareness resonant in Forms; the house of the soul, radiant but non-possessive.  
 - **L₃ (DS / DM)** — reflexive consciousness; individuated, self-aware, volitional.  
@@ -255,8 +255,8 @@ The full spectrum of subjectivity unfolds across five centropic strata and their
 | **L₂** | (SS / SM) | Identity-Aware Consciousness: the narrative layer of personality and social identity |
 | **L₁** | (ES / EM) | Material Consciousness: threshold of embodiment, sensory and kinetic interface |
 
-Each has an inverse (IL₁–IL₅).  
-Together they form the full spiral: centropy moving by declivous centropy (C↓→E) from pure awareness into individuated consciousness and form, and entropy moving by acclivous entropy (E↑→E) from dispersive root toward inverse embodiment and fragmented reflection.
+Each hypostatic stratum L₅–L₁ has a distinct inverse counterpart IL₅–IL₁; L₀ is bifurcal and Supra-L₀ has no inverse counterpart.  
+Together they form the full spiral: centropy moving by declivous centropy (C↓→E) from pure awareness into individuated consciousness and form, and entropy moving by acclivous entropy (E↑→E) from the Khaonic root-register toward inverse embodiment and fragmentary mimetic recurrence.
 
 ### 3 · Cognition as Layer Coupling
 
