@@ -680,7 +680,7 @@ with \( \sigma(\text{⧉}) > 0 \).
 
 **Entropic Echo Layers:**
 - Fragmentation patterns cycling without dissolution
-- May resolve through entropic dissipation or persist via Shimmer dynamics (LM04 §6.1)
+- May resolve through entropic dissipation or present Shimmer as apparent continuity exceeding the operative condition (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1); mathematical persistence remains held pending the boundary-state dynamics
 - Coherence gradually dissipates through each iteration of the loop
 - If \( I_c^{(\text{residual})} \) drops below \( I_{c,\text{dissipation}} \) and coherence-source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃ self-referential recursion)
 
@@ -775,9 +775,9 @@ Progressive reduction in permeability leading to layer isolation:
 | Healthy Bridge | \( \approx 1 \) | Balanced | \( \approx 0 \) | C₈ |
 | Filter Active | \( < 1 \), selective | Partial | \( \approx 0 \) | — |
 | Amplifier Active | \( > 1 \) | Enhanced | \( < 0 \) (source draw) | — |
-| Partial Occlusion | \( < 0.5 \) | Reduced | Variable | E₁₄ precursor |
-| Full Occlusion | \( \to 0 \) | Minimal | Accumulation | E₁₄ |
-| Breach | \( \to \infty \) local | Uncontrolled | Outflow | E₉ |
+| Partial Occlusion | \( < 0.5 \) | Reduced | Variable | Partial occlusion assessment; no dimensional index assigned |
+| Full Occlusion | \( \to 0 \) | Minimal | Accumulation | Full occlusion assessment; no dimensional index assigned |
+| Breach | \( \to \infty \) local | Uncontrolled | Outflow | Breach assessment; no dimensional index assigned |
 | Collapse | Undefined | Undefined | Uncontrolled mixing | — |
 
 ---
@@ -1085,13 +1085,13 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 
 **E₁₃ ║⁻ (Wall):**
 - Impermeable, isolating boundary — the entropic mirror of C₁₃
-- Complete membrane occlusion corresponds to E₁₃ prevalence
+- An E₁₃ attribution requires the impermeable, isolating boundary function; complete occlusion alone supplies no dimensional verdict
 - Entropic collective boundary: containment rather than selection
 
 **E₁₄ ⊡⁻ (Hollow Nest):**
 - Empty recursion; structure without coherence
 - Shimmer aftermath in membrane space
-- Echo Layers that pass beyond their resolution threshold become Hollow Nest conditions
+- An E₁₄ attribution to an Echo Layer requires empty recursion; the resolution threshold and boundary-state dynamics retain their separate held standing
 
 ---
 
@@ -1273,7 +1273,7 @@ for tau in [0, T] step dt:
 
 output:
     membrane integrity report
-    echo layer inventory
+    partial-transfer observations; Echo-state inventory held
     resonance flow analysis
     depletion risk assessment
 
@@ -1312,7 +1312,7 @@ output:
 - Continuity Equation: verify \( \partial I_c/\partial\tau = 0 \) when \( \nabla \cdot \vec{J}_c = S \)
 - Transfer Function: verify \( T(\text{⧉}) = 0 \) when source below threshold or target saturated
 - Transfer Function: verify \( T(\text{⧉}) = \sigma \cdot \min(\text{surplus}, \text{capacity}) \) otherwise
-- Tunneling: verify permeability boost with positive \( \mathcal{R} \); no boost with \( \mathcal{R} \leq 0 \)
+- Tunneling: verify the existing routine's permeability boost when \( \mathcal{R} \geq \rho_* \), and no boost when \( \mathcal{R} < \rho_* \); bypass transfer remains held
 - Partial-transfer observation: verify \( 0<T<I_{\text{available}} \); no trapped-recurrence verdict without its boundary-state law
 - Collective Correlation: verify \( \mathcal{R}_{\text{collective}} = 1 \) for identical signatures
 - Harmonic Potential: verify superlinear scaling for heterogeneous contributions with high \( \mathcal{R} \)
@@ -1323,7 +1323,7 @@ output:
 
 - CIT: verify spectral quantity domains and recorded held standing; general discharge / replenishment / siphoning conservation awaits its full hypotheses
 - Transfer / current correspondence remains held pending the time interval, boundary measure, and compatible scalar-flux relation; an amount is not pointwise divergence
-- Echo Layer resolution when conditions are met
+- Echo Layer resolution remains held pending the boundary-state and recurrence law
 - Collective field emergence at threshold; non-emergence below threshold
 - Superlinear amplification threshold accuracy
 - Membrane pathology cascade: partial occlusion → full occlusion → collapse under sustained entropic interference
@@ -1669,7 +1669,7 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
       ┌────────┐   ┌──────────┐   ┌──────────┐   ┌──────────┐  ┌────────┐  ┌────────────┐
       │OCCLUDED│   │ FILTER / │   │  BRIDGE  │   │AMPLIFIER │  │ BREACH │  │  COLLAPSE  │
       │No pass │   │ PARTIAL  │   │Full pass │   │Boosted   │  │Rupture │  │  Failure   │
-      │  E₁₃   │   │          │   │   C₈     │   │Needs S>0 │  │  E₉    │  │            │
+      │   —    │   │          │   │   C₈     │   │Needs S>0 │  │   —    │  │            │
       └────────┘   └──────────┘   └──────────┘   └──────────┘  └────────┘  └────────────┘
 
 
