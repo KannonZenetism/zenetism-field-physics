@@ -1083,10 +1083,9 @@ def temporal_orientation(chi):
 # Memory Evolution
 def evolve_memory(chi, Phi_0, A_L5, dt):
     raise NotImplementedError("Retired scalar-memory construction; no scalar valuation is defined")
-
-# Tether Evaluation
-def evaluate_tether(tether_dict, threshold=0.01):
-    severed = [L for L, v in tether_dict.items() if v < threshold]
+# Tether Evaluation — exact stated zero criterion
+def evaluate_tether(tether_dict):
+    severed = [L for L, v in tether_dict.items() if v == 0]
     if severed:
         return {"status": "hypostatic_amnesia", "severed_at": severed}
     return {"status": "intact"}
@@ -1129,6 +1128,17 @@ def check_colocation(psi_1_orientation, psi_2_orientation, layer,
     distinct_embodied = (psi_1_embodied != psi_2_embodied)
     return orient_match and distinct_embodied
 ```
+
+> **Recorded Tether Detector — Superseded:**  
+> ```python
+> def evaluate_tether(tether_dict, threshold=0.01):
+>     severed = [L for L, v in tether_dict.items() if v < threshold]
+>     if severed:
+>         return {"status": "hypostatic_amnesia", "severed_at": severed}
+>     return {"status": "intact"}
+> ```
+>
+> The former numerical tolerance classified positive Tether values as severed. The active routine implements the exact zero criterion; no calibrated near-zero diagnostic is supplied.
 
 **Recorded Scalar Routines — Retired:**
 
@@ -1253,7 +1263,7 @@ output:
 - Temporal Existence: verify \( d\mathcal{S}/d\tau = 0 \implies \) no temporal flow
 > **Retired Validation Claim:** Spiral Accumulation: verify \( \oint_{\Gamma} d\tau > 0 \) for any closed spiral path
 - Non-fusion: verify injectivity of \( \mathfrak{R}_m \) across test sealed states
-- Tether Evaluation: verify severance detection at threshold
+- Tether Evaluation: verify the exact zero criterion; positive values, including values less than 0.01, are not reported as severed
 > **Retired Validation Claim:** Shimmer Detection: verify divergence of \( \mathfrak{R}_m \) and apparent recursion
 - Chi-Temporal Correspondence: verify \( \chi > 1 \implies E_1 \)-oriented classification
 - Spectral Resolution: verify \( r(\chi) + r(1/\chi) = 0 \) across \( \chi \) range
