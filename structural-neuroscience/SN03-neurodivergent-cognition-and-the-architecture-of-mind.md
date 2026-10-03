@@ -455,7 +455,7 @@ Where Structural Neuroscience interfaces with empirical research, the published 
 
 SN03 holds:
 
-- Soul / Mind architecture is a structural description within the Zenetist framework; its register is orientation and coherence, and physical measurement with current instrumentation belongs to the empirical register
+- Soul / Mind architecture describes cognitive configuration through orientation and coherence. Its embodied physical realization belongs to the empirical L₁ / IL₁ domain within the same structural architecture; the proposed correspondences in §10.2 retain their stated evidentiary requirements
 - The membrane permeability model provides the structural context within which neurobiological models of sensory processing are read
 - Structural Neuroscience provides comprehension complementary to clinical assessment and diagnostic practice, each of which keeps its own register
 - Neurodivergent profiles and oscillating configurations are structurally distinct, not hierarchically ranked

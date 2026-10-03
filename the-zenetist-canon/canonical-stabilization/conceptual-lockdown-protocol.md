@@ -417,17 +417,18 @@ Layer ordering encodes the emanation structure, so it is held here rather than a
 
 ## Epistemic Register Constraint
 
-**Constraint.** No passage may present the Zenetist formalism as empirically confirmed or as a claim about measured physical fact. The formalism encodes structural logic and overlays physics interpretively.
+**Constraint.** Structural and empirical are not opposing categories. Physical reality is structural, and L₁ / IL₁ is the embodied empirical domain within the Zenetist architecture. Structural logic may be applied specifically to that domain; each claim retains the standing established by its definitions, methods, and evidence.
 
 **Lawful account.**
 
-- Claims are *structurally diagnosable*, not "measurable and testable"; measurement is a separate, permitted question, never a substitute for structural confirmation
-- The mathematics carries structural logic; its physical interpretation is an overlay, not an assertion of empirical result
-- This pairs with the multiverse recalibration: write "structurally anticipated," not "structurally necessary" or empirically established
+- Metaphysical structure, mathematical formalization, physical realization, empirical observation, and clinical interpretation retain their distinct scopes within one architecture
+- Formal quantities retain their declared domains. An empirical application specifies the relevant observables, correspondence, and measurement procedure; a proposed empirical correspondence lacking that specification remains held open
+- Structural assessment and empirical measurement may address the same embodied reality. Neither a formal definition nor a structural interpretation constitutes empirical confirmation without the corresponding evidence
+- Multiversal possibilities remain structurally anticipated where actualization is held open; empirical confirmation of a particular actualization remains an inquiry within the embodied register
 
-**Lawful grammar.** Write that a structure is "structurally diagnosable" or "structurally anticipated"; reserve "measurable," "testable," and "confirmed" for explicitly flagged empirical questions held apart from the structural claim.
+**Lawful grammar.** Name what has been established: a structural relation, a formal result, a proposed empirical correspondence, or a supported empirical finding. State the particular unresolved mapping or evidentiary condition where a claim remains held, rather than excluding empirical inquiry from the framework.
 
-**Reference Document:** SP03 §8.1; SP04 §2.3; the epistemic-recalibration pass (multiverse language).
+**Reference Document:** `sp-lm-sn-architect-decision-sheet.md` D02 and D12; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §10.3.
 
 ---
 

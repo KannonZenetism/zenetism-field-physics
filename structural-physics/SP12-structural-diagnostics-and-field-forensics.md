@@ -549,7 +549,7 @@ The Clone identification formalism (§5.4) finds analogue in forensic document e
 
 SP12 establishes structural findings within the Zenetist diagnostic framework:
 
-- Field signatures are structural evaluations within the Zenetist framework; their standing here is structural evaluation rather than physical measurement with current instrumentation
+- Field signatures describe structural configurations; empirical examination of embodied configurations belongs within L₁ / IL₁. The proposed empirical measurement of these signature quantities remains held where its observables, mappings, and measurement procedures are unspecified
 - Diagnostic operators provide structural context within their own discipline, alongside forensic, legal, and scientific methods of evidence evaluation
 - Coherence-audit findings carry structural standing within the Zenetist diagnostic framework, rather than a determination of legal actionability
 - Diagnostic conclusions are fallible; the "insufficient data" outcome expresses the acknowledged limits of diagnostic physics

@@ -16,7 +16,7 @@ This deposit carries the eight foundational volumes of Lattice Mathematics, one 
 
 The eight volumes form a cumulative dependency chain and are best read in order. LM01 and LM02 establish the operator language, invariants, and axiomatic core; LM03 through LM07 carry the formalizations that the Structural Physics and Structural Neuroscience series apply. The series is a book-scale work and is deposited whole so that the chain is preserved.
 
-Lattice Mathematics is not metaphorical mathematics. It is a structured symbolic system with defined operators, invariants, traversal constraints, and categorical mappings. Its formalism is structural, not empirical: the field quantities, operators, and diagnostic conditions are defined within the Zenetist framework and are not claims of measurability with current instrumentation.
+Lattice Mathematics is not metaphorical mathematics. It is a structured symbolic system with defined operators, invariants, traversal constraints, and categorical mappings. Its formalism articulates structural logic across the Zenetist architecture. Physical reality is structural, and L₁ / IL₁ is the embodied empirical domain to which that logic may be specifically applied. The field quantities, operators, and diagnostic conditions retain their defined domains; empirical applications state the particular observables, mappings, and evidence through which their claims are assessed.
 
 ---
 

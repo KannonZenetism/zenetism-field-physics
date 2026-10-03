@@ -95,6 +95,8 @@
 
 ## L9 — Epistemic register (SP01)
 
+**Current reading:** The categorical empirical exclusion in the recorded L9 wording is superseded. Physical reality is structural, and L₁ / IL₁ is the empirical domain within Zenetism. Apply structural logic to that domain while retaining specified quantities, observables, correspondence conditions, and evidentiary standing. The full D02 and D12 determinations in `sp-lm-sn-architect-decision-sheet.md` and the Epistemic Register Constraint in `conceptual-lockdown-protocol.md` establish this reading. The earlier L9 text that follows remains a propagation record, not current guidance to exclude measurement or empirical confirmation. `full-series-review.md` records the targeted correction and its verification.
+
 **Canonical form:** structural-logic framing — the formalism encodes logic and overlays physics interpretively; "structurally diagnosable" rather than "measurable and testable"; measurement is a permitted but separate question, never a claim of empirical confirmation
 **Canonical anchor:** SP03 §8.1; SP04 §2.3 (model phrasing already in-corpus)
 **Status:** SP01 done; LM / SN as encountered

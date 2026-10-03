@@ -456,7 +456,7 @@ Within the multiversal framework, every expressed universe is structurally entai
 
 A Khaonically expressed universe (\( \chi > 1 \)) is paired with an Aionically expressed contra-universe (\( \chi < 1 \)). A strongly Khaonic expression is paired with a strongly Aionic complement. This is the general principle: contra-pairing spans the full expression spectrum, not only its extremes.
 
-Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+Whether these pairings are actualized remains an open question. The structural architecture entails the pairings; empirical confirmation of their physical actualization remains held open pending specified observables, correspondence conditions, and evidence within the embodied L₁ / IL₁ domain.
 
 ### 8.2 The Special Case of Limit-Case Pairing
 

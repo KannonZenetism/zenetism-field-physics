@@ -160,7 +160,7 @@ The declared abstract manifold and bundle notation supplies a proposed geometric
 \partial_t \phi = \mathrm{div}(D_c \nabla \phi) - \mathrm{div}(D_e \nabla(\iota\phi)) + N(\phi) - L(\phi) + J_{\text{seal}}
 \]
 
-LM01's \( t \) should be read as a provisional evolution parameter; in the mature formalism, evolution is expressed in structural time \( \tau \) (LM04), and \( t \mapsto \tau \) wherever the evolution is structural rather than physical.
+LM01's \( t \) is a provisional evolution parameter. LM04 expresses evolution in structural time \( \tau \). A physical articulation at L₁ / IL₁ specifies the relation between structural time and the physical time parameter of its declared model.
 
 `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3 specifies a signed structural flux coefficient:
 

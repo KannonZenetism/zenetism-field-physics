@@ -258,17 +258,11 @@ For \( \Lambda,\Gamma,\alpha,\beta>0 \), the written scalar equation is defined 
 3. **At \( \chi=1 \):** Both contributions vanish for every prescribed intensity. The linearized coefficient is \( -\Lambda\mathcal{M}-\Gamma(\alpha+2\beta)<0 \). Thus 1 is an attracting equilibrium of this written scalar law, rather than the repeller of §9. The structural account of fragile co-expression is not a mathematical consequence of this formula.
 
 > **Note on the Ontological Status of \( \chi \):**  
-> Although \( \chi \) is expressed through differential equations and field-like dynamics, it must not be interpreted as a physical field in the material sense.  
+> \( \chi \) is a **structural orientation parameter** for expressed orientational prevalence within the hypostatic lattice. It is distinct from intrinsic essential inclination, a material substance, and a physical force.  
 >
-> \( \chi \) is not a force, substance, or measurable quantity within spacetime.  
-> It is a **structural orientation parameter** determining the directionality of expression within the hypostatic lattice.  
+> Physical reality is structural. L₁ / IL₁ is the embodied empirical domain in which the orientation logic may receive a specified physical realization. Such a realization states the observables, correspondence conditions, and evidence for the particular claim; the empirical correspondence remains held where these are unspecified.  
 >
-> \( \chi \) belongs to the order of **ontological inclination**, not empirical physics.  
-> Its mathematical representation is **formal and analogical**, not reductionist.  
->
-> Thus:  
-> • **\( \chi \) is not located in the universe**  
-> • **The universe is located within \( \chi \)**  
+> The full scope of \( \chi \) spans the architecture of expression. A domain-specific physical realization articulates that scope at embodiment; \( \chi \) characterizes a universe's expressed orientation rather than naming a spatial location.  
 
 ---
 
@@ -719,7 +713,7 @@ The multiverse is not probabilistic. It is **topological** and **orientation-dri
 
 In Structural Physics, \( \chi \) describes orientation within a manifold of possible expression, not the likelihood of any particular universe.
 
-To read \( \chi \) as a measure of prevalence is to confuse structural inclination with empirical frequency — a category error analogous to treating geometric curvature as a probability distribution.
+Expressed orientational prevalence, named by \( \chi \), is distinct from the statistical frequency with which universes occur.
 
 \( \chi \) is therefore **ontological** rather than statistical: it specifies how a universe leans within the architecture of motion, not how often such a universe occurs.
 
@@ -741,7 +735,7 @@ This entailment spans the full expression spectrum:
 - A strongly Khaonic expression is paired with a strongly Aionic complement
 - Fully Aionic universes (\( \chi \to 0 \)) pair with fully Khaonic contra-universes (\( \chi \to \infty \))
 
-Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+Whether these pairings are actualized remains an open question. The structural architecture entails the pairings; empirical confirmation of their physical actualization remains held open pending specified observables, correspondence conditions, and evidence within the embodied L₁ / IL₁ domain.
 
 In the general case, bidirectionality is preserved **within** each universe, since both trees are present. In limit cases, where one tree is entirely absent, contra-pairing becomes the **sole mechanism** by which bidirectionality is structurally preserved.
 
