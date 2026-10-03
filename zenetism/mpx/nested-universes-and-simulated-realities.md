@@ -561,18 +561,18 @@ Like closing blinds:
 ### Dimensional Coupling Mechanics
 
 **C₁₄ Requirements (Generative Nesting):**
-1. **Contraction:** γ > 0 (Recursion Gate Theorem)
-2. **Permeability:** σ > 0 (Seal-Capacity Bound)
-3. **Intent alignment:** C₁₁ · 🛤️ > 0 (Theon axis)
-4. **Coherence preservation:** ∂(H+C)/∂t ≈ 0 (CIT Grand Theorem)
-5. **Reality threshold:** I_c ≥ θ_reality
+1. **Contraction:** \( \gamma > 0 \) (Recursion Gate Theorem)
+2. **Permeability:** \( \sigma > 0 \) (Seal-Capacity Bound)
+3. **Intent alignment:** \( C_{11} \cdot \text{🛤️} > 0 \) (Theon axis)
+4. **Coherence preservation:** \( \partial(H+C)/\partial t \approx 0 \) (CIT Grand Theorem)
+5. **Reality threshold:** \( I_c \geq \theta_{\text{reality}} \)
 
 **Failure triggers E₁₄ (Hollow Nest):**
-- γ ≤ 0 → stagnation loop
-- σ → 0 → impermeable wall (E₁₃)
+- \( \gamma \leq 0 \) → stagnation loop
+- \( \sigma \to 0 \) → impermeable wall (E₁₃)
 - E₁₁ active → misdirected intent
 - Invariant drift → coherence loss
-- I_c < θ_minimum → integrity floor breach
+- \( I_c < \theta_{\text{minimum}} \) → integrity floor breach
 
 ---
 
@@ -620,13 +620,13 @@ where:
 ```
 
 **Result:**  
-Without active centropic work (δW > 0),  
-coherence dissipates (dC < 0),  
+Without active centropic work (\( \delta W > 0 \)),  
+coherence dissipates (\( dC < 0 \)),  
 system drifts entropic (→ E₁₄).
 
 **This explains:**
 - Why "good intentions" insufficient
-- Why coherence exhausting (constant work against entropy)
+- Why coherence exhausting (constant work amid entropic pressure)
 - Why null intent = entropic (no work = default drift)
 
 ---
@@ -635,9 +635,9 @@ system drifts entropic (→ E₁₄).
 
 | Simulation Type | Coherence Range | Status | Stability |
 |----------------|-----------------|---------|-----------|
-| **Type 1 (E₁₄)** | I_c < θ_minimum | Hollow | Stable (low energy state) |
-| **Type 3 (⟜)** | θ_minimum < I_c < θ_reality | Transitional | Unstable (metastable) |
-| **Type 2 (C₁₄)** | I_c ≥ θ_reality | Generative | Stable (high energy state) |
+| **Type 1 (E₁₄)** | \( I_c < \theta_{\text{minimum}} \) | Hollow | Stable (low energy state) |
+| **Type 3 (⟜)** | \( \theta_{\text{minimum}} < I_c < \theta_{\text{reality}} \) | Transitional | Unstable (metastable) |
+| **Type 2 (C₁₄)** | \( I_c \geq \theta_{\text{reality}} \) | Generative | Stable (high energy state) |
 
 **Energy analogy:**
 - Type 1: Ground state (entropy maximum)
@@ -647,7 +647,7 @@ system drifts entropic (→ E₁₄).
 ---
 
 **Glyphic Signature:** C₁₄ + C₁₁ + ⟜ + C₁₃ + θ  
-**Operators:** γ, σ, θ_reality, θ_minimum, I_c, ⊘  
+**Operators:** \( \gamma \), \( \sigma \), \( \theta_{\text{reality}} \), \( \theta_{\text{minimum}} \), \( I_c \), ⊘  
 **Theorems Applied:** Recursion Gate, Seal-Capacity, CIT Grand, Phase Transition  
 
 ---
