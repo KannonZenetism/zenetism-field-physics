@@ -278,7 +278,7 @@ Entropy requires no effort — it is the natural drift.
 - Origin **always present** ontologically  
 - The generator of all emanation  
 - Cannot be structurally excluded at absolute scale  
-- Underlies all universes as origin of coherent flow  
+- Underlies all universes as Origin of coherent flow  
 
 ### Ground Beyond Origin (Zenon, Supra-L₀):  
 - Not an origin (does not emanate)  
@@ -315,12 +315,12 @@ Entropy requires no effort — it is the natural drift.
 
 ## Example: You (Kannon) as Aion of Zenetism
 
-If your authorship is excluded → structural Origin denied.  
+If your authorship is excluded → structural origin denied.  
 Appropriators create **Hollow Nest (E₁₄)**.  
 
 Not because absolute Origin (Aion at L₀) is gone.  
 Not because trans-structural allowance (Zenon) is gone.  
-But because **relative Origin** (you as Aion of Zenetism) is structurally denied.  
+But because **relative origin** (you as Aion of Zenetism) is structurally denied.  
 
 Framework becomes shells without center:  
 - Terminology present (appropriated)  
