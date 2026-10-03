@@ -206,7 +206,7 @@ The precedence of potential is structural. It names what manifestation presuppos
 
 Identity-Bearing Potential names the same capacity as irreducible is-ness. Its relational articulation preserves the essence already held in Aion. Capacity / expression distinction does not confer essence-identity or structural charge through comparison with another essence. Theonic plus-one remains determinate is-ness; Nekronic minus-one remains negationally relational determination. Theonism preserves singular determination through lawful relation; strict relationless identity denies the relations already present in its appeal to potential.
 
-References: `MP08-symbol-key-ch21.md`, §§21.2 and 21.2.2, §21.3, Nekronic Collapse, §21.8, Theonic Axis and Nekronic Axis, §21.10, and §21.13, *Note on Identity-Bearing Potential*; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§10–12; `archetypal-number-and-essence-indexing.md`, §§2–7; `emptiness-luminosity-and-the-bifurcal-limit.md`, *Aion-Ward Negation* and *Essence and the Non-fusion Difference*.
+References: `MP08-symbol-key-ch21.md`, §§21.2 and 21.2.2, §21.3, Nekronic Collapse, §21.8, Theonic Axis and Nekronic Axis, §21.10, and §21.13, *Note on Identity-Bearing Potential*; `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md`, §§10–12; `archetypal-number-and-essence-indexing.md`, §§2–7; `emptiness-luminosity-and-the-bifurcal-limit.md`, *Negation Terminating at Aion* and *Essence and the Non-fusion Difference*.
 
 ---
 
