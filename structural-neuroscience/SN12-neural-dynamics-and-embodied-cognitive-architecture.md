@@ -90,7 +90,7 @@ The native distinction among essence, function, access, and expression supplies 
 
 ### 1.2 Three Different Configuration Questions
 
-SN10 §1.2 names an essential cognitive Configuration: the invariant architectural type, with its characteristic operator relations, membrane profile, essential signature, and intrinsic inclination. Expression names the condition-dependent cognitive, behavioral, and relational presentation.
+`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 names an essential cognitive Configuration: the invariant architectural type, with its characteristic operator relations, membrane profile, essential signature, and intrinsic inclination. Expression names the condition-dependent cognitive, behavioral, and relational presentation.
 
 Physical neural configuration names the changing material arrangement: cells, processes, synapses, extracellular conditions, vascular relations, and ongoing activity. The qualifier matters. A changing synaptic network is compatible with invariant essential Configuration; preserving the latter does not assert that anatomy, measured performance, or every physical capacity remains constant.
 
@@ -113,11 +113,11 @@ The physical question concerns register, scale, variables, and function. Histori
 
 ## 2. Operative Access and the Physical Interface
 
-The Neuro-Lattice Interface names the native relation among layer coupling, membrane relations, temporal continuity, and cognition. The Tether is the recursive memory-anchor maintaining directional and operative continuity. SN06 §1.3 explicitly scopes interruption to operative access while retaining essential distinction. A neural tract, synaptic edge, or correlation matrix has a narrower physical definition. None is adopted here as the Tether's identity.
+The Neuro-Lattice Interface names the native relation among layer coupling, membrane relations, temporal continuity, and cognition. The Tether is the recursive memory-anchor maintaining directional and operative continuity. `SN06-replenishment-reconnection-and-restoration.md` §1.3 explicitly scopes interruption to operative access while retaining essential distinction. A neural tract, synaptic edge, or correlation matrix has a narrower physical definition. None is adopted here as the Tether's identity.
 
 For physical investigation, an access condition is a specified requirement for the expression of a selected function. Examples include a sensory input reaching a responsive circuit, a task instruction being retained across an interval, or a discriminated response reaching an available output channel. These examples are proposed domain articulations. Each specifies an investigable access claim at its declared scale.
 
-A task failure can arise at several points: input, discrimination, retention, response selection, movement, or measurement. The investigation must distinguish those possibilities. The cognitive-embodied boundary relation ⧉₁ in SP11 §7.1 concerns the Superficial Soul / Mind and Embodied Soul / Mind registers, L₂ / L₁ in its centropic articulation; it is not assigned a location in an anatomical membrane. A physical correspondence would require a specified coupling relation and evidence about its retained function.
+A task failure can arise at several points: input, discrimination, retention, response selection, movement, or measurement. The investigation must distinguish those possibilities. The cognitive-embodied boundary relation ⧉₁ in `SP11-embodiment-dynamics.md` §7.1 concerns the Superficial Soul / Mind and Embodied Soul / Mind registers, L₂ / L₁ in its centropic articulation; it is not assigned a location in an anatomical membrane. A physical correspondence would require a specified coupling relation and evidence about its retained function.
 
 This approach also preserves the non-biological scope of SN08. Neural evidence concerns a biological realization. It does not make neurons a universal definition of cognition or settle the physical requirements of every other embodiment.
 
@@ -145,7 +145,7 @@ These are measurement candidates and research questions. They are not interchang
 
 ## 4. A Domain-Realization Record
 
-LM08 §§3, 6–7, and 13 require the represented relation to be explicit. For a neural application, the record contains persistent constituent labels, the state of each constituent, the interaction relations, and the bodily / experimental boundary. Tracking a cell across recordings preserves its model identity. Such a label is not an empirical definition of essence.
+`LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§3, 6–7, and 13 require the represented relation to be explicit. For a neural application, the record contains persistent constituent labels, the state of each constituent, the interaction relations, and the bodily / experimental boundary. Tracking a cell across recordings preserves its model identity. Such a label is not an empirical definition of essence.
 
 The following record makes a proposed articulation reviewable.
 
@@ -161,7 +161,7 @@ The following record makes a proposed articulation reviewable.
 | Continuation | The capacity or relation whose maintenance, exhaustion, or restoration is being tested |
 | Fidelity | Agreement of predicted and measured relations across defined states and perturbations |
 
-Equal observations need not imply equal physical states. If two neural configurations share a mean firing rate, the remaining differences may determine their responses to perturbation. LM08 §7 distinguishes recovery of a selected feature from prediction of that feature's continuation. The synchrony companion gives an exact example with equal phase-order magnitude and opposite instantaneous changes.
+Equal observations need not imply equal physical states. If two neural configurations share a mean firing rate, the remaining differences may determine their responses to perturbation. `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §7 distinguishes recovery of a selected feature from prediction of that feature's continuation. The synchrony companion gives an exact example with equal phase-order magnitude and opposite instantaneous changes.
 
 An exact mathematical relation can establish fidelity for a selected budget or transition. Full Soul / Mind dynamics have not been specified as a measured physical state map here. The appropriate claim is therefore fidelity to the declared relation, with its omitted information retained in the record.
 
@@ -255,7 +255,7 @@ A temporary interruption of a supporting process and irreversible loss of a phys
 
 ### 9.1 What Returns?
 
-Restoration requires a declared target: task achievement, a movement relation, a neural interaction, access, or a material structure. LM08 §§10 and 12 preserve the differences among restored capacity, changed history, constituent replacement, and anatomical restoration.
+Restoration requires a declared target: task achievement, a movement relation, a neural interaction, access, or a material structure. `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §§10 and 12 preserve the differences among restored capacity, changed history, constituent replacement, and anatomical restoration.
 
 Postinjury anatomical evidence supports the possibility of changed organization. Dancause and colleagues identified altered premotor projections after motor-cortical injury in squirrel monkeys. The measured anatomy established reorganization; its contribution to recovered behavior remained a hypothesis. The finding therefore supports a changed physical relation, not a demonstrated reconstruction of earlier anatomy. [A4](https://doi.org/10.1523/JNEUROSCI.3256-05.2005).
 
@@ -265,7 +265,7 @@ These cases justify separate observations of performance, movement, connectivity
 
 ### 9.2 A Bounded Capacity Articulation
 
-Let \(h(t)\in[0,1]\) be a normalized physical task-capacity coordinate on a fixed assessment scale. It is dimensionless. Let \(r\geq0\) describe a constant restorative rate and \(d\geq0\) a constant degrading rate, each in inverse time. The interval, assessment conditions, and external support are held fixed. The proposed articulation inherited from LM08 §10.4 is
+Let \(h(t)\in[0,1]\) be a normalized physical task-capacity coordinate on a fixed assessment scale. It is dimensionless. Let \(r\geq0\) describe a constant restorative rate and \(d\geq0\) a constant degrading rate, each in inverse time. The interval, assessment conditions, and external support are held fixed. The proposed articulation inherited from `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §10.4 is
 
 \[
 \frac{dh}{dt}=r(1-h)-dh,
