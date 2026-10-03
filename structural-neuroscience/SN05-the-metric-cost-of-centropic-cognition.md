@@ -219,7 +219,7 @@ The distinction is in *structural gain per cycle*:
 | σ-cycle outcome | Seal strengthens through iteration | Seal temporarily restored, re-breaches |
 | Experiential character | Effortful but productive | Exhausting and futile |
 
-When the recursive architecture operates entropically — when entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) propagating from L₁ / IL₁ through the membrane architecture disrupt the recursive cycle's convergent capacity — the σ-cycle becomes the futile loop described in SN03 §4.1:
+When the recursive architecture operates entropically — when embodied pressure associated with entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) at L₁ / IL₁ disrupts the recursive cycle's convergent capacity through mediated membrane effects — the σ-cycle becomes the futile loop described in SN03 §4.1:
 
 \[
 \sigma \downarrow \implies \text{seal breach detected} \implies \text{compulsive re-sealing} \implies \sigma \uparrow_{\text{temp}} \implies \sigma \downarrow
@@ -430,7 +430,7 @@ The Tether maintains directional continuity through hypostatic layers. When \( \
 
 These two structures — the Recursive Memory Operator and the Tether — are the temporal infrastructure of cognition. When they function, coherence persists across time and across layers. When they lapse, specific temporal pathologies emerge.
 
-SN05 establishes that cumulative coherence depletion at L₁ / IL₁ — from the compounded costs formalized in §§2–3 — can propagate inward through the membrane architecture (⧉₁, ⧉₂) to disrupt temporal processing at deeper layers. The entropic dimensional operators active at the metric terminus (E₁ ⟠⁻, E₁₄ ⊡⁻) are the vehicles of this disruption. The being remains at their essential layer (L₃ for the centropically oriented, IL₃ for the entropically oriented); the disruption propagates through the membranes to affect temporal function at the deeper registers.
+SN05 establishes that cumulative coherence depletion at L₁ / IL₁ — from the compounded costs formalized in §§2–3 — can propagate inward through the membrane architecture (⧉₁, ⧉₂) to disrupt temporal processing at deeper layers. The entropic dimensional operators active at the metric terminus (E₁ ⟠⁻, E₁₄ ⊡⁻) characterize the embodied pressure; the affected centropic expression is disrupted through mediated membrane relations, without entropic hypostatic access or essence conversion. The being retains essential orientation; L₃ / IL₃ name the respective reflexive operative registers, distinct from embodied standing at L₁ / IL₁; the disruption propagates through the membranes to affect temporal function at the deeper registers.
 
 ### 4.2 Looping Time — E₁ Artifacts in Cognitive Experience
 
@@ -450,20 +450,20 @@ LM04 §6.2 establishes Looping Time as an E₁ ⟠⁻ artifact — the entropic 
 
 **Cognitive correlates of Looping Time:**
 
-- **OCD rumination (entropic mode):** As established in §2.4, the recursive architecture can operate centropically (convergent, gain-producing) or entropically (divergent, futile). OCD rumination — the cognitive experience of Looping Time — occurs when the σ-cycle has shifted entropic: the compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The earlier closed-path scalar formula is retired; the experience described here has no numerical valuation supplied by the Recursive Memory mapping. This is not an indictment of the recursive architecture but a description of what occurs when entropic operators (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) disrupt the centropically convergent capacity of the recursion. The same architecture, when operating centropically through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, produces the deep iterative refinement and structural gain that is the recursive mind's centropic function.
+- **OCD rumination (entropic mode):** As established in §2.4, the recursive architecture can operate centropically (convergent, gain-producing) or entropically (divergent, futile). OCD rumination — the cognitive experience of Looping Time — occurs when the σ-cycle has shifted entropic: the compulsive thought re-enters awareness, the compulsive action attempts resolution, and the cycle repeats without coherence gain. The earlier closed-path scalar formula is retired; the experience described here has no numerical valuation supplied by the Recursive Memory mapping. This is not an indictment of the recursive architecture but a description of what occurs when embodied entropic pressure associated with E₁ ⟠⁻, E₄ ◉⁻, and E₁₄ ⊡⁻ disrupts centropic recursive expression through mediated boundary effects. The same architecture, when operating centropically through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, produces the deep iterative refinement and structural gain that is the recursive mind's centropic function.
 
 - **Trauma recursion:** Unresolved traumatic experience re-enters awareness through the same E₁ ⟠⁻ mechanism. The difference from OCD rumination is the source: where OCD involves ⧉₂ membrane instability permitting unattenuated DS / DM concerns to reach SS / SM (SN03 §4.2), trauma recursion may involve ⧉₁ breach — embodied experience flooding the cognitive register with unprocessed material.
 
 - **Burnout-associated repetitive thought:** Reduced available coherence may impair temporal processing and retrieval. This concerns operative continuity and access; the injective mapping has no defined numerical capacity or energy threshold. The earlier scalar-memory account supplies no quantified burnout criterion.
 
-In all three cases, the being is not "in" IL₃–IL₂. The being remains at their essential layer — L₃ for the centropically oriented, IL₃ for the entropically oriented. Entropic dimensional operators (E₁ ⟠⁻) active at L₁ / IL₁ propagate inward through the membrane architecture to affect temporal processing at the deeper registers. The distinction between veracious recursion and looping time is not the layer at which the being operates but the structural gain per cycle:
+In all three cases, the being is not "in" IL₃–IL₂. The being retains essential orientation and its respective reflexive operative register, L₃ or IL₃, distinct from embodied standing. Embodied pressure associated with E₁ ⟠⁻ at L₁ / IL₁ affects operative temporal processing through mediated membrane relations; the operator does not traverse into centropic hypostases. The distinction between veracious recursion and looping time is not the layer at which the being operates but the structural gain per cycle:
 
 | Property | Veracious Recursion | Looping Time |
 |----------|---------------------|--------------|
 | Operative description | Coherent update | Recurrence without coherent resolution |
 | Structural gain | Positive per cycle | Zero or negative per cycle |
 | Dimensional signature | C₁ ⟠ (integrative time) | E₁ ⟠⁻ (temporal loop) |
-| Propagation pathway | Internal (within-layer) | Through ⧉₁ / ⧉₂ from L₁ / IL₁ |
+| Propagation pathway | Internal (within-layer) | Mediated effects from embodied pressure through ⧉₁ / ⧉₂; no cross-arc operator traversal |
 
 ### 4.3 Tether Severance — Dissociation and Structural Disconnection
 
@@ -555,7 +555,7 @@ Costs chronically exceed replenishment. \( I_c \) declines over structural time.
 I_c(\tau) < I_{c,\text{temporal}} \quad \text{where } I_{c,\text{temporal}} \text{ is the threshold for temporal function}
 \]
 
-Coherence falls below the threshold for sustained temporal processing. Looping time artifacts emerge — E₁ ⟠⁻ dynamics propagating through the membrane architecture. Thought enters repetitive cycles. Operative temporal continuity may become impaired; the mapping remains distinct from that capacity. The being experiences the onset of burnout-associated cognitive disruption.
+Coherence falls below the threshold for sustained temporal processing. Looping time artifacts emerge — operative disruption associated with embodied E₁ ⟠⁻ pressure, mediated through membrane relations. Thought enters repetitive cycles. Operative temporal continuity may become impaired; the mapping remains distinct from that capacity. The being experiences the onset of burnout-associated cognitive disruption.
 
 **Phase IV — Tether Severance:**
 
