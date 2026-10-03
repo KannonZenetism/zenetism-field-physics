@@ -128,7 +128,7 @@ Critically:
 **Definition (Latent Infinity, \( \Phi_1 \)):**
 
 \[
-\Phi_1 = \{\omega \in \Omega_0 : \mathcal{M}(\omega) = 0,\ \kappa(\omega) = \text{pre}\}
+\Phi_1 = \{\omega \in \Omega_0 \mid \mathcal{M}(\omega) = 0,\ \kappa(\omega) = \text{pre}\}
 \]
 
 Latent Infinity is unexpressed potential within Zero — stillness prior to expression. The condition \( \kappa(\omega) = \text{pre} \) indicates causal placement before any expression has occurred.
@@ -136,7 +136,7 @@ Latent Infinity is unexpressed potential within Zero — stillness prior to expr
 **Definition (Motive Infinity, \( \Phi_2 \)):**
 
 \[
-\Phi_2 = \{\omega \in \Omega_0 : \mathcal{M}(\omega) > 0\}
+\Phi_2 = \{\omega \in \Omega_0 \mid \mathcal{M}(\omega) > 0\}
 \]
 
 Motive Infinity is the total field of active motion and becoming — the entire domain within which centropic and entropic expression become possible and are sustained. It is not the initial spark of motion but the **sustained field** that carries motion from origin to exhaustion.
@@ -144,7 +144,7 @@ Motive Infinity is the total field of active motion and becoming — the entire 
 **Definition (Dispersive Infinity, \( \Phi_3 \)):**
 
 \[
-\Phi_3 = \{\omega \in \Omega_0 : \mathcal{M}(\omega) = 0,\ \kappa(\omega) = \text{post}\}
+\Phi_3 = \{\omega \in \Omega_0 \mid \mathcal{M}(\omega) = 0,\ \kappa(\omega) = \text{post}\}
 \]
 
 Dispersive Infinity is the terminal dispersive limit where differentiation exhausts and expression distributes fully. The condition \( \kappa(\omega) = \text{post} \) indicates causal placement after expression has run its course.
@@ -163,7 +163,7 @@ Two states \( \omega_1, \omega_2 \in \Omega_0 \) are **stillness-equivalent**, w
 
 **Proposition (Properties of Stillness-Equivalence):**
 
-\( \equiv_s \) is an equivalence relation on the stillness subset \( \{\omega : \mathcal{M}(\omega) = 0\} \):
+\( \equiv_s \) is an equivalence relation on the stillness subset \( \{\omega \mid \mathcal{M}(\omega) = 0\} \):
 
 1. **Reflexive:** \( \omega \equiv_s \omega \) whenever \( \mathcal{M}(\omega) = 0 \)
 2. **Symmetric:** \( \omega_1 \equiv_s \omega_2 \implies \omega_2 \equiv_s \omega_1 \)
