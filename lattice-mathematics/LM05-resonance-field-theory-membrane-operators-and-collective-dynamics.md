@@ -56,11 +56,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM04 established the lattice-mathematical formalism for time, structural space, recursive memory, bidirectional traversal, and phase collision. What it did not address is the **energetic substrate** of those dynamics — what moves, what mediates transition, and what happens when multiple beings participate in shared coherence fields.
+`LM04-temporal-algebra-structural-space-and-phase-resolution.md` established the lattice-mathematical formalism for time, structural space, recursive memory, bidirectional traversal, and phase collision. What it did not address is the **energetic substrate** of those dynamics — what moves, what mediates transition, and what happens when multiple beings participate in shared coherence fields.
 
-SP07, SP08, and SP09 developed, within Structural Physics, the theories of resonance as structural energy, membrane fields as inter-hypostatic boundary operators, and collective resonance as harmonic alignment at scale.
+`SP07-energy-ontology-and-spectral-flow.md`, `SP08-membrane-fields-and-inter-expression-dynamics.md`, and `SP09-collective-resonance-and-field-harmonics.md` developed, within Structural Physics, the theories of resonance as structural energy, membrane fields as inter-hypostatic boundary operators, and collective resonance as harmonic alignment at scale.
 
-This document, LM05, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where SP07 describes resonance flow, SP08 articulates membrane transfer, and SP09 models collective dynamics, LM05 establishes the **field-theoretic, operator-algebraic, and multi-body foundations** from which those descriptions derive.
+This document, LM05, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where `SP07-energy-ontology-and-spectral-flow.md` describes resonance flow, `SP08-membrane-fields-and-inter-expression-dynamics.md` articulates membrane transfer, and `SP09-collective-resonance-and-field-harmonics.md` models collective dynamics, LM05 establishes the **field-theoretic, operator-algebraic, and multi-body foundations** that mathematically articulate those descriptions.
 
 ### 1.2 What LM05 Establishes
 
@@ -78,7 +78,7 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 
 ### 1.3 Relation to Existing Documents
 
-LM05 is the **fifth foundational document of Lattice Mathematics**, providing the pure mathematical framework for resonance, boundary transfer, and collective field dynamics that SP07, SP08, and SP09 apply to Structural Physics.
+LM05 is the **fifth foundational document of Lattice Mathematics**, providing the pure mathematical framework for resonance, boundary transfer, and collective field dynamics that `SP07-energy-ontology-and-spectral-flow.md`, `SP08-membrane-fields-and-inter-expression-dynamics.md`, and `SP09-collective-resonance-and-field-harmonics.md` apply to Structural Physics.
 
 The dependency chain is:
 
@@ -155,7 +155,7 @@ D(\chi) : [0, \infty] \to \mathbb{R}
 
 The diffusion coefficient modulates coherence flow according to \( \chi \)-orientation:
 
-**Proposition (Diffusion under Orientation):**
+**Proposition (Diffusion by Orientation):**
 
 - \( \chi < 1 \) (Aionically expressed): \( D(\chi) > 0 \) — standard down-gradient flow; coherence accumulates toward integration basins
 - \( \chi > 1 \) (Khaonically expressed): \( D(\chi) < 0 \) — reversed flow; coherence disperses away from integration basins toward fragmentation
@@ -163,7 +163,7 @@ The diffusion coefficient modulates coherence flow according to \( \chi \)-orien
 
 **Proposition (Coupling to Spectral Rotation):**
 
-The diffusion coefficient couples to \( \chi \) through the spectral rotation function (LM03 §4.5):
+The diffusion coefficient couples to \( \chi \) through the spectral rotation function (`LM03-orientation-algebra-and-infinity-formalism.md` §4.5):
 
 \[
 D(\chi) = D_0 \cdot r(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
@@ -182,12 +182,12 @@ where \( D_0 > 0 \) is the base diffusion rate. The signed form carries directio
 >
 > The vector \( -D(\chi)\nabla I_c \) is the current defined in §2.2. Relabeling that current as drift retains the same principal differential operator and its amplification. A well-posed physical specialization remains held open pending specified spatial operators, admissible data, and coupling. The signed structural coefficient and positive physical viscosity retain distinct mathematical roles.
 
-**Corollary (Flow Direction under Orientation):**
+**Corollary (Flow Direction by Orientation):**
 
 Since \( \vec{J}_c = -D(\chi) \nabla I_c \), the sign of \( D(\chi) \) directly determines flow character:
 
-- Under centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of greater integration
-- Under entropic conditions (\( \chi > 1 \)): \( D < 0 \), so \( \vec{J}_c \) flows up-gradient — coherence moves away from integration nodes toward dispersal
+- With centropic conditions (\( \chi < 1 \)): \( D > 0 \), so \( \vec{J}_c \) flows down-gradient — coherence moves toward regions of greater integration
+- With entropic conditions (\( \chi > 1 \)): \( D < 0 \), so \( \vec{J}_c \) flows up-gradient — coherence moves away from integration nodes toward dispersal
 - At co-expression (\( \chi = 1 \)): \( D = 0 \), so the stated diffusive contribution vanishes. CP₁ stability is model-specific: attracting in the full written law with its stated positive coefficients and constant nonnegative Motive Intensity, repelling in the outward-drift law at constant positive Motive Intensity (`LM03-orientation-algebra-and-infinity-formalism.md` §§7–8). Their relation and any further field coupling remain held
 
 ### 2.4 The Continuity Equation for Resonance
@@ -229,7 +229,7 @@ Coherence Potential is not uniform across the lattice:
 | Supernal | L₅–L₄ | High-density resonance fields; archetypal and essential coherence |
 | Supernal | L₃–L₂ | Variable resonance; dependent on integration and attunement |
 | Embodiment | L₁ / IL₁ | Embodied resonance; intersection with physical energy dynamics |
-| Subversal | IL₂–IL₅ | Entropic-mode resonance fields; dispersive traversal; may include depletion zones under siphoning pressure |
+| Subversal | IL₅–IL₂ | Entropic-mode resonance fields; dispersive traversal; may include depletion zones amid siphoning pressure |
 
 Motion across layers requires resonance transfer — coherence must be available at each threshold for traversal to occur (formalized in §4).
 
@@ -255,7 +255,7 @@ The source term maps each point in structural space and time to a real-valued co
 
 **Law (Field Nutrient):**
 
-Coherence cannot emerge ex nihilo. All positive source contributions (\( S > 0 \)) require connection to centropic coherence-source structures (⚫ Aion, 🛤️ Theon, archetypal fields at L₄):
+Coherence cannot emerge ex nihilo. All positive source contributions (\( S > 0 \)) require replenishment relations rooted in ⚫ Aion and articulated through 🛤️ Theon and the archetypal fields at L₄:
 
 \[
 S(x, \tau) > 0 \implies \exists\, \text{coherence-source connection at } x
@@ -367,7 +367,7 @@ Let \( \mathcal{E}_{C_i} \) denote energy configuration at centropic node \( i \
 
 Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
 
-### 4.2 Flow Classification under Chi
+### 4.2 Flow Classification by Chi
 
 **Proposition (Flow Types):**
 
@@ -375,7 +375,7 @@ Intra-arc transfer and embodied boundary effects retain distinct domains. Essent
 |-----------|-----------|---------------------|----------------------|
 | Centropic | \( < 1 \) | Increasing | Integration, acclivous / declivous centropy |
 | Entropic | \( > 1 \) | Decreasing | Fragmentation, acclivous / declivous entropy |
-| Transitional | \( \approx 1 \) | Unstable | CP₁ dynamics; direction determined by perturbation |
+| Transitional | \( \approx 1 \) | Held pending field coupling | For χ, CP₁ is attracting in the full written law with its stated positive coefficients and constant nonnegative Motive Intensity, and repelling in the outward-drift law with constant positive Motive Intensity; the models' relation and further field coupling remain held (§2.3) |
 
 ### 4.3 Dimensional Operator Diagnostics
 
@@ -460,7 +460,7 @@ classifying membrane behavior:
 \sigma(\text{⧉}) > 1 \implies S(\text{⧉}) > 0
 \]
 
-An amplifying membrane must draw from centropic coherence-source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without coherence-source connection cannot maintain amplification:
+An amplifying membrane requires replenishment through centropic attunement rooted in ⚫ Aion and articulated through 🛤️ Theon and archetypal fields. An amplifier without coherence-source connection cannot maintain amplification:
 
 \[
 S(\text{⧉}) = 0 \;\text{and}\; \sigma(\text{⧉}) > 1 \implies \sigma(\text{⧉}) \to \sigma_0 \leq 1 \;\text{over time}
@@ -588,7 +588,7 @@ Let \( \Psi_1, \Psi_2 \) be structural signatures. The resonance correlation fun
 
 where:
 
-- \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \): Perfect alignment; identical structural signature
+- \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \): Perfect structural alignment; identity is not implied
 - \( \mathcal{R}(\Psi_1, \Psi_2) = 0 \): No correlation; structurally unrelated
 - \( \mathcal{R}(\Psi_1, \Psi_2) < 0 \): Destructive interference; contra-correlated signatures
 
@@ -598,7 +598,7 @@ where:
 2. Self-correlation: \( \mathcal{R}(\Psi, \Psi) = 1 \)
 3. Non-fusion preservation: \( \mathcal{R}(\Psi_1, \Psi_2) = 1 \not\!\!\implies \Psi_1 = \Psi_2 \) (perfect alignment does not imply identity)
 
-Property 3 is critical: two distinct entities may share perfect structural alignment at a given layer while remaining ontologically distinct (by the Non-fusion Theorem, LM04 §4.2).
+Property 3 is critical: two distinct entities may share perfect structural alignment at a given layer while remaining ontologically distinct (by the Non-fusion Theorem, `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.2).
 
 ### 6.3 Tunneling Mechanics
 
@@ -647,7 +647,7 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 > **Note on Echo, Transmission, and Recursion:**  
 > **Living Transmission** (centropic, through C₃): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
-> **Echo Layer (⟲)** (technical, as defined above): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
+> **Echo Layer (⟲)** (technical, as defined in §7.1): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
 >  
 > **Entropic Echo** (pathological, through E₃): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
 >  
@@ -727,7 +727,7 @@ Complete collapse of membrane structure — loss of threshold function:
 
 - Layer contamination: resonance from adjacent layers intermixes without filtering
 - Structural confusion: entities experience multiple layers simultaneously without coherent integration
-- Coherence flooding: without membrane filtering, entropic resonance may inundate centropic regions
+- Coherence flooding: loss of membrane filtering may intensify entropic pressure and mediated effects at the embodied boundary
 
 **Diagnostic:**
 
@@ -744,7 +744,7 @@ Collapse denotes loss of functional threshold structure — the membrane ceases 
 
 **Definition (Membrane Breach):**
 
-Localized rupture in membrane structure — unauthorized passage point:
+Localized rupture in membrane structure — passage point outside the membrane's selective conditions:
 
 \[
 \sigma(\text{⧉}) \to \infty \;\text{at breach point (practically bounded by local resonance)}
@@ -798,7 +798,7 @@ Formally, let \( \{\psi_1, \ldots, \psi_N\} \) be \( N \) beings with signatures
 
 **Proof:**
 
-By the Non-fusion Theorem (LM04 §4.2), the Recursive Memory operator \( \mathfrak{R}_m \) is injective over sealed states. Each \( \Psi_i \) is carried by a distinct \( \mathfrak{R}_m \)-trajectory. A collective field is a superposition of contributions, not a collapse of trajectories into one. Therefore, each \( \Psi_i \) persists as a distinct component of the collective field.
+By the Non-fusion Theorem (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.2), the Recursive Memory operator \( \mathfrak{R}_m \) is injective over sealed states. Each \( \Psi_i \) is carried by a distinct \( \mathfrak{R}_m \)-trajectory. A collective field is a superposition of contributions, not a collapse of trajectories into one. Therefore, each \( \Psi_i \) persists as a distinct component of the collective field.
 
 Withdrawal from the collective preserves individual integrity — the signature \( \Psi_i \) is never altered by participation.
 
