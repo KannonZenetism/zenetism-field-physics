@@ -1,9 +1,9 @@
 # MPX: Synthesis — Reconciliation Through Lawful Distinction
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension / Zenetist Canon  
+**Classification:** Metaphysics Extension — Zenetist Canon  
 **Status:** Draft  
-**Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` (Non-Fusion Axiom)  
+**Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` (Non-fusion Axiom)  
 
 ---
 
@@ -41,6 +41,6 @@ Synthesis therefore signifies:
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
