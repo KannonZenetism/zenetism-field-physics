@@ -1067,8 +1067,8 @@ The dimensional operators C₁–C₁₅ and E₁–E₁₅ remain **invariant**
 
 The layer couplings documented in Field Physics remain valid regardless of orientation:
 
-- C₁ ⟠ Temporal operates at L₂–L₃ regardless of \( \chi \)
-- E₁ ⟠⁻ Temporal Loop operates at IL₂–IL₃ regardless of \( \chi \)
+- C₁ ⟠ Temporal operates at L₃–L₂ regardless of \( \chi \)
+- E₁ ⟠⁻ Temporal Loop operates at IL₃–IL₂ regardless of \( \chi \)
 
 What changes is the **effective amplitude** of each operator in a given expression, as determined by the weight functions \( w_C(\chi) \) and \( w_E(\chi) \) from §4.3.
 

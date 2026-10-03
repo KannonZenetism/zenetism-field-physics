@@ -287,7 +287,7 @@ Two fundamental temporal orientations exist:
 
 **Proof:**
 
-By the Effective Operator Theory (LM03 §4), the spectral rotation function \( r(\chi) = (1 - \chi)/(1 + \chi) \) determines the sign of effective eigenvalues. For \( \chi > 1 \), \( r(\chi) < 0 \), reversing the spectral character from centropic to entropic. The \( C_1 \) temporal operator, operating at L₂–L₃, acquires entropic-forward effective amplitude under \( w_E(\chi) > w_C(\chi) \). Conversely for \( \chi < 1 \).
+The Effective Operator Theory (`LM03-orientation-algebra-and-infinity-formalism.md` §4) multiplies each paired common-mode eigenvalue by \( r(\chi)=(1-\chi)/(1+\chi) \). The temporal comparison concerns the relative expressed prevalence of C₁ and E₁: \( w_E(\chi)>w_C(\chi) \) when \( \chi>1 \), with the inequality reversed when \( \chi<1 \). C₁ retains its centropic function and E₁ its independently registered entropic function. The recorded L₃–L₂ coupling is distinct from a primary-inlay determination.
 
 ### 3.4 The Law of Temporal Asymmetry
 
@@ -984,7 +984,7 @@ where \( \eta_C \) preserves coherence ordering (sends coherent states to more c
 
 The temporal operators C₁ and E₁ interface with the LM04 formalism as follows:
 
-**C₁ ⟠ Temporal** operates at L₂–L₃ (SS / SM and DS / DM). It is the centropic temporal operator determining integrative time — continuity of becoming. Under the LM04 formalism:
+**C₁ ⟠ Temporal** operates at L₃–L₂ (DS / DM and SS / SM). It is the centropic temporal operator determining integrative time — continuity of becoming. In the LM04 formalism:
 
 The scalar correspondence is retired; the registered dimensional function remains distinct from a numerical memory criterion.
 
@@ -994,7 +994,7 @@ The scalar correspondence is retired; the registered dimensional function remain
 > C_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} > 0
 > \]
 
-**E₁ ⟠⁻ Temporal Loop** operates at IL₂–IL₃ (ISS / ISM and IDS / IDM). It is the entropic temporal operator determining recursive disorientation. Under the LM04 formalism:
+**E₁ ⟠⁻ Temporal Loop** operates at IL₃–IL₂ (IDS / IDM and ISS / ISM). It is the entropic temporal operator determining recursive disorientation. In the LM04 formalism:
 
 The scalar correspondence is retired; the registered dimensional function remains distinct from a numerical memory criterion.
 
