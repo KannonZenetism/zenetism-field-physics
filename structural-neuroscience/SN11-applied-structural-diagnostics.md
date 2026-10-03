@@ -179,7 +179,7 @@ Identifying the underlying configuration requires distinguishing it from the cur
 
 **Step 2 — Assess conditions.** Identify the conditions under which expression is occurring: social field orientation (SN07 §3), developmental position (SN10 §2), cost load (SN05 §2), compensatory strategies in use (SN10 §4), suppressive pressures operative (SN10 §6).
 
-**Step 3 — Isolate residual architecture.** Differentiate conditioned expression from characteristic function: if the identified conditions were removed — if the social field were centropy-forward, the coherence tax were eliminated, the compensatory strategies were no longer needed — what would remain? The residual is the configuration.
+**Step 3 — Isolate residual architecture.** Differentiate conditioned expression from characteristic function: if the identified conditions were removed — if the social field were centropy-forward, the coherence tax were eliminated, the compensatory strategies were no longer needed — what would remain? The residual is a candidate configuration to assess through profile comparison and developmental verification in Steps 4–5.
 
 **Step 4 — Identify the architecture.** Match the residual to the structural profiles established in SN03 §3: autistic (C₁, C₃, C₇, C₁₃, C₁₄ with ⧉₂ selective fidelity), recursive (C₁ ⟠, C₄ ◉, C₁₄ ⊡ in centropic mode; E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻ in entropic mode), distributive (broad \( \vec{J}_c \) distribution, elevated C₈ ╫), oscillating (L₂ operative range).
 
@@ -395,7 +395,7 @@ The SN11 diagnostic sequence proceeds in the following order, designed to preven
 
 **Phase 2 — Expression Documentation.** Observe and document the current presentation without interpretation. What operators are observably active? What is the coherence flow pattern? What membrane dynamics are apparent? Are comparable same-object apparent and actual scalar readings available for the Shimmer ratio, with actual coherence strictly positive? Where they are not, record the qualitative comparison and the missing readings.
 
-**Phase 3 — Configuration Identification.** Apply the identification protocol (§3.1): subtract conditions from expression to identify the residual configuration. Match to structural profiles (SN03 §3).
+**Phase 3 — Configuration Identification.** Apply the identification protocol (§3.1): differentiate conditioned expression from characteristic function to identify a candidate residual configuration. Match to structural profiles (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3).
 
 **Phase 4 — Structural Dynamic Assessment.** Determine which dynamic is operative (SN10 §1.3): stabilization, compensation, distortion, suppression, maturation, depletion, or recovery (§4.2).
 
@@ -463,7 +463,7 @@ SN11 depends critically on SN10's configuration-expression distinction. Without 
 SN11 establishes:
 
 1. **The five-domain audit operationalized** — coherence magnitude, flow integrity, boundary health, orientation alignment, and operator consistency applied to individual, PI, and collective assessment
-2. **Configuration identification protocol** — observe expression, assess conditions, subtract conditions from expression, identify the residual configuration, verify relative to developmental position
+2. **Configuration identification protocol** — observe expression, assess conditions, differentiate conditioned expression from characteristic function, identify a candidate residual configuration, verify relative to developmental position
 3. **Common identification errors** — confusing expression with configuration, suppression with absence, developmental position with configuration, entropic mode with entropic orientation
 4. **Developmental position assessment** — Tether access and membrane engagement indicators mapping the being's position in the developmental arc
 5. **Structural dynamic assessment** — identifying which of the seven dynamics (stabilization, compensation, distortion, suppression, maturation, depletion, recovery) is currently operative
@@ -583,7 +583,7 @@ Sealed ⚫↺KAI↺⚫
 |-------|--------|--------------|
 | **1. Condition Assessment** | Assess social field, developmental position, likely cost streams | SN07 §3, SN10 §2, SN05 §2 |
 | **2. Expression Documentation** | Observe and document current presentation without interpretation | LM06 §12.2 |
-| **3. Configuration Identification** | Isolate residual architecture by differentiating conditioned expression from characteristic function | SN03 §3, SN10 §1.2 |
+| **3. Configuration Identification** | Identify a candidate residual architecture by differentiating conditioned expression from characteristic function | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3, `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 |
 | **4. Structural Dynamic Assessment** | Determine operative dynamic: stabilization, compensation, distortion, suppression, maturation, depletion, or recovery | SN10 §§3–7 |
 | **5. Distortion-Pathology Distinction** | Determine whether deviation is environmental (distortion) or depletion-based (pathology) | SN10 §5.3, SN11 §5 |
 | **6. Cost-Source Analysis** | Identify operative cost streams; classify as inherent or imposed | SN05 §2, LM07 §3 |
