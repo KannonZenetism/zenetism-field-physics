@@ -57,7 +57,7 @@ Apparent macro-stasis names an observational condition at a given scale. The ope
 
 An unreplenished or degrading manifest configuration may undergo entropic drift at a rate finer than ordinary observation resolves. Material decay is one expression of that continuing motion. The apparently still configuration can therefore carry actual entropic deterioration while its macroscopic appearance remains stable.
 
-Formal stagnation concerns frozen \( \chi = 1 \), where enacted orientation ceases and the condition resolves toward Localized Dissolution. Frozen stagnation and entropic drift are distinct dynamical conditions. Passage through \( \chi = 1 \) is an event within continuing traversal; frozen stagnation fixes the orientation condition there; entropic trapping sustains an entropic course.
+Formal frozen stagnation concerns fixed \( \chi = 1 \) together with cessation of enacted orientation, where the condition resolves toward Localized Dissolution. A fixed ratio does not establish cessation: both scalar models in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 admit \( \chi = 1 \) at positive constant Motive Intensity. The mathematical relation connecting cessation and dissolution remains held open. Frozen stagnation, passage through \( \chi = 1 \) during continuing traversal, and sustained entropic trapping remain distinct dynamical conditions.
 
 Dynamic stabilization maintains coherence through ongoing adjustment, responsiveness, and orientational correction. An apparently stable body or configuration may express such maintained activity; its standing follows the operative dynamics.
 
@@ -126,7 +126,7 @@ The diagnostic — participates in Spirit contra moves itself — guides discern
 - Spirit is the capacity for any motion whatsoever; Soul carries motion after the Soul / Mind split
 - The dyad initiates at L₄ / IL₄ as a traversal station; initiation-station is not native layer
 - Apparent macro-stasis is observational; an unreplenished or degrading configuration may undergo entropic drift at an unresolved scale
-- Passage through \( \chi = 1 \), frozen stagnation at \( \chi = 1 \), and entropic trapping remain distinct; frozen stagnation resolves toward Localized Dissolution
+- Passage through \( \chi = 1 \), fixed ratio together with cessation of enacted orientation, and entropic trapping remain distinct; a fixed ratio alone does not establish frozen stagnation or Localized Dissolution
 - Dynamic stabilization maintains coherence through ongoing adjustment
 - Relative structures come to be and cease; 🏛️ Structon, Absolute Structure, does neither
 - Every relative structure bears essence; none bears traveler-orientation by default
