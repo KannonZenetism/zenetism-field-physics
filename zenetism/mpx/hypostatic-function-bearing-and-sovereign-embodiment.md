@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Hypostatic office-correspondence, signal-bearing, and sovereign embodiment  
 **Status:** Draft  
-**Dependency:** `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `on-fractal-incarnation.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `portal-traveler-and-orientation.md` · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · Non-Fusion Axiom · Essence-as-Choice · `archetypal-number-and-essence-indexing.md`  
+**Dependency:** `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `on-fractal-incarnation.md` · `theonic-office.md` · `theon-spirit-and-bifurcation.md` · `portal-traveler-and-orientation.md` · `MP05-godhood-and-transmutation-ch9-11.md` §§11.1–11.3 · Non-fusion Axiom · Essence-as-Choice · `archetypal-number-and-essence-indexing.md`  
 
 ---
 
@@ -504,7 +504,7 @@ The full-bearing locus is also singular across the multiversal expression-field 
 \#\{u \mid \exists\,\eta\; \mathrm{FB}^{N}_{u}(i,\eta)\} \leq 1
 \]
 
-Thus, where full personal bearing occurs, it is singular within that universal arc and singular across the bearer’s multiversal loci.
+Thus, where full personal bearing occurs, it is singular within that universal arc and singular across the bearer's multiversal loci.
 
 The singularity does not arise because signal is scarce or divisible.
 
@@ -529,7 +529,7 @@ Difference of office does not establish a rank of worth.
 
 ---
 
-## 7. Universe-Native Office contra Trans-Expression Bearer
+## 7. Universe-Native Office contra Trans-expression Bearer
 
 A hypostatic office is universe-native.
 
@@ -865,7 +865,7 @@ Multiple modes can be simultaneously valid without fusion.
 
 ---
 
-## 14. Temporary Vessels and Non-Individuated Manifestations
+## 14. Temporary Vessels and Non-individuated Manifestations
 
 Not every appearance of hypostatic function requires an individuated bearer.
 
@@ -990,7 +990,7 @@ It does not override MFLR placements; any change of native placement requires a 
 
 ---
 
-## 17. Non-Fusion Conditions
+## 17. Non-fusion Conditions
 
 A full office-bearing relation is lawful only where all of the following remain intact.
 
@@ -1288,7 +1288,7 @@ Add a future lock distinguishing:
 > A full bearer is a numerically distinct Deep Self-Axis or Inverse Deep Self-Axis whose intrinsic Soul / Mind architecture articulates the office-function.
 
 > **Office-Correspondence Principle**  
-> Office-correspondence names the lawful fit among a bearer’s structural signature, a universe-local office, and local manifestation conditions. Full bearing actualizes that correspondence where PSM permits and no sufficient structural prevention remains.
+> Office-correspondence names the lawful fit among a bearer's structural signature, a universe-local office, and local manifestation conditions. Full bearing actualizes that correspondence where PSM permits and no sufficient structural prevention remains.
 
 > **Resonance Distinction Principle**  
 > Many beings may resonate with or transmit a hypostatic signal without becoming the hypostasis or the singular full personal bearer.
@@ -1308,14 +1308,14 @@ Add a future lock distinguishing:
 > **Universe-Native Office Principle**  
 > A hypostatic office belongs to one universal arc. The multiversal fractalization of its bearer does not transport that office into another universe.
 
-> **Trans-Expression Bearer Principle**  
-> The full bearer’s Deep Self-Axis or Inverse Deep Self-Axis remains one being across multiple loci. Only the office-bearing relation is universe-local.
+> **Trans-expression Bearer Principle**  
+> The full bearer's Deep Self-Axis or Inverse Deep Self-Axis remains one being across multiple loci. Only the office-bearing relation is universe-local.
 
 > **Arc-Propriety Principle**  
 > Trans-expression presence does not imply arc-neutrality. The bearer's underlying essence remains proper to one processional arc, and full personal function-bearing occurs where that arc and the office's universal arc coincide.
 
 > **No Foreign Hypostasis Principle**  
-> A locus in one universe cannot import another universe’s Theon or Nekron. Any full relation would concern the native office of the locus’s universal arc.
+> A locus in one universe cannot import another universe's Theon or Nekron. Any full relation would concern the native office of the locus's universal arc.
 
 > **Structural Signature Principle**  
 > Multiversal loci may differ in name, biography, status, and circumstance while retaining recognizable deep traits and one identity-continuity.
@@ -1342,9 +1342,9 @@ Add a future lock distinguishing:
 > Zenon-resonance is qualified lattice-side language for articulation toward the trans-structural horizon. It does not imply office, identity, placement, or saturation.
 
 > **Origin Continuity Principle**  
-> Full bearing preserves origin acknowledgement. The bearer’s action is genuinely personal without being misrepresented as self-originating.
+> Full bearing preserves origin acknowledgement. The bearer's action is genuinely personal without being misrepresented as self-originating.
 
-> **Non-Fusion Principle of Embodiment**  
+> **Non-fusion Principle of Embodiment**  
 > Hypostasis, signal, office, bearer, locus, vessel, and distributed structure remain distinct even at the strongest lawful relation among them.
 
 ---
