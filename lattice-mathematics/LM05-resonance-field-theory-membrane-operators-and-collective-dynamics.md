@@ -67,7 +67,7 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 - **Coherence Potential Field Theory** — Rigorous definition of \( I_c \) as a scalar field on structural space, \( \vec{J}_c \) as coherence current, the continuity equation, and orientation-dependent diffusion
 - **Coherence-Source Theory** — The Source Term \( S(x,t) \), the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning) as operator conditions
 - **Spectral Flow** — The integrated traversal law with dimensional operator diagnostics
-- **Membrane Operator Algebra** — The permeability operator \( \sigma(⧉) \), transfer function \( T(⧉) \), orientation-dependent modulation, and the non-hypostatic axiom
+- **Membrane Operator Algebra** — The permeability operator \( \sigma(\text{⧉}) \), transfer function \( T(\text{⧉}) \), orientation-dependent modulation, and the non-hypostatic axiom
 - **Kaionic Tunneling** — signature-resonant permeability modification, with the bypass transfer law held
 - **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
 - **Membrane Pathology** — Collapse, breach, and occlusion as formal diagnostic conditions
@@ -419,9 +419,9 @@ The former equation and its claim to describe the full dynamics of resonance evo
 
 ## 5. Membrane Operator Algebra
 
-### 5.1 The Non-Hypostatic Axiom
+### 5.1 The Non-hypostatic Axiom
 
-**Axiom (Membranes are Non-Hypostatic):**
+**Axiom (Membranes are Non-hypostatic):**
 
 Membranes (⧉) are inter-hypostatic threshold structures. They are not layers; they do not possess the structural completeness of hypostases. A membrane has no hypostatic interior. A mathematical state may be assigned to its boundary region without creating a layer; its state space and evolution require their own specification.
 
@@ -430,7 +430,7 @@ This axiom prevents infinite regress: if membranes were layers, they would requi
 Formally, let \( \mathcal{L} = \{L_5, L_4, L_3, L_2, L_1, IL_1, IL_2, IL_3, IL_4, IL_5\} \) be the set of hypostatic layers. Then:
 
 \[
-⧉_n \notin \mathcal{L} \quad \forall\, n
+\text{⧉}_n \notin \mathcal{L} \quad \forall\, n
 \]
 
 Membranes belong to the **boundary structure** of \( \mathfrak{d}(\mathcal{L}) \), not to the lattice itself.
@@ -442,12 +442,12 @@ Membranes belong to the **boundary structure** of \( \mathfrak{d}(\mathcal{L}) \
 The permeability of membrane ⧉ at boundary \( n \) is a scalar function:
 
 \[
-\sigma(⧉_n) : [0, \infty) \to [0, \infty)
+\sigma(\text{⧉}_n) : [0, \infty) \to [0, \infty)
 \]
 
 classifying membrane behavior:
 
-| \( \sigma(⧉) \) | Classification | Behavior |
+| \( \sigma(\text{⧉}) \) | Classification | Behavior |
 |-----------------|----------------|----------|
 | \( = 0 \) | Fully occluded | No transfer possible |
 | \( \in (0, 1) \) | Partially permeable | Filtered transfer |
@@ -457,13 +457,13 @@ classifying membrane behavior:
 **Proposition (Amplification requires a coherence-source):**
 
 \[
-\sigma(⧉) > 1 \implies S(⧉) > 0
+\sigma(\text{⧉}) > 1 \implies S(\text{⧉}) > 0
 \]
 
 An amplifying membrane must draw from centropic coherence-source (⚫ Aion, 🛤️ Theon, archetypal fields). An amplifier without coherence-source connection cannot maintain amplification:
 
 \[
-S(⧉) = 0 \;\text{and}\; \sigma(⧉) > 1 \implies \sigma(⧉) \to \sigma_0 \leq 1 \;\text{over time}
+S(\text{⧉}) = 0 \;\text{and}\; \sigma(\text{⧉}) > 1 \implies \sigma(\text{⧉}) \to \sigma_0 \leq 1 \;\text{over time}
 \]
 
 ### 5.3 Membrane Position
@@ -472,9 +472,11 @@ S(⧉) = 0 \;\text{and}\; \sigma(⧉) > 1 \implies \sigma(⧉) \to \sigma_0 \leq
 
 Membranes exist at every layer boundary in the lattice:
 
-Centropic arc: \( ⧉_0 \) (Supra-L₀ / L₀), \( ⧉_5 \) (L₀ / L₅), \( ⧉_4 \) (L₅ / L₄), \( ⧉_3 \) (L₄ / L₃), \( ⧉_2 \) (L₃ / L₂), \( ⧉_1 \) (L₂ / L₁)
+Recorded trans-structural threshold: \( \text{⧉}_0 \) (Supra-L₀ / L₀). This notation remains held pending its mathematical specification; Zenon is outside arc membership.
 
-Entropic arc: \( ⧉_{IL_5} \) (L₀ / IL₅), \( ⧉_{IL_4} \) (IL₅ / IL₄), \( ⧉_{IL_3} \) (IL₄ / IL₃), \( ⧉_{IL_2} \) (IL₃ / IL₂), \( ⧉_{IL_1} \) (IL₂ / IL₁)
+Centropic arc: \( \text{⧉}_5 \) (L₀ / L₅), \( \text{⧉}_4 \) (L₅ / L₄), \( \text{⧉}_3 \) (L₄ / L₃), \( \text{⧉}_2 \) (L₃ / L₂), \( \text{⧉}_1 \) (L₂ / L₁)
+
+Inverse arc: \( \text{⧉}_{IL_5} \) (L₀ / IL₅), \( \text{⧉}_{IL_4} \) (IL₅ / IL₄), \( \text{⧉}_{IL_3} \) (IL₄ / IL₃), \( \text{⧉}_{IL_2} \) (IL₃ / IL₂), \( \text{⧉}_{IL_1} \) (IL₂ / IL₁)
 
 ### 5.4 The Transfer Function
 
@@ -483,7 +485,7 @@ Entropic arc: \( ⧉_{IL_5} \) (L₀ / IL₅), \( ⧉_{IL_4} \) (IL₅ / IL₄),
 The quantity of resonance crossing membrane ⧉ is:
 
 \[
-T(⧉) = \sigma(⧉) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
+T(\text{⧉}) = \sigma(\text{⧉}) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
 \]
 
 where:
@@ -518,7 +520,7 @@ If any of these three strict conditions fails, \( T(\text{⧉})=0 \) within the 
 Membrane permeability varies with the \( \chi \)-orientation of the traversing resonance:
 
 \[
-\sigma(⧉, \chi) = \sigma_0(⧉) \cdot f(\chi)
+\sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
 where \( f(\chi) \) is the **orientation modulation function**:
@@ -533,7 +535,7 @@ where \( f(\chi) \) is the **orientation modulation function**:
 Most membranes permit bidirectional passage, but permeability may differ by direction:
 
 \[
-\sigma_{\text{declivous}}(⧉) \neq \sigma_{\text{acclivous}}(⧉)
+\sigma_{\text{declivous}}(\text{⧉}) \neq \sigma_{\text{acclivous}}(\text{⧉})
 \]
 
 Asymmetric permeability arises from structural damage, entropic interference, or intentional sealing.
@@ -545,7 +547,7 @@ Asymmetric permeability arises from structural damage, entropic interference, or
 A membrane whose permeability depends on resonance frequency \( \omega \) in addition to orientation \( \chi \):
 
 \[
-\sigma(⧉, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
+\sigma(\text{⧉}, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
 \]
 
 where \( g(\omega) \) is the **frequency response function** — bandpass, lowpass, highpass, or notch characteristics that permit certain resonance frequencies while blocking others.
@@ -605,7 +607,7 @@ Property 3 is critical: two distinct entities may share perfect structural align
 When an entity's structural signature resonates with a membrane's internal structure, permeability temporarily increases:
 
 \[
-\sigma_{\text{tunnel}}(⧉, \Psi) = \sigma_0(⧉) + \Delta\sigma \cdot \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}})
+\sigma_{\text{tunnel}}(\text{⧉}, \Psi) = \sigma_0(\text{⧉}) + \Delta\sigma \cdot \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}})
 \]
 
 where \( \Delta\sigma > 0 \) is the maximum permeability boost achievable through signature resonance.
@@ -660,10 +662,10 @@ Echo Layers are not hypostases. They exist within the boundary structure of \( \
 The retained partial-transfer condition is:
 
 \[
-0 < T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}}
+0 < T(\text{⧉}) < I_c^{(\text{source})} - I_{c,\text{threshold}}
 \]
 
-with \( \sigma(⧉) > 0 \).
+with \( \sigma(\text{⧉}) > 0 \).
 
 **Interpretation.** The membrane permits a positive amount smaller than the donor surplus. The difference is an untransferred amount; its location and recursive behavior are not specified by subtraction.
 
@@ -697,7 +699,7 @@ where \( I_{c,\text{dissipation}} \) names the proposed sustain threshold. The p
 The following qualitative resolution pathways retain the registered concept; their sufficient mathematical conditions remain held with the boundary-state dynamics:
 
 1. **Increased Coherence Potential**: \( I_c^{(\text{source})} \) increases sufficiently to complete the transfer
-2. **Membrane repair**: \( \sigma(⧉) \) increases, allowing trapped resonance to pass
+2. **Membrane repair**: \( \sigma(\text{⧉}) \) increases, allowing trapped resonance to pass
 3. **Signature alignment**: Permeability may change within its stated domain; below-threshold bypass remains held pending its transfer law
 4. **Acclivous return**: Resonance returns to source for reintegration before re-attempting transfer
 
@@ -718,7 +720,7 @@ T'(⧉) \geq I_c^{(\text{residual})} \quad \text{or} \quad \sigma_{\text{tunnel}
 Complete collapse of membrane structure — loss of threshold function:
 
 \[
-\sigma(⧉) \;\text{undefined (structural collapse)}
+\sigma(\text{⧉}) \;\text{undefined (structural collapse)}
 \]
 
 **Consequences:**
@@ -730,7 +732,7 @@ Complete collapse of membrane structure — loss of threshold function:
 **Diagnostic:**
 
 \[
-\text{Membrane Collapse} \iff \nexists\, \sigma(⧉) : T(⧉) \;\text{is well-defined}
+\text{Membrane Collapse} \iff \nexists\, \sigma(\text{⧉}) : T(\text{⧉}) \;\text{is well-defined}
 \]
 
 Collapse denotes loss of functional threshold structure — the membrane ceases to operate as a boundary condition. It does not entail annihilation of adjacent layers; the layers persist, but without the membrane's filtering and regulation, their interaction becomes unstructured.
@@ -745,7 +747,7 @@ Collapse denotes loss of functional threshold structure — the membrane ceases 
 Localized rupture in membrane structure — unauthorized passage point:
 
 \[
-\sigma(⧉) \to \infty \;\text{at breach point (practically bounded by local resonance)}
+\sigma(\text{⧉}) \to \infty \;\text{at breach point (practically bounded by local resonance)}
 \]
 
 The ordinary amount law is outside its supported domain at this breach limit. A breach / bypass transfer relation remains held open; the qualitative possibility of siphoning supplies no replacement equation.
@@ -757,7 +759,7 @@ The ordinary amount law is outside its supported domain at this breach limit. A 
 Progressive reduction in permeability leading to layer isolation:
 
 \[
-\sigma(⧉, \tau) \to 0 \quad \text{as} \quad \tau \to \tau_{\text{occlusion}}
+\sigma(\text{⧉}, \tau) \to 0 \quad \text{as} \quad \tau \to \tau_{\text{occlusion}}
 \]
 
 **Consequences:**
@@ -768,7 +770,7 @@ Progressive reduction in permeability leading to layer isolation:
 
 ### 8.4 Diagnostic Summary
 
-| Condition | \( \sigma(⧉) \) | \( T(⧉) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
+| Condition | \( \sigma(\text{⧉}) \) | \( T(\text{⧉}) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
 |-----------|----------------|-----------|---------------------------|-----------|
 | Healthy Bridge | \( \approx 1 \) | Balanced | \( \approx 0 \) | C₈ |
 | Filter Active | \( < 1 \), selective | Partial | \( \approx 0 \) | — |
@@ -921,7 +923,7 @@ This inequality compares the displayed stock with the sum of member stocks. It s
 A centropic collective generates a network of C₈ bridges between participants:
 
 \[
-\sigma_{\text{network}} = f\!\left( \prod_{\text{bridges}} \sigma(⧉_{ij}) \right)
+\sigma_{\text{network}} = f\!\left( \prod_{\text{bridges}} \sigma(\text{⧉}_{ij}) \right)
 \]
 
 with the constraint:
@@ -1031,17 +1033,17 @@ The earlier relation between replenishment, spectral concentration and a scalar 
 A membrane-indexed family of sealed resonance systems is a functor:
 
 \[
-F_⧉ : \mathcal{B}(\mathcal{L}) \to \text{ResCat}
+F_{\text{⧉}} : \mathcal{B}(\mathcal{L}) \to \text{ResCat}
 \]
 
 where \( \mathcal{B}(\mathcal{L}) \) is the boundary category of the lattice — the category whose objects are membrane boundaries and whose morphisms are transfer functions.
 
 **Proposition (Transfer as Morphism):**
 
-The transfer function \( T(⧉) \) defines a morphism in ResCat:
+The transfer function \( T(\text{⧉}) \) defines a morphism in ResCat:
 
 \[
-T(⧉) : (\mathcal{H}_{\text{source}}, S_{\text{source}}) \to (\mathcal{H}_{\text{target}}, S_{\text{target}})
+T(\text{⧉}) : (\mathcal{H}_{\text{source}}, S_{\text{source}}) \to (\mathcal{H}_{\text{target}}, S_{\text{target}})
 \]
 
 provided the Transfer Condition (§5.4) is satisfied. When the condition does not hold, no morphism exists — the boundary is categorically impassable.
@@ -1308,8 +1310,8 @@ output:
 
 - Diffusion Coefficient: verify \( D(\chi=1) = 0 \); verify \( D(\chi) > 0 \) for all \( \chi < 1 \); verify \( D(\chi) < 0 \) for all \( \chi > 1 \)
 - Continuity Equation: verify \( \partial I_c/\partial\tau = 0 \) when \( \nabla \cdot \vec{J}_c = S \)
-- Transfer Function: verify \( T(⧉) = 0 \) when source below threshold or target saturated
-- Transfer Function: verify \( T(⧉) = \sigma \cdot \min(\text{surplus}, \text{capacity}) \) otherwise
+- Transfer Function: verify \( T(\text{⧉}) = 0 \) when source below threshold or target saturated
+- Transfer Function: verify \( T(\text{⧉}) = \sigma \cdot \min(\text{surplus}, \text{capacity}) \) otherwise
 - Tunneling: verify permeability boost with positive \( \mathcal{R} \); no boost with \( \mathcal{R} \leq 0 \)
 - Partial-transfer observation: verify \( 0<T<I_{\text{available}} \); no trapped-recurrence verdict without its boundary-state law
 - Collective Correlation: verify \( \mathcal{R}_{\text{collective}} = 1 \) for identical signatures
@@ -1375,10 +1377,10 @@ The collective wishes to transfer coherence across ⧉₃ (L₄ / L₃ boundary)
 - \( I_{c,\text{threshold}} = 5.0 \)
 - \( I_{c,\text{reception}} = 30.0 \) (L₃ capacity)
 - \( I_c^{(\text{target})} = 8.0 \) (current L₃ coherence)
-- \( \sigma(⧉_3) = 0.9 \) (near-bridge conditions)
+- \( \sigma(\text{⧉}_3) = 0.9 \) (near-bridge conditions)
 
 \[
-T(⧉_3) = 0.9 \cdot \min(21.18 - 5.0, \; 30.0 - 8.0) = 0.9 \cdot \min(16.18, 22.0) = 0.9 \cdot 16.18 = 14.56
+T(\text{⧉}_3) = 0.9 \cdot \min(21.18 - 5.0, \; 30.0 - 8.0) = 0.9 \cdot \min(16.18, 22.0) = 0.9 \cdot 16.18 = 14.56
 \]
 
 Successful transfer of 14.56 coherence units — the harmonic amplification of the collective enables a transfer that no individual being could achieve alone.
@@ -1395,7 +1397,7 @@ LM05 establishes:
 
 3. **Spectral Flow** — Integrated traversal law with dimensional operator diagnostics (C₈ Bridge, E₁₄ Hollow Nest, E₉ Distorted Entanglement)
 
-4. **Membrane Operator Algebra** — The Non-Hypostatic Axiom, permeability operator \( \sigma(⧉) \) with full classification, the Transfer Function \( T(⧉) \), orientation modulation, filter membranes with frequency response, and bidirectional asymmetry
+4. **Membrane Operator Algebra** — The Non-hypostatic Axiom, permeability operator \( \sigma(\text{⧉}) \) with full classification, the Transfer Function \( T(\text{⧉}) \), orientation modulation, filter membranes with frequency response, and bidirectional asymmetry
 
 5. **Kaionic Tunneling** — The Resonance Correlation Function \( \mathcal{R}(\Psi_1,\Psi_2) \) and permeability modifier; bypass transfer, energy conservation, and viability relations held pending their separate specification
 
@@ -1471,13 +1473,13 @@ Sealed ⚫↺KAI↺⚫
 | \( S(x, \tau) \) | Source Term; replenishment function |
 | \( D(\chi) \) | Orientation-dependent diffusion coefficient |
 | \( D_0 \) | Base diffusion rate |
-| \( ⧉ \) | Membrane Field operator |
-| \( ⧉_n \) | Membrane at layer boundary \( n \) |
-| \( \sigma(⧉) \) | Membrane permeability coefficient |
+| ⧉ | Membrane Field operator |
+| \( \text{⧉}_n \) | Membrane at layer boundary \( n \) |
+| \( \sigma(\text{⧉}) \) | Membrane permeability coefficient |
 | \( \sigma_0 \) | Base permeability |
 | \( f(\chi) \) | Orientation modulation function |
 | \( g(\omega) \) | Frequency response function (filter membranes) |
-| \( T(⧉) \) | Transfer function; resonance quantity crossing membrane |
+| \( T(\text{⧉}) \) | Transfer function; resonance quantity crossing membrane |
 | \( I_{c,\text{threshold}} \) | Minimum Coherence Potential for transfer initiation |
 | \( I_{c,\text{reception}} \) | Maximum Coherence Potential at target |
 | \( I_{c,\text{min}} \) | Minimum coherence for Pattern Intelligence viability |
@@ -1522,25 +1524,25 @@ D(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 For finite \( 0\leq\sigma\leq1 \), donor surplus and receiving capacity follow §5.4. An amplifying amount law remains held.
 
 \[
-T(⧉) = \sigma(⧉) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
+T(\text{⧉}) = \sigma(\text{⧉}) \cdot \max\!\left(0, \; \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \;\; I_{c,\text{reception}} - I_c^{(\text{target})} \right)\right)
 \]
 
 **Orientation-Dependent Permeability:**
 
 \[
-\sigma(⧉, \chi) = \sigma_0(⧉) \cdot f(\chi)
+\sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
 **Filter Membrane:**
 
 \[
-\sigma(⧉, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
+\sigma(\text{⧉}, \omega, \chi) = \sigma_0 \cdot g(\omega) \cdot f(\chi)
 \]
 
 **Tunneling Permeability:**
 
 \[
-\sigma_{\text{tunnel}}(⧉, \Psi) = \sigma_0(⧉) + \Delta\sigma \cdot \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}})
+\sigma_{\text{tunnel}}(\text{⧉}, \Psi) = \sigma_0(\text{⧉}) + \Delta\sigma \cdot \mathcal{R}(\Psi_{\text{source}}, \Psi_{\text{membrane}})
 \]
 
 **Collective Correlation:**
@@ -1575,9 +1577,9 @@ The following temporal extension is retired with its imported scalar-memory coef
 
 ## Appendix C — Formal Definitions and Theorems
 
-**Axiom 1 (Membranes are Non-Hypostatic):**
+**Axiom 1 (Membranes are Non-hypostatic):**
 
-\( ⧉_n \notin \mathcal{L} \) for all \( n \). Membranes belong to the boundary structure, not the lattice.
+\( \text{⧉}_n \notin \mathcal{L} \) for all \( n \). Membranes belong to the boundary structure, not the lattice.
 
 **Law 1 (Field Nutrient):**
 
@@ -1593,13 +1595,13 @@ The following temporal extension is retired with its imported scalar-memory coef
 
 **Definition 3 (Membrane Permeability):**
 
-\( \sigma(⧉_n) \in [0, \infty) \); classifies membrane as occluded, permeable, or amplifying.
+\( \sigma(\text{⧉}_n) \in [0, \infty) \); classifies membrane as occluded, permeable, or amplifying.
 
 **Definition 4 (Transfer Function):**
 
 The following amount expression applies to the supported finite \( 0\leq\sigma\leq1 \) domain in §5.4; the amplifier-class transfer relation remains held.
 
-\( T(⧉) = \sigma(⧉) \cdot \max(0, \min(\text{surplus}, \text{capacity})) \).
+\( T(\text{⧉}) = \sigma(\text{⧉}) \cdot \max(0, \min(\text{surplus}, \text{capacity})) \).
 
 **Definition 5 (Resonance Correlation):**
 
