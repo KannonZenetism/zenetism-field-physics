@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Love, Coherence, and the Structural Reading of Attraction  
 **Status:** Draft — architect review  
-**Dependency:** `MP04-intelligence-and-ecology-ch7-8.md` (§4.63, *The Great Refrain — Love or Completion*) · `MP01-emanation-architecture-ch1-3.md` (Non-Fusion note) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · Symbolic Pattern Registry Vol 1 (Love operator) · Non-Fusion Axiom · `terminological-lockdown-protocol.md` (unity restriction) · `conceptual-lockdown-protocol.md` (Boundary-Relation Vocabulary)
+**Dependency:** `MP02-unified-metaphysics-ch4.md` (§4.63, *The Great Refrain — Love or Completion*) · `MP01-emanation-architecture-ch1-3.md` (Non-fusion note) · `MP02-unified-metaphysics-ch4.md` (*Note on Essence-as-Choice*) · `symbolic-pattern-registry-01.md` · Non-fusion Axiom · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md`  
 
 ---
 
@@ -11,7 +11,7 @@
 
 Zenetism does not treat love as an emotion first.
 
-Emotion is love's embodied register — its weather at L₁ / L₂ — not its structure.
+Emotion is love's embodied and personality expression — its weather at L₁ and L₂ — not its structure.
 
 Structurally, love is the prime coherence:
 
@@ -41,7 +41,7 @@ The two are the same doctrine at two scales.
 
 Love does not merge.
 
-The Non-Fusion Axiom holds at every register, and love is its strongest witness — not its exception.
+The Non-fusion Axiom holds at every register, and love is its strongest witness — not its exception.
 
 Veracious love is extension: the reach of coherence toward another without absorption of the other.
 
@@ -69,7 +69,7 @@ At L₄, love is archetypal — the deep forms of belonging that shape what bond
 
 And at L₅, love takes its Theonic form: remaining.
 
-If many essences remain within Theon's sphere at the closing of a universe, Theon may remain — not from compulsion, but from love.
+If EOB-culminating essences proper to Theon's processional arc have not completed multiversal integration and Theonic passage as that arc approaches completion, the Theonic office remains — not from compulsion, but from love.
 
 Remaining as shelter for those not yet whole.
 
