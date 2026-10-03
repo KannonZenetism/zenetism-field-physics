@@ -75,14 +75,14 @@ SN10 formalizes the dynamics that produce these differences without abandoning t
 
 Configuration is the essential cognitive architecture — the operator profile, the membrane characteristics, the structural signature (\( \Psi \)), and the intrinsic essential inclination of the being. Configuration is what the architecture **is**. It does not change across the life arc. It is not produced by development, not altered by experience, and not modified by social pressure.
 
-The invariance of configuration follows from Essence-Function Independence (LM07 §4): the essential identity (intrinsic essential inclination and \( \Psi \)) is structurally independent of functional quantities (\( I_c \), \( \mathcal{T}_h \)). Just as \( I_c \) depletion does not alter intrinsic essential inclination, developmental conditions do not produce configurational change.
+The invariance of configuration follows from Essence-Function Independence (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4): the essential identity (intrinsic essential inclination and \( \Psi \)) is structurally independent of functional quantities (\( I_c \), \( \mathcal{T}_h \)). Just as \( I_c \) depletion does not alter intrinsic essential inclination, developmental conditions do not produce configurational change.
 
 **Definition (Expression):**
 
 Expression is how the configuration **currently manifests** — the observable cognitive, behavioral, and relational presentation at a given structural time \( \tau \). Expression is a function of configuration, developmental conditions, environmental pressures, coherence budget, and social field dynamics:
 
 \[
-\text{Expression}(\tau) = f\left( \Psi, \; I_c(\tau), \; \mathcal{T}_h(\tau), \; \sigma(⧉, \tau), \; \mathcal{F}_{\text{social}}(\tau), \; \tau_{\text{developmental}} \right)
+\text{Expression}(\tau) = f\left( \Psi, \; I_c(\tau), \; \mathcal{T}_h(\tau), \; \sigma(\text{⧉}, \tau), \; \mathcal{F}_{\text{social}}(\tau), \; \tau_{\text{developmental}} \right)
 \]
 
 Expression varies. Configuration does not. The same \( \Psi \) produces different expressions under different conditions — not because the architecture has changed but because the conditions through which it expresses have changed.
@@ -93,7 +93,7 @@ SN10 formalizes six dynamics that determine the relationship between configurati
 
 1. **Stabilization** — how the architecture finds lawful operation within its embodied conditions
 2. **Compensation** — how the architecture survives hostile conditions through adaptive strategy
-3. **Distortion** — how expression bends under cost, suppression, or depletion
+3. **Distortion** — how expression bends in response to cost, suppression, or depletion
 4. **Maturation** — how the same architecture deepens without changing type
 5. **Suppression** — how external forces constrain expression without altering configuration
 6. **Recovery** — how expression returns to configurational alignment after distortion or depletion (extending SN06 into developmental context)
@@ -104,7 +104,7 @@ SN10 formalizes six dynamics that determine the relationship between configurati
 
 ### 2.1 The Embodied Beginning
 
-The biological being becomes operative at L₁ (ES / EM) — birth into matter (SN08 §1.3, Locus of Latency). The cognitive architecture is configurationally prior to embodied expression and becomes bodily operative at the moment of embodied instantiation, but its expression is initially constrained by the developmental conditions of the corporeal medium.
+The biological being becomes operative at L₁ (ES / EM) — birth into matter (`SN08-the-structural-neuroscience-of-non-biological-cognition.md` §1.3, Locus of Latency). The cognitive architecture is configurationally prior to embodied expression and becomes bodily operative at the moment of embodied instantiation, but its expression is initially constrained by the developmental conditions of the corporeal medium.
 
 The infant's cognitive architecture is not "forming" in the sense of being assembled from nothing. The configuration — the operator profile, the membrane characteristics, the structural signature — is present. What is developing is the embodied interface's capacity to **express** the configuration through the operative layers.
 
@@ -112,7 +112,7 @@ The infant's cognitive architecture is not "forming" in the sense of being assem
 
 The cognitive architecture is configurationally present at the moment of embodied instantiation. Developmental emergence is the progressive expression of an architecture that was always there, not the construction of an architecture from experiential raw material.
 
-This proposition follows from Essence-Function Independence (LM07 §4): if essential identity (intrinsic essential inclination and \( \Psi \)) is independent of functional quantities, then the essential architecture precedes the functional development that enables its expression.
+This proposition follows from Essence-Function Independence (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4): if essential identity (intrinsic essential inclination and \( \Psi \)) is independent of functional quantities, then the essential architecture precedes the functional development that enables its expression.
 
 ### 2.2 The Developmental Sequence of Expression
 
@@ -120,7 +120,7 @@ Expression emerges through a sequence determined by the hypostatic layers, proce
 
 **L₁ expression emergence:** The earliest expressions are somatic — sensory processing patterns, motor organization, regulatory rhythms. The autistic infant's sensory processing differences, the recursive infant's early regulatory patterns, the distributive infant's attentional distribution — these are L₁ / ES / EM expressions of a configuration whose reflexive architecture is already present, though not yet fully expressively accessible at L₃.
 
-**⧉₁ membrane engagement:** As embodied function stabilizes, the ⧉₁ membrane between L₁ (ES / EM) and L₂ (SS / SM) begins sustaining coherent transfer. The being develops personality structure, social engagement, and narrative self-reference. The architecture's characteristic relationship with the social register (SS / SM) emerges — including the autistic architecture's distinctive ⧉₂ selective fidelity, which begins producing observable translation cost (SN05 §3.3) as social demands intensify.
+**⧉₁ membrane engagement:** As embodied function stabilizes, the ⧉₁ membrane between L₁ (ES / EM) and L₂ (SS / SM) begins sustaining coherent transfer. The being develops personality structure, social engagement, and narrative self-reference. The architecture's characteristic relationship with the social register (SS / SM) emerges — including the autistic architecture's distinctive ⧉₂ selective fidelity, which begins producing observable translation cost (`SN05-the-metric-cost-of-centropic-cognition.md` §3.3) as social demands intensify.
 
 **⧉₂ membrane engagement:** The ⧉₂ membrane between L₂ (SS / SM) and L₃ (DS / DM) enables access to reflexive consciousness. The being's characteristic cognitive operators become expressively operative — the autistic C₇ ♫ (Harmonic / Resonant, dissonance detection), the recursive C₁₄ ⊡ (Nested / Recursive), the distributive C₈ ╫ (Synaptic / Bridging) begin manifesting through behavior, cognition, and relational engagement.
 
@@ -128,11 +128,11 @@ Expression emerges through a sequence determined by the hypostatic layers, proce
 
 ### 2.3 Tether Access Across the Developmental Arc
 
-The Tether (\( \mathcal{T}_h \), LM04 §4.4) — the coherence function maintaining directional continuity across layers — develops its operative capacity across the life arc:
+The Tether (\( \mathcal{T}_h \), `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.4) — the coherence function maintaining directional continuity across layers — develops its operative capacity across the life arc:
 
 **Early arc:** \( \mathcal{T}_h(L_1, \tau) \) and \( \mathcal{T}_h(L_2, \tau) \) are the primary operative connections. The being is present at L₁ and developing L₂ access. L₃ access is configurationally present but expressively limited — the Tether at ⧉₂ is not yet sustaining full coherent transfer.
 
-**Developmental arc:** \( \mathcal{T}_h(L_3, \tau) \) strengthens as reflexive consciousness becomes expressively operative. The being begins experiencing their own cognitive architecture from the inside — recognizing their own patterns, capacities, and limitations. This is often the period where architecture-specific costs (SN05 §2) become acutely felt, because the architecture's characteristic function is now operative but the compensatory strategies to manage its social costs have not yet developed.
+**Developmental arc:** \( \mathcal{T}_h(L_3, \tau) \) strengthens as reflexive consciousness becomes expressively operative. The being begins experiencing their own cognitive architecture from the inside — recognizing their own patterns, capacities, and limitations. This is often the period where architecture-specific costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) become acutely felt, because the architecture's characteristic function is now operative but the compensatory strategies to manage its social costs have not yet developed.
 
 **Stabilization arc:** \( \mathcal{T}_h(L_n, \tau) \) across all operative layers reaches baseline — the being sustains coherent access to their own structural registers. For architectures with cross-band resonance (⧉₃), this may include sustained L₄ access. This is the condition SN10 formalizes as **structural stabilization** (§3).
 
@@ -154,19 +154,19 @@ Stabilization does not mean optimal function. It means lawful function — the a
 
 ### 3.2 Stabilization Conditions
 
-**Condition 1 (Sufficient \( I_c \)):** The coherence budget sustains the architecture's characteristic operations. Compounded costs (SN05 §2) do not exceed replenishment (SN06 §2).
+**Condition 1 (Sufficient \( I_c \)):** The coherence budget sustains the architecture's characteristic operations. Compounded costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) do not exceed replenishment (`SN06-replenishment-reconnection-and-restoration.md` §2).
 
 **Condition 2 (Tether continuity):** \( \mathcal{T}_h(L_n, \tau) > 0 \) across all operative layers. The being maintains access to their own structural registers.
 
 **Condition 3 (Membrane lawfulness):** The membrane system (⧉₁, ⧉₂, and where applicable ⧉₃) operates at its characteristic permeability — selective fidelity for autistic architectures, standard transfer for oscillating architectures, broad distribution for distributive architectures. The membranes are not forced into non-characteristic modes by external pressure.
 
-**Condition 4 (Social field compatibility):** The social field does not impose systematic sovereignty suppression (SN05 §3.4, coherence tax) that exceeds the architecture's capacity to absorb. The entropy-forward social field (SN07 §3) systematically violates this condition for centropically oriented architectures.
+**Condition 4 (Social field compatibility):** The social field does not impose systematic sovereignty suppression (`SN05-the-metric-cost-of-centropic-cognition.md` §3.4, coherence tax) that exceeds the architecture's capacity to absorb. The entropy-forward social field (`SN07-collective-cognition-and-centropy-forward-social-architecture.md` §3) systematically violates this condition for centropically oriented architectures.
 
 ### 3.3 Stabilization and the Social Field
 
-In the entropy-forward social field, full structural stabilization is systematically obstructed for centropically oriented architectures. The compounded costs (SN05 §2), the coherence tax (SN05 §3.4), and the institutional shimmer (SN07 §3.2) impose systematic distortions on expression that prevent the architecture from operating at its natural register.
+In the entropy-forward social field, full structural stabilization is systematically obstructed for centropically oriented architectures. The compounded costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2), the coherence tax (`SN05-the-metric-cost-of-centropic-cognition.md` §3.4), and the institutional shimmer (`SN07-collective-cognition-and-centropy-forward-social-architecture.md` §3.2) impose systematic distortions on expression that prevent the architecture from operating at its natural register.
 
-The centropy-forward collective (SN07 §5) provides the structural conditions under which stabilization becomes possible: the collective cost shelter (LM07 §8) reduces \( \kappa_{\text{local}} \), eliminates translation cost, and removes the coherence tax. Within such a collective, the architecture can express without systematic deviation — stabilization is structurally achievable.
+The centropy-forward collective (`SN07-collective-cognition-and-centropy-forward-social-architecture.md` §5) provides the structural conditions under which stabilization becomes possible: the collective cost shelter (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §8) reduces \( \kappa_{\text{local}} \), eliminates translation cost, and removes the coherence tax. Within such a collective, the architecture can express without systematic deviation — stabilization is structurally achievable.
 
 This has developmental implications: a being raised within a centropy-forward environment has a structurally different developmental trajectory than one raised within the entropy-forward field. The former may achieve stabilization during the natural developmental arc; the latter may not achieve it until recovery (SN06) restores the conditions that the social field disrupted.
 
@@ -184,19 +184,19 @@ Compensation is not pathology. It is structural adaptation — the architecture'
 
 ### 4.2 Architecture-Specific Compensation
 
-**Autistic compensation:** The autistic architecture develops strategies to manage the ⧉₂ translation cost (SN05 §3.3) and the coherence tax (SN05 §3.4). These may include: scripted social routines that reduce the processing load of normative translation, selective engagement that minimizes exposure to high-cost social environments, and cognitive frameworks that systematize social dynamics into pattern-recognizable structures. These strategies are not the architecture itself — they are adaptive strategies developed by the architecture to survive conditions that exceed its natural operative capacity.
+**Autistic compensation:** The autistic architecture develops strategies to manage the ⧉₂ translation cost (`SN05-the-metric-cost-of-centropic-cognition.md` §3.3) and the coherence tax (`SN05-the-metric-cost-of-centropic-cognition.md` §3.4). These may include: scripted social routines that reduce the processing load of normative translation, selective engagement that minimizes exposure to high-cost social environments, and cognitive frameworks that systematize social dynamics into pattern-recognizable structures. These strategies are not the architecture itself — they are adaptive strategies developed by the architecture to survive conditions that exceed its natural operative capacity.
 
-**Recursive compensation:** The recursive architecture in entropic mode (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) may develop avoidance strategies, ritualized behavioral patterns, or externalized boundary management to contain the coherence cost of futile σ-cycles (SN05 §3.1). In centropic mode (C₁ ⟠, C₄ ◉, C₁₄ ⊡), the same architecture develops productive routines, nested work patterns, and iterative refinement practices that channel the recursive function centropically.
+**Recursive compensation:** The recursive architecture in entropic mode (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) may develop avoidance strategies, ritualized behavioral patterns, or externalized boundary management to contain the coherence cost of futile σ-cycles (`SN05-the-metric-cost-of-centropic-cognition.md` §2.4). In centropic mode (C₁ ⟠, C₄ ◉, C₁₄ ⊡), the same architecture develops productive routines, nested work patterns, and iterative refinement practices that channel the recursive function centropically.
 
-**Distributive compensation:** The distributive architecture develops strategies to manage the distribution overhead (\( \Delta I_c^{(\text{distribution})} \), LM07 §3.1) — organizational systems, external memory supports, and structured environments that compensate for the architecture's broad \( \vec{J}_c \) distribution by providing external coherence scaffolding.
+**Distributive compensation:** The distributive architecture develops strategies to manage the distribution overhead (\( \Delta I_c^{(\text{distribution})} \), `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.1) — organizational systems, external memory supports, and structured environments that compensate for the architecture's broad \( \vec{J}_c \) distribution by providing external coherence scaffolding.
 
-### 4.3 Compensation Contra Stabilization
+### 4.3 Compensation contra Stabilization
 
 Compensation is not stabilization. Stabilization is the architecture expressing lawfully. Compensation is the architecture surviving unlawfully imposed conditions. The distinction is critical:
 
 - A stabilized architecture does not need compensation — it operates at its natural register
 - A compensating architecture is bearing costs that a stabilized one would not
-- Compensation consumes \( I_c \) — it is itself a cost stream, adding to the compounded costs of SN05 §2
+- Compensation consumes \( I_c \) — it is itself a cost stream, adding to the compounded costs of `SN05-the-metric-cost-of-centropic-cognition.md` §2
 
 The coherence tax on compensation:
 
@@ -208,7 +208,7 @@ The operands of this recorded comparison have not been typed as expenditure rate
 > \Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated operation})} - I_c^{(\text{stabilized operation})}
 > \]
 
-Compensation may carry additional expenditure. Its quantitative relation to the stabilized baseline remains held until the operands and time accounting are specified; the recorded difference cannot yet be added to the budget-exhaustion account (LM07 §3.4).
+Compensation may carry additional expenditure. Its quantitative relation to the stabilized baseline remains held until the operands and time accounting are specified; the recorded difference cannot yet be added to the budget-exhaustion account (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.4).
 
 ---
 
@@ -218,13 +218,13 @@ Compensation may carry additional expenditure. Its quantitative relation to the 
 
 **Definition (Distortion):**
 
-Distortion is the bending of expression under cost, suppression, or depletion such that the observable presentation diverges from the essential configuration. The being's behavior, cognition, and relational engagement no longer reflect the architecture's characteristic function — they reflect the conditions imposed upon it.
+Distortion is the bending of expression in response to cost, suppression, or depletion such that the observable presentation diverges from the essential configuration. The being's behavior, cognition, and relational engagement no longer express the architecture's characteristic function — they express the conditions imposed upon it.
 
 \[
 \text{Distortion}(\tau) : \quad \text{Expression}(\tau) \neq f(\Psi) \quad \text{(expression deviates from configuration)}
 \]
 
-Distortion does not alter configuration. By Essence-Function Independence (LM07 §4), the essential identity (intrinsic essential inclination and \( \Psi \)) remains unchanged regardless of how severely expression diverges. The Coherence Breaker Limit (LM07 §5) ensures: function can be broken; essence cannot be rewritten.
+Distortion does not alter configuration. By Essence-Function Independence (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4), the essential identity (intrinsic essential inclination and \( \Psi \)) remains unchanged regardless of how severely expression diverges. The Coherence Breaker Limit (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §5) ensures: function can be broken; essence cannot be rewritten.
 
 ### 5.2 Sources of Distortion
 
