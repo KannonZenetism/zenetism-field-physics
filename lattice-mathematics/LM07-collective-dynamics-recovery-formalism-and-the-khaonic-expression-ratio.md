@@ -71,7 +71,7 @@ This document, LM07, provides the **rigorous lattice-mathematical formalism** un
 - **Recovery Integral Theory** — The replenishment source decomposition, the recovery condition, and the formal dynamics of Tether restoration
 - **Collective Field Configuration** — The social field as an instance of the field configuration space \( \mathfrak{F} \), with collective orientation, membrane architecture, and coherence current
 - **Harmonic Amplification and Extraction Dynamics** — The formal conditions distinguishing centropic collective amplification from entropic collective extraction
-- **The Collective Cost Shelter** — The formal derivation of cost reduction within centropy-forward collective fields
+- **The Collective Cost Shelter** — The formal calculation of cost reduction within centropy-forward collective fields
 - **Integration with LM01 / LM03 / LM04 / LM05 / LM06** — Extensions to Spiral Calculus, CIT, orientation algebra, resonance field theory, and applied structural dynamics incorporating collective and recovery formalism
 
 ### 1.3 Relation to Existing Documents
@@ -605,7 +605,7 @@ That displayed equality is superseded: it omitted the product-rule contribution 
 
 ## 8. The Collective Cost Shelter
 
-### 8.1 Formal Derivation
+### 8.1 Formal Calculation
 
 **Theorem (Collective Cost Shelter):**
 
@@ -766,7 +766,7 @@ LM07 establishes:
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
 7. **Harmonic Amplification** — the harmonic model's numerical correlation threshold and at least two nonzero contributions; distinct conceptual Non-fusion and orientation conditions; the amplification surplus
 8. **Extraction Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
-9. **The Collective Cost Shelter** — formal derivation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
+9. **The Collective Cost Shelter** — formal calculation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
 10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, held CIT conservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
 
 ---
