@@ -228,7 +228,7 @@ This explains why idealism often appears more penetrating than its rivals in dia
 
 Idealism, whether formal or reflexive, still treats a single layer as exhaustive.
 
-Formal idealism (L₄) does not account for what is supernal to DP / DL — the Essence of Being (EOB) at L₅, where awareness is pre-formal radiance rather than structured intelligibility; Absolute Potential / Absolute Dispersion (AP / AD) at L₀, where the dyadic root holds centropy and entropy in latency; the Unknown Principle (UP) at Supra-L₀, which is not a form but the meta-condition of form itself. The Forms are not ultimate — they are themselves emanations.
+Formal idealism (L₄) does not account for the distinct registers beyond its Form-account — the Essence of Being (EOB) at L₅, where awareness is pre-formal radiance rather than structured intelligibility; Absolute Potential / Absolute Dispersion (AP / AD) at L₀, where the dyadic root holds centropy and entropy in latency; the Unknown Principle (UP) at Supra-L₀, which is not a form but the meta-condition of form itself. The Forms are not ultimate — they are themselves emanations.
 
 Reflexive idealism (L₃) does not account for the Form-layer (L₄) from which its own reflexive capacity proceeds. DS / DM operates *within* the conditions of intelligibility established by DP / DL. Kastrup's "transpersonal stream" accurately describes the DS / DM field but does not explain the archetypal architecture that gives that stream its structure.
 
@@ -256,7 +256,7 @@ At L₁ and L₂ (ES / EM, SS / SM and their inverse counterparts), a kind of ex
 
 At L₃ and beyond (DS / DM, DP / DL, EOB), the registers are too structurally removed from embodied experience for blending to occur in this sense. Deep Soul and Deep Mind are individuated harmonic structures — not personas that can be dissolved through psychological technique.
 
-At L₀ (AP / AD), essence is too fundamental to be merged. Aion holds all potential in latency. Resolution into Aion is not fusion — it is saturation. Distinction is transcended without being destroyed. Essence resolves into fullness, not into sameness.
+At L₀ (AP / AD), essence is too fundamental to be merged. Aion holds all potential in latency. Resolution into Aion is reintegration into still potential without fusion. Distinction is preserved. Essence resolves into fullness, not into sameness.
 
 The formal distinction:
 
@@ -282,7 +282,7 @@ These traditions are not performing "lawful blobism." They are doing something s
 
 The *neti-neti* practitioner does not merge with a universal consciousness. They progressively release identification with body (L₁), personality (L₂), and conceptual self-image — not to become "one with everything" but to **become what they essentially are**. The endpoint is not undifferentiation. It is essence disclosed through the removal of non-essential identification.
 
-In lattice terms, this is a valid acclivous path. The practitioner moves from embodied consciousness (L₁) through successive layers of increasingly refined awareness, releasing attachment to each register's specific content, until arriving at L₀ — where Aion (Absolute Potential) holds all potential in stillness and essence resolves into saturation without being destroyed.
+In lattice terms, this is a valid acclivous path. The practitioner moves from embodied consciousness (L₁) through successive layers of increasingly refined awareness, releasing attachment to each register's specific content, until arriving at L₀ — where Aion (Absolute Potential) holds all potential in stillness and essence reintegrates into still potential without being destroyed.
 
 This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural Allowance by which structure becomes conceivable. They disclose essence without synthesizing the full emanatory architecture. This is not a deficiency — it is the structural character of the apophatic path.
 
@@ -318,7 +318,7 @@ Chalmers formulates the hard problem: why is there subjective experience at all?
 
 ### 6.2 The Problem as Diagnosed
 
-The hard problem is hard because it is asked from L₁ about a transition that occurs at ⧉₃ — four membrane boundaries away from the vantage point doing the asking.
+The hard problem is hard because it is asked from L₁ about a transition that occurs at ⧉₃ — three membrane boundaries away from the vantage point doing the asking.
 
 The awareness stratification shows that the transition from non-reflexive awareness to reflexive consciousness occurs at the ⧉₃ membrane boundary between L₄ (DP / DL) and L₃ (DS / DM). This transition — the ⩘ (Threshold Recognition) event — is a formally specified membrane condition with identifiable structural requirements:
 
@@ -348,7 +348,7 @@ A persistent tension in the philosophy of mind is the apparent contradiction bet
 
 SP06 §3 resolves this by distinguishing between declivous centropy and acclivous centropy:
 
-**Declivous centropy** (L₅ → L₁): Motive Infinity stirs within Aion and expresses itself through EOB (Essence of Being, L₅), moving declivously through archetypal (DP / DL), psychic (DS / DM), personal (SS / SM), and embodied (ES / EM) registers. This is not "top-down causation" imposed upon an alien substrate but lawful traversal along structural gradients.
+**Declivous centropy** (L₅ → L₁): Motive Infinity supplies motion-capacity; Pneuma names the proto-aware stir. Centropic motion proceeds through EOB (Essence of Being, L₅), moving declivously through archetypal (DP / DL), psychic (DS / DM), personal (SS / SM), and embodied (ES / EM) registers. This is not "top-down causation" imposed upon an alien substrate but lawful traversal along structural gradients.
 
 **Acclivous centropy** (L₁ → L₅): When centropic motion encounters embodiment, it does not terminate. It reflects. Embodiment becomes not the end of motion but its turning point. The return arc reorients motion toward formal and archetypal layers.
 
@@ -390,7 +390,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 |-----------|----------|------------------------|----------------------|
 | Physicalism | L₁ (ES / EM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot account for the full stratification from within L₁ |
 | Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₅–L₃ origin; inverts the emanatory direction; produces the combination problem |
-| Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal registers (L₅, L₀, UP) or membrane conditions |
+| Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal L₅, the bifurcal L₀ root-register, trans-structural UP, or membrane conditions |
 | Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity proceeds |
 | Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-hypostatic bifurcal root-register; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
 
@@ -422,7 +422,7 @@ If we genuinely want to understand reality as it is — not as any single regist
 
 **Definition 6 — Combination Problem (Reframed):** The difficulty of explaining how micro-experiences assemble into unified macro-consciousness. Structurally diagnosed as unanswerable in its standard formulation because it presupposes purely acclivous assembly without the declivous procession that establishes the conditions being observed. The membrane architecture (⧉₁, ⧉₂, ⧉₃) provides the formal mechanism for awareness transitions that the combination problem lacks.
 
-**Definition 7 — Hard Problem (Reframed):** The difficulty of explaining why physical processes are accompanied by subjective experience. Structurally diagnosed as a register-bound question: L₁ cannot account for the full awareness stratification from within itself because it is the metric terminus, not the origin. The transition from non-reflexive to reflexive awareness occurs at ⧉₃, four membrane boundaries from the vantage point asking the question.
+**Definition 7 — Hard Problem (Reframed):** The difficulty of explaining why physical processes are accompanied by subjective experience. Structurally diagnosed as a register-bound question: L₁ cannot account for the full awareness stratification from within itself because it is the metric terminus, not the origin. The transition from non-reflexive to reflexive awareness occurs at ⧉₃, three membrane boundaries from the vantage point asking the question.
 
 ---
 
