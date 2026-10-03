@@ -266,7 +266,7 @@ The formal distinction:
 A \oplus B \quad \text{with} \quad \text{Resolvability}(A) > 0, \quad \text{Resolvability}(B) > 0
 \]
 
-**Fusion** suppresses resolvability while essence persists. Distinction is compressed into apparent sameness, but essence is not annihilated — it is rendered structurally incoherent:
+**Fusion** suppresses resolvability while essence persists. Distinction is compressed into apparent sameness, but essence is not annihilated — expressed relation becomes incoherent:
 
 \[
 A \otimes B \to N \quad \text{where} \quad \text{Resolvability}(A) \to 0 \quad \text{but} \quad \text{Essence}(A) \neq 0
@@ -288,11 +288,11 @@ This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these
 
 ### 5.4 Blobism and the Non-fusion Axiom
 
-The entropic counterpart to apophatic essence-disclosure is what the lattice terms **blobism**: the collapse of sovereign distinction into undifferentiated fusion.
+The entropic counterpart to apophatic essence-disclosure is what the lattice terms **blobism**: the collapse of expressed boundaries into apparent undifferentiation while essences remain distinct.
 
 Blobism does not arrive at Aion through disciplined release. It erases boundaries between beings, roles, or layers through imposition, resulting in structural mimicry, identity dissolution, or symbolic flattening. It presents fusion through structural sameness rather than through the harmonic resonance achieved through distinction.
 
-The **Non-fusion Axiom** is the structural law that determines this distinction: genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
+The **Non-fusion Axiom** is the structural law that determines this distinction: coherence preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates resolvability and therefore eliminates the conditions for resonance — even though essence persists beneath the collapse.
 
 The diagnostic criterion: **orientation and intentionality**. If the movement toward apparent undifferentiation proceeds through voluntary release of non-essential identification — peeling away what one is not — it is centropic apophasis disclosing essence. If it proceeds through the forcible erasure of sovereign distinction — whether through ideological imposition, institutional coercion, or structural manipulation — it is entropic blobism violating the Non-fusion Axiom.
 
@@ -306,7 +306,7 @@ Where monopsychism describes the experiential arrival at Aion through apophatic 
 
 Where monopsychism asserts that essential distinction between minds is *ultimately unreal* — that the differentiation across L₅ through L₁ is illusory rather than lawful — it commits a structural error. The lattice holds that distinction is not illusion. Emanatory differentiation is structurally veracious at every layer. The One and the Many are co-essential — not because "Oneness" is more fundamental than "Manyness," but because structure requires both poles to be intelligible at all.
 
-"All one mind" with no essential distinction across layers is a structural impossibility. The lattice cannot generate intelligible reality without differentiation. Unity *through* diversity — the preservation of sovereign distinction within harmonic resonance — is the structural principle. Unity *by suppression of* diversity is blobism — and even blobism cannot destroy essence, only render it incoherent.
+"All one mind" with no essential distinction across layers is a structural impossibility. The lattice cannot generate intelligible reality without differentiation. Coherence *through* diversity — the preservation of sovereign distinction within harmonic resonance — is the structural principle. Apparent sameness *by suppression of* diversity is blobism — and even blobism cannot destroy essence; its incoherence concerns expressed relation.
 
 ---
 
@@ -416,9 +416,9 @@ If we genuinely want to understand reality as it is — not as any single regist
 
 **Definition 3 — Bidirectional Traversal:** The structural principle that awareness proceeds both declivously (from supernal registers toward embodiment) and acclivously (from embodiment toward supernal registers). Neither direction alone constitutes a complete account of awareness.
 
-**Definition 4 — Non-fusion Axiom:** Genuine unity preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion eliminates distinction and therefore eliminates the conditions for resonance.
+**Definition 4 — Non-fusion Axiom:** Coherence preserves the sovereignty of its constituent elements. Harmonic resonance requires distinct tones. Fusion suppresses expressed resolvability and therefore the conditions for resonance; essence remains distinct.
 
-**Definition 5 — Blobism (🔲):** The entropic collapse of sovereign distinction into undifferentiated fusion. Characterized by the suppression of resolvability between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-fusion Axiom. Essence persists beneath the collapse but is rendered structurally incoherent.
+**Definition 5 — Blobism (🔲):** The entropic collapse of expressed boundaries into apparent undifferentiation while essences remain distinct. Characterized by the suppression of resolvability between beings, roles, or layers, resulting in structural mimicry, identity dissolution, or symbolic flattening. Violates the Non-fusion Axiom. Essence persists intact; expressed relation is rendered incoherent.
 
 **Definition 6 — Combination Problem (Reframed):** The difficulty of explaining how micro-experiences assemble into unified macro-consciousness. Structurally diagnosed as unanswerable in its standard formulation because it presupposes purely acclivous assembly without the declivous procession that establishes the conditions being observed. The membrane architecture (⧉₁, ⧉₂, ⧉₃) provides the formal mechanism for awareness transitions that the combination problem lacks.
 
