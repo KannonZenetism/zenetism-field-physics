@@ -458,10 +458,10 @@ Property 3 establishes that reciprocating the expression ratio negates the spect
 
 Two structurally distinct convergence conditions determine orientation:
 
-**CP₀ — Pre-Expressive Convergence Closure:**
+**CP₀ — Pre-expressive Convergence Closure:**
 
 - Zero and Infinity converge without fusion
-- \( \chi \) is undefined; no orientation exists
+- \( \chi \) is undefined; no expressed orientation exists
 - Lies **outside** \( \chi \)-space
 - Globally stable because it precedes motion
 
@@ -940,9 +940,9 @@ This closure sequence applies to frozen-equilibrium resolution, where fixed \( \
 
 ### 10.2 Stages
 
-**CP₀ — Pre-Expressive Convergence:**
+**CP₀ — Pre-expressive Convergence:**
 
-Before motion, Zero and Infinity converge without fusion. Orientation does not yet exist. \( \chi \) is undefined. \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \).
+Before motion, Zero and Infinity converge without fusion. Expressed orientation is not yet active. \( \chi \) is undefined. \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \).
 
 **\( \chi \) — Inclined Expression:**
 
