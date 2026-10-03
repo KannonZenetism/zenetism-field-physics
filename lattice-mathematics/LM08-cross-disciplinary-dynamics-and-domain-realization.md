@@ -856,13 +856,13 @@ Let a positive time rate α(τ) relate structural time to a domain clock by
 \frac{d\tau}{dt}=\alpha(\tau).
 \]
 
-Then the domain duration required to reach a structural endpoint τ* is
+Then the domain duration required to reach a structural endpoint \( \tau_* \) is
 
 \[
 t_* - t_0=\int_{\tau_0}^{\tau_*}\frac{d\tau}{\alpha(\tau)}.
 \]
 
-The endpoint is reached in finite domain time exactly when this integral is finite. For \(\alpha(\tau)=\tau_* -\tau\), the integral diverges, even though τ* is finite. Time correspondence therefore participates in a claim about finite-time completion. This makes explicit the clock distinction already retained by the LMX's variable-Motive-Intensity calculation.[8]
+The endpoint is reached in finite domain time exactly when this integral is finite. For \(\alpha(\tau)=\tau_* -\tau\), the integral diverges, even though \( \tau_* \) is finite. Time correspondence therefore participates in a claim about finite-time completion. This makes explicit the clock distinction already retained by the LMX's variable-Motive-Intensity calculation.[8]
 
 ### 10.4 A Functional Restoration Model
 
