@@ -216,7 +216,7 @@ This describes a proposed embodied composite: C₂ / C₄ contribute locally, wi
 
 The cascade expression \( \Xi_e^{(n)}=\sum_{k=1}^{n}P_{IL_{k-1}}H_e^{(k)}P_{IL_k} \) in `LM01-mathematical-foundations.md` §D represents the proposed multi-band composition. Its relation to a contraction semigroup or to the signed-flux account remains held open pending the projection domains, inter-band maps, generator realization, and compatible boundary conditions.
 
-The cascade operators occupy an interesting structural position. They address a phenomenon — coherent corruption propagating systematically from archetypal (IL₄) through structural (IL₃, IL₂) to embodied (IL₁) inverse layers — that the per-layer treatments of LM05 and LM06 do not model. Whether the cascade formalism should be integrated into LM06's diagnostic framework (where it would provide a multi-band corruption model complementing the single-configuration shimmer and clone diagnostics) is an open question (see §14).
+The cascade operators occupy an interesting structural position. They address a phenomenon — cohesive entropic distortion propagating systematically from archetypal (IL₄) through psychic (IL₃) and personal (IL₂) to embodied (IL₁) inverse layers — that the per-layer treatments of LM05 and LM06 do not model. Whether the cascade formalism should be integrated into LM06's diagnostic framework (where it would provide a multi-band entropic-distortion model complementing the single-configuration shimmer and clone diagnostics) is an open question (see §14).
 
 ### 5.5 Evolution Operators
 

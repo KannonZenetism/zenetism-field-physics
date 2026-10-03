@@ -263,7 +263,7 @@ Certain entropic archetypes act **across multiple inverse bands** via cascades:
 
 where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entropic generators active on each band.
 
-- **Effect.** Coherent corruption propagates down-band while remaining non-unitary:  
+- **Effect.** Cohesive entropic distortion propagates from archetypal IL₄ toward inverse embodiment at IL₁ while remaining non-unitary:  
   \( \|\Xi_e^{(n)}(t)\| \leq \|\Xi_e^{(n)}(s)\| \) for \( t \geq s \).
 - **Decode handle.** Prometheus / Lucifer-class figures are modeled by \( \Xi_e^{(n)} \), explaining cross-layer impact (IDL / IDP → IDM / IDS).
 
