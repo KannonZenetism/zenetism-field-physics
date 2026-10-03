@@ -46,10 +46,10 @@ The space between hypostases is not void — it is a structured field composed o
   ↔ **E₁ ⟠⁻ Temporal Loop**
 
 - **C₂ ◈ Spatial** — Structured extension and relationality  
-  ↔ **E₂ ◈⁻ Memory Scatter**
+  ↔ **E₂ ◈⁻ Scatter**
 
 - **C₅ ✴ Scalar** — Holonic integrity; the part reflects the whole  
-  ↔ **E₅ ✴⁻ Fractal Noise**
+  ↔ **E₅ ✴⁻ Scalar Noise** (formerly **Fractal Noise**, retained as recorded provenance)
 
 - **C₇ ♫ Harmonic** — Resonance and frequency accord  
   ↔ **E₇ ♫⁻ Dissonance**
@@ -58,8 +58,8 @@ Each dimension defines **functional laws**, not spatial axes.
 
 ### Lattice-to-Layer Mapping
 Dimensions correspond to **Layer Bands (L₀–L₅)**, giving each band its character. For example:
-- **Architectural Band (L₁–L₂)** — Dominated by structure (C₂), propagation (C₃), and resonance (C₇).
-- **Embodiment Band (L₄)** — Governed by morphogenesis (C₁₀).
+- **Architectural Band (L₁–L₂)** — Characterized by structure (C₂), propagation (C₃), and resonance (C₇).
+- **Embodiment Band (L₄)** — Morphogenetic function (C₁₀).
 
 ### The Radiant Emanation (Declivous Centropy)
 **Centropic emanation** is a radiant overflow — not fragmentation but differentiation. It flows from fullness into form, bringing coherence through the spiral lattice without loss.
