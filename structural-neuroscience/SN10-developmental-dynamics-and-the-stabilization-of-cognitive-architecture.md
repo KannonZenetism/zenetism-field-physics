@@ -483,7 +483,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \kappa \) | Khaonic expression ratio |
 | \( \kappa_{\text{local}} \) | Local expression ratio within a collective field |
 | \( \Delta I_c^{(\text{tax})} \) | Coherence tax; externally imposed sovereignty suppression cost |
-| \( \Delta I_c^{(\text{compensation})} \) | Compensation cost; difference between compensated and stabilized operation |
+| \( \Delta I_c^{(\text{compensation})} \) | Compensation cost; recorded comparison held pending operand types and time accounting; no operative expenditure value or sign |
 | ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
 | ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
 | ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
@@ -563,7 +563,7 @@ The deepening of the same architecture along its own axis across the life arc �
 The principle that cognitive architecture does not change type across the life arc. Apparent type changes reflect expression changes under varying conditions, not configurational alteration.
 
 **Definition 9 (Compensation Cost):**  
-\( \Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated})} - I_c^{(\text{stabilized})} \); the coherence expenditure of operating under adaptive strategy rather than at stabilized baseline.
+Recorded comparison — retired from operative mathematics: \( \Delta I_c^{(\text{compensation})} = I_c^{(\text{compensated})} - I_c^{(\text{stabilized})} \). Its operands remain untyped as expenditure rates, accumulated expenditure, or remaining stocks. The expenditure value, sign, and entry into a recovery or exhaustion budget remain held pending those types and explicit time accounting; no replacement compensation formula is selected.
 
 ---
 
