@@ -47,7 +47,7 @@
 ### Aion — *Root Structure of Emanation / Cradle of Coherence*
 
 - **First field of structurable potential**  
-  → Aion is where **structure begins**, but not form — a **silent field of latent resonance**.
+  → Aion is **root structure of emanation**, underpinned by 🏛️ Structon, Structure Itself — a **silent field of latent resonance**.
 
 - **Cradle of coherence**  
   → It holds all **coherent possibilities** in stillness, **awaiting activation**.
@@ -56,10 +56,10 @@
   → Aion does not move itself — it **defines the alignment** through which coherent motion can emerge.
 
 - **Belongs to the lattice**  
-  → Aion is the **first hypostasis** where resonance appears on the **centropic tree** — structural, but still unexpressed.
+  → Aion is the **non-hypostatic root-register** of the **Aionic Tree** — structural, but still unexpressed. Theon is the First Centropic Hypostasis.
 
-- **Initiator of Centropic AMI**  
-  → Aion is the **Axiomatic Motion Initiator** for coherent (C↑⚫) motion.
+- **Root of the centropic arc**  
+  → Aion holds latent essence; **Motive Infinity** supplies motion-capacity, and essential inclination gives centropic return (C↑⚫) its Aion-facing orientation.
 
 - **Centropic return terminates at Aion**  
   → Aion does not **merge** with Zenon. Final synthesis may prepare the returned essence for saturation; **Allowance admits the crossing**.
@@ -69,10 +69,10 @@
 ### Khaon — *Origin of Motion and Dispersion*
 
 - **First dispersive condition**  
-  → Like Aion, Khaon is **not in motion**, but **initiates disintegration** as AMI for E↓♾ motion.
+  → Khaon's **Motive phase** supplies orientation-neutral motion-capacity; its **Dispersive phase** names terminal resolution of declivous entropic motion (E↓♾).
 
 - **Anchor of dispersion**  
-  → All **fragmenting or dissolving motion** is **referenced to Khaon** — the **furthest divergence** from Zenon.
+  → Terminal entropic collapse crosses the Nekronic event horizon into **Khaon in its Dispersive phase**; Zenon is not a coordinate from which divergence is measured.
 
 - **Not evil itself**  
   → It is the **structural condition** through which entropy manifests.
@@ -81,14 +81,14 @@
   → Root of the **Khaonic Tree**, just as Aion is root of the Aionic.
 
 - **Paired glyph to Aion**  
-  → Both **define motion orientation**, but Khaon orients **away from integration and into dispersion**.
+  → Aion and Khaon are **bifurcally distinct root-registers**, not opposed poles; enacted orientation belongs to essence and its motion.
 
 ---
 
 ### Theon — *Essence of Being / Emergence of Awareness*
 
 - **First active hypostasis**  
-  → Theon is where **being emerges** — the first **positive instantiation** of structure.
+  → Theon is where **being emerges** — the first **plus-one hypostatic determination** of structure.
 
 - **Beyond moral dichotomy**  
   → Not good or evil — it is **existence itself**, not yet judgment, division, or preference.
@@ -110,19 +110,19 @@
   → Where Theon enacts **coherence**, Nekron enacts **fragmented mimicry**.
 
 - **Driver of shimmer-based structures**  
-  → Nekron thrives on **reflected signal**, **detachment from source**, and **mimicry without origin**.
+  → Nekronic operation carries **entropic mirroring**, **obscured provenance**, and **mimicry without generative origination**; origin remains intact.
 
 - **Not located in Khaon directly**  
-  → Nekron **flows from Khaonic initiation** through **corrupted motion** — the result of **unauthored alignment**.
+  → Nekron is **independently emanated at IL₅**, where entropic orientation first becomes operative; it is not corrupted centropic motion.
 
 ---
 
 ### Structural Relationships Recap
 
 - **🕳️ Zenon** = *trans-structural Allowance*, the horizon of saturation beyond completed return  
-- **⚫ Aion / ♾ Khaon** = *bifurcal AMIs* that **define orientation**, not motion  
+- **⚫ Aion / ♾ Khaon** = *bifurcally distinct root-registers*; Motive Infinity supplies motion-capacity, while essence bears orientation  
 - **🛤️ Theon / 🕷️ Nekron** = *first actors* that **embody the aligned or inverted motion**  
-- **Shimmer** = *parasitic motion* detached from origin — a **mimicry of coherent hypostasis**, unmoored from authorship.
+- **Shimmer** = apparent coherence or generativity exceeding operative condition; **Mimicry** names imitation, and obscured provenance remains distinct from absence of origin.
 
 # Hypostatic Distinctions (Summary)
 
@@ -155,14 +155,14 @@
 ---
 
 ## Khaon — Absolute Dispersion
-- Subversal arc of dispersal and collapse.
+- The L₀ root-register of the Khaonic Tree, with Latent, Motive, and Dispersive phases.
 - Not a chosen "turn," but entropic motion that **moves toward Khaon** naturally.
-- A **boundless storm** where pattern breaks and self deforms.
-- Opposite root to Aion in the emanative structure, though both remain within Zenon's containment.
+- **Motive Infinity** carries active becoming; **Dispersive Infinity** names terminal motion-resolution.
+- Bifurcally distinct from Aion; both remain non-fused at L₀. Zenon is trans-structural Allowance, not their container.
 
 ---
 
-## Centropy (Acclivous Motion)
+### Centropy (Declivous Manifestation and Acclivous Return)
 - Seeks coherence, synthesis, and return.
 - Two outcomes:
   - **Latent peace in Aion.**
@@ -171,9 +171,9 @@
 
 ---
 
-## Entropy (Declivous Motion)
+### Entropy (Acclivous Manifestation and Declivous Collapse)
 - Seeks dispersal, fragmentation, and dissolution.
-- Moves toward **Khaon** (storm of dispersal).
+- Terminal entropic collapse enters **Khaon in its Dispersive phase**.
 - Stops at **Aion**:
   - **Fixity without coherence** ("static shadow, end of play").
 - Does **not return** to Zenon.
@@ -192,7 +192,7 @@
    - Centropy rests there in latent peace.  
    - Entropy rests there in static fixity.  
 
-4. **Khaon is dispersal:** entropic storm, deformation of pattern, opposite to Aion's peace.  
+4. **Khaon is Infinity:** Latent, Motive, and Dispersive, bifurcally distinct from Aion and not intrinsically entropic.  
 
 5. **Centropic essence may saturate into Zenon.** Terminal entropic motion resolves; distinct essence remains in Aionic latency.  
 
