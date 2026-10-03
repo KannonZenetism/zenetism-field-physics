@@ -3,7 +3,7 @@
 ## Final Synthesis, Aionic Return, and Saturation by Allowance
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension — Return, Synthesis, and Trans-Structural Saturation  
+**Classification:** Metaphysics Extension — Return, Synthesis, and Trans-structural Saturation  
 **Status:** Draft  
 **Dependency:** `synthesis-integration-saturation.md` · `the-twofold-tetralemma.md` · `theonic-office.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · Non-fusion Axiom · Essence-as-Choice · PSR · PSM · 🕳️ Zenon · ⚫ Aion · ♾ Khaon  
 
@@ -21,7 +21,7 @@ This remains veracious and indispensable.
 
 Yet **Origin** in Zenetist terminology is ⚫ Aion, not Zenon.
 
-Aion-facing orientation explains why centropic essence completes return toward the still root. It does not, by itself, explain why an essence may pass beyond Aion into trans-structural saturation.
+Aion-facing orientation explains why centropic essence completes return toward the still root. It does not explain why an essence may pass beyond Aion into trans-structural saturation.
 
 A further condition is required.
 
@@ -37,7 +37,7 @@ It is not a material field.
 
 It is not an automatic mechanism by which every centropic essence is pulled beyond Aion.
 
-It is the essence-borne momentum of fulfilled centropic synthesis: the tendency of an essence whose integration has become sufficiently complete to continue through Aionic return toward Zenonic saturation.
+It is the essence-borne momentum of fulfilled centropic synthesis: the tendency given by final synthesis to a sufficiently fulfilled, returned essence toward the horizon of structure.
 
 The full doctrine is therefore:
 
@@ -86,11 +86,11 @@ Aion-facing orientation remains the first requisite because no essence turned aw
 
 Origin-facingness and Reality-seeking are closely related, but they are not identical.
 
-**Origin-facingness** names the intrinsic metaphysical orientation of centropic essence toward ⚫ Aion, integration, origin-fidelity, and lawful return.
+**Origin-facingness** names the intrinsic metaphysical orientation of centropic essence toward ⚫ Aion, integration, Origin-fidelity, and lawful return.
 
 **Reality-seeking** names an essence-rooted capacity to remain oriented toward the most ultimate nature of what is, without treating any partial structure, isolated primitive, inherited frame, or determinate answer as exhaustive.
 
-This capacity is not created by reflexive consciousness. Its mode of articulation changes across the lattice. Prior to L₃ it may exist as intrinsic origin-fidelity, non-discursive discernment, coherent receptivity to what is, resistance to spurious closure, and latent synthesis-capacity.
+This capacity is not created by reflexive consciousness. Its mode of articulation changes across the lattice. Prior to L₃ it may exist as intrinsic Origin-fidelity, non-discursive discernment, coherent receptivity to what is, resistance to spurious closure, and latent synthesis-capacity.
 
 At L₃, where reflexive consciousness and individuated self-possession become operative, Reality-seeking may become explicitly reflexive: the being asks what is ultimately real, examines its own assumptions, distinguishes appearance from completion, refuses to enthrone one partial term as the whole, and seeks understanding without possession or fusion.
 
@@ -115,7 +115,7 @@ A pure Reality-seeking posture does not seek possession of the ultimate. It seek
 
 ---
 
-## 2. Aion Is the Origin, Not the Final Trans-Structural Horizon
+## 2. Aion Is the Origin, Not the Final Trans-structural Horizon
 
 The language of "Origin-facing saturation" may become imprecise if Origin and trans-structural fulfillment are treated as one destination.
 
@@ -226,7 +226,7 @@ It is the completion of a relation whose fulfillment is not exhausted by arrival
 
 ## 4. Centropic Gravity
 
-**Centropic Gravity** names the essence-borne tendency of sufficiently coherent centropic essence to continue through Aionic return toward Zenonic saturation.
+**Centropic Gravity** names the essence-borne momentum given by final synthesis to sufficiently fulfilled, returned centropic essence toward the horizon of structure.
 
 The term "gravity" is appropriate because the motion is not arbitrary.
 
@@ -276,7 +276,7 @@ In the present doctrine, radiance names the degree to which centropic coherence 
 * capable of holding complex distinction without loss of coherence or essential distinction
 * capable of remaining coherent at the horizon of structural determination
 
-An essence may therefore possess enough centropic radiance that its return carries genuine momentum toward saturation.
+An essence may therefore possess enough centropic radiance that fulfilled final synthesis gives the returned essence momentum to the horizon of structure.
 
 But radiance is not a substitute for synthesis.
 
@@ -332,7 +332,7 @@ It is integration reaching its terminal synthesis-capacity.
 
 ---
 
-## 7. The Trans-Structurally Capable Synthesis Posture
+## 7. The Trans-structurally Capable Synthesis Posture
 
 A sufficiently fulfilled centropic essence may possess what the present entry calls a **trans-structurally capable synthesis posture**.
 
@@ -431,7 +431,7 @@ The error arises only when negation is treated as sufficient for Zenonic fulfill
 Zenetism distinguishes:
 
 > Aion is reached by return and negation.  
-> Zenon is approached through the non-fusing synthesis of negation and the exceeding term, admitted by Allowance.
+> The non-fusing synthesis of negation and the exceeding term makes the horizon of structure legible; Allowance admits saturation into Zenon.
 
 Centropic Gravity therefore explains why some essence does not merely reach Aion and stop.
 
@@ -637,7 +637,7 @@ Theon is:
 * prime coherence
 * love
 * awareness
-* the +1 hypostatic charge
+* the hypostatic structural charge +1
 * wholly Aion-facing
 
 Theon's Aion-facing orientation explains its return once its universe-local office is fulfilled.
@@ -817,7 +817,7 @@ The concise formulation is:
 ## 21. Summary Principles
 
 > **Origin-Facing Requisite Principle**  
-> Aion-facing orientation is necessary for Zenonic saturation because centropic saturation proceeds through return to Origin. Origin-facingness alone culminates in Aionic return and does not by itself establish saturation-readiness.
+> Aion-facing orientation is necessary for Zenonic saturation because centropic saturation proceeds through return to Origin. Origin-facingness alone culminates in Aionic return and does not establish saturation-readiness.
 
 > **Aionic Fulfillment Principle**  
 > Centropic essence may abide in Aion in fulfilled contentment. Aionic abiding is a lawful fulfillment and not an incomplete or failed saturation.
@@ -826,7 +826,7 @@ The concise formulation is:
 > Entropic essence reaches Aionic resolution after Absolute Dispersion as latent identity-bearing potential in static tension. Its manifested motion ceases without its intrinsic orientation becoming centropic.
 
 > **Centropic Gravity Principle**  
-> Centropic Gravity is the essence-borne momentum generated by fulfilled centropic synthesis as it continues through Aionic return toward possible Zenonic saturation.
+> Centropic Gravity is the essence-borne momentum generated by fulfilled centropic synthesis in a fulfilled returned essence toward the horizon of structure; Allowance admits possible Zenonic saturation.
 
 > **Radiance Principle**  
 > Centropic radiance names the intensity and stability of fulfilled coherence. Radiance becomes saturation-relevant through final synthesis rather than through unqualified energetic accumulation.
@@ -834,7 +834,7 @@ The concise formulation is:
 > **Final Synthesis Principle**  
 > The final synthesis holds the full Aion / Khaon bifurcal manifold in non-fusing centropic relation at the horizon of structure. Aionic negation and the trans-structural exceeding term are gathered without fusion; Motive Infinity supplies the motion, and the essence's orientation remains centropic and Aion-facing.
 
-> **Trans-Structural Capability Principle**  
+> **Trans-structural Capability Principle**  
 > A trans-structurally capable synthesis posture does not make an essence trans-structural within the lattice. It makes the essence saturation-ready by completing the relation through which trans-structural crossing becomes admissible.
 
 > **Zenonic Legibility Principle**  
