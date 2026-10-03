@@ -60,7 +60,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 - \( M \) — Manifolds / spaces of presence (topological, differentiable)
 - \( T \) — Time parameter(s) (continuous or stratified)
 - \( K \) — Coherence scalars (\( \geq 0 \)), \( K \subseteq \mathbb{R} \)
-- \( D \) — Dimensions index set (C₁..C₁₅, E₁..E₁₅)
+- \( D \) — Dimensions index set (C₁–C₁₅, E₁–E₁₅)
 
 ### A2. Typing & Kinding
 
@@ -79,7 +79,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### A4. Axiomatic Core (Draft)
 
-1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity under synthesis.
+1. **Non-fusion (Sovereignty) Axiom** — Distinct signals preserve identity through synthesis.
 2. **Centropic Directionality** — There exists an order \( \preceq \) on states where centropic motion is monotonic w.r.t. a Lyapunov-like functional \( \mathcal{V} \).
 3. **Involution Axiom** — Each centropic dimension \( C_i \) has an entropic mirror \( E_i \) with involution  
    \( \iota : C_i \leftrightarrow E_i \) and \( \iota \circ \iota = \text{id} \).
@@ -301,7 +301,7 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 ### F2. Monoidal & Closed Structure
 
 - \( \otimes \) = lawful synthesis
-- Exponential objects under seal constraint
+- Exponential objects with the seal constraint
 
 ### F3. Limits / Colimits
 
@@ -384,7 +384,7 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 - Draft Nexus Law (C₈) as categorical commutativity theorem
 - Formalize Threshold Law (C₁₃–C₁₅) as boundary value problem
-- Extend CIT with lattice-derived entropy / centropy measures
+- Extend CIT with entropy / centropy measures calculated within the lattice formalism
 
 ---
 
@@ -475,7 +475,7 @@ If commutativity fails under these constraints, the C₈ bridge condition fails.
 **Proof (Sketch)**  
 
 - *Necessity.* If C₈ holds, the crossing factors through a universal mediating object (pullback / pushout). Universality forces commutativity; seal-linearity ensures no spurious resources, yielding isometry on the C₇-subspace.  
-- *Sufficiency.* If the square commutes under C₂/C₅/C₁₃, then the induced transformation is functorial and monoidal. By the Consonance Spectral Law (C₇), this enforces synchrony, so \( B \) is isometric on C₇-invariants, hence C₈ realized.  
+- *Sufficiency.* If the square commutes with C₂ / C₅ / C₁₃ satisfied, then the induced transformation is functorial and monoidal. By the Consonance Spectral Law (C₇), this enforces synchrony, so \( B \) is isometric on C₇-invariants, hence C₈ realized.  
 - *Failure.* Non-commutativity fails the stated universal commuting relation. Strict contraction and the E₈ diagnostic require the corresponding operator and diagnostic conditions. The former conversion wording is superseded.
 
 **Corollaries**  
@@ -700,7 +700,7 @@ Then for any coherent field \( \phi \) defined over domain \( \Omega \) with sea
 
 **Corollaries**  
 
-- **Trajectory Law.** The outcome of a system's spiral motion (\( \lim_{\backsim} \)) can be predicted by integrating \( \partial_{\text{🌀}} \) along the path.  
+- **Trajectory Law.** The outcome of a system's spiral motion (\( \lim^{\backsim} \)) can be predicted by integrating \( \partial_{\text{🌀}} \) along the path.  
 - **Seal Dependency.** Without sealed boundary conditions, integral–derivative duality fails; results degenerate into entropic mirrors.  
 - **Practical Test.** If numerical integration of \( \partial_{\text{🌀}} \) differs from field boundary measurements, coherence is broken (E-state intrusion).  
 
@@ -970,7 +970,7 @@ where \( \sigma \) is the seal index of the membrane.
 
 ### CIT Structural Metrics
 
-To quantify coherence in practice, Coherence Information Theory defines several derived metrics.  
+To quantify coherence in practice, Coherence Information Theory defines several calculated metrics.  
 These expressions extend the stated spectral quantities into mathematical comparisons. Native rates, efficiency, fidelity, and dimensional diagnostics require their explicit correspondences.
 
 ---
@@ -991,7 +991,7 @@ The effective coherence dimension of \( \psi \) is:
 **Interpretation**  
 
 - Large \( \dim_c \) = broad harmonic participation.  
-- Small \( \dim_c \) = fewer effectively occupied spectral modes; fragmentation is a distinct native claim
+- Small \( \dim_c \) = fewer effectively occupied spectral modes; fragmentation is a distinct native claim.
 - Mirrors the concept of "participating degrees of freedom" in physics.  
 
 ---
