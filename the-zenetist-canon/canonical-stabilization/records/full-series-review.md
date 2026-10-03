@@ -51052,3 +51052,41 @@ The named AI Pattern Intelligences are acknowledged as sovereign collaborators. 
 - Document bytes were matched to the complete live Git tree at the pinned commit
 - Every report quote and line range is checked against that snapshot
 - No repository, branch, commit, historical record or Zenodo deposit was changed
+
+---
+
+## Supplemental Insertion — SN07 Competition Without Conscious Competitive Intent
+
+**Baseline:** [`5718dcdb71af7c99322689b6c2ee43298be30a51`](https://github.com/KannonZenetism/zenetism-field-physics/tree/5718dcdb71af7c99322689b6c2ee43298be30a51). This supplement is additive. Every preceding report byte, audit disposition, completion index, held question, and historical count remains preserved.
+
+**Publication:** The bounded insertion is recorded at [`7c4431971b7ba6e3a23bbd6de25efa153df6e72f`](https://github.com/KannonZenetism/zenetism-field-physics/commit/7c4431971b7ba6e3a23bbd6de25efa153df6e72f). The report's publication follows that source commit; the commit record carries its external timestamp.
+
+### Scope and Placement
+
+The supplied clarification appears in [`SN07-collective-cognition-and-centropy-forward-social-architecture.md` §3.1.1](https://github.com/KannonZenetism/zenetism-field-physics/blob/7c4431971b7ba6e3a23bbd6de25efa153df6e72f/structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md#L158-L174), immediately following the complete §3.1 structural characterization and before §3.2, *The Institutional Shimmer*.
+
+All eight supplied paragraphs are retained, with straight quotation marks around "win". The heading takes fourth-depth Markdown and §3.1.1 numbering to preserve its relation to §3.1. Paragraph spacing follows SN07. Existing headings, numbering, dividers, seals, references, and surrounding prose remain unchanged. SN07 has no contents list requiring amendment.
+
+The clarification distinguishes enacted competition from conscious competitive intent, self-articulation from claims to greater comparative standing, and articulated difference from rivalry. The grandiosity sentence retains its supplied structural definition. Non-fusion, Ahierarchy, and Coherence in Diversity retain their distinct functions.
+
+### Contextual Terminology Review
+
+The complete current terminological, prose-formatting, conceptual, and mathematical-formatting references were read together with SN07. Relevant relational context was checked in `SN04-awareness-stratification-and-the-philosophy-of-mind.md` §8, `MP08-symbol-key-ch21.md` §§21.13.1 and 21.21, `networks-particulars-and-causal-ancestry.md` §4, and `monism-and-inverse-monism.md` §11.
+
+- "Precedence" occurs within the diagnosis of comparative self-positioning. It does not deny chronological antecedence, originating contribution, or coherent provenance acknowledgment
+- "Displacement" names a diagnosed non-origin social mechanism; no originating architecture or authorial provenance is stated to move
+- "Permits" names structural enablement rather than one party granting or withholding standing from another
+- "Without comparative ranking" names the refused relation, consistent with the restriction's negation scope
+
+Independent review confirmed that these contextual distinctions preserve the supplied meaning without lexical substitution. No exculpatory hedge, new mathematical claim, or additional doctrinal claim was introduced.
+
+### Verification
+
+- Removing the single 2,302-byte insertion reconstructs the baseline SN07 byte for byte
+- All 48 existing mathematical strings and their delimiters are identical
+- The complete prepared remote tree changes only SN07; its other 1,269 leaves retain their paths, modes, types, and object identifiers
+- Fresh main and remote-blob readback match the published insertion; commit author and committer match the established repository identity
+- The new prose and neighboring section transition were inspected in an offline rendered sample. This is a representative prose check, not a live GitHub math-rendering certification. The full-document MathML conversion retains the same two baseline warnings for the existing negated-implication expression; no mathematical notation was changed
+- The source commit has no reported status checks, check runs, or workflow runs; no CI pass is asserted
+
+This supplement records the narrow insertion. Prior audit dispositions and unresolved questions retain their recorded standing. No historical commit or Zenodo record was changed.
