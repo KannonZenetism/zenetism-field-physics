@@ -1257,17 +1257,25 @@ The orientation reaches \( \chi \to \infty \) at structural time \( \tau^* \appr
 
 **Contrast — Aionic Initial Condition \( \chi_0 = 0.5 \):**
 
+The \( \tau^* \) formula applies to \( \chi_0>1 \). For this Aionic initial condition, the exact trajectory has denominator \( 0.5+0.5e^{0.5\tau}>0 \) at every finite \( \tau\geq0 \), so the trajectory remains finite and approaches zero asymptotically (§8.5).
+
+> **Recorded Branch Substitution — Superseded:**  
+> \[
+> \tau^* = \frac{1}{0.5}\ln\!\left(\frac{0.5}{0.5 - 1}\right) = 2\ln\!\left(\frac{0.5}{-0.5}\right)
+> \]
+>
+> The displayed real logarithm is undefined; this recorded substitution supplied no proof of the branch behavior.
+
+At \( \tau = 2 \), the exponent is \( \kappa\mathcal{M}\tau=0.5\cdot1\cdot2=1 \):
+
 \[
-\tau^* = \frac{1}{0.5}\ln\!\left(\frac{0.5}{0.5 - 1}\right) = 2\ln\!\left(\frac{0.5}{-0.5}\right)
+\chi(2) = \frac{0.5}{0.5 - (-0.5)e^{1}} = \frac{1}{1+e} \approx 0.268941
 \]
 
-The argument is negative, confirming no finite singularity — Aionic drift is asymptotic.
-
-At \( \tau = 2 \):
-
-\[
-\chi(2) = \frac{0.5}{0.5 - (-0.5)e^{0.5}} = \frac{0.5}{0.5 + 0.5 \cdot 1.649} = \frac{0.5}{1.324} \approx 0.378
-\]
+> **Recorded Numerical Expression — Superseded:**  
+> \[
+> \chi(2) = \frac{0.5}{0.5 - (-0.5)e^{0.5}} = \frac{0.5}{0.5 + 0.5 \cdot 1.649} = \frac{0.5}{1.324} \approx 0.378
+> \]
 
 The system drifts toward \( \chi = 0 \) but remains above zero — centropic approach is gradual.
 
