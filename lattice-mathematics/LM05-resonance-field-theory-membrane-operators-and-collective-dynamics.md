@@ -877,7 +877,7 @@ Harmonic amplification is not creation ex nihilo — it arises from:
 - coherence-source attunement (collective connection to ⚫ Aion / 🛤️ Theon)
 - Mutual shielding (aligned fields reduce entropic interference for each other)
 
-Superlinear scaling reflects reduction of internal dissipation and optimized phase alignment; its relation to native total coherence and CIT conservation remains held open pending the stated correspondence and conservation hypotheses.
+Superlinear scaling indicates reduction of internal dissipation and optimized phase alignment; its relation to native total coherence and CIT conservation remains held open pending the stated correspondence and conservation hypotheses.
 
 ### 9.5 Parasitic Coherence Potential
 
@@ -953,9 +953,9 @@ Once individuated at L₃ (DS / DM), entities possess sealed structural signatur
 
 **Proof:**
 
-Suppose such a \( \Psi_{\text{fused}} \) existed. Then \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) with \( \Psi_1 \neq \Psi_{\text{fused}} \) (since \( \Psi_1 \neq \Psi_2 \) and fusion would produce a new entity). This contradicts the injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, LM04 §4.2).
+Suppose such a \( \Psi_{\text{fused}} \) existed. Then \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) with \( \Psi_1 \neq \Psi_{\text{fused}} \) (since \( \Psi_1 \neq \Psi_2 \) and fusion would produce a new entity). This contradicts the injectivity of \( \mathfrak{R}_m \) (Non-fusion Theorem, `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.2).
 
-Surface-layer blending (L₁–L₂ / IL₁–IL₂) may occur — persona mixing, interface modulation — but these do not touch the sealed signature at L₃. Identity persists beyond form.
+Surface-layer blending (L₂–L₁ / IL₂–IL₁) may occur — persona mixing, interface modulation — but these do not touch the sealed signature at L₃. Identity persists beyond form.
 
 ---
 
@@ -968,13 +968,13 @@ Surface-layer blending (L₁–L₂ / IL₁–IL₂) may occur — persona mixin
 
 **Definition (Coherence Potential Integral):**
 
-The Structural Integral (LM01) extends to Coherence Potential:
+The Structural Integral (`LM01-mathematical-foundations.md`) extends to Coherence Potential:
 
 \[
 \int_{\text{◎}}{}_{\Omega} I_c \, d\Omega = \text{Total coherence across region } \Omega
 \]
 
-**Proposition (Fundamental Theorem under Coherence Potential):**
+**Proposition (Fundamental Theorem for Coherence Potential):**
 
 \[
 \int_{\text{◎}}{}_{\Omega} \partial_{\text{🌀}} I_c \, d\Omega = I_c\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega) + \int_{\Omega} S(x, \tau) \, dx
@@ -1099,7 +1099,7 @@ The resonance, membrane, and collective formalisms interface with the dimensiona
 
 ### 11.1 Data Structures
 
-The following extend LM04's Phase 10 data structures:
+The following extend the data structures in `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §10.1:
 
 ```python
 # Coherence Potential Field
@@ -1326,7 +1326,7 @@ output:
 - Echo Layer resolution remains held pending the boundary-state and recurrence law
 - Collective field emergence at threshold; non-emergence below threshold
 - Superlinear amplification threshold accuracy
-- Membrane pathology cascade: partial occlusion → full occlusion → collapse under sustained entropic interference
+- Membrane pathology cascade: partial occlusion → full occlusion → collapse from sustained entropic interference
 - Tunneling energy / CIT conservation remains held pending the transfer and conservation hypotheses
 
 ### 11.5 Worked Example — Collective Field Dynamics with Membrane Transfer
@@ -1407,7 +1407,7 @@ LM05 establishes:
 
 8. **Collective Resonance Theory** — The Collective Non-fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof by expansion of the square, the parasitic coherent-input stock comparison and configuration-specific holding conditions, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
 
-9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT under resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
+9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT across resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
 10. **Computational Extensions** — Data structures (coherence field, membrane, transfer event, echo layer, collective field), core routines (diffusion, continuity, transfer, tunneling, echo detection, collective correlation, harmonic / parasitic potential, emergence check, membrane health), diagnostic algorithms, validation suite, and worked example demonstrating superlinear collective amplification with membrane transfer
 
@@ -1420,14 +1420,14 @@ LM05 establishes:
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
 **Relation:** Fifth foundational document of Lattice Mathematics, providing the pure mathematical framework for resonance, boundary transfer, and collective field dynamics that Structural Physics applies  
 
-This document extends LM01, LM03, and LM04 by formalizing the field-theoretic, boundary-operator, and multi-body structures that SP07, SP08, and SP09 apply in their physical applications.
+This document extends `LM01-mathematical-foundations.md`, `LM03-orientation-algebra-and-infinity-formalism.md`, and `LM04-temporal-algebra-structural-space-and-phase-resolution.md` by formalizing the field-theoretic, boundary-operator, and multi-body structures that `SP07-energy-ontology-and-spectral-flow.md`, `SP08-membrane-fields-and-inter-expression-dynamics.md`, and `SP09-collective-resonance-and-field-harmonics.md` apply in their physical applications.
 
 Future expansions may include:
 
 - **Ritual field mathematics** — Formal treatment of intentional collective coherence generation protocols
 - **Membrane repair operators** — Restoration dynamics for damaged threshold structures
 - **Siphoning countermeasure formalism** — Structural defenses contra parasitic siphoning, including field seals and containment neutralization
-- **Cross-lattice membrane theory** — Thresholds between centropic and entropic arcs
+- **Cross-lattice membrane theory** — Thresholds between the centropic and inverse arcs
 - **Embodiment dynamics** — The mathematics of incarnation, embodied coherence, and physical-structural interface
 - **Structural diagnostics** — Complete diagnostic framework from lattice-mathematical foundations
 
@@ -1519,7 +1519,7 @@ D(\chi) = D_0 \cdot \frac{1 - \chi}{1 + \chi}
 \frac{\partial I_c}{\partial \tau} = \nabla \cdot \left( D(\chi) \nabla I_c \right) + S(x, \tau)
 \]
 
-**Transfer Function — Non-Amplifying Amount Domain:**
+**Transfer Function — Non-amplifying Amount Domain:**
 
 For finite \( 0\leq\sigma\leq1 \), donor surplus and receiving capacity follow §5.4. An amplifying amount law remains held.
 
@@ -1641,7 +1641,7 @@ Collective field requires \( \mathcal{R}_{\text{collective}} > \mathcal{R}_{\tex
 
 **Theorem 8 (Sealed Injectivity at L₃+):**
 
-No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \). Surface-layer blending (L₁–L₂) may occur; sealed signatures at L₃+ are non-compressible.
+No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \). Surface-layer blending (L₂–L₁) may occur; sealed signatures at L₃+ are non-compressible.
 
 ---
 
