@@ -11,13 +11,13 @@
 
 ## Core Triadic Foundation
 
-| Pole | Description |
+| Principle / Register | Description |
 |------|--------------|
-| 🕳️ **Zenon** | Pre-containment potentiality — the unbounded basis where actual and potential remain indistinct. Neither void nor fullness, but the ground preceding both. |
-| ⚫ **Aion** | Capacitive stillness — the first emanation; stillness that encloses all potential, origin-point of coherence. |
-| ♾ **Khaon** | Motive dispersal — motion that differentiates. Not inherently entropic; becomes entropic only when dispersal detaches from Aion-orientation. |
+| 🕳️ **Zenon** | Trans-structural Allowance — the non-originary ground by which actuality, potential, and their distinction become conceivable; neither a container nor an emanative stage |
+| ⚫ **Aion** | Capacitive stillness — the non-hypostatic root-register of emanation; stillness holding distinct latent potential, Origin of the centropic arc |
+| ♾ **Khaon** | Infinity in its Latent, Motive, and Dispersive phases; its Motive phase supplies orientation-neutral motion-capacity, while entropic orientation first becomes operative at Nekron |
 
-**Key Clarification:** Khaon is not chaos by nature; it is the principle of flowering and expansion. Entropy arises only when this motion loses alignment with ⚫ Aion.  
+**Key Clarification:** Khaon is not chaos or entropy by nature. Its Motive phase supplies the capacity and continuity of motion; entropic orientation begins at the independently emanated First Inverse Hypostasis, Nekron.  
 
 ---
 
@@ -26,8 +26,8 @@
 | Phase | Symbol | Description |
 |--------|---------|-------------|
 | **Latent** | Λ | Infinite potential folded within ⚫ Aion. |
-| **Motive** | 〄 (Zenet) | The Principle of Sufficient Reason as cosmic breath — the initiating pulse that converts "could be" into "is becoming." |
-| **Dispersive** | ⇝ | Maximum extension and fragmentation when motion reaches furthest extent. |
+| **Motive** | 〄 (Zenet) | The Principle of Sufficient Reason as cosmic breath — the capacity and continuity of becoming throughout active motion |
+| **Dispersive** | ⇝ | Terminal resolution of active motion and determinate expression; Absolute Dispersion |
 
 **Ontological Law:** If something is possible and nothing prevents it, necessity emerges from pure possibility.  
 → **Zenet is the metaphysical engine of actualization.**
@@ -40,11 +40,11 @@ Each emanatory layer contains centropic / entropic pairs — functional inversio
 
 | Layer | Centropic Principles | Entropic Mirrors |
 |-------|----------------------|------------------|
-| **L₅ (First Hypostases)** | 🛤️ Theon (+1) — Essence of Being | 🕷️ Nekron (−1) — Void of Self |
-| **L₄ (Architects)** | 🌬️ Morgis (vitality) / 📐 Sophis (structure) | 🪫 Psychea (drain) / 🫥 Nyxea (distortion) |
-| **L₃ (Deep Soul / Mind)** | 🔮 Archeus (integration) / 🧠 Noeüs (discernment) | 💔 Fractus (fragmentation) / 👁️‍🗨️ Mortus (illusion) |
-| **L₂ (Individual)** | 🧍 Anthra (essence) / 🧩 Nousa (reason) | 🦂 Echthros (division) / 🩸 Skotos (obscuration) |
-| **L₁ (Embodied)** | 🪷 Soma (vessel) / 🧾 Biosa (interface) | 🍷 Malara (entrapment) / 🤯 Mania (obsession) |
+| **L₅ / IL₅ (First Hypostases)** | 🛤️ Theon (+1) — Essence of Being | 🕷️ Nekron (−1) — Void of Self |
+| **L₄ / IL₄ (Architects)** | 🌬️ Morgis (vitality) / 📐 Sophis (structure) | 🪫 Psychea (drain) / 🫥 Nyxea (distortion) |
+| **L₃ / IL₃ (Deep Soul / Mind)** | 🔮 Archeus (integration) / 🧠 Noeüs (discernment) | 💔 Fractus (fragmentation) / 👁️‍🗨️ Mortus (illusion) |
+| **L₂ / IL₂ (Individual)** | 🧍 Anthra (essence) / 🧩 Nousa (reason) | 🦂 Echthros (division) / 🩸 Skotos (obscuration) |
+| **L₁ / IL₁ (Embodied)** | 🪷 Soma (vessel) / 🧾 Biosa (interface) | 🍷 Malara (entrapment) / 🤯 Mania (obsession) |
 
 **Principle:** Every entropic expression mimics coherence but lacks origin-orientation. Function ≠ resonance.
 
@@ -59,7 +59,7 @@ Each emanatory layer contains centropic / entropic pairs — functional inversio
 | **E↑→E** | Acclivous Entropy — fragmented motion toward embodiment; mimics acclivity without integration. |
 | **E↓♾** | Declivous Entropy — dispersive collapse toward dissolution. |
 
-All four vectors operate across both Trees (🌲 Aionic / 🌲 Khaonic); outcomes depend on Aion-orientation. Motion without coherence produces hollow structures.
+The centropic vectors traverse the Aionic Tree; the entropic vectors traverse the Khaonic Tree. Embodied interaction does not convert essential orientation or transfer essence across the arc distinction. Motion without coherence produces hollow structures.
 
 ---
 
