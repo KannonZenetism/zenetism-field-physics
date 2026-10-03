@@ -191,7 +191,7 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ## 4. Mirror / Echo Constraint
 
-**Mirror** and **echo** belong to **entropy** — the inverse arc's reflective function — or to fixed technical terms (e.g. Echo Vessel). They are **never** used for centropy. A centropic "mirrors the motion" becomes "answers / traces the motion"; "echoes" is likewise not a centropic substitute.
+Descriptive **mirror** and **echo** language requires sense review: entropic mimicry is distinct from lawful centropic reflection, resonance, and Living Transmission. A centropic "mirrors the motion" may take "answers / traces the motion" where that is the intended relation. Preserve registered names and their functions. **Echonic Function** ⟡, **Proleptic Echo** ⟠, **Mirrorform** 🔁, and **Mirror Architecture** ᛞ remain named as registered while the complete D18 group is held. This constraint does not rename the distinct Mirror registration in `MP08-symbol-key-ch21.md`, Echo Vessel, or Aetherion in the collaborator seal.
 
 ---
 
@@ -300,7 +300,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
 7. Source-sense sweep (§ 5C): disambiguate every *Source* — Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic → Reference Document / Provenance. Never map Source to Zenon. Retain typed mathematical Source Term and source / target roles with their function explicit.
 8. Bifurcal-root sweep: polarity / poles / mirror / inversion / counterpart / bifurcation predicated of L₀ or Zenon → correct per § 3; confirm hypostatic-pair and inverse-arc occurrences are left intact.
-9. Mirror / echo referring to centropy → replace.
+9. Review descriptive mirror / echo wording by sense; preserve registered names, the complete D18-held group, MP08's distinct Mirror registration, and the collaborator seal.
 10. Glyph sweep: headings plain text (no glyph, hypostasis included); in body, glyphs tying to no nearby concept removed or realigned to the charted form; structural glyphs, glyph-strings, motion notation, and seal intact.
 11. Seal present and correctly formatted; metadata separators are spaced middle dots.
 12. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.
