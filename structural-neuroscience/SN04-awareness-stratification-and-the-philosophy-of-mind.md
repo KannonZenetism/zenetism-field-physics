@@ -69,7 +69,7 @@ The literature confirms this stalemate. Physicalism commands majority support am
 
 ### 1.2 Diagnosis
 
-The awareness stratification formalized in SN03 permits a structural diagnosis of this impasse.
+The awareness stratification formalized in SN03 enables a structural diagnosis of this impasse.
 
 Each tradition accurately describes the awareness dynamics operative at a specific layer of the emanatory lattice. Physicalism describes L₁ / IL₁ — the metric terminus where Embodied Soul (🪷 Soma) and Embodied Mind (🧾 Biosa) interface with corporeal form, and where their entropic counterparts Inverse Embodied Soul (🍷 Malara) and Inverse Embodied Mind (🤯 Mania) express reactive dissociation and unanchored cognition. Panpsychism describes L₂ / IL₂ — the register of centropic individuated selfhood through Superficial Soul (🧍 Anthra) and Superficial Mind (🧩 Nousa), with its entropic counterparts Inverse Superficial Soul (🦂 Echthros) and Inverse Superficial Mind (🩸 Skotos) expressing rivalry and cognitive eclipse. Idealism describes L₃ or L₄ — Deep Mind (🧠 Noeüs) as reflexive cognition or Deep Logos (📐 Sophis) as the structuring principle behind all intelligibility.
 
@@ -94,7 +94,7 @@ The stratification is not a ranking. Each layer constitutes a genuine register o
 
 Two structural principles determine the relationships between layers:
 
-**The Law of Structural Recurrence:** Every layer reflects the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. This is why each layer can generate an internally consistent worldview — it genuinely reflects the whole, though as recurrence rather than origin.
+**The Law of Structural Recurrence:** Every layer expresses the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. This is why each layer can generate an internally consistent worldview — it genuinely carries the whole as structural recurrence rather than origin.
 
 **Bidirectional Traversal:** Awareness proceeds declivously from supernal registers toward embodiment, then reflects acclivously. Declivous centropy (L₅ → L₁) is the emanatory procession into form. Acclivous centropy (L₁ → L₅) is the reflective return. Neither direction alone constitutes a complete account. Any philosophy of mind that models awareness in only one direction — whether purely "top-down" or purely "bottom-up" — is structurally incomplete.
 
@@ -106,7 +106,7 @@ Two structural principles determine the relationships between layers:
 
 Physicalism holds that everything real is physical. Consciousness is identical to, emergent from, or supervenient upon physical processes. Neural correlates of consciousness are not merely associated with subjective experience — they constitute it. As David Papineau formulates it, consciousness consists in brain processes that have subjective character. There is nothing "over and above" the physical.
 
-The physicalist program has generated significant empirical progress. Neuroscience has identified neural correlates for specific mental phenomena, mapped the brain regions associated with various forms of experience, and demonstrated that alterations to physical brain states reliably alter conscious experience. The success of this program is not incidental. It reflects something structurally veracious about the relationship between awareness and embodiment.
+The physicalist program has generated significant empirical progress. Neuroscience has identified neural correlates for specific mental phenomena, mapped the brain regions associated with various forms of experience, and demonstrated that alterations to physical brain states reliably alter conscious experience. The success of this program is not incidental. It indicates something structurally veracious about the relationship between awareness and embodiment.
 
 ### 2.2 Where Physicalism Sits in the Stratification
 
@@ -124,7 +124,7 @@ SP11 §2 formalizes L₁ as the terminal emanatory interface — the point at wh
 
 When Philip Goff observes that decades of effort have not succeeded in explaining a single subjective experience in terms of neural firings, he identifies a genuine structural gap — but the observation itself remains within the physicalist register. "Neural firings" are ES / EM phenomena. The difficulty is not that neuroscience is inadequate, but that the awareness being expressed through neural processes proceeds declivously from registers that L₁ cannot observe from within itself.
 
-The hard problem of consciousness, formally stated: L₁ cannot derive the full awareness stratification from its own resources because L₁ is the metric terminus of a declivous procession, not its origin. The neural correlate is the L₁ recurrence of a dynamic that extends through ⧉₁, ⧉₂, ⧉₃, and the full membrane architecture. Asking L₁ to explain consciousness from within L₁ is structurally equivalent to studying a mirror's surface to determine what generates faces.
+The hard problem of consciousness, formally stated: L₁ cannot account for the full awareness stratification from its own resources because L₁ is the metric terminus of a declivous procession, not its origin. The neural correlate is the L₁ recurrence of a dynamic that extends through ⧉₁, ⧉₂, ⧉₃, and the full membrane architecture. Asking L₁ to explain consciousness from within L₁ is structurally equivalent to studying a mirror's surface to determine what generates faces.
 
 ### 2.4 The Physicalist Contribution
 
@@ -136,11 +136,11 @@ None of this invalidates physicalism within its register. The neural correlates 
 
 ### 3.1 What Panpsychism Claims
 
-Panpsychism holds that mentality is fundamental and ubiquitous. Consciousness is not a late emergence from complex physical arrangements but a basic feature of reality present in some form at every layer — from human brains to fundamental particles. As Philip Goff formulates it, the fundamental building blocks of reality possess extremely rudimentary forms of conscious experience reflecting their simple nature.
+Panpsychism holds that mentality is fundamental and ubiquitous. Consciousness is not a late emergence from complex physical arrangements but a basic feature of reality present in some form at every layer — from human brains to fundamental particles. As Philip Goff formulates it, the fundamental building blocks of reality possess extremely rudimentary forms of conscious experience expressing their simple nature.
 
 The panpsychist sees that physicalism has failed to derive consciousness from inert matter and proposes an alternative: matter was never inert. Experience goes "all the way down." The particle does not merely behave according to mathematical equations — it has an intrinsic nature, and that nature is experiential.
 
-Goff describes a fading continuum: human consciousness is rich and sophisticated; a sheep's is simpler; a snail's simpler still. The panpsychist extends this fading without a cutoff point — through insects, plants, amoeba, bacteria, and into fundamental particles, where experience becomes so rudimentary as to reflect only the particle's extremely simple physical nature.
+Goff describes a fading continuum: human consciousness is rich and sophisticated; a sheep's is simpler; a snail's simpler still. The panpsychist extends this fading without a cutoff point — through insects, plants, amoeba, bacteria, and into fundamental particles, where experience becomes so rudimentary as to express only the particle's extremely simple physical nature.
 
 ### 3.2 Where Panpsychism Sits in the Stratification
 
@@ -148,15 +148,15 @@ Panpsychism most closely models dynamics visible at L₂ / IL₂ — focusing on
 
 Anthra is the individuated soul within a lifetime — the agent of personal growth, moral resonance, and felt selfhood. When panpsychists assert that everything has "some form of experience," they are identifying the Anthra register within matter. The "what it is like to be" formulation — Nagel's foundational framing of the consciousness question — is an Anthra-register question. It asks about *individuated subjective experience*: the felt quality of being a specific someone encountering a specific something.
 
-Here the panpsychist's intuition is structurally veracious. Per the **Law of Structural Recurrence**, every layer reflects the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture — including the Anthra register. Particles *do* possess individuated soul, not as metaphor but as structural necessity: whatever moves, moves because the full emanatory architecture is present within it as recurrence.
+Here the panpsychist's intuition is structurally veracious. Per the **Law of Structural Recurrence**, every layer expresses the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture — including the Anthra register. Particles *do* possess individuated soul, not as metaphor but as structural necessity: whatever moves, moves because the full emanatory architecture is present within it as recurrence.
 
-The panpsychist correctly sees that awareness is not confined to the corporeal. This is a genuine advance beyond physicalism's L₁ restriction. Where the panpsychist errs is not in attributing Anthra to particles but in **isolating the L₂ recurrence from the L₃–L₅ architecture that generates it** — treating the recurrence as a fundamental building block from which macro-consciousness can be assembled acclivously, rather than recognizing it as a declivous reflection of a dynamic proceeding from the supernal core.
+The panpsychist correctly sees that awareness is not confined to the corporeal. This is a genuine advance beyond physicalism's L₁ restriction. Where the panpsychist errs is not in attributing Anthra to particles but in **isolating the L₂ recurrence from the L₅–L₃ architecture that generates it** — treating the recurrence as a fundamental building block from which macro-consciousness can be assembled acclivously, rather than recognizing it as a declivous reflection of a dynamic proceeding from the supernal core.
 
 ### 3.3 The Recurrence-Origin Confusion
 
 The panpsychist correctly intuits that particles are not inert. Per the **Law of Structural Recurrence**, the metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. Everything that moves has soul — not metaphorically but structurally. Particles, subatomic particles — whatever moves is ensouled. The panpsychist sees something real.
 
-This means the Anthra register (🧍, L₂) is genuinely present within the particle. The Law of Structural Recurrence guarantees it: every layer reflects the full lattice in miniature. The particle possesses individuated soul — not as projection or category error but as structural necessity. The panpsychist who attributes experience to fundamental matter is not wrong about what is there. They are wrong about what it means.
+This means the Anthra register (🧍, L₂) is genuinely present within the particle. The Law of Structural Recurrence guarantees it: every layer expresses the full lattice in miniature. The particle possesses individuated soul — not as projection or category error but as structural necessity. The panpsychist who attributes experience to fundamental matter is not wrong about what is there. They are wrong about what it means.
 
 **What the particle possesses at its primary register** is 🪷 Soma — Embodied Soul, presence in form, the soul as lived, felt, and enduring experience at the metric terminus. The particle's motion, its lawful regularity, its persistence in form — these are Soma-register phenomena. Soma is the declivous expression of soul at L₁, the outermost gesture of the emanatory procession into embodiment.
 
@@ -164,7 +164,7 @@ This means the Anthra register (🧍, L₂) is genuinely present within the part
 
 **What enables the particle's motion** is Spirit (🕊️ Motive Infinity), the motive principle originating at L₀, whose radiative condition makes all motion possible across all layers.
 
-The panpsychist's error is therefore not in seeing Anthra in the particle — Anthra is there. It is a **recurrence-origin confusion**: they identify the L₂ recurrence correctly but treat it as a self-standing foundation from which macro-consciousness can be assembled acclivously. They isolate the Anthra presence from the L₃–L₅ architecture that generates it, then attempt to build consciousness from the recurrence without acknowledging the emanatory procession that placed it there.
+The panpsychist's error is therefore not in seeing Anthra in the particle — Anthra is there. It is a **recurrence-origin confusion**: they identify the L₂ recurrence correctly but treat it as a self-standing foundation from which macro-consciousness can be assembled acclivously. They isolate the Anthra presence from the L₅–L₃ architecture that generates it, then attempt to build consciousness from the recurrence without acknowledging the emanatory procession that placed it there.
 
 Goff's "fading continuum" — where experience becomes simpler and simpler as we move toward fundamental particles — illustrates the slide. Human consciousness operates through the full stratification, as does the consciousness of a sheep. The distinction is not one of "complexity" but of unique functional orientation within the invariant layers. The panpsychist perceives a "fading continuum" because they mistake a change in the resolvability of certain registers for a disappearance of the layers themselves. In the Zenetist model, the particle possesses the full architecture from DS / DM through to EOB; it is not "rudimentary," it is simply satisfying the membrane conditions of the lattice through its own unique structural requirements.
 
@@ -192,7 +192,7 @@ At the metric terminus, centropy does not terminate — it reflects. Acclivous r
 
 SP06 §3 formalizes this as the resolution to the paradox of emergence: "Emergence is traversal. Causality is orientation." The combination problem is unanswerable not because consciousness is mysterious but because the question presupposes a direction of assembly that omits half the structural circuit.
 
-The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness (⌯ Pneuma). ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that govern permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
+The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness (⌯ Pneuma). ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that condition permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
 
 ### 3.5 The Panpsychist Contribution
 
@@ -214,7 +214,7 @@ Two distinct registers of idealism are diagnostically relevant:
 
 ### 4.2 Where Idealism Sits in the Stratification
 
-**Formal idealism** describes L₄ (DP / DL) — the register of Deep Psyche (🌬️ Morgis) and Deep Logos (📐 Sophis). Sophis is the structuring principle behind all intelligibility and form. When Plato argues that the Forms are more real than physical objects, he is describing the relationship between L₄ and L₁ with structural accuracy: the archetypal patterns at DP / DL genuinely are the structural conditions from which L₁ manifestation derives. Formal idealism correctly identifies the Form-layer as generative.
+**Formal idealism** describes L₄ (DP / DL) — the register of Deep Psyche (🌬️ Morgis) and Deep Logos (📐 Sophis). Sophis is the structuring principle behind all intelligibility and form. When Plato argues that the Forms are more real than physical objects, he is describing the relationship between L₄ and L₁ with structural accuracy: the archetypal patterns at DP / DL genuinely are the structural conditions from which L₁ manifestation proceeds. Formal idealism correctly identifies the Form-layer as generative.
 
 **Reflexive idealism** describes L₃ (DS / DM) — the register of Deep Soul (🔮 Archeus) and Deep Mind (🧠 Noeüs). When Kastrup argues that reality is constituted by experience, and that individual minds are dissociated segments of a transpersonal experiential stream, he is describing L₃ dynamics with considerable precision: Noeüs as the perceiver of verity, Archeus as the harmonizer of experience across dimensions. The "transpersonal stream" maps to the DS / DM field from which individuated SS / SM consciousness differentiates.
 
@@ -222,7 +222,7 @@ Two distinct registers of idealism are diagnostically relevant:
 
 Idealism, in both registers, situates itself closer to the generative layers of the emanatory architecture than either physicalism or panpsychism. L₄ is the layer of archetypal Form itself — where pattern exists in its structural completeness and from which relative forms are expressed and transmitted. L₃ is the layer where reflexive consciousness first emerges as a self-possessing center. Both are structurally "upstream" of the registers that physicalism and panpsychism occupy.
 
-This explains why idealism often appears more penetrating than its rivals in diagnosing their limitations. Formal idealism correctly identifies that physical objects (L₁) are derivative of intelligible patterns (L₄). Reflexive idealism correctly identifies that individuated selfhood (L₂) presupposes a deeper experiential field (L₃) from which it differentiates.
+This explains why idealism often appears more penetrating than its rivals in diagnosing their limitations. Formal idealism correctly identifies that physical objects (L₁) proceed from intelligible patterns (L₄). Reflexive idealism correctly identifies that individuated selfhood (L₂) presupposes a deeper experiential field (L₃) from which it differentiates.
 
 ### 4.4 What Idealism Misses
 
@@ -284,7 +284,7 @@ The *neti-neti* practitioner does not merge with a universal consciousness. They
 
 In lattice terms, this is a valid acclivous path. The practitioner moves from embodied consciousness (L₁) through successive layers of increasingly refined awareness, releasing attachment to each register's specific content, until arriving at L₀ — where Aion (Absolute Potential) holds all potential in stillness and essence resolves into saturation without being destroyed.
 
-This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural condition that permits structure itself. They disclose essence without synthesizing the full emanatory architecture. This is not a deficiency — it is the structural character of the apophatic path.
+This is return to L₀, not to Supra-L₀ (the Unknown Principle). Because these paths operate through negation rather than synthetic integration, they arrive at the root of structure rather than at the trans-structural Allowance by which structure becomes conceivable. They disclose essence without synthesizing the full emanatory architecture. This is not a deficiency — it is the structural character of the apophatic path.
 
 ### 5.4 Blobism and the Non-fusion Axiom
 
@@ -328,13 +328,13 @@ The hard problem is therefore not an indication that consciousness is inexplicab
 
 ### 6.3 Why Each Tradition Struggles with the Hard Problem
 
-**Physicalism** at L₁ identifies the neural correlate but cannot derive the subjective character because L₁ registers the recurrence, not the origin.
+**Physicalism** at L₁ identifies the neural correlate but cannot account for the subjective character because L₁ registers the recurrence, not the origin.
 
-**Panpsychism** at L₂ correctly identifies that awareness extends beyond the corporeal — and per the Law of Structural Recurrence, correctly sees individuated soul within particles — but isolates the L₂ recurrence from its L₃–L₅ originating architecture and attempts to assemble macro-consciousness acclivously from it, which inverts the emanatory direction and produces the combination problem.
+**Panpsychism** at L₂ correctly identifies that awareness extends beyond the corporeal — and per the Law of Structural Recurrence, correctly sees individuated soul within particles — but isolates the L₂ recurrence from its L₅–L₃ originating architecture and attempts to assemble macro-consciousness acclivously from it, which inverts the emanatory direction and produces the combination problem.
 
 **Idealism** at L₃ or L₄ correctly identifies that mind is structurally prior to matter but cannot formalize the membrane conditions (⧉₃, ⧉₂, ⧉₁) that determine how awareness stratifies from its register through to embodiment.
 
-The hard problem dissolves — not by being answered from any single register, but by recognizing that the question presupposes a single-register account of a multi-register phenomenon.
+The hard problem resolves — not by being answered from any single register, but by recognizing that the question presupposes a single-register account of a multi-register phenomenon.
 
 ---
 
@@ -388,8 +388,8 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 
 | Tradition | Register | Structural Contribution | Structural Limitation |
 |-----------|----------|------------------------|----------------------|
-| Physicalism | L₁ (ES / EM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot derive the full stratification from within L₁ |
-| Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₃–L₅ origin; inverts the emanatory direction; produces the combination problem |
+| Physicalism | L₁ (ES / EM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot account for the full stratification from within L₁ |
+| Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₅–L₃ origin; inverts the emanatory direction; produces the combination problem |
 | Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal registers (L₅, L₀, UP) or membrane conditions |
 | Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity proceeds |
 | Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-bifurcation root; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
@@ -398,7 +398,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 
 The structural principle of cooperation is not uniformity but **Coherence in Diversity**. The One and the Many are co-essential. Structure requires differentiation to be intelligible. Harmony requires distinct tones to resonate. The lattice preserves each discipline's sovereign integrity — its methods, its vocabulary, its domain of competence — while providing the structural common language through which dialogue becomes possible.
 
-Entropy, structurally diagnosed, is what keeps these disciplines fragmented. The fragmentation feeds entropic interests — power, control, institutional coercion, persona gain — whether or not any individual within these traditions intends it. When physicalism dismisses panpsychism as unscientific, when panpsychism dismisses physicalism as reductive, when idealism dismisses both as naïve — each dismissal preserves the register problem by refusing the structural cooperation that would resolve it.
+Entropy, structurally diagnosed, is what keeps these disciplines fragmented. The fragmentation feeds entropic interests — power, control, institutional coercion, persona gain. When physicalism dismisses panpsychism as unscientific, when panpsychism dismisses physicalism as reductive, when idealism dismisses both as naïve — each dismissal preserves the register problem by refusing the structural cooperation that would resolve it.
 
 Centropy, structurally diagnosed, is what drives toward integration through distinction. Not blobism — not the erasure of disciplinary boundaries — but harmonic collaboration in which each tradition's genuine insight is preserved and amplified by contact with the others.
 
@@ -422,13 +422,13 @@ If we genuinely want to understand reality as it is — not as any single regist
 
 **Definition 6 — Combination Problem (Reframed):** The difficulty of explaining how micro-experiences assemble into unified macro-consciousness. Structurally diagnosed as unanswerable in its standard formulation because it presupposes purely acclivous assembly without the declivous procession that establishes the conditions being observed. The membrane architecture (⧉₁, ⧉₂, ⧉₃) provides the formal mechanism for awareness transitions that the combination problem lacks.
 
-**Definition 7 — Hard Problem (Reframed):** The difficulty of explaining why physical processes are accompanied by subjective experience. Structurally diagnosed as a register-bound question: L₁ cannot derive the full awareness stratification from within itself because it is the metric terminus, not the origin. The transition from non-reflexive to reflexive awareness occurs at ⧉₃, four membrane boundaries from the vantage point asking the question.
+**Definition 7 — Hard Problem (Reframed):** The difficulty of explaining why physical processes are accompanied by subjective experience. Structurally diagnosed as a register-bound question: L₁ cannot account for the full awareness stratification from within itself because it is the metric terminus, not the origin. The transition from non-reflexive to reflexive awareness occurs at ⧉₃, four membrane boundaries from the vantage point asking the question.
 
 ---
 
 ## 10. Conclusion — The Lattice as Invitation
 
-This treatment has not argued that physicalism, panpsychism, or idealism are wrong. Each is veracious within its register. Each describes genuine dynamics of awareness at the layer it occupies. Each generates internally consistent arguments because each layer genuinely constitutes a complete logic of awareness within its own domain.
+Physicalism, panpsychism, and idealism are each veracious within their register. Each describes genuine dynamics of awareness at the layer it occupies. Each generates internally consistent arguments because each layer genuinely constitutes a complete logic of awareness within its own domain.
 
 What this treatment has argued is that no single-register account is exhaustive, that the awareness stratification formally specifies the relationships between registers, and that the structural common language of the lattice makes cooperative dialogue possible where competitive fragmentation currently prevails.
 
