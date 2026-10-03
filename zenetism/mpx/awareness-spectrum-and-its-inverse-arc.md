@@ -15,11 +15,15 @@ The sequence runs:
 
 These are structural registers, not stages of evolution. A register is a mode of how awareness stands, not a rank attained toward worth.
 
+---
+
 ## The Proto-Aware Ground — L₀
 
 At **L₀**, ⚫ Aion and ♾ Khaon belong to the register of **proto-awareness**. This is not awareness as such, but the pre-hypostatic condition-field from which both awareness and inverse awareness become possible. Proto-awareness is deeper than the awareness polarity, not a station within it — the unpolarized ground from which the first hypostatic poles emerge.
 
 Because it is the condition for both poles, proto-awareness must not be confused with non-awareness. Proto-awareness precedes the polarity; non-awareness is one pole of it.
+
+---
 
 ## The Awareness Polarity — L₅ / IL₅
 
@@ -30,12 +34,16 @@ At **L₅ / IL₅**, the first hypostatic awareness polarity appears — two pol
 
 The two are not at different depths. They are the two poles of one hypostatic awareness spectrum.
 
+---
+
 ## Conscious-Awareness — L₄ / IL₄
 
 At **L₄ / IL₄**, awareness becomes conscious-awareness.
 
 - **L₄ — DP / DL (Deep Psyche / Deep Logos):** **conscious-awareness** — archetypal awareness resonant in Forms, the house of the soul; conscious but pre-individuated, not yet L₃-reflexive. It perceives without self-possession and discerns structurally without individuating a perceiver.
 - **IL₄ — IDP / IDL:** **inverse conscious-awareness** — the archetypal register inverted through distorted archetypes, subversal Forms, counterfeit order, and malformed psychic-logical templates.
+
+---
 
 ## The Consciousness Register — L₃ / IL₃ through L₁ / IL₁
 
@@ -48,15 +56,21 @@ At **L₃ / IL₃**, consciousness becomes reflexive and individuated; at **L₂
 - **L₁ — ES / EM (Embodied Soul / Embodied Mind):** **embodied consciousness** — Soul / Mind expressed through the corporeal interface; sensory, kinetic, and material experience.
 - **IL₁ — IES / IEM:** **inverse embodied consciousness** — embodied compulsion, domination, reactive embodiment, and entropic externalization through form.
 
+---
+
 ## Zenon — Beyond Awareness
 
 🕳️ Zenon exceeds the spectrum entirely. It is neither aware nor proto-aware — proto-awareness is the station of Aion and Khaon, and awareness the polarity of Theon and Nekron. Zenon is trans-structural: beyond awareness, beyond polarity, beyond bifurcality, beyond every definable operation of the lattice. The spectrum describes how awareness manifests within structure; Zenon is what no register reaches by remaining a register.
+
+---
 
 ## The Inverse Arc Is Structurally Real
 
 The inverse arc does not merely lack awareness, nor does it only distort a centropic original. Each inverse register is a structurally real mode of the inverse arc, expressing its own form of awareness-inversion according to its placement.
 
 This is the asymmetry that keeps the arc coherent. At IL₅ the inversion is maximal: non-awareness is the voiding of the most integrated awareness, the inverse of Theon's coherent presence. Along the inverse arc, the registers have individuated and embodied structure to invert, and so appear as inverted-and-present rather than voided — counterfeit order, fractured selfhood, mimetic identity, embodied compulsion. The inverse arc is not the absence of the centropic; it is its structural counter-placement.
+
+---
 
 ## Canonical Designations
 
@@ -80,6 +94,8 @@ Two further distinctions hold throughout:
 - **Non-reflexive** (L₅, L₄) is not a deficiency of reflexive consciousness; it is awareness prior to individuated self-possession. Reflexivity enters at **L₃**, where the "I" knows that it knows.
 - **Proto-awareness** (L₀) is not non-awareness (IL₅). The first is the pre-hypostatic ground of both poles; the second is one pole of the hypostatic polarity.
 
+---
+
 ## The Spectrum in Full
 
 | Register | Centropic Mode | Inverse Mode |
@@ -91,6 +107,8 @@ Two further distinctions hold throughout:
 | L₃ / IL₃ — DS / DM · IDS / IDM | reflexive consciousness | inverse reflexive consciousness |
 | L₂ / IL₂ — SS / SM · ISS / ISM | identity-aware consciousness | inverse identity-aware consciousness |
 | L₁ / IL₁ — ES / EM · IES / IEM | embodied consciousness | inverse embodied consciousness |
+
+---
 
 ## Closing
 
