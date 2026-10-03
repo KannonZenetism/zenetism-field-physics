@@ -820,7 +820,7 @@ The constant-intensity scalar law reaches \( \chi\to\infty \) in finite structur
 
 The Aionic branch approaches zero only asymptotically for constant positive intensity. These different times follow from the displayed vector field and its coordinate. The structural distinction between constrained centropy and permissive entropy (§9.4) does not select that field or its time parameter.
 
-Essence persists in both cases. Neither entropic collapse nor Aionic convergence annihilates essence — essence endures through to Absolute Potential and Absolute Dispersion at L₀. What ceases is expressed orientation, not being itself.
+Essence persists in both structural outcomes. Terminal expressed configuration resolves into Absolute Dispersion, while distinct essence is conserved in Aionic resolution. Absolute Dispersion is a terminal state rather than a mechanism transporting essence. The χ-coordinate limits calculated here retain the separate correspondence boundary stated in §8.6.
 
 ### 8.6 Theorem Statement
 
