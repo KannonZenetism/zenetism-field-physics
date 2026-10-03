@@ -85,11 +85,11 @@ The dependency chain is:
 
 ## 2. Tripartite Infinity Formalism
 
-### 2.1 The Pre-Hypostatic Phase Space
+### 2.1 The Pre-hypostatic Phase Space
 
 L₀ is not a simple point or undifferentiated ground. It contains structurally distinct phases that determine the transition from stillness to expression.
 
-**Definition (Pre-Hypostatic Phase Space):**
+**Definition (Pre-hypostatic Phase Space):**
 
 Let \( \Omega_0 \) denote the **pre-hypostatic phase space** of L₀, partitioned into three structurally distinct regions:
 
@@ -1435,7 +1435,7 @@ The drift arrows and endpoint times in this diagram describe the conditional out
 
 ## Appendix C — Formal Definitions and Theorems
 
-**Definition 1 (Pre-Hypostatic Phase Space):**
+**Definition 1 (Pre-hypostatic Phase Space):**
 
 \( \Omega_0 = \Phi_1 \cup \Phi_2 \cup \Phi_3 \), where \( \Phi_1 \) (Latent), \( \Phi_2 \) (Motive), and \( \Phi_3 \) (Dispersive) are the three phases of L₀.
 
