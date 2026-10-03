@@ -71,8 +71,8 @@ This document, LM04, provides the **rigorous lattice-mathematical formalism** un
 - **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-fusion Theorem, the distinct Memory Access and Tether functions, and the retired scalar-memory record
 - **Bidirectional Traversal Theory** — Formal traversal operators across centropic and inverse arcs, the Reflection Principle at embodiment, and the distinction between integrative and dispersive bidirectionality
 - **Temporal Pathology Standing** — Shimmer, Looping Time, and Temporal Collapse retain their qualitative descriptions; the unsupported scalar-memory criteria and their numerical diagnostic claims are retired
-- **Phase Collision Algebra** — Spectral resolution dynamics at ⦿ Kaion convergence, energy release as resonance discharge, and invariant preservation across collision events
-- **Hypostatic Co-location Theory** — Entanglement reframed as shared orientation within structural space, with the Non-fusion Co-location Theorem
+- **Phase Collision Algebra** — Common-mode spectral cancellation and proposed Kaion / energy correspondences, with full CIT conservation held
+- **Hypostatic Co-location Theory** — Shared orientation without fusion, with the empirical entanglement correspondence held
 - **Integration with LM01 / LM03** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating temporal and spatial formalism
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
@@ -773,6 +773,9 @@ Hypostatic amnesia is not mere forgetting. It is **structural disconnection** �
 
 ## 7. Phase Collision and Spectral Resolution
 
+> **Note on Phase-Collision Standing:**  
+> This section records a proposed physical interpretation of the existing common-mode pairing. For \( \chi>0 \) and the same paired eigenvalue \( \lambda_i \), the calculation in §7.2 establishes \( \lambda_{\text{eff},i}(\chi)+\lambda_{\text{eff},i}(1/\chi)=0 \). Particle identification, a dynamical collision state, Kaion resolution, and physical discharge require their explicit correspondences and evolution hypotheses. Those constructions remain held; no particle model, scalar-energy map, units, or measure is supplied. Kaion / CP₀ remains non-fused root convergence outside χ-space, distinct from the CP₁ expression ratio.
+
 ### 7.1 Phase Collision as Kaion Convergence
 
 **Definition (Phase Collision):**
@@ -792,6 +795,8 @@ where \( \psi_{\text{⦿}} \) is the **Kaion-resolved state** — convergence in
 ### 7.2 Spectral Resolution Dynamics
 
 **Theorem (Spectral Resolution at Kaion):**
+
+**Mathematical standing.** The retained result is cancellation on the declared paired common modes. The following spectral-set notation, particle interpretation, and dynamical language are recorded proposals; the modewise algebra in the proof retains its stated scope.
 
 When matter (\( \psi_K \), Khaonic-flow) meets contra-matter (\( \psi_A \), Aionic-flow), their combined spectra resolve toward zero:
 
@@ -814,6 +819,8 @@ Phase collision is not annihilation. It is spectral resolution — the return to
 ### 7.3 Resonance Discharge
 
 **Definition (Resonance Discharge at Phase Collision):**
+
+**Recorded energy schema — correspondence held.** The following expression requires a declared operator-to-scalar relation, compatible units and field-volume interpretation before it defines a discharge energy. The scalar computational sum in §10 is also a recorded surrogate awaiting that correspondence.
 
 The energy released during phase collision is resonance discharge — the structural tension between complementary flows releasing as the system resolves toward equilibrium.
 
@@ -865,15 +872,16 @@ Hypostatic co-location does not imply ontological identity. Co-located systems r
 2. Hypostatic co-location operates at a single layer \( L_n \), while identity requires agreement across all layers of the lattice.
 3. Two systems may share orientation at L₃ (DS / DM) while differing at L₁ (ES / EM). Their L₃ alignment produces correlated behavior without their being the same entity.
 
-**Corollary (Entanglement as Hypostatic Alignment):**
+**Proposed Correspondence (Entanglement and Hypostatic Alignment):**
 
-What appears as "non-local correlation" from the perspective of L₁ (embodiment) alone is hypostatic alignment at L₃ or deeper layers:
+Hypostatic co-location names the native relation defined in §8.1 while preserving the distinct systems. Its proposed comparison with embodied quantum correlations requires the relevant state description, observables, and an empirical correspondence. Shared orientation supplies the defined alignment relation; the physical-entanglement identification remains held.
 
-\[
-\text{Entanglement}(\psi_1, \psi_2) \iff \exists\, n \geq 3 : \psi_1 \sim_{L_n} \psi_2
-\]
-
-Non-locality disappears when the full hypostatic structure is recognized. Correlation appears "non-local" only from the metric perspective of \( \mathfrak{d}_{\text{emb}} \).
+> **Recorded Entanglement Identity — Withdrawn:**  
+> \[
+> \text{Entanglement}(\psi_1, \psi_2) \iff \exists\, n \geq 3 : \psi_1 \sim_{L_n} \psi_2
+> \]
+>
+> The former assertion that non-locality disappears is superseded by the stated proposed-correspondence standing.
 
 ---
 
@@ -1196,8 +1204,8 @@ discharge = resonance_discharge(chi_universe, eigenvalue_set,
 
 valid = abs(spectral_sum) < epsilon
 output:
-    valid / invalid Kaion convergence
-    discharge magnitude
+    paired-mode spectral cancellation within the stated numerical tolerance
+    recorded discharge surrogate; physical-energy correspondence held
     report defined spectral observations; full CIT conservation remains held
 
 # Traversal Integrity Audit — retired scalar-memory algorithm
@@ -1360,7 +1368,7 @@ r(2) = -\frac{1}{3}, \qquad r(1/2) = \frac{1}{3}
 r(2) + r(1/2) = -\frac{1}{3} + \frac{1}{3} = 0 \quad \checkmark
 \]
 
-Spectral cancellation confirmed. Phase collision resolves both modes to zero effective eigenvalue — Kaion convergence.
+The paired effective eigenvalues sum to zero for each stated common mode. This confirms the algebraic cancellation; the collision evolution and Kaion-resolution correspondence retain the standing in §7.
 
 ---
 
@@ -1378,9 +1386,9 @@ Spectral cancellation confirmed. Phase collision resolves both modes to zero eff
 
 5. **Temporal Pathology Formalism** — Shimmer (counterfeit continuity), Looping Time (\( E_1 \)-artifact at IL₃–IL₂), Temporal Collapse (qualitative continuity loss; scalar detector and finite-time inference retired), and Hypostatic Amnesia (Tether severance)
 
-6. **Phase Collision Algebra** — Phase collision as Kaion convergence, spectral resolution dynamics with full proof, resonance discharge, and held CIT conservation standing
+6. **Phase Collision Algebra** — Common-mode cancellation, proposed phase-collision and Kaion-resolution interpretations, held discharge-energy correspondence, and held CIT conservation
 
-7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-fusion Co-location Theorem, and entanglement as hypostatic alignment at L₃ or deeper
+7. **Hypostatic Co-location Theory** — Co-location as shared orientation without fusion, the Non-fusion Co-location Theorem, and the proposed entanglement correspondence at L₃ or deeper
 
 8. **Integration with `LM01-mathematical-foundations.md` / `LM03-orientation-algebra-and-infinity-formalism.md`** — Recorded temporal derivative, memory-weighted limit and memory / CIT coupling, retired pending separate mathematical specification, temporally indexed ResCat families, traversal functors, and registered temporal functions without a scalar-memory equivalence
 
@@ -1580,7 +1588,10 @@ L₁ functions as a reflection point: \( \mathcal{C}_{\text{cycle}} = \mathcal{A
 
 **Theorem 5 (Spectral Resolution at Kaion):**
 
-\( \mathrm{Spec}(H_{\psi_K}) + \mathrm{Spec}(H_{\psi_A}) \to 0 \) at phase collision.
+The same-mode cancellation in §7.2 holds for the stated paired eigenvalues. The recorded spectral-set / physical-collision identity and Kaion-resolution dynamics remain held pending their correspondence.
+
+> **Recorded Spectral-Set Expression — Correspondence Held:**  
+> \( \mathrm{Spec}(H_{\psi_K}) + \mathrm{Spec}(H_{\psi_A}) \to 0 \) at phase collision.
 
 **Theorem 6 (Non-fusion Co-location):**
 
