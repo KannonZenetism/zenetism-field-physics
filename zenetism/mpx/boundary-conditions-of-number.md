@@ -69,13 +69,15 @@ Sign emerges **only** with hypostatic orientation.
 
 Formally:
 
-```
-Sign(Aion) = undefined  
-Sign(Khaon) = undefined  
+\[
+\operatorname{Sign}(\text{Aion}) = \text{undefined},\qquad
+\operatorname{Sign}(\text{Khaon}) = \text{undefined}
+\]
 
-Sign(Theon) = +  
-Sign(Nekron) = − (contra)  
-```
+\[
+\operatorname{Sign}(\text{Theon}) = +,\qquad
+\operatorname{Sign}(\text{Nekron}) = -\;\text{(contra)}
+\]
 
 Theon and Nekron function as **directional generators**, not boundary states.
 
@@ -85,9 +87,9 @@ Theon and Nekron function as **directional generators**, not boundary states.
 
 The integer-generator analogy concerns repeated addition of signed units. A formal correspondence with hypostatic structural charges or dimensional indexing remains held open:
 
-```
-n ∈ ℤ generated via iterative application of ±1 operators
-```
+\[
+n \in \mathbb{Z}\quad\text{generated via iterative application of }\pm 1\text{ operators}
+\]
 
 Thus:
 
@@ -127,7 +129,7 @@ They do not originate in Aion or Khaon.
 
 ⦿ Kaion remains the convergence condition where:
 
-- Boundary states become functionally indistinguishable  
+- Root-registers are colocated in stillness, phase-distinct and non-fused  
 - Orientation determines outcome  
 - The lattice resolves without fusion  
 
@@ -151,7 +153,7 @@ Zenetist boundary symbols therefore represent **conditions of possibility**, not
 
 ## 9. Compatibility
 
-This clarification is fully compatible with:
+This clarification relates its established architectural distinctions to the following works; the mathematical correspondences identified here remain held open:
 
 - Structural Metaphysics Canon  
 - Lattice Mathematics (GUD v2.2 and later)  
