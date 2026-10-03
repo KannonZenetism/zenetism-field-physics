@@ -336,7 +336,7 @@ The audit domains of `LM06-applied-structural-dynamics.md` §12.4 extend to coll
 
 - \( \mathcal{S}_{\text{sh}} > 1 \): apparent coherence exceeding actual coherence on the same-object scalar domain; the ratio is distinct from Mimicry, Appropriation, and a depletion-rate claim
 - \( \vec{J}_c \) flowing centrifugally or toward concentration: assess the actual transfer relations and whether contributions are non-voluntary before identifying siphoning
-- E₁₄ ⊡⁻ (Hollow Nest) active: organizational form persisting after generative function has departed
+- Organizational form persisting after generative function has departed: vacancy assessment; E₁₄ ⊡⁻ (Hollow Nest) requires the distinct evidence of empty recursion
 - Competitive ranking prioritized over cooperative generation: entropic value structure operative
 - Participant \( I_c \) declining while collective apparent coherence is maintained: examine member replenishment, actual expenditure, transfer relations, and any changing coefficients; a siphoning finding requires the non-voluntary transfer relation
 
