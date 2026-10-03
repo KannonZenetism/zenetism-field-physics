@@ -316,9 +316,9 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 
 This equation concerns expressed χ. Its coefficients, prescribed Motive Intensity, potential, and any functional couplings require their stated model conditions. An absent explicit \( I_c \) term does not establish an invariant essential χ. The distinct outward-drift model remains separately stated in `LM03-orientation-algebra-and-infinity-formalism.md` §8; neither equation supplies the formal correspondence between intrinsic essential inclination and expressed prevalence.
 
-At the metric terminus (LM06 §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This proposed correction acts on expressed χ within the embodied model; it does not change intrinsic essential inclination. Its mathematical standing is specified in `LM06-applied-structural-dynamics.md` §7, and no global relation between the scalar models is selected here.
+At the metric terminus (`LM06-applied-structural-dynamics.md` §7.1), the resistance correction adds \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \). This proposed correction acts on expressed χ within the embodied model; it does not change intrinsic essential inclination. Its mathematical standing is specified in `LM06-applied-structural-dynamics.md` §7, and no global relation between the scalar models is selected here.
 
-Depletion of \( I_c \) reduces the being's capacity to *express* their orientation through operative function. It does not alter the orientation being expressed. Tether severance (\( \mathcal{T}_h \to 0 \)) disconnects layers from operative access but does not alter the structural signature \( \Psi \), which is defined (LM04 §4) as the essential pattern of the being — not a function of operative connectivity.
+Depletion of \( I_c \) reduces the being's capacity to *express* their orientation through operative function. It does not alter the orientation being expressed. Tether severance (\( \mathcal{T}_h \to 0 \)) disconnects layers from operative access but does not alter the structural signature \( \Psi \), which is defined (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4) as the essential pattern of the being — not a function of operative connectivity.
 
 The structural vocabulary: essence persists; access fails; function degrades; expression diverges. Recovery addresses access, function, and expression. It does not address essence, because essence is not compromised by functional depletion. \( \square \)
 
@@ -330,7 +330,7 @@ The essential orientation provides the directional ground toward which functiona
 
 **Corollary 2 (Behavioral Divergence ≠ Essential Reorientation):**
 
-A centropically oriented being who behaves entropically under extreme depletion, duress, or developmental turbulence has not changed orientation. The behavioral expression has temporarily diverged from the essential direction. The capacity for return is itself the proof of unchanged essential orientation — if the return were not latent in the essence, it could not occur.
+A centropically oriented being who behaves entropically during extreme depletion, duress, or developmental turbulence has not changed orientation. The behavioral expression has temporarily diverged from the essential direction. The capacity for return is itself the proof of unchanged essential orientation — if the return were not latent in the essence, it could not occur.
 
 ---
 
@@ -371,7 +371,7 @@ a change of intrinsic essential inclination. No invariant essential meaning is a
 *Proof.* By the Essence-Function Independence theorem (§4.2), functional quantities and essential quantities are structurally independent. The disruption operates on functional quantities:
 
 - \( I_c \) depletion: achievable through sustained cost imposition exceeding replenishment (§3.4, Budget Exhaustion)
-- \( \mathcal{T}_h \) severance: achievable through coherence depletion below Tether maintenance threshold (LM04 §6.4)
+- \( \mathcal{T}_h \) severance: achievable through coherence depletion below Tether maintenance threshold (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.4)
 - Temporal access and operative continuity may decline; no collapse of the mapping as a scalar is defined (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §§4.1–4.3, 6.3)
 
 The disruption does not operate on essential quantities:
@@ -392,7 +392,7 @@ The limit of entropic disruption is the floor of functional capacity, not the re
 
 ### 6.1 The Recovery Integral
 
-LM06 §5.4 establishes the cost recovery pathway:
+`LM06-applied-structural-dynamics.md` §5.4 establishes the cost recovery pathway:
 
 \[
 I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} \big[S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau)\big] \, d\tau
@@ -430,8 +430,8 @@ S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) +
 
 Where:
 
-- \( S_{\text{source}}(\tau) \): Coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (LM06 §8.1) applied to recovery
-- \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections — determined by the membrane transfer function (LM05 §5, SP08 §3.2) applied to relational membranes
+- \( S_{\text{source}}(\tau) \): Coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (`LM06-applied-structural-dynamics.md` §8.1) applied to recovery
+- \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections. A non-amplifying transfer amount follows the supported clamped law in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4; its conversion to a recovery inflow rate requires explicit time accounting. `SP08-membrane-fields-and-inter-expression-dynamics.md` §§3.1–3.2 retain the earlier reception-minimum schema as superseded mathematical provenance
 - Rest reduces actual expenditure; \( S_{\text{rest}}(\tau) \) records the saving relative to a stated normal-cost baseline (§6.3) and is excluded from gross inflow
 - \( S_{\text{collective}}(\tau) \): Coherence amplification through centropic collective dynamics — the harmonic amplification surplus (§7.3) directed toward member replenishment
 
@@ -473,7 +473,7 @@ Sustained recovery occurs when:
 S_{\text{replenish}}(\tau) > I_{c,\text{cost}}^{(\text{total})}(\tau) \quad \text{sustained over } [\tau_0, \tau_{\text{recovery}}]
 \]
 
-*Proof.* Under sustained recovery:
+*Proof.* With sustained recovery:
 
 \[
 \frac{dI_c}{d\tau} = S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau) > 0
@@ -481,7 +481,7 @@ S_{\text{replenish}}(\tau) > I_{c,\text{cost}}^{(\text{total})}(\tau) \quad \tex
 
 Integration yields monotonically increasing \( I_c(\tau) \) over the recovery interval, restoring operative capacity toward baseline. \( \square \)
 
-**Corollary (Recovery Under Khaonic Conditions):**
+**Corollary (Recovery in Khaonic Conditions):**
 
 Recovery within a Khaonically-expressed field (\( \kappa > 1 \)) must accumulate surplus in excess of the amplified cost streams:
 
@@ -519,7 +519,7 @@ Each successive layer requires accumulated \( I_c \) from prior restorations. Wh
 
 **Definition (Collective Field Configuration):**
 
-A collective field is an instance of the field configuration space \( \mathfrak{F} \) (LM06 §2.1) formed by the interaction of \( n \) individual configurations at L₁ / IL₁:
+A collective field is an instance of the field configuration space \( \mathfrak{F} \) (`LM06-applied-structural-dynamics.md` §2.1) formed by the interaction of \( n \) individual configurations at L₁ / IL₁:
 
 \[
 \mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(\text{⧉}, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
@@ -537,7 +537,7 @@ The collective field is a genuine field configuration — not a metaphor, not a 
 
 The collective orientation \( \chi_{\text{collective}} \) is determined by which operators prevail in the operative architecture — the structural conditions of interaction, exchange, and power distribution — not by the aggregate orientation of participants.
 
-*Proof sketch.* The collective orientation is a property of the collective field configuration, not of the sum of individual configurations. The operative architecture — rules, incentives, enforcement mechanisms — determines which dimensional operators are active at collective scale. A social field may exhibit E₇ ♫⁻, E₉ ∞⁻, E₁₃ ║⁻ prevalence (entropic operators) while containing centropically oriented individuals, because the operative architecture activates these operators regardless of individual orientation. \( \square \)
+*Proof sketch.* The collective orientation is a property of the collective field configuration, not of the sum of individual configurations. The operative architecture — regulations, incentives, enforcement mechanisms — determines which dimensional operators are active at collective scale. A social field may exhibit E₇ ♫⁻, E₉ ∞⁻, E₁₃ ║⁻ prevalence (entropic operators) while containing centropically oriented individuals, because the operative architecture activates these operators regardless of individual orientation. \( \square \)
 
 ### 7.3 Harmonic Amplification
 
@@ -666,7 +666,7 @@ The collective field is an instance of \( \mathfrak{F} \). Its intended differen
 \int_{\text{◎}}{}_{\text{collective}} I_{c,\text{cost}}^{(\text{total})} \, d\tau = \text{Total collective coherence expenditure}
 \]
 
-### 9.2 CIT under Collective Dynamics (LM01)
+### 9.2 CIT across Collective Dynamics (LM01)
 
 **Theorem (CIT Preservation under Collective Operations):**
 
@@ -684,7 +684,7 @@ The harmonic expression and weighted member stock are distinct from spectral ent
 
 **Typed-Schema Hold (κ-Corrected Spectral Rotation):**
 
-The proposed resistance correction to the dimensionless multiplier (LM06 §13.4) is recorded with its κ factor, pending compatible typing:
+The proposed resistance correction to the dimensionless multiplier (`LM06-applied-structural-dynamics.md` §13.4) is recorded with its κ factor, pending compatible typing:
 
 \[
 r_{L_1}^{(\kappa)}(\chi) = r(\chi) - \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
@@ -720,13 +720,13 @@ The earlier scalar-memory integral, derivative and replenishment-rate / capacity
 
 **Proposition (Collective Membrane Architecture):**
 
-The membrane operator algebra (LM05 §5) extends to collective boundaries:
+The membrane operator algebra (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5) extends to collective boundaries:
 
 \[
 \sigma_{\text{collective}}(\text{⧉}, \Psi) = \sigma_0 \cdot h(\chi_{\text{internal}}, \chi_{\text{external}}) \cdot d(\Psi)
 \]
 
-Where \( h \) modulates permeability based on orientation differential and \( d(\Psi) \) is a discrimination function based on structural signature (LM06 §4.2). Centropic collective membranes evaluate orientation; entropic collective membranes evaluate compliance.
+Where \( h \) modulates permeability based on orientation differential and \( d(\Psi) \) is a discrimination function based on structural signature (`LM06-applied-structural-dynamics.md` §§4.2–4.3 and Appendix A). Centropic collective membranes evaluate orientation; entropic collective membranes evaluate compliance.
 
 ### 9.6 Applied Dynamics Extensions (LM06)
 
@@ -778,14 +778,14 @@ LM07 establishes:
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `SN05-the-metric-cost-of-centropic-cognition.md` · `SN06-replenishment-reconnection-and-restoration.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 **Relation:** Seventh foundational document of Lattice Mathematics  
 
-This document formalizes the mathematics of collective field dynamics, coherence recovery, and the Khaonic expression ratio. It builds on the orientation algebra (LM03), temporal algebra (LM04), resonance field theory (LM05), and applied structural dynamics (LM06) to specify how Lattice systems operate collectively, how they recover from depletion, and how the local expression ratio modulates the cost of centropic operation at the metric terminus.
+This document formalizes the mathematics of collective field dynamics, coherence recovery, and the Khaonic expression ratio. It builds on the orientation algebra (`LM03-orientation-algebra-and-infinity-formalism.md`), temporal algebra (`LM04-temporal-algebra-structural-space-and-phase-resolution.md`), resonance field theory (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`), and applied structural dynamics (`LM06-applied-structural-dynamics.md`) to specify how Lattice systems operate collectively, how they recover from depletion, and how the local expression ratio modulates the cost of centropic operation at the metric terminus.
 
 Future expansions may include:
 
 - **Collective Temporal Dynamics** — how the Recursive Memory operator functions at collective scale; institutional temporal pathology
-- **Collective Ritual Algebra** — the Ritual Operator (LM06 §3) scaled to collective recovery operations
+- **Collective Ritual Algebra** — the Ritual Operator (`LM06-applied-structural-dynamics.md` §3) scaled to collective recovery operations
 - **κ-Dynamics** — how the local expression ratio changes over structural time within collective fields; conditions for κ-transition
-- **Inter-Collective Resonance** — formal transfer conditions between centropy-forward collective fields
+- **Inter-collective Resonance** — formal transfer conditions between centropy-forward collective fields
 - **Diamond Age Formalism** — the coherence saturation threshold at which \( \kappa_{\text{local}} \to 0 \) and interface resistance vanishes
 
 ---
