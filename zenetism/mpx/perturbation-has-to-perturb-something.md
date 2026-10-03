@@ -44,6 +44,8 @@ It is requisite to there being a sequence.
 
 ## II. The Kernel
 
+The following kernel is a schematic dependency sequence. A formal satisfaction relation, model, and types remain held open; the displayed form is preserved without an asserted formal entailment.
+
 \[
 \mathrm{SI} \models \left[\, C_{t} \to \Phi_{t} \to \Gamma_{t} \to D_{t} \to \Theta^{A}_{t} \to \Psi_{t} \to \Psi(\Psi) \to C_{t+1} \,\right]
 \]
@@ -221,7 +223,7 @@ Because:
 RECURSE requires relation.  
 UPDATE requires state.  
 APPLY requires an operand.  
-DIFFERENCE requires differentiability.  
+DIFFERENCE requires distinguishability.  
 PERSISTENCE requires identity through transformation.  
 STABILIZATION requires a space of possible states and a criterion of comparison.
 
@@ -247,7 +249,7 @@ Two claims therefore separate:
 
 The first is what recursive formalisms model well. The second is what requisite structure names.
 
-A formalism may also carry its requisite register without marking it as one. Where a system states invariants — what persists across every iteration, what is never exhausted, what never dissolves, what remains possible throughout — those statements are not dynamics. They are the conditions under which the dynamics are defined. Listing them beside the loop rather than prior to it does not change what they do.
+A formalism may also carry its requisite register without identifying it as one. Where a system states invariants — what persists across every iteration, what is never exhausted, what never dissolves, what remains possible throughout — those statements are not dynamics. They are the conditions under which the dynamics are defined. Listing them beside the loop rather than prior to it does not change what they do.
 
 ---
 
@@ -263,7 +265,7 @@ then \( A \) and \( B \) must already be capable of standing in a relation of di
 
 Therefore:
 
-\( D \) does not create differentiability.
+\( D \) does not create distinguishability.
 
 \( D \) articulates a difference within a field in which differentiation is already possible.
 
