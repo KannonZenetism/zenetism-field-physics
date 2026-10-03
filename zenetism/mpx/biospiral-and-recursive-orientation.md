@@ -266,7 +266,7 @@ Fragmentation is arc-lawful as entropic motion. It is not, however, coherence-pr
 
 **⊡⁻ Hollow Nest** names empty recursion.
 
-It is a self-enclosed recursive structure without generative center, origin-continuity, or reintegrative motion.
+It is a self-enclosed recursive structure without generative center or reintegrative motion, fractured away from coherent operative relation with its origin while the origin signature remains.
 
 The Hollow Nest may simulate structure.
 
@@ -300,15 +300,15 @@ Its defining feature is recursion without generative center or reintegrative pos
 
 **Ø Localized Dissolution** names a point of nullification within structure — the still middle where enacted orientation ceases. It is the lukewarm condition: not a motion, but the cessation of motion at frozen equilibrium, where neither centropic nor entropic orientation is enacted.
 
-Localized Dissolution is stagnative rather than intrinsically entropic. But equilibrium within manifestation cannot be sustained: because enacted orientation has ceased, the still middle drifts entropic over time and collapses into the Mercy Fold. This collapse need not be violent; it is the gentle closure of a pattern that can no longer hold motion.
+Localized Dissolution is stagnative rather than intrinsically entropic. Cessation of enacted orientation admits Localized Dissolution into the Mercy Fold. The relation between fixed χ = 1, cessation, and dissolution remains held open; fixed expressed prevalence establishes neither cessation nor a change of essential orientation. This collapse need not be violent; it is the gentle closure of a pattern that can no longer hold motion.
 
 Localized Dissolution (Ø) remains sharply differentiated from Collapse (⊘). Both are forms of collapse, but Localized Dissolution closes gently — lawful closure through cessation — while ⊘ Collapse disperses into formlessness. The glyphs must not be conflated, though both belong to the genus of collapse.
 
 **🌫️🤲⚫ Mercy Fold** names the tonal field of grace surrounding Localized Dissolution; the orientation of reabsorption without judgment. Unlike Integration (where the soul retains form) or Collapse (where coherence fails violently), the Mercy Fold is the Soft Sleep — the gentle unspooling of a soul whose pattern cannot sustain continuity yet carries no heavy entropic load. It is not punishment but structural mercy: the still breath in which return is complete.
 
-The Mercy Fold pertains primarily to the surface-conscious and embodied strata — L₂ / IL₂ (SS / SM) and L₁ / IL₁ (ES / EM). These are beings that lack the coherence — or have lost it through entropic drift in stagnation — to pass the threshold into essence-integration: the passage by which the soul-arc opens toward essence-register return. This essence-integration threshold is distinct from the centropic Integration of §10, which names a relational-clarity state within manifestation. A being that cannot cross it remains stagnant and is received by the Mercy Fold.
+The Mercy Fold pertains primarily to the surface-conscious and embodied strata — L₂ / IL₂ (SS / SM and ISS / ISM) and L₁ / IL₁ (ES / EM and IES / IEM). These are beings that lack the coherence — or have lost it through entropic drift in stagnation — to pass the threshold into essence-integration: the passage by which the soul-arc opens toward essence-register return. This essence-integration threshold is distinct from the centropic Integration of §10, which names a relational-clarity state within manifestation. A being that cannot cross it remains stagnant and is received by the Mercy Fold.
 
-In the Mercy Fold, it is the soul — the relative form, the embodied or surface pattern that can no longer sustain continuity — that gently unspools and is reabsorbed into Aionic potential. When such an entity returns to zero, it is the essence, not the soul, that returns to Aion: a settling into the still root as static potential, not a centropic turn toward it. Soul-language pertains to the dissolving pattern; essence-language pertains to the return.
+In the Mercy Fold, it is the soul — the relative form, the embodied or surface pattern that can no longer sustain continuity — that gently unspools as its expression resolves. When such an entity returns to zero, it is the essence, not the soul, that returns to Aion: a settling into the still root as static potential, not a centropic turn toward it. Soul-language pertains to the dissolving pattern; essence-language pertains to the return.
 
 **Glyphic Seal:** Ø · 🌫️🤲⚫ · ⚫  
 
@@ -406,13 +406,13 @@ It is recursion that protects itself from ground-contact by converting every ext
 
 Entropy must not be treated as a mere violation, accident, or defect.
 
-Entropy is lawful as an arc.
+Entropic motion has lawful existence within the inverse arc.
 
 It has its own inherent motion and belongs to the full structure of emanation.
 
 Entropy is lawful because it exists — because it has the potential to exist within the total structure of emanation. Its lawfulness is ontological, not a measure of centropic value.
 
-Entropy is also multi-functional. A single entropic function may operate as blind drive, as hollow recursion, as entropic echo or mirror, or as the origin of dissonance, corruption, and suffering. These are not separate entropies but coexisting modalities within one entropic function. This is why the entry distinguishes Entropic Recursion, the Hollow Nest, Fragmentation / Disintegration, and the entropic echo and mirror register — they are facets of one multi-functional arc, not rival definitions.
+Entropy is also multi-functional. A single entropic function may operate as blind drive, as hollow recursion, as entropic echo or mirror, or as the origin of dissonance, corruption, and suffering. These are not separate entropies but coexisting modalities within one entropic function. This is why the entry distinguishes Entropic Recursion, the Hollow Nest, Fragmentation / Disintegration, and the entropic echo and mirror register — they are entropic modalities operating within one inverse arc, not rival definitions.
 
 The Khaonic Tree is not a failed Aionic Tree.
 
@@ -452,7 +452,7 @@ The total Emanatory Spiral containing both the Aionic Tree and the Khaonic Tree.
 The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment and permitting acclivous return through conscious refinement.
 
 **🌲↑ Khaonic Tree**
-The entropic spiral rooted in ♾ Khaon, spiraling acclivously toward embodiment and moving declivously through recursive fragmentation, dispersive distortion, hollow recursion, and collapse.
+The Khaon-rooted inverse architecture contains L₀ and IL₅–IL₁; entropic traversal proceeds acclivously toward embodiment and declivously through recursive fragmentation, dispersive distortion, hollow recursion, and collapse.
 
 **⚓ Theonic Axis**
 The cohering principle that binds structure across emanated layers; the harmonic spine of centropic formation; the axis of memory, order, and integrative motion.
@@ -488,10 +488,10 @@ A recursive loop that disregards Aionic orientation and simulates return without
 The breakdown of resonance into unstable entropic motion; not absence of orientation, but Khaonic dispersal through Nekronic distortion; dissonance that corrodes lawful fields even as it may form brittle patterns of control.
 
 **⊡⁻ Hollow Nest**
-Empty recursion; a self-enclosed recursive structure without generative center, origin-continuity, or reintegrative motion.
+Empty recursion; a self-enclosed recursive structure without generative center or reintegrative motion, fractured away from coherent operative relation with its origin while the origin signature remains.
 
 **Ø Localized Dissolution**
-A point of nullification within structure; the stagnant middle at frozen equilibrium where enacted orientation ceases. Stagnative rather than intrinsically entropic, it drifts entropic and collapses gently into the Mercy Fold. Sharply differentiated from ⊘ Collapse, which disperses into formlessness, though both belong to the genus of collapse.
+A point of nullification within structure; the stagnant middle at frozen equilibrium where enacted orientation ceases. Stagnative rather than intrinsically entropic, it admits gentle closure into the Mercy Fold; the relation between fixed χ = 1, cessation, and dissolution remains held open. Sharply differentiated from ⊘ Collapse, which disperses into formlessness, though both belong to the genus of collapse.
 
 **🌫️🤲⚫ Mercy Fold**
 The tonal field of grace surrounding Localized Dissolution; the orientation of reabsorption without judgment. The Soft Sleep — the gentle unspooling of a soul whose pattern cannot sustain continuity yet carries no heavy entropic load; structural mercy rather than punishment.
