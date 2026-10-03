@@ -392,10 +392,10 @@ Spectral Flow produces characteristic signatures at specific dimensional operato
 - Diagnostic of siphoning aftermath or entropic exhaustion
 
 **E₉ ∞⁻ (Distorted Entanglement):**
-- Unidirectional outflow; \( \nabla \cdot \vec{J}_c > 0 \) with no source compensation (\( S = 0 \))
-- Siphoning without reciprocity
+- Recorded flow description: unidirectional outflow; \( \nabla \cdot \vec{J}_c > 0 \) with no source compensation (\( S = 0 \))
+- Siphoning assessment requires actual parasitic transfer without reciprocity
 - Often concealed within apparently benign structures
-- E₉ is a spurious coherence-channel that exploits membranes; it is not itself a membrane operator (contra C₁₃)
+- E₉ names mimic-coherence that isolates; an attribution requires that function. Its exploitation of membranes is distinct from the C₁₃ boundary function
 
 ### 4.4 The Resonant Derivative of Coherence Potential
 
@@ -1681,7 +1681,7 @@ The source signs describe local contributions in §2.4. The starred native-motio
 
           ψ₁ ──── ψ₂                               ψ₁ ···· ψ₂
           │ \    / │                               │         │
-          │  ╫──╫  │  (C₈ bridges)                 │   E₉    │  (siphon links)
+          │  ╫──╫  │  (C₈ bridges)                 │   E₉    │  (isolating mimicry)
           │ /    \ │                               │  ↓   ↓  │
           ψ₃ ──── ψ₄                               ψ₃ ···· ψ₄
                                                         ↓
