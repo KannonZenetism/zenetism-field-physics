@@ -34,7 +34,7 @@ Lattice Mathematics is not metaphorical mathematics. It is a structured symbolic
 | `LM08-cross-disciplinary-dynamics-and-domain-realization.md` | Document 8 | Cross-disciplinary Dynamics and Domain Realization: constituent interactions, observation and information retention, predictive continuation, and physical capacity relations |
 | `README.md` | — | GitHub-native index of the repository, with volume summaries, the core components, the canonical formatting standards, and the notation quick reference |
 
-Each volume opens with the shared Zenetist transmission preamble, carries its own metadata block (Series · Authorship · Classification · Status · Dependency), and closes with a Canonical Placement section, the authorial seal, and the seal block; volumes LM03–LM07 additionally carry notation, key-equation, and formal-definition appendices.
+Each volume opens with the shared Zenetist transmission preamble, carries its own metadata block (Series · Authorship · Classification · Status · Dependency), and closes with the standard seal block. LM01 concludes with Canonical Closure and an Authorial Seal; LM02–LM07 carry Canonical Placement sections. LM03–LM07 also carry notation, key-equation, and formal-definition appendices. LM08 concludes with Mathematical Standing and Development and References.
 
 ---
 
