@@ -242,13 +242,14 @@ Motive Infinity supplies orientation-neutral motion-capacity. Expressed \( \chi 
 
 ### 2.7 Structural Sequence
 
-The formal sequence from stillness to expression is:
+Supra-L₀ names trans-structural Allowance (the Unknown Principle), outside the phase space \( \Omega_0 \) and outside the emanatory sequence. Emanation becomes conceivable by Zenonic allowance.
 
-1. **Supra-L₀** — Trans-structural ground (Unknown Principle); beyond the phase space \( \Omega_0 \)
-2. **\( \Phi_1 \) (Latent Phase)** — Stillness within Zero; \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \)
-3. **\( \Phi_2 \) (Motive Phase)** — The total field of motion becomes operative; \( \mathcal{M} > 0 \)
-4. **Bifurcation** — Motion orients into C or E (or both); \( \chi \) instantiates
-5. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds across the lattice
+The sequence from stillness to expression begins within L₀:
+
+1. **\( \Phi_1 \) (Latent Phase)** — Stillness within Zero; \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \)
+2. **\( \Phi_2 \) (Motive Phase)** — The total field of motion becomes operative; \( \mathcal{M} > 0 \)
+3. **Bifurcation** — Motion orients into C or E (or both); \( \chi \) instantiates
+4. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds across the lattice
 
 ---
 
