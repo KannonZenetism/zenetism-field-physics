@@ -534,7 +534,7 @@ It is the condition preventing skepticism from becoming another absolutism.
 > Radical Agnosis withholds epistemic certainty from this, not-this, both, and neither without converting that suspension into a fourfold ontological negation.
 
 > **Cogito Limitation Principle**  
-> The apparent immediacy of thought does not by itself establish a metaphysically determinate thinker, act, inference, or mode of being.
+> The apparent immediacy of thought does not establish a metaphysically determinate thinker, act, inference, or mode of being.
 
 > **Provisional Grammar Principle**  
 > Words such as "I," "think," "know," "experience," and "exist" may remain pragmatically necessary while their metaphysical status remains suspended.
@@ -545,7 +545,7 @@ It is the condition preventing skepticism from becoming another absolutism.
 > **Inner-Evidence Limitation Principle**  
 > The apparent immediacy of consciousness does not independently establish the final ontology of consciousness, subjectivity, experience, or identity.
 
-> **Non-Nihilism Principle**  
+> **Non-nihilism Principle**  
 > Radical Agnosis does not deny being, knowledge, meaning, or structure. It denies that uncertainty may be escaped by granting unexamined finality to affirmation or negation.
 
 > **Self-Application Principle**  
