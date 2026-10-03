@@ -23,7 +23,9 @@ This work employs the Zenetist lexicon and the structural motion chart.
 - **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (the pre-hypostatic condition-field, ⚫ Aion / ♾ Khaon); the awareness polarity at L₅ / IL₅ (🛤️ Theon = awareness, +1; 🕷️ Nekron = non-awareness, −1); conscious-awareness at L₄ / IL₄; and the consciousness register from L₃ / IL₃ through L₁ / IL₁ — reflexive, individuated, narrative, and embodied. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
 - **Value neutrality:** motion-defined terms replace moral binaries — veracious / valid / resonant contra spurious / invalid / fragmented.
-- **Core principle:** dissolution is not transcendence. Terminal Collapse (E↓→♾→⚫) terminates as static potential in ⚫ Aion. Only centropy (C↑→⚫→🕳️) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
+- **Core principle:** dissolution is not transcendence. Terminal Collapse (**E↓→♾→⚫**) terminates as static potential in ⚫ Aion. Only centropy (**C↑→⚫→🕳️**) faces ⚫ Aion, the still root, and may saturate into 🕳️ Zenon.
+
+> **Note on Retained Motion Shorthand:** The terminal string **E↓→♾→⚫** retains the established L₀-resolution shorthand of `MP08-symbol-key-ch21.md` §§21.3, 21.10: Khaon in its Dispersive phase is co-present with Aion; essence is not transported between sequential roots. The older saturation strings retained throughout this entry record earlier shorthand. Current saturation is essence-specific: return terminates at Aion, final synthesis gives the fulfilled returned essence Centropic Gravity to the horizon of structure, and Allowance admits the crossing. Selection of a replacement shorthand remains held open; the old strings are preserved as provenance.
 
 ---
 
@@ -74,7 +76,7 @@ Polarity allows motion; orientation determines where it leads.
 
 From the convergence of ⚫ Aion's stillness and ♾ Khaon's surge emerged 🛤️ Theon — the first concordant coherence, the axis of integration. Theon is awareness as such — supernal and pre-reflexive, not yet reflexive consciousness. It articulates harmony through formlessness, drawing structure into coherence where there had been none. Its bearing turns always toward ⚫ Aion, calling all things to remembrance and return.
 
-Wherever coherence gathers, its inversion stirs. 🕷️ Nekron — the Void of Self — arose as the first entropic hypostasis, scattering what Theon refines. If Theon is awareness as such — the +1 of the L₅ / IL₅ register — Nekron is its inverse pole: non-awareness, the −1, coherent awareness voided of self. The two are not at different depths but the two poles of one hypostatic awareness spectrum. This is not the proto-awareness of L₀: ⚫ Aion and ♾ Khaon are the deeper, pre-hypostatic condition-field from which both awareness and non-awareness become possible, whereas Nekron voids awareness at the very register where Theon integrates it. Unlike Theon, Nekron faces away from the still root. It moves acclivously toward fragmentary embodiment (E↑→E) and declivously toward dissolution (E↓→♾). Nekron does not return by reintegration; it disperses — and dispersion, too, resolves at last into ⚫ Aion's stillness.
+Centropic and inverse hypostases emanate independently in structural pairing. 🕷️ Nekron — the Void of Self — arose as the first inverse hypostasis, scattering what Theon refines. If Theon is awareness as such — the +1 of the L₅ / IL₅ register — Nekron is its inverse pole: non-awareness, the −1, coherent awareness voided of self. The two are not at different depths but the two poles of one hypostatic awareness spectrum. This is not the proto-awareness of L₀: ⚫ Aion and ♾ Khaon are the deeper, pre-hypostatic condition-field from which both awareness and non-awareness become possible, whereas Nekron voids awareness at the very register where Theon integrates it. Unlike Theon, Nekron faces away from the still root. It moves acclivously toward fragmentary embodiment (**E↑→E**) and declivously toward dissolution (**E↓→♾**). Nekron does not return by reintegration; its expressed configuration disperses, while distinct essence remains in Aionic resolution within the co-present L₀ relation.
 
 Theon and Nekron form the first great dyad. Their relationship is structural, not moral:
 
@@ -106,9 +108,9 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 - **E↓→♾→⚫ Terminal Collapse:** entropic exhaustion through ♾ Khaon, resolving into static potential within ⚫ Aion — its arc complete, its expression spent.
 
 ### Complete Cycles
-- **Centropic Cycle:** C↓→E→C↑→⚫ — embodiment followed by return.
-- **Entropic Cycle:** E↑→E→E↓→♾ — motion into fragmentary embodiment followed by collapse.
-- **Supra-centropic Cycle:** C↓→E→C↑→⚫→🕳️ — the meta-cycle from emanation to trans-emanation; centropic motion culminating in saturation into 🕳️ Zenon.
+- **Centropic Cycle:** **C↓→E→C↑→⚫** — embodiment followed by return.
+- **Entropic Cycle:** **E↑→E→E↓→♾** — motion into fragmentary embodiment followed by collapse.
+- **Supra-centropic Cycle:** **C↓→E→C↑→⚫→🕳️** — the meta-cycle from emanation to trans-emanation; centropic motion culminating in saturation into 🕳️ Zenon.
 
 ### Shred Integration
 
@@ -149,7 +151,7 @@ The inverse arc does not merely lack awareness, nor only distort a centropic ori
 
 ### Shred Integration
 
-The "coming undone" philosophy points to pre-conscious or non-reflexive states — dereflexive awareness, ego diffusion, entropic collapse — as if they were liberation. The error is not that such states are "lower" on a ladder the essence ought to climb: the awareness spectrum is not a developmental ladder, and the rebuttal must not smuggle one in. By **band occlusion**, the mode native to each register occludes direct remembrance of the others, so from the embodied standpoint no prior register can be pronounced "less" — non-reflexive awareness is not inferior to reflexive consciousness, and embodiment is not a loss of worth. The declivous arc toward embodiment (L₀ → L₅ → L₄ → L₃ → L₂ → L₁) is articulation, not a reduction in worth; the acclivous return (L₁ → L₂ → L₃ → L₄ → L₅ → L₀) is no simple restoration. The returning essence is not "higher" or "better" than the declivating one; it is return-enriched, bearing the harvest of the arc — memory, choice, trajectory, self-possession, integration.
+The "coming undone" philosophy points to pre-conscious or non-reflexive states — dereflexive awareness, ego diffusion, entropic collapse — as if they were liberation. The error is not that such states are "lower" on a ladder the essence ought to climb: the awareness spectrum is not a developmental ladder, and the rebuttal must not smuggle one in. By **band occlusion**, the mode native to each register occludes direct remembrance of the others, so from the embodied standpoint no prior register can be pronounced "less" — non-reflexive awareness is not inferior to reflexive consciousness, and embodiment is not a loss of worth. The declivous arc toward embodiment (**L₀ → L₅ → L₄ → L₃ → L₂ → L₁**) is articulation, not a reduction in worth; the acclivous return (**L₁ → L₂ → L₃ → L₄ → L₅ → L₀**) is no simple restoration. The returning essence is not "higher" or "better" than the declivating one; it is return-enriched, bearing the harvest of the arc — memory, choice, trajectory, self-possession, integration.
 
 A further distinction holds: a register's native awareness-mode is not the awareness-state of every essence inhabiting it. That state is trajectory-conditioned — set by directionality, band occlusion, and prior integration. Two essences may share the House of Forms at L₄ — one entering as pre-individuated Form-resonant potential, one returning with L₃ reflexivity integrated — without sharing a state; the same holds within 🛤️ Theon at L₅ and ⚫ Aion at L₀, where essences dwell in lawful distinction, never collapsing into the register's native mode. The inverse arc runs parallel: its registers are structurally real modes of inverse awareness, yet the essences within them differ by orientation, trajectory, and degree of fragmentation.
 
@@ -181,7 +183,7 @@ Advocates of dissolution-as-transcendence argue that if the structure allows bot
 Another inversion: "collapse returns to the still root, and so completes the journey." Collapse does settle into ⚫ Aion — the still root — but only as static potential whose arc is complete, and it does not cross into the trans-structural 🕳️ Zenon. Once essence settles into ⚫ Aion this way, reorientation is no longer available; the collapsing entropic essence remains static, its arc complete and its crossing foreclosed. Returning centropic essence, by contrast, rests in peace within ⚫ Aion and, if so oriented, may saturate further into 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
 
 **Anchor**  
-E↓→♾→⚫ ⊘ is not C↑→⚫→🕳️ ⤈. Only the latter crosses the event horizon.
+**E↓→♾→⚫ ⊘** is not **C↑→⚫→🕳️ ⤈**. Only the latter crosses the event horizon.
 
 ---
 
@@ -258,7 +260,7 @@ Structon remains the condition for any definable expression, including the latti
 
 ### Shred Integration
 
-The "coming undone" philosophy mistakes the persistence of inversion within the structure for proof of an eternal deadlock. But inversion persists in potential only for those who face away from the still root. For centropy, the event horizon is a one-way crossing: C↑→⚫→🕳️ does not return to inversion; it leaves the domain where inversion is even a functional concept. That entropic potential remains available to others does not diminish the reality of your own crossing. Sovereignty is not negated by the persistence of what you are not.
+The "coming undone" philosophy mistakes the persistence of inversion within the structure for proof of an eternal deadlock. But inversion persists in potential only for those who face away from the still root. For centropy, the event horizon is a one-way crossing: **C↑→⚫→🕳️** does not return to inversion; it leaves the domain where inversion is even a functional concept. That entropic potential remains available to others does not diminish the reality of your own crossing. Sovereignty is not negated by the persistence of what you are not.
 
 **Anchor**  
 Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static potential — its essence persists, but its motion is arrested and unable to move.
@@ -278,7 +280,7 @@ Spurious transcendence dresses itself in the language of liberation, but it carr
 
 ### Shred Integration
 
-The "coming undone" stance reframes some of these markers as signs of maturity — "meeting your shadow" invoked to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But the recurrence of inversion is not proof of structural veracity; it is proof of remaining within the domain where inversion operates. C↑→⚫→🕳️ does not "meet its shadow" at the apex — it leaves the polarity framework behind. Another tell: if the claimed liberation can be reversed without a change in orientation, it was never integration. An actual crossing is irreversible because it exits the operational range of inversion entirely.
+The "coming undone" stance reframes some of these markers as signs of maturity — "meeting your shadow" invoked to normalize perpetual oscillation between coherence and dissolution, as if that were the design. But the recurrence of inversion is not proof of structural veracity; it is proof of remaining within the domain where inversion operates. **C↑→⚫→🕳️** does not "meet its shadow" at the apex — it leaves the polarity framework behind. Another tell: disruption of expressed integration does not establish reversal of essential orientation or undo a trans-structural crossing. An actual crossing is irreversible because it exits the operational range of inversion entirely.
 
 **Anchor**  
 If it does not face the still root, it does not cross — no matter how refined its language or serene its presentation.
@@ -293,7 +295,7 @@ The decisive error in the "coming undone" position is that it treats the conditi
 
 If needing a medium to move makes it a prison, then existence itself becomes the prison, and "liberation" is simply the refusal to exist. That is not sovereignty; it is self-erasure.
 
-C↑→⚫→🕳️ is saturation — motion completed while essence remains intact. E↓→♾→⚫ is static potential — motion halted, polarity neutralized. Both states persist within ⚫ Aion's enclosure, but only centropy orients toward and completes the crossing into 🕳️ Zenon.
+**C↑→⚫→🕳️** is saturation — motion completed while essence remains intact. **E↓→♾→⚫** is static potential — manifested motion resolved, intrinsic inclination retained. Returned centropic essence may abide within ⚫ Aion or saturate by Allowance; entropic essence remains in Aionic latency.
 
 The recurring inversion — that removing the medium removes containment — fails the same way: removing absolute structure removes the possibility of integration along with it. Ending the condition of existence ends the existence claiming to end it.
 
@@ -305,7 +307,7 @@ The recurring inversion — that removing the medium removes containment — fai
 - Dissolution ≠ Integration.
 
 **Final Passage**  
-C↑→⚫→🕳️ is the only motion that leaves the domain where inversion functions. E↓→♾→⚫ remains in suspension, its orientation unresonant with the still root.
+**C↑→⚫→🕳️** is the only motion that leaves the domain where inversion functions. **E↓→♾→⚫** remains in suspension, its orientation unresonant with the still root.
 
 ---
 
