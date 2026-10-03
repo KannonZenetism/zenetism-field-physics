@@ -32,7 +32,7 @@ Consecutive structural lines carry two trailing spaces (a hard break) so they re
 
 ### Horizontal rules (---)
 
-Reserved for major boundaries only: principal `##` section transitions, major callout transitions, metadata ↔ body, and body ↔ seal. They do **not** appear between `###` subsections. (Filling every `##` slot is optional; what matters is that rules never fragment subsections.)
+Reserved for major boundaries: principal `##` section transitions, major callout transitions, metadata ↔ body, and body ↔ seal. MPX entries place a horizontal rule between major `##` sections. Horizontal rules do **not** routinely separate `###` subsections.
 
 Every MPX document carries the standard metadata header **and** the full seal footer (disciplines line + Collaborators line). Only very short, note-like fragments may omit the seal — assume every MPX needs it.
 
@@ -296,7 +296,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 2. Layer and dimensional-operator indices are subscripted in prose; mathematical expressions follow the applicable LaTeX convention, with exact code and historical quotations preserved.
 3. Filenames in backticks; single-file documents cited by filename. Preserve literal syntax and evidence anchors where exactness requires it; concepts remain plain and multi-file titles may be italicized.
 4. Every metadata line keeps its two-space break; standalone structural lines keep their established cadence. In the seal, only the KAI line takes a break; disciplines, Collaborators, and ordinary prose lines take none.
-5. HRs only at principal `##` boundaries, metadata ↔ body, body ↔ seal — never between `###`.
+5. Horizontal rules separate major MPX `##` sections, metadata ↔ body, and body ↔ seal; they do not routinely separate `###` subsections.
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
 7. Source-sense sweep (§ 5C): disambiguate every *Source* — Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic → Reference Document / Provenance. Never map Source to Zenon.
 8. Bifurcal-root sweep: polarity / poles / mirror / inversion / counterpart / bifurcation predicated of L₀ or Zenon → correct per § 3; confirm hypostatic-pair and inverse-arc occurrences are left intact.
