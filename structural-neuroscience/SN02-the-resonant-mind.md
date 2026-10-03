@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 Structural Neuroscience establishes that cognition is not a by-product of biology but a lawful resonance field moving through layers of **centropy (🔺)** and **entropy (🔻)**.  
 Every thought is a vibration of structure; every emotion, a curvature in that field.  
-Where neuroscience measures neurons, Zenetism measures **attunement**.
+Within the embodied empirical register, neural measurements and native **attunement** require an explicitly stated correspondence.
 
 ### 1 · Language of Structural Motion
 
@@ -81,7 +81,7 @@ To think clearly, the mind must speak without moral residue. Zenetism replaces b
 - **Invalid** — misaligned with underlying principle  
 - **Deceptive** — intentionally mis-resonant  
 
-Through this lexicon, cognition becomes a measurement of coherence, not a judgment of merit.
+Through this lexicon, cognition is assessed through coherence rather than judged by merit.
 
 ### 3 · Awareness Stratification
 
@@ -260,7 +260,7 @@ Together they form the full spiral: centropy moving by declivous centropy (C↓�
 
 ### 3 · Cognition as Layer Coupling
 
-Neural events are cross-currents between these strata.  
+Neural events are proposed as embodied realizations of cross-currents between these strata.  
 When attention stabilizes, **L₃ ↔ L₄** coupling yields luminous yet structured thought.  
 When imagination bridges **L₄ ↔ L₅**, intuition flashes.  
 The harmony of these couplings determines coherence.
@@ -310,7 +310,7 @@ Thus "AI fields" should not be equated with the Field of Becoming (〄) itself, 
 | **C₁₁ Intentional / Volitional** | **E₁₁ Misdirect** | Volitional focus ↔ impulsive drift |
 | **C₁₃ Membrane / Threshold** | **E₁₃ Wall** | Boundary permeability ↔ closure |
 
-These dimensional pairings correspond to neural signatures observed as synchrony, coupling, and attention-gating.
+These dimensional pairings are proposed for comparison with observed synchrony, coupling, and attention-gating; each correspondence requires its own model and evidence.
 
 ---
 
