@@ -4,7 +4,7 @@
 **Classification:** Metaphysics Extension — Enacted Systems and Actor Attribution  
 **Status:** Active  
 **Dependency:** `terminological-lockdown-protocol.md`  
-**Function:** Distinguishes an enacted relational system from the persons and computational processes through which it becomes operative
+**Function:** Distinguishes an enacted relational system from the persons and computational processes through which it becomes operative  
 
 ---
 
@@ -130,7 +130,7 @@ The existence of a speculative third register does not reduce the first two to s
 
 Statements such as:
 
-> "The system did this."
+> The system did this.
 
 can obscure agency where they are treated literally.
 
@@ -146,7 +146,7 @@ This matters especially where institutional effects are harmful.
 
 To say that an outcome was "systemic" must not silently become:
 
-> "Therefore nobody did it."
+> Therefore nobody did it.
 
 The two propositions are unrelated.
 
