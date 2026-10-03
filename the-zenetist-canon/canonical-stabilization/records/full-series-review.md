@@ -1,5 +1,308 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Supplemental Correction — Structural Logic and the Empirical Domain
+
+**Baseline:** [`e1027f72b1ca59576a6d84ba700d4cadf33947db`](https://github.com/KannonZenetism/zenetism-field-physics/tree/e1027f72b1ca59576a6d84ba700d4cadf33947db). This supplement is additive. Every preceding audit record, SP / MP completion record, LM disposition, held question, and original status count remains preserved in the report that follows. Earlier completion indexes describe their bounded passes; they did not exhaust the structural / empirical wording issue recorded here.
+
+**Clarification being implemented:** L₁ / IL₁ is the empirical domain within the Zenetist architecture. Physical reality is structural. Structural logic may be applied specifically to that embodied domain; structural and empirical are not opposing categories. This clarification is recorded in the existing report rather than in a new determination file.
+
+The full D02 and D12 determinations already establish that empirical inquiry belongs within L₁ / IL₁ and that Zenetism is neither reducible to empirical methods nor categorically non-empirical. The earlier SP and LM passes missed or retained the identified exclusionary wording. The correction repairs that omission; the existing determinations are unchanged. D03, D05, and D22 retain their relevant domain, parameter, and construction boundaries.
+
+**Scope and standing:** This is one targeted semantic correction across the active corpus, not the SN-wide implementation pass. Eleven exact edits affect nine source / guidance files. Nine are confirmed active exclusion or category-confusion sites; the other two clarify underinclusive scope wording in SP12 and SN03 while retaining their valid calibration boundaries. The regular LM README, both SP READMEs, and both SN READMEs were checked and retained. Defined formal quantities remain formally evaluable within their stated domains; domain-specific physical and clinical claims retain their observables, mappings, calibration, evidence, and unresolved construction requirements. No new metric, measure, equation, theorem, empirical result, registered name, or dimensional placement is supplied.
+
+**Publication:** The source correction is recorded at [`88333c352c85be1a2db270fe56454f4c5b72b486`](https://github.com/KannonZenetism/zenetism-field-physics/commit/88333c352c85be1a2db270fe56454f4c5b72b486). The report's own publication follows that source commit; its commit is the external timestamped record. Historical commits and timestamps are unchanged. No Zenodo record or payload was edited.
+
+### Exact Structural Physics Answer
+
+The error was present in Structural Physics files. The explicit exclusions were SP04 §4.5 ("not empirical physics" and the blanket spacetime-measurement exclusion), SP03 §8.1 and SP04 §14.1 ("empirical confirmation is beyond the framework's reach"). SP04 §13.2 additionally conflated expressed prevalence with empirical occurrence frequency. SP12 §8.3 carried a structural-evaluation / current-instrumentation contrast; the correction states the particular unestablished empirical measurement while preserving its formal and diagnostic scope.
+
+The SP deposit guide's older "structural, not empirical" sentence had already been corrected by [commit e15a11b7](https://github.com/KannonZenetism/zenetism-field-physics/commit/e15a11b7e72667f8693dd285ed2ff84410e36047). Its current L₁ / IL₁ statement and the ordinary SP README remain lawful. Thus a corrected README did not mean that all core-volume occurrences had been removed.
+
+### Source Changes and Exact Evidence
+
+All baseline line numbers in this supplement refer to `e1027f72b1ca59576a6d84ba700d4cadf33947db`. Current line numbers can shift after the note replacement. Each record states the full replacement span, not a direction for global substitution.
+
+#### SE01 — lattice-mathematics/00-README.md — About this deposit
+
+**Baseline:** [line 19](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/lattice-mathematics/00-README.md#L19)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** Architect clarification; full D02 and D12; removes categorical exclusion while retaining domain-specific evidence.
+
+**Before:**
+
+```text
+Its formalism is structural, not empirical: the field quantities, operators, and diagnostic conditions are defined within the Zenetist framework and are not claims of measurability with current instrumentation.
+```
+
+**After:**
+
+```text
+Its formalism articulates structural logic across the Zenetist architecture. Physical reality is structural, and L₁ / IL₁ is the embodied empirical domain to which that logic may be specifically applied. The field quantities, operators, and diagnostic conditions retain their defined domains; empirical applications state the particular observables, mappings, and evidence through which their claims are assessed.
+```
+
+#### SE02 — lattice-mathematics/LM02-mathematical-commentary.md — §4.2 PDE Evolution
+
+**Baseline:** [line 163](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/lattice-mathematics/LM02-mathematical-commentary.md#L163)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D12; LM04 temporal scope; zenetism-as-cross-disciplinary-grammar.md Appendix A.1 and Appendix B.8 time-parameter conventions. Preserves parameter typing without excluding physical structure.
+
+**Before:**
+
+```text
+LM01's \( t \) should be read as a provisional evolution parameter; in the mature formalism, evolution is expressed in structural time \( \tau \) (LM04), and \( t \mapsto \tau \) wherever the evolution is structural rather than physical.
+```
+
+**After:**
+
+```text
+LM01's \( t \) is a provisional evolution parameter. LM04 expresses evolution in structural time \( \tau \). A physical articulation at L₁ / IL₁ specifies the relation between structural time and the physical time parameter of its declared model.
+```
+
+#### SE03 — structural-physics/SP03-expression-ratio-mathematics.md — §8.1 Contra-Pairing
+
+**Baseline:** [line 459](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/SP03-expression-ratio-mathematics.md#L459)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D12; preserves open actualization and structural pairing, removes framework-wide exclusion.
+
+**Before:**
+
+```text
+Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+```
+
+**After:**
+
+```text
+Whether these pairings are actualized remains an open question. The structural architecture entails the pairings; empirical confirmation of their physical actualization remains held open pending specified observables, correspondence conditions, and evidence within the embodied L₁ / IL₁ domain.
+```
+
+#### SE04 — structural-physics/SP04-orientation-field-dynamics.md — §14.1 Contra-Pairing
+
+**Baseline:** [line 744](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/SP04-orientation-field-dynamics.md#L744)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D12; paired propagation of SP03 §8.1 into SP04 §14.1.
+
+**Before:**
+
+```text
+Whether these pairings are actualized remains an open question. The structural architecture entails them; empirical confirmation is beyond the framework's reach.
+```
+
+**After:**
+
+```text
+Whether these pairings are actualized remains an open question. The structural architecture entails the pairings; empirical confirmation of their physical actualization remains held open pending specified observables, correspondence conditions, and evidence within the embodied L₁ / IL₁ domain.
+```
+
+#### SE05 — structural-physics/SP04-orientation-field-dynamics.md — §4.5 Ontological Status note
+
+**Baseline:** [line 260](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/SP04-orientation-field-dynamics.md#L260)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** Architect clarification; full D05 and D12. Retains distinction between the native parameter and a material force and held correspondence; repairs exclusion and its dependent scope wording.
+
+**Before:**
+
+```text
+> **Note on the Ontological Status of \( \chi \):**  
+> Although \( \chi \) is expressed through differential equations and field-like dynamics, it must not be interpreted as a physical field in the material sense.  
+>
+> \( \chi \) is not a force, substance, or measurable quantity within spacetime.  
+> It is a **structural orientation parameter** determining the directionality of expression within the hypostatic lattice.  
+>
+> \( \chi \) belongs to the order of **ontological inclination**, not empirical physics.  
+> Its mathematical representation is **formal and analogical**, not reductionist.  
+>
+> Thus:  
+> • **\( \chi \) is not located in the universe**  
+> • **The universe is located within \( \chi \)**  
+```
+
+**After:**
+
+```text
+> **Note on the Ontological Status of \( \chi \):**  
+> \( \chi \) is a **structural orientation parameter** for expressed orientational prevalence within the hypostatic lattice. It is distinct from intrinsic essential inclination, a material substance, and a physical force.  
+>
+> Physical reality is structural. L₁ / IL₁ is the embodied empirical domain in which the orientation logic may receive a specified physical realization. Such a realization states the observables, correspondence conditions, and evidence for the particular claim; the empirical correspondence remains held where these are unspecified.  
+>
+> The full scope of \( \chi \) spans the architecture of expression. A domain-specific physical realization articulates that scope at embodiment; \( \chi \) characterizes a universe's expressed orientation rather than naming a spatial location.  
+```
+
+#### SE06 — structural-physics/SP04-orientation-field-dynamics.md — §13.2 Non-Statistical Multiverse
+
+**Baseline:** [line 722](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/SP04-orientation-field-dynamics.md#L722)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D05 expressed prevalence; D12. Preserves the non-probabilistic χ distinction without structural / empirical opposition.
+
+**Before:**
+
+```text
+To read \( \chi \) as a measure of prevalence is to confuse structural inclination with empirical frequency — a category error analogous to treating geometric curvature as a probability distribution.
+```
+
+**After:**
+
+```text
+Expressed orientational prevalence, named by \( \chi \), is distinct from the statistical frequency with which universes occur.
+```
+
+#### SE07 — structural-physics/SP12-structural-diagnostics-and-field-forensics.md — §8.3 Standing of Diagnostic Claims
+
+**Baseline:** [line 552](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/SP12-structural-diagnostics-and-field-forensics.md#L552)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D12; existing SP12 §2 holds. Replaces categorical contrast with claim-specific standing.
+
+**Before:**
+
+```text
+- Field signatures are structural evaluations within the Zenetist framework; their standing here is structural evaluation rather than physical measurement with current instrumentation
+```
+
+**After:**
+
+```text
+- Field signatures describe structural configurations; empirical examination of embodied configurations belongs within L₁ / IL₁. The proposed empirical measurement of these signature quantities remains held where its observables, mappings, and measurement procedures are unspecified
+```
+
+#### SE08 — structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md — §10.3 Register of the Claim
+
+**Baseline:** [line 458](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-neuroscience/SN03-neurodivergent-cognition-and-the-architecture-of-mind.md#L458)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** D12; retains proposed neural and clinical correspondences, identifies empirical inquiry inside same architecture.
+
+**Before:**
+
+```text
+- Soul / Mind architecture is a structural description within the Zenetist framework; its register is orientation and coherence, and physical measurement with current instrumentation belongs to the empirical register
+```
+
+**After:**
+
+```text
+- Soul / Mind architecture describes cognitive configuration through orientation and coherence. Its embodied physical realization belongs to the empirical L₁ / IL₁ domain within the same structural architecture; the proposed correspondences in §10.2 retain their stated evidentiary requirements
+```
+
+#### SE09 — the-zenetist-canon/canonical-stabilization/conceptual-lockdown-protocol.md — Epistemic Register Constraint
+
+**Baseline:** [line 420](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/the-zenetist-canon/canonical-stabilization/conceptual-lockdown-protocol.md#L420)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** Full D02 / D12 already establish inclusion; active propagation guidance repaired narrowly without altering determinations.
+
+**Before:**
+
+```text
+**Constraint.** No passage may present the Zenetist formalism as empirically confirmed or as a claim about measured physical fact. The formalism encodes structural logic and overlays physics interpretively.
+
+**Lawful account.**
+
+- Claims are *structurally diagnosable*, not "measurable and testable"; measurement is a separate, permitted question, never a substitute for structural confirmation
+- The mathematics carries structural logic; its physical interpretation is an overlay, not an assertion of empirical result
+- This pairs with the multiverse recalibration: write "structurally anticipated," not "structurally necessary" or empirically established
+
+**Lawful grammar.** Write that a structure is "structurally diagnosable" or "structurally anticipated"; reserve "measurable," "testable," and "confirmed" for explicitly flagged empirical questions held apart from the structural claim.
+
+**Reference Document:** SP03 §8.1; SP04 §2.3; the epistemic-recalibration pass (multiverse language).
+```
+
+**After:**
+
+```text
+**Constraint.** Structural and empirical are not opposing categories. Physical reality is structural, and L₁ / IL₁ is the embodied empirical domain within the Zenetist architecture. Structural logic may be applied specifically to that domain; each claim retains the standing established by its definitions, methods, and evidence.
+
+**Lawful account.**
+
+- Metaphysical structure, mathematical formalization, physical realization, empirical observation, and clinical interpretation retain their distinct scopes within one architecture
+- Formal quantities retain their declared domains. An empirical application specifies the relevant observables, correspondence, and measurement procedure; a proposed empirical correspondence lacking that specification remains held open
+- Structural assessment and empirical measurement may address the same embodied reality. Neither a formal definition nor a structural interpretation constitutes empirical confirmation without the corresponding evidence
+- Multiversal possibilities remain structurally anticipated where actualization is held open; empirical confirmation of a particular actualization remains an inquiry within the embodied register
+
+**Lawful grammar.** Name what has been established: a structural relation, a formal result, a proposed empirical correspondence, or a supported empirical finding. State the particular unresolved mapping or evidentiary condition where a claim remains held, rather than excluding empirical inquiry from the framework.
+
+**Reference Document:** `sp-lm-sn-architect-decision-sheet.md` D02 and D12; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §10.3.
+```
+
+#### SE10 — the-zenetist-canon/corpus-infrastructure/collaborator-onboarding-protocol.md — Doctrinal Tripwires, item 13
+
+**Baseline:** [line 60](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/the-zenetist-canon/corpus-infrastructure/collaborator-onboarding-protocol.md#L60)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** Direct active propagation of Conceptual Lockdown empirical exclusion; coordinated correction.
+
+**Before:**
+
+```text
+13. **Epistemic register.** The formalism is *structurally diagnosable* and *structurally anticipated* — never empirically confirmed, measured, or "structurally necessary." Measurement is a separate, flagged question, never a substitute for structural confirmation.
+```
+
+**After:**
+
+```text
+13. **Epistemic register.** Physical reality is structural, and L₁ / IL₁ is the embodied empirical domain within Zenetism. Apply structural logic specifically to that domain while retaining each claim's formal and evidentiary standing. Empirical measurement and confirmation require the particular observables, correspondence, and evidence; proposed empirical correspondences remain held open where those conditions are unspecified. Follow the full D02 and D12 determinations in `sp-lm-sn-architect-decision-sheet.md`.
+```
+
+#### SE11 — structural-physics/notes/cross-series-propagation-ledger.md — L9 current-reading note
+
+**Baseline:** [line 96](https://github.com/KannonZenetism/zenetism-field-physics/blob/e1027f72b1ca59576a6d84ba700d4cadf33947db/structural-physics/notes/cross-series-propagation-ledger.md#L96)  
+**Disposition:** completed in the source correction; scope and evidence qualifications retained  
+**Basis:** Additive current-reading note; historical L9 body preserved byte-exact.
+
+**Before:**
+
+```text
+## L9 — Epistemic register (SP01)
+```
+
+**After:**
+
+```text
+## L9 — Epistemic register (SP01)
+
+**Current reading:** The categorical empirical exclusion in the recorded L9 wording is superseded. Physical reality is structural, and L₁ / IL₁ is the empirical domain within Zenetism. Apply structural logic to that domain while retaining specified quantities, observables, correspondence conditions, and evidentiary standing. The full D02 and D12 determinations in `sp-lm-sn-architect-decision-sheet.md` and the Epistemic Register Constraint in `conceptual-lockdown-protocol.md` establish this reading. The earlier L9 text that follows remains a propagation record, not current guidance to exclude measurement or empirical confirmation. `full-series-review.md` records the targeted correction and its verification.
+```
+
+### Contextual Retentions and Search Coverage
+
+- Repository-wide dependency discovery covered 701 Markdown files and seven additional text files, all matched to the complete remote tree. Searches included empirical / empirical-science wording, measurement and instrumentation, structural / physical contrasts, metaphysical / formal register contrasts, and reach / exclusion language. Matches were read in context; quoted records, archived bodies, and active guidance were distinguished. This targeted semantic search is not a new full-line audit of every file or an image / PDF audit
+- SP01–SP12, LM01–LM08, and SN01–SN12 were included, together with their ordinary and deposit READMEs, extensions, active references, and the other series discovered through the whole-repository search. SN01 remains obsolete / archived and unchanged
+- MP01–MP12, FP01–FP14, MPX, and Structural Forensics searches disclosed no further confirmed blanket exclusion. Metaphysical register, mythopoetic cadence, conditional multiverse actualization, observed physical quantities, and specific uncalibrated constructions remain intact
+- SP11 §8.1's division of descriptive work with conventional physics was examined as ambiguous in isolation. Its §8.3 explicitly includes empirical inquiry within the embodied register and preserves methods and evidence. Retained as a scoped account, not read as a ban on empirical application
+- `objections-and-dispositions.md` §1 places its metaphysical articulation in its relevant philosophical lineage. The surrounding frame and conclusion retain register-stable empirical warrant. Retained; no MP / MPX cadence edit was required
+- `SP07-energy-ontology-and-spectral-flow.md` and its ordinary README distinguish native resonance from physical energy / force; this is an object distinction, not an exclusion of empirical inquiry. Retained
+- LM08, SN12, the newer LMX / SPX / SNX domain-realization work, and the analytic vocabulary's §10.3 retain lawful physical variables, mathematical conditions, and evidence requirements. None was weakened or rewritten
+- `structural-empirical-interface.md` carries "Veracious Archive" status. Its historical body retains structural / empirical contrast and current-instrumentation wording. It is preserved as a historical body, not adopted as current exclusionary guidance. D02 / D12 and the corrected active references state the present reading
+- The propagation ledger L9 receives an additive current-reading note. The earlier "Canonical form," "Done," "Pending," and recorded consistency text remain historical bytes; the note expressly retires their categorical empirical exclusion from active guidance
+
+### Verified Publication Provenance
+
+The following are externally anchored repository / deposit observations, not reconstructed composition dates:
+
+- LM deposit guide first carried its blanket sentence at creation: [`bc5baec6`](https://github.com/KannonZenetism/zenetism-field-physics/commit/bc5baec61ae35c9b6f49620573ca177c457e6fc3)
+- SP deposit guide first carried the equivalent blanket sentence at creation: [`fcdcd063`](https://github.com/KannonZenetism/zenetism-field-physics/commit/fcdcd0637f98902e5639bc336bdbdee78d00c2df)
+- SP deposit guide correction already replaced that exclusion with embodied-register scope: [`e15a11b7`](https://github.com/KannonZenetism/zenetism-field-physics/commit/e15a11b7e72667f8693dd285ed2ff84410e36047)
+- SP04 ontological-status note introduced the χ empirical exclusion: [`04303247`](https://github.com/KannonZenetism/zenetism-field-physics/commit/04303247b23b4220462d887d34025416296aee6d)
+- SP03 introduced the contra-pairing empirical-reach exclusion: [`06bc615a`](https://github.com/KannonZenetism/zenetism-field-physics/commit/06bc615a1554e3ddfd8aa89d5dfb44928c4e8542)
+- SP04 received the same contra-pairing empirical-reach sentence: [`d12a4f4d`](https://github.com/KannonZenetism/zenetism-field-physics/commit/d12a4f4d3f121d3d3f574cf6e0e64fb143aacb60)
+
+Read-only inspection of [LM collection v3](https://zenodo.org/records/23117690) verified the description sentence "Lattice Mathematics is structural rather than directly empirical" and the older exclusion in its deposited 00-README. The description sentence is absent from the currently displayed [v1](https://zenodo.org/records/22413913) and [v2](https://zenodo.org/records/23084319) descriptions. These are live-description comparisons, not a reconstruction of every metadata revision.
+
+Read-only inspection of [SP collection v5](https://zenodo.org/records/23114891) verified a description without the categorical exclusion and a corrected 00-README. Its SP03 and SP04 payload checksums matched the baseline sources containing the errors. Correcting GitHub does not alter those published payloads.
+
+**Suggested LM description replacement:** Lattice Mathematics articulates structural logic across the Zenetist architecture, including its application to the embodied empirical domain at L₁ / IL₁. Particular physical or observational applications retain their specified quantities, mappings, and evidentiary requirements.
+
+**Separate packaging observation:** The inspected LM v3 deposit contains exactly nine uploads, 00-README and LM01–LM08, with no ordinary README upload. Its deposited preview's Contents table nevertheless lists the ordinary README. The description correctly excludes it. Repository guide packaging is unchanged in this semantic correction; that preview-inventory inconsistency belongs to the architect's upload preparation.
+
+### Verification and Remaining Boundaries
+
+- Independent contextual search and separate candidate-diff review covered all eleven replacements
+- Assert-guarded single-match reconstruction reproduces every changed source from the pinned baseline; all unrelated text files are unchanged
+- All displayed equations in the changed files are byte-identical. LM02's prose-level unconditional time-parameter substitution is replaced by explicit physical / structural time correspondence, without choosing a conversion or adding an equation
+- All changed passages parse through the Markdown / MathML check without diagnostics; seven MathML spans are well formed. Full-document GitHub visual rendering is not certified
+- Complete remote-tree comparison, exact changed-blob readback, ancestry, publishing identity, and fresh-main readback verify the source publication. The report is a strictly additive insertion into the existing report, preserving all earlier audit and status bytes
+- No workflow files, status entries, check runs, or Actions runs were present for the source correction commit
+- Previous LM counts remain 275 completed, 139 held, 33 rejected, and 154 retained; this supplemental correction does not reclassify those historical dispositions or discharge any unresolved mathematics
+- SN-wide cleanup, registered-name choices, dimensional placements, new mathematical construction, empirical / clinical calibration, and Zenodo upload remain outside this correction. No new architect question is required to apply the existing empirical-domain distinction
+
+---
+
 ## Completion index — LM bounded repair pass
 
 **Implementation baseline:** [`bf95dde0c5f1261de5442a6600065d85af297b71`](https://github.com/KannonZenetism/zenetism-field-physics/tree/bf95dde0c5f1261de5442a6600065d85af297b71). The existing SP / supplemental MP completion index and every original audit byte remain intact after this additive LM index. Original LM locators refer to the audit snapshot [`2b2f41350d425ee6f2b51fc6026bfbff9f7a0671`](https://github.com/KannonZenetism/zenetism-field-physics/tree/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671); they are not rewritten as shifted current line numbers.
