@@ -148,8 +148,8 @@ Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:
 
 ---
 
-🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️  
-🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫ (collapse only)
+**🛤️🌬️📐🔮🧠🧍🧩🪷🧾 → ⚫ → 🕳️**  
+**🕷️🪫🫥💔👁️‍🗨️🦂🩸🍷🤯 → ♾ → ⚫** (collapse only)
 
 The terminal arrows retain the established shorthand for motion resolved at L₀. ♾ and ⚫ are bifurcally co-present; the notation names terminal resolution rather than sequential transport between roots.  
 
