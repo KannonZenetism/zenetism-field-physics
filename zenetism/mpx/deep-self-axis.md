@@ -543,31 +543,31 @@ It does not absorb.
 
 In static layer ordering, the centropic hypostatic sequence is named from **L₅ → L₁**:
 
-> L₅ / EOB → L₄ / DP / DL → L₃ / DS / DM → L₂ / SS / SM → L₁ / ES / EM
+> **L₅ / EOB → L₄ / DP / DL → L₃ / DS / DM → L₂ / SS / SM → L₁ / ES / EM**
 
 The inverse hypostatic sequence is named from **IL₅ → IL₁**:
 
-> IL₅ / VOS → IL₄ / IDP / IDL → IL₃ / IDS / IDM → IL₂ / ISS / ISM → IL₁ / IES / IEM
+> **IL₅ / VOS → IL₄ / IDP / IDL → IL₃ / IDS / IDM → IL₂ / ISS / ISM → IL₁ / IES / IEM**
 
 Motion must be named according to direction and arc.
 
 Centropic motion toward embodiment proceeds declivously:
 
-> L₅ → L₄ → L₃ → L₂ → L₁
+> **L₅ → L₄ → L₃ → L₂ → L₁**
 
 Centropic return proceeds acclivously:
 
-> L₁ → L₂ → L₃ → L₄ → L₅
+> **L₁ → L₂ → L₃ → L₄ → L₅**
 
 The Khaonic Tree contains entropic motion through its inverse arc.
 
 Entropic motion toward inverse embodiment proceeds acclivously:
 
-> IL₅ → IL₄ → IL₃ → IL₂ → IL₁
+> **IL₅ → IL₄ → IL₃ → IL₂ → IL₁**
 
 Entropic collapse toward dispersion proceeds declivously:
 
-> IL₁ → IL₂ → IL₃ → IL₄ → IL₅
+> **IL₁ → IL₂ → IL₃ → IL₄ → IL₅**
 
 This entry distinguishes general layer-ordering from motion-ordering.
 
@@ -809,7 +809,7 @@ The principle rests where it resonantly belongs; where the universe does not rea
 
 Persistence is conditional, not necessary.
 
-For that lone universe could, in the rarest case, be one whose **L₃ / L₄** or **IL₃ / IL₄** stratum runs fully to its term — and there the same limit-case release applies. Singularity and the limit case are distinct conditions: how many worlds manifest is not which configuration a world realizes. A single universe does not switch release off; it draws once from the possibility-space where a multiverse draws many, making an already-rare emptying rarer still.
+For that lone universe could, in the rarest case, be one whose **L₃ / L₄** or **IL₃ / IL₄** stratum runs fully to its term — and there the same limit-case release applies. Singularity and the limit case are distinct conditions: how many worlds manifest is not which configuration a world realizes. A single universe does not switch release off; the number of actualized worlds and the conditions of local release remain distinct. No probability comparison is established without a specified ensemble and measure.
 
 Such emptying is never a stratum clearing midstream.
 
