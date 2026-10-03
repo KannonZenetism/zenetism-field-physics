@@ -68,7 +68,7 @@ The foundational claim of this document is that recovery is **reconnection, not 
 
 SN03 established what neurodivergent cognitive architectures *are*. SN05 established what they *cost*. SN06 now establishes how they *recover*.
 
-The practical urgency of this document should not be understated. The burnout trajectory formalized in SN05 §5 is not an abstract possibility — it is the lived structural reality of centropically oriented beings operating within a Khaonically-expressed social field. The compounded costs of interface resistance, sovereignty suppression, and temporal disruption produce coherence depletion that manifests as exhaustion, dissociation, cognitive fragmentation, and the loss of capacities the being previously possessed. Recovery protocols are not therapeutic luxuries. They are structural necessities for any cognitive architecture operating against the grain of the prevailing expression ratio.
+The practical urgency of this document should not be understated. The burnout trajectory in SN05 §5 supplies a structural interpretation of lived exhaustion in centropically oriented beings within a Khaonically-expressed social field. The compounded costs of interface resistance, sovereignty suppression, and temporal disruption describe depletion whose proposed cognitive correspondences include exhaustion, dissociation, cognitive fragmentation, and impaired access to prior capacities. The recovery account identifies conditions supporting restored operative capacity for any cognitive architecture operating contra the grain of the prevailing expression ratio.
 
 ### 1.2 Core Thesis
 
@@ -183,7 +183,7 @@ S_{\text{replenish}}(\tau) > I_{c,\text{cost}}^{(\text{total})}(\tau) \quad \tex
 
 This is a sufficient positive-net-rate condition. Budget exhaustion instead depends on cumulative actual expenditure, cumulative gross inflow and initial available budget. Recovery can proceed through greater inflow, reduced expenditure, or both; rest changes expenditure rather than supplying a fourth inflow.
 
-For deeply depleted architectures, the most effective intervention is reducing cost streams first — creating conditions of structural rest that minimize the compounded costs — before attempting active replenishment. A depleted system that attempts active recovery while still bearing the full cost load may consume replenishment as fast as it accumulates.
+For deeply depleted architectures, the model prioritizes reducing cost streams first — creating conditions of structural rest that minimize the compounded costs — before attempting active replenishment. A depleted system that attempts active recovery while still bearing the full cost load may consume replenishment as fast as it accumulates.
 
 ---
 
@@ -485,7 +485,7 @@ a change of intrinsic essential inclination. Expressed χ remains variable and i
 
 The observation that recovery requires deliberate construction of conditions that the entropy-forward social field does not spontaneously provide (§5.3) carries a structural implication: the distribution of recovery access is not equitable.
 
-Centropically oriented beings with access to sensorially regulated environments, sovereignty-preserving relationships, economic conditions that permit structural rest, and centropic collectives recover faster and more completely than those without. Those bearing the heaviest compounded costs (composite architectures, intense sovereignty suppression, minimal bridge access) face the steepest recovery requirements with the least structural support.
+Centropically oriented beings with access to sensorially regulated environments, sovereignty-preserving relationships, economic conditions that support structural rest, and centropic collectives have conditions that reduce expenditure or support replenishment in the model; comparative recovery speed and completeness require empirical evaluation. Those bearing the heaviest compounded costs (composite architectures, intense sovereignty suppression, minimal bridge access) face the steepest recovery requirements with the least structural support.
 
 SN06 does not prescribe social policy. It notes the structural reality: within a Khaonically-expressed civilization operating at the inverter-to-Rival-Architect range, recovery access is itself a dimension of structural inequity. A centropy-forward civilization would structurally provide the conditions that enable recovery — not as therapeutic intervention but as architectural standard.
 
@@ -611,7 +611,7 @@ SN06 applies SP08's membrane physics to cognitive membrane restoration:
 
 ### 11.4 Relation to SN02
 
-SN06 provides the formal grounding for the ritual protocols introduced in SN02 Phase 6. Where SN02 described these protocols experientially, SN06 maps them onto the LM06 Ritual Operator apparatus and specifies their recovery targets in terms of the field configuration space. The rituals remain the same; the understanding of *why they work* is now formalized.
+SN06 provides the formal grounding for the ritual protocols introduced in SN02 Phase 6. Where SN02 described these protocols experientially, SN06 maps them onto the LM06 Ritual Operator apparatus and specifies their recovery targets in terms of the field configuration space. The rituals remain the same; their proposed structural targets are specified here. Their clinical effects require operationalized correspondence and empirical evaluation within L₁ / IL₁.
 
 ---
 

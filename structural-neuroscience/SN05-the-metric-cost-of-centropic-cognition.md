@@ -547,7 +547,7 @@ Total cost does not exceed replenishment. The coherence budget sustains all thre
 I_{c,\text{cost}}^{(\text{total})}(\tau) > I_{c,\text{replenishment}}(\tau) \quad \text{sustained}
 \]
 
-Costs chronically exceed replenishment. \( I_c \) declines over structural time. The being begins to experience the early signs of depletion: reduced tolerance for sensory load (⧉₁ compensatory tightening), social withdrawal (⧉₂ fidelity threshold increasing under conservation pressure), difficulty maintaining the sustained focus that characterizes their architecture. These are not symptoms of disorder — they are structural adaptations to conserve a depleting budget.
+Costs chronically exceed replenishment. \( I_c \) declines over structural time. The being begins to experience the early signs of depletion: reduced tolerance for sensory load (⧉₁ compensatory tightening), social withdrawal (⧉₂ fidelity threshold increasing amid conservation pressure), difficulty maintaining the sustained focus that characterizes their architecture. The model interprets these experiences as adaptations that conserve a depleting budget; their clinical characterization requires its own empirical assessment.
 
 **Phase III — Temporal Disruption:**
 
@@ -563,7 +563,7 @@ Coherence falls below the threshold for sustained temporal processing. Looping t
 I_c(\tau) < I_{c,\text{tether}} \quad \text{where } I_{c,\text{tether}} \text{ is the threshold for Tether maintenance}
 \]
 
-Coherence falls below the threshold for maintaining the Tether. Hypostatic amnesia occurs at one or more layers. The being loses access to capacities, memories, or registers of their own awareness. Dissociative experiences manifest. This is not psychological weakness — it is structural disconnection resulting from coherence budget exhaustion under compounded costs.
+Coherence falls below the threshold for maintaining the Tether. Hypostatic amnesia occurs at one or more layers. The being loses access to capacities, memories, or registers of their own awareness. The proposed dissociation correspondence retains the empirical requirements stated in §4.3. This is not psychological weakness — it is structural disconnection resulting from budget exhaustion through compounded coherence costs.
 
 **Phase V — Temporal Collapse (Critical):**
 
@@ -581,7 +581,7 @@ This phase describes severe disruption of operative temporal continuity and retr
 
 ### 5.2 The Compounded Composite Trajectory
 
-For composite architectures (SN03 §6), the trajectory accelerates. The autism–ADHD composite, for example, bears translation overhead, distribution overhead, interface resistance, and coherence tax charged to the same budget — with the Reserve Lock Principle preventing any cost stream from accessing the defensive reserve. The transit from Phase I to Phase IV may proceed more rapidly than for a single-profile architecture, and the recovery requirements are proportionally greater.
+For composite architectures (SN03 §6), the model examines potentially accelerated depletion. The autism–ADHD composite, for example, bears translation overhead, distribution overhead, interface resistance, and coherence tax charged to the same budget — with the Reserve Lock Principle preventing any cost stream from accessing the defensive reserve. The transit from Phase I to Phase IV may proceed more rapidly than for a single-profile architecture, while the actual transit time and recovery requirement depend on the specified costs, inflows, initial stock, and functional thresholds.
 
 ### 5.3 The Formal Inequality
 
