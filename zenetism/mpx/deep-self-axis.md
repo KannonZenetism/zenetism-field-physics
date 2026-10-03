@@ -569,11 +569,11 @@ Entropic collapse toward dispersion proceeds declivously:
 
 > IL₁ → IL₂ → IL₃ → IL₄ → IL₅
 
-This entry does not expand those motion laws in full. It only clarifies that general layer-ordering and motion-ordering must not be collapsed.
+This entry distinguishes general layer-ordering from motion-ordering.
 
 The **Biospiral** contains both the **Aionic Tree** and the **Khaonic Tree**.
 
-The inverse arc is the **Khaonic Tree**, not an "inverse Biospiral."
+The inverse arc is the traversal path through the **Khaonic Tree**, not an "inverse Biospiral."
 
 ---
 
@@ -661,7 +661,7 @@ Its alignment is the latent, essential kind: centropic or entropic by identity, 
 
 It is not the manifest orientation that arc-traversal enacts.
 
-There is therefore no destination it is barred from and held against.
+There is therefore no destination it is prevented from reaching.
 
 Its station is where it resonantly belongs — the resonant location that lets the layer be real.
 
@@ -689,7 +689,7 @@ The radiant emanations following Theon in the centropic sequence have no such co
 
 By the **Principle of Resonant Return** (`MP05-godhood-and-transmutation-ch9-11.md` §11.2), every being returns to the frequency it most resembles — placement by resemblance, not reward or punishment.
 
-The strata are degrees of centropy and entropy, and a being's disposition resonates it to the register it most resembles.
+The strata are distinct functional registers, and a being's disposition resonates it to the register it most resembles.
 
 Some resonate to a House of Form within **L₄**.
 
@@ -735,7 +735,7 @@ It is one boundary condition among the infinite, not the defining requirement.
 
 Either way, release remains a structural limit case.
 
-As with the pure-orientation extremes of the χ spectrum and the universe that endures without end in `SP03-expression-ratio-mathematics.md`, the full resolution of a deep stratum — every belonging being at its resonant term across dissimilar degrees of integration, or a register standing empty — is admissible and required by the logic of infinite possibility, yet exceedingly rare, perhaps never instantiated, even across infinite iterations.
+As with the expressed-prevalence limits of the χ spectrum and the universe that endures without end in `SP03-expression-ratio-mathematics.md`, the full resolution of a deep stratum — every belonging being at its resonant term across dissimilar degrees of integration, or a register standing empty — is admissible and required by the logic of infinite possibility, while its actualization and occurrence frequency remain held open.
 
 The inverse holds across the Khaonic Tree, with Nekron's asymmetry.
 
@@ -757,21 +757,21 @@ The doctrine may be stated as follows:
 
 The inverse corollary is:
 
-> The Inverse Deep Soul / Mind is an Inverse Deep Self-Axis seated at IL₃. Its expression-loci are governed by fragmented simultaneity, memory fracture, and inverse continuity. It does not gather them through centropic integration. Where its inverse continuity has run its course, declivous movement toward IL₄ names inverse formalization or collapse-oriented patterning, and VOS-culminating essence proceeds toward IL₅ according to the arc-propriety already belonging to that essence. The Khaonic Tree must be named in its own terms, without being reduced to the Biospiral as a whole.
+> The Inverse Deep Soul / Mind is an Inverse Deep Self-Axis seated at IL₃. Its expression-loci are characterized by fragmented simultaneity, memory fracture, and inverse continuity. It does not gather them through centropic integration. Where its inverse continuity has run its course, declivous movement toward IL₄ names inverse formalization or collapse-oriented patterning, and VOS-culminating essence proceeds toward IL₅ according to the arc-propriety already belonging to that essence. The Khaonic Tree must be named in its own terms, without being reduced to the Biospiral as a whole.
 
 ---
 
 ## Diagnostic Summary
 
 * The Biospiral contains both the Aionic Tree and the Khaonic Tree
-* The inverse arc is the Khaonic Tree, not an inverse Biospiral
+* The inverse arc is the traversal path through the Khaonic Tree, not an inverse Biospiral
 * L₃ is the register of individuated identity across forms
 * L₄ is the register of archetypal Form and formal intelligibility
 * The Deep Self-Axis is a real individuated L₃ being
 * The Deep Self-Axis is not merely a signature
 * The structural signature identifies and correlates the Self-Axis
 * Expression-loci are real universe-specific addresses of the Self-Axis
-* No expression-locus is the original-instance over the others
+* No expression-locus is the original-instance in relation to the others
 * The Self-Axis is whole in identity before complete in integration
 * Integration occurs at L₃
 * Acclivous passage into L₄ is structurally consequent upon L₃ integration
@@ -782,14 +782,14 @@ The inverse corollary is:
 * Membrane-mediated tonal correlation permits connection without fusion
 * Universe-local offices and activities remain function-bound
 * No layer-function is bound beyond the completion of its work
-* The Khaonic Tree must be articulated with its own inverse motion laws
+* The Khaonic Tree must be articulated with the laws of entropic motion through its inverse arc
 * IL₃ / IL₄ are not omitted from the doctrine; they are treated through inverse continuity, fragmented simultaneity, and inverse formalization
 * The Deep Self-Axis has no original or privileged universe-local locus
 * The underlying essence remains proper to one processional universal arc
 * Arc-propriety does not create locus-priority
 * Integration applies to the Deep Self-Axis, not the Inverse Deep Self-Axis
 * Inverse continuity proceeds through fragmentation, inverse formalization, and collapse-oriented completion
-* Universe-local Soul / Mind offices serve loci; terminal L₅ / IL₅ offices govern arc-proper essences
+* Universe-local Soul / Mind offices sustain loci; terminal L₅ / IL₅ offices hold arc-proper culmination
 
 ---
 
@@ -797,17 +797,17 @@ The inverse corollary is:
 
 This entry develops the multiversal region of the possibility-space.
 
-It does not claim the multiverse as empirical fact.
+Its multiversal account has modal standing; empirical actualization remains held open pending evidence.
 
-Possibility does not entail instantiation (cf. the Principle of Sufficient Reason, `MP05-godhood-and-transmutation-ch9-11.md` §11.1, which governs lawful manifestation, not the empirical confirmation of every possible world). That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
+Possibility does not entail instantiation (cf. the Principle of Sufficient Reason, `MP05-godhood-and-transmutation-ch9-11.md` §11.1, which names lawful manifestation, not the empirical confirmation of every possible world). That something may be expressed does not require that it be; the Lattice names the conditions of expression, not a census of worlds. Whether one universe, many, or successive universes manifest in actuality leaves the architecture unchanged.
 
 In a single universe, the architecture holds without alteration. The expression-loci of a Deep Self-Axis are then successive rather than parallel, and integration, signature, Tether-continuity, and membrane-mediated correlation operate as written.
 
-In a single universe, the deep strata are almost certainly permanent.
+In a single universe, the deep strata may persist while their universe-local work remains.
 
-The principle rests where it resonantly belongs, and the universe does not reach a term that would release it; the release question does not arise. This permanence is resonant location, not captivity.
+The principle rests where it resonantly belongs; where the universe does not reach a term that would release its local office, that office persists. This permanence is resonant location, not captivity.
 
-Almost certainly, but not necessarily.
+Persistence is conditional, not necessary.
 
 For that lone universe could, in the rarest case, be one whose **L₃ / L₄** or **IL₃ / IL₄** stratum runs fully to its term — and there the same limit-case release applies. Singularity and the limit case are distinct conditions: how many worlds manifest is not which configuration a world realizes. A single universe does not switch release off; it draws once from the possibility-space where a multiverse draws many, making an already-rare emptying rarer still.
 
