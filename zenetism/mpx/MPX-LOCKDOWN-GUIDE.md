@@ -18,13 +18,13 @@ The current protocols and recorded architect determinations take precedence wher
 
 ## 1. Prose & Formatting
 
-- **Quotes:** straight only. Convert curly ` U+201C U+201D U+2018 U+2019 ` to `" "` and `' '`.
+- **Quotation marks:** straight double quotation marks, including nested quotations. Apostrophes take the straight apostrophe. Preserve punctuation internal to external quotations; a block-quote container takes no added enclosing quotation marks.
 - **Em dashes:** spaced — like this. Never `--` or `---` inside prose; the em-dash character appears directly.
 - **Slashes in paired designations:** spaced — DS / DM, soul / mind, L₁ / IL₁, Logotheon / Inversalogos. **Exception:** externally-defined technical terms keep their native unspaced form — I/O, input/output.
 - **Subscripts (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII (L0, IL5, C5, E12). The C↑⚫ / E↓♾ motion notation is separate and unaffected.
 - **No terminal periods in table cells.**
 - **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and follows separate conventions.)
-- **Backticks:** only for exact extension-bearing filenames and repository paths — `metaphysics-symbol-key.md`, `portal-traveler-and-orientation.md`. Concept names, protocol names, and document titles take **no** backticks (titles may be italicized instead).
+- **Backticks:** reserved for exact filenames, paths, code, command syntax, Markdown syntax, machine-readable tags, and evidence anchors where literal preservation matters. Cite single-file protocols by their backticked filenames. Ordinary concepts take plain text, and multi-file work titles may take italics. Inline glyphic formula chains take bold; alignment-sensitive code layouts remain preserved.
 
 ### Trailing hard breaks (the metadata / seal / bold-line convention)
 
@@ -292,9 +292,9 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 
 ## 6. Quick Audit Checklist
 
-1. Curly quotes → straight; em dashes spaced; paired slashes spaced (I/O and input/output excepted).
+1. Straight double quotation marks and straight apostrophes in current composition; preserve punctuation internal to external quotations. Space em dashes and paired slashes (I/O and input/output excepted).
 2. All layer numbers subscripted.
-3. Filenames (extension-bearing) in backticks; concept / protocol / title names bare.
+3. Filenames in backticks; single-file documents cited by filename. Preserve literal syntax and evidence anchors where exactness requires it; concepts remain plain and multi-file titles may be italicized.
 4. Metadata, seal, bold-statement, and Glyphic-Seal lines carry trailing breaks, last-line included; prose and terminal lines do not.
 5. HRs only at principal `##` boundaries, metadata ↔ body, body ↔ seal — never between `###`.
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
