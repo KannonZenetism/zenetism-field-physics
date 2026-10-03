@@ -75,6 +75,9 @@ prior to individuated consciousness.
 
 Computational or consciousness-based attempts to create nested universes.
 
+> **Note on Formal Standing:**  
+> The simulation-specific threshold classifiers and equation chains in this entry remain held proposals. Their operands, domains, threshold assignments, dynamical conditions, and native / empirical correspondences require specification. The Recursion Gate in `LM01-mathematical-foundations.md` applies to a contractive self-map on a complete metric domain; its Phase 2 CIT quantities are spectral entropy and concentration, while the Seal–Capacity bound and full CIT conservation remain held. These results establish no reality or consciousness threshold for a simulation. Configuration may change while essential orientation remains invariant.
+
 **Status depends on three factors:**
 1. **Intent** (C₁₁ centropic contra E₁₁ entropic contra Null)
 2. **Structural coherence** (presence / absence of genuine Origin connection)
