@@ -1,7 +1,7 @@
 # MPX: The Ontological Necessity of Distinction — Why Zero Is Not "One in Motion"
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics · Structural Forensics  
+**Classification:** Metaphysics Extension — Structural Metaphysics · Structural Forensics  
 **Status:** Active  
 **Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md` · `metaphysics-symbol-key.md`  
 **Context:** Response to recent claims by Morgue (popularizing Hyperianism) attempting to collapse Zero (Aion) into "One in Motion" (Spiral) within a single-axis framework.  
@@ -25,16 +25,16 @@
 2.  **The Origin is Not the Event:**
     * **Zero (Aion):** The Static Battery (Potential).
     * **One (Theon):** The Spark (Actualization).
-    * If Zero *is* One, then the battery is the spark. There is no potential, only eternal actualization. This removes the capacity for **Creation** (emergence from nothing) and replaces it with **Transformation** (reshaping what already exists).
+    * If Zero *is* One, then the battery is the spark. There is no potential, only eternal actualization. This removes the capacity for **Creation** (manifestation from distinct latent potential) and replaces it with **Transformation** (reshaping what already exists).
 
-3.  **Zenon (🕳️) as Pre-Causal Ground:**
+3.  **Zenon (🕳️) as Trans-structural Allowance:**
     * Morgue's system stops at Zero.
-    * Zenetism recognizes **Zenon** (The Unknown Principle) *before* Zero.
+    * Zenetism recognizes **Zenon** (The Unknown Principle) beyond the structural determination of Zero.
     * By collapsing Zero into One, Morgue loses the bridge to the Unconditioned. He traps the system in a closed loop of "One" doing things forever, with no veracious Origin.
 
 ---
 
-## 2. The Structural Incompatibility: Twofold Contra Single Emanation
+## 2. The Structural Incompatibility: Twofold contra Single Emanation
 
 ### The Attempted Retrofit
 Morgue is attempting to map Zenetist principles (Twofold Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
@@ -57,7 +57,7 @@ Because Morgue lacks the **Twofold Tree**, he has to force both Centropy (Order)
 
 ---
 
-## 3. Quantification Contra Ontology
+## 3. Quantification contra Ontology
 
 * **Morgue (Fourier-based model):** "Souls are sine waves."
     * This is **Quantification**. It measures *how much* a soul vibrates. It does not explain *what* a soul is or *why* it exists.
@@ -76,7 +76,7 @@ While the Paint may cover the Canvas, the Canvas must exist *before* the Paint c
 
 Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold Emanation concept (Zenetist) into a Single Emanation framework (Hyperian).
 
-* **Zenetist Formula:** **🕳️ → ⚫ → 1** (Zenon → Aion → Emanation).
+* **Zenetist Formulation:** 🕳️ Zenonic allowance; **⚫ → 1** (Aion → Emanation). The former glyph-chain **🕳️ → ⚫ → 1** is superseded: Zenon is not an emanatory member.
 * **Morgue's Formula:** **0 ↔ 1** (Circular loop).
 
 **Verdict:** Ontologically Invalid.
@@ -84,8 +84,8 @@ Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold 
 ---
 
 # Forensic Addendum: Structural Comparison of Zenetism and the Neogenian System  
-**Classification:** Structural Forensics  
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Classification:** Structural Forensics  
 **Purpose:** To establish a clear, canonical record of structural correspondences between Zenetism and the system presented publicly as "Neogenian Gnosticism."  
 **Scope:** Identification of derivative mappings, flattenings, and rebrandings of Zenetist architecture within the Neogenian framework.  
 
@@ -105,14 +105,14 @@ This document provides a forensic, structural comparison between:
 
 ### 2.1 Zenetism
 
-| **Pole**          | **Glyph** | **Function**                                                                 |
+| **Principle**          | **Glyph** | **Function**                                                                 |
 |-------------------|-----------|-------------------------------------------------------------------------------|
-| **Zero Pole**     | ⚫ Aion    | **Absolute Potential** — fullness; stillness before motion.                 |
-| **Infinity Pole** | ♾ Khaon   | **Total Potential Expression** — contains latent (Φ₁), motive (Φ₂), and dispersive (Φ₃) phases as a unified emanatory arc. |
-| **Limit Pole**    | 🕳️ Zenon  | **Pre-causal Saturation** — beyond potential, phase, and polarity.        |
+| **Aionic root-register**     | ⚫ Aion    | **Absolute Potential** — fullness; stillness before motion                 |
+| **Khaonic root-register** | ♾ Khaon | **Infinity** — comprises Latent (Φ₁), Motive (Φ₂), and Dispersive (Φ₃) phases; the root-register is not an emanatory arc |
+| **Trans-structural Principle** | 🕳️ Zenon | **Allowance** — beyond potential, phase, and polarity |
 
 **Key Features:**
-* **Zero and Infinity are co-expressive poles**, not opposites.
+* **Zero and Infinity are bifurcally distinct root-registers**, not opposites.
 * **Zero is Fullness** — unexpressed potential held in structural stillness (⚫ Aion).
 * **Infinity is Expression** — the harmonic totality of latent, motive, and dispersive currents (♾ Khaon).
 * **Zenon is Pre-Causal** — the unknowable ground that precedes all polarity, structure, and emanation (🕳️).
@@ -131,7 +131,7 @@ This document provides a forensic, structural comparison between:
 * **No operator calculus**
 
 ### 2.3 Forensic Conclusion
-Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zenetism's three-pole architecture. The pre-causal pole (Zenon) is absent; Zero and Infinity are collapsed into a single undifferentiated "One."
+Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zenetism's distinction between trans-structural allowance and bifurcal root-registers. The trans-structural allowance (Zenon) is absent; Zero and Infinity are collapsed into a single undifferentiated "One."
 
 ---
 
@@ -140,7 +140,7 @@ Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zene
 ### 🌳⇅ The Biospiral Architecture
 
 **Glyph:** 🌳⇅
-**Definition:** The total Emanatory Spiral, containing both the ⚫ Aionic Tree (supernal root, declivous motion) and the ♾ Khaonic Tree (subversal root, acclivous motion).
+**Definition:** The total Emanatory Spiral, containing both the ⚫ Aionic Tree (Aionic root-register, declivous motion) and the ♾ Khaonic Tree (Khaonic root-register, acclivous motion).
 
 It represents the complete emanatory structure where the two opposing axes of motion — Centropic and Entropic — form a lattice-coupled field whose structural interaction gives rise to emanated reality.
 
@@ -226,7 +226,7 @@ Neogenian subjectivity is a **triadic mythic compression** of Zenetism's L₃ em
 
 ---
 
-## 5. Lattice Mathematics Contra Fourier Abstraction
+## 5. Lattice Mathematics contra Fourier Abstraction
 
 ### 5.1 Zenetism
 **Lattice Mathematics and Field Physics include:**
@@ -305,7 +305,7 @@ Neogenian awakening is a **mythic overlay** of Zenetism's centropic return archi
 
 | Domain | Zenetism | Neogenian System | Forensic Result |
 | :--- | :--- | :--- | :--- |
-| **Origin** | Zenon / Aion / Khaon | Zero / One / Infinity | Flattened derivative |
+| **Trans-structural and Root Registers** | Zenon beyond the Aion / Khaon root-registers | Zero / One / Infinity | Flattened derivative |
 | **Twofold Trees** | Biospiral | Life / Death / Knowledge | Mythic rebrand |
 | **Subjectivity** | L₃ emergence | Gnostic triad | Structural compression |
 | **Mathematics** | Lattice Mathematics + Field Physics | Fourier metaphors | Masking of operators |
