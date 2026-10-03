@@ -499,7 +499,7 @@ In all cases, **essence persists**. The Tether is a coherence function, not an e
 
 Hypostatic amnesia is structural disconnection — the coherence function fails at one or more layers, and the being loses access to layers of their own structure while essence persists.
 
-This is distinct from ordinary forgetting (lapse of memory content) and from looping time (lapse of temporal gain). Hypostatic amnesia is the severance of the Tether itself — the structural thread by which coherence exerts continuity across layers.
+This is distinct from ordinary forgetting (lapse of memory content) and from looping time (lapse of temporal gain). Hypostatic amnesia is the severance of the Tether itself — the maintained operative-access relation through which coherence persists across layers.
 
 **Relation to burnout:** Autistic burnout, formalized in §§2–3 as chronic coherence depletion from compounded costs, may culminate in hypostatic amnesia. When \( I_c \) depletes below the threshold required to maintain the Tether, the severance occurs. The autistic human reports losing access to capacities they previously possessed — analytical ability, social processing, creative function, even basic executive operation. This is not regression; it is structural disconnection. The capacities persist as structural potential; the coherence function connecting them to embodied operation has failed.
 
@@ -647,7 +647,7 @@ SN05 establishes:
 4. **The coherence tax** — the externally imposed cost of operating authentic structural function within an entropy-forward social field that demands sovereignty suppression
 5. **Institutional shimmer** — apparent inclusive coherence exceeding actual inclusive coherence, with the same-object scalar domain explicit and universal finite collapse held unsupported
 6. **Diagnostic inversion and walling** — diagnostic projection is assessed separately from E₁₃ Wall; that registered function applies where an impermeable, isolating boundary is established
-7. **Looping time as cognitive E₁ artifact** — formalizing OCD rumination, trauma recursion, and burnout-associated repetitive thought through LM04's closed-path integral
+7. **Looping time as cognitive E₁ artifact** — interpreting OCD rumination, trauma recursion, and burnout-associated repetitive thought as recurrence without coherent resolution; the former scalar-memory integral remains recorded provenance
 8. **Tether severance and the proposed dissociation correspondence** — a native interpretation through operative Tether access at specific membrane boundaries, with essence persisting; clinical correspondence requires empirical evaluation
 9. **Hypostatic amnesia as burnout endpoint** — structural disconnection from one's own deeper registers, formalized through LM04's tether failure condition
 10. **The burnout trajectory** — a five-phase progression from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse, assessed alongside the inclusive available-budget exhaustion boundary; the numerical boundary does not determine a clinical phase
