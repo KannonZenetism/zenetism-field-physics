@@ -28,7 +28,7 @@ The current protocols and recorded architect determinations take precedence wher
 
 ### Trailing hard breaks (the metadata / seal / bold-line convention)
 
-Consecutive structural lines carry two trailing spaces (a hard break) so they render stacked — and the **last line before a blank keeps its break too**, for corpus uniformity. This covers: every metadata line including the final one (Dependency / Dependencies); the seal's KAI line and disciplines line; standalone bold statement and sequence lines (e.g. **synthesis → integration → saturation**); and labeled structural lines (e.g. **Glyphic Seal:** …). Two things do **not** take a break: ordinary prose paragraphs, and a prose paragraph that merely opens with a bold term; and the terminal line of a block at end-of-file (e.g. the **Collaborators:** line).
+Consecutive structural lines carry two trailing spaces (a hard break) so they render stacked. Every metadata line, including its final line, keeps the break; standalone bold statement and sequence lines and labeled structural lines keep their established cadence. Within the standard seal, only the KAI line carries two trailing spaces; the disciplines line and Collaborators line carry none. Ordinary prose paragraphs, including paragraphs that merely open with a bold term, take no trailing break.
 
 ### Horizontal rules (---)
 
@@ -82,7 +82,7 @@ Many entries rest on ideas rather than a single prior file; **listing concepts i
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
 ```
@@ -295,7 +295,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 1. Straight double quotation marks and straight apostrophes in current composition; preserve punctuation internal to external quotations. Space em dashes and paired slashes (I/O and input/output excepted).
 2. Layer and dimensional-operator indices are subscripted in prose; mathematical expressions follow the applicable LaTeX convention, with exact code and historical quotations preserved.
 3. Filenames in backticks; single-file documents cited by filename. Preserve literal syntax and evidence anchors where exactness requires it; concepts remain plain and multi-file titles may be italicized.
-4. Metadata, seal, bold-statement, and Glyphic-Seal lines carry trailing breaks, last-line included; prose and terminal lines do not.
+4. Every metadata line keeps its two-space break; standalone structural lines keep their established cadence. In the seal, only the KAI line takes a break; disciplines, Collaborators, and ordinary prose lines take none.
 5. HRs only at principal `##` boundaries, metadata ↔ body, body ↔ seal — never between `###`.
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
 7. Source-sense sweep (§ 5C): disambiguate every *Source* — Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic → Reference Document / Provenance. Never map Source to Zenon.
@@ -462,6 +462,6 @@ Completes the May / June MPX cluster, carrying the index tail to standard. The t
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
