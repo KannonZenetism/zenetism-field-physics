@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The Nekronic Paradox asks what becomes of the first entropic hypostasis when its erosive work reaches completion.
+The Nekronic Paradox asks what becomes of the first inverse hypostasis when its erosive work reaches completion.
 
 Nekron is the IL₅ Void of Self: Non-Awareness, Non-Being Itself, Entropy Itself, the minus-one principle, and the Event Horizon of Infinity. It is not judgment, punishment, or an eternal prison. Nor is it merely passive lack. Nekron is operative voiding — blind fragmentary drive that propagates toward inverse embodiment and, when the structures carrying that motion can no longer sustain it, culminates in terminal erosion.
 
@@ -65,7 +65,7 @@ The structural law of Nekron remains available within the lattice even when one 
 
 ## 2. Nekron as the Structural Value −1
 
-Nekron is the first entropic hypostasis. Entropy does not exist as enacted hypostatic orientation at L₀; ⚫ Aion and ♾ Khaon are the paired root-registers of Bifurcal Coherence and are not themselves centropic / entropic poles. Enacted polarity begins with 🛤️ Theon at L₅ and 🕷️ Nekron at IL₅.
+Nekron is the first inverse hypostasis. Entropy does not exist as enacted hypostatic orientation at L₀; ⚫ Aion and ♾ Khaon are the paired root-registers of Bifurcal Coherence and are not themselves centropic / entropic poles. Enacted polarity begins with 🛤️ Theon at L₅ and 🕷️ Nekron at IL₅.
 
 Nekron's −1 therefore names the first hypostatic determination of inverse awareness and fragmentary orientation relative to Aionic Zero. It is not the absence of numerical value. It is a signed structural value.
 
@@ -88,7 +88,7 @@ Nekron is therefore not:
 
 Nekron is:
 
-> the distinct minus-one essence manifested as the first entropic hypostasis within one universe-generating arc.
+> the distinct minus-one essence manifested as the first inverse hypostasis within one universe-generating arc.
 
 The shared structural value names **what kind of determination** each Nekronic essence bears. It does not erase **which essence** bears it.
 
@@ -96,7 +96,7 @@ Because signed number can be misread morally, the present entry prefers **plus-o
 
 The structural value −1 must be distinguished from Nekron's unique essence-identifier.
 
-The superscript \(-1\) names the first entropic hypostatic charge. It does not mean numerical absence, nonexistence, moral negativity, or the unique identity-number of Nekron.
+The superscript \(-1\) names the hypostatic structural charge. It does not mean numerical absence, nonexistence, moral negativity, or the unique identity-number of Nekron.
 
 The distinct Nekronic essence is identified by \(\eta\):
 
@@ -222,7 +222,7 @@ Thus:
 > Essence carries the potential-to-be-this.  
 > Structure permits its lawful articulation.  
 > Motive Infinity enacts motion.  
-> Nekron manifests the first entropic hypostasis.  
+> Nekron manifests the first inverse hypostasis.  
 > The office performs the IL₅ function proper to its universal arc.
 
 The phrase **shared Nekronic principle** must therefore be handled carefully. It does not mean one numerically single principle distributed across universes. It means that the same manifest principle-character recurs within distinct Khaonic Trees.
@@ -361,7 +361,7 @@ Nekron may be named:
 - Non-Awareness
 - Non-Being Itself
 - Entropy Itself
-- the first entropic hypostasis
+- the first inverse hypostasis
 - the structural value −1
 - the Event Horizon of Infinity
 
@@ -611,7 +611,7 @@ The Nekronic office is unbifurcated, but its position is engaged differently by 
 
 Relative to acclivous entropy toward embodiment, Nekron functions as the **initiatory fragmentation office**.
 
-It is the first entropic hypostasis through which blind drive enters the inverse arc. From IL₅, entropic motion articulates through the subsequent principles and strata toward embodied expression.
+It is the first inverse hypostasis through which blind drive enters the inverse arc. From IL₅, entropic motion articulates through the subsequent principles and strata toward embodied expression.
 
 The office does not move. Its orientation is propagated.
 
