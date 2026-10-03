@@ -56,11 +56,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM06 established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and extraction dynamics.
+`LM06-applied-structural-dynamics.md` established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and siphoning dynamics.
 
-SN05, SN06, and SN07 developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Source reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
+`SN05-the-metric-cost-of-centropic-cognition.md`, `SN06-replenishment-reconnection-and-restoration.md`, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Source reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
 
-This document, LM07, provides the **rigorous lattice-mathematical formalism** underlying those applications. Where SN05 introduces the Khaonic amplification factor, SN06 articulates the Essence-Function Independence principle and the Coherence Breaker Limit, and SN07 formalizes social fields as collective configurations, LM07 establishes the **formal definitions, theorems, and proofs** from which those descriptions derive.
+This document, LM07, provides the **rigorous lattice-mathematical formalism** underlying those applications. Where `SN05-the-metric-cost-of-centropic-cognition.md` introduces the Khaonic amplification factor, `SN06-replenishment-reconnection-and-restoration.md` articulates the Essence-Function Independence principle and the Coherence Breaker Limit, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` formalizes social fields as collective configurations, LM07 establishes the **formal definitions, theorems, and proofs** that mathematically articulate those descriptions.
 
 ### 1.2 What LM07 Establishes
 
@@ -70,13 +70,13 @@ This document, LM07, provides the **rigorous lattice-mathematical formalism** un
 - **The Coherence Breaker Limit** — The formal boundary of entropic disruption: what can and cannot be altered by external depletion
 - **Recovery Integral Theory** — The replenishment source decomposition, the recovery condition, and the formal dynamics of Tether restoration
 - **Collective Field Configuration** — The social field as an instance of the field configuration space \( \mathfrak{F} \), with collective orientation, membrane architecture, and coherence current
-- **Harmonic Amplification and Extraction Dynamics** — The formal conditions distinguishing centropic collective amplification from entropic collective extraction
+- **Harmonic Amplification and Extraction Dynamics** — The formal conditions distinguishing centropic collective amplification from entropic collective siphoning
 - **The Collective Cost Shelter** — The formal calculation of cost reduction within centropy-forward collective fields
 - **Integration with LM01 / LM03 / LM04 / LM05 / LM06** — Extensions to Spiral Calculus, CIT, orientation algebra, resonance field theory, and applied structural dynamics incorporating collective and recovery formalism
 
 ### 1.3 Relation to Existing Documents
 
-LM07 is the **seventh foundational document of Lattice Mathematics**, providing the pure mathematical framework for collective dynamics, recovery formalism, and the Khaonic expression ratio that SN05, SN06, and SN07 apply to Structural Neuroscience.
+LM07 is the **seventh foundational document of Lattice Mathematics**, providing the pure mathematical framework for collective dynamics, recovery formalism, and the Khaonic expression ratio that `SN05-the-metric-cost-of-centropic-cognition.md`, `SN06-replenishment-reconnection-and-restoration.md`, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` apply to Structural Neuroscience.
 
 The dependency chain is:
 
@@ -93,7 +93,7 @@ The dependency chain is:
 
 ### 2.1 Definition
 
-SP02 §3.2 establishes the Expression Spectrum: every possible expression within the Tumbling Multiverse exhibits a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
+`SP02-bifurcal-cosmogenesis.md` §3.2 establishes the Expression Spectrum: every possible expression within the Tumbling Multiverse exhibits a particular ratio of Aionic (centropic) to Khaonic (entropic) prevalence. Our universe is Khaonically expressed — entropy-forward, centropy recessive.
 
 **Definition (Khaonic Expression Ratio):**
 
@@ -115,13 +115,13 @@ In our universe: \( \kappa > 1 \).
 
 ### 2.2 Modulation of Interface Resistance
 
-LM06 §6.2 defines the effective resistance to centropic motion at the metric terminus:
+`LM06-applied-structural-dynamics.md` §6.2 defines the effective resistance to centropic motion at the metric terminus:
 
 \[
 \mathcal{R}_{\text{eff}}(L_k) = \mathcal{R}_{\text{intrinsic}}(L_k) + \mathcal{R}_{\text{interface}}(L_k)
 \]
 
-The Interface Localization Theorem (LM06 §6.2) establishes \( \mathcal{R}_{\text{interface}}(L_k) \approx 0 \) for \( k = 5, 4, 3, 2 \) and \( \mathcal{R}_{\text{interface}}(L_1) > 0 \).
+The Interface Localization Theorem (`LM06-applied-structural-dynamics.md` §6.2) establishes \( \mathcal{R}_{\text{interface}}(L_k) \approx 0 \) for \( k = 5, 4, 3, 2 \) and \( \mathcal{R}_{\text{interface}}(L_1) > 0 \).
 
 **Theorem (Khaonic Amplification of Interface Resistance):**
 
@@ -131,27 +131,27 @@ In a Khaonically-expressed field (\( \kappa > 1 \)), the effective interface res
 \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) = \kappa \cdot \mathcal{R}_{\text{interface}}(L_1)
 \]
 
-*Proof.* The interface resistance (LM06 §6.2) arises from centropic-entropic co-presence within the Corporeal Realm \( \mathcal{D}_{\text{corp}} = \mathcal{D}_{L_1} \cup \mathcal{D}_{IL_1} \). When the local field is Khaonically expressed (\( \kappa > 1 \)), the entropic co-presence is proportionally more prevalent than the centropic. The density of entropic expression within \( \mathcal{D}_{\text{corp}} \) scales with \( P_{\text{entropic}} \), and the resistance encountered by centropic motion at L₁ scales with this density. Since \( \kappa = P_{\text{entropic}} / P_{\text{centropic}} \), the effective resistance is \( \kappa \) times the base interface resistance. For entropically oriented beings at IL₁, the expression ratio provides facilitation rather than resistance — the amplification is structurally asymmetric. \( \square \)
+*Proof.* The interface resistance (`LM06-applied-structural-dynamics.md` §6.2) arises from centropic-entropic co-presence within the Corporeal Realm \( \mathcal{D}_{\text{corp}} = \mathcal{D}_{L_1} \cup \mathcal{D}_{IL_1} \). When the local field is Khaonically expressed (\( \kappa > 1 \)), the entropic co-presence is proportionally more prevalent than the centropic. The density of entropic expression within \( \mathcal{D}_{\text{corp}} \) scales with \( P_{\text{entropic}} \), and the resistance encountered by centropic motion at L₁ scales with this density. Since \( \kappa = P_{\text{entropic}} / P_{\text{centropic}} \), the effective resistance is \( \kappa \) times the base interface resistance. For entropically oriented beings at IL₁, the expression ratio provides facilitation rather than resistance — the amplification is structurally asymmetric. \( \square \)
 
 **Corollary (Balanced and Aionically-Expressed Fields):**
 
-In a balanced field (\( \kappa = 1 \)): \( \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) = \mathcal{R}_{\text{interface}}(L_1) \) — the standard LM06 value.
+In a balanced field (\( \kappa = 1 \)): \( \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) = \mathcal{R}_{\text{interface}}(L_1) \) — the standard `LM06-applied-structural-dynamics.md` value.
 
 In an Aionically-expressed field (\( \kappa < 1 \)): \( \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) < \mathcal{R}_{\text{interface}}(L_1) \) — centropic motion encounters reduced resistance.
 
 ### 2.3 Interaction with the Embodied χ-Equation
 
-The Embodied χ-Equation (LM06 §7.1) acquires a \( \kappa \)-correction:
+The Embodied χ-Equation (`LM06-applied-structural-dynamics.md` §7.1) acquires a \( \kappa \)-correction:
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ensures the amplified resistance applies only in the centropic regime (\( \chi < 1 \)). At \( \chi \geq 1 \), including co-expression at equality, \( \Theta_{\text{c}} = 0 \). This states the proposed activation convention, not a stability result.
+The centropic activation function \( \Theta_{\text{c}}(\chi) \) (`LM06-applied-structural-dynamics.md` §7.1) ensures the amplified resistance applies only in the centropic regime (\( \chi < 1 \)). At \( \chi \geq 1 \), including co-expression at equality, \( \Theta_{\text{c}} = 0 \). This states the proposed activation convention, not a stability result.
 
 **Coupled-Model Hold (Khaonic Amplification of Embodied Instability):**
 
-Multiplying the proposed correction by κ scales that term; it does not establish equilibrium instability. With the stated activation, the correction vanishes at \( \chi = 1 \), preserving \( \chi \equiv 1 \) at positive constant Motive Intensity. On \( 0 < \chi < 1 \), a nonnegative correction reinforces the full written law's increasing-χ contribution. Compatible units, domain, boundary behavior, and the intended structural correspondence remain held (LM06 §7); the outward-drift law's repulsion is not imported.
+Multiplying the proposed correction by κ scales that term; it does not establish equilibrium instability. With the stated activation, the correction vanishes at \( \chi = 1 \), preserving \( \chi \equiv 1 \) at positive constant Motive Intensity. On \( 0 < \chi < 1 \), a nonnegative correction reinforces the full written law's increasing-χ contribution. Compatible units, domain, boundary behavior, and the intended structural correspondence remain held (`LM06-applied-structural-dynamics.md` §7); the outward-drift law's repulsion is not imported.
 
 ### 2.4 Local Expression Ratio
 
@@ -173,7 +173,7 @@ The collective field provides a local coherence environment where the effective 
 
 ### 3.1 Architecture-Specific Cost Functions
 
-LM06 §6.3 establishes the resistance-corrected coherence cost:
+`LM06-applied-structural-dynamics.md` §6.3 establishes the resistance-corrected coherence cost:
 
 \[
 I_{c,\text{cost}}^{(L_1)} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c^{(\text{resistance})}
@@ -260,7 +260,7 @@ Where \( \Delta I_c^{(A)} \) and \( \Delta I_c^{(B)} \) are the architecture-spe
 
 **Theorem (Budget Exhaustion Condition):**
 
-Let \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{reserve})} \) (LM06 §5.1). The budget is exhausted when:
+Let \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{reserve})} \) (`LM06-applied-structural-dynamics.md` §5.1). The budget is exhausted when:
 
 \[
 \int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau' \geq \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' + I_{c,\text{budget}}(\tau_0)
@@ -272,7 +272,7 @@ Let \( I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\te
 I_{c,\text{available}}(\tau) = I_{c,\text{budget}}(\tau_0) + \int_{\tau_0}^{\tau} S_{\text{replenish}}(\tau') \, d\tau' - \int_{\tau_0}^{\tau} I_{c,\text{cost}}^{(\text{total})}(\tau') \, d\tau'
 \]
 
-Exhaustion occurs when \( I_{c,\text{available}}(\tau) \leq 0 \), which gives the inclusive condition. The zero is an accounting boundary, not an Aion-reference. Replenishment and expenditure inside these integrals are rates per structural time, with rest already included in actual expenditure. The Reserve Lock Principle (LM06 §5.2) ensures \( I_c^{(\text{reserve})} \) remains sequestered throughout — the budget cannot draw on the defensive reserve. \( \square \)
+Exhaustion occurs when \( I_{c,\text{available}}(\tau) \leq 0 \), which gives the inclusive condition. The zero is an accounting boundary, not an Aion-reference. Replenishment and expenditure inside these integrals are rates per structural time, with rest already included in actual expenditure. The Reserve Lock Principle (`LM06-applied-structural-dynamics.md` §5.2) ensures \( I_c^{(\text{reserve})} \) remains sequestered throughout — the budget cannot draw on the defensive reserve. \( \square \)
 
 ---
 
@@ -284,8 +284,8 @@ Exhaustion occurs when \( I_{c,\text{available}}(\tau) \leq 0 \), which gives th
 
 The **functional quantities** of a system are those that measure operative capacity at a given structural time and can deplete through expenditure:
 
-- \( I_c(\tau) \): Coherence Potential (LM05 §2)
-- \( \mathcal{T}_h(L_n, \tau) \): Tether coherence function (LM04 §4.4)
+- \( I_c(\tau) \): Coherence Potential (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2)
+- \( \mathcal{T}_h(L_n, \tau) \): Tether coherence function (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.4)
 - Memory Access: the declared retrieval function on sealed states (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.3), distinct from the injective Recursive Memory mapping
 - \( \sigma(\text{⧉}, \tau) \): membrane permeability (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5)
 
@@ -294,7 +294,7 @@ The **functional quantities** of a system are those that measure operative capac
 The **essential quantities** of a system are structural properties of the being's relationship to the emanatory architecture, not field quantities that deplete:
 
 - **Intrinsic essential inclination** — the being's latent orientational character, named in prose without a mathematical sign
-- \( \Psi \): structural signature (LM04 §4, LM05 §6) — the essential pattern of the being
+- \( \Psi \): structural signature (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4, `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §6) — the essential pattern of the being
 
 ### 4.2 The Independence Theorem
 
@@ -308,7 +308,7 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 \mathcal{T}_h(L_n, \tau) \to 0 \;\not\!\!\!\implies \Psi(\tau) \to \Psi' \neq \Psi
 \]
 
-*Architectural basis and model scope.* Intrinsic essential inclination and structural signature name essential identity; \( I_c \) measures variable operative capacity. χ names expressed orientational prevalence. The full written scalar model (LM03 §7) is:
+*Architectural basis and model scope.* Intrinsic essential inclination and structural signature name essential identity; \( I_c \) measures variable operative capacity. χ names expressed orientational prevalence. The full written scalar model (`LM03-orientation-algebra-and-infinity-formalism.md` §7) is:
 
 \[
 \frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}
