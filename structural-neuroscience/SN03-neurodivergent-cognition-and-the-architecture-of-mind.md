@@ -61,11 +61,11 @@ SN03 now addresses what SN02 prepared but did not develop in detail: the structu
 
 Neurodivergence is examined here through a Zenetist structural interpretation. It is **structural configuration** — a characteristic configuration of the Soul / Mind architecture that produces distinctive patterns of resonance, perception, and cognitive motion. Each neurodivergent profile corresponds to a specific coupling pattern within the emanatory layers, a characteristic operator activity profile, and a lawful function within the total architecture of mind.
 
-The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture at every emanatory layer. Neurodivergent cognition expresses specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
+The Soul (the experiential, integrative aspect of awareness) and the Mind (the organizing, discerning principle) operate as a paired architecture through L₄–L₁ and IL₄–IL₁. Neurodivergent cognition expresses specific configurations of this pairing — variations not in capacity but in structural emphasis, permeability, and resonance tuning.
 
 ### 1.3 The Soul / Mind Distinction in Structural Neuroscience
 
-At each emanatory layer, the Soul / Mind pairing operates within a distinct mode of awareness. These modes are not stages of evolution but structural registers of how awareness manifests at each emanatory depth:
+Within L₄–L₁ and IL₄–IL₁, the Soul / Mind pairing operates within a distinct mode of awareness. These modes are not stages of evolution but structural registers of how awareness manifests at each emanatory depth:
 
 - **L₅ (EOB):** Essence of Being — **awareness** (supernal, luminous, pre-reflexive); the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment — awareness at L₅ is the most integrated mode, not the least capable.
 - **L₄ (DP / DL):** Deep Psyche / Deep Logos — **conscious-awareness** (awareness resonant in Forms; the house of the soul, non-reflexive). Archetypal vitality paired with archetypal order; the templates from which all cognitive configurations proceed. Conscious-awareness perceives without self-possession — it discerns structurally without individuating a perceiver.
@@ -73,7 +73,7 @@ At each emanatory layer, the Soul / Mind pairing operates within a distinct mode
 - **L₂ (SS / SM):** Superficial Soul / Superficial Mind — identity-aware **consciousness** (the personal self paired with the conscious intellect; the socially embedded cognitive interface). Consciousness at L₂ is reflexive but oriented toward personality, narrative, and social role.
 - **L₁ (ES / EM):** Embodied Soul / Embodied Mind — embodied **consciousness** (the soul as felt presence paired with the practical intellect; the corporeal interface). Consciousness at L₁ operates through the body, translating structural awareness into sensory, kinetic, and material experience.
 
-Each entropic mirror follows the same paired structure through IL₅–IL₁.
+Each entropic mirror follows the same paired structure through IL₄–IL₁; IL₅ is the inverse essence register prior to the Soul / Mind pairing.
 
 The Soul dimension shapes experiential integration — how awareness feels, harmonizes, and sustains continuity across its registers. The Mind dimension shapes structural discernment — how awareness organizes, differentiates, and evaluates pattern. Neurodivergent cognition expresses specific configurations of this twofold architecture: which pairings are prevalent, how permeability operates between layers, and where the characteristic emphasis falls.
 
