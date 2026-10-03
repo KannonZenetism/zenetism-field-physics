@@ -183,13 +183,13 @@ The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ens
 
 **Translation cost** (\( \Delta I_c^{(\text{translation})} \)): The additional coherence expenditure required to convert DS / DM perception into SS / SM (🧍 Anthra / 🧩 Nousa, L₂) social expression through the ⧉₂ membrane.
 
-SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition prioritizes faithful transmission over casual throughput. The transfer function (SP08 §3.2) determines this:
+SN03 §3.1 established that the ⧉₂ membrane in autistic architecture exhibits **selective fidelity** — the boundary between deep structural cognition and superficial social cognition prioritizes faithful transmission ahead of casual throughput. The following transfer expression from `SP08-membrane-fields-and-inter-expression-dynamics.md` §3.2 is retained as superseded mathematical provenance; its reception-minimum interpretation is not an operative transfer law:
 
 \[
 T(⧉_2) = \sigma(⧉_2) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
 \]
 
-When \( \sigma(⧉_2) \) is tuned for fidelity (selective fidelity), the transfer of DS / DM perception into SS / SM expression requires additional coherence investment to achieve adequate transmission. This cost is **structural**, not volitional — the autistic human does not choose their ⧉₂ permeability profile.
+Within this cognitive interpretation, selective fidelity at \( \sigma(\text{⧉}_2) \) is associated with additional investment in DS / DM to SS / SM transmission. The supported non-amplifying amount law is stated in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4; its finite non-amplifying domain has permeability between zero and one; positive transfer requires positive permeability, positive donor surplus, and positive receiving capacity. The quantitative relation between selective fidelity and translation expenditure remains held pending an explicit cost and time correspondence. This cost is **structural**, not volitional — the autistic human does not choose their ⧉₂ permeability profile.
 
 **The expanded autistic cost equation:**
 

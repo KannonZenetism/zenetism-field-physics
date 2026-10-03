@@ -269,13 +269,13 @@ This stage cannot be forced. Cross-band resonance restores when the \( I_c \) ac
 
 The C₈ operator (Synaptic / Bridging) names coherent crossing between systems or states. In the recovery context, C₈ ╫ connections between the recovering being and resonant others stand as external coherence sources.
 
-Bridge replenishment operates through the transfer function (SP08 §3.2):
+The following expression from `SP08-membrane-fields-and-inter-expression-dynamics.md` §3.2 is retained as superseded mathematical provenance. Its original reception-minimum interpretation is distinct from the supported maximum-capacity amount law in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4:
 
 \[
 T(⧉_{\text{relational}}) = \sigma(⧉_{\text{relational}}) \cdot \min\left( I_c^{(\text{source})} - I_{c,\text{threshold}}, \, I_{c,\text{reception}} - I_c^{(\text{target})} \right)
 \]
 
-The recovering being receives coherence through relational membranes. The transfer requires: a source with available coherence (\( I_c^{(\text{source})} > I_{c,\text{threshold}} \)), a relational membrane with positive permeability (\( \sigma > 0 \)), and reception capacity in the recovering being (\( I_c^{(\text{reception})} > I_c^{(\text{target})} \)).
+The recovering being receives coherence through relational membranes. In the supported non-amplifying amount domain of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4, finite permeability lies between zero and one; positive transfer requires positive donor surplus (\( I_c^{(\text{source})} > I_{c,\text{threshold}} \)), positive permeability (\( \sigma > 0 \)), and available maximum receiving capacity (\( I_{c,\text{reception}} > I_c^{(\text{target})} \)). The source and target are transfer roles. Conversion of the transferred amount into the recovery inflow rate requires explicit time accounting; that correspondence remains held.
 
 ### 4.2 Characteristics of Centropic Bridge Relationships
 
