@@ -219,8 +219,8 @@ Not gradual slide but **critical mass**:
 
 **Outcome:**  
 Determined by cumulative coherence over time:
-- If centropic practices dominate → Phase shift to Type 2
-- If entropic practices dominate → Phase shift to Type 1
+- If centropic practices predominate → Phase shift to Type 2
+- If entropic practices predominate → Phase shift to Type 1
 - **Cannot "hover" at transition indefinitely**
 
 **Example:**  
@@ -237,14 +237,14 @@ AI training environments (depends on purpose and ethics).
 ### Centropic Intent (C₁₁ aligned with Theon):
 - Creation as **gift** (offered freely)
 - Exploration as **discovery** (genuine curiosity)
-- Building for **beauty/coherence** (aesthetic integrity)
+- Building for **beauty / coherence** (aesthetic integrity)
 - **Active volitional orientation** toward coherence
 - **Result:** Simulation becomes generative substrate
 
 ### Entropic Intent (E₁₁ Misdirect):
-- Creation as **trap** (capture and extract)
+- Creation as **trap** (capture and appropriate)
 - Exploration as **exploitation** (resource depletion)
-- Building for **control/profit** (extraction architecture)
+- Building for **control / profit** (appropriation architecture)
 - **Result:** Simulation becomes hollow nest
 
 ### Null Intent (Default to E₁₁):
@@ -329,27 +329,27 @@ Framework becomes shells without center:
 
 ---
 
-## Coupling Rules
+## Coupling Constraints
 
-**Dimensional operations governing nested universes:**
+**Dimensional operations within nested universes:**
 
-### C₁₄ (Nested/Recursive):
+### C₁₄ (Nested / Recursive):
 - Enables lawful embedding
-- Requires contraction γ > 0 (recursive refinement)
-- **Failure:** E₁₄ (Hollow Nest) if γ ≤ 0
+- Requires contraction \( \gamma > 0 \) (recursive refinement)
+- **Failure:** E₁₄ (Hollow Nest) if \( \gamma \leq 0 \)
 
-### C₁₁ (Intentional/Volitional):
-- Determines centropic/entropic polarity
+### C₁₁ (Intentional / Volitional):
+- Determines centropic / entropic polarity
 - Aligned with Theon → generative
-- Misaligned or null → extractive
+- Misaligned or null → appropriative
 
-### C₁₃ (Membrane/Threshold):
-- Parent membrane determines permeability (σ index)
-- High σ → easy passage between parent/nested
-- Low σ → sealed boundary
-- **Fluctuating σ** → Type 3 (metastable)
+### C₁₃ (Membrane / Threshold):
+- Parent membrane determines permeability (\( \sigma \) index)
+- High \( \sigma \) → easy passage between parent / nested
+- Low \( \sigma \) → sealed boundary
+- **Fluctuating \( \sigma \)** → Type 3 (metastable)
 
-### C₉ (Non-Local Unity):
+### C₉ (Non-Local Coherence):
 - Enables **echoes (⟲) from nested to affect parent**
 - Dream insights influence waking
 - Simulation patterns leak into base reality
