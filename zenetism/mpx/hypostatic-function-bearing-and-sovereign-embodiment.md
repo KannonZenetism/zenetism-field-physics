@@ -251,7 +251,7 @@ Let:
 
 name the parallel correspondence between \(\ell_u(\mathrm{IDSA}_{i})\) and \(\mathcal{O}^{N}_{\eta,u}\).
 
-Office-correspondence names structural capacity and lawful fit. Full function-bearing names the actualized universe-local relation. PSM governs whether the correspondence can become manifest under local conditions; PSR carries it into expression where no sufficient structural condition prevents it.
+Office-correspondence names structural capacity and lawful fit. Full function-bearing names the actualized universe-local relation. PSM determines whether the correspondence can become manifest under local conditions; PSR carries it into expression where no sufficient structural condition prevents it.
 
 Thus:
 
@@ -285,7 +285,7 @@ Full function-bearing does not transfer a hypostatic charge to the bearer:
 
 The bearer retains its own essence-identifier and structural signature.
 
-The complete distinction among Archetypal Number, hypostatic structural charge, essence-identifier, arc-index, and locus-index is governed by `archetypal-number-and-essence-indexing.md`.
+The complete distinction among Archetypal Number, hypostatic structural charge, essence-identifier, arc-index, and locus-index is held in `archetypal-number-and-essence-indexing.md`.
 
 ---
 
@@ -337,7 +337,7 @@ The inverse sequence is parallel:
 \mathrm{R}^{N}_{u}(i,\eta)
 \]
 
-Office-correspondence likewise entails resonance without automatically entailing actualized full bearing:
+Office-correspondence likewise entails resonance; actualized full bearing additionally requires the manifestation conditions specified in §2:
 
 \[
 \mathrm{OC}^{T}_{u}(d,\theta)
@@ -397,9 +397,9 @@ Rather:
 
 > The office and bearer correspond because the bearer's essence-signature can articulate that office-function without ceasing to be itself.
 
-PSM governs whether that capacity becomes expressible in a particular universe-local locus.
+PSM determines whether that capacity becomes expressible in a particular universe-local locus.
 
-PRR governs placement by resemblance.
+PRR determines placement by resemblance.
 
 PSR carries the relation into manifestation where no sufficient structural condition prevents it.
 
@@ -567,7 +567,7 @@ A foreign Theon does not enter another universal arc through the bearer's fracta
 
 Trans-expression presence does not imply arc-neutrality.
 
-A bearer has no original or ontologically privileged expression-locus, but the bearer's underlying essence remains proper to one processional arc. Provisionally, \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\) states that the essence articulated as \(\mathrm{DSA}_{d}\) is proper to universal arc \(u\). This does not mean that the Deep Self-Axis is contained within universe \(u\); its expression-loci remain multiversal, and no locus — including the arc-correspondent locus — is the original over the others.
+A bearer has no original or ontologically privileged expression-locus, but the bearer's underlying essence remains proper to one processional arc. Provisionally, \(\operatorname{arc}_{\mathrm{ess}}(\mathrm{DSA}_{d}) = u\) states that the essence articulated as \(\mathrm{DSA}_{d}\) is proper to universal arc \(u\). This does not mean that the Deep Self-Axis is contained within universe \(u\); its expression-loci remain multiversal, and no locus — including the arc-correspondent locus — is original in relation to the others.
 
 > Arc-propriety belongs to the trans-expression being as a whole.  
 > Universe-locality belongs to its expression-loci.
@@ -590,7 +590,7 @@ A locus in another universe may remain strongly resonant with the same functiona
 
 If full bearing occurs in another universe, the relation would be to that universe's native office, not to a foreign hypostatic essence.
 
-Under the present singular-bearing rule, the same Deep Self-Axis does not bear full personal office-function in more than one universal locus. The same restriction applies to an Inverse Deep Self-Axis. Full personal bearing is therefore local to one locus of the trans-expression being, even though the being remains present across many universes.
+Per the present singular-bearing constraint, the same Deep Self-Axis does not bear full personal office-function in more than one universal locus. The same restriction applies to an Inverse Deep Self-Axis. Full personal bearing is therefore local to one locus of the trans-expression being, even though the being remains present across many universes.
 
 Other loci may express:
 
@@ -828,7 +828,7 @@ One office-function may become effective through more than one mode at the same 
 
 A singular DSA / IDSA locus bears the complete personal office-function.
 
-This relation is subject to the singularity rule.
+This relation is subject to the singularity constraint.
 
 ### Distributed Enactment
 
@@ -899,9 +899,9 @@ These categories must be identified by structure rather than visual form alone.
 
 ## 15. Continuum, Cascade, and Cultural Articulation
 
-Continuum and cascade govern mythic and cultural mapping.
+Continuum and cascade describe mythic and cultural mapping.
 
-They do not by themselves define the metaphysical mechanism of office-correspondence.
+The metaphysical mechanism of office-correspondence is distinct from these cultural mappings.
 
 A **continuum** preserves one principle-name across stratum-specific articulations.
 
@@ -942,7 +942,7 @@ Another tradition may employ a different symbolic grammar.
 
 The office-correspondence relation remains distinct from the literary form through which it is represented.
 
-This entry therefore does not adjudicate which mythic account is historically or metaphysically exhaustive. It identifies the structural relations those accounts may articulate.
+This entry identifies the structural relations those accounts may articulate and preserves the existing MFLR native placements.
 
 ---
 
@@ -978,7 +978,7 @@ A figure may be natively mapped to L₅ Theonic function as a cultural articulat
 
 The present entry therefore preserves the MFLR placements while supplying the more exact bearer-language through which those placements are interpreted.
 
-This entry governs the distinction between:
+This entry establishes the distinction between:
 
 - resonance
 - office
@@ -1294,7 +1294,7 @@ Add a future lock distinguishing:
 > Many beings may resonate with or transmit a hypostatic signal without becoming the hypostasis or the singular full personal bearer.
 
 > **Nested Relation Principle**  
-> Full personal function-bearing entails signal-bearing, and signal-bearing entails resonance. The reverse implications do not hold automatically.
+> Full personal function-bearing entails signal-bearing, and signal-bearing entails resonance. The reverse implications require the corresponding full-bearing or signal-bearing conditions.
 
 > **Singular Full Personal Bearer Principle**  
 > Where a universe-local hypostatic office reaches complete personal embodiment, at most one individuated locus bears its full personal office-function within that universal arc.
@@ -1333,7 +1333,7 @@ Add a future lock distinguishing:
 > A signal may become locally articulate through a non-individuated vessel. Such mediation does not establish a new DSA / IDSA or entail fractalization.
 
 > **Cultural Grammar Principle**  
-> Continuum, cascade, and conflation govern cultural representation. They do not by themselves establish metaphysical identity among hypostasis, bearer, and mythic figure.
+> Continuum, cascade, and conflation describe cultural representation. These cultural grammars do not establish metaphysical identity among hypostasis, bearer, and mythic figure.
 
 > **Sacred Distinction Principle**  
 > Singular full bearing does not diminish resonant figures or render them insignificant. Different figures may occupy different lawful relations without becoming competitors for one identity.
