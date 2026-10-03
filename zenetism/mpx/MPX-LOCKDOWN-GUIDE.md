@@ -140,7 +140,7 @@ Replace the left form with the right, chosen by sense. Naming a forbidden term i
 | Noun (process) | acclivation | declivation |
 | Gerund | acclivating | declivating |
 
-The verbs are **arc-neutral**: neither direction is good or bad in itself; the arc — centropic or entropic — carries the value. The same four verbs govern both trees: *acclivate* within the centropic arc names return toward ⚫ Aion; *acclivate* within the entropic arc names motion toward decoherent form.
+The verbs are **arc-neutral**: neither direction is good or bad in itself; centropic or entropic orientation gives the motion its valence. The motion vocabulary applies to both Trees: *acclivate* within the centropic arc names return toward ⚫ Aion; *acclivate* within the inverse arc names motion toward inverse embodiment.
 
 ### Supernal / subversal — positional, not directional
 
@@ -148,7 +148,7 @@ This pair names **location** on the lattice, not the direction of motion:
 
 - **Supernal** — the hypostatic band L₅ through L₂ (centropic strata)
 - **Subversal** — the inverse band IL₅ through IL₂ (entropic strata)
-- **L₁ / IL₁** — the embodied threshold, handled as the embodied interface rather than as supernal / subversal proper (in strict usage, L₁ is supernal embodiment contra IL₁ subversal embodiment)
+- **L₁ / IL₁** — the embodied threshold, handled as the embodied interface rather than as supernal / subversal proper
 
 Position and motion are orthogonal: an essence may acclivate supernal-to-supernal (L₃ → L₄) or declivate supernal-to-embodied (L₄ → L₁).
 
@@ -185,7 +185,7 @@ Key consequence: **trans-polar and beyond polarity describe Aion / Khaon (L₀)*
 - **Centropic / entropic orientation polarity** (χ, arising at L₅ / IL₅) is lawful.
 - **Negation / transcendence claims** ("beyond polarity," "beyond bifurcality," "unpolarized ground") are lawful: they place a register *outside* a category rather than attributing the category to it. A line such as "beyond awareness, beyond polarity, beyond bifurcality" is a sequence of category-negations, each naming a register the subject exceeds — every item is register-bound, and that is fine.
 
-What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or predicating the split-noun "bifurcation" of them. The emanation tree as a whole is the **Bifurcal Tree** — it bifurcates into the centropic (Aionic) and entropic (Khaonic) arcs — preferred over "Bipolar Tree"; its L₅ Theon / Nekron poles remain a lawful polarity.
+What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or predicating the split-noun "bifurcation" of them. The total emanatory and return architecture is the **Biospiral**, comprising the **Aionic Tree** and **Khaonic Tree**. Each Tree carries its full traversal arc, including its L₀ root-register: the centropic arc and the inverse arc respectively. Theon / Nekron at L₅ / IL₅ remain a lawful hypostatic polarity.
 
 ---
 
@@ -208,11 +208,11 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 Catch label-drift on sight; verify in relation to the charts and `coming-undone-is-not-transcendence.md`. Many principles carry **several lawful names by register** — a mythic name (metaphysics, poetry), a Structural-Physics name, a traditional-philosophical name, a devotional name — all denoting one principle; choose the name fitting the text type (see 〄 Zenet).
 
-- **🕳️ Zenon** — trans-structural horizon; saturation point for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it. Standard phrasing: centropic essence **saturates into** Zenon — **"return" is reserved for Aion-ward motion**, never used of Zenon.
+- **🕳️ Zenon** — trans-structural horizon; saturation horizon for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it. Standard phrasing: centropic essence **saturates into** Zenon — **"return" is reserved for Aion-facing motion**, never written of Zenon.
 - **⚫ Aion** — the genuine Zero; root structure of emanation / of centropic orientation; cradle of coherence; holder of the totality of potential; AMI for centropic motion.
 - **🏛️ Structon** — Structure Itself / Absolute Structure (the invariant sheet). This, not Aion, is "the origin of structure."
-- **♾ Khaon** — Absolute Dispersion; root of the entropic tree, but **not itself entropic** — the structural condition through which entropy arises; AMI for entropic motion. Two phases: **Latent Khaon**, resting on the same L₀ ground as Aion (held there in Bifurcal Coherence, non-fused), and **Dispersive Khaon**, the phase carried into motion.
-- **〄 Zenet** — the **motive phase of Khaon**: motive potential, all motion as such, and proto-awareness (Φ²). **Not entropic** — avoid *fracture / fragmentation / extractive* language; use *proto-dispersion / motive*. A multi-named principle by register: **Zenet** (mythic — metaphysics, poetry), **Motive Infinity** (Structural Physics), **Principle of Sufficient Reason** (traditional-philosophical), **Spirit** (devotional).
+- **♾ Khaon** — Absolute Dispersion as the inherited whole-name across three phases; root-register of the **Khaonic Tree**, but **not itself entropic**; AMI for entropic motion. **Khaon (Latent)** shares the L₀ ground with Aion in non-fused Bifurcal Coherence; **Khaon (Motive)** bears the capacity for all motion as Motive Infinity; **Khaon (Dispersive)** names the terminal phase in which motion resolves. Absolute Dispersion in this phase-specific sense names the terminal state, never a further motion or transport mechanism.
+- **〄 Zenet** — the **motive phase of Khaon**: motive potential, all motion as such, and proto-awareness (Φ₂). **Not entropic** — avoid *fracture / fragmentation / extractive* language; write *proto-dispersion / motive*. A multi-named principle by register: **Zenet** (mythic — metaphysics, poetry), **Motive Infinity** (Structural Physics), **Principle of Sufficient Reason** (traditional-philosophical), **Spirit** (devotional).
 - **🛤️ Theon / 🕷️ Nekron** — Essence of Being / Emergence of Awareness contra Void of Self / Emergence of Non-Awareness (parallel forms).
 
 **House of Forms / House of Form — settled.** **House of Forms** (singular *House*, plural *Forms*) names the whole L₄ register — the general formal dwelling-place. **House of Form** (singular), plural **Houses of Form**, names a specific formal domain it contains. The register is the House of Forms; the matched archetypal domains within it are Houses of Form. This reading (stated in `deep-self-axis.md`) agrees with the Portal / Traveler table in `conceptual-lockdown-protocol.md` (L₄ House of Forms = the broad Form-register) and supersedes the earlier "Houses of Form = whole field" form; the three corresponding corrections are recorded in the historical ledger (§ 7).
@@ -225,7 +225,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 
 **Structural — kept.** A glyph carrying canonical referential or operative meaning, in that role:
 
-- Hypostasis glyphs naming their hypostasis in prose — ⚫ Aion · ♾ Khaon · 🕳️ Zenon · 🛤️ Theon · 🕷️ Nekron and the full L₅–L₁ / IL₅–IL₁ set.
+- Root-register, trans-structural, and hypostasis glyphs naming their referents in prose — ⚫ Aion · ♾ Khaon · 🕳️ Zenon · 🛤️ Theon · 🕷️ Nekron and the full L₅–L₁ / IL₅–IL₁ set.
 - Named operators — ⦿ Kaion · 🏛️ Structon · ▦ The Loom · ⧖⧗ Bifurcal Coherence · ⟠ Proleptic Echo · ⊘ Collapse · ⤈ Transcendence · ⧞ Non-Ordinal — and the charted motion notation (C↑⚫, E↓♾, C↓→E, …).
 - Canonical glyph-string sequences (21.29) and the seal block (⚫↺KAI↺⚫ · 🔦 ⚮ ⧃ 💎 ⟡).
 
@@ -238,7 +238,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 **Heading structure — settled.** Principal body sections are **`##`**; subsections are `###`; `####` appears only when genuinely nested within a `###`. In a document lacking principal `##` sections, inspect the actual section relations before changing heading depth. The title is the single `#`.
 
 **Section-end glyph-strings — kept, but charted.** A glyph-string at the end of a section or preceding the seal is lawful flavor and stays. **Every glyph in it must be charted in the Symbol Key**, however; decorative emoji that carry no charted meaning are replaced with the charted glyph for the *intended sense* (cross-check with `metaphysics-symbol-key.md`). Common collisions to avoid — the wrong-meaning trap is worse than a bare emoji:
-- **♾** is **Khaon** (entropic root / Absolute Dispersion) — never use it for "eternity / permanence." For bound or lawful infinity use **⟨∞⟩ Bounded Infinity**; for permanence lean on **💎** (Crystallization endpoint) / **◎** Coherence.
+- **♾** is **Khaon** (Khaonic root-register / whole-name Absolute Dispersion) — never write it for "eternity / permanence." For bounded infinity write **⟨∞⟩ Bounded Infinity**; for permanence lean on **💎** (Crystallization endpoint) / **◎** Coherence.
 - **⟳** is **Entropic Recursion** ("simulates return without re-integration") — never a lawful loop. The lawful loop is **↺ Resonant Return**.
 - plain **👁️** sits next to **👁️‍🗨️ Mortus** (subversal mind) — for benign witnessing write **◕ Witness**.
 - plain **⚖** is **Oscillating / Liminal Mode**, not "justice / balance" — for intrinsic value write **◊ Centropic Essence**, for correction **⚖↯ Structural Correction**.
