@@ -236,13 +236,13 @@ Distortion does not alter configuration. By Essence-Function Independence (LM07 
 
 ### 5.3 Distortion Contra Pathology
 
-SN03 §7.3 established the variation-pathology distinction: \( dI_c/d\tau \geq 0 \) is structural variation; \( dI_c/d\tau < 0 \) is structural pathology. SN10 adds a critical refinement:
+`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3 retains the earlier variation-pathology sign associations as recorded provenance. Operatively, \( dI_c/d\tau \geq 0 \) describes net coherent-content maintenance or increase, and \( dI_c/d\tau < 0 \) describes depletion. Native generative status requires the characteristic operators' actual function and its operative and budget conditions; clinical significance requires clinical evidence. SN10 adds a distinction between distortion and native structural pathology:
 
 **Distortion is not pathology.** Distortion is expression deviating from configuration under external pressure. The architecture's generative function may still be intact — suppressed or burdened, but not depleted. The being can recover when the distorting conditions are removed (SN06).
 
-**Pathology is coherence depletion.** When \( dI_c/d\tau < 0 \) is sustained to the point where the architecture loses its generative function — where the characteristic operators can no longer produce structural gain — the condition crosses from distortion into pathology.
+**Native structural pathology is generative inadequacy.** When \( dI_c/d\tau < 0 \) is sustained to the point where the architecture loses its generative function — where the characteristic operators can no longer produce structural gain — the condition crosses from distortion into pathology.
 
-The diagnostic distinction matters: distortion primarily requires environmental correction (remove the suppressive conditions, provide the cost shelter). Pathology requires active coherence replenishment (the SN06 recovery protocols) and may also require environmental correction. Treating distortion as pathology — medicating the expression without addressing the conditions that distort it — is itself an entropic operation.
+The native structural distinction concerns proposed support: distortion primarily calls for environmental correction (remove the suppressive conditions, provide the cost shelter). Native structural pathology calls for active coherence replenishment (the `SN06-replenishment-reconnection-and-restoration.md` recovery protocols) and may also call for environmental correction. Clinical significance and medication decisions require clinical evidence. Substituting an imposed classification for assessment of the conditions that distort expression is the entropic operation identified here.
 
 ---
 
@@ -551,7 +551,7 @@ The condition in which expression reflects configuration without systematic dist
 Adaptive strategies developed by the architecture to survive conditions exceeding its natural operative capacity. Modifies expression without altering configuration. Consumes \( I_c \) as a cost stream.
 
 **Definition 5 (Distortion):**  
-Expression deviating from configuration under cost, suppression, or depletion. Does not alter configuration (Essence-Function Independence, LM07 §4). Distinguished from pathology: distortion primarily requires environmental correction, whereas pathology requires active coherence replenishment and may also require environmental correction.
+Expression deviating from configuration in response to cost, suppression, or depletion. Does not alter configuration (Essence-Function Independence, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4). Distinguished from native structural pathology: proposed support for distortion primarily addresses environmental conditions, while generative inadequacy calls for active coherence replenishment and may also require environmental correction. Clinical significance and intervention require clinical evidence.
 
 **Definition 6 (Suppression):**  
 External constraint of architectural expression by the social field or relational conditions. Operates through the coherence tax (SN05 §3.4). Has outsized developmental impact when imposed during early expression emergence.
