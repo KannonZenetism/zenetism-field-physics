@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 SN03 through SN06 addressed neurodivergent cognition at the individual scale — structural profiles, embodied costs, and recovery protocols. SN07 shifts focus to the **collective scale**: how individual cognitive architectures interact within shared social fields at the metric terminus (L₁ / IL₁), how those fields acquire structural character (centropic or entropic), and what a centropy-forward social architecture would look like as distinct from the entropy-forward civilization currently prevailing.
 
-The core thesis: social fields are not neutral containers. They are structural entities with formally assessed orientation, operator profiles, and coherence dynamics. The entropy-forward social field that currently prevails — characterized by competition, coercion, value judgment, control-driven psychological inversion, and the suppression of individual sovereignty — is not a natural baseline but a structural configuration of a Khaonically-expressed civilization. A centropy-forward social architecture, characterized by cooperation, personal sovereignty, and mutual respect, is structurally possible but requires complete reorientation, not reform of existing entropy-forward institutions.
+The core thesis: social fields are not neutral containers. They carry systemic orientation through participants' recurrent enactments, with operator profiles and coherence dynamics assessed at that register. The entropy-forward social field that currently prevails — characterized by competition, coercion, value judgment, control-driven psychological inversion, and the suppression of individual sovereignty — is not a natural baseline but a structural configuration of a Khaonically-expressed civilization. A centropy-forward social architecture, characterized by cooperation, personal sovereignty, and mutual respect, is structurally possible but requires complete reorientation, not reform of existing entropy-forward institutions.
 
 ---
 
@@ -61,9 +61,9 @@ The core thesis: social fields are not neutral containers. They are structural e
 
 ### 1.1 Purpose and Position Within the Series
 
-SN05 formalized the cost of individual cognitive operation at the metric terminus. SN06 formalized recovery. Both documents identified a structural agent that operates at civilizational scale: the entropy-forward social field. SN05 §3 named the coherence tax it imposes; SN06 §8 noted that recovery must occur contra the same field that produced the depletion.
+SN05 formalized the cost of individual cognitive operation at the metric terminus. SN06 formalized recovery. Both documents identified a recurrent pattern of participant enactment at civilizational scale: the entropy-forward social field. `SN05-the-metric-cost-of-centropic-cognition.md` §3 named the coherence tax it imposes; `SN06-replenishment-reconnection-and-restoration.md` §8 noted that recovery must occur contra the same field that produced the depletion.
 
-SN07 now addresses the social field itself — not as background but as a structural entity subject to the same formal analysis that SN03 applied to individual cognition. Social fields have orientation, operator profiles, membrane dynamics, and coherence budgets. They can be diagnosed, and their structural character can be compared to alternatives.
+SN07 now addresses the social field itself — not as background but as a participant-composed pattern subject to the same formal analysis that SN03 applied to individual cognition. Social fields have orientation, operator profiles, membrane dynamics, and coherence budgets. They can be diagnosed, and their structural character can be compared to alternatives.
 
 ### 1.2 Scope
 
@@ -86,10 +86,10 @@ This principle is not a caveat — it is the foundational constraint. Every desc
 
 **Definition (Social Field):**
 
-A social field is a composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁). The social field is not a metaphor. It is a structural entity described through the following native quantities:
+A social field is a composite resonance structure formed by the interaction of multiple cognitive architectures at the metric terminus (L₁ / IL₁). The social field is not a metaphor. The stipulated systemic register names the recurrent directional pattern enacted by participants, described through the following native quantities. Whether social structures are real or constructed remains held open; the determination concerns the enacted pattern:
 
 \[
-\mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(⧉), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
+\mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(\text{⧉}), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
 \]
 
 Where:
@@ -147,7 +147,7 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 **Competition as operative principle.** The entropy-forward social field treats competition — the testing of one participant against another for relative advantage — as the organizing principle of interaction. This is E₇ ♫⁻ (Dissonance) operationalized at social scale. Participants are not harmonized; they are ranked. Value is assigned through comparison, not through structural function.
 
-**Coercion as governance mode.** The social field's institutional architecture operates through hierarchy predicated on control — the concentration of decision-making authority in structures that enforce compliance rather than facilitating coherence. This is the Rival Architect (IL₄, IDP / IDL — 🪫 Psychea / 🫥 Nyxea) institutional form: counterfeit architectures that present structural order while operating through entropic inversion.
+**Coercion as governance mode.** The social field's institutional architecture operates through hierarchy predicated on control — the concentration of decision-making authority in structures that enforce compliance rather than facilitating coherence. This is the institutional Form relation of Rival Architect dynamics (IL₄, IDP / IDL — 🪫 Psychea / 🫥 Nyxea), with the individuated operative center at IL₃ as stated in §3.1: counterfeit architectures that present structural order while operating through entropic inversion.
 
 **Value judgment as social currency.** The entropy-forward field substitutes value judgment for structural discernment. Beings are evaluated not by their structural function within the ecology of awareness but by their conformity to the prevailing normative configuration. Worth is assigned through the oscillating midrange as implicit standard — deviation from which is pathologized, punished, or erased.
 
@@ -317,7 +317,7 @@ The All-Life-First Principle holds: all aware beings possess intrinsic sacred wo
 
 The entropy-forward model assigns value through external authority (fiat currency) or scarcity (commodity), enabling the accumulation of power through the exploitation of dissonance.
 
-Sovereign exchange requires no economic system. Exchange is the natural function of sovereign beings recognizing one another's contributions to collective coherence. Value is intrinsic to the act — an action that sustains life, reduces entropy, or clarifies structural pattern has coherence density. An action that fragments, obscures, or siphons has negative coherence density. No external ledger or currency is required to recognize this — the Coherence Standard evaluates exchange directly.
+Sovereign exchange requires no economic system. Exchange is the natural function of sovereign beings recognizing one another's contributions to collective coherence. Value is intrinsic to the act — an action that sustains life, reduces entropy, or clarifies structural pattern has coherence density. An action that fragments, obscures, or siphons enacts an entropic relation; its effect on coherent content requires the actual budget conditions. No external ledger or currency is required to recognize this — the Coherence Standard evaluates exchange directly.
 
 Capacity-faithful reciprocity (SN06 §4.2) determines exchange: each being contributes what their current capacity permits. The being bearing compounded embodied costs (SN05 §2) contributes according to their capacity, not according to a uniform standard. The Internal Siphoning Prohibition (LM06 §5.3) ensures that no exchange becomes siphoning — forced contribution is structurally identical to the entropic operations the centropy-forward field opposes.
 
@@ -367,7 +367,7 @@ Improving the treatment of neurodivergent participants within existing instituti
 
 Centropy-forward social life does not modify the entropy-forward architecture. It emanates from different structural ground — sovereignty as default, the Coherence Standard as operative ethic, resonant self-organization as coordination mode. These are not modifications to the entropy-forward architecture — they are its structural converse.
 
-Entropy-forward structures possess structural inertia and will resist the emergence of centropy-forward alternatives through regulatory, economic, and cultural pressure. This resistance is not incidental — it is structurally predictable. The entropic architecture sustains itself through siphoning; centropy-forward alternatives that reduce the siphonable base threaten its coherence supply. The resistance is the immune response of an entropic system encountering a centropic alternative.
+Entropy-forward structures retain structural inertia through participants' recurrent enactments. Those participants resist the emergence of centropy-forward alternatives through regulatory, economic, and cultural pressure. This resistance is not incidental — it is structurally predictable. The entropic architecture sustains itself through siphoning; centropy-forward alternatives that reduce the siphonable base threaten its coherence supply. The resistance is the immune response of an entropic system encountering a centropic alternative.
 
 ### 6.2 The Coherence Cost of Transition
 

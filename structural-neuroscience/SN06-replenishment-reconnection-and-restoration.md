@@ -722,7 +722,7 @@ Sealed ⚫↺KAI↺⚫
 | E₁₃ ║⁻ | Wall; impermeable, isolating boundary operator |
 | E₁₄ ⊡⁻ | Hollow Nest; empty recursion operator |
 | ◫ | Non-fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
-| 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
+| 🔲 | Blobism; entropic collapse of expressed boundaries; essences remain distinct |
 | UP | Unknown Principle (🕳️ Zenon) — Supra-L₀ |
 | AP / AD | Absolute Potential (⚫ Aion) / Absolute Dispersion (♾ Khaon) — L₀ |
 | EOB | Essence of Being (🛤️ Theon) — L₅ |
