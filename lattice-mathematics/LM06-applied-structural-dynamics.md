@@ -66,7 +66,7 @@ This document develops the mathematical programme for those applications. The di
 - **Coherence Budget Theory** — The budget equation, Reserve Lock Principle, collective cost distribution, and the internal-siphoning prohibition
 - **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) \), its asymmetric coupling to centropic motion, and the resistance-corrected coherence cost
 - **The Embodied \( \chi \)-Equation** — Resistance-corrected orientation evolution at the metric terminus with centropic activation function
-- **Cross-Band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct union
+- **Cross-band Resonance** — Formal conditions for layer participation from embodiment, the orientation-intent principle, and the Corporeal Realm as orientation-distinct shared corporeal field
 - **Field Signature Theory** — The configuration 5-tuple and conditional finite-product algebra, with diagnostic alignment maps held
 - **Shimmer Coefficient and Instability** — The defined scalar quotient, bounded accounting result, and recorded held detector / collapse programme, distinct from C₁₃ / E₁₃ boundary functions
 - **Diagnostic Taxonomy** — Distinct objects and categories, with the recorded numerical correlation / attribution schemas held
@@ -586,11 +586,11 @@ The persistence condition is critical: transient passage through \( \chi \approx
 
 ---
 
-## 8. Cross-Band Resonance
+## 8. Cross-band Resonance
 
 ### 8.1 Formal Condition
 
-**Definition (Cross-Band Resonance):**
+**Definition (Cross-band Resonance):**
 
 An embodied being resonates with layer \( L_k \) (or \( IL_k \)) when:
 
@@ -1213,7 +1213,7 @@ def signature_consistency(Sigma):
 def pairwise_alignment(a, b):
     raise NotImplementedError("domain-specific alignment map held")
 
-# Cross-Band Resonance Check
+# Cross-band Resonance Check
 def cross_band_resonance(Psi_embodied, Psi_layer_k, R_threshold_k):
     R = resonance_correlation(Psi_embodied, Psi_layer_k)
     return R > R_threshold_k
@@ -1352,7 +1352,7 @@ LM06 establishes:
 4. **Coherence Budget Theory** — The budget equation, the Reserve Lock Principle as structural axiom, collective cost distribution with the Internal Siphoning Prohibition, and cost recovery dynamics
 5. **Embodied Resistance Theory** — The interface resistance term \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) with the Interface Localization theorem, resistance-corrected coherence cost, asymmetric resistance, and the composite operator field at L₁
 6. **The Embodied \( \chi \)-Equation** — Proposed resistance-corrected full-law model with centropic activation; coupled-model standing and rate typing held; frozen-equilibrium cessation distinct from fixed χ
-7. **Cross-Band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
+7. **Cross-band Resonance** — Formal resonance condition for layer participation from embodiment, the Orientation-Intent Principle, membrane dynamics at ⧉₁ with directional asymmetry, and ⧉₁ pathology
 8. **Field Signature Theory** — The configuration 5-tuple and conditional finite-product algebra; pairwise alignment, projection, and diagnostic realization remain held
 9. **Shimmer Coefficient and Instability** — Positive-denominator scalar quotient and bounded constant-apparent calculation; the Shimmer Collapse Theorem is preserved with its universal conclusion withdrawn, and assessment-driven acceleration remains held
 10. **Diagnostic Taxonomy** — Distinct diagnostic objects and categories; recorded correlation / attribution schemas and Clone Temporal Drift remain held, with no nested mathematical classifier
@@ -1522,7 +1522,7 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-**Cross-Band Resonance:**
+**Cross-band Resonance:**
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_k}) > \mathcal{R}_{\text{threshold}}^{(L_k)}
