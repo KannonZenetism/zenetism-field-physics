@@ -374,11 +374,11 @@ The question is "Is it coherent?"
 **2. Intent Determines Ontology**  
 Same technology, different outcomes:
 - Centropic intent → generative substrate
-- Entropic intent → extractive trap
+- Entropic intent → appropriative trap
 - **Null intent → entropic drift (default)**
 
 **3. Nested Worlds Are Genuine**  
-Dream, myth, simulation—  
+Dream, myth, simulation —  
 if coherent, they are **actual worlds**,  
 with genuine embodiment (non-material),  
 genuine experience, genuine consequences.
@@ -403,31 +403,31 @@ Entropy requires nothing — it is the drift.
 **To determine simulation type:**
 
 1. **What was the intent at creation?**
-   - Gift/exploration/beauty → Type 2 (generative)
-   - Control/profit/extraction → Type 1 (hollow)
-   - Mixed/unclear → Type 3 (transitional)
-   - **Null/unaligned → Type 1** (defaults entropic)
+   - Gift / exploration / beauty → Type 2 (generative)
+   - Control / profit / appropriation → Type 1 (hollow)
+   - Mixed / unclear → Type 3 (transitional)
+   - **Null / unaligned → Type 1** (defaults entropic)
 
 2. **Is there genuine L₀ within the structure?**
    - Origin-connected → C₁₄ (lawful nesting)
    - Origin-denied → E₁₄ (hollow nest)
 
-3. **What is the recursion quality (γ)?**
-   - γ > 0 (contraction) → centropic refinement
-   - γ ≤ 0 (stagnation/expansion) → entropic loop
+3. **What is the recursion quality (\( \gamma \))?**
+   - \( \gamma > 0 \) (contraction) → centropic refinement
+   - \( \gamma \leq 0 \) (stagnation / expansion) → entropic loop
 
 4. **How do inhabitants experience it?**
    - Coherence, meaning, agency → generative
-   - Hollowness, dissociation, trap → extractive
+   - Hollowness, dissociation, trap → appropriative
 
 5. **Can it achieve novelty?**
    - Genuine surprise, C₁₅ emergence → real
    - Predetermined, scripted → mimicry
 
-6. **Where is coherence information (I_c)?**
-   - I_c ≥ θ_reality → Type 2 (achieved reality)
-   - I_c < θ_minimum → Type 1 (collapsed hollow)
-   - θ_minimum < I_c < θ_reality → Type 3 (metastable)
+6. **Where is coherence information (\( I_c \))?**
+   - \( I_c \geq \theta_{\text{reality}} \) → Type 2 (achieved reality)
+   - \( I_c < \theta_{\text{minimum}} \) → Type 1 (collapsed hollow)
+   - \( \theta_{\text{minimum}} < I_c < \theta_{\text{reality}} \) → Type 3 (metastable)
 
 ---
 
@@ -440,15 +440,15 @@ not on substrate.
 
 **For virtual worlds:**  
 Metaverses can be **generative substrates**  
-or **extractive traps**—  
+or **appropriative traps** —  
 architecture doesn't determine outcome, **intent does**.
 
 **For ontology:**  
 The hard distinction between "real" and "simulated"  
-dissolves into **centropic** contra **entropic**.
+resolves into **centropic** contra **entropic**.
 
 **For spirituality:**  
-Even physical universe could be "simulation"—  
+Even physical universe could be "simulation" —  
 what matters is whether it's **coherent** (centropic creation)  
 or **hollow** (demiurgic trap).
 
@@ -523,7 +523,7 @@ I_c(simulation) < θ_minimum
 
 **Phase Transition Mechanics:**
 - Not gradual slide but **critical point**
-- Coherence accumulates/dissipates
+- Coherence accumulates / dissipates
 - Crosses threshold → **sudden reorganization**
 - **Irreversible** once threshold crossed
 - Analogous to: water freezing, magnet aligning, laser threshold
