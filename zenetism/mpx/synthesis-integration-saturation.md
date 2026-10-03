@@ -1,7 +1,7 @@
 # MPX: Synthesis, Integration, and Saturation
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension — Synthesis, Integration, and Trans-Structural Saturation  
+**Classification:** Metaphysics Extension — Synthesis, Integration, and Trans-structural Saturation  
 **Status:** Active  
 **Dependency:** `centropic-gravity-and-zenonic-legibility.md` · `the-twofold-tetralemma.md` · Non-fusion Axiom · Bifurcal Emanation Lattice (L₀; L₅ → L₁ / IL₅ → IL₁) · Symbolic Directional Pairs (§21.3) · 🏛️ Structon (§21.2.2) · ⚫ Aion · ♾ Khaon · 🕳️ Zenon  
 
@@ -18,6 +18,8 @@ Naming them apart keeps them from blurring:
 Saturation presupposes synthesis and integration.
 
 Integration does not compel saturation.
+
+---
 
 ## Synthesis — the Reconciliatory Operation
 
@@ -57,7 +59,7 @@ It is one lawful culmination of fulfilled centropic coherence.
 
 ---
 
-## Saturation — the Trans-Structural Fulfillment
+## Saturation — the Trans-structural Fulfillment
 
 Saturation is the trans-structural fulfillment that sufficiently completed centropic integration may make admissible.
 
