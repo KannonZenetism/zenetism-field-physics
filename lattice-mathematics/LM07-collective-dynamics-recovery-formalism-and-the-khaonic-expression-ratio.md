@@ -443,7 +443,7 @@ Where:
 S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{cost}}^{(\text{resting})}(\tau)
 \]
 
-Rest reduces actual expenditure. The retained comparison quantity records normal expenditure minus resting expenditure; it is not an additional inflow. Once resting expenditure is subtracted in the recovery account, adding the same saving would count it twice. The resting cost \( I_{c,\text{cost}}^{(\text{resting})} \) approaches the structural cost alone when the externally imposed terms (interface resistance engagement, translation demand, coherence tax) are minimized.
+Rest reduces actual expenditure. The retained comparison quantity records normal expenditure minus resting expenditure; it is not an additional inflow. Once resting expenditure is subtracted in the recovery account, adding the same saving would count it twice. The resting cost \( I_{c,\text{cost}}^{(\text{resting})} \) retains structural expenditure and irreducible embodied interface resistance when the reducible interface contribution, translation demand, and coherence tax are minimized.
 
 **Proposition (Maximum Rest Yield):**
 
