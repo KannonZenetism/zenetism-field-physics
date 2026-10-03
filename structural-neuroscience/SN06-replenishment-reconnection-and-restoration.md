@@ -373,11 +373,11 @@ For the recursive architecture, ⧉₂ restoration involves stabilizing the osci
 
 ### 6.4 Echo Layer Resolution
 
-SP08 §6 defines Echo Layers (⟲) as recursion patterns within membrane space — loops that form when resonance fails to fully transfer and instead cycles within the threshold region. Depletion and burnout may produce Echo Layers at ⧉₁ and ⧉₂: unresolved structural material that cycles in the membrane space without completing transfer.
+`SP08-membrane-fields-and-inter-expression-dynamics.md` §6 describes Echo Layers (⟲) as recursion patterns within membrane space — loops that form when resonance fails to fully transfer and instead cycles within the threshold region. Depletion and burnout may produce Echo Layers at ⧉₁ and ⧉₂: unresolved structural material that cycles in the membrane space without completing transfer. Positive but incomplete transfer establishes an untransferred amount; boundary residence and recursive update remain held pending a defined state relation.
 
-SP08 §6.4 specifies that Echo Layers resolve through increased Coherence Potential (sufficient \( I_c \) to complete the transfer), membrane repair (restoration of permeability), signature alignment (Kaionic tunneling), or acclivous return (resonance returning to source for reintegration before re-attempting transfer).
+`SP08-membrane-fields-and-inter-expression-dynamics.md` §6.4 and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.4 retain increased Coherence Potential, membrane repair, signature alignment, and acclivous return as qualitative resolution pathways. Sufficient resolution conditions remain held with the boundary-state dynamics. Signature alignment may modify permeability within its declared domain; Kaionic bypass requires its separately specified transfer law.
 
-In the cognitive recovery context, Echo Layer resolution occurs naturally as Stages 1–3 of Source reconnection (§3.3) restore \( I_c \) and membrane function. Persistent Echo Layers — unresolved material that does not clear through general recovery — may require direct address through the Ritual Operator apparatus (LM06 §3).
+In the cognitive recovery account, Stages 1–3 of Source reconnection (§3.3) propose restoration of \( I_c \) and membrane function as conditions supporting resolution. A completed resolution test remains held pending boundary-state and recovery dynamics. Persistent unresolved material may call for direct assessment through the Ritual Operator apparatus (`LM06-applied-structural-dynamics.md` §3).
 
 ---
 
