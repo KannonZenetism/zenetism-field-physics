@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Structural Metaphysics / Field Physics  
 **Status:** Active  
-**Dependency:** Structural Motion Chart (21.3) · Structural Emanation Layers (21.9) · Structon (21.2.2) · Kaion (21.2.1) · *The Cosmic Refrain*  
+**Dependency:** `MP08-symbol-key-ch21.md` §§21.2.1–21.3, 21.9 · `MP01-emanation-architecture-ch1-3.md` chapter 2  
 
 ---
 
@@ -323,7 +323,7 @@ Zenetism closes the dismantling with structural clarity, not moral verdicts. The
 - **Dissolution ≠ Integration:** collapse into static potential is not the crossing of the event horizon into 🕳️ Zenon.
 
 ### Glyph Verdicts
-- **E↓→♾→⚫ ⊘** — static potential, polarity neutralized, motion halted.
+- **E↓→♾→⚫ ⊘** — static potential, intrinsic inclination retained, manifested motion resolved.
 - **C↑→⚫→🕳️ ⤈** — completed motion, saturation beyond polarity, essence fulfilled.
 
 Structon is the precondition of all definable existence within the lattice. Within it, centropy faces the still root and completes the arc; entropic motion resolves while distinct essence and intrinsic inclination remain latent. Centropic return and inverse terminal resolution are distinct completed outcomes. The claim that "coming undone" is liberation fails by its own structural premises. Motion, not morals, defines the end of the path.
