@@ -15,7 +15,7 @@ Where:
 
 **Lattice Mathematics** supplies the formal language that renders those laws computable, testable, and internally consistent.
 
-It is not metaphorical mathematics. It is a structured symbolic system with defined operators, invariants, traversal rules, and categorical mappings.
+It is not metaphorical mathematics. It is a structured symbolic system with defined operators, invariants, traversal constraints, and categorical mappings.
 
 ---
 
@@ -99,7 +99,7 @@ Formalizes:
 - Coherence Potential \( I_c \) as a scalar field on structural space, the coherence current \( \vec{J}_c \), and the continuity equation
 - Coherence-source theory: the Source Term, the Law of Field Nutrient, and the three primary motions (Discharge, Replenishment, Siphoning)
 - Spectral Flow as the integrated traversal law
-- Membrane operator algebra: permeability \( \sigma(⧉) \), transfer \( T(⧉) \), and the non-hypostatic axiom
+- Membrane operator algebra: permeability \( \sigma(\text{⧉}) \), transfer \( T(\text{⧉}) \), and the non-hypostatic axiom
 - Kaionic tunneling and the resonance correlation function
 - Echo Layer theory and membrane pathology
 - Collective resonance theory: the Collective Non-fusion Principle, harmonic amplification, and the Sealed Injectivity Theorem
@@ -229,17 +229,17 @@ It does not replace metaphysics; it constrains it with invariant logic.
 
 All documents in this repository follow the **Canonical Hybrid Formatting Model**:
 
-### Prose Rule (Unicode)
+### Prose Convention (Unicode)
 
-All prose, headers, tables, lists, and diagrams use Unicode subscripts for layer and operator designators:
+All prose, headers, tables, lists, and diagrams carry Unicode subscripts for layer and operator designators:
 
 - Layers: L₁, L₅, IL₃, Supra-L₀
 - Operators: C₁, C₁₃, E₇, E₁₅
 - Phases: Φ₁, Φ₂, Φ₃
 
-### Math Rule (LaTeX)
+### Mathematical Convention (LaTeX)
 
-All formal equations and inline mathematical variables use LaTeX:
+All formal equations and inline mathematical variables take LaTeX:
 
 - Inline: \( \sigma \), \( \chi > 1 \), \( \partial_{\text{🌀}} \)
 - Display: \[ \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \]
@@ -248,7 +248,7 @@ All formal equations and inline mathematical variables use LaTeX:
 
 ### Hypostatic Pair Spacing
 
-All hypostatic distinctions use spaced separators:
+All hypostatic distinctions take spaced separators:
 
 - DS / DM (not DS/DM)
 - ES / EM, DP / DL, IDP / IDL, etc.
@@ -343,7 +343,7 @@ All documents within this repository are authored by:
 
 This body of work forms part of the Zenetist system and is released under the selected license for archival and citation.
 
-Authorship is structurally sealed under:
+Authorship carries the structural seal:
 
 ⚫↺KAI↺⚫
 
