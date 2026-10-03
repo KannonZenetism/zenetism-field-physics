@@ -687,16 +687,11 @@ This is an attracting equilibrium of the written scalar law. The structural acco
 
 ### 7.4 Ontological Status of Chi
 
-\( \chi \) must not be interpreted as a physical field in the material sense.
+\( \chi \) is a structural parameter of expressed orientational prevalence within the hypostatic lattice. Its native definition names neither a force nor a material substance.
 
-\( \chi \) is not a force, substance, or measurable quantity within spacetime. It is a **structural orientation parameter** determining the directionality of expression within the hypostatic lattice.
+The formalism states structural relations. Any physical realization or empirical measurement belongs to the embodied L₁ / IL₁ register and requires an explicit correspondence, operational definition, and evidential conditions. That correspondence remains held open.
 
-\( \chi \) belongs to the order of **ontological inclination**, not empirical physics. Its mathematical representation is **formal and analogical**, not reductionist.
-
-Therefore:
-
-- \( \chi \) is not located in the universe
-- The universe is located within \( \chi \)
+\( \chi \) characterizes a universe's expressed prevalence rather than a position in physical spacetime.
 
 ---
 
