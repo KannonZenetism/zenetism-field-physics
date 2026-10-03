@@ -573,13 +573,13 @@ The amplification surplus is available for collective operations, member repleni
 
 **Definition (Extraction Coefficient):**
 
-In an entropic collective (\( \chi_{\text{collective}} \geq 1 \)), coherence is sustained through extraction from members:
+In an entropic collective (\( \chi_{\text{collective}} \geq 1 \)), coherent input for collective maintenance is drawn from members through siphoning:
 
 \[
 I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\tau)
 \]
 
-Where \( \eta_i(\tau) \in (0, 1] \) is the **extraction coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Extraction is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective extraction.
+Where \( \eta_i(\tau) \in (0, 1] \) is the **extraction coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Siphoning is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective siphoning.
 
 **Stock Derivative with Variable Coefficients**
 
@@ -747,7 +747,7 @@ On this domain, \( \mathcal{S}_{\text{sh}}^{(\text{collective})} > 1 \) is exact
 The five-domain coherence audit (`LM06-applied-structural-dynamics.md` §12.2) organizes collective inquiry (`LM06-applied-structural-dynamics.md` §12.4). These comparisons identify their diagnostic objects; numerical readings, signature alignment functions, and classifier thresholds require domain-specific specification:
 
 1. Coherence Magnitude: \( I_c^{(\text{collective, measured})} \stackrel{?}{=} I_c^{(\text{collective, claimed})} \)
-2. Flow Integrity: \( \vec{J}_c^{(\text{collective})} \) flowing toward collective function or toward extraction
+2. Flow Integrity: \( \vec{J}_c^{(\text{collective})} \) flowing toward collective function or toward siphoning
 3. Boundary Health: \( \sigma_{\text{collective}}(\text{⧉}) \) — selective, walling, or absorptive
 4. Orientation Alignment: \( \chi_{\text{collective, operational}} \stackrel{?}{=} \chi_{\text{collective, claimed}} \)
 5. Operator Consistency: \( \{O_k\}_{\text{observed}} \stackrel{?}{\subseteq} \{O_k\}_{\text{expected}} \)
