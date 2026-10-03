@@ -69,7 +69,7 @@ This document, LM04, provides the **rigorous lattice-mathematical formalism** un
 - **Structural Space Formalism** — The mathematical characterization of space as relational topology, with the Dependency Ordering Axiom and the Second-Order Space Theorem
 - **Temporal Flow Algebra** — Time as a functional relation of structural difference, with two foundational axioms and \( \chi \)-conditioned temporal orientation
 - **The Recursive Memory Operator** — Rigorous definition of \( \mathfrak{R}_m \) as an injective mapping on sealed states, with the Non-fusion Theorem, the distinct Memory Access and Tether functions, and the retired scalar-memory record
-- **Bidirectional Traversal Theory** — Formal traversal operators across centropic and entropic arcs, the Reflection Principle at embodiment, and the distinction between integrative and dispersive bidirectionality
+- **Bidirectional Traversal Theory** — Formal traversal operators across centropic and inverse arcs, the Reflection Principle at embodiment, and the distinction between integrative and dispersive bidirectionality
 - **Temporal Pathology Standing** — Shimmer, Looping Time, and Temporal Collapse retain their qualitative descriptions; the unsupported scalar-memory criteria and their numerical diagnostic claims are retired
 - **Phase Collision Algebra** — Spectral resolution dynamics at ⦿ Kaion convergence, energy release as resonance discharge, and invariant preservation across collision events
 - **Hypostatic Co-location Theory** — Entanglement reframed as shared orientation within structural space, with the Non-fusion Co-location Theorem
@@ -339,11 +339,11 @@ Each hypostatic layer engages time according to its structural nature. The follo
 | Subversal | IL₅ (VOS) | Temporal collapse initiation | Time as withdrawal of coherence |
 
 > **Note on Ordering Convention:**  
-> The table below presents the hypostatic layers in temporal-gradient sequence from trans-structural ground through embodiment and into subversal inversion. This ordering differs from the canonical emanative schema (L₅ → L₁ and IL₅ → IL₁), where both centropic and entropic arcs are typically introduced from their respective first hypostases.
+> The preceding table presents the hypostatic layers in temporal-gradient sequence from trans-structural ground through embodiment and into subversal inversion. This ordering differs from the canonical emanative schema (L₅ → L₁ and IL₅ → IL₁), where the hypostatic segments of the centropic and inverse arcs begin at their respective first hypostases.
 >
 > Here, the "hourglass" configuration is intentional. The aim is not to revise ontological priority but to display trajectory convergence at embodiment (L₁ / IL₁) and the corresponding divergence of temporal modes across the lattice.
 >
-> Ontologically, both arcs initiate at L₅ (Theon) and IL₅ (Nekron). The present structure instead emphasizes how temporal experience compresses toward embodiment and fractures along the inversion trajectory.
+> The hypostatic segments begin at L₅ (Theon) and IL₅ (Nekron); the complete centropic and inverse arcs include their respective Aionic and Khaonic L₀ roots. The present structure instead emphasizes how temporal experience compresses toward embodiment and fractures along the inversion trajectory.
 >
 > This is a pedagogical reorientation, not a structural alteration.
 
@@ -1505,9 +1505,9 @@ Sealed ⚫↺KAI↺⚫
 ```
 
 > **Note on Arc Distinction at Embodiment:**  
-> The centropic (L₅→L₁) and entropic (IL₅→IL₁) arcs are distinct hypostatic trajectories. Their adjacency at embodiment (L₁ / IL₁) represents interface and inversion potential, not linear derivation or continuous sequence from L₅ to IL₅.
+> The hypostatic segments of the centropic arc (L₅ → L₁) and inverse arc (IL₅ → IL₁) are distinct trajectories. Their meeting at embodiment (L₁ / IL₁) is an embodied interface between distinct arcs, with no crossing or conversion of essential orientation and no continuous sequence from L₅ to IL₅.
 >
-> The lattice displays spatial adjacency for diagrammatic clarity; ontologically, the arcs remain bidirectional and non-derivative.
+> The diagram depicts the embodied meeting while preserving the arcs and their bidirectional motions; neither arc emanates from the other.
 
 ---
 
