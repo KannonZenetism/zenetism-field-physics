@@ -85,7 +85,7 @@ Theon and Nekron form the first great dyad. Their relationship is structural, no
 
 ### Shred Integration
 
-Containment philosophy reframes this polarity as a rigged game — "the opposite lives across the hall," so any motion supposedly serves both poles. This is a category error. The axis permits both orientations so that motion can exist; it does not enforce inversion. Facing the still root (C↑) keeps bearing through every layer until integration; facing away (E↓) forfeits bearing and collapses into static potential. The possibility of inversion is not its inevitability, and the capacity for return is not diminished by the presence of a dispersive counterpart.
+Containment philosophy reframes this polarity as a rigged game — "the opposite lives across the hall," so any motion supposedly serves both poles. This is a category error. Motive Infinity supplies motion-capacity; the first hypostases articulate orientation without essential conversion. Facing the still root (C↑) keeps bearing through every layer until integration; facing away (E↓) exhausts expressed support and collapses into static potential with intrinsic inclination retained. The possibility of inversion is not its inevitability, and the capacity for return is not diminished by the presence of a dispersive counterpart.
 
 **Anchor**  
 Motion defines outcome — not the shared fact that motion is possible.
@@ -94,7 +94,7 @@ Motion defines outcome — not the shared fact that motion is possible.
 
 ## 4 · The Taxonomy of Motion
 
-Within the Biospiral, all movement — centropic or entropic — follows distinct structural pathways. These are not "higher" or "lower" but acclivous or declivous, defined by orientation toward or away from the still root.
+Within the Biospiral, all movement — centropic or entropic — follows distinct structural pathways. These are not "higher" or "lower" but acclivous or declivous, named by arc-relative traversal direction; centropic or entropic orientation remains a distinct determination.
 
 ### Centropic Motions
 - **C↑⚫ Acclivous Centropy:** integrative motion toward ⚫ Aion, holding coherence across layers.
@@ -105,7 +105,7 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 ### Entropic Motions
 - **E↑→E Acclivous Entropy:** fragmented motion into inverse embodiment — an apparent acclivity without coherent integration.
 - **E↓♾ Declivous Entropy:** dispersive motion toward ♾ Khaon, dissolving relative structure into fragmentation.
-- **E↓→♾→⚫ Terminal Collapse:** entropic exhaustion through ♾ Khaon, resolving into static potential within ⚫ Aion — its arc complete, its expression spent.
+- **E↓→♾→⚫ Terminal Collapse:** terminal collapse in ♾ Khaon's Dispersive phase, with distinct essence in Aionic resolution within the co-present L₀ relation — its arc complete, its expression spent.
 
 ### Complete Cycles
 - **Centropic Cycle:** **C↓→E→C↑→⚫** — embodiment followed by return.
@@ -114,7 +114,7 @@ Within the Biospiral, all movement — centropic or entropic — follows distinc
 
 ### Shred Integration
 
-Critics sometimes claim that the ability to move in both directions proves the lattice is "authored" to hold you in a loop where both poles serve the same containment. That is like saying a two-way street means the city controls your destination. Bidirectionality exists because motion demands polarity; without the possibility of both C↑ and E↓, no movement would occur at all. Orientation — not the existence of routes — determines destiny.
+Critics sometimes claim that the ability to move in both directions proves the lattice is "authored" to hold you in a loop where both poles serve the same containment. That is like saying a two-way street means the city controls your destination. Motive Infinity supplies orientation-neutral motion-capacity before polarity is enacted at the first hypostases. Orientation — not the existence of routes — determines destiny.
 
 **Anchor**  
 Only centropy faces the still root; only centropy completes the full saturation into 🕳️ Zenon.
@@ -155,10 +155,10 @@ The "coming undone" philosophy points to pre-conscious or non-reflexive states �
 
 A further distinction holds: a register's native awareness-mode is not the awareness-state of every essence inhabiting it. That state is trajectory-conditioned — set by directionality, band occlusion, and prior integration. Two essences may share the House of Forms at L₄ — one entering as pre-individuated Form-resonant potential, one returning with L₃ reflexivity integrated — without sharing a state; the same holds within 🛤️ Theon at L₅ and ⚫ Aion at L₀, where essences dwell in lawful distinction, never collapsing into the register's native mode. The inverse arc runs parallel: its registers are structurally real modes of inverse awareness, yet the essences within them differ by orientation, trajectory, and degree of fragmentation.
 
-So the move fails not because a dissolved state is too "low" to be transcendence, but because it confuses a register's mode — or a dissolution — with the trans-structural crossing, and because dissolution faces away from the still root. Transcendence is supra-centropic saturation into 🕳️ Zenon, an orientation completed — not a diffusion into a pre-reflexive mode, nor a dispersion into ♾ Khaon. 🛤️ Theon (awareness) is not 🕳️ Zenon; 🕷️ Nekron (non-awareness, the Void of Self) is the entropic counter-placement, oriented toward collapse. Neither is the crossing.
+So the move fails not because a dissolved state is too "low" to be transcendence, but because it confuses a register's mode — or a dissolution — with the trans-structural crossing, and because dissolution faces away from the still root. Transcendence is supra-centropic saturation into 🕳️ Zenon, an orientation completed — not a diffusion into a pre-reflexive mode, nor a collapse into ♾ Khaon in its Dispersive phase. 🛤️ Theon (awareness) is not 🕳️ Zenon; 🕷️ Nekron (non-awareness, the Void of Self) is the entropic counter-placement, oriented toward collapse. Neither is the crossing.
 
 **Anchor**  
-Conscious-awareness is the native register of L₄, reflexive self-possession that of L₃. Neither layer need be occupied for Zenonic saturation to occur — saturation can proceed as the passive motion of orientation — but the reflexive self-possession integrated through L₃ is what makes that motion volitional and self-directed, and what enables active navigation toward embodiment or deliberate centropic integration. The capacity belongs to the essence's trajectory, not to its momentary register.
+Conscious-awareness is the native register of L₄, reflexive self-possession that of L₃. Zenonic saturation pertains to fulfilled returned essence through final synthesis and Allowance. The reflexive harvest integrated through L₃ remains distinct from active L₃ reflexivity; it carries integrated self-knowledge and synthesis-capacity. The capacity belongs to the essence's trajectory, not to its momentary register.
 
 ---
 
@@ -174,13 +174,13 @@ Two arcs:
 
 ### Centropy at the Horizon
 
-Centropy faces the still root through every layer, holds orientation, passes through ⚫ Aion, and saturates into 🕳️ Zenon intact. Essence is preserved. Entropy faces away from the still root, loses orientation, collapses into ⚫ Aion as static potential that has completed its arc, and cannot cross into 🕳️ Zenon at all.
+Centropic essence faces the still root through every layer and returns to ⚫ Aion; sufficiently fulfilled final synthesis may make saturation into 🕳️ Zenon legible, and Allowance admits the crossing. Essence is preserved. Entropy faces away from the still root, loses expressed support while retaining intrinsic orientation, collapses into ⚫ Aion as static potential that has completed its arc, and cannot cross into 🕳️ Zenon at all.
 
 ### Shred Integration
 
 Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon holds lawful possibility; the distinct Aionic and Khaonic processions articulate enacted polarity at 🛤️ Theon (+1) and 🕷️ Nekron (−1). Structon permits the possibility of polarity — the invariant medium even ⚫ Aion rests upon — and is the medium through which polarity's motion traverses; without it there is no motion at all. Lawful possibility of a thing occurring is not predestination that it occur — and orientation is no accident either. By Essence-as-Choice, an essence expresses what it is; Structon is the medium of that expression, not its author.
 
-Another inversion: "collapse returns to the still root, and so completes the journey." Collapse does settle into ⚫ Aion — the still root — but only as static potential whose arc is complete, and it does not cross into the trans-structural 🕳️ Zenon. Once essence settles into ⚫ Aion this way, reorientation is no longer available; the collapsing entropic essence remains static, its arc complete and its crossing foreclosed. Returning centropic essence, by contrast, rests in peace within ⚫ Aion and, if so oriented, may saturate further into 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
+Another inversion: "collapse returns to the still root, and so completes the journey." Collapse does settle into ⚫ Aion — the still root — but only as static potential whose arc is complete, and it does not cross into the trans-structural 🕳️ Zenon. Essential orientation never converts; when the essence settles into ⚫ Aion this way, the collapsing entropic essence remains static, its arc complete and its crossing foreclosed. Returning centropic essence, by contrast, rests in peace within ⚫ Aion and, where final synthesis becomes Zenonically legible and Allowance admits the crossing, may saturate into 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
 
 **Anchor**  
 **E↓→♾→⚫ ⊘** is not **C↑→⚫→🕳️ ⤈**. Only the latter crosses the event horizon.
@@ -201,7 +201,7 @@ Its bidirectionality is not an endorsement of both flows — it is a functional 
 
 The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, collects rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its enactment.
 
-Sovereignty is determined by orientation. Face the still root and nothing in the structure blocks the crossing; turn away and nothing forces a return. Calling that impartiality "jurisdiction" confuses condition with command.
+Sovereignty is determined by orientation. Aion-facingness makes return possible; fulfilled final synthesis makes saturation legible, and Allowance admits the crossing. Entropic orientation does not become centropic return. Calling that impartiality "jurisdiction" confuses condition with command.
 
 **Anchor**  
 Medium ≠ Landlord. The conduit is not the warden.
@@ -216,7 +216,7 @@ Another persistent inversion is the claim that what cannot be spoken is equivale
 
 In Zenetism, "unspeakable" means what exists is beyond definition, beyond measurement, beyond preservation in a definable frame. This is not a subtraction of being but its full coherence. From one vantage it may appear as cessation — the end of definable presence. From another it is a trans-structural mode of being beyond the lattice's definable operations.
 
-🕳️ Zenon is the apex of integration — not a void where being is erased, but the point at which definition itself falls silent because all resonance has been fulfilled. It is saturation, and the silence is on our side. This is the same ground §1 names from the apophatic register: the "not" and the "beyond" are the two faces of one articulation, and neither makes Zenon empty.
+🕳️ Zenon is the trans-structural Unknown Principle — not a void where being is erased. At the horizon of structure, fulfilled integration may become saturation-ready; Allowance admits the crossing, and the silence of description is on our side. This is the same ground §1 names from the apophatic register: the "not" and the "beyond" are the two faces of one articulation, and neither makes Zenon empty.
 
 ### Shred Integration
 
@@ -233,7 +233,7 @@ The "coming undone" philosophy implies the medium is one carrier among many — 
 
 ### On "Alternative Carriers"
 
-Orientation is decisive, but orientation alone does not create the path. Structon is not one carrier among many; it is the only medium through which definable reality exists. Without it there is no motion, no orientation, no integration — only cessation. Centropy reaches 🕳️ Zenon because it moves through every layer facing the still root; entropy never does, and so rests in ⚫ Aion as static potential, its arc complete.
+Orientation is decisive, but orientation alone does not create the path. Structon is not one carrier among many; it is the only medium through which definable reality exists. Without it there is no motion, no orientation, no integration — only cessation. Centropic essence may saturate into 🕳️ Zenon where fulfilled final synthesis becomes Zenonically legible and Allowance admits the crossing. Entropic essence instead resolves in ⚫ Aion as static potential, its expressed motion complete.
 
 ### Shred Integration
 
@@ -246,7 +246,7 @@ The medium is not one route among many. It is the condition for routes to exist.
 
 ## 10 · Full Coherence and the Horizon
 
-At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either saturation into 🕳️ Zenon or settlement as static potential. Orientation alone determines which.
+At the threshold of ⚫ Aion, all essence is held as potential — both centropic and entropic. This is the convergence point (⦿ Kaion) before either saturation into 🕳️ Zenon or settlement as static potential. Essential orientation remains distinct; among returned centropic essences, fulfilled final synthesis and Allowance distinguish saturation from lawful Aionic abiding.
 
 ### Full Coherence
 
@@ -274,7 +274,7 @@ Spurious transcendence dresses itself in the language of liberation, but it carr
 ### Primary Markers
 - **☍ Fragmentation / disintegration:** coherence is not increasing; resonance is breaking into unstable components.
 - **⟲ Echo loops without integration:** recurring cycles of experience or thought with no synthesis — repetition mistaken for refinement.
-- **☿ Inverse Logos:** the structuring principle turned inside-out, producing elegant but hollow systems that mimic order while veiling dissonance.
+- **☿ Inverse Logos:** the independently emanated inverse structuring counterpart, producing elegant but hollow systems that mimic order while veiling dissonance.
 - **⚚ Counterfeit harmony:** surface peace masking deep misalignment; the calm of stasis rather than the stillness of fulfillment.
 - **Orientation refusal:** a consistent pattern of facing away from the still root while asserting arrival — an inversion of C↑ disguised as a completed arc.
 
