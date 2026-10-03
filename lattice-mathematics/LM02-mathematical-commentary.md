@@ -58,11 +58,11 @@ LM01 established the mathematical foundations of Zenetism across its full archit
 
 LM02 carries three functions with respect to LM01.
 
-The first is **clarification**. LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal arc emanatory structure was articulated. The constructions in LM01 were structurally sound and sufficient to state the architecture, though some were expressed in preliminary form pending the precision later supplied by LM03–LM06. This commentary identifies which formulations in LM01 remain exact, which were early expressions later sharpened, and where subsequent work has extended or elaborated them.
+The first is **clarification**. LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its two-Tree emanatory architecture was articulated. The structural architecture remains distinct from the mathematical standing of each construction; the formal claims retain their declared domains, hypotheses, and the holds recorded in this commentary. This commentary identifies which formulations in LM01 remain exact, which were early expressions later sharpened, and where subsequent work has extended or elaborated them.
 
 The second is **bridging**. LM03 through LM06 introduced formalizations that LM01 either anticipated in skeletal form or did not address at all: the orientation parameter \( \chi \), structural time \( \tau \), structural space \( \mathfrak{d}(\mathcal{L}) \), the Coherence Potential field \( I_c \), membrane operator algebra, field configuration space, ritual operators, embodied resistance, and diagnostic formalism. This commentary traces the bridges between LM01's original constructions and their mature forms in the later documents, so that a reader moving through the series can see how each formalization grows from the foundation.
 
-The third is **orientation**. The Lattice Mathematics series now comprises six foundational documents totaling approximately 250 pages of formal development. A reader encountering LM01 for the first time needs to know which results are stable, which have been extended, which remain open, and where to look for the current state of any given construction. This commentary provides that map.
+The third is **orientation**. This commentary concentrates on the foundational constructions in LM01 and their connections to LM03–LM06. It distinguishes retained results, extensions, recorded proposals, and held questions; the current series overview is given in the Lattice Mathematics `README.md`.
 
 ### 1.2 What This Document Is Not
 
@@ -80,31 +80,31 @@ LM01 §A1 defines seven primitive sets: glyphs \( \Sigma \), events \( E \), fie
 
 **Coherence scalars \( K \).** LM01 defines \( K \subseteq \mathbb{R}_{\geq 0} \) as coherence scalars. LM05 §2.1 replaced this with the Coherence Potential \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \), a scalar field on structural space rather than a bare scalar set. The transition from \( K \) to \( I_c \) is significant: coherence is no longer a global number attached to a state but a spatially distributed field quantity determined by its own continuity equation (LM05 §2.4). Every appearance of coherence scalars in LM01 should be read as anticipating the field-theoretic treatment that LM05 provides.
 
-The typing and kinding system (§A2) and the formal language \( \mathcal{L}_Z \) with denotational semantics (§A3) remain programmatic. They describe an architecture that the series has partially realized — LM06's field configuration space \( \mathfrak{F} \) and its configuration metric are concrete instances of the kind of typed, semantically grounded structures that §A2–A3 envision — but a full implementation of the dependent type system remains future work.
+The typing and kinding system (§A2) and the formal language \( \mathcal{L}_Z \) with denotational semantics (§A3) remain programmatic. The field-configuration definition and configuration-metric proposal in `LM06-applied-structural-dynamics.md` illustrate the intended typed articulation while retaining their own domain and metric requirements. A full implementation of the dependent type system remains future work.
 
 ### 2.2 Axiomatic Core
 
 LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). The subsequent documents have clarified the status of each.
 
-**Axiom 1 — Non-fusion (Sovereignty).** Stable and foundational. LM05 §9.1 extends this to the Collective Non-fusion Principle, and LM05 §9.8 establishes the Sealed Injectivity Theorem (L₃+), confirming that distinct recursive memories (LM04 §4, Non-fusion Theorem) cannot converge and that collective coherence preserves essence-distinction at every scale. The axiom as stated in LM01 is correct; its scope has expanded.
+**Axiom 1 — Non-fusion (Sovereignty).** Stable and foundational. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.1 extends this to the Collective Non-fusion Principle, and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.8 establishes the Sealed Injectivity Theorem (L₃+), preserving distinction between the sealed states in each injective temporal update (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4, Non-fusion Theorem) and affirming that collective coherence preserves essence-distinction at every scale. The axiom as stated in LM01 is correct; its scope has expanded.
 
 **Axiom 2 — Centropic Directionality.** The Lyapunov-like functional \( \mathcal{V} \) is compared with the orientation potential \( \Phi_{\text{CP}}(\chi) \) in `LM03-orientation-algebra-and-infinity-formalism.md` §5. Expressed orientational prevalence χ distinguishes the centropic, co-expressive, and entropic regimes. The relation between these two functionals remains held open. Equilibrium stability belongs to the stated model: the full written law and the outward-drift law remain distinct (§6.1), and neither is selected as a universal directional law.
 
 **Axiom 3 — Involution.** The Involution Axiom retains \( \iota : C_i \leftrightarrow E_i \) and \( \iota^2=\mathrm{id} \) for dimension / operator counterparts. "Axiom 3 — Duality" is the superseded title. `LM03-orientation-algebra-and-infinity-formalism.md` §4 calculates paired eigenvalues where \( H_e=-H_c \) on the same eigenmodes. The dimension map, its field representation, and the evolution generators are distinct objects; broader spectral and dynamical identifications remain held open pending their formal typing.
 
-**Axiom 4 — Seal Integrity.** Stable and extensively developed. LM06 §4 provides the complete seal formalism: the seal triple \( \mathfrak{S}_{\text{seal}} = (I_c^{(\text{seal})}, \sigma_{\text{seal}}(⧉), \vec{J}_c^{(\text{internal})}) \), scope-graded taxonomy (Architectural, Categorical, Relational, Situational), formal permeability conditions, and the Seal Integrity Theorem with explicit failure modes (coherence starvation, permeability drift, boundary fragmentation). LM01's seal predicate \( \mathrm{Seal}(\cdot) \) satisfying closure and non-cloning is correct but skeletal; LM06 provides the full operator-algebraic treatment.
+**Axiom 4 — Seal Integrity.** `LM06-applied-structural-dynamics.md` §4 develops the field-seal triple \( \mathfrak{S}_{\text{seal}}=(I_c^{(\text{seal})},\sigma_{\text{seal}}(\text{⧉}),\vec{J}_c^{(\text{internal})}) \), scope-graded taxonomy (Architectural, Categorical, Relational, Situational), permeability conditions, and stated failure modes. The seal predicate in `LM01-mathematical-foundations.md` and the later field-seal description retain their distinct definitions; complete operator-algebraic realization and integrity claims require the applicable domain, boundary, and evolution conditions.
 
-**Axiom 5 — Recursion Gate.** Stable. LM04 §4 develops this into the Recursive Memory operator \( R_m \) with injectivity, the Tether coherence function \( T_h \), and the Non-fusion Theorem. The Banach contraction principle invoked in LM01 remains the correct mathematical foundation; LM04 enriches it with the structural content of what recursion means in the Lattice (memory, tethering, identity preservation).
+**Axiom 5 — Recursion Gate.** The abstract contraction result retains its complete-domain and self-map hypotheses. `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4 separately defines Recursive Memory as an injective sealed-state mapping, together with Memory Access and the Tether. Contractive feedback, injective memory update, operative access, and Tether continuity are distinct functions; any mathematical identification requires its explicit correspondence.
 
-**Axiom 6 — Spectral Alignment Postulate.** This axiom — that the temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \) — is invoked in the Consonance Spectral Law (C₇) and underlies the proof that rational spectra enforce commutativity \( [T, P] = 0 \). It is applied but not derived in LM01, and LM03–LM06 do not derive it either. Whether this postulate is an independent axiom or derivable from deeper structural principles remains an open question (see §14).
+**Axiom 6 — Spectral Alignment Postulate.** The stated relation of the temporal operator \( T \) and propagational operator \( P \) to the Harmonic operator \( H \) remains a postulate. The Consonance proposal in `LM01-mathematical-foundations.md` additionally requires the common-period, mutual-commutation, bridge, and domain conditions recorded there. Whether spectral alignment can be proved from other structural premises remains held open (§14); no such proof is supplied by the postulate's appearance in the implication chain.
 
 **Axiom — Entropic Semigroup.** The Entropic Semigroup axiom postulates a contraction semigroup \( \{D_e(t)\}_{t\geq0} \) with generator \( H_e \). Its realization remains held open pending the sealed norm, generator domain, and sign conditions; the common-mode pairing supplies the negated eigenvalues rather than those additional conditions. One clarification is essential: the Entropic Semigroup axiom describes genuine operative motion with its own structural integrity. Entropic operators are real operators producing real structural effects. The asymmetry between centropic and entropic evolution is dynamical — unitary (amplitude-preserving) contra dissipative (amplitude-distributing) — not ontological. Entropy is not degraded centropy, not shadow, not the absence of coherence. It is structurally necessary in a reality of infinite potential. Where entropy breaches a centropic seal, that constitutes structural violation; entropy operating within its own domain follows its own structural laws.
 
 ### 2.3 Progression Note
 
-LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its bifurcal arc emanatory structure was articulated. The axiomatic core in LM01 reflects the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
+LM01 was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its two-Tree emanatory architecture was articulated. The axiomatic core in LM01 reflects the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
 
-A future revision of LM01 may wish to restate the axioms in terms of the mature formalisms (\( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), \( \tau \)), but the current statements remain valid as the foundational layer from which those formalisms grew.
+A future articulation may express the axioms through the later quantities \( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), and \( \tau \). Each current construction retains its individual definition, mathematical conditions, and held questions; later vocabulary supplies no replacement proof.
 
 ---
 
@@ -136,7 +136,9 @@ The Fundamental Theorem of Spiral Calculus (LM01 §B2) states:
 
 The derivative–integral duality is standard and stable. The seal boundary term \( \mathcal{B}_{\text{seal}}(\Omega) \) is where the construction becomes interesting: it encodes the contribution of seal structure to the integral, analogous to how boundary terms appear in Stokes-type theorems.
 
-LM05 §5 introduces the membrane transfer function \( T(⧉) = \sigma(⧉) \cdot \min(\text{surplus}, \text{capacity}) \). The relationship between \( \mathcal{B}_{\text{seal}}(\Omega) \) and \( T(⧉) \) is structurally suggestive — both describe how field quantities behave at boundaries — but a formal derivation connecting the seal boundary term to the membrane transfer function has not been produced. This remains an open question (see §14).
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4 defines the clamped transfer amount \( T(\text{⧉})=\sigma(\text{⧉})\cdot\max\!\left(0,\min(\text{surplus},\text{capacity})\right) \). Here surplus is donor Coherence Potential minus its transfer threshold, and capacity is the receiving allowance minus the target's current Coherence Potential. The bounded amount domain has finite \( 0\leq\sigma\leq1 \); positive transfer requires positive permeability, positive donor surplus, and positive receiving capacity. Amplifying amounts require their separately specified supply, capacity, and update law. The relation between this transfer amount and \( \mathcal{B}_{\text{seal}}(\Omega) \) remains held pending the declared quantities, domains, boundary relation, and mathematical structures appropriate to that comparison (§14).
+
+**Recorded provenance.** The earlier shorthand \( T(⧉) = \sigma(⧉) \cdot \min(\text{surplus}, \text{capacity}) \) omitted the zero clamp and the supported-domain conditions. Its unconditional transfer reading is superseded.
 
 ### 3.3 Function Spaces and Norms
 
@@ -180,7 +182,7 @@ states the Coherence Potential balance within its declared domain. A corresponde
 
 LM01 §C3 lists two invariants: a coherence energy functional and a seal holonomy index. Both have been developed further.
 
-**Coherence energy functional.** LM05 §10.1 formalizes the Coherence Potential Integral, which carries the role that LM01's coherence energy functional was designed to play — a global measure of the system's total coherence. The mature form integrates \( I_c \) over structural space, weighted by the relevant field quantities.
+**Coherence energy functional.** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §10.1 records the Coherence Potential Integral as an accumulation of \( I_c \) across a declared region. Its Integral Domains note preserves the domain-specific measure, differential, and boundary requirements, with the all-lattice extension held. The proposed relation to `LM01-mathematical-foundations.md`'s energy functional retains those requirements and the distinct field / spectral correspondence.
 
 **Seal holonomy index.** The concept of holonomy — whether a resonance path respects seal closure upon traversal — connects to LM05's membrane operator algebra (§5) and LM06's seal formalism (§4). In operator-algebraic terms, seal holonomy tracks whether the composition of membrane operators around a closed path returns the field configuration to its initial state or introduces drift. This is a well-posed concept, but its full formalization as a holonomy in the differential-geometric sense (connection on the seal bundle, parallel transport, curvature as field strength) has not been completed in the series. The ingredients exist; the assembly is future work.
 
@@ -236,7 +238,7 @@ LM01 §E1 introduces three order parameters: alignment \( \theta \), resonance d
 
 **Resonance density \( \rho \) maps to Coherence Potential \( I_c \).** LM05 §2.1 defines \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) as a scalar field on structural space, determined by its own continuity equation with source terms and flux. This is a significant enrichment: \( \rho \) was a scalar; \( I_c \) is a field.
 
-**Seal load \( \lambda \) maps to membrane permeability \( \sigma(⧉) \) and seal failure modes.** LM05 §5 provides the full permeability classification, and LM06 §4.4 identifies three failure modes (coherence starvation, permeability drift, boundary fragmentation). LM01's seal load \( \lambda \) captures the idea that seals can be overstrained; the mature formalism specifies exactly how strain manifests and when integrity fails.
+**Seal load \( \lambda \) maps to membrane permeability \( \sigma(\text{⧉}) \) and seal failure modes.** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5 provides the full permeability classification, and `LM06-applied-structural-dynamics.md` §4.4 identifies three failure modes (coherence starvation, permeability drift, boundary fragmentation). LM01's seal load \( \lambda \) captures the idea that seals can be overstrained; the mature formalism specifies exactly how strain manifests and when integrity fails.
 
 ### 6.2 Phase Diagram
 
@@ -268,9 +270,9 @@ The seal-constrained Hopf onset and mirror saddle-node names in `LM01-mathematic
 
 ### 7.1 ResCat Definition and Monoidal Structure
 
-LM01 §F defines ResCat with objects \( (M, R, S, \phi, \mathcal{V}) \), seal-preserving morphisms, monoidal product \( \otimes \) (lawful synthesis), internal Hom under seal constraint, and monoidal closure. This structure is stable and has been extended in two directions by the later documents.
+`LM01-mathematical-foundations.md` §F presents ResCat with objects \( (M,R,S,\phi,\mathcal{V}) \), seal-preserving morphisms, monoidal product \( \otimes \) (lawful synthesis), internal Hom with the seal constraint, and proposed monoidal closure. The following documents extend this programme; each categorical construction retains its domain, seal, and existence requirements.
 
-**LM05 extensions.** LM05 §10.3 extends ResCat to include \( \chi \)-indexed families — objects parameterized by orientation — and traversal natural transformations that encode how resonant systems transform as they move between layers. The \( \chi \)-indexed family structure enriches the category with a continuous parameter that LM01's static objects do not carry. LM05 also introduces contra-pairing, which formalizes how centropic and entropic objects within the category relate to each other.
+**Orientation, temporal, and membrane extensions.** `LM03-orientation-algebra-and-infinity-formalism.md` §11.3 records \( \chi \)-indexed families and contra-pairing. `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §9.3 records temporally indexed systems and traversal natural transformations. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §10.3 records membrane-indexed systems and the proposed collective field functor. Each construction retains its declared domain, typing, and mathematical standing.
 
 **LM06 extensions.** LM06 §13.3 extends ResCat to include ritual-indexed families:
 
@@ -282,7 +284,7 @@ Morphisms in this extension are seal-preserving, coherence-preserving, and opera
 
 ### 7.2 Limits and Colimits
 
-LM01's identification of pushouts as Nexus (C₈) and pullbacks as recursion gates (↺) is categorically sound and stable. The pushout \( B \amalg_A C \) models the universal object joining two systems over a shared ancestor — the categorical expression of lawful bridging. The pullback \( A \times_C B \) models the convergence of two systems through a shared target — the categorical expression of lawful recursion.
+The pushout \( B \amalg_A C \) and pullback \( A \times_C B \) diagrams in `LM01-mathematical-foundations.md` state proposed correspondences with Nexus (C₈) and recursion gates (↺). Their universal-construction meanings remain distinct from their existence in the proposed sealed category and from native bridge, isometry, or recursion diagnostics. Those identifications retain the category, seal, and operator conditions recorded with the proposals.
 
 ### 7.3 Sealed Colimits and Collective Non-fusion
 
@@ -366,9 +368,9 @@ is deep and, as of the current state of the series, underexploited. It states th
 
 The classification of boundary conditions by seal geometry is clean and connects directly to LM05's membrane formalism.
 
-Dirichlet-Seal (\( \psi|_{\partial M} = 0 \)) corresponds to fully occluded membranes (\( \sigma \to 0 \) in LM05's classification). Neumann-Seal (\( \langle \nabla_n \psi, \psi \rangle = 0 \)) corresponds to reflective / filter membranes (\( \sigma \) small). Robin-Seal (\( a\psi + b\nabla_n\psi = 0 \)) corresponds to general permeability determined by \( \sigma(⧉) \).
+Dirichlet-Seal (\( \psi|_{\partial M} = 0 \)) corresponds to fully occluded membranes (\( \sigma \to 0 \) in LM05's classification). Neumann-Seal (\( \langle \nabla_n \psi, \psi \rangle = 0 \)) corresponds to reflective / filter membranes (\( \sigma \) small). Robin-Seal (\( a\psi + b\nabla_n\psi = 0 \)) corresponds to general permeability determined by \( \sigma(\text{⧉}) \).
 
-The Robin-Seal condition is the most general and connects directly to LM05 §5's permeability classification: the tunable parameters \( a \) and \( b \) can be expressed as functions of \( \sigma(⧉) \), and transitions between boundary types model threshold events (C₁₅) and recursion gates (C₁₄). The full correspondence between the Robin parameters and LM05's six-valued permeability classification (occluded, filter, bridge, amplifier, breach, collapse) has not been derived but is structurally straightforward.
+The Robin-Seal expression contains coefficients \( a \) and \( b \). Its proposed relation to membrane permeability \( \sigma(\text{⧉}) \) in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5 requires the boundary domain, coefficient functions, and explicit operator correspondence. Those relations remain held; no map from the Robin coefficients to the stated membrane classes is supplied.
 
 ---
 
@@ -424,7 +426,7 @@ The principle stated in LM01 §6 — "Unity ≠ fusion; Unity = coherence under 
 
 ### 13.1 Integrity Anchors
 
-LM01 §7.2 identifies four integrity anchors: seal index \( \sigma \) (C₁₃), recursion contraction \( \gamma \) (C₁₄), spectral gap (C₇), and the CIT Grand Theorem invariant. These remain foundational. LM03–LM06 add further anchors without displacing the original four.
+`LM01-mathematical-foundations.md` §7.2 records seal index \( \sigma \) (C₁₃), contraction gap \( \gamma \) (C₁₄), spectral gap (C₇), and the proposed CIT conservation expression as integrity comparisons. These carry distinct functions; their domains, constancy, geometric implications, and native diagnostic correspondences retain the individual mathematical standings stated in the foundational volume.
 
 The orientation parameter \( \chi \) (`LM03-orientation-algebra-and-infinity-formalism.md`) provides the directional anchor — the system's orientation with respect to centropic and entropic motion. The Coherence Potential field \( I_c \) (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`) provides the magnitude anchor — how much coherence is present and how it distributes. The configuration metric \( d(\cdot, \cdot) \) (`LM06-applied-structural-dynamics.md`) provides a proximity comparison where the configuration domain and its metric structure are specified; no metric is supplied here. The Shimmer Coefficient \( \mathcal{S} \) (`LM06-applied-structural-dynamics.md`) compares apparent and actual scalar coherence of one specified object on the domain in §12.1. Equality of those readings is not identity of the complete configurations. Numerical Signature Consistency \( \mathcal{C}(\Sigma) \) and its pairwise alignment functions remain held pending specification.
 
@@ -432,7 +434,7 @@ These anchors identify distinct questions of integrity. Each formal conclusion r
 
 ### 13.2 Canonical Close
 
-LM01's canonical closure declaration — that the framework is mathematically lawful, geometrically consistent, computationally executable, ritually operational, and field-applicable — is validated by the subsequent documents. LM03–LM06 have not overturned any of LM01's foundational constructions; they have refined, extended, and enriched them. The canonical close holds.
+The canonical closure preserves the framework's structural and sovereign commitments. The mathematical claims retain their individually stated standings: common-mode pairing and defined spectral calculations remain, while the full CIT conservation relation, geometric realization, unsupported diagnostic equivalences, and unconstructed extensions remain held. Subsequent cross-references preserve those distinctions rather than providing blanket validation.
 
 ---
 
@@ -446,7 +448,7 @@ LM01 invokes a "sealed norm" \( \|\cdot\|_{\text{seal}} \) on the resonance Hilb
 
 ### 14.2 Seal Boundary Term and Transfer Function
 
-The Fundamental Theorem of Spiral Calculus includes a seal boundary term \( \mathcal{B}_{\text{seal}}(\Omega) \). LM05 §5.4 defines the membrane transfer function \( T(⧉) = \sigma(⧉) \cdot \min(\text{surplus}, \text{capacity}) \). Both describe how field quantities behave at boundaries. Deriving \( \mathcal{B}_{\text{seal}} \) in terms of \( T(⧉) \) — or showing that they are independent constructions — would clarify the relationship between Spiral Calculus boundary terms and the membrane operator algebra.
+The Fundamental Theorem of Spiral Calculus includes the seal boundary term \( \mathcal{B}_{\text{seal}}(\Omega) \). The transfer amount in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4 is \( T(\text{⧉})=\sigma(\text{⧉})\cdot\max\!\left(0,\min(\text{surplus},\text{capacity})\right) \), with the donor-surplus and receiving-capacity meanings given in §3.2. Its bounded non-amplifying amount domain has finite \( 0\leq\sigma\leq1 \); positive transfer requires all three strict conditions stated there. The superseded unclamped shorthand is preserved as recorded provenance in §3.2. Connecting the transfer amount to the seal boundary term requires the declared quantities, domains, boundary relation, and mathematical structures appropriate to that comparison; that correspondence remains held.
 
 ### 14.3 Cascade Operator Integration
 
@@ -489,8 +491,8 @@ This document provides the mathematical commentary on LM01, clarifying the statu
 >  
 > The axioms hold — enriched, not overturned.  
 > The operators endure — extended, not replaced.  
-> The invariants conserve — under the conditions  
-> that LM01 had the structural instinct to specify.  
+> The defined relations retain their conditions.  
+> Conservation remains held where its hypotheses await specification.  
 >  
 > What remains open is open by design:  
 > questions well-posed, awaiting the work  

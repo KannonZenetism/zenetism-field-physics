@@ -392,6 +392,9 @@ where \( P_{IL_k} \) projects onto band \( IL_k \), and \( H_e^{(k)} \) are entr
 
 #### Theorem (Consonance Spectral Law, C₇)
 
+> **Note on the Consonance Proposal:**  
+> The statements, proof sketch, and native diagnostic interpretations in this block are recorded proposals. Their implication chain remains held pending the operator domains, the applicable common-period conditions, mutual commutation hypotheses, and the bridge operator's norm relation. Commutation with a common operator is distinct from mutual commutation on its degenerate eigenspaces. Rationality of spectral ratios supplies no independent isometry condition for the bridge. No replacement spectral law or bridge hypothesis is selected.
+
 Let \( H \) be the Harmonic operator (C₇), self-adjoint on \( \mathcal{H} \) with spectrum \( \{\lambda_i\} \).
 Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), and bridge operator \( B \) (C₈).
 
@@ -443,6 +446,9 @@ Define temporal operator \( T \) (C₁), propagational operator \( P \) (C₃), 
 ---
 
 #### Theorem (Nexus Law, C₈ — Categorical Commutativity)
+
+> **Note on the Nexus Proposal:**  
+> The commuting-square relation is the stated categorical comparison. The proposed equivalence with lossless isometry and the subsequent native diagnostic consequences remain held with the Consonance proposal until the bridge action, domain, norm, and seal relations are specified. The following proof sketch records the proposed implication chain; it supplies no additional operator realization.
 
 **Statement**
 
@@ -536,6 +542,9 @@ Failure in any condition maps to E₁₃ / E₁₄ / E₁₅.
 
 ### Theorem (Seal No-Cloning — Impossibility of Duplicating Coherence)
 
+> **Note on the No-Cloning Proposal:**  
+> The following superposition calculation is a recorded proof proposal. Its theorem requires the precise linear-map domain, admissible sealed states, and superposition closure; the categorical extension and claimed comparison with quantum no-cloning remain held pending that specification. The later authorship-security and inevitable-collapse corollaries are withdrawn as mathematical consequences of this calculation. Origin and origin-signal remain intact; copying surface expressions establishes neither generative equivalence nor origination. Registered E-functions require their own diagnostic conditions. No sealed-state space or new cloning theorem is supplied.
+
 **Statement**  
 
 Let \( (X, \psi) \) be a coherent resonant system sealed under operator \( S \) (a centropic seal such that \( S\psi = \psi \)).  
@@ -594,6 +603,9 @@ In **ResCat**, this means no functor can duplicate sealed morphisms while remain
 ---
 
 ### Theorem (Recursion Gate — Contractive Mapping Principle)
+
+> **Note on Contractive and Non-contractive Cases:**  
+> The abstract Banach conclusion applies to a contractive self-map of a declared complete metric domain. Realization in the sealed space retains the domain and norm requirements stated in §B3. The following converse assertions that non-contractivity forces divergence, cycling, or an E-state are recorded proposals with their implications withdrawn. Non-contractivity leaves the dynamics undetermined. The identity map, for example, has fixed points. No replacement recursion dynamics or native classifier is specified.
 
 **Statement**  
 
@@ -1053,6 +1065,9 @@ This quotient requires \( I_c(\mathrm{in})>0 \), \( \sigma>0 \), and admissible 
 
 #### Metric 5: Spiral Convergence Factor
 
+> **Note on the Contraction Gap:**  
+> The definition \( \gamma=1-k \) is retained. A positive gap certifies the stated contraction estimate; the fixed-point result requires the self-map, complete domain, and metric hypotheses. The following native classifications and necessary cycling / expansion claims are recorded interpretations with their universal implications withdrawn. A nonpositive gap supplies no particular trajectory or native-orientation verdict.
+
 **Definition**  
 Given recursion operator \( R \) with contraction ratio \( k \), define spiral convergence factor:  
 
@@ -1192,6 +1207,9 @@ The earlier direct identification of these outcomes with Spiral Limits is record
 ---
 
 ### Proposition (Nexus as Pushout in ResCat)
+
+> **Note on Categorical Standing:**  
+> The following pushout, pullback, functorial-lattice, and field-geometry entries record proposed correspondences. Their existence, domain, compatibility, and native diagnostic claims remain held pending the stated categorical and operator realization. Failure of a proposed construction is distinct from activation of a separately registered E-function. The displayed diagrams and formulas are preserved; no replacement categorical structure is supplied.
 
 Consider morphisms \( f : A \to B \), \( g : A \to C \) in ResCat.  
 If seals are compatible, the **pushout** \( B \amalg_A C \) exists and represents a lawful bridge (C₈).  
@@ -1677,7 +1695,7 @@ def recursion_step(R, ψ):
     k = sup_{ψ1 ≠ ψ2} ||Rψ1 - Rψ2|| / ||ψ1 - ψ2||
     γ = 1 - k
 
-    valid = (k < 1)   # lawful recursion iff contractive
+    valid = (k < 1)   # stated contraction criterion; native verdict requires its correspondence
     return ψ_prime, γ, valid
 ```
 
@@ -1765,7 +1783,7 @@ estimate contraction ratio:
 γ = 1 - k
 
 verdict:
-    veracious recursion iff γ > 0
+    contraction criterion met iff γ > 0; native verdict held pending its correspondence
 ```
 
 - **CIT Grand Invariant Check**  
@@ -1800,7 +1818,7 @@ for epoch in 1..E:
     # optional: recursion gate (↺ / C₁₄)
     if use_recursion:
         ψ, γ, valid = recursion_step(R, ψ)
-        assert valid, "Unlawful recursion (E₁₄)"
+        assert valid, "Stated contraction criterion is not met"
 
     # boundary seals (C₁₃)
     ψ = apply_seal_boundary(ψ, σ)
@@ -2023,7 +2041,7 @@ Verification is always expressed in CIT and ResCat terms.
   \[
   D_c(\psi_{n+1} \| \psi_n) \text{ decreases monotonically}
   \]
-- **Outcome:** Recursion is centropic iff divergence strictly contracts.
+- **Outcome standing:** Spectral divergence contraction and native centropic recursion require their declared channel, metric, and correspondence conditions.
 
 ---
 
@@ -2138,7 +2156,7 @@ Each entry follows the protocol schema in §5.2.
   D_c(\psi_{n+1} \| \psi_n) < D_c(\psi_n \| \psi_{n-1}) \quad \forall n
   \]
 - **Purpose:**  
-  Guarantees sustained presence by lawful convergence of coherence under recursive return.
+  States the aim of sustained presence through recursive return; the spectral-contraction and native-persistence correspondence remains held.
 
 ---
 
@@ -2232,7 +2250,7 @@ Each entry follows the protocol schema in §5.2.
 
 ### 5.6 General Verification Protocol
 
-Every rite is validated by the following CIT–ResCat pipeline:
+The following CIT–ResCat pipeline records proposed verification criteria; native validation retains the domain and correspondence requirements stated in Phase 5:
 
 1. **Pre-scan:** record
    **Recorded spectral proposal — native implication / conservation held.**
@@ -2245,7 +2263,7 @@ Every rite is validated by the following CIT–ResCat pipeline:
 
 **Validity Conditions**
 
-A rite is structurally veracious iff:
+The following criteria remain recorded proposals; each native verdict requires its established structural conditions and mathematical correspondence:
 
 - CIT invariant stability:
   **Recorded spectral proposal — native implication / conservation held.**
@@ -2543,12 +2561,12 @@ Verification proceeds on three strata:
 
 ### 7.2 Integrity Anchors
 
-System fidelity is bound by four invariants:
+Four quantities and proposed relations organize the integrity assessment; each retains its own mathematical standing:
 
 - **Seal Index** (\( \sigma \), C₁₃): boundary law.
 - **Recursion Contraction** (\( \gamma \), C₁₄): lawful looping.
 - **Spectral Gap** (C₇): stabilization of consonance.
-- **Invariant Conservation**: constancy of the Grand Theorem.
+- **Proposed Conservation**: the full CIT expression and its native correspondence remain held pending the Phase 2 hypotheses.
 
 Together, these define the **integrity vector** of any resonance system.
 
@@ -2604,13 +2622,13 @@ For any enacted protocol:
 
 The Dimensional Emanatory Lattice and the mathematical basis of Zenetism (Phases 1–7) are hereby sealed as a coherent and sovereign system.
 
-The framework is:
+The canonical framework preserves sovereign distinction and the registered structural relations. Its mathematical constructions carry their individual domains, hypotheses, and proof standings.
 
-- **Mathematically lawful** — bound by formal theorems and invariants.
-- **Geometrically consistent** — encoded in spectral curvature.
-- **Computationally executable** — realized through algorithms.
-- **Ritually operational** — enacted through protocols.
-- **Field-applicable** — preserving sovereignty across beings and systems.
+- **Mathematical standing** — stated axioms and conditional results, with the identified proof constructions held
+- **Geometric standing** — recorded spectral-geometric programme awaiting its domain-specific realization
+- **Computational standing** — pseudocode for specified calculations, with unsupported native classifiers held
+- **Protocol standing** — structural procedures and aims, with their mathematical verification correspondences held
+- **Field-application standing** — proposed applications preserving sovereignty and requiring the relevant cross-register conditions
 
 Fusion is rejected.  
 Collapse into sameness is entropic.  
