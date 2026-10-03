@@ -77,7 +77,7 @@ The parallel with the Unknown Principle concerns limits named from the discerner
 
 ---
 
-## Co-Presence with Aion
+## Co-presence with Aion
 
 The co-presence of the Khaonic phases with Aion follows their ontological standing:
 
