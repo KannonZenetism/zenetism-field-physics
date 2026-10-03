@@ -45,7 +45,7 @@ Introduces:
 - Spectral geometry foundations
 - Computational lattice framing
 
-LM01 establishes the core operator language and invariant structure.
+`LM01-mathematical-foundations.md` sets out the core operator language and invariant constructions with their stated hypotheses and held-open questions.
 
 ---
 
@@ -68,7 +68,7 @@ Formalizes:
 - Orientation Drift Theorem
 - Laws of Inclined Existence
 
-LM03 introduces orientation-dependent mathematics and establishes polar spectral symmetry.
+`LM03-orientation-algebra-and-infinity-formalism.md` introduces orientation-dependent mathematics and retains common-mode spectral pairing. Stronger spectral-dynamical claims remain held pending specification.
 
 ---
 
@@ -130,7 +130,7 @@ Formalizes:
 
 - The Khaonic expression ratio \( \kappa \) as a modifier of interface resistance
 - Compounded cost algebra and the budget exhaustion condition
-- Essence–function independence: depletion of \( I_c \) does not reorient \( \chi \)
+- Essence–function independence: depletion of \( I_c \) does not alter intrinsic essential inclination; \( \chi \) remains expressed orientational prevalence
 - The Coherence Breaker Limit
 - Recovery integral theory and Tether restoration dynamics
 - The social field as an instance of the field configuration space, with collective orientation and harmonic amplification
@@ -175,10 +175,10 @@ The spectral expression retains its mathematical meaning where defined; native c
 
 ### Orientation Algebra
 
-- \( \chi \) parameter (structural orientation, not statistical)
+- \( \chi \) parameter (expressed orientational prevalence, not a statistical quantity)
 - Spectral rotation: \( r(\chi) = (1 - \chi) / (1 + \chi) \)
 - Effective operator: \( H_{\text{eff}}(\chi) = w_C(\chi) H_c + w_E(\chi) H_e \)
-- Polar spectrum symmetry: \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \)
+- Spectral relation when the full operator domains realize \( H_e = -H_c \): \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \) (`LM03-orientation-algebra-and-infinity-formalism.md` §4.1)
 - Centropic / entropic weighting: \( w_C + w_E = 1 \)
 
 Determines directionality of structural evolution.
@@ -188,7 +188,7 @@ Determines directionality of structural evolution.
 ### Recursive Memory and Traversal
 
 - Injective Recursive Memory operator \( \mathfrak{R}_m \)
-- Non-fusion Theorem (distinct histories cannot converge)
+- Non-fusion Theorem (distinct sealed histories are not identified)
 - Tether coherence function \( \mathcal{T}_h \)
 - Declivous / acclivous traversal operators
 - Reflection Principle at embodiment (L₁)
@@ -310,8 +310,8 @@ Zenetist documents follow a structural lexicon that avoids moralized binaries an
 | \( \mathcal{T}_h \) | The Tether | Temporal Algebra |
 | \( \mathfrak{S} \) | Absolute Structure (SI) | Structural Space |
 | \( \mathfrak{d}(\mathcal{L}) \) | Structural space | Structural Space |
-| ⚫ Aion | Zero, Absolute Potential | Metaphysical Poles |
-| ♾ Khaon | Infinity, Absolute Dispersion | Metaphysical Poles |
+| ⚫ Aion | Zero, Absolute Potential | Bifurcal Root-Registers |
+| ♾ Khaon | Infinity, Absolute Dispersion | Bifurcal Root-Registers |
 | 🕳️ Zenon | Unknown Principle | Trans-structural |
 | ⦿ Kaion | Convergence Principle | Phase Resolution |
 | 🏛️ Structon | Absolute Structural Invariant | Ontological Ground |
@@ -359,7 +359,7 @@ If referencing this discipline, cite the work as *Lattice Mathematics: The Forma
 
 The eight volumes are Active and citable as current, and remain open to revision.
 
-Core operator algebra and invariants are stable. LM03–LM07 carry the full formalization of the Structural Physics series (SP02–SP12); LM07 additionally carries the formalization of Structural Neuroscience SN05–SN07.
+The volumes preserve established operator constructions and their stated conditions. Full spectral evolution, CIT conservation and native correspondence, and the other recorded mathematical constructions remain held where their specifications are incomplete. LM03–LM07 carry mathematical treatments applied in the Structural Physics series (SP02–SP12); LM07 also carries the cost and recovery treatment applied in Structural Neuroscience SN05–SN07.
 
 ---
 
