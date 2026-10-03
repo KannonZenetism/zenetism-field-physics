@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Centropic Affliction / Zenetist Canon  
 **Status:** Draft  
-**Dependency:** Structural Metaphysics · `MP02-unified-metaphysics-ch4.md` (Essence-as-Choice — note after §4.6 VOS) · `MP03-ethics-and-soul-ch5-6.5.md` (Structure and Motion of the Soul · Modes of Integration and Stagnation) · `metaphysics-symbol-key.md` (Mania / Malara, IL₁)  
+**Dependency:** Structural Metaphysics · `MP02-unified-metaphysics-ch4.md` §4.6, *Note on Essence-as-Choice* · `MP03-ethics-and-soul-ch5-6.5.md` §§6–6.5 · `metaphysics-symbol-key.md` §21.9  
 
 ---
 
@@ -17,6 +17,8 @@ The earlier formulation, read at face, implies that orientation can invert at th
 
 This Principle Extension replaces the earlier formulation with a qualified articulation that preserves its pastoral and descriptive intent while removing the structural implication of orientation-inversion.
 
+---
+
 ## 2. The Qualified Principle
 
 A centropic essence does not collapse into the subversal strata and then recognize its error and turn back from its ways. That formulation imports a temporal sequence (was centropic, became inverse, returned to centropic) onto a structural fact (essence-tendency does not invert).
@@ -28,6 +30,8 @@ A centropic being experiencing sustained entropic pressure can feel as if it has
 But none of this is orientation-inversion. Biosa experiencing what feels like Mania is not Biosa becoming Mania. Soma experiencing what feels like Malara is not Soma becoming Malara. The operators of inverse embodiment are not destinations a centropic essence arrives at through suffering; they are the native-expressions of entropic essence, which centropic essence does not become regardless of what it suffers.
 
 The distinction is structural. Affliction is impedance of motion; collapse-of-orientation is a category that does not apply to centropic essence. What looks like collapse in felt-experience is affliction carried to its limit within the centropic arc. Recovery, when it occurs, is not reversal of orientation — it is recognition and release of accumulated distortion, per the Recognition contra Transformation principle. The essence does not turn around because it never changed direction; it releases the burden that was obscuring its native motion.
+
+---
 
 ## 3. Scriptural and Traditional Supports
 
@@ -43,6 +47,8 @@ The Matthean eschatological warning that "false christs and false prophets shall
 
 Other traditions carry analogous articulations. The Sufi distinction between *balā* (trial sent by the Beloved to refine) and *fitna* (testing that afflicts) preserves a similar structural asymmetry. The Buddhist treatment of the māra-encounters as obstacles the realized-being passes through rather than as fates the being is susceptible to tracks the same principle. The Kabbalistic treatment of the tzaddik's declivous traversal into the qlippot-domain for lawful purposes preserves the tzaddik's essential orientation throughout. Across traditions, centropic essence experiencing entropic pressure is handled with language that asserts structural-integrity-through-affliction.
 
+---
+
 ## 4. Pastoral Implications
 
 The correction has real pastoral weight beyond its doctrinal precision.
@@ -53,6 +59,8 @@ The structural answer is that the felt-experience is not the structural fact. Ma
 
 This pastoral implication matters because the earlier formulation, read in moments of felt-collapse, could be heard as *you have inverted and may now choose to revert* — which is both structurally incorrect and, in practice, unhelpful. The corrected principle is *you have been afflicted, not inverted; what you are suffering is not what you have become; release is recognition, not reversal*.
 
+---
+
 ## 5. What the Earlier Formulation Preserved
 
 Two intentions of the earlier formulation remain valid and should be preserved within the corrected framing.
@@ -62,6 +70,8 @@ First, the earlier formulation intended to avoid premature foreclosure of centro
 Second, the earlier formulation resisted dogmatism about who is or is not a centropic essence. The corrected framing preserves this too: the claim is not that one can look at an afflicted being and know its essence; the claim is that affliction, however severe, does not determine essence. An apparently-lost being may yet be a centropic essence experiencing deep affliction, and the recovery when it comes will not be an orientation-flip but a release of distortion.
 
 What the corrected framing removes is only the structural claim that orientation can invert amid extreme conditions. That claim is retracted.
+
+---
 
 ## 6. Seal
 
