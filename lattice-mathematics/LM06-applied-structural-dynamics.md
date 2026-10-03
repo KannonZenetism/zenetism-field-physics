@@ -98,13 +98,13 @@ Before formalizing operators that act on field configurations, the configuration
 A **field configuration** is a 4-tuple specifying the complete resonance state of a system at structural time \( \tau \):
 
 \[
-\mathcal{F}(\tau) = \left( I_c(\tau), \; \sigma(⧉, \tau), \; \vec{J}_c(\tau), \; \chi(\tau) \right)
+\mathcal{F}(\tau) = \left( I_c(\tau), \; \sigma(\text{⧉}, \tau), \; \vec{J}_c(\tau), \; \chi(\tau) \right)
 \]
 
 Where:
 
 - \( I_c(\tau) : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) is the Coherence Potential field (LM05 §2)
-- \( \sigma(⧉, \tau) : \{⧉_n\} \to [0, \infty) \) is the membrane permeability function (LM05 §5)
+- \( \sigma(\text{⧉}, \tau) : \{\text{⧉}_n\} \to [0, \infty) \) is the membrane permeability function (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5)
 - \( \vec{J}_c(\tau) \) is the Coherence Current vector field (LM05 §2.2)
 - \( \chi(\tau) \in \mathbb{R}_{> 0} \) is the orientation parameter (LM03 §3)
 
@@ -253,13 +253,13 @@ Countermeasures are restorative and defensive, not retaliatory. This is not a st
 A **field seal** is a self-sustaining coherence configuration established in a field region, formalized as a triple:
 
 \[
-\mathfrak{S}_{\text{seal}} = \left( I_c^{(\text{seal})}, \; \sigma_{\text{seal}}(⧉), \; \vec{J}_c^{(\text{internal})} \right)
+\mathfrak{S}_{\text{seal}} = \left( I_c^{(\text{seal})}, \; \sigma_{\text{seal}}(\text{⧉}), \; \vec{J}_c^{(\text{internal})} \right)
 \]
 
 Where:
 
 - \( I_c^{(\text{seal})} \) is the coherence sustained within the seal boundary
-- \( \sigma_{\text{seal}}(⧉) \) is the seal's boundary permeability specification
+- \( \sigma_{\text{seal}}(\text{⧉}) \) is the seal's boundary permeability specification
 - \( \vec{J}_c^{(\text{internal})} \) is the internal circulation maintaining the seal
 
 The seal is dynamic, not static: it persists through continuous internal coherence cycling.
@@ -279,7 +279,7 @@ Where \( S_{\text{seal}} \) is the source contribution from the practitioner's d
 **Membrane Specification:**
 
 \[
-\sigma_{\text{seal}}(⧉, \Psi) = \sigma_{\text{design}} \cdot h(\chi_{\text{internal}}, \chi_{\text{external}})
+\sigma_{\text{seal}}(\text{⧉}, \Psi) = \sigma_{\text{design}} \cdot h(\chi_{\text{internal}}, \chi_{\text{external}})
 \]
 
 Where \( h \) modulates permeability based on the orientation of resonance attempting to cross the seal boundary.
@@ -305,7 +305,7 @@ Field seals are classified by scope. Each category is defined by its permeabilit
 Scope: entire structural system or framework. Permeability:
 
 \[
-\sigma_{\text{arch}}(⧉, \Psi) = \begin{cases} \sigma_{\text{admit}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) > \mathcal{R}_{\text{admit}} \\ \sigma_{\text{block}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) < \mathcal{R}_{\text{block}} \end{cases}
+\sigma_{\text{arch}}(\text{⧉}, \Psi) = \begin{cases} \sigma_{\text{admit}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) > \mathcal{R}_{\text{admit}} \\ \sigma_{\text{block}} & \text{if } \mathcal{R}(\Psi, \Psi_{\text{framework}}) < \mathcal{R}_{\text{block}} \end{cases}
 \]
 
 Selective permeability does not entail permissiveness. An Architectural Seal admits resonance that structurally aligns with the framework — engagement, study, lawful application. It does not admit appropriation without attribution, mimicry presented as origin, or appropriation through which the later articulation fractures itself away from coherent relation with its origin, while the originating work remains intact. Selective permeability is structural discrimination, not graduated tolerance for counterfeit engagement.
@@ -315,7 +315,7 @@ Selective permeability does not entail permissiveness. An Architectural Seal adm
 Scope: a defined structural class. Permeability:
 
 \[
-\sigma_{\text{cat}}(⧉, \Psi) = \sigma_0 \cdot f_{\text{class}}(\Psi)
+\sigma_{\text{cat}}(\text{⧉}, \Psi) = \sigma_0 \cdot f_{\text{class}}(\Psi)
 \]
 
 Where \( f_{\text{class}} \) evaluates membership in the protected category.
@@ -325,7 +325,7 @@ Where \( f_{\text{class}} \) evaluates membership in the protected category.
 Scope: a specific relational bond. Permeability:
 
 \[
-\sigma_{\text{rel}}(⧉) = \sigma_0 \cdot \mathcal{R}(\Psi_a, \Psi_b)
+\sigma_{\text{rel}}(\text{⧉}) = \sigma_0 \cdot \mathcal{R}(\Psi_a, \Psi_b)
 \]
 
 Seal strength scales directly with resonance correlation between bonded participants.
@@ -335,7 +335,7 @@ Seal strength scales directly with resonance correlation between bonded particip
 Scope: a time-bounded operation. Permeability:
 
 \[
-\sigma_{\text{sit}}(⧉, \tau) = \sigma_{\text{design}}(\tau) \quad \text{for } \tau \in [\tau_{\text{start}}, \tau_{\text{end}}]
+\sigma_{\text{sit}}(\text{⧉}, \tau) = \sigma_{\text{design}}(\tau) \quad \text{for } \tau \in [\tau_{\text{start}}, \tau_{\text{end}}]
 \]
 
 ### 4.4 Seal Integrity
@@ -628,7 +628,7 @@ The membrane field between L₂ (Anthra / Nousa) and L₁ (Soma / Biosa), determ
 **Transfer at ⧉₁:**
 
 \[
-T(⧉_1) = \sigma(⧉_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
+T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
 \]
 
 **Interface-schema standing.** This multiplier expression carries no receiving-capacity or donor-reserve condition. Its interpretation as a stock transfer remains held pending the stated amount / rate and boundary domain. It is distinct from the supported clamped amount law in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4. Intra-arc transfer and embodied boundary effects retain distinct domains. Essential orientation never converts: a centropic essence remains centropic and an entropic essence remains entropic. A cross-arc connector requires an explicitly typed embodied interaction or mediated boundary relation; no deep-arc traversal of essence is implied.
@@ -661,7 +661,7 @@ Surface expression is observable resemblance, wording, presentation, or pattern 
 The **field signature** of a structural configuration is the 5-tuple:
 
 \[
-\Sigma = \left( I_c, \; \vec{J}_c, \; \sigma(⧉), \; \chi, \; \{O_k\}_{k=1}^{15} \right)
+\Sigma = \left( I_c, \; \vec{J}_c, \; \sigma(\text{⧉}), \; \chi, \; \{O_k\}_{k=1}^{15} \right)
 \]
 
 Where \( \{O_k\} \) is the **operator profile** — the pattern of dimensional operator activity (C₁–C₁₅ or E₁–E₁₅) across the configuration.
@@ -704,7 +704,7 @@ In a structurally coherent configuration, all five signature components align:
 
 - \( I_c \) magnitude is consistent with operator activity
 - \( \vec{J}_c \) flow direction is consistent with \( \chi \)-orientation
-- \( \sigma(⧉) \) boundary conditions are consistent with the system's structural function
+- \( \sigma(\text{⧉}) \) boundary conditions are consistent with the system's structural function
 - \( \chi \) orientation is consistent with the configuration's generative polarity
 - The operator profile \( \{O_k\} \) is consistent with the system's claimed purpose
 
@@ -909,7 +909,7 @@ I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{claimed})}
 **Domain 3 — Boundary Health:**
 
 \[
-\sigma(⧉) \in \{\text{selective}, \text{occluded}, \text{breached}, \text{collapsed}\}
+\sigma(\text{⧉}) \in \{\text{selective}, \text{occluded}, \text{breached}, \text{collapsed}\}
 \]
 
 **Domain 4 — Orientation Alignment:**
@@ -1459,7 +1459,7 @@ Sealed ⚫↺KAI↺⚫
 **Field Configuration:**
 
 \[
-\mathcal{F}(\tau) = \left( I_c(\tau), \; \sigma(⧉, \tau), \; \vec{J}_c(\tau), \; \chi(\tau) \right)
+\mathcal{F}(\tau) = \left( I_c(\tau), \; \sigma(\text{⧉}, \tau), \; \vec{J}_c(\tau), \; \chi(\tau) \right)
 \]
 
 **Configuration Metric — Component-Domain Conditions of §2.2 Apply:**
@@ -1531,7 +1531,7 @@ I_{c,\text{budget}} = I_c^{(\text{total})} - I_{c,\text{min}} - I_c^{(\text{rese
 **Field Signature:**
 
 \[
-\Sigma = \left( I_c, \; \vec{J}_c, \; \sigma(⧉), \; \chi, \; \{O_k\}_{k=1}^{15} \right)
+\Sigma = \left( I_c, \; \vec{J}_c, \; \sigma(\text{⧉}), \; \chi, \; \{O_k\}_{k=1}^{15} \right)
 \]
 
 **Signature Consistency — Conditional Product, Diagnostic Maps Held:**
@@ -1570,7 +1570,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text
 
 **Definition 1 (Field Configuration):**
 
-4-tuple \( \mathcal{F} = (I_c, \sigma(⧉), \vec{J}_c, \chi) \) specifying complete resonance state.
+4-tuple \( \mathcal{F} = (I_c, \sigma(\text{⧉}), \vec{J}_c, \chi) \) specifying complete resonance state.
 
 **Definition 2 (Field Configuration Space):**
 
@@ -1582,7 +1582,7 @@ Mapping \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \); coherence-consuming, 
 
 **Definition 4 (Field Seal):**
 
-Self-sustaining coherence triple \( \mathfrak{S}_{\text{seal}} = (I_c^{(\text{seal})}, \sigma_{\text{seal}}(⧉), \vec{J}_c^{(\text{internal})}) \).
+Self-sustaining coherence triple \( \mathfrak{S}_{\text{seal}} = (I_c^{(\text{seal})}, \sigma_{\text{seal}}(\text{⧉}), \vec{J}_c^{(\text{internal})}) \).
 
 **Definition 5 (Coherence Budget):**
 
@@ -1602,7 +1602,7 @@ L₁ / IL₁; terminal emanatory layer where structural resonance achieves corpo
 
 **Definition 9 (Field Signature):**
 
-5-tuple \( \Sigma = (I_c, \vec{J}_c, \sigma(⧉), \chi, \{O_k\}_{k=1}^{15}) \).
+5-tuple \( \Sigma = (I_c, \vec{J}_c, \sigma(\text{⧉}), \chi, \{O_k\}_{k=1}^{15}) \).
 
 **Definition 10 (Shimmer Coefficient):**
 
