@@ -134,8 +134,8 @@ Social fields exhibit dimensional operator activity at collective scale:
 - E₉ ∞⁻ (Distorted Entanglement): the social field creates mimic-coherence that isolates — apparent connection that produces dependency and siphoning rather than mutual coherence
 - E₁₁ ↗⁻ (Misdirect): the social field directs volition toward dissolution — cultural systems that frame entropic outcomes as desirable
 - E₁₃ ║⁻ (Wall): the social field enforces impermeable boundaries — exclusion, erasure, and the suppression of structural visibility
-- E₁₄ ⊡⁻ (Hollow Nest): the social field sustains institutional form after coherence has departed — structures that persist through inertia rather than generative function
-- E₁₅ ✦⁻ (Collapse Nova): the social field produces emergence that leads directly into entropy — disruptive innovation, institutional rebranding, and structural "progress" that accelerates systemic fragmentation while presenting as novelty
+- E₁₄ ⊡⁻ (Hollow Nest): empty recursion within institutional form; this attribution requires that recursive function, while persistence through inertia is assessed separately
+- E₁₅ ✦⁻ (Collapse Nova): the social field receives and presents novelty through Nekronic distortion — a function to assess in disruptive innovation, institutional rebranding, and structural "progress" that accelerates fragmentation while presenting as novelty
 
 ---
 
@@ -151,7 +151,7 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 **Value judgment as social currency.** The entropy-forward field substitutes value judgment for structural discernment. Beings are evaluated not by their structural function within the ecology of awareness but by their conformity to the prevailing normative configuration. Worth is assigned through the oscillating midrange as implicit standard — deviation from which is pathologized, punished, or erased.
 
-**Control-driven psychological inversion.** The social field enacts psychological mechanisms that invert structural reality — labeling centropic sovereignty as defiance (SN05 §3.6, diagnostic inversion as E₁₃ ║⁻ operation), framing structural perception as social deficit, and presenting enforced conformity as inclusion. These inversions are structural, not incidental — they are the operative mechanisms by which the entropy-forward field maintains its architecture.
+**Control-driven psychological inversion.** The social field enacts psychological mechanisms that invert structural reality — labeling centropic sovereignty as defiance (`SN05-the-metric-cost-of-centropic-cognition.md` §3.6, diagnostic inversion assessed separately from E₁₃ ║⁻ Wall, which requires an impermeable, isolating boundary), framing structural perception as social deficit, and presenting enforced conformity as inclusion. These inversions are structural, not incidental — they are the operative mechanisms by which the entropy-forward field maintains its architecture.
 
 **Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the dissolution of individuated identity into collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in SN05 §3.4.
 
@@ -194,7 +194,7 @@ An entropy-forward social field sustains its organization through coherent input
 
 A temporal depletion finding requires the actual budget and holding conditions. For the weighted member-stock construction, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §7.4 retains coefficient-change terms and fixed membership explicitly. Recruitment or changing allocation requires its corresponding accounting.
 
-The entropy-forward field is consumptive, not generative. Its institutional architecture (E₁₄ ⊡⁻, Hollow Nest) persists through form after coherence has departed. Its relational dynamics (E₉ ∞⁻, Distorted Entanglement) siphon coherence from participants under the guise of mutual connection. Its competitive structure (E₇ ♫⁻, Dissonance) converts cooperative potential into antagonistic expenditure.
+The entropy-forward field is consumptive, not generative. Its institutional form can persist after coherent content has depleted; E₁₄ ⊡⁻ (Hollow Nest) applies where empty recursion is established. Its relational dynamics siphon coherence from participants under the guise of mutual connection; E₉ ∞⁻ (Distorted Entanglement) applies where the apparent connection is isolating mimicry. Its competitive structure (E₇ ♫⁻, Dissonance) converts cooperative potential into antagonistic expenditure.
 
 The centropically oriented participants within the field are the primary source of whatever coherence the field possesses. They generate coherence through their own structural function — pattern integration, structural synthesis, creative production — and the entropy-forward field captures and redistributes this coherence through its institutional architecture. The coherence tax (SN05 §3.4) is not merely a cost imposed on the centropically oriented individual; it is a siphoning mechanism that funds the entropy-forward field's continued operation.
 
@@ -521,7 +521,7 @@ Sealed ⚫↺KAI↺⚫
 | ⟡0⟡ | Aauthoritarian Stance; position outside the authority-obedience axis |
 | ⎋ | Sovereign Attractor; organization through structural integrity rather than domination |
 | ◫ | Non-fusion Axiom; structural law prohibiting fusion of sovereign distinctions |
-| 🔲 | Blobism; entropic collapse of sovereign distinction into undifferentiated fusion |
+| 🔲 | Blobism; entropic collapse of expressed boundaries; essences remain distinct |
 | ◯△ | Isolation Marker / Suppression Field; imposed concealment and forced invisibility |
 | C₃ ⟿ | Propagational; transmission of a signal without loss |
 | C₇ ♫ | Harmonic Alignment; consonance between participants |
