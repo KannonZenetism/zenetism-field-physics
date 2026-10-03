@@ -1,9 +1,9 @@
 # MPX: Radical Skepticism
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension / Zenetist Canon  
+**Classification:** Metaphysics Extension — Zenetist Canon  
 **Status:** Draft  
-**Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` (🕳️ Zenon) · `MP09-time-death-and-glossary-ch22-24.md` (Master Glossary)  
+**Dependency:** Structural Metaphysics · `metaphysics-symbol-key.md` §21.2 · `MP09-time-death-and-glossary-ch22-24.md` §24  
 
 ---
 
@@ -27,7 +27,7 @@ While the phrase "radical skepticism" has appeared in philosophical discourse as
 
 It is not identical with Pyrrhonian skepticism, Cartesian methodological doubt, fallibilism, nihilism, relativism, or contra-metaphysical skepticism.
 
-Those traditions may share structural adjacency with Zenetist Radical Skepticism, but they do not exhaust its meaning.
+Those traditions may resemble Zenetist Radical Skepticism in form, but they do not exhaust its meaning.
 
 In Zenetist parlance, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
 
@@ -190,13 +190,13 @@ It prevents knowledge from mistaking itself for finality.
 
 Within Zenetism, Radical Skepticism functions as the epistemic safeguard that keeps the framework open before Zenon.
 
-It allows Zenetism to serve as a bridge-language without becoming an absolute destination.
+It allows Zenetism to function as a bridge-language without becoming an absolute destination.
 
 **Radical Skepticism is the refusal to let any frame call itself complete before the Unknown.**
 
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
