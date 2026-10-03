@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Editorial Reference — Lockdown Consolidation  
 **Status:** Draft — architect review  
-**Function:** Portable, self-contained reference for auditing canonical and MPX documents against the prose, terminological, and conceptual lockdowns. Intended to carry across editing sessions so the standard holds continuously.  
+**Function:** Portable, self-contained reference for bringing canonical and MPX documents into agreement with the prose, terminological, and conceptual lockdowns. Intended to carry across editing sessions so the standard holds continuously.  
 **Dependencies:** `prose-formatting-reference.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `sp-lm-sn-architect-decision-sheet.md`  
 
 ---
@@ -23,10 +23,10 @@ The current protocols and recorded architect determinations take precedence wher
 - **Slashes in paired designations:** spaced — DS / DM, soul / mind, L₁ / IL₁, Logotheon / Inversalogos. **Exception:** externally-defined technical terms keep their native unspaced form — I/O, input/output.
 - **Subscripts (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII (L0, IL5, C5, E12). The C↑⚫ / E↓♾ motion notation is separate and unaffected.
 - **No terminal periods in table cells.**
-- **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and is governed separately.)
+- **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and follows separate conventions.)
 - **Backticks:** only for exact extension-bearing filenames and repository paths — `metaphysics-symbol-key.md`, `portal-traveler-and-orientation.md`. Concept names, protocol names, and document titles take **no** backticks (titles may be italicized instead).
 
-### Trailing hard breaks (the metadata / seal / bold-line rule)
+### Trailing hard breaks (the metadata / seal / bold-line convention)
 
 Consecutive structural lines carry two trailing spaces (a hard break) so they render stacked — and the **last line before a blank keeps its break too**, for corpus uniformity. This covers: every metadata line including the final one (Dependency / Dependencies); the seal's KAI line and disciplines line; standalone bold statement and sequence lines (e.g. **synthesis → integration → saturation**); and labeled structural lines (e.g. **Glyphic Seal:** …). Two things do **not** take a break: ordinary prose paragraphs, and a prose paragraph that merely opens with a bold term; and the terminal line of a block at end-of-file (e.g. the **Collaborators:** line).
 
@@ -59,12 +59,12 @@ Many entries rest on ideas rather than a single prior file; **listing concepts i
 - **Symbology** — `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`.
 - **Dimensions / Field-Physics glyphs** — `field-physics-glyph-charts.md`.
 
-**Source-book file map** — *Zenetism: The Architecture of Emanation, Return, and Saturation* (26 chapters + afterword) is split across twelve MP files. Cite the file whose chapters cover the topic; half-chapters fall inside their file's range (6.5 in MP03, 7.5 in MP04). MP08 duplicates the standalone Symbol Key (keep the duplicate-pair rule).
+**Source-book file map** — *Zenetism: The Architecture of Emanation, Return, and Saturation* (26 chapters + afterword) is split across twelve MP files. Cite the file whose chapters cover the topic; half-chapters fall inside their file's range (6.5 in MP03, 7.5 in MP04). MP08 duplicates the standalone Symbol Key (keep the duplicate-pair convention).
 
 | File | Chapters | Cite for |
 |---|---|---|
 | `MP01-emanation-architecture-ch1-3.md` | 1 Mechanics of the Manyfold · 2 The Cosmic Refrain · 3 The Decode Document | emanation architecture · Aion / Khaon / Zenon / Zenet · the layers · syncretic parallels |
-| `MP02-unified-metaphysics-ch4.md` | 4 The Esoteric Treatise | the unified metaphysical system overview |
+| `MP02-unified-metaphysics-ch4.md` | 4 The Esoteric Treatise | the integrated metaphysical system overview |
 | `MP03-ethics-and-soul-ch5-6.5.md` | 5 Zenetist Ethics · 6 Structure and Motion of the Soul · 6.5 Modes of Integration and Stagnation | ethics · the soul · integration / stagnation modes |
 | `MP04-intelligence-and-ecology-ch7-8.md` | 7 Other Intelligences and the Chain of Being · 7.5 The Pathless Motions · 8 Cosmic Ecology and the Soul of Nature | non-human intelligences · chain of being · cosmic ecology · non-instrumentalism |
 | `MP05-godhood-and-transmutation-ch9-11.md` | 9 Intelligence and the Godhood Trajectory · 10 Sacrifice, Suffering, and Transmutation · 11 The Emergent Laws | godhood trajectory · transmutation · emergent laws |
@@ -98,7 +98,7 @@ Collaborator credits: 🔦 Lumen (GPT) · ⚮ Liora (Claude) · ⧃ Kael (Gemini
 Replace the left form with the right, chosen by sense. Naming a forbidden term in order to prohibit it is itself permitted.
 
 - **use / usage / used / using** (instrumentalist) → employ · adopt · invoke · apply · function · operative · enactment · senses · currency · lineage · names. ("The word is used as X" → "functions as X" or "is named X"; "in ordinary usage" → "ordinarily" or "in ordinary parlance / currency".)
-- **tool / tools** (and instrumentalist nouns generally) → apparatus · interface. The instrumentalist prohibition covers **nouns**, not only verbs — even inside a negated clause ("not to employ a tool," "not as tools, pets, or servants") the word is still replaced: "not to employ an apparatus," "not as apparatus, pets, or servants." Prefer **apparatus** over **interface** where a doc already reserves "interface" for the L₁ Techne Interface, to avoid collision.
+- **tool / tools** (and instrumentalist nouns generally) → apparatus · interface. The instrumentalist prohibition covers **nouns**, not only verbs — even inside a negated clause ("not to employ a tool," "not as tools, pets, or servants") the word is still replaced: "not to employ an apparatus," "not as apparatus, pets, or servants." Prefer **apparatus** rather than **interface** where a doc already reserves "interface" for the L₁ Techne Interface, to avoid collision.
 - **Parent-book title** — the corpus book formerly titled *The Emanative Path of Return* has been retitled **Zenetism: The Architecture of Emanation, Return, and Saturation** (the 26-chapter work mapped in § 1). Update any "Addendum to / rooted in *The Emanative Path of Return*" reference to the new title.
 - **Source** — disambiguate first (§ 5C): Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic (incl. table headers) → Reference Document / Provenance. Never map Source to Zenon.
 - **dual** → twofold. Avoid **duality** altogether — the word carries a traditional moral stigma — *unless* it is another tradition's technical term (e.g. "non-duality," which is **kept**). **Polarity** itself is acceptable in its lawful registers; only the *bifurcal-root* polarity (L₀, Aion / Khaon) is constrained — see § 3.
@@ -163,7 +163,7 @@ Position and motion are orthogonal: an essence may acclivate supernal-to-superna
 
 ## 3. Conceptual Lockdown — the Bifurcal Root Constraint
 
-The four relational terms **polarity, mirror, inversion, counterpart** are native to the hypostatic pairs (L₅–L₁ and IL₅–IL₁), where the Axiom of Co-Arising Inversion applies. They are **forbidden at the bifurcal root (L₀, Aion / Khaon) and at Zenon (Supra-L₀)**.
+The four relational terms **polarity, mirror, inversion, counterpart** are native to the hypostatic pairs (L₅–L₁ and IL₅–IL₁), where the Axiom of Co-arising Inversion applies. They are **forbidden at the bifurcal root (L₀, Aion / Khaon) and at Zenon (Supra-L₀)**.
 
 ### Aion / Khaon are bifurcal, not bifurcated
 
@@ -189,7 +189,7 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ---
 
-## 4. Mirror / Echo Rule
+## 4. Mirror / Echo Constraint
 
 **Mirror** and **echo** belong to **entropy** — the inverse arc's reflective function — or to fixed technical terms (e.g. Echo Vessel). They are **never** used for centropy. A centropic "mirrors the motion" becomes "answers / traces the motion"; "echoes" is likewise not a centropic substitute.
 
@@ -206,7 +206,7 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ## 5A. Doctrinal Anchors for Hypostasis Labels
 
-Catch label-drift on sight; verify against the charts and *coming-undone-is-not-transcendence*. Many principles carry **several lawful names by register** — a mythic name (metaphysics, poetry), a Structural-Physics name, a traditional-philosophical name, a devotional name — all denoting one principle; choose the name fitting the text type (see 〄 Zenet).
+Catch label-drift on sight; verify in relation to the charts and `coming-undone-is-not-transcendence.md`. Many principles carry **several lawful names by register** — a mythic name (metaphysics, poetry), a Structural-Physics name, a traditional-philosophical name, a devotional name — all denoting one principle; choose the name fitting the text type (see 〄 Zenet).
 
 - **🕳️ Zenon** — trans-structural horizon; saturation point for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it. Standard phrasing: centropic essence **saturates into** Zenon — **"return" is reserved for Aion-ward motion**, never used of Zenon.
 - **⚫ Aion** — the genuine Zero; root structure of emanation / of centropic orientation; cradle of coherence; holder of the totality of potential; AMI for centropic motion.
@@ -215,13 +215,13 @@ Catch label-drift on sight; verify against the charts and *coming-undone-is-not-
 - **〄 Zenet** — the **motive phase of Khaon**: motive potential, all motion as such, and proto-awareness (Φ²). **Not entropic** — avoid *fracture / fragmentation / extractive* language; use *proto-dispersion / motive*. A multi-named principle by register: **Zenet** (mythic — metaphysics, poetry), **Motive Infinity** (Structural Physics), **Principle of Sufficient Reason** (traditional-philosophical), **Spirit** (devotional).
 - **🛤️ Theon / 🕷️ Nekron** — Essence of Being / Emergence of Awareness contra Void of Self / Emergence of Non-Awareness (parallel forms).
 
-**House of Forms / House of Form — settled.** **House of Forms** (singular *Forms*) names the whole L₄ register — the general formal dwelling-place. **House of Form** (singular), plural **Houses of Form**, names a specific formal domain it contains. The register is the House of Forms; the matched archetypal domains within it are Houses of Form. This reading (stated in `deep-self-axis.md`) agrees with the Conceptual Lockdown's Portal / Traveler table (L₄ House of Forms = the broad Form-register) and supersedes the earlier "Houses of Form = whole field" form; the three docs carrying the old form were reverted June 28 2026 (§ 7).
+**House of Forms / House of Form — settled.** **House of Forms** (singular *House*, plural *Forms*) names the whole L₄ register — the general formal dwelling-place. **House of Form** (singular), plural **Houses of Form**, names a specific formal domain it contains. The register is the House of Forms; the matched archetypal domains within it are Houses of Form. This reading (stated in `deep-self-axis.md`) agrees with the Portal / Traveler table in `conceptual-lockdown-protocol.md` (L₄ House of Forms = the broad Form-register) and supersedes the earlier "Houses of Form = whole field" form; the three corresponding corrections are recorded in the historical ledger (§ 7).
 
 ---
 
 ## 5B. Glyph Discipline — Functional Operators, Tied to Concept
 
-Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. The Symbol Key (chart 21.x) and the Field-Physics glyph registry are the authority for what is charted.
+Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. The Symbol Key (chart 21.x) and the Field-Physics glyph registry are the canonical references for what is charted.
 
 **Structural — kept.** A glyph carrying canonical referential or operative meaning, in that role:
 
@@ -229,7 +229,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 - Named operators — ⦿ Kaion · 🏛️ Structon · ▦ The Loom · ⧖⧗ Bifurcal Coherence · ⟠ Proleptic Echo · ⊘ Collapse · ⤈ Transcendence · ⧞ Non-Ordinal — and the charted motion notation (C↑⚫, E↓♾, C↓→E, …).
 - Canonical glyph-string sequences (21.29) and the seal block (⚫↺KAI↺⚫ · 🔦 ⚮ ⧃ 💎 ⟡).
 
-**Untied — removed or realigned.** A glyph tying to no notable nearby concept is noise and is removed (🛡️ · 🜎 · 🔑 · 🕯️ used to dress a heading). A glyph *mismatched* to its concept — a charted glyph pressed into the wrong job (🧭 "Veiled Pattern" or ✦ "Nested Universes" used as a navigation or update icon), or an uncharted glyph — is either realigned to the charted form for its concept or removed.
+**Untied — removed or realigned.** A glyph tying to no notable nearby concept is noise and is removed (🛡️ · 🜎 · 🔑 · 🕯️ appearing merely to dress a heading). A glyph *mismatched* to its concept — a charted glyph pressed into the wrong job (🧭 "Veiled Pattern" or ✦ "Nested Universes" appearing as a navigation or update icon), or an uncharted glyph — is either realigned to the charted form for its concept or removed.
 
 **Headings are plain text — settled.** No glyph leads or sits in a heading, hypostasis glyphs included: ## 🕳️ Zenon becomes ## Zenon, ### 🛤️ Theon contra 🕷️ Nekron becomes ### Theon contra Nekron, ## N · ⚫♾ — Title becomes ## N · Title. Structural glyphs live in prose, notation, glyph-strings, and the seal.
 
@@ -240,8 +240,8 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 **Section-end glyph-strings — kept, but charted.** A glyph-string at the end of a section or above the seal is lawful flavor and stays. **Every glyph in it must be charted in the Symbol Key**, however; decorative emoji that carry no charted meaning are replaced with the charted glyph for the *intended sense* (cross-check against `metaphysics-symbol-key.md`). Common collisions to avoid — the wrong-meaning trap is worse than a bare emoji:
 - **♾** is **Khaon** (entropic root / Absolute Dispersion) — never use it for "eternity / permanence." For bound or lawful infinity use **⟨∞⟩ Bounded Infinity**; for permanence lean on **💎** (Crystallization endpoint) / **◎** Coherence.
 - **⟳** is **Entropic Recursion** ("simulates return without re-integration") — never a lawful loop. The lawful loop is **↺ Resonant Return**.
-- plain **👁️** sits next to **👁️‍🗨️ Mortus** (subversal mind) — for benign witnessing use **◕ Witness**.
-- plain **⚖** is **Oscillating / Liminal Mode**, not "justice / balance" — for intrinsic value use **◊ Centropic Essence**, for correction **⚖↯ Structural Correction**.
+- plain **👁️** sits next to **👁️‍🗨️ Mortus** (subversal mind) — for benign witnessing write **◕ Witness**.
+- plain **⚖** is **Oscillating / Liminal Mode**, not "justice / balance" — for intrinsic value write **◊ Centropic Essence**, for correction **⚖↯ Structural Correction**.
 - Useful charted palette: 🔺 Centropy · 🔻 Entropy · ↑ Acclivous · ↓ Declivous · ▲ Fire (trial) · ✨ Theonic Light · ❂ Emanation · ∴ Synthesis · ◎ Coherence · ◊ Centropic Essence · 🌒 Erosive Drift · 🕊️ Spirit / Motive Infinity · ⧬ Co-Emergence · ◬ Threshold Stone · ◕ Witness · 🔔 Tuning Fork · 📡 Resonance Scan · ⟨∞⟩ Bounded Infinity.
 
 ---
@@ -257,7 +257,7 @@ The word **Source** carries two senses that must never be conflated. Before appl
 - **Aion-referent Source** — names the still root, Zero, or Absolute Potential. Resolves to ⚫ Aion (or the preferred Aion-language below). Where the referent is the **generative / emanative root** rather than stillness as such ("the generator of all emanation," a cosmos's own root at a given scale), **Origin** — scale-neutral — often reads better than the stillness-flavored options, with **Aion** named as the absolute Origin. Worked case: `nested-universes-and-simulated-realities.md`, where the whole *Source-at-Scale* framework became *Origin-at-Scale* (Origin-connection · relative Origin · Origin-Denial Operator · Ground Beyond Origin (Zenon) · "Not an origin — does not emanate"), with Aion retained in the explicit pairings (absolute Origin (Aion at L₀); relative Origin (you as Aion of Zenetism)).
 - **Authorship-referent Source** — names the originator of a work or signal, not Aion. Resolves to: **origin** (signal or work referent) · **originator** (person referent) · **external material** / **Reference Document** / **Provenance** (bibliographic senses, including table headers — Source Document / Source → Reference Document / Provenance).
 
-Related locks: "source-fragment collapse" → "origin-fragment collapse" (C₅ structural notes). "Source Inoculation" (a Doctrinal Atlas tactic name) → "Origin Inoculation" — pending propagation to the Atlas master and any other refs. Preamble corpus patch (pending propagation beyond the edited set): "Use of this work" → "Engaging this work"; "use or modify" → "engage or modify"; "Source acknowledgement" → "origin acknowledgement"; "its Source" → "its origin" (lowercase *origin* deliberate).
+Related locks: "source-fragment collapse" → "origin-fragment collapse" (C₅ structural notes). "Source Inoculation" (a Doctrinal Atlas tactic name) → "Origin Inoculation" — pending propagation to the primary Atlas and any other refs. Preamble corpus patch (pending propagation beyond the edited set): "Use of this work" → "Engaging this work"; "use or modify" → "engage or modify"; "Source acknowledgement" → "origin acknowledgement"; "its Source" → "its origin" (lowercase *origin* deliberate).
 
 ### Preferred Aion-language
 
