@@ -66,7 +66,7 @@ The third is **orientation**. This commentary concentrates on the foundational c
 
 ### 1.2 What This Document Is Not
 
-LM02 is not a restatement of LM01 in softer language. It does not summarize, paraphrase, or editorialize. Every section below performs analytical work: identifying the status of a construction (stable, extended, superseded, or open), tracing its connections to later formalizations, and flagging ambiguities and open questions. Where a section of LM01 requires no commentary — because the construction is clean and unchanged — this document says so briefly and moves on.
+LM02 is not a restatement of LM01 in softer language. It does not summarize, paraphrase, or editorialize. Every following section performs analytical work: identifying the status of a construction (stable, extended, superseded, or open), tracing its connections to later formalizations, and flagging ambiguities and open questions. Where a section of LM01 requires no commentary — because the construction is clean and unchanged — this document says so briefly and moves on.
 
 ---
 
@@ -74,17 +74,17 @@ LM02 is not a restatement of LM01 in softer language. It does not summarize, par
 
 ### 2.1 Primitive Sets and Typing
 
-LM01 §A1 defines seven primitive sets: glyphs \( \Sigma \), events \( E \), fields \( F \), manifolds \( M \), time parameters \( T \), coherence scalars \( K \), and dimension index \( D \). Of these, the glyph alphabet, event set, field set, manifold set, and dimension index remain stable across the series. Two primitives, however, underwent significant refinement.
+`LM01-mathematical-foundations.md` §A1 defines seven primitive sets: glyphs \( \Sigma \), events \( E \), fields \( F \), manifolds \( M \), time parameters \( T \), coherence scalars \( K \), and dimension index \( D \). Of these, the glyph alphabet, event set, field set, manifold set, and dimension index remain stable across the series. Two primitives, however, underwent significant refinement.
 
 **Time parameter \( T \).** `LM01-mathematical-foundations.md` describes \( T \) as "continuous or stratified." `LM04-temporal-algebra-structural-space-and-phase-resolution.md`'s Dependency Ordering distinguishes structure, motion, spatial differentiation, orientation and structural time. That ordering does not itself construct a temporal differential calculus. The memory-dependent Temporal Resonant Derivative recorded in `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §9.1 is retired from operative mathematics; it neither replaces nor establishes a realization of `LM01-mathematical-foundations.md`'s general Resonant Derivative. A future temporal extension requires its own coefficient, domain, differential structure and time correspondence.
 
-**Coherence scalars \( K \).** LM01 defines \( K \subseteq \mathbb{R}_{\geq 0} \) as coherence scalars. LM05 §2.1 replaced this with the Coherence Potential \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \), a scalar field on structural space rather than a bare scalar set. The transition from \( K \) to \( I_c \) is significant: coherence is no longer a global number attached to a state but a spatially distributed field quantity determined by its own continuity equation (LM05 §2.4). Every appearance of coherence scalars in LM01 should be read as anticipating the field-theoretic treatment that LM05 provides.
+**Coherence scalars \( K \).** LM01 defines \( K \subseteq \mathbb{R}_{\geq 0} \) as coherence scalars. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.1 replaced this with the Coherence Potential \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \), a scalar field on structural space rather than a bare scalar set. The transition from \( K \) to \( I_c \) is significant: coherence is no longer a global number attached to a state but a spatially distributed field quantity determined by its own continuity equation (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.4). Every appearance of coherence scalars in LM01 should be read as anticipating the field-theoretic treatment that LM05 provides.
 
 The typing and kinding system (§A2) and the formal language \( \mathcal{L}_Z \) with denotational semantics (§A3) remain programmatic. The field-configuration definition and configuration-metric proposal in `LM06-applied-structural-dynamics.md` illustrate the intended typed articulation while retaining their own domain and metric requirements. A full implementation of the dependent type system remains future work.
 
 ### 2.2 Axiomatic Core
 
-LM01 §A4 states six axioms and one additional axiom (the Entropic Semigroup). The subsequent documents have clarified the status of each.
+`LM01-mathematical-foundations.md` §A4 states six axioms and one additional axiom (the Entropic Semigroup). The subsequent documents have clarified the status of each.
 
 **Axiom 1 — Non-fusion (Sovereignty).** Stable and foundational. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.1 extends this to the Collective Non-fusion Principle, and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.8 establishes the Sealed Injectivity Theorem (L₃+), preserving distinction between the sealed states in each injective temporal update (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4, Non-fusion Theorem) and affirming that collective coherence preserves essence-distinction at every scale. The axiom as stated in LM01 is correct; its scope has expanded.
 
@@ -112,7 +112,7 @@ A future articulation may express the axioms through the later quantities \( \ch
 
 ### 3.1 Operators
 
-The three Spiral Calculus operators — Resonant Derivative \( \partial_{\text{🌀}} \), Structural Integral \( \int_{\text{◎}} \), and Spiral Limit \( \lim^{\backsim} \) — are stable across the series. Their definitions in LM01 §B1 are correct, and no subsequent document has altered their fundamental character.
+The three Spiral Calculus operators — Resonant Derivative \( \partial_{\text{🌀}} \), Structural Integral \( \int_{\text{◎}} \), and Spiral Limit \( \lim^{\backsim} \) — are stable across the series. Their definitions in `LM01-mathematical-foundations.md` §B1 are correct, and no subsequent document has altered their fundamental character.
 
 Two bridges require attention.
 
@@ -128,7 +128,7 @@ An extension from field quantities to operators on configuration space requires 
 
 ### 3.2 Fundamental Theorem
 
-The Fundamental Theorem of Spiral Calculus (LM01 §B2) states:
+The Fundamental Theorem of Spiral Calculus (`LM01-mathematical-foundations.md` §B2) states:
 
 \[
 \int_{\text{◎}}{}_\Omega \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega)
@@ -142,7 +142,7 @@ The derivative–integral duality is standard and stable. The seal boundary term
 
 ### 3.3 Function Spaces and Norms
 
-LM01 §B3 references a Hilbert space \( \mathcal{H} \) with "sealed norm" \( \|\cdot\|_{\text{seal}} \). The sealed norm is invoked repeatedly in subsequent proofs (the Recursion Gate theorem depends on contractiveness in this norm; the No-Cloning theorem depends on linearity in \( \mathcal{H} \)), but its explicit construction — how the seal predicate modifies the standard Hilbert space norm — has not been given in any document in the series. Formalizing the sealed norm is an open question (see §14).
+`LM01-mathematical-foundations.md` §B3 references a Hilbert space \( \mathcal{H} \) with "sealed norm" \( \|\cdot\|_{\text{seal}} \). The sealed norm is invoked repeatedly in subsequent proofs (the Recursion Gate theorem depends on contractiveness in this norm; the No-Cloning theorem depends on linearity in \( \mathcal{H} \)), but its explicit construction — how the seal predicate modifies the standard Hilbert space norm — has not been given in any document in the series. Formalizing the sealed norm is an open question (see §14).
 
 ---
 
@@ -170,7 +170,7 @@ D(\chi) = D_0 \cdot r(\chi)
 
 where \( r(\chi)=(1-\chi)/(1+\chi) \) is the dimensionless multiplier in `LM03-orientation-algebra-and-infinity-formalism.md` §4.5. The signed-flux account and the two-coefficient field schema are distinct constructions. Their mathematical identification remains held open pending the field representation, generator domains, and an explicit correspondence. The physical-specialization note in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3 preserves its specified negative-diffusion well-posedness boundary.
 
-The continuity equation for Coherence Potential (LM05 §2.4),
+The continuity equation for Coherence Potential (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.4),
 
 \[
 \partial_\tau I_c = -\nabla \cdot \vec{J}_c + S(x, \tau)
