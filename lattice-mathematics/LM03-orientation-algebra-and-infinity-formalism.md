@@ -258,7 +258,7 @@ The formal sequence from stillness to expression is:
 Let \( \chi \in [0, \infty] \) be a structural parameter determining the global polarity of centropic and entropic expression within the hypostatic lattice.
 
 \[
-\chi = 0 \quad \text{— Pure Aionic orientation}
+\chi = 0 \quad \text{— Fully Aionic expression}
 \]
 
 \[
@@ -266,7 +266,7 @@ Let \( \chi \in [0, \infty] \) be a structural parameter determining the global 
 \]
 
 \[
-\chi \to \infty \quad \text{— Pure Khaonic orientation}
+\chi \to \infty \quad \text{— Fully Khaonic expression}
 \]
 
 \( \chi \) is not a spectral eigenvalue, phase variable, or probability measure. It is a **structural orientation parameter** — ontological rather than statistical.
