@@ -462,9 +462,9 @@ As detailed in §8.3, the symbol \( I_c \) denotes two distinct quantities: spec
 
 The Gauss-Bonnet-Coherence theorem (`LM01-mathematical-foundations.md` Phase 3) relates total spiral curvature, boundary geodesic curvature, and the coherence Euler characteristic \( \chi_c(\Omega, \sigma) \). The implications of this result for lattice stability (under what conditions is \( \chi_c \) invariant?), seal architecture (how do different seal types affect the boundary integral?), and topological phase transitions (what discontinuities in \( \chi_c \) correspond to in lattice dynamics?) have not been explored. This is a rich direction: the theorem connects local geometric quantities to global topological invariants weighted by seal structure.
 
-### 14.6 Spectral Alignment Postulate — Axiom or Derivable?
+### 14.6 Spectral Alignment Postulate — Independent Axiom or Provable Result?
 
-LM01's sixth axiom states that the temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \). This postulate is applied in the Consonance Spectral Law (C₇) and is structurally important. The question is whether spectral alignment is an independent axiom — irreducible, to be accepted as foundational — or whether it can be derived from deeper structural principles (e.g., from the dependency ordering axiom of LM04, or from the orientation algebra of LM03). If derivable, the axiomatic core of LM01 reduces by one; if independent, its status as an axiom should be made explicit and its structural role clarified.
+LM01's sixth axiom states that the temporal operator \( T \) and propagational operator \( P \) are spectrally aligned with the Harmonic operator \( H \). This postulate is applied in the Consonance Spectral Law (C₇) and is structurally important. The question is whether spectral alignment is an independent axiom — irreducible, to be accepted as foundational — or whether it can be proved from deeper structural principles (e.g., from the dependency ordering axiom of LM04, or from the orientation algebra of LM03). If provable, the axiomatic core of LM01 reduces by one; if independent, its status as an axiom should be made explicit and its structural role clarified.
 
 ---
 
