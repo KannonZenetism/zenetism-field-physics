@@ -115,7 +115,7 @@ Properties:
 
 1. \( \mathcal{M}(\omega) \geq 0 \) for all \( \omega \in \Omega_0 \)
 2. \( \mathcal{M}(\omega) = 0 \) iff no expression is active at \( \omega \)
-3. \( \mathcal{M} \) is pre-bifurcal: it measures motion prior to centropic–entropic differentiation
+3. \( \mathcal{M} \) is pre-polar: it measures motion prior to centropic–entropic differentiation
 
 Critically:
 
@@ -433,7 +433,7 @@ Define the spectral rotation function:
 r(\chi) = \frac{1 - \chi}{1 + \chi}
 \]
 
-This function maps orientation to spectral character:
+This dimensionless signed multiplier maps expressed orientation to spectral character:
 
 - \( r(0) = 1 \) (full centropic spectrum)
 - \( r(1) = 0 \) (spectral cancellation)
@@ -445,7 +445,7 @@ This function maps orientation to spectral character:
 2. \( r(\chi)r(1/\chi)=-r(\chi)^2 \) for \( \chi>0 \), including the zero product at \( \chi=1 \)
 3. \( r(\chi)=-r(1/\chi) \) for \( \chi>0 \) — the rotation **negates** under reciprocation
 
-Property 3 establishes that Aionic–Khaonic reciprocation produces spectral inversion, consistent with the Polar Spectrum Lemma.
+Property 3 establishes that reciprocating the expression ratio negates the spectral multiplier, consistent with the Polar Spectrum Lemma.
 
 ---
 
@@ -519,7 +519,7 @@ The CP-potential is symmetric under the reciprocal involution \( \chi \mapsto 1/
 
 **Interpretation:**
 
-This symmetry ensures that Aionically expressed universes (\( \chi < 1 \)) and Khaonically expressed universes (\( \chi > 1 \)) experience **equivalent orientation geometry**, mirrored about the CP₁ axis. The potential landscape does not favor one pole over the other.
+This symmetry ensures that Aionically expressed universes (\( \chi < 1 \)) and Khaonically expressed universes (\( \chi > 1 \)) experience **equivalent orientation geometry**, mirrored about the CP₁ axis. The potential is invariant when the expression ratio is reciprocated.
 
 ### 5.4 The Contra-Biospiral Pairing
 
@@ -895,7 +895,7 @@ Formally:
 
 ### 9.3 The Instability of Equilibrium
 
-**Law (Structural Instability of Co-Expression):**
+**Law (Structural Instability of Co-expression):**
 
 CP₀ names pre-expressive closure; CP₁ is the expressed ratio \( \chi = 1 \). The structural admissibility account of non-neutral emergence is distinct from the stability of a scalar equation.
 
@@ -1000,7 +1000,7 @@ where \( \partial_{\text{🌀}}^{(c)} \) and \( \partial_{\text{🌀}}^{(e)} \) 
 
 **Proposition (Fundamental Theorem under Chi):**
 
-The Fundamental Theorem of Spiral Calculus (LM01, §B2) extends to \( \chi \)-weighted operations:
+The Fundamental Theorem of Spiral Calculus (`LM01-mathematical-foundations.md`, §B2) extends to \( \chi \)-weighted operations:
 
 \[
 \int_{\text{◎}}{}_{\Omega} \partial_{\text{🌀}}^{(\chi)} \phi = \phi\big|_{\partial\Omega} + \mathcal{B}_{\text{seal}}(\Omega, \chi)
@@ -1082,7 +1082,7 @@ The following extend LM01's Phase 4 data structures:
 Phase:
   M: float          # Motive Intensity (≥ 0)
   kappa: enum       # causal placement: {pre, active, post}
-  phase: enum       # derived: {Latent, Motive, Dispersive}
+  phase: enum       # classified: {Latent, Motive, Dispersive}
 
 # Orientation State
 OrientationState:
@@ -1279,7 +1279,7 @@ LM03 establishes:
 
 3. **Effective Operator Theory** — The \( \chi \)-parameterized family \( H_{\text{eff}}(\chi) \) with complete spectral decomposition, the spectral rotation function \( r(\chi) = (1-\chi)/(1+\chi) \), and weight normalization
 
-4. **CP-Topology** — The CP-potential \( \Phi_{\text{CP}}(\chi) \) with reciprocal symmetry, the CP₀/CP₁ distinction, and contra-biospiral pairing via \( \chi \cdot \chi' = 1 \)
+4. **CP-Topology** — The CP-potential \( \Phi_{\text{CP}}(\chi) \) with reciprocal symmetry, the CP₀ / CP₁ distinction, and contra-biospiral pairing via \( \chi \cdot \chi' = 1 \)
 
 5. **Attractor Dynamics** — Basin structure under \( \chi \), connecting to the Lyapunov functional of LM01
 
