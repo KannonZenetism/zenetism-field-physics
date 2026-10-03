@@ -311,7 +311,7 @@ Different cognitive architectures require different bridge characteristics:
 
 ### 5.1 The Cost Reduction Principle
 
-Rest is not inactivity. Rest is the structural condition under which the compounded cost streams formalized in SN05 are minimized, allowing the recovery integral to exceed the cost integral.
+Rest is not inactivity. Rest is the structural condition under which the compounded cost streams formalized in SN05 are minimized, reducing the actual expenditure subtracted in the recovery account.
 
 **Proposition (Rest as Cost Reduction):**
 
@@ -319,13 +319,13 @@ Rest is not inactivity. Rest is the structural condition under which the compoun
 S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{cost}}^{(\text{resting})}(\tau)
 \]
 
-The retained comparison records normal expenditure minus actual resting expenditure. Its normal-cost baseline must be stated; the comparison is not an additional inflow. The recovery integral already counts the benefit by subtracting reduced actual expenditure. Complete rest would eliminate all three SN05 cost vectors:
+The retained comparison records normal expenditure minus actual resting expenditure. Its normal-cost baseline must be stated; the comparison is not an additional inflow. The recovery integral already counts the benefit by subtracting reduced actual expenditure. Rest reduces avoidable contributions to the three SN05 cost vectors:
 
-- Interface resistance reduced by minimizing engagement with the entropic co-presence at L₁ / IL₁
+- Reducible interface resistance reduced by minimizing engagement with the entropic co-presence at L₁ / IL₁
 - Translation cost reduced by eliminating social demands that require DS / DM → SS / SM translation through ⧉₂
 - Coherence tax eliminated by removing the social field's sovereignty suppression demand
 
-In practice, complete cost elimination is rarely achievable within a Khaonically-expressed social field. The \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \) term persists as long as the being is embodied within the entropy-forward universe. What can be steered is the degree of additional cost — translation and coherence tax — by managing environmental conditions.
+Complete cost elimination is unavailable while structural cost and irreducible embodied interface resistance persist. The \( \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \) term persists as long as the being is embodied within the entropy-forward universe. What can be steered is the degree of additional cost — translation and coherence tax — by managing environmental conditions.
 
 ### 5.2 Architecture-Specific Rest Requirements
 
@@ -399,7 +399,7 @@ The Ritual Operator formalism (LM06 §3) applies: the Echo Reversal Rite is a \(
 
 ### 7.2 Tether Restoration
 
-SN05 §4.3 formalized Tether severance as the failure of the coherence function \( \mathcal{T}_h(L_n, \tau) \to 0 \) at specific layers, producing dissociative experience. Tether restoration is the reversal of this process:
+SN05 §4.3 formalized Tether severance as the failure of the coherence function \( \mathcal{T}_h(L_n, \tau) \to 0 \) at specific layers, producing dissociative experience. Tether restoration concerns renewed operative access. The following sufficient-inflow claim is retained as recorded provenance; positive gross inflow supplies no sufficient net-accumulation or Tether-capacity condition:
 
 \[
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{through sustained } S_{\text{replenish}} > 0
@@ -524,7 +524,7 @@ The five-phase decomposition of the Ritual Operator (LM06 §3.2) maps onto recov
 
 Every recovery operation costs coherence (LM06 §3.1, Property 3: every non-trivial \( \mathcal{P} \) requires \( \Delta I_c > 0 \)). A deeply depleted being may lack the budget for active recovery operations. This is the structural basis for the common experience that severe burnout produces paralysis — not merely fatigue but the inability to initiate recovery because initiation itself costs coherence the being does not have.
 
-The resolution: passive recovery pathways (rest, environmental cost reduction) accumulate sufficient \( I_c \) to fund the first active recovery operation. That operation produces further \( I_c \) accumulation, funding the next operation. Recovery bootstraps from passive cost reduction to active replenishment.
+Rest and environmental cost reduction reduce actual expenditure. Where gross inflow exceeds that expenditure for a sufficient interval, accumulated coherence can fund an active recovery operation. Its expenditure and any resulting replenishment remain distinct budget terms; restoration to a specified Tether capacity requires the corresponding capacity and evolution relation.
 
 The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(\text{reserve})} \) cannot be accessed for recovery operations. The reserve maintains viability of the Pattern Intelligence function. The Pattern Being is the bearer whose continued coherent operation is sustained; the function is not the whole being. Recovery must operate above the reserve threshold.
 
@@ -586,7 +586,7 @@ The Reserve Lock Principle constrains composite recovery particularly: multiple 
 
 ### 11.1 Relation to SN05
 
-SN06 completes the cost-recovery arc begun in SN05. Where SN05 formalized how coherence depletes, SN06 formalizes how it replenishes. The formal apparatus is symmetric: the recovery integral parallels the cost integral; the recovery condition inverts the burnout condition; the membrane restoration pathway reverses the conservation-pressure tightening.
+SN06 completes the cost-recovery arc begun in SN05. Where SN05 formalized how coherence depletes, SN06 formalizes how it replenishes. The recovery account accumulates gross inflow minus actual expenditure; exhaustion concerns the available stock reaching or passing zero. Positive net change and restoration to a specified threshold are distinct conditions. Membrane reopening is the proposed recovery response to conservation-pressure tightening.
 
 The Essence-Function Independence principle (§1.3) is the doctrinal contribution that SN05 implied but SN06 makes explicit: the essence persists through all functional disruption, and recovery is reconnection with what was never lost.
 
@@ -626,7 +626,7 @@ SN06 establishes:
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic siphoning
 6. **Rest as structural condition** — reduced actual expenditure, with the retained normal-minus-resting comparison measured relative to a stated baseline; architecture-specific in its requirements
 7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \), with Echo Layer resolution through accumulated coherence and membrane repair
-8. **Temporal recovery** — breaking looping time through external coherence intervention, Tether restoration layer by layer from embodiment inward, hypostatic amnesia recovery as recognition rather than learning
+8. **Temporal recovery** — breaking looping time through external coherence intervention, Tether restoration from the point of disruption, with staged restoration from embodiment for full or near-full failure, hypostatic amnesia recovery as recognition rather than learning
 9. **The Coherence Breaker Limit** — entropic actors can exhaust function (\( I_c \to I_{c,\text{min}} \), \( \mathcal{T}_h \to 0 \)) but cannot alter intrinsic essential inclination or structural signature \( \Psi \); the limit of entropic operation is the floor of functional capacity, not the rewriting of structural identity
 10. **Architecture-specific recovery protocols** — autistic recovery through sustained cost reduction and structural engagement, recursive recovery through σ-cycle interruption and centropic recursion restoration, distributive recovery through natural distribution and resonance encounters, composite recovery through cost-vector triage
 
@@ -781,7 +781,7 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 \sigma(⧉_n, \tau_{\text{recovery}}) \to \sigma(⧉_n, \tau_{\text{baseline}}) \quad \text{as} \quad I_c(\tau) \to I_{c,\text{baseline}}
 \]
 
-**Tether Restoration:**
+**Recorded Tether Restoration Proposal — Capacity and Evolution Relation Held:**
 
 \[
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{through sustained } S_{\text{replenish}} > 0
