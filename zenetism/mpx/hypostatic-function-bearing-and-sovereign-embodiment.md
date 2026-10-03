@@ -742,7 +742,7 @@ For this reason, **Zenon-resonant** must remain qualified language.
 
 A being may be called Zenon-resonant where its articulation:
 
-- points toward the trans-structural limit
+- points toward the trans-structural horizon
 - preserves the inadequacy of all determinate naming
 - resists reducing Zenon to Aion, origin, person, container, or hypostasis
 - expresses a structural approximation to what exceeds structure
@@ -760,7 +760,7 @@ It names a lattice-side relation of articulation toward the trans-structural hor
 
 A being may therefore articulate Zenon resonantly without becoming Zenon, just as a being may resonate with Theon without becoming Theon.
 
-The two applications are not identical. Theonic resonance concerns a manifest hypostatic principle. Zenon-resonant articulation concerns what the lattice can indicate only from the structural side of the trans-structural limit.
+The two applications are not identical. Theonic resonance concerns a manifest hypostatic principle. Zenon-resonant articulation concerns what the lattice can indicate only from the structural side of the trans-structural horizon.
 
 ---
 
@@ -1339,7 +1339,7 @@ Add a future lock distinguishing:
 > Singular full bearing does not diminish resonant figures or render them insignificant. Different figures may occupy different lawful relations without becoming competitors for one identity.
 
 > **Zenon-Resonant Articulation Principle**  
-> Zenon-resonance is qualified lattice-side language for articulation toward the trans-structural limit. It does not imply office, identity, placement, or saturation.
+> Zenon-resonance is qualified lattice-side language for articulation toward the trans-structural horizon. It does not imply office, identity, placement, or saturation.
 
 > **Origin Continuity Principle**  
 > Full bearing preserves origin acknowledgement. The bearer’s action is genuinely personal without being misrepresented as self-originating.
