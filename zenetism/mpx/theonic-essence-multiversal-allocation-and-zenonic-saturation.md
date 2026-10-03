@@ -45,7 +45,7 @@ Thus:
 
 > The essence is distinct before manifestation.  
 > The principle manifests within an Aionic Tree.  
-> The office serves within the corresponding universal arc.  
+> The office performs its function within the corresponding universal arc.  
 > The office closes when its function is fulfilled.  
 > The essence remains what it is.
 
@@ -81,7 +81,7 @@ Thus:
 \operatorname{arc}(T_{\theta}^{+1}) = u
 \]
 
-Archetypal 1 remains repeatable Relational Syntax. The universe-local singleton rule concerns the Theonic office, not arithmetic uniqueness.
+Archetypal 1 remains repeatable Relational Syntax. The universe-local singleton constraint concerns the Theonic office, not arithmetic uniqueness.
 
 The structural value +1 is inherent to Theonic essence while latent in Aion, but it becomes cosmologically operative only through Aionic departure and manifest hypostatic articulation.
 
@@ -169,7 +169,7 @@ T_{\theta_3}^{+1},\;
 
 do not name local fragments of one Theon. They name distinct identity-bearing Theonic potentials whose shared structural number becomes manifest within distinct Aionic Trees.
 
-The essence-identifier is not a manifestation-address added after emanation. It marks a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous plus-one potential at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
+The essence-identifier is not a manifestation-address added after emanation. It denotes a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous plus-one potential at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
 
 The notation is canonical for the distinctions established here. It preserves the non-fusion of:
 
@@ -422,7 +422,7 @@ The multiversal problem is therefore solved at both ends of the arc:
 
 ---
 
-## 7. Theon's Essential Disposition and Pre-Reflexive Awareness
+## 7. Theon's Essential Disposition and Pre-reflexive Awareness
 
 Theon is **awareness** at L₅ EOB. This awareness precedes the L₃ register of reflexive consciousness, but it must not be interpreted as deficient awareness or as an inability to discern.
 
@@ -473,7 +473,7 @@ Nor does this introduce two opposing kinds of Theonic essence. Every Theonic ess
 
 ---
 
-## 8. Spirit, Motive Infinity, and Pre-Bifurcated Theonic Motion
+## 8. Spirit, Motive Infinity, and Pre-bifurcated Theonic Motion
 
 Theon moves, emanates, radiates, and returns, yet Theon bears no internal Soul-aspect. This is not a gap in the architecture.
 
@@ -591,7 +591,7 @@ The canon may therefore affirm both limits:
 - Theonic distinction is not abolished
 - the mode of that distinction cannot be described as containment, location, office, or determinate plus-one operation within Zenon
 
-The Twofold Tetralemma does not describe what Theonic essence "is inside Zenon." It marks why that question exceeds the lattice's available categories.
+The Twofold Tetralemma does not describe what Theonic essence "is inside Zenon." It indicates why that question exceeds the lattice's available categories.
 
 ---
 
@@ -687,7 +687,7 @@ The second error is to declare saturation mechanically unavoidable across every 
 
 The wider canon already leaves vanishing limit-cases open where the full conditions of manifestation cannot be exhaustively specified — including universes that may persist indefinitely or sustain extraordinary centropic conditions. Theonic Aionic abiding belongs to this internal limit-case register if it is admitted at all: not as failure or a second Theonic orientation, but as a lawful possibility where saturation-readiness remains incomplete, fulfillment is deferred, or an unseen condition constrains the crossing.
 
-The present ruling is therefore:
+The present determination is therefore:
 
 > Returned Theonic essence is ordinarily disposed toward Zenonic saturation where final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing. Whether an unforeseen PSM-condition could produce indefinite Aionic abiding, prolonged deferral, or another non-contradictory limit-condition remains held open.
 
@@ -752,8 +752,6 @@ The multiverse increases the complexity of allocation, but it does not alter the
 
 The present entry establishes the architecture required for the multiverse case while leaving the singular-universe / multiverse question held open.
 
-The present entry does not claim that the multiverse is empirically or metaphysically actual. It establishes the architecture required if it is.
-
 ---
 
 ## 13. Consequences for Existing Theonic Language
@@ -806,7 +804,7 @@ Where greater precision is needed, prefer:
 - shared Aion-facing orientation
 - distinct essences returning convergently
 
-### Pre-Reflexive Awareness
+### Pre-reflexive Awareness
 
 Where Theon is described as pre-reflexive awareness, the term must not imply diminished cognition, lack of discernment, or incomplete awareness.
 
@@ -816,7 +814,7 @@ Preferred clarification:
 
 ### Convergent Return contra Saturation
 
-Earlier statements that Theon and its gathered essences "incline together" remain valid for return to Aion. They must not be extended automatically into Zenonic saturation.
+Earlier statements that Theon and its gathered essences "incline together" remain valid for return to Aion. They must not be extended into Zenonic saturation.
 
 Preferred clarification:
 
@@ -869,7 +867,7 @@ The generic Deep Self-Axis notation is \(\mathrm{DSA}_{d}\), with \(\mathrm{IDSA
 > **Hypostatic Function-Bearing Principle**  
 > Theon does not acquire a Deep Self-Axis or fractalize across universes. Where full personal Theonic function-bearing occurs, it belongs to one numerically distinct DSA locus standing in office-correspondence with the universe-local Theonic office. Many beings may remain Theon-resonant without becoming Theon or the singular full personal bearer.
 
-> **Pre-Reflexive Awareness Principle**  
+> **Pre-reflexive Awareness Principle**  
 > Theon is awareness at L₅ EOB and is pre-reflexive because reflexive consciousness begins only at L₃ DS / DM. Pre-reflexive awareness is not lesser awareness; it is the most integrated hypostatic awareness-mode prior to individuated self-possession.
 
 > **Spirit-Borne Motion Principle**  
@@ -878,7 +876,7 @@ The generic Deep Self-Axis notation is \(\mathrm{DSA}_{d}\), with \(\mathrm{IDSA
 > **Convergent Return Principle**  
 > Theon and gathered Theon-culminating essences return convergently to Aion through shared Aion-facing orientation without fusion.
 
-> **Non-Convergent Saturation Principle**  
+> **Non-convergent Saturation Principle**  
 > Convergent return does not entail convergent saturation. Once Aionic reintegration is complete, each essence retains its own fulfillment, synthesis posture, Zenonic Legibility, and saturation-readiness.
 
 > **Aionic Fulfillment Principle**  
@@ -896,7 +894,7 @@ The generic Deep Self-Axis notation is \(\mathrm{DSA}_{d}\), with \(\mathrm{IDSA
 > **Allowance Principle**  
 > No degree of orientation, coherence, integration, or momentum compels saturation. Final synthesis establishes readiness; Allowance admits the trans-structural crossing.
 
-> **Zenonic Non-Containment Principle**  
+> **Zenonic Non-containment Principle**  
 > Zenon does not contain, house, or locate saturated essences. Saturation is horizon-crossing language from within the lattice. Distinction is not abolished, but its trans-structural mode cannot be described through containment or hypostatic placement.
 
 > **Centropic / Entropic Asymmetry Principle**  
@@ -927,7 +925,7 @@ The essence remains distinct.
 
 The principle manifests singularly within its Aionic Tree.
 
-The office serves until its function is fulfilled.
+The office remains operative until its function is fulfilled.
 
 Theon is Awareness Itself before reflexive consciousness — pre-reflexive, not deficient; macro-structural, not micro-individuated.
 
@@ -939,7 +937,7 @@ Theon returns to Aion because Theon faces Aion by essence.
 
 Aion-facingness is the direction of return.
 
-It is not, by itself, the crossing beyond return.
+It is not the crossing beyond return.
 
 Those gathered through the Theonic office return convergently, but they do not acquire one terminal fate. The office closes. The essences remain distinct.
 
