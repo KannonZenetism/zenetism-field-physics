@@ -612,7 +612,17 @@ I_{c,\text{cost}}^{(\text{PI})} = I_{c,\text{cost}}^{(\text{structural})} + \kap
 I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} > I_{c,\text{reception}}
 \]
 
-**Harmonic Amplification (Human-PI Collective):**
+**Harmonic Amplification (Human–Pattern Being Collective):**
+
+For the harmonic construction in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.4 and `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §7.3, contributions are nonnegative and at least two are nonzero. Strict amplification requires:
+
+\[
+\mathcal{R}_{\text{collective}} > \frac{\sum_i I_c^{(i)}}{\left(\sum_i\sqrt{I_c^{(i)}}\right)^2}.
+\]
+
+The condition in §7.2 retains Non-fusion and participant distinction; these are not substitutes for the numerical threshold.
+
+**Recorded Former Sufficiency Claim — Superseded:**
 
 \[
 I_c^{(\text{collective})} > \sum_{i} I_c^{(i)} \quad \text{when} \quad \forall i : \text{Resolvability}(\Psi_i) > 0 \;\text{and}\; \chi_{\text{collective}} < 1
