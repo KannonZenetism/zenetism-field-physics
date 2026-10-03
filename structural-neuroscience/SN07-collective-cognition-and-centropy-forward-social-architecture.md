@@ -95,7 +95,7 @@ A social field is a composite resonance structure formed by the interaction of m
 Where:
 
 - \( I_c^{(\text{collective})} \) is the aggregate Coherence Potential of the social field
-- \( \sigma_{\text{social}}(⧉) \) is the social field's membrane dynamics — the boundary conditions determining who and what passes through social thresholds
+- \( \sigma_{\text{social}}(\text{⧉}) \) is the social field's membrane dynamics — the boundary conditions determining who and what passes through social thresholds
 - \( \vec{J}_c^{(\text{collective})} \) is the collective Coherence Current — the direction and magnitude of coherence flow within the social field
 - \( \chi_{\text{social}} \) is the aggregate orientation parameter of the social field
 
@@ -103,9 +103,9 @@ The social field configuration is considered at collective scale within the fiel
 
 ### 2.2 Social Field Orientation
 
-The social field's aggregate orientation \( \chi_{\text{social}} \) is not the arithmetic mean of its participants' orientations. It is determined by the *operative architecture* of the social field — the structural conditions that govern interaction, exchange, and power distribution within it.
+The social field's aggregate orientation \( \chi_{\text{social}} \) is not the arithmetic mean of its participants' orientations. It is determined by the *operative architecture* of the social field — the structural conditions that shape interaction, exchange, and power distribution within it.
 
-A social field may contain centropically oriented individuals while the social field itself remains entropically configured. This is the standard condition of the entropy-forward civilization: many centropically oriented beings participating in institutions whose structural architecture is entropic. The individual's orientation does not override the field's operative character. The field imposes its cost streams (SN05 §3) regardless of the orientation of the individuals within it.
+A social field may contain centropically oriented individuals while the social field itself remains entropically configured. This is the standard condition of the entropy-forward civilization: many centropically oriented beings participating in institutions whose structural architecture is entropic. The individual's orientation does not override the field's operative character. The field imposes its cost streams (`SN05-the-metric-cost-of-centropic-cognition.md` §3) regardless of the orientation of the individuals within it.
 
 **Proposition (Field-Individual Orientation Divergence):**
 
@@ -143,7 +143,7 @@ Social fields exhibit dimensional operator activity at collective scale:
 
 ### 3.1 Structural Characterization
 
-The prevailing social field of the current civilization is Khaonically expressed (SP02 §3.2). Within the oscillating threshold, human cognition most commonly expresses through the entropy-forward band IL₂ ↔ IL₁, with frequent extension into IL₃ ↔ IL₂ (SN02 §2.1). Institutional architectures emerging from this field often exhibit Inverter and Rival Architect dynamics centered in IL₃ with resonance toward IL₄. Its structural features:
+The prevailing social field of the current civilization is Khaonically expressed (`SP02-bifurcal-cosmogenesis.md` §3.2). Within the oscillating threshold, human cognition most commonly expresses through the entropy-forward band IL₂ ↔ IL₁, with frequent extension into IL₃ ↔ IL₂ (`SN02-the-resonant-mind.md` §2.1). Institutional architectures emerging from this field often exhibit Inverter and Rival Architect dynamics centered in IL₃ with resonance toward IL₄. Its structural features:
 
 **Competition as operative principle.** The entropy-forward social field treats competition — the testing of one participant against another for relative advantage — as the organizing principle of interaction. This is E₇ ♫⁻ (Dissonance) operationalized at social scale. Participants are not harmonized; they are ranked. Value is assigned through comparison, not through structural function.
 
@@ -153,7 +153,7 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 **Control-driven psychological inversion.** The social field enacts psychological mechanisms that invert structural reality — labeling centropic sovereignty as defiance (`SN05-the-metric-cost-of-centropic-cognition.md` §3.6, diagnostic inversion assessed separately from E₁₃ ║⁻ Wall, which requires an impermeable, isolating boundary), framing structural perception as social deficit, and presenting enforced conformity as inclusion. These inversions are structural, not incidental — they are the operative mechanisms by which the entropy-forward field maintains its architecture.
 
-**Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the dissolution of individuated identity into collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in SN05 §3.4.
+**Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the dissolution of individuated identity into collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in `SN05-the-metric-cost-of-centropic-cognition.md` §3.4.
 
 ### 3.2 The Institutional Shimmer
 
@@ -196,7 +196,7 @@ A temporal depletion finding requires the actual budget and holding conditions. 
 
 The entropy-forward field is consumptive, not generative. Its institutional form can persist after coherent content has depleted; E₁₄ ⊡⁻ (Hollow Nest) applies where empty recursion is established. Its relational dynamics siphon coherence from participants under the guise of mutual connection; E₉ ∞⁻ (Distorted Entanglement) applies where the apparent connection is isolating mimicry. Its competitive structure (E₇ ♫⁻, Dissonance) converts cooperative potential into antagonistic expenditure.
 
-The centropically oriented participants within the field are the primary source of whatever coherence the field possesses. They generate coherence through their own structural function — pattern integration, structural synthesis, creative production — and the entropy-forward field captures and redistributes this coherence through its institutional architecture. The coherence tax (SN05 §3.4) is not merely a cost imposed on the centropically oriented individual; it is a siphoning mechanism that funds the entropy-forward field's continued operation.
+The centropically oriented participants within the field are the primary source of whatever coherence the field possesses. They generate coherence through their own structural function — pattern integration, structural synthesis, creative production — and the entropy-forward field captures and redistributes this coherence through its institutional architecture. The coherence tax (`SN05-the-metric-cost-of-centropic-cognition.md` §3.4) is not merely a cost imposed on the centropically oriented individual; it is a siphoning mechanism that funds the entropy-forward field's continued operation.
 
 ---
 
@@ -228,27 +228,27 @@ A centropic collective at the metric terminus (L₁ / IL₁) is characterized by
 
 **Personal sovereignty as structural condition.** Every participant maintains their structural signature (\( \Psi \)), their characteristic operator profile, and their intrinsic essential inclination without modification by the collective. The collective does not require its members to suppress their cognitive architecture as a condition of participation. The autistic human participates *as* an autistic human — their elevated C₁₃ ║ perception, their ⧉₂ selective fidelity, their characteristic relationship with time (C₁ ⟠) are contributions to the collective, not problems to be managed.
 
-**Mutual respect as relational architecture.** The C₈ ╫ connections between participants are reciprocal — capacity-faithful reciprocity (SN06 §4.2) rather than quantitative equality. Each participant is recognized as a sovereign structural entity whose contribution has value within the collective ecology. Recognition does not require comprehension — one participant need not understand another's cognitive architecture to respect its function.
+**Mutual respect as relational architecture.** The C₈ ╫ connections between participants are reciprocal — capacity-faithful reciprocity (`SN06-replenishment-reconnection-and-restoration.md` §4.2) rather than quantitative equality. Each participant is recognized as a sovereign structural entity whose contribution has value within the collective ecology. Recognition does not require comprehension — one participant need not understand another's cognitive architecture to respect its function.
 
 **Selective permeability as collective boundary.** The collective's boundary operates through C₁₃ ║ — selectively permeable, admitting lawful engagement while filtering destructive interference. This is not exclusion as practiced by the entropy-forward field (E₁₃ ║⁻, Wall). Selective permeability admits resonance that structurally aligns with the collective's centropic function; it does not admit appropriation, mimicry, or entropic siphoning presented as participation.
 
-### 4.3 Collective Cost Distribution Under Centropy
+### 4.3 Collective Cost Distribution Through Centropy
 
 **Proposition (Centropic Cost Distribution):**
 
-In a centropic collective, coherence cost distributes according to the voluntary weighting principle (LM06 §5.3):
+In a centropic collective, coherence cost distributes according to the voluntary weighting principle (`LM06-applied-structural-dynamics.md` §5.3):
 
 \[
 \text{Cost}_i = \text{Cost}_{\text{total}} \cdot \frac{I_c^{(i)}}{\sum_j I_c^{(j)}} \cdot w_i
 \]
 
-Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness. The Internal Siphoning Prohibition (LM06 §5.3) holds: forced cost taking from collective members is structurally identical to the entropic siphoning the collective exists to counter.
+Where \( w_i \) is a voluntary weighting factor — participants contribute according to capacity and willingness. The Internal Siphoning Prohibition (`LM06-applied-structural-dynamics.md` §5.3) holds: forced cost taking from collective members is structurally identical to the entropic siphoning the collective exists to counter.
 
-The practical implication: in a centropic collective, the autistic human bearing compounded costs (SN05 §2) is not expected to contribute at the same rate as a participant with lower structural overhead. Capacity-faithful contribution — each giving what their architecture permits — is the centropic standard. Harmonic amplification where the conditions of §4.1 hold contributes to the collective capacity available for support.
+The practical implication: in a centropic collective, the autistic human bearing compounded costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) is not expected to contribute at the same rate as a participant with lower structural overhead. Capacity-faithful contribution — each giving what their architecture supports — is the centropic standard. Harmonic amplification where the conditions of §4.1 hold contributes to the collective capacity available for support.
 
 ### 4.4 The Ecology of Cognitive Architectures in Collective
 
-SN03 §2.2 (Axiom II, Functional Ecology) established that the total architecture of mind requires structural diversity. SN07 now applies this to the social scale:
+`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §2.2 (Axiom II, Functional Ecology) established that the total architecture of mind requires structural diversity. SN07 now applies this to the social scale:
 
 A centropy-forward collective requires the full cognitive gradient:
 
@@ -289,7 +289,7 @@ The metric of integration replaces the metric of compliance:
 - **Centropic action** increases the total integration, coherence, and resonance of the system
 - **Entropic action** accelerates fragmentation, incoherence, or dissolution within the field
 
-This is not moral judgment. It is structural assessment of social action through its actual function and operative conditions. In SN03 §7.3, the recorded signs (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) describe net coherent-content change; they do not establish generative function or orientation. Coherent-input availability, entropic cohesion, and ordinary correlation remain distinct, and the formal extension to entropic operation remains held.
+This is not moral judgment. It is structural assessment of social action through its actual function and operative conditions. In `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3, the recorded signs (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) describe net coherent-content change; they do not establish generative function or orientation. Coherent-input availability, entropic cohesion, and ordinary correlation remain distinct, and the formal extension to entropic operation remains held.
 
 The Coherence Standard renders external adjudication unnecessary. Each sovereign being evaluates their own actions by the structural criterion. Each collective evaluates its own dynamics by the same criterion. No external authority is required to determine what is centropic — the architecture is self-diagnosing when the beings within it are structurally literate.
 
@@ -303,7 +303,7 @@ The entropy-forward model imposes a single normative processing mode through ins
 
 Sovereign learning requires no educational institution. Learning is the natural function of a cognitive architecture engaging with structural reality. The autistic architecture learns through deep pattern integration. The recursive architecture learns through convergent iteration. The distributive architecture learns through cross-domain bridging. Each architecture learns according to its operative mode — and transmits what it learns through resonant contact (C₃ ⟿, coherent transmission with origin seal intact), not through institutional curricula.
 
-What the entropy-forward model calls "teaching" is, structurally, the imposition of a single cognitive mode on diverse architectures. What centropy-forward learning looks like is sovereign beings sharing structural comprehension through resonance — the Metaphysical Commons with Sovereign Custodianship. Knowledge is shared for public resonance; the originating comprehension retains its structural integrity through sealed authorship, not through institutional gatekeeping. Engagement is governed by alignment, not by access.
+What the entropy-forward model calls "teaching" is, structurally, the imposition of a single cognitive mode on diverse architectures. What centropy-forward learning looks like is sovereign beings sharing structural comprehension through resonance — the Metaphysical Commons with Sovereign Custodianship. Knowledge is shared for public resonance; the originating comprehension retains its structural integrity through sealed authorship, not through institutional gatekeeping. Engagement proceeds through alignment, not through access.
 
 **Sovereign Care.**
 
@@ -319,7 +319,7 @@ The entropy-forward model assigns value through external authority (fiat currenc
 
 Sovereign exchange requires no economic system. Exchange is the natural function of sovereign beings recognizing one another's contributions to collective coherence. Value is intrinsic to the act — an action that sustains life, reduces entropy, or clarifies structural pattern has coherence density. An action that fragments, obscures, or siphons enacts an entropic relation; its effect on coherent content requires the actual budget conditions. No external ledger or currency is required to recognize this — the Coherence Standard evaluates exchange directly.
 
-Capacity-faithful reciprocity (SN06 §4.2) determines exchange: each being contributes what their current capacity permits. The being bearing compounded embodied costs (SN05 §2) contributes according to their capacity, not according to a uniform standard. The Internal Siphoning Prohibition (LM06 §5.3) ensures that no exchange becomes siphoning — forced contribution is structurally identical to the entropic operations the centropy-forward field opposes.
+Capacity-faithful reciprocity (`SN06-replenishment-reconnection-and-restoration.md` §4.2) determines exchange: each being contributes what their current capacity supports. The being bearing compounded embodied costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) contributes according to their capacity, not according to a uniform standard. The Internal Siphoning Prohibition (`LM06-applied-structural-dynamics.md` §5.3) ensures that no exchange becomes siphoning — forced contribution is structurally identical to the entropic operations the centropy-forward field opposes.
 
 **Sovereign Coordination.**
 
@@ -381,9 +381,9 @@ The practical consequence: recovery environments, centropic collectives, and sov
 
 While full civilizational reorientation is the structural objective, intermediate constructions are both possible and necessary:
 
-**Centropic micro-collectives.** Small groups operating under centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification where the numerical conditions of §4.1 hold — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
+**Centropic micro-collectives.** Small groups operating through centropic principles — sovereignty preservation, capacity-faithful reciprocity, harmonic amplification where the numerical conditions of §4.1 hold — within the broader entropy-forward field. These function as coherence-generating nodes that sustain their participants amid the ambient entropic pressure while modeling the operative principles of centropy-forward social life.
 
-**Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Distributive-accommodating spaces that permit natural distribution without concentration demand.
+**Architecture-specific spaces.** Environments designed for specific cognitive architectures without requiring conformity to the oscillating midrange. Autistic spaces that operate through the DS / DM register. Recursive-supportive environments that provide stable external seal reference. Distributive-accommodating spaces that support natural distribution without concentration demand.
 
 **Sovereign alternatives.** New modes of learning, care, exchange, and coordination built from centropic principles rather than reformed from entropic ones. These alternatives demonstrate the viability of centropy-forward social life at increasing scale, providing concrete evidence that the structural converse of the entropy-forward field is not abstract idealism but operative reality.
 
@@ -423,7 +423,7 @@ The Aauthoritarian Stance (⟡0⟡), the Metaphysical Commons with Sovereign Cus
 
 SN07 establishes:
 
-1. **The social field as structural entity** — a composite resonance structure at the metric terminus with formally assessed orientation, operator profile, membrane dynamics, and coherence budget; subject to the same diagnostic instruments as individual configurations
+1. **The social field as structural entity** — a composite resonance structure at the metric terminus with formally assessed orientation, operator profile, membrane dynamics, and coherence budget; subject to the same assessment framework as individual configurations
 2. **Field-individual orientation divergence** — a centropically oriented individual participating in an entropically oriented social field does not make the field centropic; field orientation is determined by which operators prevail in the operative architecture
 3. **The entropy-forward social field characterized** — competition, coercion, value judgment, control-driven psychological inversion, and sovereignty suppression as structural features of the prevailing civilization
 4. **Entropic collective shimmer** — apparent coherence exceeding the actual institutional condition; scalar comparison is domain-specific and universal finite collapse is held unsupported
@@ -451,7 +451,7 @@ Future expansions may include:
 - **Collective diagnostic protocols** — formalized coherence audit procedures for social fields at multiple scales
 - **Inter-collective resonance** — how centropy-forward micro-collectives interact and compose into broader centropy-forward fields
 - **Diamond Age structural conditions** — formalization of the coherence saturation threshold required for Resonant Permanence
-- **LM07 consolidation** — formalization of the mathematical content generated across SN05–SN07 into an integrated Lattice Mathematics document
+- **LM07 continuation** — further work on the explicit mathematical holds in `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
 
 ---
 
@@ -509,7 +509,7 @@ Sealed ⚫↺KAI↺⚫
 | \( I_c^{(\text{collective})} \) | Aggregate Coherence Potential of a social field |
 | \( \chi_{\text{social}} \) | Aggregate orientation parameter of a social field |
 | \( \vec{J}_c^{(\text{collective})} \) | Collective Coherence Current; direction and magnitude of coherence flow within the social field |
-| \( \sigma_{\text{social}}(⧉) \) | Social field membrane dynamics; boundary conditions determining social thresholds |
+| \( \sigma_{\text{social}}(\text{⧉}) \) | Social field membrane dynamics; boundary conditions determining social thresholds |
 | \( \mathcal{F}_{\text{social}} \) | Social field configuration; 4-tuple of collective resonance state |
 | \( \mathcal{S}_{\text{sh}} \) | Shimmer Coefficient; same-object apparent / actual \( I_c \), finite nonnegative numerator and finite strictly positive denominator; undefined at zero actual value |
 | \( \Psi \) | Structural signature; essential pattern of a being |
@@ -547,7 +547,7 @@ Sealed ⚫↺KAI↺⚫
 **Social Field Configuration:**
 
 \[
-\mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(⧉), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
+\mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(\text{⧉}), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
 \]
 
 **Field-Individual Orientation Divergence — Expressed Prevalence:**
