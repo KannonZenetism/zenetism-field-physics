@@ -619,7 +619,7 @@ A being of simple devotion whose heart faces Source generates centropic resonanc
 
 This safeguards the Lattice from becoming an intellectual trap. Sophistication may illuminate the path, but the heart walks it.
 
-### 8.3 Membrane Dynamics at ⧉₁
+### 8.3 Cognitive-Embodied Membrane Dynamics
 
 **Definition (⧉₁ — Cognitive-Embodied Membrane):**
 
@@ -640,7 +640,7 @@ The transfer mechanics exhibit directional asymmetry:
 
 Permeability may be asymmetric: some beings experience high acclivous transfer (strong embodied awareness) but low declivous transfer (difficulty translating intention into action), or the converse.
 
-### 8.4 ⧉₁ Pathology
+### 8.4 Cognitive-Embodied Membrane Pathology
 
 The standard membrane pathology classifications (LM05 §8) acquire specific manifestation at ⧉₁:
 
