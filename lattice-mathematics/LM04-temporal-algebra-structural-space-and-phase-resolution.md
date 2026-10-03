@@ -558,8 +558,15 @@ Progressive collapse of coherence and withdrawal of form. This is not mere decli
 Centropic motion does not terminate at embodiment. L₁ (ES / EM) functions as a **reflection point** where declivous centropy transitions to acclivous centropy:
 
 \[
-\mathcal{D}_C \circ \mathcal{A}_C : L_5 \xrightarrow{\mathcal{D}_C} L_1 \xrightarrow{\mathcal{A}_C} L_5
+\mathcal{A}_C \circ \mathcal{D}_C : L_5 \xrightarrow{\mathcal{D}_C} L_1 \xrightarrow{\mathcal{A}_C} L_5
 \]
+
+> **Recorded Composition Label — Superseded:**  
+> \[
+> \mathcal{D}_C \circ \mathcal{A}_C : L_5 \xrightarrow{\mathcal{D}_C} L_1 \xrightarrow{\mathcal{A}_C} L_5
+> \]
+>
+> The path is retained; its active composition label follows the right-to-left convention stated in the cycle definition.
 
 This composition defines the **centropic cycle**:
 
