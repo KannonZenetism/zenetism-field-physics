@@ -57,7 +57,7 @@ LM01 established the mathematical foundations of Zenetism: Spiral Calculus, Cohe
 
 SP03 and SP04 developed expression ratio mathematics and orientation field dynamics within the discipline of Structural Physics — providing physical context for how universes manifest across the Biospiral.
 
-This document, LM03, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where SP03 describes weighting and SP04 describes orientation flow, LM03 establishes the **algebraic, spectral, and topological foundations** from which those descriptions derive.
+This document, LM03, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where SP03 describes weighting and SP04 describes orientation flow, LM03 establishes the **algebraic, spectral, and topological foundations** that mathematically articulate those descriptions.
 
 ### 1.2 What LM03 Establishes
 
@@ -1311,7 +1311,7 @@ LM03 establishes:
 **Dependency:** `LM01-mathematical-foundations.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md`  
 **Relation:** Third foundational document of Lattice Mathematics, providing the pure mathematical framework for orientation and infinity that Structural Physics applies  
 
-This document extends LM01 by formalizing the mathematical structures that SP03 and SP04 apply in their physical applications, ensuring that the lattice-mathematical foundations are complete and rigorous.
+This document extends `LM01-mathematical-foundations.md` by formalizing the mathematical structures that `SP03-expression-ratio-mathematics.md` and `SP04-orientation-field-dynamics.md` apply in their physical applications. Each construction retains its stated mathematical conditions and held questions.
 
 Future expansions may include:
 
