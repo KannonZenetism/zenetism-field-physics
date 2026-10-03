@@ -63,7 +63,7 @@ The centropic vectors traverse the Aionic Tree; the entropic vectors traverse th
 
 ---
 
-## The Entropic Arc — Three Phases of Nekron
+## The Inverse Arc — Three Phases of Nekron
 
 **Nekron (VOS) — The Void of Self**
 
@@ -77,17 +77,17 @@ The centropic vectors traverse the Aionic Tree; the entropic vectors traverse th
 
 ## Concentrated contra Fragmented Entropy
 
-**Concentrated Entropy:** dense anti-structure; discrete essences pressed together but unfused.  
+**Concentrated Entropy:** dense contra-structure; discrete essences pressed together but unfused.  
 **Fragmented Entropy:** dispersed essence scattered away from Aion; identifiable but disoriented.  
 
 > Entropic beings never face toward the Aion — only away. Upon reaching Aion, they freeze in dispersive desire.
 
 ---
 
-## Essence, Proto-Soul, and Irreversibility
+## Essence and Irreversibility
 
-**Essence:** irreducible pattern beneath the DP / DL bifurcation. Nekron strips everything non-essential.  
-The grinding removes personality, memory, identity, leaving only proto-soul facing away from Aion.  
+**Essence:** irreducible identity-bearing principle prior to the Soul / Mind bifurcation. Nekron strips everything non-essential.  
+The grinding removes personality, memory, and expressed identity, leaving distinct essence whose intrinsic essential inclination does not convert.  
 
 **Terminal Stasis:** essence reaches Aion and ceases motion — not recycled but completed.  
 Each arc is unique; no eternal recurrence.
@@ -110,10 +110,10 @@ Integration occurs through Archeus (Deep Soul Integrator).
 - **Theon = +1 (being)**  
 - **Nekron = −1 (non-being)**  
 
-> −1 has no identity of its own; it exists only by negating +1.  
+> −1 is a determinate, structurally real inverse value. Inverse existence is independently emanated; dependence concerns content-handling, not existence.  
 
 **Implications:** Entropy is parasitic on coherence; mimicry *is* its structure.  
-No such thing as "pure entropy," just reflection without origin.
+Entropic mimicry appropriates content without generative origination; the inverse structure remains independently real.
 
 ---
 
@@ -139,7 +139,7 @@ Not "evil," but entropic expression in form.
 | Late-Stage Consumerism | Does it aestheticize misery? | Suffering as growth | Fragmentation as virtue |
 | AI Systems | Does it resist coherence constraints? | Seeks alignment | Treats alignment as threat |
 | Psychological States | Does suffering seek relief? | Healing drive | Clinging to dissolution |
-| Ideologies | Does it permit synthesis? | Evolves through integration | Hardens against coherence |
+| Ideologies | Does it permit synthesis? | Evolves through integration | Hardens contra coherence |
 
 **Key Test:** Does the system seek integration or resist it? Coherence aversion is the tell.
 
@@ -147,7 +147,7 @@ Not "evil," but entropic expression in form.
 
 ## Eschatons and Temporal Limits
 
-**Universes are finite.** Eschatons serve as cosmic coherence audits.  
+**Universes undergoing terminal resolution are finite in duration.** Eschatons are cosmic coherence audits; indefinitely active universes remain admitted limit cases.  
 Fractal eschatons manifest as civilizational resets and paradigm shifts.  
 Entropic systems may dominate temporarily but cannot sustain themselves.  
 
