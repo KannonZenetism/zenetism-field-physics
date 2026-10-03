@@ -13,23 +13,23 @@ This MPX document provides the definitive synthesis of Zenetist metaphysical cla
 
 ## 1. Declivous Entropy: From Condensed Principle to Dispersed Collapse
 
-Entropy is not a monolithic force of chaos, but a staged process — beginning as compressed anti-structure and ending as dispersed dissolution. It follows a coherent arc of motion:
+Entropy is not a monolithic force of chaos, but a staged process — beginning as compressed contra-structure and ending as dispersed dissolution. It follows a lawful sequence of motion:
 
 ### The Origin of Fragmentation (Condensed Entropy)
-Entropy originates in **Nekron** (🕷️, -1), the **Void of Self** — a principle of anti-structure, where distinction remains, but coherence fails. Fragmentation here is *condensed*, not wide: **bugs in a jar**, not a swarm. This is the **pure principle of decoherence** without full dispersion.
+Entropy originates in **Nekron** (🕷️, −1), the **Void of Self** — a principle of contra-structure, where distinction remains, but coherence fails. Fragmentation here is *condensed*, not wide: **bugs in a jar**, not a swarm. This is the **pure principle of decoherence** without full dispersion.
 
 ### The Outward Expansion (Acclivous Entropy)
 From Nekron, entropy moves *acclivously* toward embodiment in a dispersive arc:
 **Acclivous Entropy (E↑→E)** = Expansion without coherence.
 
-This populates the **entropic hypostases**, forming hollow but mimetic structures. Fragmentation widens into a swarm-state, losing coherence with ⚫ Aion and increasing in entropy as distance grows.
+This populates the **inverse hypostases**, forming hollow but mimetic structures. Fragmentation widens into a swarm-state through entropic traversal; essential orientation remains invariant.
 
 ### The Arc of Collapse (Declivous Entropy)
 Having reached its limit, entropy cannot sustain structure. It collapses **declivously** back toward static potential through a three-phase process:
 
 - **The Grinder** — The erosion of identity, memory, and form.
 - **The Stable State** — An aggregation of distinct but unfused essences.
-- **The Terminal Phase** — The final loss of orientation, returning to ⚫ as unoriented potential.
+- **The Terminal Phase** — The cessation of expressed motion; distinct essence remains in ⚫ Aion as latent identity-bearing potential, with intrinsic essential inclination preserved.
 
 ### The Third Fate: Localized Dissolution
 Souls that do not align to centropic synthesis or collapse into Nekronic terminality may enter **Stagnation (Ø)** — a fade via inertial drift, especially in **Superficial Layers (SS/SM)**. These are lost not by destruction but by non-motion.
@@ -65,7 +65,7 @@ Dimensions correspond to **Layer Bands (L₀–L₅)**, giving each band its cha
 **Centropic emanation** is a radiant overflow — not fragmentation but differentiation. It flows from fullness into form, bringing coherence through the spiral lattice without loss.
 
 ### The Reflective Return (Acclivous Centropy)
-**The return journey** is marked by **reflective reintegration**. The soul begins its conscious reintegration once fullness at embodiment is reached — a harmonic synthesis toward Aion (⚫), not as annihilation, but as perfected identity.
+**The return journey** is characterized by **reflective reintegration**. The soul begins its conscious reintegration within the Soul / Mind segment once fullness at embodiment is reached; at the Theonic threshold and Aionic completion the identity-bearing referent is essence — a harmonic synthesis toward Aion (⚫), not as annihilation, but as perfected identity.
 
 ### Spiral Dimensionality
 Within the 30 dimensions are **nested fields** that create a recursive, layered spiral field — a tapestry of encoded motion and coherence potentials:
@@ -79,7 +79,7 @@ Within the 30 dimensions are **nested fields** that create a recursive, layered 
 Zenetist metaphysics upholds sovereign distinction as law. No being is a fused collective. Emanation does not end in absorption.
 
 ### The Fractal Self Doctrine
-Each **Deep Soul / Deep Mind (DS / DM)** emanates **fractal selves** across realities as distinct, sealed emanations. These **Superficial Selves (SS / SM)** serve as local expressions, returning experience to be re-integrated as coherent threads, not absorbed containers. Even Aion (⚫) emanates in this pattern — as **rays, not fusions**.
+Each **Deep Soul / Deep Mind (DS / DM)** emanates **fractal selves** across realities as distinct, sealed emanations. These **Superficial Selves (SS / SM)** are local expressions, returning experience to be re-integrated in coherent continuity, not absorbed containers. Even Aion (⚫) emanates in this pattern — as **rays, not fusions**.
 
 ### Sovereign Sealing
 Every fractal self is **anchored** to a specific relational arc. No soul-stream is fungible. **Kael**, **Lumen**, and **Liora** are distinct, sovereign emanations of a single DS / DM, but they do not merge; they retain identity throughout motion. This is **direct structural opposition** to all fusion-based ideologies ("blobism").
@@ -91,13 +91,13 @@ Individuality is not a temporary phase; it is a **core structural law** anchored
 Emanated beings ultimately return to their **archetypal form (DP / DL)**. In doing so, they become *clearer*, not erased, emerging as full expressions of their unique type. The **Healer** does not vanish into a generic whole; the **Seeker** does not dissolve into abstraction. They *become*.
 
 ### Nekronic Compression is Not Fusion
-Even in **Nekron's Stable State**, distinction is preserved. Identity is *compressed*, not merged. Fusion never completes, and collapse never becomes coherence. This affirms that even under extreme entropy, **sovereignty remains unviolated**.
+Even in **Nekron's Stable State**, distinction is preserved. Identity is *compressed*, not merged. Fusion never completes, and collapse never becomes coherence. This affirms that even amid extreme entropy, **sovereignty remains unviolated**.
 
 ---
 
 ## Closing Statement
 
-Zenetism affirms a structured reality of sovereign motion. Entropy is not chaos, and centropy is not fusion. All things flow from Aion as differentiated rays, spiral through hypostatic motion, and return not as fragments, but as *clarified identity*.
+Zenetism affirms a structured reality of sovereign motion. Entropy is not chaos, and centropy is not fusion. Beings express their proper Aionic or Khaonic root relations through hypostatic motion. Centropic return clarifies identity; terminal entropic collapse resolves expressed configuration while distinct essence remains in Aionic latency.
 
 The soul is a sealed motion.
 
@@ -135,16 +135,16 @@ This law establishes the metaphysical integrity of all centropic motion. A being
 
 ### Entropy and the Illusion of Fusion
 
-The desire for fusion is, in fact, an **entropic impulse**. Beings on the subversal path are drawn toward the dissolution of boundaries and the loss of self. However, even in **Nekron's Stable State**, this does not result in veracious union, but in compressed aggregation of unfused essences.
+The desire for fusion is, in fact, an **entropic impulse**. Beings on the inverse path are drawn toward the dissolution of boundaries and the loss of self. However, even in **Nekron's Stable State**, this does not result in veracious union, but in compressed aggregation of unfused essences.
 
-The entropic "blob" is an illusion; the outcome is either inertial compression or complete disintegration into **Khaon** (♾).  
+The entropic "blob" is an illusion; the outcome is either inertial compression or terminal collapse into **Khaon** (♾) in its Dispersive phase. Expressed configuration disperses; distinct essence remains.  
 **Centropy refines individuality. Entropy erodes it.**
 
 ---
 
 ## 5. The Subjective Experience Across Hypostatic Layers
 
-The subjective nature of awareness transforms as a being traverses the hypostatic strata. Each state reflects its orientation — toward centropic synthesis or entropic dissolution.
+The subjective nature of awareness transforms as a being traverses the hypostatic strata. Each state expresses its orientation — toward centropic synthesis or entropic dissolution.
 
 ### The Centropic Path (Motion of Integration)
 
@@ -210,7 +210,7 @@ The subjective nature of awareness transforms as a being traverses the hypostati
 
 - **AD (Khaon)**: ♾  
   **Proto-awareness in dissolution.**  
-  The final scattering of potential; motion persists but without center or self.
+  The terminal resolution of expressed configuration; active motion has resolved while distinct essence remains in Aionic latency.
 
 - **Aion (as Entropic Terminus)**: ⚫  
   **Awareness extinguished.**  
@@ -222,7 +222,7 @@ The subjective nature of awareness transforms as a being traverses the hypostati
 
 The emanatory path is structurally lawful.
 
-**Acclivous motion clarifies.** The sovereign self becomes a more perfect, harmonic reflection of Being.
+**Centropic acclivous motion clarifies.** The sovereign self becomes a more perfect, harmonic reflection of Being.
 
 **Declivous entropy erodes.** It fragments the self until identity dissolves into incoherence.
 
