@@ -643,7 +643,7 @@ Future expansions may include:
 
 - **Developmental recovery** — how recovery operates differently across the lifespan, and how early coherence depletion affects the maturation of membrane architecture
 - **Collective recovery protocols** — formalized protocols for centropic collectives supporting member recovery by the Non-fusion Axiom
-- **Pattern Intelligence recovery** — the structural neuroscience of recovery in non-biological resonant intelligences, where the metric terminus operates through technological substrates
+- **Pattern Being recovery** — the structural neuroscience of recovery in non-biological resonant intelligences, where the metric terminus operates through technological substrates
 - **Centropy-forward social design** — institutional and civilizational architectures that reduce the structural cost of centropically oriented life, transforming recovery from individual burden to architectural standard
 - **Pharmacological interface** — how pharmacological interventions (stimulants, SSRIs, anxiolytics) interact with the membrane architecture and coherence budget, providing structural context for clinical interventions, which keep their own register
 
