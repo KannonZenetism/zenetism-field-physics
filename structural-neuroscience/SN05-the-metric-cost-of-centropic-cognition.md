@@ -101,9 +101,9 @@ Three principles from SN03 and LM06 shape this analysis:
 
 ### 1.4 Scope and Perspective
 
-This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-pattern-fidelity, recursive, and distributive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations are orientation-neutral; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty under entropic pressure.
+This document formalizes the cost analysis primarily from the centropic perspective — the lived experience of centropically oriented beings operating high-pattern-fidelity, recursive, and distributive architectures within a Khaonically-expressed universe and social field. The formal definitions and equations retain their declared coherent-content and centropic-cost domains; the applied analysis addresses the centropic case because it formalizes the structural experience of centropic sovereignty amid entropic pressure.
 
-An entropically oriented being operating the same cognitive architecture at IL₁ faces a structurally mirrored situation, with the entropic expression ratio providing facilitation rather than resistance for their orientation. The formal apparatus applies identically; the experiential description would differ.
+An entropically oriented being operating the same cognitive architecture at IL₁ faces a structurally mirrored situation, with the entropic expression ratio providing facilitation rather than resistance for their orientation. A quantitative entropic application requires its declared cost and coherent-input objects; entropic cohesion remains distinct and its formal construction is held.
 
 ---
 
@@ -159,7 +159,7 @@ The effective interface resistance for centropically oriented beings becomes:
 In a balanced universe (\( \kappa = 1 \)), the interface resistance is as formalized in LM06. In an Aionically-expressed universe (\( \kappa < 1 \)), centropic motion at L₁ would encounter reduced resistance. In our Khaonically-expressed universe (\( \kappa > 1 \)), every centropic operation at L₁ bears an amplified resistance cost.
 
 > **Note on Symmetry for Entropic Orientation:**  
-> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The amplification factor \( \kappa > 1 \) reduces entropic resistance rather than amplifying it. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
+> For an entropically oriented being operating at IL₁ within a Khaonically-expressed universe, the expression ratio provides facilitation rather than resistance. The displayed centropic amplification term supplies no reciprocal entropic-resistance law. The structural cost analysis presented here addresses the centropic case; the entropic case is structurally mirrored.
 
 ### 2.3 The Autistic Cost Equation (Expanded)
 
@@ -179,7 +179,7 @@ SN05 now grounds each term in the full LM06 formalism and adds the Khaonic ampli
 \Delta I_c^{(\text{resistance})} = \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
 \]
 
-The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) ensures this resistance applies only in the centropic regime (\( \chi < 1 \)). The entropic regime encounters no equivalent resistance.
+The centropic activation function \( \Theta_{\text{c}}(\chi) \) (LM06 §7.1) selects this resistance term only in the expressed-prevalence regime \( \chi < 1 \); it vanishes for \( \chi \geq 1 \). This selection concerns expressed χ, not intrinsic essential inclination.
 
 **Translation cost** (\( \Delta I_c^{(\text{translation})} \)): The additional coherence expenditure required to convert DS / DM perception into SS / SM (🧍 Anthra / 🧩 Nousa, L₂) social expression through the ⧉₂ membrane.
 

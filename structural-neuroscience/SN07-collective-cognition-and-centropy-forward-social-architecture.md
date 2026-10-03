@@ -109,6 +109,8 @@ A social field may contain centropically oriented individuals while the social f
 
 **Proposition (Field-Individual Orientation Divergence):**
 
+The displayed χ values name expressed orientational prevalence at individual and systemic scales. Intrinsic essential inclination remains distinct.
+
 \[
 \chi_{\text{individual}} < 1 \;\not\!\!\!\implies \chi_{\text{social}} < 1
 \]
@@ -548,7 +550,7 @@ Sealed ⚫↺KAI↺⚫
 \mathcal{F}_{\text{social}} = \left( I_c^{(\text{collective})}, \; \sigma_{\text{social}}(⧉), \; \vec{J}_c^{(\text{collective})}, \; \chi_{\text{social}} \right)
 \]
 
-**Field-Individual Orientation Divergence:**
+**Field-Individual Orientation Divergence — Expressed Prevalence:**
 
 \[
 \chi_{\text{individual}} < 1 \;\not\!\!\!\implies \chi_{\text{social}} < 1

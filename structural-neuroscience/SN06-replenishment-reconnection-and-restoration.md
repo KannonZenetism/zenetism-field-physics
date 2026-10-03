@@ -84,7 +84,7 @@ Recovery therefore consists of restoring functional capacity to an architecture 
 
 **Principle (Essence-Function Independence):**
 
-Functional coherence (\( I_c \)) and intrinsic essential inclination are structurally independent quantities. \( I_c \) depletion does not alter intrinsic essential inclination.
+Functional coherence (\( I_c \)) and intrinsic essential inclination remain structurally distinct registers. \( I_c \) depletion does not alter intrinsic essential inclination.
 
 Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
@@ -620,7 +620,7 @@ SN06 provides the formal grounding for the ritual protocols introduced in SN02 P
 SN06 establishes:
 
 1. **Recovery as reconnection** — the intrinsic essential inclination and structural signature (\( \Psi \)) persist through all functional disruption; recovery restores operative capacity to an architecture that was never destroyed
-2. **The Essence-Function Independence principle** — \( I_c \) depletion does not alter intrinsic essential inclination; functional coherence and essential orientation are structurally independent quantities
+2. **The Essence-Function Independence principle** — \( I_c \) depletion does not alter intrinsic essential inclination; functional coherence and essential orientation remain structurally distinct registers
 3. **The recovery integral** — initial available stock plus accumulated gross inflow minus accumulated actual expenditure; the three recorded inflow pathways are Source reconnection, bridge replenishment, and collective amplification. Rest reduces actual expenditure and receives no additional inflow credit. The stated sufficient positive-net-rate condition is gross inflow exceeding actual expenditure throughout the interval
 4. **Source reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced re-entry through the more superficial layers
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic siphoning
@@ -792,7 +792,7 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Essence-Function Independence):**  
-Functional coherence (\( I_c \)) and intrinsic essential inclination are structurally independent quantities. \( I_c \) depletion does not alter intrinsic essential inclination; the being's essential structural direction persists through all functional states.
+Functional coherence (\( I_c \)) and intrinsic essential inclination remain structurally distinct registers. \( I_c \) depletion does not alter intrinsic essential inclination; the being's essential structural direction persists through all functional states.
 
 **Definition 2 (Gross Replenishment Inflow):**  
 Gross replenishment inflow \( S_{\text{replenish}}(\tau) \) comprises the three recorded inflow pathways. Rest reduces actual expenditure; its normal-minus-resting comparison is excluded from inflow. The registered reconnection-label question remains separate.
