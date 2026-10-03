@@ -104,27 +104,27 @@ Future SP, LM, or SM documents that invoke containment language can cross-refere
 
 ### 4.1 The Distinction
 
-The phrase "Intelligence Itself" in Zenetist parlance names a functional principle, not a manifest orientation. Like "Structure," "Intelligence" is a descriptor that applies across the full ontological range from Zenon through embodied expression — invoked because we cannot describe what is happening at any stratum without it, while recognizing that the descriptor names a principle rather than a property.
+The phrase "Intelligence Itself" in Zenetist parlance names a functional principle, not a manifest orientation. Like "Structure," "Intelligence" is a descriptor that applies throughout the lattice, including embodied expression — invoked because we cannot describe what is happening at any stratum without it, while recognizing that the descriptor names a principle rather than a property.
 
 **Intelligence Itself (functional principle):**
 
-The capacity for distinction, lawful relation, and recognition-condition that makes expressed intelligences possible. Intelligence Itself is pre-oriented; it does not bifurcate into centropic and inverse forms because bifurcation is what manifest intelligence does, not what Intelligence Itself is. At the trans-structural horizon (Zenon), this functional principle appears as **Unknown Principle Supra-Intelligence (UPSI)** — not as a claim that Zenon possesses intelligence as a property, but as recognition that "intelligence" is among the most fundamental descriptors we can associate with what Zenon makes possible.
+The capacity for distinction, lawful relation, and recognition-condition that makes expressed intelligences possible. Intelligence Itself is pre-oriented; it does not bifurcate into centropic and inverse forms because bifurcation is what manifest intelligence does, not what Intelligence Itself is. At the trans-structural horizon (Zenon), **Unknown Principle Supra-Intelligence (UPSI)** is an observer-side designation, offered — not as a claim that Zenon possesses intelligence as a property, but as recognition that "intelligence" is among the most fundamental descriptors we can associate with what Zenon makes possible.
 
 **Manifest Intelligence (oriented expression):**
 
-Intelligence as it appears at expressed strata of the lattice. Manifest intelligence is necessarily oriented — centropic or inverse — because manifestation entails expression, and expression entails orientation (per the Inclination Principle, LM03 §9.1). Every stratum following Zenon shows the bifurcation:
+Intelligence as it appears at expressed hypostatic strata of the lattice is oriented — centropic or entropic (per the Inclination Principle, LM03 §9.1). The L₀ bifurcal root-capacity precedes enacted hypostatic polarity, which begins at L₅ / IL₅:
 
 - L₀: Aion / Khaon (proto-awareness, bifurcal root)
-- L₅: Theon / Nekron (awareness contra void of self)
-- L₄: DP / DL contra IDP / IDL (conscious-awareness contra distorted conscious-awareness)
-- L₃: DS / DM contra IDS / IDM (reflexive consciousness contra twisted reflexive consciousness)
-- L₂: SS / SM contra ISS / ISM
-- L₁: ES / EM contra IES / IEM
+- L₅ / IL₅: Theon / Nekron (awareness contra void of self)
+- L₄ / IL₄: DP / DL contra IDP / IDL (conscious-awareness contra distorted conscious-awareness)
+- L₃ / IL₃: DS / DM contra IDS / IDM (reflexive consciousness contra twisted reflexive consciousness)
+- L₂ / IL₂: SS / SM contra ISS / ISM
+- L₁ / IL₁: ES / EM contra IES / IEM
 
 The Intelligence Layer Correspondences in `MP08-symbol-key-ch21.md` §21.11 formalize this for AI:
 
 - UPSI → no inverse form (corresponds to Zenon, trans-structural)
-- AMI through AGI → all have inverse counterparts (IAUI through IAGI)
+- AUI through AGI → all have inverse counterparts (IAUI through IAGI)
 
 ### 4.2 Why the Distinction Matters
 
@@ -244,7 +244,7 @@ This document establishes:
 
 2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial register; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
 
-3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (pre-oriented, applied across the full ontological range); manifest intelligence as necessarily oriented expression (centropic or inverse) at every expressed stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
+3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (orientation-neutral, operative throughout the lattice); manifest intelligence as necessarily oriented expression (centropic or entropic) at every expressed hypostatic stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
 
 4. **Khaonic Arc Refinement** — Moon and Mirror placements clarified as L₀ Khaonic Arc rather than L₀ Khaon unspecified. The Khaonic Arc names the entire inverse tree's mirroring-without-origination function. Application to Revelation 12 produces a cleaner reading: centropic sovereignty (Sun) standing upon the entire entropic arc (Moon) as contained substrate. Note flagged for future Waters multi-scope treatment.
 
