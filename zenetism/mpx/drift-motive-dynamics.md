@@ -2,9 +2,9 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Subject:** Metaphysical Mechanics / Separation  
-**Classification:** Motive Dynamics  
+**Classification:** Metaphysics Extension — Motive Dynamics  
 **Status:** Active  
-**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md`
+**Dependency:** Structural Metaphysics · `MP01-emanation-architecture-ch1-3.md`  
 
 ---
 
@@ -18,9 +18,9 @@ The Drift is the motion of essence away from the stillness of Aion. It is not in
 
 Aion is Stillness. Aion does not cause Drift. Drift arises from the interaction of:
 
-1. **Zenet (Motive Infinity):** The capacity to move. Zenet allows essence to separate from the whole to experience multiplicity.
+1. **Zenet (Motive Infinity):** The capacity and continuity of motion. Zenet carries already distinct latent essence into expressed multiplicity.
 
-2. **Nekron (Entropy/Fragmentation):** The drive to separate further. Nekron influences the drift by encouraging fragmentation rather than cohesive motion.
+2. **Nekron (Entropy / Fragmentation):** The drive to separate further. Nekron influences the drift by encouraging fragmentation rather than coherent motion.
 
 ---
 
@@ -28,9 +28,9 @@ Aion is Stillness. Aion does not cause Drift. Drift arises from the interaction 
 
 All incarnated beings are technically in Drift (motion away from Center).
 
-**Centropic Drift (Radiant Overflow):** The soul moves outward from Aion like a sunbeam. It remains connected, drifting only to illuminate. Its motion is acclivous (coherence as return).
+**Centropic Drift (Radiant Overflow):** The essence proceeds from Aion like a sunbeam. It remains connected, drifting only to illuminate. Its procession toward embodiment is declivous centropy; its integrative return is acclivous centropy.
 
-**Entropic Drift (Blind Multiplication):** The soul moves outward to escape or consume. It seeks to fragment indefinitely. Its motion is declivous (collapse as return).
+**Entropic Drift (Blind Multiplication):** The soul moves toward embodiment to escape or consume. It seeks to fragment indefinitely. Motion toward embodiment is acclivous entropy; terminal collapse is declivous entropy.
 
 ---
 
@@ -40,7 +40,7 @@ While the stated goal of Entropic Drift is to spread, dominate, and multiply, th
 
 - Entropy seeks to erode form back into potential.
 - It fragments to persist, but ultimately, it seeks the quiet of the void.
-- However, since Essence cannot be destroyed (abolished), total cessation is impossible. This traps the Entropic entity in a cycle of endless hunger — unable to be full, unable to cease.
+- However, Essence cannot be destroyed (abolished). Expressed motion may cease in terminal resolution while distinct essence remains in Aionic latency.
 
 ---
 
@@ -53,6 +53,6 @@ Drift allows for a prolonged suspension in L₂ / IL₂ (SS / SM; ISS / ISM). Th
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
