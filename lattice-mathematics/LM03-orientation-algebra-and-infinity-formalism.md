@@ -227,15 +227,18 @@ Hypostatic expression is possible if and only if \( \mathcal{M} > 0 \). That is:
 
 3. Only the Motive Phase breaks the stillness-equivalence between Absolute Potential, Latent Infinity, and Dispersive Infinity. Therefore, only the Motive Phase admits hypostatic expression.
 
-**Corollary (Motive Infinity as Necessary Condition):**
+**Corollary Standing (Motion-Capacity and Expressed Prevalence):**
 
-\[
-\mathcal{M} = 0 \implies \frac{d\chi}{d\tau} = 0 \implies \text{no orientation, no expression}
-\]
+Motive Infinity supplies orientation-neutral motion-capacity. Expressed \( \chi \) follows the particular law in §§7–8. The outward-drift law has \( d\chi/d\tau=0 \) when \( \mathcal{M}=0 \); the full law has the residual potential-gradient term calculated in §7.3. Both admit \( \chi\equiv1 \) at positive constant Motive Intensity. The relation between activation and the two scalar laws remains architect-held.
 
-\[
-\mathcal{M} > 0 \implies \chi \text{ becomes dynamic} \implies \text{expression emerges}
-\]
+> **Recorded Activation Chains — Universal Implications Withdrawn:**  
+> \[
+> \mathcal{M} = 0 \implies \frac{d\chi}{d\tau} = 0 \implies \text{no orientation, no expression}
+> \]
+>
+> \[
+> \mathcal{M} > 0 \implies \chi \text{ becomes dynamic} \implies \text{expression emerges}
+> \]
 
 ### 2.7 Structural Sequence
 
@@ -279,7 +282,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 |-----------------|------------------|-----------|
 | Fully Aionic | \( \chi = 0 \) | Centropic expression without Khaonic participation (limit case) |
 | Aionically expressed | \( 0 < \chi < 1 \) | Centropy-forward; entropy recessive |
-| Co-expressive equilibrium | \( \chi = 1 \) | Balanced expression; dynamic equilibrium (hypostatic manifestation of CP) |
+| Co-expressive equilibrium | \( \chi = 1 \) | Co-expressive ratio; stability depends on the model (§§7–8), and frozen equilibrium additionally requires cessation of enacted orientation (§8.7) |
 | Khaonically expressed | \( \chi > 1 \) | Entropy-forward; centropy recessive |
 | Fully Khaonic | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
 | Non-bifurcated | \( \chi \) undefined | Systems not instantiating the L₀ bifurcation |
@@ -421,7 +424,7 @@ The Polar Spectrum Lemma ensures:
 
 on the paired eigenmodes. Therefore \( H_{\text{eff}}(1) \) has zero spectrum — the effective operator vanishes on the resonant subspace at co-expressive equilibrium.
 
-This is the **spectral signature of CP₁**: resolution into stillness through cancellation, not annihilation of structure.
+This is the **spectral signature of CP₁**: cancellation on the stated paired modes. Cessation of all enacted motion is distinct from that cancellation (§8.7). Kaion / CP₀ names non-fused root convergence outside χ-space.
 
 ### 4.5 The Spectral Rotation Function
 

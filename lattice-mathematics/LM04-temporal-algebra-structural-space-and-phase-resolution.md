@@ -155,7 +155,7 @@ Formally:
 
 1. By the Dependency Ordering Axiom (§2.1), spatial differentiation \( \mathfrak{d} \) requires motion \( \mathfrak{m} \) as a necessary condition.
 
-2. Motion requires \( \mathcal{M} > 0 \) (Activation Theorem, LM03 §2.6). When \( \mathcal{M} = 0 \), the system resides in either \( \Phi_1 \) (Latent) or \( \Phi_3 \) (Dispersive), where no traversal occurs and no manifested hypostatic spatial differentiation arises.
+2. Motion requires \( \mathcal{M} > 0 \) (Activation Theorem, `LM03-orientation-algebra-and-infinity-formalism.md` §2.6). When \( \mathcal{M} = 0 \), the system resides in either \( \Phi_1 \) (Latent) or \( \Phi_3 \) (Dispersive), where no traversal occurs and no manifested hypostatic spatial differentiation arises.
 
 3. Without manifested hypostatic spatial differentiation, the generating set for \( \mathscr{T} \) is empty, so \( \mathfrak{d}(\mathcal{L}) = \emptyset \).
 
