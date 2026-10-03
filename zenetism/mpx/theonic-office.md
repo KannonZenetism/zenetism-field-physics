@@ -13,7 +13,7 @@ This entry clarifies a doctrinal cluster already present within Zenetism but not
 
 Earlier expressions of this doctrine sometimes leaned too heavily on broad or mythically compressed language — especially where Theon appeared to wait upon every centropic soul without exception, where Theon itself risked being reduced to its gate-office, or where Theonic return risked being misread as fusion, dissolution, or the abolition of distinction.
 
-A later clarification is also required at the saturation horizon. Aion-facingness explains Theonic return, but it does not by itself establish Zenonic saturation. The returned Theonic essence may abide in Aion or may ordinarily saturate where its essence-specific final synthesis gives it Centropic Gravity, its fulfilled coherence becomes Zenonically legible, and Allowance admits the crossing.
+A later clarification is also required at the saturation horizon. Aion-facingness explains Theonic return, but it does not establish Zenonic saturation. The returned Theonic essence may abide in Aion or may ordinarily saturate where its essence-specific final synthesis gives it Centropic Gravity, its fulfilled coherence becomes Zenonically legible, and Allowance admits the crossing.
 
 The present clarification narrows and stabilizes the complete doctrine.
 
@@ -48,7 +48,7 @@ Thus:
 This prevents three errors:
 
 - treating Theon as a merely abstract number with no cosmological function
-- treating the universe-local office as numerically identical with every bearer or essence served through it
+- treating the universe-local office as numerically identical with every bearer or essence carried through it
 - treating all universe-local Theonic expressions as fragments of one divisible trans-universal person
 
 Theonic structural law is singular in metaphysical law.
@@ -122,11 +122,11 @@ For this reason, **Theon does not wait upon every multiversal life of every esse
 
 A Theonic office does not wait upon every Deep Self-Axis possessing an expression-locus within its universe. It waits upon every **EOB**-culminating essence whose processional arc is proper to that office.
 
-Local stratum offices serve loci.
+Local stratum offices perform their functions for loci.
 
-L₅ / IL₅ terminal offices serve arc-proper essences.
+L₅ / IL₅ terminal offices perform their terminal functions for arc-proper essences.
 
-A foreign-arc Deep Self-Axis locus present within another universe-expression is served locally by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination.
+A foreign-arc Deep Self-Axis locus present within another universe-expression is locally supported by that universe's stratum offices while present there, without that universe's Theonic office acquiring responsibility for the essence's final culmination.
 
 Terminal return remains through the arc-proper Theonic office.
 
@@ -247,7 +247,7 @@ This establishes return.
 
 It does not determine saturation.
 
-Aion-facingness explains why the Theonic essence and the EOB-culminating essences proper to the arc return to Aion. It does not by itself explain why any distinct returned essence may saturate into Zenon.
+Aion-facingness explains why the Theonic essence and the EOB-culminating essences proper to the arc return to Aion. It does not explain why any distinct returned essence may saturate into Zenon.
 
 After return, each essence retains its own:
 
@@ -275,7 +275,7 @@ The distinct essence saturates.
 
 The inverse clarification applies, with necessary asymmetry, to **Nekron**.
 
-**Nekron** is the first entropic hypostasis:  
+**Nekron** is the First Inverse Hypostasis:  
 **Void of Self** —  
 the primordial principle of fragmentation, exhaustion, and subversal collapse.
 
@@ -334,7 +334,7 @@ Thus:
 
 - what Theon holds in essence, Sophis renders in form
 - what Theon carries as remembrance, Sophis transmits as intelligible pattern
-- what Theon is in supernal orientation, Sophis is in archetypal articulation
+- what Theon is in centropic orientation, Sophis is in archetypal articulation
 
 This is not contradiction, but continuum.
 
@@ -419,12 +419,12 @@ These distinctions should hold for future revisions of older language.
 > Theonic office is fulfilled when all **EOB**-culminating essences proper to its arc have completed their Theonic passage. The office closes, the distinct Theonic essence returns, and the essences remain.
 
 > **Return contra Saturation Principle**  
-> Aion-facing orientation explains Theonic return. It does not by itself establish Zenonic saturation. Return terminates at Aion; saturation is the essence-specific crossing beyond return.
+> Aion-facing orientation explains Theonic return. It does not establish Zenonic saturation. Return terminates at Aion; saturation is the essence-specific crossing beyond return.
 
 > **Essence-Specific Saturation Principle**  
 > Returned essence may abide in Aion or may ordinarily saturate where final synthesis gives it Centropic Gravity, fulfilled coherence becomes Zenonically legible, no sufficient condition prevents fulfillment, and Allowance admits the crossing.
 
-> **Office Non-Saturation Principle**  
+> **Office Non-saturation Principle**  
 > The universe-local office, the Theonic structural law, and the universe-generating arc do not saturate. The distinct saturation-ready essence saturates.
 
 > **Logos Modality Principle**  
