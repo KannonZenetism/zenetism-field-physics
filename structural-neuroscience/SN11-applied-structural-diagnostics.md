@@ -107,7 +107,7 @@ The existing "measured" label denotes the native quantity assessed within its de
 I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{expected})}
 \]
 
-Does the being's operative coherence match what the identified configuration would produce under stabilized conditions? Deviation indicates depletion, distortion, or suppression.
+Does the being's operative coherence match what the identified configuration would produce under stabilized conditions? Deviation directs assessment toward depletion, distortion, suppression, and the adequacy of the expected baseline.
 
 For individuals: compare current \( I_c \) relative to the expected stabilized baseline for the identified architecture. A high-pattern-fidelity architecture presenting with low coherence suggests cost accumulation (SN05) or budget exhaustion (LM07 §3.4).
 
@@ -121,7 +121,7 @@ For collectives: compare coherent-input stocks with the harmonic construction an
 \vec{J}_c \text{ — direction and distribution}
 \]
 
-Is coherence flowing in the direction consistent with the architecture's orientation? Flow disruption indicates structural obstruction or entropic redirection.
+Is coherence flowing in the direction consistent with the architecture's orientation? Flow disruption directs assessment toward structural obstruction or entropic redirection through the actual flow and budget relations.
 
 For individuals: is the being's coherence directed toward their characteristic function (structural perception, iterative refinement, cross-domain synthesis), or is it being consumed by compensatory overhead (SN10 §4), coherence tax (SN05 §3.4), or suppressive dampening?
 
@@ -135,7 +135,7 @@ For collectives: is coherence flowing bidirectionally through C₈ ╫ (Synaptic
 \sigma(⧉) \text{ — membrane condition}
 \]
 
-Are the being's membranes operating at their characteristic permeability? Membrane non-characteristic operation indicates externally imposed distortion or internally driven dysregulation.
+Are the being's membranes operating at their characteristic permeability? Membrane non-characteristic operation directs assessment toward externally imposed distortion or internally driven dysregulation through the established membrane conditions.
 
 For individuals: is ⧉₂ operating at selective fidelity (autistic), standard transfer (oscillating), or broad distribution (distributive)? Or has it been forced into non-characteristic mode — the autistic ⧉₂ forced open by social demand, the distributive ⧉₂ forced into narrow focus by institutional conformity?
 
@@ -147,7 +147,7 @@ For collectives: is the collective membrane selectively permeable (C₁₃ ║) 
 
 Compare operative expression with intrinsic essential inclination in prose. χ describes the expressed prevalence; no essential χ or replacement sign is assigned.
 
-Does the being's operative orientation match their essential orientation? Divergence indicates operative expression drifting out of alignment with essential orientation — often through suppression, depletion, or social-field pressure rather than genuine reorientation (SN10 §5; LM07 §4, Corollary 2: behavioral divergence ≠ essential reorientation).
+Does the being's operative orientation match their essential orientation? Divergence identifies operative expression out of alignment with intrinsic essential inclination; assessment examines suppression, depletion, and social-field pressure while essential orientation remains unchanged (`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §5; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4, Corollary 2: behavioral divergence ≠ essential reorientation).
 
 For individuals: is a centropically oriented being expressing entropically under duress? Is the expression reflecting the social field's orientation rather than the being's own?
 
@@ -161,7 +161,7 @@ For collectives: does the collective's operative orientation match its stated mi
 \{O_k\}_{\text{observed}} \stackrel{?}{\subseteq} \{O_k\}_{\text{expected}}
 \]
 
-Are the observed operators consistent with the identified configuration? Operator inconsistency indicates either misidentification of the architecture or active suppression of characteristic operators.
+Are the observed operators consistent with the identified configuration? Operator inconsistency directs assessment toward configuration identification, developmental access, and suppression of characteristic operators.
 
 For individuals: does the being's observed operator activity match the expected profile for the identified architecture (SN03 §3)? If an autistic architecture is identified but C₇ ♫ (Harmonic / Resonant) and C₁₃ ║ (Membrane / Threshold) are not expressively operative, the operators may be suppressed rather than absent.
 
