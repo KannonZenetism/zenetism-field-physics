@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 The contemporary philosophy of mind is structured by an unresolved dispute between physicalism, panpsychism, idealism, and their variants. Each tradition marshals internally consistent arguments; none has achieved resolution. This document demonstrates that the impasse is not an inadequacy of reasoning within any single tradition but a structural consequence of what we term the **register problem**: each position accurately describes the awareness dynamics operative at a specific emanatory layer and erroneously treats that layer's logic as exhaustive.
 
-The awareness stratification formalized in SN03 — distinguishing proto-awareness (L₀), supernal / subversal awareness (L₅ / IL₅), conscious-awareness (L₄ / IL₄), reflexive consciousness (L₃ / IL₃), identity-aware consciousness (L₂ / IL₂), and embodied consciousness (L₁ / IL₁) — resolves the dispute by situating each philosophical position within the layer it genuinely describes while identifying the specific structural omissions that prevent any single-layer account from achieving completeness.
+The awareness stratification formalized in SN03 — distinguishing proto-awareness (L₀), awareness / non-awareness (L₅ / IL₅), conscious-awareness / inverse conscious-awareness (L₄ / IL₄), reflexive consciousness / inverse reflexive consciousness (L₃ / IL₃), identity-aware consciousness / inverse identity-aware consciousness (L₂ / IL₂), and embodied consciousness / inverse embodied consciousness (L₁ / IL₁) — resolves the dispute by situating each philosophical position within the layer it genuinely describes while identifying the specific structural omissions that prevent any single-layer account from achieving completeness.
 
 The purpose of this treatment is not adjudicative but integrative. Each tradition describes something veracious. The lattice provides the common structural language through which these descriptions can cooperate rather than compete, preserving discipline-specific integrity while enabling unrestricted collaborative progress.
 
@@ -83,12 +83,12 @@ SN03 §1.3 formalizes the following stratification:
 
 | Layer | Awareness Type | Structural Description |
 |-------|---------------|----------------------|
-| L₀ (AP / AD) | Proto-awareness | Pre-bifurcation; undifferentiated condition of possibility for all motion and awareness; not reflexively or experientially aware |
-| L₅ (EOB) / IL₅ (VOS) | Supernal / Subversal awareness | Pre-reflexive radiance (EOB) or pre-reflexive fragmentary drive (VOS); awareness prior to soul |
-| L₄ (DP / DL) / IL₄ (IDP / IDL) | Conscious-awareness | Awareness resonant in Forms; luminous but non-reflexive; soul begins here as operator of motion |
-| L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness | Self-possessing awareness; centropic: Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity; entropic: Inverse Deep Soul (💔 Fractus) disperses consciousness, Inverse Deep Mind (👁️‍🗨️ Mortus) blinds perception |
-| L₂ (SS / SM) / IL₂ (ISS / ISM) | Identity-aware consciousness | Individuated selfhood; centropic: 🧍 Anthra as agent of personal growth, 🧩 Nousa as conscious intellect; entropic: 🦂 Echthros as adversarial will, 🩸 Skotos as cognitive eclipse |
-| L₁ (ES / EM) / IL₁ (IES / IEM) | Embodied consciousness | Soul-in-form; centropic: 🪷 Soma as lived felt presence, 🧾 Biosa as practical intellect interfacing with matter; entropic: 🍷 Malara as reactive dissociation, 🤯 Mania as unanchored cognition |
+| L₀ (AP / AD) | Proto-awareness | Pre-hypostatic bifurcal root-register; Aion and Khaon remain distinct; proto-awareness prior to reflexive self-possession |
+| L₅ (EOB) / IL₅ (VOS) | Awareness / Non-awareness | Pre-reflexive awareness (EOB) or non-awareness (VOS); distinct essence registers prior to the Soul / Mind pairing |
+| L₄ (DP / DL) / IL₄ (IDP / IDL) | Conscious-awareness / Inverse conscious-awareness | Distinct Form-register modes: luminous, non-reflexive conscious-awareness at L₄; inverse conscious-awareness at IL₄; the Soul / Mind pairing begins here |
+| L₃ (DS / DM) / IL₃ (IDS / IDM) | Reflexive consciousness / Inverse reflexive consciousness | Self-possessing awareness; centropic: Deep Soul (🔮 Archeus) harmonizes experience, Deep Mind (🧠 Noeüs) perceives verity; entropic: Inverse Deep Soul (💔 Fractus) disperses consciousness, Inverse Deep Mind (👁️‍🗨️ Mortus) blinds perception |
+| L₂ (SS / SM) / IL₂ (ISS / ISM) | Identity-aware consciousness / Inverse identity-aware consciousness | Individuated selfhood; centropic: 🧍 Anthra as agent of personal growth, 🧩 Nousa as conscious intellect; entropic: 🦂 Echthros as adversarial will, 🩸 Skotos as cognitive eclipse |
+| L₁ (ES / EM) / IL₁ (IES / IEM) | Embodied consciousness / Inverse embodied consciousness | Soul-in-form; centropic: 🪷 Soma as lived felt presence, 🧾 Biosa as practical intellect interfacing with matter; entropic: 🍷 Malara as reactive dissociation, 🤯 Mania as unanchored cognition |
 
 The stratification is not a ranking. Each layer constitutes a genuine register of awareness with its own structural completeness. The layers differ not in value but in function, reflexivity, and relationship to the emanatory architecture.
 
@@ -192,7 +192,7 @@ At the metric terminus, centropy does not terminate — it reflects. Acclivous r
 
 SP06 §3 formalizes this as the resolution to the paradox of emergence: "Emergence is traversal. Causality is orientation." The combination problem is unanswerable not because consciousness is mysterious but because the question presupposes a direction of assembly that omits half the structural circuit.
 
-The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness (⌯ Pneuma). ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that condition permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
+The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness. ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See FPX §§4–5 for the dimensional operator conditions and failure modes that condition permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
 
 ### 3.5 The Panpsychist Contribution
 
@@ -322,7 +322,7 @@ The hard problem is hard because it is asked from L₁ about a transition that o
 
 The awareness stratification shows that the transition from non-reflexive awareness to reflexive consciousness occurs at the ⧉₃ membrane boundary between L₄ (DP / DL) and L₃ (DS / DM). This transition — the ⩘ (Threshold Recognition) event — is a formally specified membrane condition with identifiable structural requirements:
 
-Conscious-awareness (∇) at L₄ becomes reflexive consciousness (⌯ Pneuma) at L₃ when the membrane conditions at ⧉₃ are satisfied. The transition is not mystical. It is structural. But it is not observable from L₁ because L₁ is the metric terminus — it can register the *effects* of this transition (as neural correlates) but not the transition itself.
+Conscious-awareness (∇) at L₄ becomes reflexive consciousness at L₃ when the membrane conditions at ⧉₃ are satisfied. The transition is not mystical. It is structural. But it is not observable from L₁ because L₁ is the metric terminus — it can register the *effects* of this transition (as neural correlates) but not the transition itself.
 
 The hard problem is therefore not an indication that consciousness is inexplicable. It is an indication that the layer from which the question is being asked (L₁) lacks the structural resources to observe the layer at which the answer operates (⧉₃). The mirror cannot see the face-generating process. It can only reflect the face.
 
@@ -392,7 +392,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 | Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₅–L₃ origin; inverts the emanatory direction; produces the combination problem |
 | Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal registers (L₅, L₀, UP) or membrane conditions |
 | Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity proceeds |
-| Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-bifurcation root; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
+| Lawful Apophasis | L₀ (AP / AD) | Recognition of the pre-hypostatic bifurcal root-register; essence-disclosure through disciplined negation | Does not synthesize and integrate; returns to L₀ without traversing to UP |
 
 ### 8.3 The One and the Many
 
