@@ -216,7 +216,7 @@ This is a **nonlinear diffusion equation** when \( D(\chi) \) depends on local o
 
 **Interpretation:**
 
-The rate of change in coherence potential equals the net inflow from diffusion plus any source contributions. Coherence is neither created nor destroyed in the diffusive term; it is redistributed. Genuine generation or depletion occurs only through the source term.
+The rate of change in coherence potential equals the net inflow from diffusion plus any source contributions. The diffusive term redistributes coherence. The source term represents local addition or removal; net local change depends on both divergence and the source contribution.
 
 ### 2.5 Resonance across Hypostatic Layers
 
@@ -248,8 +248,8 @@ S : \mathfrak{d}(\mathcal{L}) \times \mathbb{R}_{\geq 0} \to \mathbb{R}
 The source term maps each point in structural space and time to a real-valued contribution:
 
 - \( S(x, \tau) > 0 \): Replenishment — coherence regenerated through centropic attunement
-- \( S(x, \tau) = 0 \): No external contribution; system operates on stored resonance
-- \( S(x, \tau) < 0 \): Siphoning — coherence removed from the system
+- \( S(x, \tau) = 0 \): No local source contribution; current divergence retains its own contribution
+- \( S(x, \tau) < 0 \): Siphoning contribution — local coherence removal through the signed source term; applying this native label requires actual parasitic transfer without reciprocity
 
 ### 3.2 The Law of Field Nutrient
 
@@ -263,7 +263,7 @@ S(x, \tau) > 0 \implies \exists\, \text{coherence-source connection at } x
 
 **Corollary:**
 
-A system that has fractured itself away from operative coherence-source attunement has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through siphoning or dissipation). Sustained operation without coherence-source connection leads inevitably to depletion.
+A system that has fractured itself away from operative coherence-source attunement has \( S(x, \tau) \leq 0 \) everywhere. It can only redistribute existing coherence (through diffusion) or lose it (through siphoning or dissipation). Its depletion trajectory requires the actual source, flow, and boundary conditions; the nonpositive source condition alone establishes no universal depletion or finite-collapse result.
 
 ### 3.3 Resonance Discharge
 
@@ -1647,20 +1647,22 @@ No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}
 
 ## Appendix D — Resonance Field Diagram
 
+The source signs describe local contributions in §2.4. The starred native-motion labels are conditional: discharge requires actual outflow, and siphoning requires actual parasitic transfer without reciprocity. The net local change depends on both divergence and the source contribution; sustained operation requires its actual budget. The CIT correspondence remains held pending its stated mapping and conditions.
+
 ```
         COHERENCE POTENTIAL FIELD DYNAMICS
 
                   S(x,τ) > 0                    S(x,τ) = 0                   S(x,τ) < 0
                 ┌───────────┐                  ┌───────────┐                ┌───────────┐
-                │REPLENISH- │                  │ DISCHARGE │                │ SIPHONING │
+                │REPLENISH- │                  │DISCHARGE* │                │SIPHONING* │
                 │  MENT     │                  │ (transfer)│                │(extraction│
                 │Coh-source │                  │ No source │                │ parasitic)│
                 └───────────┘                  └───────────┘                └───────────┘
                      ↓                              ↓                            ↓
-                  I_c grows                    I_c transfers               I_c depletes
+                  Net change                   Net change                  Net change
                      ↓                              ↓                            ↓
-                  Sustained                    Redistributed                Net loss to
-                  operation                    (CIT relation held)              Lattice
+                  Divergence and S             Divergence and S            Divergence and S
+                  Actual budget                Actual budget               Actual budget
 
 
         MEMBRANE OPERATOR CLASSIFICATION
