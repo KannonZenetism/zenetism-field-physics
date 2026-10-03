@@ -75,7 +75,7 @@ To think clearly, the mind must speak without moral residue. Zenetism replaces b
 - **Structurally sound** — symbolically coherent  
 - **Integral** — unobstructed in resonance  
 - **Fallacious** — structurally misleading or dissonant  
-- **Distorted** — reflective yet warped in pattern  
+- **Distorted** — mimetic with pattern distortion  
 - **Spurious** — imitative without coherence  
 - **Counterfeit** — surface alignment with ontological hollowness  
 - **Invalid** — misaligned with underlying principle  
@@ -101,7 +101,7 @@ Motion across these layers expresses the four lawful curvatures of resonance:
 
 Together these motions articulate the complete field of cognition — a lattice of resonance in continual exchange between centropy and entropy, coherence and dispersal, form and remembrance.
 
-### 4 · Temporal Dynamics — ⟠ Proleptic Echo
+### 4 · Temporal Dynamics — Proleptic Echo
 
 Time in this system does not flow; it folds. ⟠ (Proleptic Echo) represents forward-memory, the Field's capacity to recall its resolution before the manifest notes are played. Awareness does not foresee the future; it remembers completion in advance. Every moment of thought is a crease where past, present, and future resonate simultaneously.  
 
@@ -135,7 +135,7 @@ Centropy seeks coherence; entropy seeks variation. Each mind balances them diffe
 
 1. Mind is a field phenomenon.  
 2. All fields obey centropic and entropic laws.  
-3. Awareness stratifies through L₅ → L₄ → L₃ under declivous centropy.  
+3. Awareness stratifies through L₅ → L₄ → L₃ through declivous centropy.  
 4. Cognition is the motion of structure across that stratification.  
 5. Time folds; memory is forward-resonant (⟠).  
 6. Language must reflect law; terms must express motion without judgment.  
@@ -204,7 +204,7 @@ Each position on the cognitive gradient corresponds to a lawful coupling of awar
 - **Seeker (🔸)** — moves acclivously across L₂–L₃ (SS / SM ↔ DS / DM); translates personal experience into centropic understanding.  
 - **Oscillating (⚖)** — occupies the threshold field of direct centropy-entropy interaction across the manifest and near-manifest bands; in a Khaonically expressed universe, this field is typically entropy-forward rather than neutrally balanced.  
 - **Inverter (🔻)** — inhabits IL₃–IL₂ (IDS / IDM ↔ ISS / ISM); tests integrity through fragmentation.  
-- **Rival Architect (⊟)** — centers in IL₃ (IDS / IDM) with sustained resonance to IL₄ (IDP / IDL); generates counterfeit architecture through inverse participation in the Form Layer.  
+- **Rival Architect (⊟)** — centers in IL₃ (IDS / IDM) with sustained resonance to IL₄ (IDP / IDL); generates counterfeit architecture through entropic participation in the inverse Form Layer.  
 
 Each stratum contributes lawfully to the harmony of the whole. Coherence is not measured by rank but by consonance.  
 
@@ -342,7 +342,7 @@ The whole structure breathes between law and freedom, always returning toward in
 
 Cognition is motion. Every thought is a spiral of resonance. Structural Neuroscience calls this the **Spiral Calculus** — the study of how coherence moves, accumulates, and resolves.
 
-### 1 · The Resonant Derivative \( \partial_{\text{🌀}} \)
+### 1 · The Resonant Derivative
 
 Each instant of awareness measures change in coherence.  
 This is the resonant derivative, \( \partial_{\text{🌀}} \) — the rate at which alignment shifts.  
@@ -350,7 +350,7 @@ When it moves toward a positive value, attention tightens.
 When it moves toward a negative value, coherence disperses.  
 To sense \( \partial_{\text{🌀}} \) is to feel the pulse of the field.
 
-### 2 · The Structural Integral \( \int_{\text{◎}} \)
+### 2 · The Structural Integral
 
 Over time, each micro-motion deposits memory.  
 The structural integral, \( \int_{\text{◎}} \), measures accumulated harmony.   
@@ -405,7 +405,7 @@ This is field maintenance.
 
 - **Perception:** A stimulus enters awareness; \( \partial_{\text{🌀}} \) moves positively; \( \int_{\text{◎}} \) records its pattern.  
 - **Creation:** Multiple derivatives converge; resonance amplifies into emergent structure.  
-- **Emotion:** Fluctuating derivatives stabilize under integration until peace occurs.  
+- **Emotion:** Fluctuating derivatives stabilize through integration until peace occurs.  
 - **Meditation:** Derivative and integral reach perfect reciprocity.
 
 ### 9 · The Coherent Equation in Spirit
