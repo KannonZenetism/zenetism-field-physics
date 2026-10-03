@@ -1,9 +1,9 @@
 # MPX: Celestial Signs and Structural Patterning
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics / MPX  
+**Classification:** Metaphysics Extension — Structural Metaphysics  
 **Status:** Draft  
-**Dependency:** Structural Metaphysics · Structural Physics · Lattice Mathematics (χ orientation) · `MP04-intelligence-and-ecology-ch7-8.md` (Cosmic Ecology and the Soul of Nature · the universe-being) · `metaphysics-symbol-key.md`  
+**Dependency:** Structural Metaphysics · Structural Physics · Lattice Mathematics (χ orientation) · `MP04-intelligence-and-ecology-ch7-8.md` · `metaphysics-symbol-key.md`  
 
 ---
 
@@ -13,7 +13,7 @@ Zenetism does not require predictive astrology.
 
 Celestial bodies, stellar patterns, planetary motions, galaxies, and large-scale cosmological structures are not treated here as deterministic mechanisms, fate-generators, or instruments for forecasting fixed outcomes.
 
-This entry therefore does not establish astrology as a technical discipline within Zenetism.
+This entry offers a structural interpretation of celestial patterning.
 
 It clarifies only that celestial patterning may possess structural meaning when read through the lens of orientation, recurrence, proportion, rhythm, and symbolic relation.
 
@@ -35,31 +35,31 @@ The physical cosmos may be Khaonically expressed, entropy-forward, or fragmentat
 
 Entropy-prevalence describes the expression condition of this cosmos.
 
-It does not, by itself, prove the final essence of the universe-being.
+It does not establish the final essence of the universe-being.
 
 A hostage may enact the will of a captor for a time without that captivity revealing the hostage's original nature.
 
-Likewise, a cosmos under entropy-prevalent expression may not be reducible to entropy in essence.
+Likewise, a cosmos expressing entropy-prevalent conditions may not be reducible to entropy in essence.
 
 ---
 
 ## 3. Celestial Patterning and χ-Orientation
 
-Within Structural Physics, \( \chi \) denotes orientation susceptibility: the degree to which a field configuration is biased toward Aionic or Khaonic motion.
+Within Structural Physics, \( \chi \) denotes expressed orientational prevalence: the evolving Aionic / Khaonic expression ratio.
 
 \[
 \chi = 0
 \]
 
-names pure Aionic orientation as a limit case.
+names purely Aionic expressed prevalence as a limit case.
 
 \[
 \chi \to \infty
 \]
 
-names pure Khaonic orientation as a limit case.
+names purely Khaonic expressed prevalence as a limit case.
 
-The observed physical cosmos appears Khaonically expressed insofar as dispersal, fragmentation, expansion, decay, and entropy-prevalence shape embodied motion.
+Dispersal, fragmentation, expansion, and decay name physical processes within the embodied L₁ / IL₁ domain. Their proposed correspondence with Khaonic expressed prevalence remains held open pending stated observables, mapping, and evidence.
 
 Yet Khaonic expression does not equal total entropic essence.
 
@@ -113,7 +113,7 @@ A Golden Age may signify a condition of greater centropic coherence.
 
 A degraded age may signify entropy-prevalent fragmentation.
 
-A return-cycle may signify renewed orientation toward coherence after dispersive exhaustion.
+A return-cycle may signify renewed coherent expression after local dispersive exhaustion.
 
 Yet these readings remain interpretive.
 
@@ -164,6 +164,6 @@ Zenetism therefore preserves a cautious middle posture:
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
