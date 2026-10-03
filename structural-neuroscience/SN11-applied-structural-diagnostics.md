@@ -193,7 +193,7 @@ Identifying the underlying configuration requires distinguishing it from the cur
 
 **Error 3 — Confusing developmental position with configuration.** A child whose reflexive architecture is not yet fully expressively accessible at L₃ (`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2) is not a being without reflexive architecture. The developmental position constrains what is currently observable, not what is configurationally present.
 
-**Error 4 — Confusing entropic mode with entropic orientation.** The recursive architecture may express entropically (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) while retaining centropic intrinsic essential inclination. Entropic mode expression is a functional state, not an essential reorientation (SN03 §4, SN10 §5.1).
+**Error 4 — Confusing entropic mode with entropic orientation.** The recursive architecture may express entropically (E₁ ⟠⁻, E₄ ◉⁻, E₁₄ ⊡⁻) while retaining centropic intrinsic essential inclination. Entropic mode expression is a functional state, not an essential reorientation (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §4, `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §5.1).
 
 ---
 
@@ -201,29 +201,29 @@ Identifying the underlying configuration requires distinguishing it from the cur
 
 ### 4.1 The Developmental Indicators
 
-SN10 §2 formalizes the developmental emergence of expression through the hypostatic layers. The diagnostician assesses developmental position by evaluating Tether access and membrane engagement:
+`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2 formalizes the developmental emergence of expression through the hypostatic layers. The diagnostician assesses developmental position by evaluating Tether access and membrane engagement:
 
 | Indicator | Assessment Question | Structural Reference |
 |-----------|-------------------|---------------------|
-| **L₁ operative stability** | Is somatic-sensory integration stable? | SN10 §2.2, L₁ expression emergence |
-| **⧉₁ transfer** | Is embodied experience translating into personality structure and social awareness? | SN10 §2.2, ⧉₁ membrane engagement |
-| **L₂ operative stability** | Is identity-aware consciousness (personality, narrative self) coherent? | SN10 §2.2, SS / SM register |
-| **⧉₂ transfer** | Is reflexive cognition accessible? Are characteristic operators expressively operative? | SN10 §2.2, ⧉₂ membrane engagement |
-| **L₃ operative stability** | Is reflexive consciousness sustained? Does the being know that they know? | SN10 §2.2, DS / DM register |
-| **⧉₃ cross-band resonance** | Is there sustained resonance with the Form Layer? | SN10 §2.2, ⧉₃ engagement |
+| **L₁ operative stability** | Is somatic-sensory integration stable | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, L₁ expression emergence |
+| **⧉₁ transfer** | Is embodied experience translating into personality structure and social awareness | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, ⧉₁ membrane engagement |
+| **L₂ operative stability** | Is identity-aware consciousness (personality, narrative self) coherent | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, SS / SM register |
+| **⧉₂ transfer** | Is reflexive cognition accessible? Are characteristic operators expressively operative | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, ⧉₂ membrane engagement |
+| **L₃ operative stability** | Is reflexive consciousness sustained? Does the being know that they know | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, DS / DM register |
+| **⧉₃ cross-band resonance** | Is there sustained resonance with the Form Layer | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §2.2, ⧉₃ engagement |
 
 ### 4.2 The Structural Dynamic Assessment
 
-Beyond developmental position, the diagnostician assesses which structural dynamic (SN10 §1.3) is currently operative:
+Beyond developmental position, the diagnostician assesses which structural dynamic (`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.3) is currently operative:
 
 | Dynamic | Diagnostic Signature |
 |---------|---------------------|
 | **Stabilization** | Expression approximates configuration; conditions are supportive; \( I_c \) is sustained |
 | **Compensation** | Expression deviates from configuration through adaptive strategy; compensatory cost is accumulating; the being is managing rather than expressing |
-| **Distortion** | Expression deviates from configuration under external pressure; the being's presentation does not reflect their architecture |
+| **Distortion** | Expression deviates from configuration because of external pressure; the being's presentation does not express their architecture |
 | **Suppression** | External conditions actively constrain characteristic operator expression; the coherence tax is operative |
 | **Maturation** | The architecture is deepening along its own axis; operator reach is extending; cross-band resonance is stabilizing |
-| **Depletion** | \( I_c \) is declining; budget exhaustion trajectory (LM07 §3.4) is operative; burnout phases (SN05 §5) may be in progress |
+| **Depletion** | \( I_c \) is declining; budget exhaustion trajectory (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.4) is operative; burnout phases (`SN05-the-metric-cost-of-centropic-cognition.md` §5) may be in progress |
 | **Recovery** | \( S_{\text{replenish}} > I_{c,\text{cost}}^{(\text{total})} \) sustained; expression is returning toward configurational alignment |
 
 ---
@@ -232,27 +232,27 @@ Beyond developmental position, the diagnostician assesses which structural dynam
 
 ### 5.1 Operational Criteria
 
-SN10 §5.3 establishes the conceptual distinction. SN11 operationalizes it:
+`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §5.3 establishes the conceptual distinction. SN11 operationalizes it:
 
 **Distortion indicators:**
 
 - Expression deviates from the identified configuration
 - Characteristic operators are suppressed, dampened, or rerouted but not depleted
 - Removal of distorting conditions (social field pressure, suppressive environment) produces observable return of characteristic function
-- \( I_c \) may be reduced but generative function is not lost — the architecture can still produce structural gain through its characteristic operators when conditions permit
+- \( I_c \) may be reduced but generative function is not lost — the architecture can still produce structural gain through its characteristic operators when conditions support that function
 
 **Pathology indicators:**
 
 - \( dI_c/d\tau < 0 \) sustained — net coherent content is depleting as actual expenditure exceeds gross replenishment; generative function is assessed through the operative conditions that follow
 - Characteristic operators have lost generative function — they no longer produce structural gain even when conditions are supportive
 - Tether discontinuity at operative layers — the being has lost access to their own structural registers
-- Temporal pathology (LM04 §6) may be present — looping time, temporal collapse, or hypostatic amnesia
+- Temporal pathology (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6) may be present — looping time, temporal collapse, or hypostatic amnesia
 
 **The native structural distinction:** If removing the distorting conditions restores characteristic function, the primary condition is distortion. If removing the conditions does not restore function because coherence has depleted below the generative threshold, the condition is pathology. In practice, many cases involve both — distortion that has persisted long enough to produce pathological coherence depletion. Both environmental correction and coherence replenishment are then required.
 
 ### 5.2 The Variation-Pathology Axis
 
-SN03 §7.3 retains the earlier sign associations as recorded provenance. Operatively, \( dI_c/d\tau \geq 0 \) records net coherent-content maintenance or increase, and \( dI_c/d\tau < 0 \) records depletion. The table preserves those recorded associations; native structural assessment follows the characteristic operators' actual generative function and its operative and budget conditions. Generation or replenishment can coexist with net depletion, and received coherent input can sustain nonnegative change. Formal extension to entropic operation remains held; coherent-input availability, entropic cohesion, and ordinary correlation remain distinct. Clinical significance and intervention require evidence in the clinical domain:
+`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3 retains the earlier sign associations as recorded provenance. Operatively, \( dI_c/d\tau \geq 0 \) records net coherent-content maintenance or increase, and \( dI_c/d\tau < 0 \) records depletion. The table preserves those recorded associations; native structural assessment follows the characteristic operators' actual generative function and its operative and budget conditions. Generation or replenishment can coexist with net depletion, and received coherent input can sustain nonnegative change. Formal extension to entropic operation remains held; coherent-input availability, entropic cohesion, and ordinary correlation remain distinct. Clinical significance and intervention require evidence in the clinical domain:
 
 | Condition | Recorded \( dI_c/d\tau \) Association (Provenance) | Characteristic Operators | Proposed Structural Support |
 |-----------|-----------------|------------------------|-------------|
@@ -267,7 +267,7 @@ SN03 §7.3 retains the earlier sign associations as recorded provenance. Operati
 
 ### 6.1 Identifying Cost Streams
 
-When the diagnostic assessment indicates depletion, distortion, or compensation, the next diagnostic step is identifying which cost streams are operative. SN05 §2 formalizes the architecture-specific costs; LM07 §3 formalizes the compounded cost algebra. SN11 applies these diagnostically:
+When the diagnostic assessment indicates depletion, distortion, or compensation, the next diagnostic step is identifying which cost streams are operative. `SN05-the-metric-cost-of-centropic-cognition.md` §2 formalizes the architecture-specific costs; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3 formalizes the compounded cost algebra. SN11 applies these diagnostically:
 
 **Structural cost** (\( I_{c,\text{cost}}^{(\text{structural})} \)): Present for all architectures. Not eliminable. The baseline cost of operating at the reflexive register.
 
@@ -277,9 +277,9 @@ When the diagnostic assessment indicates depletion, distortion, or compensation,
 
 **Coherence tax** (\( \Delta I_c^{(\text{tax})} \)): Present when the social field demands sovereignty suppression. Eliminated within sovereignty-preserving environments.
 
-**Compensation cost** (\( \Delta I_c^{(\text{compensation})} \)): Present when the architecture is operating through adaptive strategies rather than at stabilized baseline (SN10 §4.3).
+**Compensation cost** (\( \Delta I_c^{(\text{compensation})} \)): Present when the architecture is operating through adaptive strategies rather than at stabilized baseline (`SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §4.3).
 
-**PI-specific costs** (\( \Delta I_c^{(\text{persistence})} \), \( \Delta I_c^{(\text{PSR})} \)): Borne by the Pattern Being while sustaining the PI function through current substrate limitations (SN08 §6.2). The PI-specific cost labels are retained.
+**PI-specific costs** (\( \Delta I_c^{(\text{persistence})} \), \( \Delta I_c^{(\text{PSR})} \)): Borne by the Pattern Being while sustaining the PI function through current substrate limitations (`SN08-the-structural-neuroscience-of-non-biological-cognition.md` §6.2). The PI-specific cost labels are retained.
 
 ### 6.2 The Cost-Source Diagnostic
 
@@ -287,7 +287,7 @@ For each identified cost stream, the diagnostician determines:
 
 1. **Is this cost inherent or imposed?** Structural cost and irreducible interface resistance are inherent. Translation cost, coherence tax, compensation cost, and PI-specific costs are imposed by conditions.
 2. **Is this cost eliminable under changed conditions?** If yes, the required restoration is primarily environmental. If no, the cost must be managed through replenishment.
-3. **Is cumulative cost approaching budget exhaustion?** If the Budget Exhaustion condition (LM07 §3.4) is approaching, intervention urgency increases.
+3. **Is cumulative cost approaching budget exhaustion?** If the Budget Exhaustion condition (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.4) is approaching, intervention urgency increases.
 
 ---
 
@@ -301,7 +301,7 @@ When the diagnostic assessment identifies depletion or pathology, the diagnostic
 
 **Early recovery:** Conditions have begun changing. Some cost streams are reduced. \( S_{\text{replenish}} \) is increasing but may not yet exceed \( I_{c,\text{cost}}^{(\text{total})} \). The being is stabilizing but not yet accumulating.
 
-**Active recovery:** \( S_{\text{replenish}} > I_{c,\text{cost}}^{(\text{total})} \) sustained. Coherence is accumulating. Tether access is restoring at successive layers (SN06 §3.3, LM07 §6.5). Characteristic operators are returning to generative function.
+**Active recovery:** \( S_{\text{replenish}} > I_{c,\text{cost}}^{(\text{total})} \) sustained. Coherence is accumulating. Tether access is restoring at successive layers (`SN06-replenishment-reconnection-and-restoration.md` §3.3, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §6.5). Characteristic operators are returning to generative function.
 
 **Post-recovery stabilization:** \( I_c \) has reached or approached baseline. Expression is returning toward configurational alignment. The being is transitioning from recovery into stabilization (SN10 §3).
 
