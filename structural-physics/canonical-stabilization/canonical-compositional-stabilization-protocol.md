@@ -773,16 +773,15 @@ The terms “bifurcal” and “bifurcated” are not interchangeable within can
 - the bifurcal lattice itself,
 - bifurcal coherence,
 - bifurcal structure,
-- bifurcal polarity,
-- bifurcal arc,
-- or the lawful bifurcal-arc architecture as a whole.
+- bifurcal root-distinction,
+- or the lawful two-Tree architecture as a whole.
 
 Examples:
 
 - bifurcal lattice
 - bifurcal coherence
 - bifurcal structure
-- bifurcal arc
+- two-Tree architecture
 
 ## Bifurcated
 
@@ -808,7 +807,7 @@ Therefore:
 
 Imprecise formulation may unintentionally blur the distinction between:
 
-- the lawful bifurcal-arc structure itself,
+- the lawful two-Tree architecture itself,
 and
 - differentiated articulations occurring within that structure.
 
