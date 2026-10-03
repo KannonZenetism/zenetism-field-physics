@@ -399,7 +399,7 @@ The second representation can magnify the first defect. Repeated analytic reform
 
 ### 5.4 Trajectory Error
 
-**Proposition 5.3 — Continuous defect bound.** Let x solve \(\dot x=F_D(x)\), and let y be the represented curve of Proposition 5.1. Suppose F_D has a time-dependent Lipschitz bound L(t) on a region containing both curves and the line segments needed for comparison, with \(L\in L^1(0,T)\). Then
+**Proposition 5.3 — Continuous defect bound.** Let x solve \(\dot x=F_D(x)\), and let y be the represented curve of Proposition 5.1. Suppose \( F_D \) has a time-dependent Lipschitz bound L(t) on a region containing both curves and the line segments needed for comparison, with \(L\in L^1(0,T)\). Then
 
 \[
 \|y(t)-x(t)\|
@@ -571,7 +571,7 @@ Let vectors aᵢ have nonnegative weights μᵢ summing to one. Partition the in
 \lambda_A=\sum_{i\in A}\mu_i.
 \]
 
-Define group means m_A, total mean m, and covariances by
+Define group means \( m_A \), total mean m, and covariances by
 
 \[
 m_A=\frac1{\lambda_A}\sum_{i\in A}\mu_i a_i,
@@ -926,7 +926,7 @@ The continuum velocity \(\mathbf u(x,t)\) varies with position and time. Treatin
 
 The molecule / water analogy motivates retaining constituent interaction rather than flattening a composite to one scalar. The next construction relates two descriptions within the continuum model. A molecular calculation additionally supplies its statistical and scaling assumptions; the convolution calculation concerns the continuum field already specified.
 
-Let Gℓ be a fixed, smooth, nonnegative periodic convolution kernel with integral one. Define
+Let \( G_\ell \) be a fixed, smooth, nonnegative periodic convolution kernel with integral one. Define
 
 \[
 \overline{\mathbf u}=G_\ell*\mathbf u,
