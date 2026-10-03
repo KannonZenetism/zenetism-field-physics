@@ -3,15 +3,16 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Editorial Reference — Lockdown Consolidation  
 **Status:** Draft — architect review  
-**Date:** June 20 2026, revised June 28 2026  
 **Function:** Portable, self-contained reference for auditing canonical and MPX documents against the prose, terminological, and conceptual lockdowns. Intended to carry across editing sessions so the standard holds continuously.  
-**Dependencies:** Canonical Prose-Formatting Reference; Terminological Lockdown Protocol; Conceptual Lockdown Protocol  
+**Dependencies:** `prose-formatting-reference.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `sp-lm-sn-architect-decision-sheet.md`  
 
 ---
 
 ## 0. How to Apply
 
-For each document: read the original, run targeted assertion-guarded edits (one matched string per change), then present. Apply the unambiguous mechanical fixes directly; flag genuine doctrinal or rhetorical judgment calls once and let the author rule. Distinguish a lawful occurrence of a term from a violation — many flagged words (polarity, inverse, mirror) are correct in their proper register and wrong only at the bifurcal root or Zenon. Older documents often need conceptual development, not only mechanical lockdown; surface those for doctrinal input rather than silently rewriting.
+For each document: read the original, run targeted assertion-guarded edits (one matched string per change), then present. Apply the unambiguous mechanical fixes directly; flag genuine doctrinal or rhetorical judgment calls once and let the architect determine. Distinguish a lawful occurrence of a term from a violation — many flagged words (polarity, inverse, mirror) are correct in their proper register and wrong only at the bifurcal root or Zenon. Older documents often need conceptual development, not only mechanical lockdown; surface those for doctrinal input rather than silently rewriting.
+
+The current protocols and recorded architect determinations take precedence where this portable guide retains a question for review. Read each passage in full context before editing, including mathematical and register distinctions. Section 7 preserves the historical processing ledger; its earlier instructions and completion counts record that work rather than establish current standing.
 
 ---
 
@@ -40,7 +41,7 @@ Every MPX document carries the standard metadata header **and** the full seal fo
 ```
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** …  
-**Status:** Canonical  
+**Status:** [stage per Status Vocabulary]  
 **Dependency:** … · … · `exact-file.md` · …  
 
 ---
