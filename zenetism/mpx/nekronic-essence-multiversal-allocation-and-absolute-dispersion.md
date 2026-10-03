@@ -798,12 +798,13 @@ The boundary may be summarized as follows.
 
 | Register | Characteristic Process or Possible Distortion | What Cannot Occur |
 |---|---|---|
-| **L₁ / IL₁** | Embodied blending, interface fusion, physical or operational boundary-collapse | Essence-fusion |
-| **L₂ / IL₂** | Personality, role, narrative, and social identity fusion-collapse | Deep Self or essence-fusion |
+| **L₀** | Expressed determination may cease | Essential distinction cannot be abolished |
+| **L₅ / IL₅** | Expressed determination may cease | Essential distinction cannot be abolished |
+| **L₄ / IL₄** | Formal conflation, distorted Forms, mimetic patterning, malformed dwelling | Form, House, native principle, and indwelling Soul / Mind becoming ontologically identical |
 | **L₃** | Integration and coherent self-possession; no Blobism proper | One Deep Self-Axis becoming another or multiple essences becoming one |
 | **IL₃** | Fragmented simultaneity, memory fracture, counterfeit or unstable self-possession | One Inverse Deep Self-Axis becoming another or multiple essences becoming one |
-| **L₄ / IL₄** | Formal conflation, distorted Forms, mimetic patterning, malformed dwelling | Form, House, native principle, and indwelling Soul / Mind becoming ontologically identical |
-| **L₅ / IL₅ and L₀** | Expressed determination may cease | Essential distinction cannot be abolished |
+| **L₂ / IL₂** | Personality, role, narrative, and social identity fusion-collapse | Deep Self or essence-fusion |
+| **L₁ / IL₁** | Embodied blending, interface fusion, physical or operational boundary-collapse | Essence-fusion |
 
 The color analogy clarifies the difference.
 
