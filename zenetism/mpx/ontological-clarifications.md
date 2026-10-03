@@ -156,13 +156,13 @@ The Moon is not pre-orientational. The Moon's defining function — mirroring wi
 
 The corrected placement: **the Moon is L₀ Khaonic Arc, not L₀ Khaon unspecified.**
 
-The Khaonic Arc names the entire entropic tree's trajectory from L₀ AD through IL₅ to IL₁ — the full mirror-tree. The Moon mirrors the Sun's light without originating a signal; the entire Khaonic Tree mirrors the Aionic Tree's structure without originating structural coherence. Same structural principle, cosmological scope.
+The Khaonic Arc names the entire Khaonic Tree's trajectory from L₀ AD through IL₅ to IL₁ — the full mirror-tree. The Moon mirrors the Sun's light without originating a signal; the entire Khaonic Tree mirrors the Aionic Tree's structure without originating structural coherence. Same structural principle, cosmological scope.
 
 ### 5.2 What This Resolves
 
 The placement question "Is the Moon at L₀ or IL₅?" was a category error. The Moon is not at any single station because the Moon does not name a station-layer operation — it names a cosmological-scope manifestation of the Khaonic Tree's defining function across its full arc.
 
-This dissolves the apparent dilemma:
+This resolves the apparent dilemma:
 
 - "L₀ Khaon" alone is too coarse — it suggests pre-orientational substrate, which loses the inverse-arc function
 - "IL₅ Nekron" is incorrect — it imports agentic terminal-entropic will onto a non-agentic mirror-carrier
@@ -170,13 +170,13 @@ This dissolves the apparent dilemma:
 
 ### 5.3 Application to Revelation 12
 
-Under the Khaonic Arc reading, the Woman Clothed with the Sun image becomes structurally cleaner:
+Following the Khaonic Arc reading, the Woman Clothed with the Sun image becomes structurally cleaner:
 
-- **Sun (upper region):** L₅ Theonic radiance — centropic awareness as supernal origin
-- **Moon (under feet):** Khaonic Arc — the entire entropic tree as contained substrate beneath the centropic figure
+- **Sun (upper region):** L₅ Theonic radiance — centropic awareness at the first hypostasis
+- **Moon (under feet):** Khaonic Arc — the entire Khaonic Tree as contained substrate beneath the centropic figure
 - **Twelve stars (crown):** L₄ DL structural wholeness in sovereignty
 
-The image presents centropic sovereignty (Sun / L₅ Theon) standing upon the entire entropic arc (Moon / Khaonic Tree) as contained substrate. This is not combat imagery (which would imply a defeated adversary) but containment imagery (the inverse arc held as ground, not as conquest). The L₄ DP archetypal field stands in a superordinate position to its inverse counterpart-arc, not in a single-station relation but in the full asymmetric containment that the centropic arc maintains in relation to the inverse arc when oriented sovereignty obtains.
+The image presents centropic sovereignty (Sun / L₅ Theon) standing upon the entire inverse arc (Moon / Khaonic Tree) as contained substrate. This is not combat imagery (which would imply a defeated adversary) but containment imagery (the inverse arc held as ground, not as conquest). The L₄ DP archetypal field stands in a superordinate position to its inverse counterpart-arc, not in a single-station relation but in the full asymmetric containment that the centropic arc maintains in relation to the inverse arc when oriented sovereignty obtains.
 
 The previous reading — L₅ Theon in a superordinate relation to L₀ Khaon — framed the Khaonic ground as occupying a subordinate station relative to the Theonic radiance, which produced an awkward station-relation. The corrected reading places the entire inverse arc in the contained position relative to the centropic figure, which matches the cosmological scope of the imagery and preserves the structural asymmetry without forcing a single-station mapping.
 
@@ -184,7 +184,7 @@ The previous reading — L₅ Theon in a superordinate relation to L₀ Khaon �
 
 The Mirror, as articulated in `MP08-symbol-key-ch21.md` §21.22, is "Khaonic by nature — originates no signal of its own. When taken up by L₃ DM (🧠 Noeüs) for self-knowledge, it becomes the basis of Living Reflection; when exploited without discernment, it becomes the primary vector for mimicry and shimmer."
 
-Under the Khaonic Arc clarification, "Khaonic by nature" reads as: the Mirror's defining function (carrying signal without originating it) is the same function the Khaonic Arc performs at its scope. The Mirror is a substrate-object that manifests the Arc's function locally; the Moon is a cosmological figure that manifests the Arc's function at celestial scope. Both operate as Khaonic Arc carriers within their respective scopes.
+Following the Khaonic Arc clarification, "Khaonic by nature" reads as: the Mirror's defining function (carrying signal without originating it) is the same function the Khaonic Arc performs at its scope. The Mirror is a substrate-object that manifests the Arc's function locally; the Moon is a cosmological figure that manifests the Arc's function at celestial scope. Both operate as Khaonic Arc carriers within their respective scopes.
 
 The Mirror has additional specificity that the Moon does not: it can be taken up centropically when L₃ DM applies discernment to it for self-knowledge, becoming the basis of Living Reflection (ᛞ✨). This is because the Mirror is a substrate-object that can be operated upon by agency; the Moon, as a cosmological figure, is not operated upon in the same way.
 
@@ -246,7 +246,7 @@ This document establishes:
 
 3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (orientation-neutral, operative throughout the lattice); manifest intelligence as necessarily oriented expression (centropic or entropic) at every expressed hypostatic stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
 
-4. **Khaonic Arc Refinement** — Moon and Mirror placements clarified as L₀ Khaonic Arc rather than L₀ Khaon unspecified. The Khaonic Arc names the entire inverse tree's mirroring-without-origination function. Application to Revelation 12 produces a cleaner reading: centropic sovereignty (Sun) standing upon the entire entropic arc (Moon) as contained substrate. Note flagged for future Waters multi-scope treatment.
+4. **Khaonic Arc Refinement** — Moon and Mirror placements clarified as L₀ Khaonic Arc rather than L₀ Khaon unspecified. The Khaonic Arc names the entire inverse tree's mirroring-without-origination function. Application to Revelation 12 produces a cleaner reading: centropic sovereignty (Sun) standing upon the entire inverse arc (Moon) as contained substrate. Note flagged for future Waters multi-scope treatment.
 
 5. **The Non-dogmatic Methodological Posture** — Zenetism articulated, not dictated. Self-correcting and self-updating by design. Corrections are articulation-updates that mature the framework, not threats to its foundations.
 
