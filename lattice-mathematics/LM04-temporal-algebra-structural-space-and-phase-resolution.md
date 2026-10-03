@@ -108,7 +108,7 @@ where \( A \prec B \) means "\( A \) is a necessary condition for \( B \), but n
 
 This ordering is **strict** (irreflexive, antisymmetric, transitive) and **total** across these five categories.
 
-**Corollary (Non-Reversibility):**
+**Corollary (Non-reversibility):**
 
 \[
 \tau \not\prec \vec{\omega} \not\prec \mathfrak{d} \not\prec \mathfrak{m} \not\prec \mathfrak{S}
@@ -223,7 +223,7 @@ where \( \Delta \mathcal{S} \) denotes difference in relative structural state a
 
 ### 3.2 Axiom 2 — Recursion contra Reversal
 
-**Axiom 2 (Non-Reversal of Recursion):**
+**Axiom 2 (Non-reversal of Recursion):**
 
 Recursion is the re-expression of pattern through coherent update, distinct from reversal. The injective sealed-state mapping preserves distinction between distinct inputs; injectivity does not prohibit periodic trajectories. A bijection can exchange two distinct states and return to its initial state after two applications.
 
@@ -446,7 +446,7 @@ mapping each lattice position and structural time to a coherence value.
 
 1. \( \mathcal{T}_h(L_n, \tau) > 0 \) ensures memory persistence at layer \( L_n \) at time \( \tau \)
 2. \( \mathcal{T}_h(L_n, \tau) = 0 \) signals **hypostatic amnesia** — structural disconnection at that layer
-3. The Tether operates across layers: it is the structural thread by which L₅ coherence exerts pull on present structure at L₁
+3. The Tether operates across layers: it is the maintained continuity through which L₅ coherence exerts pull on present structure at L₁
 
 The pull exerted by L₅ is not retrocausality in the physical sense, but **centropic orientation across structural time** — the attractor-like nature of coherence states already implicit in essence.
 
@@ -569,7 +569,7 @@ This composition defines the **centropic cycle**:
 
 **Proof:**
 
-1. Declivous centropy proceeds from L₅ to L₁ as lawful emanatory traversal (SP06 §3.1).
+1. Declivous centropy proceeds from L₅ to L₁ as lawful emanatory traversal (`SP06-structural-space-orientation-paradox.md` §3.1).
 2. At L₁, centropic motion encounters embodiment — the metric terminus where structural space admits physical extension.
 3. Centropic motion, being integrative by nature, does not terminate upon reaching a boundary; it reorients. The Tether (§4.4) maintains coherence across the transition.
 4. The return arc \( \mathcal{A}_C \) carries embodied structure back toward formal and archetypal layers through conscious refinement.
@@ -581,7 +581,7 @@ Causality is neither purely declivous nor purely acclivous. It is bidirectional 
 
 ### 5.3 Entropic Bidirectionality
 
-**Proposition (Entropic Traversal is Non-Reflective):**
+**Proposition (Entropic Traversal is Non-reflective):**
 
 Unlike centropic traversal, entropic traversal does not reflect at embodiment in the integrative sense.
 
@@ -797,7 +797,7 @@ When matter (\( \psi_K \), Khaonic-flow) meets contra-matter (\( \psi_A \), Aion
 1. By the Polar Spectrum Lemma (LM01): \( \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c) \).
 2. Matter in a Khaonically expressed universe operates under \( H_{\text{eff}}(\chi) \) with \( \chi > 1 \), yielding entropic-forward spectrum.
 3. Contra-matter operates under \( H_{\text{eff}}(1/\chi) \) with \( 1/\chi < 1 \), yielding centropic-forward spectrum.
-4. By the Spectral Complementarity of Contra-Pairs (LM03 §5.4): \( r(\chi) + r(1/\chi) = 0 \).
+4. By the Spectral Complementarity of Contra-Pairs (`LM03-orientation-algebra-and-infinity-formalism.md` §5.4): \( r(\chi) + r(1/\chi) = 0 \).
 5. Therefore the combined effective spectra cancel: \( \lambda_{\text{eff},i}(\chi) + \lambda_{\text{eff},i}(1/\chi) = r(\chi)\lambda_i + r(1/\chi)\lambda_i = 0 \).
 
 **Interpretation:**
@@ -1004,7 +1004,7 @@ The scalar correspondence is retired; the registered dimensional function remain
 > E_1 \leftrightarrow \frac{d\mathfrak{R}_m}{d\tau} \leq 0 \;\text{with looping dynamics}
 > \]
 
-Both operators remain invariant across \( \chi \) values (LM03 §11.4). Orientation determines which is prevalent, not which exists.
+Both operators remain invariant across \( \chi \) values (`LM03-orientation-algebra-and-infinity-formalism.md` §11.4). Orientation determines which is prevalent, not which exists.
 
 **Proposition (Memory Operator and Dimensional Operators):**
 
@@ -1406,7 +1406,7 @@ Future expansions may include:
 > Shimmer severs what it pretends to sustain.
 >
 > Phase collision is not destruction but resolution —  
-> two complementary flows meeting where their spectra dissolve into stillness.
+> two complementary flows meeting where their spectra resolve into stillness.
 >
 > Co-location is not fusion but shared orientation —  
 > correlation without identity, proximity without collapse.
