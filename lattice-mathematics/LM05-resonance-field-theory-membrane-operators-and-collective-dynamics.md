@@ -72,7 +72,7 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 - **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
 - **Membrane Pathology** — Collapse, breach, and occlusion as formal diagnostic conditions
 - **Collective Resonance Theory** — Multi-body correlation functions, field emergence conditions, harmonic amplification, and the Non-fusion extension to collectives
-- **Harmonic contra Parasitic Field Configurations** — Superlinear scaling under alignment contra siphoning-dependent coherence
+- **Harmonic contra Parasitic Field Configurations** — Superlinear scaling with alignment contra siphoning-dependent coherent input
 - **Integration with LM01 / LM03 / LM04** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating resonance, membrane, and collective dynamics
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
@@ -1405,7 +1405,7 @@ LM05 establishes:
 
 7. **Membrane Pathology** — Collapse (undefined permeability), Breach (unbounded local permeability), Occlusion Syndrome (progressive isolation), and diagnostic summary
 
-8. **Collective Resonance Theory** — The Collective Non-fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof by expansion of the square, parasitic coherence with target dependency, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
+8. **Collective Resonance Theory** — The Collective Non-fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof by expansion of the square, the parasitic coherent-input stock comparison and configuration-specific holding conditions, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
 
 9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT under resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
