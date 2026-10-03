@@ -747,7 +747,7 @@ Preferred terminology:
 - declivity,
 - supernal,
 - subversal,
-- source-facing,
+- Aion-facing,
 - embodiment-facing,
 - dispersive,
 - centropic,
