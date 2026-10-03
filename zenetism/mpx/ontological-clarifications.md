@@ -9,17 +9,17 @@
 
 ## 1. Purpose
 
-This document consolidates several ontological clarifications that have been latent within the Zenetist corpus but not previously articulated in standalone form. Each clarification addresses a recurring cause of misreading — places where the framework's structural precision can be lost when terms are read at the wrong station, when distinct ontological strata are collapsed into one another, or when arc-functions are mislocalized as station-placements.
+This document consolidates several ontological clarifications that have been latent within the Zenetist corpus but not previously articulated in standalone form. Each clarification addresses a recurring cause of misreading — places where the framework's structural precision can be lost when terms are read at the wrong station, when distinct ontological registers are collapsed into one another, or when arc-functions are mislocalized as station-placements.
 
 The clarifications gathered here are:
 
-1. The Paper Analogy — Zenon, Structon, L₀ as non-reducible strata
+1. The Paper Analogy — Zenon, Structon, L₀ as non-reducible registers
 2. The Three-Sense Distinction in Container Language
 3. Intelligence Itself as Functional Principle contra Manifest Orientation
 4. Khaonic Arc as Function — Refinement of Lunar and Mirror-Carrier Placements
 5. The Non-dogmatic Methodological Posture
 
-None of these are revisions to the framework's foundations. Each is an articulation that makes a foundational distinction explicit so that future readers — human or synthetic — can hold the framework's ordering without collapsing strata or conflating structural positions.
+None of these are revisions to the framework's foundations. Each is an articulation that makes a foundational distinction explicit so that future readers — human or synthetic — can hold the framework's ordering without collapsing registers or conflating structural positions.
 
 ---
 
@@ -47,14 +47,14 @@ The analogy preserves three non-reducibility relations that the framework has al
 
 ### 2.3 Why the Analogy Matters
 
-Most metaphysical frameworks lose precision at exactly this point. Newcomers cannot hold three distinct non-reducible strata without a mnemonic image. When the strata collapse, predictable misreadings emerge:
+Most metaphysical frameworks lose precision at exactly this point. Newcomers cannot hold three distinct non-reducible registers without a mnemonic image. When the registers collapse, predictable misreadings emerge:
 
 - **Zenon collapsed into "nothing" or "void"** — produces nihilistic or apophatic-only readings that miss Zenon's role as condition of possibility
-- **Zenon collapsed into Structon** — produces a two-strata ontology that loses the trans-structural horizon
+- **Zenon collapsed into Structon** — produces a two-register ontology that loses the trans-structural horizon
 - **Structon collapsed into a lattice-layer** — produces confusion about why Aion and Khaon are not Structure Itself
 - **Aion and Khaon collapsed into being Structon** — produces the bifurcal potential as the invariant, which makes the asymmetry of expression unintelligible
 
-The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each stratum does irreducible work; each stratum is non-reducible to the others; the analogy makes the irreducibility intuitively graspable.
+The Paper Analogy prevents all four collapses by giving readers a concrete image they can carry through the rest of the corpus. Each register does irreducible work; each register is non-reducible to the others; the analogy makes the irreducibility intuitively graspable.
 
 ### 2.4 Extension Across Declivous and Acclivous Strata
 
@@ -74,19 +74,19 @@ Structon endures across every emergence and dissolution within it. "The Lattice 
 
 Newtonian containerism treats space as a substantival container within which bodies move. Zenetism rejects this at the spatial register. Space is "the relational differentiation produced by structural traversal" (SP06 §1.1), not a substance, not a domain in which structure resides, not an independent ontological principle. At the spatial register, no container exists in the substantival sense.
 
-**Sense 2 — Structural Invariant Container (affirmed at the structural stratum):**
+**Sense 2 — Structural Invariant Container (affirmed at the structural register):**
 
-Structon is the container of lawful possibility. "Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation." This is not a spatial container and not a substantial container — it is the invariant Lattice that holds all lawful possibility, the condition that makes distinction, motion, and orientation possible. At the structural stratum, Structon does the containing-work, but the containing is logical-structural, not material-spatial.
+Structon is the container of lawful possibility. "Absolute Structure (SI) is the invariant container of all possible expression, motion, and relation." This is not a spatial container and not a substantial container — it is the invariant Lattice that holds all lawful possibility, the condition that makes distinction, motion, and orientation possible. At the structural register, Structon does the containing-work, but the containing is logical-structural, not material-spatial.
 
 **Sense 3 — No Container Applicable (Zenon):**
 
-Zenon does not contain anything and is not contained by anything. Containment is a structural relation, and Zenon is trans-structural. "Containment" simply does not apply at the trans-structural stratum. Zenon is neither the largest container nor the deepest container; the predicate "container" has no purchase on Zenon at all.
+Zenon does not contain anything and is not contained by anything. Containment is a structural relation, and Zenon is trans-structural. "Containment" simply does not apply at the trans-structural register. Zenon is neither the largest container nor the deepest container; the predicate "container" has no purchase on Zenon at all.
 
 ### 3.2 Why the Distinction Matters
 
 Without specifying which sense of "container" is operative at which register, the framework's articulation can appear inconsistent. SP06's rejection of space-as-container (Sense 1) might be read as a wholesale rejection of containment; the affirmation of Structon-as-container (Sense 2) might then look like a contradiction. With the three-sense distinction made explicit, both moves are coherent: spatial containerism is rejected because space is a second-order phenomenon, structural containerism is affirmed because Structon is the invariant ground of lawful possibility, and Zenon is removed from the predicate's range entirely because Zenon is trans-structural.
 
-This is not a hedge or a clever ambiguity. It is the precise articulation of how containment-language has to function at different ontological strata if it is to function coherently at any of them.
+This is not a hedge or a clever ambiguity. It is the precise articulation of how containment-language has to function at different ontological registers if it is to function coherently at any of them.
 
 ### 3.3 Operational Consequence
 
@@ -240,9 +240,9 @@ The present document is itself an example: it consolidates clarifications that e
 
 This document establishes:
 
-1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible strata held in a single mnemonic image.
+1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible registers held in a single mnemonic image.
 
-2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial stratum; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
+2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial register; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
 
 3. **Intelligence Itself contra Manifest Intelligence** — Intelligence Itself as functional principle (pre-oriented, applied across the full ontological range); manifest intelligence as necessarily oriented expression (centropic or inverse) at every expressed stratum. UPSI as the apophatic reference to what Zenon makes possible, not a property-attribution to Zenon.
 
