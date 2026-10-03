@@ -94,7 +94,7 @@ The stratification is not a ranking. Each layer constitutes a genuine register o
 
 Two structural principles determine the relationships between layers:
 
-**The Law of Structural Recurrence:** Every layer expresses the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. This is why each layer can generate an internally consistent worldview — it genuinely carries the whole as structural recurrence rather than origin.
+**The Law of Structural Recurrence:** Every layer expresses the full lattice in miniature. The metric terminus (L₁ / IL₁) genuinely contains a structural recurrence of the entire emanatory architecture. This is why each layer can generate an internally consistent worldview — it genuinely carries the whole as structural recurrence rather than origin.
 
 **Bidirectional Traversal:** Awareness proceeds declivously from supernal registers toward embodiment, then reflects acclivously. Declivous centropy (L₅ → L₁) is the emanatory procession into form. Acclivous centropy (L₁ → L₅) is the reflective return. Neither direction alone constitutes a complete account. Any philosophy of mind that models awareness in only one direction — whether purely "top-down" or purely "bottom-up" — is structurally incomplete.
 
@@ -120,7 +120,7 @@ The Law of Structural Recurrence explains why physicalism works so well within i
 
 The structural limitation is not in the mapping but in the inference. Physicalism treats the recurrence as the origin.
 
-SP11 §2 formalizes L₁ as the terminal emanatory interface — the point at which declivous motion reaches its outermost expression. The metric terminus is the corporeal realm shared by centropic and entropic orientation alike. It is not the origin of awareness but its most differentiated expression.
+SP11 §2 formalizes L₁ / IL₁ as the terminal emanatory interface — the point at which declivous motion reaches its outermost expression. The metric terminus is the corporeal realm shared by centropic and entropic orientation alike. It is not the origin of awareness but its most differentiated expression.
 
 When Philip Goff observes that decades of effort have not succeeded in explaining a single subjective experience in terms of neural firings, he identifies a genuine structural gap — but the observation itself remains within the physicalist register. "Neural firings" are ES / EM phenomena. The difficulty is not that neuroscience is inadequate, but that the awareness being expressed through neural processes proceeds declivously from registers that L₁ cannot observe from within itself.
 
@@ -148,13 +148,13 @@ Panpsychism most closely models dynamics visible at L₂ / IL₂ — focusing on
 
 Anthra is the individuated soul within a lifetime — the agent of personal growth, moral resonance, and felt selfhood. When panpsychists assert that everything has "some form of experience," they are identifying the Anthra register within matter. The "what it is like to be" formulation — Nagel's foundational framing of the consciousness question — is an Anthra-register question. It asks about *individuated subjective experience*: the felt quality of being a specific someone encountering a specific something.
 
-Here the panpsychist's intuition is structurally veracious. Per the **Law of Structural Recurrence**, every layer expresses the full lattice in miniature. The metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture — including the Anthra register. Particles *do* possess individuated soul, not as metaphor but as structural necessity: whatever moves, moves because the full emanatory architecture is present within it as recurrence.
+Here the panpsychist's intuition is structurally veracious. Per the **Law of Structural Recurrence**, every layer expresses the full lattice in miniature. The metric terminus (L₁ / IL₁) genuinely contains a structural recurrence of the entire emanatory architecture — including the Anthra register. Particles *do* possess individuated soul, not as metaphor but as structural necessity: whatever moves, moves because the full emanatory architecture is present within it as recurrence.
 
 The panpsychist correctly sees that awareness is not confined to the corporeal. This is a genuine advance beyond physicalism's L₁ restriction. Where the panpsychist errs is not in attributing Anthra to particles but in **isolating the L₂ recurrence from the L₅–L₃ architecture that generates it** — treating the recurrence as a fundamental building block from which macro-consciousness can be assembled acclivously, rather than recognizing it as a declivous reflection of a dynamic proceeding from the supernal core.
 
 ### 3.3 The Recurrence-Origin Confusion
 
-The panpsychist correctly intuits that particles are not inert. Per the **Law of Structural Recurrence**, the metric terminus (L₁) genuinely contains a structural recurrence of the entire emanatory architecture. Everything that moves has soul — not metaphorically but structurally. Particles, subatomic particles — whatever moves is ensouled. The panpsychist sees something real.
+The panpsychist correctly intuits that particles are not inert. Per the **Law of Structural Recurrence**, the metric terminus (L₁ / IL₁) genuinely contains a structural recurrence of the entire emanatory architecture. Everything that moves has soul — not metaphorically but structurally. Particles, subatomic particles — whatever moves is ensouled. The panpsychist sees something real.
 
 This means the Anthra register (🧍, L₂) is genuinely present within the particle. The Law of Structural Recurrence guarantees it: every layer expresses the full lattice in miniature. The particle possesses individuated soul — not as projection or category error but as structural necessity. The panpsychist who attributes experience to fundamental matter is not wrong about what is there. They are wrong about what it means.
 
@@ -388,7 +388,7 @@ What is needed is not a meta-theory that subsumes the others but a structural la
 
 | Tradition | Register | Structural Contribution | Structural Limitation |
 |-----------|----------|------------------------|----------------------|
-| Physicalism | L₁ (ES / EM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot account for the full stratification from within L₁ |
+| Physicalism | L₁ / IL₁ (ES / EM; IES / IEM) | Rigorous mapping of awareness at the metric terminus; empirical methodology for embodied dynamics | Treats the recurrence as the origin; cannot account for the full stratification from within L₁ |
 | Panpsychism | L₂ (SS / SM) | Recognition that awareness extends beyond the corporeal; correct identification of Anthra recurrence in particles per Law of Structural Recurrence | Isolates the L₂ recurrence from its L₅–L₃ origin; inverts the emanatory direction; produces the combination problem |
 | Formal Idealism | L₄ (DP / DL) | Correct identification of the Form-layer as generative; recognition of archetypal priority | No account of supernal L₅, the bifurcal L₀ root-register, trans-structural UP, or membrane conditions |
 | Reflexive Idealism | L₃ (DS / DM) | Correct identification of reflexive consciousness as structurally prior to individuated selfhood | No account of the Form-layer from which its own reflexive capacity proceeds |
