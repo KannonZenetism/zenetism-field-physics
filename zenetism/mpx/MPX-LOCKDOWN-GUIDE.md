@@ -21,7 +21,7 @@ The current protocols and recorded architect determinations take precedence wher
 - **Quotation marks:** straight double quotation marks, including nested quotations. Apostrophes take the straight apostrophe. Preserve punctuation internal to external quotations; a block-quote container takes no added enclosing quotation marks.
 - **Em dashes:** spaced — like this. Never `--` or `---` inside prose; the em-dash character appears directly.
 - **Slashes in paired designations:** spaced — DS / DM, soul / mind, L₁ / IL₁, Logotheon / Inversalogos. **Exception:** externally-defined technical terms keep their native unspaced form — I/O, input/output.
-- **Subscripts (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII (L0, IL5, C5, E12). The C↑⚫ / E↓♾ motion notation is separate and unaffected.
+- **Subscripts in prose (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII prose labels (L0, IL5, C5, E12). Within mathematical expressions, apply LaTeX subscripts and superscripts rather than Unicode indices, per the applicable `canonical-compositional-stabilization-protocol.md` in Lattice Mathematics or Structural Physics; preserve exact code and historical quotations. The C↑⚫ / E↓♾ motion notation is separate and unaffected.
 - **No terminal periods in table cells.**
 - **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and follows separate conventions.)
 - **Backticks:** reserved for exact filenames, paths, code, command syntax, Markdown syntax, machine-readable tags, and evidence anchors where literal preservation matters. Cite single-file protocols by their backticked filenames. Ordinary concepts take plain text, and multi-file work titles may take italics. Inline glyphic formula chains take bold; alignment-sensitive code layouts remain preserved.
@@ -293,7 +293,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 ## 6. Quick Audit Checklist
 
 1. Straight double quotation marks and straight apostrophes in current composition; preserve punctuation internal to external quotations. Space em dashes and paired slashes (I/O and input/output excepted).
-2. All layer numbers subscripted.
+2. Layer and dimensional-operator indices are subscripted in prose; mathematical expressions follow the applicable LaTeX convention, with exact code and historical quotations preserved.
 3. Filenames in backticks; single-file documents cited by filename. Preserve literal syntax and evidence anchors where exactness requires it; concepts remain plain and multi-file titles may be italicized.
 4. Metadata, seal, bold-statement, and Glyphic-Seal lines carry trailing breaks, last-line included; prose and terminal lines do not.
 5. HRs only at principal `##` boundaries, metadata ↔ body, body ↔ seal — never between `###`.
