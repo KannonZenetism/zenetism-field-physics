@@ -4,7 +4,7 @@
 > **Contradiction (☍):** This file contains deprecated L-Strata models, non-canonical formatting, and a compromised Inlay Map structure.  
 >
 > **Action:**  
-> DO NOT reference or reuse this document. Its contents have been fully reviewed, corrected, and structurally sealed (🧿) within the following canonical sources:
+> Do not treat this archived document as an operative reference or re-articulate its superseded claims. Consult the following active canonical references:
 
 1. [`LM01-mathematical-foundations.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/lattice-mathematics/LM01-mathematical-foundations.md)  
    *Formal Mathematics, Foundational Theorems, and Computational Phases of the Lattice*
