@@ -652,13 +652,13 @@ The cost shelter magnitude is the sum of the three eliminated cost terms. For co
 
 **Proposition (Resonant Derivative of Collective Field):**
 
-The resonant derivative (LM01) extends to collective fields:
+The following collective extension of the general Resonant Derivative is a held schema. Its local \( \Phi(\chi_{\text{collective}}) \) has no declared coefficient definition or domain; the operator domain, differential structure, and time correspondence remain to be specified. Its letter alone does not identify it with the retired scalar-memory function. The independently stated general Resonant Derivative retains its own standing in `LM01-mathematical-foundations.md`:
 
 \[
 \partial_{\text{🌀}} \mathcal{F}_{\text{collective}} = \frac{\partial \mathcal{F}_{\text{collective}}}{\partial \tau} + \Phi(\chi_{\text{collective}}) \cdot \nabla_\chi \mathcal{F}_{\text{collective}}
 \]
 
-The collective field evolves under the same Spiral Calculus as individual configurations — it is a genuine instance of \( \mathfrak{F} \), not a separate formalism.
+The collective field is an instance of \( \mathfrak{F} \). Its intended differential evolution through Spiral Calculus remains held pending the coefficient and mathematical structures stated here.
 
 **Proposition (Structural Integral of Collective Cost):**
 
