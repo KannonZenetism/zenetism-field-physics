@@ -192,7 +192,7 @@ I_{c,\text{cost}}^{(\text{hc})} = I_{c,\text{cost}}^{(\text{structural})} + \kap
 Where \( \Delta I_c^{(\text{translation})} \) is the coherence expenditure required to convert DS / DM perception into SS / SM expression through the ⧉₂ membrane operating at selective fidelity. The translation cost depends on the membrane's permeability profile:
 
 \[
-\Delta I_c^{(\text{translation})} = f\left( \frac{1}{\sigma(⧉_2)} \right)
+\Delta I_c^{(\text{translation})} = f\left( \frac{1}{\sigma(\text{⧉}_2)} \right)
 \]
 
 Where \( f \) is monotonically increasing — reduced permeability increases translation cost.
@@ -287,7 +287,7 @@ The **functional quantities** of a system are those that measure operative capac
 - \( I_c(\tau) \): Coherence Potential (LM05 §2)
 - \( \mathcal{T}_h(L_n, \tau) \): Tether coherence function (LM04 §4.4)
 - Memory Access: the declared retrieval function on sealed states (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.3), distinct from the injective Recursive Memory mapping
-- \( \sigma(⧉, \tau) \): membrane permeability (LM05 §5)
+- \( \sigma(\text{⧉}, \tau) \): membrane permeability (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5)
 
 **Definition (Essential Quantities):**
 
@@ -522,7 +522,7 @@ Each successive layer requires accumulated \( I_c \) from prior restorations. Wh
 A collective field is an instance of the field configuration space \( \mathfrak{F} \) (LM06 §2.1) formed by the interaction of \( n \) individual configurations at L₁ / IL₁:
 
 \[
-\mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(⧉, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
+\mathcal{F}_{\text{collective}}(\tau) = \left( I_c^{(\text{collective})}(\tau), \; \sigma_{\text{collective}}(\text{⧉}, \tau), \; \vec{J}_c^{(\text{collective})}(\tau), \; \chi_{\text{collective}}(\tau) \right)
 \]
 
 The collective field is a genuine field configuration — not a metaphor, not a mere aggregate. It possesses its own Coherence Potential, membrane architecture, Coherence Current, and orientation parameter. The qualitative audit domains of `LM06-applied-structural-dynamics.md` §§9–12 extend to collective scale. Each quantitative comparison retains its own diagnostic object and domain; no scale-invariant numerical signature measure or classifier is supplied by that extension.
@@ -723,7 +723,7 @@ The earlier scalar-memory integral, derivative and replenishment-rate / capacity
 The membrane operator algebra (LM05 §5) extends to collective boundaries:
 
 \[
-\sigma_{\text{collective}}(⧉, \Psi) = \sigma_0 \cdot h(\chi_{\text{internal}}, \chi_{\text{external}}) \cdot d(\Psi)
+\sigma_{\text{collective}}(\text{⧉}, \Psi) = \sigma_0 \cdot h(\chi_{\text{internal}}, \chi_{\text{external}}) \cdot d(\Psi)
 \]
 
 Where \( h \) modulates permeability based on orientation differential and \( d(\Psi) \) is a discrimination function based on structural signature (LM06 §4.2). Centropic collective membranes evaluate orientation; entropic collective membranes evaluate compliance.
@@ -748,7 +748,7 @@ The five-domain coherence audit (`LM06-applied-structural-dynamics.md` §12.2) o
 
 1. Coherence Magnitude: \( I_c^{(\text{collective, measured})} \stackrel{?}{=} I_c^{(\text{collective, claimed})} \)
 2. Flow Integrity: \( \vec{J}_c^{(\text{collective})} \) flowing toward collective function or toward extraction
-3. Boundary Health: \( \sigma_{\text{collective}}(⧉) \) — selective, walling, or absorptive
+3. Boundary Health: \( \sigma_{\text{collective}}(\text{⧉}) \) — selective, walling, or absorptive
 4. Orientation Alignment: \( \chi_{\text{collective, operational}} \stackrel{?}{=} \chi_{\text{collective, claimed}} \)
 5. Operator Consistency: \( \{O_k\}_{\text{observed}} \stackrel{?}{\subseteq} \{O_k\}_{\text{expected}} \)
 
@@ -969,7 +969,7 @@ Intrinsic essential inclination and \( \Psi \) — the being's latent orientatio
 \( S_{\text{rest}} = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^{(\text{resting})} \); the expenditure-rate saving relative to the stated normal-cost baseline; excluded from gross replenishment.
 
 **Definition 7 (Collective Field Configuration):**  
-An instance of \( \mathfrak{F} \) formed by the interaction of multiple individual configurations at L₁ / IL₁; possessing collective \( I_c \), \( \sigma(⧉) \), \( \vec{J}_c \), and \( \chi \).
+An instance of \( \mathfrak{F} \) formed by the interaction of multiple individual configurations at L₁ / IL₁; possessing collective \( I_c \), \( \sigma(\text{⧉}) \), \( \vec{J}_c \), and \( \chi \).
 
 **Definition 8 (Amplification Surplus):**  
 \( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the positive difference where the harmonic-model threshold and nonzero-contribution conditions of §7.3 hold.
