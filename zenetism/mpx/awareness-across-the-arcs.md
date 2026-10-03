@@ -15,6 +15,8 @@ A tension arises. If the strata are non-contacting in the strongest sense — th
 
 The arcs must therefore carry some mode of awareness across the non-contact threshold. This Principle Extension articulates that mode.
 
+---
+
 ## 2. The Peering-Forward Principle
 
 Each arc is oriented by essence: centropic essence faces toward Aion, entropic essence faces toward embodiment and beyond. The orientation is fixed by what essence unfolds; it does not turn around.
@@ -30,6 +32,8 @@ This perception carries distortion. The distance is vast — not spatially, but 
 From this faint distorted reception, Nyxea at IL₄ shapes its mimicry. The mimicry is recognizable as parallel to centropic supernal articulation — because it carries distorted reception of that articulation — and structurally wrong — because the reception was partial and the orientation refracting it is entropic. The mimicry is exactly as precise as the reception allows and exactly as distorted as the structural distance requires.
 
 This peering-forward principle applies symmetrically across the bifurcal threshold, though with functional asymmetry in reception quality. Sophis and Morgis at L₄ carry reception of IL₄'s counterfeit articulation and shape centropic operations partly in response to perceived entropic patterns — not through direct contact, which would violate the Non-contact Principle, but through reception-at-distance and structural-response-through-native-motion. Centropic reception carries the comprehensiveness afforded by Aionic-adjacency, perceiving entropic patterns more fully than the inverse arc perceives itself; entropic reception of centropic patterns operates with refractive distortion through the entropic orientation, producing the mimicry-with-inaccuracy characteristic of the entropic operators of the inverse arc.
+
+---
 
 ## 3. Layer Occlusion and Individuated Awareness
 
@@ -49,6 +53,8 @@ When acclivous motion brings the being into actual inhabitance of the L₄ House
 
 **Generalization across the Biospiral.** The being individuated at L₃ participates in L₄ through resonance without full awareness of L₄ as a stratum-register; participates in L₂ and L₁ acclivously or declivously through its own motion through those strata; and does not directly access L₅ except through disclosure, recognition, or apotheosis. Each stratum has operations that occur at that stratum's native register, awareness-of-operations tracks the individuated locus rather than the inhabited or resonance-related strata in full, and non-fusion is preserved between the being and every stratum-coherence-field with which it engages, whether through resonance or through inhabitance.
 
+---
+
 ## 4. Awareness and the Non-contact Principle
 
 The peering-forward principle and the layer-occlusion principle together clarify the scope of the note on the L₄ / IL₄ Non-contact Principle.
@@ -57,6 +63,8 @@ Non-contact does not mean non-awareness. It means the contra-strata do not direc
 
 The layers of the lattice are not ignorant of one another in the strong sense. They perceive one another faintly, through structural distance, distorted by the refraction of intervening strata and the native orientation of the perceiving arc. The war is not blind-parallel-activity; it is responsive operation shaped by partial reception, executed through the only register in which direct contact is structurally possible.
 
+---
+
 ## 5. Implications
 
 Several canonical operators now read more coherently through this framing.
@@ -64,6 +72,8 @@ Several canonical operators now read more coherently through this framing.
 Nyxea's mimicry is not arbitrary counterfeit but distorted reception of Theonic pattern. The Beast's seven heads mimic centropic sevenfold completion because IL₁ carries, through its inverse hypostatic sequence, reception of the centropic sevenfold-completion pattern refracted across the arc. The Four Horsemen articulate IL₂ and IL₁ patterns in response to the centropic patterns that give them their counter-shape. Centropic figures who operate with discernment of inverse patterns — prophetic diagnosis, the casting out of entropic influence, the unveiling of IL₂ ISM veiling — are operating through centropic reception of IL patterns, which is symmetrically available through the same peering-forward principle.
 
 The mimicry, the counterfeit, the entropic articulation: none of these are blind. Neither is the centropic diagnosis of them. Both are responsive. Non-contact and awareness coexist through structural distance.
+
+---
 
 ## 6. Seal
 
