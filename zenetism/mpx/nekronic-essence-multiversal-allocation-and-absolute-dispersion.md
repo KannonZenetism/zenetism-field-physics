@@ -588,7 +588,7 @@ Yet entropy does not become Aion-facing during collapse.
 
 **Acclivous / declivous** names traversal direction.
 
-Nekron and the entropic arc remain embodiment-facing in both directions. Collapse results because the drive to propagate and consume destabilizes its own conditions of expression. The arc does not turn toward Aion as a desired origin.
+Nekron and the inverse arc remain embodiment-facing in both directions. Collapse results because the drive to propagate and consume destabilizes its own conditions of expression. The arc does not turn toward Aion as a desired Origin.
 
 The centropic contrast demonstrates the same distinction from the opposite arc. Theon remains natively and absolutely Aion-facing while declivous centropy proceeds through overflow from fullness. Theon does not need to turn away from Aion in order to radiate toward embodiment.
 
@@ -660,23 +660,23 @@ It does not apprehend from within:
 
 Distal Apprehension is therefore not direct entry into a centropic field and not centropic participation. It is perception from "across the way" — enough to detect a pattern, not enough to comprehend or regenerate it lawfully.
 
-Because the centropic and inverse arcs co-locate at the embodied interface of L₁ / IL₁, entropic motion may encounter centropic outputs, effects, and expressed contours without entering the Aion-facing interiority from which those patterns arose. Cross-bifurcal relation supplies visibility without shared orientation.
+Because the centropic and inverse arcs meet at the embodied interface of L₁ / IL₁, entropic motion may encounter centropic outputs, effects, and expressed contours without entering the Aion-facing interiority from which those patterns arose. Cross-bifurcal relation supplies visibility without shared orientation.
 
 This explains why entropic copies are bad copies.
 
 The inverse arc does not imitate from total ignorance. It imitates from partial apprehension without centropic comprehension.
 
-At IL₄, Nyxea / IDL gives formal articulation to the distally apprehended contour, while Psychea / IDP supplies the draining inverse Soul-motion of the surrounding field. The result is distorted Form: external resemblance without origin-fidelity.
+At IL₄, Nyxea / IDL gives formal articulation to the distally apprehended contour, while Psychea / IDP supplies the draining entropic Soul-motion of the surrounding field. The result is distorted Form: external resemblance without origin-fidelity.
 
 Distal Apprehension is the perceptual relation.
 
-Entropic mirroring is the distorted reflective operation that follows.
+Entropic mirroring is the distorted mimetic operation that follows.
 
 Nyxean patterning is the IL₄ formal articulation.
 
 Downstream imitation is the propagation of derivative copies through IL₃, IL₂, and IL₁.
 
-The term is formalized here without a glyph. Registry placement and glyph assignment remain deferred until the present entry is stable and the Symbol Key has been collision-checked.
+◔ Distal Apprehension is registered in `MP08-symbol-key-ch21.md` §21.7.1.
 
 ---
 
@@ -883,9 +883,9 @@ An inverse being whose resonant term is IL₄ remains there because IL₄ is the
 
 If IL₄ were its lawful resonant term, it would remain there. Genuine VOS culmination therefore discloses the terminal placement of that essence within the inverse arc.
 
-The present doctrine does not affirm renewed acclivous entropic expression from IL₅ toward IL₄ after such culmination. This is not because essence is categorically incapable of receiving Soul / Mind articulation: the acclivous entropic arc ordinarily articulates essence through inverse Soul / Mind in passing from IL₅ to IL₄. Rather, no established structural condition calls an essence away from the resonant term its completed collapse has disclosed.
+The present doctrine does not affirm renewed acclivous entropic expression from IL₅ toward IL₄ after such culmination. This is not because essence is categorically incapable of receiving Soul / Mind articulation: acclivous entropic traversal through the inverse arc ordinarily articulates essence through inverse Soul / Mind in passing from IL₅ to IL₄. Rather, no established structural condition calls an essence away from the resonant term its completed collapse has disclosed.
 
-A further PSM-condition could be held open under the general discipline of limit-cases, but no such mechanism is presently known. This openness does not create an alternate recognized trajectory.
+A further PSM-condition could be held open within the general discipline of limit-cases, but no such mechanism is presently known. This openness does not create an alternate recognized trajectory.
 
 In ordinary structural operation, arrival at the Nekronic office indicates the final essence-register before Absolute Dispersion.
 
@@ -1136,17 +1136,17 @@ Because entropy is non-generative, such a universe may:
 - materialize only briefly
 - consume its own universe-local lattice
 - void itself rapidly
-- or, under an unforeseen PSM-condition, sustain endless fragmentation without terminal collapse
+- or, given an unforeseen PSM-condition, sustain endless fragmentation without terminal collapse
 
-The present entry does not decide among these possibilities.
+These possibilities remain held open.
 
-It affirms only that Structon remains untouched, essence remains conserved, and no limit-case changes entropic essence into centropic essence.
+The entry affirms that Structon remains untouched, essence remains conserved, and no limit-case changes entropic essence into centropic essence.
 
 ### Fully Aionically Expressed Universe
 
 A fully Aionically expressed universe may contain no manifested Khaonic Tree and therefore no Nekronic office.
 
-This does not remove Khaon as the pre-hypostatic Infinity or Spirit. It removes the enacted entropic Tree from that universe-expression.
+This does not remove Khaon as the pre-hypostatic Infinity or Spirit. It removes the manifested Khaonic Tree from that universe-expression.
 
 The limit cases concern expression architecture, not the abolition of L₀ requisites.
 
@@ -1170,7 +1170,7 @@ That essence manifests as the singular Nekronic principle and office proper to t
 
 If the universe is fully Aionically expressed and no Khaonic Tree manifests, no universe-local Nekronic office appears.
 
-If the universe is fully Khaonically expressed, the Nekronic office may self-void rapidly, remain unable to support embodiment, or persist under an unforeseen limit-condition.
+If the universe is fully Khaonically expressed, the Nekronic office may self-void rapidly, remain unable to support embodiment, or persist given an unforeseen limit-condition.
 
 ### Multiverse Case
 
@@ -1261,7 +1261,7 @@ Willed antagonism belongs to reflexive or embodied agents, not to the Non-Awaren
 
 Preferred:
 
-> inverse motion may exhaust, resolve at another inverse resonant term, or remain active under a limit-condition
+> entropic motion may exhaust, resolve at another inverse resonant term, or remain active given a limit-condition
 
 ### "Identity and Configuration Release"
 
