@@ -1,5 +1,258 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Completion index — LM bounded repair pass
+
+**Implementation baseline:** [`bf95dde0c5f1261de5442a6600065d85af297b71`](https://github.com/KannonZenetism/zenetism-field-physics/tree/bf95dde0c5f1261de5442a6600065d85af297b71). The existing SP / supplemental MP completion index and every original audit byte remain intact after this additive LM index. Original LM locators refer to the audit snapshot [`2b2f41350d425ee6f2b51fc6026bfbff9f7a0671`](https://github.com/KannonZenetism/zenetism-field-physics/tree/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671); they are not rewritten as shifted current line numbers.
+
+**Scope:** LM01–LM08 and `lattice-mathematics/README.md` / `lattice-mathematics/00-README.md`, together with this existing report. Extensions and completed SP sources are references and dependency checks. SN and MPX implementation remain later, separately approved work. No registered name, primary dimensional locus, new mathematical construction, or deposit action follows from this index.
+
+**Reconciliation:** 168 original LM finding groups / 601 unique occurrence records. The original audit has 602 locator entries because LM-B:T12 at LM07:582 is listed twice; both original evidence entries remain intact, and that shared category / finding / file / locator is counted once here. One record is category + finding ID + file + original locator. A bounded lexical, presentation, or standing correction clears only that recorded diagnosis; it never completes a different co-located mathematical question.
+
+- 19: completed
+- 272: pending
+- 167: held
+- 2: rejected
+- 141: retained
+
+**Status reading:** Completed means exact independently reviewed source changes have been published and independently verified through pinned remote commit / tree / blob readback. Pending means unfinished review or publication. Held includes original review questions and explicit mathematical / naming holds; it does not recast every original review question as a new architect determination. Rejected records identify diagnoses or automatic replacements declined on contextual reread. Retained records preserve verified lawful or historical wording.
+
+**Controls:** The full current `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, `prose-formatting-reference.md`, Lattice Mathematics mathematical / LaTeX reference, and full relevant D01–D22 determinations are read at the implementation baseline. The analytic vocabulary framework is consulted in the relevant core, discipline, register, claim-status, and held-name sections; no full-framework reading is implied by a bounded review. The audit is a locator and record, not a replacement mandate.
+
+### LM publication ledger
+
+- **LM-R01** (10 edit records): [`b9de9e723de9799fbc921e2658c6670e6ccbb3a9`](https://github.com/KannonZenetism/zenetism-field-physics/commit/b9de9e723de9799fbc921e2658c6670e6ccbb3a9); completed; independent remote verification
+- **LM-R02** (9 edit records): [`c5da6dc65fcf0dce8e5509b25cc680cfc258a982`](https://github.com/KannonZenetism/zenetism-field-physics/commit/c5da6dc65fcf0dce8e5509b25cc680cfc258a982); completed; independent remote verification
+- **LM-R03** (1 edit records): [`e8af960b30e0a7997d6aa35cc3b8d0e4d73eed15`](https://github.com/KannonZenetism/zenetism-field-physics/commit/e8af960b30e0a7997d6aa35cc3b8d0e4d73eed15); completed; independent remote verification
+
+Report-only commits identify themselves through repository history; no commit asserts its own hash.
+
+### LM occurrence disposition index
+
+LM filenames in this index are relative to `lattice-mathematics/`. All original finding locators appear once, including rejected diagnoses and retained / held records.
+
+#### Confirmed presentation-only repairs
+
+- **LM-A:F01**: Pending — `LM01-mathematical-foundations.md`:63
+- **LM-A:F02**: Pending — `LM01-mathematical-foundations.md`:478, 1321, 1389, 1453, 1743, 1793
+- **LM-A:F03**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:1282
+- **LM-A:F04**: Pending — `LM02-mathematical-commentary.md`:95, 139, 239, 369, 371, 449
+- **LM-A:F05**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:131, 139, 147, 166
+- **LM-A:F06**: Pending — `LM02-mathematical-commentary.md`:445
+- **LM-A:F07**: Pending — `LM01-mathematical-foundations.md`:703
+- **LM-A:F08**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:88, 92, 458, 898, 940, 1438
+- **LM-A:F09**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:111, 226, 584
+- **LM-A:F10**: Pending — `LM01-mathematical-foundations.md`:200
+- **LM-A:F11**: Pending — `LM01-mathematical-foundations.md`:994, 1032
+- **LM-A:X-LM02-77**: Pending — `LM02-mathematical-commentary.md`:77
+- **LM-A:X-LM02-81**: Pending — `LM02-mathematical-commentary.md`:81
+- **LM-A:X-LM02-87**: Pending — `LM02-mathematical-commentary.md`:87
+- **LM-A:X-LM02-89**: Pending — `LM02-mathematical-commentary.md`:89
+- **LM-A:X-LM02-95**: Pending — `LM02-mathematical-commentary.md`:95
+- **LM-A:X-LM02-97**: Pending — `LM02-mathematical-commentary.md`:97
+- **LM-A:X-LM02-115**: Pending — `LM02-mathematical-commentary.md`:115
+- **LM-A:X-LM02-131**: Pending — `LM02-mathematical-commentary.md`:131
+- **LM-A:X-LM02-139**: Pending — `LM02-mathematical-commentary.md`:139
+- **LM-A:X-LM02-143**: Pending — `LM02-mathematical-commentary.md`:143
+- **LM-A:X-LM02-171**: Pending — `LM02-mathematical-commentary.md`:171
+- **LM-A:X-LM02-181**: Pending — `LM02-mathematical-commentary.md`:181
+- **LM-A:X-LM02-183**: Pending — `LM02-mathematical-commentary.md`:183
+- **LM-A:X-LM02-199**: Pending — `LM02-mathematical-commentary.md`:199
+- **LM-A:X-LM02-205**: Pending — `LM02-mathematical-commentary.md`:205
+- **LM-A:X-LM02-207**: Pending — `LM02-mathematical-commentary.md`:207
+- **LM-A:X-LM02-225**: Pending — `LM02-mathematical-commentary.md`:225
+- **LM-A:X-LM02-233**: Pending — `LM02-mathematical-commentary.md`:233
+- **LM-A:X-LM02-235**: Pending — `LM02-mathematical-commentary.md`:235
+- **LM-A:X-LM02-237**: Pending — `LM02-mathematical-commentary.md`:237
+- **LM-A:X-LM02-239**: Pending — `LM02-mathematical-commentary.md`:239
+- **LM-A:X-LM02-271**: Pending — `LM02-mathematical-commentary.md`:271
+- **LM-A:X-LM02-273**: Pending — `LM02-mathematical-commentary.md`:273
+- **LM-A:X-LM02-275**: Pending — `LM02-mathematical-commentary.md`:275
+- **LM-A:X-LM02-289**: Pending — `LM02-mathematical-commentary.md`:289
+- **LM-A:X-LM02-309**: Pending — `LM02-mathematical-commentary.md`:309
+- **LM-A:X-LM02-371**: Pending — `LM02-mathematical-commentary.md`:371
+- **LM-A:X-LM02-395**: Pending — `LM02-mathematical-commentary.md`:395
+- **LM-A:X-LM02-401**: Pending — `LM02-mathematical-commentary.md`:401
+- **LM-A:X-LM02-413**: Pending — `LM02-mathematical-commentary.md`:413
+- **LM-A:X-LM02-419**: Pending — `LM02-mathematical-commentary.md`:419
+- **LM-A:X-LM02-427**: Pending — `LM02-mathematical-commentary.md`:427
+- **LM-A:X-LM02-449**: Pending — `LM02-mathematical-commentary.md`:449
+- **LM-A:X-LM02-461**: Pending — `LM02-mathematical-commentary.md`:461
+- **LM-A:X-LM03-1003**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:1003
+- **LM-A:X-LM04-158**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:158
+- **LM-A:X-LM04-290**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:290
+- **LM-A:X-LM04-572**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:572
+- **LM-A:X-LM04-800**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:800
+- **LM-A:X-LM04-1007**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:1007
+- **LM-B:F01**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:70, 433, 445, 450, 460, 466, 475, 477, 486, 521, 536, 548, 608, 663, 666, 690, 700, 707, 721, 733, 748, 760, 771, 924, 1034, 1041, 1044, 1311, 1312, 1378, 1381, 1398, 1474, 1475, 1476, 1480, 1525, 1531, 1537, 1543, 1580, 1596, 1602; `LM06-applied-structural-dynamics.md`:101, 107, 256, 262, 282, 308, 318, 328, 338, 631, 664, 707, 912, 1462, 1534, 1573, 1585, 1605; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:195, 290, 525, 726, 751, 972 | Completed [LM-R01] — `README.md`:102
+- **LM-B:F02**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:422, 424, 1398, 1520, 1578; `LM06-applied-structural-dynamics.md`:69, 589, 593, 1216, 1355, 1525; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:788
+- **LM-B:F03**: Pending — `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:402, 574, 929
+- **LM-B:F04**: Pending — `LM06-applied-structural-dynamics.md`:622, 643
+- **LM-B:F05**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:232, 956, 1642
+- **LM-B:F06**: Pending — `LM06-applied-structural-dynamics.md`:199
+
+#### Confirmed contextual terminology repairs
+
+- **LM-A:T01**: Pending — `LM01-mathematical-foundations.md`:363
+- **LM-A:T02**: Pending — `LM01-mathematical-foundations.md`:387, 973
+- **LM-A:T03**: Pending — `LM01-mathematical-foundations.md`:995
+- **LM-A:T04**: Pending — `LM01-mathematical-foundations.md`:2081
+- **LM-A:T05**: Pending — `LM01-mathematical-foundations.md`:266
+- **LM-A:T06**: Pending — `LM02-mathematical-commentary.md`:219
+- **LM-A:T07**: Pending — `LM02-mathematical-commentary.md`:99, 139, 371, 449, 463, 465
+- **LM-A:T08**: Pending — `LM02-mathematical-commentary.md`:61, 105
+- **LM-A:T09**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:118
+- **LM-A:T10**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:261, 269
+- **LM-A:T11**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:448
+- **LM-A:T12**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:522
+- **LM-A:T13**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:619
+- **LM-A:T14**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:1085
+- **LM-A:T15**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:449
+- **LM-A:T16**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:1409
+- **LM-A:T17**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:350
+- **LM-A:T18**: Pending — `LM01-mathematical-foundations.md`:82, 304, 341, 473, 478, 541, 617, 2141, 2220, 2243, 2328
+- **LM-A:T19**: Pending — `LM02-mathematical-commentary.md`:271
+- **LM-A:T20**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:307, 1001, 1013, 1217, 1284
+- **LM-A:T21**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:86, 256, 290, 798, 799, 987, 997, 1264, 1265
+- **LM-A:T22**: Pending — `LM02-mathematical-commentary.md`:69
+- **LM-A:T24**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:342
+- **LM-A:T25**: Pending — `LM02-mathematical-commentary.md`:457
+- **LM-B:T01**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:75, 158, 185, 189, 190, 232, 370, 648, 975, 1327, 1408; `LM06-applied-structural-dynamics.md`:133, 243, 391, 958, 977; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:333, 476, 484, 661, 669 | Completed [LM-R01] — `00-README.md`:69
+- **LM-B:T02**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:63; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:63, 74, 608, 769
+- **LM-B:T05**: Pending — `LM06-applied-structural-dynamics.md`:618
+- **LM-B:T06**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:745
+- **LM-B:T07**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:477, 1428; `LM06-applied-structural-dynamics.md`:497
+- **LM-B:T09**: Pending — `LM06-applied-structural-dynamics.md`:1446
+- **LM-B:T10**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:878; `LM06-applied-structural-dynamics.md`:518
+- **LM-B:T11**: Completed [LM-R01] — `README.md`:18, 232, 240, 234, 242, 251; `00-README.md`:19
+- **LM-B:T12**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:892, 1654; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:59, 73, 576, 582, 750, 804
+- **LM-B:T13**: Pending — `LM06-applied-structural-dynamics.md`:69
+- **LM-B:T14**: Pending — `LM06-applied-structural-dynamics.md`:1095
+
+#### Confirmed substantive residuals requiring bounded review
+
+- **LM-A:C01**: Pending — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:72, 342, 346, 1508
+- **LM-A:C02**: Pending — `LM03-orientation-algebra-and-infinity-formalism.md`:244
+- **LM-B:T04**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:258, 463
+- **LM-B:C01**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:589
+- **LM-B:C02**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:475
+- **LM-B:C03**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:378
+- **LM-B:C04**: Pending — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:728
+- **LM-B:C05**: Pending — `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:576; `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:75, 1406
+- **LM-B:C06**: Completed [LM-R02] — `README.md`:133
+- **LM-B:C07**: Completed [LM-R02] — `README.md`:313, 314
+- **LM-B:C08**: Completed [LM-R02] — `README.md`:191
+- **LM-B:C09**: Completed [LM-R03] — `00-README.md`:37
+
+#### Architect-review and held questions
+
+- **LM-A:T23**: Held — `LM01-mathematical-foundations.md`:1360
+- **LM-A:A01**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:1265
+- **LM-A:A02**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:1254–1260
+- **LM-A:A03**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:561
+- **LM-A:A04**: Held — `LM01-mathematical-foundations.md`:173, 207, 237, 239–250, 2221, 2229
+- **LM-A:A05**: Held — `LM02-mathematical-commentary.md`:191, 193, 197
+- **LM-A:A06**: Held — `LM01-mathematical-foundations.md`:670, 678, 704, 732, 1073, 2279–2287, 2617
+- **LM-A:A07**: Held — `LM02-mathematical-commentary.md`:137, 417, 419
+- **LM-A:A08**: Held — `LM01-mathematical-foundations.md`:186–194
+- **LM-A:A09**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:1067, 1068
+- **LM-A:A10**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:290, 987, 997
+- **LM-A:A11**: Held — `LM01-mathematical-foundations.md`:393–441
+- **LM-A:A12**: Held — `LM01-mathematical-foundations.md`:554, 556, 581, 590, 592, 1214, 1240
+- **LM-A:A13**: Held — `LM01-mathematical-foundations.md`:608, 615, 616
+- **LM-A:A14**: Held — `LM01-mathematical-foundations.md`:1406, 1414
+- **LM-A:A15**: Held — `LM01-mathematical-foundations.md`:2026, 2141, 2248, 2551, 2609, 2610, 2611, 2612
+- **LM-A:A16**: Held — `LM02-mathematical-commentary.md`:61, 65, 83, 89, 95, 97, 107, 183, 285, 427, 435, 492, 493
+- **LM-A:A17**: Held — `LM02-mathematical-commentary.md`:61, 105
+- **LM-A:A18**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:60, 77, 82, 1305, 1307
+- **LM-A:A19**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:65, 81, 87, 1379
+- **LM-A:A20**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:233, 237, 424, 888, 914, 975, 1501, 1513
+- **LM-A:A21**: Held — `LM03-orientation-algebra-and-infinity-formalism.md`:688, 690
+- **LM-A:A22**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:773, 789, 792, 805, 814, 866, 869, 1182, 1346, 1364, 1366, 1566
+- **LM-A:A23**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:1081, 1082, 1084, 1249
+- **LM-A:A24**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:1388
+- **LM-A:A25**: Held — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:1508, 1510
+- **LM-B:T03**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:63, 81, 88, 1419, 1421; `LM06-applied-structural-dynamics.md`:78, 86; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:63, 79, 88 | Retained — `README.md`:107, 123, 139, 219–221; `00-README.md`:17, 55
+- **LM-B:H01**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:68, 238, 258, 261, 266, 296, 302, 304, 457, 463, 650, 683, 765, 875, 910, 915, 939, 1394, 1444, 1584, 1610, 1655, 1687; `LM06-applied-structural-dynamics.md`:448; `README.md`:100; `00-README.md`:31
+- **LM-B:H02**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:893, 1492; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:73, 572, 574, 582, 768, 931, 977, 978
+- **LM-B:H03**: Held — `LM06-applied-structural-dynamics.md`:290
+- **LM-B:H04**: Held — `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:576
+- **LM-B:H05**: Held — `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:653–661
+- **LM-B:H06**: Held — `LM06-applied-structural-dynamics.md`:645–649
+- **LM-B:H07**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:266, 330–350
+- **LM-B:H08**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:815–838
+- **LM-B:H09**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:1313
+- **LM-B:H10**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:1274, 1324
+- **LM-B:H11**: Completed [LM-R02] — `README.md`:48, 71, 181, 362
+- **LM-B:H12**: Rejected — `00-README.md`:19
+- **LM-B:H13**: Held — `00-README.md`:65, 69
+- **LM-B:H14**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:61; `LM06-applied-structural-dynamics.md`:56; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:59 | Completed [LM-R02] — `README.md`:48
+- **LM-B:H15**: Held — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:1483; `LM06-applied-structural-dynamics.md`:378, 1115
+
+#### Selected lawful and historical retentions
+
+- **LM-A:R01**: Retained — `LM01-mathematical-foundations.md`:633–659
+- **LM-A:R02**: Retained — `LM01-mathematical-foundations.md`:711–713, 751–761, 1073–1095, 1910–1915
+- **LM-A:R03**: Retained — `LM03-orientation-algebra-and-infinity-formalism.md`:646–682, 830–862, 1517–1543
+- **LM-A:R04**: Retained — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:224–254, 383–386, 453–512, 599–641, 645–744, 875–943, 1126–1240, 1267–1332, 1586–1622
+- **LM-A:R05**: Retained — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:673, 750, 763, 967, 1406
+- **LM-A:R06**: Retained — `LM02-mathematical-commentary.md`:237
+- **LM-A:R07**: Retained — `LM03-orientation-algebra-and-infinity-formalism.md`:199, 445, 446, 505, 603, 604, 1047, 1268, 1314
+- **LM-A:R08**: Retained — `LM01-mathematical-foundations.md`:1122, 1139, 1213, 1716, 1717, 1719
+- **LM-A:R09**: Retained — `LM02-mathematical-commentary.md`:213, 255
+- **LM-A:R10**: Retained — `LM03-orientation-algebra-and-infinity-formalism.md`:882, 884, 1290, 1511
+- **LM-A:R11**: Retained — `LM04-temporal-algebra-structural-space-and-phase-resolution.md`:326–348
+- **LM-A:R12**: Retained — `LM01-mathematical-foundations.md`:17, 34
+- **LM-B:E01**: Retained — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:207, 240, 248, 491, 1044; `LM06-applied-structural-dynamics.md`:277, 816, 832, 1001; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:419, 433 | Rejected — `00-README.md`:56
+- **LM-B:E02**: Retained — `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:61, 842, 966
+- **LM-B:E03**: Retained — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:406–418, 613–620, 624–631, 904, 983–989, 1009–1025, 1564–1572; `LM06-applied-structural-dynamics.md`:437–446, 565–571, 762–768, 1019–1025, 1264–1319, 1549–1558; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:355–359, 401–410, 422–429, 595–602, 707–717
+- **LM-B:E04**: Retained — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:400; `LM06-applied-structural-dynamics.md`:842, 933, 1443, 1613; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:584, 593; `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:389, 469, 765, 837, 948, 1086
+- **LM-B:E05**: Retained — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:799, 838, 1311; `LM06-applied-structural-dynamics.md`:353, 975, 979, 1649; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:106, 473, 482, 671, 1009; `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:878
+- **LM-B:E06**: Retained — `LM06-applied-structural-dynamics.md`:524, 533, 715, 1060, 1062; `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:117, 133, 1188
+- **LM-B:E07**: Retained — `README.md`:246, 247, 253; `LM06-applied-structural-dynamics.md`:1110, 1248; `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:269, 1267, 1269, 1271; `00-README.md`:47
+- **LM-B:E08**: Retained — `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:1438–1459; `LM06-applied-structural-dynamics.md`:1387–1409; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`:797–820; `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:17–18
+- **LM-B:E09**: Retained — `LM08-cross-disciplinary-dynamics-and-domain-realization.md`:90–101, 185–239, 346–348, 663–693, 765–793, 1018–1041, 1119–1131
+- **LM-B:E10**: Retained — `00-README.md`:67
+
+### Additional bounded edits outside the original occurrence count
+
+- **README-15 / LM-NEW:readme-chi-register** — `lattice-mathematics/README.md`:178; completed; independent remote verification. [`c5da6dc65fcf0dce8e5509b25cc680cfc258a982`](https://github.com/KannonZenetism/zenetism-field-physics/commit/c5da6dc65fcf0dce8e5509b25cc680cfc258a982) Clarify the adjacent summary consistently with D05 without changing formulas
+- **README-20 / LM-NEW:readme-seal-relation** — `lattice-mathematics/README.md`:346; completed; independent remote verification. [`b9de9e723de9799fbc921e2658c6670e6ccbb3a9`](https://github.com/KannonZenetism/zenetism-field-physics/commit/b9de9e723de9799fbc921e2658c6670e6ccbb3a9) Remove under-principle construction while retaining authorial seal
+
+The additional-edit count is separate from the 601 original occurrence records. One exact edit may address two separately indexed original diagnoses, so edit counts and occurrence counts are distinct.
+
+### Bounded decisions, rejections, and protected standing
+
+- **LM-B:F01** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:T01** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:T11** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:C06** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:C07** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:C08** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:C09** (completed): Narrowed original diagnosis: LM08 and LM01 lack the alleged Canonical Placement ending. README-14 now gives the verified full-volume structure; the original narrower diagnosis remains recorded.
+- **LM-B:T03** (retained): Re-read as functional / disciplinary dependency, not a new historical priority claim. Current explicit register architecture remains intact; no chronology is manufactured.
+- **LM-B:H01** (held): Coherence-source is currently defined as a technical compound in analytic framework §6.6.4. Its coordinated successor naming remains held; no bare Source equivalence is introduced.
+- **LM-B:H11** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:H12** (rejected): The original question is conditional. The blanket empirical-exclusion interpretation is rejected on reread: this sentence scopes its account to the native formalism and present-instrument measurement, not every realization or all Zenetism. D12 empirical possibility and LM08 domain realization remain intact. Text is retained except the separately tracked rule-noun correction; no broader empirical standing is determined.
+- **LM-B:H13** (held): External anchor for deliberate 2025 developmental chronology has not been established in this pass; retain pending evidence verification, no inferred replacement date.
+- **LM-B:H13** (held): Legal / attribution condition remains unchanged. The bounded navigation replacement per the stated license is tracked separately under LM-B:T01 and does not decide the permission-language condition.
+- **LM-B:H14** (completed): Exact independently reviewed and remotely verified bounded wording / presentation correction. Underlying mathematical holds remain separate.
+- **LM-B:E01** (rejected): Original evidence misclassification: the cited Structural Neuroscience dependency sentence contains no source / source-target term. The sentence remains intact; no technical-source exemption is asserted for it.
+
+**Protected throughout:** D18 Echonic Function, Proleptic Echo, Mirrorform, Mirror Architecture, MP's distinct Mirror and Aetherion's seal; all 15 primary-dimensional-locus holds; historical mathematical strings; essential orientation; Aion as Origin and intact Origin with fracture away; D14 historical Pattern Intelligence acknowledgments. Unresolved mathematical constructions remain explicit.
+
+### Verification and remaining scope
+
+The three README source commits are independently verified at `e8af960b30e0a7997d6aa35cc3b8d0e4d73eed15`: exact parent chain, full trees, changed-blob bytes / hashes / 100644 modes, established Aelion Kannon commit identity, and unrelated-path preservation all passed. Only the two LM README paths changed in this source set. All original display equations, historical counterexamples, PI acknowledgment, dividers, and standard closing seals remain intact.
+Twenty independently reviewed exact edits address 19 original occurrence diagnoses and two additional bounded sites; one edit addresses two original diagnoses. Six exact-after mathematical spans passed Pandoc MathML conversion and XML parsing without diagnostics. A separate representative mathtext image was visually inspected with Noto Sans Math glyphs. Full GitHub-rendered visual certification is not claimed. No workflow files, commit-status entries or Actions runs were attached at this source head.
+LM01–LM08 remain in progress. Their unpublished proposals, every pending original finding, all unresolved mathematical constructions and primary-dimensional-locus questions retain their own standing. Source completion is not full mathematical resolution.
+
+### SN dependency handoff
+
+Pending the completed LM cross-check. SN files remain unchanged during this pass; their separate implementation must preserve the same D01–D22 boundaries and propagate actual technical changes where applicable.
+
+---
+
+
 ## Completion index — SP bounded repair pass
 
 **Implementation baseline:** [`b76fe3fd9fd27b2672f270e30085a76c6f0f20e8`](https://github.com/KannonZenetism/zenetism-field-physics/tree/b76fe3fd9fd27b2672f270e30085a76c6f0f20e8). The original audit following this additive index is preserved byte-for-byte. Every locator below refers to that audit / implementation baseline, not shifted current line numbers.
