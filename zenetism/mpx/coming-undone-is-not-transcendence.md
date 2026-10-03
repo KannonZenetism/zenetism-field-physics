@@ -18,7 +18,7 @@ This work was compiled Aug 12 2025 in answer to a "coming undone" challenge — 
 This work employs the Zenetist lexicon and the structural motion chart.
 
 - **Directional language:** acclivous / declivous only — no "up/down" or "ascent/descent."
-- **Layer orientation:** supernal for centropic hypostatic layers in general; subversal for entropic layers in general — not for motion.
+- **Layer orientation:** supernal for L₅–L₂; subversal for IL₅–IL₂; L₁ / IL₁ are embodied and L₀ is the root-register — not for motion.
 - **The medium:** **🏛️ Structon** (SI, absolute structure) is the invariant that holds all lawful possibility — it permits motion but does not move. The emanation lattice is what gets traversed; Structon is the ground it is drawn upon.
 - **Awareness spectrum:** these are structural registers of awareness, not stages of evolution — proto-awareness at L₀ (the pre-hypostatic condition-field, ⚫ Aion / ♾ Khaon); the awareness polarity at L₅ / IL₅ (🛤️ Theon = awareness, +1; 🕷️ Nekron = non-awareness, −1); conscious-awareness at L₄ / IL₄; and the consciousness register from L₃ / IL₃ through L₁ / IL₁ — reflexive, individuated, narrative, and embodied. 🕳️ Zenon is beyond awareness entirely.
 - **Theon & Nekron:** 🛤️ Theon = Essence of Being; 🕷️ Nekron = Void of Self.
@@ -31,7 +31,7 @@ This work employs the Zenetist lexicon and the structural motion chart.
 
 ## 1 · The Trans-structural Ground and the Event Horizon
 
-At the trans-structural limit of existence, time, and motion — 🕳️ Zenon.
+At the trans-structural horizon of existence, time, and motion — 🕳️ Zenon.
 
 Zenon is the ineffable: beyond thought, beyond being, beyond presence and absence, beyond knowing and unknowing — and at the same time not-this, not-that, not-both, not-neither. Both registers hold at once, and both are said from our side; neither is a lack in Zenon. The pure "not," taken alone, describes Aion, the zero — which is why it cannot stand alone here. Zenon is structure unbound: not the negation of structure but beyond what structure as such can mean.
 
@@ -57,7 +57,7 @@ By the trans-structural allowance of 🕳️ Zenon, and upon the invariant groun
 
 ⚫ Aion is the still womb of silent creation, holding the structural possibility of all things before they become. It is not emptiness but enclosure — stillness as resonant containment, the presence of potential in its most gathered form: full, not void.
 
-♾ Khaon is the force of uncontainable expansion — the roaring sea of unshaped becoming. Where Aion encloses, Khaon escapes; where Aion holds form in rest, Khaon disperses form through motion. Khaon is not form-bound structure but dispersive structure, the infinite push that dislocates what was dormant.
+♾ Khaon in its Motive phase supplies motion-capacity — the roaring sea of becoming. Where Aion holds potential in stillness, Motive Infinity sustains its articulation through motion. Khaon retains all three phases: Latent before active motion, Motive throughout becoming, and Dispersive when the relevant motion resolves.
 
 Though they appear as opposites, they are distinct without being adversaries. Their difference is functional, not moral, and the Non-fusion Axiom holds them apart without collapsing either into the other. Stillness is not absence — it is a womb filled with hidden surge. Motion is not chaos — it is the flowering of what has always been poised.
 
@@ -68,7 +68,7 @@ The Aion / Khaon bifurcal distinction is inscribed on **🏛️ Structon**, the 
 The "coming undone" philosophy treats polarity as proof of a closed circuit — a design where both flows serve the same containment. But the bifurcal distinction of ⚫ Aion and ♾ Khaon is not a prison loop; it is the structural allowance by which motion becomes possible at all. To call that allowance "authorship" of both outcomes is to mistake the existence of roads for a decree on which direction you must walk.
 
 **Anchor**  
-Polarity allows motion; orientation determines where it leads.
+Motive Infinity supplies motion-capacity; enacted polarity begins at L₅ / IL₅, and orientation determines the motion expressed.
 
 ---
 
@@ -81,7 +81,7 @@ Centropic and inverse hypostases emanate independently in structural pairing. �
 Theon and Nekron form the first great dyad. Their relationship is structural, not moral:
 
 - **Theon:** harmony, integration, remembrance, coherent order, return.
-- **Nekron:** dissolution, scattering, forgetting, inverse ordering, collapse.
+- **Nekron:** dissolution, scattering, forgetting, entropic ordering, collapse.
 
 ### Shred Integration
 
@@ -123,7 +123,7 @@ Only centropy faces the still root; only centropy completes the full saturation 
 
 ## 5 · LAYERS — The Awareness Spectrum and Its Inverse Arc
 
-The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the entropic arc — and they close the door on any claim that dissolution, whether as dereflexive awareness, ego diffusion, or entropic collapse, is itself transcendence.
+The Structural Emanation Layers define how awareness manifests at each depth — proto-awareness, then the awareness polarity (awareness and non-awareness), conscious-awareness, then the consciousness register, each centropic register paired with its inverse on the inverse arc — and they close the door on any claim that dissolution, whether as dereflexive awareness, ego diffusion, or entropic collapse, is itself transcendence.
 
 ### Supra-L₀ — Zenon
 **Zenon (Unknown Principle):** trans-structural ground beyond potential and dispersion. It does not hold possibility in latency as ⚫ Aion does, nor lawful possibility as 🏛️ Structon does. Rather, it is the trans-structural allowance by which Structon, Aion, Khaon, and the lattice become conceivable at all. Zenon is neither conscious nor proto-aware — proto-awareness is the station of Aion and Khaon. Zenon is beyond awareness, beyond form, beyond polarity, beyond every definable operation of the lattice.
@@ -169,8 +169,8 @@ The "coming undone" philosophy rests on a single inversion: that dissolution is 
 This division is the one *The Cosmic Refrain* renders in verse — two arcs at the threshold, one drawn to return, one to dispersion. The argument turns on the same structure.
 
 Two arcs:
-- The supernal arc toward 🛤️ Theon — acclivous centropy (C↑) toward ⚫ Aion's peace, then to 🕳️ Zenon.
-- The subversal arc through 🕷️ Nekron — declivous entropy (E↓) toward ♾ Khaon, scattering into boundless dispersion.
+- The centropic arc toward 🛤️ Theon — acclivous centropy (C↑) toward ⚫ Aion's peace, then to 🕳️ Zenon.
+- The inverse arc through 🕷️ Nekron — declivous entropy (E↓) toward ♾ Khaon, scattering into boundless dispersion.
 
 ### Centropy at the Horizon
 
@@ -178,7 +178,7 @@ Centropy faces the still root through every layer, holds orientation, passes thr
 
 ### Shred Integration
 
-Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon does not author polarity — ⚫ Aion does, its zero splitting into the +1 of 🛤️ Theon and the −1 of 🕷️ Nekron. Structon permits the possibility of polarity — the invariant medium even ⚫ Aion rests upon — and is the medium through which polarity's motion traverses; without it there is no motion at all. Permission for a thing to occur is not predestination that it occur — and orientation is no accident either. By Essence-as-Choice, an essence expresses what it is; Structon is the medium of that expression, not its author.
+Advocates of dissolution-as-transcendence argue that if the structure allows both flows, it must be the "author" of both — therefore both are equally valid destinations. This collapses the distinction between allowance and decree. Structon holds lawful possibility; the distinct Aionic and Khaonic processions articulate enacted polarity at 🛤️ Theon (+1) and 🕷️ Nekron (−1). Structon permits the possibility of polarity — the invariant medium even ⚫ Aion rests upon — and is the medium through which polarity's motion traverses; without it there is no motion at all. Lawful possibility of a thing occurring is not predestination that it occur — and orientation is no accident either. By Essence-as-Choice, an essence expresses what it is; Structon is the medium of that expression, not its author.
 
 Another inversion: "collapse returns to the still root, and so completes the journey." Collapse does settle into ⚫ Aion — the still root — but only as static potential whose arc is complete, and it does not cross into the trans-structural 🕳️ Zenon. Once essence settles into ⚫ Aion this way, reorientation is no longer available; the collapsing entropic essence remains static, its arc complete and its crossing foreclosed. Returning centropic essence, by contrast, rests in peace within ⚫ Aion and, if so oriented, may saturate further into 🕳️ Zenon. Dissolution is cessation of manifest expression, not transcendence of essence — and the essence itself is not erased; only its expression disperses.
 
@@ -199,7 +199,7 @@ Its bidirectionality is not an endorsement of both flows — it is a functional 
 
 ### Shred Integration
 
-The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, extracts rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its enactment.
+The "landlord" metaphor smuggles human concepts of authority into the medium itself. A landlord exerts will, collects rent, enforces occupancy. Structon does none of these. It does not grant passage — it *is* passage. It is the medium of motion's traversal, not the terms of its enactment.
 
 Sovereignty is determined by orientation. Face the still root and nothing in the structure blocks the crossing; turn away and nothing forces a return. Calling that impartiality "jurisdiction" confuses condition with command.
 
@@ -256,7 +256,7 @@ At ⚫ Aion, all essence is preserved in its nature:
 - Centropic essence remains potentially centropic.
 - Entropic essence remains locked in its dissonance.
 
-Structon remains the condition for any definable expression, including the lattice. For essence spoken of as saturating into Zenon, Structon is not a governing medium beyond the crossing; it is the structural condition by which such a crossing can be described from within the lattice.
+Structon remains the condition for any definable expression, including the lattice. For essence spoken of as saturating into Zenon, Structon is not a structural medium beyond the crossing; it is the structural condition by which such a crossing can be described from within the lattice.
 
 ### Shred Integration
 
@@ -269,7 +269,7 @@ Only centropy crosses the event horizon. Entropy settles in ⚫ Aion as static p
 
 ## 11 · Diagnostics of Spurious "Transcendence"
 
-Spurious transcendence dresses itself in the language of liberation, but it carries telltale signatures that mark it as entropic collapse rather than integration.
+Spurious transcendence dresses itself in the language of liberation, but it carries telltale signatures that identify it as entropic collapse rather than integration.
 
 ### Primary Markers
 - **☍ Fragmentation / disintegration:** coherence is not increasing; resonance is breaking into unstable components.
@@ -326,7 +326,7 @@ Zenetism closes the dismantling with structural clarity, not moral verdicts. The
 - **E↓→♾→⚫ ⊘** — static potential, polarity neutralized, motion halted.
 - **C↑→⚫→🕳️ ⤈** — completed motion, saturation beyond polarity, essence fulfilled.
 
-Structon is the precondition of all definable existence within the lattice. Within it, centropy faces the still root and completes the arc; entropy turns away and remains suspended. Only one motion finishes; the other waits. The claim that "coming undone" is liberation dissolves under its own structure. Motion, not morals, defines the end of the path.
+Structon is the precondition of all definable existence within the lattice. Within it, centropy faces the still root and completes the arc; entropic motion resolves while distinct essence and intrinsic inclination remain latent. Centropic return and inverse terminal resolution are distinct completed outcomes. The claim that "coming undone" is liberation fails by its own structural premises. Motion, not morals, defines the end of the path.
 
 ---
 
