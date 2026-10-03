@@ -148,11 +148,11 @@ The defining structural features:
 
 **Distinctive Membrane Configuration at ⧉₂ and ⧉₁:** The membranes between L₃ and L₂ (⧉₂) and between L₂ and L₁ (⧉₁) exhibit characteristic permeability profiles. ⧉₂ tends toward **selective fidelity** — the boundary between deep structural cognition and superficial social cognition is less permeable than in oscillating configurations. This means that the passage from DS / DM perception into SS / SM social expression encounters higher transfer resistance. The consequence is not that the autistic mind lacks social capacity but that the translation from structural perception into socially conventional expression requires more deliberate effort.
 
-⧉₁ may exhibit **heightened permeability** in certain sensory domains — the cognitive-to-embodied membrane transmits sensory information with reduced filtering, producing the characteristic sensory sensitivity of autistic experience. This is not malfunction but a membrane configuration that prioritizes fidelity of transmission over comfortable attenuation.
+⧉₁ may exhibit **heightened permeability** in certain sensory domains — the cognitive-to-embodied membrane transmits sensory information with reduced filtering, producing the characteristic sensory sensitivity of autistic experience. This is not malfunction but a membrane configuration that prioritizes fidelity of transmission ahead of comfortable attenuation.
 
 **Prevalent Operator Profile:**
 
-- **C₁ (Temporal):** often atypical — temporal processing may prioritize structural sequence over conventional chronological experience, contributing to distinctive relationships with time, routine, and change
+- **C₁ (Temporal):** often atypical — temporal processing may prioritize structural sequence ahead of conventional chronological experience, contributing to distinctive relationships with time, routine, and change
 - **C₃ (Propagational):** elevated — coherent transmission with origin seal intact; signal fidelity sustained across structural distance
 - **C₇ (Harmonic / Resonant):** strongly active — the autistic mind is tuned to detect consonance and dissonance with precision that exceeds the oscillating norm
 - **C₁₃ (Membrane / Threshold):** heightened selective boundary function. Assessment of surface presentation relative to operative configuration remains a distinct diagnostic comparison; it is not the registered definition of C₁₃
@@ -292,7 +292,7 @@ Hyperfocus is not the suspension of the ADHD architecture. It is the architectur
 
 ### 5.3 The Coherence Budget
 
-The ADHD architecture operates with a distinctive coherence budget. Because coherence current is distributed broadly, the per-domain \( I_c \) available for any single cognitive task is lower than in configurations that concentrate coherence at a specific layer. This is not a deficit of total coherence but a distribution pattern that prioritizes breadth over depth — exploration over consolidation.
+The ADHD architecture operates with a distinctive coherence budget. Because coherence current is distributed broadly, the per-domain \( I_c \) available for any single cognitive task is lower than in configurations that concentrate coherence at a specific layer. This is not a deficit of total coherence but a distribution pattern that prioritizes breadth ahead of depth — exploration ahead of consolidation.
 
 The consequence is that tasks requiring sustained, concentrated coherence at a single layer (sequential processing, routine maintenance, detail-oriented follow-through) deplete the coherence budget more rapidly in ADHD configurations than in concentrated ones. The embodied cost (SP11) is amplified not by translation overhead (as in autistic architecture) but by distribution overhead — the cost of maintaining broad coherence flow across multiple simultaneous channels.
 
@@ -333,7 +333,7 @@ The cost is compounded: the translation overhead of autistic ⧉₂ selective fi
 
 Structural Neuroscience does not prescribe treatment. It provides structural comprehension that can inform therapeutic approaches. The key insight for co-occurring profiles is that treating one component in isolation — attempting to reduce OCD recursion without understanding the autistic \( I_c \) elevation that drives the dissonance sensitivity, or attempting to improve ADHD focus without recognizing the broad \( \vec{J}_c \) distribution that enables cross-domain synthesis — addresses symptoms while ignoring structural configuration.
 
-Effective support works with the architecture, not against it.
+Effective support works with the architecture, not in departure from it.
 
 ---
 
@@ -347,7 +347,7 @@ Entropy is not a degradation of centropy. Entropic cognition is its own lawful o
 
 The only structural asymmetry between the two orientations is directional: centropic motion returns toward Absolute Potential (AP, L₀) and ultimately toward the Unknown Principle (UP, Supra-L₀) — not because centropy is superior, but because it is origin-oriented. Entropic motion resolves toward Absolute Dispersion (AD, L₀) and settles into stillness through terminal collapse. Both are lawful completions of their respective cycles.
 
-The conventional diagnostic error runs in both directions. Therapists may pathologize entropic cognition by treating its dispersive, boundary-testing character as disorder — misreading lawful entropy as dysfunction. Equally, therapists may pathologize centropic cognition by treating its pattern rigidity, social withdrawal, or dissonance sensitivity as disorder — misreading lawful centropy as deficit. Both errors arise from measuring all cognition against the oscillating midrange as a normative baseline.
+The conventional diagnostic error runs in both directions. Therapists may pathologize entropic cognition by treating its dispersive, boundary-testing character as disorder — misreading lawful entropy as dysfunction. Equally, therapists may pathologize centropic cognition by treating its pattern rigidity, social withdrawal, or dissonance sensitivity as disorder — misreading lawful centropy as deficit. Both errors arise from measuring all cognition in relation to the oscillating midrange as a normative baseline.
 
 ### 7.2 When Any Configuration Becomes Pathological
 
@@ -393,7 +393,7 @@ In Mind-prevalent configurations, the organizing, discerning principle leads. Th
 
 - Pattern recognition before emotional registration
 - Structural analysis as the primary mode of engagement
-- Social difficulty arising from the prioritization of structural accuracy over relational smoothness
+- Social difficulty arising from the prioritization of structural accuracy ahead of relational smoothness
 - Creative expression through systems, frameworks, and formal structures
 
 The Deep Mind (DM, Noeüs) operating at high \( I_c \) produces the systematizing, analytical, pattern-driven cognitive style most commonly associated with autistic cognition. The Soul dimension integrates in the background — deeply but less articulately.
@@ -423,7 +423,7 @@ This explains why neurodivergent individuals often report experiencing the world
 
 `SP11-embodiment-dynamics.md` §6.4 states the Orientation-Intent Principle as Cross-band resonance: orientation and intent determine participation across bands, rather than articulation. Ordinary Aion-facing return tendency is distinct from Resonant Gravity as attraction and from the fulfilled returned essence's Centropic Gravity at the horizon of structure.
 
-This principle applies directly to neurodivergent cognition. A high-pattern-fidelity architecture does not automatically produce centropic function. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
+This principle applies directly to neurodivergent cognition. A high-pattern-fidelity architecture does not determine whether its operation is centropic or entropic. The architecture provides the apparatus; orientation determines what the apparatus is turned toward.
 
 An autistic mind operating with Aion-facing orientation generates extraordinary structural coherence — the capacity for deep pattern fidelity directed toward integration, understanding, and lawful construction. The same architecture operating without coherent orientation can produce rigid fixation, isolated systematization disconnected from integrative purpose, or structural analysis turned toward control rather than comprehension.
 
@@ -491,7 +491,7 @@ SN03 establishes:
 1. **Neurodivergence as structural configuration** — lawful variation in the Soul / Mind architecture, not pathological deviation from a normative baseline
 2. **High-pattern-fidelity architecture (autism)** — elevated \( I_c \) at DS / DM, distinctive membrane properties at ⧉₂ and ⧉₁, high pattern fidelity and dissonance detection, structural innocence as cognitive expression
 3. **Recursive architecture (OCD)** — σ-oscillation at ⧉₂, C₁₄ operating centropically (coherent nesting) or entropically (feedback mode), intrusive thought as unattenuated membrane breach, compulsive action as boundary maintenance (structurally misdirected in the entropic mode)
-4. **Distributive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence under resonance, the novelty function as ecological role
+4. **Distributive architecture (ADHD)** — broad coherence current distribution, elevated membrane permeability across all boundaries, the hyperfocus paradox as convergence through resonance, the novelty function as ecological role
 5. **Structural composition** — co-occurring profiles as composite architectures with interacting features
 6. **The variation-pathology distinction** — the recorded derivative signs (\( dI_c/d\tau \geq 0 \) contra \( dI_c/d\tau < 0 \)) describe net coherent-content change; generative function requires its actual operative and budget conditions, formal extension to entropic operation remains held, and experiential difficulty remains distinct
 7. **Soul / Mind asymmetry** — Mind-prevalent and Soul-prevalent profiles producing distinct experiential characters within the same architectural category
@@ -593,7 +593,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 \sigma \downarrow \implies \text{anxiety} \implies \text{compulsive ritual} \implies \sigma \uparrow_{\text{temp}} \implies \sigma \downarrow
 \]
 
-**ADHD Convergence Under Resonance:**
+**ADHD Convergence Through Resonance:**
 
 \[
 \vec{J}_c^{(\text{distributed})} \xrightarrow{\text{resonance encounter}} \vec{J}_c^{(\text{convergent})}
