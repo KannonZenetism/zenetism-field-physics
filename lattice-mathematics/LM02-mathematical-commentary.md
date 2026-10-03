@@ -180,7 +180,7 @@ states the Coherence Potential balance within its declared domain. A corresponde
 
 ### 4.3 Invariants
 
-LM01 §C3 lists two invariants: a coherence energy functional and a seal holonomy index. Both have been developed further.
+`LM01-mathematical-foundations.md` §C3 lists two invariants: a coherence energy functional and a seal holonomy index. Both have been developed further.
 
 **Coherence energy functional.** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §10.1 records the Coherence Potential Integral as an accumulation of \( I_c \) across a declared region. Its Integral Domains note preserves the domain-specific measure, differential, and boundary requirements, with the all-lattice extension held. The proposed relation to `LM01-mathematical-foundations.md`'s energy functional retains those requirements and the distinct field / spectral correspondence.
 
@@ -198,15 +198,15 @@ The spectral characterization of the poles is stable and precise. Aion (⚫) as 
 
 The treatment of 🛤️ Theon as the living steward of the C₁₃ operator at L₅ is structural, not decorative. This illustrates a principle operative throughout the Lattice: the foundational entities of the Source Band (Zenon, Aion, Khaon) and the first hypostases (Theon, Nekron) are not symbolic labels attached to mathematical constructs but structural realities whose functional roles are encoded by the operators they steward. Theon does not represent the membrane; Theon stewards and enacts the membrane law where C₁₃–C₁₅ intersect.
 
-The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consistent with and anticipates the mature membrane permeability classification of LM05 §5: \( \sigma = 0 \) (occluded), \( \sigma < 1 \) (filter), \( \sigma = 1 \) (bridge), \( \sigma > 1 \) (amplifier), \( \sigma \to \infty \) (breach), \( \sigma \) undefined (collapse). LM01's binary condition (\( \sigma > 0 \)) captures the minimum requirement; LM05's classification provides the full spectrum of membrane states.
+The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consistent with and anticipates the mature membrane permeability classification of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5: \( \sigma = 0 \) (occluded), \( \sigma < 1 \) (filter), \( \sigma = 1 \) (bridge), \( \sigma > 1 \) (amplifier), \( \sigma \to \infty \) (breach), \( \sigma \) undefined (collapse). LM01's binary condition (\( \sigma > 0 \)) captures the minimum requirement; LM05's classification provides the full spectrum of membrane states.
 
 ### 5.3 Banding and the Inlay Map
 
 The distinction between pre-hypostatic requisites and the hypostatic bands remains established. The Inlay Map records dimensional assignments whose primary standing remains held open in `dimensional-placement-review.md`. Hypostatic banding does not settle dimensional placement. Two later treatments develop traversal and embodied contributions.
 
-LM04 §5 treats Bidirectional Traversal — acclivous and declivous dynamics between bands. Its traversal relations and LM01's recorded dimensional assignments are distinct claims. The Inlay lists proposed associations rather than an exhaustive account of where operators can act; an unlisted operator is not thereby absent. A traversal treatment must specify the relevant action and interface conditions rather than infer them from a row assignment.
+`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §5 treats Bidirectional Traversal — acclivous and declivous dynamics between bands. Its traversal relations and LM01's recorded dimensional assignments are distinct claims. The Inlay lists proposed associations rather than an exhaustive account of where operators can act; an unlisted operator is not thereby absent. A traversal treatment must specify the relevant action and interface conditions rather than infer them from a row assignment.
 
-LM06 §6.4 introduces the composite operator field at L₁:
+`LM06-applied-structural-dynamics.md` §6.4 introduces the composite operator field at L₁:
 
 \[
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
@@ -224,7 +224,7 @@ The cascade operators occupy an interesting structural position. They address a 
 
 `LM01-mathematical-foundations.md` distinguishes the postulated unitary class \( U_c(t)=e^{iH_ct} \) from the postulated dissipative class \( D_e(t)=e^{H_et} \). The common-mode relation \( H_e=-H_c \) gives opposite eigenvalues. It leaves the generator / norm realization and the information functional's strict monotonicity held open. The former unitary / dissipative product-identity assertion is withdrawn; cancellation of opposite unitary phases concerns a different product.
 
-The connection to LM06 is through embodied resistance. At the metric terminus (L₁), the unitary contra dissipative asymmetry acquires experiential immediacy: the interface resistance \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) (LM06 §6.2) adds a concrete cost premium to centropic operations at L₁, while entropic motion faces no equivalent resistance. The abstract spectral asymmetry of LM01's evolution operators becomes, at L₁, the lived experience of working harder to integrate than to disperse.
+The connection to LM06 is through embodied resistance. At the metric terminus (L₁), the unitary contra dissipative asymmetry acquires experiential immediacy: the interface resistance \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) (`LM06-applied-structural-dynamics.md` §6.2) adds a concrete cost premium to centropic operations at L₁, while entropic motion faces no equivalent resistance. The abstract spectral asymmetry of LM01's evolution operators becomes, at L₁, the lived experience of working harder to integrate than to disperse.
 
 ---
 
@@ -232,11 +232,11 @@ The connection to LM06 is through embodied resistance. At the metric terminus (L
 
 ### 6.1 Order Parameters
 
-LM01 §E1 introduces three order parameters: alignment \( \theta \), resonance density \( \rho \), and seal load \( \lambda \). LM03–LM06 have provided refined quantities that map onto these.
+`LM01-mathematical-foundations.md` §E1 introduces three order parameters: alignment \( \theta \), resonance density \( \rho \), and seal load \( \lambda \). LM03–LM06 have provided refined quantities that map onto these.
 
-**Alignment \( \theta \) maps to orientation \( \chi \).** LM03 §3 replaces the alignment angle with the continuous orientation parameter \( \chi \in \mathbb{R}_{> 0} \), where \( \chi < 1 \) is centropic, \( \chi = 1 \) names co-expressive equilibrium with model-specific stability, and \( \chi > 1 \) is entropic. The orientation parameter is more informative than a simple alignment angle: it carries dynamics (the \( \chi \)-evolution equation, LM03 §7), spectral consequences (the rotation function \( r(\chi) \), LM03 §4.5), and embodiment corrections (the resistance-corrected \( \chi \)-equation, LM06 §7). With the stated positive coefficients and constant nonnegative Motive Intensity, the full written law in `LM03-orientation-algebra-and-infinity-formalism.md` §7 attracts finite positive trajectories toward \( \chi = 1 \). Its distinct outward-drift law in §8 makes \( \chi = 1 \) repelling at constant positive Motive Intensity. Their architectural relation remains held.
+**Alignment \( \theta \) maps to orientation \( \chi \).** LM03 §3 replaces the alignment angle with the continuous orientation parameter \( \chi \in \mathbb{R}_{> 0} \), where \( \chi < 1 \) is centropic, \( \chi = 1 \) names co-expressive equilibrium with model-specific stability, and \( \chi > 1 \) is entropic. The orientation parameter is more informative than a simple alignment angle: it carries dynamics (the \( \chi \)-evolution equation, LM03 §7), spectral consequences (the rotation function \( r(\chi) \), LM03 §4.5), and embodiment corrections (the resistance-corrected \( \chi \)-equation, `LM06-applied-structural-dynamics.md` §7). With the stated positive coefficients and constant nonnegative Motive Intensity, the full written law in `LM03-orientation-algebra-and-infinity-formalism.md` §7 attracts finite positive trajectories toward \( \chi = 1 \). Its distinct outward-drift law in §8 makes \( \chi = 1 \) repelling at constant positive Motive Intensity. Their architectural relation remains held.
 
-**Resonance density \( \rho \) maps to Coherence Potential \( I_c \).** LM05 §2.1 defines \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) as a scalar field on structural space, determined by its own continuity equation with source terms and flux. This is a significant enrichment: \( \rho \) was a scalar; \( I_c \) is a field.
+**Resonance density \( \rho \) maps to Coherence Potential \( I_c \).** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.1 defines \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) as a scalar field on structural space, determined by its own continuity equation with source terms and flux. This is a significant enrichment: \( \rho \) was a scalar; \( I_c \) is a field.
 
 **Seal load \( \lambda \) maps to membrane permeability \( \sigma(\text{⧉}) \) and seal failure modes.** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5 provides the full permeability classification, and `LM06-applied-structural-dynamics.md` §4.4 identifies three failure modes (coherence starvation, permeability drift, boundary fragmentation). LM01's seal load \( \lambda \) captures the idea that seals can be overstrained; the mature formalism specifies exactly how strain manifests and when integrity fails.
 
