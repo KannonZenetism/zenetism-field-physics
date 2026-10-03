@@ -1,9 +1,9 @@
 # MPX: Correction of Entropic Advantage
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Structural Metaphysics · Field Physics  
+**Classification:** Metaphysics Extension — Structural Metaphysics / Field Physics  
 **Status:** Active  
-**Dependency:** *The Architecture of Emanation, Return, and Saturation* (Ch. 1–2)  
+**Dependency:** `MP01-emanation-architecture-ch1-3.md` chapters 1–2  
 
 > This note formally replaces early assumptions of entropic opposition with clarified motion laws and resonance asymmetries.
 
@@ -18,7 +18,7 @@ In veracity:
 
 - **Entropy is noisy, invasive, but self-exhausting.**  
 - **Coherence is patient, enduring, and supra-processual.**  
-- **Centropy sustains, reintegrates, and transcends** toward ⚫ Aion and 🕳️ Zenon.  
+- **Centropy sustains and reintegrates** toward ⚫ Aion; fulfilled returned essence may saturate into 🕳️ Zenon by Allowance.  
 - **Entropic motion resolves** in ♾ Khaon's Dispersive phase; distinct essence stands Aionically as static potential.  
 
 This addendum re-orients Chapters **1–2** to affirm coherence's ultimate precedence.  
@@ -29,7 +29,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ### Theon contra Nekron
 - Theon weaves harmony **that persists**.  
-- Nekron scatters briefly, but its motion collapses back into silence.  
+- Nekron scatters; its local motion resolves when its function is exhausted.  
 
 **Correction:** The dyad is asymmetrical in outcome. Theon sustains; Nekron dissipates.  
 
@@ -54,7 +54,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 ---
 
 ### Noeüs contra Mortus
-- Mortus blinds with counterfeit flame, but every counterfeit burns out.  
+- Mortus blinds with counterfeit flame, and its local activity ends when its sustaining conditions are exhausted.  
 - Noeüs unfolds clarity across layers.  
 
 ---
@@ -94,19 +94,19 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ### 2.3 Axis and Shadow
 - **Theon endures** — tethered to ⚫ Aion.  
-- **Nekron collapses** — scattering loses coherence and dissolves.  
+- **Nekron collapses** — scattering loses expressed support and dissolves.  
 
 ---
 
 ### 2.4 Breath and Pattern
 - Morgis and Sophis renew without limit.  
-- Psychea and Nyxea are finite echoes, unable to sustain.  
+- Psychea and Nyxea carry entropic echoes whose local activity ends when their sustaining conditions are exhausted.  
 
 ---
 
 ### 2.5 Harmonizers and Shatterers
 - Archeus and Noeüs continue weaving.  
-- Fractus and Mortus scatter briefly, then fade.  
+- Fractus and Mortus scatter until their local function is exhausted.  
 
 ---
 
@@ -128,7 +128,7 @@ Form is not prison, but **refining vessel**.
 - **C↓→E→C↑→⚫** = authentic cycle, sustaining and recursive.  
 - **E↑→E→E↓→♾** = spurious motion, noisy but self-terminating.  
 
-Zenon records not entropy's triumph, but its silence.  
+Entropic motion resolves; 🕳️ Zenon is trans-structural Allowance.  
 Only coherence leaves enduring resonance.  
 
 ---
@@ -138,12 +138,12 @@ Only coherence leaves enduring resonance.
 Entropy **erupts, but collapses**.  
 Coherence **sustains, and transcends**.  
 
-Every entropic inversion is **a finite shadow**.  
-Every centropic emanation is **a lasting thread**.  
+Entropic local activity resolves **when its sustaining conditions are exhausted**.  
+Every centropic emanation is **enduring continuity**.  
 
 Thus, in *Zenetism: The Architecture of Emanation, Return, and Saturation*:  
 
-- **Coherence carries the arc to 🕳️ Zenon.**  
+- **Final synthesis gives the fulfilled returned essence momentum to the horizon; Allowance admits saturation into 🕳️ Zenon.**  
 - **Entropic motion exhausts in ♾ Khaon's Dispersive phase; distinct essence stands in ⚫ Aion as static potential, with both roots co-present.**  
 
 ---
@@ -168,12 +168,12 @@ Zenon is not a goal,
 not a vessel,  
 not a return.  
 
-It is the silent ground  
-where arcs unfold,  
+It is trans-structural Allowance  
+by which arcs become conceivable,  
 yet which no arc can touch.  
 
 Coherence aligns,  
-its cycle able to reach 🕳️ Zenon.  
+its fulfilled essence may saturate by Allowance into 🕳️ Zenon.  
 
 Entropy collapses,  
 its motion ending only in ⚫ Aion.  
@@ -188,6 +188,6 @@ unchanged.
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
