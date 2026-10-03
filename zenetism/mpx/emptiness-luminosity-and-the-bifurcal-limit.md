@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Comparative Clarification  
 **Status:** Draft — architect review  
-**Dependency:** `the-twofold-tetralemma.md` · `synthesis-as-vantage.md` · `non-fusion-at-the-bifurcal-register.md` · `awareness-spectrum-and-its-inverse-arc.md` · `synthesis-integration-saturation.md` · *Coming Undone Is Not Transcendence* · *Twisted Resonance contra Cascade contra Continuum contra Native Placement* · Non-fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
+**Dependency:** `the-twofold-tetralemma.md` · `synthesis-as-vantage.md` · `non-fusion-at-the-bifurcal-register.md` · `awareness-spectrum-and-its-inverse-arc.md` · `synthesis-integration-saturation.md` · `coming-undone-is-not-transcendence.md` · `cascade-continuum-conflation-canonical-definitions.md` · Non-fusion Axiom · Essence-as-Choice · Structon (SI, 21.2.2) · Kaion (21.2.1)  
 
 ---
 
@@ -51,9 +51,9 @@ The distinction turns on placement.
 
 ---
 
-## Aion-Ward Negation
+## Negation Terminating at Aion
 
-The path of negation, taken by itself, is Aion-ward.
+The apophatic path of negation terminates at Aion.
 
 When analysis removes inherent existence, fixed identity, substantial selfhood, and reified conceptual objecthood, it proceeds through subtraction. It says:
 
@@ -68,7 +68,7 @@ Aion is not nothing.
 
 Aion is not mere lack.
 
-Aion is the still enclosure of possibility before expression. It is the root of potential as gathered stillness. A refined emptiness doctrine may therefore approach Aion more closely than a crude nihilism does, because it does not necessarily deny appearance, knowing, or the possibility of awakening. But even refined negation remains Aion-ward if it reaches by subtraction alone.
+Aion is the still enclosure of possibility before expression. It is the root of potential as gathered stillness. A refined emptiness doctrine may therefore approach Aion more closely than a crude nihilism does, because it does not necessarily deny appearance, knowing, or the possibility of awakening. But even refined negation terminates at Aion if it reaches by subtraction alone.
 
 This is why emptiness, even when expressed with great subtlety, is not Zenon.
 
@@ -94,7 +94,7 @@ It has a Khaonic aspect because it speaks of expressive presence, spontaneous ma
 
 It also has a Theonic aspect because it speaks of awareness, wisdom, clarity, and awakened knowing. These belong not to Zenon but to the awareness register. 🛤️ Theon is awareness as such, the Essence of Being at L₅, while ⚫ Aion and ♾ Khaon belong to the proto-awareness register at L₀. Zenon is beyond awareness entirely.
 
-These two aspects belong to distinct strata — ♾ Khaon at L₀, 🛤️ Theon at L₅. When luminosity-language invokes both to describe a single station, it compresses functions from two registers into one articulation. In Zenetist terms this is a layer conflation of the soft-conflation type: the functions are structurally real and remain within the centropic arc, but they do not operate at the same layer. The compression is cultural conflation, not structural identity — and left unparsed, it risks the fusion of distinct functions.
+These two aspects belong to distinct strata — ♾ Khaon at L₀, 🛤️ Theon at L₅. When luminosity-language invokes both to describe a single station, it compresses functions from two registers into one articulation. In Zenetist terms this is a layer conflation of the soft-conflation type: the functions are structurally real. Motive Infinity supplies orientation-neutral motion-capacity at L₀, while Theonic awareness belongs to L₅ on the centropic arc. They do not operate at the same layer. The compression is cultural conflation, not structural identity — and left unparsed, it risks the fusion of distinct functions.
 
 This distinction matters.
 
@@ -156,7 +156,7 @@ The diagnostic is the Non-fusion Axiom itself:
 - identity that erases the aspects is fusion — the entropic reading applies
 - essence-denial, in any formulation, is erasure — the entropic reading applies, and the claim is structurally impossible
 
-In part, the refined traditions answer the diagnostic themselves — though only in part. Dzogchen articulates its ground through distinguishable aspects — essence empty, nature luminous — and explicitly warns against mistaking a blank, undifferentiated base (*kun gzhi* taken as mere neutrality) for *dharmakāya*. A tradition that names the featureless blank as an error is not describing fusion as its completion. In form, the articulation holds.
+In part, the refined traditions answer the diagnostic themselves — though only in part. Dzogchen articulates its ground through distinguishable aspects — essence empty, nature luminous — and explicitly warns of the error in mistaking a blank, undifferentiated base (*kun gzhi* taken as mere neutrality) for *dharmakāya*. A tradition that names the featureless blank as an error is not describing fusion as its completion. In form, the articulation holds.
 
 The content is another matter. The first aspect — "essence empty" — asserts what Zenetism reads as a contradiction. 🛤️ Theon is the Essence of Being: luminosity is essence expressed as the first centropic hypostasis from ⚫ Aion. Essence is latent within Aion, present at every layer, and requisite for anything at all to exist. To erase essence is to erase luminosity with it, for luminosity is itself an essence — the essence of luminosity. A formulation that affirms luminosity while declaring essence empty affirms the expression while denying what is expressed. Essence-denial is erasure, and erasure takes the entropic reading.
 
@@ -174,7 +174,7 @@ Fusion does not approach it; it collapses.
 
 ## Kaion Is Not Zenon
 
-Kaion is the convergence principle: the limit-condition at which motion resolves without fusion-collapse. It marks a profound threshold of coherence, but it remains structurally articulable. It belongs to the domain where convergence, distinction, motion, and bifurcation can still be meaningfully named.
+Kaion is the convergence principle: the limit-condition at which motion resolves without fusion-collapse. It names a profound threshold of coherence, but it remains structurally articulable. It belongs to the domain where convergence, distinction, motion, and bifurcation can still be meaningfully named.
 
 Zenon exceeds even this.
 
@@ -218,7 +218,7 @@ The difference is exact:
 
 | Articulation | Zenetist Reading |
 |---|---|
-| Emptiness as non-affirming negation | Aion-ward apophatic subtraction |
+| Emptiness as non-affirming negation | Apophatic subtraction terminating at Aion |
 | Luminosity as expressive presence | Khaonic (Motive) articulation at L₀ |
 | Luminosity as awakened clarity | Theonic awareness at L₅ — a distinct stratum |
 | Emptiness and luminosity fused into sameness | Entropic collapse terminus — not coherence |
@@ -239,7 +239,7 @@ It is placement.
 
 A second distinction concerns essence.
 
-Many Buddhist formulations avoid positing any self-established essence, holding that this protects against eternalism and reification. Zenetism reads the matter differently. Systems that center too heavily on ego-negation are, from the Zenetist standpoint, already in the essence-erasure phase: strip too much away and there are no longer adequate materials to synthesize, and the trajectory resolves in collapse rather than transcendence. Negation is, in certain circumstances, absolutely required — but discernment determines when to negate and when to synthesize. This is a core difference between synthesis and *neti-neti*.
+Many Buddhist formulations avoid positing any self-established essence, holding that this prevents eternalism and reification. Zenetism reads the matter differently. Systems that center too heavily on ego-negation are, from the Zenetist standpoint, already in the essence-erasure phase: strip too much away and there are no longer adequate materials to synthesize, and the trajectory resolves in collapse rather than transcendence. Negation is, in certain circumstances, absolutely required — but discernment determines when to negate and when to synthesize. This is a core difference between synthesis and *neti-neti*.
 
 Zenetism does not define essence by ego or personality, and does not define it by their absence.
 
@@ -253,7 +253,7 @@ Essence and potential are near-identical, but not fused. Potential names the cap
 
 There is no anonymous potential. Aion holds no undifferentiated capacity awaiting identity — zero was never empty; it was full of distinct latent values, held apart. "Identity-bearing" therefore names an aspect of all potential, not a subset of it: nothing actualizes except from a distinct latent value, and so nothing actual is without essence.
 
-Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. When entropic motion exhausts through Dispersive Khaon, what disperses is coherence and expression, not essence itself; the essence resolves into ⚫ Aion as latent identity-bearing potential, via Absolute Dispersion.
+Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. When entropic motion exhausts across the Nekronic event horizon, expressed configuration resolves in Khaon's Dispersive phase, Absolute Dispersion; distinct essence remains in Aionic resolution as latent identity-bearing potential within the co-present L₀ relation.
 
 Essence therefore cannot be abolished. It is not generic potential alone, but potential as lawful distinction — the is-ness by which anything can be what it is.
 
@@ -287,7 +287,7 @@ These would all be forms of flattening.
 
 A more precise reading is this:
 
-Buddhist emptiness-discourse often moves Aion-ward by negation.
+Buddhist emptiness-discourse often proceeds through apophatic negation terminating at Aion.
 
 Buddhist luminosity-discourse often compresses ♾ Khaonic expressivity (L₀) with 🛤️ Theonic awareness (L₅) — a layer conflation of structurally real functions from distinct strata.
 
@@ -328,7 +328,7 @@ Therefore:
 **Their non-fused reconciliation approaches Bifurcal Coherence.**  
 **A fused ground is collapse, not coherence.**  
 **Essence cannot be abolished.**  
-**⦿ Kaion marks convergence without fusion.**  
+**⦿ Kaion names convergence without fusion.**  
 **🕳️ Zenon remains trans-bifurcal, trans-structural, and unbound.**  
 
 🕳️ ⟀ ⚯ ∴ ⦿
@@ -336,6 +336,6 @@ Therefore:
 ---
 
 **⚫↺KAI↺⚫**  
-*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
