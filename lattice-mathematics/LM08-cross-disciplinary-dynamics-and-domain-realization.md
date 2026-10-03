@@ -888,7 +888,7 @@ If \(h_0<\theta<h_*\), the threshold θ is reached at
 \boxed{t_\theta=\frac1{r+d}\log\!\left(\frac{h_*-h_0}{h_*-\theta}\right).}
 \]
 
-If \(h_0<h_*\), equality θ = h* is attained only as a limit, and a threshold exceeding h* is outside the forward trajectory. If r = d = 0, h remains constant.
+If \(h_0<h_*\), equality \( \theta = h_* \) is attained only as a limit, and a threshold exceeding \( h_* \) is outside the forward trajectory. If r = d = 0, h remains constant.
 
 **Proof.** At h = 0 the vector field is r ≥ 0, and at h = 1 it is −d ≤ 0. The explicit solution of the linear equation gives the invariant interval and the limiting capacity. Solving the same formula for h(t) = θ gives the stated time. ∎
 
@@ -1120,7 +1120,7 @@ The tracking convention addresses the mathematical identity of biological consti
 
 The proposed hypothesis is that restoration of centropically integrative relations can restore some depleted functions when the capacities and relations required for that restoration remain available. The mathematical question is reachability of a specified restored configuration through admitted motion. The empirical question is which biological processes instantiate that relation, and with what measured rates and outcomes.
 
-Proposition 10.2 supplies a simple conditional realization of functional recovery. It identifies the attainable capacity h*, the conditions for an increasing trajectory, and the time required to reach an intermediate threshold. More detailed biological articulation would replace its stipulated r and d by measured or independently justified laws, include the participating interactions, and compare its predictions with the relevant observations.
+Proposition 10.2 supplies a simple conditional realization of functional recovery. It identifies the attainable capacity \( h_* \), the conditions for an increasing trajectory, and the time required to reach an intermediate threshold. More detailed biological articulation would replace its stipulated r and d by measured or independently justified laws, include the participating interactions, and compare its predictions with the relevant observations.
 
 The proposed reversal concerns a selected deterioration of function. Reversing an entire history, restoring a lost anatomical structure, replacing a constituent, and increasing a measurable capacity are different outcomes. Each receives its own state and continuation criterion. The scope of reversibility after loss of the required structure remains an empirical and mathematical research question.
 
