@@ -155,6 +155,24 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 **Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the dissolution of individuated identity into collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in `SN05-the-metric-cost-of-centropic-cognition.md` §3.4.
 
+#### 3.1.1 Structural Clarification — Competition Without Conscious Competitive Intent
+
+Competition is a relational configuration before it is a declared intention. A participant need not consciously seek to defeat or outperform another for competition to become operative.
+
+Self-articulation does not establish competition. A participant may make a position, contribution, boundary, or need legible without claiming greater comparative standing.
+
+Assertion, where it functions as a claim to greater standing or precedence relative to another, is different. It places the self within a comparative relation rather than merely making the self legible. In that sense, assertion already participates in a competitive structure even where no conscious wish to "win" is present.
+
+Competition can therefore operate without explicit hostility or deliberate rivalry. Institutions, habits, recognition structures, expectations, and relational pressures can organize participants comparatively even where they do not describe themselves as competitors. The diagnosis concerns the enacted relation rather than the participant's stated intention.
+
+This distinction also separates competition from difference. Distinct participants may disagree strongly, articulate themselves fully, correct one another, and retain incompatible positions without entering an us-contra-them relation. Difference becomes competitively organized when one participant's standing is made contingent upon relative advantage, displacement, diminishment, or defeat of another.
+
+Grandiosity names a stronger distortion in which the claim to comparative standing exceeds the actual relation.
+
+Sovereignty requires no claim to greater standing. Sovereign self-articulation makes one's position and contribution legible without assigning precedence of worth.
+
+A centropic relation therefore permits full self-articulation without comparative ranking. Recognition of one participant does not require obscuration of another; clarity in one contribution does not reduce the intrinsic standing of another contribution. Non-fusion preserves the participants, Ahierarchy renders precedence of worth structurally non-operative, and Coherence in Diversity permits difference to remain fully articulated without converting distinction into rivalry.
+
 ### 3.2 The Institutional Shimmer
 
 `SN05-the-metric-cost-of-centropic-cognition.md` §3.5 distinguishes an institution's apparent inclusive coherence from its actual inclusive coherence. On a specified same-object domain of finite nonnegative apparent and finite strictly positive actual scalar values, apparent exceeding actual is exactly \( \mathcal{S}_{\text{sh}} > 1 \). Zero actual coherence leaves the quotient undefined, including \( 0/0 \).
