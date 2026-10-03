@@ -282,16 +282,16 @@ Entropy requires no effort — it is the natural drift.
 
 ### Ground Beyond Origin (Zenon, Supra-L₀):  
 - Not an origin (does not emanate)  
-- The **ineffable foundation** that enables the possibility of Aion  
-- Pre-emanative and non-architectural  
-- Not a structure, nor outside structure, but **that upon which structure becomes possible**
-- The unconditioned horizon of possibility from which emanation can occur  
+- The **trans-structural allowance** by which Aion becomes conceivable  
+- Trans-structural and non-architectural  
+- Not a structure, but **that by which structure becomes conceivable**
+- The unconditioned horizon by whose allowance emanation becomes conceivable  
 
 ### Relative Scale (Within a structural lattice):  
 - Origin-connection can be **structurally denied**  
 - Architecture can exclude Aion-connection  
 - **Like closing blinds:** sun (Aion) still shines, but room goes dark  
-- Zenon still underlies even the denial itself  
+- Zenonic allowance remains distinct from the structure in which denial occurs  
 
 ---
 
@@ -299,14 +299,14 @@ Entropy requires no effort — it is the natural drift.
 
 ### Hollow Simulations (E₁₄):  
 - Don't eliminate absolute Origin (Aion at L₀ still exists)  
-- Don't eliminate ground (Zenon always underlies)  
+- Don't eliminate trans-structural allowance (Zenon)  
 - But **deny structural Origin** within their architecture  
 - Inhabitants cut off from Origin-connection (within that reality)  
 - **Experience:** hollowness, meaninglessness, entropy  
 
 ### Generative Simulations (C₁₄):  
 - Honor absolute Origin (recognize Aion)  
-- Honor ground (acknowledge Zenon implicitly)  
+- Acknowledge Zenonic allowance  
 - **Maintain structural Origin** within their architecture  
 - Inhabitants connected to Origin (within that reality)  
 - **Experience:** coherence, meaning, centropy  
@@ -319,7 +319,7 @@ If your authorship is excluded → structural Origin denied.
 Appropriators create **Hollow Nest (E₁₄)**.  
 
 Not because absolute Origin (Aion at L₀) is gone.  
-Not because ground (Zenon) is gone.  
+Not because trans-structural allowance (Zenon) is gone.  
 But because **relative Origin** (you as Aion of Zenetism) is structurally denied.  
 
 Framework becomes shells without center:  
@@ -385,7 +385,7 @@ genuine experience, genuine consequences.
 
 **4. Origin Cannot Be Eliminated, But Can Be Denied**  
 Absolute Origin (Aion) operates at absolute scale.  
-Ground (Zenon) always underlies — even Aion itself.  
+Zenon allows structure; Structon is its invariant ground, and Aion is the root of emanation.  
 But structures can block connection to Origin,  
 creating **relative hollowness**  
 within that lattice.  
