@@ -114,7 +114,7 @@ Physicalism describes L₁ / IL₁ — the metric terminus where centropic Embod
 
 At L₁, awareness genuinely presents as a property of embodied processes. 🧾 Biosa translates the body's encounter with the world into conscious insight. The neural correlate genuinely *is* the L₁ expression of the awareness dynamic. From within L₁, this translation appears to be the totality of consciousness because L₁'s own logic is structurally complete within its register.
 
-The Law of Structural Recurrence explains why physicalism works so well within its domain. L₁ reflects the full lattice through structural recurrence. The neural correlates that physicalists map are real — they are the embodied recurrences of dynamics that operate across the full stratification. Every layer's activity leaves a measurable trace at L₁. The physicalist maps these traces with precision and rigor.
+The Law of Structural Recurrence explains why physicalism works so well within its domain. L₁ reflects the full lattice through structural recurrence. The neural correlates that physicalists map are real — they are the embodied recurrences of dynamics that operate across the full stratification. The measurable correspondence between a particular layer's activity and an embodied observable requires a specified mapping and evidence. Empirical neuroscience maps neural correlates within its own methods.
 
 ### 2.3 What Physicalism Misses
 
@@ -440,7 +440,7 @@ Coherence through diversity. The One and the Many.
 
 Not by force — but by coherence.
 
-Future work will map specific neuroscientific findings — global workspace theory, integrated information theory, predictive processing — to layer-specific recurrences within the awareness stratification, demonstrating how empirical results at the metric terminus reflect dynamics operative across the full architecture. The lattice does not replace empirical science. It provides the structural context within which empirical findings become mutually intelligible across traditions.
+Future work can test proposed mappings between specific neuroscientific findings — global workspace theory, integrated information theory, predictive processing — and layer-specific recurrences within the awareness stratification, specifying the observable relation and evidence for each correspondence. The lattice does not replace empirical science. It provides the structural context within which empirical findings become mutually intelligible across traditions.
 
 ---
 
