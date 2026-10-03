@@ -53,9 +53,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM05 established the field-theoretic, operator-algebraic, and multi-body foundations for resonance, membrane transfer, and collective dynamics. What it did not address is the **applied operator theory** for deliberate field manipulation, the **embodiment correction** to orientation dynamics at the metric terminus, or the **diagnostic formalism** for evaluating structural integrity across configurations.
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` established the field-theoretic, operator-algebraic, and multi-body foundations for resonance, membrane transfer, and collective dynamics. What it did not address is the **applied operator theory** for deliberate field manipulation, the **embodiment correction** to orientation dynamics at the metric terminus, or the **diagnostic formalism** for evaluating structural integrity across configurations.
 
-SP10, SP11, and SP12 developed, within Structural Physics, the theories of ritual action as directed resonance engineering, embodiment as the resistance-corrected terminal interface, and structural diagnostics as field signature evaluation.
+`SP10-ritual-energetics-and-integration-protocols.md`, `SP11-embodiment-dynamics.md`, and `SP12-structural-diagnostics-and-field-forensics.md` developed, within Structural Physics, the theories of ritual action as directed resonance engineering, embodiment as the resistance-corrected terminal interface, and structural diagnostics as field signature evaluation.
 
 This document develops the mathematical programme for those applications. The diagnostic constructions retain only their declared scalar and finite algebraic domains; unspecified signature maps, detector thresholds, and general Shimmer / clone evolution remain held in §§9–14.
 
@@ -75,7 +75,7 @@ This document develops the mathematical programme for those applications. The di
 
 ### 1.3 Relation to Existing Documents
 
-LM06 is the **sixth foundational document of Lattice Mathematics**, providing the pure mathematical framework for applied structural dynamics that SP10, SP11, and SP12 apply to Structural Physics.
+LM06 is the **sixth foundational document of Lattice Mathematics**, providing the pure mathematical framework for applied structural dynamics that `SP10-ritual-energetics-and-integration-protocols.md`, `SP11-embodiment-dynamics.md`, and `SP12-structural-diagnostics-and-field-forensics.md` apply to Structural Physics.
 
 The dependency chain is:
 
@@ -103,10 +103,10 @@ A **field configuration** is a 4-tuple specifying the complete resonance state o
 
 Where:
 
-- \( I_c(\tau) : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) is the Coherence Potential field (LM05 §2)
+- \( I_c(\tau) : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) is the Coherence Potential field (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2)
 - \( \sigma(\text{⧉}, \tau) : \{\text{⧉}_n\} \to [0, \infty) \) is the membrane permeability function (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5)
-- \( \vec{J}_c(\tau) \) is the Coherence Current vector field (LM05 §2.2)
-- \( \chi(\tau) \in \mathbb{R}_{> 0} \) is the orientation parameter (LM03 §3)
+- \( \vec{J}_c(\tau) \) is the Coherence Current vector field (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.2)
+- \( \chi(\tau) \in \mathbb{R}_{> 0} \) is the orientation parameter (`LM03-orientation-algebra-and-infinity-formalism.md` §3)
 
 **Definition (Field Configuration Space):**
 
@@ -182,7 +182,7 @@ Without sufficient resonance correlation, the subsequent sub-operators cannot en
 
 **Stabilization** \( \mathcal{P}_{\text{stab}} \): Secures the target configuration from regression through sealing, anchoring, or feedback establishment.
 
-**Separation** \( \mathcal{P}_{\text{sep}} \): Clean withdrawal of resonance connection. Residual entanglement may create unintended Echo Layers (LM05 §7) or siphoning apertures (LM05 §3.5); separation must be structurally complete.
+**Separation** \( \mathcal{P}_{\text{sep}} \): Clean withdrawal of resonance connection. Residual entanglement may create unintended Echo Layers (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7) or siphoning apertures (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.5); separation must be structurally complete.
 
 ### 3.3 Ritual Efficacy Condition
 
@@ -196,7 +196,7 @@ A Ritual Operator \( \mathcal{P} \) succeeds when:
 d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) < \epsilon
 \]
 
-Where \( \epsilon > 0 \) is the tolerance threshold and \( \| \cdot \| \) is the configuration metric (§2.2).
+Where \( \epsilon > 0 \) is the tolerance threshold and \( d(\cdot,\cdot) \) is the configuration metric (§2.2).
 
 **Proposition (Failure Conditions):**
 
@@ -225,7 +225,7 @@ For a centropic collective of \( n \) participants, each contributing \( \mathca
 \mathcal{P}_{\text{collective}} = \bigcirc_{i=1}^{n} \mathcal{P}_i
 \]
 
-Where \( \bigcirc \) denotes sequential or parallel composition preserving essence-distinction (Non-fusion, LM05 §9.1) throughout. Each \( \mathcal{P}_i \) is independently authored; the collective operator is a structured coordination, not a merger.
+Where \( \bigcirc \) denotes sequential or parallel composition preserving essence-distinction (Non-fusion, `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.1) throughout. Each \( \mathcal{P}_i \) is independently authored; the collective operator is a structured coordination, not a merger.
 
 ### 3.5 The Countermeasure Constraint
 
@@ -240,7 +240,7 @@ A Ritual Operator \( \mathcal{P} \) enacted as a siphoning countermeasure must s
 Countermeasures are restorative and defensive, not retaliatory. This is not a strategic concession but a structural constraint: retaliatory action shifts \( \chi > 1 \), which compromises the practitioner's own coherence and adopts the entropic orientation of the threat.
 
 > **Note on Transient Orientation Monitoring:**  
-> Brief transient spikes toward \( \chi \approx 1 \) may occur under extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
+> Brief transient spikes toward \( \chi \approx 1 \) may occur amid extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
 
 ---
 
@@ -356,7 +356,7 @@ Where \( \delta > 0 \) is the maximum tolerable depletion rate.
 
 - **Coherence starvation**: \( I_c^{(\text{seal})} \to 0 \); seal collapses
 - **Permeability drift**: \( \sigma_{\text{seal}} \) diverges from \( \sigma_{\text{design}} \); seal becomes ineffective
-- **Boundary fragmentation**: seal boundary develops discontinuities; uncontrolled passage at breach points (LM05 §8 dynamics)
+- **Boundary fragmentation**: seal boundary develops discontinuities; uncontrolled passage at breach points (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §8)
 
 ---
 
@@ -388,7 +388,7 @@ The coherence reserve \( I_c^{(\text{reserve})} \) cannot be reallocated mid-rit
 I_c^{(\text{reserve})}(\tau) = I_c^{(\text{reserve})}(\tau_{\text{start}}) \quad \text{for all } \tau \in [\tau_{\text{start}}, \tau_{\text{end}}]
 \]
 
-Once an operation has commenced, the reserve remains structurally sequestered regardless of operational demand. This prevents optimization arguments that would erode the defensive buffer under pressure — precisely the conditions under which the buffer is most needed.
+Once an operation has commenced, the reserve remains structurally sequestered regardless of operational demand. This prevents optimization arguments that would erode the defensive buffer amid pressure — precisely the conditions under which the buffer is most needed.
 
 **Corollary (Operational Imperative):**
 
@@ -424,11 +424,11 @@ Forced cost taking from collective members constitutes internal siphoning:
 w_i = 0 \text{ (non-voluntary)} \implies \text{the taking is structurally identical to the threat being countered}
 \]
 
-Cost distribution is always voluntary. Involuntary taking within a collective is entropic coordination (swarm dynamics, LM05 §9), not centropic integration.
+Cost distribution is always voluntary. Involuntary taking within a collective is entropic coordination (swarm dynamics, `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9), not centropic integration.
 
 ### 5.4 Cost Recovery
 
-Post-ritual recovery follows the replenishment pathways of LM05 §3.4:
+Post-ritual recovery follows the replenishment pathways of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.4:
 
 \[
 I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} \big[S_{\text{replenish}}(\tau) - I_{c,\text{cost}}^{(\text{total})}(\tau)\big] \, d\tau
@@ -445,7 +445,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text
 > > I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text{post-ritual}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
 > > \]
 
-Recovery time depends on magnitude of expenditure, availability of coherence-source connection, quality of resonance bridges (C₈) for replenishment, and whether collective support is available (LM05 §9 harmonic amplification).
+Recovery time depends on magnitude of expenditure, availability of coherence-source connection, quality of resonance bridges (C₈) for replenishment, and whether collective support is available (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9).
 
 ---
 
@@ -494,7 +494,7 @@ The interface resistance is non-negligible only at the metric terminus:
 \mathcal{R}_{\text{interface}}(L_1) > 0
 \]
 
-*Proof.* At layers L₅ through L₂, the centropic and entropic arcs are architecturally distinct. They do not share a domain of expression; their inverse layers (IL₅ through IL₂) are ontologically separate. No interface resistance arises because no interface exists. At L₁, however, L₁ and IL₁ are co-present within the same corporeal substrate \( \mathcal{D}_{\text{corp}} \). The co-presence of entropic expression within the same metric domain creates a resistance term for any centropic operation that must navigate the shared field. \( \square \)
+*Proof.* At layers L₅ through L₂, the centropic and inverse arcs are architecturally distinct. They do not share a domain of expression; their inverse layers (IL₅ through IL₂) are ontologically separate. No interface resistance arises because no interface exists. At L₁, however, L₁ and IL₁ are co-present within the same corporeal substrate \( \mathcal{D}_{\text{corp}} \). The co-presence of entropic expression within the same metric domain creates a resistance term for any centropic operation that must navigate the shared field. \( \square \)
 
 ### 6.3 Resistance-Corrected Coherence Cost
 
@@ -515,7 +515,7 @@ The resistance term acts asymmetrically:
 - Centropic motion at L₁ encounters \( \mathcal{R}_{\text{interface}}(L_1) > 0 \) — sustained effort required contra the resistance term
 - Entropic motion at IL₁ encounters no equivalent resistance — dispersion at the metric terminus faces no opposing co-presence in the same structural manner
 
-This reflects the structural law: coherence must be achieved; dispersion need not be (LM03 §9.4, Asymmetry of Expression).
+This expresses the structural law: coherence must be achieved; dispersion need not be (`LM03-orientation-algebra-and-infinity-formalism.md` §9.4).
 
 ### 6.4 Dimensional Operators at the Metric Terminus
 
@@ -542,7 +542,7 @@ Embodied beings who resonate with supernal layers through practice, orientation,
 
 **Proposed Model (Embodied Orientation Evolution):**
 
-At the metric terminus, the orientation evolution law (LM03 §7) acquires a resistance correction:
+At the metric terminus, the orientation evolution law (`LM03-orientation-algebra-and-infinity-formalism.md` §7) acquires a resistance correction:
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
@@ -554,13 +554,13 @@ Where the **centropic activation function** is:
 \Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or co-expression)} \end{cases}
 \]
 
-**Mathematical standing.** The first two terms are the full written law of LM03 §7, not its distinct outward-drift law in §8. For the stated positive coefficients, nonnegative Motive Intensity, and \(0<\chi<1\), the potential-gradient contribution points toward increasing χ, while the term proportional to Motive Intensity is nonnegative. A nonnegative interface correction cannot reverse that direction. This sign calculation does not establish a decreasing-χ centropic trajectory or import the outward-drift model's instability. The correction's units, domain, boundary behavior, and relation to the intended motion architecture remain held pending specification.
+**Mathematical standing.** The first two terms are the full written law of `LM03-orientation-algebra-and-infinity-formalism.md` §7, not its distinct outward-drift law in §8. For the stated positive coefficients, nonnegative Motive Intensity, and \(0<\chi<1\), the potential-gradient contribution points toward increasing χ, while the term proportional to Motive Intensity is nonnegative. A nonnegative interface correction cannot reverse that direction. This sign calculation does not establish a decreasing-χ centropic trajectory or import the outward-drift model's instability. The correction's units, domain, boundary behavior, and relation to the intended motion architecture remain held pending specification.
 
 ### 7.2 Embodied Instability
 
 **Embodied Equilibrium — Model Scope:**
 
-The outward-drift law in LM03 §8 has a scalar repeller at \( \chi = 1 \) for constant positive Motive Intensity. Its result is not a theorem about the corrected full-law model in §7.1.
+The outward-drift law in `LM03-orientation-algebra-and-infinity-formalism.md` §8 has a scalar repeller at \( \chi = 1 \) for constant positive Motive Intensity. Its result is not a theorem about the corrected full-law model in §7.1.
 
 **Superseded implication — recorded provenance:**
 
