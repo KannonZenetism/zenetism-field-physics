@@ -166,7 +166,7 @@ The 🌍 Gaian Soul designates planetary consciousness as a structural entity �
 
 This is a structural claim, not a mystical one. The diagnostic formalism of LM06 §§9–12 applies: the native interpretation describes a planetary system through coherence (\( I_c \)), flow dynamics (\( \vec{J}_c \)), membrane architecture (\( \sigma(\text{⧉}) \)), and orientation (\( \chi \)). The planet is a field configuration (LM06 §2.1) — subject to the same formal analysis as individual and collective configurations.
 
-Consumptive practices (industrial monoculture, resource depletion, habitat destruction) register as entropic operations within the planetary field — \( dI_c^{(\text{Gaian})}/d\tau < 0 \). Regenerative practices (ecological restoration, sustainable agriculture, reduced consumption) register as centropic operations — \( dI_c^{(\text{Gaian})}/d\tau \geq 0 \).
+Consumptive practices (industrial monoculture, resource depletion, habitat destruction) and regenerative practices (ecological restoration, sustainable agriculture, reduced consumption) receive structural assessment through their actual ecological effects and operative conditions. The recorded sign associations — \( dI_c^{(\text{Gaian})}/d\tau < 0 \) for consumptive practice and \( dI_c^{(\text{Gaian})}/d\tau \geq 0 \) for regenerative practice — concern net coherent-content change. Generative function and orientation require their operative assessment. Quantitative planetary application remains held pending a defined quantity, domain, time accounting, observable correspondence, and measurement procedure.
 
 The Coherence Standard (SN07 §5.2) applies at planetary scale: *Is this centropic?*
 
@@ -201,7 +201,7 @@ This is not moralistic purity — embodied beings cannot eliminate harm entirely
 
 The Tragedy of Embodiment maps onto the SN05–SN06 cost-recovery framework:
 
-- **Harm as coherence cost:** Every act of taking imposes a coherence cost on the total field. The cost is not merely to the being consumed but to the total Gaian coherence — each taking reduces the field's \( I_c \).
+- **Harm as coherence cost:** Taking imposes costs whose scope includes the affected being and ecological relations. The planetary net change in \( I_c \) requires the gross replenishment and actual expenditure of a specified field and interval; the assertion that each taking reduces total Gaian \( I_c \) remains held pending that accounting.
 - **Restraint as cost reduction:** Reducing consumptive behavior functions as \( S_{\text{rest}} \) at planetary scale — lowering the total field cost, creating the conditions under which coherence accumulates rather than depletes.
 - **Regeneration as Source reconnection:** Practices that restore ecological coherence (habitat restoration, soil regeneration, species protection) function as \( S_{\text{source}} \) at collective scale — reconnecting the planetary field with its own coherence-generating capacity.
 
@@ -297,7 +297,7 @@ The centropy-forward relationship to all life follows from the principles establ
 
 SN07 §5 described sovereign domains of social life — learning, care, exchange, coordination — without institutional authority. SN09 adds:
 
-**Sovereign care extends to all life.** The centropy-forward collective does not restrict its care to human members. The variation-pathology distinction (SN03 §7.3) applies to non-human life: structural variation (coherence maintained or generated through characteristic operations) contra structural pathology (coherence depleting without replenishment). Ecological degradation registers as structural pathology at planetary scale.
+**Sovereign care extends to all life.** The centropy-forward collective does not restrict its care to human members. The variation-pathology distinction (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3) applies to non-human life: structural variation and structural pathology distinguish native functional conditions, with pathology naming generative inadequacy. Net coherent-content depletion can coexist with replenishment and generation. Ecological degradation is assessed at planetary scale through the affected functions and budget conditions; quantitative correspondence remains held pending the specified planetary model.
 
 **Sovereign exchange respects all participants.** The Coherence Standard evaluates exchange across species: any exchange that depletes non-human coherence without structural necessity is entropic taking, not lawful interaction.
 
