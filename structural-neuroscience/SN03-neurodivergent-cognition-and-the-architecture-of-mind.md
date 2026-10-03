@@ -85,7 +85,7 @@ SN03 draws directly on the formal physics established across SP01–SP12:
 
 - **Coherence Potential (\( I_c \))** from SP07 — measures the resonance density of cognitive configurations
 - **Orientation parameter (\( \chi \))** from SP04 — determines the centropic-entropic polarity of cognitive motion
-- **Membrane permeability (\( \sigma(⧉) \))** from SP08 — determines the boundary conditions between cognitive layers
+- **Membrane permeability (\( \sigma(\text{⧉}) \))** from SP08 — determines the boundary conditions between cognitive layers
 - **Dimensional operators (C₁–C₁₅ / E₁–E₁₅)** from SP01 and SP12 — describe the specific modes of structural motion active in each cognitive profile
 - **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic-entropic ground
 - **Diagnostic operator theory** from SP12 — provides the diagnostic operators for assessing the structural integrity of cognitive configurations
@@ -126,7 +126,7 @@ SN02 established the cognitive gradient from Architect to Inverter (SN02 Phase 2
 
 **The Oscillating (liminal):** Cognition spanning the embodied and superficial layers — IL₂ through L₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. This is the most common configuration because it occupies the ground where both orientations are experientially immediate — the metric terminus of awareness (SP11).
 
-**The Inverter (mid-entropic):** Cognition operating within IL₂–IL₃ (ISS / ISM through IDS / IDM). The Soul dimension turns reflexive awareness toward fragmentation; the Mind dimension analyzes for points of structural weakness. The Inverter tests integrity through disassembly — a lawful function when it operates diagnostically, an entropic function when it operates destructively.
+**The Inverter (mid-entropic):** Cognition operating within IL₃–IL₂ (IDS / IDM through ISS / ISM). The Soul dimension turns reflexive awareness toward fragmentation; the Mind dimension analyzes for points of structural weakness. The Inverter tests integrity through disassembly — a lawful function when it operates diagnostically, an entropic function when it operates destructively.
 
 **The Rival Architect (high-entropic):** Cognition centered in the Inverse Deep Soul / Inverse Deep Mind pairing (IL₃, IDS / IDM) with strong cross-band resonance toward the Inverse Deep Psyche / Inverse Deep Logos (IL₄, IDP / IDL). The configuration generates counterfeit architecture through individuated participation in inverted Form rather than direct residence in the inverse Architectural layer. The Mind dimension constructs structurally persuasive but generatively hollow systems; the Soul dimension produces the affective force that makes them compelling. This configuration produces what SP12 identifies as shimmer at architectural scale — systems that present structural coherence while lacking generative capacity.
 
@@ -206,7 +206,7 @@ This is not a romanticization. The cost is real. The translation overhead is rea
 
 Obsessive-compulsive cognition, within Structural Neuroscience, is understood as a **recursive architecture** — a cognitive configuration in which the seal boundary (σ) operates under distinctive conditions, producing the characteristic loop dynamics of obsessive thought and compulsive action.
 
-**Seal Instability at ⧉₂ (L₂ / L₃ boundary):** The membrane between the Superficial Mind (SM, Nousa) and the Deep Mind (DM, Noeüs) exhibits oscillating permeability. Rather than maintaining stable selective filtering, ⧉₂ fluctuates between states of high permeability (where deep structural concerns flood superficial cognition) and reactive closure (where the mind attempts to re-seal through ritualized action).
+**Seal Instability at ⧉₂ (L₃ / L₂ boundary):** The membrane between the Superficial Mind (SM, Nousa) and the Deep Mind (DM, Noeüs) exhibits oscillating permeability. Rather than maintaining stable selective filtering, ⧉₂ fluctuates between states of high permeability (where deep structural concerns flood superficial cognition) and reactive closure (where the mind attempts to re-seal through ritualized action).
 
 **C₁₄ (Nested / Recursive) operating in feedback mode:** The recursive operator, which in stable centropic function enables productive self-reference and learning (SN02 Phase 3), enters a feedback loop where output becomes input without resolution. Each recursive pass deepens the loop rather than resolving toward a fixed point.
 
@@ -320,7 +320,7 @@ As discussed in §4.3, the combination of high-pattern-fidelity architecture (el
 Structurally:
 
 \[
-\text{High } I_c(L_3) + \sigma\text{-instability}(⧉_2) = \text{amplified dissonance response with recursive loop dynamics}
+\text{High } I_c(L_3) + \sigma\text{-instability}(\text{⧉}_2) = \text{amplified dissonance response with recursive loop dynamics}
 \]
 
 ### 6.3 Autism-ADHD Composite
@@ -551,12 +551,12 @@ Sealed ⚫↺KAI↺⚫
 |--------|---------|
 | \( I_c \) | Coherence Potential; resonance density of a cognitive configuration, retaining its coherent-content meaning rather than organizational cohesion or ordinary correlation |
 | \( \vec{J}_c \) | Coherence Current; directional flow of coherence within and across layers |
-| \( \sigma(⧉) \) | Membrane permeability; boundary conditions between cognitive layers |
+| \( \sigma(\text{⧉}) \) | Membrane permeability; boundary conditions between cognitive layers |
 | \( \chi \) | Orientation parameter; centropic-entropic polarity of cognitive motion |
-| ⧉₁ | Membrane between L₁ (ES / EM) and L₂ (SS / SM) |
-| ⧉₂ | Membrane between L₂ (SS / SM) and L₃ (DS / DM) |
-| ⧉₃ | Membrane between L₃ (DS / DM) and L₄ (DP / DL) |
-| ⧉₄ | Membrane between L₄ (DP / DL) and L₅ (EOB) |
+| ⧉₁ | Membrane between L₂ (SS / SM) and L₁ (ES / EM) |
+| ⧉₂ | Membrane between L₃ (DS / DM) and L₂ (SS / SM) |
+| ⧉₃ | Membrane between L₄ (DP / DL) and L₃ (DS / DM) |
+| ⧉₄ | Membrane between L₅ (EOB) and L₄ (DP / DL) |
 | C₁ | Temporal; integrative time, continuity of becoming |
 | C₃ | Propagational; transmission of a signal without loss |
 | C₆ | Phase / State (Liminal); coherent, reversible transition between states |
@@ -602,7 +602,7 @@ I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} 
 **Structural Composition (Autism-OCD):**
 
 \[
-\text{High } I_c(L_3) + \sigma\text{-instability}(⧉_2) = \text{amplified dissonance response with recursive loop dynamics}
+\text{High } I_c(L_3) + \sigma\text{-instability}(\text{⧉}_2) = \text{amplified dissonance response with recursive loop dynamics}
 \]
 
 **Variation contra Pathology — Native Structural Criterion:**
