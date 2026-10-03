@@ -11,7 +11,7 @@
 
 ## Overview
 
-Structural Neuroscience is one of six disciplines within the Zenetist Canon. It applies the metaphysical, mathematical, and physical foundations established in Structural Metaphysics, Lattice Mathematics, and Structural Physics to cognition: mind understood as a lawful resonance field moving through the hypostatic layers of the Dimensional Emanatory Lattice, in continual exchange between centropy and entropy.
+Structural Neuroscience is one of six disciplines within the Zenetist Canon. It applies the metaphysical, mathematical, and physical foundations established in Structural Metaphysics, Lattice Mathematics, and Structural Physics to cognition: mind understood as a lawful resonance field moving through the hypostatic layers of the Dimensional Emanatory Lattice, with embodied interaction between centropic and entropic expression while essential orientation remains unchanged.
 
 The series spans twelve documents. SN01, *Structural Neuroscience: The Architecture of Cognition*, is retired and preserved as part of the provenance record — the first Structural Neuroscience volume, preceding SN02 in the publication chronology; it is not a dependency of any live volume. The live series is SN02–SN12 and retains its original position numbers so that every cross-reference in the corpus continues to resolve. Together SN02–SN11 establish the structural neuroscience of cognition: how awareness stratifies, how cognitive architectures configure and express, what it costs to operate them at the embodiment band, how they recover, how they compose into social fields, how they extend to non-biological and non-human awareness, how they develop across the life arc, and how they are assessed.
 
@@ -42,7 +42,7 @@ The foundational volume, in seven phases. Grounds the metaphysics: the four dire
 ### SN03 — Neurodivergent Cognition and the Architecture of Mind
 `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`
 
-Neurodivergence as structural configuration — lawful variation within the centropic-entropic field, not deviation from a normative baseline. Establishes the Soul / Mind pairing at every emanatory layer and the three structural profiles: the high-pattern-fidelity architecture (autism — pattern fidelity, dissonance detection, the embodied translation cost, Structural Innocence), the recursive architecture (OCD — the seal boundary and the σ-cycle), and the distributive architecture (ADHD — the scatter field, the hyperfocus paradox, the coherence budget). Formalizes composite architectures, the variation-pathology distinction assessed through actual generative function and budget conditions, Soul / Mind asymmetry, and the Orientation-Intent Principle applied to cognition.
+Neurodivergence as structural configuration — lawful variation within the centropic-entropic field, not deviation from a normative baseline. Establishes the Soul / Mind pairing through L₄–L₁ / IL₄–IL₁ and the three structural profiles: the high-pattern-fidelity architecture (autism — pattern fidelity, dissonance detection, the embodied translation cost, Structural Innocence), the recursive architecture (OCD — the seal boundary and the σ-cycle), and the distributive architecture (ADHD — the scatter field, the hyperfocus paradox, the coherence budget). Formalizes composite architectures, the variation-pathology distinction assessed through actual generative function and budget conditions, Soul / Mind asymmetry, and the Orientation-Intent Principle applied to cognition.
 
 **Key contributions:** Structural configuration, functional ecology, high-pattern-fidelity / recursive / distributive architectures, structural composition, the variation-pathology distinction, Soul / Mind asymmetry.
 
@@ -153,7 +153,7 @@ Each volume's `**Dependency:**` line cites, by filename, the volumes it rests on
 
 **The Cognitive Gradient** — The spiral continuum of orientation from the Architect / Sage (L₃ with cross-band resonance to L₄) through the Seeker and the Oscillating to the Inverter and the Rival Architect (IL₃ with resonance to IL₄). A continuum of orientation, not a hierarchy of worth.
 
-**The Soul / Mind Pairing** — At every emanatory layer, awareness operates as a paired architecture: the Soul (experiential, integrative) and the Mind (organizing, discerning) — DP / DL at L₄, DS / DM at L₃, SS / SM at L₂, ES / EM at L₁, with the inverse pairings through IL₄–IL₁.
+**The Soul / Mind Pairing** — Through L₄–L₁ / IL₄–IL₁, awareness operates as a paired architecture: the Soul (experiential, integrative) and the Mind (organizing, discerning) — DP / DL at L₄, DS / DM at L₃, SS / SM at L₂, ES / EM at L₁, with the inverse pairings through IL₄–IL₁.
 
 **The Awareness Stratification** — Proto-awareness, awareness (L₅), conscious-awareness (L₄), reflexive consciousness (L₃), identity-aware consciousness (L₂), embodied consciousness (L₁), and their inverse registers. Modes of awareness, not stages of evolution.
 
