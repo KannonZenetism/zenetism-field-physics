@@ -55,7 +55,7 @@ Thus:
 
 > The essence is distinct before manifestation.  
 > The principle manifests within a Khaonic Tree.  
-> The office serves at the IL₅ threshold of that universal arc.  
+> The office operates at the IL₅ threshold of that universal arc.  
 > The office resolves when its terminal function is complete.  
 > The essence remains what it is.
 
@@ -116,7 +116,7 @@ Thus:
 \operatorname{arc}(N_{\eta}^{-1}) = u
 \]
 
-Archetypal minus-one remains a repeatable signed relation. The universe-local singleton rule concerns the Nekronic office, not arithmetic uniqueness.
+Archetypal minus-one remains a repeatable signed relation. The universe-local singleton constraint concerns the Nekronic office, not arithmetic uniqueness.
 
 ---
 
@@ -213,7 +213,7 @@ where:
 - \(\operatorname{Nekron}_{u}\) names the manifested IL₅ principle within the corresponding Khaonic Tree
 - \(\mathcal{O}^{N}_{\eta,u}\) names the conditionally persistent Nekronic office of that universal arc
 
-The sequence does not mean that an unstructured essence exists before Structure. 🏛️ Structon permits all lawful possibility; Aion holds identity-bearing potential in absolute distinction; Khaon supplies Infinity across its Latent, Motive, and Dispersive phases. Motive Infinity activates expression, and the Theon / Nekron split marks the first enacted hypostatic polarity.
+The sequence does not mean that an unstructured essence exists before Structure. 🏛️ Structon permits all lawful possibility; Aion holds identity-bearing potential in absolute distinction; Khaon supplies Infinity across its Latent, Motive, and Dispersive phases. Motive Infinity activates expression, and the Theon / Nekron split indicates the first enacted hypostatic polarity.
 
 Nekronic essence bears intrinsic pre-expressive inclination while latent in Aion. This is not yet manifest orientation or \( \chi \)-dynamics. Once Motive Infinity enacts motion, the essence's fragmentary nature becomes dynamically expressed through the minus-one hypostasis and the Khaonic Tree.
 
@@ -347,7 +347,7 @@ Fractalization belongs to the bearer:
 
 The Nekronic office does not fractalize with it.
 
-Many beings, systems, or relative structures may become Nekron-resonant, may bear aspects of the Nekronic signal, or may enact its function in distributed form. Full personal office-function bearing remains a narrower universe-local relation governed by office-correspondence.
+Many beings, systems, or relative structures may become Nekron-resonant, may bear aspects of the Nekronic signal, or may enact its function in distributed form. Full personal office-function bearing remains a narrower universe-local relation held through office-correspondence.
 
 The complete doctrine is articulated in `hypostatic-function-bearing-and-sovereign-embodiment.md`.
 
@@ -450,7 +450,7 @@ where:
 - \(\Phi_2\) is Motive Infinity
 - \(\Phi_3\) is Dispersive Infinity
 
-Motive Infinity is the only phase in enacted differentiation from Aionic stillness. Latent Infinity and Dispersive Infinity remain distinct from Aion per the Non-Fusion Axiom, but both are co-present with Aion at the bifurcal root.
+Motive Infinity is the only phase in enacted differentiation from Aionic stillness. Latent Infinity and Dispersive Infinity remain distinct from Aion per the Non-fusion Axiom, but both are co-present with Aion at the bifurcal root.
 
 Nekron's motion is therefore Spirit-borne. The same Motive Infinity that permits Theonic radiance permits Nekronic fragmentation. Spirit itself is not entropic. The hypostatic orientation through which Spirit is articulated determines the character of motion.
 
@@ -532,7 +532,7 @@ A strict distinction must therefore be preserved among:
 
 Nekron orients the Khaonic Tree without moving into each later station. The subsequent inverse principles give their own strata reality. Entropic motion carries the Nekronic character through them without making them alternate names for Nekron.
 
-The same distinction governs the centropic arc: Theon remains at L₅ while centropy articulates through L₄, L₃, L₂, and L₁.
+The same distinction holds for the centropic arc: Theon remains at L₅ while centropy articulates through L₄, L₃, L₂, and L₁.
 
 This prevents the hypostatic principle from being conflated with the motion it originates or with every downstream expression of that motion.
 
@@ -773,7 +773,7 @@ Thus:
 
 > Psychea / Nyxea, inverse Houses of Form, and inverse Soul / Mind presences are all ontologically real. They are never the same category and never become one another.
 
-The same rule applies centropically to Morgis / Sophis, Houses of Form, and Form-dwelling beings at L₄.
+The same distinction applies centropically to Morgis / Sophis, Houses of Form, and Form-dwelling beings at L₄.
 
 ---
 
@@ -887,7 +887,7 @@ The present doctrine does not affirm renewed acclivous entropic expression from 
 
 A further PSM-condition could be held open under the general discipline of limit-cases, but no such mechanism is presently known. This openness does not create an alternate recognized trajectory.
 
-In ordinary structural operation, arrival at the Nekronic office marks the final essence-register before Absolute Dispersion.
+In ordinary structural operation, arrival at the Nekronic office indicates the final essence-register before Absolute Dispersion.
 
 ---
 
@@ -1092,7 +1092,7 @@ The Principle of Structured Manifestation states:
 
 > What happens constrains what can.
 
-Together, they govern Nekronic completion without requiring an absolute claim that every office resolves under every conceivable condition.
+Together, they establish the conditions for Nekronic completion without requiring an absolute claim that every office resolves under every conceivable condition.
 
 ### Ordinary Outcome
 
@@ -1197,7 +1197,7 @@ No Nekron is an expression-locus of another.
 
 No Nekron is a shard, copy, or local partition of one trans-universal Nekron.
 
-The multiverse increases the complexity of allocation without altering the Non-Fusion Axiom.
+The multiverse increases the complexity of allocation without altering the Non-fusion Axiom.
 
 The present entry does not claim that the multiverse is empirically or metaphysically actual. It establishes the architecture required if it is.
 
@@ -1308,7 +1308,7 @@ Only the first three admit recovery or renewed expression per the present doctri
 > The Nekronic office is the conditionally persistent IL₅ function proper to one universe-generating arc. It remains while VOS-culminating essence proper to its arc has not completed terminal passage.
 
 > **Arc-Proper Culmination Principle**  
-> The Nekronic office governs the terminal passage of VOS-culminating essences proper to its universal arc, not every Inverse Deep Self-Axis expression-locus appearing within that universe. An Inverse Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
+> The Nekronic office performs the terminal-passage function for VOS-culminating essences proper to its universal arc, not every Inverse Deep Self-Axis expression-locus appearing within that universe. An Inverse Deep Self-Axis may be trans-expressionally present across many universes while its underlying essence remains proper to one processional arc.
 
 > **Allocation Distinction Principle**  
 > An Inverse Deep Self-Axis is one IL₃-individuated being present to multiple expression-loci. Nekronic essence is distinct per universal arc and does not fractalize across universes.
