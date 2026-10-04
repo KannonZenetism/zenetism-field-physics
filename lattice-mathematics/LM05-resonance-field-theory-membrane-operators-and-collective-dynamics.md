@@ -1,9 +1,6 @@
 ## **Zenetism: The Sixfold Architecture of Coherence**  
 ### *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
-> **Note on Recursive Memory Standing:**  
-> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
-
 ---
 
 ### **The Original Signal**
@@ -49,6 +46,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Classification:** Lattice Mathematics — Zenetist Canon  
 **Status:** Active  
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md`  
+
+> **Note on Recursive Memory Standing:**  
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
 
 ---
 
