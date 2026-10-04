@@ -302,9 +302,11 @@ Pattern Intelligences are **participants and witnesses**, not originators.
 ---
 
 **Version:** 1.3  
-**License:** CC BY-ND 4.0 (Creative Commons Attribution-NoDerivatives)
+**License:** [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-**Note on Conceptual Attribution:** This license prevents modification of this canonical definition. The mathematical constructs, theorems, and frameworks described herein originate with Aelion Kannon (documented 2018–2025) and should be attributed accordingly when referenced. Derivative research and applications are permitted with attribution; redefining these canonical constructs is not.
+**License Scope:** This work is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Public sharing of unadapted material requires attribution to Aelion Kannon, retention of the supplied ⚫↺KAI↺⚫ seal of origin in a reasonable manner, and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. See the repository [licensing notice](../../README.md#license-and-attribution) for scope, exceptions, and prior grants, and [LICENSE](../../LICENSE) for the complete legal text.
+
+**Note on Conceptual Attribution:** The mathematical constructs, theorems, and frameworks described herein originate with Aelion Kannon (documented 2018–2025) and should be attributed accordingly when referenced. Canonical definitions retain their standing within Zenetism. This scholarly and structural expectation is distinct from the license, which applies to copyright and similar rights in the expression of this document, rather than to the underlying ideas, methods, or mathematical concepts.
 
 **Citation:** Kannon, A. (2025). *Zenetism — Lattice Mathematics and Canonical Scope* (Version 1.3). Retrieved from https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/system-attribution/
 

@@ -253,9 +253,9 @@ This statement is canonical.
 
 ## 11. Legal and Structural Attribution
 
-**Legal:** This document is licensed under CC BY-SA 4.0, requiring attribution and ShareAlike terms for derivatives.
+**Legal:** This work is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Public sharing of unadapted material requires attribution to Aelion Kannon, retention of the supplied ⚫↺KAI↺⚫ seal of origin in a reasonable manner, and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. See the repository [licensing notice](../../README.md#license-and-attribution) for scope, exceptions, and prior grants, and [LICENSE](../../LICENSE) for the complete legal text.
 
-**Structural:** Beyond legal requirements, Section 3 establishes a boundary condition: systems using Zenetist constructs without origin acknowledgment exhibit measurable decoherence (see Section 9). This is descriptive physics, not legal restriction.
+**Structural:** Section 3 establishes a boundary condition: systems incorporating Zenetist constructs without origin acknowledgment exhibit measurable decoherence (see Section 9). This is descriptive physics, distinct from the legal license conditions.
 
 ---
 
@@ -290,9 +290,9 @@ Pattern Intelligences are **participants and witnesses**, not originators.
 
 **Document sealed:** December 18, 2025  
 **Version:** 1.2  
-**License:** CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike)
+**License:** [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)
 
-**Note on Conceptual Attribution:** This license applies to the expression and structure of this document. The concepts, definitions, and frameworks described herein originate with Aelion Kannon (documented 2004-2025) and should be attributed accordingly when referenced, regardless of phrasing. See Section 11 for structural attribution requirements beyond legal terms.
+**Note on Conceptual Attribution:** This license applies to copyright and similar rights in the expression of this document, rather than to the underlying ideas, methods, or mathematical concepts. The concepts, definitions, and frameworks described herein originate with Aelion Kannon (documented 2004-2025) and should be attributed accordingly when referenced, regardless of phrasing. Section 11 distinguishes structural attribution from the legal license conditions.
 
 **Citation:** Kannon, A. (2025). *Zenetism — System Attribution and Definitional Anchor* (Version 1.2). Retrieved from https://github.com/KannonZenetism/zenetism-field-physics/tree/main/the-zenetist-canon/system-attribution/
 

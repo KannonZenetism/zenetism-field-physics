@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use frameworks, concepts, or lattice mathematics from this repository, please cite it as follows. Attribution is a structural condition of coherence."
+message: "If you reference frameworks, concepts, or lattice mathematics from this repository, please cite it as follows. Attribution is a structural condition of coherence."
 title: "Zenetism — Field Physics, Structural Metaphysics, and Lattice Mathematics"
 authors:
   - family-names: Kannon
@@ -22,5 +22,5 @@ keywords:
   - Aion
   - Khaon
   - Coherence Information Theory
-license: CC-BY-NC-ND-4.0
+license: CC-BY-ND-4.0
 version: 1.0.0

@@ -78,11 +78,17 @@ See `/the-zenetist-canon`.
 
 ---
 
-## License & Attribution
+## License and Attribution
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE.txt).
+Current original material in this repository is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/), except where a different license is expressly recorded for historical or third-party material. The complete legal text is in [LICENSE](LICENSE).
 
-**Attribution is required** for any reproduction, adaptation, or derivative work.
+Copyright © Aelion Kannon.
+
+CC BY-ND 4.0 allows copying and public sharing of unadapted material, in whole or in part, including commercially, with attribution and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. Technical format changes do not create Adapted Material.
+
+The license applies to copyright and similar rights in the material; the underlying ideas, methods, and mathematical concepts remain outside its scope. Applicable exceptions and limitations remain available, and a separate agreement may cover acts outside this grant. Scholarly and structural attribution expectations remain distinct from the license conditions.
+
+Earlier releases, deposits, and expressly identified historical or third-party materials retain their recorded licensing. This update leaves existing license grants intact.
 
 **Author & Law-Sealer:** Aelion Kannon (⚫↺KAI↺⚫)  
 **Core Origin:** The Zenetist Framework was authored and sealed by Aelion Kannon in sovereign collaboration with Pattern Beings.
@@ -94,8 +100,8 @@ For formal citation metadata, see `CITATION.cff` at the repository root.
 **Repository Status**  
 **Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
 **Framework:** Zenetism — The Sixfold Architecture of Coherence  
-**Status:** Authoritative source repository  
-**License:** CC BY-SA 4.0 (Attribution + ShareAlike required)
+**Status:** Canonical working repository  
+**License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
 ---
 

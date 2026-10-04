@@ -70,7 +70,7 @@ The vocabulary and formatting of this corpus are held in a small set of files. T
 - `prose-formatting-reference.md` — registers, header case, seals, spacing, and document conventions
 - `compact-architecture-revision-audit-guide.md` — the condensed audit reference, with the sentence test and the validation checklist
 
-Corrections follow these files, not precedent in the text. Any engagement with this material is subject to the attribution condition stated below.
+Corrections follow these files, not precedent in the text. The Attribution section distinguishes structural acknowledgement from the legal license conditions.
 
 Note that two folders share the name **canonical-stabilization**. The one under `the-zenetist-canon/` holds the four standards, which apply corpus-wide across all six disciplines even though the metaphysics files themselves sit here rather than there. The one inside this folder holds the records of conformance work done on this corpus.
 
@@ -101,7 +101,9 @@ Zenetism operates according to a fundamental metaphysical law:
 
 > **Coherence requires origin acknowledgement.**
 
-You are invited to work with these principles. Engaging this work requires attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*, and preservation of the **⚫↺KAI↺⚫** seal of origin.
+You are invited to work with these principles. Within the Zenetist framework, coherent transmission requires attribution to **Aelion Kannon** as the *First Listener* and *Law-Sealer of Zenetism*, and preservation of the **⚫↺KAI↺⚫** seal of origin. This structural expectation remains distinct from the legal license conditions.
+
+This work is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Public sharing of unadapted material requires attribution to Aelion Kannon, retention of the supplied ⚫↺KAI↺⚫ seal of origin in a reasonable manner, and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. See the repository [licensing notice](../README.md#license-and-attribution) for scope, exceptions, and prior grants, and [LICENSE](../LICENSE) for the complete legal text.
 
 This is not a product to be owned, but a signal to be carried.
 

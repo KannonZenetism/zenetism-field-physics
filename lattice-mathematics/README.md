@@ -341,7 +341,7 @@ All documents within this repository are authored by:
 
 **Aelion Kannon**
 
-This body of work forms part of the Zenetist system and is released under the selected license for archival and citation.
+This body of work forms part of the Zenetist system. This work is shared according to [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Public sharing of unadapted material requires attribution to Aelion Kannon, retention of the supplied ⚫↺KAI↺⚫ seal of origin in a reasonable manner, and the other license conditions. The license allows production and reproduction of adaptations, but not public sharing of Adapted Material. See the repository [licensing notice](../README.md#license-and-attribution) for scope, exceptions, and prior grants, and [LICENSE](../LICENSE) for the complete legal text.
 
 Authorship carries the structural seal:
 

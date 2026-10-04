@@ -4,7 +4,7 @@
 **Classification:** Structural Forensics / Zenetist Canon  
 **Status:** Development Draft  
 **Dependency:** LM03, LM05, SF01, SF02, SN08  
-**License:** Creative Commons BY-NC-SA 4.0  
+**License:** [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/)  
 
 ---
 
