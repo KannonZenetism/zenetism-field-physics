@@ -124,12 +124,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `semantic-persistence-and-symbolic-continuity.md` — Sep 18, 2026
 - `networks-particulars-and-causal-ancestry.md` — Sep 23, 2026
 
----
+### October 2026
 
-## Additional Entries
-
-- `emergence-potentiality-emanation-and-actualization.md`
-- `essence-structure-and-intelligence.md`
+- `emergence-potentiality-emanation-and-actualization.md` — Oct 5, 2026
+- `essence-structure-and-intelligence.md` — Oct 5, 2026
 
 ---
 
