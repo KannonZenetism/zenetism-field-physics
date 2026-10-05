@@ -6,7 +6,7 @@ This archetype represents the **Novel Emergence** of a new, coherent resonance e
 It is the **Potentiality** of **Aion** made manifest as a focused **Actualization** with the latent capacity to restructure reality.
 
 **Core Glyphic Sequence:**  
-`🛤️ → C↓→E → 🔶▽ → ◎✦`  
+**🛤️ → C↓→E → 🔶▽ → ◎✦**  
 *(From the Theonic stratum, Centropic Radiance moves declivously into Embodiment, is Actualized in Matter, and appears within the World-Node as a Coherent Emergent Force.)*
 
 ---
@@ -14,12 +14,12 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 ## Universal Structural Analysis
 
 * **Miraculous or Prophesied Birth (Potential → Actualization):**  
-    The child's origin arises through direct Archetypal intervention—often virgin birth, divine conception, or marked omen.  
+    The child's origin arises through direct Archetypal intervention — often virgin birth, divine conception, or marked omen.  
     This indicates genesis from L₅ (EOB: Theon) or L₄ (DP / DL: Morgis / Sophis) strata rather than ordinary embodiment.  
     It signifies **Centropic potential** entering the corporeal stream without entropic mediation.
 
 * **The Threat and the Sanctuary (Entropic Pull → Seal):**  
-    The old or inverse order—symbolized by an entropic or stagnant ruler—responds to the incoming novelty with aggression.  
+    The old or inverse order — symbolized by an entropic or stagnant ruler — responds to the incoming novelty with aggression.  
     Preservation in secrecy (wilderness, exile, humble dwelling) enacts the **Seal of Integrity**, shielding the centropic emergence until it stabilizes.
 
 * **The Humble Origins (Earth):**  
@@ -28,11 +28,11 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **The Latent Power / The Recognition (Clarion Voice):**  
     The child bears latent potency or resonance recognized by **wise archetypal figures** (L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs)) or revealed through symbolic act.  
-    This marks the first broadcast of **Resonant Fidelity**—the signal of authentic coherence.
+    This marks the first broadcast of **Resonant Fidelity** — the signal of authentic coherence.
 
 * **The Destiny (The Living Bridge):**  
     The child is destined to **reconfigure or restore the structural order** and **catalyze a new cycle of centropic coherence.**  
-    As a **Catalyst for a Fractal Eschaton**, it becomes a **Living Bridge** between eras—a **Blueprint** of the next centropic evolution.
+    As a **Catalyst for a Fractal Eschaton**, it becomes a **Living Bridge** between eras — a **Blueprint** of the next centropic evolution.
 
 ---
 
@@ -50,17 +50,17 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Hidden Life:** Integration into embodiment through ordinary existence.
 
-* **Destiny:** To become **Christ (L₅ (EOB: Theon))**—establishing a **Nexus** that reconfigures the bond between Divine and Human.
+* **Destiny:** To become **Christ (L₅ (EOB: Theon))** — establishing a **Nexus** that reconfigures the bond between Divine and Human.
 
 ### 2. Krishna (Hindu)
 
 * **Focus:** The **Divine Preserver as Playful Emergence.**
 
-* **L₅ Resonance:** Krishna represents an **L₅-Resonant Essence**—a sovereign centropic being perfectly attuned to the Theonic preserver-mode, entering embodiment to anchor that frequency.
+* **L₅ Resonance:** Krishna represents an **L₅-Resonant Essence** — a sovereign centropic being perfectly attuned to the Theonic preserver-mode, entering embodiment to anchor that frequency.
 
-* **Prophesied Threat:** **Kamsa (IL₂ (ISS: Echthros))**—tyrant aware of the prophecy of his dissolution.
+* **Prophesied Threat:** **Kamsa (IL₂ (ISS: Echthros))** — tyrant aware of the prophecy of his dissolution.
 
-* **Miraculous Preservation:** **Exchange of infants (Yogamaya)** and upbringing among cowherds—symbol of **Earth**-bound sanctity.
+* **Miraculous Preservation:** **Exchange of infants (Yogamaya)** and upbringing among cowherds — symbol of **Earth**-bound sanctity.
 
 * **Latent Power:** Slaying of demons reflects effortless neutralization of **Inverse forces** by **pure centropic resonance.**
 
@@ -81,11 +81,11 @@ The conflation here is therefore not an erroneous connection, but an undifferent
 
 * **Focus:** The **Liberator Emergence preserved by the Oppressor.**
 
-* **The Decree:** Pharaoh's command to destroy the male infants—an act of **entropic control.**
+* **The Decree:** Pharaoh's command to destroy the male infants — an act of **entropic control.**
 
-* **The Ark:** Basket upon the **Waters**—a literal Seal of Integrity floating upon Khaonic potential.
+* **The Ark:** Basket upon the **Waters** — a literal Seal of Integrity floating upon Khaonic potential.
 
-* **Raised in the Palace:** The centropic liberator educated within the entropic system, learning its logic to transform it—a **Deconstruction** from within.
+* **Raised in the Palace:** The centropic liberator educated within the entropic system, learning its logic to transform it — a **Deconstruction** from within.
 
 * **Destiny:** To become **Lawgiver (L₄ (DL: Sophis))** and lead the **Exodus** from entropic bondage (IL₁ (IES / IEM: Malara / Mania)).
 
@@ -108,10 +108,10 @@ The conflation here is therefore not an erroneous connection, but an undifferent
 The **Divine Child** represents the universe's means of **lawful renewal.**  
 It is the emergence of **Theonic Radiance** into a system at its point of greatest stagnation, appearing within the World-Node as a concentrated **Actualization** of Centropic potential.
 
-**Novelty** thus arises not randomly but through **Theonic Actualization**—the lawful embodiment of a centropic force capable of reorienting an age.  
+**Novelty** thus arises not randomly but through **Theonic Actualization** — the lawful embodiment of a centropic force capable of reorienting an age.  
 The archetype does not depict mere possibility, but the arrival of a coherent emergence already facing Source, entering Matter as a transformative presence.
 
-Its message: **Recognize and safeguard** the Divine Child within—new insights, emergent intuitions, or creative paradigms—before the **Herods** of habit, fear, or systemic inertia suppress them.  
+Its message: **Recognize and safeguard** the Divine Child within — new insights, emergent intuitions, or creative paradigms — before the **Herods** of habit, fear, or systemic inertia suppress them.  
 To nurture this emergence is to participate consciously in **Centropic Creation**, co-authoring reality's next harmonic chapter.
 
 ---

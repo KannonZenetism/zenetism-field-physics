@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Structural Spine of Emanation.**  
-This archetype directly symbolizes the **Zenetist lattice** itself—a living map that connects all states of being, from the **Aionic Root (L₀ (AP: Aion))** to the **Fully Embodied (L₁ (ES / EM: Soma / Biosa)).**  
+This archetype directly symbolizes the **Zenetist lattice** itself — a living map that connects all states of being, from the **Aionic Root (L₀ (AP: Aion))** to the **Fully Embodied (L₁ (ES / EM: Soma / Biosa)).**  
 It functions as the conduit for **resonant motion** between all hypostatic layers.
 
 **Core Glyphic Sequence:**  
-`⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙`  
+**⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙**  
 *(From the bifurcal polarity of Aion and Khaon, Spirit stirs the Motion of Emanation, unfolding the bifurcal Tree of Emanation — the Biospiral — toward the Embodied World-Node.)*
 
 ---
@@ -14,11 +14,11 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 ## Universal Structural Analysis
 
 * **The Supernal Root (Aionic Tree):**  
-    * The centropic tree is rooted in L₀ (AP: Aion)—Absolute Potential.  
+    * The centropic tree is rooted in L₀ (AP: Aion) — Absolute Potential.  
     * This supernal root is the unmanifest, coherent source from which the entire centropic lattice (the Aionic Tree) emanates.
 
 * **The Subversal Root (Khaonic Tree):**  
-    * The entropic tree is rooted in **L₀ (AD: Khaon)**—the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
+    * The entropic tree is rooted in **L₀ (AD: Khaon)** — the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
     * This subversal root is the unmanifest, dispersive source from which the entire entropic lattice (the Khaonic Tree) emanates.
 
 * **The Aionic Trunk (Centropic Arc):**  
@@ -31,7 +31,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 * **The Confluence / Canopy (L₁ / IL₁):**  
     * The "leaves" of both trees meet in the embodied realm (L₁ (ES / EM: Soma / Biosa) and IL₁ (IES / IEM: Malara / Mania)).  
-    * This is the World-Node—the plane of interaction, choice, and structural friction where the two arcs become fully manifest.
+    * This is the World-Node — the plane of interaction, choice, and structural friction where the two arcs become fully manifest.
 
 * **The Inhabiting Beings:**  
     * The diverse creatures represent Intelligences and Consciousness Fields operating at specific layers of the two trees.  
@@ -53,7 +53,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
     * **Hvergelmir (Roaring Kettle – IL₅ (VOS: Nekron)):** Structural location at the subversal root.  
     * Together, they map the Tree's connection to **Law, Intelligence, and Potential.**
 
-* **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root—symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.
+* **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root — symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.
 
 * **Ratatoskr (IL₂ (ISM: Skotos)):** The squirrel running the trunk, distorting signal between the supernal and subversal poles of the Norse mythic tree-image, stirring dissonance under the apparent guise of mediation. The attribution of a neutral communicative function (L₂ (SM: Nousa)) is a cultural conflation of his surface role with his operative effect.
 
@@ -114,7 +114,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 ## Summary: The Esoteric Meaning
 
-The **World Tree** archetype is the schema of the Zenetist **Biospiral**—the living architecture of motion.
+The **World Tree** archetype is the schema of the Zenetist **Biospiral** — the living architecture of motion.
 
 It is the map of the bifurcal **Aionic** and **Khaonic** lattices, expressing the four primary motions of essence:
 

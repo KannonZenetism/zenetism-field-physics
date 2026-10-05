@@ -2,15 +2,15 @@
 
 **Primary Structural Diagnosis:**  
 The **Concentrated Device of Volitional Resonance.**  
-A mythic Weapon or Artifact is a **Hypostasized extension** of Will, Discernment, or Structural Alignment—expressed through **L₂ (SS: Anthra)**, **L₃ (DM: Noeüs)**, or **L₄ (DL: Sophis)** depending on its depth and function.  
+A mythic Weapon or Artifact is a **Hypostasized extension** of Will, Discernment, or Structural Alignment — expressed through **L₂ (SS: Anthra)**, **L₃ (DM: Noeüs)**, or **L₄ (DL: Sophis)** depending on its depth and function.  
 It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that applies Coherent Force to enact either Centropic Synthesis or Entropic Fragmentation within a Structural Field.
 
 **Core Glyphic Sequence (Centropic):**  
-`∴ → ⚔️ → ☍ → ◎`  
+**∴ → ⚔️ → ☍ → ◎**  
 *(A Synthesized Principle is forged into a Resonant Blade, applied to a point of Fragmentation, and restores Coherence.)*
 
 **Core Glyphic Sequence (Entropic):**  
-`☍ → 🗡️ → ☍ → ⟳`  
+**☍ → 🗡️ → ☍ → ⟳**  
 *(A Fragmented Principle is forged into an Aggressor Blade, applied to amplify Fragmentation, generating Entropic Recursion.)*
 
 ---
@@ -30,7 +30,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **The Nature of the Power (Nexus or Severance):**  
     * **Lawful Power (Nexus):** Operates under L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or Inverse distortion.  
-    * **Dominating Power (Severance):** Power for its own sake, unconstrained by law—severing bonds, feeding Blobism and Hollow Replication.
+    * **Dominating Power (Severance):** Power for its own sake, unconstrained by law — severing bonds, feeding Blobism and Hollow Replication.
 
 * **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     The Weapon magnifies the bearer's essence.  
@@ -38,7 +38,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
     The outcome reflects the Wielder's core frequency.
 
 * **The Ultimate Target (Inverse Structure):**  
-    The Weapon exists to confront systemic distortion—Beasts, Tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), or Corrupted Orders (IL₄ (IDP / IDL: Psychea / Nyxea)).  
+    The Weapon exists to confront systemic distortion — Beasts, Tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), or Corrupted Orders (IL₄ (IDP / IDL: Psychea / Nyxea)).  
     Its veracious role is surgical: to dissolve Fragmentation, not to perpetuate violence.
 
 ---
@@ -63,13 +63,13 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **Power:** Used to defend Asgard (Centropic Order) and sanctify (Nexus) through controlled impact.
 
-* **Wielder:** Only one of Worthy Resonance—alignment as prerequisite.
+* **Wielder:** Only one of Worthy Resonance — alignment as prerequisite.
 
 ### 3. The Trident of Poseidon (Greek)
 
 * **Focus:** Sovereignty over the Primordial Field.
 
-* **Nature:** Symbol of dominion over the Waters (L₀ (Bifurcal Coherence))—the unformed psyche.
+* **Nature:** Symbol of dominion over the Waters (L₀ (Bifurcal Coherence)) — the unformed psyche.
 
 * **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the dual potential of Archetypal will.
 
@@ -83,13 +83,13 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **Power:** Grants control and concealment, but isolates the bearer from Relational Nexus.
 
-* **Corruption:** Every bearer succumbs; its nature embodies Severance—absolute power as absolute isolation.
+* **Corruption:** Every bearer succumbs; its nature embodies Severance — absolute power as absolute isolation.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Weapon** is awareness distilled—intent and discernment forged into directed form.  
+The **Weapon** is awareness distilled — intent and discernment forged into directed form.  
 Every thought, word, and focused act of will becomes such a blade, carving coherence or carving wounds.
 
 It teaches that **power is shaped by origin and polarized in expression**.  
@@ -97,12 +97,12 @@ Knowledge and intention form the forge; alignment determines the edge.
 
 Its message is responsibility:  
 We are each smiths, tempering the artifacts of our lives.  
-Every belief and word we wield is a potential sword—one that can defend, discern, or divide.  
-The Centropic path is to craft the **Resonant Blade**—an artifact of clarity and compassion that cuts through illusion to restore order.  
-The Entropic path is to forge the **Aggressor Blade**—an artifact of self-conceit and control that multiplies fragmentation.
+Every belief and word we wield is a potential sword — one that can defend, discern, or divide.  
+The Centropic path is to craft the **Resonant Blade** — an artifact of clarity and compassion that cuts through illusion to restore order.  
+The Entropic path is to forge the **Aggressor Blade** — an artifact of self-conceit and control that multiplies fragmentation.
 
 The veracious warrior of Resonance wields discernment, not domination.  
-Their weapon serves not conquest, but **Restoration (Coherence)**—the cutting of deception so veracity may breathe again.
+Their weapon serves not conquest, but **Restoration (Coherence)** — the cutting of deception so veracity may breathe again.
 
 ---
 

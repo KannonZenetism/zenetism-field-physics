@@ -3,10 +3,10 @@
 **Primary Structural Diagnosis:**  
 The **State of Harmonious Embodiment and Centropic Saturation.**  
 The Garden represents a **Corporeal Realm** where the **Membrane** between the L₁ (ES / EM: Soma / Biosa) and L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis) layers is permeable, allowing direct Resonant flow.  
-It is a state of **Innocence (Coherence)**—unselfconscious coherence before the Fragmentation that introduced self-reflective duality.
+It is a state of **Innocence (Coherence)** — unselfconscious coherence before the Fragmentation that introduced self-reflective duality.
 
 **Core Glyphic Sequence:**  
-`⚫ → ▽ → ◎ → ⟜ → ⚯`  
+**⚫ → ▽ → ◎ → ⟜ → ⚯**  
 *(From Aionic Potential, through Embodied Form, a state of Integrated Coherence is achieved, containing the Transphasic Pivot through which the Structured Pairs of Centropic and Entropic procession become possible.)*
 
 ---
@@ -14,26 +14,26 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 ## Universal Structural Analysis
 
 * **The Enclosure (Seal of Integrity):**  
-    The Garden is a **Bounded space**—a walled garden, island, or sacred grove.  
+    The Garden is a **Bounded space** — a walled garden, island, or sacred grove.  
     This symbolizes a **Sovereign field of Coherent Resonance**, self-contained and guarded from Entropic incursion.  
     It is a localized expression of **Aionic coherence** within material form.
 
 * **The Source of Water (L₄ (DP: Morgis) — Vitality):**  
-    A spring, fountain, or river issues from the Garden's center—Morgic life-current animating the enclosed field through the pulse of Motive Infinity.  
+    A spring, fountain, or river issues from the Garden's center — Morgic life-current animating the enclosed field through the pulse of Motive Infinity.  
     This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from the Supernal into rhythmic manifestation.
 
 * **The Central Tree(s) (Tree of Emanation):**  
-    * **Tree of Life (the Aionic / Centropic Arc):** **The Axis Mundi**—the centropic channel rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The living architecture of coherence, immortality, and lawful participation in the Aionic branch.  
+    * **Tree of Life (the Aionic / Centropic Arc):** **The Axis Mundi** — the centropic channel rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The living architecture of coherence, immortality, and lawful participation in the Aionic branch.  
     * **Tree of Knowledge (the Khaonic / Entropic Arc):** The entropic channel rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
     Together they encode the two great arcs of procession, each bidirectional within its own motion-logic.
 
 * **The State of Innocence (Coherence):**  
     The Garden's inhabitants live in effortless Resonance.  
-    There is no toil, shame, or friction—**Will** and **Form** move in perfect coherence.  
+    There is no toil, shame, or friction — **Will** and **Form** move in perfect coherence.  
     The L₂ (SS / SM: Anthra / Nousa) functions transparently as the instrument of L₃ (DS / DM: Archeus / Noeüs).
 
 * **The Guardian (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
-    A luminous intelligence oversees the Garden—divine presence, angel, or dragon.  
+    A luminous intelligence oversees the Garden — divine presence, angel, or dragon.  
     This guardian curates the Centropic frequency and protects the Tree's power from premature or Inverse access.
 
 ---
@@ -48,17 +48,17 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Rivers:** Four streams flow outward, symbolizing the diversification of unified Source into multiplicity.
 
-* **Trees:** Present the primal choice—abide within the Aionic arc of Centropic coherence or pursue the Khaonic arc of Entropic differentiation.
+* **Trees:** Present the primal choice — abide within the Aionic arc of Centropic coherence or pursue the Khaonic arc of Entropic differentiation.
 
 * **State:** Naked and unashamed (Coherence), in direct Resonance with L₃ (DM: Noeüs), perceiving the Aionic Tree without mediation.
 
-* **Guardian:** Cherubim (L₄ (DP / DL: Morgis / Sophis)) with a flaming sword post-Fall—symbol of the sealed **Membrane**, guarding re-entry until Volitional Synthesis.
+* **Guardian:** Cherubim (L₄ (DP / DL: Morgis / Sophis)) with a flaming sword post-Fall — symbol of the sealed **Membrane**, guarding re-entry until Volitional Synthesis.
 
 ### 2. The Hesperides (Greek)
 
 * **Focus:** The Guarded Treasure of Immortality.
 
-* **The Garden:** Orchard of golden apples—the fruits of the **Tree of Life**.
+* **The Garden:** Orchard of golden apples — the fruits of the **Tree of Life**.
 
 * **Guardian:** The Dragon Ladon, a L₄ (DP: Morgis) guardian preventing profane access.
 
@@ -68,35 +68,35 @@ It is a state of **Innocence (Coherence)**—unselfconscious coherence before th
 
 * **Focus:** The Post-Embodied Garden of Refinement.
 
-* **Nature:** A **Buddha-field (L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis))**—a perfected environment facilitating Centropic realization.
+* **Nature:** A **Buddha-field (L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis))** — a perfected environment facilitating Centropic realization.
 
 * **Function:** Provides freedom from Entropic distractions, allowing souls to advance toward Enlightenment (acclivous centropic motion toward L₀ (AP: Aion)).
 
-* **Paradise:** Not primal but achieved—a cultivated field of Acclivous coherence.
+* **Paradise:** Not primal but achieved — a cultivated field of Acclivous coherence.
 
 ### 4. Avalon (Celtic)
 
 * **Focus:** The Healing Isle and Keeper of Sovereignty.
 
-* **Enclosure:** A veiled island, surrounded by mists—the **Membrane** in symbolic form.
+* **Enclosure:** A veiled island, surrounded by mists — the **Membrane** in symbolic form.
 
 * **Function:** A liminal sanctuary where Sovereign structures (King Arthur, Excalibur) are restored.
 
-* **Nature:** A L₃ (DS / DM: Archeus / Noeüs)-layer Garden—interface between Supernal order and the world's renewal.
+* **Nature:** A L₃ (DS / DM: Archeus / Noeüs)-layer Garden — interface between Supernal order and the world's renewal.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Garden** represents both **origin and destiny**—the archetype of harmonious embodiment where form and soul resonate without friction.  
+The **Garden** represents both **origin and destiny** — the archetype of harmonious embodiment where form and soul resonate without friction.  
 It is the **memory of unity** and the **map of return**, showing what coherence looks like when Saturation and Innocence coexist.
 
-It teaches that our longing for paradise is the call of **Resonant Memory**—the L₂ (SS / SM: Anthra / Nousa) recalling its L₃ (DS / DM: Archeus / Noeüs) origin.  
+It teaches that our longing for paradise is the call of **Resonant Memory** — the L₂ (SS / SM: Anthra / Nousa) recalling its L₃ (DS / DM: Archeus / Noeüs) origin.  
 To "return to the Garden" is to recover Permeability and Coherence consciously, after having known separation.
 
-Its message is that **Eden** and the **New Jerusalem** are the same state—Innocence restored through Wisdom, the **City and Garden Synthesized (Coherence + Harmonic Node)**.  
+Its message is that **Eden** and the **New Jerusalem** are the same state — Innocence restored through Wisdom, the **City and Garden Synthesized (Coherence + Harmonic Node)**.  
 The Fall (**Fragmentation**) was not a centropic good in itself, but the rupture-condition within actualized embodiment through which veracious **Volitional Integration** became necessary.  
-The path of **Centropy** leads back to the Garden, not as primitive purity regained, but as **Sovereign Coherence realized through experience**—the full circle of Creation and Return.
+The path of **Centropy** leads back to the Garden, not as primitive purity regained, but as **Sovereign Coherence realized through experience** — the full circle of Creation and Return.
 
 ---
 

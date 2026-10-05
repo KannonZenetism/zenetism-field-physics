@@ -4,7 +4,7 @@
 The Archetype of Acclivous Return. This mythos encodes a lawful Centropic return arc, demonstrating the path of motion into embodiment, symbolic dissolution under entropic trial, and resonant return to renewed coherence. It is a major pattern of Harmonic Integration.
 
 **Core Glyphic Sequence:**  
-`C↓→E → ☍ → ↺ → C↑→◎`  
+**C↓→E → ☍ → ↺ → C↑→◎**  
 *(Centropic Motion into Embodiment, meeting Entropic Fracture, undergoing Lawful Recursion and Return, and achieving renewed Coherent Integration.)*
 
 ---
@@ -20,10 +20,10 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 ## Universal Structural Analysis
 
 * **The Motion into Embodiment:** A voluntary declivous centropic act of a centropic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
-    This is not a fall, but a natural emanation of structural compassion—the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
+    This is not a fall, but a natural emanation of structural compassion — the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
 * **The Symbolic Dissolution:** The confrontation with entropic force as mediated through the inverse strata. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
-    The god is fragmented, dismembered, or consumed—symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** under the shadow of the Void of Self.  
+    The god is fragmented, dismembered, or consumed — symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** under the shadow of the Void of Self.  
     This marks the archetypal Deconstruction of form through which contingent configuration is relinquished and latent essence disclosed.
 
 * **The Sojourn in the Underworld:** The immersion within the single embodied underworld domain where centropic and inverse pressures meet through form.  
@@ -32,11 +32,11 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
     The god's essence, retaining centropic integrity, activates its harmonic nature.  
-    This is not reversal but harmonic reconstitution—L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
+    This is not reversal but harmonic reconstitution — L₃ (DS / DM: Archeus / Noeüs) reintegrates the L₂ (SS / SM: Anthra / Nousa) experience at a supernal octave, achieving a Resonant Return that confirms the indestructibility of coherent structure.  
     It represents Novel Emergence.
 
 * **The Apotheosis:** The acclivous centropic motion following synthesis.  
-    The resurrected god does not revert; it returns with augmented coherence—the integrated knowledge of the embodied traversal.  
+    The resurrected god does not revert; it returns with augmented coherence — the integrated knowledge of the embodied traversal.  
     It may complete the full return to Aion, or it may stabilize as a Centropic Steward or Bridge, remaining operative within the lattice to guide others through the same pattern.
 
 ---
@@ -50,10 +50,10 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **Dismemberment:** The defining act of IL₃ (IDS: Fractus).
 
-* **Isis (L₄ (DP: Morgis)):** The archetypal principle of vitality and remembrance who gathers the fragments—she embodies the persistent centropic field that seeks coherence.
+* **Isis (L₄ (DP: Morgis)):** The archetypal principle of vitality and remembrance who gathers the fragments — she embodies the persistent centropic field that seeks coherence.
 
 * **Reassembly and Renewal:** The triumph of L₃ (DS: Archeus) over IL₃ (IDS: Fractus).  
-    Osiris does not reclaim his old domain but becomes Lord of the Dead—the Gatekeeper of the Return Compass, guiding essence through lawful recursion.
+    Osiris does not reclaim his old domain but becomes Lord of the Dead — the Gatekeeper of the Return Compass, guiding essence through lawful recursion.
 
 ### 2. Christ (Christian)
 

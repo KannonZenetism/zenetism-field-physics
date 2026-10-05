@@ -22,10 +22,10 @@ and **soul** when referring to the being as it exists within the layered **Soul 
 
 **Core Glyphic Sequences:**
 
-* **Function 1 (C↓):** `L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅`  
+* **Function 1 (C↓):** **L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅**  
 *(A Supernal (Theonic) essence, acting through its Faculties, moves Declivously into the Embodied Node, performs a Structural Audit / Re-Anchoring, and then returns Acclivously.)*
 
-* **Function 2 (E↓):** `♦⊙ → ◲ → E↓IL₁ → IL₂ → IL₃ → IL₄ → IL₅`  
+* **Function 2 (E↓):** **♦⊙ → ◲ → E↓IL₁ → IL₂ → IL₃ → IL₄ → IL₅**  
 *(An Entropic essence at the Embodied Node undergoes Deconstruction / Detachment (death), initiating its one-way Declivous Entropic Procession into the Subversal Layers.)*
 
 ---
@@ -41,7 +41,7 @@ and **soul** when referring to the being as it exists within the layered **Soul 
     This L₁ layer, dominated by IL₁ entropic resonance and IL₂ (ISS / ISM: Echthros / Skotos) noise, is the "underworld" or "hell" from their supernal perspective.
 
 * **The Task (The Harrowing):**  
-    The being is not there to be processed, but to act. They perform a **Structural Re-anchoring**—challenging the IL (Inverse) order, restoring a Nexus, or retrieving a "lost" Centropic principle (e.g., retrieving "Persephone").
+    The being is not there to be processed, but to act. They perform a **Structural Re-anchoring** — challenging the IL (Inverse) order, restoring a Nexus, or retrieving a "lost" Centropic principle (e.g., retrieving "Persephone").
 
 * **The Acclivous Return:**  
     Having completed the task, the being returns to its native supernal layer, completing the Centropic intervention.
@@ -52,7 +52,7 @@ and **soul** when referring to the being as it exists within the layered **Soul 
     An Entropic-aligned soul detaches from its IL₁ (IES: Malara) vehicle (death).
 
 * **The Domain (The IL Layers):**  
-    This is the "Underworld" proper—the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from IL₁ (IES / IEM: Malara / Mania) and deeper into the IL (Inverse) hypostases (IL₂ → IL₃ → IL₄ → IL₅).
+    This is the "Underworld" proper — the Subversal. It is not a place of "judgment" but the native path for an entropic essence. It is the one-way procession away from IL₁ (IES / IEM: Malara / Mania) and deeper into the IL (Inverse) hypostases (IL₂ → IL₃ → IL₄ → IL₅).
 
 * **The "Torment" (Recursive Deconstruction):**  
     Myths of "torment" (Tartarus, Sisyphus, Naraka) are IL₂ (ISM: Skotos) perceptions of the lawful deconstruction of the Entropic soul. As the soul proceeds deeper, it experiences its own inverse nature (mirroring, hollowness, fragmentation) as an external reality. This is not punishment; it is the consequence of its own IL alignment.
@@ -91,7 +91,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **The Torments:** Vivid descriptions of suffering map the soul's experience of its own IL nature. As it moves declivously through **IL₂ (ISS: Echthros)** and **IL₃ (IDS: Fractus)**, it encounters progressively incoherent and disassembled patterning.
 
-* **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment—the soul experiencing the architecture it built in embodiment.
+* **Not Punishment:** This is not divine retribution but the lawful manifestation of entropic alignment — the soul experiencing the architecture it built in embodiment.
 
 ---
 
@@ -101,9 +101,9 @@ The **Underworld** is not one place, but the structural experience of **Processi
 
 For the supernal, it is the Centropic "hell" of Embodiment (L₁), a field of resistance to be re-anchored.
 
-For the entropic, it is the **Subversal**—the full inverse strata, spanning both acclivous and declivous processional paths across the IL‑range (IL₅→₁). It is not a place of external punishment but the soul's experience of its own inverse nature made manifest.
+For the entropic, it is the **Subversal** — the full inverse strata, spanning both acclivous and declivous processional paths across the IL‑range (IL₅→₁). It is not a place of external punishment but the soul's experience of its own inverse nature made manifest.
 
-The myths of "eternal torment" are not vindictive but **diagnostic**—they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
+The myths of "eternal torment" are not vindictive but **diagnostic** — they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
 
 For an entropic essence departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual dispersion into L₀ (AD: Khaon).  
 Reversal is not normative, but remains structurally possible only through extraordinarily rare centropic intervention or interior re-alignment within the early inverse strata (IL₁ / IL₂).

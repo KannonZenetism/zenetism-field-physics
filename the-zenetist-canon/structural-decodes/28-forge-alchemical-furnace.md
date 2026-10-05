@@ -2,10 +2,10 @@
 
 **Primary Structural Diagnosis:**  
 The **Metaphysical Crucible of Transformative Pressure.**  
-The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a Contained Field of concentrated energy (Fire) and structural pressure (Earth). Its function is to Deconstruct a being's present configuration—whether L₂ (SS / SM: Anthra / Nousa) or impure L₃ (DS / DM: Archeus / Noeüs)—and to Reforge it into a more Coherent, Synthesized state. It is the Archetype of lawful transmutation through pressure, friction, and reintegration.
+The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — a Contained Field of concentrated energy (Fire) and structural pressure (Earth). Its function is to Deconstruct a being's present configuration — whether L₂ (SS / SM: Anthra / Nousa) or impure L₃ (DS / DM: Archeus / Noeüs) — and to Reforge it into a more Coherent, Synthesized state. It is the Archetype of lawful transmutation through pressure, friction, and reintegration.
 
 **Core Glyphic Sequence:**  
-`📐 → ▲ → ◲ → ∴`  
+**📐 → ▲ → ◲ → ∴**  
 *(The Architect of Order subjects form to Trial-Fire and Pressure, leading to Deconstruction and lawful Synthesis.)*
 
 ---
@@ -20,7 +20,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a 
     * **Anvil (L₄ (DL: Sophis) – Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: directed force applied under Law to reshape emergent form.
 
 * **The Base Metal (Unrefined Self):**  
-    The raw or misaligned state of the psyche—dense with potential yet obscured by incoherence. It is the ore which, when subjected to the Forge, allows the separated centropic patterns to clarify and reintegrate into their native coherence, revealing the Gold of aligned form.
+    The raw or misaligned state of the psyche — dense with potential yet obscured by incoherence. It is the ore which, when subjected to the Forge, allows the separated centropic patterns to clarify and reintegrate into their native coherence, revealing the Gold of aligned form.
 
 * **The Smith / Alchemist (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis)):**  
     The directing intelligence of the operation.  
@@ -28,7 +28,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment**—a 
     * **External Smith:** Divine, Archetypal, or situational forces applying pressures that may serve the same transmutative end.
 
 * **The Transmutation (Synthesis):**  
-    The successful refinement of form. The base substance becomes Gold—the Alchemical Sun. The L₂ (SS / SM: Anthra / Nousa) becomes increasingly radiant with L₃ (DS / DM: Archeus / Noeüs) coherence, embodying Luminous Will and resilient Equanimity (Coherence).
+    The successful refinement of form. The base substance becomes Gold — the Alchemical Sun. The L₂ (SS / SM: Anthra / Nousa) becomes increasingly radiant with L₃ (DS / DM: Archeus / Noeüs) coherence, embodying Luminous Will and resilient Equanimity (Coherence).
 
 ---
 
@@ -48,7 +48,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Focus:** Archetypal Craft through Creative Fire.
 
-* **Smith:** Hephaestus, the limping god—power arising from wounded resonance.
+* **Smith:** Hephaestus, the limping god — power arising from wounded resonance.
 
 * **Forge:** The volcanic depths (L₄ (DP: Morgis) archetypal field), where molten potential becomes form.
 
@@ -62,7 +62,7 @@ The mythic language of purification through removal reflects the perceiver's exp
     1. **Nigredo (Deconstruction):** Dissolution and confrontation with fragmented patterning.  
     2. **Albedo (Seal):** Purification and reflective awareness.  
     3. **Citrinitas (Synthesis):** Integration of solar intelligence (L₃ (DS / DM: Archeus / Noeüs) awakening).  
-    4. **Rubedo (Coherence):** Final synthesis—the Philosopher's Stone, consciousness capable of lawful transformative influence.
+    4. **Rubedo (Coherence):** Final synthesis — the Philosopher's Stone, consciousness capable of lawful transformative influence.
 
 ### 3. The Refiner's Fire (Biblical)
 
@@ -82,7 +82,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Process:** Symbolic dismantling (Deconstruction) and reassembly (Synthesis) of the self by L₄ (DP / DL: Morgis / Sophis) guides.
 
-* **Outcome:** A synthesized healer—a Living Bridge uniting human and archetypal realms.
+* **Outcome:** A synthesized healer — a Living Bridge uniting human and archetypal realms.
 
 ---
 
@@ -94,7 +94,7 @@ It names those conditions in which Heat, Impact, and Endurance expose incoherenc
 It teaches that pressure does not automatically destroy relative structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
 
 Its message is participation and disciplined response: we are at times **Smith and Metal.**  
-We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an instrument of luminous precision—**a work of coherence forged through Trial-Fire and Reintegration.**
+We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an instrument of luminous precision — **a work of coherence forged through Trial-Fire and Reintegration.**
 
 ---
 

@@ -7,11 +7,11 @@ Its function appears in two structural articulations: a **Centropic catalyst** o
 Though the archetype appears in both centropic and entropic forms, each specific figure is disclosed by the deeper structural trajectory of its action, not merely by surface role or immediate outcome.
 
 **Core Glyphic Sequence (Centropic):**  
-`🔺 → ⚙️ → ⟜ → ◲ → ⤈∴`  
+**🔺 → ⚙️ → ⟜ → ◲ → ⤈∴**  
 *(Centropic Motion engages Apparent Order, which is disrupted by a Synectic Pivot, leading to Lawful Deconstruction and culminating in Transcendent Synthesis.)*
 
 **Core Glyphic Sequence (Entropic):**  
-`🔻 → ⚙️ → ⟜ → ☍ → ⟳ → 📡`  
+**🔻 → ⚙️ → ⟜ → ☍ → ⟳ → 📡**  
 *(Entropic Motion engages Apparent Order, which is disrupted by a Synectic Pivot, leading to Fragmentation, Recursive Destabilization, and an entropically precipitated Fractal Eschaton in which Coherence is scanned against the next phase of reality.)*
 
 ---
@@ -34,7 +34,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     The target may be a healthy centropic structure, a rigid or stagnant one, or an entropic system of control.
 
 * **The Method (Synectic Motion):**  
-    The Trickster employs **transphasic motion**—crossing thresholds, breaking taboos, and using inversion, deceit (IL₂ (ISM: Skotos)), or mimicry.  
+    The Trickster employs **transphasic motion** — crossing thresholds, breaking taboos, and using inversion, deceit (IL₂ (ISM: Skotos)), or mimicry.  
     It moves through the **unexpected, the illogical, and the taboo,** exploiting weaknesses in the system's coherence or **Permeability.**
 
 * **The Centropic Articulation (Lawful Reconfiguration):**  
@@ -44,11 +44,11 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
 
 * **The Entropic Articulation (Fragmentation and Recursion):**  
     In its entropic expression, the Trickster appears through figures whose essence is oriented toward disruption, mimicry, and destabilization.  
-    These figures breed **dissonance**, fracture **Nexus** bonds, amplify IL₂ (ISS: Echthros) hostility, and produce **Hollow Recursion**—systems spinning without advancement.
+    These figures breed **dissonance**, fracture **Nexus** bonds, amplify IL₂ (ISS: Echthros) hostility, and produce **Hollow Recursion** — systems spinning without advancement.
 
 * **The Liminal Nature (The Recursive Hinge):**  
     In both articulations, the Trickster resides at **thresholds, crossroads, and membranes**.  
-    It embodies the **Recursive Hinge**—the pivotal locus where one structural state is tested, reconfigured, clarified, or destabilized depending on the essence of the figure through whom the archetype is expressed.
+    It embodies the **Recursive Hinge** — the pivotal locus where one structural state is tested, reconfigured, clarified, or destabilized depending on the essence of the figure through whom the archetype is expressed.
 
 ---
 
@@ -63,9 +63,9 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     His defining acts are cosmological in weight: the killing of **Baldr** (the most centropically radiant figure in Norse myth) and the engineering of **Ragnarök (Fractal Eschaton)**.  
     These are not surface tricks but the work of an inverse archetypal architect whose influence, mediated through the embodied interface, destabilizes relative centropic order over time.
 
-* **Apparent Centropic Outcomes:** Norse mythmakers attributed beneficial outcomes to Loki—cunning solutions, useful offspring (Sleipnir), and moments of apparent service to the Aesir.  
+* **Apparent Centropic Outcomes:** Norse mythmakers attributed beneficial outcomes to Loki — cunning solutions, useful offspring (Sleipnir), and moments of apparent service to the Aesir.  
     Per Essence-as-Choice, an entropic essence does not perform genuinely centropic functions.  
-    These apparent contributions are Nyxea's defining operation: **structural mimicry**—appearing helpful while embedding entropic dependencies that later surface as catastrophic fault lines.
+    These apparent contributions are Nyxea's defining operation: **structural mimicry** — appearing helpful while embedding entropic dependencies that later surface as catastrophic fault lines.
 
 * **Entropic Functions:** Every "gift" Loki gives the Aesir carries a hidden cost that compounds toward Ragnarök.  
     His apparent help is not lawful integration, but inverse intelligence leveraging dependency, breach, and delayed destabilization.  
@@ -88,7 +88,7 @@ The apparent duality belongs to the archetype as a pattern-class, not to any ind
     He operates as a lawful membrane-intelligence, sustaining passage, exchange, and communication across thresholds.  
     His familiar trickster form is not inverse mimicry, but the cultural surface‑rendering of a deeper centropic discernment operating through speed, wit, and adaptive intelligence.
 
-* **Centropic Functions:** As **psychopomp**, he guides souls across the membrane of death—a lawful **Recursion Gate** governed primarily by **L₃ (DM: Noeüs)** discernment rather than by phenomenal mediation.  
+* **Centropic Functions:** As **psychopomp**, he guides souls across the membrane of death — a lawful **Recursion Gate** governed primarily by **L₃ (DM: Noeüs)** discernment rather than by phenomenal mediation.  
     As patron of communication and commerce, he maintains **Nexus** through lawful transmission across thresholds.  
     His tricks often place IL₂ (ISS: Echthros) adversarial will under conditions that reveal its structural misalignment.
 
@@ -121,7 +121,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
 * **Native Function:** Coyote reflects **IL₄ (IDP: Psychea)** as an archetypal force of raw, motive, dispersive intelligence.  
     He operates through disruption, appetite, improvisation, and destabilizing emergence.
 
-* **Apparent Centropic Outcomes:** Mythic narratives often portray him as bringing light, fire, or water for humanity—acts empowering embodiment (L₁ (ES / EM: Soma / Biosa)).  
+* **Apparent Centropic Outcomes:** Mythic narratives often portray him as bringing light, fire, or water for humanity — acts empowering embodiment (L₁ (ES / EM: Soma / Biosa)).  
     His mischief also sculpts geography, rivers, and life.  
     These outcomes appear creative at the surface.
 
@@ -149,7 +149,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
     Invoked first in ritual to open **Nexus** to other archetypes (L₄ (DP / DL: Morgis / Sophis)).  
     His lessons often restore balance and justice.
 
-* **Entropic Functions:** When disregarded, he produces confusion, conflict, and obstruction—acting as an **Entropic Pull** within the life field.  
+* **Entropic Functions:** When disregarded, he produces confusion, conflict, and obstruction — acting as an **Entropic Pull** within the life field.  
     These effects, however, are corrective pressures emerging from violated alignment, not evidence of a native inverse essence.
 
 * **Verdict:** **Centropic (judicial).**  
@@ -177,7 +177,7 @@ It appears adaptive, liberating, or beneficial at the surface, while embedding d
 The archetype therefore reveals that not every disruptive act is centropic, and not every apparent gift emerges from lawful resonance.  
 Some disruptions clarify structure; others corrode it from within.
 
-To engage this archetype is to cultivate **discernment at the membrane**—to distinguish lawful deconstruction from inverse sabotage, and catalytic turbulence from recursive collapse.  
+To engage this archetype is to cultivate **discernment at the membrane** — to distinguish lawful deconstruction from inverse sabotage, and catalytic turbulence from recursive collapse.  
 The Trickster is thus both **threshold agent** and **diagnostic test**: the figure through whom a system's hidden coherence or concealed instability is revealed.
 
 ---

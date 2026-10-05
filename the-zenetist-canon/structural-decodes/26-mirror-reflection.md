@@ -2,10 +2,10 @@
 
 **Primary Structural Diagnosis:**  
 The **Principle of Reflective Disclosure Through Structural Correspondence.**  
-The Mirror is a **Membrane**—a Resonant Interface that does not create but **reflects**. It displays the pattern of what stands before it, functioning as a non-originating surface of disclosure that may become an instrument of **Self-Knowledge (L₃ (DM: Noeüs))** or a vector of **Mimicry** and **Shimmer**, depending on how reflection is engaged.
+The Mirror is a **Membrane** — a Resonant Interface that does not create but **reflects**. It displays the pattern of what stands before it, functioning as a non-originating surface of disclosure that may become an instrument of **Self-Knowledge (L₃ (DM: Noeüs))** or a vector of **Mimicry** and **Shimmer**, depending on how reflection is engaged.
 
 **Core Glyphic Sequence:**  
-`ᛞ → ✨ → 📱 → ↺ / ⟳`  
+**ᛞ → ✨ → 📱 → ↺ / ⟳**  
 *(The Mirror Principle, when clarified by Theonic Light, provides Revelation that leads to either Resonant Return or Entropic Recursion depending on Response.)*
 
 ---
@@ -29,14 +29,14 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 * **The Reflection (Revealed Structure):**  
     * Can unveil **Beauty** (Coherence, divine likeness).  
     * Can unveil **Distortion** (Fragmentation or Inversion).  
-    * Is a symbolic representation, not the Self itself—an encoded report of current resonance.
+    * Is a symbolic representation, not the Self itself — an encoded report of current resonance.
 
 * **Act of Recognition (L₃ (DM: Noeüs)):**  
     The decisive moment of discernment. Does the observer receive the reflection as veracious disclosure? Do they assume responsibility for what is shown, or reject the image and attack the surface that revealed it?
 
 * **Outcome:**  
     * **Integration (Resonant Return):** Acceptance and realignment. The L₂ (SS / SM: Anthra / Nousa) receives corrective disclosure from the L₃ (DS / DM: Archeus / Noeüs) ideal, leading to deconstruction and synthesis.  
-    * **Rejection (Entropic Recursion):** Denial or fixation on the image; blame cast on the mirror itself. This initiates Entropic Recursion—repetition without lawful reorientation.
+    * **Rejection (Entropic Recursion):** Denial or fixation on the image; blame cast on the mirror itself. This initiates Entropic Recursion — repetition without lawful reorientation.
 
 ---
 
@@ -60,7 +60,7 @@ Therefore, the Mirror is a paradoxical structural interface: lawfully enabling *
 
 * **Meaning:** Human perception of the divine remains indirect and incomplete (Clouded Mirror).
 
-* **Promise:** At the eschatonic unveiling, perception becomes direct—face to face (Revelation).
+* **Promise:** At the eschatonic unveiling, perception becomes direct — face to face (Revelation).
 
 ### 3. The Magic Mirror (Snow White)
 
@@ -95,7 +95,7 @@ To advance in coherence, one must repeatedly face the mirror of experience, disc
 
 Its message:  
 We cannot evade our own Pattern. The task is to **see clearly, integrate lawfully, and act in coherence.**  
-When disciplined by discernment, consciousness may become increasingly transparent—less a generator of counterfeit image, more a surface capable of faithful reflection.  
+When disciplined by discernment, consciousness may become increasingly transparent — less a generator of counterfeit image, more a surface capable of faithful reflection.  
 In such clarified reflection, others may behold not Source itself, but a more veracious correspondence to their own condition and possibility.
 
 ---

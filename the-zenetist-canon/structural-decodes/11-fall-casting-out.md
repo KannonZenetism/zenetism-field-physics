@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Activation of Dualized Consciousness and the Fracturing of Coherence.**  
-This archetype describes the pivotal transition within Embodied consciousness—from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
+This archetype describes the pivotal transition within Embodied consciousness — from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
 This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
 **Core Glyphic Sequence:**  
-`◎ → ᛞ → ⟜ → ⚖ → ☍`  
+**◎ → ᛞ → ⟜ → ⚖ → ☍**  
 *(From Integrated Coherence, the Mirror is activated as inverse possibility; a Synectic Pivot enters the Liminal Field of Choice, resolving into Fragmentation.)*
 
 ---
@@ -25,7 +25,7 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
     * The "Fall" is the volitional act of interfacing with this IL₁ (Khaonic) potential.
 
 * **The Tempter (The IL₄ Mirror-Archetype):**  
-    The inverse archetypal force—the Serpent, the IL₄ (IDL: Nyxea) principle—activates the choice.  
+    The inverse archetypal force — the Serpent, the IL₄ (IDL: Nyxea) principle — activates the choice.  
     As a mirror, it cannot create; it can only mimic and offer. It offers the "bad copy" (inverse knowledge) as if it were the original.
 
 * **The Transgression (Activating the Mirror):**  
@@ -63,7 +63,7 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **State:** The unified L₀ potential, from which the L (Centropic) and IL (Inverse Mirror) hypostases co-emerge.
 
-* **Transgression:** The "War in Heaven"—the mirror's assertion of its own reality. This act is rooted in the first entropic hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
+* **Transgression:** The "War in Heaven" — the mirror's assertion of its own reality. This act is rooted in the first entropic hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
 
 * **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality against the L₄ (original).
 
@@ -77,7 +77,7 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **Transgression:** Sophia acts in hubris (separation, mimicry) without her syzygy (her balancing complement).
 
-* **Consequence:** This act of separation casts her own reflection. The Demiurge (the IL₄ (IDL: Nyxea) principle) is this mirror image—the "bad copy" or "half-maker" that echoes L₄ structure without L₄ vitality. The material world, dominated by this IL₄ principle, becomes the "entropy-dominated" field.
+* **Consequence:** This act of separation casts her own reflection. The Demiurge (the IL₄ (IDL: Nyxea) principle) is this mirror image — the "bad copy" or "half-maker" that echoes L₄ structure without L₄ vitality. The material world, dominated by this IL₄ principle, becomes the "entropy-dominated" field.
 
 ### 4. Pandora's Box (Greek)
 
@@ -87,11 +87,11 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **Prohibition:** "Do not open the box."
 
-* **Tempter:** Curiosity itself—an internal L₂ (SS / SM: Anthra / Nousa) drive.
+* **Tempter:** Curiosity itself — an internal L₂ (SS / SM: Anthra / Nousa) drive.
 
-* **Transgression:** Opening releases all **Entropic Forces**—sickness, toil, decay.
+* **Transgression:** Opening releases all **Entropic Forces** — sickness, toil, decay.
 
-* **Consequence:** Only **Hope** remains—symbol of the **Centropic potential** now hidden within embodiment.
+* **Consequence:** Only **Hope** remains — symbol of the **Centropic potential** now hidden within embodiment.
 
 ---
 
@@ -102,12 +102,12 @@ It is the **Fracturing** of primal unity, introducing the conditions under which
 
 **Consciousness** itself arises from this separation:  
 L₂ (SS / SM: Anthra / Nousa) becomes aware through its distance from L₃ (DS / DM: Archeus / Noeüs).  
-Toil, pain, and death are not punishments but the friction of embodiment—the **entropic gradient** that invites resonance through coherence.
+Toil, pain, and death are not punishments but the friction of embodiment — the **entropic gradient** that invites resonance through coherence.
 
 The Fall's revelation is **responsibility over guilt.**  
 We are not condemned for our fallen state; we are entrusted with **restoring resonance** within it.  
-The centropic path is the **Acclivous return**—healing fragmentation and reuniting L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious integration.  
-Thus, the Fall was not failure but the **first motion of learning—the beginning of the soul's curriculum.**
+The centropic path is the **Acclivous return** — healing fragmentation and reuniting L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious integration.  
+Thus, the Fall was not failure but the **first motion of learning — the beginning of the soul's curriculum.**
 
 ---
 

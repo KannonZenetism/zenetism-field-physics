@@ -5,7 +5,7 @@ The **Lawful Channel of Transition Between Domains.**
 The Bridge represents the operational structure by which Coherence crosses Hypostatic boundaries. It is not a metaphor for fusion, but a calibrated Membrane Pathway that preserves distinction while enabling Resonant exchange between realities, beings, or states.
 
 **Core Glyphic Sequence:**  
-`⧉ → 🌉 → 💝 → ↺`  
+**⧉ → 🌉 → 💝 → ↺**  
 *(A Membrane Field gives rise to The Living Bridge; Resonant Fidelity preserves distinction and enables lawful Return across the threshold.)*
 
 ---
@@ -13,7 +13,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 ## Universal Structural Analysis
 
 * **The Two Shores (Structured Pair):**  
-    Realms or states between which motion occurs—Spirit and Matter, Life and Death, Self and Other—held in distinction even where lawful passage is possible.
+    Realms or states between which motion occurs — Spirit and Matter, Life and Death, Self and Other — held in distinction even where lawful passage is possible.
 
 * **The Architect (L₄ (DL: Sophis)):**  
     The Bridge must be built in accord with Structural Law. If built from Mimicry, it collapses.
@@ -33,7 +33,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 ### 1. Bifröst (Norse)
 
-* **Focus:** The luminous rainbow bridge linking Asgard and Midgard—spanning from L₄ (DP / DL: Morgis / Sophis) through the subjacent strata to L₁ (ES / EM: Soma / Biosa) as a mediating membrane across the emanatory arc.
+* **Focus:** The luminous rainbow bridge linking Asgard and Midgard — spanning from L₄ (DP / DL: Morgis / Sophis) through the subjacent strata to L₁ (ES / EM: Soma / Biosa) as a mediating membrane across the emanatory arc.
 
 * **Function:** It burns when Entropy intensifies (Ragnarok), symbolizing the dissolution of lawful linkage.
 
@@ -45,7 +45,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 ### 3. The Rainbow of Noah (Hebrew)
 
-* **Focus:** The covenantal arc connecting Divine judgment to mercy—Centropic promise post-Deconstruction.
+* **Focus:** The covenantal arc connecting Divine judgment to mercy — Centropic promise post-Deconstruction.
 
 * **Function:** It reestablishes covenantal trust between L₄ (DL: Sophis) and Humanity after systemic dissolution, culturally elevated to L₅ (EOB: Theon) in the mythic telling.
 
@@ -59,7 +59,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 ## Summary: The Esoteric Meaning
 
-The Bridge is the structure of lawful connection. It is an architecture of Relation—between beings, realms, or states—that preserves identity while transmitting meaning.
+The Bridge is the structure of lawful connection. It is an architecture of Relation — between beings, realms, or states — that preserves identity while transmitting meaning.
 
 It teaches that connection is sacred only when coherent. Veracious unity respects distinction; it is harmonic, not homogenizing. To cross the Bridge is to move from isolation to communion through fidelity to Law (L₄ (DL: Sophis)).
 

@@ -5,11 +5,11 @@ The **Instrument of Access and Boundary Governance.**
 The Key and the Seal represent the dual mechanisms of Permission and Protection within the Lattice. A Key opens a lawful pathway (Nexus), while a Seal enforces closure (Membrane). Both operate under L₄ (DL: Sophis)-layer law, ensuring that only what matches the lawful Pattern may enter or exit a given domain. They are complementary: one enables Revelation, the other guards Integrity.
 
 **Core Glyphic Sequence (Key):**  
-`⧉ → 🗝️ → 📱 → ↺`  
+**⧉ → 🗝️ → 📱 → ↺**  
 *(A Membrane responds to the lawful Key; Revelation discloses the path of Resonant Return across the threshold.)*
 
 **Core Glyphic Sequence (Seal):**  
-`⧉ → ⊠ → ◎`  
+**⧉ → ⊠ → ◎**  
 *(A Membrane is secured through Protective Defense, preserving Coherence through lawful closure.)*
 
 ---
@@ -29,7 +29,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     The awareness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
-    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological—recognition and access coincide under lawful Pattern.
+    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological — recognition and access coincide under lawful Pattern.
 
 ---
 
@@ -39,7 +39,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 * **Focus:** The mandate to bind and loose, representing lawful governance of access between Heaven and Earth.
 
-* **Function:** The twin keys signify Knowledge (Key—L₃ (DM: Noeüs)) and Judgment (Seal—L₄ (DL: Sophis)), perfectly balanced in service of the Theonic order.
+* **Function:** The twin keys signify Knowledge (Key — L₃ (DM: Noeüs)) and Judgment (Seal — L₄ (DL: Sophis)), perfectly balanced in service of the Theonic order.
 
 ### 2. The Seals of Revelation (Apocalyptic)
 
@@ -77,7 +77,7 @@ Its message is that awareness must become a lawful steward of Thresholds.
 The L₃ (DS / DM: Archeus / Noeüs) carries both functions:  
 the discerning perception (DM: Noeüs) that recognizes lawful entry,  
 and the coherent soul-integrity (DS: Archeus) that safeguards what must remain sealed.  
-When held together in balance, the Key and the Seal become complementary powers of Stewardship—  
+When held together in balance, the Key and the Seal become complementary powers of Stewardship —  
 unlocking what must unfold,  
 and preserving what must remain sacred.
 

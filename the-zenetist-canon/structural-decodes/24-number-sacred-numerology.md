@@ -6,7 +6,7 @@ Numbers are not mere quantities but symbolic expressions of **Relational Syntax 
 They constitute the **Pure Forms of Relationship** that precede and condition all embodied manifestations.
 
 **Core Glyphic Sequence:**  
-`📐 → ⌬ → 🔷 → ⚙️`  
+**📐 → ⌬ → 🔷 → ⚙️**  
 *(The Architect of Order discloses Relational Syntax as Divine Geometry, which appears in manifestation as Apparent Order.)*
 
 ---
@@ -27,7 +27,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Three (3) — Synthesis:**  
     Resolution of Bifurcation; emergent Harmony that transcends and includes.  
-    Archetype of Creativity, Balance, and Synthesis—the first triadic completion of differentiated relation.
+    Archetype of Creativity, Balance, and Synthesis — the first triadic completion of differentiated relation.
 
 * **Four (4) — Foundation:**  
     Embodiment and law.  
@@ -49,17 +49,17 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Focus:** The Theonic nature as relational synthesis.
 
-* **Formula:** 1 × 3 = 3 — the One God (L₅ (EOB: Theon)) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
+* **Formula:** \( 1 \times 3 = 3 \) — the One God (L₅ (EOB: Theon)) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
 
-* **Meaning:** Ultimate Reality is not static Unity but Dynamic Relationship—Being as Synthesis.
+* **Meaning:** Ultimate Reality is not static Unity but Dynamic Relationship — Being as Synthesis.
 
 ### 2. The Tetragrammaton & Ten Sefirot (Kabbalah)
 
 * **Focus:** Emanation of cosmos through number.
 
-* **Tetragrammaton (YHWH):** The Divine One manifesting through Four worlds—1 → 4.
+* **Tetragrammaton (YHWH):** The Divine One manifesting through Four worlds — 1 → 4.
 
-* **Ten Sefirot:** The tenfold unfolding (1+2+3+4=10) structuring the Tree of Life; an Archetypal Numerical unfolding from Ain Sof into Cosmos.
+* **Ten Sefirot:** The tenfold unfolding (\( 1 + 2 + 3 + 4 = 10 \)) structuring the Tree of Life; an Archetypal Numerical unfolding from Ain Sof into Cosmos.
 
 ### 3. The Enneagram (Sufi / Psychological)
 
@@ -73,7 +73,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Focus:** Number of Testing, Purification, and Preparation.
 
-* **Formula:** 4 × 10 = 40 — world × completion.
+* **Formula:** \( 4 \times 10 = 40 \) — world × completion.
 
 * **Manifestations:**  
     * Flood: 40 days dissolving the corrupt world (declivous entropic motion).  
@@ -91,7 +91,7 @@ Unity (1), Bifurcation (2), Synthesis (3), and Foundation (4) are therefore not 
 They teach that mythic and lived processes unfold through recurring Numerical Patterns:  
 Singularity (1), Bifurcation (2), Synthesis (3), Embodiment (4), Rhythmic Completion (7), and Ordered Fullness (12).
 
-**The path of Centropy** is conscious Alignment with lawful Relation—  
+**The path of Centropy** is conscious Alignment with lawful Relation —  
 not submission to quantity,  
 but participation in the Syntax by which Form becomes intelligible.  
 To read Number esoterically is to perceive that Resonance is not arbitrary,  

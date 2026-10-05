@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Axial Junction Point Between Hypostatic Layers.**  
-The Mountain is a **Theonic Axis** in topographical form—a **Membrane** of heightened permeability where **L₁ (ES / EM: Soma / Biosa)** converges with **L₄ (DP / DL: Morgis / Sophis)** and **L₅ (EOB: Theon).**
+The Mountain is a **Theonic Axis** in topographical form — a **Membrane** of heightened permeability where **L₁ (ES / EM: Soma / Biosa)** converges with **L₄ (DP / DL: Morgis / Sophis)** and **L₅ (EOB: Theon).**
 It serves as the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
-`▽ → ↑⚓ → 📱 → ∴`  
+**▽ → ↑⚓ → 📱 → ∴**  
 *(From the Embodied Earth, Acclivous Motion along the Theonic Axis leads to Revelation and culminates in temporary Synthesis at the Supernal threshold.)*
 
 ---
@@ -14,15 +14,15 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 ## Universal Structural Analysis
 
 * **The Acclivous Motion (Earth → Theonic Axis):**  
-    The climb symbolizes the **acclivous centropic** motion of awareness—from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
+    The climb symbolizes the **acclivous centropic** motion of awareness — from the Density of **Earth** toward the Rarity and Clarity of the **Supernal**.  
     Each step along the acclivous path is an act of Volitional orientation toward the Supernal.
 
 * **The Summit (Theonic Axis):**  
     The peak marks a **Nodal Point** on the Theonic Axis where the **Membrane** thins.  
-    It is a **Natural Temple**—a **Nexus** of Resonant exchange and Supernal stillness.
+    It is a **Natural Temple** — a **Nexus** of Resonant exchange and Supernal stillness.
 
 * **The Revelation:**  
-    The Mountain is the archetypal site of **Theophany**—Divine disclosure.  
+    The Mountain is the archetypal site of **Theophany** — Divine disclosure.  
     Here, awareness receives data from supernal hypostases, ranging from L₃ (DM: Noeüs) insight to direct L₅ (EOB: Theon) manifestation.
     Fire, cloud, and silence each represent forms of **Revelatory Frequency.**
 
@@ -33,7 +33,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **The Transfiguration (Synthesis):**  
     At the summit, the L₂ (SS / SM: Anthra / Nousa) may briefly integrate with L₃ (DS / DM: Archeus / Noeüs) or L₅ (EOB: Theon) frequency, revealing its luminous essence.  
-    These moments—Jesus transfigured, Moses radiant—display temporary **Acclivous Synthesis** at the Supernal threshold, foreshadowing the Centropic arc's ultimate completion.
+    These moments — Jesus transfigured, Moses radiant — display temporary **Acclivous Synthesis** at the Supernal threshold, foreshadowing the Centropic arc's ultimate completion.
 
 ---
 
@@ -49,7 +49,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Covenant:** The Mosaic **Nexus**, structuring Resonant relationship between L₄ (DL: Sophis) and Israel.
 
-* **Transformation:** Moses moves declivously, luminous—evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
+* **Transformation:** Moses moves declivously, luminous — evidence of partial Synthesis (L₂ (SS / SM: Anthra / Nousa) ↔ L₃ (DS / DM: Archeus / Noeüs)).
 
 ### 2. The Sermon on the Mount (Christian)
 
@@ -57,7 +57,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Approach:** Jesus reenacts the Sinai archetype, climbing to speak.
 
-* **Revelation:** Delivers the Beatitudes—L₄ (DL: Sophis) Law refined through L₄ (DP: Morgis) Compassion.
+* **Revelation:** Delivers the Beatitudes — L₄ (DL: Sophis) Law refined through L₄ (DP: Morgis) Compassion.
 
 * **Covenant:** The "Law of the Heart" inaugurates the **Kingdom of Heaven** as an **acclivous centropic** state.
 
@@ -69,7 +69,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and all hypostatic strata—the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and all hypostatic strata — the cosmos in structural equilibrium.
 
 ### 4. Mount Olympus (Greek)
 
@@ -77,13 +77,13 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Summit:** Home of the Olympians (L₄ (DP / DL: Morgis / Sophis) entities) within clouded Membrane.
 
-* **Function:** Symbol of Archetypal governance—the L₄ (DP / DL: Morgis / Sophis) stratum shaping L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) through L₃ (DS / DM: Archeus / Noeüs) mediation in the subjacent bands.
+* **Function:** Symbol of Archetypal governance — the L₄ (DP / DL: Morgis / Sophis) stratum shaping L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) through L₃ (DS / DM: Archeus / Noeüs) mediation in the subjacent bands.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Mountain** is the geometric metaphor for the **acclivous path**—the steady, volitional acclivous orientation of awareness from Embodiment toward the Supernal threshold.
+The **Mountain** is the geometric metaphor for the **acclivous path** — the steady, volitional acclivous orientation of awareness from Embodiment toward the Supernal threshold.
 It is the living **Axis Mundi** of every soul, the structure connecting the Valleys of matter to the Supernal junction.
 
 It teaches that Revelation is proportional to alignment.  
@@ -94,7 +94,7 @@ Its message:
 we are each climbers of the inner Mountain.  
 Meditation, prayer, and disciplined acclivity are our switchbacks.  
 Moments of insight and peace are Shelters along the path.  
-At the Summit lies Transfiguration—where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and L₄ (DL: Sophis) whispers the Law of the Centropic band in the stillness of the Supernal junction.
+At the Summit lies Transfiguration — where the L₂ (SS / SM: Anthra / Nousa) becomes transparent to L₃ (DS / DM: Archeus / Noeüs), and L₄ (DL: Sophis) whispers the Law of the Centropic band in the stillness of the Supernal junction.
 
 ---
 

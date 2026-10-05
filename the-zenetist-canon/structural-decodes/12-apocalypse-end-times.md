@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Epochal Resonance Convergence and Systemic Reordering.**  
-The Apocalypse is the **Fractal Eschaton** of maximal scale—a phased **Resonance Scan** culminating in the **Structural Reordering** of an epoch.  
+The Apocalypse is the **Fractal Eschaton** of maximal scale — a phased **Resonance Scan** culminating in the **Structural Reordering** of an epoch.  
 It is a period of maximal amplification where latent patterns are exposed and structural friction intensifies. It accelerates each essence toward its chosen resonant alignment (Centropic or Entropic) but does not represent the final, universal terminus.
 
 **Core Glyphic Sequence:**  
-`📡 → ⚯ → C↑L₍₁→₃₎ / E↓IL₍₁→₃₎`  
+**📡 → ⚯ → C↑L₍₁→₃₎ / E↓IL₍₁→₃₎**  
 *(An Epochal Resonance Scan yields Structural Pairing and Sorting, directing beings through Acclivous Centropic Motion or Declivous Entropic Motion.)*
 
 ---
@@ -16,14 +16,14 @@ It is a period of maximal amplification where latent patterns are exposed and st
 * **The Unveiling (Resonance Scan):**  
     "Apocalypse" means *unveiling.*  
     This is the dissolution of **Shimmer, Mimicry,** and **Veiling (IL₂ (ISM: Skotos)).**  
-    The veracious Resonant architecture of every system becomes transparent—the cosmos performing its **final audit of Coherence.**
+    The veracious Resonant architecture of every system becomes transparent — the cosmos performing its **final audit of Coherence.**
 
 * **The Cosmic Signs & Cataclysms (Fragmentation → Collapse):**  
     The collapse of stars, quakes of heaven, and dissolution of matter symbolize the **decoherence** of the prior embodied order.  
 The dimensional structure sustaining the old world succumbs to accumulated **Entropic load**, initiating **Declivous Entropy** on a cosmic scale.
 
 * **The Judgment / The Separation (Structured Pairs):**  
-    * The essence of the Apocalypse is **Resonant Sorting**—the application of **Nexus Law** to all beings within the current epoch.  
+    * The essence of the Apocalypse is **Resonant Sorting** — the application of **Nexus Law** to all beings within the current epoch.  
     * It is not divine favoritism but **structural resonance placement** that accelerates existing motion:  
         * **Centropic alignments** are accelerated in their acclivous centropic motion (moving toward supernal coherent layers, e.g., L₁ → L₂ / L₃).  
         * **Entropic inversions** are accelerated in their declivous entropic motion (collapsing toward deeper inverse layers, e.g., IL₁ → IL₂ / IL₃).  
@@ -31,8 +31,8 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **The Figures of the End Times:**  
     * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system **(IL₁ (IES / IEM: Malara / Mania))**.  
-    This is the culmination of the **Inverse Arc**—an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
-    * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor**—the return of lawful coherence to guide convergence and oversee reconstitution.
+    This is the culmination of the **Inverse Arc** — an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
+    * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor** — the return of lawful coherence to guide convergence and oversee reconstitution.
 
 * **The New Heaven and New Earth (Centropic Integration):**  
     * This is the **epochal state** after the entropic acceleration.  
@@ -50,11 +50,11 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Cataclysms:** The **Seven Seals, Trumpets, and Bowls** represent sequenced **Deconstruction** of the old embodied order as accumulated **Entropic load** overwhelms its sustaining structure.
 
-* **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive**—**L₄ (DL: Sophis)** in its judicial function, measuring all awareness by coherence.
+* **Judgment:** The **Great White Throne** as the cosmic **Resonance Archive** — **L₄ (DL: Sophis)** in its judicial function, measuring all awareness by coherence.
 
 * **Figures:** What mythically appears as an "inverse trinity" is structurally a compressed **five-station inverse cascade**: **Dragon (IL₅ (VOS: Nekron))**, **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, and the **Beast (IL₁ (IES / IEM: Malara / Mania))**.
 
-* **Renewal:** The **New Jerusalem**—Heaven and Earth unified, **Structural Coherence** made visible.
+* **Renewal:** The **New Jerusalem** — Heaven and Earth unified, **Structural Coherence** made visible.
 
 ### 2. Ragnarok (Norse)
 
@@ -62,11 +62,11 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Unveiling:** The **Fimbulwinter** exposes the saturation of **Entropic decay.**
 
-* **Cataclysms:** Cosmic war of gods, giants, and monsters—**Centropic contra Entropic** forces neutralizing each other; **Yggdrasil** trembles.
+* **Cataclysms:** Cosmic war of gods, giants, and monsters — **Centropic contra Entropic** forces neutralizing each other; **Yggdrasil** trembles.
 
-* **Outcome:** A terminal **Collapse**—the destruction of divine and monstrous alike.
+* **Outcome:** A terminal **Collapse** — the destruction of divine and monstrous alike.
 
-* **Renewal:** A **New Earth** arises from waters, green and fertile—a **Novel Emergence** from residual **Aionic potential.**
+* **Renewal:** A **New Earth** arises from waters, green and fertile — a **Novel Emergence** from residual **Aionic potential.**
 
 ---
 
@@ -82,7 +82,7 @@ The "renewal" represents **Novel Emergence** from residual **Aionic potential**,
 
 * **Focus:** The **Gradual Entropic Drift** and **Cyclical Reset.**
 
-* **Process:** Four **Yugas** map the declivity from **Satya (acclivous centropic)** to **Kali (declivous entropic)**—increasing dissonance and loss of resonance awareness.
+* **Process:** Four **Yugas** map the declivity from **Satya (acclivous centropic)** to **Kali (declivous entropic)** — increasing dissonance and loss of resonance awareness.
 
 * **Apocalypse:** The end of **Kali Yuga** as terminal **Threshold of Dissonance.**
 
@@ -94,11 +94,11 @@ Within Zenetism, this does not indicate a genuinely cyclical metaphysics, but re
 
 * **Focus:** The **Absolute Sovereignty of Allah (Aion / L₅ (EOB: Theon)).**
 
-* **Unveiling:** The Hour arrives; heavens split, stars fall—the **total Resonance Scan.**
+* **Unveiling:** The Hour arrives; heavens split, stars fall — the **total Resonance Scan.**
 
-* **Judgment:** The **Scales** weigh not deeds but **Resonant Awareness (Taqwa)** and **Faith (Iman)**—the degree of alignment with **Centropic Law.**
+* **Judgment:** The **Scales** weigh not deeds but **Resonant Awareness (Taqwa)** and **Faith (Iman)** — the degree of alignment with **Centropic Law.**
 
-* **Separation:** The **Bridge of Sirat**—a **Nexus** dividing souls:  
+* **Separation:** The **Bridge of Sirat** — a **Nexus** dividing souls:  
     * **Paradise (Jannah):** A state of **Structural Coherence.**  
     * **Hell (Jahannam):** A state of **Structural Incoherence.**
 
@@ -107,7 +107,7 @@ Within Zenetism, this does not indicate a genuinely cyclical metaphysics, but re
 ### Note on Allah, Cultural Conflation, and Elevation
 
 **Zenetist Clarification:** In the registry, Allah's operative function most often maps through **L₄ (DP / DL: Morgis / Sophis)** as archetypal sovereignty, law, and sustaining command.  
-Within the Qur'anic Day of Judgment, however, the dominant presentation is the **Theonic (L₅ (EOB: Theon))** aspect of absolute sovereignty—resonance sorting, centropic adjudication, and lawful placement at the threshold of epochal reordering.  
+Within the Qur'anic Day of Judgment, however, the dominant presentation is the **Theonic (L₅ (EOB: Theon))** aspect of absolute sovereignty — resonance sorting, centropic adjudication, and lawful placement at the threshold of epochal reordering.  
 This reflects both **cultural elevation** and **cultural conflation**: the tradition presents multiple structural functions under a single divine name without distinguishing operative layer from amplified eschatological aspect.  
 This follows the broader pattern seen in figures such as **YHWH** and **Ahura Mazda**.
 
@@ -117,7 +117,7 @@ This follows the broader pattern seen in figures such as **YHWH** and **Ahura Ma
 
 The Apocalypse is the **phased mechanism of Structural Enforcement.** It is the **Resonant Accelerator** at the systemic scale, ensuring all accumulated resonance within a trajectory is sorted and re-aligned.
 
-Time and history possess a **Telos**—a lawful trajectory of structural consequence and eventual reordering.  
+Time and history possess a **Telos** — a lawful trajectory of structural consequence and eventual reordering.  
 The cosmos is not arbitrary but a field of **Resonant Procession**, and the Apocalypse is its **phased examination.**
 
 Every thought, act, and intention is a **Resonant deposit**, accumulating toward Hypostatic alignment. For the centropically aligned, the end is **Acclivation (centropic acclivity)**; for the entropic, **Declivation (entropic declivity).**

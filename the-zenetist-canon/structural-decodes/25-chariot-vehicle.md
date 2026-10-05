@@ -3,10 +3,10 @@
 **Primary Structural Diagnosis:**  
 The **Directed Governance of Contradictory Forces for Coherent Motion.**  
 The Chariot symbolizes a structure in which **Volitional Consciousness** (L₃ (DS / DM: Archeus / Noeüs) or aligned L₂ (SS / SM: Anthra / Nousa)) must govern the powerful yet often contradictory energies of the Psyche (L₄ (DP: Morgis)) and the Embodied field (L₁ (ES / EM: Soma / Biosa)) toward a **Centropic trajectory (acclivous centropic motion)**.  
-It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmission**—not merely carried by force, but tasked with lawful direction in resonance with centropic orientation.
+It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmission** — not merely carried by force, but tasked with lawful direction in resonance with centropic orientation.
 
 **Core Glyphic Sequence:**  
-`⚯ → ⚖⟂ → ◎ → C↑⚫`  
+**⚯ → ⚖⟂ → ◎ → C↑⚫**  
 *(A Structured Pair held under Structural Friction is brought into governable Coherence, enabling Acclivous Centropic Procession toward Aion.)*
 
 ---
@@ -18,7 +18,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
     Without this governing function, the vehicle becomes divided, inert, or chaotic.
 
 * **The Horses / Beasts of Burden (L₄ (DP: Morgis) / L₁ (ES / EM: Soma / Biosa)):**  
-    The motive forces—instinct, emotion, vitality, and desire.  
+    The motive forces — instinct, emotion, vitality, and desire.  
     * **Aligned (Coherence):** Their energies become governable propulsion under coherent will.  
     * **Opposed (Fragmentation):** They pull against each other, producing deviation, stasis, or collapse.
 
@@ -31,7 +31,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
     * **Whip (L₂ (SS: Anthra)):** The activating will that initiates and sustains forward movement.
 
 * **The Path & Destination (acclivous centropic motion):**  
-    The vehicle is ordered toward a goal—battle, pilgrimage, ordeal, or acclivous motion.  
+    The vehicle is ordered toward a goal — battle, pilgrimage, ordeal, or acclivous motion.  
     Symbolizes the **directed** nature of Centropic motion: not drift, but governed trajectory toward greater coherence.
 
 ---
@@ -70,7 +70,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **Helios:** The skilled charioteer maintaining cosmic order (L₄ (DL: Sophis)).
 
-* **Phaethon:** The unskilled son (L₂ (SS / SM: Anthra / Nousa)) who seizes L₄ (DL: Sophis) power prematurely, nearly destroying the world—symbol of unintegrated ambition.
+* **Phaethon:** The unskilled son (L₂ (SS / SM: Anthra / Nousa)) who seizes L₄ (DL: Sophis) power prematurely, nearly destroying the world — symbol of unintegrated ambition.
 
 ### 4. Elijah's Chariot of Fire (Hebrew)
 

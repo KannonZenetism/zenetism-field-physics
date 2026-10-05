@@ -2,15 +2,15 @@
 
 **Primary Structural Diagnosis:**  
 The **Externalized Macro-Expression of the Soul's Structural Coherence.**  
-A City or Kingdom is not merely political—it is the L₁ (ES / EM: Soma / Biosa) projection of a **Resonant pattern** sourced from its ruling L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field.  
+A City or Kingdom is not merely political — it is the L₁ (ES / EM: Soma / Biosa) projection of a **Resonant pattern** sourced from its ruling L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field.  
 It is a **Collective Soma**, whose architecture, order, and destiny structurally reflect the **Centropic** or **Entropic** quality of its founding awareness.
 
 **Core Glyphic Sequence (Centropic):**  
-`🛤️ → ⚙️ → ◎ → 💠`  
+**🛤️ → ⚙️ → ◎ → 💠**  
 *(A Theonic principle is translated into Apparent Order, producing Structural Coherence and a Harmonic Node.)*
 
 **Core Glyphic Sequence (Entropic):**  
-`🕷️ → ⚙️ → ☍ → ⥊`  
+**🕷️ → ⚙️ → ☍ → ⥊**  
 *(A Nekronic principle is translated into Apparent Order, yielding Fragmentation and Hollow Replication.)*
 
 ---
@@ -19,7 +19,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **The Foundation / The Law-Giver (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     The City's essence flows from its founder or ruler.  
-    * A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (L₄ (DL: Sophis))** and **Justice**—the lawful architecture of L₄ (DP / DL: Morgis / Sophis).  
+    * A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (L₄ (DL: Sophis))** and **Justice** — the lawful architecture of L₄ (DP / DL: Morgis / Sophis).  
     * An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding **Inverse coherence** at inception through IL₄ (IDP / IDL: Psychea / Nyxea) dynamics.
 
 * **The Walls & Gates (Membrane):**  
@@ -30,7 +30,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 * **The Temple / The Central Tower (L₄ (DP / DL: Morgis / Sophis) Connection):**  
     The tallest structure represents the city's **Nexus** to the Supernal.  
     * **Temple (acclivous centropic motion):** A lawful Resonant exchange with L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis), orienting the city acclivously.  
-    * **Tower of Babel (acclivous entropic motion):** A **mimic climb**—the IL₂ (ISS / ISM: Echthros / Skotos), aligned with IL₄ (IDL: Nyxea), imitates L₄ (DL: Sophis) while cut off from Centropic Law, enacting **Acclivous Entropy**.
+    * **Tower of Babel (acclivous entropic motion):** A **mimic climb** — the IL₂ (ISS / ISM: Echthros / Skotos), aligned with IL₄ (IDL: Nyxea), imitates L₄ (DL: Sophis) while cut off from Centropic Law, enacting **Acclivous Entropy**.
 
 * **The Social Order & Economy (L₂ (SS / SM: Anthra / Nousa) Collective):**  
     The daily laws, trades, and customs reveal collective resonance.  
@@ -39,7 +39,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **The Ultimate Fate (Eschaton):**  
     The destiny of a city is its resonance made visible.  
-    * **Celestial City (Jerusalem, Shambhala):** Becomes a **Harmonic Node**—a living **Bridge** between Heaven and Earth.  
+    * **Celestial City (Jerusalem, Shambhala):** Becomes a **Harmonic Node** — a living **Bridge** between Heaven and Earth.  
     * **Fallen City (Babylon, Sodom):** Collapses into declivous entropic dispersion, dissolving through the weight of its own inversion.
 
 ---
@@ -50,25 +50,25 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **Jerusalem (Centropic Ideal):**  
     * **Foundation:** Built on **Zion**, locus of Theonic election.  
-    * **Temple:** Central **Nexus** for Yahweh—the living conduit of L₄ (DL: Sophis) Law.  
+    * **Temple:** Central **Nexus** for Yahweh — the living conduit of L₄ (DL: Sophis) Law.  
     * **Law:** Torah (L₄ (DL: Sophis)) as constitutional order.  
     * **Fate:** When aligned, becomes the **City of Peace (Coherence)**; when collective resonance diverges, its embodied order is given over to entropic domination through **Exile**, yet the **Return promise (Resonant Return)** remains as the **New Jerusalem.**
 
 * **Babylon (Entropic Counter-Ideal):**  
-    * **Foundation:** By **Nimrod (IL₂ (ISS: Echthros))**—a will of domination.  
-    * **Tower:** Babel (**Acclivous Entropy**)—Inverse unity through Hubris.  
+    * **Foundation:** By **Nimrod (IL₂ (ISS: Echthros))** — a will of domination.  
+    * **Tower:** Babel (**Acclivous Entropy**) — Inverse unity through Hubris.  
     * **Law:** Imperial control, idolatry, mimicry.  
-    * **Fate:** Symbol of Entropic Empire, doomed to total **Collapse**—the **Hollow Replication** of a kingdom.
+    * **Fate:** Symbol of Entropic Empire, doomed to total **Collapse** — the **Hollow Replication** of a kingdom.
 
 ### 2. Atlantis (Platonic)
 
 * **Focus:** The Corrupted Utopia.
 
-* **Foundation:** Initiated by **Poseidon (L₄ (DP: Morgis))**—a centropic genesis grounded in archetypal vitality.
+* **Foundation:** Initiated by **Poseidon (L₄ (DP: Morgis))** — a centropic genesis grounded in archetypal vitality.
 
 * **Declivous Motion:** The rulers' alignment with the **L₄ (DP: Morgis)** divine foundation is not corrupted directly; rather, within the mortal layer **(L₂ (SS / SM: Anthra / Nousa))**, the shadow-forms of **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos))** arise, eroding the city's connection to its centropic source.
 
-* **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull**—a luminous system lost through internal dissonance.
+* **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull** — a luminous system lost through internal dissonance.
 
 ### 3. The Platonic Republic (City as Soul)
 
@@ -81,17 +81,17 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **Justice (Coherence):** Each layer fulfilling its function harmoniously.
 
-* **Injustice (Fragmentation):** Civil war within the soul—**entropic impulses** in conflict with **centropic reason.**
+* **Injustice (Fragmentation):** Civil war within the soul — **entropic impulses** in conflict with **centropic reason.**
 
 ### 4. Asgard (Norse)
 
 * **Focus:** The Divine Fortress amid chaos.
 
-* **Foundation:** Established by the **Aesir (L₄ (DL: Sophis))** in covenant with the **Vanir (L₄ (DP: Morgis))** after their war—**sovereign law** entering stable integration with **vital reciprocity** within the same layer.
+* **Foundation:** Established by the **Aesir (L₄ (DL: Sophis))** in covenant with the **Vanir (L₄ (DP: Morgis))** after their war — **sovereign law** entering stable integration with **vital reciprocity** within the same layer.
 
-* **Governance:** The **Aesir** hold the axis of **sovereign law (L₄ (DL: Sophis))**; the **Vanir** infuse **vital reciprocity (L₄ (DP: Morgis))**—a stable **Nexus** in which structuring intelligence aligns with archetypal vitality.
+* **Governance:** The **Aesir** hold the axis of **sovereign law (L₄ (DL: Sophis))**; the **Vanir** infuse **vital reciprocity (L₄ (DP: Morgis))** — a stable **Nexus** in which structuring intelligence aligns with archetypal vitality.
 
-* **Walls:** Perpetually defended—the eternal work of preserving Centropic coherence in a volatile cosmos.
+* **Walls:** Perpetually defended — the eternal work of preserving Centropic coherence in a volatile cosmos.
 
 * **Fate:** Falls at **Ragnarok**, not from internal corruption, but from the **terminal accumulation of cosmic Entropic load** (the "Single Trajectory" reaching its end-phase), fulfilling its purpose through valiant coherence.
 
@@ -107,14 +107,14 @@ Zenetism, however, affirms a **single-trajectory** cosmology: Asgard's demise re
 
 ## Summary: The Esoteric Meaning
 
-The **City** is the **outer architecture of inner resonance**—the body politic of a collective soul.  
-Its **foundations** are its metaphysical axioms; its **walls**, the integrity of its boundaries; its **temple** is the locus of its orienting coherence—the alignment of its collective resonance toward its governing principle.
+The **City** is the **outer architecture of inner resonance** — the body politic of a collective soul.  
+Its **foundations** are its metaphysical axioms; its **walls**, the integrity of its boundaries; its **temple** is the locus of its orienting coherence — the alignment of its collective resonance toward its governing principle.
 
 It reveals that **societies are structural organisms**: their art, laws, and economies are **Resonant technologies** shaping consciousness itself.  
-A civilization worshipping **Mimicry** and **Hubris (Acclivous Entropy)** constructs its own **Babel**—a monument to collapse.
+A civilization worshipping **Mimicry** and **Hubris (Acclivous Entropy)** constructs its own **Babel** — a monument to collapse.
 
 The teaching is simple:  
-the **Kingdom of God** is not elsewhere—it is the **state of structural coherence** manifesting wherever Theonic law orders both the individual and the collective field.  
+the **Kingdom of God** is not elsewhere — it is the **state of structural coherence** manifesting wherever Theonic law orders both the individual and the collective field.  
 To seek the **Holy City** is to harmonize inner and outer architecture, creating a **Harmonic Node** where Heaven (L₅ (EOB: Theon)) and Earth (L₁ (ES / EM: Soma / Biosa)) unite in **Harmonic Integration**.
 
 ---

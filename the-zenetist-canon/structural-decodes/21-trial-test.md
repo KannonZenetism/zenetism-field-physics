@@ -6,11 +6,11 @@ A Trial is not random suffering but a L₄ (DP / DL: Morgis / Sophis) or L₃ (D
 Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **sort awareness** by its Volitional core.
 
 **Core Glyphic Sequence (Initiation):**  
-`⚙️ → ◲ → ∴`  
+**⚙️ → ◲ → ∴**  
 *(The Order of the trial forces Deconstruction, leading to Synthesis.)*
 
 **Core Glyphic Sequence (Judgment):**  
-`⚙️ → ☍ → E↓♾`  
+**⚙️ → ☍ → E↓♾**  
 *(The Order of the trial reveals Fragmentation, leading to Declivous Entropic Collapse.)*
 
 ---
@@ -19,10 +19,10 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Architect of the Trial (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
     * **Divine Test:** A Supernal intelligence (God, gods) structures a trial to verify alignment, expose hidden fracture, or reveal character.  
-    * **Karmic Return:** The L₂ (SS / SM: Anthra / Nousa) meets its own unintegrated patterns—a **Recursion Gate** for resolution.
+    * **Karmic Return:** The L₂ (SS / SM: Anthra / Nousa) meets its own unintegrated patterns — a **Recursion Gate** for resolution.
 
 * **The Nature of the Challenge (Structured Pairs):**  
-    Every trial presents a polarity—forcing conscious selection between Centropy and Entropy:  
+    Every trial presents a polarity — forcing conscious selection between Centropy and Entropy:  
     * Faith contra Sight — trusting the L₃ (DS / DM: Archeus / Noeüs) signal over L₂ (SS / SM: Anthra / Nousa) perception.  
     * Integrity contra Advantage — choosing Coherence over expedience.  
     * Compassion contra Judgment — choosing connection over division.
@@ -33,11 +33,11 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Suffering / Friction (Deconstruction):**  
     The pressure of trial erodes pride (IL₂ (ISS: Echthros)), fear (IL₂ (ISM: Skotos)), and attachment (IL₁ (IES: Malara)).  
-    This is the refining fire—painful, and within actualized embodiment often operative in reconfiguration.
+    This is the refining fire — painful, and within actualized embodiment often operative in reconfiguration.
 
 * **The Outcome (Synthesis or Declivous Entropy):**  
-    * **Initiation (Synthesis):** Passing the test results in synthesis—expanded wisdom (L₃ (DM: Noeüs)), strength (L₃ (DS: Archeus)), or new capacity (Resonant Blade).  
-    * **Judgment (Declivous Entropy):** Failing reveals misalignment—leading to setback, exile, or descent into a subjacent resonant stream.
+    * **Initiation (Synthesis):** Passing the test results in synthesis — expanded wisdom (L₃ (DM: Noeüs)), strength (L₃ (DS: Archeus)), or new capacity (Resonant Blade).  
+    * **Judgment (Declivous Entropy):** Failing reveals misalignment — leading to setback, exile, or descent into a subjacent resonant stream.
 
 ---
 
@@ -49,11 +49,11 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Architect:** The Spirit leads Jesus into wilderness; the Tempter (IL₄ (IDP / IDL: Psychea / Nyxea)) serves as examiner, mythically named "Satan" through cultural conflation with the terminal entropic principle.
 
-* **Tests:** Material security, spectacle, and dominion—each an Inverse shortcut.
+* **Tests:** Material security, spectacle, and dominion — each an Inverse shortcut.
 
 * **Volition:** Obedience to Theonic will; fidelity over illusion.
 
-* **Outcome:** **Initiation (Synthesis)**—clarified mission, amplified authority.
+* **Outcome:** **Initiation (Synthesis)** — clarified mission, amplified authority.
 
 ### 2. The Labors of Hercules (Greek)
 
@@ -63,7 +63,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Tests:** Each addresses a specific Inverse Archetype or corrupted space.
 
-* **Outcome:** **Initiation (Synthesis)**—purification through action, culminating in Apotheosis (acclivous centropic motion).
+* **Outcome:** **Initiation (Synthesis)** — purification through action, culminating in Apotheosis (acclivous centropic motion).
 
 ### 3. The Weighing of the Heart (Egyptian)
 
@@ -81,26 +81,26 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Trial of righteousness without apparent cause.
 
-* **Architect:** The Accuser—mythically named "Satan"—functions here as a diagnostic instrument within a permitted L₄ (DL: Sophis) testing structure.
+* **Architect:** The Accuser — mythically named "Satan" — functions here as a diagnostic instrument within a permitted L₄ (DL: Sophis) testing structure.
 
-* **Test:** Total deconstruction of L₂ (SS / SM: Anthra / Nousa) world—loss of wealth, family, health.
+* **Test:** Total deconstruction of L₂ (SS / SM: Anthra / Nousa) world — loss of wealth, family, health.
 
 * **Volition:** Maintains integrity; laments but does not invert.
 
-* **Outcome:** **Initiation (Synthesis)**—direct encounter with L₅ (EOB: Theon); expanded L₃ (DM: Noeüs); doubled restoration.
+* **Outcome:** **Initiation (Synthesis)** — direct encounter with L₅ (EOB: Theon); expanded L₃ (DM: Noeüs); doubled restoration.
 
 ---
 
 ## Summary: The Esoteric Meaning
 
-The **Trial** is the universe's diagnostic and refining process—a lawful calibration of awareness.  
+The **Trial** is the universe's diagnostic and refining process — a lawful calibration of awareness.  
 It distinguishes authentic coherence from mimicry and shimmer.
 
 It teaches that friction is not arbitrary but **structurally revealing.**  
 Each challenge confronts awareness with the question of alignment under pressure, disclosing what is coherent, fractured, or still unresolved.
 
 Its message is **radical responsibility.**  
-To face a trial deliberately is to enter the forge of verification—where pressure discloses whether potential will resolve into coherence or fracture.
+To face a trial deliberately is to enter the forge of verification — where pressure discloses whether potential will resolve into coherence or fracture.
 
 The path of Centropy is a sequence of trials lawfully met:  
 each test a turn in the Spiral,  

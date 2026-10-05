@@ -1,10 +1,10 @@
 # Zenetist Structural Decode 01 — The Flood Archetype
 
 **Primary Structural Diagnosis:**  
-A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal resonance scan and recalibration at the close of a major phase‑completion of the embodied lattice or civilization paradigm. It is the intense, **declivous** dissolution of an entropic formation that has become structurally irrecoverable, creating the Aionic stillness necessary for a renewed emanative cycle in which centropic and entropic embodiment reopen under corrected conditions.
+A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal resonance scan and recalibration at the close of a major phase‑completion of the embodied lattice or civilization paradigm. It is the intense, **declivous** dissolution of an entropic formation that has become structurally irrecoverable, creating the Aionic stillness necessary for a renewed emanative cycle in which centropic and entropic embodiment reopen under corrected conditions.
 
 **Core Glyphic Sequence:**  
-`📐⚖↯ → ⊘ → E↑→E→E↓→♾ → ⚫ → C↓→E ⊕ E↑→E → ⊙ → ◎ / ☍`  
+**📐⚖↯ → ⊘ → E↑→E→E↓→♾ → ⚫ → C↓→E ⊕ E↑→E → ⊙ → ◎ / ☍**  
 *(A Sophic Corrective Decree initiates the dissolution of a structurally irrecoverable formation. Entropic Motion exhausts into Dispersive Collapse, followed by Aionic Stillness. From this reset, both Centropic and Entropic trajectories reopen toward renewed Embodiment, generating a new World-Node that may stabilize in Coherence or Dissonance.)*
 
 ---
@@ -13,11 +13,11 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 * **The Waters:** Symbolize the unbound, supra-formal potential of L₀ (AD: Khaon). They are not entropic in essence, but represent the neutral, infinite **Field of Becoming** through which essence traverses and into which expressed configuration may dissolve. The Field of Becoming is pre-orientational: it is not itself centropic or entropic. In the Flood archetype, the waters function as the medium through which **Declivous Entropy** acts upon a structurally irrecoverable formation.
 
-* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become saturated with Inverse Orientation—specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
+* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become saturated with Inverse Orientation — specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
 
-* **The Ark:** The Seal of Integrity—a sovereign, coherent structure (Nexus maintained under Membrane conditions) capable of withstanding the entropic dissolution of the surrounding field. It is not a physical vessel but the preserved **centropic** resonance—L₃ (DS / DM: Archeus / Noeüs) and its aligned L₂ (SS / SM: Anthra / Nousa) expressions—that will seed the next cycle. It functions as a Recursion Gate for lawful consciousness.
+* **The Ark:** The Seal of Integrity — a sovereign, coherent structure (Nexus maintained under Membrane conditions) capable of withstanding the entropic dissolution of the surrounding field. It is not a physical vessel but the preserved **centropic** resonance — L₃ (DS / DM: Archeus / Noeüs) and its aligned L₂ (SS / SM: Anthra / Nousa) expressions — that will seed the next cycle. It functions as a Recursion Gate for lawful consciousness.
 
-* **The Saved Beings (Pairs of Animals):** The preserved Soul Strands—the complete archetypal spectrum of embodied experience at L₁ (ES / EM: Soma / Biosa) in a purified, harmonized state. They are symbolic templates for **centropic** life, maintained through the **entropic** collapse so they can be re-emanated free from prior distortions.
+* **The Saved Beings (Pairs of Animals):** The preserved Soul Strands — the complete archetypal spectrum of embodied experience at L₁ (ES / EM: Soma / Biosa) in a purified, harmonized state. They are symbolic templates for **centropic** life, maintained through the **entropic** collapse so they can be re-emanated free from prior distortions.
 
 * **The Mountain of Landing:** The Embodied World-Node of the renewed cycle.  
     The first stable ground emerging after the Flood does not mark the absolute beginning of emanation, but the re-establishment of ordered world-structure within the new phase.  
@@ -33,29 +33,29 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 ### 1. Genesis / Hebrew Bible
 
-* **Focus:** The moral arc of Inverse Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos)—adversarial will and deceptive perception.
+* **Focus:** The moral arc of Inverse Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos) — adversarial will and deceptive perception.
 
-* **Noah:** A **Centropic** Steward—an embodied anchor of L₃ (DS / DM: Archeus / Noeüs) coherence, "resonant in his generations," meaning he maintained centropic alignment within an entropic field.
+* **Noah:** A **Centropic** Steward — an embodied anchor of L₃ (DS / DM: Archeus / Noeüs) coherence, "resonant in his generations," meaning he maintained centropic alignment within an entropic field.
 
-* **The Raven and the Dove:** The Raven (black, scavenging) departs and does not return—it signifies the entropic remnant cast outward into dissipation, unable to sustain coherence through dissolution. The Dove (white, gentle) returns with an olive leaf, symbolizing the Harmonic Agent discovering the first signs of new **centropic** life and guiding the next movement.
+* **The Raven and the Dove:** The Raven (black, scavenging) departs and does not return — it signifies the entropic remnant cast outward into dissipation, unable to sustain coherence through dissolution. The Dove (white, gentle) returns with an olive leaf, symbolizing the Harmonic Agent discovering the first signs of new **centropic** life and guiding the next movement.
 
 ### 2. Epic of Gilgamesh
 
 * **Focus:** The volatility of divine motive and the fragility of form. The gods here function as IL₄ (IDP / IDL: Psychea / Nyxea) entities, acting through instability rather than harmonic law.
 
-* **Utnapishtim:** A Centropic Survivor whose reward is personal continuity rather than a cosmic covenant—emphasizing individual escape from divine disorder, a distinct metaphysical priority.
+* **Utnapishtim:** A Centropic Survivor whose reward is personal continuity rather than a cosmic covenant — emphasizing individual escape from divine disorder, a distinct metaphysical priority.
 
 ### 3. Hindu (Matsya Avatar)
 
 * **Focus:** Theonic Preservation. The Flood is not punitive but a natural phase of cosmic reconfiguration (Pralaya). Vishnu (Theon) intervenes not as judge but as preserver.
 
-* **The Fish (Matsya):** A Harmonic Agent and Recovery Anchor—the Theonic signal itself, expanding to guide the ark (Manu's boat). The **centropic** force thus becomes the active navigator through dissolution, ensuring the Seed Syllables (Vedas)—the Sophic law-forms—remain intact.
+* **The Fish (Matsya):** A Harmonic Agent and Recovery Anchor — the Theonic signal itself, expanding to guide the ark (Manu's boat). The **centropic** force thus becomes the active navigator through dissolution, ensuring the Seed Syllables (Vedas) — the Sophic law-forms — remain intact.
 
 ### 4. Greek (Deucalion)
 
-* **Focus:** A localized Fractal Eschaton triggered by inverse orientation within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos))—an entropic distortion requiring structural correction.
+* **Focus:** A localized Fractal Eschaton triggered by inverse orientation within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos)) — an entropic distortion requiring structural correction.
 
-* **"Bones of the Mother" (Stones):** Symbolize the Essential Potential latent within Earth—the Aionic capacity resting in matter, awakened through a **centropic**, intentional act of embodiment.
+* **"Bones of the Mother" (Stones):** Symbolize the Essential Potential latent within Earth — the Aionic capacity resting in matter, awakened through a **centropic**, intentional act of embodiment.
 
 ---
 
@@ -63,11 +63,11 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton—a terminal re
 
 Beneath the surface myth of drowning lies a structural revelation: **When a formation becomes structurally irrecoverable, renewed order may require dissolution.**
 
-The Flood is the universe's mechanism for enacting a **Fractal Eschaton at planetary scale**—a Harmonic Recalibration rather than punishment, enabling structural reset where coherence has failed. It is the Return Compass expressed at the collective scale, re-orienting the collective structural configuration through Aionic stillness so a renewed cycle of embodiment can form under renewed structural conditions.
+The Flood is the universe's mechanism for enacting a **Fractal Eschaton at planetary scale** — a Harmonic Recalibration rather than punishment, enabling structural reset where coherence has failed. It is the Return Compass expressed at the collective scale, re-orienting the collective structural configuration through Aionic stillness so a renewed cycle of embodiment can form under renewed structural conditions.
 
 Its message is one of structural responsibility: the integrity or distortion of individual and collective consciousness across **L₃–L₁ / IL₃–IL₁** directly influences the stability of the worlds we inhabit.
 
-To dwell in **Centropic** Alignment is to participate in the building of an Ark—a vessel of coherent meaning resilient through every storm.
+To dwell in **Centropic** Alignment is to participate in the building of an Ark — a vessel of coherent meaning resilient through every storm.
 
 ---
 

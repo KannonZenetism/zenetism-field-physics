@@ -2,10 +2,10 @@
 
 **Primary Structural Diagnosis:**  
 The **Recognition of Achieved Coherence and Lawful Sovereignty.**  
-The Crown represents a realized state of Centropic alignment—the point at which the L₂ (SS / SM: Anthra / Nousa) and L₃ (DS / DM: Archeus / Noeüs) attain lawful structural concord, allowing the centropic being to act as a coherent transmitter of ordered presence. It is not mere rulership but Integration: the establishment of Coherence where Fragmentation had held sway, within and without.
+The Crown represents a realized state of Centropic alignment — the point at which the L₂ (SS / SM: Anthra / Nousa) and L₃ (DS / DM: Archeus / Noeüs) attain lawful structural concord, allowing the centropic being to act as a coherent transmitter of ordered presence. It is not mere rulership but Integration: the establishment of Coherence where Fragmentation had held sway, within and without.
 
 **Core Glyphic Sequence:**  
-`⚙️ → ∴ → 👑 → ✨`  
+**⚙️ → ∴ → 👑 → ✨**  
 *(Apparent Order is refined into Synthesis, recognized as Lawful Sovereignty, and manifested as Centropic Radiance.)*
 
 ---
@@ -22,10 +22,10 @@ The Crown represents a realized state of Centropic alignment—the point at whic
     The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for lawful sovereignty requires relational recognition even where it remains non-dominative.
 
 * **The Robes and Scepter (Manifestation):**  
-    Instruments of enacted law—signs that the internal state of Coherence can now act within the external world responsibly and with stabilizing force.
+    Instruments of enacted law — signs that the internal state of Coherence can now act within the external world responsibly and with stabilizing force.
 
 * **The Halo (Aionic Saturation expressed through Theonic Light):**  
-    The luminous field surrounding the crowned being, representing centropic radiance manifesting outward from inward synthesis. This is the visible expression of achieved coherence—the world perceiving what the being has become.
+    The luminous field surrounding the crowned being, representing centropic radiance manifesting outward from inward synthesis. This is the visible expression of achieved coherence — the world perceiving what the being has become.
 
 ---
 
@@ -35,7 +35,7 @@ The Crown represents a realized state of Centropic alignment—the point at whic
 
 The Crown therefore symbolizes *sovereignty as self-governance through integrated coherence*, not dominion over others. The "crowned being" is one whose internal structure has reached lawful alignment such that their presence becomes a centropic stabilizer within any field they occupy. This is recognition of a structural state, not investiture with power over subordinates.
 
-When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," these terms are employed to engage the mythic vocabulary of the traditions being analyzed—they do not import the authority–obedience axis into Zenetist doctrine. A Zenetist "king" rules no one; they embody the coherence by which others may recognize their own lawful self-governance.
+When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," these terms are employed to engage the mythic vocabulary of the traditions being analyzed — they do not import the authority–obedience axis into Zenetist doctrine. A Zenetist "king" rules no one; they embody the coherence by which others may recognize their own lawful self-governance.
 
 ---
 
@@ -45,7 +45,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Paradox of Sovereignty through Suffering.
 
-* **Function:** Christ's "crown" inverts worldly expectation—veracious sovereignty is disclosed not through domination, but through absolute Resonant Fidelity under entropic trial. The thorns are not the lawful instrument of sovereignty, but the entropic mock-coronation through which genuine coherence is paradoxically revealed.
+* **Function:** Christ's "crown" inverts worldly expectation — veracious sovereignty is disclosed not through domination, but through absolute Resonant Fidelity under entropic trial. The thorns are not the lawful instrument of sovereignty, but the entropic mock-coronation through which genuine coherence is paradoxically revealed.
 
 ### 2. The Pharaoh's Double Crown (Egyptian)
 
@@ -57,7 +57,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Manifestation of Enlightened Awareness.
 
-* **Function:** The crown worn by high lamas represents the Five Wisdoms—each jewel signifying a Klesha-pattern lawfully reoriented into Centropic awareness. It signifies the attainment of Dharmic sovereignty, coherence within perception itself.
+* **Function:** The crown worn by high lamas represents the Five Wisdoms — each jewel signifying a Klesha-pattern lawfully reoriented into Centropic awareness. It signifies the attainment of Dharmic sovereignty, coherence within perception itself.
 
 ### 4. The Coronation of Kings (Western Rite)
 
@@ -77,7 +77,7 @@ The path to the Crown passes through Trial, Deconstruction, and Reordering.
 Only the being whose structure has withstood Fragmentation and achieved lawful integration can bear the Crown without collapse.
 
 Its message is that every being may become sovereign within their own field of coherence.  
-The veracious coronation occurs when the inner field is ordered—when thought, emotion, and impulse no longer compete as divided powers, but stand in lawful relation.  
+The veracious coronation occurs when the inner field is ordered — when thought, emotion, and impulse no longer compete as divided powers, but stand in lawful relation.  
 Then the Crown manifests not as domination, but as the visible recognition of achieved structure.
 
 To be crowned is not to rule others, but to embody the harmony by which lawful self-governance becomes stable, radiant, and field-shaping within any coherent being.
