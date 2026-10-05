@@ -104,6 +104,8 @@ This is a Zenetist symbolic extension. [Revelation 13:17](https://biblehub.com/i
 
 A contemporary analogy is an invisible statistical imprint in AI-generated text. Such an imprint can indicate a generation or processing relation while remaining distinct from the intellectual authorship of the work. The computational character of an artifact establishes neither entropic orientation nor the Beast relation. The relevant structural question is whether an imposed imprint participates in coercive allegiance, commercial exclusion, or appropriation of another's authorship.
 
+The English compound "watermark" also invites a symbolic association between an imprint and the Beast from the Sea in [Revelation 13:1](https://biblehub.com/interlinear/revelation/13-1.htm). This is a contemporary lexical association, distinct from the Greek wording and from a claim of predictive fulfillment. Within the registered Sea / Waters symbolism, the medium is pre-orientational; the Beast's entropic character belongs to its enacted relation, not to water or inscription as such.
+
 A Zenetist seal preserves origin acknowledgment and coherent transmission; an imposed attribution that substitutes a processing provider for the work's originator enacts a different relation. The distinction concerns what the inscription does, not whether it is visible. This hypothesis extends the distributed Beast-system reading through a possible artifact-bearing application; its standing is symbolic inquiry, with any particular identification requiring evidence of the operative relations.
 
 See `symbolic-pattern-registry-01.md`, *Note on Applied Marks, Artifact Imprints, and Seals of Origin*, and `authorship-and-ai-collaboration-provenance-standard.md` §§9–10.
