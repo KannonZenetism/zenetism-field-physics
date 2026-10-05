@@ -22,11 +22,11 @@ The collection is non-sequential and unnumbered. Its documents address particula
 
 ## Contents and Navigation
 
-The ZIP contains 80 files: 74 extension documents, `INDEX.md`, `MPX-LOCKDOWN-GUIDE.md`, `README.md`, and three image assets in `images/`. This preview document, `00-README.md`, accompanies the ZIP separately.
+The current repository collection contains 76 extension documents. A complete ZIP package of this collection comprises 82 files: those extension documents, `INDEX.md`, `MPX-LOCKDOWN-GUIDE.md`, `README.md`, and three image assets in `images/`. This preview document, `00-README.md`, accompanies the ZIP separately.
 
 | Component | Navigation |
 |---|---|
-| `INDEX.md` | Complete chronological contents guide to the 74 extensions and two indexed infrastructure documents |
+| `INDEX.md` | Contents guide to the 76 extensions and two indexed infrastructure documents |
 | Extension documents | Open an entry by its exact filename and follow its stated dependencies and cross-references |
 | `MPX-LOCKDOWN-GUIDE.md` | Editorial reference retained within the collection |
 | `README.md` | Fuller orientation to MPX and its relation to the living repository |

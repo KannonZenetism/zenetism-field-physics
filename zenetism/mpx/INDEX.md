@@ -126,6 +126,13 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 
 ---
 
+## Additional Entries
+
+- `emergence-potentiality-emanation-and-actualization.md`
+- `essence-structure-and-intelligence.md`
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
