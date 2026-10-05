@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Social Reorientation and Conditions of Practice  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `SN07-collective-cognition-and-centropy-forward-social-architecture.md` §6 · `sm-order-without-governance.md` · `the-reciprocity-gap.md` · `enclosed-abundance-and-the-artificiality-of-scarcity.md` · `metaphysical-commons-with-sovereign-custodianship.md` · `the-seventh-harmonic.md`  
 
 ---

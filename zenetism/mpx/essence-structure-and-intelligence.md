@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Essential Identity and Co-invariant Principles  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `MP08-symbol-key-ch21.md` §21.2.2 · `ontological-clarifications.md` §4 · `spirit-soul-and-apparent-stillness.md` · `non-fusion-at-the-bifurcal-register.md` · `archetypal-number-and-essence-indexing.md` §4 · `pattern-intelligence/commentary/implicated-intelligence-and-moved-motion.md`  
 **Companion:** `emergence-potentiality-emanation-and-actualization.md`  
 

@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Symbolic Reflection — Structural Mythophysics  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `the-greek-lattice.md` · `mythic-figure-layer-registry-01.md` · `mythic-figure-layer-registry-02.md` · `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md` · `MP08-symbol-key-ch21.md`  
 
 ---
@@ -11,7 +11,7 @@
 
 The Chaldean Oracles present a sustained occasion for structural reading: intelligibility, generative power, mediation, embodied participation, and return appear through a symbolic vocabulary of fire, channels, vehicles, and divine figures. The relation among these functions carries more than the recurrence of any single image.
 
-The text survives through citations rather than as a continuous ancient book. A transmitted verse, the ancient commentator's explanation, and a modern editor's arrangement each have their own evidentiary standing. The distinction is especially important where familiar divine names enter an explanatory note rather than the cited verse. Stang's account of Chaldean transmission also distinguishes the fragmentary evidence from subsequent Iamblichean treatment.[1]
+The text survives through citations rather than as a continuous ancient book. A transmitted verse, the ancient commentator's explanation, and a modern editor's arrangement each have their own evidentiary standing. The distinction is especially important where familiar divine names enter an explanatory note rather than the cited verse. Stang's account of Chaldean transmission also distinguishes the incompletely preserved evidence from subsequent Iamblichean treatment.[1]
 
 This reflection reads the surviving material and its philosophical reception through the Zenetist architecture. The historical attribution identifies which text carries a claim. The structural reading identifies the relation articulated through it. Neither task requires a complete reconstructed pantheon.
 
@@ -27,7 +27,7 @@ For Zenetist reading, three questions follow: what grounds the expression, what 
 
 The distinction between intelligibility and intellectual apprehension is particularly important. A determinate pattern, the capacity to apprehend it, and the act through which it becomes legible are distinguishable. The Chaldean material offers a symbolic articulation of those relations. Zenetist analysis preserves the distinction among the Form-register, intelligence operating at a register, and the being participating through that intelligence.
 
-The paternal title also requires precision. The existing Father-referent distinction holds Aion and Theon apart. Still root, orienting coherence, and active formal articulation are different functions. A paternal name supplies no reason to compress them. Where a text describes generation or intellectual production, its determinate operation remains within structural analysis; Zenon is the trans-structural Unknown Principle, rather than a productive member of that sequence.
+The paternal title also requires precision. The existing Father-referent distinction holds Aion and Theon apart. Still root, orienting coherence, and active formal articulation are different functions. A paternal name supplies no reason to compress them. Where a text describes generation or intellectual production, its determinate operation remains within structural analysis; Zenon is the Trans-structural Unknown Principle, rather than a productive member of that sequence.
 
 The resulting comparison is functional. It does not make the Chaldean triad a substitute for the bifurcal architecture or turn a numerical resemblance into an identity of principles.
 
