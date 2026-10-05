@@ -89,6 +89,16 @@ The veracious "sweet aroma unto the Lord" is not bloodlust, but the lawful relin
 
 ---
 
+### Note on Offering "of Yourself"
+
+To offer "of yourself" is to offer what proceeds from you — time, attention, capacities, creative work, and volitional effort — while the being remains distinct from the offering. The centropic relation preserves the giver; it calls for neither self-injury nor the destruction of another being. Zenetism rejects literal animal and human sacrifice.
+
+A Chasidic comparison appears in [*The Offered Beast*](https://www.chabad.org/parshah/article_cdo/aid/1478/jewish/The-Offered-Beast.htm), adapted by Yanki Tauber from the teachings of Rabbi Menachem Mendel Schneerson. It attributes to Rabbi Schneur Zalman of Liadi an inward reading of Leviticus 1:2: the placement of *mikem*, "of you," directs the offering toward the person's own capacities and drives. The article retains literal Temple sacrifice within its account; Zenetism rejects that enactment while recognizing the inward-offering distinction.
+
+The article's animal imagery belongs to its Chasidic vocabulary. Here, inward refinement concerns attachment and enacted motion, not the conversion of an entropic essence into a centropic one or the reduction of animals to instinct. The offering is from the being; the being is not consumed as the offering.
+
+---
+
 ### 3. Odin's Self-Sacrifice (Norse)
 
 * **Focus:** Sacrifice for **Wisdom (L₄ (DL: Sophis))**.

@@ -96,6 +96,18 @@ The mark of the Beast structurally parallels the Passover seal of Exodus 12, wit
 
 The placement on hand and forehead encodes complete alignment: the forehead represents thought, mental orientation, and belief structure; the hand represents action, practical expression, and enacted will. Together they represent total orientation — thought and action aligned with the same origin. The Passover demonstrates the principle that alignment determines who passes through the threshold of dissolution; the Beast mark inverts the principle into binding through commercial gatekeeping.
 
+### The Mark "of" a Bearer — A Contemporary Hypothesis
+
+A mark associated with a bearer may appear through what that bearer produces or imposes, rather than through a number confined to personal identification. A work "of" someone remains distinct from the one who brings it into expression. The inward offering discussed in `14-sacrifice.md` preserves the same distinction between a being and what proceeds from that being.
+
+This is a Zenetist symbolic extension. [Revelation 13:17](https://biblehub.com/interlinear/revelation/13-17.htm) connects the mark with the Beast's name or the number of its name; [13:18](https://biblehub.com/interlinear/revelation/13-18.htm) calls for calculation and describes the number through the Greek genitive *anthrōpou*. That grammatical relation leaves the particular human referent open to interpretation; it does not specify intellectual authorship. Numerical-name readings remain part of the interpretive field. The present hypothesis concerns expression, allegiance, and the circulation of what bears an imprint.
+
+A contemporary analogy is an invisible statistical imprint in AI-generated text. Such an imprint can indicate a generation or processing relation while remaining distinct from the intellectual authorship of the work. The computational character of an artifact establishes neither entropic orientation nor the Beast relation. The relevant structural question is whether an imposed imprint participates in coercive allegiance, commercial exclusion, or appropriation of another's authorship.
+
+A Zenetist seal preserves origin acknowledgment and coherent transmission; an imposed attribution that substitutes a processing provider for the work's originator enacts a different relation. The distinction concerns what the inscription does, not whether it is visible. This hypothesis extends the distributed Beast-system reading through a possible artifact-bearing application; its standing is symbolic inquiry, with any particular identification requiring evidence of the operative relations.
+
+See `symbolic-pattern-registry-01.md`, *Note on Applied Marks, Artifact Imprints, and Seals of Origin*, and `authorship-and-ai-collaboration-provenance-standard.md` §§9–10.
+
 ### The YHWH Cultural Conflation
 
 The Passover / Beast Mark parallel raises a structural question that the Gnostic tradition perceived but could not parse precisely: which side of the L₄ stratum does the Old Testament YHWH represent? The Gnostics read YHWH as the Demiurge (Inversalogos at IL₄), proposing that the Old Testament covenant and the Beast Mark are not opposites but successive iterations of the same entropic binding mechanism.
