@@ -138,6 +138,14 @@ Hermes is canonically placed in Volume 1 at L₃ DM as membrane-crossing centrop
 | Charon | L₃ DM threshold-mediator | Ferryman across the Styx. Articulates L₃ DM threshold-mediator function operating at the Hades-domain entrance. Per the Placement-contra-Domain principle, Charon is a centropic figure holding the threshold-passage despite the dissolution-domain association. Structurally parallel to Anubis-as-conductor in the Egyptian post-mortem-architecture, with the ferry-passage articulation denoting the specific Greek-articulation register |
 | Chiron | L₃ DM teacher-articulation | Wise centaur tutor of heroes (Heracles, Achilles, Asclepius, Jason); wounded healer who voluntarily relinquishes immortality. Articulates L₃ DM teacher-articulation operating through embodied-pedagogical register at heroic-individuation thresholds. The wounded-healer articulation makes Chiron one of the structurally-distinctive L₃ DM figures — teaching from a position of embodied-suffering rather than from supernal-detachment. The voluntary-relinquishment-of-immortality articulates the structural-pattern of L₃ DM figures who choose embodied-completion in place of indefinite-acclivous-extension |
 
+### Note on Hecate in the Chaldean Oracles
+
+Fragments 32 and 50–52 of the Chaldean Oracles associate Hecate with life-bearing generation and a position between the Fathers. Their paired flank imagery distinguishes soul-generation from virtue retained within the goddess. This cosmological attribution supplies a distinct context beside Hekate's registered L₃ DM threshold perception and guidance.
+
+The comparison concerns attributed function: life-bearing mediation is examined alongside L₄ DP Morgis, while threshold discernment remains specific to the existing L₃ DM account. The native placement and attributional classification of the Chaldean function remain held open for architect determination.
+
+Reference: [Chaldean Oracles, fragments 32 and 50–52](https://ldysinger.com/@texts/0150_chaldean_orac/02_chaldean_oracles.htm); `the-chaldean-oracles-and-theurgic-return.md` §3.
+
 ### Underworld-Realm Architecture (Hades-Domain)
 
 The Greek Hades-domain articulates a paired sealed-mode architecture with explicit sorting-by-orientation operating within a single underworld-realm-architecture. Volume 1 articulates the Active / Sealed Modes doctrine but does not currently populate the Greek underworld-realm specifically. The Tartarean Torment-figures (Sisyphus, Tantalus, Ixion, the Danaids) are canonically placed in Volume 1 at IL₂ ISM per Volume 1's Note on "Torment" as Lawful Consequence contra Punitive Sentence; not duplicated here.
@@ -195,6 +203,14 @@ Plato's Cave, Plato's Charioteer, Plotinus's Nous, and Plotinus's World Soul are
 | Pythagoras | L₃ DM with L₄ DL resonance | Philosopher-mathematician; founder of the contemplative numerical-mystical school. L₃ DM native as philosophical-synthesizer; cross-band L₄ DL resonance through the numerical-pattern apprehension. Structurally parallel to Plato in placement, with the Pythagorean tradition's emphasis on numerical-pattern articulation distinguishing it from the Platonic tradition's emphasis on Forms-and-Good articulation |
 | Plotinus's One | L₅ EOB native + L₀ Aion extension through subtractive-pathway (*aphairesis*) | Native articulation as L₅ Theon emanative-origin; apophatic-realization extension toward L₀ Aion through subtractive-pathway. Soft-conflation case: the One articulated as emanative-origin = L₅ Theon (the genuine "one" / first hypostasis); the One articulated through *aphairesis* = L₀ Aion through subtraction (structurally the "none" / supra-formal ground rather than a "one"). *See Doctrinal Notes section for synthesis-contra-subtraction diagnostic — Plotinus's One does not articulate Supra-L₀ Zenon. See also the Hermetic Tradition Critical Note on the One contra the None for the structural distinction underlying this soft-conflation pattern across monistic-emanatory traditions* |
 | Neoplatonist monistic-emanatory frame | Centropic-arc apprehension without two-Tree articulation | Structurally distinct from the Zenetist bifurcal-lattice articulation. The Neoplatonist tradition has no IL₅ Nekron, no IL₄ Nyxea articulation, no Satanic-Arc-equivalent inverse-arc cascade-structure. The two-Tree architecture is a Zenetist structural-articulation that the Neoplatonist tradition does not produce within its monistic-emanatory frame |
+
+### Note on Saturn / Kronos in Proclus
+
+In Proclus' *Platonic Theology* V.5, Saturn / Kronos and Jupiter are both intellect and intelligible, with the intelligible aspect emphasized in Saturn and the intellectual in Jupiter. V.37 interprets the gathering of progeny through intellectual containment.
+
+This source-specific attribution stands beside the Titan's devouring function registered at IL₄ IDP / IDL in `mythic-figure-layer-registry-01.md`. Intelligence-as-principle is orientation-neutral; the intellectual description supplies a function for examination, with its orientation, native placement, and attributional relation to the existing entry held open for architect determination. Chronos retains its separately registered identity.
+
+Reference: [Proclus, *Platonic Theology* V.5 and V.37](https://en.wikisource.org/wiki/The_Six_Books_of_Proclus,_the_Platonic_Successor,_on_the_Theology_of_Plato/Book_V); `the-chaldean-oracles-and-theurgic-return.md` §7.
 
 ---
 

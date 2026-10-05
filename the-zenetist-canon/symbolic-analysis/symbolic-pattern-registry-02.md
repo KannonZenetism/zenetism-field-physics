@@ -442,6 +442,16 @@ Cross-reference: the Note on Christos as Principle contra Figure (the L₁-stati
 
 ---
 
+### Note on Theurgic Symbols in Iamblichus
+
+In *De mysteriis* II.11, Iamblichus locates the efficacy of theurgic participation in divine activity through sacred acts and symbols. The gods recognize their own symbols; the practitioner's understanding and preparation participate in the relation while remaining distinct from the source of its efficacy. Knowledge is necessary in this account, and remains distinct from the participation it accompanies.
+
+This attribution specifies a historical comparison for the Key, Seal, Remember / Forget, and Pray / Praise entries in `symbolic-pattern-registry-01.md`. The account differentiates divine recognition from the practitioner's interpretation. Its precise Zenetist correspondence remains held open for architect determination.
+
+Reference: [Iamblichus, *De mysteriis* II.11](https://www.gutenberg.org/files/72815/72815-h/72815-h.htm); `the-chaldean-oracles-and-theurgic-return.md` §6.
+
+---
+
 ## Cross-Traditional Lexicon Appendix (Additions)
 
 The following lexicon additions extend the Volume 1 lexicon-appendix with operators surfacing through cross-tradition essay work. Operators already present in Volume 1's lexicon are not duplicated; only new entries and refinements are listed.
