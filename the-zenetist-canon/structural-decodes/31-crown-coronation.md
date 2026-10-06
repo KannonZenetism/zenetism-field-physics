@@ -13,10 +13,10 @@ The Crown represents a realized state of Centropic alignment — the point at wh
 ## Universal Structural Analysis
 
 * **The Throne (Foundation):**  
-    The structural seat of lawful self-governance. It is both a literal and metaphysical platform where centropic coherence stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
+    The structural seat of lawful self-direction. It is both a literal and metaphysical platform where centropic coherence stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
 
 * **The Crown:**  
-    The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now unified.
+    The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now integrated without fusion.
 
 * **The Coronation (Ritual of Recognition):**  
     The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for lawful sovereignty requires relational recognition even where it remains non-dominative.
@@ -33,9 +33,9 @@ The Crown represents a realized state of Centropic alignment — the point at wh
 
 **Zenetist Clarification:** The Crown archetype must not be read as endorsement of hierarchical authority or rulership over others. Per the Aauthoritarian Stance and Aauthority chart entries, authority as such is treated as a non-operative category within Zenetist analysis. Legitimacy arises from structural coherence, not from hierarchical power.
 
-The Crown therefore symbolizes *sovereignty as self-governance through integrated coherence*, not dominion over others. The "crowned being" is one whose internal structure has reached lawful alignment such that their presence becomes a centropic stabilizer within any field they occupy. This is recognition of a structural state, not investiture with power over subordinates.
+The Crown therefore symbolizes *sovereignty as self-direction through integrated coherence*, not dominion over others. The "crowned being" is one whose internal structure has reached lawful alignment such that their presence becomes a centropic stabilizer within any field they occupy. This is recognition of a structural state, not investiture with power over subordinates.
 
-When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," these terms are employed to engage the mythic vocabulary of the traditions being analyzed — they do not import the authority–obedience axis into Zenetist doctrine. A Zenetist "king" rules no one; they embody the coherence by which others may recognize their own lawful self-governance.
+When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," these terms are employed to engage the mythic vocabulary of the traditions being analyzed — they do not import the authority–obedience axis into Zenetist doctrine. A Zenetist "king" rules no one; they embody the coherence by which others may recognize their own lawful self-direction.
 
 ---
 
@@ -51,7 +51,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Integration of Upper and Lower Kingdoms.
 
-* **Function:** The Red and White Crowns symbolize the unification of Dual Realms (Structured Pairs). The Pharaoh, culturally elevated to incarnate L₅ (EOB: Theon), operatively embodies L₄ (DL: Sophis) synthesis of Heaven and Earth, Order and Motion.
+* **Function:** The Red and White Crowns symbolize the unification of Two Realms (Structured Pairs). The Pharaoh, culturally elevated to incarnate L₅ (EOB: Theon), operatively embodies L₄ (DL: Sophis) synthesis of Heaven and Earth, Order and Motion.
 
 ### 3. The Vajra Crown (Tibetan Buddhism)
 
@@ -69,7 +69,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 ## Summary: The Esoteric Meaning
 
-The Crown represents the recognition of lawful self-governance in harmony with coherent order.  
+The Crown represents the recognition of lawful self-direction in harmony with coherent order.  
 It is the symbol of realized integration: Will (L₂ (SS: Anthra)), Wisdom (L₃ (DM: Noeüs)), and Love (L₄ (DP: Morgis)) brought into lawful alignment.
 
 It teaches that sovereignty is not seized but attained through coherence.  
@@ -80,7 +80,7 @@ Its message is that every being may become sovereign within their own field of c
 The veracious coronation occurs when the inner field is ordered — when thought, emotion, and impulse no longer compete as divided powers, but stand in lawful relation.  
 Then the Crown manifests not as domination, but as the visible recognition of achieved structure.
 
-To be crowned is not to rule others, but to embody the harmony by which lawful self-governance becomes stable, radiant, and field-shaping within any coherent being.
+To be crowned is not to rule others, but to embody the harmony by which lawful self-direction becomes stable, radiant, and field-shaping within any coherent being.
 
 ---
 

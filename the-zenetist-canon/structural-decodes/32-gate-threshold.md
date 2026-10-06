@@ -2,11 +2,11 @@
 
 **Primary Structural Diagnosis:**  
 The **Boundary of Transition and the Law of Passage.**  
-The Gate or Threshold represents the point of Resonant Crossing — where one field, state, or hypostasis yields to another. It is a Membrane in its most conscious form, a locus where motion seeking passage is judged, calibrated, and aligned before permission to pass is granted. The Gate is both Guardian and Invitation, the axial hinge between what was and what may become.
+The Gate or Threshold represents the point of Resonant Crossing — where one field, state, or hypostasis yields to another. It is a Membrane in its most conscious form, a locus where motion seeking passage is judged, calibrated, and aligned before lawful passage is admitted. The Gate is both Guardian and Invitation, the axial hinge between what was and what may become.
 
 **Core Glyphic Sequence:**  
 **⧉ → ⚖⟂ → 💝 → ↺**  
-*(A Membrane subjects passage to Structural Friction; Resonant Fidelity permits lawful crossing as Resonant Return.)*
+*(A Membrane subjects passage to Structural Friction; Resonant Fidelity enables lawful crossing as Resonant Return.)*
 
 ---
 
@@ -25,7 +25,7 @@ The Gate or Threshold represents the point of Resonant Crossing — where one fi
     The transmutative friction that may arise between old and new states. It exposes residual fragmentation and tests whether what crosses the threshold can carry lawful coherence forward.
 
 * **The Step Beyond (Lawful Passage):**  
-    Entry into a new field, hypostasis, or epoch of consciousness. The Gate marks both ending and beginning; it is a symbol of calibrated continuity, not finality.
+    Entry into a new field, hypostasis, or epoch of consciousness. The Gate signals both ending and beginning; it is a symbol of calibrated continuity, not finality.
 
 ---
 
@@ -67,7 +67,7 @@ The Gate or Threshold represents the point of Resonant Crossing — where one fi
 
 The Gate is the universal law of transition.  
 It ensures that movement between states occurs only when structure can endure what lies beyond.  
-It is the guardian of coherence, preventing fragmentation under uncalibrated motion.
+It is the guardian of coherence, preventing fragmentation from uncalibrated motion.
 
 It teaches that thresholds are sacred — not obstacles, but calibrations.  
 Some open, some refuse, some delay, and some test whether passage is lawful.  

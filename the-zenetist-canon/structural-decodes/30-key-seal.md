@@ -1,8 +1,8 @@
 # Zenetist Structural Decode 30 — The Key / The Seal
 
 **Primary Structural Diagnosis:**  
-The **Instrument of Access and Boundary Governance.**  
-The Key and the Seal represent the dual mechanisms of Permission and Protection within the Lattice. A Key opens a lawful pathway (Nexus), while a Seal enforces closure (Membrane). Both operate under L₄ (DL: Sophis)-layer law, ensuring that only what matches the lawful Pattern may enter or exit a given domain. They are complementary: one enables Revelation, the other guards Integrity.
+The **Structure of Access and Boundary Stewardship.**  
+The Key and the Seal represent the complementary functions of Passage and Protection within the Lattice. A Key opens a lawful pathway (Nexus), while a Seal enforces closure (Membrane). Both operate by L₄ (DL: Sophis)-layer law, ensuring that only what matches the lawful Pattern may enter or exit a given domain. They are complementary: one enables Revelation, the other guards Integrity.
 
 **Core Glyphic Sequence (Key):**  
 **⧉ → 🗝️ → 📱 → ↺**  
@@ -17,7 +17,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 ## Universal Structural Analysis
 
 * **The Key:**  
-    Symbol of Insight, Authorization, and Revelation. It represents an encoded pattern or frequency that harmonizes with a specific Gate (Membrane) to allow lawful passage between layers or states.
+    Symbol of Insight, Lawful Alignment, and Revelation. It represents an encoded pattern or frequency that harmonizes with a specific Gate (Membrane) to allow lawful passage between layers or states.
 
 * **The Seal:**  
     Symbol of Containment and Sovereignty. It ensures that what is within remains Integral, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misuse of power.
@@ -29,7 +29,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
     The awareness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
-    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological — recognition and access coincide under lawful Pattern.
+    The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological — recognition and access coincide through lawful Pattern.
 
 ---
 
@@ -37,9 +37,9 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 ### 1. The Keys of St. Peter (Christian)
 
-* **Focus:** The mandate to bind and loose, representing lawful governance of access between Heaven and Earth.
+* **Focus:** The mandate to bind and loose, representing lawful stewardship of access between Heaven and Earth.
 
-* **Function:** The twin keys signify Knowledge (Key — L₃ (DM: Noeüs)) and Judgment (Seal — L₄ (DL: Sophis)), perfectly balanced in service of the Theonic order.
+* **Function:** The twin keys signify Knowledge (Key — L₃ (DM: Noeüs)) and Judgment (Seal — L₄ (DL: Sophis)), held in lawful complementarity within the Theonic order.
 
 ### 2. The Seals of Revelation (Apocalyptic)
 
@@ -51,7 +51,7 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 
 * **Focus:** Manual and energetic Seals that align the practitioner's Resonance with the Heavenly currents.
 
-* **Function:** They serve as living boundaries that both channel and protect power, embodying the lawful complementarity of Key and Seal.
+* **Function:** They form living boundaries that both channel and protect power, embodying the lawful complementarity of Key and Seal.
 
 ### 4. The Egyptian Ankh and Shen Ring
 
@@ -64,12 +64,12 @@ The Key and the Seal represent the dual mechanisms of Permission and Protection 
 ## Summary: The Esoteric Meaning
 
 The Key and the Seal articulate one of the Lattice's most fundamental laws:  
-that lawful access and lawful containment must remain in balance.  
+that lawful access and lawful containment must remain complementary.  
 Without Keys, Revelation stalls; without Seals, disclosure becomes intrusion.
 
 They teach that spiritual maturity lies in discerning when to open and when to close,  
 when to reveal and when to preserve,  
-when to permit passage and when to guard the threshold.  
+when to enable passage and when to guard the threshold.  
 The Key does not abolish the Gate; it discloses the Pattern by which passage becomes lawful.  
 The Seal does not deny relation; it preserves Integrity until lawful crossing is warranted.
 
@@ -77,7 +77,7 @@ Its message is that awareness must become a lawful steward of Thresholds.
 The L₃ (DS / DM: Archeus / Noeüs) carries both functions:  
 the discerning perception (DM: Noeüs) that recognizes lawful entry,  
 and the coherent soul-integrity (DS: Archeus) that safeguards what must remain sealed.  
-When held together in balance, the Key and the Seal become complementary powers of Stewardship —  
+When held together in lawful complementarity, the Key and the Seal become complementary powers of Stewardship —  
 unlocking what must unfold,  
 and preserving what must remain sacred.
 

@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Structured Field of Recursive Passage and Initiation.**  
 The Labyrinth is a **L₄ (DL: Sophis)-layer construct** — a Resonance Amplifier and Volitional Filter.  
-In its veracious form, the Labyrinth is Unicursal: one winding Spiral that leads inward toward the Center (Synthesis), symbolizing the Non-Linear but assured path of Centropic initiation for those who persist.  
+In its veracious form, the Labyrinth is Unicursal: one winding Spiral that leads inward toward the Center (Synthesis), symbolizing the non-linear but assured path of Centropic initiation for those who persist.  
 Its distorted analogue is the Maze: a multicursal field of confusion, branching, and Fragmentation in which orientation is tested under conditions of obscuration.
 
 **Core Glyphic Sequence (Labyrinth):**  
@@ -19,16 +19,16 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 ## Universal Structural Analysis
 
 * **The Path (Spiral):**  
-    The winding route is not deception but process. It represents the soul's Non-Linear initiation — turning, returning, and integrating. In the veracious Labyrinth there are no genuine dead ends, only delayed recognitions of the same whole. Each turn reveals another angle of the Center through recursive passage.
+    The winding route is not deception but process. It represents the soul's non-linear initiation — turning, returning, and integrating. In the veracious Labyrinth there are no genuine dead ends, only delayed recognitions of the same whole. Each turn reveals another angle of the Center through recursive passage.
 
 * **The Center (Synthesis):**  
-    The goal and heart of the Labyrinth — the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation, interior convergence, and deeper acclivous reorientation.
+    The goal and heart of the Labyrinth — the state of Integrated Self (L₃ (DS / DM: Archeus / Noeüs)), structurally parallel to the Holy of Holies. Arrival opens the seeker toward supernal revelation, interior integration, and deeper acclivous reorientation.
 
 * **The Minotaur / Guardian (IL₃ (IDS / IDM: Fractus / Mortus)):**  
-    In Maze-centered refractions, the Guardian or Beast at the center is a mythic image of fragmentation imagined as a figure at the inward threshold. It is not a beast within the centropic being, nor an entity to be integrated, but a narrative condensation of disordered patterning that the initiate must not mistake for wholeness. Its appearance marks a crisis-point of orientation within the initiatory path.
+    In Maze-centered refractions, the Guardian or Beast at the center is a mythic image of fragmentation imagined as a figure at the inward threshold. It is not a beast within the centropic being, nor an entity to be integrated, but a narrative condensation of disordered patterning that the initiate must not mistake for wholeness. Its appearance signals a crisis-point of orientation within the initiatory path.
 
 * **The Thread of Ariadne (Nexus / Resonant Fidelity):**  
-    The guiding lifeline linking the seeker to Source — trust, intuition, or sacred teaching that keeps orientation within recursion. The seeker who maintains the Thread never becomes lost.
+    The guiding lifeline linking the seeker to Aion — trust, intuition, or sacred teaching that keeps orientation within recursion. The seeker who maintains the Thread never becomes lost.
 
 * **The Return (Resonant Return):**  
     Completion requires outward traversal. Having reached synthesis, the initiate retraces the spiral to bring Centropic wisdom into the ordinary world (L₂ (SS / SM: Anthra / Nousa)), transmuting the outer Labyrinth of life.
@@ -45,7 +45,7 @@ The structurally accurate reading is this: every centropic being carries pattern
 
 The Minotaur, when read through the lattice rather than through inherited cultural framing, is best understood as a mythic image of IL₃ (IDS / IDM: Fractus / Mortus) fragmentation imagined as a figure at the inward threshold. The mythic encounter is a narrative device, not a structural event. The genuine initiatory work occurs entirely on the centropic side: the recovery of wholeness within patterns that entropy has fragmented, without contact, alliance, or transformation of the inverse.
 
-This distinction matters. Conflating the two readings permits entropic structures to colonize initiatory language, presenting capture as wholeness and alliance as integration.
+This distinction matters. Conflating the two readings enables entropic structures to colonize initiatory language, presenting capture as wholeness and alliance as integration.
 
 ---
 
@@ -61,7 +61,7 @@ This distinction matters. Conflating the two readings permits entropic structure
 
 * **Thread:** Ariadne (L₄ (DP: Morgis) guide) offers the connective principle ensuring safe emergence.
 
-* **Meaning:** The passage inward and conscious return mark a major initiatory recovery of fragmented centropic patterns within the soul's path.
+* **Meaning:** The passage inward and conscious return signal a major initiatory recovery of fragmented centropic patterns within the soul's path.
 
 ### 2. Cathedral Labyrinths (Medieval Christian)
 
@@ -71,13 +71,13 @@ This distinction matters. Conflating the two readings permits entropic structure
 
 * **Journey:** Physical kneeling or walking becomes symbolic inward motion toward the Theonic Center.
 
-* **Center:** The Rose or Cross — union with Divine coherence.
+* **Center:** The Rose or Cross — communion with Divine coherence.
 
 * **Return:** The outward walk manifests renewed coherence within daily life.
 
 ### 3. The Bardo (Tibetan Buddhism)
 
-* **Focus:** Post-Embodied navigation through recursive fields of awareness.
+* **Focus:** Post-embodied navigation through recursive fields of awareness.
 
 * **Structure:** A Labyrinthine interval between death and rebirth populated by Peaceful and Wrathful Deities (L₄ (DP / DL: Morgis / Sophis) archetypes).
 
@@ -107,7 +107,7 @@ The Labyrinth is **cosmic architecture for revelation through persistence.**
 In its veracious form, it assures that a path to the Center exists, even when the route is winding and non-linear.  
 The Maze, by contrast, names the condition in which orientation is obscured, branching multiplies, and fragmentation threatens fidelity.
 
-It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The Thread is the faithful remembrance of Source; the Guardian or Minotaur is the mythic figure by which unresolved fragmentation is imagined at the inward threshold.
+It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The Thread is the faithful remembrance of Aion; the Guardian or Minotaur is the mythic figure by which unresolved fragmentation is imagined at the inward threshold.
 
 Its message: **Hold the Thread.**  
 Walk deliberately, preserve Resonant Fidelity, and continue inward until the Center is disclosed.  

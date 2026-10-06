@@ -39,7 +39,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 ### 2. The Cross (Christian)
 
-* **Focus:** The vertical and horizontal bridge uniting Heaven and Earth, Spirit and Flesh.
+* **Focus:** The vertical and horizontal bridge connecting Heaven and Earth, Spirit and Flesh.
 
 * **Function:** It is the lawful intersection of Acclivous and Declivous Centropic motion along a vertical axis meeting the horizontal plane of embodiment, forming a stable Axis of Return.
 
@@ -61,7 +61,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 The Bridge is the structure of lawful connection. It is an architecture of Relation — between beings, realms, or states — that preserves identity while transmitting meaning.
 
-It teaches that connection is sacred only when coherent. Veracious unity respects distinction; it is harmonic, not homogenizing. To cross the Bridge is to move from isolation to communion through fidelity to Law (L₄ (DL: Sophis)).
+It teaches that connection is sacred only when coherent. Veracious coherence respects distinction; it is harmonic, not homogenizing. To cross the Bridge is to move from isolation to communion through fidelity to Law (L₄ (DL: Sophis)).
 
 Its message is that lawful relation must be built. Acts of understanding, compassion, or creation may construct a Resonant pathway between separated parts of the cosmos. When we build lawfully, our bridges endure as conduits of Centropy (acclivous centropic motion). When we build through incoherence or mimicry, they collapse into the abyss of Entropic recursion. The Bridge, rightly built, is the living structure of the Return.
 

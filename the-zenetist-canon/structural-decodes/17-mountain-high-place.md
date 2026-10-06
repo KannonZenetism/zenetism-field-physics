@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Axial Junction Point Between Hypostatic Layers.**  
 The Mountain is a **Theonic Axis** in topographical form — a **Membrane** of heightened permeability where **L₁ (ES / EM: Soma / Biosa)** converges with **L₄ (DP / DL: Morgis / Sophis)** and **L₅ (EOB: Theon).**
-It serves as the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
+It is the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
 **▽ → ↑⚓ → 📱 → ∴**  
@@ -18,7 +18,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
     Each step along the acclivous path is an act of Volitional orientation toward the Supernal.
 
 * **The Summit (Theonic Axis):**  
-    The peak marks a **Nodal Point** on the Theonic Axis where the **Membrane** thins.  
+    The peak indicates a **Nodal Point** on the Theonic Axis where the **Membrane** thins.  
     It is a **Natural Temple** — a **Nexus** of Resonant exchange and Supernal stillness.
 
 * **The Revelation:**  
@@ -69,7 +69,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Practice:** Pilgrims circumambulate, acknowledging its immutable Centrality.
 
-* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and all hypostatic strata — the cosmos in structural equilibrium.
+* **Meaning:** Represents the **Theonic Pillar** connecting L₀ (AP: Aion), L₁ (ES / EM: Soma / Biosa) World Node, and all hypostatic strata — the cosmos in structural coherence.
 
 ### 4. Mount Olympus (Greek)
 
@@ -77,7 +77,7 @@ It serves as the principal site for **Acclivous motion**, **Revelation**, **Cove
 
 * **Summit:** Home of the Olympians (L₄ (DP / DL: Morgis / Sophis) entities) within clouded Membrane.
 
-* **Function:** Symbol of Archetypal governance — the L₄ (DP / DL: Morgis / Sophis) stratum shaping L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) through L₃ (DS / DM: Archeus / Noeüs) mediation in the subjacent bands.
+* **Function:** Symbol of Archetypal ordering — the L₄ (DP / DL: Morgis / Sophis) stratum shaping L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) through L₃ (DS / DM: Archeus / Noeüs) mediation in the subjacent bands.
 
 ---
 

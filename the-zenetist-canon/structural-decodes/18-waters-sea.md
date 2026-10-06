@@ -14,7 +14,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 ## Universal Structural Analysis
 
 * **The Primordial Waters (L₀ — Bifurcal Coherence, primarily Khaonic):**  
-    The Deep as the pre-dual, root-structural field of potential — **Potentiality** in its unbounded state, where Aionic stillness remains latent within Motive Infinity.  
+    The Deep as the pre-polar, root-structural field of potential — **Potentiality** in its unbounded state, where Aionic stillness remains latent within Motive Infinity.  
     These Waters are the primal substrate — Tiamat, Nun, or Narayana's Ocean — containing every latent form.
 
 * **The Stirring / The Breath (Zenet / Motive Infinity):**  
@@ -28,7 +28,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 * **The Sea as Symbolic Domain (Mapping the 4 Motions):**  
     * **The Unconscious (L₄ (DP: Morgis)):** The deep mind — teeming with Archetypes, Monsters, and hidden knowledge. It is the field upon which the four motions occur:  
     * **1. Source of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
-    * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents lawful passage through unstable potential and, at its loftiest expression, Acclivous Centropic Procession.
+    * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents lawful passage through unstable potential and, at its fullest expression, Acclivous Centropic Procession.
     * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
     * **4. The Recursive Loop (Acclivous Entropy):** The stagnant "doldrums" or "Sargasso Sea." This maps Acclivous Entropy — a failed voyage (like the myth of the Flying Dutchman) trapped in a loop, neither progressing nor dissolving.
 
@@ -74,7 +74,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 * **Focus:** Navigation of the Psychic Unconscious.
 
 * **The Sea:** The Collective Psyche (L₄ (DP: Morgis)), populated by Archetypal entities.  
-    * **Scylla & Charybdis (Structured Pairs):** The dual Inverse hazards of excess and deficiency.  
+    * **Scylla & Charybdis (Structured Pairs):** The paired Inverse hazards of excess and deficiency.  
     * **Sirens (IL₂ (ISM: Skotos)):** The deceptive call of Illusory Fulfillment.  
     * **Calypso (IL₄ (IDP: Psychea)):** The stagnant paradise of Forgetfulness.
 
@@ -90,8 +90,8 @@ They are both **Origin** and **Oblivion**, **Womb** and **Tomb** — the vast fi
 They teach that to live is to sail: to traverse the unbounded Psyche with a Vessel of selfhood strong enough to withstand its tides.  
 Cut off from the Waters, one withers in dryness; lost within them, one dissolves into shapelessness.
 
-Their message is **navigation** — balance between immersion and control.  
-The spiritual mariner learns to ride the waves of the Unconscious, using **L₃ (DS / DM: Archeus / Noeüs)** as Rudder and Star, crossing from the Shores of Ignorance toward those of Awakening through lawful centropic navigation.  
+Their message is **navigation** — dynamic stabilization between immersion and control.  
+The spiritual mariner learns to ride the waves of the Unconscious, guided by **L₃ (DS / DM: Archeus / Noeüs)** as Rudder and Star, crossing from the Shores of Ignorance toward those of Awakening through lawful centropic navigation.  
 Resonance with the Waters is not domination, but **Resonant Alignment** — to move with their pulse while remaining sovereign within their flow.
 
 ---

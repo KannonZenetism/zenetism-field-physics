@@ -14,11 +14,11 @@ It is the **narrativized arc of departure, passage, ordeal, and return or reconf
 ## Universal Structural Analysis
 
 * **The Call to Adventure (Return Compass Activation):**  
-    A disruption of Ordinary Order (L₂ (SS / SM: Anthra / Nousa) equilibrium) awakens longing, rupture, obligation, or purpose —  
+    A disruption of Ordinary Order (L₂ (SS / SM: Anthra / Nousa) settled pattern) awakens longing, rupture, obligation, or purpose —  
 the L₃ (DS / DM: Archeus / Noeüs) signal presses through, initiating a motion of reorientation.
 
 * **The Path & The Landscape (Symbolic Hypostases):**  
-    The route mirrors the soul's layered architecture:  
+    The route expresses the soul's layered architecture:  
     * **Forests (L₄ (DP: Morgis)):** The archetypal field — instinct, archetype, and latent danger.  
     * **Wilderness:** A symbolic zone of exposure, dislocation, and testing, treated distinctly from the forest in this decode.  
     * **Mountains (acclivous centropic Axis):** The climb of revelation and perspective.  
@@ -48,7 +48,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
     The object sought is a **Symbol of Synthesis:**  
     * **Elixir:** Healing coherence that restores collective order.  
     * **Grail:** Communion with L₅ (EOB: Theon); a vessel of perfected or supernal coherence.  
-    * **Home (L₁ (ES / EM: Soma / Biosa) World Node):** The sovereign, embodied self restored under transformed alignment.
+    * **Home (L₁ (ES / EM: Soma / Biosa) World Node):** The sovereign, embodied self restored through transformed alignment.
 
 ---
 
@@ -101,7 +101,7 @@ The Jungian term "Unconscious" is a cultural approximation; L₄ is properly con
 ## Summary: The Esoteric Meaning
 
 The **Journey** is the living motion of consciousness through symbolic and structural space.  
-It illustrates that life is not a static condition but a **navigational process under orientation, pressure, and disclosure.**
+It illustrates that life is not a static condition but a **navigational process shaped by orientation, pressure, and disclosure.**
 
 It teaches that the path is not incidental to transformation,  
 but one of the lawful means by which configuration is exposed and re-ordered.  

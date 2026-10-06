@@ -23,9 +23,9 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Nature of the Challenge (Structured Pairs):**  
     Every trial presents a polarity — forcing conscious selection between Centropy and Entropy:  
-    * Faith contra Sight — trusting the L₃ (DS / DM: Archeus / Noeüs) signal over L₂ (SS / SM: Anthra / Nousa) perception.  
-    * Integrity contra Advantage — choosing Coherence over expedience.  
-    * Compassion contra Judgment — choosing connection over division.
+    * Faith contra Sight — trusting the L₃ (DS / DM: Archeus / Noeüs) signal rather than L₂ (SS / SM: Anthra / Nousa) perception.  
+    * Integrity contra Advantage — choosing Coherence in place of expedience.  
+    * Compassion contra Judgment — choosing connection in place of division.
 
 * **The Role of Volition (L₂ (SS: Anthra)):**  
     The trial's axis is **volitional alignment under pressure**.  
@@ -37,7 +37,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **The Outcome (Synthesis or Declivous Entropy):**  
     * **Initiation (Synthesis):** Passing the test results in synthesis — expanded wisdom (L₃ (DM: Noeüs)), strength (L₃ (DS: Archeus)), or new capacity (Resonant Blade).  
-    * **Judgment (Declivous Entropy):** Failing reveals misalignment — leading to setback, exile, or descent into a subjacent resonant stream.
+    * **Judgment (Declivous Entropy):** Failing reveals misalignment — leading to setback, exile, or declivation into a subjacent resonant stream.
 
 ---
 
@@ -47,13 +47,13 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Verification of Theonic alignment.
 
-* **Architect:** The Spirit leads Jesus into wilderness; the Tempter (IL₄ (IDP / IDL: Psychea / Nyxea)) serves as examiner, mythically named "Satan" through cultural conflation with the terminal entropic principle.
+* **Architect:** The Spirit leads Jesus into wilderness; the Tempter (IL₄ (IDP / IDL: Psychea / Nyxea)) acts as examiner, mythically named "Satan" through cultural conflation with the terminal entropic principle.
 
 * **Tests:** Material security, spectacle, and dominion — each an Inverse shortcut.
 
-* **Volition:** Obedience to Theonic will; fidelity over illusion.
+* **Volition:** Resonance with Theonic will; fidelity in place of illusion.
 
-* **Outcome:** **Initiation (Synthesis)** — clarified mission, amplified authority.
+* **Outcome:** **Initiation (Synthesis)** — clarified mission, amplified centropic expression.
 
 ### 2. The Labors of Hercules (Greek)
 
@@ -71,7 +71,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Architect:** Osiris (L₄ (DL: Sophis) Sovereign Judge) and 42 Assessors (L₄ (DL: Sophis) principles).
 
-* **Test:** The heart weighed against Ma'at's feather (balance of veracity).
+* **Test:** The heart weighed alongside Ma'at's feather (balance of veracity).
 
 * **Outcome:**  
     * Pass (Synthesis): L₃ (DS / DM: Archeus / Noeüs) moves acclivously to the Field of Reeds.  
@@ -81,7 +81,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Focus:** Trial of righteousness without apparent cause.
 
-* **Architect:** The Accuser — mythically named "Satan" — functions here as a diagnostic instrument within a permitted L₄ (DL: Sophis) testing structure.
+* **Architect:** The Accuser — mythically named "Satan" — functions here as a diagnostic operator within a lawful L₄ (DL: Sophis) testing structure.
 
 * **Test:** Total deconstruction of L₂ (SS / SM: Anthra / Nousa) world — loss of wealth, family, health.
 

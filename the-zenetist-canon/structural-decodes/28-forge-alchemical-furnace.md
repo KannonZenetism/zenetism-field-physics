@@ -17,7 +17,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
 
 * **The Hammer and the Anvil (Apparent Order):**  
     * **Hammer (L₂ (SS: Anthra) – Will):** The volitional, dynamic power that delivers change.  
-    * **Anvil (L₄ (DL: Sophis) – Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: directed force applied under Law to reshape emergent form.
+    * **Anvil (L₄ (DL: Sophis) – Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: directed force applied in accordance with Law to reshape emergent form.
 
 * **The Base Metal (Unrefined Self):**  
     The raw or misaligned state of the psyche — dense with potential yet obscured by incoherence. It is the ore which, when subjected to the Forge, allows the separated centropic patterns to clarify and reintegrate into their native coherence, revealing the Gold of aligned form.
@@ -25,7 +25,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
 * **The Smith / Alchemist (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis)):**  
     The directing intelligence of the operation.  
     * **Internal Smith:** The individual's own L₃ (DS / DM: Archeus / Noeüs) forging inner alignment.  
-    * **External Smith:** Divine, Archetypal, or situational forces applying pressures that may serve the same transmutative end.
+    * **External Smith:** Divine, Archetypal, or situational forces applying pressures that may carry the same transmutative function.
 
 * **The Transmutation (Synthesis):**  
     The successful refinement of form. The base substance becomes Gold — the Alchemical Sun. The L₂ (SS / SM: Anthra / Nousa) becomes increasingly radiant with L₃ (DS / DM: Archeus / Noeüs) coherence, embodying Luminous Will and resilient Equanimity (Coherence).
@@ -38,7 +38,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
 
 The Fire's structural function is the recovery and reintegration of those patterns into their native coherence within the centropic arc. "Dross" in the Zenetist reading is not entropic essence lodged within the soul, but the condition of fragmentation itself — the gaps, misalignments, and incoherences left by entropic pressure upon centropic structure.
 
-The mythic language of purification through removal reflects the perceiver's experience (it *feels* like something is being burned away), but the structural process is additive reintegration, not subtractive extraction.
+The mythic language of purification through removal expresses the perceiver's experience (it *feels* like something is being burned away), but the structural process is additive reintegration, not subtractive extraction.
 
 ---
 
@@ -82,7 +82,7 @@ The mythic language of purification through removal reflects the perceiver's exp
 
 * **Process:** Symbolic dismantling (Deconstruction) and reassembly (Synthesis) of the self by L₄ (DP / DL: Morgis / Sophis) guides.
 
-* **Outcome:** A synthesized healer — a Living Bridge uniting human and archetypal realms.
+* **Outcome:** A synthesized healer — a Living Bridge connecting human and archetypal realms.
 
 ---
 
@@ -94,7 +94,7 @@ It names those conditions in which Heat, Impact, and Endurance expose incoherenc
 It teaches that pressure does not automatically destroy relative structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
 
 Its message is participation and disciplined response: we are at times **Smith and Metal.**  
-We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an instrument of luminous precision — **a work of coherence forged through Trial-Fire and Reintegration.**
+We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an expression of luminous precision — **a work of coherence forged through Trial-Fire and Reintegration.**
 
 ---
 

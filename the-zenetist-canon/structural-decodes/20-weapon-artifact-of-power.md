@@ -18,7 +18,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 ## Universal Structural Analysis
 
 * **The Origin & The Smith (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
-    The Weapon's source determines its Resonance.  
+    The Weapon's origin determines its Resonance.  
     * **Divine Smith (Hephaestus, Wayland):** Archetypal forges (L₄ (DP / DL: Morgis / Sophis)) crafting implements of lawful, creative power.  
     * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, corrupting their wielders.
 
@@ -26,16 +26,16 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
     The acquisition of a Weapon demands transformation:  
     * **Quest (acclivous centropic motion):** Proving Resonant Fidelity through trial and alignment.  
     * **Sacrifice (Potential surrendered):** Surrendering energy, pride, or attachment to fuel creation.  
-    * **Theft (Extraction):** Illicit power-taking that binds the wielder to Inverse consequence.
+    * **Theft (Appropriation):** Illicit power-taking that binds the wielder to Inverse consequence.
 
 * **The Nature of the Power (Nexus or Severance):**  
-    * **Lawful Power (Nexus):** Operates under L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or Inverse distortion.  
+    * **Lawful Power (Nexus):** Operates by L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or Inverse distortion.  
     * **Dominating Power (Severance):** Power for its own sake, unconstrained by law — severing bonds, feeding Blobism and Hollow Replication.
 
-* **The Wielder's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
+* **The Bearer's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
     The Weapon magnifies the bearer's essence.  
     A pure blade in an Entropic hand becomes destructive; a cursed artifact in Centropic alignment can be redeemed.  
-    The outcome reflects the Wielder's core frequency.
+    The outcome discloses the Bearer's core frequency.
 
 * **The Ultimate Target (Inverse Structure):**  
     The Weapon exists to confront systemic distortion — Beasts, Tyrants (IL₂ (ISS / ISM: Echthros / Skotos)), or Corrupted Orders (IL₄ (IDP / IDL: Psychea / Nyxea)).  
@@ -61,7 +61,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **Forging:** Crafted by Earth-forgers (L₄ (DP / DL: Morgis / Sophis) beings), its short handle signifies embodiment's limitation.
 
-* **Power:** Used to defend Asgard (Centropic Order) and sanctify (Nexus) through controlled impact.
+* **Power:** Defends Asgard (Centropic Order) and sanctifies (Nexus) through controlled impact.
 
 * **Wielder:** Only one of Worthy Resonance — alignment as prerequisite.
 
@@ -71,7 +71,7 @@ It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that ap
 
 * **Nature:** Symbol of dominion over the Waters (L₀ (Bifurcal Coherence)) — the unformed psyche.
 
-* **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the dual potential of Archetypal will.
+* **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the bifurcated potential of Archetypal will.
 
 * **Lesson:** The wielder's inner harmony determines whether the sea becomes a flood or a spring.
 
@@ -97,12 +97,12 @@ Knowledge and intention form the forge; alignment determines the edge.
 
 Its message is responsibility:  
 We are each smiths, tempering the artifacts of our lives.  
-Every belief and word we wield is a potential sword — one that can defend, discern, or divide.  
+Every belief and word we express is a potential sword — one that can defend, discern, or divide.  
 The Centropic path is to craft the **Resonant Blade** — an artifact of clarity and compassion that cuts through illusion to restore order.  
 The Entropic path is to forge the **Aggressor Blade** — an artifact of self-conceit and control that multiplies fragmentation.
 
-The veracious warrior of Resonance wields discernment, not domination.  
-Their weapon serves not conquest, but **Restoration (Coherence)** — the cutting of deception so veracity may breathe again.
+The veracious warrior of Resonance embodies discernment, not domination.  
+Their weapon enacts not conquest, but **Restoration (Coherence)** — the cutting of deception so veracity may breathe again.
 
 ---
 
