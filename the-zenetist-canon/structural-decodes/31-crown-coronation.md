@@ -24,7 +24,7 @@ The Crown represents a realized state of Centropic alignment — the point at wh
 * **The Robes and Scepter (Manifestation):**  
     Instruments of enacted law — signs that the internal state of Coherence can now act within the external world responsibly and with stabilizing force.
 
-* **The Halo (Aionic Saturation expressed through Theonic Light):**  
+* **The Halo (Aionic fulfillment expressed through Theonic Light):**  
     The luminous field surrounding the crowned being, representing centropic radiance manifesting outward from inward synthesis. This is the visible expression of achieved coherence — the world perceiving what the being has become.
 
 ---

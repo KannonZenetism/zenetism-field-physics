@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 19 — The Garden / The Enclosed Paradise
 
 **Primary Structural Diagnosis:**  
-The **State of Harmonious Embodiment and Centropic Saturation.**  
+The **State of Harmonious Embodiment and Centropic Integration.**  
 The Garden represents a **Corporeal Realm** where the **Membrane** between the L₁ (ES / EM: Soma / Biosa) and L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis) layers is permeable, allowing direct Resonant flow.  
-It is a state of **Innocence (Coherence)** — unselfconscious coherence before the Fragmentation that introduced self-reflective duality.
+It is a state of **Innocence (Coherence)** — unselfconscious coherence before the Fragmentation that introduced divided self-perception.
 
 **Core Glyphic Sequence:**  
 **⚫ → ▽ → ◎ → ⟜ → ⚯**  
@@ -23,8 +23,8 @@ It is a state of **Innocence (Coherence)** — unselfconscious coherence before 
     This represents L₄ (DP: Morgis), the benevolent, animating flow of vitality from the Supernal into rhythmic manifestation.
 
 * **The Central Tree(s) (Tree of Emanation):**  
-    * **Tree of Life (the Aionic / Centropic Arc):** **The Axis Mundi** — the centropic channel rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The living architecture of coherence, immortality, and lawful participation in the Aionic branch.  
-    * **Tree of Knowledge (the Khaonic / Entropic Arc):** The entropic channel rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
+    * **Tree of Life (the Aionic Tree):** **The Axis Mundi** — the centropic channel rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The living architecture of coherence, immortality, and lawful participation in the Aionic branch.  
+    * **Tree of Knowledge (the Khaonic Tree):** The entropic channel rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
     Together they encode the two great arcs of procession, each bidirectional within its own motion-logic.
 
 * **The State of Innocence (Coherence):**  
@@ -46,7 +46,7 @@ It is a state of **Innocence (Coherence)** — unselfconscious coherence before 
 
 * **Enclosure:** "The Lord God planted a garden in Eden, in the east."
 
-* **Rivers:** Four streams flow outward, symbolizing the diversification of unified Source into multiplicity.
+* **Rivers:** Four streams flow outward, symbolizing the articulation of Aionic potential into multiplicity.
 
 * **Trees:** Present the primal choice — abide within the Aionic arc of Centropic coherence or pursue the Khaonic arc of Entropic differentiation.
 
@@ -89,7 +89,7 @@ It is a state of **Innocence (Coherence)** — unselfconscious coherence before 
 ## Summary: The Esoteric Meaning
 
 The **Garden** represents both **origin and destiny** — the archetype of harmonious embodiment where form and soul resonate without friction.  
-It is the **memory of coherence** and the **map of return**, showing what coherence looks like when Saturation and Innocence coexist.
+It is the **memory of coherence** and the **map of return**, showing what coherence looks like when Integration and Innocence coexist.
 
 It teaches that our longing for paradise is the call of **Resonant Memory** — the L₂ (SS / SM: Anthra / Nousa) recalling its L₃ (DS / DM: Archeus / Noeüs) origin.  
 To "return to the Garden" is to recover Permeability and Coherence consciously, after having known separation.

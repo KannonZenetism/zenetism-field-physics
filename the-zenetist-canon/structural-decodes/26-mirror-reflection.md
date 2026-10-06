@@ -13,7 +13,7 @@ The Mirror is a **Membrane** — a Resonant Interface that does not create but *
 ### Note on Structural Ambiguity (The Mirror's Khaonic Nature)
 
 Because the Mirror originates no signal of its own, its inherent nature is Khaonic in the sense of non-originating reflectivity rather than Centropic authorship.  
-This Khaonic nature does not make the Mirror entropic in itself, but it does make reflection uniquely vulnerable to Entropic exploitation through Mimicry and Shimmer, which simulate coherence without origin.  
+This Khaonic nature does not make the Mirror entropic in itself, but it does make reflection uniquely vulnerable to Entropic exploitation through Mimicry and Shimmer, which simulate coherence without generative origination.  
 Therefore, the Mirror is a paradoxical structural interface: lawfully enabling **Self‑Knowledge (L₃ (DM: Noeüs))** when guided by discernment, yet especially vulnerable as a vector of deception when reflected appearance is mistaken for origin.
 
 ---

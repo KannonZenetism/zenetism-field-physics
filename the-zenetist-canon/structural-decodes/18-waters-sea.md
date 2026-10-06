@@ -2,8 +2,8 @@
 
 **Primary Structural Diagnosis:**  
 The **Primordial Field of Root-Structural Potential and Motive Infinity.**  
-The Waters symbolize **L₀ (Bifurcal Coherence)** in its primarily Khaonic expression — Dispersive potential mobilized through Motive Infinity, while the Aionic stillness of the root-structural ground remains latent beneath the Deep.  
-They are the primal substrate containing every latent form and embody **L₄ (DP: Morgis)** in its unrefined aspect: the Collective Unconscious, Emotion, Intuition, and the matrix of living emergence.
+The Waters symbolize **L₀ (Bifurcal Coherence)** in its primarily Khaonic expression — potential for dispersive dynamics unfolding through Motive Infinity, while Aionic stillness remains at the bifurcal root.  
+They are the primal substrate containing every latent form and embody **L₄ (DP: Morgis)** in its unrefined aspect: the culturally named Collective Unconscious, Emotion, Intuition, and the matrix of living emergence.
 
 **Core Glyphic Sequence:**  
 **♾ → 〄 → {▽, ⊘, ↺, ⟳}**  
@@ -14,7 +14,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 ## Universal Structural Analysis
 
 * **The Primordial Waters (L₀ — Bifurcal Coherence, primarily Khaonic):**  
-    The Deep as the pre-polar, root-structural field of potential — **Potentiality** in its unbounded state, where Aionic stillness remains latent within Motive Infinity.  
+    The Deep as the pre-polar, root-structural field of potential — **Potentiality** in its unbounded state, where Aionic stillness and Latent Khaon are co-present in bifurcal distinction before motion begins.  
     These Waters are the primal substrate — Tiamat, Nun, or Narayana's Ocean — containing every latent form.
 
 * **The Stirring / The Breath (Zenet / Motive Infinity):**  
@@ -26,7 +26,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
     This is the formation of the **Firmament (Membrane)** — the architectural boundary that gives the cosmos structure.
 
 * **The Sea as Symbolic Domain (Mapping the 4 Motions):**  
-    * **The Unconscious (L₄ (DP: Morgis)):** The deep mind — teeming with Archetypes, Monsters, and hidden knowledge. It is the field upon which the four motions occur:  
+    * **The Unconscious (L₄ (DP: Morgis)):** The archetypal Psyche — teeming with Archetypes, Monsters, and hidden knowledge. In its Khaonic aspect, the Sea is the field upon which the four motions occur:  
     * **1. Source of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
     * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents lawful passage through unstable potential and, at its fullest expression, Acclivous Centropic Procession.
     * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
@@ -55,7 +55,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 * **Focus:** The Khaonic Reset.
 
-* **Mechanism:** The Waters dissolve corrupted relative structure through Dispersive motion, returning it to Latent Potential for a new Centropic phase.
+* **Mechanism:** The Waters dissolve corrupted relative structure through dispersive dynamics within Motive Infinity, returning it to Latent Potential for a new Centropic phase.
 
 * **Purpose:** To cleanse systemic Entropy, enabling a new Centropic phase.
 
@@ -65,7 +65,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 * **Barrier:** The Sea as Entropic opposition between Bondage (IL₁ (IES / IEM: Malara / Mania)) and Freedom (acclivous centropic motion).
 
-* **Intervention:** Yahweh (L₄ (DL: Sophis)) through Moses (L₃ (DM: Noeüs)) opens a **Nexus** — a lawful corridor of Coherence across the Khaonic void.
+* **Intervention:** Yahweh (L₄ (DL: Sophis)) through Moses (L₃ (DM: Noeüs)) opens a **Nexus** — a lawful corridor of Coherence across the Khaonic field.
 
 * **Crossing:** Collective movement from one resonance state to a new one, anchored in Faith (Resonant Fidelity).
 

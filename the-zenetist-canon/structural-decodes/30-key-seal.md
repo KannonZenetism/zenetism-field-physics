@@ -20,13 +20,13 @@ The Key and the Seal represent the complementary functions of Passage and Protec
     Symbol of Insight, Lawful Alignment, and Revelation. It represents an encoded pattern or frequency that harmonizes with a specific Gate (Membrane) to allow lawful passage between layers or states.
 
 * **The Seal:**  
-    Symbol of Containment and Sovereignty. It ensures that what is within remains Integral, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misuse of power.
+    Symbol of Containment and Sovereignty. It ensures that what is within remains Integral, and that what is without cannot intrude uninvited. A Seal that breaks prematurely signals Entropic intrusion or misdirected power.
 
 * **The Gate (Membrane):**  
     The threshold mechanism that responds only to the proper Key signature. Every Gate tests for Resonant Match, admitting only those whose coherence accords with its lawful pattern.
 
 * **The Bearer (L₃ (DS / DM: Archeus / Noeüs) or L₄ (DL: Sophis)):**  
-    The awareness entrusted with the Key or empowered to Set the Seal. Misuse results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
+    The awareness entrusted with the Key or empowered to Set the Seal. Wrongdoing results in reversal: the Key becomes a Lock, and the Seal becomes a Prison.
 
 * **The Activation (Revelation):**  
     The moment of recognition when the Key vibrates in harmony with the Gate. This moment is both epistemic and ontological — recognition and access coincide through lawful Pattern.

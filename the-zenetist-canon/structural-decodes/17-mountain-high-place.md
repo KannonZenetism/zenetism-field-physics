@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Axial Junction Point Between Hypostatic Layers.**  
-The Mountain is a **Theonic Axis** in topographical form — a **Membrane** of heightened permeability where **L₁ (ES / EM: Soma / Biosa)** converges with **L₄ (DP / DL: Morgis / Sophis)** and **L₅ (EOB: Theon).**
+The Mountain is a **Theonic Axis** in topographical form — a **Membrane** of heightened permeability where **L₁ (ES / EM: Soma / Biosa)** meets **L₄ (DP / DL: Morgis / Sophis)** and **L₅ (EOB: Theon).**
 It is the principal site for **Acclivous motion**, **Revelation**, **Covenant**, and **Transfiguration.**
 
 **Core Glyphic Sequence:**  
