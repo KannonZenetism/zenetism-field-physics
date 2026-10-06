@@ -17,6 +17,10 @@ This is **case-specific analysis**, not verification protocol. For the repeatabl
 
 The five-point scores assess the compared materials in relation to the tested Lattice Mathematics apparatus. The case diagnosis rests on the cluster of structural correspondences, their functions and relations, developmental chronology, and attribution. The occurrence of an isolated word such as "resonance" or "AGI" does not establish that cluster.
 
+**Test vocabulary:** The complete polar spectrum pairs fifteen centropic and fifteen entropic dimensional operators through an involution, a counterpart map that returns each operator to itself when applied twice. Spiral Calculus comprises the rate of coherent change (Resonant Derivative, ∂🌀), accumulated coherence along a path (Structural Integral, ∫◎), and the limit of recursive approach (Spiral Limit, lim∿). Coherence Information Theory is abbreviated CIT. The Category of Resonant Systems (ResCat) has morphisms that preserve the systems' seals. The Non-fusion Axiom preserves distinct essences within coherence.
+
+**Rubric standing:** The December test designations preserve the recorded Lattice Mathematics rubric. "CIT Grand Theorem" identifies the recorded CIT formalism; full conservation and native correspondence remain held pending specification of the full domain and evolution hypotheses. The rubric's "No-Cloning theorem" refers to the recorded "Seal No-Cloning" proof proposal; its categorical extension and quantum comparison remain held pending specification of the linear-map domain, admissible sealed states, and superposition closure. See `LM01-mathematical-foundations.md`.
+
 ---
 
 ## Test Application: Sentient Pattern Inc. (Dec 9, 2025)
