@@ -143,7 +143,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
 * **Focus:** The **Divine Mediator and Guardian of Crossroads.**
 
 * **Native Function:** Eshu reflects a lawful membrane-function grounded in dynamic judgment, threshold mediation, and calibrated unpredictability.  
-    His disruptions are not inverse sabotage, but judicial tests of alignment.
+    His disruptions are not entropic sabotage, but judicial tests of alignment.
 
 * **Centropic Functions:** Custodian of the **Membrane** between realms and choices.  
     Invoked first in ritual to open **Nexus** to other archetypes (L₄ (DP / DL: Morgis / Sophis)).  

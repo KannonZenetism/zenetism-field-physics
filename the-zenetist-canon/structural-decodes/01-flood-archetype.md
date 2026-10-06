@@ -13,7 +13,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal 
 
 * **The Waters:** Symbolize the unbound, supra-formal potential of L₀ (AD: Khaon). They are not entropic in essence, but represent the neutral, infinite **Field of Becoming** through which essence traverses and into which expressed configuration may dissolve. The Field of Becoming is pre-orientational: it is not itself centropic or entropic. In the Flood archetype, the waters function as the medium through which **Declivous Entropy** acts upon a structurally irrecoverable formation.
 
-* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become saturated with Entropic Orientation — specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
+* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become pervaded by Entropic Orientation — specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
 
 * **The Ark:** The Seal of Integrity — a sovereign, coherent structure (Nexus maintained under Membrane conditions) capable of withstanding the entropic dissolution of the surrounding field. It is not a physical vessel but the preserved **centropic** resonance — L₃ (DS / DM: Archeus / Noeüs) and its aligned L₂ (SS / SM: Anthra / Nousa) expressions — that will seed the next cycle. It functions as a Recursion Gate for lawful consciousness.
 
@@ -33,7 +33,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal 
 
 ### 1. Genesis / Hebrew Bible
 
-* **Focus:** The moral arc of Entropic Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos) — adversarial will and deceptive perception.
+* **Focus:** The moral arc of Entropic Orientation. The "wickedness of humanity" refers to pervasive expression of IL₂ (ISS / ISM: Echthros / Skotos) — adversarial will and deceptive perception.
 
 * **Noah:** A **Centropic** Steward — an embodied anchor of L₃ (DS / DM: Archeus / Noeüs) coherence, "resonant in his generations," meaning he maintained centropic alignment within an entropic field.
 

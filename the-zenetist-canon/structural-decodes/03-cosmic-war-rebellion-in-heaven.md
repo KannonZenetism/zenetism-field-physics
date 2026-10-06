@@ -152,7 +152,7 @@ not of underlying entropic essence.
     * **The Titans (IL₄ (IDP / IDL: Psychea / Nyxea)):** Embody the raw, unstructured, and often violent energies of inverse archetypal force.  
       They represent the earliest differentiated expressions of archetypal inversion — form without lawful coherence.  
     * **The Olympians (L₄ (DP / DL: Morgis / Sophis)):** The Sophis-aligned gods of order, law, and intelligibility.  
-      The Titanomachy narrates the embodied experience of Sophic Order (L₄) prevailing over Inverse Archetypal Force (IL₄) — projected onto the archetypal layer as a generational war among gods.
+      The Titanomachy narrates the embodied experience of the triumph of Sophic Order (L₄) and defeat of Inverse Archetypal Force (IL₄) — projected onto the archetypal layer as a generational war among gods.
 
 ### 3. The Aesir–Vanir War (Norse)
 

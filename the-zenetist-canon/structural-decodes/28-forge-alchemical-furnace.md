@@ -16,8 +16,8 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
     The active agent of Trial, Pressure, and transmutative intensity. In mythic language it appears as the consuming heat of experience; structurally, its function is not to burn out entropic essence, but to expose fragmentation, stress incoherence, and make reintegration possible. What it reveals is not a hidden foreign impurity, but the centropic pattern whose coherence has been pressured into disarray.
 
 * **The Hammer and the Anvil (Apparent Order):**  
-    * **Hammer (L₂ (SS: Anthra) – Will):** The volitional, dynamic power that delivers change.  
-    * **Anvil (L₄ (DL: Sophis) – Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: directed force applied in accordance with Law to reshape emergent form.
+    * **Hammer (L₂ (SS: Anthra) — Will):** The volitional, dynamic power that delivers change.  
+    * **Anvil (L₄ (DL: Sophis) — Law):** The unyielding foundation that receives and defines the blows. Together they enact transformation: directed force applied in accordance with Law to reshape emergent form.
 
 * **The Base Metal (Unrefined Self):**  
     The raw or misaligned state of the psyche — dense with potential yet obscured by incoherence. It is the ore which, when subjected to the Forge, allows the separated centropic patterns to clarify and reintegrate into their native coherence, revealing the Gold of aligned form.

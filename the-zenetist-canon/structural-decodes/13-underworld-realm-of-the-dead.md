@@ -23,7 +23,7 @@ and **soul** when referring to the being as it exists within the layered **Soul 
 **Core Glyphic Sequences:**
 
 * **Function 1 (C↓):** **L₅ → L₄ → L₃ → L₂ → ↓⊙ → ⧃ → ↑L₂ → L₃ → L₄ → L₅**  
-*(A Supernal (Theonic) essence, acting through its Faculties, moves Declivously into the Embodied Node, performs a Structural Audit / Re-Anchoring, and then returns Acclivously.)*
+*(A Supernal (Theonic) essence, acting through its Faculties, moves Declivously into the Embodied Node, performs a Structural Audit / Re-anchoring, and then returns Acclivously.)*
 
 * **Function 2 (E↓):** **♦⊙ → ◲ → E↓IL₁ → IL₂ → IL₃ → IL₄ → IL₅**  
 *(An Entropic essence at the Embodied Node undergoes Deconstruction / Detachment (death), initiating its one-way Declivous Entropic Procession into the Subversal Layers.)*

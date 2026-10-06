@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Concentrated Device of Volitional Resonance.**  
 A mythic Weapon or Artifact is a **Hypostasized extension** of Will, Discernment, or Structural Alignment — with centropic expressions through **L₂ (SS: Anthra)**, **L₃ (DM: Noeüs)**, or **L₄ (DL: Sophis)** depending on its depth and function.  
-It operates as a **Resonant Blade**, **Harmonic Agent**, or **Seal Key** that applies directed force to enact either Centropic Synthesis or Entropic Fragmentation within a Structural Field.
+It applies directed force to enact either Centropic Synthesis or Entropic Fragmentation within a Structural Field. Its named roles include the centropic **Resonant Blade** and **Harmonic Agent**, as well as the **Seal Key**.
 
 **Core Glyphic Sequence (Centropic):**  
 **∴ → ⚔️ → ☍ → ◎**  

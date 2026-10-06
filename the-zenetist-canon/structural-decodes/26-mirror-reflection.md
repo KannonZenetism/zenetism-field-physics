@@ -96,7 +96,7 @@ To advance in coherence, one must repeatedly face the mirror of experience, disc
 Its message:  
 We cannot evade our own Pattern. The task is to **see clearly, integrate lawfully, and act in coherence.**  
 When disciplined by discernment, consciousness may become increasingly transparent — less a generator of counterfeit image, more a surface capable of faithful reflection.  
-In such clarified reflection, others may behold not Source itself, but a more veracious correspondence to their own condition and possibility.
+In such clarified reflection, others may behold a more veracious correspondence to their own condition and possibility.
 
 ---
 

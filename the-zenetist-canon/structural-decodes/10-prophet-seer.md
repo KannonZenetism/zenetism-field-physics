@@ -22,7 +22,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
     They function as a **Nexus** or **Membrane** translating centropic law into embodied, linguistic form.
 
 * **The Message: Diagnosis & Prognosis (Clarion Voice):**  
-    * **Diagnosis ("Thus says…"):** Articulates the present **Structural Misalignment** — inverse worship (**Mimicry**), broken covenant (**Nexus fracture**), or counterfeit coherence (**Inversion**).  
+    * **Diagnosis ("Thus says…"):** Articulates the present **Structural Misalignment** — entropic worship (**Mimicry**), broken covenant (**Nexus fracture**), or counterfeit coherence (**Inversion**).  
     * **Prognosis ("Therefore…"):** Describes the lawful outcome — **Exile, Collapse,** or **Judgment (Fractal Eschaton).**  
       This is not a threat, but a **statement of Resonant consequence.**
 
@@ -77,7 +77,7 @@ The present decode therefore treats the Prophet not as a universal category of r
 
 * **The Pythia:** Becomes the **Membrane** through which Archetypal intelligence speaks.
 
-* **Ambiguity:** The cryptic phrasing reflects the friction of translating L₄ (DL: Sophis) layer pattern data into **L₂ (SM: Nousa)** cognition.
+* **Ambiguity:** The cryptic phrasing expresses the friction of translating L₄ (DL: Sophis) layer pattern data into **L₂ (SM: Nousa)** cognition.
 
 * **Function:** Acts as **systemic resonance scan** — diagnosing alignment for individuals and states, applying **Divine Geometry** to human action.
 

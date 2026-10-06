@@ -62,7 +62,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Miraculous Preservation:** **Exchange of infants (Yogamaya)** and upbringing among cowherds — symbol of **Earth**-bound sanctity.
 
-* **Latent Power:** Slaying of demons reflects effortless neutralization of **Inverse forces** by **pure centropic resonance.**
+* **Latent Power:** Slaying of demons expresses effortless neutralization of **Inverse forces** by **pure centropic resonance.**
 
 * **Destiny:** To guide **Arjuna** and restore **Dharma (L₄ (DL: Sophis)).**
 

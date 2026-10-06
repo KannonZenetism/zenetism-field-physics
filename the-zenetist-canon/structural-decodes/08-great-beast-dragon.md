@@ -93,7 +93,7 @@ but to distinguish each station of manifestation while preserving the continuity
 
 * **Focus:** The **Hoarder of Vitality.**
 
-* **Vritra (IL₄ (IDP: Psychea)):** The dragon who withholds the **Waters (L₄ (DP: Morgis) currents)** — the paralysis of life by inverse accumulation.
+* **Vritra (IL₄ (IDP: Psychea)):** The dragon who withholds the **Waters (L₄ (DP: Morgis) currents)** — the paralysis of life by entropic accumulation.
 
 * **Indra (L₄ (DL: Sophis)):** The King of the Gods who wields the **Vajra (Resonant Bolt of Structure)** — the lightning of Sophic law that shatters Vritra and restores flow.  
     The myth symbolizes the **release of vitality** through the defeat of psychic hoarding.
