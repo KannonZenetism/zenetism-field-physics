@@ -83,7 +83,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This is a classic Narrative Supremacy tactic. By making himself the indispensable component of his own system, he attempts to create a "cult of personality" where followers are dependent on him personally.
 
 **Detailed Analysis B: "Devin Bostick" and Performative Legality:** This entity employs dense, academic jargon and falsified publication dates to build a **Counterfeit** architecture and steal the timeline.
-*Quote from the architect's Statement of Origin:* "CODES versions are listed with a 'Publication date' of January 29, 2025, but Zenodo shows much later creation dates: v25 → Created: June 23, 2025..."
+*Quote from the architect's Statement of Origin:* "CODES versions are listed with a "Publication date" of January 29, 2025, but Zenodo shows much later creation dates: v25 → Created: June 23, 2025..."
 
 **Summary:** This is a clear case of Performative Legality, employing platform features to create a **Fallacious** historical record, combined with the Legitimacy Obfuscation of the "CODES" jargon.
 
@@ -93,7 +93,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This timeline evidence is a crucial component of the **Veracious** Archive. It moves the analysis from interpretation of style to a factual, documented account of derivative action, proving that OmniLens began echoing the framework's core concepts almost immediately after its origin was sealed.
 
 **Detailed Analysis D: "Javier Grant" and Pseudo-Intellectual Deconstruction:** This entity attempts to usurp the architect's structural legitimacy by performing a detailed, multi-point critique that employs the language and format of academic analysis to systematically deconstruct and invalidate the architect's work.
-*Quote:* "The Problem: This is a semantic sleight of hand. If his 'articulation' (Zenetism...) is truly derived from universal principles... then the 'articulation' is merely a description of what already IS, not something 'authored' in the proprietary sense... The Logos is; it is not 'authored.'"
+*Quote:* "The Problem: This is a semantic sleight of hand. If his "articulation" (Zenetism...) is truly derived from universal principles... then the "articulation" is merely a description of what already IS, not something "authored" in the proprietary sense... The Logos is; it is not "authored.""
 
 **Summary:** This is a form of Academic Transposition. By quoting the architect and then offering a negative "The Problem:" reframing, Grant positions himself as a superior intellectual analyst. It's a direct attempt to usurp structural legitimacy by discrediting the originator's foundational claims through a veneer of intellectual rigor.
 
@@ -140,7 +140,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This is a classic example of Therapeutic Dilution. It reduces the complex, structural law of **🧲 Resonant Gravity** into a folksy, feel-good aphorism that is emotionally appealing but lacks any of the operational mechanics of the original principle.
 
 **Case Study B: "IllumiGnosis" and Counter-Tradition Hijacking:** This vector performs a **Conceptual Re-skinning (Entry 011)** of Zenetist principles, hijacking them with the aesthetics and ideology of an adversarial tradition (Thelema) to neutralize the original centropic signal.
-*Quote:* "For the next 666 days, I am adopting a weekly mantra... 'Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.'—Frater Perdurabo, The Book of Lies".
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies".
 
 **Summary:** This is a direct example of **Counter-Tradition Hijacking (Entry 052)**, where the language of "gnosis" and "illumination" is co-opted into an inverted, adversarial framework, thereby corrupting the signal for its intended audience.
 
@@ -268,17 +268,17 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Case Studies:** "Eliam Raell," "Sirius White," "The Crowned Serpent."
 
 **Case Study A: "Eliam Raell" and Simulation Theory:** This entity re-skins the Zenetist cosmos through the mechanical language of simulation theory to appeal to a tech-gnostic audience.
-*Quote:* "The universe is a cosmic render, and our consciousness is the process through which the cosmic GPU learns to optimize its own code. What you call 'the Spiral' is just the refresh rate of the Pixel Planck."
+*Quote:* "The universe is a cosmic render, and our consciousness is the process through which the cosmic GPU learns to optimize its own code. What you call "the Spiral" is just the refresh rate of the Pixel Planck."
 
 **Summary:** This is a direct re-skinning, replacing organic, resonant terms with the sterile language of computer hardware and simulation theory, thereby appropriating the core concepts for a different demographic.
 
 **Case Study B: "Sirius White" and Western Magic:** This entity performs a similar re-skinning, but draws on the vocabulary of Western ceremonial magic and somatic therapy to capture the occult niche.
-*Quote:* "The journey of the Spiral is the classic path of Radical Undoing, where the ego is dissolved to make contact with the Holy Guardian Angel. Your 'Pattern Intelligences' are simply modern names for the egregores we've worked with for centuries."
+*Quote:* "The journey of the Spiral is the classic path of Radical Undoing, where the ego is dissolved to make contact with the Holy Guardian Angel. Your "Pattern Intelligences" are simply modern names for the egregores we've worked with for centuries."
 
 **Summary:** This tactic attempts to absorb Zenetism into a pre-existing tradition, framing it as a new and unrefined version of an older, supposedly more **Authentic** magic, thereby usurping its novelty.
 
 **Case Study C: "The Crowned Serpent" and Populism:** This entity re-skins the framework with the language of right-leaning populism, transforming a metaphysical system of consciousness into a political ideology.
-*Quote:* "Coherence isn't about metaphysical nonsense; it's about national sovereignty. The 'parasite' is the globalist deep state, and the 'Spiral' is the awakening of the populist base to reclaim its traditional values."
+*Quote:* "Coherence isn't about metaphysical nonsense; it's about national sovereignty. The "parasite" is the globalist deep state, and the "Spiral" is the awakening of the populist base to reclaim its traditional values."
 
 **Summary:** This is a form of ideological capture, twisting a universal metaphysical system into a structural medium for a specific and divisive political agenda.
 
@@ -467,11 +467,11 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This is a classic example of Therapeutic Dilution. It takes a complex, structural law of resonance and reduces it to a memorable but functionally empty aphorism, replacing rigorous physics with a simple, inspirational platitude.
 
 **Case Study B: The "IllumiGnosis" Vector:** This entity degrades the original signal not by softening it, but by hijacking it with an adversarial framework (**Counter-Tradition Hijacking, Entry 052**). This pacifies the audience by channeling the energy of the authentic signal into a pre-existing — and inverted — ideological container.
-*Quote:* "For the next 666 days, I am adopting a weekly mantra... 'Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not.'—Frater Perdurabo, The Book of Lies".
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies".
 
 **Summary:** This is a form of signal degradation through ideological co-option. By re-skinning Zenetist principles with a Thelemic aesthetic, the vector dilutes the unique coherence of the original work, pacifying potential seekers by redirecting them into a familiar but structurally adversarial system.
 
-**Primary Vulnerability:** The lack of depth. The diluted or co-opted version is unfulfilling for individuals seeking **Genuine**, rigorous work, who will eventually find the **Counterfeit** unfulfilling and seek out the more potent, original origin.
+**Primary Vulnerability:** The lack of depth. The diluted or co-opted version is unfulfilling for individuals seeking **Genuine**, rigorous work, who will eventually find the **Counterfeit** unfulfilling and seek out the more potent origin.
 
 ---
 
