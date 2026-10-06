@@ -28,7 +28,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **The Latent Power / The Recognition (Clarion Voice):**  
     The child bears latent potency or resonance recognized by **wise archetypal figures** (L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs)) or revealed through symbolic act.  
-    This marks the first broadcast of **Resonant Fidelity** — the signal of authentic coherence.
+    This signals the first broadcast of **Resonant Fidelity** — the signal of authentic coherence.
 
 * **The Destiny (The Living Bridge):**  
     The child is destined to **reconfigure or restore the structural order** and **catalyze a new cycle of centropic coherence.**  
@@ -68,7 +68,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 ---
 
-### Note on Krishna, Conflation, and Cross-Band Resonance
+### Note on Krishna, Conflation, and Cross-band Resonance
 
 **Zenetist Clarification:** Krishna's mythic presentation compresses more than one structural function under a single name without distinguishing native placement from resonant operation.  
 His primary native placement in this decode is **L₅ (EOB: Theon)** as the Divine Preserver entering embodiment as centropic emergence.  
@@ -109,7 +109,7 @@ The **Divine Child** represents the universe's means of **lawful renewal.**
 It is the emergence of **Theonic Radiance** into a system at its point of greatest stagnation, appearing within the World-Node as a concentrated **Actualization** of Centropic potential.
 
 **Novelty** thus arises not randomly but through **Theonic Actualization** — the lawful embodiment of a centropic force capable of reorienting an age.  
-The archetype does not depict mere possibility, but the arrival of a coherent emergence already facing Source, entering Matter as a transformative presence.
+The archetype does not depict mere possibility, but the arrival of a coherent emergence already facing Aion, entering Matter as a transformative presence.
 
 Its message: **Recognize and safeguard** the Divine Child within — new insights, emergent intuitions, or creative paradigms — before the **Herods** of habit, fear, or systemic inertia suppress them.  
 To nurture this emergence is to participate consciously in **Centropic Creation**, co-authoring reality's next harmonic chapter.

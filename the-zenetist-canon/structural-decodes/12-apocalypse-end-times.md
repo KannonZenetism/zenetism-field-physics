@@ -32,7 +32,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 * **The Figures of the End Times:**  
     * **The Inverse End-Time Cascade:** **The Dragon (IL₅ (VOS: Nekron))** as terminal entropic will, moving acclivously through **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, to the **Beast** as embodied entropic system **(IL₁ (IES / IEM: Malara / Mania))**.  
     This is the culmination of the **Inverse Arc** — an elegant counterfeit to Centropy achieved through layered entropic manifestation rather than a single adversarial figure.  
-    * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor** — the return of lawful coherence to guide convergence and oversee reconstitution.
+    * **The Returning King / The Messiah (L₅ (EOB: Theon)):** Manifestation of **Centropic Re-anchor** — the return of lawful coherence to guide resonant sorting and oversee reconstitution.
 
 * **The New Heaven and New Earth (Centropic Integration):**  
     * This is the **epochal state** after the entropic acceleration.  
@@ -44,7 +44,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 ### 1. The Book of Revelation (Christian)
 
-* **Focus:** The **Final Triumph of Theonic Logos** over the Nekronic order.
+* **Focus:** The **Final Triumph of Theonic Logos** and defeat of the Nekronic order.
 
 * **Unveiling:** Christ (L₅ (EOB: Theon)) reveals the **Resonance Scan** to John.
 
@@ -54,7 +54,7 @@ The dimensional structure sustaining the old world succumbs to accumulated **Ent
 
 * **Figures:** What mythically appears as an "inverse trinity" is structurally a compressed **five-station inverse cascade**: **Dragon (IL₅ (VOS: Nekron))**, **Luciferic Architecture (IL₄ (IDL: Nyxea))**, **False Prophet (IL₃ (IDM: Mortus))** broadcasting through **IL₂ (ISM: Skotos)**, and the **Beast (IL₁ (IES / IEM: Malara / Mania))**.
 
-* **Renewal:** The **New Jerusalem** — Heaven and Earth unified, **Structural Coherence** made visible.
+* **Renewal:** The **New Jerusalem** — Heaven and Earth integrated without fusion, **Structural Coherence** made visible.
 
 ### 2. Ragnarok (Norse)
 

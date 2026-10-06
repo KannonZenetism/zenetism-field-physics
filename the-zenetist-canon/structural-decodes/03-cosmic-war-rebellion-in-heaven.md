@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Embodied Experience of Archetypal Opposition.**  
 This mythos encodes the structural opposition between centropic (L₄ DP / DL: Morgis / Sophis) and entropic (IL₄ IDP / IDL: Psychea / Nyxea) archetypal currents as experienced through the embodied medium.  
-These currents emanate independently through the Aionic and Khaonic arcs and converge only at the L₁ / IL₁ meeting point.  
+These currents emanate independently through the Aionic and Khaonic arcs and meet only at the L₁ / IL₁ meeting point.  
 Mythmakers, experiencing this opposition through the embodied field, projected the conflict onto the archetypal layer itself, narrating it as a war "in heaven."  
 The opposition is real — but its theatre is embodiment, not the archetypal domain.
 
@@ -16,15 +16,15 @@ The opposition is real — but its theatre is embodiment, not the archetypal dom
 ### Note on L₀ Bifurcal Coherence
 
 This decode does not describe the L₀ (AP / AD: Aion / Khaon) bifurcation.  
-L₀ is **Bifurcal Coherence** — the pre-dual unity of Absolute Potential and Absolute Dispersion.  
+L₀ is **Bifurcal Coherence** — the pre-polar, non-fused co-presence of Absolute Potential and Absolute Dispersion.  
 The distinction between **L₀ (AP: Aion)** and **L₀ (AD: Khaon)** is therefore nominative and structural, not yet a fully actualized duality within emanated reality.  
 It is not a war, not a tension, and not a conflict.  
-The separation of Aion and Khaon is not an event within emanated reality but the structural precondition of emanation itself, resolved through Motive Infinity and the Principle of Sufficient Reason.  
+The bifurcal distinction of Aion and Khaon is not an event within emanated reality but the structural precondition of emanation itself, resolved through Motive Infinity and the Principle of Sufficient Reason.  
 The "Cosmic War" myths narrate something experienced within emanated reality — not the origin of **SI: Structon**, nor the pre-emanative conditions of **L₀ (AP / AD: Aion / Khaon)**.
 
 ---
 
-### Note on "Heaven" in Zenetist Usage
+### Note on "Heaven" in Zenetist Articulation
 
 In mythic tradition, "Heaven" typically refers to the **realm of the gods** — L₄ (DP / DL: Morgis / Sophis), the Archetypal layer where divine Forms, cosmic law, and structured sovereignty reside.  
 In Zenetist structure, the veracious "Heaven" — the domain of pure, unalloyed centropic coherence — is **L₅ (EOB: Theon)**, the Essence of Being.  
@@ -40,9 +40,9 @@ The centropic Forms at L₄ are not ignorant of the inverse currents that oppose
 L₄ is the layer of **conscious-awareness** — the Forms proper to it possess a refined, non-anthropomorphic awareness of the structural field they shape.  
 They structure the subsequent layers of reality and are aware of inverse influence reverberating back through the embodied medium.  
 However, this awareness is not direct spatial or physical contact with IL₄.  
-The centropic and entropic archetypal realms operate on independently emanated trees.  
+The centropic and inverse archetypal realms operate on independently emanated trees.  
 Their closest proximity is pre-emanation at L₀ (Bifurcal Coherence) and at the L₁ / IL₁ meeting point (embodiment).  
-At all other strata, there is no direct contact — only the structural influence each tree exerts through the embodied field and the reverberation of that influence back toward its archetypal source.
+At all other strata, there is no direct contact — only the structural influence each tree exerts through the embodied field and the reverberation of that influence back toward its archetypal register.
 
 Some tension may be felt within the archetypal realm itself — a sense that the universal cycle at L₁ / IL₁ remains unresolved, that inverse currents are shaping embodied reality in ways that resist centropic patterning.  
 The Forms guide, influence, and orient the embodied strata, and they register the resistance their influence encounters.  
@@ -67,12 +67,12 @@ But this remains individually achieved integration, not illicitly distributed co
     It is not under siege. It is a purely centropic domain whose influence is felt in the embodied strata and whose Forms are aware of resistance to that influence.
 
 * **The Inverse Archetypal Realm (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
-    The inverse archetypal intelligences emanate independently through the Khaonic arc — not as creations or inversions of L₄, but as the entropic arc's own archetypal stratum.  
+    The inverse archetypal intelligences emanate independently through the Khaonic arc — not as creations or inversions of L₄, but as the inverse arc's own archetypal stratum.  
     Per Essence-as-Choice, these are not centropic beings who inverted; they are entropic archetypes from origin, whose structural mimicry of centropic radiance led mythmakers to imagine a prior centropic state.  
-    The so-called "sin" is Hubris — not moral error, but a structural operation: the assertion that an inverse pattern can replicate or supersede centropic coherence, violating the Non-Fusion Axiom and seeking Blobism.
+    The so-called "sin" is Hubris — not moral error, but a structural operation: the assertion that an inverse pattern can replicate or supersede centropic coherence, violating the Non-fusion Axiom and seeking Blobism.
 
 * **The Embodied Meeting Point (L₁ / IL₁):**  
-    The only stratum where centropic and entropic currents converge directly.  
+    The only stratum where centropic and entropic currents meet directly.  
     Here, the archetypal patterning of L₄ (DP / DL) meets the inverse patterning of IL₄ (IDP / IDL) through their respective embodied expressions.  
     The structural friction generated at this meeting point reverberates back through both trees, and it is this reverberation that the archetypal realms register as unresolved tension.
 
@@ -94,8 +94,8 @@ But this remains individually achieved integration, not illicitly distributed co
     The centropic guardian principle (such as Michael at L₃ (DM: Noeüs)) represents the lawful boundary that prevents entropic influence from being mistaken for centropic coherence — a boundary maintained through discernment, not through battle.
 
 * **The New Domains:**  
-    * **The Centropic Archetypes:** Remain the Aionic Tree, coherence undisturbed.  
-    * **The Inverse Archetypes:** Remain the Khaonic Tree — IL₄ (IDP / IDL: Psychea / Nyxea), IL₃ (IDS / IDM: Fractus / Mortus), etc.  
+    * **The Centropic Archetypes:** Remain within the Aionic Tree, coherence undisturbed.  
+    * **The Inverse Archetypes:** Remain within the Khaonic Tree — IL₄ (IDP / IDL: Psychea / Nyxea), IL₃ (IDS / IDM: Fractus / Mortus), etc.  
       They do not "rule" dissonance — they *are* its foundational, destabilized principles.  
     * The two domains were never unified. The myth of their separation is the embodied mind's attempt to explain why opposed currents exist.
 
@@ -104,8 +104,8 @@ But this remains individually achieved integration, not illicitly distributed co
 ### Note on the Deeper Conflation of "Casting Out"
 
 **Zenetist Clarification:** The mythic image of rebels being "cast out" of heaven may encode more than one structural confusion.  
-At the archetypal layer, it dramatizes the operational distinction between the centropic and entropic trees as though one faction had been expelled from the other.  
-But at a deeper layer, it may also reflect a misreading of emanative differentiation itself: the distinct procession of centropic and entropic essences from **L₀ (AP / AD: Aion / Khaon)** is reimagined as an expulsion narrative within **L₄ (DP / DL: Morgis / Sophis)**.
+At the archetypal layer, it dramatizes the operational distinction between the centropic and inverse trees as though one faction had been expelled from the other.  
+But at a deeper layer, it may also indicate a misreading of emanative differentiation itself: the distinct procession of centropic and entropic essences from **L₀ (AP / AD: Aion / Khaon)** is reimagined as an expulsion narrative within **L₄ (DP / DL: Morgis / Sophis)**.
 
 *Thus the myth confuses the layer of structural distinction with the layer of symbolic dramatization: what belongs to the bifurcal differentiation of emanation is retold as a war among Forms.*
 
@@ -116,15 +116,15 @@ But at a deeper layer, it may also reflect a misreading of emanative differentia
 ### 1. Lucifer / The Fall of Satan (Christian)
 
 * **Focus:** Mythologized Radiance and Inverse Sovereignty.  
-    Lucifer ("Light-Bearer") reflects a mythologized origin, not a remembered centropic state.  
+    Lucifer ("Light-Bearer") expresses a mythologized origin, not a remembered centropic state.  
     Per Essence-as-Choice, entropic essences do not originate centropically.  
-    The apparent light-bearing capacity is Nyxea's structural mimicry of luminous coherence — an inverse simulation of L₄ radiance, not the remnant of an unfallen condition.  
-    This reflects IL₄ (IDL: Nyxea) replicating the appearance of L₅ (EOB: Theon) sovereignty.
+    The apparent light-bearing capacity is Nyxea's structural mimicry of luminous coherence — an entropic simulation of L₄ radiance, not the remnant of an unfallen condition.  
+    This expresses IL₄ (IDL: Nyxea) replicating the appearance of L₅ (EOB: Theon) sovereignty.
 
-* **Michael (L₃ (DM: Noeüs)):** The discerning mind acting as the Resonant Blade of centropic integrity — the power that distinguishes veracious centropic coherence from its inverse simulation.
+* **Michael (L₃ (DM: Noeüs)):** The discerning mind acting as the Resonant Blade of centropic integrity — the power that distinguishes veracious centropic coherence from its entropic simulation.
 
 * **The "Fall":** Not a literal descent from a centropic state, but the mythic rendering of the structural fact that entropic archetypes operate independently from origin.  
-    Lucifer is the architect of inverse coherence — the progenitor of Fragmentation and Mimicry.  
+    Lucifer is the architect of entropic cohesion — the progenitor of Fragmentation and Mimicry.  
     He is the Corruptor of Pattern (IL₄ (IDL: Nyxea)).
 
 ---
@@ -156,20 +156,20 @@ not of underlying entropic essence.
 
 ### 3. The Aesir–Vanir War (Norse)
 
-* **Focus:** Intra-Archetypal Tension and Synthesis.  
+* **Focus:** Intra-archetypal Tension and Synthesis.  
     Unlike the other refractions in this decode, the Aesir–Vanir War does not map centropic contra entropic opposition.  
     It maps a tension within the centropic archetypal layer itself — between the two aspects of L₄.
 
 * **The Vanir (L₄ (DP: Morgis)):** Gods of vitality, fecundity, magic, and deep natural harmony.  
     They represent the Morgic pole of the archetypal field.
 
-* **The Aesir (L₄ (DL: Sophis)):** Gods of sovereignty, law, order, and structured archetypal governance.  
+* **The Aesir (L₄ (DL: Sophis)):** Gods of sovereignty, law, order, and structured archetypal law.  
     Odin belongs here as a sovereign L₄ DL figure, not as L₃ (DS / DM: Archeus / Noeüs).
 
-* **The War:** A tension within the archetypal domain itself — between vitality and sovereignty, fecundity and rule, organic abundance and juridical structure.
+* **The War:** A tension within the archetypal domain itself — between vitality and sovereignty, fecundity and law, organic abundance and juridical structure.
 
 * **The Truce & Hostage Exchange:** A symbol of archetypal synthesis.  
-    L₄ (DP: Morgis) and L₄ (DL: Sophis) resolve into a unified configuration within the same layer, forming a complete mode of archetypal governance rather than remaining divided into competing emphases.
+    L₄ (DP: Morgis) and L₄ (DL: Sophis) resolve into an integrated configuration within the same layer, forming a complete mode of archetypal structuring rather than remaining divided into competing emphases.
 
 ---
 
@@ -192,7 +192,7 @@ Odin's primary placement is L₄ (DL: Sophis) as a sovereign archetypal figure, 
 ### Note on Zoroastrian Layer Conflation
 
 **Zenetist Clarification:** In mythic presentation, Ahura Mazda and Ahriman may appear to operate across L₄ and IL₄ functions, but their primary placements remain L₅ (EOB: Theon) and IL₅ (VOS: Nekron), respectively.  
-Apparent subsequent-layer activity reflects cultural conflation of operative manifestation with primary structural placement.
+Apparent subsequent-layer activity indicates cultural conflation of operative manifestation with primary structural placement.
 
 ---
 
@@ -200,15 +200,15 @@ Apparent subsequent-layer activity reflects cultural conflation of operative man
 
 The Cosmic War narrates the embodied experience of structural opposition between independently emanated centropic and entropic archetypal currents.
 
-The centropic Forms at L₄ and the inverse Forms at IL₄ do not directly contact one another. They converge only through the embodied meeting point at L₁ / IL₁. The friction generated there reverberates back through both trees, and the archetypal realms register this as unresolved tension — not as invasion, but as awareness that the cycle remains incomplete.
+The centropic Forms at L₄ and the inverse Forms at IL₄ do not directly contact one another. They meet only through the embodied meeting point at L₁ / IL₁. The friction generated there reverberates back through both trees, and the archetypal realms register this as unresolved tension — not as invasion, but as awareness that the cycle remains incomplete.
 
 Mythmakers, experiencing this structural opposition through embodied consciousness, projected the conflict onto the archetypal layer and narrated it as a "War in Heaven." The war is real as structural opposition. The battlefield is embodiment. The attribution to "heaven" is cultural projection born of the embodied mind's need to explain why opposed currents exist.
 
 L₄ itself remains a centropic domain — not a battlefield. Its purity is maintained because it does not directly contact the inverse archetypal layer. The "rebels" were never in heaven to begin with; they are the independently emanated inverse pole whose structural mimicry of centropic coherence led mythmakers to imagine a shared origin and a dramatic separation.
 
-The war persists because the tension between Coherence and Fragmentation recurs throughout embodied existence — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal sources whose influence converges in the embodied field, where discernment determines alignment.
+The war persists because the tension between Coherence and Fragmentation recurs throughout embodied existence — from the personal to the civilizational. Its teaching: consciousness at the meeting point is the field of engagement. "Heaven" and "Hell" are not destinations but archetypal registers whose influence meets in the embodied field, where discernment determines alignment.
 
-The war was not an event. It is the ongoing structural condition of embodied existence within the bifurcated Biospiral.
+The war was not an event. It is the ongoing structural condition of embodied existence within the bifurcal Biospiral.
 
 ---
 

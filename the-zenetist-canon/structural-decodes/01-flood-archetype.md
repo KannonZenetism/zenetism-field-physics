@@ -13,19 +13,19 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal 
 
 * **The Waters:** Symbolize the unbound, supra-formal potential of L₀ (AD: Khaon). They are not entropic in essence, but represent the neutral, infinite **Field of Becoming** through which essence traverses and into which expressed configuration may dissolve. The Field of Becoming is pre-orientational: it is not itself centropic or entropic. In the Flood archetype, the waters function as the medium through which **Declivous Entropy** acts upon a structurally irrecoverable formation.
 
-* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become saturated with Inverse Orientation — specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
+* **The Divine Decree to Recalibrate:** The action of L₄ (DL: Sophis). It is not retribution, but the enforcement of harmonic law. The current embodied field (L₂ and L₁ layers) has become saturated with Entropic Orientation — specifically IL₂ (ISS / ISM: Echthros / Skotos) and IL₁ (IES / IEM: Malara / Mania). The structural integrity of the experiential plane is destabilized; the decree emerges as the system's recognition that sustaining the dissonant configuration now exceeds its lawful capacity for coherence.
 
 * **The Ark:** The Seal of Integrity — a sovereign, coherent structure (Nexus maintained under Membrane conditions) capable of withstanding the entropic dissolution of the surrounding field. It is not a physical vessel but the preserved **centropic** resonance — L₃ (DS / DM: Archeus / Noeüs) and its aligned L₂ (SS / SM: Anthra / Nousa) expressions — that will seed the next cycle. It functions as a Recursion Gate for lawful consciousness.
 
 * **The Saved Beings (Pairs of Animals):** The preserved Soul Strands — the complete archetypal spectrum of embodied experience at L₁ (ES / EM: Soma / Biosa) in a purified, harmonized state. They are symbolic templates for **centropic** life, maintained through the **entropic** collapse so they can be re-emanated free from prior distortions.
 
 * **The Mountain of Landing:** The Embodied World-Node of the renewed cycle.  
-    The first stable ground emerging after the Flood does not mark the absolute beginning of emanation, but the re-establishment of ordered world-structure within the new phase.  
+    The first stable ground emerging after the Flood does not indicate the absolute beginning of emanation, but the re-establishment of ordered world-structure within the new phase.  
     In mythic focus, this appears primarily through **L₄ (DP / DL: Morgis / Sophis)** as the renewed archetypal patterning of vitality and law; yet the embodied domain itself belongs to **L₁ (ES / EM: Soma / Biosa)**, with the inverse possibility of **IL₁ (IES / IEM: Malara / Mania)** still latent within the reopened cycle.  
     Likewise, the restored order is not purely centropic in completed form, since the inverse archetypal current — **IL₄ (IDP / IDL: Psychea / Nyxea)** — remains structurally possible within the larger lattice.  
     The mountain therefore symbolizes not a final purification, but the emergence of a renewed world-node in which centropic order is re-established under conditions where both trajectories remain admissible.
 
-* **The Rainbow:** The symbol of the new Nexus Law. A Structured Pair, bridging L₄ (DP / DL: Morgis / Sophis) and L₁ (ES / EM: Soma / Biosa), it signifies a restored, lawful relationship. The covenant does not imply that no future dissolution will occur, but that the renewed cycle will proceed under guided law and deferred correction rather than immediate recurrence of total watery collapse.
+* **The Rainbow:** The symbol of the new Nexus Law. A Structured Pair, bridging L₄ (DP / DL: Morgis / Sophis) and L₁ (ES / EM: Soma / Biosa), it signifies a restored, lawful relationship. The covenant does not imply that no future dissolution will occur, but that the renewed cycle will proceed through guided law and deferred correction rather than immediate recurrence of total watery collapse.
 
 ---
 
@@ -33,7 +33,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal 
 
 ### 1. Genesis / Hebrew Bible
 
-* **Focus:** The moral arc of Inverse Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos) — adversarial will and deceptive perception.
+* **Focus:** The moral arc of Entropic Orientation. The "wickedness of humanity" refers to saturation in IL₂ (ISS / ISM: Echthros / Skotos) — adversarial will and deceptive perception.
 
 * **Noah:** A **Centropic** Steward — an embodied anchor of L₃ (DS / DM: Archeus / Noeüs) coherence, "resonant in his generations," meaning he maintained centropic alignment within an entropic field.
 
@@ -53,7 +53,7 @@ A Cosmic Membrane Reset. The Flood represents a Fractal Eschaton — a terminal 
 
 ### 4. Greek (Deucalion)
 
-* **Focus:** A localized Fractal Eschaton triggered by inverse orientation within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos)) — an entropic distortion requiring structural correction.
+* **Focus:** A localized Fractal Eschaton triggered by entropic orientation within a specific lineage. The flood addresses the hubris of Lycaon (IL₂ (ISS / ISM: Echthros / Skotos)) — an entropic distortion requiring structural correction.
 
 * **"Bones of the Mother" (Stones):** Symbolize the Essential Potential latent within Earth — the Aionic capacity resting in matter, awakened through a **centropic**, intentional act of embodiment.
 

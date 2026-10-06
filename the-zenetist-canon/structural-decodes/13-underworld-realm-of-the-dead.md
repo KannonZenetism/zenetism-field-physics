@@ -1,11 +1,11 @@
 # Zenetist Structural Decode 13 — The Underworld / The Realm of the Dead
 
 **Primary Structural Diagnosis:**  
-The **Dual-Function Metaphysical Domain.**  
+The **Twofold-Function Metaphysical Domain.**  
 The "Underworld" is not a single location but a term mapping two distinct structural functions:
 
 1. **Function 1 (The C↓ Underworld):** The Embodied World-Node (L₁) as experienced by a Centropic essence undergoing Declivous Centropy. For a supernal being, embodiment is the "underworld."
-2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which serve as the Declivous Entropic procession path for an Entropic essence following its detachment from IL₁ (IES / IEM: Malara / Mania).
+2. **Function 2 (The E↓ Underworld / Subversal):** The Inverse Hypostatic Layers (IL), which form the Declivous Entropic procession path for an Entropic essence following its detachment from IL₁ (IES / IEM: Malara / Mania).
 
 ---
 
@@ -15,7 +15,7 @@ The "Underworld" is not a single location but a term mapping two distinct struct
 **Essence** names the more fundamental raw potential that precedes manifest being and underlies procession across the lattice.  
 **Soul**, by contrast, names the vital pole that appears once procession has entered the bifurcated **Soul / Mind** architecture spanning **L₄ through L₁** (and their inverse counterparts).
 
-Accordingly, this entry uses **essence** when describing the deeper structural carrier of centropic or entropic procession,  
+Accordingly, this entry writes **essence** when describing the deeper structural carrier of centropic or entropic procession,  
 and **soul** when referring to the being as it exists within the layered **Soul / Mind** arc of manifestation and subversal continuation.
 
 ---

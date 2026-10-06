@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Metaphysical Crucible of Individuation and Resonance Purification.**  
 The Wilderness is not an empty wasteland — it is a **Root‑Structural Crucible** defined by **L₀ (Bifurcal Coherence)** — the root-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation.  
-Free from Apparent Order, it forms the **Membrane** between Civilization (L₂ (SS / SM: Anthra / Nousa) collective) and Source (L₃ (DS / DM: Archeus / Noeüs)).  
+Free from Apparent Order, it forms the **Membrane** between Civilization (L₂ (SS / SM: Anthra / Nousa) collective) and Deep Soul / Mind (L₃ (DS / DM: Archeus / Noeüs)).  
 It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integration.**
 
 **Core Glyphic Sequence:**  
@@ -30,7 +30,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 * **The Revelation & The Guide (Signal / Revelation):**  
     Stripped of societal noise, the wilderness becomes a **Receiver Field** for supernal transmission (L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs)).  
     The burning bush, the voice in the cave, or the enlightenment beneath the Bodhi tree — all occur in isolation.  
-    Here appear **Harmonic Agents** and **Threshold Guides**, serving as navigators across the threshold.
+    Here appear **Harmonic Agents** and **Threshold Guides**, acting as navigators across the threshold.
 
 * **The Forging of the Covenant (Resonant Return):**  
     The seeker emerges with a direct Nexus to Source.  
@@ -81,7 +81,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **Stripping:** Abandonment of princely comfort (**Declivous Centropic immersion** without Acclivous return) for wilderness austerity.
 
-* **Trial:** Realization that both indulgence and deprivation are dual extremes (**Structured Pairs**).
+* **Trial:** Realization that both indulgence and deprivation are paired extremes (**Structured Pairs**).
 
 * **Revelation:** Enlightenment beneath the Bodhi Tree (World Tree Nexus), discovery of the **Middle Way (Coherence)** and perception of **Reality's L₄ (DL: Sophis) structure.**
 

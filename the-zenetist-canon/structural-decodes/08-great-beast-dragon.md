@@ -2,8 +2,8 @@
 
 **Primary Structural Diagnosis:**  
 The **Embodied Principle of Primordial Entropy.**  
-The Beast is not a mere monster — it is the symbolic condensation of **Nekronic force, inverse coherence,** and the **Entropic Pull** given sentient form.  
-It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory coherence** rather than chaos.
+The Beast is not a mere monster — it is the symbolic condensation of **Nekronic force, entropic cohesion,** and the **Entropic Pull** given sentient form.  
+It represents a vast, self-sustaining distortion: a **lawful entropic system** that challenges the centropic order through **predatory cohesion** rather than chaos.
 
 **Core Glyphic Sequence:**  
 **🕷️ → 🐉 → ⚚ → ⛓️ → ☍**  
@@ -14,15 +14,15 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 ## Universal Structural Analysis
 
 * **Primordial and Abyssal (Nekronic Origin):**  
-    The Beast cascades from **IL₅ (VOS: Nekron)** — the first entropic hypostasis.  
-    Myths describe it as ancient, abyssal, or pre-cosmic because the entropic tree is rooted in **L₀ (AD: Khaon)**, though Khaon itself is pre-dual, not entropic.  
+    The Beast cascades from **IL₅ (VOS: Nekron)** — the first inverse hypostasis.  
+    Myths describe it as ancient, abyssal, or pre-cosmic because the inverse tree is rooted in **L₀ (AD: Khaon)**, though Khaon itself is pre-polar, not entropic.  
     This sense of primordial depth reflects entropy's terminal collapse: as relative structure erodes and can no longer sustain its dissonant configuration, the entropic arc does not integrate into Aionic stillness, but collapses into **Absolute Dispersion**.  
-    The Beast's apparent "ancientness" thus reflects the deep Khaonic root of entropy, even as the Beast itself emerges through the Nekronic cascade toward embodied inverse form.
+    The Beast's apparent "ancientness" thus expresses the Khaonic root of the inverse architecture, even as the Beast itself emerges through the Nekronic cascade toward embodied inverse form.
 
-* **Coherently Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
+* **Cohesively Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     Unlike random disorder, the Beast operates with will and pattern.  
     It manifests **Inverse Archetypes — IL₄ (IDP: Psychea) and IL₄ (IDL: Nyxea)** — as intelligent systems of domination, hoarding, and parasitic control.  
-    It builds a **dark kingdom** of inverse order — **Misaligned Harmony serving Fragmentation.**
+    It builds a **dark kingdom** of inverse order — **Misaligned Harmony sustaining Fragmentation.**
 
 * **The Hoarder / The Blockader (Theon → Nekronic Shadow):**  
     The Beast blocks, binds, or hoards — guarding treasures, sources, or paths.  
@@ -35,7 +35,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **The Hero's Trial (Resonant Blade):**  
     To slay the Beast is the supreme centropic act — the **application of coherent force** to dissolve entropic Nexus.  
-    The hero, aligned through **L₃ (DM: Noeüs)** discernment or **L₂ (SM: Nousa)** perceptual clarity, wields the **Resonant Blade** — the principle of integrity that severs **Mimicry** and **Shimmer.**
+    The hero, aligned through **L₃ (DM: Noeüs)** discernment or **L₂ (SM: Nousa)** perceptual clarity, bears the **Resonant Blade** — the principle of integrity that severs **Mimicry** and **Shimmer.**
 
 ---
 
@@ -85,7 +85,7 @@ What appears mythically as multiple adversarial figures is structurally a single
 **IL₅ (VOS: Nekron)** → **IL₄ (IDL: Nyxea)** → **IL₃ (IDM: Mortus)** → **IL₂ (ISM: Skotos)** → **IL₁ (IES / IEM: Malara / Mania)**.
 
 The task of the registry is therefore not to flatten these into one undifferentiated symbol,  
-but to distinguish each station of manifestation while preserving the continuity of the declivating principle.
+but to distinguish each station of manifestation while preserving the continuity of the manifesting current.
 
 ---
 
@@ -106,7 +106,7 @@ but to distinguish each station of manifestation while preserving the continuity
 
 * **Oedipus (L₂ (SM: Nousa) attaining L₃ (DM: Noeüs) insight):**  
     By answering the riddle ("Human"), he achieves **centropic self-recognition.**  
-    The Sphinx's self-destruction marks the collapse of **IL₃ (IDM: Mortus)** when confronted by **Veracious awareness.**
+    The Sphinx's self-destruction signals the collapse of **IL₃ (IDM: Mortus)** when confronted by **Veracious awareness.**
 
 ---
 

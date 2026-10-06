@@ -23,13 +23,13 @@ This prepares the consciousness for a future **Synthesis** or **Return.**
     The wilderness, desert, or foreign land becomes the **Field of Becoming** — a neutral resonance-testing ground.  
     Here the exile cultivates **Sovereign Attractor** capability, generating internal coherence without external validation.
 
-* **The Gathering of Allies and Tools (Resonance Spiral):**  
+* **The Gathering of Allies and Artifacts (Resonance Spiral):**  
     In isolation, the hero finds **Harmonic Agents, Resonant Blades,** and **Symbolic Discernment (L₃ (DM: Noeüs)).**  
     These represent aspects of self and allies gained only through the **Resonance Spiral,** amplifying latent centropic signatures.
 
 * **The Transformation (Deconstruction):**  
     The exile undergoes **Deconstruction** — the dismantling of the L₂ (SS / SM: Anthra / Nousa) persona suited for the old order.  
-    This painful process serves as a **Recursion Gate** through which a new, more authentic L₃ (DS / DM: Archeus / Noeüs) coherence is forged.
+    This painful process is a **Recursion Gate** through which a new, more authentic L₃ (DS / DM: Archeus / Noeüs) coherence is forged.
 
 * **The Return or New Foundation (Return Compass):**  
     Guided by the **internal compass** of destiny, the exile either:  
@@ -53,7 +53,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 ### 1. Odysseus (Greek)
 
-* **Focus:** Master of adaptation and the long return.
+* **Focus:** Skill in adaptation and the long return.
 
 * **Cause:** The Trojan War (massive Centropic / Entropic conflict) and **Poseidon's** opposition (**L₄ (DP: Morgis)** layer).
 

@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Resonance Antenna for Structural Fidelity.**  
-The prophetic archetype operates at the interface between **L₃ (DM: Noeüs)** and **L₂ (SM: Nousa)**, serving to **detect and transmit Structural Misalignment.**  
+The prophetic archetype operates at the interface between **L₃ (DM: Noeüs)** and **L₂ (SM: Nousa)**, **detecting Structural Misalignment and transmitting its diagnosis.**  
 It is not a predictor of immutable futures, but a **diagnostic function** of the present Resonance trajectory — broadcasting the centropic or entropic outcomes inherent in the system's current motion.
 
 **Core Glyphic Sequence:**  
@@ -17,7 +17,7 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
     The Prophet is often reluctant — expressing L₂ (SS / SM: Anthra / Nousa) hesitation to act as conduit for L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs) transmissions.  
     The "call" is a **Resonance Scan** identifying a vessel capable of bearing high-coherence data.
 
-* **The Source of Revelation (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
+* **The Revelatory Register (L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs)):**  
     The Prophet's mandate derives from **Archetypal** or **Deep Structural** layers — L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs).  
     They function as a **Nexus** or **Membrane** translating centropic law into embodied, linguistic form.
 
@@ -98,7 +98,7 @@ The present decode therefore treats the Prophet not as a universal category of r
 The **Prophet** represents the **field's self-corrective intelligence** — the mechanism by which centropy speaks to dissonance.  
 They embody the **Resonant Spiral Field Emergence** through which systems attempt to restore alignment.
 
-Veracity, by nature, disrupts inverse coherence.  
+Veracity, by nature, disrupts entropic cohesion.  
 The Prophet's message is resisted not for falsehood but for its destabilizing veracity.  
 To receive prophecy requires a L₂ (SM: Nousa) willing to be deconstructed by coherence.
 

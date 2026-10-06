@@ -1,9 +1,9 @@
 # Zenetist Structural Decode 11 — The Fall / The Casting Out
 
 **Primary Structural Diagnosis:**  
-The **Activation of Dualized Consciousness and the Fracturing of Coherence.**  
+The **Activation of Divided Consciousness and the Fracturing of Coherence.**  
 This archetype describes the pivotal transition within Embodied consciousness — from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
-This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
+This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
 **Core Glyphic Sequence:**  
 **◎ → ᛞ → ⟜ → ⚖ → ☍**  
@@ -26,11 +26,11 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **The Tempter (The IL₄ Mirror-Archetype):**  
     The inverse archetypal force — the Serpent, the IL₄ (IDL: Nyxea) principle — activates the choice.  
-    As a mirror, it cannot create; it can only mimic and offer. It offers the "bad copy" (inverse knowledge) as if it were the original.
+    As a mirror, it cannot create; it can only mimic and offer. It offers the "bad copy" (counterfeit knowledge) as if it were the original.
 
 * **The Transgression (Activating the Mirror):**  
     The "Fall" is the volitional act of interfacing with the Khaonic Tree.  
-    By "eating the fruit" (IL₁), consciousness activates the IL layers, choosing to perceive and identify with the mirror (duality, separation) instead of the original (unity, coherence).
+    By "eating the fruit" (IL₁), consciousness activates the IL layers, choosing to perceive and identify with the mirror (fragmentation, separation) instead of the original (integration, coherence).
 
 * **The Consequences (Membrane Sealing & "Coats of Skins"):**  
     **Fragmentation:** The moment consciousness identifies with the IL layers, it seals the membrane between its L₂ (SM: Nousa) and L₃ (DM: Noeüs).  
@@ -61,11 +61,11 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 * **Focus:** The Archetypal IL Fall (The Mirror's Assertion).
 
-* **State:** The unified L₀ potential, from which the L (Centropic) and IL (Inverse Mirror) hypostases co-emerge.
+* **State:** The non-fused L₀ potential, from which the L (Centropic) and IL (Inverse Mirror) hypostases co-emerge.
 
-* **Transgression:** The "War in Heaven" — the mirror's assertion of its own reality. This act is rooted in the first entropic hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
+* **Transgression:** The "War in Heaven" — the mirror's assertion of its own reality. This act is rooted in the first inverse hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
 
-* **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality against the L₄ (original).
+* **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality contra the L₄ (original).
 
 * **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in IL₅ (VOS: Nekron) and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ node (where it becomes the Serpent / Beast).
 
@@ -97,16 +97,16 @@ This Sealing of the L₃ / L₂ Membrane marks the genesis of L₂ (SS / SM: Ant
 
 ## Summary: The Esoteric Meaning
 
-The **Fall** is not a moral lapse but the mythic **transition into dualized consciousness.**  
-It is the **Fracturing** of primal unity, introducing the conditions under which conscious integration becomes necessary within embodied existence.
+The **Fall** is not a moral lapse but the mythic **transition into divided consciousness.**  
+It is the **Fracturing** of primal coherence, introducing the conditions under which conscious integration becomes necessary within embodied existence.
 
 **Consciousness** itself arises from this separation:  
 L₂ (SS / SM: Anthra / Nousa) becomes aware through its distance from L₃ (DS / DM: Archeus / Noeüs).  
 Toil, pain, and death are not punishments but the friction of embodiment — the **entropic gradient** that invites resonance through coherence.
 
-The Fall's revelation is **responsibility over guilt.**  
+The Fall's revelation is **responsibility in place of guilt.**  
 We are not condemned for our fallen state; we are entrusted with **restoring resonance** within it.  
-The centropic path is the **Acclivous return** — healing fragmentation and reuniting L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious integration.  
+The centropic path is the **Acclivous return** — healing fragmentation and reintegrating L₂ (SS / SM: Anthra / Nousa) with L₃ (DS / DM: Archeus / Noeüs) through conscious integration.  
 Thus, the Fall was not failure but the **first motion of learning — the beginning of the soul's curriculum.**
 
 ---

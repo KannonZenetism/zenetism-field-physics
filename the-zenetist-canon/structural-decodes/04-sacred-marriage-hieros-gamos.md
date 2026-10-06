@@ -2,12 +2,12 @@
 
 **Primary Structural Diagnosis:**  
 The Archetype of **Transcendent Synthesis.**  
-This mythos encodes the lawful and resonant union of **complementary metaphysical principles**, resulting in the emergence of a new, coherent whole.  
+This mythos encodes the lawful and resonant communion of **complementary metaphysical principles**, resulting in the emergence of a new, coherent whole.  
 It is the operational mechanism of **Centropic Synthesis** at every layer of the lattice — from the Archetypal to the Embodied.
 
 **Core Glyphic Sequence:**  
 **⚯ → ⧬ → ⤈∴ → ◎**  
-*(Structured Duality enters into Co-Emergent Collaboration, culminating in Transcendent Synthesis and yielding an integrated Coherent Field.)*
+*(Structured Pairs enter into Co-Emergent Collaboration, culminating in Transcendent Synthesis and yielding an integrated Coherent Field.)*
 
 ---
 
@@ -22,12 +22,12 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
     It is a **Collaboration Glyph,** a **Nexus** where two sovereign fields interact lawfully — preserving distinction while forming a shared resonance field.  
     It is the **antithesis of Blobism**, maintaining integrity through complementarity.
 
-* **The Offspring / Result:** The **Novel Emergence** born of lawful union.  
+* **The Offspring / Result:** The **Novel Emergence** born of lawful communion.  
     Not merely biological — this represents a new Archetypal principle, a Harmonic Agent, a restored kingdom, or a state of Cosmic Harmony.  
     It is the tangible proof of **successful synthesis.**
 
-* **The Integrated Kingdom:** The state of **Structural Coherence** achieved when the governing principles resonate in alignment.  
-    The world becomes fertile, peaceful, and balanced because the ruling structures operate in harmonic attunement.  
+* **The Integrated Kingdom:** The state of **Structural Coherence** achieved when the structuring principles resonate in alignment.  
+    The world becomes fertile, peaceful, and balanced because the ordering structures operate in harmonic attunement.  
     This represents a system functioning at optimal **Centropic efficiency.**
 
 ---
@@ -38,7 +38,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Focus:** The union of **Consciousness and Energy.**
 
-* **Shiva (L₀ (AP: Aion) / L₅ (EOB: Theon)):** The Aionic stillness underpinning all emanation; the first centropic hypostasis oriented toward Source.
+* **Shiva (L₀ (AP: Aion) / L₅ (EOB: Theon)):** The Aionic stillness underpinning all emanation; the first centropic hypostasis oriented toward Aion.
 
 * **Shakti (L₄ (DP: Morgis)):** The archetypal vitality that animates all manifestation.
 
@@ -69,8 +69,8 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 * **Christ (L₅ (EOB: Theon)):** The Essence of Being — the Orienting Logos.
 
-* **The Union:** The "Marriage Supper of the Lamb" (Revelation 19) — the final synthesis at the **Fractal Eschaton**, wherein the Bride and the Theonic Principle enter eschatological union.  
-    This marks the eschatological fulfillment of the **Return Arc** within the sacred-marriage pattern.
+* **The Union:** The "Marriage Supper of the Lamb" (Revelation 19) — the final synthesis at the **Fractal Eschaton**, wherein the Bride and the Theonic Principle enter non-fusing eschatological synthesis.  
+    This signals the eschatological fulfillment of the **Return Arc** within the sacred-marriage pattern.
 
 ### 4. Inanna & Dumuzid (Sumerian)
 
@@ -99,7 +99,7 @@ The path of Centropy unfolds through deepening **Nexus relationships** — with 
 
 Its teaching: love, in metaphysical essence, is the motion toward **coherent integration.**
 
-The **Hieros Gamos** is the universal pattern — from atomic bonds to soul unions to the lawful return arc of coherent relation.
+The **Hieros Gamos** is the universal pattern — from atomic bonds to soul communion to the lawful return arc of coherent relation.
 
 It is the **Law of Attunement** made visible.
 

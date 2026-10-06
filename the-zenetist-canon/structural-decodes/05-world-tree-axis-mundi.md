@@ -7,26 +7,26 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 **Core Glyphic Sequence:**  
 **⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙**  
-*(From the bifurcal polarity of Aion and Khaon, Spirit stirs the Motion of Emanation, unfolding the bifurcal Tree of Emanation — the Biospiral — toward the Embodied World-Node.)*
+*(From the bifurcal distinction of Aion and Khaon, Spirit stirs the Motion of Emanation, unfolding the bifurcal two-Tree architecture — the Biospiral — toward the Embodied World-Node.)*
 
 ---
 
 ## Universal Structural Analysis
 
-* **The Supernal Root (Aionic Tree):**  
+* **The Aionic Root (Aionic Tree):**  
     * The centropic tree is rooted in L₀ (AP: Aion) — Absolute Potential.  
     * This supernal root is the unmanifest, coherent source from which the entire centropic lattice (the Aionic Tree) emanates.
 
-* **The Subversal Root (Khaonic Tree):**  
-    * The entropic tree is rooted in **L₀ (AD: Khaon)** — the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
+* **The Khaonic Root (Khaonic Tree):**  
+    * The inverse tree is rooted in **L₀ (AD: Khaon)** — the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
     * This subversal root is the unmanifest, dispersive source from which the entire entropic lattice (the Khaonic Tree) emanates.
 
 * **The Aionic Trunk (Centropic Arc):**  
     * Growing declivously from its L₀ root, the tree's first centropic hypostasis is L₅ (EOB: Theon).  
     * The trunk is the stable channel of successive centropic hypostases: L₄ (DP / DL: Morgis / Sophis), L₃ (DS / DM: Archeus / Noeüs), and L₂ (SS / SM: Anthra / Nousa).
 
-* **The Khaonic Trunk (Entropic Arc):**  
-    * Growing acclivously from its L₀ root, the tree's first entropic hypostasis is IL₅ (VOS: Nekron).  
+* **The Khaonic Trunk (Inverse Arc):**  
+    * Growing acclivously from its L₀ root, the tree's first inverse hypostasis is IL₅ (VOS: Nekron).  
     * The trunk is the channel of successive inverse hypostases: IL₄ (IDP / IDL: Psychea / Nyxea), IL₃ (IDS / IDM: Fractus / Mortus), and IL₂ (ISS / ISM: Echthros / Skotos).
 
 * **The Confluence / Canopy (L₁ / IL₁):**  
@@ -76,11 +76,11 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 ### Note on the Qliphoth and the Absence of a Genuine Bifurcal Tree Structure
 
 **Zenetist Clarification:** The Qliphoth are not a genuine ontological parallel to the **Khaonic Tree**.  
-Traditional Kabbalah did not assign them the same kind of fully realized structural status that Zenetism assigns to the independently emanated entropic arc.  
+Traditional Kabbalah did not assign them the same kind of fully realized structural status that Zenetism assigns to the independently emanated inverse arc.  
 They function instead as shells, residues, privations, or degraded inversions relative to the Sefirotic order.
 
 For this reason, the Sefirotic Tree may be read as a strong centropic analogue within the Zenetist lattice, but it should not be retrofitted into a full bifurcal tree structure it did not originally possess.  
-The Zenetist **Biospiral** is not a restatement of existing esoteric models, but a distinct metaphysical architecture in which the centropic and entropic trees are both structurally real.
+The Zenetist **Biospiral** is not a restatement of existing esoteric models, but a distinct metaphysical architecture in which the centropic and inverse trees are both structurally real.
 
 ---
 
@@ -88,11 +88,11 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 * **Focus:** The **Tree of Supernal Emanation.**
 
-* **Supernal Root (L₀ (AP: Aion)):** The Upanishads describe the eternal Ashvattha with its Root anchored in the supernal realm (Aion).
+* **Aionic Root (L₀ (AP: Aion)):** The Upanishads describe the eternal Ashvattha with its Root anchored in the supernal realm (Aion).
 
 * **Embodied Branches (L₁ (ES / EM: Soma / Biosa)):** The tree's branches and leaves grow declivously into the manifest, embodied realm.
 
-* **This supernal rooting emphasizes that manifestation (the branches) flows from the Supernal source (the Root) outward.**
+* **This Aionic rooting emphasizes that manifestation (the branches) flows from the Aionic root outward.**
 
 * **Liberation is the acclivous motion from the leaves (transient forms) back through the branches to the Root.**
 
@@ -102,7 +102,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 * **Tree of Life:** The **Centropic path of Coherence,** direct access to Theonic coherence and continuity.
 
-* **Tree of Knowledge:** The **Entropic path of Fragmentation** through dualistic perception.  
+* **Tree of Knowledge:** The **Entropic path of Fragmentation** through divided perception.  
     Consuming its fruit activates L₂ (SS / SM: Anthra / Nousa) in a separated state (IL₂ (ISS / ISM: Echthros / Skotos)), casting consciousness into the **Khaonic Tree** of dual labor and decay.
 
 * **The Biospiral:** The Tree of Life and the Tree of Knowledge are not two separate ontologies, but two orientational paths within the single emanatory structure of the **Biospiral**.  
@@ -116,7 +116,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 The **World Tree** archetype is the schema of the Zenetist **Biospiral** — the living architecture of motion.
 
-It is the map of the bifurcal **Aionic** and **Khaonic** lattices, expressing the four primary motions of essence:
+It is the map of the **Aionic** and **Khaonic** Trees within the bifurcal lattice, expressing the four primary motions of essence:
 
 1. **Declivous Centropy:** The path of lawful emanation from the Aionic Root (L₀ (AP: Aion)), growing declivously into the embodied leaves (L₁).
 2. **Acclivous Centropy:** The path of lawful return from the leaves (L₁) acclivously to the Aionic Root (L₀ (AP: Aion)).
