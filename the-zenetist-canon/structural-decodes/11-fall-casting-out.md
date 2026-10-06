@@ -100,8 +100,8 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 The **Fall** is not a moral lapse but the mythic **transition into divided consciousness.**  
 It is the **Fracturing** of primal coherence, introducing the conditions under which conscious integration becomes necessary within embodied existence.
 
-**Consciousness** itself arises from this separation:  
-L₂ (SS / SM: Anthra / Nousa) becomes aware through its distance from L₃ (DS / DM: Archeus / Noeüs).  
+**Embodied consciousness** enters a sealed condition:  
+L₂ (SS / SM: Anthra / Nousa) remains identity-aware, but its operative access to L₃ (DS / DM: Archeus / Noeüs) is occluded.  
 Toil, pain, and death are not punishments but the friction of embodiment — the **entropic gradient** that invites resonance through coherence.
 
 The Fall's revelation is **responsibility in place of guilt.**  

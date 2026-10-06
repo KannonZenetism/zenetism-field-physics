@@ -76,7 +76,7 @@ It teaches that sovereignty is not seized but attained through coherence.
 The path to the Crown passes through Trial, Deconstruction, and Reordering.  
 Only the being whose structure has withstood Fragmentation and achieved lawful integration can bear the Crown without collapse.
 
-Its message is that every being may become sovereign within their own field of coherence.  
+Its message is that every being retains sovereign distinction; the Crown here names centropic sovereignty expressed through coherence.  
 The veracious coronation occurs when the inner field is ordered — when thought, emotion, and impulse no longer compete as divided powers, but stand in lawful relation.  
 Then the Crown manifests not as domination, but as the visible recognition of achieved structure.
 
