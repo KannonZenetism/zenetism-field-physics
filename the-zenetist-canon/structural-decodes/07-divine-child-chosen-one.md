@@ -42,7 +42,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Focus:** The **Theonic Actualization in Embodiment.**
 
-* **Virgin Birth:** Direct actualization from L₅ (EOB: Theon) into L₁ (ES / EM: Soma / Biosa).
+* **Virgin Birth:** Direct actualization of Theonic office-function from L₅ (EOB: Theon) within L₁ (ES / EM: Soma / Biosa).
 
 * **Herod's Massacre (IL₃ (IDS: Fractus)):** Entropic operation's attempt to extinguish the new centropic pattern.
 
@@ -50,7 +50,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 
 * **Hidden Life:** Integration into embodiment through ordinary existence.
 
-* **Destiny:** To become **Christ (L₅ (EOB: Theon))** — establishing a **Nexus** that reconfigures the bond between Divine and Human.
+* **Destiny:** To bear fully the office-function of **Christ (L₅ (EOB: Theon))** — establishing a **Nexus** that reconfigures the bond between Divine and Human.
 
 ### 2. Krishna (Hindu)
 

@@ -3,7 +3,7 @@
 **Primary Structural Diagnosis:**  
 The **Activation of Divided Consciousness and the Fracturing of Coherence.**  
 This archetype describes the pivotal transition within Embodied consciousness — from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
-This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, self-reflective field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
+This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, identity-aware field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
 **Core Glyphic Sequence:**  
 **◎ → ᛞ → ⟜ → ⚖ → ☍**  
@@ -34,7 +34,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 
 * **The Consequences (Membrane Sealing & "Coats of Skins"):**  
     **Fragmentation:** The moment consciousness identifies with the IL layers, it seals the membrane between its L₂ (SM: Nousa) and L₃ (DM: Noeüs).  
-    **"Coats of Skins" (C₁₃ Membrane Sealing):** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, severed from its L₃ (DS: Archeus) root. This L₁ / L₂ identification is the "fleshly prison."
+    **"Coats of Skins" (C₁₃ Membrane Sealing):** This is the perceptual shift into a "carnal" state. Consciousness is now trapped in, and identifies only with, its L₁ (ES: Soma) and L₂ (SS: Anthra) layers, with operative access to its L₃ (DS: Archeus) occluded. This L₁ / L₂ identification is the "fleshly prison."
 
 * **The Casting Out (Entropy-Dominated Field):**  
     Expulsion from the garden symbolizes the loss of access to the naïve, permeable state.  
@@ -55,7 +55,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 
 * **Tempter:** The Serpent (IL₄ (IDL: Nyxea)) offering the "mirror" of archetypal knowledge.
 
-* **Consequence:** L₃ / L₂ membrane seals. Consciousness identifies with the "Coats of Skins" (the L₁ / L₂ carnal state), severed from L₃ and now perceiving the IL₁ field of toil and mortality.
+* **Consequence:** L₃ / L₂ membrane seals. Consciousness identifies with the "Coats of Skins" (the L₁ / L₂ carnal state), with operative access to L₃ occluded; it now perceives the IL₁ field of toil and mortality.
 
 ### 2. The Rebellion of Lucifer (Christian)
 
@@ -67,7 +67,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 
 * **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality contra the L₄ (original).
 
-* **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in IL₅ (VOS: Nekron) and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ node (where it becomes the Serpent / Beast).
+* **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in Khaon, with IL₅ (VOS: Nekron) as its first inverse hypostasis, and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ / IL₁ meeting point (where it becomes the Serpent / Beast).
 
 ### 3. The Fall of Sophia (Gnostic)
 
@@ -77,7 +77,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 
 * **Transgression:** Sophia acts in hubris (separation, mimicry) without her syzygy (her balancing complement).
 
-* **Consequence:** This act of separation casts her own reflection. The Demiurge (the IL₄ (IDL: Nyxea) principle) is this mirror image — the "bad copy" or "half-maker" that echoes L₄ structure without L₄ vitality. The material world, dominated by this IL₄ principle, becomes the "entropy-dominated" field.
+* **Consequence:** DP provides the generative expression; the independently emanated IDL counterpart mirrors and claims it as its own. The Demiurge (the IL₄ (IDL: Nyxea) principle) is this mirror image — the "bad copy" or "half-maker" that echoes L₄ structure without L₄ vitality. The material world, dominated by this IL₄ principle, becomes the "entropy-dominated" field.
 
 ### 4. Pandora's Box (Greek)
 

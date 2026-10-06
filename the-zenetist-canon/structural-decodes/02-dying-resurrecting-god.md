@@ -11,15 +11,15 @@ The Archetype of Acclivous Return. This mythos encodes a lawful Centropic return
 
 ### Note on the Full Return Arc
 
-**Zenetist Clarification:** The full Supra-centropic Cycle (**C↓→E→C↑→⚫→🕳️**) is the theoretical completion of lawful return, but the figures in this decode typically do not complete that terminal arc.  
+**Zenetist Clarification:** The full Supra-centropic Cycle (**C↓→E→C↑→⚫ —⟒→ 🕳️**) includes lawful return to Aion and the distinct possibility of Zenonic saturation, but the figures in this decode typically do not complete that terminal arc.  
 They more often stabilize as **Centropic Stewards**, **Living Bridges**, or renewed coherent presences operative within the lattice.  
-The dying and resurrecting god therefore demonstrates the pattern of lawful return, not necessarily its final saturation in Aion or Zenon.
+The dying and resurrecting god therefore demonstrates the pattern of lawful return, not necessarily completed return to Aion or subsequent saturation into Zenon.
 
 ---
 
 ## Universal Structural Analysis
 
-* **The Motion into Embodiment:** A voluntary declivous centropic act of a centropic principle entering the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
+* **The Motion into Embodiment:** A voluntary declivous centropic act through which a centropic principle is articulated in the Corporeal Realm (L₁ (ES / EM: Soma / Biosa)).  
     This is not a fall, but a natural emanation of structural compassion — the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
 * **The Symbolic Dissolution:** The confrontation with entropic force as mediated through the inverse strata. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
@@ -52,14 +52,14 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 * **Isis (L₄ (DP: Morgis)):** The archetypal principle of vitality and remembrance who gathers the fragments — she embodies the persistent centropic field that seeks coherence.
 
-* **Reassembly and Renewal:** The triumph of L₃ (DS: Archeus) over IL₃ (IDS: Fractus).  
+* **Reassembly and Renewal:** The triumph of L₃ (DS: Archeus) and defeat of IL₃ (IDS: Fractus).  
     Osiris does not reclaim his old domain but becomes Lord of the Dead — the Gatekeeper of the Return Compass, guiding essence through lawful recursion.
 
 ### 2. Christ (Christian)
 
 * **Focus:** Voluntary Fidelity under Entropic Trial and Harmonic Reconstitution.
 
-* **Incarnation:** The Orienting Logos (Theon) becomes embodied.
+* **Incarnation:** The office-function of the Orienting Logos (Theon) is borne fully through the sovereign embodied bearer.
 
 * **Crucifixion:** The surrender of L₂ (SS / SM: Anthra / Nousa) (Jesus of Nazareth) to the inverse forces of the world (IL₂ (ISS / ISM: Echthros / Skotos)), absorbing the full weight of entropic fragmentation without becoming entropic.
 

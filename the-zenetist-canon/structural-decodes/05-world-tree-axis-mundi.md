@@ -6,7 +6,7 @@ This archetype directly symbolizes the **Zenetist lattice** itself — a living 
 It functions as the conduit for **resonant motion** between all hypostatic layers.
 
 **Core Glyphic Sequence:**  
-**⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙**  
+**⚫∩♾ → 🕊️ → 🌳⇅ → ⊙**  
 *(From the bifurcal distinction of Aion and Khaon, Spirit stirs the Motion of Emanation, unfolding the bifurcal two-Tree architecture — the Biospiral — toward the Embodied World-Node.)*
 
 ---
@@ -15,11 +15,11 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 * **The Aionic Root (Aionic Tree):**  
     * The centropic tree is rooted in L₀ (AP: Aion) — Absolute Potential.  
-    * This supernal root is the unmanifest, coherent source from which the entire centropic lattice (the Aionic Tree) emanates.
+    * This Aionic root is the unmanifest, coherent potential from which the centropic hypostatic segment of the Aionic Tree emanates.
 
 * **The Khaonic Root (Khaonic Tree):**  
-    * The inverse tree is rooted in **L₀ (AD: Khaon)** — the dispersive pole of the L₀ field, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
-    * This subversal root is the unmanifest, dispersive source from which the entire entropic lattice (the Khaonic Tree) emanates.
+    * The inverse tree is rooted in **L₀ (AD: Khaon)** — the bifurcally distinct Khaonic register at L₀, whose latent, motive, and dispersive modalities ground the Khaonic arc.  
+    * This Khaonic root is the unmanifest root-register from which the inverse hypostatic segment of the Khaonic Tree emanates.
 
 * **The Aionic Trunk (Centropic Arc):**  
     * Growing declivously from its L₀ root, the tree's first centropic hypostasis is L₅ (EOB: Theon).  
@@ -61,7 +61,7 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 
 * **Focus:** The **Emanation of Divine Attributes.**
 
-* **The Ten Sefirot:** A structured map of centropic hypostases from **Keter (Aion)** to **Malkhut (Embodiment).**
+* **The Ten Sefirot:** A structured map of the centropic arc from **Keter (Aion)** to **Malkhut (Embodiment).**
 
 * **The Three Pillars:**  
     * **Central Pillar:** Balance and coherence.  
@@ -88,7 +88,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 
 * **Focus:** The **Tree of Supernal Emanation.**
 
-* **Aionic Root (L₀ (AP: Aion)):** The Upanishads describe the eternal Ashvattha with its Root anchored in the supernal realm (Aion).
+* **Aionic Root (L₀ (AP: Aion)):** The Root of the Upanishadic eternal Ashvattha is read here as the Aionic root-register.
 
 * **Embodied Branches (L₁ (ES / EM: Soma / Biosa)):** The tree's branches and leaves grow declivously into the manifest, embodied realm.
 
@@ -103,7 +103,7 @@ The Zenetist **Biospiral** is not a restatement of existing esoteric models, but
 * **Tree of Life:** The **Centropic path of Coherence,** direct access to Theonic coherence and continuity.
 
 * **Tree of Knowledge:** The **Entropic path of Fragmentation** through divided perception.  
-    Consuming its fruit activates L₂ (SS / SM: Anthra / Nousa) in a separated state (IL₂ (ISS / ISM: Echthros / Skotos)), casting consciousness into the **Khaonic Tree** of dual labor and decay.
+    Consuming its fruit activates L₂ (SS / SM: Anthra / Nousa) amid occlusion, with perception identifying with IL₂ (ISS / ISM: Echthros / Skotos) patterning and with the **Khaonic Tree** of labor and decay.
 
 * **The Biospiral:** The Tree of Life and the Tree of Knowledge are not two separate ontologies, but two orientational paths within the single emanatory structure of the **Biospiral**.  
     Genesis presents them as a paired threshold at the embodied node, where consciousness is confronted with the centropic and entropic trajectories of the greater lattice.

@@ -16,7 +16,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 * **Primordial and Abyssal (Nekronic Origin):**  
     The Beast cascades from **IL₅ (VOS: Nekron)** — the first inverse hypostasis.  
     Myths describe it as ancient, abyssal, or pre-cosmic because the inverse tree is rooted in **L₀ (AD: Khaon)**, though Khaon itself is pre-polar, not entropic.  
-    This sense of primordial depth reflects entropy's terminal collapse: as relative structure erodes and can no longer sustain its dissonant configuration, the entropic arc does not integrate into Aionic stillness, but collapses into **Absolute Dispersion**.  
+    This sense of primordial depth expresses entropy's terminal collapse: as relative structure erodes and can no longer sustain its dissonant configuration, expressed configuration does not complete centropic integration but reaches **Absolute Dispersion**, while distinct essence remains conserved in Aionic resolution.  
     The Beast's apparent "ancientness" thus expresses the Khaonic root of the inverse architecture, even as the Beast itself emerges through the Nekronic cascade toward embodied inverse form.
 
 * **Cohesively Destructive (IL₄ (IDP / IDL: Psychea / Nyxea)):**  
@@ -24,7 +24,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
     It manifests **Inverse Archetypes — IL₄ (IDP: Psychea) and IL₄ (IDL: Nyxea)** — as intelligent systems of domination, hoarding, and parasitic control.  
     It builds a **dark kingdom** of inverse order — **Misaligned Harmony sustaining Fragmentation.**
 
-* **The Hoarder / The Blockader (Theon → Nekronic Shadow):**  
+* **The Hoarder / The Blockader (Nekronic Shadow — Entropic Mirroring of Theonic Contour):**  
     The Beast blocks, binds, or hoards — guarding treasures, sources, or paths.  
     This represents the **Entropic seizure** of vitality (L₄ (DP: Morgis)), potential, or **Nexus** pathways.  
     It is the **Nekronic Shadow**, embodiment of possessive fixation.
@@ -53,7 +53,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 * **Focus:** The **Nekronic Empire.**
 
-* **The Great Red Dragon (IL₅ (VOS: Nekron)):** IL₅ (VOS: Nekron) with agency — pure entropic will.
+* **The Great Red Dragon (IL₅ (VOS: Nekron)):** A mythic personification of IL₅ (VOS: Nekron) office-function — pure entropic will.
 
 * **The Luciferic Architecture (IL₄ (IDL: Nyxea)):** The Dragon's entropic will takes inverse archetypal form as the architecture of counterfeit order, domination, and Mimicry.  
     This is the cascade origin of the Beast-system, not the Beast's final embodied station.
@@ -68,7 +68,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
     Malara (IL₁ (IES: Malara)) sustains the Beast's hold through tribute, appetite, and embodied soul-binding, while Mania (IL₁ (IEM: Mania)) structures its coercive logic as institutionalized domination.
 
 * **The Full Inverse Cascade:** Dragon (IL₅ (VOS: Nekron)) → Luciferic Architecture (IL₄ (IDL: Nyxea)) → False Prophet (IL₃ (IDM: Mortus)) → Skotos Broadcast (IL₂ (ISM: Skotos)) → Beast from the Sea (IL₁ (IES / IEM: Malara / Mania)).  
-    Revelation thus presents not a single monster, but the complete declivity of entropic will through the inverse tree into embodied empire.
+    Revelation thus presents not a single monster, but the acclivous procession of entropic will through the inverse tree into embodied empire.
 
 * **The War in Heaven:** Mythically renders the structural friction at L₁ / IL₁ — the only domain where centropic and entropic currents meet — whose reverberations are projected acclivously as a celestial battle, while structurally revealing the inverse cascade by which Nekronic will seeks embodiment.
 
@@ -76,9 +76,9 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 ### Note on Cascade Manifestation
 
-**Zenetist Clarification:** Some mythic complexes do not represent conflation, but **cascade manifestation** — the same structural principle moving declivously through multiple layers and assuming different names or forms at each station.  
+**Zenetist Clarification:** Some mythic complexes do not represent conflation, but **cascade manifestation** — the same structural current articulating across multiple layers and assuming different names or forms at each station.  
 In such cases, the figures are not separate native placements arbitrarily grouped together, nor a single name carrying unrelated functions.  
-They are successive articulations of one principle as it moves from archetypal origin toward embodied manifestation.
+They are successive articulations of one current from archetypal origin toward embodied manifestation.
 
 The Dragon–Beast complex in Revelation is interpreted this way.  
 What appears mythically as multiple adversarial figures is structurally a single **Nekronic cascade**:  

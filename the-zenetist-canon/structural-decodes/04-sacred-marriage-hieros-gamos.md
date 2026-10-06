@@ -27,7 +27,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
     It is the tangible proof of **successful synthesis.**
 
 * **The Integrated Kingdom:** The state of **Structural Coherence** achieved when the structuring principles resonate in alignment.  
-    The world becomes fertile, peaceful, and balanced because the ordering structures operate in harmonic attunement.  
+    The world becomes fertile, peaceful, and dynamically stabilized because the ordering structures operate in harmonic attunement.  
     This represents a system functioning at optimal **Centropic efficiency.**
 
 ---
@@ -63,7 +63,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 ### 3. The Church & Christ (Christian Mysticism)
 
-* **Focus:** The **Theonic Union** of Source and Soul-Collective.
+* **Focus:** The **Theonic Communion** with the Soul-Collective.
 
 * **The Church (L₃ (DS: Archeus) collective):** The Bride, representing the integrated Deep Soul of humanity — the Centropic Stewards in embodiment.
 

@@ -147,7 +147,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
 
 * **Centropic Functions:** Custodian of the **Membrane** between realms and choices.  
     Invoked first in ritual to open **Nexus** to other archetypes (L₄ (DP / DL: Morgis / Sophis)).  
-    His lessons often restore balance and justice.
+    His lessons often restore dynamic stabilization and justice.
 
 * **Entropic Functions:** When disregarded, he produces confusion, conflict, and obstruction — acting as an **Entropic Pull** within the life field.  
     These effects, however, are corrective pressures emerging from violated alignment, not evidence of a native inverse essence.

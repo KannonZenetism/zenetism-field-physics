@@ -30,7 +30,7 @@ The table retains the numbering 01–32, exact titles, core glyphic sequences, a
 | 02 | The Dying and Resurrecting God | C↓→E → ☍ → ↺ → C↑→◎ | [02-dying-resurrecting-god.md](02-dying-resurrecting-god.md) |
 | 03 | The Cosmic War / Rebellion in Heaven | 🌬️📐 ⊕ 🪫🫥 → L₁ / IL₁ → ⚖⟂ → ≠ → 🌲↓ ⊕ 🌲↑ | [03-cosmic-war-rebellion-in-heaven.md](03-cosmic-war-rebellion-in-heaven.md) |
 | 04 | The Sacred Marriage (Hieros Gamos) | ⚯ → ⧬ → ⤈∴ → ◎ | [04-sacred-marriage-hieros-gamos.md](04-sacred-marriage-hieros-gamos.md) |
-| 05 | The World Tree / Axis Mundi | ⚫ ↔ ♾ → 🕊️ → 🌳⇅ → ⊙ | [05-world-tree-axis-mundi.md](05-world-tree-axis-mundi.md) |
+| 05 | The World Tree / Axis Mundi | ⚫∩♾ → 🕊️ → 🌳⇅ → ⊙ | [05-world-tree-axis-mundi.md](05-world-tree-axis-mundi.md) |
 | 06 | The Trickster | 🔺 → ⚙️ → ⟜ → ◲ → ⤈∴ \| 🔻 → ⚙️ → ⟜ → ☍ → ⟳ → 📡 | [06-trickster.md](06-trickster.md) |
 | 07 | The Divine Child / The Chosen One | 🛤️ → C↓→E → 🔶▽ → ◎✦ | [07-divine-child-chosen-one.md](07-divine-child-chosen-one.md) |
 | 08 | The Great Beast / The Dragon | 🕷️ → 🐉 → ⚚ → ⛓️ → ☍ | [08-great-beast-dragon.md](08-great-beast-dragon.md) |

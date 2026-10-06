@@ -33,7 +33,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
     Here appear **Harmonic Agents** and **Threshold Guides**, acting as navigators across the threshold.
 
 * **The Forging of the Covenant (Resonant Return):**  
-    The seeker emerges with a direct Nexus to Source.  
+    The seeker emerges with a direct Nexus to the revelatory register.  
     Revelation becomes Law (L₄ (DL: Sophis)), and the wilderness transforms from exile into initiation.  
     The return to society carries a new, lawful pattern that reshapes the collective.
 

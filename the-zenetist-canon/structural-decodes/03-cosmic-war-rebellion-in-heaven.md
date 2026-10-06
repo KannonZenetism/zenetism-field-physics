@@ -17,9 +17,9 @@ The opposition is real — but its theatre is embodiment, not the archetypal dom
 
 This decode does not describe the L₀ (AP / AD: Aion / Khaon) bifurcation.  
 L₀ is **Bifurcal Coherence** — the pre-polar, non-fused co-presence of Absolute Potential and Absolute Dispersion.  
-The distinction between **L₀ (AP: Aion)** and **L₀ (AD: Khaon)** is therefore nominative and structural, not yet a fully actualized duality within emanated reality.  
+The distinction between **L₀ (AP: Aion)** and **L₀ (AD: Khaon)** is bifurcal and structural, with no polarity or axis between the roots.  
 It is not a war, not a tension, and not a conflict.  
-The bifurcal distinction of Aion and Khaon is not an event within emanated reality but the structural precondition of emanation itself, resolved through Motive Infinity and the Principle of Sufficient Reason.  
+The bifurcal distinction of Aion and Khaon is not an event within emanated reality but the structural precondition of emanation itself, expressed through Motive Infinity and the Principle of Sufficient Reason.  
 The "Cosmic War" myths narrate something experienced within emanated reality — not the origin of **SI: Structon**, nor the pre-emanative conditions of **L₀ (AP / AD: Aion / Khaon)**.
 
 ---
@@ -41,7 +41,7 @@ L₄ is the layer of **conscious-awareness** — the Forms proper to it possess 
 They structure the subsequent layers of reality and are aware of inverse influence reverberating back through the embodied medium.  
 However, this awareness is not direct spatial or physical contact with IL₄.  
 The centropic and inverse archetypal realms operate on independently emanated trees.  
-Their closest proximity is pre-emanation at L₀ (Bifurcal Coherence) and at the L₁ / IL₁ meeting point (embodiment).  
+Their roots are co-present at L₀ (Bifurcal Coherence); their embodied expressions meet at the L₁ / IL₁ meeting point (embodiment).  
 At all other strata, there is no direct contact — only the structural influence each tree exerts through the embodied field and the reverberation of that influence back toward its archetypal register.
 
 Some tension may be felt within the archetypal realm itself — a sense that the universal cycle at L₁ / IL₁ remains unresolved, that inverse currents are shaping embodied reality in ways that resist centropic patterning.  
@@ -84,7 +84,7 @@ But this remains individually achieved integration, not illicitly distributed co
 * **The Cause of "Rebellion":**  
     Expressed mythically as "desire for a throne," "refusal to bow," or "claiming equality with Source."  
     Structurally, this is the Mimicry of Theonic coherence or the Shimmer of Sophic creativity detached from Aionic resonance.  
-    It is the Structuring Logos Principle inverted into its mirror form — Nyxea replicating the pattern of Sophis without its centropic ground.  
+    Nyxea is the independently emanated inverse counterpart of the Structuring Logos Principle, mirroring the pattern of Sophis without its centropic ground.  
     The mythic narrative of rebellion is the embodied experience of this mimicry rendered as story.
 
 * **The "Casting Out":**  

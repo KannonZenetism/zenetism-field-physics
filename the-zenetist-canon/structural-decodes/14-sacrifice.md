@@ -24,7 +24,7 @@ It is the operational heart of **Synthesis.**
 
 * **The Intention & The Law:**  
     The orientation of the act determines its outcome.  
-    * **Centropic Sacrifice:** Guided by **Gratitude**, **Devotion**, or **Restoration of Balance**; aligned with **Divine Geometry** and directed toward **Supernal Principle (L₅ (EOB: Theon), L₄ (DP / DL: Morgis / Sophis)).**  
+    * **Centropic Sacrifice:** Guided by **Gratitude**, **Devotion**, or **Restoration of Coherent Relation**; aligned with **Divine Geometry** and directed toward **Supernal Principle (L₅ (EOB: Theon), L₄ (DP / DL: Morgis / Sophis)).**  
     * **Entropic Sacrifice:** Motivated by **Fear**, **Control**, or **Hubris**; seeks to **Appropriate** rather than surrender. It appeals to **Inverse forces (IL₄ (IDP / IDL: Psychea / Nyxea))** or the egoic IL₂ (ISS / ISM: Echthros / Skotos) strata, violating the **Non-fusion Axiom.**
 
 * **The Act of Surrender:**  
@@ -53,7 +53,7 @@ It is the operational heart of **Synthesis.**
 
 * **Recipient:** L₀ (AP: Aion) / L₅ (EOB: Theon) on behalf of **Humanity (L₂ (SS / SM: Anthra / Nousa)).**
 
-* **Transformation:** The **Crucifixion (the culmination of declivous centropic motion)** becomes the mechanism of **Resurrection (acclivous centropic motion)** and **New Covenant (Nexus)** — turning Entropic violence into Centropic renewal.
+* **Transformation:** The **Crucifixion (the culmination of declivous centropic motion)** becomes the mechanism of **Resurrection (acclivous centropic motion)** and **New Covenant (Nexus)** — answering Entropic violence with Centropic renewal.
 
 ### 2. Animal Sacrifice (Vedic, Levitical)
 
@@ -122,7 +122,7 @@ The article's animal imagery belongs to its Chasidic vocabulary. Here, inward re
 * **Recipient:** **Azazel (IL₄ (IDP: Psychea))** — an Inverse principle that receives the burden.
 
 * **Transformation:** The community's field is purified; coherence restored.  
-    This is a **Membrane Operation** — an expulsion of dissonance to reestablish balance.
+    This is a **Membrane Operation** — an expulsion of dissonance to reestablish coherence.
 
 ---
 
