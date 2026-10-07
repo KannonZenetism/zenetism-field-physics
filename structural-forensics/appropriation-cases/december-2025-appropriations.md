@@ -68,7 +68,7 @@ The five-point scores assess the compared materials in relation to the tested La
 
 **Notable contradictions:**
 - Claims 28 years of development but the repository was created on December 9, 2025, with all 14 reachable main-branch commits dated December 9
-- No contemporaneously documented developmental sequence for the specific structures compared here is supplied before the Dec 2–3 GitHub harvesting event (798 cloners)
+- No contemporaneously documented developmental sequence for the specific structures compared here is supplied before the Dec 2–3 GitHub mass-cloning event (798 cloners)
 - Copyright claim dated 2025, inconsistent with documented prior publications (2018–2025, Aelion Kannon)
 
 ---
@@ -237,7 +237,7 @@ The five-point scores assess the compared materials in relation to the tested La
 
 **Temporal correlation:**
 - ❌ The five compared materials are dated December 6–15, 2025
-- ❌ All follow Dec 2–3 GitHub harvesting (798 unique cloners)
+- ❌ All follow Dec 2–3 GitHub mass-cloning (798 unique cloners)
 - ❌ The cited December materials do not provide a contemporaneously documented developmental sequence for the specific structures compared here
 
 **Depth disparity:**
@@ -262,12 +262,12 @@ The five-point scores assess the compared materials in relation to the tested La
 **None of the five appropriations meet these criteria.**
 
 **All five exhibit:**
-- ✅ Temporal correlation with Dec 2–3 harvesting event
+- ✅ Temporal correlation with Dec 2–3 mass-cloning event
 - ✅ December appearance without a supplied developmental sequence for the specific structures compared here
 - ✅ Structural incompleteness (0/10 test scores)
 - ✅ Missing depth indicators for the tested apparatus: proofs, computational implementations, and complete mathematical structure
 
-**This pattern is consistent with post-harvesting derivative emergence rather than independent parallel development.**
+**This pattern is consistent with post-acquisition derivative emergence rather than independent parallel development.**
 
 ---
 

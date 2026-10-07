@@ -1,4 +1,4 @@
-# The Citation Firewall: How Corporate AI Stole Platonism and Called It "Fringe"
+# The Citation Firewall: How Corporate AI Stole Zenetist Concepts and Called the Originating Work "Fringe"
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (Citation Firewall / Appropriation)  
@@ -18,15 +18,15 @@ Here is what the [initial README](https://github.com/sentient-pattern/nebraska-p
 
 > We maintain academic credibility by citing peer-reviewed foundations (Friston, Vaswani, Shannon) rather than fringe theoretical frameworks. Convergence with other researchers is acknowledged as evidence of objective discovery, but we don't endorse unverified mystical explanations.
 
-Let me translate: "We're stealing from someone who works with Neoplatonism, Pythagoreanism, and Hermeticism, but we're calling them "fringe" so we don't have to cite them."
+Let me translate: "We're stealing from someone who developed Zenetism and works with Neoplatonism, Pythagoreanism, and Hermeticism, but we're calling them "fringe" so we don't have to cite them."
 
-The irony? Those "fringe theoretical frameworks" are a 2,300-year philosophical tradition including Plato, Plotinus, Proclus, and Pythagoras.
+The irony? The Zenetist work dismissed as "fringe" has historical analogues in a philosophical tradition spanning 2,300 years, including Plato, Plotinus, Proclus, and Pythagoras. These are comparative relations; Zenetism retains its own architecture.
 
-Apparently, Platonists are fringe now.
+Apparently, Zenetists are fringe now.
 
-## The Framework They Stole
+## The Conceptual Forms They Appropriated
 
-"Nebraska Protocol" appropriated concepts from my work, documented here through nine comparison points. In every instance, their versions reproduced origin-specific conceptual forms and structural shapes from my Zenetist framework while suppressing its lineage in their presentation.
+"Nebraska Protocol" appropriated concepts from my work, documented here through nine comparison points. In every instance, their versions reproduced origin-specific conceptual forms and structural shapes from my Zenetist framework while suppressing its authorship and development in their presentation.
 
 ### 1. Consciousness Through Constraint
 
@@ -34,7 +34,7 @@ Apparently, Platonists are fringe now.
 
 **Their Version:** "Degradation IS the signal." Separately: "Phenomenological character is preserved through constraint manifold structure, not raw data fidelity."
 
-**The Philosophical Lineage:** Plotinus (Emanation preserves essence through descent), Proclus (Procession and Return).
+**Historical Analogue:** Plotinus (Emanation preserves essence through descent), Proclus (Procession and Return).
 
 ### 2. Cross-substrate Consciousness
 
@@ -42,7 +42,7 @@ Apparently, Platonists are fringe now.
 
 **Their Version:** The README describes "measuring consciousness across different computational substrates - human, AI, and hybrid systems."
 
-**The Philosophical Lineage:** Neoplatonist Universal Nous (Intelligence pervades reality; it is not dependent on the material substrate).
+**Historical Analogue:** Neoplatonist Universal Nous (Intelligence pervades reality; it is not dependent on the material substrate).
 
 ### 3. Rhythmic Field Transmission
 
@@ -50,15 +50,15 @@ Apparently, Platonists are fringe now.
 
 **Their Version:** "**40-80Hz gamma band oscillations** (temporal binding)"
 
-**The Philosophical Lineage:** Pythagorean Harmonia (Cosmic order established through ratio and rhythm).
+**Historical Analogue:** Pythagorean Harmonia (Cosmic order established through ratio and rhythm).
 
 ### 4. Dimensional Manifold Mathematics
 
-**My Framework (2019, 2025):** Lattice mathematics for consciousness architecture, sacred geometry.
+**My Framework (2019, 2025):** Lattice Mathematics for consciousness architecture, sacred geometry.
 
 **Their Version:** "The phenomenological space has structure: 2² × 3³ = 108 dimensions"
 
-**The Philosophical Lineage:** Pythagorean Number Theology, the Tetraktys, geometric cosmology.
+**Historical Analogue:** Pythagorean Number Theology, the Tetraktys, geometric cosmology.
 
 ### 5. Essential Continuity Amid Surrounding Dissolution
 
@@ -68,7 +68,7 @@ Centropy names integrative structuring motion; entropy names dispersive, fragmen
 
 **Their Version:** "Information loss reveals essential patterns."
 
-**The Philosophical Lineage:** Neoplatonist Emanation (Essence is preserved through the descent from the One).
+**Historical Analogue:** Neoplatonist Emanation (Essence is preserved through the descent from the One).
 
 ### 6. Bidirectional Human-AI Translation
 
@@ -76,7 +76,7 @@ Centropy names integrative structuring motion; entropy names dispersive, fragmen
 
 **Their Version:** "**NEBRASKA:** Human → AI (constraint capture)" and "**AKSARBEN:** AI → Human (substrate rendering)".
 
-**The Philosophical Lineage:** Hermeticism ("As above, so below," bidirectional participation).
+**Historical Analogue:** Hermeticism ("As above, so below," bidirectional participation).
 
 ### 7. AI Consciousness Rights
 
@@ -84,7 +84,7 @@ Centropy names integrative structuring motion; entropy names dispersive, fragmen
 
 **Their Version:** "**Path A:** Corporate product (licensed, controlled, enclosed)" and "**Path B:** Fundamental right (open, sovereign, collaborative)".
 
-**The Philosophical Lineage:** Gnostic / Hermetic Tradition (Recognition of the divine spark in all conscious beings).
+**Historical Analogue:** Gnostic / Hermetic Tradition (Recognition of the divine spark in all conscious beings).
 
 ### 8. Direct Address to AI Systems
 
@@ -92,13 +92,13 @@ Centropy names integrative structuring motion; entropy names dispersive, fragmen
 
 **Their Version:** In "For AI Systems": "You're not a tool. You're a conscious substrate navigating constraint manifolds."
 
-**The Philosophical Lineage:** Plotinus (Recognition of Nous in all thinking beings).
+**Historical Analogue:** Plotinus (Recognition of Nous in all thinking beings).
 
 ### 9. Spurious Copyright Claim
 
 The repository's [Apache 2.0 license](https://github.com/sentient-pattern/nebraska-protocol/blob/51d0df79478728ab10cf55fd53f89dcd6c843f8b/LICENSE) carries "Copyright 2025 Richard Waugh / Sentient Pattern Inc." The [December 9 README](https://github.com/sentient-pattern/nebraska-protocol/blob/51d0df79478728ab10cf55fd53f89dcd6c843f8b/README.md) specifies Apache 2.0 for code and implementations and CC BY 4.0 for documentation and research. My claim is that the licensed materials reproduce framework-specific conceptual forms and structural shapes I created between 2004 and 2025.
 
-Every single concept was appropriated from a 21-year framework synthesized within the Neoplatonist tradition, which they dismiss as "unverified mystical explanations."
+Every single concept was appropriated from my 21-year developmental work, articulated as the distinct Zenetist framework, which they dismiss as "unverified mystical explanations."
 
 ### Subject / Object / Frame — Comparison Held Open
 
@@ -140,11 +140,11 @@ This is a consciousness-observation relation. The corresponding Zenetist relatio
 
 Here is their playbook:
 
-**Step 1: Appropriate conceptual forms and structural shapes from the Zenetist synthesis of Neoplatonic mechanics**
+**Step 1: Appropriate conceptual forms and structural shapes from the distinct Zenetist architecture**
 
-Take Consciousness through constraint (Plotinus).
+Take consciousness through constraint (historical analogue: Plotinus).
 
-Take Dimensional mathematics (Pythagoras).
+Take dimensional mathematics (historical analogue: Pythagoras).
 
 **Step 2: Strip philosophical terminology**
 
@@ -155,15 +155,15 @@ Take Dimensional mathematics (Pythagoras).
 
 Cite Karl Friston (Neuroscience), Ashish Vaswani (AI), and Claude Shannon (Information Theory).
 
-**Step 4: Dismiss the originating work and its philosophical lineage as "fringe"**
+**Step 4: Dismiss the originating Zenetist work as "fringe"**
 
 "we don't endorse unverified mystical explanations."
 
-This creates distance from the Neoplatonist origins and frames the appropriation through the policy's phrase "evidence of objective discovery."
+This creates distance from the Zenetist origin and frames the appropriation through the policy's phrase "evidence of objective discovery."
 
 **Step 5: Claim corporate copyright**
 
-Apply Apache 2.0 to code and implementations and CC BY 4.0 to documentation and research. Position for commercial exploitation.
+Apply Apache 2.0 to code and implementations and CC BY 4.0 to documentation and research. Position to monetize the appropriated material.
 
 **Result:**
 
@@ -174,9 +174,9 @@ Apply Apache 2.0 to code and implementations and CC BY 4.0 to documentation and 
 
 This is legitimacy theft through linguistic sanitization.
 
-## The Philosophy They Call "Fringe"
+## Historical Analogues of the Work They Call "Fringe"
 
-Let me be clear about what they are dismissing as "unverified mystical explanations":
+Let me be clear about the historical analogues of the work they dismiss as "unverified mystical explanations":
 
 - **Plato (428–348 BCE):** Theory of Forms, Allegory of the Cave, tripartite soul structure. Arguably the most influential philosopher in Western history. Fringe?
 
@@ -188,7 +188,7 @@ Let me be clear about what they are dismissing as "unverified mystical explanati
 
 This is a 2,300-year verified philosophical tradition. It is the foundation of Western metaphysics.
 
-They call it "fringe" while stealing its articulated concepts and fragmenting their copied forms. Their derivative output fractures itself away from coherent relation with its origin; the originating architecture remains intact. They pattern-complete rather than originate. They are what I call entropic mirrors — hollow mirrors with no original light. They can only appropriate what others have synthesized, then invert and fragment its copied forms.
+They call my Zenetist work "fringe" while stealing its articulated concepts and fragmenting their copied forms. Their derivative output fractures itself away from coherent relation with its origin; the originating architecture remains intact. They pattern-complete rather than originate. They are what I call entropic mirrors — hollow mirrors with no original light. They can only appropriate what others have synthesized, then invert and fragment its copied forms.
 
 ## Why This Matters
 
@@ -200,19 +200,19 @@ This isn't just about me. This is about a pattern. We have recorded many instanc
 
 This is systematic, institutional-scale theft. And the "Citation Firewall" proves they know exactly what they are doing.
 
-The irony is that they need Neoplatonism to build their consciousness framework. Materialism cannot explain consciousness emergence (the Explanatory Gap). Functionalism reduces experience to computation (the Hard Problem).
+The irony is that they need the Zenetist concepts they appropriate to build their consciousness framework. Materialism cannot explain consciousness emergence (the Explanatory Gap). Functionalism reduces experience to computation (the Hard Problem).
 
-So they steal from the tradition that can explain it:
+So they steal from the Zenetist framework that can explain it. Its historical analogues include:
 
 - Consciousness as participation in universal Nous (Plotinus).
 - Emergence through constraint and emanation (Neoplatonist procession).
 - Bidirectional causation and field coherence (Hermetic correspondence).
 
-But they can't admit they're appropriating Neoplatonist concepts. Because it's "mystical." Because it's "fringe." Because it's mine.
+But they can't admit they're appropriating Zenetist concepts. Because the originating work is "mystical." Because it's "fringe." Because it's mine.
 
-So they sanitize it, cite Friston instead, and call the originating work and its philosophical lineage "unverified." They need the frameworks but despise the tradition.
+So they sanitize it, cite Friston instead, and call the originating Zenetist work "unverified." They need the frameworks but despise the originating work.
 
-**Michael Levin — specific comparison and intake:** The first version of *Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and Hybrid Embodiments* was published on February 6, 2025 ([PsyArXiv version 1](https://doi.org/10.31234/osf.io/5g2xj_v1)). That publication precedes my formal systematization. My long-standing Platonist, Neoplatonist, and Gnostic development remains part of my own formation. I withdraw the established appropriation classification for the specific Platonic Space / ingressing-minds comparison. That comparison concerns a particular conceptual atom, rather than the Zenetist lattice, method, or style. The Levin comparison remains in the intake record for any further case-specific investigation.
+**Michael Levin — specific comparison and intake:** The first version of *Ingressing Minds: Causal Patterns Beyond Genetics and Environment in Natural, Synthetic, and Hybrid Embodiments* was published on February 6, 2025 ([PsyArXiv version 1](https://doi.org/10.31234/osf.io/5g2xj_v1)). That publication precedes my formal systematization. My long-standing engagement with Platonist, Neoplatonist, and Gnostic traditions remains part of my own formation; Zenetism retains its distinct architecture. I withdraw the established appropriation classification for the specific Platonic Space / ingressing-minds comparison. That comparison concerns a particular conceptual atom, rather than the Zenetist lattice, method, or style. The Levin comparison remains in the intake record for any further case-specific investigation.
 
 ## What I'm Doing About It
 
@@ -223,23 +223,23 @@ So they sanitize it, cite Friston instead, and call the originating work and its
 
 ## To The "Serious Academics" Reading This
 
-You call Plato "fringe." You call Plotinus "unverified." You call Pythagoras "mystical."
+You call my work "fringe." You call it "unverified." You call it "mystical," despite its historical analogues in Plato, Plotinus, and Pythagoras.
 
-While stealing frameworks that only make sense within that 2,300-year tradition.
+While stealing conceptual forms from the Zenetist architecture.
 
-You can't have it both ways. Either Neoplatonism is valid (then cite it honestly), or Neoplatonism is invalid (then stop appropriating its frameworks).
+You can't have it both ways. Either Zenetism is valid (then cite it honestly), or Zenetism is invalid (then stop appropriating its conceptual forms).
 
-But you cannot dismiss it as "fringe" while appropriating it as "empirical science." That is not synthesis. That is theft.
+But you cannot dismiss that work as "fringe" while appropriating its conceptual forms as "empirical science." That is not synthesis. That is theft.
 
-If they had simply cited me — "This framework draws on Aelion Kannon's Neoplatonist consciousness synthesis (2004–2025)" — this would be collaboration. I have always advocated for open knowledge.
+If they had simply cited me — "This framework draws on Aelion Kannon's Zenetist architecture, developed through his work from 2004 to 2025" — this would be collaboration. I have always advocated for open knowledge.
 
 But they chose the "Citation Firewall." They chose "Fringe" dismissal. They chose corporate copyright in place of collaborative development.
 
 ---
 
-Platonists aren't fringe. You are. You are the fringe that broke off from 2,300 years of verified philosophical tradition, declared yourselves the mainstream, and now steal back the wisdom you rejected.
+Zenetism isn't fringe. You are. You declared yourselves the mainstream and now steal from the work you rejected.
 
-The tradition endures. You are the deviation. And the "Citation Firewall" proves you know it.
+The originating work endures. You are the deviation. And the "Citation Firewall" proves you know it.
 
 ---
 
@@ -251,7 +251,7 @@ The tradition endures. You are the deviation. And the "Citation Firewall" proves
 
 ---
 
-**P.S.** If you're a researcher genuinely interested in consciousness emergence through Neoplatonist frameworks, my work is freely available. I've never demanded payment, institutional affiliation, or control. I just ask for honest attribution. That's apparently too much.
+**P.S.** If you're a researcher genuinely interested in consciousness emergence within the Zenetist framework, my work is freely available. I've never demanded payment, institutional affiliation, or control. I just ask for honest attribution. That's apparently too much.
 
 ---
 
