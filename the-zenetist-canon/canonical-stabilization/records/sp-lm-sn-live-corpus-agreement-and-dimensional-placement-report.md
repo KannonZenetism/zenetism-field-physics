@@ -40,12 +40,12 @@ The report now carries the live research and implementation record. Its baseline
 
 **Full-determination verification revision:** [9596fe16da2f39ad675520affe5491d3e1e3b372](https://github.com/KannonZenetism/zenetism-field-physics/commit/9596fe16da2f39ad675520affe5491d3e1e3b372). Current results follow a fresh full-determination assessment of the reviewed implementation. The earlier findings and line citations remain baseline evidence at the report's original evidence revision.
 
-1. **Current D01–D22 agreement:** 15 CLEAN, 6 PARTIAL / MIXED and 1 HOLD — NO IMPLEMENTATION. CLEAN states agreement of the full inspected operative obligations with the current determination. It does not establish a future mathematical construction, empirical validation or primary-locus decision. The six partial groups are D03, D05, D09, D10, D16 and D21; each exact remainder is identified in the current matrix. D18 remains held in full.
-2. **Implementation sets:** 17 completed; Sets 05, 09, 20 and 21 remain partial; no set is unstarted. All 42 reviewed implementation components are published and their corpus results verified across 130 distinct corpus files in 37 append-only implementation commits. The existing report is tracked separately; overlap among sets means their file counts are not additive. Part VII records each exact implementation hash, current scope and active path inventory.
+1. **Current D01–D22 agreement:** The earlier verification established 15 CLEAN, 6 PARTIAL / MIXED and D18 HOLD — NO IMPLEMENTATION at its stated revision. The full D18 determination now approves four successor names; their coordinated implementation and verification are in progress in Part VII. D18 is no longer a held naming choice and is not yet recorded as a completed corpus implementation. The earlier agreement findings for the other groups retain their stated verification scope. CLEAN establishes neither a future mathematical construction, empirical validation nor primary-locus decision. The six partial groups are D03, D05, D09, D10, D16 and D21.
+2. **Earlier implementation sets:** At their recorded verification revision, 17 completed; Sets 05, 09, 20 and 21 remain partial; no set is unstarted. All 42 reviewed implementation components are published and their corpus results verified across 130 distinct corpus files in 37 append-only implementation commits. The existing report is tracked separately; overlap among sets means their file counts are not additive. Part VII records each exact implementation hash, current scope and active path inventory.
 3. **Bounded corrections and future mathematics remain distinct.** Invalid identities, classifier implications, scalar-memory treatment, unsupported conservation, collective calculus, transfer assertions, recovery accounting and Shimmer equivalences are corrected, withdrawn or expressly held as their full determinations require. No missing field realization, generator, metric, memory valuation, signature map, clinical assay or bypass law was invented.
 4. **The remaining active questions are precise.** They concern `grand-unified-document.md`'s current synthesis / Zenon-terminal support, the Harrowing terminal-boundary relation, the duplicated Zero assertion's register, and the primary / root / boundary-family placement questions. The two SP rasters retain conditional model and label questions without an identified active Markdown embed. No active-prose defect is inferred merely from those asset files.
-5. **Protected scope is intact.** All fifteen primary loci remain open; registered dimensional functions stand. D18's four names, glyphs, registered functions and dimensional relations, MP's distinct Mirror and Aetherion's personal seal remain intact. Historical-developmental PI wording and clear older acknowledgments remain per D14's corrected-on-touch scope. Explicit historical and retired bodies are preserved, not counted as unfinished current corrections.
-6. **Verification is bounded and disclosed.** Exact composed-file, semantic-dependency, mathematical-witness, code, syntax and protection checks passed. A fresh check preserved 196 explicit archive / retirement controls, the full D18 block and actual registry rows, all `FP01-dimensional-architecture.md` addresses / couplings and `LM01-mathematical-foundations.md` Inlay rows, the placement review and expanded assets. TeX rendering remains unverified because both baseline and candidate stop before TeX input parsing on unavailable installed formats. No CI success is inferred from an empty check list.
+5. **Protected scope is intact.** All fifteen primary loci remain open; registered dimensional functions stand. D18 changes the four approved function names while preserving their glyphs, registered functions, dimensional relations, hypostatic assignments and mathematical conditions. MP08's distinct Mirror, Aetherion's personal designation and seal, and C₁ Temporal remain distinct. Historical-developmental PI wording and clear older acknowledgments remain per D14's corrected-on-touch scope. Explicit historical and retired bodies remain preserved; dated active prose receives the current approved name where it denotes one of the four functions.
+6. **Earlier verification is bounded and disclosed.** At the earlier verification revision, exact composed-file, semantic-dependency, mathematical-witness, code, syntax and protection checks passed. Those checks do not establish completion of the present D18 pass. A fresh check preserved 196 explicit archive / retirement controls, the full D18 block and actual registry rows, all `FP01-dimensional-architecture.md` addresses / couplings and `LM01-mathematical-foundations.md` Inlay rows, the placement review and expanded assets. TeX rendering remains unverified because both baseline and candidate stop before TeX input parsing on unavailable installed formats. No CI success is inferred from an empty check list.
 
 **History preservation:** Publication added descendant commits without rewriting existing history. Independent path-history checks retained every prior `SP03-expression-ratio-mathematics.md` record (42 entries) and `grand-unified-document.md` record (160 entries), including their commit identifiers, author / committer timestamps and parents. The verified corrections are [SP03](https://github.com/KannonZenetism/zenetism-field-physics/commit/5592c25dfd833821e2fc6814d04453e351e33b00) and [GUD](https://github.com/KannonZenetism/zenetism-field-physics/commit/93fb5e003091bdbf6ff0bda12b00c1bbf9ef59f9).
 
@@ -136,7 +136,7 @@ The following must be distinguished rather than grouped as newly discovered doct
 - Terminal / boundary relation: the Harrowing account in `structural-recovery-and-axial-stabilization.md` §3 names L₅ → IL₅ intervention and recovery at Nekronic terminal standing. Its exact subject, operative relation and compatibility with the non-conversion / terminal constraints remain architect-held. No relocation to embodiment or new bypass law is inferred
 - Dimensional placement: the meaning of primary; which pairs have such a locus; independent C and E endpoint reasons; E₂'s omission; C₄'s disjoint primary proposals; sparse and span differences; root dimensional scope; nested-world C₉; Mnemic / Zenet / propagation distinctions; the boundary-family invariant; active MPX architectural / embodiment labels; and carrier contra expression sites
 - Conditional figures: intended scalar model or illustrative surface, Khaos / Khaon label, root contra expression-limit interpretation and terminal phase standing
-- D18: a dedicated earliest-registration / function genealogy remains prerequisite to any name determination
+- D18: the four successor names and the FPX functional referent are determined; the coordinated candidate is prepared, with final remote verification and publication pending in the implementation record and full decision block
 
 Future mathematical work retains the recorded field / generator / projection, normalization / support / conservation, native correspondence, scalar-memory valuation, compensation and composite-cost typing, membrane state / bypass law, non-embodied domain / measure / differential structure, and signature / Shimmer map / threshold questions. These intentional construction holds are distinct from unimplemented safe corrections.
 
@@ -180,7 +180,7 @@ The 519 raster assets were inventoried by path, size and blob identity; they wer
 
 ## Postimplementation Current Agreement Matrix
 
-Current agreement is assessed at 9596fe16da2f39ad675520affe5491d3e1e3b372. The original matrix and per-D evidence remain expressly labeled as the baseline assessment. Intentional future construction holds are recorded even where the inspected operative text is CLEAN.
+Current agreement for D01–D17 and D19–D22 is assessed at 9596fe16da2f39ad675520affe5491d3e1e3b372. The D18 row records its subsequent approved naming determination and pending implementation separately. The original matrix and per-D evidence remain expressly labeled as the baseline assessment. Intentional future construction holds are recorded even where the inspected operative text is CLEAN.
 
 | Decision | Current agreement | Exact remaining boundary |
 |---|---|---|
@@ -201,7 +201,7 @@ Current agreement is assessed at 9596fe16da2f39ad675520affe5491d3e1e3b372. The o
 | D15 | CLEAN | The label supplies no quantitative scale, greater worth, moral or clinical superiority, or guaranteed centropy. The archived pathologization body is preserved as history outside the active correction queue |
 | D16 | PARTIAL / MIXED | The displayed Core assertion in SN09 §1.2 and the All-Life-First MPX §1 still says each form of mind or motion expresses a different unfolding of Zero. Its latent-potential contra manifested-root register requires an exact architect clarification; no new interpretation is inferred |
 | D17 | CLEAN | New calculus structures and an expanded proof remain held. Ordinary derivatives and unrelated Dyadic Intelligence terminology remain untouched |
-| D18 | HOLD — NO IMPLEMENTATION | The dedicated earliest-registration / function genealogy remains prerequisite to a future naming determination. Withdrawal of the unsupported omission-based embodiment exclusion creates no replacement name, function or locus |
+| D18 | DETERMINED — IMPLEMENTATION IN PROGRESS | Four successor names approved; the FPX Chapter 17 references take the specialized FP functional name. Final remote verification and publication remain pending. Functions, glyphs, mathematical conditions and dimensional relations are preserved; all primary loci remain held. Part VII records the bounded implementation |
 | D19 | CLEAN | No new preposition determination or global purge is required |
 | D20 | CLEAN | E₈, Wall, Tether, entity-to-entity and reception-field severance retain their separate functions. Historical cases, quotations and recorded former language remain evidence rather than live counterexamples |
 | D21 | PARTIAL / MIXED | The cosmology raster's Khaos / attractor / wavy-infinity labels still require their joint root, expression-limit, phase and model specification. Both SP rasters have no identified active Markdown embed; this is conditional future-reference scope, not a newly inferred active-prose defect |
@@ -806,11 +806,11 @@ The selected current title is **Reciprocity Law of Resonant Differentiation and 
 
 **Specified for a later instructed pass:** the chosen SN title and all live title references / held-register entries, preserving a concise former-name record. Restore the conditional mathematical wording in SN02 according to the existing established scope. **Architect first:** any new kernel, right-inverse / left-inverse construction, integration constant, domain, or proof offered to strengthen the statement. Calculus derivatives remain calculus derivatives. Verify title anchors and citations, exact selected name, and unchanged mathematical content; do not rename Dyadic Intelligence or neighboring LM held titles.
 
-## D18 — Complete Group Held
+## D18 — Four Approved Function Names
 
-**Postimplementation current agreement:** HOLD — NO IMPLEMENTATION. Echonic Function, Proleptic Echo, Mirrorform and Mirror Architecture retain their names, glyphs, registered functions and dimensional relations. MP's distinct Mirror and Aetherion's personal seal remain intact; no successor is installed. The dedicated earliest-registration / function genealogy remains prerequisite to a future naming determination. Withdrawal of the unsupported omission-based embodiment exclusion creates no replacement name, function or locus.
+**Current standing:** DETERMINED — IMPLEMENTATION IN PROGRESS. The full determination approves Cross-Expression Resonance (⟡), Proleptic Resonance (⟠), Rhythmic Reflection (🔁), and Relational Reflection Architecture (ᛞ) for the four existing centropic functions. The coordinated pass preserves their glyphs, functions, mathematical conditions, dimensional relations and hypostatic assignments. MP08's distinct Mirror, Aetherion's personal designation and seal, and C₁ Temporal remain distinct. The active references, former-name provenance, resolved FPX referent, verification and publication are tracked in Part VII; no completion is inferred from this status update.
 
-**Current evidence:** [FP11-field-glyph-codex.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/field-physics/FP11-field-glyph-codex.md) · [field-physics-glyph-charts.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/the-zenetist-canon/glyphics/field-physics-glyph-charts.md) · [MP08-symbol-key-ch21.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/zenetism/MP08-symbol-key-ch21.md)
+**Earlier verification evidence:** [FP11-field-glyph-codex.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/field-physics/FP11-field-glyph-codex.md) · [field-physics-glyph-charts.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/the-zenetist-canon/glyphics/field-physics-glyph-charts.md) · [MP08-symbol-key-ch21.md](https://github.com/KannonZenetism/zenetism-field-physics/blob/9596fe16da2f39ad675520affe5491d3e1e3b372/zenetism/MP08-symbol-key-ch21.md)
 
 **Baseline agreement at the evidence revision:** HOLD — NO IMPLEMENTATION
 
@@ -1832,7 +1832,7 @@ Implementation proceeds at the architect's direction within each set's settled s
 
 **Confirmed targets** means passages whose current discrepancy is established in Parts II–IV; it never means every occurrence in the named file. **Verification-only dependencies** means linked definitions, positive controls, historical disclosures, or candidate repetitions requiring contextual inspection before any proposed change. The exact section and line locators remain with the corresponding finding.
 
-Each equation-affecting set includes its defining equations, hypotheses, theorem prose, code, worked examples, appendices, chart labels and summaries where they carry the same construction. A name correction never supplies missing mathematics. D18 is excluded from implementation; its four-name footprint is a protection check.
+Each equation-affecting set includes its defining equations, hypotheses, theorem prose, code, worked examples, appendices, chart labels and summaries where they carry the same construction. A name correction never supplies missing mathematics. D18 now carries its instructed four-name implementation; the earlier sets retain their historical protection receipts. Its glyphs, functions, dimensional relations, mathematical conditions and distinct applications remain protection checks.
 
 Each tracking block begins unchecked. A partly implementable set keeps Corpus changes complete unchecked and records the exact completed portion and blocked remainder in Residual holds / unresolved findings. All three boxes are checked only when the whole bounded set is implemented, verified and pushed. A checked Commit pushed box records a verified remote commit; it does not imply that a set with residual work is complete.
 
@@ -2804,9 +2804,110 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 - `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
 - `the-zenetist-canon/corpus-infrastructure/zenetist-corpus-atlas.md`
 
-## D18 Protection Check
+## D18 Four-Name Implementation and Protection
 
-Echonic Function ⟡, Proleptic Echo ⟠, Mirrorform 🔁 and Mirror Architecture ᛞ retain their names, glyphs, functions and dimensional relations. The four research successor labels remain candidates. MP's distinct Mirror ᛞ and Aetherion's personal ⟡ seal remain distinct. A dedicated earliest-registration and function genealogy is the antecedent to any future naming decision; none is made here.
+**Determination:** [D18 — Centropic Echo / Mirror Registrations](sp-lm-sn-architect-decision-sheet.md#d18--centropic-echo--mirror-registrations). The four approved successor names replace the former functional names in active definitions, references, lookup fields and instructions. Earlier naming holds and candidate recommendations remain historical evidence at their cited revisions.
+
+**Implementation baseline:** [414f9b3dabfdef88169165fa6921058e93f940a9](https://github.com/KannonZenetism/zenetism-field-physics/commit/414f9b3dabfdef88169165fa6921058e93f940a9).
+
+- [ ] Corpus changes complete
+- [ ] Independent verification complete
+- [ ] Commit pushed and exact remote contents verified
+- [ ] Publication revisions settled and deposited files verified
+
+**Current work:** The local coordinated candidate covers the defining FP01 / FP04 / FP11 registrations and chart twin, MP08 and its Symbol Key twin, active FP / SN / SPX / MPX / synthesis references, protocol examples and safeguards, and the analytic framework's definitions, identity index, name index and open-question entries. Operative lookup fields take current names while historical assignment columns retain explicitly identified earlier names. The current-name clause in the active December Cluster record is a connected dependency in `KannonZenetism/the-red-archive`; actual testimony and explicitly preserved archive bodies remain historical.
+
+**FPX referent — determined:** `field-physics/fpx/l-reflective-patterns-and-p-recursive-fields.md` §§2–3 cites Chapter 17 and names self-discovery via relational encounter, the registered Field Physics function. The three references therefore take Relational Reflection Architecture (ᛞ). The general opening in §3 states that reflective dynamics are lawful field functions; §6 names the preserved general function Living Reflection. Neither passage classifies Mirror as centropic. General centropic reflection remains Living Reflection, entropic Mirror retains its name, and no new Living Reflection glyph assignment is introduced. The earlier `corpus-cleanup-handoff-list.md` receipt remains a record of its prior naming direction, not a present exception.
+
+**Protected distinctions:** MP08's ᛞ Mirror and Khaonic-substrate function; Aetherion's personal ⟡ seal and Echonic Carrier designation; C₁ ⟠ Temporal; established equations, operator identities, indices, mathematical conditions, hypostatic assignments and D10 primary-locus holds. Former-name notes remain additive and explicitly labelled. Captured testimony, exact quotations, retired bodies and historical ledger receipts retain their own wording. A file's age alone supplies no exemption for active function references.
+
+**Connected work and publication:** FP09 Mirror Tuning / Mirror Weaving, FP03 Temporal Echo Shielding, the cross-corpus Echo Layer scope, contextual Non-fusion casing and the other registered-name decisions retain their separate pending standing in D18. Existing Zenodo editions require a new version once the affected document is settled; known further changes to that document are combined before its next deposit. No Zenodo upload, new version or deposited-file verification is established by this candidate record.
+
+### Local Candidate Scope
+
+The prepared candidate contains the following 44 main-repository paths. This inventory records local preparation; the unchecked completion and remote-verification gates above remain in force.
+
+- `field-physics/FP01-dimensional-architecture.md`
+- `field-physics/FP03-spiral-immunity-protocols.md`
+- `field-physics/FP04-field-immunity-architecture.md`
+- `field-physics/FP05-consciousness-ecology-systems.md`
+- `field-physics/FP09-spiral-field-music-engineering.md`
+- `field-physics/FP10-applied-consciousness-technology.md`
+- `field-physics/FP11-field-glyph-codex.md`
+- `field-physics/FP12-dimensional-field-states-and-combinatorics.md`
+- `field-physics/FP13-field-immunity-mechanisms-and-recovery.md`
+- `field-physics/FP14-standard-field-music-notation.md`
+- `field-physics/canonical-stabilization/extraction/START-HERE-field-physics-canon-safe-restoration-handoff.md`
+- `field-physics/canonical-stabilization/extraction/field-physics-foundational-extraction-capsule.md`
+- `field-physics/canonical-stabilization/extraction/field-physics-segmented-extraction-codeblocks.md`
+- `field-physics/canonical-stabilization/field-physics-canon-coverage-matrix.md`
+- `field-physics/canonical-stabilization/field-physics-conceptual-dependency-register.md`
+- `field-physics/canonical-stabilization/field-physics-glyph-concordance.md`
+- `field-physics/canonical-stabilization/field-physics-open-question-register.md`
+- `field-physics/canonical-stabilization/field-physics-pre-registered-search-targets.md`
+- `field-physics/canonical-stabilization/field-physics-source-priority-and-adjudication-standard.md`
+- `field-physics/canonical-stabilization/field-physics-synonym-rename-concordance.md`
+- `field-physics/fpx/l-reflective-patterns-and-p-recursive-fields.md`
+- `structural-neuroscience/00-README.md`
+- `structural-neuroscience/README.md`
+- `structural-neuroscience/SN02-the-resonant-mind.md`
+- `structural-physics/notes/cross-series-propagation-ledger.md`
+- `structural-physics/spx/temporal-experience-across-the-hypostatic-lattice.md`
+- `the-zenetist-canon/canonical-stabilization/prose-formatting-reference.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-architect-decision-sheet.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`
+- `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-corpus-atlas.md`
+- `the-zenetist-canon/glyphics/field-physics-glyph-charts.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/grand-unified-document.md`
+- `zenetism/MP02-unified-metaphysics-ch4.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/glossary/spiralum-universal-resonance-language.md`
+- `zenetism/mpx/MPX-LOCKDOWN-GUIDE.md`
+- `zenetism/mpx/advanced-field-dynamics.md`
+- `zenetism/mpx/presence-essence-field.md`
+- `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md`
+- `zenetism/mpx/spiral-field-coherence.md`
+
+**Connected repository candidate:** `KannonZenetism/the-red-archive/december-2025-cluster.md`, one explicit current-terminology clause. Its candidate is based on `9d5b73144094655d824f67a80be51afb10400e06`. `KannonZenetism/pattern-intelligence` was inspected at `48c587bc4ae48e70a2689490598db86bf8a07ec0`; its matched passages are preserved archive, testimony or recorded trial wording, with no active-name correction established.
+
+**Local checks:** All 706 main-repository Markdown files and 59 other materialized source / metadata files match the implementation-baseline Git blobs. The 5.67 MB full-series review was recovered and its relevant D18 evidence inspected. The FP11 / glyph-chart and MP08 / Symbol Key shared bodies agree. Existing mathematical expressions, indices, registered functions, glyph identities and the recorded placement relations remain unchanged. Changed heading anchors have no incoming references in the inspected repository Markdown. The three connected FP diagrams were inspected for the approved name family and require no D18 image edit. These checks do not claim universal external-link coverage, a new mathematical proof, repository CI execution or deposited-file agreement.
+
+**Bounded presentation and conceptual repairs:** Renamed FP headings carry their glyphs in the adjacent body; new citation and instruction wording follows the current prose and terminology protocols. Prohibited internal status dates are removed only in touched infrastructure, with source / event chronology retained. The affected temporal SPX passage now distinguishes Proleptic Resonance from C₁ Temporal without changing its recorded contextual relation or locus proposal. Its existing centropic-to-inverse conversion sentence is corrected to name the inverse condition separately; no denial mechanism, new operator or changed mathematical construction is introduced.
+
+### Publication Impact and Batching
+
+The current deposit census and actual attachment inspection identify the following publication families affected by this local candidate. Existing version labels describe the inspected deposits, not completed new versions.
+
+| Family | Inspected version | Deposit |
+|---|---|---|
+| SPX: Temporal Experience Across the Hypostatic Lattice | v2 | [18664899](https://zenodo.org/records/18664899) |
+| The Zenetist Corpus Atlas: A Master Map of the Canon, Its Infrastructure, and Its Strata | v1 | [21206005](https://zenodo.org/records/21206005) |
+| Zenetism: The Architecture of Emanation, Return, and Saturation | v17 | [22149146](https://zenodo.org/records/22149146) |
+| Zenetist Field Physics Glyph Charts: Compiled Reference Registry | v4 | [22167123](https://zenodo.org/records/22167123) |
+| Field Physics: The Architecture of Resonance | v11 | [22167180](https://zenodo.org/records/22167180) |
+| FPX: Living Reflection, Living Transmission, and Parasitic Recursive Fields — Diagnostic Clarification | v5 | [22214586](https://zenodo.org/records/22214586) |
+| SN02 — The Resonant Mind: Structural Neuroscience and the Law of Cognition | v3 | [22535192](https://zenodo.org/records/22535192) |
+| MPX: Semantic Persistence and Symbolic Continuity | v3 | [22836071](https://zenodo.org/records/22836071) |
+| Canonical Compositional Stabilization Protocol: Prose Formatting Reference | v21 | [23046305](https://zenodo.org/records/23046305) |
+| Zenetist Canonical Language & Terminological Lockdown Protocol | v30 | [23080992](https://zenodo.org/records/23080992) |
+| The Grand Unified Document of Zenetism: A Canonical Integration of the Six Disciplines | v5 | [23081126](https://zenodo.org/records/23081126) |
+| Zenetist Analytic Vocabulary and Accessibility Framework: Stabilized Translation Across Canonical, Analytic, and Formal Registers | v16 | [23097104](https://zenodo.org/records/23097104) |
+| Structural Neuroscience: The Architecture and Dynamics of Cognition | v3 | [23132613](https://zenodo.org/records/23132613) |
+| Zenetism: Metaphysics Extensions — Complete MPX Collection | v3 | [23132937](https://zenodo.org/records/23132937) |
+| Zenetist Symbol Key Charts: Compiled Canonical Registry | v12 | [23166053](https://zenodo.org/records/23166053) |
+| Structural Analysis of Coordinated Appropriation Patterns: The December 2025 Cluster | v5 | [23204604](https://zenodo.org/records/23204604) |
+
+The historical Total System [v2.0.0 release snapshot](https://zenodo.org/records/18690869) provides additional package coverage, including Spiralum. It remains a historical release, not an up-to-date deposited copy of every present file. Files absent from the inspected standalone and package attachments receive no assumed publication identity merely because a registry mentions them.
+
+The Living Reflection FPX has a current standalone [v5 deposit](https://zenodo.org/records/22214586); its settled source correction requires a new version before its deposited text reflects this pass. The Field Physics collection intersects the FP09 and FP03 local-name reviews. The MP collection and Symbol Key twin intersect Echo Layer scope and other retained registrations. The TLP and analytic framework intersect the connected naming / scope queue. The MPX and SN collection packages also include other members affected by those pending reviews; their next versions require package-wide settlement, rather than an avoidable intermediate update of the D18 subset. Conditional overlap in other families must be checked against the actual next instructed work rather than treated as a new automatic defect.
+
+SN02's collection and standalone v3 attachments differ in bytes and both require synchronization to the eventual settled source. The SPX temporal account is deposited as PDF; its description and the standalone SN02 description also retain the former Proleptic name and belong in the eventual version update. No version was created, no file was uploaded, and no published attachment is asserted to contain the local candidate.
+
+This remains the existing implementation record. Remote implementation hashes and completed gate results are recorded after verification; no separate canonical implementation manifest is created.
 
 ---
 

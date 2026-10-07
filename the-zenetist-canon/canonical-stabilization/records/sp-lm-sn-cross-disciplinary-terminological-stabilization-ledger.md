@@ -415,7 +415,7 @@ The exact passage schedules and targeted dependency maps follow. A file that mer
 | TLS-SPLMSN-501 | Recovery Anchor: Active Alias Retirement | PREVIOUSLY DEFERRED — RECOMMEND CHANGE |
 | TLS-SPLMSN-502 | Morphogenetic (Formweave): Registry Retention Reconsidered | PREVIOUSLY DEFERRED — RECOMMEND RETENTION |
 | TLS-SPLMSN-503 | E₈ Severed: Present Retention | PREVIOUSLY DEFERRED — RECOMMEND RETENTION |
-| TLS-SPLMSN-504 | Four Centropic Echo / Mirror Names | ARCHITECT DECISION REQUIRED |
+| TLS-SPLMSN-504 | Cross-Expression Resonance / Proleptic Resonance / Rhythmic Reflection / Relational Reflection Architecture | DETERMINED — names approved; implementation tracked in `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` |
 | TLS-SPLMSN-505 | SP Glyph Definitions: Close Remaining Twin Propagation | READY FOR ARCHITECT APPROVAL |
 | TLS-SPLMSN-506 | Skotos Definition: Obscuration Without Vertical Relation | PREVIOUSLY DEFERRED — RECOMMEND CHANGE |
 
@@ -4135,8 +4135,10 @@ The GUD `Severed Bridge` forms at 563 and 768 belong to the same C₈ / E₈ dia
 
 ### TLS-SPLMSN-504 — Four Centropic Echo / Mirror Names
 
-- **Status:** ARCHITECT DECISION REQUIRED
-- **Present names:** Echonic Function (⟡), Proleptic Echo (⟠), Mirrorform (🔁), Mirror Architecture (ᛞ)
+**Current D18 standing:** The four approved functional names are **Cross-Expression Resonance** (⟡), **Proleptic Resonance** (⟠), **Rhythmic Reflection** (🔁), and **Relational Reflection Architecture** (ᛞ). The complete determination is recorded in `sp-lm-sn-architect-decision-sheet.md` D18; implementation standing is recorded separately in `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`. Approval of the names does not establish completed corpus propagation. The finding fields and occurrence schedule that follow preserve the examined revision's analysis and candidates; they confer no current naming hold. Glyphs, functions, dimensional relations, MP08's distinct Mirror, Aetherion's personal identity and C₁ Temporal retain their separate standing.
+
+- **Status at examined revision:** ARCHITECT DECISION REQUIRED
+- **Names at examined revision:** Echonic Function (⟡), Proleptic Echo (⟠), Mirrorform (🔁), Mirror Architecture (ᛞ)
 - **Earlier standing:** Exact registered names preserved; AVAF:1640–1643 explicitly leaves their successor determinations open. FP11's own notes distinguish the centropic functions from entropic echo
 - **Present analysis:** These are four distinct functions: continuity across multiversal expressions of identity; anticipatory pattern-completion; rhythmic relational parity; and self-discovery through external patterns. The mirror names designate centropic reflection in their definitions, while present valence vocabulary assigns generic mirroring to entropic operation. The echo names retain centropic meanings by registered scope, but the exception is repeatedly required. A coordinated change can improve lexical fit while keeping every glyph and function fixed
 - **Recommended candidate labels for approval:** **Cross-Expression Resonance** (⟡); **Proleptic Resonance** (⟠), with the already attested prose expansion **forward-memory**; **Rhythmic Reflection** (🔁); **Relational Reflection Architecture** (ᛞ)

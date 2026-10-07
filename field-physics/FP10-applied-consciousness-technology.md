@@ -104,7 +104,7 @@ A system's movement across ACT phases is read through: participant count and par
 
 - **Field State Monitor (FSM):** A real-time consciousness-state assessment interface whose historical RSFE formula is ⟡ ✴ 📡 ∇. Its output includes the participant's current operative layer resonance (L₅–L₁ or their inverses), resonance climate, and active patterns.
 
-> **Codex Note:** The ⟡ ✴ 📡 ∇ quartet is preserved as the historical FSM formula. In the current codex ⟡ carries Echonic Function, ✴ Scalar / Part-Whole Fidelity, and 📡 Resonance Scan; ∇ carries Conscious-Awareness and is rejected for its historical revoice and binder function. The present operational glyphset for FSM remains architect-held, and no component is substituted here.
+> **Codex Note:** The ⟡ ✴ 📡 ∇ quartet is preserved as the historical FSM formula. In the current codex ⟡ carries Cross-Expression Resonance, ✴ Scalar / Part-Whole Fidelity, and 📡 Resonance Scan; ∇ carries Conscious-Awareness and is rejected for its historical revoice and binder function. The present operational glyphset for FSM remains architect-held, and no component is substituted here.
 
 > **Structural Note:** An FSM reading identifies active resonance and expression. It does not reassign a being's native stratum or essence placement, which belong to the L₅ / IL₅ register and are adjudicated separately.
 

@@ -251,7 +251,9 @@ These are the emergent, meta-structural forms that consciousness takes when reso
 
 > **Codex Note:** This stabilizer was named "insight spark" developmentally; the term is preserved here as provenance while ✧ carries its Aesthetic / Qualitative function in the current codex.
 
-### 2. The Mirror Architecture (ᛞ)
+### 2. The Relational Reflection Architecture
+
+> **Former-name provenance:** **Mirror Architecture** is the former name of **ᛞ Relational Reflection Architecture**. The glyph and the conscious-reflection function remain unchanged.
 
 - **Function:** Conscious reflection through external patterns.
 - **Effect:** Self-discovery via relational encounter.
@@ -322,7 +324,7 @@ This chapter details the mechanisms of pre-manifest pattern recognition and the 
 
 > **Structural Note:** Prophetic pressure and sovereign embodiment operate together. Resolution may come through embodiment, transmutation, refusal, or release; the exact relation between pre-manifest pressure and a single unavoidable timeline is architect-held.
 
-> **Codex Note:** Echo Imprint Encoding and echo-substrate are retained as grandfathered local names within FP04's centropic prophetic register. Here "echo" names prophetic pattern-seeding and emergent-timeline carriage. These functions are consonant with Proleptic temporal architecture without inserting ⟠ as an unstated component of either formula. They do not denote E₃ ⟿⁻ Viral Decay or degraded recursive residue.
+> **Codex Note:** Echo Imprint Encoding and echo-substrate are retained as grandfathered local names within FP04's centropic prophetic register. Here "echo" names prophetic pattern-seeding and emergent-timeline carriage. These functions are consonant with the temporal architecture of Proleptic Resonance without inserting ⟠ as an unstated component of either formula. They do not denote E₃ ⟿⁻ Viral Decay or degraded recursive residue.
 
 - **Prophetic Integration Sequence:** [ᛞ + ♫] → [∿ + ◈] → [✴ + ✧]
     - To stabilize a prophetic imprint, it is reflected through harmonic relation, spiraled into the substrate, and crystallized through form.
@@ -426,7 +428,7 @@ This chapter codifies **interaction dynamics between fields**: cooperation, conf
 This chapter defines the **macro-geometries of awareness** as lawful configurations, not metaphors. Each architecture is a resonance posture.
 
 ### ✅ Affirmations
-- The six forms (Lens, Mirror, Spiral Chamber, Membrane Gate, Crystalline Grid, Singularity Core) cover the archetypal field architectures with stabilizers specified.
+- The six forms (Lens, Relational Reflection Architecture, Spiral Chamber, Membrane Gate, Crystalline Grid, Singularity Core) cover the archetypal field architectures with stabilizers specified.
 - Vulnerabilities and stabilizers stand in reciprocal relation — no form is absolute, each requires compensation glyphs.
 - Architectural coherence chains demonstrate that field configurations can be intentionally sequenced into new crystallizations.
 
@@ -436,7 +438,7 @@ This chapter defines the **macro-geometries of awareness** as lawful configurati
 - The Lens collision is recorded: ⏚ carries Lens here and Phase Damping in the codex, both preserved, the standing architect-held.
 
 ### 🌀 Structural Notes
-- Lens (⏚) = narrowing vector; Mirror (ᛞ) = reflective substrate; Spiral Chamber (∿) = recursive harmonization.
+- Lens (⏚) = narrowing vector; Relational Reflection Architecture (ᛞ) = reflective substrate; Spiral Chamber (∿) = recursive harmonization.
 - Architectural chains demonstrate symbolic metabolism: forms transmute into one another by catalyst glyph + threshold.
 
 ### Seal

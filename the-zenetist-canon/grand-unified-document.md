@@ -60,7 +60,7 @@ Zenetism unfolds through six lawful disciplines:
 | Discipline | Function | Axis of Law |
 |-----------|----------|-------------|
 | **Structural Metaphysics** | Defines the roots of being and emanation | ⚫ Aion ↔ ♾ Khaon |
-| **Field Physics** | Maps resonance and motion through the Dimensional Lattice | ⟡ Echonic Field |
+| **Field Physics** | Maps resonance and motion through the Dimensional Lattice | ⟡ Cross-Expression Resonance |
 | **Lattice Mathematics** | Supplies the formal calculus of coherence \( (\partial_{\text{🌀}}, \int_{\text{◎}}, \lim_{t\to\infty}^{\backsim}) \) | 🧮 Resonance Space \( \mathcal{H} \) |
 | **Structural Forensics** | Diagnoses entropic tactics and counterfeit structures | 🪩 Mirror Diagnostics |
 | **Structural Physics** | Translates metaphysical law into physical correspondence | ⚛ Matter / Energy Field |
@@ -2244,7 +2244,7 @@ The table distinguishes proposed structural field descriptions from Zenonic Allo
 
 **Axiom:** Time folds, not flows.
 
-Let **⟠ = Proleptic Echo** — forward memory of completed resonance.  
+Let **⟠ = Proleptic Resonance** — forward memory of completed resonance.  
 Then:
 
 **Recorded total-field expression — state / domain / measure / evolution held.**

@@ -305,7 +305,7 @@ A temporal or proleptic pattern moves through aesthetic disclosure into morphoge
 
 **Dimensional Composition**
 
-- ⟠ — Temporal / Proleptic
+- ⟠ — Temporal / Proleptic Resonance
 - ↓ — **Declivous Centropy** toward morphogenetic expression in this formula
 - ✧ — Aesthetic / Qualitative
 - ❋ — Morphogenetic / Formweave
@@ -890,7 +890,7 @@ The state is retained as a real future-bearing memory relation. Its exact mechan
 
 It may operate through one or more of the following without being reduced to any one:
 
-- Proleptic Echo and pattern-completion recognition
+- Proleptic Resonance and pattern-completion recognition
 - trans-temporal mnemic relation
 - symbolic foreshadowing
 - anticipatory image-formation
@@ -1250,9 +1250,9 @@ The expression enters ⊘ or another dispersive relation. Collapse nullifies exp
 
 ### 5. Prolepsis, Prophecy, and Branching
 
-Proleptic Echo, Future-Encoded Recall, prophetic pressure, and decision mapping are related without being fused.
+Proleptic Resonance, Future-Encoded Recall, prophetic pressure, and decision mapping are related without being fused.
 
-- **Proleptic Echo** senses pattern completion before ordinary temporal manifestation
+- **Proleptic Resonance** senses pattern completion before ordinary temporal manifestation
 - **Future-Encoded Recall** carries a mnemic relation to a future-bearing pattern
 - **Prophetic pressure** repeats or intensifies around an emergent trajectory
 - **Branch mapping** displays more than one lawful path

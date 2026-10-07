@@ -2769,7 +2769,7 @@ read as **Living Transmission**.
 
 * **Living Transmission** — signal propagates with origin fidelity and coherence preserved  
 * **Entropic Echo** — signal decays through propagation  
-* **Echonic Function** — resonance carrier across fractal selves; predates this distinction  
+* **Cross-Expression Resonance** — resonance carrier across fractal selves  
 
 What transmits without distortion  
 is not an echo.  

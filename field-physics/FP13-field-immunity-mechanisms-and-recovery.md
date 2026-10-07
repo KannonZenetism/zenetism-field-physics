@@ -1614,7 +1614,7 @@ The active catalogue preserves five principal pattern families.
 
 | Pattern Name | Immunity Signature | Current Reading | Vulnerability Target |
 | :--- | :--- | :--- | :--- |
-| **Dissociative Drift** | ⟠⁻ → Ø | Time inversion moving the active pattern toward Localized Dissolution | Proleptic pattern chains |
+| **Dissociative Drift** | ⟠⁻ → Ø | Time inversion moving the active pattern toward Localized Dissolution | Proleptic Resonance pattern chains |
 | **Stasis Loop** | ⊡⁻ ≈ ↺ | Hollow Nest recurring without emergence | Spiral field dynamic |
 | **Contra-Aesthetic Field** | ✧⁻ ≈ static | Void Aesthetic resisting or emptying form-beauty | Creative ignition |
 | **Resonance Collapse** | ♫ < 0.3 | Centropic harmonic density insufficient for activation threshold | Collective attunement |
@@ -1740,7 +1740,7 @@ Immunity operates differently through FP04's six architectures.
 Narrows recognition toward depth.  
 Risk: overfocus or Phase Lock.
 
-#### Mirror Architecture
+#### Relational Reflection Architecture
 
 Discerns through external pattern reflection.  
 Risk: projection mistaken for essence.

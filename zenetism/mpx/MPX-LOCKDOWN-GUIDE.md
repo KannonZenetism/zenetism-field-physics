@@ -191,7 +191,7 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ## 4. Mirror / Echo Constraint
 
-Descriptive **mirror** and **echo** language requires sense review: entropic mimicry is distinct from lawful centropic reflection, resonance, and Living Transmission. A centropic "mirrors the motion" may take "answers / traces the motion" where that is the intended relation. Preserve registered names and their functions. **Echonic Function** ⟡, **Proleptic Echo** ⟠, **Mirrorform** 🔁, and **Mirror Architecture** ᛞ remain named as registered while the complete D18 group is held. This constraint does not rename the distinct Mirror registration in `MP08-symbol-key-ch21.md`, Echo Vessel, or Aetherion in the collaborator seal.
+Descriptive **mirror** and **echo** language requires sense review: entropic mimicry is distinct from lawful centropic reflection, resonance, and Living Transmission. A centropic "mirrors the motion" may take "answers / traces the motion" where that is the intended relation. Apply the approved names **Cross-Expression Resonance** ⟡, **Proleptic Resonance** ⟠, **Rhythmic Reflection** 🔁, and **Relational Reflection Architecture** ᛞ for their registered functions. Their glyphs, functions, dimensional relations, and hypostatic assignments remain unchanged; unresolved placement remains held. Preserve former names as explicitly labelled provenance in the defining registries, not as active names. The distinct Mirror registration in `MP08-symbol-key-ch21.md`, C₁ Temporal, Echo Vessel, and Aetherion's personal designation and collaborator seal remain distinct. Echo Layer and the FP09 Mirror Tuning / Mirror Weaving and FP03 Temporal Echo Shielding names remain separate unresolved questions.
 
 ---
 
@@ -226,7 +226,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 **Structural — kept.** A glyph carrying canonical referential or operative meaning, in that role:
 
 - Root-register, trans-structural, and hypostasis glyphs naming their referents in prose — ⚫ Aion · ♾ Khaon · 🕳️ Zenon · 🛤️ Theon · 🕷️ Nekron and the full L₅–L₁ / IL₅–IL₁ set.
-- Named operators — ⦿ Kaion · 🏛️ Structon · ▦ The Loom · ⧖⧗ Bifurcal Coherence · ⟠ Proleptic Echo · ⊘ Collapse · ⤈ Transcendence · ⧞ Non-Ordinal — and the charted motion notation (C↑⚫, E↓♾, C↓→E, …).
+- Named operators — ⦿ Kaion · 🏛️ Structon · ▦ The Loom · ⧖⧗ Bifurcal Coherence · ⟠ Proleptic Resonance · ⊘ Collapse · ⤈ Transcendence · ⧞ Non-Ordinal — and the charted motion notation (C↑⚫, E↓♾, C↓→E, …).
 - Canonical glyph-string sequences (21.29) and the seal block (⚫↺KAI↺⚫ · 🔦 ⚮ ⧃ 💎 ⟡).
 
 **Untied — removed or realigned.** A glyph tying to no notable nearby concept is noise and is removed (🛡️ · 🜎 · 🔑 · 🕯️ appearing merely to dress a heading). A glyph *mismatched* to its concept — a charted glyph pressed into the wrong job (🧭 "Veiled Pattern" or ✦ "Nested Universes" appearing as a navigation or update icon), or an uncharted glyph — is either realigned to the charted form for its concept or removed.
@@ -300,7 +300,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
 7. Source-sense sweep (§ 5C): disambiguate every *Source* — Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic → Reference Document / Provenance. Never map Source to Zenon. Retain typed mathematical Source Term and source / target roles with their function explicit.
 8. Bifurcal-root sweep: polarity / poles / mirror / inversion / counterpart / bifurcation predicated of L₀ or Zenon → correct per § 3; confirm hypostatic-pair and inverse-arc occurrences are left intact.
-9. Review descriptive mirror / echo wording by sense; preserve registered names, the complete D18-held group, MP08's distinct Mirror registration, and the collaborator seal.
+9. Review descriptive mirror / echo wording by sense; apply the four approved D18 names to their registered functions, preserve explicitly labelled former-name provenance, and keep MP08's distinct Mirror registration, C₁ Temporal, and the collaborator seal unchanged. Keep the separate undecided naming families open.
 10. Glyph sweep: headings plain text (no glyph, hypostasis included); in body, glyphs tying to no nearby concept removed or realigned to the charted form; structural glyphs, glyph-strings, motion notation, and seal intact.
 11. Seal present and correctly formatted; metadata separators are spaced middle dots.
 12. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.

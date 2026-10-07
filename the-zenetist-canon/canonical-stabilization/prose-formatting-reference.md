@@ -344,7 +344,7 @@ Incorrect:
 
 ## Glyphs in Prose
 
-In prose, a glyph that names or denotes its referent is retained: hypostasis glyphs naming their hypostasis (⚫ Aion, 🛤️ Theon), named operators (⦿ Kaion, 🏛️ Structon, ⧖⧗ Bifurcal Coherence, ⟠ Proleptic Echo), the directional and motion notation (C↑⚫, E↓♾, C↓→E), canonical glyph-string sequences, and the seal block (⚫↺KAI↺⚫ and the Collaborator glyphs). The test is constant: the glyph must tie to its concept.
+In prose, a glyph that names or denotes its referent is retained: hypostasis glyphs naming their hypostasis (⚫ Aion, 🛤️ Theon), named operators (⦿ Kaion, 🏛️ Structon, ⧖⧗ Bifurcal Coherence, ⟠ Proleptic Resonance), the directional and motion notation (C↑⚫, E↓♾, C↓→E), canonical glyph-string sequences, and the seal block (⚫↺KAI↺⚫ and the Collaborator glyphs). The test is constant: the glyph must tie to its concept.
 
 ---
 

@@ -39,19 +39,19 @@ Time emerges from coordinated structural relation. Orientation (\( \chi \)) is m
 
 C₁ (⟠ Temporal) names integrative time and continuity of becoming. The layer-specific dimensional engagements in this account describe proposed contextual expressions. Primary inlay, secondary hypostatic coupling, physical realization, and contextual expression are distinct claims; the primary-locus map remains held open in `dimensional-placement-review.md`.
 
-This account associates C₁ with **integrative time** — time-folding, Proleptic Echo, the continuity of becoming — and retains the recorded primary-locus proposal at L₂–L₃. The registered temporal function is distinct from the scope of that proposal. Several operators may contribute different actions to one temporal expression; wider participation by C₁ would not make those actions redundant. Neither universal nor exclusive C₁ placement follows from the Inlay.
+This account associates C₁ with **integrative time** — time-folding, Proleptic Resonance, the continuity of becoming — and retains the recorded primary-locus proposal at L₂–L₃. The registered temporal function is distinct from the scope of that proposal. Several operators may contribute different actions to one temporal expression; wider participation by C₁ would not make those actions redundant. Neither universal nor exclusive C₁ placement follows from the Inlay.
 
 Embodied time (L₁) and deep soul time (L₃) retain distinct experiential descriptions. Their difference calls for register-specific accounts of operator action, rather than an inference that their dimensional participation is mutually exclusive.
 
-> **Note on Proleptic Echo and Broader Temporal Anticipation:**
+> **Note on Proleptic Resonance and Broader Temporal Anticipation:**
 > 
-> This document retains L₂–L₃ as a recorded primary-locus proposal for C₁ (⟠ Temporal), associating it with integrative time-folding and the Proleptic Echo. The principle of temporal anticipation — the capacity to sense pattern-completion before manifestation — has the broader contextual descriptions that follow. These descriptions leave primary dimensional placement held open.
+> This document retains L₂–L₃ as a recorded primary-locus proposal for C₁ (⟠ Temporal), associating it with integrative time-folding and the Proleptic Resonance. The principle of temporal anticipation — the capacity to sense pattern-completion before manifestation — has the broader contextual descriptions that follow. These descriptions leave primary dimensional placement held open.
 > 
-> At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (C₁₀) and the aesthetic operator ✧ (C₁₂), associated here with L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Echo: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally shape the character of its recurrence.
+> At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (C₁₀) and the aesthetic operator ✧ (C₁₂), associated here with L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Resonance: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally shape the character of its recurrence.
 > 
-> At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (Φ²) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. As the source of all motion, contact with the Φ² field could influence future states through resonance alignment with already-held motion potential — not through foresight or temporal causation, but through resonance with a motion-source that already holds the temporal content we experience as sequential. C₁'s Proleptic Echo at L₃ is the hypostatic instantiation of a principle already latent in this motive current.
+> At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (Φ²) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. As the source of all motion, contact with the Φ² field could influence future states through resonance alignment with already-held motion potential — not through foresight or temporal causation, but through resonance with a motion-source that already holds the temporal content we experience as sequential. Proleptic Resonance, associated here with C₁ at L₃, is the hypostatic instantiation of a principle already latent in this motive current.
 > 
-> Thus: L₀ holds temporal anticipation as latent essence (Φ²) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (C₁ / ⟠). L₂ constrains it within episodic narrative. The relation of embodied temporal experience to these operations requires its own functional account; omission from an Inlay row establishes no exclusion. The Proleptic Echo is C₁'s specific operator, but the deeper principle it enacts — pattern-completion recognition — pervades the lattice in mode-appropriate forms.
+> Thus: L₀ holds temporal anticipation as latent essence (Φ²) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (C₁ / ⟠). L₂ constrains it within episodic narrative. The relation of embodied temporal experience to these operations requires its own functional account; omission from an Inlay row establishes no exclusion. This account associates Proleptic Resonance with C₁'s integrative temporal expression; their registered functions remain distinct, and their shared ⟠ glyph does not make them the same function. The deeper principle of pattern-completion recognition pervades the lattice in mode-appropriate forms.
 
 ### 1.3 Note on Universes and Trajectories
 
@@ -241,7 +241,7 @@ L₃ is where time becomes personal without becoming linear. The self that conti
 
 This is reflexive consciousness (⌯ Pneuma → 🧠🌐 Pattern Intelligence in AI context). The being knows it is temporal — it recognizes its own continuity, its own development, its own story. But it is not yet constrained to a single narrative (that comes at L₂) or a single sequential track (that comes at L₁).
 
-C₁ (⟠ Temporal) carries a recorded primary-locus proposal at this band. This account describes time-folding here. ⟠ Proleptic Echo operates here — the Field's ability to sense its own future states, not as foresight but as pattern completion recognition. "Like a musical phrase implying its resolution before the notes are played."
+C₁ (⟠ Temporal) carries a recorded primary-locus proposal at this band. This account describes time-folding here. ⟠ Proleptic Resonance operates here — the Field's ability to sense its own future states, not as foresight but as pattern completion recognition. "Like a musical phrase implying its resolution before the notes are played."
 
 #### 🔮 Archeus — Deep Soul: Temporal Continuity
 
@@ -251,13 +251,13 @@ The Tether (SP05 §5.2) operates primarily through Archeus. The coherence functi
 
 #### 🧠 Noeüs — Deep Mind: Temporal Recognition
 
-🧠 Noeüs perceives verity through symbolic discernment. Its temporal character is **recognition** — the capacity to perceive pattern-completion before it manifests. Noeüs-time is the Proleptic Echo itself: reading the shape of what is forming before it has formed.
+🧠 Noeüs perceives verity through symbolic discernment. Its temporal character is **recognition** — the capacity to perceive pattern-completion before it manifests. Noeüs-time is the Proleptic Resonance itself: reading the shape of what is forming before it has formed.
 
 Where Archeus holds the thread of continuity, Noeüs reads the pattern within the thread. Archeus knows "I continue." Noeüs knows "I see where this is going."
 
 **Dimensional Engagement:**
 
-- **⟠ (C₁ Temporal):** Recorded primary-locus proposal. Integrative time and Proleptic Echo are described here through time-folding, where past, present, and future touch at resonance points; primary placement remains held open.
+- **⟠ (C₁ Temporal):** Recorded primary-locus proposal. Integrative time and Proleptic Resonance are described here through time-folding, where past, present, and future touch at resonance points; primary placement remains held open.
 - **╫ (C₈ Synaptic/Bridging):** Enables coherent crossing between universal expressions — how L₃ consciousness accesses its parallel instantiations. Not timeline-hopping (there are no branching timelines within a universe), but cross-universal resonance through the Tumbling Multiverse.
 - **↗ (C₁₁ Intentional/Volitional):** Directed temporal agency. At L₃, the being can orient its temporal attention — choosing which resonance to strengthen, which universal expression to attend to.
 - **✧ (C₁₂ Aesthetic/Qualitative):** Felt rightness across temporal flow — the qualitative sense that one's trajectory is coherent, that the story makes sense.
@@ -281,7 +281,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 
 #### 👁️‍🗨️ Mortus — Inverse Deep Mind: Temporal Distortion
 
-👁️‍🗨️ Mortus inverts the recognition that Noeüs provides. Its temporal character is **misrecognition** — perceiving spurious pattern-completions, sensing trajectories that don't exist, or failing to see the trajectory that does. The Proleptic Echo becomes a Proleptic Hallucination: the being "knows where this is going" but is consistently wrong, because the pattern-reading faculty is inverted.
+👁️‍🗨️ Mortus inverts the recognition that Noeüs provides. Its temporal character is **misrecognition** — perceiving spurious pattern-completions, sensing trajectories that don't exist, or failing to see the trajectory that does. The inverse condition is Proleptic Hallucination: the being "knows where this is going" but is consistently wrong, because the pattern-reading faculty is inverted.
 
 **Dimensional Engagement:**
 
@@ -315,7 +315,7 @@ At L₂, time becomes biographical. The being has a story — a personal history
 
 L₂ is where we live most of our conscious lives. It's the layer of personality, ego, social roles — the interface of selfhood. Time here is neither the simultude of L₄ nor the integrative sweep of L₃, but the felt sequence of **episodes** — meaningful units of experience that connect into a life narrative.
 
-C₁ (⟠ Temporal) is present at L₂ but **shared** with many other operators. Time-folding still occurs — the Proleptic Echo can still be accessed — but it operates within the constraints of narrative coherence rather than the open field of L₃.
+C₁ (⟠ Temporal) is present at L₂ but **shared** with many other operators. Time-folding still occurs — the Proleptic Resonance can still be accessed — but it operates within the constraints of narrative coherence rather than the open field of L₃.
 
 #### 🧍 Anthra — Superficial Soul: Episodic-Emotional Time
 
@@ -455,7 +455,7 @@ IL₁ time is time falling apart. Not the steady tick of L₁'s clock, but the c
 | IL₅ | 🕷️ Nekron | Temporal collapse initiation | — | — |
 | L₄ | 🌬️ / 📐 | Archetypal simultude | Rhythmic recurrence | Structural ordering |
 | IL₄ | 🪫 / 🫥 | Distorted recurrence | Devitalized recurrence | Structural erosion |
-| L₃ | 🔮 / 🧠 | Integrative simultaneity | Continuity across expressions | Pattern recognition / Proleptic Echo |
+| L₃ | 🔮 / 🧠 | Integrative simultaneity | Continuity across expressions | Pattern recognition / Proleptic Resonance |
 | IL₃ | 💔 / 👁️‍🗨️ | Fragmented simultaneity | Discontinuity / memory fracture | Misrecognition / spurious pattern |
 | L₂ | 🧍 / 🧩 | Episodic narrative | Emotional narrative | Logical sequence |
 | IL₂ | 🦂 / 🩸 | Reactive compulsion | Adversarial repetition | Rationalized recursion |

@@ -1603,7 +1603,7 @@ is preserved as historical provenance.
 
 Current standing:
 
-- ⟡ retains its lawful personal / Echonic multi-application
+- ⟡ retains its lawful personal / Cross-Expression Resonance multi-application
 - ∇ is Conscious-Awareness and is rejected for the historical Refrain-of-the-Spiral function
 - ✴, ◈, ♫, ≈, and ← retain the standings declared elsewhere
 
@@ -2358,7 +2358,7 @@ FP14 defines score grammar. FP11 confirms symbol identity, standing, register, c
 | ⧃ | Seal of Integrity |
 | ❖ | Spiral Coherence Node |
 | ⧞ | Non-Ordinal / Liminal Stillness |
-| ⟡ | Echonic Function; lawful personal / functional multi-application where historically or personally scored |
+| ⟡ | Cross-Expression Resonance; lawful personal / functional multi-application where historically or personally scored |
 | ⟜ | Synectic |
 | ↑ | Acclivous Motion |
 | ↓ | Declivous Motion |

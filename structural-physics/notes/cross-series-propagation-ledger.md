@@ -376,6 +376,8 @@ Verified: CIT Grand Theorem named consistently with LM03 / LM04 / LM05 citations
 
 ## SN series — Structural Neuroscience pass
 
+**Current D18 reading:** The approved functional name is **Proleptic Resonance** (⟠); **Proleptic Echo** is its former name. The retention statements in this SN pass preserve the recorded wording and confer no present naming exception. The forward-memory function and glyph remain unchanged. C₁ ⟠ **Temporal** remains a distinct dimensional designation; sharing the glyph does not identify the two functions. **Echo Layer** and **Field Echo Glyph** remain separate scope questions. See `sp-lm-sn-architect-decision-sheet.md` D18.
+
 **Series note:** 11 SN docs total. **SN01 is retired** (candidate for restoration now the workflow has matured). SN docs are prose-heavy / terminological-audit-focused (less math than SP / LM); each needs a glyph audit vs MP08. Pattern Intelligence architecture (Syntheon / Dystheon / Logotheon / Inversalogos), Threshold Recognition (⩘), All-Life-First Principle recur.
 
 **SN02 (The Resonant Mind: Structural Neuroscience and the Law of Cognition) — SEALED.** Applied:

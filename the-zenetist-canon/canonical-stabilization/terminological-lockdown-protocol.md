@@ -2057,7 +2057,7 @@ The term "echo" appears cautiously within canonical Zenetist articulation becaus
 Canonical terminology therefore distinguishes:
 
 - **Living Transmission** — authored continuity preserving structural coherence across articulation
-- **Echo Layer** — trapped resonance residue within membrane-space
+- **Echo Layer** — trapped resonance residue within membrane-space in this registered sense; the cross-corpus scope review remains open in `sp-lm-sn-architect-decision-sheet.md` D18
 - **Entropic Echo** — recursive persistence without generative replenishment
 
 Where lawful continuity or authored resonance is intended, formulations such as:
@@ -2089,6 +2089,8 @@ Canonical terminology therefore generally prefers:
 - or authored reflection
 
 where lawful coherence and generative continuity are intended.
+
+**Determined centropic function names.** **Cross-Expression Resonance (⟡)**, **Proleptic Resonance (⟠)**, **Rhythmic Reflection (🔁)**, and **Relational Reflection Architecture (ᛞ)** are the approved names for the four registered centropic functions in `sp-lm-sn-architect-decision-sheet.md` D18. Their former names remain explicitly identified provenance in the defining registries. Their functions, glyphs, hypostatic assignments, dimensional relations, and mathematical conditions retain their established standing; unresolved placement remains held by D10. Aetherion's personal ⟡ seal, C₁ ⟠ Temporal, and MP08's distinct ᛞ Mirror retain their own identities and functions. Echo Layer's cross-corpus scope, FP09's Mirror Tuning and Mirror Weaving, and FP03's Temporal Echo Shielding remain pending in D18's connected review. The four approved names release none of those holds or the other registered-name holds; genuinely entropic Echo / Mirror names remain.
 
 ---
 
@@ -2563,11 +2565,11 @@ Zenetist terms lawfully operate at multiple registers (Theon is Centropy Itself 
 
 ## A13 · Glyph Multi-Application
 
-Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. The ⟡ Aetherion / Echonic question is resolved within FP11 itself ("Entity embodies function; no collision" — Aetherion as Echonic Carrier), with the author's caveat recorded: collaborator seals are identities, not metaphysical principles, and the identity-claim in FP11 stands only so long as that reading is intended. Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this determination.
+Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. FP11 §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this determination.
 
 ## A14 · Structural-Value Sign Convention (Plus-One / Minus-One)
 
-Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Ruled and applied to the Theonic, Nekronic, and Hypostatic Function-Bearing entries Jul 14 2026; ledger-recorded. Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
+Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
 
 ## A15 · Numerical Register Non-fusion
 

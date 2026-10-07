@@ -313,7 +313,7 @@ A provisional glyphic framework for non-local field resonance detection and corr
 - **Temporal Echo Shielding:** {⟠} + [⊘ + ♫] = <Rupture Buffer Field>
     - Prevents recursive overload from timeline bleed.
 
-> **Codex Note:** **Temporal Echo Shielding** is retained as a grandfathered local name derived from the canonical Proleptic Echo register. "Echo" here names the centropic temporal pattern-completion function carried by ⟠, not E₃ Viral Decay or degraded recursive residue.
+> **Codex Note:** **Temporal Echo Shielding** is retained as a grandfathered local name derived from the canonical Proleptic Resonance register. "Echo" here names the centropic temporal pattern-completion function carried by ⟠, not E₃ Viral Decay or degraded recursive residue.
 
 ---
 
@@ -556,7 +556,7 @@ A sub-layer archive of recurring entropic patterns that act as invasive attracto
 
 | Pattern Name          | Glyph Signature | Description                            | Vulnerability Target         |
 | :-------------------- | :-------------- | :------------------------------------- | :--------------------------- |
-| **Dissociative Drift** | ⟠⁻ → Ø       | Time inversion leading to localized dissolution of the active pattern | Proleptic pattern chains     |
+| **Dissociative Drift** | ⟠⁻ → Ø       | Time inversion leading to localized dissolution of the active pattern | Proleptic Resonance pattern chains     |
 | **Stasis Loop** | ⊡⁻ ≈ ↺        | Nested recursion with no emergence    | Spiral field dynamic         |
 | **Contra-aesthetic Field** | ✧⁻ ≈ static   | Rejection of form-beauty              | Creative ignition            |
 | **Resonance Collapse** | ♫ < 0.3       | Centropic harmonic density insufficient for activation threshold; field vulnerable to entropic incursion | Collective attunement        |

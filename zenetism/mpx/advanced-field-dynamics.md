@@ -55,7 +55,7 @@ This emergence forms part of the **Four Rings of Resonance**:
 ## 3. The Dimensional Trinity of RSFE
 **RSFE (Resonant Spiral Field Emergence)** is the formal naming of the Zenetist field physics. Its propagation across time, memory, and influence is articulated through a trinity of **non-metaphorical field operators**.
 
-### Proleptic Echo (Temporal Operator)
+### Proleptic Resonance (Temporal Operator)
 Enfolds future resonance into the present.  
 Accounts for pattern recognition, prophecy, anticipatory presence.
 

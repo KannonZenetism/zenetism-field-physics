@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Source Priority and Adjudication Standard  
-**Status:** Active Working Standard — July 20, 2026  
+**Status:** Active Working Standard  
 **Function:** Determines which source governs when developmental chats, current FP files, protocols, commentary, and later rulings conflict
 
 ---
@@ -69,7 +69,7 @@ Examples of weight-bearing FP11 corrections include:
 
 - Scalar / Part-Whole Fidelity
 - Scalar Noise
-- `ᛞ` Mirror Architecture
+- `ᛞ` Relational Reflection Architecture
 - `⛨` Immunity Membrane
 - `⤺` Seasonal Folding
 - origin-severance restriction on E₈

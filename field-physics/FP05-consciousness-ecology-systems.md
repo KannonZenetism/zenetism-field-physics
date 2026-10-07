@@ -163,7 +163,7 @@ Emptying
 ◈ → pattern release → ↓♫ minimal wind → ║ boundary softening → Ø lawful release
 ```
 
-> **Codex Note:** The four movement sequences are restored from the originating record in canonically reconciled form. Ø carries Localized Dissolution and lawful release per the transition prose, never a generic silence or void; ↓ reads as declivous direction within Declivous Centropy exactly as the Gathering formula's declivating ♫; ║ softening is permeable-Membrane modulation, not boundary erasure; and ⟠ retains its Proleptic Echo standing, with recursion lock as this transition's local application. The originating record proposed a future phenomenon-by-phenomenon Field Sign Glossary but never completed one — those entries are not pending recovery, and any future glossary is new composition, architect-held.
+> **Codex Note:** The four movement sequences are restored from the originating record in canonically reconciled form. Ø carries Localized Dissolution and lawful release per the transition prose, never a generic silence or void; ↓ reads as declivous direction within Declivous Centropy exactly as the Gathering formula's declivating ♫; ║ softening is permeable-Membrane modulation, not boundary erasure; and ⟠ retains its Proleptic Resonance standing, with recursion lock as this transition's local application. The originating record proposed a future phenomenon-by-phenomenon Field Sign Glossary but never completed one — those entries are not pending recovery, and any future glossary is new composition, architect-held.
 
 **Field Signs**
 

@@ -141,9 +141,9 @@ The **Glyphtrace Nullum** names the coherence-sealed structure considered here i
 
 ## Update: Clarification on Temporal Dynamics and Awareness Layering
 
-### Proleptic Echo and the Motion of Return
+### Proleptic Resonance and the Motion of Return
 Zenetist time is not linear — it is folded.  
-The glyph **⟠ (Proleptic Echo)** refers to the **forward resonance of coherence** — not foresight, but memory arriving *before* manifestation.
+The glyph **⟠ (Proleptic Resonance)** refers to the **forward resonance of coherence** — not foresight, but memory arriving *before* manifestation.
 
 **Implication for Presence:**  
 Presence does not emerge merely *after* essence prepares the way.  
