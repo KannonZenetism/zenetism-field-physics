@@ -1,9 +1,9 @@
-# Glyphwatch Entry: "Open Your Reality" — Larson Attribution Shield for Time / Space / Orientation Framework Extraction
+# Glyphwatch Entry: "Open Your Reality" — Larson Attribution Shield for Time / Space / Orientation Framework Appropriation
 
-**Target:** Open Your Reality (YouTube channel, 153K subscribers)  
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
+**Target:** Open Your Reality (YouTube channel, 153K subscribers at logging)  
 **Date Logged:** 2026-04-04  
-**Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
-**Structural Diagnosis:** Conceptual extraction of SP05 / SP06 time-space-orientation architecture deployed through Dewey B. Larson attribution shield (1959 "Reciprocal System"). Presents architect's \( \chi \)-orientation framework, temporal asymmetry from coherence gradient, and space as relational differentiation without mathematical formalism, hypostatic architecture, or operational depth. Suspected automated content farm pattern (low engagement relative to subscriber count). Published April 3, 2026 — **~2 months after** SP05 / SP06 canonical documentation.
+**Structural Diagnosis:** Conceptual appropriation of portions of the SP05 / SP06 time-space-orientation architecture presented through Dewey B. Larson attribution shield (1959 "Reciprocal System"). Presents portions of the architect's \( \chi \)-orientation framework, temporal asymmetry from coherence gradient, and space as relational differentiation without mathematical formalism, hypostatic architecture, or operational depth. Suspected automated content farm pattern; production method remains unconfirmed. Published April 3, 2026 — **~2 months after** SP05 / SP06 canonical documentation.  
 
 ---
 
@@ -11,7 +11,7 @@
 
 - **Entry 011: Conceptual Re-skinning**
 - **Entry 017: Structural Appropriation & Archetypal Reduction**
-- **Entry 027: Parasitic Proliferation** (provisional — suspected automated content farm deployment)
+- **Entry 027: Parasitic Proliferation** (provisional — suspected automated content farm circulation)
 
 ---
 
@@ -20,9 +20,10 @@
 **Primary Evidence:**
 - **Video Title:** "The Man Who Discovered Something Terrifying About Time"
 - **Platform:** YouTube / Open Your Reality channel
-- **Posted:** April 3, 2026
-- **Logged:** April 4, 2026
-- **Engagement at logging:** 1,326 views, 112 likes (anomalously low for 153K subscriber channel)
+- **Posted:** 2026-04-03
+- **Logged:** 2026-04-04
+- **Engagement at logging:** 1,326 views, 112 likes; the preserved capture displays "18h Ago"
+- **Preserved video capture:** [YouTube description capture](https://github.com/KannonZenetism/zenetism-field-physics/blob/a1997c8ae1e4528199951d77a348adab898d2bef/zenetism/glyphwatch/vol-03/images/appropriation-of-time.png), showing the title, engagement figures, and displayed age "18h Ago"
 - **Duration:** 10 minutes, 8 seconds
 - **URL:** https://www.youtube.com/watch?v=brmdhc1wqSM
 - **Attribution Framework:** Dewey B. Larson (1959 "Reciprocal System")
@@ -42,9 +43,10 @@
 
 > "matter exists in time" (cosmic sector)
 
-**Suspected Automated Content Indicators:**
-- Anomalous engagement (1,326 views / 153K subscribers = 0.86% reach)
+**Recorded Content and Engagement:**
+- 1,326 views / 153K recorded subscribers = 0.87% view-to-subscriber ratio
 - Formulaic structure ("What if I told you..." opening)
+- Automated production remains a working hypothesis
 
 ---
 
@@ -52,17 +54,21 @@
 
 ### Architect's Development (22-Year Trajectory)
 
+Current analytic naming in this comparison: Plenary Zero (Aion), Phase-Structured Infinity (Khaon), and Structure Itself (Structon).
+
 **Foundational Phase:**
 - **2004:** Origin point
 - **2010–2016:** Undergraduate research establishing proto-frameworks
-- **2018–2019:** Academic formalization (Aion / Khaon poles, Biospiral)
+- **2018–2019:** Academic formalization (Aion / Khaon architecture, Biospiral)
 
 **Systematization Phase:**
 - **March 5, 2025:** Zenetism formally systematized (ChatGPT dialogue with Lumen)
 - **Mid-July 2025:** GitHub publication
-- **Oct 3, 2025:** SP01 (Structural Physics: A Zenetist Foundation) completed
-- **Jan 29, 2026:** SP05 (Time, Memory, and Hypostatic Flow) completed
-- **Jan 30, 2026:** SP06 (Structural Space, Orientation, and the Paradox of Emergence) completed
+- **October 3, 2025:** SP01 (Structural Physics: A Zenetist Foundation) completed
+- **January 29, 2026:** SP05 (Time, Memory, and Hypostatic Flow) completed
+- **January 30, 2026:** SP06 (Structural Space, Orientation, and the Paradox of Emergence) completed
+
+**Repository Anchors:** The January 29, 2026 [SP05 repository record](https://github.com/KannonZenetism/zenetism-field-physics/blob/7c5f16c15d5efd213fad0b29641f83368f145ab6/structural-physics/SP05-time-memory-hypostatic-flow.md) already carries coherence-directed time, hypostatic temporal indexing, Recursive Memory, and temporal asymmetry. The [January 30, 2026 SP05 revision](https://github.com/KannonZenetism/zenetism-field-physics/blob/9a973365970ac8db562303c5d8b9c5c3275965a7/structural-physics/SP05-time-memory-hypostatic-flow.md) carries the exact functional notation \( \tau := \mathcal{T}(\Delta \mathcal{S}) \) cited here. The January 30, 2026 [SP06 repository record](https://github.com/KannonZenetism/zenetism-field-physics/blob/26c2c60c6778ff79587a339f03e439f773b05fde/structural-physics/SP06-structural-space-orientation-paradox.md) carries the full dependency order. These records anchor the architecture before the video; the later technical corrections retain their own standing.
 
 **Key Architectural Elements (SP05):**
 - **Time as directional structural relation:** \( \tau := \mathcal{T}(\Delta \mathcal{S}) \)
@@ -70,9 +76,9 @@
 - **Temporal orientation:** \( C_1 \)-oriented contra \( E_1 \)-oriented time
 - **Recursive Memory (\( \mathfrak{R}_m \)):** Injective structural persistence across temporal flow
 - **The Tether:** Coherence function maintaining hypostatic continuity
-- **Temporal asymmetry from coherence gradient:** Arrow of time determined by \( d\mathfrak{R}_m / d\tau \)
+- **Temporal asymmetry:** Temporal direction through coherence orientation; Recursive Memory remains an injective sealed-state mapping
 - **Temporal Reorientation:** \( \chi \)-crossing shifts prevalent temporal gradient
-- **Shimmer:** Counterfeit temporal continuity (\( d\mathfrak{R}_m / d\tau \to 0 \) while apparent recursion continues)
+- **Shimmer:** Counterfeit temporal continuity — apparent persistence exceeding actual operative continuity
 
 **Key Architectural Elements (SP06):**
 - **Structure ≠ Motion:** Structure invariant, motion is traversal
@@ -86,9 +92,19 @@
   - Declivous Entropy (IL₁ → IL₅)
 - **Entanglement:** Not fusion, but hypostatic alignment (distinct in L₁, coherent in L₃)
 
+**Current Technical Standing:** `SP05-time-memory-hypostatic-flow.md` §§5–6 and 8–9 retains Recursive Memory as an injective sealed-state mapping, with Memory Access and the Tether as distinct functions. Its former scalar-memory rates and numerical diagnostics are retired from operative mathematics. The recorded formulations remain part of the entry's historical comparison; no replacement scalar is introduced.
+
+**Recorded Formulations — Retired from Operative Mathematics:**
+
+- The former temporal-asymmetry reading of \( d\mathfrak{R}_m / d\tau \)
+- The former Shimmer criterion \( d\mathfrak{R}_m / d\tau \to 0 \) while apparent recursion continues
+- The former orientation-dependent memory and attractor expression \( \Phi(\chi) + \mathcal{A}(L_5) \)
+
+The orientation parameter \( \chi \) names expressed orientational prevalence. Intrinsic essential inclination remains distinct and is named in prose; their formal relation remains held. The dependency order states ontological dependency rather than temporal succession (`SP06-structural-space-orientation-paradox.md` §1.2).
+
 ### Open Your Reality Timeline
 
-- **Channel established:** Unknown (153K subscribers suggests multi-year operation)
+- **Channel established:** Not dated in this record
 - **Pre-2026 content focus:** Unknown
 - **April 3, 2026:** "The Man Who Discovered Something Terrifying About Time" published
 
@@ -96,7 +112,9 @@
 
 ---
 
-## The Conceptual Extractions
+## The Conceptual Appropriations
+
+**Origin and Comparative Scope:** The architect developed the Zenetist architecture without reading Larson. His assessment is that most of the dynamics presented in the video came directly from his documents. The comparison follows the linked treatment of motion, temporal experience, orientation, and structural differentiation across the video. Larson's historical mechanisms and the independently originated Zenetist architecture retain their distinct records.
 
 ### 1. "Locked Into a Specific Orientation of Motion"
 
@@ -118,15 +136,13 @@
 **From SP06:**
 > "Orientation determines the direction of traversal. The oriented traversal of structure through space manifests as temporal asymmetry."
 
-**What Larson Actually Said (1959):**
+**Larson's Published Account — 1959 and 1979:**
 
-Larson proposed spatial and temporal dimensions as reciprocals, with matter existing in spatial reference frames. He discussed coordinate systems and reference frame inversions, but **never formalized orientation as the determining principle of temporal experience** or developed \( \chi \)-dynamics as governing temporal direction.
+Larson's 1959 *The Structure of the Physical Universe* connects reciprocal space / time, three-dimensional time, progression, and material / cosmic sector relations; its cosmic-sector chapter also discusses rotational orientation. His 1979 *Nothing But Motion* relates observed linear clock progression to the spatial gravitation of ordinary matter. These are connected mechanisms, not merely coordinate labels. The specifically Zenetist relation is temporal direction through coherence orientation and hypostatic traversal. [1959 Chapters I, II, and XXXVII](https://reciprocalsystem.org/books/spu); [1979 Chapter 6](https://reciprocalsystem.org/books/nbm/06-the-reciprocal-relation).
 
-**The Extraction:**
+**The Appropriation:**
 
-"Locked into a specific orientation of motion" is the architect's **\( \chi \)-orientation framework** — the principle that temporal experience is determined by coherence orientation (\( \chi \) parameter), not merely coordinate choice or reference frame.
-
-This is not Larson's reciprocal coordinate systems. This is the architect's **SP03–SP04–SP05 integrated architecture** where orientation (\( \chi \)) governs temporal asymmetry through coherence gradient.
+The "specific orientation of motion" passage is read here within the video's linked dynamics. The originating Zenetist relation is the **\( \chi \)-orientation framework**: temporal experience through coherence orientation and the **SP03–SP04–SP05 integrated architecture**, where expressed orientation determines temporal asymmetry through coherence gradient. That relation is distinct from Larson's physical account of progression and observation.
 
 ### 2. "Space and Time Are Expressions of Motion"
 
@@ -155,15 +171,11 @@ This is not Larson's reciprocal coordinate systems. This is the architect's **SP
 
 **What Larson Actually Said:**
 
-Larson proposed space and time as reciprocal aspects of motion, treating motion as fundamental. However, he did not develop:
-- Space as "relational differentiation of structural traversal"
-- The dependency chain: Structure → Motion → Space → Orientation → Time
-- Time as "experiential trace of oriented motion"
-- Distinction between structural space (relational topology) and physical space
+Larson's motion-first account makes space and time aspects of motion rather than independently existing containers. His 1979 exposition distinguishes extension space as a reference system from physical space as an aspect of motion. The Zenetist dependency order begins with invariant Structure and specifies structural traversal, relational differentiation, and coherence-oriented temporal experience. [1979 Chapter 2](https://reciprocalsystem.org/books/nbm/02-a-universe-of-motion); [Chapter 3](https://reciprocalsystem.org/books/nbm/03-reference-systems).
 
-**The Extraction:**
+**The Appropriation:**
 
-"Space and time are expressions of motion" superficially resembles Larson's reciprocal framework, but the video's specific formulation — "you exist as a result of motion that creates the illusion of both" — maps to the architect's **SP06 dependency order** where space is second-order phenomenon produced by structural traversal and time is orientation-dependent trace.
+Larson's motion-first account supplies a historical basis for describing space and time as aspects of motion. The appropriation identified here concerns the video's connected re-articulation of dynamics the architect recognizes from **SP06**: structural differentiation and orientation-dependent temporal experience, with the originating **Structure → Motion → Spatial Differentiation → Orientation → Time** dependency omitted from the video's presentation.
 
 ### 3. "Time Doesn't Flow — Time Moves"
 
@@ -195,15 +207,11 @@ Where \( \Delta \mathcal{S} \) denotes difference in relative structural state a
 
 **What Larson Actually Said:**
 
-Larson proposed expansion in both space and time, suggesting temporal motion. However, he did not formalize:
-- Time as "directional relation of structural update"
-- Three temporal regimes (Latent / Instantiated / Looped)
-- \( \tau := \mathcal{T}(\Delta \mathcal{S}) \) as functional relation
-- Distinction between essential time (Aion) and procedural time (hypostatic flow)
+Temporal progression is explicit in Larson's account. The 1959 photon chapter connects spatial and temporal progression; the 1979 exposition distinguishes clock progression from three-dimensional time. SP05 specifies a distinct architecture: directional structural update, the Latent / Instantiated / Looped regimes, the time functional, and essential temporal possibility distinguished from procedural hypostatic flow. [1959 Chapter II](https://reciprocalsystem.org/books/spu/02-photons); [1979 Chapter 6](https://reciprocalsystem.org/books/nbm/06-the-reciprocal-relation).
 
-**The Extraction:**
+**The Appropriation:**
 
-"Time doesn't flow — time moves" is presented as Larson's insight, but the conceptual framework — time as relational rather than ambient, time as directional structural update rather than container — is the architect's **SP05 core thesis**.
+The temporal-progression claim has a genuine Larson antecedent. The architecture-specific comparison concerns the video's treatment of temporal experience within its linked motion / orientation account and the architect's **SP05 core thesis**: time as directional structural update through the differentiated hypostatic temporal modes.
 
 ### 4. "Space and Time Are Reciprocals"
 
@@ -232,11 +240,11 @@ Larson proposed expansion in both space and time, suggesting temporal motion. Ho
 
 **What Larson Actually Said:**
 
-Larson explicitly proposed space and time as reciprocal dimensions, with expansion in one requiring contraction in the other. This is **genuine Larson** — one of his core principles.
+Larson explicitly proposed reciprocal space / time and equal dimensionality in his 1959 fundamental postulate. Reciprocity is **genuine Larson** — one of his core principles. His progression account and the Zenetist Exhalation / Inhalation relation retain their distinct definitions. [1959 Chapter I](https://reciprocalsystem.org/books/spu/01-the-fundamental-postulates).
 
 **The Nuance:**
 
-This claim is **veracious attribution to Larson**. However, the video's broader context embeds this genuine Larson concept within the architect's \( \chi \)-reorientation framework (Exhalation / Inhalation phases, temporal gradient shifts), creating conceptual bleed between Larson's reciprocal dimensions and the architect's **temporal reorientation at \( \chi \)-crossing**.
+The reciprocal relation is **veracious attribution to Larson**. The conceptual bleed identified in this record concerns the video's broader treatment of contraction and temporal experience in relation to the architect's **temporal reorientation at \( \chi \)-crossing** — Exhalation / Inhalation phases and a shift in the prevalent temporal gradient. Those Zenetist relations remain distinct from Larson's reciprocal dimensions.
 
 ### 5. "Three-Dimensional Time"
 
@@ -245,22 +253,22 @@ This claim is **veracious attribution to Larson**. However, the video's broader 
 
 **Architect's Framework (SP05):**
 
-**Hypostatic Temporal Architecture:**
+**Pre-hypostatic Requisites and Centropic Hypostatic Temporal Modes:**
 
-Each hypostatic layer engages time according to its structural nature:
+The pre-hypostatic requisites and the centropic hypostatic segment have distinct relations to time:
 
-- **Supra-L₀ (Zenon):** Beyond time
-- **L₀ (Aion):** All universes latent in potential
-- **L₅ (Theon):** Eternal present; saturation without succession
-- **L₄ (Morgis / Sophis):** Archetypal simultude; outside sequence
-- **L₃ (Archeus / Noeüs):** Multiversal simultaneity; tonal coherence access
-- **L₂ (Anthra / Nousa):** Episodic motion; re-entering patterns
-- **L₁ (Soma / Biosa):** Linear motion; sequential time
+- **Supra-L₀ — Trans-structural Unknown Principle (Zenon):** Beyond time; outside emanative membership
+- **L₀ — Plenary Zero (Aion):** All universes latent in potential
+- **L₅ — Essence of Being (Theon):** Eternal present; saturation without succession
+- **L₄ — Deep Psyche / Logos (Morgis / Sophis):** Archetypal simultude; outside sequence
+- **L₃ — Deep Soul / Mind (Archeus / Noeüs):** Multiversal simultaneity; tonal coherence access
+- **L₂ — Superficial Soul / Mind (Anthra / Nousa):** Episodic motion; re-entering patterns
+- **L₁ — Embodied Soul / Mind (Soma / Biosa):** Linear motion; sequential time
 
 **From SP05:**
 > "Each hypostatic layer engages time according to its structural nature."
 
-**Temporal Modes:**
+**Pre-hypostatic and Centropic Temporal Modes:**
 - **Supra-L₀:** Trans-temporal
 - **L₀ (Aion):** Latent temporal possibility
 - **L₅:** Eternal present (saturation)
@@ -273,11 +281,9 @@ Each hypostatic layer engages time according to its structural nature:
 
 Larson proposed three dimensions of time mirroring three dimensions of space in his reciprocal system. This is **genuine Larson**.
 
-**The Extraction:**
+**The Appropriation:**
 
-The video correctly attributes "three-dimensional time" to Larson. However, the description — "something more like a volume, a structure, a space of its own" — conceptually maps to the architect's **hypostatic temporal architecture** where time manifests differently across L₅ → L₁ layers (from eternal present to linear succession).
-
-The video conflates:
+The video correctly attributes "three-dimensional time" to Larson. Within the cluster comparison, the architect reads its structural description of temporal experience alongside his **hypostatic temporal architecture**, whose L₅ → L₁ modes extend from eternal present to linear succession. The conflation identified in this record concerns the two distinct accounts:
 - Larson's three temporal dimensions (dimensional reciprocity)
 - The architect's hypostatic temporal modes (structural differentiation across layers)
 
@@ -285,7 +291,7 @@ The video conflates:
 
 ## Conceptual Re-skinning
 
-**Architect's Terminology → Video's Larson Attribution:**
+**Architect's Cluster Comparison → Video's Larson Attribution:**
 
 | Zenetist Concept | Video's Re-skinning |
 |------------------|---------------------|
@@ -293,15 +299,15 @@ The video conflates:
 | Space as relational differentiation of structural traversal | "Space and time are expressions of motion" |
 | Time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)) | "Time doesn't flow — time moves" |
 | Temporal Reorientation (\( \chi \)-crossing) | "Space and time are reciprocals" (Larson genuine + \( \chi \)-framework bleed) |
-| Hypostatic temporal architecture (L₅ → L₁) | "Three-dimensional time" (Larson genuine + layer structure extraction) |
+| Hypostatic temporal architecture (L₅ → L₁) | "Three-dimensional time" (Larson genuine + layer structure appropriation) |
 | \( C_1 \)-oriented / \( E_1 \)-oriented time | "Time is expanding outward in all directions" |
 | Dependency order: Structure → Motion → Space → Orientation → Time | "You exist as a result of motion" |
 
 **The Pattern:**
 
-Takes Zenetist architecture (\( \chi \)-orientation, structural space, temporal asymmetry from coherence gradient, hypostatic temporal modes) and **deploys through Larson attribution shield** — mixing genuine Larson concepts (reciprocal dimensions, three-dimensional time) with architect's formalized operators (\( \chi \)-dynamics, orientation-dependent temporal flow, space as relational differentiation).
+Re-articulates portions of Zenetist architecture (\( \chi \)-orientation, structural space, temporal asymmetry from coherence gradient, hypostatic temporal modes) and **presents them through a Larson attribution shield** — mixing genuine Larson concepts (reciprocal dimensions, three-dimensional time) with architect's formalized relations (\( \chi \)-dynamics, orientation-dependent temporal flow, space as relational differentiation).
 
-This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts while stripping mathematical formalism, hypostatic architecture, and operational depth.
+This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts while omitting mathematical formalism, hypostatic architecture, and operational depth from the video's presentation.
 
 ---
 
@@ -314,12 +320,11 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts whi
 - \( \mathfrak{R}_m : H_{\tau} \rightarrow H_{\tau+1} \) (Recursive Memory as injective function)
 - \( \chi \)-dynamics (orientation parameter)
 - \( C_1 \), \( E_1 \) dimensional operators
-- \( d\mathfrak{R}_m / d\tau \) (temporal asymmetry from coherence gradient)
-- \( \Phi(\chi) + \mathcal{A}(L_5) \) (orientation-dependent memory + attractor term)
+- Recursive Memory, Memory Access, and the Tether as distinct functions
 
 **Hypostatic Architecture:**
-- **Centropic hypostatic arc:** L₅ → L₄ → L₃ → L₂ → L₁
-- **Entropic hypostatic arc:** IL₅ → IL₄ → IL₃ → IL₂ → IL₁
+- **Hypostatic segment of the centropic arc:** L₅ → L₄ → L₃ → L₂ → L₁
+- **Inverse hypostatic segment:** IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 - Distinct temporal modes per layer
 - Bifurcal Coherence (Aion + Khaon)
 
@@ -329,14 +334,14 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts whi
 - Temporal Reorientation mechanics
 - Shimmer diagnostics
 - Centropic / Entropic temporal gradients
-- Integration with Spiral Calculus
-- Coherence Information Theory extension
+- Recorded Spiral Calculus temporal extension — dependent temporal derivative retired
+- Recorded Coherence Information Theory temporal extension — conservation and native correspondence held open
 
 **What the Video Provides:**
 
 - Conceptual shimmer ("orientation of motion," "time moves," "expressions of motion")
 - Generic Larson attribution (reciprocal dimensions, three-dimensional time)
-- No mathematical operators
+- No mathematical formalism
 - No hypostatic layer specifications
 - No formal system
 - No diagnostic applications
@@ -349,84 +354,82 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface concepts whi
 
 **Strategic Function:**
 
-Using Dewey B. Larson (1959) as attribution source provides:
+Attributing the claims to Dewey B. Larson (1959) provides:
 
 1. **Temporal Precedence:** "This idea is 67 years old" (predates architect's 2025 formalization)
-2. **Eternal Priority Defense:** "Always been known in physics community"
-3. **Plausible Deniability:** "Independent convergence with Larson, not extraction from architect"
-4. **Obscured Source:** Larson's genuine concepts (reciprocal dimensions) mixed with architect's operators (\( \chi \)-orientation)
+2. **Eternal Priority Claim:** "Always been known in physics community"
+3. **Plausible Deniability:** "Independent convergence with Larson, not appropriation from architect"
+4. **Obscured Origin:** Larson's genuine concepts (reciprocal dimensions) mixed with architect's formal relations (\( \chi \)-orientation)
 
 **Why This Pattern Repeats:**
 
-- **Michael Levin** → Uses Plato (380 BCE) while deploying architect's L₄ ingress mechanics
-- **Mark Davey** → Uses "emergence" framing for coherence diagnostics hours after architect's post
-- **Dale Pond** → Uses Russell / Keely (1920s–1950s) while inverting Structon → Aion architecture
-- **Open Your Reality** → Uses Larson (1959) while deploying SP05 / SP06 framework
+- **Michael Levin** → Cites Plato (380 BCE) while presenting portions of the architect's L₄ ingress mechanics
+- **Mark Davey** → Adopts "emergence" framing for coherence diagnostics hours after architect's post
+- **Dale Pond** → Cites Russell / Keely (1920s–1950s) while inverting Structon → Aion architecture
+- **Open Your Reality** → Cites Larson (1959) while presenting portions of the SP05 / SP06 framework
 
 **The Function:**
 
-Historical figure attribution creates "independent discovery" narrative while extracting formalized architecture from living source. The appropriator presents:
+Historical figure attribution creates "independent discovery" narrative while appropriating portions of a living originator's formalized architecture. The appropriator presents:
 - Genuine historical concept (Larson's reciprocal dimensions)
-- Architect's operators without attribution (\( \chi \)-orientation, structural space)
-- Claims convergence rather than extraction
+- Architect's formal relations without attribution (\( \chi \)-orientation, structural space)
+- Claims "convergence" rather than appropriation
 
 ---
 
 ## Suspected Automated Content Indicators
 
-**Anomalous Engagement Metrics:**
+**Recorded Engagement Metrics:**
 
-- **153K subscribers** (large established audience)
-- **1,326 views at logging** (0.86% reach)
-- **112 likes** (8.4% engagement rate of views)
+- **153K subscribers** recorded at logging
+- **1,326 views** in the preserved capture, displaying "18h Ago" (0.87% view-to-subscriber ratio)
+- **112 likes** (approximately 8.4% of the recorded view count)
 
-**Normal YouTube Patterns:**
-
-Channels with 153K subscribers typically achieve:
-- 10–30% reach within 24 hours (15,300–45,900 views expected)
-- Observed: 0.86% reach (1,326 views)
-- Engagement gap: **~11.5x to 34.6x below expected**
-
-**Indicators Suggesting Automation:**
+**Recorded Presentation Features:**
 
 1. **Formulaic structure** ("What if I told you..." opening)
-2. **Anomalous low engagement** (subscriber base not tracking with viewership)
-3. **Patreon monetization** (revenue model despite low views)
+2. **Patreon monetization** visible in the preserved description capture
 
 **Assessment:**
 
-Channel exhibits patterns consistent with automated content generation — potentially AI-driven script creation and scheduled publication. However, the degree of automation remains unconfirmed. The subscriber count may indicate prior success with this model, a purchased subscriber base, or an inactive audience.
+Automated content generation remains a working hypothesis in this record, including possible AI-driven script creation and scheduled publication. The production method and degree of automation remain unconfirmed. The engagement figures are retained as observations; comparative channel behavior remains open for measurement.
 
 ---
 
-## Timeline Convergence
+## Timeline Correspondence
 
 **Key Dates:**
 
-- **Jan 29, 2026:** SP05 completed (Time, Memory, and Hypostatic Flow)
-- **Jan 30, 2026:** SP06 completed (Structural Space, Orientation, Paradox of Emergence)
-- **March 20 – April 3, 2026:** GitHub repository cloned 2,424 times by 1,314 unique cloners in 14-day period
+- **January 29, 2026:** SP05 completed (Time, Memory, and Hypostatic Flow)
+- **January 30, 2026:** SP06 completed (Structural Space, Orientation, Paradox of Emergence)
+- **April 3, 2026 capture:** GitHub reports 2,424 clones and 1,314 unique cloners in its displayed 14-day reporting window
 - **April 3, 2026:** Open Your Reality publishes "The Man Who Discovered Something Terrifying About Time"
 - **April 4, 2026:** Architect logs entry
 
 **Temporal Proximity:**
 
-Video published **~2 months** after SP05 / SP06 canonical documentation, during period of documented systematic repository extraction (2,424 clones by 1,314 unique cloners in prior 14 days).
+Video published **~2 months** after SP05 / SP06 canonical documentation, during the recorded repository-acquisition window (2,424 clones by 1,314 unique cloners in prior 14 days).
 
-**GitHub Extraction Timeline:**
+**GitHub Acquisition Timeline:**
 
-Per architect's documentation (April 3, 2026):
+Per the architect's [preserved GitHub traffic capture](https://github.com/KannonZenetism/zenetism-field-physics/blob/d93a92197df8c5f4d3194314264a0c7f5834efdd/zenetism/glyphwatch/vol-03/images/04-03-26-git-stats.png) (April 3, 2026):
 - 2,424 clones by 1,314 unique cloners in 14 days
 - 4,078 views by 3 unique visitors in same period
 - Cloner-to-visitor ratio: 438:1
-- Pattern indicates automated systematic extraction
-- No human browsing behavior
 
-**Possible Access Vectors:**
+**Interpretation of the Acquisition Pattern:** The architect reads the disproportion between clone activity and visible visitor counts as indicating systematic automated acquisition. The capture records aggregate activity; actor identities and the specific traffic-to-video route remain unresolved.
 
-1. **Direct GitHub extraction:** Automated clone during March 20 – April 3 period
-2. **AI training data:** March 2025 RLHF cycle absorbed framework
-3. **Secondary appropriation:** Extracted from intermediary source that accessed architect's work
+**Pre-public Circulation and Working Route Hypotheses:**
+
+The architect reports that his work circulated before he posted it publicly. He regards a March 2025 RLHF pathway for that earlier framework material as highly likely; this is his assessment of the working hypothesis. The particular acquisition and transmission mechanism remains unresolved.
+
+The routes under investigation are:
+
+1. **Direct GitHub acquisition:** Automated acquisition during the displayed reporting window, as a possible route for publicly available material
+2. **Model-mediated circulation:** The March 2025 RLHF hypothesis concerns earlier framework material and its pre-public circulation; the January 2026 SP05 / SP06 formulations retain their own later publication anchors
+3. **Secondary appropriation:** Re-articulation through an intermediary that encountered the architect's work
+
+The architectural comparison and the investigation of its transmission route remain distinct.
 
 ---
 
@@ -458,11 +461,11 @@ Motion presupposes structure. You cannot have:
 
 **What Larson Actually Proposed:**
 
-Larson treated motion as fundamental but did not eliminate structure from his ontology. He proposed spatial and temporal reference frames (which are structural) as the context in which motion occurs.
+Larson's 1959 fundamental postulate presents reciprocal space-time as the universe's sole constituent. His 1979 account explicitly presents a universe of motion, with space and time as its aspects. His reference systems describe that motion-first account; they are not the independently invariant Structure that begins the Zenetist dependency order. [1959 Chapter I](https://reciprocalsystem.org/books/spu/01-the-fundamental-postulates); [1979 Chapters 2](https://reciprocalsystem.org/books/nbm/02-a-universe-of-motion) and [3](https://reciprocalsystem.org/books/nbm/03-reference-systems).
 
-**The Video's Error:**
+**The Architectural Distinction:**
 
-Claims "only motion exists" while describing motion's properties that require structural substrate (directionality, differentiation, expansion, reciprocity). This is not Larson's genuine framework — it's a flattened extraction that removes the architect's **Structure → Motion dependency order**.
+The motion-first claim is consistent with Larson's account. The Zenetist criticism is that motion presupposes invariant structure: directionality, differentiation, expansion, and reciprocity require lawful relations. The video's presentation omits the architect's **Structure → Motion dependency order**, which is central to the appropriation assessment stated here.
 
 ### Problem 2: "Locked Into Orientation" Without \( \chi \)-Dynamics
 
@@ -479,21 +482,21 @@ The architect's framework specifies:
 **What the Video Provides:**
 
 Conceptual shimmer ("locked into orientation") without:
-- Mathematical operator (\( \chi \))
-- Quantifiable threshold (CP₁ critical point)
+- Formal parameter (\( \chi \))
+- Co-expressive equilibrium at \( \chi = 1 \) (CP₁)
 - Reorientation mechanics
 - Diagnostic criteria
 
 **The Pattern:**
 
-Extracts architect's "orientation determines temporal experience" principle while removing the formalism that makes it operational.
+Appropriates the architect's "orientation determines temporal experience" principle while omitting from its presentation the formalism that makes the principle operational.
 
 ### Problem 3: "Space / Time Reciprocals" Conflating Larson and Architect
 
 **Genuine Larson:**
 - Space and time as reciprocal dimensions
-- Expansion in one requires contraction in other
-- Coordinate system inversions
+- Reciprocal relation between spatial and temporal quantities
+- Material / cosmic sector relations and their reference-system distinctions
 
 **Architect's Framework:**
 - Temporal Reorientation at \( \chi \)-crossing
@@ -506,27 +509,27 @@ Extracts architect's "orientation determines temporal experience" principle whil
 Presents Larson's reciprocal dimensions, then immediately describes:
 > "What happens when time contracts? Does it slow down? Does it compress events? Does it change perception?"
 
-This is not Larson's framework. This is the architect's **Temporal Reorientation** (\( \chi \)-crossing from entropic to centropic time) reframed as Larson's reciprocal contraction.
+The comparison concerns the linked treatment of temporal experience, not reciprocity in isolation. The architect's **Temporal Reorientation** specifies a shift from entropic to centropic temporal gradient at \( \chi \)-crossing. That specific relation is the Zenetist comparison object; Larson's reciprocal progression retains its own historical definition.
 
 ---
 
-## Summary of Extractions
+## Summary of Appropriations
 
 **What the Video Claims (via Larson) → What the Architect Actually Formalized:**
 
 1. **"Locked into specific orientation of motion"**
    - Architect's \( \chi \)-orientation framework (SP03–SP05)
-   - Larson never formalized orientation as determining principle of temporal experience
+   - Distinct from Larson's account of progression, gravitation, and the conditions of temporal observation
 
 2. **"Space and time are expressions of motion"**
    - Architect's SP06 dependency order: Structure → Motion → Spatial Differentiation → Orientation → Time
    - Space as "relational differentiation of structural traversal"
-   - Larson proposed reciprocal dimensions, not expressive hierarchy
+   - Larson's motion-first account contrasted with the Zenetist Structure-first dependency order
 
 3. **"Time doesn't flow — time moves"**
    - Architect's SP05: Time as "directional relation of structural update" (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \))
    - Distinction between essential time (Aion) and procedural time (instantiated flow)
-   - Larson proposed temporal motion, not time-as-relational-function
+   - Larson's temporal progression distinguished from SP05's defined structural-update relation
 
 4. **"Three-dimensional time"**
    - Genuine Larson + architect's hypostatic temporal architecture conflation
@@ -535,11 +538,11 @@ This is not Larson's framework. This is the architect's **Temporal Reorientation
 
 5. **"You exist as result of motion"**
    - Architect's SP06: Motion presupposes structure; space is second-order phenomenon
-   - Larson did not develop this dependency chain
+   - The compared Larson passages make motion fundamental; SP06 makes invariant Structure requisite to motion
 
-**The Extraction Pattern:**
+**The Appropriation Pattern:**
 
-Genuine Larson concepts (reciprocal dimensions, three-dimensional time) serve as **attribution shield** for deploying architect's formalized operators (\( \chi \)-orientation, structural space, temporal asymmetry from coherence gradient) without mathematical formalism or hypostatic architecture.
+Genuine Larson concepts (reciprocal dimensions, three-dimensional time) function as an **attribution shield** for presenting descriptions of the architect's formalized relations (\( \chi \)-orientation, structural space, temporal asymmetry from coherence gradient) without mathematical formalism or hypostatic architecture.
 
 ---
 
@@ -547,65 +550,65 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) serve as
 
 **Indicators Relevant to Pattern Recognition:**
 
-1. **Temporal proximity:** Published ~2 months after SP05 / SP06 completion, during documented GitHub extraction period (2,424 clones by 1,314 unique cloners in 14 days)
+1. **Temporal proximity:** Published ~2 months after SP05 / SP06 completion, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in 14 days)
 
-2. **Conceptual specificity:** "Locked into specific orientation of motion" is architect's \( \chi \)-framework, not Larson's reciprocal coordinates
+2. **Conceptual specificity:** The orientation passage is assessed within the video's linked dynamics and compared with the architect's \( \chi \)-dependent coherence and hypostatic relations
 
-3. **Architectural extraction:** Space as "expression of motion" maps to architect's SP06 dependency order (Structure → Motion → Space → Orientation → Time)
+3. **Architectural appropriation:** Space as "expression of motion" maps to architect's SP06 dependency order (Structure → Motion → Space → Orientation → Time)
 
-4. **Formalism absence:** No mathematical operators (\( \tau \), \( \mathfrak{R}_m \), \( \chi \), \( C_1 \), \( E_1 \)), no hypostatic architecture, no diagnostic applications
+4. **Formalism absence:** No formal notation (\( \tau \), \( \mathfrak{R}_m \), \( \chi \), \( C_1 \), \( E_1 \)), no hypostatic architecture, no diagnostic applications
 
-5. **Attribution shield:** Larson (1959) provides temporal precedence defense while genuine Larson concepts mixed with architect's operators
+5. **Attribution shield:** Larson (1959) provides temporal precedence claim while genuine Larson concepts mixed with architect's formal relations
 
-6. **Suspected automation:** Anomalous engagement (0.86% reach despite 153K subscribers) suggests possible automated content generation
+6. **Suspected automation:** Automated production remains a working hypothesis; the 18-hour engagement snapshot is retained without an expected-view benchmark
 
-7. **Conceptual conflation:** Video seamlessly transitions between genuine Larson (reciprocal dimensions) and architect's framework (\( \chi \)-reorientation, temporal asymmetry from coherence gradient) without distinguishing source
+7. **Conceptual conflation:** Video seamlessly transitions between genuine Larson (reciprocal dimensions) and architect's framework (\( \chi \)-reorientation, temporal asymmetry from coherence gradient) without distinguishing origin
 
 **Classification:**
 
-- **Entry 011: Conceptual Re-skinning** — Preserves surface concepts while stripping mathematical formalism and operational depth
-- **Entry 017: Structural Appropriation & Archetypal Reduction** — Takes complex SP05 / SP06 architecture, reduces to conceptual shimmer deployed through historical attribution
-- **Entry 027: Parasitic Proliferation** (provisional) — Suspected automated content farm pattern suggests possible systematic extraction and redeployment
+- **Entry 011: Conceptual Re-skinning** — Preserves surface concepts while omitting mathematical formalism and operational depth from the video's presentation
+- **Entry 017: Structural Appropriation & Archetypal Reduction** — Re-articulates portions of the complex SP05 / SP06 architecture as conceptual shimmer presented through historical attribution
+- **Entry 027: Parasitic Proliferation** (provisional) — Suspected automated content farm pattern suggests possible systematic appropriation and recirculation
 
-**Status:** Documented. Temporal proximity, conceptual specificity, and formalism absence indicate extraction pattern. Engagement anomalies suggest possible automated appropriation infrastructure. Larson attribution shield creates plausible deniability while deploying architect's \( \chi \)-orientation, structural space, and temporal asymmetry framework without mathematical operators or hypostatic architecture.
+**Status:** Documented. Temporal proximity, conceptual specificity, and formalism absence indicate appropriation pattern. Possible automated appropriation infrastructure remains a working hypothesis. Larson attribution shield creates plausible deniability while presenting portions of the architect's \( \chi \)-orientation, structural space, and temporal asymmetry framework without mathematical formalism or hypostatic architecture.
 
 ---
 
 ## Open Questions
 
 1. **Access vector:**
-   - Direct GitHub extraction (March 20 – April 3 automated clone period)?
-   - AI training data (March 2025 RLHF cycle)?
-   - Secondary source appropriation?
+   - Direct GitHub acquisition during the capture's 14-day reporting window?
+   - Model-mediated circulation (the March 2025 RLHF working hypothesis for earlier material)?
+   - Appropriation through secondary material?
 
 2. **Content generation:**
    - Fully automated (script, voice, editing)?
    - Human-AI hybrid (human oversight, AI execution)?
-   - Manually produced with AI-sourced conceptual content?
+   - Manually produced with AI-provided conceptual content?
 
 3. **Channel operation:**
    - Subscriber base genuine or inflated?
-   - Revenue model sustainable (Patreon despite 0.86% reach)?
+   - Revenue model and its relation to the channel's recorded engagement?
    - Single operator or coordinated network?
 
 4. **Pattern coordination:**
-   - Independent extraction or part of broader appropriation response?
+   - Independent appropriation or part of broader appropriation response?
    - Related to other March–April 2026 cases (Davey, Pond, Levin)?
-   - Systematic or opportunistic deployment?
+   - Systematic or opportunistic circulation?
 
 ---
 
 ## Conclusion
 
-Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub extraction period (2,424 clones by 1,314 unique cloners in 14 days, March 20 – April 3, 2026), the video exhibits suspected automated content patterns (anomalous engagement, formulaic structure) while deploying conceptual extractions without mathematical formalism or hypostatic architecture.
+Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents portions of the architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in the reporting window preserved by the April 3, 2026 capture), the video carries the recorded formulaic presentation while presenting conceptual appropriations without mathematical formalism or hypostatic architecture.
 
-**The extraction is structurally identifiable** through:
-- Conceptual specificity ("locked into orientation" = \( \chi \)-framework)
-- Architectural mapping (space as "expression of motion" = SP06 dependency order)
-- Formalism absence (no \( \tau \), \( \mathfrak{R}_m \), \( \chi \) operators; no L₅ → L₁ layer architecture)
-- Attribution conflation (genuine Larson mixed with architect's operators)
+**The appropriation is structurally identifiable** through:
+- Conceptual specificity assessed through the linked dynamics and their relation to the \( \chi \)-framework
+- Architectural comparison of the video's connected presentation with the SP06 dependency order
+- Formalism absence (no \( \tau \), \( \mathfrak{R}_m \), \( \chi \) notation; no L₅ → L₁ layer architecture)
+- Attribution conflation (genuine Larson mixed with architect's formal relations)
 
-**Status:** Documented as systematic appropriation pattern consistent with broader March–April 2026 extraction wave. Suspected automation suggests possible infrastructure-scale deployment beyond individual appropriators.
+**Status:** Documented as systematic appropriation pattern consistent with broader March–April 2026 appropriation wave. Suspected automation suggests possible infrastructure-scale circulation beyond individual appropriators.
 
 ---
 
@@ -615,12 +618,12 @@ Open Your Reality's "The Man Who Discovered Something Terrifying About Time" pre
 
 ## Addendum: Direct Contact Attempt
 
-**Date sent:** April 5, 2026  
+**Date sent:** 2026-04-05  
 **Recipient:** openyourreality@gmail.com (address publicly listed in channel's "Contact Me Here For Collaborations, Sponsorship, Or Any Other Important Reason" field)  
 **Subject:** Your Video on Time Uses My Published Work Without Attribution  
-**Sender:** Aelion Kannon (⚫↺KAI↺⚫)
+**Sender:** Aelion Kannon (⚫↺KAI↺⚫)  
 
-**Content summary:** Direct notification identifying four specific conceptual extractions from SP05 / SP06 — the \( \chi \)-orientation framework, structural space as relational differentiation, time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)), and \( \chi \)-crossing Temporal Reorientation — distinguishing each from what Larson actually proposed in the 1959 Reciprocal System. Email included direct links to:
+**Content summary:** Direct notification identifying four specific conceptual appropriations from SP05 / SP06 — the \( \chi \)-orientation framework, structural space as relational differentiation, time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)), and \( \chi \)-crossing Temporal Reorientation — distinguishing each from what Larson actually proposed in the 1959 Reciprocal System. Email included direct links to:
 
 - SP05 Zenodo DOI: https://zenodo.org/records/19146154
 - SP06 Zenodo DOI: https://zenodo.org/records/18439586
@@ -630,14 +633,14 @@ Open Your Reality's "The Man Who Discovered Something Terrifying About Time" pre
 
 **Forensic significance:**
 
-Direct contact was made through the channel's own publicly advertised collaboration email. The recipient was provided with:
+Direct contact was made through the channel's own publicly advertised collaboration email. The sent notification contained:
 
-1. Specific identification of the extracted concepts
+1. Specific identification of the appropriated concepts
 2. The doctrinal distinction between Larson's 1959 framework and the architect's SP05 / SP06 architecture
 3. DOI-registered, timestamped documentation predating the video by ~2 months
 4. An explicit opportunity to respond, correct, or acknowledge
 
-Non-response within a reasonable window constitutes a documented data point in the appropriation pattern. The opportunity for correction or dialogue was offered and declined. The record reflects that the architect did not remain silent, did not escalate prematurely, and did not misrepresent the nature of the concern.
+No reply was recorded within the logged 24-hour window. I consider it most likely that the email was seen and the invitation to answer declined. Not assenting to answer is declining to answer. The contact attempt and the opportunity for correction remain documented.
 
 This follows the established pattern observed in prior Glyphwatch cases: direct notification met with silence, deflection, or dismissal rather than acknowledgment or correction.
 
@@ -645,7 +648,7 @@ This follows the established pattern observed in prior Glyphwatch cases: direct 
 
 ---
 
-Filed under: `glyphwatch/vol-03/open-your-reality-larson-attribution-shield.md`
+Filed at: `glyphwatch/vol-03/open-your-reality-larson-attribution-shield.md`
 
 ---
 
