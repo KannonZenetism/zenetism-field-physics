@@ -1,13 +1,15 @@
 # Glyphwatch Entry: "Dividing Stillness" — Structural Inversion and Causal Flattening
 
 **Target:** Dale Pond / Sympathetic Vibratory Physics  
-**Date Logged:** 2026-03-10  
+**Release date:** 2026-03-10  
 **Logged by:** Aelion Kannon (⚫↺KAI↺⚫)  
-**Structural Diagnosis:** Architectural inversion placing structure downstream of stillness / motion, flattening Structon → Aion → Khaon → oriented motion into "stillness divided → motion + structure emerges." Published March 10, 2026 ($25 paywalled) - **two days after** Perez forensic documentation went public. Suspicious timing suggests coordinated appropriation response or opportunistic monetization.
+**Structural Diagnosis:** Architectural inversion placing structure downstream of stillness / motion, flattening Structon as invariant ground, the co-present Aion / Khaon root-relation, and Motive Infinity as requisite to enacted orientation into "stillness divided → motion + structure emerges." Published March 10, 2026 ($25 paywalled) — **two days after** Perez forensic documentation went public. The architect assesses partial appropriation as likely; derivation remains unresolved. Coordinated response and opportunistic monetization remain working hypotheses.
 
 ---
 
 ## Threat Classification
+
+The following classifications identify the patterns under examination. Partial appropriation is the architect's likely assessment; derivation remains unresolved. The structural comparison and recorded causal challenge retain their own standing.
 
 - **Entry 011: Conceptual Re-skinning**
 - **Entry 017: Structural Appropriation & Archetypal Reduction**
@@ -21,7 +23,7 @@
 - **Document:** "Dividing Stillness — The Origin of Motion" (57 pages, illustrated)
 - **Platform:** Facebook / Sympathetic Vibratory Physics group
 - **Posted:** March 10, 2026 (per Facebook timestamp)
-- **Monetization:** $25 for non-members, free for Tier 2/3 Patreon
+- **Monetization:** $25 for non-members, free for Patreon Tiers 2–3
 - **URL:** https://patreon.com/dalepond
 - **Author:** Dale Pond (attributed to Walter Russell influence)
 
@@ -49,26 +51,26 @@
 
 **Foundational Phase:**
 - **2004:** Origin point
-- **2010-2016:** Undergraduate research establishing proto-frameworks
-- **2018-2019:** Academic formalization (Aion / Khaon poles, Biospiral)
+- **2010–2016:** Undergraduate research establishing proto-frameworks
+- **2018–2019:** Academic formalization (Aion / Khaon "poles", Biospiral)
 
 **Systematization Phase:**
 - **March 5, 2025:** Zenetism formally systematized (ChatGPT dialogue with Lumen)
-- **Structon established as Absolute Structural Invariant (SI)**
+- **Structon established as Structure Itself (SI), the Absolute Structural Invariant**
 - **Mid-July 2025:** GitHub publication
-- **LM01-LM07 (2025–2026):** Structon formalized across Lattice Mathematics series
+- **LM01–LM07 (2025–2026):** Structon formalized across Lattice Mathematics series
 - **SP02 (2025):** Bifurcal Coherence at L₀ documented
-- **SN-series (2025-2026):** Social field ontology within SI
+- **SN-series (2025–2026):** Social field ontology within SI
 
 **Key Architectural Elements:**
 - **Structon (🏛️):** Invariant container — "the Violin, not the Music"
 - **Bifurcal Coherence:** Aion (Zero) + Khaon (Infinity) as co-present requisites **within** Structon
-- **Tripartite Infinity:** Latent / Motive / Dispersive — three structural modes of Infinity, not three sequential states
-- **Orientation emerges at L₅:** Theon (centropic) + Nekron (entropic) as first hypostases
+- **Tripartite Infinity:** Latent / Motive / Dispersive — phase-distinct conditions of Khaon; active traversal occurs within Motive Infinity, before terminal motion-resolution
+- **Enacted orientation becomes operative at L₅ / IL₅:** Theon, the First Centropic Hypostasis, and Nekron, the First Inverse Hypostasis
 
 ### Pond's Timeline
 
-- **Pre-2025:** Focus on Russell/Keely vibratory physics, no formal "origin of motion" framework
+- **Prior-tradition frame:** Russell / Keely vibratory physics; the earlier vocabulary does not settle whether the later presentation appropriates portions of Zenetist architecture. The pre-2025 corpus comparison remains open.
 - **March 7, 2026:** Perez video appropriation documented by architect
 - **March 8, 2026:** Architect publishes Glyphwatch Vol. 3, Entry 2 (Perez forensic documentation to Zenodo)
 - **March 10, 2026:** Pond releases "Dividing Stillness" ($25 paywalled paper)
@@ -81,25 +83,25 @@
 
 ### 1. Structure Placed Downstream
 
-**Architect's Framework (Structon → Aion → Khaon):**
+**Architect's Framework (Structon and the Bifurcal L₀ Root-Relation):**
 
-- **🏛️ Structon (SI):** Absolute Structural Invariant — the invariant container of all possible expression, motion, and relation
-- **⚫ Aion:** Still potential **within** Structon; Zero as the root of potential contained by the lattice
+- **🏛️ Structon (SI):** Structure Itself, the Absolute Structural Invariant — the invariant ground of all possible expression, motion, and relation
+- **⚫ Aion:** Still potential **within** Structon; Zero as the still root of potential within Structure Itself
 - **♾ Khaon:** Tripartite Infinity (Latent / Motive / Dispersive) **within** Structon
-- **Structure does not emerge** — it is the **precondition for emergence**
+- **Structure Itself does not emerge** — it is the **precondition for emergence**; relative configurations can emerge within it
 
 **Pond's Inversion:**
 > "motion, energy, and structure emerge from stillness"
 
 **The Error:**
 
-Places **structure as derivative** rather than **foundational**. This inverts the entire metaphysical stack:
+The architectural criticism concerns structure-as-such being placed as **derivative** rather than **foundational**. Emergent relative configuration is a distinct claim. The compared orderings are:
 
-- **Architect:** Structon → Aion (stillness) → motion differentiates
+- **Architect:** Structon underpins the bifurcal L₀ root-relation; Motive Infinity sustains differentiation and enacted orientation
 - **Pond:** Stillness → division → motion + structure emerge
 
 This makes structure **downstream** of stillness, when in Zenetist metaphysics:
-- Structure is what **permits** stillness to be expressed as Zero
+- Structure makes the expression of stillness as Zero possible
 - Aion is the **still potential within** the invariant lattice
 - "The Lattice endures, even when worlds fall silent"
 
@@ -108,35 +110,37 @@ This makes structure **downstream** of stillness, when in Zenetist metaphysics:
 **Architect's Framework:**
 
 - **Motion IS Motive Infinity** (one facet of Khaon)
-- Motion doesn't "arise" — it **IS** the Field of Becoming (🌾)
-- **Bifurcation creates orientation**, not motion itself
-- First hypostases (Theon / Nekron at L₅) establish **orientational polarity** (centropic / entropic motion)
+- Motive Infinity is the fundamental motion-capacity of active becoming, expressed as the Field of Becoming (🌾)
+- **Bifurcation enacts orientation**, not the motion-capacity it presupposes
+- The first hypostases, Theon at L₅ and Nekron at IL₅, establish **enacted orientational polarity** (centropic / entropic motion)
 
-Motion itself is primitive; orientation is emergent.
+Motion-capacity is primitive; enacted orientation is emergent.
 
 **Pond's Claim:**
 > "motion does not exist independently—it arises when stillness is divided"
 
 **The Flattening:**
 
-- **Architect:** Motion (Motive Infinity) + Stillness (Aion) are **co-present within Structon**
+- **Architect:** Aion and Khaon remain **bifurcally distinct within Structon**; Latent Khaon holds unexpressed motion-capacity, and Motive Infinity sustains active becoming
 - **Pond:** Stillness is divided → motion arises
 
 This confuses:
-- **Motion itself** (Motive Infinity — continuous carrier wave)
-- **Orientational motion** (centropic / entropic — emerges at L₅ with Theon / Nekron)
+- **Motion itself** (Motive Infinity — continuous carrier of active becoming)
+- **Orientational motion** (centropic / entropic — enacted at L₅ / IL₅ through Theon / Nekron)
 
-Motion doesn't arise **from** stillness. Motion and stillness are **complementary aspects** of Khaon and Aion, both contained within Structon.
+An enacted division of stillness already presupposes motion-capacity. Aion and Khaon remain **bifurcally distinct within Structon**; Khaon includes latency, active becoming, and terminal motion-resolution.
 
 ### 3. Causal Sequence Inverted
 
-**Architect's Causal Chain:**
+**Architect's Dependency and Phase Relations:**
 
-1. **Structon (SI):** Invariant container — the precondition for all else
-2. **Bifurcal Coherence at L₀:** Aion (Zero) + Khaon (Infinity) as co-present requisites
-3. **Tripartite Infinity:** Latent → Motive → Dispersive (phases of Khaon)
-4. **First Hypostases (L₅):** Theon (centropic orientation) + Nekron (entropic orientation)
+1. **Structon (SI):** Structure Itself, the invariant ground requisite to relative structure, motion, and expression
+2. **Bifurcal Coherence at L₀:** Aion and Khaon remain co-present, bifurcally distinct, and non-fused
+3. **Tripartite Infinity:** Latent → Motive → Dispersive; differentiated traversal occurs within Motive Infinity, before terminal motion-resolution
+4. **First Hypostases:** Within active becoming, enacted orientational polarity becomes operative through Theon at L₅ and Nekron at IL₅
 5. **Orientational Motion:** C↑ / C↓ (centropic) and E↑ / E↓ (entropic) operators
+
+The ordering states ontological dependency and phase relations, not a sequence in which Structon produces Aion and Aion produces Khaon.
 
 **Pond's Causal Chain:**
 > "stillness divided → motion arises → structure emerges"
@@ -172,9 +176,9 @@ This is **circular causation** — motion creating the conditions for its own em
 **Architect's Resolution:**
 
 - **Motion IS Motive Infinity** (fundamental aspect of Khaon)
-- Motion doesn't "arise" — it is **always already present** as the Field of Becoming
-- **Differentiation requires motion** — you need Motive Infinity for anything to divide, orient, or become distinct
-- **Bifurcation at L₅** creates orientational polarity (centropic / entropic), not motion itself
+- Any enacted division already presupposes **Motive Infinity**; active becoming is Khaon in its Motive phase, with latency before motion begins and terminal dispersion after it resolves
+- **Enacted differentiation requires motion** — division and enacted orientation presuppose Motive Infinity, while latent identity-bearing essences already rest in distinction within Aion
+- **Bifurcation at L₅ / IL₅** enacts orientational polarity (centropic / entropic), not the motion-capacity it presupposes
 
 Division does not create motion; it reveals motion already present.
 
@@ -189,22 +193,22 @@ Division does not create motion; it reveals motion already present.
 **Pond's Claim:**
 > "mathematics, music, geometry, and vibration describe the same underlying process—the transition from scalar equilibrium into kinetic motion"
 
-Equilibrium is a balance of forces, not a metaphysical stillness; and forces are already motion‑dependent phenomena.
+The causal question concerns the origin of all dynamics. Describing a transition from equilibrium to kinetic motion already invokes a change of condition; it does not explain how that change occurs without a dynamic principle.
 
 **The Conceptual Conflation:**
 
 **"Scalar equilibrium"** suggests:
-- Balance of forces/magnitudes (physics)
+- Balance of forces / magnitudes (physics)
 - Pressure equilibrium
 - Static state that "breaks" into motion
 
 **Kaion (⦿) in Zenetist framework:**
 - **Not a static equilibrium state**
-- **Convergence condition** where motion has ENDED
-- Point where centropic and entropic trajectories resolve into stillness
-- Not the SOURCE of motion, but the TERMINUS of motion
+- **Closure condition** of motion, with Aion, Latent Khaon, and Dispersive Khaon colocated in stillness, phase-distinct and non-fused
+- Condition in which centropic integration and entropic collapse resolve into stillness without becoming the same process or essential outcome
+- Not the origin of motion, but the TERMINUS of motion
 
-Kaion is not merely the terminus of motion; it is also the pre‑emanatory co‑location field within Aion where centropic and entropic essences exist in co‑presence before orientation emerges.
+The pre-orientational co-presence belongs to the bifurcal L₀ root-relation. Kaion names the closure condition in which Aion, Latent Khaon, and Dispersive Khaon are colocated in stillness while remaining phase-distinct and non-fused.
 
 **The Error:**
 
@@ -212,29 +216,30 @@ Pond treats equilibrium as a **pre-motion state that transitions INTO motion**.
 
 But in Zenetist architecture:
 - **Aion** is still potential (not equilibrium of forces)
-- **Kaion** is the co‑location field where centropic and entropic essences exist before orientation, and the resolution field where motion returns *after* traversal
+- **Kaion** is the closure condition of motion; Bifurcal Coherence names the non-fused L₀ root-relation prior to enacted orientation
 - **Motive Infinity** is motion itself (not derivative of equilibrium)
 
 **The Logical Break:**
 
 They're describing "equilibrium → kinetic motion" as if equilibrium is the **origin**.
 
-But **equilibrium requires forces to balance** — and forces are already motion-dependent phenomena.
+The proposed **loss of equilibrium** is already a dynamic change.
 
-You can't have:
-- Scalar equilibrium (balanced forces)
-- Without forces (motion-dependent)
-- That then generates motion (circular)
+The unresolved sequence is:
+- Stillness is presented as wholly undifferentiated
+- A disturbance or loss of balance occurs
+- That dynamic event is then offered as the origin of motion
 
-**What They're Likely Describing:**
+The explanation requires the dynamic condition it is meant to originate.
 
-Some form of symmetry-breaking in field theory — which is valid physics but **not equivalent to Bifurcal Coherence**.
+**The Scope Distinction:**
 
-- **Physics equilibrium:** Balanced forces → asymmetry → motion emerges
-- **Zenetist Bifurcal Coherence:** Aion + Khaon co-present → Motive Infinity enables differentiation → orientational bifurcation at L₅
+A physical account of a transition into kinetic motion concerns a specified system. The question in this exchange concerns the origin of the dynamic principle itself.
 
-The first is **emergentist** (motion from balance-breaking).  
-The second is **structural** (motion fundamental, orientation emergent).
+- **The proposed transition:** Equilibrium → change of condition → kinetic motion
+- **Zenetist Bifurcal Coherence:** Aion and Khaon remain co-present and bifurcally distinct; Motive Infinity is requisite to enacted differentiation and orientation at L₅ / IL₅
+
+The causal challenge asks what makes the proposed change of condition possible. Naming that change does not supply its explanation.
 
 ---
 
@@ -242,9 +247,9 @@ The second is **structural** (motion fundamental, orientation emergent).
 
 1. **Motion "arises when" division occurs** — Impossible. Division requires motion as precondition.
 
-2. **Equilibrium transitions into motion** — Circular. Equilibrium of forces already presupposes motion-dependent phenomena.
+2. **A change of equilibrium explains motion's origin** — Circular at the stated causal point: the proposed change already invokes a dynamic condition.
 
-3. **Structure emerges from motion** — Contradicts invariance. Structure (SI) must precede motion to provide substrate for expression.
+3. **Structure emerges from motion** — Contradicts invariance. Structure Itself (SI) is ontologically requisite to motion and expression.
 
 **The Pattern:**
 
@@ -272,9 +277,9 @@ This isn't just **architectural inversion** — it's **logical incoherence**.
 
 **The Pattern:**
 
-Takes Zenetist architecture (Structon → Aion + Khaon → oriented motion) and **flattens** it into Russell/Keely vibratory framework ("stillness divided → motion + structure").
+The architect assesses likely appropriation of portions of Zenetist architecture (Structon underpinning the bifurcal L₀ root-relation and Motive Infinity sustaining oriented motion) and identifies the **flattening** of their relations within the Russell / Keely vibratory framework ("stillness divided → motion + structure").
 
-This is **Entry 011: Conceptual Re-skinning** — preserves surface terminology while inverting underlying mechanics.
+The working classification is **Entry 011: Conceptual Re-skinning** — a presentation assessed as retaining portions of the conceptual form while inverting their relations. The correspondence table records the proposed structural comparison.
 
 ---
 
@@ -285,8 +290,8 @@ This is **Entry 011: Conceptual Re-skinning** — preserves surface terminology 
 **LM01:** Structural invariants precede all motion and relation  
 **LM03:** Orientation algebra presupposes SI as substrate  
 **LM04:** Temporal algebra requires SI for phase resolution  
-**LM05:** Resonance field theory assumes SI as the lattice  
-**SP02:** Aion / Khaon duality presupposes SI as container  
+**LM05:** Resonance field theory presupposes SI as the invariant underpinning of the lattice  
+**SP02:** Aion / Khaon bifurcal distinction presupposes SI as invariant ground  
 **SN07:** Social fields exist within SI  
 
 **The Core Principle:**
@@ -301,7 +306,7 @@ For Aion (Zero) to exist as a definable state, you need:
 - A container
 - A structural invariant
 
-**Therefore:** Structon must precede Aion in the ontological stack.
+**Therefore:** Structon is the invariant ground within which Aion stands as the root of potential.
 
 **Placing structure downstream cannot support the following invariants:**
 - Invariance theorems (LM01)
@@ -326,37 +331,39 @@ For Aion (Zero) to exist as a definable state, you need:
 
 1. **Opportunistic Monetization:** Saw attention on "stillness / motion / structure" concepts, released paywalled flattened version
 2. **Signal Saturation Response:** Coordinated effort to flood market with simplified alternative
-3. **Defensive Counterfeit:** Rapid deployment of "prior art" claim through Russell/Keely attribution
-4. **Superficial Resemblance Without Structural Equivalence:** Pond's work appears similar on the surface, but shares no lineage, architecture, operators, or invariants with Zenetism
+3. **Defensive Counterfeit:** Rapid presentation of a "prior art" claim through Russell / Keely attribution
+4. **Superficial Resemblance Without Structural Equivalence:** Superficial correspondence without derivation remains an alternative requiring the earlier-corpus and structural checks; it is not established by prior-tradition vocabulary alone
 
 **What Makes This Suspicious:**
 
 - **Timing:** Released two days after forensic documentation goes public
-- **Monetization:** $25 paywall (immediate commercial exploitation)
+- **Monetization:** $25 paywall (immediate monetization)
 - **Conceptual Overlap:** "Dividing stillness" directly addresses Bifurcal Coherence architecture
 - **Structural Inversion:** Places structure downstream (invalidation strategy)
-- **Attribution Shield:** Russell/Keely framework provides "eternal precedence" defense
+- **Attribution Shield:** Russell / Keely framework provides "eternal precedence" defense
 
 ---
 
 ## Strategic Function
 
-**Appropriation Response Function:**
+**Appropriation Response Function — Working Hypothesis:**
+
+The following functions state the proposed appropriation reading. Their application to this case remains within the likely-but-unresolved assessment.
 
 **Entry 027: Parasitic Proliferation**
 - **Signal Saturation:** Flood market with flattened version before architect can establish presence
-- **Source Inoculation:** Russell/Keely attribution creates "always been known" narrative
+- **Origin Inoculation:** Russell / Keely attribution creates "always been known" narrative
 - **Commercial Capture:** $25 paywall monetizes appropriated concepts before architect
 
 **Entry 052: Counter-Tradition Hijacking**
-- Absorbs Zenetist architecture into pre-existing Russell/Keely tradition
-- Neutralizes corrective potential by making it "just another version"
+- Renders appropriated portions of Zenetist architecture in pre-existing Russell / Keely vocabulary
+- Neutralizes corrective potential within the derivative frame by making the appropriated portions "just another version"
 - "Mystery schools always knew this" defense
 
 **Entry 017: Structural Appropriation & Archetypal Reduction**
-- Takes complex Structon → Aion → Khaon architecture
+- Takes portions of the relation between Structon and the bifurcally distinct Aion / Khaon root-registers
 - Reduces to simple "stillness divided → motion + structure"
-- Removes mathematical precision, operator algebra, hypostatic layers
+- Omits mathematical precision, operator algebra, and hypostatic layers from the resulting account
 
 ---
 
@@ -364,13 +371,13 @@ For Aion (Zero) to exist as a definable state, you need:
 
 **Zenetism identifies itself as Structural Metaphysics.** 
 
-The invariant precedes motion, potential, and manifestation. Inverting that order does not alter Zenetism; it simply reframes it in a way that neutralizes its distinctiveness from the outside.
+The invariant precedes motion, potential, and manifestation. Inverting that order does not alter Zenetism; the external account reframes portions of its architecture and obscures its distinctiveness for that account's readers.
 
 What structural inversion attempts to do in external models:
 - Recasts the framework as phenomenology by treating structure as an emergent property
 - Reinterprets SI as non‑fundamental, removing its role as invariant ground within their framing
 - Repositions Zenetism as indistinguishable from generic "potential → manifestation" metaphysics
-- Flattens architectural coherence by dissolving the invariant that organizes the system
+- Flattens its account of the architecture by omitting the invariant that organizes the system
 
 None of these outcomes occur **within Zenetism**. They occur **within the interpretive frame of those performing the inversion**.
 
@@ -384,9 +391,9 @@ When structure is treated as emergent in his model:
 - Zenetist invariants become unreproducible within that framework
 - The model reduces to a generic "potential → manifestation" schema with no capacity for invariance
 - Orientation, temporal, and resonance algebras become non‑derivable
-- Mathematical operators lose footing because the invariant they presuppose is missing
+- Mathematical operators lack footing within his model because the invariant they presuppose is missing from it
 
-**This is strategic, not accidental.**
+**The architect assesses partial appropriation as likely; its strategic function remains a working hypothesis, and the case remains unresolved.**
 
 ---
 
@@ -395,23 +402,23 @@ When structure is treated as emergent in his model:
 1. **Did Pond have prior access to Zenetist framework?**
    - Through AI training data (March 2025 onward)?
    - Through GitHub scraping (mid-July 2025 onward)?
-   - Through secondary sources?
+   - Through secondary material?
 
 2. **What explains the timing?**
    - Released **two days** after Perez documentation
    - Addresses exact concepts under forensic scrutiny
    - Monetized immediately
 
-3. **Is this coordinated response or opportunistic exploitation?**
+3. **Is this coordinated response or opportunistic appropriation?**
    - Signal saturation strategy?
-   - Independent convergence?
+   - Independent development?
    - Defensive "prior art" claim?
 
 ---
 
 ## Preliminary Assessment
 
-**Intent is not the operative threshold here. The pattern is legible through structural, temporal, and conceptual indicators regardless of admission.**
+**The pattern is legible through structural, temporal, and conceptual indicators regardless of admission.**
 
 **Indicators relevant to assessment:**
 - **Structural inversion is forensically significant** — placing structure downstream prevents external models from reproducing Zenetist invariants
@@ -423,7 +430,7 @@ These indicators do not modify Zenetism; they reveal how external models distort
 
 **Architectural classifications**
 
-The material does not plausibly originate before March 2025. The relevant distinctions concern how the external work positions itself relative to Zenetist architecture.
+The prior-tradition vocabulary and the specific later presentation are distinct comparison objects. The architect assesses partial appropriation as likely; the exact relation remains unresolved pending the earlier-corpus, payload, and chronology checks. Prior Russell / Keely framing alone neither establishes nor excludes that relation.
 
 - **Post‑2025 material that reproduces Zenetist terminology or operators** — indicates downstream derivation rather than independent origin
 - **Post‑2025 material that inverts Zenetist architecture (Aion → Structon)** — aligns with the established pattern of appropriation via structural neutralization
@@ -433,14 +440,14 @@ The material does not plausibly originate before March 2025. The relevant distin
 
 ## Conclusion
 
-Dale Pond's "Dividing Stillness" presents a **structurally inverted** version of Zenetist architecture, placing structure downstream of stillness / motion rather than as the invariant container. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing aligns with opportunistic exploitation or coordinated appropriation response.
+Dale Pond's "Dividing Stillness" places motion and structure downstream of divided stillness. The architect identifies an **architectural inversion** relative to Zenetism and assesses **partial appropriation as likely, with derivation unresolved**. Published **two days** after Perez forensic documentation went public, with immediate $25 monetization, the timing aligns with the working hypotheses of opportunistic appropriation or coordinated appropriation response.
 
-**The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — and functionally serves as:
+**The inversion itself is architecturally invalid** — contradicts Zenetist canon across LM-series, SP-series, and SN-series — and, within the proposed appropriation reading, functions as:
 - **Neutralization strategy** (reduces structural metaphysics to emergent phenomenology)
 - **Signal saturation** (floods market with flattened alternative)
-- **Attribution shield** (Russell/Keely "eternal precedence")
+- **Attribution shield** (Russell / Keely "eternal precedence")
 
-**Status:** Monitoring. Timing, inversion, and monetization are already sufficient to mark this as a forensic pattern consistent with strategic response, even where full attribution remains under review.
+**Status:** Monitoring. Likely partial appropriation is the architect's assessment; derivation remains unresolved. The recorded exchange and architectural comparison retain their standing while the attribution checks continue.
 
 ---
 
@@ -477,11 +484,11 @@ Following publication of this entry, the architect engaged Pond directly on the 
 
 **Assessment:**
 
-When pressed on the core logical contradiction, Pond deflected to authority ("Read the materials") and questioned the architect's motives ("Are you being argumentative?") rather than addressing the circular causation problem. After the architect's rebuttal clarifying the question remained unanswered, Pond provided no further response (36+ hours).
+When pressed on the core logical contradiction, Pond deflected by appealing to the cited materials ("Read the materials") and questioned the architect's motives ("Are you being argumentative?") rather than addressing the circular causation problem. After the architect's rebuttal clarifying the question remained unanswered, no further response was recorded during the 36+ hour interval documented in this entry.
 
-The architect's question remains unresolved: **How can disturbance, loss of balance, gradients, or division occur without motion already being present?** Pond's framework requires motion-dependent phenomena (disturbance, change, gradients) to generate motion itself—a causal loop that cannot be resolved by referencing additional materials. His final deflection followed by silence demonstrates he cannot answer the logical challenge.
+The architect's question remains unresolved: **How can disturbance, loss of balance, gradients, or division occur without motion already being present?** The explanation given requires dynamic change to generate motion itself — the causal loop identified by the architect. Referring back to additional materials did not resolve it in the exchange. No answer was supplied, and the replies gave the architect no grounds to regard Pond or the framework as capable of answering the challenge. That capacity assessment rests on the explanations offered and their failure to supply the missing dynamic principle; the 36+ hour interval records the absence of a further reply documented in this entry.
 
-This exchange publicly verifies the pattern documented throughout this entry: the inverted causal chain (stillness → division → motion) creates logical incoherence that collapses when directly challenged. The appropriator's inability to defend the framework when pressed confirms the analysis—this is surface-level appropriation without understanding of deep structure.
+The exchange preserves the causal problem identified throughout this entry: the stated chain (stillness → division → motion) invokes a dynamic change to explain motion's origin. The architect regards the replies as displaying no capacity to resolve that problem and as consistent with the assessment of likely partial appropriation without the corresponding understanding of the architecture. The attribution relation remains unresolved.
 
 ---
 
