@@ -18,3 +18,11 @@ Representative concerns include:
 * orientation in the relation between knowledge and its apprehension
 
 Structural Epistemics therefore asks not merely what is believed or recognized, but **what relation is actually borne, what grounds support its assessment, and what changes when an assessment changes**.
+
+## Reasoning and Transmitted Conclusions
+
+Presenting a conclusion as one's own worked-out conclusion requires the capacity to discern how and why it follows and to articulate the relevant inferential path. Possessing or repeating the result does not supply that capacity. Where a conclusion is merely received and repeated without understanding its reasons, it is a transmitted result rather than the speaker's own worked-out conclusion.
+
+A different relation obtains when a preferred conclusion is treated as settled and reasons are assembled to preserve it. The argument then protects an attachment to the conclusion rather than examining whether the conclusion follows. Its statements change as needed while the preferred outcome remains exempt from correction. A justification developed after a conclusion can nevertheless be sound: what matters is whether its reasons support the conclusion and remain answerable to examination.
+
+Capacity and immediate performance remain distinct. Tacit understanding and incomplete recollection can make genuine reasoning difficult to articulate; fluent explanation can reproduce reasoning learned elsewhere. Learning an argument can produce genuine understanding while preserving its originating provenance. The inquiry concerns both the reasoning substantiated and the developmental relation through which the conclusion was reached.
