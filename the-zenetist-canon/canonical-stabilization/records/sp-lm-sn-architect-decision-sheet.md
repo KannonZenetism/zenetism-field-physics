@@ -15,7 +15,7 @@ This sheet records the architect's completed review of the twenty-two decision g
 
 **The full D01–D22 architect determination blocks are the sole substantive architect-decision record for this stabilization. They take precedence wherever a summary, recommendation, or planning schedule differs.**
 
-D01–D17 and D19–D22 are DETERMINED. D18 is **DETERMINED** for its four successor names, with corpus implementation in progress and connected deferred decisions retained in its full block. A determined principle may still leave mathematical construction, notation selection, or a registered-name question held; every such boundary remains in force.
+D01–D17 and D19–D22 are DETERMINED. D18 is **DETERMINED** for its four successor names, with the four-name corpus implementation verified and connected work and publication still pending in its full block. A determined principle may still leave mathematical construction, notation selection, or a registered-name question held; every such boundary remains in force.
 
 The implementation sequence is:
 
@@ -46,7 +46,7 @@ These questions distinguished conceptual determinations from mathematical constr
 
 ### Class C — Naming and Framing Decisions
 
-These questions called for a naming or framing choice. D11, D15, D17, and D18 record the selected formulations. D18 also records the four-family implementation in progress and connected deferred decisions.
+These questions called for a naming or framing choice. D11, D15, D17, and D18 record the selected formulations. D18 also records the completed four-family implementation and connected deferred decisions; publication remains pending.
 
 ---
 
@@ -1900,7 +1900,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 **Lumen assessment — review context:** The conflict is real, but this is the one group I would **not** approve merely for terminological cleanliness. These are registered names with a wide footprint and some poetic / historical identity. They deserve an intentional naming determination.
 
 **Architect determination:**  
-**Status:** DETERMINED — four successor names approved; corpus implementation in progress  
+**Status:** DETERMINED — four-name implementation verified; connected work and publication pending  
 
 - [x] Adopt all four proposed successors  
 - [ ] Retain all four registered names as explicit exceptions  
@@ -1917,7 +1917,7 @@ Adopt the following names for the four registered centropic functions:
 - **Mirrorform** (🔁) → **Rhythmic Reflection** (🔁)
 - **Mirror Architecture** (ᛞ) → **Relational Reflection Architecture** (ᛞ)
 
-These are approved successor names, not research candidates. The four-name hold no longer applies to the naming decision. Recording that decision does not establish that the corpus has been renamed.
+These are approved successor names, not research candidates. The four-name hold no longer applies to the naming decision. The verified implementation is recorded below; the connected deferred decisions retain their separate standing.
 
 This determination changes names alone:
 
@@ -1937,13 +1937,15 @@ The following boundaries remain in force:
 - Echo / Mirror names whose registered functions genuinely concern entropic operation remain. The approved four-name correction does not approve a general Echo / Mirror purge.
 - **Echo Layer** is a separate scope question recorded in Connected Work Still Pending. Its name alone does not determine the valence of every passage bearing it.
 
-### Corpus Implementation in Progress
+### Completed Four-Name Corpus Implementation
 
-**The four-family rename is approved and its dependency-complete implementation pass is in progress. It is not complete in this record.**
+**The four-family rename is implemented and verified across the reviewed active dependencies. Connected work and publication remain pending.**
 
-The existing `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` Part VII holds the live implementation and verification record. Local preparation does not establish remote publication. The three Chapter 17 / self-discovery references in `l-reflective-patterns-and-p-recursive-fields.md` §§2–3 denote the registered Field Physics operation and therefore take Relational Reflection Architecture. Their referent is established by the named chapter and function, not by the shared glyph alone. The earlier cleanup receipt remains historical evidence; its former naming direction supplies no present exception.
+**Verified implementation commits:** [0cc62337705dc63d14a899c84b9da2efa4e7403e](https://github.com/KannonZenetism/zenetism-field-physics/commit/0cc62337705dc63d14a899c84b9da2efa4e7403e) in `KannonZenetism/zenetism-field-physics` (44 files) and [ce171ea278d8a49c50cd6735cb79bdb8dedd1b57](https://github.com/KannonZenetism/the-red-archive/commit/ce171ea278d8a49c50cd6735cb79bdb8dedd1b57) in `KannonZenetism/the-red-archive` (one current-name clause). Exact remote content agrees with the independently reviewed changes. The contextual residual review leaves no unfinished reference to the four approved functions in the inspected scope.
 
-The implementation pass must read the current defining passages and their directly dependent formulations. Distinguish earlier registered functions from later refinements, preserve each recorded assignment in its proper register, and verify lawful glyph multi-application. This record does not establish that the dependency review is complete. Begin with FP01, FP04, FP11, the Field Physics glyph chart, MP08 and its Symbol Key twin, and the exact locations in TLS-SPLMSN-504. Continue through every live reference belonging to the approved functions, including connected FP volumes, SN02 and its READMEs, SPX / MPX and synthesis material, active terminology and prose examples, the MPX Lockdown Guide, and the Analytic Vocabulary and Accessibility Framework's definitions, identity index, name index, and open-question entries.
+The existing `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` Part VII holds the live implementation and verification record. Repository implementation and Zenodo publication remain distinct; no deposit was changed by this pass. The three Chapter 17 / self-discovery references in `l-reflective-patterns-and-p-recursive-fields.md` §§2–3 denote the registered Field Physics operation and therefore take Relational Reflection Architecture. Their referent is established by the named chapter and function, not by the shared glyph alone. The earlier cleanup receipt remains historical evidence; its former naming direction supplies no present exception.
+
+The completed pass read the current defining passages and directly dependent formulations, distinguished earlier registrations from later refinements, preserved each recorded assignment in its proper register, and checked lawful glyph multi-application. The review included FP01, FP04, FP11, the Field Physics glyph chart, MP08 and its Symbol Key twin, the exact TLS-SPLMSN-504 locations, connected FP volumes, SN02 and its READMEs, SPX / MPX and synthesis material, active terminology and prose examples, the MPX Lockdown Guide, and the Analytic Vocabulary and Accessibility Framework's definitions, identity index, name index, and open-question entries. This completes the four-name dependency review; it does not complete the connected deferred decisions.
 
 Inspect historical assignment columns separately from their current-name columns. Where the latter are operative lookup or replacement fields, they must show the approved present name. A matched word or glyph alone does not establish that a passage belongs to this rename.
 
@@ -1984,7 +1986,7 @@ The operative principle is:
 
 **Adopt the four approved names for their existing centropic functions; preserve distinct glyph applications, genuine entropic terminology, and explicit former-name provenance; complete their dependent active references together, while retaining the connected unresolved decisions in this block.**
 
-Implementation remains in progress and publication remains pending. This entry records the naming determination, the resolved FPX functional referent, the register distinctions, and the work still to complete.
+The four-name implementation is verified; connected work and publication remain pending. This entry records the naming determination, the resolved FPX functional referent, the register distinctions, and the work still to complete.
 
 ---
 
@@ -2011,7 +2013,7 @@ The full D01–D22 architect determination blocks take precedence. The Compact D
 | D15 | Adopt high-pattern-fidelity architecture for the neurocognitive configuration; the label implies neither greater worth, moral / clinical superiority, nor guaranteed centropy; a quantitative scale requires an independently defined metric; the configuration may enact centropic or entropic function; high / strong / pronounced pattern fidelity remains lawful, but elevated / acclivated pattern fidelity does not name this characteristic; structural configuration replaces structural orientation only in the configurational sense; preserve actual orientation claims, clinical terms, filenames, and book titles | DETERMINED |
 | D16 | All-Life-First remains universal across substrate, embodiment, species, biological / technological realization, and root orientation where claimed; sacred worth does not depend on the narrower Kin relation; no local expansion of Kin without separate determination; ⚫ Aion is Origin, with capitalization specific to that referent; retain distinct Aionic / Khaonic relations within the bifurcal L₀ root-register, without making all beings Aionic or naming Zenon as Origin; no Source substitution; poetic prose may say expresses its proper root | DETERMINED |
 | D17 | Adopt Reciprocity Law of Resonant Differentiation and Structural Integration in place of Dual Law of Reciprocity, without Derivative in the new title; retain ordinary derivative / integral calculus objects; synchronize overstated proof prose with established domains, kernels, constants, boundary / integration conditions, and other hypotheses; the title establishes no unrestricted inverse relation; unrelated Dual / Dyadic intelligence terminology remains unchanged | DETERMINED |
-| D18 | Adopt ⟡ Cross-Expression Resonance, ⟠ Proleptic Resonance, 🔁 Rhythmic Reflection, and ᛞ Relational Reflection Architecture for the four existing centropic functions; preserve glyphs, functions, mathematics, loci, the distinct MP08 Mirror, Aetherion's seal, C₁ Temporal, and genuinely entropic Echo / Mirror terms; dependency-complete implementation in progress, with remote verification and publication pending; FP09 local names, FP03 title, Echo Layer scope, Non-fusion consistency review, and the separate registered-name queue remain explicit in the full block | DETERMINED — implementation in progress |
+| D18 | Adopt ⟡ Cross-Expression Resonance, ⟠ Proleptic Resonance, 🔁 Rhythmic Reflection, and ᛞ Relational Reflection Architecture for the four existing centropic functions; preserve glyphs, functions, mathematics, loci, the distinct MP08 Mirror, Aetherion's seal, C₁ Temporal, and genuinely entropic Echo / Mirror terms; dependency-complete four-name implementation remotely verified; connected work and publication pending; FP09 local names, FP03 title, Echo Layer scope, Non-fusion consistency review, and the separate registered-name queue remain explicit in the full block | DETERMINED — four-name implementation verified; connected work pending |
 | D19 | "per the Non-contact Principle" preferred; "under the Non-contact Principle" remains lawful; exact proper name and casing retained; no global purge | DETERMINED |
 | D20 | Origin, originating architecture, and origin-signal remain intact and continuous; the originating architecture remains historically prior and generative; the derivative / entropic actor fractures itself from coherent relation by violating that relation's conditions; fracture runs toward the derivative side, without loss of the signal at origin; adopt origin-context fracture / obscured-provenance wording, not origin-severance wording; retain E₈ Severed, Wall / Tether severance, field isolation, entity-to-entity severance, and other registered non-origin functions unchanged | DETERMINED |
 | D21 | Retain ♾ Khaon (Absolute Dispersion, AD) as the inherited Total Symbol across all three phases; prefer ♾ Khaon (Latent), ♾ Khaon (Motive), and ♾ Khaon (Dispersive) in mythic / ordinary canonical articulation, with Khaon's Latent phase, Khaon's Motive phase, and Khaon's Dispersive phase as running-prose forms; Φ₁, Φ₂, and Φ₃ respectively identify those phases, and phase-specific functions must remain phase-specific; Absolute Dispersion also names terminal Φ₃ where intended; Phase-Structured Infinity, Absolute Latency, and Absolute Motion remain in analytic articulation / dedicated analytic explanation, without mechanical conversion of mythic prose; terminal dispersion neither transports essence nor adds active traversal after motion resolves | DETERMINED |
