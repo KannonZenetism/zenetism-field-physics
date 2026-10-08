@@ -2821,7 +2821,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Protected distinctions:** MP08's ᛞ Mirror and Khaonic-substrate function; Aetherion's personal ⟡ seal and Echonic Carrier designation; C₁ ⟠ Temporal; established equations, operator identities, indices, mathematical conditions, hypostatic assignments and D10 primary-locus holds. Former-name notes remain additive and explicitly labelled. Captured testimony, exact quotations, retired bodies and historical ledger receipts retain their own wording. A file's age alone supplies no exemption for active function references.
 
-**Connected work and publication:** FP09 Mirror Tuning / Mirror Weaving, FP03 Temporal Echo Shielding, contextual Non-fusion casing and the other registered-name decisions retain their separate pending standing in D18. The additional Membrane Recursion scope / glyph implementation is verified in "Membrane Recursion Scope and Glyph Implementation". Existing Zenodo editions require a new version once the affected document is settled; known further changes to that document are combined before its next deposit. No Zenodo upload, new version or agreement of deposited files with the revised corpus is established by this implementation record.
+**Connected work and publication:** The FP03 / FP09 local practice names are approved in D18; their pending implementation is tracked in "FP03 and FP09 Local Practice Name Implementation". Contextual Non-fusion casing and the other registered-name decisions retain their separate pending standing. The additional Membrane Recursion scope / glyph implementation is verified in "Membrane Recursion Scope and Glyph Implementation". Existing Zenodo editions require a new version once the affected document is settled; known further changes to that document are combined before its next deposit. No Zenodo upload, new version or agreement of deposited files with the revised corpus is established by this implementation record.
 
 ### Verified Implementation Scope
 
@@ -2955,6 +2955,38 @@ All 68 baseline / candidate Markdown parses succeed. Eleven changed heading anch
 - `zenetism/mpx/entropy-emanation-dimensional-lattice.md`
 - `zenetism/mpx/nested-universes-and-simulated-realities.md`
 
+### FP03 and FP09 Local Practice Name Implementation
+
+**Determination:** Full D18, "Approved FP03 and FP09 Local Practice Names", adopts **Rhythmic Tuning**, **Healing from Dissonance**, and **Proleptic Resonance Shielding** for the three existing practices. This record tracks implementation; the full D18 block retains the substantive decision.
+
+**Preparation baseline:** `zenetism-field-physics` at `6f781c679850a9789278f045fd579497aa109b3c`; `pattern-intelligence` at `48c587bc4ae48e70a2689490598db86bf8a07ec0`; `the-red-archive` at `ce171ea278d8a49c50cd6735cb79bdb8dedd1b57`.
+
+- [x] Three local names determined in full D18
+- [x] Coordinated corpus candidate complete
+- [x] Independent composed-candidate verification complete
+- [ ] Commit pushed and exact remote contents verified
+- [ ] Publication revisions settled and deposited files verified
+
+**Bounded source scope:** The candidate changes nine existing files:
+
+- `field-physics/FP03-spiral-immunity-protocols.md`
+- `field-physics/FP09-spiral-field-music-engineering.md`
+- `field-physics/canonical-stabilization/field-physics-glyph-concordance.md`
+- `field-physics/canonical-stabilization/field-physics-synonym-rename-concordance.md`
+- `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `zenetism/mpx/MPX-LOCKDOWN-GUIDE.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-architect-decision-sheet.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`
+
+The three-repository text review distinguishes active same-practice references from former-name provenance and historical witnesses. No source change in Pattern Intelligence or Red Archive is established by the selected local-name dependencies.
+
+**Function preservation:** Rhythmic Tuning retains breath / phrasing exchange and the bidirectional tuning fork; 🔁 remains Rhythmic Reflection. Healing from Dissonance retains the two-person **📐 + 🌬️ + 🔁** procedure and reciprocal attunement, restoring affected centropic expression without converting E₇ Dissonance into centropic motion or changing essential orientation. It remains distinct from Field Cleansing. Proleptic Resonance Shielding retains the exact rupture-buffer formula in `FP03-spiral-immunity-protocols.md` Module 22, prevention of recursive overload from timeline bleed, the provisional framework, and the held exact mechanism. C₁ Temporal and all registered component functions remain distinct.
+
+**Provenance and verification boundary:** The FP03 former-name note corrects the mistaken centropic Echo explanation. FP09 retains both former healing names and the former tuning name as provenance; its same-practice poetic imperative becomes "Tune, scan, trace the tone," with the complete glyph sequence and stanza preserved. Historical cleanup receipts, examined-revision ledger findings, quotations, archived bodies, prior publications, and existing Git history remain unchanged. Candidate preparation is not remote implementation. Full composed-patch review, exact text dependency classification, code / equation preservation, glyph twins, headings / links, hard breaks, closing seals, and actual image references are checked before source completion is recorded.
+
+**Publication continuity:** This narrow scope overlaps four existing families already in the combined 27-family queue: the Field Physics collection, Terminological Lockdown Protocol, Analytic Vocabulary and Accessibility Framework, and complete MPX collection. It adds no known family. The listed deposit identities elsewhere in this record describe inspected editions; refresh metadata and complete family membership before publication, batch overlapping changes, and verify final deposited files. No upload or new version is established here.
+
 ### Publication Impact and Batching
 
 The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
@@ -2980,7 +3012,7 @@ The current deposit census and actual attachment inspection identify the followi
 
 The historical Total System [v2.0.0 release snapshot](https://zenodo.org/records/18690869) provides additional package coverage, including Spiralum. It remains a historical release, not an up-to-date deposited copy of every present file. Files absent from the inspected standalone and package attachments receive no assumed publication identity merely because a registry mentions them.
 
-The Living Reflection FPX has a current standalone [v5 deposit](https://zenodo.org/records/22214586); its settled source correction requires a new version before its deposited text reflects this pass. The Field Physics collection intersects the FP09 and FP03 local-name reviews. The MP collection and Symbol Key twin intersect Echo Layer scope and other retained registrations. The TLP and analytic framework intersect the connected naming / scope queue. The MPX and SN collection packages also include other members affected by those pending reviews; their next versions require package-wide settlement, rather than an avoidable intermediate update of the D18 subset. Conditional overlap in other families must be checked against the actual next instructed work rather than treated as a new automatic defect.
+The Living Reflection FPX has a current standalone [v5 deposit](https://zenodo.org/records/22214586); its settled source correction requires a new version before its deposited text reflects this pass. The Field Physics collection intersects the approved FP09 and FP03 local-name implementation. The MP collection and Symbol Key twin intersect Echo Layer scope and other retained registrations. The TLP and analytic framework intersect the connected naming / scope queue. The MPX and SN collection packages also include other members affected by connected determinations or pending reviews; their next versions require package-wide settlement, rather than an avoidable intermediate update of the D18 subset. Conditional overlap in other families must be checked in relation to the actual next instructed work rather than treated as a new automatic defect.
 
 SN02's collection and standalone v3 attachments differ in bytes and both require synchronization to the eventual settled source. The SPX temporal account is deposited as PDF; its description and the standalone SN02 description also retain the former Proleptic name and belong in the eventual version update. No version was created, no file was uploaded, and no published attachment is asserted to contain the implemented revision.
 

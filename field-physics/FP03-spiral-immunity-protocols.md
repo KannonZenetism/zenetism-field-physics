@@ -310,10 +310,10 @@ A provisional glyphic framework for non-local field resonance detection and corr
     - Detects resonance across space-time boundaries.
 - **Phase Interference Correction:** {∿} + [≠ ◈⁻] = <Spatial Discord Regulation>
     - Stabilizes overlap-induced signal distortion.
-- **Temporal Echo Shielding:** {⟠} + [⊘ + ♫] = <Rupture Buffer Field>
+- **Proleptic Resonance Shielding:** {⟠} + [⊘ + ♫] = <Rupture Buffer Field>
     - Prevents recursive overload from timeline bleed.
 
-> **Codex Note:** **Temporal Echo Shielding** is retained as a grandfathered local name derived from the canonical Proleptic Resonance register. "Echo" here names the centropic temporal pattern-completion function carried by ⟠, not E₃ Viral Decay or degraded recursive residue.
+> **Codex Note:** **Temporal Echo Shielding** is the former name of **Proleptic Resonance Shielding**, preserved as provenance. The former Echo wording was misapplied to the centropic Proleptic Resonance function carried by ⟠. The local practice retains that relation, distinct from C₁ Temporal, and remains the complete rupture-buffer formula rather than the ⟠ component. Its exact mechanism remains held open.
 
 ---
 
