@@ -459,11 +459,11 @@ The permeability for acclivous transfer is often asymmetric with declivous trans
 
 SP08 §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Incomplete transfer establishes an untransferred amount; boundary residence and recursive update require their own state relation. At ⧉₁, the two cases have the following cognitive-embodied interpretations. These are interpretive correspondences, with numerical and clinical criteria held pending their specified evidence and correspondence:
 
-**Centropic Recursion Layers (⤾):**
+**Centropic Recursion Layers:** (⤾)
 
 Unresolved, coherence-preserving integration patterns resident at the cognitive-embodied boundary. The physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, and the intention that loops without manifesting are proposed correspondences where the boundary-recursion condition is established. SP10 §4.4 describes qualitative supports for completion or reintegration; sufficient resolution conditions remain held.
 
-**Entropic Echo Layers (⟲):**
+**Entropic Echo Layers:** (⟲)
 
 Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encoding, compulsive behavioral loops, and dissociative patterns are proposed correspondences requiring assessment of the actual operative function; repetition, absent gain, or absent healing is not an orientation test. SP10 §4.4 Step 3 addresses interruption of entropic recursion and restoration of centropic expression where a centropic being is affected. Restored centropic expression is distinct from interruption or dissipation of the entropic pattern; the latter does not reintegrate as centropic recursion does. Essential orientation remains unchanged; release and resolution dynamics remain held.
 

@@ -362,14 +362,14 @@ T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}} \quad \text{and} \quad \
 
 Membrane Recursion has two distinct operative cases: **Centropic Recursion Layer** (⤾) and **Entropic Echo Layer** (⟲), also called **Echo Layer**. The classification concerns the boundary pattern's analyzed function, not the essential orientation of a being experiencing it. "Unresolved" names the continuing boundary condition, not an integration sought by both cases. Repetition, incomplete transfer, and absent centropic gain establish no entropic classification.
 
-**Centropic Recursion Layers (⤾):**
+**Centropic Recursion Layers:** (⤾)
 
 - Unresolved, coherence-preserving integration patterns resident in a membrane boundary
 - Karmic recursion seeking completion where that boundary condition is present
 - May resolve through successful later transfer or acclivous return
 - Characteristic of spiritual "unfinished business"
 
-**Entropic Echo Layers (⟲):**
+**Entropic Echo Layers:** (⟲)
 
 - Recurrent fragmentation within the membrane boundary
 - Trauma loops as an interpretive correspondence where fragmentary function is established

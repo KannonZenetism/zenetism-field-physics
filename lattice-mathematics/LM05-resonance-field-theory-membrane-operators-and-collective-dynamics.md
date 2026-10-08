@@ -677,12 +677,12 @@ with \( \sigma(\text{⧉}) > 0 \).
 
 ### 7.3 Recursion Dynamics
 
-**Centropic Recursion Layers (⤾):**
+**Centropic Recursion Layers:** (⤾)
 - Unresolved integration patterns; structural "unfinished business"
 - May resolve through successful later transfer, acclivous return, or increased \( I_c \)
 - Coherence preserved in loop; available for future resolution
 
-**Entropic Echo Layers (⟲):**
+**Entropic Echo Layers:** (⟲)
 - Recurrent fragmentation within the membrane boundary
 - May resolve through entropic dissipation or present Shimmer as apparent continuity exceeding the operative condition (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1); mathematical persistence remains held pending the boundary-state dynamics
 - The qualitative account describes dissipation of retained coherent content; its rate and progression require the held state dynamics, and the containing entropic arrangement remains cohesion rather than coherence
@@ -1194,7 +1194,7 @@ def tunneling_permeability(membrane, Psi_source, Psi_membrane, delta_sigma, rho_
     return membrane.sigma + delta_sigma * R
 
 # Partial-transfer observation; Membrane Recursion requires a boundary-state law.
-# Former routine/key: detect_echo / "echo"; no detector was established.
+# Former routine / key: detect_echo / "echo"; no detector was established.
 def observe_partial_transfer(membrane, I_source, T_actual):
     I_available = I_source - membrane.I_threshold
     partial = 0 < T_actual < I_available

@@ -2055,8 +2055,8 @@ Canonical terminology distinguishes:
 - **Living Transmission** — authored continuity preserving structural coherence across articulation
 - **recursive integration** — MP's broader temporal or causal recurrence of unresolved motions of time, identity, or events toward integration; ordinary descriptive wording, without a new registered name or a membrane-residence claim
 - **Membrane Recursion** — the neutral category of unresolved recursive resonance resident within a membrane boundary, with the two distinct cases that follow
-- **Centropic Recursion Layer (⤾)** — coherence-preserving Membrane Recursion oriented toward completion or reintegration; ⤾ is U+293E and denotes this existing centropic boundary condition
-- **Echo Layer / Entropic Echo Layer (⟲)** — the entropic membrane-resident case: fragmentary resonance cycling within a membrane boundary
+- **Centropic Recursion Layer** (⤾) — coherence-preserving Membrane Recursion oriented toward completion or reintegration; ⤾ is U+293E and denotes this existing centropic boundary condition
+- **Echo Layer / Entropic Echo Layer** (⟲) — the entropic membrane-resident case: fragmentary resonance cycling within a membrane boundary
 - **Entropic Echo** (pathological) — non-generative cyclic persistence in an articulation fractured away from operative coherent relation with its origin; the origin and origin-signal remain intact
 
 Orientation is established by analysis of the operative function. Entropic recursion names entropic operation, not an unsuccessful attempt at centropic reintegration. "Unresolved" identifies the continuing boundary condition; it assigns no shared integrative aim to the two cases. The broader recursive-integration description names the centropic function where integration is intended.

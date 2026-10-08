@@ -136,7 +136,7 @@ The ritual operator \( \mathcal{P} \) is applied. Coherence is discharged, redir
 The target configuration is secured from regression. This may involve sealing, anchoring, or establishing feedback loops that maintain the new state.
 
 **Phase 5 — Separation:**  
-The practitioner withdraws resonance connection cleanly. Residual entanglement calls for assessment of unresolved boundary-resident recursion (Membrane Recursion, SP08 §6) and, distinctly, siphoning apertures. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Stabilizing feedback from Phase 4 retains its lawful function.
+The practitioner withdraws resonance connection cleanly. Residual entanglement calls for assessment of unresolved boundary-resident recursion (Membrane Recursion, `SP08-membrane-fields-and-inter-expression-dynamics.md` §6) and, distinctly, siphoning apertures. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Stabilizing feedback from Phase 4 retains its lawful function.
 
 ### 2.4 Ritual Efficacy Condition
 
