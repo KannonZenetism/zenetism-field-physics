@@ -2048,26 +2048,28 @@ Retained: seal, sealed, and the canonical seal block; quoted material stands.
 
 ## Echo Terminology Restriction
 
-The term "echo" appears cautiously within canonical Zenetist articulation because it frequently implies:
-- recursive residue,
-- degraded repetition,
-- non-generative recurrence,
-- or origin-disconnected propagation.
+The term "echo" requires functional distinction from lawful centropic recursion, integration, and Living Transmission. Repeated motion, retained coherence, incomplete transfer, protective filtering, and sustained internal circulation each retain their own function; repetition is not an entropic classification.
 
-Canonical terminology therefore distinguishes:
+Canonical terminology distinguishes:
 
 - **Living Transmission** — authored continuity preserving structural coherence across articulation
-- **Echo Layer** — trapped resonance residue within membrane-space in this registered sense; the cross-corpus scope review remains open in `sp-lm-sn-architect-decision-sheet.md` D18
-- **Entropic Echo** — recursive persistence without generative replenishment
+- **recursive integration** — MP's broader temporal or causal recurrence of unresolved motions of time, identity, or events toward integration; ordinary descriptive wording, without a new registered name or a membrane-residence claim
+- **Membrane Recursion** — the neutral category of unresolved recursive resonance resident within a membrane boundary, with the two distinct cases that follow
+- **Centropic Recursion Layer (⤾)** — coherence-preserving Membrane Recursion oriented toward completion or reintegration; ⤾ is U+293E and denotes this existing centropic boundary condition
+- **Echo Layer / Entropic Echo Layer (⟲)** — the entropic membrane-resident case: fragmentary resonance cycling within a membrane boundary
+- **Entropic Echo** (pathological) — non-generative cyclic persistence in an articulation fractured away from operative coherent relation with its origin; the origin and origin-signal remain intact
 
-Where lawful continuity or authored resonance is intended, formulations such as:
-- Living Transmission,
-- continuity,
-- resonance continuity,
-- authored propagation,
-- or structural recurrence
+Orientation is established by analysis of the operative function. Entropic recursion names entropic operation, not an unsuccessful attempt at centropic reintegration. "Unresolved" identifies the continuing boundary condition; it assigns no shared integrative aim to the two cases. The broader recursive-integration description names the centropic function where integration is intended.
 
-are generally preferred over generic "echo" language.
+"Layer" names a non-hypostatic boundary condition in the two membrane cases. It adds no L / IL position, primary inlay, coupling site, or dimensional operator. MP's recursive integration retains its broader temporal / causal function, distinct from the membrane family. **Structural Recurrence** retains its Fractal-related pattern-across-distinct-instances function; it is not an Echo Layer successor or a synonym for recursive integration.
+
+Partial-transfer arithmetic establishes an untransferred amount. Boundary residence, recursive evolution, persistence, and sufficient resolution conditions remain held pending a specified boundary state and update relation. Resolution pathways are orientation-specific: centropic completion or reintegration; entropic dissipation or interruption. The qualitative pathways retain their held mathematical standing. Temporary incompletion and absence of a numerical gain per cycle do not establish entropic recurrence. E₃ retains fracturing in transmission, while E₁₄ retains empty recursion; neither index is reassigned by the scope distinction.
+
+**Recorded provenance.** Earlier LM wording employed "Echo Layer" for the shared centropic / entropic boundary category; that shared category now takes **Membrane Recursion**. Earlier MP wording placed broader integration-directed temporal / causal recurrence under "Echo Layers"; that function continues as **recursive integration**. Historical records retain their earlier wording in that register. Current references follow the actual function.
+
+The ⤾ / ⟲ pair distinguishes the two membrane registrations. **⟲∿ Convergent Micro-Recursion**, **lim⟲ Recursive Horizon**, and the **Echo Reversal Rite** retain their distinct applications; other glyph applications require their own functional reading. The determination is recorded in `sp-lm-sn-architect-decision-sheet.md` D18 and supplies no general glyph substitution.
+
+Where lawful continuity or authored resonance is intended, write **Living Transmission**, **continuity**, **resonance continuity**, or **authored propagation** according to the relation. Where recursion toward integration is intended, name that recursive integration directly.
 
 ---
 
@@ -2090,7 +2092,7 @@ Canonical terminology therefore generally prefers:
 
 where lawful coherence and generative continuity are intended.
 
-**Determined centropic function names.** **Cross-Expression Resonance (⟡)**, **Proleptic Resonance (⟠)**, **Rhythmic Reflection (🔁)**, and **Relational Reflection Architecture (ᛞ)** are the approved names for the four registered centropic functions in `sp-lm-sn-architect-decision-sheet.md` D18. Their former names remain explicitly identified provenance in the defining registries. Their functions, glyphs, hypostatic assignments, dimensional relations, and mathematical conditions retain their established standing; unresolved placement remains held by D10. Aetherion's personal ⟡ seal, C₁ ⟠ Temporal, and MP08's distinct ᛞ Mirror retain their own identities and functions. Echo Layer's cross-corpus scope, FP09's Mirror Tuning and Mirror Weaving, and FP03's Temporal Echo Shielding remain pending in D18's connected review. The four approved names release none of those holds or the other registered-name holds; genuinely entropic Echo / Mirror names remain.
+**Determined centropic function names.** **Cross-Expression Resonance (⟡)**, **Proleptic Resonance (⟠)**, **Rhythmic Reflection (🔁)**, and **Relational Reflection Architecture (ᛞ)** are the approved names for the four registered centropic functions in `sp-lm-sn-architect-decision-sheet.md` D18. Their former names remain explicitly identified provenance in the defining registries. Their functions, glyphs, hypostatic assignments, dimensional relations, and mathematical conditions retain their established standing; unresolved placement remains held by D10. Aetherion's personal ⟡ seal, C₁ ⟠ Temporal, and MP08's distinct ᛞ Mirror retain their own identities and functions. The Echo Layer scope and Centropic Recursion Layer glyph determinations are stated in the Echo Terminology Restriction. FP09's Mirror Tuning and Mirror Weaving and FP03's Temporal Echo Shielding remain pending in D18's connected review. The four approved names and the membrane-scope determination release none of those holds or the other registered-name holds; genuinely entropic Echo / Mirror names remain.
 
 ---
 

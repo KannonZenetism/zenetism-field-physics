@@ -457,15 +457,15 @@ The permeability for acclivous transfer is often asymmetric with declivous trans
 
 ### 7.3 Embodied Recursion at the Cognitive-Embodied Membrane
 
-From SP08 §6, membrane recursion forms when resonance does not fully transfer across a membrane and becomes trapped in recursive cycling. At ⧉₁, embodied membrane recursion manifests as:
+SP08 §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Incomplete transfer establishes an untransferred amount; boundary residence and recursive update require their own state relation. At ⧉₁, the two cases have the following cognitive-embodied interpretations. These are interpretive correspondences, with numerical and clinical criteria held pending their specified evidence and correspondence:
 
-**Centropic Recursion Layers:**
+**Centropic Recursion Layers (⤾):**
 
-Unresolved integration patterns cycling between cognitive and embodied domains — the physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, the intention that loops without manifesting. These are centropic in nature (integration seeking completion) and respond to the Echo Layer resolution protocols of SP10 §4.4.
+Unresolved, coherence-preserving integration patterns resident at the cognitive-embodied boundary. The physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, and the intention that loops without manifesting are proposed correspondences where the boundary-recursion condition is established. SP10 §4.4 describes qualitative supports for completion or reintegration; sufficient resolution conditions remain held.
 
-**Entropic Echo Layers:**
+**Entropic Echo Layers (⟲):**
 
-Fragmentation patterns trapped at the cognitive-embodied interface — trauma encoding, compulsive behavioral loops, dissociative patterns that cycle without resolution. These are entropic in nature and require reorientation before release (SP10 §4.4 Step 3).
+Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encoding, compulsive behavioral loops, and dissociative patterns are proposed correspondences requiring assessment of the actual operative function; repetition, absent gain, or absent healing is not an orientation test. SP10 §4.4 Step 3 addresses interruption of entropic recursion and restoration of centropic expression where a centropic being is affected. Restored centropic expression is distinct from interruption or dissipation of the entropic pattern; the latter does not reintegrate as centropic recursion does. Essential orientation remains unchanged; release and resolution dynamics remain held.
 
 ### 7.4 Membrane Pathology at the Cognitive-Embodied Membrane
 
@@ -553,7 +553,7 @@ SP11 extends SP07 to the metric terminus by:
 SP11 extends SP08 to the metric terminus by:
 
 - Formalizing ⧉₁ as the cognitive-to-embodied membrane (§7.1)
-- Specifying transfer mechanics, Echo Layer dynamics, and pathological conditions at ⧉₁ (§7.2–7.4)
+- Specifying transfer mechanics, Membrane Recursion distinctions with boundary-state dynamics held, and pathological conditions at ⧉₁ (§7.2–7.4)
 - Demonstrating how membrane pathology at ⧉₁ manifests as recognizable conditions within embodied experience
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
@@ -570,7 +570,7 @@ SP11 contextualizes SP10 at the metric terminus:
 
 - All ritual operations at L₁ incur the resistance premium (§3.3)
 - The coherence budget (SP10 §6.1) must account for the embodied resistance term when operations are performed at the Embodiment Band
-- Integration protocols at L₁ (membrane repair, Echo Layer resolution) face the additional complexity of corporeal correlates
+- Integration protocols at L₁ (membrane repair, Membrane Recursion resolution) face the additional complexity of corporeal correlates
 - The Reserve Lock Principle (SP10 §6.1) is most consequentially tested at L₁, where the resistance term creates the strongest temptation to reallocate reserves under pressure
 
 ---
@@ -585,7 +585,7 @@ SP11 establishes:
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; model-specific equilibrium standing; Localized Dissolution and the Mercy Fold require the additional structural condition of ceased enacted orientation
 5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara / Mania mechanics; Rival Architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
 6. **Cross-band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication
-7. **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold; transfer mechanics, Echo Layers, and pathological conditions at the Embodiment Band interface
+7. **Membrane Dynamics at ⧉₁** — the cognitive-to-embodied threshold; transfer mechanics, Membrane Recursion with its two distinct cases, and pathological conditions at the Embodiment Band interface
 8. **Physical Interface** — structural context for observable phenomena without replacement of conventional physics; proper attribution of physical analogues
 
 ---
@@ -601,7 +601,7 @@ This document formalizes the structural physics of the metric terminus — the t
 
 Future expansions may include:
 
-- **Embodied Diagnostic Protocols** — formal assessment methods for corporeal coherence, ⧉₁ integrity, and embodied Echo Layer identification
+- **Embodied Diagnostic Protocols** — formal assessment methods for corporeal coherence, ⧉₁ integrity, and embodied Membrane Recursion assessment
 - **Corporeal Integration Pathways** — detailed treatment of how embodied beings achieve acclivous return through the soul layers
 - **Embodied Collective Dynamics** — centropic and entropic collective configurations at the metric terminus in detail
 - **The Post-Mortem Trajectory** — formal extension of the Mercy Fold, centropic integration, and entropic collapse pathways from the embodied position

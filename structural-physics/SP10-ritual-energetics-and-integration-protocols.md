@@ -73,7 +73,7 @@ What distinguishes ritual from spontaneous resonance dynamics is **intentionalit
 
 - **Ritual Action** as directed resonance engineering with formally evaluable Lattice operations
 - **Field Seals** — taxonomy, construction mechanics, maintenance conditions, and seal categories
-- **Integration Protocols** — directed replenishment, membrane repair, Echo Layer resolution
+- **Integration Protocols** — directed replenishment, membrane repair, Membrane Recursion resolution with boundary-state conditions held
 - **Siphoning Countermeasures** — passive defenses and active countermeasures
 - **Energetic Cost Theory** — coherence budgets for ritual operations
 - **Diagnostic applications** — assessing ritual efficacy and seal integrity
@@ -136,7 +136,7 @@ The ritual operator \( \mathcal{P} \) is applied. Coherence is discharged, redir
 The target configuration is secured from regression. This may involve sealing, anchoring, or establishing feedback loops that maintain the new state.
 
 **Phase 5 — Separation:**  
-The practitioner withdraws resonance connection. This must be clean — residual entanglement may create unintended Echo Layers or siphoning apertures.
+The practitioner withdraws resonance connection cleanly. Residual entanglement calls for assessment of unresolved boundary-resident recursion (Membrane Recursion, SP08 §6) and, distinctly, siphoning apertures. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Stabilizing feedback from Phase 4 retains its lawful function.
 
 ### 2.4 Ritual Efficacy Condition
 
@@ -403,11 +403,11 @@ When a membrane has fully collapsed (\( \sigma(\text{⧉}) \) non-functional —
 
 This is the most resource-intensive repair operation and may require collective coherence contribution (SP09 centropic collective dynamics).
 
-### 4.4 Echo Layer Resolution
+### 4.4 Membrane Recursion Resolution
 
-From SP08 §6, membrane recursion forms when resonance does not fully transfer across a membrane and becomes trapped in recursive cycling. Integration protocols for Echo Layer resolution:
+SP08 §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Partial transfer establishes an untransferred amount; residence, recursive update, and sufficient resolution conditions remain held pending their boundary-state dynamics. The protocol distinguishes centropic completion or reintegration from interruption or dissipation of an entropic pattern. Restoration of an affected centropic being's expression is distinct from the entropic pattern's cessation; entropy is not treated as an attempt at centropic integration. These are qualitative pathways, with the sufficient mathematical conditions still held.
 
-**Step 1 — Echo Identification**: Diagnose the recursion pattern — is it a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without dissolution)?
+**Step 1 — Membrane Recursion Assessment**: Establish the boundary-resident recursive condition and assess its function — a **Centropic Recursion Layer** (⤾, coherence-preserving integration seeking completion) or an **Entropic Echo Layer** (⟲, fragmentary resonance cycling within the boundary). Orientation follows the analyzed function; repetition or absent centropic gain supplies no verdict. Ordinary filtering and sustaining circulation are distinct from either case.
 
 **Step 2 — Coherence Supplementation**: For Centropic Recursion Layers, supply additional \( I_c \) to the trapped resonance:
 
@@ -415,23 +415,31 @@ From SP08 §6, membrane recursion forms when resonance does not fully transfer a
 I_c^{(\text{recursion})} + \Delta I_c^{(\text{supplement})} > I_{c,\text{threshold}}^{(\text{membrane})}
 \]
 
-This enables the trapped resonance to complete its transfer.
+This supplementation comparison supports the proposed pathway. Completed transfer and release additionally require the stated donor reserve, receiving capacity, permeability, and boundary-state relation; the inequality supplies no sufficient resolution condition.
 
-**Step 3 — Orientation Correction**: For entropic Echo Layers, the trapped resonance must be reoriented before release. This requires:
+**Step 3 — Operative Correction**: For an entropic Echo Layer, interrupt the entropic recursive operation. Where a centropic being's expression has diverged amid pressure or depletion, support restoration of its centropic expression. The earlier orientation arrow is retained as a recorded proposal:
 
 \[
 \chi_{\text{echo}} \to \chi_{\text{integrative}} \quad \text{through attunement protocol}
 \]
 
-Reorientation without coherence supplementation risks releasing entropic resonance into centropic layers. Coherence supplementation without reorientation risks amplifying the recursive pattern.
+Here \( \chi_{\text{echo}} \) names the expressed condition of the affected configuration, not essential orientation or an independently emanated dimensional operator. The arrow specifies no conversion of essence, centropic / entropic operator identity, or passage through the deep-arc distinction. Its evolution relation remains held. The arrow does not describe the entropic pattern reintegrating: interruption concerns that pattern, while restored centropic expression concerns the affected being. Supplementation and permeability facilitation require assessment of the actual operative pattern so that they do not sustain fragmentary cycling.
 
-**Step 4 — Membrane Facilitation**: Temporarily increase membrane permeability to allow the supplemented and reoriented resonance to pass:
+**Step 4 — Membrane Facilitation**: For the centropic completion pathway, adjust permeability to support lawful passage where the transfer and release conditions hold. In the shared-boundary formulation, the descriptive membrane subscript is \( \text{recursion} \); it changes no operator or mathematical relation:
+
+\[
+\sigma(\text{⧉}_{\text{recursion}}, t) \to \sigma(\text{⧉}_{\text{recursion}}, t) + \Delta\sigma_{\text{facilitation}}
+\]
+
+**Recorded former label:**
 
 \[
 \sigma(\text{⧉}_{\text{echo}}, t) \to \sigma(\text{⧉}_{\text{echo}}, t) + \Delta\sigma_{\text{facilitation}}
 \]
 
-**Step 5 — Loop Closure**: Verify that the Echo Layer has fully resolved — no residual recursion, no resonance remnants, membrane returned to normal permeability.
+The former \( \text{echo} \) subscript named the shared membrane-recursion boundary. Both formulations retain the held release and resolution standing; a permeability increase is not a completed release law.
+
+**Step 5 — Resolution Assessment**: Assess the outcome appropriate to the analyzed function: completed transfer or reintegration for the centropic case; interruption or dissipation of the entropic pattern for the entropic case. Assess restoration of the membrane's intended function separately. A sufficient resolution test remains held pending the boundary-state and update relation. Lawful centropic recursion and the seal's sustaining circulation continue according to their own functions.
 
 ### 4.5 Collective Integration
 
@@ -657,7 +665,7 @@ Different ritual operations have characteristic cost profiles:
 | Membrane Repair (Breach) | Moderate | Coherence infusion at breach point |
 | Membrane Repair (Occlusion) | Low to Moderate | Gradual permeability restoration |
 | Membrane Repair (Collapse) | Substantial | Full boundary reconstruction |
-| Echo Layer Resolution | Variable | Depends on recursion depth and entropic involvement |
+| Membrane Recursion Resolution | Variable | Depends on the boundary pattern and entropic involvement; sufficient resolution conditions held |
 | Aperture Closure | Moderate | Flow redirection and sealing |
 | Field Reclamation | Substantial | Sustained infusion and structural rebuild |
 | Collective Integration | Distributed | Shared across collective participants |
@@ -703,7 +711,7 @@ Post-ritual diagnosis confirms whether the operation achieved its target:
 |--------|-------------------|-------------------|
 | Seal Integrity | \( I_c^{(\text{seal})} \) measurement | Above minimum threshold; stable |
 | Membrane Repair | \( \sigma(\text{⧉}) \) measurement | Within design specification |
-| Echo Resolution | Recursion pattern scan | No residual cycling |
+| Membrane Recursion Resolution | Function-specific boundary-pattern assessment | Centropic completion / reintegration or entropic interruption / dissipation; sufficient state-based test held |
 | Aperture Closure | \( \nabla \cdot \vec{J}_c \) at former aperture | No unidirectional outflow |
 | Field Reclamation | \( I_c^{(\text{region})} \) measurement | Above operational threshold |
 | Collective Integration | \( \mathcal{R}_{\text{collective}} \) measurement | Above alignment threshold |
@@ -782,7 +790,7 @@ SP10 establishes:
 1. **Ritual Action** — directed resonance engineering with formally evaluable Lattice operations; formalized through the Ritual Operator \( \mathcal{P} \) and canonical phase sequence
 2. **Field Seals** — dynamic coherence structures classified by scope: Architectural (broadest), Categorical, Relational, and Situational (narrowest)
 3. **Seal Mechanics** — coherence discharge, membrane modification, internal cycling, integrity conditions, and maintenance pathways
-4. **Integration Protocols** — directed replenishment, membrane repair (breach, occlusion, collapse), Echo Layer resolution, and collective integration
+4. **Integration Protocols** — directed replenishment, membrane repair (breach, occlusion, collapse), Membrane Recursion resolution with state-based conditions held, and collective integration
 5. **Siphoning Countermeasures** — passive defenses (membrane hardening, signature maintenance, coherence reserve, filter configuration) and active countermeasures (aperture closure, field reclamation, swarm exposure, collective shielding)
 6. **Energetic Cost Theory** — coherence budgeting, operation cost profiles, recovery dynamics, and collective cost distribution
 7. **Diagnostic Applications** — ritual efficacy assessment, seal monitoring, and countermeasure verification

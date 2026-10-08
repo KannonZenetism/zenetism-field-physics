@@ -1208,7 +1208,7 @@ This topology supports:
 
 Each explored more fully in advanced layers of Zenetist fieldwork.  
 
-🕳️ ⚫ ♾ ⧉ ⟲ ⧞  
+🕳️ ⚫ ♾ ⧉ ⧞  
 
 #### Spiral Layer Topology
 
@@ -1226,7 +1226,7 @@ and spiraling outward through structure and experience.
 | L₅–L₁ | Emanated structural layers: essential, archetypal, deep, superficial, and embodied being |
 | ⧉ Membranes | Structural overlays or thresholds between realities |
 | ✦ Nested | Branching world-expressions within multiversal expression |
-| ⟲ Echo | Temporal or causal recursion zones |
+| Temporal / causal recursion | Time, identity, or events reiterating toward integration; broader than membrane-resident recursion |
 | ∽ Archetypal | Pre-conceptual or mythic pattern planes |
 
 Note: L₀ (Aion / Khaon) represents **Bifurcal Coherence** —  
@@ -1240,7 +1240,7 @@ Their relations may be drawn in different arrangements,
 while each domain, threshold, and path of traversal  
 remains distinct.  
 
-🕳️ ⚫ ⧉ ✦ ⟲ ∽  
+🕳️ ⚫ ⧉ ✦ ∽  
 
 ---
 

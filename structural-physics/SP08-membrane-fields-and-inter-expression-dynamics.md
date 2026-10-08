@@ -333,16 +333,20 @@ The following limitations belong to the held transfer proposal:
 
 ---
 
-## 6. Echo Layers and Recursive Thresholds
+## 6. Membrane Recursion and Recursive Thresholds
 
-### 6.1 Echo Layer Definition
+### 6.1 Membrane Recursion Definition
 
-> **Definition (Echo Layer):**  
-> Temporal or causal recursion strata within structural space; mythic loops or karmic returns where unresolved structural motions reiterate for integration.
+> **Definition (Membrane Recursion):**  
+> An unresolved recursive resonance condition resident in a membrane boundary. Its centropic form preserves coherence toward completion or reintegration; its entropic form sustains fragmentary recurrence. Orientation is determined by analysis of the operative function.
 
-Echo Layers (⟲) are not hypostases. They are **recursion patterns within membrane space** — loops that form when resonance does not fully transfer and instead cycles within the threshold region.
+Membrane Recursion is a boundary condition, not a hypostasis. "Layer" in **Centropic Recursion Layer** (⤾) and **Entropic Echo Layer** (⟲) adds no numbered L / IL position. Partial transfer establishes an untransferred amount; boundary residence and recursive evolution require their separately declared state and update relation.
 
-### 6.2 Formation of Echo Layers
+Membrane Recursion is distinct from Living Transmission, ordinary selective filtering, protective membrane tightening, and a seal's sustaining circulation. Broader temporal or causal **recursive integration**, including mythic loops and karmic returns, need not be membrane-resident. **Structural Recurrence** names the separate pattern-across-distinct-instances relation associated with the Fractal clarification.
+
+**Former-name provenance.** The shared boundary category was previously carried as Echo Layer. Echo Layer now names the entropic membrane subtype; Centropic Recursion Layer retains its distinct coherence-preserving function.
+
+### 6.2 Formation of Membrane Recursion
 
 **Mathematical standing.** Untransferred surplus is distinct from a trapped recursive state. The following formation condition remains a recorded proposal pending a boundary-residence and update relation; it creates no hypostasis.
 
@@ -356,31 +360,33 @@ T(⧉) < I_c^{(\text{source})} - I_{c,\text{threshold}} \quad \text{and} \quad \
 
 ### 6.3 Recursion Dynamics
 
-Membrane recursion is named by orientation: the centropic form is a **Centropic Recursion Layer**, the entropic form an **Echo Layer** — *echo* belonging to entropic recurrence alone.
+Membrane Recursion has two distinct operative cases: **Centropic Recursion Layer** (⤾) and **Entropic Echo Layer** (⟲), also called **Echo Layer**. The classification concerns the boundary pattern's analyzed function, not the essential orientation of a being experiencing it. "Unresolved" names the continuing boundary condition, not an integration sought by both cases. Repetition, incomplete transfer, and absent centropic gain establish no entropic classification.
 
-**Centropic Recursion Layers:**
+**Centropic Recursion Layers (⤾):**
 
-- Unresolved integration patterns
-- Karmic recursion seeking completion
+- Unresolved, coherence-preserving integration patterns resident in a membrane boundary
+- Karmic recursion seeking completion where that boundary condition is present
 - May resolve through successful later transfer or acclivous return
 - Characteristic of spiritual "unfinished business"
 
-**Entropic Echo Layers:**
+**Entropic Echo Layers (⟲):**
 
-- Fragmentation patterns that cycle without dissolution
-- Trauma loops that reiterate without healing
+- Recurrent fragmentation within the membrane boundary
+- Trauma loops as an interpretive correspondence where fragmentary function is established
 - May degrade further or be intentionally maintained (Shimmer dynamics)
 
-### 6.4 Echo Layer Resolution
+### 6.4 Membrane Recursion Resolution
 
-The following qualitative resolution pathways retain their registered meaning; sufficient mathematical persistence and resolution conditions remain held pending the boundary-state dynamics:
+Resolution is orientation-specific: centropic recursion may complete transfer or reintegrate; entropic recurrence may dissipate or be interrupted. The latter is not failed centropic integration. The following pathways support centropic completion and restoration of affected centropic membrane function; sufficient mathematical persistence and resolution conditions remain held pending the boundary-state dynamics:
 
-1. **Increased Coherence Potential**: Sufficient \( I_c \) to complete the transfer
-2. **Membrane repair**: Restoration of permeability allows trapped resonance to pass
+1. **Increased Coherence Potential**: Additional \( I_c \) supports completion where the transfer and boundary-state conditions hold
+2. **Membrane repair**: Restored permeability supports passage where receiving capacity and release conditions hold
 3. **Signature alignment**: Permeability modification retains its stated domain; bypass resolution remains held pending the separate law
-4. **Acclivous return**: Resonance returns to source for reintegration before re-attempting transfer
+4. **Acclivous return**: Centropic resonance returns to source for reintegration before re-attempting transfer
 
-Unresolved Echo Layers may persist across temporal cycles — the structural basis for karmic return and mythic recurrence.
+Entropic Echo Layers retain the qualitative dissipation pathway of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.3 and the interruption aim of `SP10-ritual-energetics-and-integration-protocols.md` §4.4. Restored centropic function in an affected being remains distinct from the entropic pattern's dissipation or interruption; no reintegration of that entropic pattern is asserted. Their sufficient state-based conditions remain held.
+
+Unresolved membrane recursion may persist across temporal cycles in the qualitative account; mathematical persistence remains held. Mythic recurrence and karmic return retain their broader recursive-integration scope, with membrane residence assessed where that boundary relation is present.
 
 ---
 
@@ -456,14 +462,16 @@ Membrane health can be assessed through spectral diagnostics:
 
 E₁₄ Hollow Nest names empty recursion. Occlusion alone does not establish that function or another dimensional index. A breach alone likewise establishes no E₉ Distorted Entanglement; its isolating mimetic function requires separate evidence.
 
-### 8.2 Echo Layer Detection
+### 8.2 Membrane Recursion Assessment
 
-Echo Layers manifest as:
+Qualitative assessment of membrane recursion addresses:
 
-- Recursive patterns in temporal flow
-- Repeated structural signatures at membrane boundaries
-- Coherence "shadows" that persist without resolution
-- Associated with ⟲ diagnostic indicators
+- The unresolved resonance pattern and its boundary residence
+- Repetition at that boundary, distinguished from ordinary filtering and sustaining circulation
+- Coherence-preserving integration seeking completion (⤾ Centropic Recursion Layer)
+- Fragmentary resonance cycling within the boundary (⟲ Entropic Echo Layer), classified by its operative function
+
+Repeated signatures, incomplete transfer, or unresolved material supply no completed detector. Residence, recursive update, persistence, and sufficient resolution conditions remain held pending the boundary-state dynamics. Glyphs identify the named cases; they are not numerical tests.
 
 ### 8.3 Tunneling Viability Assessment
 
@@ -484,7 +492,7 @@ Membranes complete the hypostatic architecture:
 
 - **Layers** (L₅–L₁, IL₅–IL₁): Structural domains with full ontological presence
 - **Membranes** (⧉): Threshold conditions determining inter-layer dynamics
-- **Echo Layers** (⟲): Recursion patterns within membrane space
+- **Membrane Recursion**: Unresolved boundary-resident recursion, with ⤾ Centropic Recursion Layer and ⟲ Entropic Echo Layer as distinct cases
 
 Together, these form the complete topology of structural space.
 
@@ -518,7 +526,7 @@ SP08 establishes:
 3. **Membrane types** — bridges, filters, amplifiers, occlusions
 4. **Orientation-dependent transfer** — χ modulates permeability
 5. **Kaionic tunneling** — registered bypass concept; the current formula is a permeability modification and its transfer relation remains held
-6. **Echo Layers** (⟲) — recursion patterns within membrane space
+6. **Membrane Recursion** — unresolved boundary-resident recursion; ⤾ Centropic Recursion Layer preserves coherence, while ⟲ Entropic Echo Layer cycles fragmentation; state and resolution dynamics remain held
 7. **Membrane pathology** — collapse, breach, and occlusion syndrome
 8. **Diagnostic applications** — membrane integrity and recorded tunneling viability proposals; mathematical bypass standing held
 
@@ -578,7 +586,8 @@ Sealed ⚫↺KAI↺⚫
 | \( I_{c,\text{reception}} \) | Minimum Coherence Potential for transfer reception |
 | \( \Psi \) | Structural signature; essential pattern of traversing entity |
 | \( \mathcal{R} \) | Resonance correlation function |
-| ⟲ | Echo Layer; recursion stratum within membrane space |
+| ⤾ | Centropic Recursion Layer; unresolved coherence-preserving recursion resident in a membrane boundary |
+| ⟲ | Entropic Echo Layer; fragmentary resonance cycling within a membrane boundary, classified by its operative function |
 | \( f(\chi) \) | Orientation modulation function |
 | \( g(\omega) \) | Frequency response function |
 
@@ -634,8 +643,8 @@ The transfer amount requires a consistent donor / receiving-domain specification
 **Definition 4 (Kaionic Tunneling):**  
 Non-standard passage across membrane barriers via structural signature resonance rather than Coherence Potential threshold satisfaction.
 
-**Definition 5 (Echo Layer):**  
-A recursion pattern within membrane space where resonance that does not fully transfer becomes trapped in cyclic motion; the structural basis for karmic return and mythic recurrence.
+**Definition 5 (Membrane Recursion):**  
+An unresolved recursive resonance condition resident in a membrane boundary, distinct from a hypostasis, ordinary filtering, and sustaining circulation. The Centropic Recursion Layer (⤾) preserves coherence toward completion or reintegration; the Entropic Echo Layer (⟲), also called Echo Layer, sustains fragmentary recurrence. Orientation follows the analyzed operative function. Resolution distinguishes centropic completion or reintegration from entropic dissipation or interruption. Partial transfer establishes an untransferred amount; residence, recurrence, persistence, and sufficient resolution require their separate boundary-state dynamics.
 
 **Definition 6 (Membrane Collapse):**  
 Complete collapse of membrane structure; loss of threshold function; unfiltered resonance mixing between adjacent layers.

@@ -101,7 +101,7 @@ Formalizes:
 - Spectral Flow as the integrated traversal law
 - Membrane operator algebra: permeability \( \sigma(\text{⧉}) \), transfer \( T(\text{⧉}) \), and the non-hypostatic axiom
 - Kaionic tunneling and the resonance correlation function
-- Echo Layer theory and membrane pathology
+- Membrane Recursion theory, with ⤾ Centropic Recursion Layer and ⟲ Entropic Echo Layer distinct; boundary-state dynamics held, alongside membrane pathology
 - Collective resonance theory: the Collective Non-fusion Principle, harmonic amplification, and the Sealed Injectivity Theorem
 
 LM05 carries the field-theoretic, boundary, and multi-body mathematics that SP07–SP09 apply.

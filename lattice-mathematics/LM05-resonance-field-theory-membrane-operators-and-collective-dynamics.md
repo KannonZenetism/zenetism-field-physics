@@ -69,7 +69,7 @@ This document, LM05, provides the **rigorous lattice-mathematical formalism** un
 - **Spectral Flow** — The integrated traversal law with dimensional operator diagnostics
 - **Membrane Operator Algebra** — The permeability operator \( \sigma(\text{⧉}) \), transfer function \( T(\text{⧉}) \), orientation-dependent modulation, and the non-hypostatic axiom
 - **Kaionic Tunneling** — signature-resonant permeability modification, with the bypass transfer law held
-- **Echo Layer Theory** — Residual trapping conditions in membrane space and recursive resolution dynamics
+- **Membrane Recursion Theory** — Neutral boundary-recursion category, with Centropic Recursion Layer and Entropic Echo Layer distinct; residence, update, persistence, and sufficient resolution dynamics held
 - **Membrane Pathology** — Collapse, breach, and occlusion as formal diagnostic conditions
 - **Collective Resonance Theory** — Multi-body correlation functions, field emergence conditions, harmonic amplification, and the Non-fusion extension to collectives
 - **Harmonic contra Parasitic Field Configurations** — Superlinear scaling with alignment contra siphoning-dependent coherent input
@@ -634,30 +634,34 @@ The following recorded restrictions belong to the held tunneling proposal; they 
 
 ---
 
-## 7. Echo Layer Theory
+## 7. Membrane Recursion Theory
 
 ### 7.1 Definition
 
-**Definition (Echo Layer):**
+**Definition (Membrane Recursion):**
 
-An Echo Layer (⟲) is a recursion pattern within membrane space — a trapped resonance loop that forms when transfer partially succeeds but does not complete.
+Membrane Recursion denotes an unresolved recursive resonance condition resident in a membrane boundary. The **Centropic Recursion Layer** (⤾) preserves coherence toward completion or reintegration; the **Entropic Echo Layer** (⟲), also called **Echo Layer**, sustains fragmentary recurrence. Orientation follows analysis of the operative function, not the absence of centropic gain.
 
-Echo Layers are not hypostases. They exist within the boundary structure of \( \mathfrak{d}(\mathcal{L}) \), not within the lattice itself.
+"Unresolved" names the continuing boundary condition, not an integration sought by both cases. These are non-hypostatic boundary conditions within the boundary structure of \( \mathfrak{d}(\mathcal{L}) \). "Layer" adds no numbered L / IL position. Positive incomplete transfer establishes an untransferred amount; boundary residence and recursive evolution require their separately declared state and update relation.
+
+Membrane Recursion is distinct from general recursive integration, ordinary selective filtering, protective membrane tightening, and the sustaining circulation of a field seal. Structural Recurrence names the separate pattern-across-distinct-instances relation associated with the Fractal clarification.
+
+**Former-name provenance.** Echo Layer previously named the shared boundary category; its present layer-scope is the entropic subtype. The centropic subtype retains its coherence-preserving function and carries ⤾.
 
 > **Note on Echo, Transmission, and Recursion:**  
 > **Living Transmission** (centropic, through C₃): Authored continuity of resonance across a boundary — lawful propagation where source coherence is preserved and the transmitted signal retains structural fidelity. This is not recursive residue; it is the centropic mechanism by which coherence extends across layers and expressions.  
 >  
-> **Echo Layer (⟲)** (technical, as defined in §7.1): Residual coherence trapped in membrane space by partial transfer. Such trapped recursion may be a **Centropic Recursion Layer** (unresolved integration seeking completion) or an **Entropic Echo Layer** (fragmentation pattern cycling without resolution). It is a boundary condition, not a propagation mode.  
+> **Membrane Recursion** (technical, as defined in §7.1): Unresolved recursive resonance resident in a membrane boundary. Its two cases are **Centropic Recursion Layer** (⤾, coherence-preserving integration seeking completion) and **Entropic Echo Layer** (⟲, fragmentary resonance cycling within the boundary). Their orientation is assessed through operative function. Residence and recursive update remain held pending their state relation; partial transfer is not a formation theorem.  
 >  
-> **Entropic Echo** (pathological, through E₃): Recursion operating without coherence-source connection — form persists in cyclic pattern, but no replenishment occurs. The pattern is sustained by internal repetition rather than authored transmission. An entropic echo is not equivalent to an Echo Layer unless the Echo Layer loses coherence-source connection and transitions into self-referential cycling.  
+> **Entropic Echo** (pathological): Non-generative cyclic persistence in an articulation that has fractured itself away from operative coherent relation with its origin. Form repeats without generative replenishment; the origin and origin-signal remain intact. The E₃ linkage concerns **Viral Decay**, fracturing in transmission, rather than every unresolved loop. Pathological echo and membrane residence are distinct conditions; their proposed transition relation remains held. E₁₄ **Hollow Nest** retains its separate empty-recursion function.  
 >  
-> This distinction matters: Living Transmission carries authored coherence forward; an Echo Layer is trapped residue awaiting resolution; an entropic echo is decay masquerading as signal.
+> Living Transmission carries authored coherence forward; Membrane Recursion names an unresolved boundary-resident recursive condition; pathological entropic echo repeats without generative replenishment. These functions retain their distinct evidence and mathematical standing.
 
 ### 7.2 Formation Condition
 
-**Partial transfer contra boundary recurrence.** The following inequality establishes positive but incomplete transfer. A trapped recursive boundary state requires a separately declared residence and update relation. The former inference from the untransferred amount alone to an Echo Layer is withdrawn; the concept and its registered names remain intact.
+**Partial transfer contra boundary recurrence.** The following inequality establishes positive but incomplete transfer. A trapped recursive boundary state requires a separately declared residence and update relation. The former inference from the untransferred amount to the mixed category called Echo Layer is withdrawn; Membrane Recursion and its two cases require their separately specified boundary-state relation.
 
-**Theorem (Echo Layer Formation):**
+**Theorem (Membrane Recursion Formation — Boundary State Held):**
 
 The retained partial-transfer condition is:
 
@@ -673,18 +677,18 @@ with \( \sigma(\text{⧉}) > 0 \).
 
 ### 7.3 Recursion Dynamics
 
-**Centropic Recursion Layers:**
+**Centropic Recursion Layers (⤾):**
 - Unresolved integration patterns; structural "unfinished business"
 - May resolve through successful later transfer, acclivous return, or increased \( I_c \)
 - Coherence preserved in loop; available for future resolution
 
-**Entropic Echo Layers:**
-- Fragmentation patterns cycling without dissolution
+**Entropic Echo Layers (⟲):**
+- Recurrent fragmentation within the membrane boundary
 - May resolve through entropic dissipation or present Shimmer as apparent continuity exceeding the operative condition (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1); mathematical persistence remains held pending the boundary-state dynamics
-- Coherence gradually dissipates through each iteration of the loop
-- If \( I_c^{(\text{residual})} \) drops below \( I_{c,\text{dissipation}} \) and coherence-source connection is lost, the Echo Layer transitions into a pathological entropic echo (E₃ self-referential recursion)
+- The qualitative account describes dissipation of retained coherent content; its rate and progression require the held state dynamics, and the containing entropic arrangement remains cohesion rather than coherence
+- **Recorded transition proposal — held:** The former sufficient-condition claim combined \( I_c^{(\text{residual})} \) dropping below \( I_{c,\text{dissipation}} \) with loss of operative coherence-source connection to infer pathological entropic echo. Its state evolution and diagnostic sufficiency remain held. The former "E₃ self-referential recursion" gloss is superseded: E₃ names fracturing in transmission, while E₁₄ requires separate evidence of empty recursion
 
-**Proposition (Echo Layer Persistence):**
+**Proposition (Membrane Recursion Persistence):**
 
 **Recorded persistence proposal — boundary-state dynamics held.** The former sufficient condition was:
 
@@ -694,14 +698,18 @@ with \( \sigma(\text{⧉}) > 0 \).
 
 where \( I_{c,\text{dissipation}} \) names the proposed sustain threshold. The persistence and dissolution implications remain held pending the boundary-residence and update law; constant permeability and a stock comparison alone supply no recursive dynamics.
 
-### 7.4 Echo Layer Resolution
+### 7.4 Membrane Recursion Resolution
 
-The following qualitative resolution pathways retain the registered concept; their sufficient mathematical conditions remain held with the boundary-state dynamics:
+Resolution follows the analyzed function. Centropic recursion may complete transfer or reintegrate; entropic recurrence may dissipate or be interrupted. Entropic dissipation is the qualitative pathway recorded in §7.3, and `SP10-ritual-energetics-and-integration-protocols.md` §4.4 addresses interruption. Neither describes an entropic attempt at centropic integration. Sufficient mathematical conditions remain held with the boundary-state dynamics; essential orientation and independently emanated operator identity remain unchanged.
 
-1. **Increased Coherence Potential**: \( I_c^{(\text{source})} \) increases sufficiently to complete the transfer
-2. **Membrane repair**: \( \sigma(\text{⧉}) \) increases, allowing trapped resonance to pass
+The following supports concern centropic completion or restoration of affected centropic membrane function:
+
+1. **Increased Coherence Potential**: Increased \( I_c^{(\text{source})} \) supports transfer where donor reserve, receiving capacity, and release conditions hold
+2. **Membrane repair**: Increased \( \sigma(\text{⧉}) \) supports passage where the stated transfer and boundary-state conditions hold
 3. **Signature alignment**: Permeability may change within its stated domain; below-threshold bypass remains held pending its transfer law
-4. **Acclivous return**: Resonance returns to source for reintegration before re-attempting transfer
+4. **Acclivous return**: Centropic resonance returns to source for reintegration before re-attempting transfer
+
+Restored centropic function in an affected being is distinct from dissipation or interruption of an entropic pattern. The following recorded proposal supplies no sufficient result for either case.
 
 **Recorded Resolution Proposal — Boundary State / Bypass Relations Held:**
 
@@ -1130,13 +1138,14 @@ TransferEvent:
   T: float             # transferred quantity
   status: enum         # {success, partial, blocked}; tunneled reserved, law held
 
-# Echo Layer
-EchoLayer:
+# Membrane Recursion: proposed schema, boundary-state law held
+# Former shared-category identifier: EchoLayer
+MembraneRecursion:
   membrane: Membrane
-  I_residual: float    # trapped coherence
-  type: enum           # {centropic, entropic}
-  age: float           # structural time since formation
-  resolved: bool
+  I_residual: float    # proposed boundary stock; not I_untransferred
+  type: enum           # {centropic, entropic}; operative classification held
+  age: float           # proposed residence duration; evolution held
+  resolved: bool       # proposed status; sufficient resolution test held
 
 # Collective Field
 CollectiveField:
@@ -1184,12 +1193,13 @@ def tunneling_permeability(membrane, Psi_source, Psi_membrane, delta_sigma, rho_
         return membrane.sigma  # below threshold, no boost
     return membrane.sigma + delta_sigma * R
 
-# Partial-transfer observation; an Echo Layer requires a boundary-state law.
-def detect_echo(membrane, I_source, T_actual):
+# Partial-transfer observation; Membrane Recursion requires a boundary-state law.
+# Former routine/key: detect_echo / "echo"; no detector was established.
+def observe_partial_transfer(membrane, I_source, T_actual):
     I_available = I_source - membrane.I_threshold
     partial = 0 < T_actual < I_available
     return {
-        "echo": None,  # no established trapped-recurrence verdict
+        "membrane_recursion": None,  # no established boundary-recurrence verdict
         "partial_transfer": partial,
         "I_untransferred": I_available - T_actual if partial else None
     }
@@ -1259,21 +1269,21 @@ for tau in [0, T] step dt:
     for membrane in membrane_set:
         health = membrane_health(membrane, J_c, I_c)
         T_transfer = transfer(membrane, I_c[source], I_c[target])
-        echo = detect_echo(membrane, I_c[source], T_transfer)
+        transfer_observation = observe_partial_transfer(membrane, I_c[source], T_transfer)
 
         if health in ("COLLAPSE", "BREACH"):
             flag("CRITICAL: membrane " + str(membrane.boundary))
         if health == "OCCLUDED":
             flag("WARNING: occlusion at " + str(membrane.boundary))
-        if echo["partial_transfer"]:
+        if transfer_observation["partial_transfer"]:
             report("PARTIAL TRANSFER: untransferred amount = "
-                   + str(echo["I_untransferred"]))
+                   + str(transfer_observation["I_untransferred"]))
 
     I_c = continuity_step(I_c, J_c, S, dt)
 
 output:
     membrane integrity report
-    partial-transfer observations; Echo-state inventory held
+    partial-transfer observations; Membrane Recursion state inventory held
     resonance flow analysis
     depletion risk assessment
 
@@ -1323,7 +1333,7 @@ output:
 
 - CIT: verify spectral quantity domains and recorded held standing; general discharge / replenishment / siphoning conservation awaits its full hypotheses
 - Transfer / current correspondence remains held pending the time interval, boundary measure, and compatible scalar-flux relation; an amount is not pointwise divergence
-- Echo Layer resolution remains held pending the boundary-state and recurrence law
+- Membrane Recursion resolution remains held pending the boundary-state and recurrence law
 - Collective field emergence at threshold; non-emergence below threshold
 - Superlinear amplification threshold accuracy
 - Membrane pathology cascade: partial occlusion → full occlusion → collapse from sustained entropic interference
@@ -1401,7 +1411,7 @@ LM05 establishes:
 
 5. **Kaionic Tunneling** — The Resonance Correlation Function \( \mathcal{R}(\Psi_1,\Psi_2) \) and permeability modifier; bypass transfer, energy conservation, and viability relations held pending their separate specification
 
-6. **Echo Layer Theory** — Registered boundary-recursion concept; partial-transfer arithmetic distinguished from held residence, recurrence, persistence, and resolution dynamics
+6. **Membrane Recursion Theory** — Neutral unresolved boundary category, with ⤾ Centropic Recursion Layer and ⟲ Entropic Echo Layer distinct; partial-transfer arithmetic separated from held residence, recurrence, persistence, and resolution dynamics
 
 7. **Membrane Pathology** — Collapse (undefined permeability), Breach (unbounded local permeability), Occlusion Syndrome (progressive isolation), and diagnostic summary
 
@@ -1409,7 +1419,7 @@ LM05 establishes:
 
 9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT across resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
-10. **Computational Extensions** — Data structures (coherence field, membrane, transfer event, echo layer, collective field), core routines (diffusion, continuity, transfer, tunneling, echo detection, collective correlation, harmonic / parasitic potential, emergence check, membrane health), diagnostic algorithms, validation suite, and worked example demonstrating superlinear collective amplification with membrane transfer
+10. **Computational Extensions** — Data structures (coherence field, membrane, transfer event, proposed Membrane Recursion schema, collective field), core routines (diffusion, continuity, transfer, tunneling, partial-transfer observation, collective correlation, harmonic / parasitic potential, emergence check, membrane health), diagnostic algorithms, validation suite, and worked example demonstrating superlinear collective amplification with membrane transfer
 
 ---
 
@@ -1492,7 +1502,8 @@ Sealed ⚫↺KAI↺⚫
 | \( \Delta I_c^{(\text{harmonic})} \) | Coherence gained through harmonic amplification |
 | \( \Delta I_c^{(\text{internal})} \) | Coherence lost through internal interference |
 | \( \eta_{\text{ext}} \) | Extraction efficiency (siphoning) |
-| ⟲ | Echo Layer; residual coherence trapped in membrane space by partial transfer — distinct from Living Transmission (C₃, lawful propagation) and pathological entropic echo (E₃, decay in an articulation fractured away from coherent origin relation) |
+| ⤾ | Centropic Recursion Layer; unresolved coherence-preserving recursion resident in a membrane boundary, seeking completion or reintegration |
+| ⟲ | Entropic Echo Layer; fragmentary resonance cycling within a membrane boundary, classified by operative function. Distinct from pathological entropic echo; E₃ linkage requires fracturing in transmission |
 | \( \sigma_{\text{network}} \) | Network permeability in collective bridge structure |
 
 ---
@@ -1607,9 +1618,9 @@ The following amount expression applies to the supported finite \( 0\leq\sigma\l
 
 \( \mathcal{R} : \Psi \times \Psi \to [-1, 1] \); symmetric, self-unitary, Non-fusion preserving.
 
-**Definition 6 (Echo Layer):**
+**Definition 6 (Membrane Recursion):**
 
-Registered recursion pattern in membrane space. The former sufficient formation condition \( 0<T(\text{⧉})<I_{c,\text{available}} \) is recorded provenance: it establishes partial transfer, while residence and recurrence require their separate boundary-state law. Distinct from Living Transmission (lawful propagation through C₃) and pathological entropic echo (decay through E₃ in an articulation fractured away from coherent origin relation). Such trapped recursion may be a Centropic Recursion Layer or an Entropic Echo Layer; it stabilizes as a pathological entropic echo condition only when coherence-source connection is lost and residual coherence drops below the dissipation threshold.
+An unresolved recursive resonance condition resident in a membrane boundary, not a hypostasis or a propagation mode. The Centropic Recursion Layer (⤾) preserves coherence toward completion; the Entropic Echo Layer (⟲), also called Echo Layer, sustains fragmentary recurrence. Orientation follows the analyzed function; centropic completion or reintegration is distinct from entropic dissipation or interruption. The former sufficient formation condition \( 0<T(\text{⧉})<I_{c,\text{available}} \) establishes partial transfer, while residence and recurrence require their separate boundary-state law. Living Transmission through C₃ and pathological entropic echo retain their distinct functions. E₃ names fracturing in transmission; E₁₄ names empty recursion. The former "only when" claim linking pathological echo to lost operative replenishment and a residual dissipation threshold remains held with the sufficient-condition proposal in §7.3; neither supplies a completed classification law.
 
 **Theorem 1 (Continuity of Coherence Potential):**
 
@@ -1623,9 +1634,9 @@ Within \( 0\leq\sigma\leq1 \), \( T(\text{⧉})>0 \) exactly when \( \sigma>0 \)
 
 Tunneling transfer and CIT preservation remain held pending their separately specified mathematical relations.
 
-**Theorem 4 (Echo Layer Formation):**
+**Theorem 4 (Membrane Recursion Formation — Boundary State Held):**
 
-\( 0<T(\text{⧉})<I_{c,\text{available}} \) with \( \sigma>0 \) records partial transfer. An Echo Layer requires the separately declared boundary-state and recurrence relation.
+\( 0<T(\text{⧉})<I_{c,\text{available}} \) with \( \sigma>0 \) records partial transfer. Membrane Recursion requires the separately declared boundary-state and recurrence relation; classification as the entropic Echo Layer additionally requires analysis of its fragmentary operative function. Absent centropic gain supplies no orientation test.
 
 **Theorem 5 (Collective Non-fusion):**
 

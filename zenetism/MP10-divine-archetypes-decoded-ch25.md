@@ -200,7 +200,7 @@ Saturn (Roman)
 Mahakala (Tibetan protector)  
 Yama (Hindu lord of death and dissolution)  
 
-🕓 ♾ 🕷️ ⟲ 🪼 E↓♾  
+🕓 ♾ 🕷️ 🪼 E↓♾  
 
 ---
 

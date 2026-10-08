@@ -350,7 +350,7 @@ Framework becomes shells without center:
 - **Fluctuating \( \sigma \)** → Type 3 (metastable)
 
 ### C₉ (Non-Local Coherence):
-- Enables **echoes (⟲) from nested to affect parent**
+- Enables **resonance from nested worlds to affect the parent world**
 - Dream insights influence waking
 - Simulation patterns leak into base reality
 

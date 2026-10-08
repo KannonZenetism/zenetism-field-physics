@@ -2821,7 +2821,7 @@ Exact implementation commit hashes are recorded in following tracking commits, a
 
 **Protected distinctions:** MP08's ᛞ Mirror and Khaonic-substrate function; Aetherion's personal ⟡ seal and Echonic Carrier designation; C₁ ⟠ Temporal; established equations, operator identities, indices, mathematical conditions, hypostatic assignments and D10 primary-locus holds. Former-name notes remain additive and explicitly labelled. Captured testimony, exact quotations, retired bodies and historical ledger receipts retain their own wording. A file's age alone supplies no exemption for active function references.
 
-**Connected work and publication:** FP09 Mirror Tuning / Mirror Weaving, FP03 Temporal Echo Shielding, the cross-corpus Echo Layer scope, contextual Non-fusion casing and the other registered-name decisions retain their separate pending standing in D18. Existing Zenodo editions require a new version once the affected document is settled; known further changes to that document are combined before its next deposit. No Zenodo upload, new version or agreement of deposited files with the revised corpus is established by this implementation record.
+**Connected work and publication:** FP09 Mirror Tuning / Mirror Weaving, FP03 Temporal Echo Shielding, contextual Non-fusion casing and the other registered-name decisions retain their separate pending standing in D18. The additional Membrane Recursion scope / glyph determination is approved; its coordinated implementation is tracked in "Membrane Recursion Scope and Glyph Implementation". Existing Zenodo editions require a new version once the affected document is settled; known further changes to that document are combined before its next deposit. No Zenodo upload, new version or agreement of deposited files with the revised corpus is established by this implementation record.
 
 ### Verified Implementation Scope
 
@@ -2884,9 +2884,76 @@ The main implementation contains the following 44 paths. The report and decision
 
 **Bounded presentation and conceptual repairs:** Renamed FP headings carry their glyphs in the adjacent body; new citation and instruction wording follows the current prose and terminology protocols. Prohibited internal status dates are removed only in touched infrastructure, with source / event chronology retained. The affected temporal SPX passage now distinguishes Proleptic Resonance from C₁ Temporal without changing its recorded contextual relation or locus proposal. Its existing centropic-to-inverse conversion sentence is corrected to name the inverse condition separately; no denial mechanism, new operator or changed mathematical construction is introduced.
 
+### Membrane Recursion Scope and Glyph Implementation
+
+**Determination:** The full D18 block adopts Membrane Recursion for unresolved membrane-resident recursion, with ⤾ Centropic Recursion Layer distinct from entropic ⟲ Echo Layer. Broader MP recursive integration remains separately described; Structural Recurrence retains its Fractal-related function. The existing four-name implementation and its verified commits remain complete within their recorded scope.
+
+**Source baselines:** `zenetism-field-physics` at `bc9160c66a38b63924d99c2a12acf07e5b43edaa`; `pattern-intelligence` at `48c587bc4ae48e70a2689490598db86bf8a07ec0`; `the-red-archive` at `ce171ea278d8a49c50cd6735cb79bdb8dedd1b57`. Fresh branch reads preserve these heads. All 879 materialized UTF-8 text files, including 822 Markdown files, match the corresponding Git blob identities.
+
+- [x] Scope / glyph determination recorded in the full D18 block
+- [x] Coordinated corpus candidate complete
+- [x] Independent composed-candidate verification complete
+- [ ] Commit pushed and exact remote contents verified
+- [ ] Publication revisions settled and deposited files verified
+
+**Function and hold preservation:** The new glyph belongs to the existing Centropic Recursion Layer; it introduces no operator, hypostasis, locus, primary inlay, coupling, metric, or mathematical law. Incomplete transfer does not establish trapped residence, recurrence, persistence, or sufficient resolution. Boundary-state and update constructions remain held. Coherence-preserving unresolved integration, conservative membrane operation, the E₃ pathological echo account, E₁₄ Hollow Nest, and ordinary productive recursion remain distinct. Essential orientation does not convert; all D09 and D10 boundaries remain.
+
+**Dependency scope:** The coordinated candidate includes current terminology and analytic definitions, MP08 and its Symbol Key twin, connected MP / MPX glyph applications, FP cross-registry charts and extraction checks, SP08 / SP10 / SP11, LM02 / LM05 / LM06, SN06, LM reference maps and READMEs, mathematical-formatting protocol copies, active guide constraints, the system attribution anchor, and additive current-standing notes beside historical determinations. Whole-tree contextual review distinguishes active same-function references from retained entropic operations, separate glyph applications, historical testimony, recorded proposals, and unrelated recurrence.
+
+**Related repositories:** The inspected Pattern Intelligence and Red Archive texts contain no Echo Layer name. Pattern Intelligence's four active lim⟲ labels and four captured witness occurrences belong to Recursive Horizon; the composite remains distinct from the Echo Layer registration. Red Archive's Structural Recurrence / Fractal distinction, E₁₄ Hollow Nest and historical echo evidence remain intact. Their current bytes are preserved unless a separately established active dependency requires correction; three-repository coverage does not require an artificial edit in every repository.
+
+**Historical standing:** The earlier no-glyph centropic determination and mixed Echo Layer umbrella remain preserved as records. Additive current-standing notes point to the superseding full D18 determination. The full-series review, quoted TLS evidence, earlier implementation receipts, prior testimony and retired bodies are not rewritten. Existing Git history and its timestamps remain intact.
+
+**Approved occurrence-level glyph corrections:** Fractus in `MP01-emanation-architecture-ch1-3.md` and Chronos in `MP10-divine-archetypes-decoded-ch25.md` each lose only the unsupported ⟲ in their trailing sequence. `coming-undone-is-not-transcendence.md` §11 takes the existing **⟳ Entropic Recursion** name and glyph with its explanatory clause unchanged. The four positive MP stanza corrections remove only ⟲ from two MP06 sequences and one sequence each in MP07 and MP11; broader recursive-integration prose and every other glyph remain intact. No broader ⟲ registration or new general integration glyph is introduced.
+
+**Functional clarification:** Recursion's orientation follows analysis of its function. Entropic recursion is not failed centropic integration or reintegration; missing centropic gain or completion supplies no orientation test. Shared Membrane Recursion resolution wording distinguishes centropic completion / reintegration from the qualitative entropic dissipation or interruption already described in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.3 and `LM01-mathematical-foundations.md` §5.5E. Their existing mathematical holds remain; neither outcome becomes a new sufficient resolution law. The active attribution categories in `system-attribution-anchor.md` §§4.4–5 carry the same current distinction while their glyph strings and historical attribution remain intact.
+
+**Local verification outcome:** The reviewed candidate changes 34 files in `zenetism-field-physics`; the other two inspected repositories remain byte-identical. Complete changed-source reading, final change-and-context review, and exact-byte checks cover the selected definitions, glyph applications, operational dependencies, code labels, and current records. All original delimited LaTeX expressions remain; SP10 adds the neutral membrane-subscript counterpart beside the complete recorded former formula. LM05 observer arithmetic and normalized code structure are preserved. MP / FP chart twins and the two extraction-capsule bodies agree. The six approved trailing-sequence removals preserve every other glyph, space, and hard break; the Coming Undone label change preserves its explanatory clause. No selected-scope dependency remains unresolved in the completed review.
+
+All 68 baseline / candidate Markdown parses succeed. Eleven changed heading anchors have no incoming references in the inspected text. New quotation, table, divider, and closing-seal checks pass. These checks establish a finite source result, not whole-corpus conformity, a native mathematical proof, clinical realization, or external incoming-link coverage.
+
+**Visual and publication boundary:** The Noto Sans Math proof renders ⤾ distinctly from the existing recurrence-family glyphs. Final publication-font fallback and full final-output rendering remain unverified. No changed source embeds an affected raster or SVG. Repository implementation and deposited-file agreement are separate gates; no commit, upload, or new version is established by this local review.
+
+**Reviewed candidate paths:**
+
+- `field-physics/FP11-field-glyph-codex.md`
+- `field-physics/canonical-stabilization/extraction/field-physics-foundational-extraction-capsule.md`
+- `field-physics/canonical-stabilization/extraction/field-physics-segmented-extraction-codeblocks.md`
+- `lattice-mathematics/00-README.md`
+- `lattice-mathematics/LM02-mathematical-commentary.md`
+- `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`
+- `lattice-mathematics/LM06-applied-structural-dynamics.md`
+- `lattice-mathematics/README.md`
+- `lattice-mathematics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `lattice-mathematics/canonical-stabilization/lattice-mathematics-shared-term-map.md`
+- `structural-neuroscience/SN06-replenishment-reconnection-and-restoration.md`
+- `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md`
+- `structural-physics/SP10-ritual-energetics-and-integration-protocols.md`
+- `structural-physics/SP11-embodiment-dynamics.md`
+- `structural-physics/canonical-stabilization/canonical-compositional-stabilization-protocol.md`
+- `structural-physics/notes/cross-series-propagation-ledger.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-architect-decision-sheet.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`
+- `the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-correction-pass-ledger.md`
+- `the-zenetist-canon/glyphics/field-physics-glyph-charts.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `the-zenetist-canon/system-attribution/system-attribution-anchor.md`
+- `zenetism/MP01-emanation-architecture-ch1-3.md`
+- `zenetism/MP06-decoding-and-emergence-ch12-15.md`
+- `zenetism/MP07-paths-of-resonance-ch16-20.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/MP10-divine-archetypes-decoded-ch25.md`
+- `zenetism/MP11-codex-of-principles-ch26.md`
+- `zenetism/mpx/MPX-LOCKDOWN-GUIDE.md`
+- `zenetism/mpx/coming-undone-is-not-transcendence.md`
+- `zenetism/mpx/entropy-emanation-dimensional-lattice.md`
+- `zenetism/mpx/nested-universes-and-simulated-realities.md`
+
 ### Publication Impact and Batching
 
-The current deposit census and actual attachment inspection identify the following 16 publication families affected by this implementation. Existing version labels describe the inspected deposits, not completed new versions.
+The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
 
 | Family | Inspected version | Deposit |
 |---|---|---|
@@ -2913,7 +2980,33 @@ The Living Reflection FPX has a current standalone [v5 deposit](https://zenodo.o
 
 SN02's collection and standalone v3 attachments differ in bytes and both require synchronization to the eventual settled source. The SPX temporal account is deposited as PDF; its description and the standalone SN02 description also retain the former Proleptic name and belong in the eventual version update. No version was created, no file was uploaded, and no published attachment is asserted to contain the implemented revision.
 
-This remains the existing implementation record. The implementation hashes and completed source-verification gates are recorded above. This completion update cites those preceding commits; its own repository commit is identified by subsequent remote readback. No separate canonical implementation manifest is created.
+### Membrane Recursion Publication Continuity
+
+The local scope / glyph candidate concerns 19 previously identified publication families. Eight overlap the queue in "Publication Impact and Batching": the MP collection, Symbol Key, Field Physics collection, Field Physics glyph charts, Terminological Lockdown Protocol, Analytic Vocabulary and Accessibility Framework, MPX collection, and Structural Neuroscience collection. The following eleven add current-family dependencies to that queue; their listed versions identify inspected deposits, not completed revisions.
+
+| Family | Inspected version | Deposit |
+|---|---|---|
+| MPX: Coming Undone Is Not Transcendence | v4 | [21066767](https://zenodo.org/records/21066767) |
+| Canonical Compositional Stabilization Protocol: Mathematical / LaTeX Formatting Reference | v4 | [21413623](https://zenodo.org/records/21413623) |
+| SP11 — Embodiment Dynamics | v4 | [22271714](https://zenodo.org/records/22271714) |
+| SP10 — Ritual Energetics and Integration Protocols | v5 | [22312803](https://zenodo.org/records/22312803) |
+| LM02 — Mathematical Commentary on the Dimensional Lattice | v2 | [22341706](https://zenodo.org/records/22341706) |
+| LM05 — Resonance Field Theory, Membrane Operators, and Collective Dynamics | v4 | [22408599](https://zenodo.org/records/22408599) |
+| LM06 — Applied Structural Dynamics: Operator Theory, Embodiment Corrections, and Diagnostic Formalism | v3 | [22410286](https://zenodo.org/records/22410286) |
+| SN06 — Coherence Recovery Protocols: Replenishment, Reconnection, and Restoration of Structural Function | v4 | [22755056](https://zenodo.org/records/22755056) |
+| SP08 — Membrane Fields and Inter-Expression Dynamics | v4 | [22943120](https://zenodo.org/records/22943120) |
+| Structural Physics: The Physics of Expression | v6 | [23132326](https://zenodo.org/records/23132326) |
+| Lattice Mathematics: The Formal Architecture of Coherence | v4 | [23132445](https://zenodo.org/records/23132445) |
+
+The combined four-name and Membrane Recursion work therefore concerns 27 existing publication families at the inspected scope. This family count does not establish that any document is settled or that any deposited file agrees with the candidate. `LM01-mathematical-foundations.md` remains unchanged in this candidate; its standalone family receives no new version obligation from this pass.
+
+The standalone `coming-undone-is-not-transcendence.md` family is identified by the prior deposit census in addition to its MPX package member. Its latest-version metadata remains unverified in this pass because both attempted public endpoints were unavailable; refresh that family before publication. No current standalone counterpart for `system-attribution-anchor.md` was established by the inspected attachment census; descriptive cross-references alone do not establish one.
+
+The deposited mathematical-formatting reference contains the former Echo Layer umbrella even though its complete body differs from both repository copies. Its affected definition belongs in the same eventual revision. Collection identity, rather than the repeated `00-README.md` basename, determines each README dependency. The MPX package includes the active guide and all changed extension entries; prepare one coherent next family revision after its affected members settle.
+
+Preserve the historical Total System snapshot and all prior editions. Refresh current family metadata and inspect actual attachments and descriptions again before eventual publication; combine this candidate with the already queued changes rather than issuing intermediate versions. The selected glyph also requires font-fallback verification in the final publication format. No upload, new version, or final deposited-file verification has occurred.
+
+This remains the existing implementation record. The recorded implementation hashes and completed source-verification gates concern the four-name implementation. Its completion record cites those preceding commits; the independently reviewed Membrane Recursion candidate retains its separate remote-implementation and publication gates in "Membrane Recursion Scope and Glyph Implementation". No separate canonical implementation manifest is created.
 
 ---
 

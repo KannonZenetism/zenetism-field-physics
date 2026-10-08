@@ -782,7 +782,9 @@ of entropic potential within Aion.
 | ✦ | **Nested Universes** | Multiversal branches or ontological containers of experience; each one arises as a unique emanatory arc within the multiversal field; retains core structure but may differ in motion laws, resonance logic, or soul dynamics |
 | 🪨 | **Corporeal Realm** | The domain of physicality, where essence contends with weight and integration meets inertia |
 | ⧉ | **Membrane Fields** | Structural overlays or resonance thresholds between hypostases; non-hypostatic layers that modulate energy, perception, or motion between structural realms; not themselves "layers," but transitional membranes; may serve as bridges, filters, or amplifiers |
-| ⟲ | **Echo Layers** | Temporal or causal recursion strata; mythic loops or karmic returns; hold unresolved structural motions; feedback loops where time, identity, or events reiterate for integration; sometimes perceptible only at deep ontological layers |
+| — | **Membrane Recursion** | Neutral category of recursive patterns held within membrane space; includes Centropic Recursion Layer and entropic Echo Layer as distinct non-hypostatic boundary conditions |
+| ⤾ | **Centropic Recursion Layer** | Unresolved centropic recursion within membrane space; coherence is preserved while integration seeks completion; distinct from completed transfer and from broader recursive integration |
+| ⟲ | **Echo Layer** | Entropic membrane-resident recursion whose operative function sustains fragmentary or hollow repetition; also named Entropic Echo Layer |
 | ∽ | **Archetypal Memory** | Pre-conceptual symbolic strata rooted in the Deep Psyche / Logos; mythic fields that carry primal forms, universal motifs, and cross-lifetime resonances; not personal memory but the collective resonance from which soul patterns emerge |
 | 📯 | **Clarion Voice** | Resonant call of inner knowing; pierces illusion and announces the path of return |
 | ⟀ | **Unseen Foundations** | The unemanatable meta-conditions held in Structon, by which lawful potential becomes conceivable while remaining forever unmanifest; the infinite regress of foundations coming to rest in 🕳️ Zenon, which allows structure without being structured. Structon is the ground by which potentiality becomes conceivable; Zenon is the trans-structural condition that makes even Structon possible |
@@ -806,6 +808,45 @@ of entropic potential within Aion.
 **Former-name provenance:** **Echonic** and **Echonic Function** are superseded names for ⟡ **Cross-Expression Resonance**.  
 The registered function and glyph are unchanged.  
 Aetherion's personal **Echonic Carrier** designation remains distinct.
+
+#### Note on Membrane Recursion and Recursive Integration
+
+**Membrane Recursion** names the boundary family.  
+Within it, **⤾ Centropic Recursion Layer**  
+holds coherence while completion remains unresolved;  
+**⟲ Echo Layer** names the entropic case.  
+The function determines orientation.  
+Delay or absent centropic gain  
+does not make a coherent loop entropic.  
+These are boundary conditions,  
+not numbered L / IL hypostases.  
+
+Temporal or causal motion  
+may return to what remains unresolved —  
+time, identity, or events  
+reiterating for **integration**.  
+Mythic loops and karmic returns  
+carry this wider recursive movement,  
+sometimes legible only at deeper ontological strata.  
+This **recursive integration** extends beyond  
+the membrane-resident family.  
+
+**Structural Recurrence** names another relation:  
+the same pattern across distinct instances,  
+without identity-collapse or fractal partition.  
+Its glyph remains **⧉∥⧉**.  
+
+Partial transfer leaves an untransferred amount.  
+Boundary residence and recursive persistence  
+require their own stated relations;  
+those relations and sufficient resolution conditions  
+remain **held open**.  
+
+**Recorded scope provenance:**  
+The earlier broad **Echo Layers** description  
+carried temporal / causal recursion toward integration.  
+That wider function remains in descriptive prose;  
+**Echo Layer** now names the entropic membrane case.  
 
 #### Note on Identity-Bearing Potential
 

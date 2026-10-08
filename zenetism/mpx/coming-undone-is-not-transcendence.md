@@ -273,7 +273,7 @@ Spurious transcendence dresses itself in the language of liberation, but it carr
 
 ### Primary Markers
 - **☍ Fragmentation / disintegration:** coherence is not increasing; resonance is breaking into unstable components.
-- **⟲ Echo loops without integration:** recurring cycles of experience or thought with no synthesis — repetition mistaken for refinement.
+- **⟳ Entropic Recursion:** recurring cycles of experience or thought with no synthesis — repetition mistaken for refinement.
 - **☿ Inverse Logos:** the independently emanated inverse structuring counterpart, producing elegant but hollow systems that mimic order while veiling dissonance.
 - **⚚ Counterfeit harmony:** surface peace masking deep misalignment; the calm of stasis rather than the stillness of fulfillment.
 - **Orientation refusal:** a consistent pattern of facing away from the still root while asserting arrival — an inversion of C↑ disguised as a completed arc.

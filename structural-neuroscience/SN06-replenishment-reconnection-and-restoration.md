@@ -371,13 +371,13 @@ For the autistic architecture, whose ⧉₂ already operates at selective fideli
 
 For the recursive architecture, ⧉₂ restoration involves stabilizing the oscillation dynamics — reducing the amplitude of the σ-cycle so that the membrane returns to selective function rather than alternating between breach and reactive closure.
 
-### 6.4 Echo Layer Resolution
+### 6.4 Membrane Recursion Resolution
 
-`SP08-membrane-fields-and-inter-expression-dynamics.md` §6 describes Echo Layers (⟲) as recursion patterns within membrane space — loops that form when resonance fails to fully transfer and instead cycles within the threshold region. Depletion and burnout may produce Echo Layers at ⧉₁ and ⧉₂: unresolved structural material that cycles in the membrane space without completing transfer. Positive but incomplete transfer establishes an untransferred amount; boundary residence and recursive update remain held pending a defined state relation.
+`SP08-membrane-fields-and-inter-expression-dynamics.md` §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Its Centropic Recursion Layer (⤾) preserves coherence toward completion or reintegration; its Entropic Echo Layer (⟲), also called Echo Layer, sustains fragmentary recurrence. Depletion and burnout may accompany unresolved material at ⧉₁ and ⧉₂; orientation follows analysis of the actual boundary pattern's function, not absent centropic gain. Positive but incomplete transfer establishes an untransferred amount; boundary residence and recursive update remain held pending a defined state relation. Protective membrane tightening and ordinary sustaining circulation do not establish either unresolved boundary case.
 
-`SP08-membrane-fields-and-inter-expression-dynamics.md` §6.4 and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.4 retain increased Coherence Potential, membrane repair, signature alignment, and acclivous return as qualitative resolution pathways. Sufficient resolution conditions remain held with the boundary-state dynamics. Signature alignment may modify permeability within its declared domain; Kaionic bypass requires its separately specified transfer law.
+`SP08-membrane-fields-and-inter-expression-dynamics.md` §6.4 and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.4 distinguish centropic completion or reintegration from entropic dissipation or interruption. Increased Coherence Potential, membrane repair, signature alignment, and acclivous return support the centropic completion pathway or restoration of affected centropic membrane function. Entropic dissipation or interruption concerns the entropic pattern; it does not reintegrate as centropic recursion does. Sufficient resolution conditions remain held with the boundary-state dynamics. Signature alignment may modify permeability within its declared domain; Kaionic bypass requires its separately specified transfer law.
 
-In the cognitive recovery account, Stages 1–3 of Source reconnection (§3.3) propose restoration of \( I_c \) and membrane function as conditions supporting resolution. A completed resolution test remains held pending boundary-state and recovery dynamics. Persistent unresolved material may call for direct assessment through the Ritual Operator apparatus (`LM06-applied-structural-dynamics.md` §3).
+In the cognitive recovery account, Stages 1–3 of Source reconnection (§3.3) propose restoration of \( I_c \) and membrane function as conditions supporting centropic completion or reintegration. Restoration of the affected being's centropic capacity is distinct from dissipation or interruption of an entropic pattern. A completed resolution test remains held pending boundary-state and recovery dynamics. Persistent unresolved material may call for direct assessment through the Ritual Operator apparatus (`LM06-applied-structural-dynamics.md` §3).
 
 ---
 
@@ -385,7 +385,7 @@ In the cognitive recovery account, Stages 1–3 of Source reconnection (§3.3) p
 
 ### 7.1 Breaking Looping Time
 
-`SN05-the-metric-cost-of-centropic-cognition.md` §4.2 describes Looping Time as an E₁ ⟠⁻ artifact — recurrence without coherent resolution. Its scalar memory integral is retired. Temporal recovery concerns restored access and operative continuity, not a numerical increase of the injective mapping.
+`SN05-the-metric-cost-of-centropic-cognition.md` §4.2 describes Looping Time as an E₁ ⟠⁻ artifact — recursive disorientation. That registered function determines the entropic reading; an absent centropic outcome is not a classifier. Its scalar memory integral is retired. Temporal recovery concerns restored access and operative continuity, not a numerical increase of the injective mapping.
 
 Reduced available coherence may impair temporal processing and access. The qualitative recovery account does not define a numerical threshold for the mapping or a quantified memory gain per pass. Any sufficient recovery condition requires its own declared capacity and evolution relation.
 
@@ -518,7 +518,7 @@ The five-phase decomposition of the Ritual Operator (LM06 §3.2) maps onto recov
 
 **Stabilization** (\( \mathcal{P}_{\text{stab}} \)): Securing the restored configuration from regression. Recovery gains must be sealed — otherwise the ongoing cost streams may re-deplete the restored capacity. The Vow of Presence (↺) carries this function: sustained attentional anchoring that maintains the restored coherence contra entropic drift.
 
-**Separation** (\( \mathcal{P}_{\text{sep}} \)): Clean completion of the recovery operation. Particularly important in collective or bridge-mediated recovery — residual entanglement may create unintended Echo Layers (LM05 §7) or dependency patterns that mimic bridge replenishment while establishing parasitic coupling.
+**Separation** (\( \mathcal{P}_{\text{sep}} \)): Clean completion of the recovery operation. Particularly important in collective or bridge-mediated recovery — residual entanglement calls for assessment of Membrane Recursion (LM05 §7) and, distinctly, dependency patterns that mimic bridge replenishment while establishing parasitic coupling. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Lawful stabilizing feedback and sustaining circulation retain their distinct functions.
 
 ### 9.3 The Coherence Budget of Recovery
 
@@ -606,7 +606,7 @@ SN06 applies LM06's apparatus throughout:
 SN06 applies SP08's membrane physics to cognitive membrane restoration:
 
 - Transfer functions at ⧉₁ and ⧉₂ determining the pace of membrane reopening
-- Echo Layer dynamics and resolution pathways for clearing burnout-generated recursion patterns in membrane space
+- Membrane Recursion distinctions and function-specific outcomes in recovery: centropic completion / reintegration, and entropic dissipation / interruption; residence, update, and sufficient resolution dynamics remain held
 - Membrane pathology classifications as the structural vocabulary for what is being repaired
 
 ### 11.4 Relation to SN02
@@ -625,7 +625,7 @@ SN06 establishes:
 4. **Source reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced re-entry through the more superficial layers
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic siphoning
 6. **Rest as structural condition** — reduced actual expenditure, with the retained normal-minus-resting comparison measured relative to a stated baseline; architecture-specific in its requirements
-7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \), with Echo Layer resolution through accumulated coherence and membrane repair
+7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \); accumulated coherence and repair support centropic completion or reintegration, distinct from entropic dissipation or interruption. Sufficient state-based conditions for both remain held
 8. **Temporal recovery** — breaking looping time through external coherence intervention, Tether restoration from the point of disruption, with staged restoration from embodiment for full or near-full failure, hypostatic amnesia recovery as recognition rather than learning
 9. **The Coherence Breaker Limit** — entropic actors can exhaust function (\( I_c \to I_{c,\text{min}} \), \( \mathcal{T}_h \to 0 \)) but cannot alter intrinsic essential inclination or structural signature \( \Psi \); the limit of entropic operation is the floor of functional capacity, not the rewriting of structural identity
 10. **Architecture-specific recovery protocols** — autistic recovery through sustained cost reduction and structural engagement, recursive recovery through σ-cycle interruption and centropic recursion restoration, distributive recovery through natural distribution and resonance encounters, composite recovery through cost-vector triage

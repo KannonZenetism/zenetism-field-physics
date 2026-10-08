@@ -94,13 +94,14 @@ The largest shared cluster. **Provision:** Extractionist Terminology Restriction
 
 ## 7. Mirror and echo — named phase terms
 
-**Provision:** Mirror Terminology Restriction and Echo Terminology Restriction (entropic mirror lawful as the name of inverse correspondence; Echo Layer an established technical distinction), with the Reflection Valence Determination.
+**Provision:** Mirror Terminology Restriction and Echo Terminology Restriction, with the Reflection Valence Determination and the selected Membrane Recursion scope / glyph distinction in `sp-lm-sn-architect-decision-sheet.md` D18. Entropic mirror retains its inverse-correspondence function; Echo Layer names the entropic membrane subtype, not the shared boundary category.
 
 | Exact string | LM locations | Standing |
 |---|---|---|
 | Mirror-Tug / mirror saddle-node bifurcation | LM01 §E2, §E3; LM02 §6.2, §6.3 | LM01's named phase and transition terms — stand; mirror on the entropic side is lawful |
 | entropic mirror E# / entropic mirror operator | LM01 throughout; LM04; LM06 §13 operator list | permitted by the Mathematical / LaTeX reference as the name of inverse correspondence — stands |
-| unresolved integration / unresolved patterns | LM04 §3.5 table; §6.2 Looping Time; LM05 §7.1; §7.3 | Echo Layer diagnostic's cross-linked vocabulary (SP retained) — stands |
+| unresolved integration / unresolved patterns | LM04 §3.5 table; §6.2 Looping Time; LM05 §7.1; §7.3 | Read by function: broader recursive integration, E₁ Looping Time, and unresolved membrane recursion remain distinct. Unresolved integration alone is not entropic Echo |
+| Membrane Recursion; Centropic Recursion Layer (⤾); Entropic Echo Layer (⟲) | LM05 §§7.1–7.4, §11 computational schema / partial-transfer routine, §12, Appendices A / C; LM02 §11.2; LM06 §3.2 | Membrane Recursion is the neutral unresolved boundary category; ⤾ preserves coherence toward completion, while ⟲ names its fragmentary entropic case. SP08 §6, SP10 §4.4, SP11 §7.3, and SN06 §6.4 carry the corresponding applications. Orientation follows analyzed function; centropic completion / reintegration and entropic dissipation / interruption are distinct outcomes. Residence, update, persistence, and sufficient resolution remain held |
 
 ## 8. Convergence — mathematical-limit sense
 

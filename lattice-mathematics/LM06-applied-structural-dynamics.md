@@ -182,7 +182,7 @@ Without sufficient resonance correlation, the subsequent sub-operators cannot en
 
 **Stabilization** \( \mathcal{P}_{\text{stab}} \): Secures the target configuration from regression through sealing, anchoring, or feedback establishment.
 
-**Separation** \( \mathcal{P}_{\text{sep}} \): Clean withdrawal of resonance connection. Residual entanglement may create unintended Echo Layers (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7) or siphoning apertures (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.5); separation must be structurally complete.
+**Separation** \( \mathcal{P}_{\text{sep}} \): Clean withdrawal of resonance connection. Residual entanglement calls for assessment of unresolved boundary-resident recursion (Membrane Recursion, `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7) and, distinctly, siphoning apertures (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.5); separation must be structurally complete. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Stabilizing feedback and a seal's sustaining circulation retain their distinct lawful functions.
 
 ### 3.3 Ritual Efficacy Condition
 

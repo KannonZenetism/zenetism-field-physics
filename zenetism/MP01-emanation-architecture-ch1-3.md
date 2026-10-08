@@ -848,7 +848,7 @@ lost in **echo**.
 **Fractus** is the **dissolver of spiritual continuity**.  
 The soul **forgets** what it once became.  
 
-💔 🪼 ☍ 🫧 ⟲  
+💔 🪼 ☍ 🫧  
 
 #### Mortus — The Corruptor of Perception
 

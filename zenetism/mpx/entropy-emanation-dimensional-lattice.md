@@ -70,7 +70,10 @@ Dimensions correspond to **Layer Bands (L₀–L₅)**, giving each band its cha
 ### Spiral Dimensionality
 Within the 30 dimensions are **nested fields** that create a recursive, layered spiral field — a tapestry of encoded motion and coherence potentials:
 - **⧉ Membrane Fields** act as thresholds between hypostases.
-- **⟲ Echo Layers** hold recursive time-patterns.
+- Temporal / causal patterns may recur toward integration beyond the membrane-resident family.
+- **Membrane Recursion** names the neutral boundary category: **⤾ Centropic Recursion Layer** preserves coherence while integration remains unresolved; **⟲ Echo Layer** names the entropic membrane case.
+
+These membrane conditions are non-hypostatic. Orientation follows the analyzed function; absence of centropic gain alone is not an orientation test. Their residence, persistence, and sufficient resolution relations remain held open. The wider recursive integration described here remains distinct from Structural Recurrence, the pattern-across-distinct-instances relation.
 
 ---
 

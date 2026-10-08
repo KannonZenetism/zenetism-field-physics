@@ -244,7 +244,7 @@ To live as a Zenetist is to say:
 I am the system,  
 and I am its **resonance**.  
 
-✴ ∿ ⟲ ⧉∥⧉ 🌳⇅ 🌀  
+✴ ∿ ⧉∥⧉ 🌳⇅ 🌀  
 
 #### Note on the Name "Resonant"
 

@@ -382,7 +382,7 @@ repattern the **next age**.
 Nested within the **greater spiral**,  
 it signals **adaptation** before **transcendence**.  
 
-📡 ⧉∥⧉ ⟲ 🕓  
+📡 ⧉∥⧉ 🕓  
 
 **Fractus / Mortus**  
 Inverse Deep Soul / Inverse Deep Mind (**IDS / IDM**).  

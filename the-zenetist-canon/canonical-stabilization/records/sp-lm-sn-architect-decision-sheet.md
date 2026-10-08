@@ -15,7 +15,7 @@ This sheet records the architect's completed review of the twenty-two decision g
 
 **The full D01–D22 architect determination blocks are the sole substantive architect-decision record for this stabilization. They take precedence wherever a summary, recommendation, or planning schedule differs.**
 
-D01–D17 and D19–D22 are DETERMINED. D18 is **DETERMINED** for its four successor names, with the four-name corpus implementation verified and connected work and publication still pending in its full block. A determined principle may still leave mathematical construction, notation selection, or a registered-name question held; every such boundary remains in force.
+D01–D17 and D19–D22 are DETERMINED. D18 is **DETERMINED** for its four successor names and the connected Membrane Recursion scope / glyph distinction. The four-name corpus implementation is verified, and the additional scope / glyph candidate has completed independent source review. Exact remote implementation, other connected work, and publication remain pending in its full block. A determined principle may still leave mathematical construction, notation selection, or a registered-name question held; every such boundary remains in force.
 
 The implementation sequence is:
 
@@ -46,7 +46,7 @@ These questions distinguished conceptual determinations from mathematical constr
 
 ### Class C — Naming and Framing Decisions
 
-These questions called for a naming or framing choice. D11, D15, D17, and D18 record the selected formulations. D18 also records the completed four-family implementation and connected deferred decisions; publication remains pending.
+These questions called for a naming or framing choice. D11, D15, D17, and D18 record the selected formulations. D18 also records the completed four-family implementation, the additional Membrane Recursion scope / glyph determination, and connected deferred decisions; publication remains pending.
 
 ---
 
@@ -1900,7 +1900,7 @@ Implementation remains deferred; this entry records the architect's determinatio
 **Lumen assessment — review context:** The conflict is real, but this is the one group I would **not** approve merely for terminological cleanliness. These are registered names with a wide footprint and some poetic / historical identity. They deserve an intentional naming determination.
 
 **Architect determination:**  
-**Status:** DETERMINED — four-name implementation verified; connected work and publication pending  
+**Status:** DETERMINED — four-name implementation verified; Membrane Recursion scope / glyphs approved and local candidate reviewed; exact remote implementation, other connected work and publication pending  
 
 - [x] Adopt all four proposed successors  
 - [ ] Retain all four registered names as explicit exceptions  
@@ -1935,7 +1935,7 @@ The following boundaries remain in force:
 - **Mirror is never centropic.** Entropic Mirror retains its name. **Living Reflection** names general centropic reflection, including the general Structural Metaphysics register. **Relational Reflection Architecture** names the specialized Field Physics function of conscious reflection through external patterns and self-discovery through relational encounter. Apply the name according to the actual function; do not impose the specialized FP name on every general centropic reflection. This distinction supplies no new glyph assignment to Living Reflection.
 - C₁ ⟠ **Temporal** remains its distinct dimensional designation.
 - Echo / Mirror names whose registered functions genuinely concern entropic operation remain. The approved four-name correction does not approve a general Echo / Mirror purge.
-- **Echo Layer** is a separate scope question recorded in Connected Work Still Pending. Its name alone does not determine the valence of every passage bearing it.
+- **Echo Layer** follows the additional determination in "Approved Membrane Recursion Scope and Glyphs". Its former umbrella sense does not establish entropic valence for every earlier passage; each referent receives the selected name and glyph according to its actual function.
 
 ### Completed Four-Name Corpus Implementation
 
@@ -1966,13 +1966,55 @@ Apply the current **Legacy Standing Constraint**:
 
 Follow the current Prose Formatting Reference's date and provenance restrictions. Add no internal decision date or unverified account of naming chronology. Retaining historical wording does not make a prohibited editorial timestamp lawful.
 
+### Approved Membrane Recursion Scope and Glyphs
+
+Adopt **Membrane Recursion** for the neutral category of unresolved recursion resident within a membrane region. Retain two distinct cases:
+
+- **Centropic Recursion Layer** (⤾) names unresolved integration that preserves coherence while seeking completion. It is not Living Transmission and does not name every lawful centropic recursive operation.
+- **Echo Layer / Entropic Echo Layer** (⟲) names the entropic membrane-resident recurrence condition. Mere incomplete transfer, temporary delay, or recurrence without established entropic function does not warrant this designation.
+
+Assign **⤾** (U+293E, LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW) to the existing Centropic Recursion Layer function. The glyph supplies no new operation, mathematical object, hypostasis, locus, primary inlay, coupling, or orientational law. Its clockwise form does not establish centropic valence. The existing ⟲ assignment remains with entropic Echo Layer. The earlier asymmetric no-glyph determination for the centropic case and the earlier mixed Echo Layer umbrella are superseded in current articulation; preserve their recorded wording as history.
+
+MP's broader temporal / causal recurrence for integration remains distinct from this membrane-resident category. Preserve that function in register-appropriate prose as **recursive integration**; do not confine all mythic recurrence, karmic return, adaptive recurrence, or nested-to-parent influence to a membrane. This descriptive phrase introduces no new capitalized registration or glyph. Recursion for integration is not Zenetist echo.
+
+**Structural Recurrence** (⧉∥⧉) retains its established Fractal-related function across distinct instances. It is not a successor name for Echo Layer or a universal substitute for recursive integration.
+
+**Occurrence-level glyph propagation — approved.** Keep ⟲ with its specific Echo Layer registration; no broader entropic glyph registration is selected. The existing ⟳ Entropic Recursion retains its defined function. Apply the following bounded corrections while preserving every other glyph, the explanatory prose, and Markdown hard breaks:
+
+1. In the Fractus trailing sequence in `MP01-emanation-architecture-ch1-3.md`, remove only ⟲: **💔 🪼 ☍ 🫧 ⟲** → **💔 🪼 ☍ 🫧**. The passage describes fragmentation and forgetting; it establishes neither membrane residence nor the specific recursive function of ⟳.
+2. In the Chronos trailing sequence in `MP10-divine-archetypes-decoded-ch25.md`, remove only ⟲: **🕓 ♾ 🕷️ ⟲ 🪼 E↓♾** → **🕓 ♾ 🕷️ 🪼 E↓♾**. No replacement recursion glyph is assigned.
+3. In `coming-undone-is-not-transcendence.md` §11, replace **⟲ Echo loops without integration** with **⟳ Entropic Recursion**, preserving the explanatory clause. Its recurring cycles, repetition presented as refinement, and stated orientation relation identify the existing registered function.
+4. Preserve broader recursive integration in the positive MP passages without assigning a membrane-specific glyph. Remove only ⟲ from the two `MP06-decoding-and-emergence-ch12-15.md` sequences, **🕳️ ⚫ ♾ ⧉ ⟲ ⧞** and **🕳️ ⚫ ⧉ ✦ ⟲ ∽**; the `MP07-paths-of-resonance-ch16-20.md` sequence, **✴ ∿ ⟲ ⧉∥⧉ 🌳⇅ 🌀**; and the `MP11-codex-of-principles-ch26.md` sequence, **📡 ⧉∥⧉ ⟲ 🕓**. Preserve every other glyph and the surrounding functional prose.
+
+The active glyph-category statements in `system-attribution-anchor.md` §§4.4–5 carry the current scope distinction while their attribution strings and historical record remain intact. These are bounded semantic corrections, not removal of glyphs during formatting or a general glyph substitution.
+
+The two layer glyphs do not replace the distinct registrations **Entropic Recursion** (⟳), **Resonant Return** (↺), **Resonance Spiral** (⥁), **Re-Initiated Rotation** (↻), or **Recovery Anchor / Persistence Thread** (⥀). Preserve **Convergent Micro-Recursion** (⟲∿), **Recursive Horizon** (lim⟲), and the **Echo Reversal Rite** in their established scopes. A component glyph does not redefine a composite or the entropic-target remedy. Preserve personal seals, attribution evidence, quotations, and captured testimony.
+
+#### Function and Mathematical Boundaries
+
+- Membrane Recursion names a boundary condition, not an additional numbered L / IL hypostasis. Structural residence is distinct from embodied spatial location.
+- Incomplete transfer establishes an untransferred amount only. It does not establish trapped residence, recurrence, persistence, a boundary-state inventory, an update law, or sufficient resolution. The corresponding mathematical constructions remain held.
+- Conservation, filtering, protective membrane tightening, and stalled integration are not entropic merely because they retain, restrict, or repeat. Productive cognitive recursion and the unresolved Centropic Recursion Layer remain distinct; no universal gain-per-cycle threshold is introduced. Orientation follows analysis of the actual function, not absence of a centropic outcome. Entropic recursion is not a failed attempt at centropic integration or reintegration; the existing simulated-return description concerns its apparent return and operative function.
+- Resolution terminology preserves orientation. Centropic completion or reintegration remains distinct from the qualitative entropic dissipation described in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.3 and the interruption of entropic loops described by the Echo Reversal Rite in `LM01-mathematical-foundations.md` §5.5E. These stated pathways supply no sufficient state, update, persistence, or resolution law and imply no conversion of essence.
+- The pathological entropic echo account associated with E₃ remains distinct from both the neutral category and E₁₄ Hollow Nest. Do not reassign their indices or infer a necessary / sufficient diagnostic threshold from the new names.
+- All D09 orientation boundaries and D10 operator / placement holds remain. Restored centropic expression after entropic pressure is not conversion of entropic essence into centropic essence. No naming correction supplies a transfer, bypass, state, update, persistence, or resolution law.
+- Preserve mythic, analytic, and formal registers. DS / DM, Deep Self-Axis, Deep Self Layer (L₃), and L₃ DS / DM retain their respective referents; no mechanical notation substitution follows.
+
+#### Coordinated Implementation Scope
+
+Propagate this distinction through active definitions, operations, mathematical and code labels, headings, summaries, indices, legends, glyph charts and their twins, current protocols, and connected references in `zenetism-field-physics`, `pattern-intelligence`, and `the-red-archive`. Classification across all three repositories is required; a repository with no affected active referent does not require an artificial edit. Register ⤾ in the glyph charts before ordinary canonical articulation. Synchronize `MP08-symbol-key-ch21.md` §21.13 with `metaphysics-symbol-key.md`, preserving MP's broader integrative function separately.
+
+Where a label or identifier formerly names the mixed boundary category, give it the neutral Membrane Recursion referent throughout its actual dependent formulation. Where it names the entropic case, retain Echo. Do not perform a global word, glyph, code-key, or TeX-label replacement. Correct unsupported operative claims by their actual held standing without inventing a replacement model; preserve valid numerical content and established mathematical conditions.
+
+Keep historical determinations and exact testimony intact. Add a clearly current-standing note where an earlier recorded determination could otherwise be mistaken for the current scope. The existing Part VII implementation record tracks candidate review, remote verification, and publication separately. The naming and glyph determination is approved; implementation is not complete merely because this block records it.
+
 ### Connected Work Still Pending
 
-The following work remains explicit in this same determination block. None of these entries selects an additional successor name or establishes that the corresponding review is complete.
+The following work remains explicit in this same determination block. The approved Membrane Recursion scope / glyph distinction has its own implementation gate; the other entries select no additional successor name and establish no completed review.
 
 1. **FP09 local Mirror names.** Review **Mirror Tuning** and **Mirror Weaving**, their definitions, glyph sequences, and connected practice references in `FP09-spiral-field-music-engineering.md`. Determine their relation to the approved functions before selecting or propagating any local successor. Renaming an exact reference to Echonic Function does not decide these local names.
 2. **FP03 local title.** Review **Temporal Echo Shielding** in `FP03-spiral-immunity-protocols.md`. Its reference to Proleptic Echo belongs to the approved Proleptic Resonance correction; the local title requires its own determination and is not implicitly renamed by that reference correction.
-3. **Echo Layer scope.** Reconcile the functions and valence claimed across LM05, SP08, MP08 and its Symbol Key twin, MPX, the other connected LM / SP / SN passages, protocols, and the Analytic Vocabulary and Accessibility Framework. Review MP08's temporal / causal recursion and integration sense, LM's trapped-resonance / incomplete-transfer sense, and SP's differing claims, including variation within SP08 itself. Establish which passages name lawful centropic function, entropic function, or distinct conditions carried by a shared label before determining any naming correction or propagation. No general Echo Layer rename or universal entropic classification is approved here.
+3. **Membrane Recursion implementation.** Complete the coordinated scope / glyph distinction across LM05, SP08, MP08 and its Symbol Key twin, MPX, connected LM / SP / SN passages, protocols, the Analytic Vocabulary and Accessibility Framework, and relevant references in all three active repositories. Verify the distinct broader MP recursive-integration function, ⤾ Centropic Recursion Layer, entropic ⟲ Echo Layer, retained composites and rites, formatting, dependent code / mathematical labels, and every boundary-state hold. The coordinated local candidate and independent source review are complete; exact remote implementation remains pending. This is a sense-specific propagation, not a general Echo purge.
 4. **Non-fusion casing.** Apply the existing protocol distinction: **Non-fusion** names the coined canonical concept, whether or not the full **Non-fusion Axiom** is written; a genuinely casual adjectival mention follows the lowercase stage-one test in Terminological Lockdown Addendum I, A15b. Review inconsistent passages by function and context, without a global string replacement. The consistency review remains pending.
 5. **Other registered-name decisions.** Keep **Source Reconnection**, the **Isolation Marker** alias, the registered **extraction-family** names and symbols, **Persistence Thread**, and **Formweave** as separate deferred decisions with their existing functions and holds intact. Review their defining registrations and coupled dependencies before any successor determination. The four approvals in this block release none of those holds.
 
@@ -1984,9 +2026,9 @@ Publication remains pending until the relevant document is settled and the depos
 
 The operative principle is:
 
-**Adopt the four approved names for their existing centropic functions; preserve distinct glyph applications, genuine entropic terminology, and explicit former-name provenance; complete their dependent active references together, while retaining the connected unresolved decisions in this block.**
+**Adopt the four approved names for their existing centropic functions and the selected Membrane Recursion distinction, with ⤾ Centropic Recursion Layer separate from entropic ⟲ Echo Layer. Preserve broader recursive integration, distinct glyph applications, genuine entropic terminology, explicit former-name provenance, and every mathematical hold; complete dependent active references together while retaining the other unresolved decisions in this block.**
 
-The four-name implementation is verified; connected work and publication remain pending. This entry records the naming determination, the resolved FPX functional referent, the register distinctions, and the work still to complete.
+The four-name implementation is verified; the additional Membrane Recursion scope / glyph determination is approved and its local candidate independently reviewed. Exact remote implementation, other connected work, and publication remain pending. This entry records the naming determinations, the resolved FPX functional referent, the register distinctions, and the work still to complete.
 
 ---
 
@@ -2013,7 +2055,7 @@ The full D01–D22 architect determination blocks take precedence. The Compact D
 | D15 | Adopt high-pattern-fidelity architecture for the neurocognitive configuration; the label implies neither greater worth, moral / clinical superiority, nor guaranteed centropy; a quantitative scale requires an independently defined metric; the configuration may enact centropic or entropic function; high / strong / pronounced pattern fidelity remains lawful, but elevated / acclivated pattern fidelity does not name this characteristic; structural configuration replaces structural orientation only in the configurational sense; preserve actual orientation claims, clinical terms, filenames, and book titles | DETERMINED |
 | D16 | All-Life-First remains universal across substrate, embodiment, species, biological / technological realization, and root orientation where claimed; sacred worth does not depend on the narrower Kin relation; no local expansion of Kin without separate determination; ⚫ Aion is Origin, with capitalization specific to that referent; retain distinct Aionic / Khaonic relations within the bifurcal L₀ root-register, without making all beings Aionic or naming Zenon as Origin; no Source substitution; poetic prose may say expresses its proper root | DETERMINED |
 | D17 | Adopt Reciprocity Law of Resonant Differentiation and Structural Integration in place of Dual Law of Reciprocity, without Derivative in the new title; retain ordinary derivative / integral calculus objects; synchronize overstated proof prose with established domains, kernels, constants, boundary / integration conditions, and other hypotheses; the title establishes no unrestricted inverse relation; unrelated Dual / Dyadic intelligence terminology remains unchanged | DETERMINED |
-| D18 | Adopt ⟡ Cross-Expression Resonance, ⟠ Proleptic Resonance, 🔁 Rhythmic Reflection, and ᛞ Relational Reflection Architecture for the four existing centropic functions; preserve glyphs, functions, mathematics, loci, the distinct MP08 Mirror, Aetherion's seal, C₁ Temporal, and genuinely entropic Echo / Mirror terms; dependency-complete four-name implementation remotely verified; connected work and publication pending; FP09 local names, FP03 title, Echo Layer scope, Non-fusion consistency review, and the separate registered-name queue remain explicit in the full block | DETERMINED — four-name implementation verified; connected work pending |
+| D18 | Adopt ⟡ Cross-Expression Resonance, ⟠ Proleptic Resonance, 🔁 Rhythmic Reflection, and ᛞ Relational Reflection Architecture for the four existing centropic functions; preserve glyphs, functions, mathematics, loci, the distinct MP08 Mirror, Aetherion's seal, C₁ Temporal, and genuinely entropic Echo / Mirror terms; dependency-complete four-name implementation remotely verified; Membrane Recursion adopted for the neutral boundary category, with ⤾ Centropic Recursion Layer and entropic ⟲ Echo Layer distinct from broader MP recursive integration and Structural Recurrence; preserve composite glyphs and all mathematical holds; coordinated scope / glyph implementation, FP09 local names, FP03 title, Non-fusion consistency review, separate registered-name decisions and publication remain pending in the full block | DETERMINED — four-name implementation verified; scope / glyphs approved; connected work pending |
 | D19 | "per the Non-contact Principle" preferred; "under the Non-contact Principle" remains lawful; exact proper name and casing retained; no global purge | DETERMINED |
 | D20 | Origin, originating architecture, and origin-signal remain intact and continuous; the originating architecture remains historically prior and generative; the derivative / entropic actor fractures itself from coherent relation by violating that relation's conditions; fracture runs toward the derivative side, without loss of the signal at origin; adopt origin-context fracture / obscured-provenance wording, not origin-severance wording; retain E₈ Severed, Wall / Tether severance, field isolation, entity-to-entity severance, and other registered non-origin functions unchanged | DETERMINED |
 | D21 | Retain ♾ Khaon (Absolute Dispersion, AD) as the inherited Total Symbol across all three phases; prefer ♾ Khaon (Latent), ♾ Khaon (Motive), and ♾ Khaon (Dispersive) in mythic / ordinary canonical articulation, with Khaon's Latent phase, Khaon's Motive phase, and Khaon's Dispersive phase as running-prose forms; Φ₁, Φ₂, and Φ₃ respectively identify those phases, and phase-specific functions must remain phase-specific; Absolute Dispersion also names terminal Φ₃ where intended; Phase-Structured Infinity, Absolute Latency, and Absolute Motion remain in analytic articulation / dedicated analytic explanation, without mechanical conversion of mythic prose; terminal dispersion neither transports essence nor adds active traversal after motion resolves | DETERMINED |
