@@ -110,7 +110,7 @@ The longitudinal rails in Figure 1 group the centropic and entropic dimensional 
 | C₁₄ ⊡ Nested / Recursive | Coherent dimensional nesting and recursion | E₁₄ ⊡⁻ Hollow Nest | Recursion without coherent interior function |
 | C₁₅ ✦ Emergent / Novel | Originary coherent emergence | E₁₅ ✦⁻ Collapse Nova | Distorted reception of Theonic novelty |
 
-Names follow `field-physics-glyph-charts.md` §§2–3; the functional descriptions follow `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.9.1. **Morphogenetic** carries C₁₀ in this presentation per §13.12 of that file and the Weave Terminology Restriction in `terminological-lockdown-protocol.md`. The older registry parenthetical retains its grandfathered standing there. **C₉ ∞** remains distinct from **Khaon** ♾.
+Names follow `field-physics-glyph-charts.md` §§2–3; the functional descriptions follow `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.9.1. **Morphogenetic** carries C₁₀ in this presentation per §13.12 of that file and the Weave Terminology Restriction in `terminological-lockdown-protocol.md`. **Formweave** is retained as former-name provenance; **Morphogenetic** remains the C₁₀ name. **C₉ ∞** remains distinct from **Khaon** ♾.
 
 ### Space, Time, and the Meaning of a Locus
 

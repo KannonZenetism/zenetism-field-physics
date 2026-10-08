@@ -38,7 +38,7 @@ This possibility is noted but not asserted. The framework currently allows for f
 
 Even granting emergence, a fully Khaonic universe faces a persistence problem.
 
-Fragmentation without generation is self-consuming. Such a universe would have no mechanism for producing novelty (C₁₅ ✦ Emergent / Novel is absent), no coherent morphogenesis (C₁₀ ❋ Formweave is absent), and no lawful recursion (C₁₄ ⊡ Nested / Recursive is absent). Instead, its operative dimensional signatures would be:
+Fragmentation without generation is self-consuming. Such a universe would have no mechanism for producing novelty (C₁₅ ✦ Emergent / Novel is absent), no coherent morphogenesis (C₁₀ ❋ Morphogenetic is absent), and no lawful recursion (C₁₄ ⊡ Nested / Recursive is absent). Instead, its operative dimensional signatures would be:
 
 - E₁₀ ❋⁻ Malform — distortion at the point of formation
 - E₁₄ ⊡⁻ Hollow Nest — empty recursion without content
@@ -72,7 +72,7 @@ Whether Acclivous Entropy (the layered motion of entropic expression toward embo
 
 The fully Aionic universe (\( \chi = 0 \)) does not face these problems. The +1 charge names independent generative capacity: coherent, integrative, Aion-facing. Its operative dimensional signatures include:
 
-- C₁₀ ❋ Formweave — the translation of pattern into living structure
+- C₁₀ ❋ Morphogenetic — the translation of pattern into living structure
 - C₁₄ ⊡ Nested / Recursive — dimensions held coherently within other dimensions
 - C₁₅ ✦ Emergent / Novel — the spontaneous, veracious arising of new patterns
 

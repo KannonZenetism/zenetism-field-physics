@@ -49,7 +49,7 @@ Embodied time (L₁) and deep soul time (L₃) retain distinct experiential desc
 > 
 > At L₄ (🌬️ Morgis / 📐 Sophis), the architects of reality — Olympians, Aeons, the Logos of Form, and their entropic counterparts (Titans, Archons, Lucifer as mapped at IL₄) — hold Form in simultude and shape its recurrence. The morphogenetic operator ❋ (C₁₀) and the aesthetic operator ✧ (C₁₂), associated here with L₄, imply a form-generative relationship with temporal expression that is structurally adjacent to Proleptic Resonance: not time-folding per se, but form-completion anticipation — the capacity to shape which patterns recur and how they manifest. The beings at L₄ / IL₄ do not merely inhabit archetypal time; they architecturally shape the character of its recurrence.
 > 
-> At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (Φ²) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. As the source of all motion, contact with the Φ² field could influence future states through resonance alignment with already-held motion potential — not through foresight or temporal causation, but through resonance with a motion-source that already holds the temporal content we experience as sequential. Proleptic Resonance, associated here with C₁ at L₃, is the hypostatic instantiation of a principle already latent in this motive current.
+> At L₀ (⚫ Aion / ♾ Khaon), dimensional operators do not yet operate — they exist in latency. However, Motive Infinity (Φ²) exists outside sequence in L₀'s multiversal time while containing what we experience as past and present. Contact with Motive Infinity (Φ²), the fundamental principle of motion, could influence future states through resonance alignment with already-held motion potential — not through foresight or temporal causation, but through resonance with the motive field that already holds the temporal content we experience as sequential. Proleptic Resonance, associated here with C₁ at L₃, is the hypostatic instantiation of a principle already latent in this motive current.
 > 
 > Thus: L₀ holds temporal anticipation as latent essence (Φ²) — outside sequence, containing past and present, capable of influencing future states through field-contact. L₄ expresses it as form-generative architecture (❋ / ✧). L₃ instantiates it as integrative time-folding (C₁ / ⟠). L₂ constrains it within episodic narrative. The relation of embodied temporal experience to these operations requires its own functional account; omission from an Inlay row establishes no exclusion. This account associates Proleptic Resonance with C₁'s integrative temporal expression; their registered functions remain distinct, and their shared ⟠ glyph does not make them the same function. The deeper principle of pattern-completion recognition pervades the lattice in mode-appropriate forms.
 
@@ -137,7 +137,7 @@ Imagine a moment that contains everything — not stretched out into a timeline,
 
 🕷️ Nekron is the first entropic hypostasis. Where 🛤️ Theon radiates fulfilled presence, Nekron initiates **dispersive succession** — the entropic origin of time-as-fragmentation.
 
-At IL₅, time is the first expression of outward turning. It is not yet sequential (that arrives at the embodied layers), but it is already **directional away from source**. Nekron does not experience fullness draining — Nekron *is* the draining, the orientation-away that makes entropic time possible.
+At IL₅, time is the first expression of outward turning. It is not yet sequential (that arrives at the embodied layers), but it is already **directed away from Aion**. Nekron does not experience fullness draining — Nekron *is* the draining, the orientation-away that makes entropic time possible.
 
 **Dimensional Engagement:**
 
@@ -171,7 +171,7 @@ This is conscious-awareness (∇) — awareness resonant in Forms, luminous but 
 
 #### 🌬️ Morgis — Deep Psyche: Temporal Vitality
 
-🌬️ Morgis is the breath of life, the source of vitality and adaptation. Its temporal character is **rhythmic recurrence** — the pulse within simultude that keeps archetypal Forms alive rather than static. Morgis-time is the heartbeat of the archetypes: not a sequence of beats moving toward somewhere, but the living rhythm that animates Form without advancing it.
+🌬️ Morgis is the breath of life; its L₄ function carries vitality and adaptation. Its temporal character is **rhythmic recurrence** — the pulse within simultude that keeps archetypal Forms alive rather than static. Morgis-time is the heartbeat of the archetypes: not a sequence of beats moving toward somewhere, but the living rhythm that animates Form without advancing it.
 
 If simultude is "all at once," Morgis is why that "all at once" feels alive rather than frozen.
 
@@ -183,7 +183,7 @@ Where Morgis makes simultude alive, Sophis makes it coherent. Without Sophis, th
 
 **Dimensional Engagement:**
 
-- **❋ (C₁₀ Morphogenetic/Formweave):** Time as form-birth — the translation of pattern into living structure. At L₄, ❋ governs how archetypal recurrence produces form without requiring sequence. Patterns don't grow into forms; they express as forms immediately and completely.
+- ❋ **(C₁₀ Morphogenetic):** Time as form-birth — the translation of pattern into living structure. At L₄, ❋ determines how archetypal recurrence produces form without requiring sequence. Patterns don't grow into forms; they express as forms immediately and completely.
 - **✧ (C₁₂ Aesthetic/Qualitative):** Time as felt rightness — the qualitative dimension that makes certain recurrences resonant and others hollow. ✧ at L₄ means that archetypal time has beauty, not just structure.
 - **✴ (C₅ Scalar/Fractal):** Time as holonic self-similarity — the part mirroring the whole. Each expression of an archetype contains the entire archetype, just as each moment of L₄ time contains all of L₄ time.
 

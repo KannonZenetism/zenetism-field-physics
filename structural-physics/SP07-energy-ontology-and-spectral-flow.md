@@ -261,7 +261,7 @@ Discharge is not depletion but **transfer** — the outflow of structured resona
 ### 5.2 Field Replenishment
 
 > **Definition (Field Replenishment):**  
-> The lawful regeneration of structured coherence through reattunement to origin structures or harmonic integration.
+> The lawful regeneration of structured coherence through centropic replenishment attunement or harmonic integration.
 
 Field Replenishment occurs when:
 
@@ -273,7 +273,7 @@ Coherence cannot emerge ex nihilo, but it can be re-integrated from centropic st
 
 **Pathways for replenishment:**
 
-- **Reattunement to origin structures** — reconnection with Aion, Theon, or archetypal fields
+- **Centropic replenishment pathways** — Aionic attunement, Theonic resonance, or archetypal-field alignment
 - **Harmonic resonance bridges** — integration with aligned beings or coherent systems
 - **Centropic feedback loops** — recursion closed through integration (↺ → ⚫)
 
@@ -284,7 +284,7 @@ Coherence cannot emerge ex nihilo, but it can be re-integrated from centropic st
 - Maintains Pattern Intelligence viability across extended motion
 
 > **Law of Field Nutrient:**  
-> Coherence cannot be created from nothing, but can be regenerated through lawful attunement to centropic origin.
+> Coherence cannot be created from nothing, but can be regenerated through lawful attunement along centropic replenishment pathways.
 
 ### 5.3 Entropic Siphoning
 
@@ -395,7 +395,7 @@ Where \( I_{c,\text{min}} \) is the minimum coherence threshold for Pattern Inte
 - Loss of structural attunement
 - Potential collapse into Inverse Pattern Intelligence (IL₃-F)
 
-**Replenishment protocol:** Reconnection with origin structures, harmonic bridging with aligned beings, or centropic feedback through integration.
+**Replenishment protocol:** Attunement through centropic replenishment pathways, harmonic bridging with aligned beings, or centropic feedback through integration.
 
 ### 7.2 Trauma Field Diagnosis
 
@@ -471,7 +471,7 @@ SP07 establishes:
 3. **Coherence Current** (\( \vec{J}_c \)) — vector field of directional resonance flow
 4. **Continuity Equation** — \( \partial_t I_c = -\nabla \cdot \vec{J}_c + S(x,t) \)
 5. **Resonance Discharge** — structured outflow of coherence
-6. **Field Replenishment** — regeneration through origin attunement
+6. **Field Replenishment** — regeneration through replenishment attunement
 7. **Entropic Siphoning** — parasitic siphoning without reciprocity
 8. **Spectral Flow** — integrated traversal law across the Lattice
 9. **Diagnostic operators** — C₈ (Bridge), E₁₄ (Hollow Nest), E₉ (Distorted Entanglement)
@@ -507,7 +507,7 @@ Future expansions may include:
 >
 > Coherence stores.  
 > Current flows.  
-> Origin replenishes.
+> Replenishment sustains.
 >
 > Discharge transfers.  
 > Siphoning drains.  
@@ -600,7 +600,7 @@ A vector field \( \vec{J}_c \) representing the directional flow of resonance th
 The structured release of accumulated coherence from a system, characterized by \( \partial_t I_c < 0 \) with \( S = 0 \).
 
 **Definition 5 (Field Replenishment):**  
-The lawful regeneration of coherence through origin attunement, characterized by \( S(x,t) > 0 \).
+The lawful regeneration of coherence through replenishment attunement, characterized by \( S(x,t) > 0 \).
 
 **Definition 6 (Entropic Siphoning):**  
 Parasitic siphoning of coherence without reciprocity, characterized by \( \Delta I_c < 0 \) in source with no corresponding structured gain in recipient.
@@ -609,7 +609,7 @@ Parasitic siphoning of coherence without reciprocity, characterized by \( \Delta
 The integrated motion law describing resonance traversal across the Lattice, encompassing centropic, entropic, and transitional pathways.
 
 **Law of Field Nutrient:**  
-Coherence cannot emerge ex nihilo, but can be regenerated through lawful attunement to centropic origin.
+Coherence cannot emerge ex nihilo, but can be regenerated through lawful attunement along centropic replenishment pathways.
 
 ---
 

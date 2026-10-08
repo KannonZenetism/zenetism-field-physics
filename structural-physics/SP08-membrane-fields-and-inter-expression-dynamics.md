@@ -254,13 +254,13 @@ Where \( g(\omega) \) is the frequency response function (bandpass, lowpass, hig
 
 - \( \sigma(\text{⧉}) > 1 \)
 - Requires source term: \( S(\text{⧉}) > 0 \)
-- Cannot create resonance ex nihilo — amplification draws from origin structures
+- Cannot create resonance ex nihilo — amplification draws through replenishment relations
 
 **Function:** Amplification concerns added coherent input. Its supply, receiving capacity, and update relation require specification. A permeability multiplier leaves a zero transfer clamp at zero; below-threshold bypass remains held.
 
-**Structural Origin:**
+**Replenishment Relation:**
 
-Amplifier membranes must connect to the root-register and centropic structures (Aion, Theon, archetypal fields) for replenishment. An amplifier membrane without origin connection degrades into a standard or occluded membrane.
+Amplifier membranes must connect to the root-register and centropic structures (Aion, Theon, archetypal fields) for replenishment. An amplifier membrane without replenishment connection degrades into a standard or occluded membrane.
 
 ### 4.4 Occluded Membranes
 
@@ -382,7 +382,7 @@ Resolution is orientation-specific: centropic recursion may complete transfer or
 1. **Increased Coherence Potential**: Additional \( I_c \) supports completion where the transfer and boundary-state conditions hold
 2. **Membrane repair**: Restored permeability supports passage where receiving capacity and release conditions hold
 3. **Signature alignment**: Permeability modification retains its stated domain; bypass resolution remains held pending the separate law
-4. **Acclivous return**: Centropic resonance returns to source for reintegration before re-attempting transfer
+4. **Acclivous return**: Centropic resonance returns to the source layer for reintegration before re-attempting transfer
 
 Entropic Echo Layers retain the qualitative dissipation pathway of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.3 and the interruption aim of `SP10-ritual-energetics-and-integration-protocols.md` §4.4. Restored centropic function in an affected being remains distinct from the entropic pattern's dissipation or interruption; no reintegration of that entropic pattern is asserted. Their sufficient state-based conditions remain held.
 
@@ -439,7 +439,7 @@ Unresolved membrane recursion may persist across temporal cycles in the qualitat
 
 **Consequences:**
 
-- Starvation: Layer cannot receive replenishment from origin structures
+- Starvation: Layer cannot receive replenishment from coherence-source structures
 - Accumulation: Resonance cannot discharge, leading to pressure buildup
 - Collapse risk: Isolated layers may undergo structural collapse
 

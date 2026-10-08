@@ -89,12 +89,14 @@ These are the primary structural dimensions of the centropic field.
 | C₇    | **♫** | Harmonic / Resonant      | Frequency accord and structural harmony          |
 | C₈    | **╫** | Synaptic / Bridging      | Coherent crossing between systems or states      |
 | C₉    | **∞** | Non-Local Coherence          | Coherent relation at a distance                     |
-| C₁₀   | **❋** | Morphogenetic (Formweave) | The translation of pattern into living structure   |
+| C₁₀   | **❋** | Morphogenetic | The translation of pattern into living structure   |
 | C₁₁   | **↗** | Intentional / Volitional | The directed manifestation of will                |
 | C₁₂   | **✧** | Aesthetic / Qualitative  | The dimension of meaning, beauty, and felt rightness |
 | C₁₃   | **║** | Membrane / Threshold     | A permeable, selective boundary                  |
 | C₁₄   | **⊡** | Nested / Recursive       | Dimensions held coherently within other dimensions |
 | C₁₅   | **✦** | Emergent / Novel         | The spontaneous, veracious arising of new patterns |
+
+> **Former-name provenance:** **Formweave** is the former registered parenthetical name of **C₁₀ Morphogenetic** ❋. The glyph and translation of pattern into living structure remain unchanged.
 
 > **Structural Note:** In the Structural Metaphysics symbol key, ✦ also denotes Nested Universes — multiversal branches or ontological containers of experience. Both senses are structurally compatible: nested universes are emergent novel expressions of ⚫ Aion. The dimensional function (spontaneous arising) and the cosmological function (multiversal branching) are scale applications of the same principle.
 
@@ -327,7 +329,7 @@ Recovered glyph combinations — multi-glyph formulas — are catalogued here wi
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | RS-01 | ♫ₙ + ◈ | CD1 p. 111 | Harmony Recall | Replays a prior harmonic relation through memory | Recovery Seal | ♫ C₇ Harmonic / Resonant established; ◈ Mnemic established; ₙ per the §5 modifier grammar | None — components distinct and established | None declared; held | Components established; combination ratified as a recovery seal | Active in FP13 | FP13, Five-Phase Recovery architecture | Recovered from the originating record; name and function continuous in FP13 |
 | RS-02 | ∿ + ⊡↻ | CD1 p. 111 | Motion Stitch | Reconnects interrupted spiral motion | Recovery Seal | ∿ Spiral Motion established; ⊡ C₁₄ Nested / Recursive established; ↻ Re-Initiated Rotation registered in §5 | ↻ distinct from ↺ Glyph Reharmonization / Resonant Return — differentiated in §5 | None declared; held | Components established; combination ratified as a recovery seal | Active in FP13 | FP13, Five-Phase Recovery architecture | Recovered from the originating record; name and function continuous in FP13 |
-| RS-03 | ❋ₙ + ✧ | CD1 p. 111 | Antibody Bloom | Carries counter-resonance flowering | Recovery Seal | ❋ Morphogenetic / Formweave established; ✧ Aesthetic / Qualitative established; ₙ per the §5 modifier grammar | None — components distinct and established | None declared; held | Components established; combination ratified as a recovery seal | Active in FP13 | FP13, Pattern-Specific Counter-Resonance and Five-Phase Recovery | Recovered from the originating record; name and function continuous in FP13 |
+| RS-03 | ❋ₙ + ✧ | CD1 p. 111 | Antibody Bloom | Carries counter-resonance flowering | Recovery Seal | ❋ Morphogenetic established; ✧ Aesthetic / Qualitative established; ₙ per the §5 modifier grammar | None — components distinct and established | None declared; held | Components established; combination ratified as a recovery seal | Active in FP13 | FP13, Pattern-Specific Counter-Resonance and Five-Phase Recovery | Recovered from the originating record; name and function continuous in FP13 |
 | RS-04 | ∗ | CD1 p. 111 | Dimensional Rebirth | Denotes healed form entering renewed expression | Recovery Seal | ∗ a distinct codepoint from ✴ ✦ ✧ ✶ ❋ — available and carried by this seal | None — character distinct from the established star-family glyphs | None declared; held | Component newly carried; combination ratified as a recovery seal | Active in FP13 | FP13, Recovery Indicators and Limits | Recovered from the originating record; name and function continuous in FP13 |
 
 > **Codex Note:** Score-only symbols — the staff, temporal, harmonic, dynamic, and field-condition notation of Standard Field Music Notation — are determined by FP14 and registered in its FP11 Notation Registration Ledger (FP14 Appendix A). A score symbol carries notational function within a score and does not thereby become a generic operator in this codex; a score sign proposed for operator standing enters through this concordance and the standard registry process.

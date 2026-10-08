@@ -170,7 +170,13 @@ Entropic mirrors admit a contraction-semigroup characterization, formalized in �
 
 ### D2. Banding
 
-- **Source Band:** Supra-L₀ / L₀ (Zenon 🕳️ / Aion ⚫ / Khaon ♾ — UP / AP / AD: Unknown Principle / Absolute Potential / Absolute Dispersion)
+**Supra-L₀:** 🕳️ **Zenon** — UP: Unknown Principle; trans-structural and outside the emanatory continuum
+
+**L₀:** ⚫ **Aion** / ♾ **Khaon** — AP / AD: Absolute Potential / Absolute Dispersion; co-present with bifurcally distinct root-functions
+
+**Former-name provenance.** "Source Band" is retired. No shared band designation is assigned to Zenon and the L₀ root-registers.
+
+The hypostatic bands are:
 - **Threshold Band:** L₅ (Theon 🛤️ — EOB: Essence of Being)
 - **Architectural / Archetypal Band:** L₄ (Sophis / Morgis — Deep Logos / Deep Psyche — DL / DP)
 - **Interface Band:** L₃ (Archeus / Noeüs — Deep Soul / Deep Mind — DS / DM — reflexive coherence)

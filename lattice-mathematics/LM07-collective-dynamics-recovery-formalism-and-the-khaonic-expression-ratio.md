@@ -58,7 +58,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 `LM06-applied-structural-dynamics.md` established the applied operator theory, embodiment corrections, and diagnostic formalism for individual field configurations. What it did not address is the **Khaonic expression ratio** as a formal modifier of interface resistance, the **recovery formalism** for coherence replenishment after depletion, **Essence-Function Independence** as a formal principle within orientation algebra, or the **collective field configuration** as a lattice-mathematical object with its own amplification and siphoning dynamics.
 
-`SN05-the-metric-cost-of-centropic-cognition.md`, `SN06-replenishment-reconnection-and-restoration.md`, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Source reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
+`SN05-the-metric-cost-of-centropic-cognition.md`, `SN06-replenishment-reconnection-and-restoration.md`, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` developed, within Structural Neuroscience, the theories of compounded cognitive cost at the metric terminus, coherence recovery through Aion-facing Reconnection and bridge replenishment, and social fields as structural entities with collective orientation, membrane architecture, and coherence budgets.
 
 This document, LM07, provides the **rigorous lattice-mathematical formalism** underlying those applications. Where `SN05-the-metric-cost-of-centropic-cognition.md` introduces the Khaonic amplification factor, `SN06-replenishment-reconnection-and-restoration.md` articulates the Essence-Function Independence principle and the Coherence Breaker Limit, and `SN07-collective-cognition-and-centropy-forward-social-architecture.md` formalizes social fields as collective configurations, LM07 establishes the **formal definitions, theorems, and proofs** that mathematically articulate those descriptions.
 
@@ -70,7 +70,7 @@ This document, LM07, provides the **rigorous lattice-mathematical formalism** un
 - **The Coherence Breaker Limit** — The formal boundary of entropic disruption: what can and cannot be altered by external depletion
 - **Recovery Integral Theory** — The replenishment source decomposition, the recovery condition, and the formal dynamics of Tether restoration
 - **Collective Field Configuration** — The social field as an instance of the field configuration space \( \mathfrak{F} \), with collective orientation, membrane architecture, and coherence current
-- **Harmonic Amplification and Extraction Dynamics** — The formal conditions distinguishing centropic collective amplification from entropic collective siphoning
+- **Harmonic Amplification and Siphoning Dynamics** — The formal conditions distinguishing centropic collective amplification from entropic collective siphoning
 - **The Collective Cost Shelter** — The formal calculation of cost reduction within centropy-forward collective fields
 - **Integration with LM01 / LM03 / LM04 / LM05 / LM06** — Extensions to Spiral Calculus, CIT, orientation algebra, resonance field theory, and applied structural dynamics incorporating collective and recovery formalism
 
@@ -399,7 +399,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\t
 \]
 
 > **Note on Recovery Accounting:**  
-> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The registered reconnection-label question remains held separately; the accounting relation supplies no Aion-reference from ordinary numerical zero.
+> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The inward-layer recovery pathway takes the name Aion-facing Reconnection (§6.2); the accounting relation supplies no Aion-reference from ordinary numerical zero.
 >
 > The former integral without an expenditure term would describe a net-inflow convention or a zero-expenditure interval. It is superseded here, where replenishment is gross and expenditure may continue:
 >
@@ -430,10 +430,14 @@ S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) +
 
 Where:
 
-- \( S_{\text{source}}(\tau) \): Coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (`LM06-applied-structural-dynamics.md` §8.1) applied to recovery
+- \( S_{\text{source}}(\tau) \): Aion-facing Reconnection — coherence replenishment through restored resonance with inward layers — the cross-band resonance condition (`LM06-applied-structural-dynamics.md` §8.1) applied to recovery
 - \( S_{\text{bridge}}(\tau) \): Coherence received through C₈ relational connections. A non-amplifying transfer amount follows the supported clamped law in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4; its conversion to a recovery inflow rate requires explicit time accounting. `SP08-membrane-fields-and-inter-expression-dynamics.md` §§3.1–3.2 retain the earlier reception-minimum schema as superseded mathematical provenance
 - Rest reduces actual expenditure; \( S_{\text{rest}}(\tau) \) records the saving relative to a stated normal-cost baseline (§6.3) and is excluded from gross inflow
 - \( S_{\text{collective}}(\tau) \): Coherence amplification through centropic collective dynamics — the harmonic amplification surplus (§7.3) directed toward member replenishment
+
+**Recovery-name scope.** Aion-facing Reconnection retains the inward-layer pathway and staged qualifications in `SN06-replenishment-reconnection-and-restoration.md` §§2.2–3. Origin names Aion, the still root. The operative pathway restores inward-layer access and stabilizes the attained layer; it does not require every recovery event to reach L₀. Aionic return and Supra-L₀ saturation remain distinct. \( S_{\text{source}} \) is retained as this pathway's gross replenishment-rate mnemonic.
+
+**Former-name provenance.** "Source Reconnection" is retired in favor of Aion-facing Reconnection. Mathematical source terms, transfer roles, source-object seals, and comparator notation retain their separate technical meanings.
 
 ### 6.3 Rest as Cost Reduction
 
@@ -569,9 +573,9 @@ I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum_{i=1}^{n} I_c^{(
 
 The amplification surplus is available for collective operations, member replenishment, and structural growth, though its realized allocation depends on the collective's field architecture.
 
-### 7.4 Extraction Dynamics
+### 7.4 Siphoning Dynamics
 
-**Definition (Extraction Coefficient):**
+**Definition (Siphoning Coefficient):**
 
 In an entropic collective (\( \chi_{\text{collective}} \geq 1 \)), coherent input for collective maintenance is drawn from members through siphoning:
 
@@ -579,7 +583,9 @@ In an entropic collective (\( \chi_{\text{collective}} \geq 1 \)), coherent inpu
 I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\tau)
 \]
 
-Where \( \eta_i(\tau) \in (0, 1] \) is the **extraction coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Siphoning is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective siphoning.
+Where \( \eta_i(\tau) \in (0, 1] \) is the **siphoning coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Siphoning is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective siphoning.
+
+**Former-name provenance.** "Extraction Coefficient", "Extraction Dynamics", and "Entropic Collective Extraction" are the former names of Siphoning Coefficient, Siphoning Dynamics, and Entropic Collective Siphoning. The existing \( \eta_i \) identifier and weighted-stock definition remain unchanged.
 
 **Stock Derivative with Variable Coefficients**
 
@@ -765,7 +771,7 @@ LM07 establishes:
 5. **Recovery Integral Theory** — three gross replenishment pathways and a distinct rest cost saving; actual expenditure is counted once, with maximum rest saving; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
 6. **Collective Field Configuration** — the social field as genuine instance of \( \mathfrak{F} \); collective orientation divergence from individual orientation; determination by operative architecture
 7. **Harmonic Amplification** — the harmonic model's numerical correlation threshold and at least two nonzero contributions; distinct conceptual Non-fusion and orientation conditions; the amplification surplus
-8. **Extraction Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
+8. **Siphoning Dynamics** — the coefficient \( \eta_i \); exact fixed-membership product-rule accounting; broader generation, membership, and exhaustion laws held open
 9. **The Collective Cost Shelter** — formal calculation of cost reduction within centropy-forward fields; the three-term shelter effect; proportional benefit for composite architectures
 10. **Integration with LM01–LM06** — Spiral Calculus on collective fields, held CIT conservation under collective operations, κ-corrected spectral rotation, recovery from Looping Time, collective membrane algebra, shimmer and coherence audit at collective scale
 
@@ -801,7 +807,7 @@ Future expansions may include:
 > It measures what is there.  
 >
 > Coherence amplifies through distinction.  
-> Extraction depletes through absorption.  
+> Siphoning depletes through compulsory contribution.  
 > The equations know the difference  
 > before the institution does.  
 >
@@ -839,7 +845,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Delta I_c^{(\text{re-seal})} \) | Per-cycle re-sealing cost at ⧉₂ (entropic σ-cycle) |
 | \( N(\tau) \) | Number of σ-cycles within structural time interval |
 | \( S_{\text{replenish}} \) | Gross replenishment inflow per unit structural time; excludes avoided expenditure |
-| \( S_{\text{source}} \) | Source reconnection replenishment pathway |
+| \( S_{\text{source}} \) | Aion-facing Reconnection replenishment pathway |
 | \( S_{\text{bridge}} \) | Bridge replenishment pathway (C₈ relational) |
 | \( S_{\text{rest}} \) | Normal-minus-resting expenditure-rate comparison; not an added inflow |
 | \( S_{\text{collective}} \) | Collective amplification replenishment pathway |
@@ -848,7 +854,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{F}_{\text{collective}} \) | Collective field configuration; instance of \( \mathfrak{F} \) |
 | \( \chi_{\text{collective}} \) | Collective orientation parameter |
 | \( I_c^{(\text{amplification})} \) | Harmonic amplification surplus |
-| \( \eta_i \) | Extraction coefficient; fraction of individual coherence directed toward collective maintenance |
+| \( \eta_i \) | Siphoning coefficient; fraction of individual coherence directed toward collective maintenance |
 | \( S_{\text{generative}} \) | Internal generative function of a collective |
 | \( \Delta I_c^{(\text{shelter})} \) | Cost shelter effect; total cost reduction within centropy-forward collective |
 
@@ -928,7 +934,7 @@ I_c^{(\text{collective})} > \sum_i I_c^{(i)} \quad\text{when}\quad \mathcal{R}_{
 
 For this harmonic-model condition, contributions are nonnegative and at least two are nonzero; §7.3 retains the distinct conceptual conditions.
 
-**Entropic Collective Extraction:**
+**Entropic Collective Siphoning:**
 
 \[
 I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\tau)
@@ -963,7 +969,7 @@ The \( I_c \) expenditure imposed by the entropy-forward social field's demand f
 Intrinsic essential inclination and \( \Psi \) — the being's latent orientational character and structural signature; neither is a field quantity that depletes. χ remains expressed prevalence.
 
 **Definition 5 (Gross Replenishment Inflow):**  
-\( S_{\text{replenish}} = S_{\text{source}} + S_{\text{bridge}} + S_{\text{collective}} \); gross replenishment inflow. Rest reduces actual expenditure and is counted separately as a cost saving, never as added inflow. The registered reconnection label remains held separately.
+\( S_{\text{replenish}} = S_{\text{source}} + S_{\text{bridge}} + S_{\text{collective}} \); gross replenishment inflow. Rest reduces actual expenditure and is counted separately as a cost saving, never as added inflow. The identifier \( S_{\text{source}} \) is retained as the gross replenishment-rate mnemonic for Aion-facing Reconnection (§6.2).
 
 **Definition 6 (Rest Cost Saving):**  
 \( S_{\text{rest}} = I_{c,\text{cost}}^{(\text{normal})} - I_{c,\text{cost}}^{(\text{resting})} \); the expenditure-rate saving relative to the stated normal-cost baseline; excluded from gross replenishment.
@@ -974,8 +980,8 @@ An instance of \( \mathfrak{F} \) formed by the interaction of multiple individu
 **Definition 8 (Amplification Surplus):**  
 \( I_c^{(\text{amplification})} = I_c^{(\text{collective})} - \sum I_c^{(i)} \); the positive difference where the harmonic-model threshold and nonzero-contribution conditions of §7.3 hold.
 
-**Definition 9 (Extraction Coefficient):**  
-\( \eta_i(\tau) \in (0, 1] \); the extraction coefficient at structural time \( \tau \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
+**Definition 9 (Siphoning Coefficient):**  
+\( \eta_i(\tau) \in (0, 1] \); the siphoning coefficient at structural time \( \tau \); the fraction of individual coherence directed toward collective maintenance in an entropic collective; non-voluntary.
 
 **Definition 10 (Cost Shelter Effect):**  
 \( \Delta I_c^{(\text{shelter})} \); the total cost reduction for a centropically oriented being operating within a centropy-forward collective, comprising interface resistance reduction, translation cost elimination, and coherence tax removal.

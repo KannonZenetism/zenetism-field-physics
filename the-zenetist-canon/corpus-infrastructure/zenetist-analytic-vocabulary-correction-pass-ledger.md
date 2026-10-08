@@ -14,6 +14,10 @@ Four dispositions, per the check's §9: **corrected**, **retained with reference
 
 The correction rows retain their historical wording. C15 and the §4.2 pointer row record the former shared "Echo Layer" / "Echo Layer Resolution" category. Current `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§6.6.4 and 6.7.2 name that category **Membrane Recursion** and its shared pathways **Membrane Recursion Resolution**, with ⤾ **Centropic Recursion Layer** and ⟲ **Echo Layer / Entropic Echo Layer** as distinct cases. The broader MP integration function remains **recursive integration** (§6.8.3). Orientation follows the analyzed function; the resolution pathways distinguish centropic completion or reintegration from entropic dissipation or interruption. An absent centropic outcome does not classify a recurrence as entropic. Partial-transfer arithmetic establishes an untransferred amount; residence, recurrence, persistence, and sufficient resolution conditions remain held. C07's structural-gain comparison retains its cognitive scope. D18 records the determination and implementation standing; the earlier pass is not a completion record for this package.
 
+## Current Recovery-Name Standing
+
+The correction rows and held-name list retain their recorded wording. **Aion-facing Reconnection** is the current recovery-pathway name; **Source Reconnection** is retained as former-name provenance. The identifier \( S_{\text{source}} \) remains the scoped mnemonic for that pathway's gross replenishment-rate contribution. The recorded Source Reconnection naming hold is closed; the inward-layer pathway, attained-layer stabilization, complete recovery conditions, and all mathematical holds remain unchanged. See `sp-lm-sn-architect-decision-sheet.md` D18 and `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§6.7.2, 13.12.
+
 ## Corrected
 
 | Item | Entry (section) | Correction made | Checked passage |

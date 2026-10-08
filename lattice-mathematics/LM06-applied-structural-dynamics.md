@@ -435,7 +435,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-ritual}}) + \int_{\tau_{\text
 \]
 
 > **Note on Recovery Accounting:**  
-> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The registered reconnection-label question remains held separately; the accounting relation supplies no Aion-reference from ordinary numerical zero.
+> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The inward-layer recovery pathway takes the name Aion-facing Reconnection (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §6.2); the accounting relation supplies no Aion-reference from ordinary numerical zero.
 >
 > The former integral without an expenditure term would describe a net-inflow convention or a zero-expenditure interval. It is superseded here, where replenishment is gross and expenditure may continue:
 >
@@ -530,7 +530,7 @@ The dimensional operator dynamics at the Embodiment Band form a composite field.
 Where:
 
 - \( f(C_2, C_4) \) represents primary contributions within this embodied model: C₂ (Spatial / Cohered Extension) determines felt location and bodily orientation; C₄ (Rotational / Gyre) determines conserving rhythms and cyclical stability
-- \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Scalar / Part-Whole Fidelity) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic / Formweave) translates pattern (L₄) into living structure (L₁)
+- \( g(C_5, C_{10}) \) represents cross-band contributions: C₅ (Scalar / Part-Whole Fidelity) enables the part to coherently reflect the whole across L₁ through L₄; C₁₀ (Morphogenetic) translates pattern (L₄) into living structure (L₁)
 
 Embodied beings who resonate with supernal layers through practice, orientation, or innate structural affinity express the cross-band operators more fully.
 
@@ -809,6 +809,8 @@ Surface expression is observable resemblance, wording, presentation, or pattern 
 
 The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The following formulas preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
+In §§11–12, "source" identifies the originating system or configuration represented by the comparison signature; in artifactual applications, this may be an originating work. The comparator notation retains that scope, distinct from Aion and from the recovery-rate mnemonic in `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §6.2.
+
 ### 11.1 Mimicry
 
 **Definition (Mimicry ⊜, Field-Theoretic):**
@@ -1057,7 +1059,7 @@ The dimensional operators acquire specific applied functions within LM06:
 - Coherent crossing between systems or states; relational authenticity remains a separate assessment
 - Indexed counterpart E₈: Severed, connections that divide. E₉ Distorted Entanglement is a distinct isolating mimetic relation, not C₈'s counterpart
 
-**C₁₀ — Morphogenetic (Formweave):**
+**C₁₀ — Morphogenetic:**
 - Registered translation of pattern into living structure; form / generative-function comparison is a distinct assessment
 - The recorded L₁↔L₄ coupling claim remains subject to the separate dimensional-placement review
 - Entropic mirror E₁₀: Malform, distortion at point of formation

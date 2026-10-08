@@ -308,7 +308,7 @@ A temporal or proleptic pattern moves through aesthetic disclosure into morphoge
 - ⟠ — Temporal / Proleptic Resonance
 - ↓ — **Declivous Centropy** toward morphogenetic expression in this formula
 - ✧ — Aesthetic / Qualitative
-- ❋ — Morphogenetic / Formweave
+- ❋ — Morphogenetic
 
 **Field Motion**
 

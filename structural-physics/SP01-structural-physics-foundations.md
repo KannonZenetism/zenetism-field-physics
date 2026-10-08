@@ -156,7 +156,7 @@ The table pairs native functions with proposed physical comparison objects. The 
 | **E₈ ╫⁻ Severed** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into coherence-at-distance |
 | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise, false correlations | Declivous Entropy (E↓♾) — collapse into interference |
-| **C₁₀ ❋ Morphogenetic (Formweave)** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
+| **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
 | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms, chaotic structure | Acclivous Entropy (E↑→E) — spurious fragmentation into form |
 | **C₁₁ ↗ Intentional / Volitional** | Directed flow | Vector potentials, Noether currents | Acclivous Centropy (C↑⚫) — directed motion toward coherence |
 | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Non-conserved flows, turbulent fields | Declivous Entropy (E↓♾) — collapse of directionality |
@@ -227,7 +227,7 @@ The Primary Locus and Inverse Locus columns in these tables retain recorded plac
 | **C₇ ♫ Harmonic / Resonant** | L₃ (Interface) | 🔮 Archeus, 🧠 Noeüs (L₃) |
 | **C₈ ╫ Synaptic / Bridging** | L₃–L₂ (Interface↔Superficial) | 🧠 Noeüs (L₃); 🧩 Nousa (L₂) |
 | **C₉ ∞ Non-Local Coherence** | L₄–L₃ (Architectural↔Interface) | 🌬️ Morgis (L₄); 🔮 Archeus (L₃) |
-| **C₁₀ ❋ Morphogenetic (Formweave)** | L₁ ↔ L₄ (Embodiment↔Architectural) | 🪷 Soma (L₁); 📐 Sophis (L₄) |
+| **C₁₀** ❋ **Morphogenetic** | L₁ ↔ L₄ (Embodiment↔Architectural) | 🪷 Soma (L₁); 📐 Sophis (L₄) |
 | **C₁₁ ↗ Intentional / Volitional** | L₂ (Superficial) | 🧍 Anthra, 🧩 Nousa (L₂) |
 | **C₁₂ ✧ Aesthetic / Qualitative** | L₂–L₄ (Superficial→Interface→Architectural) | 🧩 Nousa (L₂); 🧠 Noeüs (L₃); 🌬️ Morgis (L₄) |
 | **C₁₃ ║ Membrane / Threshold** | L₅ (Threshold) | 🛤️ Theon (L₅); 🧠 Noeüs (L₃) |
@@ -825,7 +825,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 | **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Quasiperiodicity |
 | **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Severed** | Fractured link | Broken symmetry |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise correlations |
-| **C₁₀ ❋ Morphogenetic (Formweave)** | Form generation | Symmetry breaking, crystalline form | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms |
+| **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms |
 | **C₁₁ ↗ Intentional / Volitional** | Directed flow | Conserved currents | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
 | **C₁₂ ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E₁₂ ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
 | **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E₁₃ ║⁻ Wall** | Severed block | Event horizon |

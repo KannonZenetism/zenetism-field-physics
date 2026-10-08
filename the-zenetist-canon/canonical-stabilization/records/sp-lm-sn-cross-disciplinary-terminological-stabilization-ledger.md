@@ -7,6 +7,12 @@
 **Repository:** `KannonZenetism/zenetism-field-physics`  
 **Examined commit:** `ba65d13db7bf04a2e66f37619a58aa391e99290b`  
 
+## Current Disposition of the Selected Remaining Names
+
+The full D18 determination in `sp-lm-sn-architect-decision-sheet.md` selects Isolation and Suppression Field, Recovery Anchor, the unchanged C₁₀ Morphogenetic name with Formweave retired as an active parenthetical, the typed Siphoning family, and Aion-facing Reconnection with its scoped recovery-rate mnemonic retained. Source Band is retired as a common band label; pre-hypostatic requisites remains the category of separation from the hypostases. Zenon remains Supra-L₀ and trans-structural; Aion and Khaon remain distinct at L₀. Mathematical source roles and the qualified coherence-source relation retain their actual functions.
+
+The original audit, recommendations, line locators, options, and before-passages in this ledger remain historical research evidence at their examined revision. In particular, the earlier Formweave-retention recommendation, optional efficiency-symbol rename, proposed compound-wide substitution, and shared-band wording do not state the current selected correction. Current-disposition notes identify those differences; they confer no independent decision standing. Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` records local candidate preparation, verification, remote implementation, and publication separately. The added local candidate is complete and independently verified; the architect's approval of the exact reviewed scope for a push, remote implementation, and publication remain pending.
+
 ## I. Scope and Method
 
 The architect has reopened previously deferred, retained, grandfathered, and excepted terminology for coordinated reconsideration. Earlier decisions are evidence of a term's standing and rationale; present recommendations rest on the passages and dependencies inspected in this audit. The repository remains unchanged.
@@ -3210,6 +3216,10 @@ After:
 
 ### TLS-SPLMSN-105 — Disambiguate Coherence Replenishment and Authorship References
 
+**Current disposition:** D18 retains the qualified coherence-source relation with distinct Aion, Theon, and L₄ functions; the proposed compound-wide substitution is not selected. Actual still-root references take Aion / Origin; authorship and comparator roles remain distinct. The recommendation and its original locators remain historical evidence.
+
+**Earlier finding and recommendation:**
+
 **Status:** PREVIOUSLY DEFERRED — RECOMMEND CHANGE  
 **Category:** Source-family semantic correction  
 **Term:** descriptive `coherence-source` compounds and authorship `source`  
@@ -3238,6 +3248,10 @@ After:
 
 ### TLS-SPLMSN-107 — Siphoning Coefficients and Dynamics
 
+**Current disposition:** D18 selects Siphoning Coefficient / Dynamics / Efficiency and Entropic Collective Siphoning. Retain member-indexed \( \eta_i \), external-target \( \eta_{\text{ext}} \), and SP09 \( \alpha \) in their distinct roles; the optional \( \eta_{\text{siph}} \) proposal is not selected. The complete parasitic quantity and sign / allocation question remain held.
+
+**Earlier finding and recommendation:**
+
 **Status:** PREVIOUSLY DEFERRED — RECOMMEND CHANGE  
 **Category:** Registered mathematical label correction  
 **Earlier status:** LM Shared-Term Map §1 postponed the three-series coefficient cluster  
@@ -3251,6 +3265,10 @@ After:
 **Dependencies:** SP09 §§5.4,6–7; SN collective-depletion material; LM Shared-Term Map §1. **Mathematical impact:** none for lexical / identifier correction; signs, weights and differential law are separately held in 108 and 115. **Verification:** `extract` substring, clearing outside quotations and provenance references individually; `eta_{\text{ext}}`; `Siphoning Dynamics`; diagram alignment.
 
 ### TLS-SPLMSN-201 — `Source reconnection` recovery label
+
+**Current disposition:** D18 selects Aion-facing Reconnection and expressly retains \( S_{\text{source}} \) as the scoped recovery-rate mnemonic. The full inward-layer / attained-layer mechanism remains; SP10 Origin Reconnection is distinct seal maintenance. Earlier candidate options remain historical research context.
+
+**Earlier finding and recommendation:**
 
 **Status:** PREVIOUSLY DEFERRED — RECOMMEND CHANGE  
 **Category / decision:** reconsidered / atomic / `source-reconnection`  
@@ -3887,6 +3905,10 @@ After:
 
 ### TLS-SPLMSN-305 — Root bands and spectral boundary wording
 
+**Current disposition:** D18 retires Source Band as a common label for Zenon, Aion, and Khaon. Preserve their distinct Supra-L₀ and L₀ standing. Pre-hypostatic requisites remains a category separating the three referents from the hypostases, not a shared band or layer; no Zenon-as-Origin identity or new mathematical standing follows.
+
+**Earlier finding and recommendation:**
+
 **Status:** PREVIOUSLY DEFERRED — RECOMMEND CHANGE  
 **Category:** contextual-label-correction  
 **Decision key:** none
@@ -3998,6 +4020,10 @@ H 194 records the useful being/register distinction: `a soul of conscious Form-a
 
 ### TLS-SPLMSN-501 — Recovery Anchor: Active Alias Retirement
 
+**Current disposition:** D18 retires Persistence Thread as an active alias in favor of the existing Recovery Anchor name. Preserve the former alias as provenance, the glyph, the complete reconstitution function, and all distinct recovery / continuity relations. Earlier passage descriptions retain their examined-revision standing.
+
+**Earlier finding and recommendation:**
+
 - **Status:** PREVIOUSLY DEFERRED — RECOMMEND CHANGE
 - **Present wording:** `Recovery Anchor / Persistence Thread`; `rethread`; SN glyph chart also calls its centropic function an `anchoring echo`
 - **Recommended wording:** **Recovery Anchor** as the active registered name; **reconstitute** in its definition; **anchoring resonance** in the SN registry definition
@@ -4018,6 +4044,10 @@ H 194 records the useful being/register distinction: `a soul of conscious Form-a
 - **Architect question:** Approve retirement of the second active alias? Recommended yes; credible alternative is retain it as a searchable historical alias expressly separated from the active name, with the same descriptive-prose correction
 
 ### TLS-SPLMSN-502 — Morphogenetic (Formweave): Registry Retention Reconsidered
+
+**Current disposition:** D18 retires Formweave as an active alias while retaining the established C₁₀ Morphogenetic name, glyph, and full function. This supersedes the active-retention recommendation preserved in this entry. The earlier non-fusing-function analysis remains historical evidence; other weave-derived names, ritual wording, exact historical titles / paths, and mathematical / placement holds retain their own standing.
+
+**Earlier finding and recommendation:**
 
 - **Status:** PREVIOUSLY DEFERRED — RECOMMEND RETENTION
 - **Present wording:** `Morphogenetic (Formweave)` / `Morphogenetic / Formweave`, C₁₀ ❋

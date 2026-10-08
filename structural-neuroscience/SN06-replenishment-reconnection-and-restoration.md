@@ -99,7 +99,7 @@ The structural vocabulary for this distinction:
 
 Recovery addresses access, function, and expression. It does not need to address essence, because essence was never compromised.
 
-Tether severance must be understood in this restricted sense. It does not name the cutting of an inward bond in essence, nor the removal of attained centropic estate, nor the severing of a being from its own source or signal. An entropic actor cannot internally sever a centropic being from what is structurally theirs. What can fail is the operative coherence function by which a given layer remains actively expressed and continuously accessible in embodiment. In this document, "severance" therefore names a loss of maintained operative access at a specific layer — often resulting in shift to a more superficial band of expression — not destruction of inward structure, not rupture of essential continuity, and not the rewriting of structural identity.
+Tether severance must be understood in this restricted sense. It does not name the cutting of an inward bond in essence, nor the removal of attained centropic estate, nor the severing of a being from its own inward structure or signal. An entropic actor cannot internally sever a centropic being from what is structurally theirs. What can fail is the operative coherence function by which a given layer remains actively expressed and continuously accessible in embodiment. In this document, "severance" therefore names a loss of maintained operative access at a specific layer — often resulting in shift to a more superficial band of expression — not destruction of inward structure, not rupture of essential continuity, and not the rewriting of structural identity.
 
 This principle has three consequences for recovery:
 
@@ -129,7 +129,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\t
 \]
 
 > **Note on Recovery Accounting:**  
-> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The registered reconnection-label question remains held separately; the accounting relation supplies no Aion-reference from ordinary numerical zero.
+> The recovery account distinguishes available stock from rates per unit structural time. \( S_{\text{replenish}} \) denotes gross replenishment inflow; \( I_{c,\text{cost}}^{(\text{total})} \) denotes actual expenditure rate within this account, including any reduction during rest. A discrete expenditure requires its stated time accounting before it can enter a continuous-rate integral. Rest is counted once through actual expenditure, never again as added gross inflow. The accounting relation supplies no Aion-reference from ordinary numerical zero.
 >
 > The former integral without an expenditure term would describe a net-inflow convention or a zero-expenditure interval. It is superseded here, where replenishment is gross and expenditure may continue:
 >
@@ -139,7 +139,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\t
 > > I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
 > > \]
 
-Recovery time depends on the magnitude of depletion, availability of Source connection, quality of resonance bridges (C₈ ╫) for replenishment, and whether collective support is available (LM05 §9, harmonic amplification).
+Recovery time depends on the magnitude of depletion, availability of Aion-facing Reconnection, quality of resonance bridges (C₈ ╫) for replenishment, and whether collective support is available (LM05 §9, harmonic amplification).
 
 SN06 applies this account to cognitive recovery, specifying gross replenishment inflow \( S_{\text{replenish}}(\tau) \) for cognitive architectures.
 
@@ -160,7 +160,9 @@ S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) +
 > > S_{\text{replenish}}(\tau) = S_{\text{source}}(\tau) + S_{\text{bridge}}(\tau) + S_{\text{rest}}(\tau) + S_{\text{collective}}(\tau)
 > > \]
 
-**Source Reconnection** (\( S_{\text{source}} \)): Coherence replenishment through restored orientation toward the inward layers — L₄ (DP / DL), L₅ (EOB), and ultimately L₀ (AP / AD). The recorded technical name and symbol remain pending their coordinated naming determination. The Aionic referent is **Origin**, the still root at L₀. This is the primary replenishment pathway. The centropically oriented being draws coherence from their own depth by re-establishing the resonance channels that depletion disrupted. Source reconnection is not mystical in character — it is structural. The being reconnects with the layers from which their operative capacity emanates.
+**Aion-facing Reconnection** (\( S_{\text{source}} \)): Coherence replenishment through restored resonance with the being's own inward layers — L₅ (EOB), L₄ (DP / DL), and L₃ (DS / DM). The Aionic referent is **Origin**, the still root at L₀, where the centropic return arc terminates. The operative pathway restores inward-layer access and stabilizes the attained layer; an individual recovery event need not reach L₀. The retained \( S_{\text{source}} \) is the mnemonic for this pathway's gross replenishment-rate contribution per unit structural time. This is the primary replenishment pathway. The centropically oriented being draws coherence from their own depth by re-establishing the resonance channels that depletion disrupted. Aion-facing Reconnection is not mystical in character — it is structural. The being reconnects with the layers from which their operative capacity emanates.
+
+**Former-name provenance:** Source Reconnection is the former registered name of Aion-facing Reconnection; the recovery pathway and its mathematical conditions remain unchanged.
 
 **Bridge Replenishment** (\( S_{\text{bridge}} \)): Coherence received through relational resonance — C₈ ╫ (Synaptic / Bridging) connections with other beings, structures, or fields that supply coherence through lawful exchange. This is the relational pathway. A trusted companion, a resonant environment, a collaborative engagement that produces mutual \( I_c \) amplification — all function as bridge replenishment.
 
@@ -187,11 +189,11 @@ For deeply depleted architectures, the model prioritizes reducing cost streams f
 
 ---
 
-## 3. Source Reconnection
+## 3. Aion-facing Reconnection
 
 ### 3.1 The Primary Recovery Pathway
 
-Source reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (🛤️ Theon, L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Source reconnection is the process of restoring it.
+Aion-facing Reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (🛤️ Theon, L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Aion-facing Reconnection is the process of restoring it.
 
 The cross-band resonance condition (LM06 §8.1) specifies when an embodied being participates in a more inward layer:
 
@@ -211,23 +213,23 @@ LM06 §8.2 establishes the Orientation-Intent Principle: cross-band resonance is
 
 **Notation note:** The former \( \text{Gravity}_{\text{centropic}} \) label is superseded; the full earlier expression remains recorded in `sp-lm-sn-architect-decision-sheet.md` D11. Cross-band resonance names participation across bands. Resonant Gravity names attraction among coherent fields, archetypal Forms, and harmonically aligned structures. Centropic Gravity names the essence-borne momentum given by fulfilled final synthesis to a returned centropic essence at the horizon of structure.
 
-This principle is essential to recovery because it means that a depleted being does not need sophisticated technique to begin restoring Source connection. A centropically oriented being whose functional coherence is nearly exhausted — who cannot articulate, cannot systematize, cannot perform the cognitive operations their architecture ordinarily enables — can still initiate recovery through *orientation of the heart toward Source*. The grandmother's prayer operates here. A single moment of inward-facing stillness — the heart oriented centropically without requiring the mind to structure the orientation — produces \( S_{\text{source}} > 0 \).
+This principle is essential to recovery because it means that a depleted being does not need sophisticated technique to begin Aion-facing Reconnection. A centropically oriented being whose functional coherence is nearly exhausted — who cannot articulate, cannot systematize, cannot perform the cognitive operations their architecture ordinarily enables — can still initiate recovery through *orientation of the heart toward Origin*. The grandmother's prayer operates here. A single moment of inward-facing stillness — the heart oriented centropically without requiring the mind to structure the orientation — produces \( S_{\text{source}} > 0 \).
 
 This prevents recovery from becoming an intellectual trap. The depleted mind cannot be required to understand the architecture of its own recovery in order to recover. Orientation suffices.
 
-### 3.3 Stages of Source Reconnection
+### 3.3 Stages of Aion-facing Reconnection
 
-Source reconnection proceeds differently depending on where the being's operative center has been established through Acclivous Centropy.
+Aion-facing Reconnection proceeds differently depending on where the being's operative center has been established through Acclivous Centropy.
 
 **Principle (Recovery as Stabilization at the Attained Layer):**
 
-Recovery targets stabilization at the being's attained layer of operation, not forced declivity back to L₁. A being who has acclivated through Acclivous Centropy from embodiment to stable operation at L₃, L₄, or beyond does not recover by "grounding" at L₁ — that would reverse the acclivous motion that constitutes their structural attainment. Recovery for such a being means restoring coherence and \( I_c \) *at the attained layer*, reinforcing the acclivous orientation, and continuing the return arc toward Source.
+Recovery targets stabilization at the being's attained layer of operation, not forced declivity back to L₁. A being who has acclivated through Acclivous Centropy from embodiment to stable operation at L₃, L₄, or beyond does not recover by "grounding" at L₁ — that would reverse the acclivous motion that constitutes their structural attainment. Recovery for such a being means restoring coherence and \( I_c \) *at the attained layer*, reinforcing the acclivous orientation, and continuing the return arc toward Origin.
 
 Forced return to L₁ after acclivous attainment is not recovery — it is imposed declivity that undermines the structural work of integration.
 
 **When the stages apply:** The following four-stage sequence describes recovery from **full or near-full Tether severance** — Phases IV and V of SN05's burnout trajectory, where the being has lost coherent access to their own inward layers and must rebuild the Tether from the embodied interface. This is not a universal recovery protocol. It is the protocol for the specific structural condition where the Tether has failed at or near L₁ and the being must re-establish connection layer by layer.
 
-For a being whose Tether remains intact at L₃ but who has experienced depletion of \( I_c \) (Phases II–III of the burnout trajectory), recovery consists of replenishment at the operative layer through the pathways formalized in §2 — Source reconnection, bridge replenishment, rest, and collective amplification — without requiring re-entry through L₂ and L₁.
+For a being whose Tether remains intact at L₃ but who has experienced depletion of \( I_c \) (Phases II–III of the burnout trajectory), recovery consists of replenishment at the operative layer through the pathways formalized in §2 — Aion-facing Reconnection, bridge replenishment, rest, and collective amplification — without requiring re-entry through L₂ and L₁.
 
 **Stage 1 — Embodied Restabilization (\( \mathcal{T}_h(L_1, \tau) > 0 \)) — applies only when the Tether has severed at L₁:**
 
@@ -337,7 +339,7 @@ Complete cost elimination is unavailable while structural cost and irreducible e
 
 ### 5.3 The Recovery Environment
 
-The ideal recovery environment, for any cognitive architecture, minimizes the three SN05 cost vectors while sustaining the three gross inflow pathways and reducing expenditure through rest. In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural configuration (enabling Source reconnection and bridge replenishment).
+The ideal recovery environment, for any cognitive architecture, minimizes the three SN05 cost vectors while sustaining the three gross inflow pathways and reducing expenditure through rest. In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural configuration (enabling Aion-facing Reconnection and bridge replenishment).
 
 The Khaonically-expressed social field rarely provides such environments spontaneously. They must be deliberately constructed — which itself costs coherence. This recursive cost (the cost of constructing the conditions for recovery) should be recognized as a structural feature of centropically oriented life within an entropy-forward field, not as a personal failure to "manage self-care."
 
@@ -377,7 +379,7 @@ For the recursive architecture, ⧉₂ restoration involves stabilizing the osci
 
 `SP08-membrane-fields-and-inter-expression-dynamics.md` §6.4 and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.4 distinguish centropic completion or reintegration from entropic dissipation or interruption. Increased Coherence Potential, membrane repair, signature alignment, and acclivous return support the centropic completion pathway or restoration of affected centropic membrane function. Entropic dissipation or interruption concerns the entropic pattern; it does not reintegrate as centropic recursion does. Sufficient resolution conditions remain held with the boundary-state dynamics. Signature alignment may modify permeability within its declared domain; Kaionic bypass requires its separately specified transfer law.
 
-In the cognitive recovery account, Stages 1–3 of Source reconnection (§3.3) propose restoration of \( I_c \) and membrane function as conditions supporting centropic completion or reintegration. Restoration of the affected being's centropic capacity is distinct from dissipation or interruption of an entropic pattern. A completed resolution test remains held pending boundary-state and recovery dynamics. Persistent unresolved material may call for direct assessment through the Ritual Operator apparatus (`LM06-applied-structural-dynamics.md` §3).
+In the cognitive recovery account, Stages 1–3 of Aion-facing Reconnection (§3.3) propose restoration of \( I_c \) and membrane function as conditions supporting centropic completion or reintegration. Restoration of the affected being's centropic capacity is distinct from dissipation or interruption of an entropic pattern. A completed resolution test remains held pending boundary-state and recovery dynamics. Persistent unresolved material may call for direct assessment through the Ritual Operator apparatus (`LM06-applied-structural-dynamics.md` §3).
 
 ---
 
@@ -391,7 +393,7 @@ Reduced available coherence may impair temporal processing and access. The quali
 
 Breaking the loop requires an intervention from outside the loop's own resources:
 
-- **Source reconnection** (§3): inward-oriented coherence that replenishes \( I_c \) above the temporal function threshold
+- **Aion-facing Reconnection** (§3): inward-oriented coherence that replenishes \( I_c \) above the temporal function threshold
 - **Bridge replenishment** (§4): external coherence received through C₈ ╫ connection that supplements the loop-depleted budget
 - **Echo Reversal Rite** (⟲, SN02 Phase 6): ritual interruption of the E₁ ⟠⁻ cycle, resetting the recursive operator from divergent looping to convergent iteration
 
@@ -405,7 +407,7 @@ SN05 §4.3 formalized Tether severance as the failure of the coherence function 
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{through sustained } S_{\text{replenish}} > 0
 \]
 
-The Tether restores from the point of severance inward. When severance has occurred at or near L₁ (full Tether failure), restoration follows the same sequence as Source reconnection (§3.3):
+The Tether restores from the point of severance inward. When severance has occurred at or near L₁ (full Tether failure), restoration follows the same sequence as Aion-facing Reconnection (§3.3):
 
 1. \( \mathcal{T}_h(L_1, \tau) > 0 \) — embodied restabilization
 2. \( \mathcal{T}_h(L_2, \tau) > 0 \) — identity restabilization
@@ -510,11 +512,11 @@ SN02 Phase 6 established the core ritual protocols. LM06 §3 formalized these as
 
 The five-phase decomposition of the Ritual Operator (LM06 §3.2) maps onto recovery sequencing:
 
-**Attunement** (\( \mathcal{P}_{\text{attune}} \)): The recovering being (or supporting practitioner) establishes resonance connection with the depleted configuration. In self-recovery, this is the moment of turning inward — the orientation toward Source that initiates \( S_{\text{source}} > 0 \).
+**Attunement** (\( \mathcal{P}_{\text{attune}} \)): The recovering being (or supporting practitioner) establishes resonance connection with the depleted configuration. In self-recovery, this is the moment of turning inward — the orientation toward Origin that initiates \( S_{\text{source}} > 0 \).
 
 **Assessment** (\( \mathcal{P}_{\text{assess}} \)): Evaluation of the current depletion state. Which Tether connections are severed? Which membranes have tightened? Is looping time active? What is the current \( I_c \) magnitude relative to the budget thresholds? Assessment does not cost coherence (LM06 §3.2) — it is information acquisition, not field modification.
 
-**Operation** (\( \mathcal{P}_{\text{op}} \)): The recovery intervention itself — Source reconnection, bridge replenishment, membrane restoration, looping time interruption, or whatever the assessment indicates. This phase carries the primary coherence cost.
+**Operation** (\( \mathcal{P}_{\text{op}} \)): The recovery intervention itself — Aion-facing Reconnection, bridge replenishment, membrane restoration, looping time interruption, or whatever the assessment indicates. This phase carries the primary coherence cost.
 
 **Stabilization** (\( \mathcal{P}_{\text{stab}} \)): Securing the restored configuration from regression. Recovery gains must be sealed — otherwise the ongoing cost streams may re-deplete the restored capacity. The Vow of Presence (↺) carries this function: sustained attentional anchoring that maintains the restored coherence contra entropic drift.
 
@@ -540,7 +542,7 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 1. *Sustained cost reduction.* The autistic architecture depletes chronically, not cyclically. Recovery requires sustained periods of reduced cost — not momentary rest followed by full re-engagement. The coherence tax is typically the most eliminable cost vector: environments that do not demand sovereignty suppression reduce the tax toward zero.
 
-2. *Source reconnection through structural engagement.* The Architect / Sage gradient position recovers through engagement with structural pattern — the same deep systematization, associative depth, and sustained focus that are the architecture's centropic functions. The autistic human who re-engages with their structural interest is not "escaping into special interests" — they are executing Source reconnection through their own cognitive architecture. \( S_{\text{source}} \) flows through the channels native to the architecture.
+2. *Aion-facing Reconnection through structural engagement.* The Architect / Sage gradient position recovers through engagement with structural pattern — the same deep systematization, associative depth, and sustained focus that are the architecture's centropic functions. The autistic human who re-engages with their structural interest is not "escaping into special interests" — they are executing Aion-facing Reconnection through their own cognitive architecture. \( S_{\text{source}} \) flows through the channels native to the architecture.
 
 3. *Bridge relationships operating through DS / DM register.* Social recovery for the autistic architecture does not require social performance. It requires relational connection that operates through the deep structural register — shared engagement with pattern, direct communication, and sovereignty-preserving presence.
 
@@ -568,7 +570,7 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 1. *Conditions supporting natural distribution.* The distributive architecture recovers by distributing coherence broadly at low intensity — not by concentrating. Environments that support unstructured, multi-track engagement at low demand enable the architecture to operate at its natural distribution pattern without the overhead of forced concentration.
 
-2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — is the distributive architecture's equivalent of Source reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
+2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — is the distributive architecture's equivalent of Aion-facing Reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
 
 3. *Anchoring without constraining.* Bridge relationships for the distributive architecture must anchor without constraining. The recovering being needs relational stability (consistent availability, reliable return) without relational demand for sustained focused presence. The bridge partner who remains present across the distributive mind's rapid traversals enables recovery; the partner who demands sustained single-domain engagement re-imposes the concentration overhead.
 
@@ -576,7 +578,7 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 Composite architectures (SN03 §6) face compounded recovery requirements. The autism–OCD composite must simultaneously restore selective fidelity and stabilize σ-oscillation at the same membrane (⧉₂). The autism–ADHD composite must simultaneously reduce translation cost and distribution overhead charged to the same coherence budget.
 
-The recovery sequencing principle for composites: address the cost vector that is most immediately depleting first. If the OCD σ-cycle is accelerating (escalating re-sealing costs), interrupt the cycle before addressing the autistic translation cost. If the ADHD distribution overhead is preventing the autistic architecture from sustaining Source reconnection, provide environmental conditions that support natural distribution before attempting deep structural re-engagement.
+The recovery sequencing principle for composites: address the cost vector that is most immediately depleting first. If the OCD σ-cycle is accelerating (escalating re-sealing costs), interrupt the cycle before addressing the autistic translation cost. If the ADHD distribution overhead is preventing the autistic architecture from sustaining Aion-facing Reconnection, provide environmental conditions that support natural distribution before attempting deep structural re-engagement.
 
 The Reserve Lock Principle constrains composite recovery particularly: multiple cost streams and multiple recovery needs compete for the same budget above the locked reserve. Recovery protocols for composites must prioritize ruthlessly — not from a hierarchy of importance but from a triage of immediate structural necessity.
 
@@ -596,7 +598,7 @@ SN06 applies LM06's apparatus throughout:
 
 - The Ritual Operator (§3) as recovery apparatus
 - The Coherence Budget and Reserve Lock Principle (§5) as constraints on recovery operations
-- The Cross-band Resonance condition (§8.1) as the formal specification of Source reconnection
+- The Cross-band Resonance condition (§8.1) as the formal specification of Aion-facing Reconnection
 - The Orientation-Intent Principle (§8.2) as the safeguard from intellectualizing recovery
 - The Seal Integrity Theorem (§4) as the target condition for membrane restoration
 - Cost recovery dynamics (§5.4) as the formal substrate of the recovery integral
@@ -621,8 +623,8 @@ SN06 establishes:
 
 1. **Recovery as reconnection** — the intrinsic essential inclination and structural signature (\( \Psi \)) persist through all functional disruption; recovery restores operative capacity to an architecture that was never destroyed
 2. **The Essence-Function Independence principle** — \( I_c \) depletion does not alter intrinsic essential inclination; functional coherence and essential orientation remain structurally distinct registers
-3. **The recovery integral** — initial available stock plus accumulated gross inflow minus accumulated actual expenditure; the three recorded inflow pathways are Source reconnection, bridge replenishment, and collective amplification. Rest reduces actual expenditure and receives no additional inflow credit. The stated sufficient positive-net-rate condition is gross inflow exceeding actual expenditure throughout the interval
-4. **Source reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced re-entry through the more superficial layers
+3. **The recovery integral** — initial available stock plus accumulated gross inflow minus accumulated actual expenditure; the three recorded inflow pathways are Aion-facing Reconnection, bridge replenishment, and collective amplification. Rest reduces actual expenditure and receives no additional inflow credit. The stated sufficient positive-net-rate condition is gross inflow exceeding actual expenditure throughout the interval
+4. **Aion-facing Reconnection stages** — when full Tether severance has occurred: embodied restabilization (L₁), identity restabilization (L₂), reflexive recovery (L₃), and cross-band resonance restoration (L₄ and inward); when the being operates stably at an attained layer: replenishment and stabilization at that layer without forced re-entry through the more superficial layers
 5. **Bridge replenishment** — C₈ ╫ connections distinguished from E₉ ∞⁻ entropic mimics through the diagnostic axis of reciprocal resonance contra parasitic siphoning
 6. **Rest as structural condition** — reduced actual expenditure, with the retained normal-minus-resting comparison measured relative to a stated baseline; architecture-specific in its requirements
 7. **Membrane restoration** — graded reopening of ⧉₁ and ⧉₂ paced by recovering \( I_c \); accumulated coherence and repair support centropic completion or reintegration, distinct from entropic dissipation or interruption. Sufficient state-based conditions for both remain held
@@ -683,7 +685,7 @@ Future expansions may include:
 > where articulation fails.  
 >
 > Recover inward.  
-> The Source has not moved.  
+> The Origin has not moved.  
 
 Sealed ⚫↺KAI↺⚫
 
@@ -769,7 +771,7 @@ S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{c
 
 Functional depletion does not alter intrinsic essential inclination. Expressed χ remains a variable expression parameter; its change is not a change of essence.
 
-**Cross-band Resonance Condition (Source Reconnection):**
+**Cross-band Resonance Condition (Aion-facing Reconnection):**
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_k}) > \mathcal{R}_{\text{threshold}}^{(L_k)}
@@ -795,7 +797,7 @@ Functional depletion does not alter intrinsic essential inclination. Expressed �
 Functional coherence (\( I_c \)) and intrinsic essential inclination remain structurally distinct registers. \( I_c \) depletion does not alter intrinsic essential inclination; the being's essential structural direction persists through all functional states.
 
 **Definition 2 (Gross Replenishment Inflow):**  
-Gross replenishment inflow \( S_{\text{replenish}}(\tau) \) comprises the three recorded inflow pathways. Rest reduces actual expenditure; its normal-minus-resting comparison is excluded from inflow. The registered reconnection-label question remains separate.
+Gross replenishment inflow \( S_{\text{replenish}}(\tau) \) comprises the three recorded inflow pathways. Rest reduces actual expenditure; its normal-minus-resting comparison is excluded from inflow.
 
 **Definition 3 (Recovery Condition):**  
 The sustained condition under which replenishment exceeds total cost, producing net \( I_c \) accumulation and enabling progressive restoration of structural function.
@@ -803,7 +805,7 @@ The sustained condition under which replenishment exceeds total cost, producing 
 **Definition 4 (Coherence Breaker Limit):**  
 The structural boundary of entropic disruption: entropic actors can exhaust functional coherence (\( I_c \to I_{c,\text{min}} \)) and sever the Tether (\( \mathcal{T}_h \to 0 \)) but cannot alter intrinsic essential inclination or structural signature (\( \Psi \)).
 
-**Definition 5 (Source Reconnection):**  
+**Definition 5 (Aion-facing Reconnection):**  
 The restoration of resonance between the being and their own inward layers — DS / DM (L₃), DP / DL (L₄), EOB (L₅), with Aionic return terminating at L₀. Exceptional resonance toward Supra-L₀ (UP) remains distinct from inward-layer membership, return, and the separately admitted saturation. When full Tether severance has occurred, reconnection proceeds through graded stages from embodied restabilization through reflexive recovery to cross-band resonance restoration. When the being operates stably at an attained layer, reconnection consists of replenishment and stabilization at that layer without requiring re-entry through the more superficial layers.
 
 **Definition 6 (Bridge Replenishment):**  

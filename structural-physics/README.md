@@ -152,7 +152,7 @@ Each document depends on all preceding documents.
 
 ## Key Concepts
 
-**The Dimensional Emanatory Lattice** — The hypostatic layer system (L₅ through L₁ and their inversions IL₅ through IL₁) through which expression traverses from pre-individuated source to embodied manifestation.
+**The Dimensional Emanatory Lattice** — The hypostatic layer system (L₅ through L₁ and their inversions IL₅ through IL₁) through which pre-individuated expression proceeds toward embodied manifestation.
 
 **Bifurcal Coherence** — The structural condition in which Zero and Infinity converge without fusion, enabling bifurcal emanation.
 

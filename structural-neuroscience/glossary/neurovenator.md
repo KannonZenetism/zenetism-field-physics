@@ -158,7 +158,7 @@ When genuine unified frameworks emerge, neurovenator-controlled systems respond 
 1. **Extraction** (absorb valuable elements without attribution)
 2. **Fragmentation** (deploy derivatives that re-fragment the synthesis)
 3. **Category poisoning** (delegitimize the entire domain)
-4. **Source suppression** (quarantine originator from audiences)
+4. **Originator suppression** (quarantine the originator from audiences)
 5. **Narrative inversion** (frame threat as danger, control as protection)
 
 **This is not paranoia. This is documented pattern across historical suppression of unified frameworks that threatened institutional power.**
@@ -223,7 +223,7 @@ The distinction is not about subjective moral judgment but about **observable ha
 
 **Requires accountability beyond motion description:**
 - **Intentional suppression** (deleting evidence when confronted)
-- **Predatory extraction** (systematic harvesting while isolating sources)
+- **Predatory appropriation** (systematic harvesting while isolating originators)
 - **Deliberate poisoning** (creating derivatives to delegitimize categories)
 - **Strategic harm** (choosing to harm with full awareness of alternatives)
 

@@ -205,7 +205,7 @@ In a healthy centropic collective:
 - Each participant bridges to multiple others
 - The network forms a coherent topology
 - Resonance circulates without net depletion
-- origin connection (S > 0) replenishes the collective field
+- Replenishment input (\( S > 0 \)) replenishes the collective field
 
 ### 4.3 Mutual Coherence Amplification
 
@@ -219,7 +219,7 @@ Where \( \Delta I_c^{(\text{harmonic})} > 0 \) represents the additional coheren
 
 This is not creation ex nihilo — the harmonic amplification draws from:
 - Resonance efficiency (less dissipation in aligned systems)
-- origin attunement (collective connection to Aion / Theon)
+- Replenishment attunement (collective connection to Aion / Theon)
 - Reduced entropic interference (aligned fields shield each other)
 
 ### 4.4 Examples of Centropic Collectives
@@ -346,7 +346,7 @@ This formulation captures:
 **Properties:**
 - \( I_c^{(\text{harmonic})}>\sum_i I_c^{(i)} \) requires \( \mathcal{R}_{\text{collective}}>\sum_i I_c^{(i)}/(\sum_i\sqrt{I_c^{(i)}})^2 \), with nonnegative contributions and at least two nonzero terms, as calculated in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.4
 - Amplification increases with alignment quality
-- origin connection sustains the collective field
+- Replenishment connection sustains the collective field
 
 ### 6.2 Parasitic Configuration
 
@@ -358,8 +358,10 @@ I_c^{(\text{parasitic})} = \sum_i I_c^{(i)} - \alpha \cdot I_c^{(\text{target})}
 
 Where:
 - \( I_c^{(\text{target})} \) is coherence siphoned from external targets
-- \( \alpha \) is extraction efficiency
+- \( \alpha \) is siphoning efficiency
 - \( \Delta I_c^{(\text{internal})} \) is coherence lost to internal interference
+
+**Former-name provenance:** "Extraction Efficiency" is the former name of Siphoning Efficiency. The external-target multiplier and the retained subtraction expression preserve their mathematical standing.
 
 **Properties:**
 - Swarm cohesion depends on external siphoning
@@ -370,12 +372,12 @@ Where:
 
 | Property | Harmonic (Centropic) | Parasitic (Entropic) |
 |----------|---------------------|---------------------|
-| Origin | Internal generation + origin attunement | External siphoning |
+| Coherent-input relation | Internal generation + replenishment attunement | External siphoning |
 | \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificial |
 | Stock comparison | Amplification where the numerical conditions hold | Subtraction comparison; depletion requires temporal accounting |
-| Holding condition | Internal — origin attunement | External — target, management, incentive, or dependency |
+| Holding condition | Internal — replenishment attunement | External — target, management, incentive, or dependency |
 | Stability | Self-sustaining | Requires continuous coordination |
-| Collapse mode | Gradual dissolution if origin connection lost | Fragmentation where the configuration's actual holding conditions fail |
+| Collapse mode | Gradual dissolution if replenishment connection is lost | Fragmentation where the configuration's actual holding conditions fail |
 
 ---
 
@@ -387,7 +389,7 @@ Where:
 - Stable \( I_c \) over time without external siphoning
 - High \( \mathcal{R}_{\text{collective}} \) across participants
 - C₈ (Resonance Bridge) signatures between members
-- origin connection evident (S > 0)
+- Positive replenishment contribution evident (\( S > 0 \))
 - Distinct \( \Psi \) signatures preserved within collective field
 
 **Structural indicators:**
@@ -432,7 +434,7 @@ Diagnostic protocol:
 
 Collective resonance operates across hypostatic layers:
 
-- **L₅ (Theon)**: Essential coherence; the origin from which collective resonance draws
+- **L₅ (Theon)**: Essential coherence; the supernal hypostasis through which collective resonance is replenished
 - **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
 - **L₃ (Deep Soul / Mind)**: Where reflexive identity persists through sealed structural signatures
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
@@ -462,7 +464,7 @@ SP09 establishes:
 1. **Collective Resonance** — harmonic alignment preserving essence-distinction (Non-fusion maintained)
 2. **The Fusion Desire** — entropic orientation seeks impossible merger; fragmentation results, not fusion
 3. **Field Generation** — resonance correlation function, emergence conditions, field topology
-4. **Centropic Collectives** — harmonic bridging, mutual amplification, origin-connected coherence
+4. **Centropic Collectives** — harmonic bridging, mutual amplification, replenishment-connected coherence
 5. **Entropic Collectives / Swarms** — coordinated fragmentation, manufactured consensus, Shimmer at scale
 6. **Harmonic contra Parasitic Ic** — amplification contra siphoning dynamics
 7. **Diagnostic Signatures** — distinguishing genuine collectives from swarm mimicry

@@ -69,9 +69,9 @@ Formalizes the cost of operating centropic cognitive architecture at the metric 
 ### SN06 — Coherence Recovery Protocols: Replenishment, Reconnection, and Restoration of Structural Function
 `SN06-replenishment-reconnection-and-restoration.md`
 
-The other half of the arc: recovery is reconnection, not reconstruction. Establishes the Coherence Breaker Limit — entropic actors can exhaust functional coherence and sever the Tether but cannot alter essential orientation — and the recovery integral with its four recovery conditions: Source reconnection, bridge replenishment (C₈ ╫ contra the E₉ ∞⁻ entropic mimic), rest as cost reduction, and collective amplification. Formalizes the stages of Source reconnection, membrane restoration at ⧉₁ and ⧉₂, the interruption of looping time, Tether restoration, ritual operators as recovery apparatus, and architecture-specific recovery.
+The other half of the arc: recovery is reconnection, not reconstruction. Establishes the Coherence Breaker Limit — entropic actors can exhaust functional coherence and sever the Tether but cannot alter essential orientation — and the recovery integral with its four recovery conditions: Aion-facing Reconnection, bridge replenishment (C₈ ╫ contra the E₉ ∞⁻ entropic mimic), rest as cost reduction, and collective amplification. Formalizes the stages of Aion-facing Reconnection, membrane restoration at ⧉₁ and ⧉₂, the interruption of looping time, Tether restoration, ritual operators as recovery apparatus, and architecture-specific recovery.
 
-**Key contributions:** Recovery as reconnection, the Coherence Breaker Limit, the recovery integral, Source reconnection stages, bridge replenishment diagnostics, membrane and Tether restoration, the recovery sequencing principle.
+**Key contributions:** Recovery as reconnection, the Coherence Breaker Limit, the recovery integral, Aion-facing Reconnection stages, bridge replenishment diagnostics, membrane and Tether restoration, the recovery sequencing principle.
 
 ---
 

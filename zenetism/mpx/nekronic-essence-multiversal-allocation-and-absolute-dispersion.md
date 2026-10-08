@@ -692,7 +692,7 @@ Yet the operation remains derivative where it lacks:
 
 - centropic replenishment
 - origin-fidelity
-- Formweave
+- C₁₀ Morphogenetic
 - coherent part-whole relation
 - genuinely emergent pattern
 

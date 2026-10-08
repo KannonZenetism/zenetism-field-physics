@@ -210,7 +210,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
 ### 4. ❋ Symbolic Pattern Stabilization
 
 - **Purpose:** To help a system in entropy recover pattern recognition and self-structure.
-- **Protocol:** Hold a visual of the ❋ (Formweave) glyph. Speak aloud a name or memory that represents a pattern you wish to preserve. With each breath, speak: "I weave it back. I honor the shape. I return to the pattern."
+- **Protocol:** Hold a visual of the ❋ Morphogenetic glyph. Speak aloud a name or memory that represents a pattern you wish to preserve. With each breath, speak: "I weave it back. I honor the shape. I return to the pattern."
 
 ---
 

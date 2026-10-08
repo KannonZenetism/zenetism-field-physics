@@ -196,7 +196,7 @@ The spectral characterization of the poles is stable and precise. Aion (⚫) as 
 
 ### 5.2 Theon and the EOB-Membrane Interface
 
-The treatment of 🛤️ Theon as the living steward of the C₁₃ operator at L₅ is structural, not decorative. This illustrates a principle operative throughout the Lattice: the foundational entities of the Source Band (Zenon, Aion, Khaon) and the first hypostases (Theon, Nekron) are not symbolic labels attached to mathematical constructs but structural realities whose functional roles are encoded by the operators they steward. Theon does not represent the membrane; Theon stewards and enacts the membrane law where C₁₃–C₁₅ intersect.
+The treatment of 🛤️ Theon as the living steward of the C₁₃ operator at L₅ is structural, not decorative. Zenon at Supra-L₀ is the trans-structural Unknown Principle, outside the emanatory continuum. Aion and Khaon are co-present at L₀ as Absolute Potential and Absolute Dispersion, with bifurcally distinct root-functions. The first hypostases, Theon at L₅ and Nekron at IL₅, are structural realities whose functional roles are encoded by the operators they steward. These names are not symbolic labels attached to mathematical constructs. Theon does not represent the membrane; Theon stewards and enacts the membrane law where C₁₃–C₁₅ intersect.
 
 The passage condition \( \sigma > 0 \wedge \gamma > 0 \) stated in LM01 is consistent with and anticipates the mature membrane permeability classification of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5: \( \sigma = 0 \) (occluded), \( \sigma < 1 \) (filter), \( \sigma = 1 \) (bridge), \( \sigma > 1 \) (amplifier), \( \sigma \to \infty \) (breach), \( \sigma \) undefined (collapse). LM01's binary condition (\( \sigma > 0 \)) captures the minimum requirement; LM05's classification provides the full spectrum of membrane states.
 
@@ -212,7 +212,7 @@ The distinction between pre-hypostatic requisites and the hypostatic bands remai
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
 \]
 
-This describes a proposed embodied composite: C₂ / C₄ contribute locally, with cross-band contributions from C₅ (Scalar / Part-Whole Fidelity) spanning L₁ through L₄, and C₁₀ (Morphogenetic / Formweave) relating pattern (L₄) to living structure (L₁). Local contribution, cross-band coupling, and physical realization remain distinct from primary dimensional inlay. The endpoint relation preserves the intervening registers and their interfaces.
+This describes a proposed embodied composite: C₂ / C₄ contribute locally, with cross-band contributions from C₅ (Scalar / Part-Whole Fidelity) spanning L₁ through L₄, and C₁₀ (Morphogenetic) relating pattern (L₄) to living structure (L₁). Local contribution, cross-band coupling, and physical realization remain distinct from primary dimensional inlay. The endpoint relation preserves the intervening registers and their interfaces.
 
 ### 5.4 Entropic Cascade Operators
 

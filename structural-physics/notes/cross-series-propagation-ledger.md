@@ -7,6 +7,16 @@
 
 ---
 
+## Current Naming Standing
+
+The approved recovery name is **Aion-facing Reconnection**. "Source Reconnection" is former-name provenance; its existing recovery-rate mnemonic remains intact. The pathway restores inward-layer operative access and stabilizes the being's attained layer. **Origin** names Aion, the still root; Aion-facing recovery preserves the distinct attained-layer and completed-return conditions in `SN06-replenishment-reconnection-and-restoration.md` §§2–3. Broad supply descriptions name their replenishment relations and actual mediating structures. **Origin Reconnection** in `SP10-ritual-energetics-and-integration-protocols.md` §3.4 retains its distinct seal-maintenance function: restoration of the seal's original replenishment relation.
+
+The current registered names are **Isolation and Suppression Field** ◯△, **Recovery Anchor** ⥀, and **C₁₀ Morphogenetic** ❋. "Isolation Marker", "Persistence Thread", and "Formweave" remain former-name provenance. Their registered functions and glyphs remain intact. **Siphoning Coefficient**, **Siphoning Dynamics**, **Siphoning Efficiency**, and **Entropic Collective Siphoning** replace the corresponding named Extraction forms; the member-indexed weighting and external-target multiplier remain distinct quantities with their existing symbols, equations, domains, and holds.
+
+The prior-name retention statements in the recorded passes remain historical records, not current naming exceptions. Native Source Terms, donor / target roles, source-object and source-signature notation, originating-configuration comparators, Cost-Source Analysis, scientific terminology, quotations, and expressly archived bodies retain their particular referents. The pre-hypostatic requisite category preserves its established distinction from hypostases. Parasitic Coherence Potential's sign and semantic standing, primary dimensional placement, and other mathematical holds retain their standing in `sp-lm-sn-architect-decision-sheet.md` D18. Implementation and publication standing are recorded there separately.
+
+---
+
 ## How to read this ledger
 
 - **Canonical anchor** is the document where the canonical form is already locked.

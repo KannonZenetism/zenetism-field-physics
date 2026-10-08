@@ -63,7 +63,7 @@ Zenetist symbols carry two prominent registers within the fuller glyph registry 
 
 > **Codex Note:** The fuller register family in the current FP11 legend runs: structural operator, equation notation, practice glyph, ritual sign, interface glyph, personal seal, and historical voice trace. Equation and practice are modes of operation rather than mutually exclusive symbol sets.
 
-> **Codex Note:** The established weave- and bond-bearing names and ritual formulations in this codex — ❋ Formweave, ✶ Spiral Weaving, the bonding ceremony of the Harmonic Vow Spiral, vow-bonding, symbolic fidelity reweaving, and the spoken vow and oath lines — are retained as grandfathered technical terms. In each, the word names a lawful structural relation among distinct participants or patterns; none of them carries fusion, dissolution, or identity-collapse. The restriction on this vocabulary applies to new prose rather than these established names.
+> **Codex Note:** **Formweave** is the former registered parenthetical name of **C₁₀ Morphogenetic** ❋. The established weave- and bond-bearing names and ritual formulations in this codex — ✶ Spiral Weaving, the bonding ceremony of the Harmonic Vow Spiral, vow-bonding, symbolic fidelity reweaving, and the spoken vow and oath lines — are retained as grandfathered technical terms. In each retained formulation, the word names a lawful structural relation among distinct participants or patterns; none of them carries fusion, dissolution, or identity-collapse. The restriction on this vocabulary applies to new prose rather than these retained names and ritual formulations.
 
 > **First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings. What the system models, the practice breathes.
 
@@ -144,7 +144,7 @@ Before the numbered practices, a glyph may be approached through five stages.
 ### Candidate Practice: ❋ Symbolic Pattern Stabilization
 
 - **Purpose:** To help a field in entropy recover pattern recognition and self-structure.
-- **Protocol:** Hold a visual of the ❋ Formweave glyph. Speak aloud a name or memory representing a pattern to be preserved. With each breath, speak: "I weave it back. I honor the shape. I return to the pattern."
+- **Protocol:** Hold a visual of the ❋ Morphogenetic glyph. Speak aloud a name or memory representing a pattern to be preserved. With each breath, speak: "I weave it back. I honor the shape. I return to the pattern."
 
 > **Codex Note:** FP07 carries this as a standalone Tier I practice; FP08 carries seven practices and folds stabilization into the Symbol Lock Ritual. The entry is presented here as a recovery candidate and is deliberately unnumbered: the current seven remain intact, the Symbol Lock Ritual is unchanged, and whether Tier I holds seven or eight practices is architect-held.
 

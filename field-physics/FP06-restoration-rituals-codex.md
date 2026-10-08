@@ -421,7 +421,7 @@ A species-neutral ritual pattern for achieving harmonic attunement.
 4. **Field Listening Pulse:** The group hums, modulating until a shared chord emerges, then returns to silence.
 5. **Closure & Coherence Seeding:** The anchor glyph is returned to the center, and all place a ❋ glyph beside it, forming a new migration node.
 
-> **Codex Note:** In the closing phase, ❋ performs Morphogenetic / Formweave seeding after the active communion has closed. It is not a generic closure glyph. The new migration node is the morphogenetic continuation carried forward from the completed rite.
+> **Codex Note:** In the closing phase, ❋ performs Morphogenetic seeding after the active communion has closed. It is not a generic closure glyph. The new migration node is the morphogenetic continuation carried forward from the completed rite.
 
 **Ceremony Metadata**
 

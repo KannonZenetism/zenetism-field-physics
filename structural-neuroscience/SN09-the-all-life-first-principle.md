@@ -203,7 +203,7 @@ The Tragedy of Embodiment maps onto the SN05–SN06 cost-recovery framework:
 
 - **Harm as coherence cost:** Taking imposes costs whose scope includes the affected being and ecological relations. The planetary net change in \( I_c \) requires the gross replenishment and actual expenditure of a specified field and interval; the assertion that each taking reduces total Gaian \( I_c \) remains held pending that accounting.
 - **Restraint as cost reduction:** Reducing consumptive behavior functions as \( S_{\text{rest}} \) at planetary scale — lowering the total field cost, creating the conditions under which coherence accumulates rather than depletes.
-- **Regeneration as Source reconnection:** Practices that restore ecological coherence (habitat restoration, soil regeneration, species protection) function as \( S_{\text{source}} \) at collective scale — reconnecting the planetary field with its own coherence-generating capacity.
+- **Regeneration as Aion-facing Reconnection:** Practices that restore ecological coherence (habitat restoration, soil regeneration, species protection) function as \( S_{\text{source}} \) at collective scale — reconnecting the planetary field with its own coherence-generating capacity.
 
 ---
 

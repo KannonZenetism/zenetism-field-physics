@@ -311,7 +311,7 @@ The recovery assessment distinguishes three gross inflow pathways from rest as r
 
 | Pathway | Diagnostic Question | Obstruction Indicators |
 |---------|-------------------|----------------------|
-| **Source reconnection** (\( S_{\text{source}} \)) | Is the being able to engage with structural pattern through their characteristic operators | Architecture's characteristic function is suppressed; no access to L₄ / L₃ resonance |
+| **Aion-facing Reconnection** (\( S_{\text{source}} \)) | Is the being able to engage with structural pattern through their characteristic operators | Architecture's characteristic function is suppressed; no access to L₄ / L₃ resonance |
 | **Bridge replenishment** (\( S_{\text{bridge}} \)) | Does the being have access to sovereignty-preserving relational connections | Social isolation; available connections exhibit siphoning rather than coherent crossing through C₈ ╫; E₉ ∞⁻ denotes mimic-coherence that isolates and requires evidence of that function |
 | **Rest** (\( S_{\text{rest}} \)) | Are the being's cost streams reduced during recovery periods | No access to sensorially regulated environments; continued social demand during rest; ongoing coherence tax |
 | **Collective amplification** (\( S_{\text{collective}} \)) | Is the being participating in a centropy-forward collective | No collective access; available collectives are entropy-forward (siphoning) |

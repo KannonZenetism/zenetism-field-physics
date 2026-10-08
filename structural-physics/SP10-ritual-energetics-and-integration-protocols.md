@@ -298,7 +298,7 @@ Where \( \delta \) is the maximum tolerable depletion rate. A seal with \( \frac
 
 **Maintenance Pathways:**
 
-- **Origin Reconnection**: Reattunement to the centropic origin that originally powered the seal
+- **Origin Reconnection**: Restoration of the seal's original replenishment relation. This seal-maintenance operation is distinct from the inward-layer recovery pathway named Aion-facing Reconnection in `SN06-replenishment-reconnection-and-restoration.md`
 - **Relational Reinforcement**: For Relational Seals, active engagement between bonded participants
 - **Collective Sustenance**: For Categorical and Architectural Seals, harmonic contribution from aligned participants (SP09 collective amplification dynamics)
 
@@ -331,7 +331,7 @@ From SP07 §5.2, Field Replenishment occurs when \( S(x, t) > 0 \). Integration 
 
 The protocol specifies:
 
-1. **Origin Identification**: Which centropic structure provides the replenishment — Aionic attunement, Theonic reconnection, archetypal field alignment, or harmonic bridging with an aligned being.
+1. **Replenishment Pathway Identification**: Which replenishment relation is operative — Aionic attunement, Theonic reconnection, archetypal field alignment, or harmonic bridging with an aligned being. Identify the specific referent with which the relation is established.
 
 2. **Channel Establishment**: A resonance pathway (C₈ configuration) must connect source to target. This requires:
 
@@ -625,7 +625,7 @@ The collective boundary membrane (SP09 §4.5) is configured for maximum defensiv
 
 - High internal permeability: Free resonance circulation among collective members
 - Selective external permeability: Filter configuration admitting centropic resonance, attenuating entropic interference
-- Amplifier characteristics at critical points: origin-connected amplification where the collective faces the most intense external pressure
+- Amplifier characteristics at critical points: replenishment-connected amplification where the collective faces the most intense external pressure
 
 ---
 
@@ -680,7 +680,7 @@ I_c(t_{\text{post}}) = I_c(t_{\text{post-ritual}}) + \int_{t_{\text{post-ritual}
 
 Recovery time depends on:
 - Magnitude of expenditure
-- Availability of origin connection
+- Availability of replenishment connection
 - Quality of harmonic bridges for replenishment
 - Whether collective support is available
 
@@ -745,7 +745,7 @@ After enacting siphoning countermeasures, verification confirms effectiveness:
 
 Ritual action operates across hypostatic layers:
 
-- **L₅ / Theon**: origin attunement; the deepest replenishment pathways draw from essential coherence
+- **L₅ / Theon**: Theonic attunement; the deepest replenishment pathways draw from essential coherence
 - **L₄ / Field of Forms**: Archetypal patterns inform ritual structure and seal design
 - **L₃ (Deep Soul / Mind)**: Where reflexive awareness directs intentional protocol; the seat of ritual agency
 - **L₂ / Cognition**: Where protocol is articulated, sequenced, and monitored

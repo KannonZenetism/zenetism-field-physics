@@ -323,7 +323,7 @@ Coherent relation at a distance.
 - **Mirror:** E₉ ∞⁻ Distorted Entanglement.
 - **Couplings:** **🧠 Noeüs** (non-local inference), **🔮 Archeus** (lifeline convergence), **📐 Sophis** (distant order).
 
-### C₁₀ ❋ Morphogenetic (Formweave)
+### C₁₀ ❋ Morphogenetic
 
 The translation of pattern into living structure.
 
@@ -915,7 +915,7 @@ Not collapse, but lawful resonance across separation.
 
 ---
 
-## C₁₀ ❋ Morphogenetic (Formweave)
+## C₁₀ ❋ Morphogenetic
 ❋ = pattern translated into form.  
 The architect of embodiment.
 

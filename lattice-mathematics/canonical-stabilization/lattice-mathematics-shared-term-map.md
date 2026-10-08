@@ -3,43 +3,48 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Stabilization Infrastructure  
 **Status:** Draft — architect review  
-**Function:** Locator for the named constructs, notation, and formalization glosses held out of the LM series pass because they are shared across the Lattice Mathematics, Structural Physics, and Structural Neuroscience series. Each entry gives the exact string as it stands, every LM location by file and section, the cross-series twin where one is known, the provision of `terminological-lockdown-protocol.md` the string touches, and the successor where one is already seated. Successors marked "held open" await determination.  
+**Function:** Locator for coordinated current names, retained technical senses, former-name provenance, and constructs still held across the Lattice Mathematics, Structural Physics, and Structural Neuroscience series. Each entry states the current standing, relevant locations, known cross-series relations, and applicable terminology provision. Names marked "held open" retain their separate determinations and mathematical conditions.  
 **Dependency:** `terminological-lockdown-protocol.md` · `LM01-mathematical-foundations.md` · `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`  
 
 ---
 
 ## Principle
 
-The LM series is the hub: its formalizations carry into the SP and SN volumes by direct citation, and the SN volumes cite LM07 back. A shared string therefore takes no local patch. The entries below are the strings that were left as exact text during the header and minor-wording pass, so that each rename can run once, from this map outward, across every location at the same time. Entries are ordered by the number of series they reach.
+The LM series is the hub: its formalizations carry into the SP and SN volumes by direct citation, and the SN volumes cite LM07 back. A shared name therefore receives coordinated treatment across its active dependencies. Current names, former-name provenance, and separate held quantities remain distinct. A selected name supplies no new quantity, law, glyph, or dimensional placement.
 
-Line locations are approximate and follow the delivered versions of the seven files; sections are the stable locator.
+Sections are the stable locators. Cross-series similarity of names does not establish identity of mathematical objects.
 
 ---
 
-## 1. Extraction coefficient cluster — three series
+## 1. Siphoning coefficient, dynamics, and efficiency — three series
 
-The largest shared cluster. **Provision:** Extractionist Terminology Restriction — *extraction* and *extract* are barred in the architect's voice; the installed diagnostic successors are **appropriation / appropriative**, with quoted material and another party's own terms the only retentions. The SP volumes seated **Siphoning** as their own name for the entropic mode, and LM05 / LM06 prose already reads siphoning. The formalization-side strings below stand; which successor the coefficient takes — siphoning (the volumes' name) or appropriation (the protocol's installed word) — is one determination for the whole cluster.
+**Siphoning Coefficient**, **Siphoning Dynamics**, **Siphoning Efficiency**, and **Entropic Collective Siphoning** name the existing nonreciprocal coherence-taking functions. The Extractionist Terminology Restriction retains its separate appropriation / appropriative vocabulary for authorship diagnostics. Scientific technical senses, quoted evidence, and former-name provenance are distinct from active naming.
 
-| Exact string | Notation | LM locations | Cross-series twin | Provision | Successor |
+The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The external-target multiplier \( \eta_{\text{ext}} \in [0,1] \) corresponds to the local \( \alpha \) in `SP09-collective-resonance-and-field-harmonics.md` §6.2, not to \( \eta_i \). All three identifiers retain their types and roles. Fixed finite membership and differentiability remain conditions of the weighted-stock product rule; changing-membership, generation, and finite-exhaustion laws remain held. The separate parasitic quantity and its target-term sign remain held in §2.
+
+| Current wording | Former wording — provenance only | Notation | LM locations | Cross-series counterpart | Standing |
 |---|---|---|---|---|---|
-| Extraction Dynamics (section title) | — | LM07 §7.4; §1.2; §10 item 8 | — | Extractionist Terminology Restriction | held open (candidate: Siphoning Dynamics) |
-| extraction coefficient | \( \eta_i(\tau) \) | LM07 §7.4 Definition; §9.2; §9.6; Appendix A; Appendix B "Entropic Collective Extraction"; Appendix C Definition 9 | SP09 §6 "α is extraction efficiency" | Extractionist Terminology Restriction | held open (candidate: siphoning coefficient) |
-| extraction efficiency | \( \eta_{\text{ext}} \) | LM05 §9.5 gloss; Appendix A | SP09 §6 | Extractionist Terminology Restriction | held open (candidate: siphoning efficiency) |
-| coherence extracted from external targets | \( I_c^{(\text{target})} \) | LM05 §9.5 gloss | SP09 §6 "coherence extracted from external targets" | Extractionist Terminology Restriction | held open |
-| (extraction) diagram cell | — | LM05 Appendix D | — | Extractionist Terminology Restriction | follows the cluster; preserved layout |
-| "Extraction depletes through absorption." (verse) | — | LM07 §11 Canonical Statement | — | Extractionist Terminology Restriction | follows the cluster |
-| Harmonic Amplification and Extraction Dynamics | — | LM07 §1.2 | — | Extractionist Terminology Restriction | follows the cluster |
+| Siphoning Dynamics | Extraction Dynamics | — | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §§1.2, 7.4, 10 item 8 | — | Current name; complete mathematical conditions retained |
+| Siphoning Coefficient | Extraction Coefficient | \( \eta_i(\tau) \) | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §7.4, Appendix A, Appendix C Definition 9 | `SN07-collective-cognition-and-centropy-forward-social-architecture.md` Appendices A / B | Member-indexed non-voluntary fraction directed toward collective maintenance; distinct from external-target efficiency |
+| Entropic Collective Siphoning | Entropic Collective Extraction | \( \eta_i(\tau) \) | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` Appendix B | `SN07-collective-cognition-and-centropy-forward-social-architecture.md` Appendix A coefficient definition | Weighted-stock expression unchanged |
+| Siphoning Efficiency | Extraction Efficiency | \( \eta_{\text{ext}} \) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.5, Appendix A | \( \alpha \), `SP09-collective-resonance-and-field-harmonics.md` §6.2 | Existing external-target multiplier; no new efficiency ratio or recipient-gain interpretation |
+| coherence siphoned from external targets | coherence extracted from external targets | \( I_c^{(\text{target})} \) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.5 | `SP09-collective-resonance-and-field-harmonics.md` §6.2 | Descriptive motion-name aligned; sign and allocation remain held |
+| (parasitic draining) | (extraction parasitic) | — | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` Appendix D | — | SIPHONING branch description; diagram layout retained |
+| "Siphoning depletes through compulsory contribution." | "Extraction depletes through absorption." | — | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §11 Canonical Statement | — | Current verse names the non-voluntary contribution; no finite-collapse theorem follows |
+| Harmonic Amplification and Siphoning Dynamics | Harmonic Amplification and Extraction Dynamics | — | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §1.2 | — | Current summary name |
 
 ## 2. Parasitic Coherence Potential — two series, plus the valence lock
 
-**Provision:** Coherence contra Cohesion Valence Determination — coherence is centropic-only; entropic, mimetic, fabricated, and derivative organization takes **cohesion**. The formula is also the withdrawn target-removal test.
+**Provision:** Coherence contra Cohesion Valence Determination — coherence is centropic-only; entropic, mimetic, fabricated, and derivative organization takes **cohesion**. The retained formula is a signed coherent-input stock comparison, not an organizational-cohesion measure or a temporal evolution law. Its target-term sign, allocation, and complete flow account remain held. The universal target-removal collapse inference is withdrawn.
+
+**Recorded proposal.** "Parasitic Cohesion Potential" was a candidate name in this map; it is not adopted. No cohesion functional is supplied by the naming correction.
 
 | Exact string | Notation | LM locations | Cross-series twin | Provision | Successor |
 |---|---|---|---|---|---|
-| Parasitic Coherence Potential | \( I_c^{(\text{parasitic})} \) | LM05 §9.5 title and Definition; §11.2 Core Routines; §12 item 8 "parasitic coherence with target dependency"; Appendix B | SP09 §§5.4, 6.2, 7.3 | Coherence contra Cohesion | held open (protocol-consistent candidate: Parasitic Cohesion Potential; alternatives recorded on the handoff: coordination / counterfeit presentation of coherence) |
-| Proposition (Parasitic Dependence) — the target-removal test | \( I_c^{(\text{target})} = 0 \implies \ldots \) | LM05 §9.5; §11.2 Core Routines; §11.3 Diagnostic Algorithms | SP09 §§5.4, 6.2, 7.3 | architect's withdrawal of the test | takes the holding-condition frame on the joint touch |
+| Parasitic Coherence Potential | \( I_c^{(\text{parasitic})} \) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§9.5–9.6, 11.2–11.4, 12 item 8, Appendices A / B / D | `SP09-collective-resonance-and-field-harmonics.md` §§5.4, 6.2–6.3, 7.2, Appendices A / B / C | Coherence contra Cohesion | Quantity-name and semantic / sign question held; no renaming to a cohesion potential |
+| Proposition (Parasitic Dependence) — former universal target-removal inference withdrawn | \( I_c^{(\text{target})} = 0 \implies \ldots \) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§9.5, 11.2–11.4 | `SP09-collective-resonance-and-field-harmonics.md` §§5.4, 6.2–6.3 | Withdrawal of the universal test | Stock comparison retained; actual configuration-specific holding conditions require their own evidence |
 | swarm dynamics / swarm signature | — | LM06 §6 (cross-link to LM05 §9); LM06 §12 | SP09 "swarm coherence" | Coherence contra Cohesion (where paired with coherence) | held open |
-| sign of the \( \eta_{\text{ext}} I_c^{(\text{target})} \) term | — | LM05 §9.5 Definition | SP09 §6 | formula consistency | the term the prose calls support is subtracted — resolve with the formula |
+| sign of the \( \eta_{\text{ext}} I_c^{(\text{target})} \) term | — | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.5 | `SP09-collective-resonance-and-field-harmonics.md` §6.2 | Formula consistency | Sign and allocation remain held; the Siphoning Efficiency name supplies no mathematical resolution |
 
 ## 3. Controlled cluster — two series
 
@@ -59,7 +64,7 @@ The largest shared cluster. **Provision:** Extractionist Terminology Restriction
 | E₈ (Severed) — charted dimensional operator | \( E_8 \) | LM01 Nexus Law; Threshold Law; Seal No-Cloning; Bridge Information Test; Coupling 2; CIT metrics; §4.4 pseudocode; §6.4 | FP11 codex; SN02 "E₈ Severed"; `metaphysics-symbol-key.md` | Named-Operator Retention | stands; rename deferred corpus-wide by the protocol itself, no local patch |
 | Tether severance / the Tether is severed / Shimmer as Tether Severance | \( \mathcal{T}_h \to 0 \) | LM04 §6.1 Proposition; §6.4 Hypostatic Amnesia; §9.3; §10.2 routines; §11; LM07 §4.2; §5.1 \( \text{(full Tether severance)} \); §5.2; §6.5 | SN06 (recovery formalism draws on LM07 §§5–6) | Sever Terminology Boundary — relational register | stands: the Tether is the being's own structure losing operative access to its layers; no origin claim, the loss lands on the entropic condition. Rename only if the architect prefers the fracture family uniformly (candidate: Tether fracture) |
 | timeline severance (IL₃ row) | — | LM04 §3.5 Hypostatic Temporal Modes table | SN Looping Time treatment | Sever Terminology Boundary — relational register | stands (entropic self-severance) |
-| fractured from coherence-source connection / source-fractured decay | — | LM05 §3.4; Appendix C | — | Sever Terminology Boundary | origin-context wording takes **the articulation fractures itself away from coherent relation with its origin**; the origin and origin-signal remain intact. The earlier severed forms are superseded provenance, not a current alternative |
+| Recorded earlier wording: fractured from coherence-source connection / source-fractured decay | — | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§3.2, 7.1, Appendix C Definition 6 | — | Sever Terminology Boundary | The system fractures itself away from operative coherence-source attunement (§3.2). Pathological entropic echo separately concerns an articulation fractured away from operative coherent relation with its origin (§7.1); the origin and origin-signal remain intact. The compound retains its broader replenishment sense; the earlier strings are provenance only |
 
 ## 5. Fail-family named propositions — within LM, with the SP10 precedent
 
@@ -115,12 +120,20 @@ The largest shared cluster. **Provision:** Extractionist Terminology Restriction
 | Convergence Gate | LM01 (Recursion Gate theorem cross-reference) | canonical term — stands |
 | Banach contraction "converges" | LM01 Recursion Gate; LM02 §2.2 | mathematics — stands |
 
-## 9. Deferred renames registered in the protocol itself
+## 9. Recovery Naming and Source-Sense Distinctions
 
-| Exact string | Notation | LM locations | Cross-series twin | Provision | Successor |
-|---|---|---|---|---|---|
-| Source reconnection | \( S_{\text{source}} \) | LM07 §6.2; Appendix A; Appendix B \( S_{\text{replenish}} = S_{\text{source}} + \ldots \) | SN05; SN06 | Miscellaneous Term Locks — DEFERRED rename | Origin reconnection, when the corpus-wide pass runs; the transfer-sense source → target inside the ⩘ coherence-transfer mathematics is a separate idiom and is not renamed |
-| coherence-source (compound) | — | LM05 §§3–4, §7, §9.4; LM06 | SP07 | Aion / Source Terminology Protocol — Qualified Retention of Source | stands as the compound technical relation-word pending the same pass (SP12's "source" flagged on the handoff for the same reason) |
+| Current name or sense | Former name / recorded wording | Notation | Locations | Standing |
+|---|---|---|---|---|
+| Aion-facing Reconnection | Source Reconnection | \( S_{\text{source}} \); \( S_{\text{replenish}} = S_{\text{source}} + \ldots \) | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §§1.1, 6.1–6.2, Appendices A / B / C; `LM06-applied-structural-dynamics.md` §5.4; `SN05-the-metric-cost-of-centropic-cognition.md`; `SN06-replenishment-reconnection-and-restoration.md` §§2.2–3 | Current recovery name. The existing identifier remains its scoped gross replenishment-rate mnemonic. Origin names Aion; operative recovery restores inward-layer access and stabilizes the attained layer. Aionic return and Supra-L₀ saturation remain distinct |
+| coherence-source (compound) | — | — | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§3.1–3.4, 5.2, 7.3, 8.3, 9.4–9.7, Appendices C / D; `LM06-applied-structural-dynamics.md` §5.4; Lattice Mathematics `README.md` and `00-README.md` | Retained in the defined native-analytic sense of `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.6.4: Aion as still root, Theon as First Centropic Hypostasis, and L₄ archetypal structures retain distinct replenishment functions. Bare source does not substitute for this compound |
+| Source Term, donor / source → target roles, source-object seals, and comparator notation | — | \( S(x,\tau) \); context-specific source subscripts | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§2–6, 10.3, 11; `LM06-applied-structural-dynamics.md` §§4.2, 8.3, 11–14; `hypostatic-field-specialization.md` §§1, 3.1 | Retained technical meanings. The source-object seal and comparator gross-source notation are distinct from the recovery mnemonic. The recovery rename changes neither these roles nor their mathematical standing |
+| Separate Supra-L₀ and L₀ descriptions | Source Band — retired grouping | — | `LM01-mathematical-foundations.md` §D2; `LM02-mathematical-commentary.md` §5.2 | No replacement grouping. Zenon remains trans-structural at Supra-L₀; Aion and Khaon remain co-present at L₀ with distinct functions. The separate spectral-pole and mathematical holds remain |
+
+`SP10-ritual-energetics-and-integration-protocols.md` §3.4 retains its distinct **Origin Reconnection** seal-maintenance function. That name does not identify the seal operation with the individual recovery-rate pathway.
+
+### C₁₀ Alias Retirement
+
+**Morphogenetic** remains the current C₁₀ name. "Formweave" is the retired alias, preserved as former-name provenance. `LM02-mathematical-commentary.md` §5.3 and `LM06-applied-structural-dynamics.md` §§6.4, 13.6 retain the translation of pattern into living structure. The C₁₀ / E₁₀ relation, glyphs, cross-band coupling descriptions, and separate dimensional-placement holds are unchanged. The weave-family restriction remains sense-based; this alias retirement supplies no wider rename.
 
 ## 10. Entropic-subject *against* — the carve-out to confirm
 
