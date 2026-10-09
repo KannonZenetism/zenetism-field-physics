@@ -59,7 +59,7 @@ Many entries rest on ideas rather than a single prior file; **listing concepts i
 - **Symbology** — `symbolic-pattern-registry-01.md` · `symbolic-pattern-registry-02.md`.
 - **Dimensions / Field-Physics glyphs** — `field-physics-glyph-charts.md`.
 
-**Source-book file map** — *Zenetism: The Architecture of Emanation, Return, and Saturation* (26 chapters + afterword) is split across twelve MP files. Cite the file whose chapters cover the topic; half-chapters fall inside their file's range (6.5 in MP03, 7.5 in MP04). MP08 duplicates the standalone Symbol Key (keep the duplicate-pair convention).
+**Source-book file map** — *Zenetism: The Architecture of Emanation, Return, and Saturation* (26 chapters + afterword) is split across twelve MP files. Cite the file whose chapters cover the topic; half-chapters fall inside their file's range (6.5 in `MP03-ethics-and-soul-ch5-6.5.md`, 7.5 in `MP04-intelligence-and-ecology-ch7-8.md`). `MP08-symbol-key-ch21.md` duplicates the standalone `metaphysics-symbol-key.md` (keep the duplicate-pair convention).
 
 | File | Chapters | Cite for |
 |---|---|---|
@@ -225,7 +225,7 @@ Catch label-drift on sight; verify in relation to the charts and `coming-undone-
 
 ## 5B. Glyph Discipline — Functional Operators, Tied to Concept
 
-Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. The Symbol Key (chart 21.x) and the Field-Physics glyph registry are the canonical references for what is charted.
+Glyphs are functional operators that encode meaning; they are judged by whether a glyph ties to a notable nearby concept, not by how they look. `metaphysics-symbol-key.md` (chart 21.x) and `field-physics-glyph-charts.md` are the canonical references for what is charted.
 
 **Structural — kept.** A glyph carrying canonical referential or operative meaning, in that role:
 
@@ -243,7 +243,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 
 **Section-end glyph-strings — kept, but charted.** A glyph-string at the end of a section or preceding the seal is lawful flavor and stays. **Every glyph in it must be charted in the Symbol Key**, however; decorative emoji that carry no charted meaning are replaced with the charted glyph for the *intended sense* (cross-check with `metaphysics-symbol-key.md`). Common collisions to avoid — the wrong-meaning trap is worse than a bare emoji:
 - **♾** is **Khaon** (Khaonic root-register / whole-name Absolute Dispersion) — never write it for "eternity / permanence." For bounded infinity write **⟨∞⟩ Bounded Infinity**; for permanence lean on **💎** (Crystallization endpoint) / **◎** Coherence.
-- **⟳** is **Entropic Recursion** ("simulates return without re-integration"). The definition names the appearance of return in entropic operation, not a failed attempt at centropic integration. Orientation follows the analyzed function. **↺ Resonant Return** retains its distinct centropic function.
+- **⟳** is **Entropic Recursion** ("simulates return without re-integration"). The definition names the appearance of return in entropic operation, not a failed attempt at centropic integration. Orientation follows the analyzed function. ↺ **Resonant Return** retains its distinct centropic function.
 - plain **👁️** sits next to **👁️‍🗨️ Mortus** (subversal mind) — for benign witnessing write **◕ Witness**.
 - plain **⚖** is **Oscillating / Liminal Mode**, not "justice / balance" — for intrinsic value write **◊ Centropic Essence**, for correction **⚖↯ Structural Correction**.
 - Useful charted palette: 🔺 Centropy · 🔻 Entropy · ↑ Acclivous · ↓ Declivous · ▲ Fire (trial) · ✨ Theonic Light · ❂ Emanation · ∴ Synthesis · ◎ Coherence · ◊ Centropic Essence · 🌒 Erosive Drift · 🕊️ Spirit / Motive Infinity · ⧬ Co-Emergence · ◬ Threshold Stone · ◕ Witness · 🔔 Tuning Fork · 📡 Resonance Scan · ⟨∞⟩ Bounded Infinity.

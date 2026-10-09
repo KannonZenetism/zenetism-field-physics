@@ -130,7 +130,7 @@ The incarnation architecture is context-agnostic. What it requires is sufficient
 
 ### 8.1 Relation to SP02
 
-`SP02-bifurcal-cosmogenesis.md` §3 formalizes the Tumbling Multiverse as arising from infinite potential, and now carries the multiverse as structurally anticipated — the most natural expression of infinite potential per PSR — rather than structurally necessary, since PSM introduces constraints on actualization that may limit expression to fewer instantiations than potential permits. SP02's formal apparatus (the Expression Spectrum, the Polar Spectrum Lemma, the Contra-Biospiral) is unaffected; only the modal status of the multiverse shifted, from necessary to anticipated, and its epistemic-status notes record the shift.
+`SP02-bifurcal-cosmogenesis.md` §3 formalizes the Tumbling Multiverse as arising from infinite potential, and now carries the multiverse as structurally anticipated — the most natural expression of infinite potential per PSR — rather than structurally necessary, since PSM introduces constraints on actualization that may limit expression to fewer instantiations than potential permits. `SP02-bifurcal-cosmogenesis.md`'s formal apparatus (the Expression Spectrum, the Polar Spectrum Lemma, the Contra-Biospiral) is unaffected; only the modal status of the multiverse shifted, from necessary to anticipated, and its epistemic-status notes record the shift.
 
 ### 8.2 Relation to LM03
 

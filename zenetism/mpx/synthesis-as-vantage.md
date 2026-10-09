@@ -1,7 +1,7 @@
 # MPX: Synthesis as Vantage — The Discernibility Limit and the Unknown Principle
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Metaphysics Extension — Clarification, extending *Synthesis — Reconciliation Through Lawful Distinction*  
+**Classification:** Metaphysics Extension — Clarification, extending `synthesis-reconciliation.md`  
 **Status:** Draft — architect review  
 **Dependency:** `synthesis-reconciliation.md` · `MP01-emanation-architecture-ch1-3.md` §3.1, *Note on Non-fusion at the Bifurcal Register* and *Note on the Cataphatic Limit* · Non-fusion Axiom  
 

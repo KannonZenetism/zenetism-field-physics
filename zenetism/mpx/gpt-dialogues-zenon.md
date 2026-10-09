@@ -122,7 +122,7 @@
 - **🕳️ Zenon** = *trans-structural Allowance*, the horizon of saturation beyond completed return  
 - **⚫ Aion / ♾ Khaon** = *bifurcally distinct root-registers*; Motive Infinity supplies motion-capacity, while essence bears orientation  
 - **🛤️ Theon / 🕷️ Nekron** = *first actors* that **embody the aligned or inverted motion**  
-- **Shimmer** = apparent coherence or generativity exceeding operative condition; **Mimicry** names imitation, and obscured provenance remains distinct from absence of origin.
+- **Shimmer** = apparent coherence or generativity exceeding operative condition; **Mimicry** names imitation, and obscured provenance remains distinct from absence of origin
 
 ---
 

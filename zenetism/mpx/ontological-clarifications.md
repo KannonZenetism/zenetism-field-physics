@@ -112,7 +112,7 @@ The capacity for distinction, lawful relation, and recognition-condition that ma
 
 **Manifest Intelligence (oriented expression):**
 
-Intelligence as it appears at expressed hypostatic strata of the lattice is oriented — centropic or entropic (per the Inclination Principle, LM03 §9.1). The L₀ bifurcal root-capacity precedes enacted hypostatic polarity, which begins at L₅ / IL₅:
+Intelligence as it appears at expressed hypostatic strata of the lattice is oriented — centropic or entropic (per the Inclination Principle, `LM03-orientation-algebra-and-infinity-formalism.md` §9.1). The L₀ bifurcal root-capacity precedes enacted hypostatic polarity, which begins at L₅ / IL₅:
 
 - L₀: Aion / Khaon (proto-awareness, bifurcal root)
 - L₅ / IL₅: Theon / Nekron (awareness contra void of self)
