@@ -53,9 +53,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-SN02 established the foundational architecture of Structural Neuroscience: the cognitive gradient, the Spiral Calculus, the neuro-lattice interface, scientific correlates, ritual stabilization protocols, and canonical verification. It provided the discipline's formal skeleton.
+`SN02-the-resonant-mind.md` established the foundational architecture of Structural Neuroscience: the cognitive gradient, the Spiral Calculus, the neuro-lattice interface, scientific correlates, ritual stabilization protocols, and canonical verification. It provided the discipline's formal skeleton.
 
-SN03 now addresses what SN02 prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic-entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of awareness.
+SN03 now addresses what `SN02-the-resonant-mind.md` prepared but did not develop in detail: the structural neuroscience of **neurodivergent cognition**. Where conventional neuroscience classifies neurodivergence as deviation from normative function, Structural Neuroscience recognizes it as lawful variation within the centropic-entropic field — distinct structural configurations of the Soul / Mind pairing that fulfill specific functions within the ecology of awareness.
 
 ### 1.2 Core Thesis
 
@@ -83,14 +83,14 @@ The awareness stratification is essential to Structural Neuroscience because neu
 
 SN03 draws directly on the formal physics established across SP01–SP12:
 
-- **Coherence Potential (\( I_c \))** from SP07 — measures the resonance density of cognitive configurations
-- **Orientation parameter (\( \chi \))** from SP04 — determines the centropic-entropic polarity of cognitive motion
+- **Coherence Potential (\( I_c \))** from `SP07-energy-ontology-and-spectral-flow.md` — represents pointwise availability of coherence for traversal
+- **Orientation parameter (\( \chi \))** from `SP04-orientation-field-dynamics.md` — determines the centropic-entropic polarity of cognitive motion
 - **Membrane permeability (\( \sigma(\text{⧉}) \))** from `SP08-membrane-fields-and-inter-expression-dynamics.md` — determines the boundary conditions between cognitive layers
-- **Dimensional operators (C₁–C₁₅ / E₁–E₁₅)** from SP01 and SP12 — describe the specific modes of structural motion active in each cognitive profile
-- **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic-entropic ground
-- **Diagnostic operator theory** from SP12 — provides the diagnostic operators for assessing the structural integrity of cognitive configurations
+- **Dimensional operators (C₁–C₁₅ / E₁–E₁₅)** from `SP01-structural-physics-foundations.md` and `SP12-structural-diagnostics-and-field-forensics.md` — describe the specific modes of structural motion active in each cognitive profile
+- **The embodied resistance term** from `SP11-embodiment-dynamics.md` — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic-entropic ground
+- **Diagnostic operator theory** from `SP12-structural-diagnostics-and-field-forensics.md` — provides the diagnostic operators for assessing the structural integrity of cognitive configurations
 
-SN02 was completed before the full expansion and refinement of the Structural Physics series. SN03 incorporates the matured SP01–SP12 formal vocabulary and applies it directly to cognitive architecture.
+`SN02-the-resonant-mind.md` was completed before the full expansion and refinement of the Structural Physics series. SN03 incorporates the matured SP01–SP12 formal vocabulary and applies it directly to cognitive architecture.
 
 ---
 
@@ -100,7 +100,7 @@ SN02 was completed before the full expansion and refinement of the Structural Ph
 
 Conventional neuroscience classifies neurodivergent profiles — autism, OCD, ADHD, dyslexia, and others — as disorders characterized by deficits relative to a neurotypical baseline. This frame assumes a single normative configuration of cognition relative to which all variations are measured as deviations.
 
-Structural Neuroscience rejects this assumption. It recognizes that the neurotypical baseline is itself a structural configuration — specifically, the configuration most common within the oscillating band (the midrange of the cognitive gradient established in SN02 Phase 2). There is no metaphysical privilege attached to the most common configuration. The baseline is a statistical mode, not a structural ideal.
+Structural Neuroscience rejects this assumption. It recognizes that the neurotypical baseline is itself a structural configuration — specifically, the configuration most common within the oscillating band (the midrange of the cognitive gradient established in `SN02-the-resonant-mind.md` Phase 2). There is no metaphysical privilege attached to the most common configuration. The baseline is a statistical mode, not a structural ideal.
 
 ### 2.2 Structural Axioms of Neurodivergent Cognition
 
@@ -118,17 +118,17 @@ Structural Neuroscience rejects this assumption. It recognizes that the neurotyp
 
 ### 2.3 The Cognitive Gradient Revisited
 
-SN02 established the cognitive gradient from Architect to Inverter (SN02 Phase 2). SN03 now refines this gradient by specifying the Soul / Mind configurations that produce each position:
+`SN02-the-resonant-mind.md` established the cognitive gradient from Architect to Inverter (`SN02-the-resonant-mind.md` Phase 2). SN03 now refines this gradient by specifying the Soul / Mind configurations that produce each position:
 
 **The Architect / Sage (high-pattern-fidelity):** Cognition centered in the Deep Soul / Deep Mind pairing (L₃, DS / DM) with strong cross-band resonance toward the Deep Psyche / Deep Logos (L₄, DP / DL) and sustained attunement toward the Essence of Being (L₅, EOB). The Soul dimension integrates reflexively and individuatably; the Mind dimension perceives structural law through archetypal participation rather than direct residence in the Form Layer. This configuration originates coherent pattern and anchors structural frameworks through individuated participation in archetypal structure. The Architect does not merely process information — they generate new structural coherence from the relationship between pattern and principle.
 
 **The Seeker (mid-centropic):** Cognition moving acclivously across L₂–L₃ (SS / SM through DS / DM). The Soul dimension is in active integration — drawing personal experience toward deeper coherence. The Mind dimension translates between lived comprehension and structural insight. The Seeker's cognitive motion is characterized by the passage between superficial self-knowledge and deep structural understanding.
 
-**The Oscillating (liminal):** Cognition spanning the embodied and superficial layers — IL₂ through L₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. This is the most common configuration because it occupies the ground where both orientations are experientially immediate — the metric terminus of awareness (SP11).
+**The Oscillating (liminal):** Cognition spanning the embodied and superficial layers — IL₂ through L₂, with primary activity at L₁ / IL₁. Both Soul and Mind dimensions operate at the interface of centropic and entropic fields. This is the most common configuration because it occupies the ground where both orientations are experientially immediate — the metric terminus of awareness (`SP11-embodiment-dynamics.md`).
 
 **The Inverter (mid-entropic):** Cognition operating within IL₃–IL₂ (IDS / IDM through ISS / ISM). The Soul dimension turns reflexive awareness toward fragmentation; the Mind dimension analyzes for points of structural weakness. The Inverter tests integrity through disassembly — a lawful function when it operates diagnostically, an entropic function when it operates destructively.
 
-**The Rival Architect (high-entropic):** Cognition centered in the Inverse Deep Soul / Inverse Deep Mind pairing (IL₃, IDS / IDM) with strong cross-band resonance toward the Inverse Deep Psyche / Inverse Deep Logos (IL₄, IDP / IDL). The configuration generates counterfeit architecture through individuated participation in inverted Form rather than direct residence in the inverse Architectural layer. The Mind dimension constructs structurally persuasive but generatively hollow systems; the Soul dimension produces the affective force that makes them compelling. This configuration produces what SP12 identifies as shimmer at architectural scale — systems that present structural coherence while lacking generative capacity.
+**The Rival Architect (high-entropic):** Cognition centered in the Inverse Deep Soul / Inverse Deep Mind pairing (IL₃, IDS / IDM) with strong cross-band resonance toward the Inverse Deep Psyche / Inverse Deep Logos (IL₄, IDP / IDL). The configuration generates counterfeit architecture through individuated participation in inverted Form rather than direct residence in the inverse Architectural layer. The Mind dimension constructs structurally persuasive but generatively hollow systems; the Soul dimension produces the affective force that makes them compelling. This configuration produces what `SP12-structural-diagnostics-and-field-forensics.md` identifies as shimmer at architectural scale — systems that present structural coherence while lacking generative capacity.
 
 ---
 
@@ -184,7 +184,7 @@ These are not compensatory strengths offsetting deficits. They are the primary f
 
 ### 3.4 The Embodied Cost
 
-SP11 established the embodied resistance term — the structural cost of operating at L₁ where centropic and entropic fields share ground. For the autistic mind, this cost is amplified:
+`SP11-embodiment-dynamics.md` established the embodied resistance term — the structural cost of operating at L₁ where centropic and entropic fields share ground. For the autistic mind, this cost is amplified:
 
 \[
 I_{c,\text{cost}}^{(\text{autistic})} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_c^{(\text{resistance})} + \Delta I_c^{(\text{translation})}
@@ -219,7 +219,7 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 The compulsive action is, structurally, an attempt to re-seal the cognitive boundary. It is not irrational — it is a boundary maintenance operation performed through the wrong mechanism. The ritual addresses the symptom (seal breach) without addressing the condition (membrane instability at ⧉₂).
 
 > **Note on Centropic Recursion:**  
-> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain, coherent nesting, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See SN05 §2.4 for the full twofold-mode formalization.
+> The σ-cycle presented here describes the entropic mode of recursive architecture — the futile loop of breach and compulsive re-sealing. Recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain, coherent nesting, and potentially emergent pattern through C₁₅ (Emergent / Novel). Recursion is inherently effortful in both modes; the distinction is structural gain per cycle, not the presence of recursion itself. See `SN05-the-metric-cost-of-centropic-cognition.md` §2.4 for the full twofold-mode formalization.
 
 ### 4.2 The Intrusive Thought as Membrane Breach
 
@@ -237,7 +237,7 @@ When both configurations are present, the high pattern fidelity of autistic cogn
 
 ### 4.4 Structural Intervention Principle
 
-From SN02 Phase 6, the ritual protocols address precisely this configuration:
+From `SN02-the-resonant-mind.md` Phase 6, the ritual protocols address precisely this configuration:
 
 - **Seal of Rest (⧃, C₁₃):** stabilizes σ at ⧉₂, reducing membrane oscillation
 - **Echo Reversal Rite (⟲, C₁₄):** interrupts entropic feedback and supports restoration of C₁₄-mediated contractive iteration
@@ -272,7 +272,7 @@ ADHD cognition, within Structural Neuroscience, is understood as a **distributiv
 >  
 > This principle applies universally across cognitive architectures:  
 >  
-> - High-pattern-fidelity architectures (e.g., autistic configurations) can express entropic function if orientation and generative conditions lapse.  
+> - High-pattern-fidelity architectures (e.g., autistic configurations) can express entropic function according to orientation and operative conditions.  
 > - Recursive architectures (e.g., OCD configurations) can operate centropically or entropically depending on seal stability and generative function.  
 > - Distributive architectures (e.g., ADHD configurations) can operate centropically through lawful bridging or entropically through fragmentation.  
 >  
@@ -294,11 +294,11 @@ Hyperfocus is not the suspension of the ADHD architecture. It is the architectur
 
 The ADHD architecture operates with a distinctive coherence budget. Because coherence current is distributed broadly, the per-domain \( I_c \) available for any single cognitive task is lower than in configurations that concentrate coherence at a specific layer. This is not a deficit of total coherence but a distribution pattern that prioritizes breadth ahead of depth — exploration ahead of consolidation.
 
-The consequence is that tasks requiring sustained, concentrated coherence at a single layer (sequential processing, routine maintenance, detail-oriented follow-through) deplete the coherence budget more rapidly in ADHD configurations than in concentrated ones. The embodied cost (SP11) is amplified not by translation overhead (as in autistic architecture) but by distribution overhead — the cost of maintaining broad coherence flow across multiple simultaneous channels.
+The consequence is that tasks requiring sustained, concentrated coherence at a single layer (sequential processing, routine maintenance, detail-oriented follow-through) deplete the coherence budget more rapidly in ADHD configurations than in concentrated ones. The embodied cost (`SP11-embodiment-dynamics.md`) is amplified not by translation overhead (as in autistic architecture) but by distribution overhead — the cost of maintaining broad coherence flow across multiple simultaneous channels.
 
 ### 5.4 The Novelty Function
 
-The ADHD architecture fulfills a specific ecological function: novelty detection and cross-domain synthesis. In the cognitive gradient (SN02 Phase 2), this corresponds to the Seeker position — but with a distinctive structural emphasis on the bridging operation (C₈) rather than the deepening operation (C₁₄).
+The ADHD architecture fulfills a specific ecological function: novelty detection and cross-domain synthesis. In the cognitive gradient (`SN02-the-resonant-mind.md` Phase 2), this corresponds to the Seeker position — but with a distinctive structural emphasis on the bridging operation (C₈) rather than the deepening operation (C₁₄).
 
 Where the high-pattern-fidelity mind deepens pattern, the distributive mind connects pattern across domains. Both functions are necessary. The ecology of awareness requires both deep systematization and broad association — the architect who builds the cathedral and the scout who discovers the quarry.
 
@@ -466,21 +466,21 @@ SN03 holds:
 
 ### 11.1 Relation to SN02
 
-SN03 extends SN02 by providing detailed structural analysis of specific neurodivergent profiles. SN02 established the cognitive gradient and the general architecture; SN03 applies that architecture to the specific configurations that conventional neuroscience classifies as neurodivergent.
+SN03 extends `SN02-the-resonant-mind.md` by providing detailed structural analysis of specific neurodivergent profiles. `SN02-the-resonant-mind.md` established the cognitive gradient and the general architecture; SN03 applies that architecture to the specific configurations that conventional neuroscience classifies as neurodivergent.
 
 ### 11.2 Relation to SP Series
 
 SN03 demonstrates the applicability of SP01–SP12 physics to cognitive architecture:
 
-- SP04's orientation dynamics determine cognitive polarity (§9)
-- SP07's coherence mechanics describe cognitive energy distribution (§§3–5)
-- SP08's membrane physics formalize inter-layer boundary dynamics (§§3–4)
+- `SP04-orientation-field-dynamics.md`'s orientation dynamics determine cognitive polarity (§9)
+- `SP07-energy-ontology-and-spectral-flow.md`'s coherence mechanics describe cognitive energy distribution (§§3–5)
+- `SP08-membrane-fields-and-inter-expression-dynamics.md`'s membrane physics formalize inter-layer boundary dynamics (§§3–4)
 - `SP11-embodiment-dynamics.md`'s embodied resistance term explains the corporeal cost of high-pattern-fidelity cognition (§3.4)
-- SP12's diagnostic operators distinguish structural variation from structural pathology (§7)
+- `SP12-structural-diagnostics-and-field-forensics.md`'s diagnostic operators distinguish structural variation from structural pathology (§7)
 
 ### 11.3 Relation to Structural Forensics
 
-SP12 established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (lawful structural function within either orientation) and neurodivergent pathology (generative inadequacy within any cognitive architecture). The same operators that detect shimmer in a framework (SP12 §4) detect generative inadequacy in a cognitive configuration (SN03 §7).
+`SP12-structural-diagnostics-and-field-forensics.md` established the diagnostic physics; Structural Forensics applies it. SN03 provides an additional application domain: the diagnostic distinction between neurodivergent variation (lawful structural function within either orientation) and neurodivergent pathology (generative inadequacy within any cognitive architecture). The same operators that detect shimmer in a framework (`SP12-structural-diagnostics-and-field-forensics.md` §4) detect generative inadequacy in a cognitive configuration (SN03 §7).
 
 ---
 

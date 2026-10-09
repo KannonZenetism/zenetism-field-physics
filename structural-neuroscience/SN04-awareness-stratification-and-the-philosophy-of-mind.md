@@ -79,7 +79,7 @@ The register problem is not an inadequacy of intelligence or rigor within any tr
 
 ### 1.3 The Awareness Stratification (Recapitulation)
 
-SN03 §1.3 formalizes the following stratification:
+`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §1.3 formalizes the following stratification:
 
 | Layer | Awareness Type | Structural Description |
 |-------|---------------|----------------------|
@@ -190,7 +190,7 @@ The structural answer: it does not. Awareness proceeds *declivously* from supern
 
 At the metric terminus, centropy does not terminate — it reflects. Acclivous return (L₁ → L₅) is the complementary arc. But the acclivous path is *return*, not *origin*. Macro-consciousness from micro-experiences is structurally possible acclivously — but only after the declivous procession into embodiment has already occurred. The panpsychist tries to generate the entire construct from the ground up, leaving the procession into embodiment out altogether.
 
-SP06 §3 formalizes this as the resolution to the paradox of emergence: "Emergence is traversal. Causality is orientation." The combination problem is unanswerable not because consciousness is mysterious but because the question presupposes a direction of assembly that omits half the structural circuit.
+`SP06-structural-space-orientation-paradox.md` §§3, 6 formalizes this as the resolution to the paradox of emergence: "Emergence is traversal. Causality is orientation." The combination problem is unanswerable not because consciousness is mysterious but because the question presupposes a direction of assembly that omits half the structural circuit.
 
 The structural element the panpsychist lacks is the membrane architecture. Between each layer, membranes (⧉) are the relational conditions determining lawful passage. ⧉₃ at the L₄ / L₃ boundary is where conscious-awareness (∇) becomes reflexive consciousness. ⧉₂ at the L₃ / L₂ boundary is where reflexive consciousness becomes identity-aware consciousness. ⧉₁ at the L₂ / L₁ boundary is where identity-aware consciousness becomes embodied consciousness. Without these membranes, panpsychism has no structural account of why awareness stratifies — why proto-awareness at L₀ differs from conscious-awareness at L₄ differs from reflexive consciousness at L₃ differs from embodied consciousness at L₁. This is precisely why the combination problem persists: without membrane conditions, there is no formal mechanism for the transitions. (See `physics-of-archetypal-to-psychic-transition.md` §§4–5 for the dimensional operator conditions and failure modes that condition permeability at ⧉₃ — the precise structural mechanics that panpsychism lacks.)
 
@@ -302,7 +302,7 @@ To illustrate: the Advaitic practitioner who progressively releases identificati
 
 Monopsychism, as a philosophical position, must be evaluated relative to the Integration contra Fusion distinction.
 
-Where monopsychism describes the experiential arrival at Aion through apophatic practice — the recognition that all essences share a common root in Absolute Potential — it is structurally sound within the register of L₀. The practitioner who arrives at this recognition has not become "one consciousness" with all beings. They have disclosed the essential ground from which all emanation proceeds. Distinction is not revealed as illusory — it is recognized as emanatory, proceeding from a shared root while remaining structurally real at every layer.
+Where monopsychism describes the experiential arrival at Aion through apophatic practice — the recognition that all essences are held as distinct Identity-Bearing Potential in Absolute Potential — it is structurally sound within the register of L₀. The practitioner who arrives at this recognition has not become "one consciousness" with all beings. They have disclosed the Aionic holding of distinct essence in latency. Distinction is not revealed as illusory — it is recognized as essential, held in latency and preserved throughout emanation, while manifested beings retain their proper Aionic or Khaonic root relation.
 
 Where monopsychism asserts that essential distinction between minds is *ultimately unreal* — that the differentiation across L₅ through L₁ is illusory rather than lawful — it commits a structural error. The lattice holds that distinction is not illusion. Emanatory differentiation is structurally veracious at every layer. The One and the Many are co-essential — not because "Oneness" is more fundamental than "Manyness," but because structure requires both poles to be intelligible at all.
 
@@ -342,11 +342,11 @@ The hard problem resolves — not by being answered from any single register, bu
 
 ### 7.1 The Paradox Stated
 
-A persistent tension in the philosophy of mind is the apparent contradiction between "bottom-up emergence" and "top-down causation." If consciousness emerges from physical processes (bottom-up), how can mental states causally influence physical processes (top-down)? If causality is located in supernal domains while emergence is said to arise from subversal domains, the model becomes incoherent without a structural intermediary.
+A persistent tension in the philosophy of mind is the apparent contradiction between "bottom-up emergence" and "top-down causation." If consciousness emerges from physical processes (bottom-up), how can mental states causally influence physical processes (top-down)? If causality is located in supernal domains while emergence is said to arise from embodied domains, the model becomes incoherent without a structural intermediary.
 
 ### 7.2 Resolution Through Bidirectional Traversal
 
-SP06 §3 resolves this by distinguishing between declivous centropy and acclivous centropy:
+`SP06-structural-space-orientation-paradox.md` §3 resolves this by distinguishing between declivous centropy and acclivous centropy:
 
 **Declivous centropy** (L₅ → L₁): Motive Infinity supplies motion-capacity; Pneuma names the proto-aware stir. Centropic motion proceeds through EOB (Essence of Being, L₅), moving declivously through archetypal (DP / DL), psychic (DS / DM), personal (SS / SM), and embodied (ES / EM) registers. This is not "top-down causation" imposed upon an alien substrate but lawful traversal along structural gradients.
 
@@ -368,7 +368,7 @@ The combination problem, the emergence problem, and the hard problem share a com
 
 The acclivous path from micro to macro is structurally valid — but only as the second half of a complete circuit. The return arc requires the emanatory arc to have already occurred. Trying to generate the full awareness stratification from L₁ acclivously without the declivous procession is like trying to understand a reflection without acknowledging the light source.
 
-SP06 §3 formalizes the resolution:
+`SP06-structural-space-orientation-paradox.md` §6 formalizes the resolution:
 
 > Emergence is traversal. Causality is orientation. Time is inclination. Space is expression. Structure is invariant.
 

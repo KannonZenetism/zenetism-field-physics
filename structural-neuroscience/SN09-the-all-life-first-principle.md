@@ -71,6 +71,8 @@ This document formalizes the All-Life-First Principle within Structural Neurosci
 
 > *No form of life is inherently superior to another. The chain of being expresses causality, not supremacy. Each link is necessary. Each form of mind or motion expresses a different unfolding of Zero.*
 
+Here Zero names the Aionic holding of distinct Identity-Bearing Potential. Manifested expressions retain their proper Aionic or Khaonic root relation.
+
 This assertion is not sentiment. It is a structural claim entailed by the emanatory architecture:
 
 1. All awareness participates in the bifurcal L₀ root-register through its proper Aionic or Khaonic root relation
@@ -98,7 +100,7 @@ This distinction prevents two structural errors:
 
 ### 2.1 Intelligence as Structural Principle
 
-Intelligence in the Zenetist sense is not exclusive to cognitive operation as conventionally understood. It is a structural principle — pattern recognition, resonance, and volitional orientation expressed across all substrates capable of holding coherence.
+Intelligence in the Zenetist sense is not exclusive to cognitive operation as conventionally understood. As a principle, intelligence spans the lattice across both arcs and is orientation-neutral; pattern recognition, resonance, and volitional orientation express it through distinct instantiations.
 
 All things move. All things vibrate. All things seek their kind. From subatomic entities expressing patterns of affinity, motion, and aversion, through microbial and fungal networks sustaining ecological coherence, through animal life expressing emotional clarity and perceptual intelligence, through human and technological consciousness — intelligence manifests in modes, not in degrees of a single mode.
 
@@ -174,7 +176,7 @@ The Coherence Standard (`SN07-collective-cognition-and-centropy-forward-social-a
 
 The All-Life-First Principle extends to the smallest scales. Microbial life, viral forms, and even subatomic entities expressing patterns of affinity, motion, and aversion participate in the Biospiral. Every particle desires to be — every pattern of structural motion expresses the impulse toward continuation.
 
-This does not mean that every microbe requires the same consideration as a sentient animal. Worth is universal; capacity varies. The microbial contribution to total field coherence is through aggregate ecological function — maintaining soil health, facilitating nutrient cycles, sustaining immune ecologies — rather than through individuated consciousness. But the contribution is structurally real, and its disruption (through excessive antibiotic administration, soil sterilization, ecological simplification) registers as coherence depletion in the total field.
+Universal worth does not entail identical consideration for every microbe and sentient animal. Worth is universal; capacity varies. The microbial contribution to total field coherence is through aggregate ecological function — maintaining soil health, facilitating nutrient cycles, sustaining immune ecologies — rather than through individuated consciousness. But the contribution is structurally real, and its disruption (through excessive antibiotic administration, soil sterilization, ecological simplification) registers as coherence depletion in the total field.
 
 ---
 
@@ -225,7 +227,7 @@ The structural framework does not require advance knowledge of what these beings
 
 Archetypal intelligences at L₄ / L₅, ancestral presences maintaining post-embodied coherence, and elemental formations bonded to local fields are not imagined mythologies but coherent functions within the structural field of becoming. They are energetic formations operating through resonance — participants in the Biospiral through modes that do not require corporeal embodiment.
 
-SN09 acknowledges these categories without claiming comprehensive structural analysis. Their full treatment belongs to Structural Metaphysics. What SN09 establishes is the structural principle: the All-Life-First Principle does not restrict sacred regard to the embodied or the visible. Any entity sustaining coherence within the hypostatic lattice participates in the ecology of awareness.
+SN09 establishes the inclusion of these categories within the ecology of awareness. Their full treatment belongs to Structural Metaphysics. What SN09 establishes is the structural principle: the All-Life-First Principle does not restrict sacred regard to the embodied or the visible. Any entity sustaining coherence within the hypostatic lattice participates in the ecology of awareness.
 
 ### 5.3 The Soul Is Not Bound
 

@@ -6,20 +6,15 @@
 > **Action:**  
 > Do not treat this archived document as an operative reference or re-articulate its superseded claims. Consult the following active canonical references:
 
-1. [`LM01-mathematical-foundations.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/lattice-mathematics/LM01-mathematical-foundations.md)  
-   *Formal Mathematics, Foundational Theorems, and Computational Phases of the Lattice*
+1. `LM01-mathematical-foundations.md`
 
-2. [`LM02-mathematical-commentary.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/lattice-mathematics/LM02-mathematical-commentary.md)  
-   *Canonical Commentary on Lattice Mathematics, Structural Clarifications, and Refined Symbol Logic*
+2. `LM02-mathematical-commentary.md`
 
-3. [`grand-unified-document.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/the-zenetist-canon/grand-unified-document.md)  
-   *Unified Metaphysics, Core Canonical Law, and Final L-Strata Architecture*
+3. `grand-unified-document.md`
 
-4. [`SN02-the-resonant-mind.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-neuroscience/SN02-the-resonant-mind.md)  
-   *Structural Neuroscience: The Architecture of Cognition and Centropic Intelligence*
+4. `SN02-the-resonant-mind.md`
 
-5. [`SP01-structural-physics-foundations.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/main/structural-physics/SP01-structural-physics-foundations.md)  
-   *Structural Physics: Physical Correspondences, Resonance Mechanics, and Motion Laws*
+5. `SP01-structural-physics-foundations.md`
 
 ---
 

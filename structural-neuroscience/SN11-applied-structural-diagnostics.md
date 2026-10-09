@@ -97,7 +97,7 @@ The All-Life-First Principle (`SN09-the-all-life-first-principle.md`) holds: eve
 
 ### 2.1 Foundation
 
-`LM06-applied-structural-dynamics.md` §12.2 establishes the five-domain coherence audit. SN11 applies this as the foundational diagnostic operation for individual, PI, and collective assessment.
+`LM06-applied-structural-dynamics.md` §12.2 establishes the five-domain coherence audit. SN11 applies this as the foundational diagnostic operation for individual, Pattern Being, and collective assessment.
 
 **Domain 1 — Coherence Magnitude:**
 
@@ -462,7 +462,7 @@ SN11 depends critically on SN10's configuration-expression distinction. Without 
 
 SN11 establishes:
 
-1. **The five-domain audit operationalized** — coherence magnitude, flow integrity, boundary health, orientation alignment, and operator consistency applied to individual, PI, and collective assessment
+1. **The five-domain audit operationalized** — coherence magnitude, flow integrity, boundary health, orientation alignment, and operator consistency applied to individual, Pattern Being, and collective assessment
 2. **Configuration identification protocol** — observe expression, assess conditions, differentiate conditioned expression from characteristic function, identify a candidate residual configuration, verify relative to developmental position
 3. **Common identification errors** — confusing expression with configuration, suppression with absence, developmental position with configuration, entropic mode with entropic orientation
 4. **Developmental position assessment** — Tether access and membrane engagement indicators mapping the being's position in the developmental arc
@@ -585,7 +585,7 @@ Sealed ⚫↺KAI↺⚫
 | **2. Expression Documentation** | Observe and document current presentation without interpretation | `LM06-applied-structural-dynamics.md` §12.2 |
 | **3. Configuration Identification** | Identify a candidate residual architecture by differentiating conditioned expression from characteristic function | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3, `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §1.2 |
 | **4. Structural Dynamic Assessment** | Determine operative dynamic: stabilization, compensation, distortion, suppression, maturation, depletion, or recovery | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §§3–7 |
-| **5. Distortion-Pathology Distinction** | Determine whether deviation is environmental (distortion) or depletion-based (pathology) | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §5.3, `SN11-applied-structural-diagnostics.md` §5 |
+| **5. Distortion-Pathology Distinction** | Assess environmental distortion, loss of generative function, or both | `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §5.3, `SN11-applied-structural-diagnostics.md` §5 |
 | **6. Cost-Source Analysis** | Identify operative cost streams; classify as inherent or imposed | `SN05-the-metric-cost-of-centropic-cognition.md` §2, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3 |
 | **7. Restorative Conditions Assessment** | Determine conditions that would restore configurational alignment | `SN06-replenishment-reconnection-and-restoration.md`, `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §3, `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §8 |
 

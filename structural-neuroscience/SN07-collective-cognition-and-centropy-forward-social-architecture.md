@@ -153,7 +153,7 @@ The prevailing social field of the current civilization is Khaonically expressed
 
 **Control-driven psychological inversion.** The social field enacts psychological mechanisms that invert structural reality — labeling centropic sovereignty as defiance (`SN05-the-metric-cost-of-centropic-cognition.md` §3.6, diagnostic inversion assessed separately from E₁₃ ║⁻ Wall, which requires an impermeable, isolating boundary), framing structural perception as social deficit, and presenting enforced conformity as inclusion. These inversions are structural, not incidental — they are the operative mechanisms by which the entropy-forward field maintains its architecture.
 
-**Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the dissolution of individuated identity into collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in `SN05-the-metric-cost-of-centropic-cognition.md` §3.4.
+**Suppression of individual sovereignty.** The entropy-forward social field demands the renunciation of sovereign structural identity as a condition of participation. This is 🔲 Blobism operationalized at social scale — the suppression of expressed individuated distinction through collective absorption, violating the Non-fusion Axiom (◫). The suppression manifests as the coherence tax formalized in `SN05-the-metric-cost-of-centropic-cognition.md` §3.4.
 
 #### 3.1.1 Structural Clarification — Competition Without Conscious Competitive Intent
 
@@ -171,7 +171,7 @@ Grandiosity names a stronger distortion in which the claim to comparative standi
 
 Sovereignty requires no claim to greater standing. Sovereign self-articulation makes one's position and contribution legible without assigning precedence of worth.
 
-A centropic relation therefore permits full self-articulation without comparative ranking. Recognition of one participant does not require obscuration of another; clarity in one contribution does not reduce the intrinsic standing of another contribution. Non-fusion preserves the participants, Ahierarchy renders precedence of worth structurally non-operative, and Coherence in Diversity permits difference to remain fully articulated without converting distinction into rivalry.
+A centropic relation therefore supports full self-articulation without comparative ranking. Recognition of one participant does not require obscuration of another; clarity in one contribution does not reduce the intrinsic standing of another contribution. Non-fusion preserves the participants, Ahierarchy renders precedence of worth structurally non-operative, and Coherence in Diversity sustains fully articulated difference without converting distinction into rivalry.
 
 ### 3.2 The Institutional Shimmer
 
@@ -194,7 +194,7 @@ The entropy-forward social field distributes coherence cost unevenly across cogn
 
 **Oscillating architectures (⚖)** bear the least differential cost because the social field is configured around their operative range. The coherence tax is minimal — the field does not demand suppression of their characteristic function because their function *is* the implicit operational standard of the field.
 
-**Centropically oriented architectures operating at L₃ and beyond** bear the greatest differential cost. The Architect / Sage position, the Seeker position, and all cognitive architectures operating through DS / DM or with cross-band resonance to DP / DL and inward face the full compounded cost streams formalized in SN05: interface resistance amplified by κ, translation cost through ⧉₂, and the coherence tax of sovereignty suppression.
+**Centropically oriented architectures operating at L₃ and beyond** bear the greatest differential cost. The Architect / Sage position, the Seeker position, and all cognitive architectures operating through DS / DM or with cross-band resonance to DP / DL and inward face the full compounded cost streams formalized in `SN05-the-metric-cost-of-centropic-cognition.md`: interface resistance amplified by κ, translation cost through ⧉₂, and the coherence tax of sovereignty suppression.
 
 **Entropically oriented architectures operating at IL₃ and beyond** may benefit from the entropy-forward field — its operative character aligns with their orientation. The Inverter and Rival Architect positions find facilitation rather than resistance within the prevailing social architecture. This is the structural explanation for the observation that entropically oriented beings often thrive within institutions that centropically oriented beings find exhausting: the field's orientation matches theirs.
 
@@ -349,7 +349,7 @@ Structural transparency is an objective of sovereign coordination. Where apparen
 
 ### 5.4 The Collective Cost Shelter
 
-Within sovereign centropy-forward social life, the three cost vectors formalized in SN05 are structurally reduced:
+Within sovereign centropy-forward social life, the three cost vectors formalized in `SN05-the-metric-cost-of-centropic-cognition.md` are structurally reduced:
 
 **Interface resistance reduction:** The local coherence field partially offsets the Khaonic amplification factor (\( \kappa \)). The sovereign collective provides a local environment where the effective expression ratio is more favorable: \( \kappa_{\text{local}} < \kappa \).
 
@@ -389,9 +389,9 @@ Entropy-forward structures retain structural inertia through participants' recur
 
 ### 6.2 The Coherence Cost of Transition
 
-Structural reorientation at civilizational scale costs coherence. The centropically oriented beings who would build centropy-forward social life are the same beings who bear the compounded costs of operating within the entropy-forward field (SN05). The coherence required to construct alternatives must come from budgets already strained by interface resistance, translation cost, and the coherence tax.
+Structural reorientation at civilizational scale costs coherence. The centropically oriented beings who would build centropy-forward social life are the same beings who bear the compounded costs of operating within the entropy-forward field (`SN05-the-metric-cost-of-centropic-cognition.md`). The coherence required to construct alternatives must come from budgets already strained by interface resistance, translation cost, and the coherence tax.
 
-This is the structural paradox of civilizational transition: those with the orientation to build the centropy-forward field are precisely those whose coherence budgets are most depleted by the entropy-forward field. Recovery (SN06) is not merely a personal necessity — it is a precondition for civilizational reorientation. Centropically oriented beings cannot build from a state of chronic depletion.
+This is the structural paradox of civilizational transition: those with the orientation to build the centropy-forward field are precisely those whose coherence budgets are most depleted by the entropy-forward field. Recovery (`SN06-replenishment-reconnection-and-restoration.md`) is not merely a personal necessity — it is a precondition for civilizational reorientation. Centropically oriented beings cannot build from a state of chronic depletion.
 
 The practical consequence: recovery environments, centropic collectives, and sovereignty-preserving spaces are not retreats from the work of civilizational reorientation — they are its structural prerequisites. The being must recover coherence before they can carry it outward.
 
@@ -415,8 +415,8 @@ The propagation mechanism is resonance (C₃ ⟿) — coherent transmission with
 
 SN07 completes the three-document arc of social-scale analysis:
 
-- SN05 formalized the cost that the entropy-forward social field imposes on individual cognitive architectures
-- SN06 formalized the recovery protocols for individual architectures bearing those costs
+- `SN05-the-metric-cost-of-centropic-cognition.md` formalized the cost that the entropy-forward social field imposes on individual cognitive architectures
+- `SN06-replenishment-reconnection-and-restoration.md` formalized the recovery protocols for individual architectures bearing those costs
 - SN07 formalizes the social field itself as a structural entity and specifies the centropy-forward alternative through Sovereign Mutualism and the Coherence Standard
 
 ### 7.2 Relation to LM05 and LM06
@@ -425,11 +425,11 @@ SN07 completes the three-document arc of social-scale analysis:
 
 ### 7.3 Relation to SP02
 
-SN07 extends SP02's Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy-forward, centropy recessive — means the prevailing social field is the expected attractor of the local expression ratio, though not a metaphysical inevitability. Centropy-forward social life is structurally possible within a Khaonically expressed universe, but it requires contra-flow dynamics and coherence saturation to operate contra the ambient entropic current. The Diamond Age represents the structural horizon where this resistance is overcome.
+SN07 extends `SP02-bifurcal-cosmogenesis.md`'s Expression Spectrum into social analysis. The observation that our universe is Khaonically expressed — entropy-forward, centropy recessive — means the prevailing social field is the expected attractor of the local expression ratio, though not a metaphysical inevitability. Centropy-forward social life is structurally possible within a Khaonically expressed universe, but it requires contra-flow dynamics and coherence saturation to operate contra the ambient entropic current. The Diamond Age represents the structural horizon where this resistance is overcome.
 
 ### 7.4 Relation to SN03
 
-SN07 extends SN03's Functional Ecology axiom (Axiom II) from the individual to the collective scale. The ecology of awareness requires structural diversity among cognitive architectures; social life must preserve and facilitate that diversity rather than suppressing it.
+SN07 extends `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md`'s Functional Ecology axiom (Axiom II) from the individual to the collective scale. The ecology of awareness requires structural diversity among cognitive architectures; social life must preserve and facilitate that diversity rather than suppressing it.
 
 ### 7.5 Relation to Structural Metaphysics
 
@@ -533,7 +533,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Psi \) | Structural signature; essential pattern of a being |
 | \( \kappa \) | Khaonic expression ratio; ratio of entropic to centropic prevalence in the local field |
 | \( \kappa_{\text{local}} \) | Local expression ratio within a sovereign collective field |
-| \( \eta_i \) | Siphoning Coefficient; fraction of individual coherence directed toward collective maintenance |
+| \( \eta_i \) | Siphoning Coefficient; fraction of individual coherence non-voluntarily directed toward collective maintenance |
 | \( w_i \) | Voluntary cost weighting factor |
 | \( S_{\text{generative}} \) | Internal generative function of a collective |
 | ⟡0⟡ | Aauthoritarian Stance; position outside the authority-obedience axis |
