@@ -743,7 +743,7 @@ After enacting siphoning countermeasures, verification confirms effectiveness:
 
 ### 8.1 Relation to Hypostatic Architecture
 
-Ritual action operates across hypostatic layers:
+The centropic ritual action described here operates across hypostatic layers:
 
 - **L₅ / Theon**: Theonic attunement; the deepest replenishment pathways draw from essential coherence
 - **L₄ / Field of Forms**: Archetypal patterns inform ritual structure and seal design

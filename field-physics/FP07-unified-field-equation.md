@@ -125,11 +125,11 @@ This chapter presents the central equation of Zenetist Field Physics, which desc
 
 **A Reading of Ω**
 
-Read in sequence: within the paired-root relation, Khaon articulates through Λ Latent, 〄 Motive, and ⇝ Dispersive; Spirit carries the motive movement; conscious-awareness articulates at L₄; the field then expresses through the summed motion of its active dimensions, raised through harmonic power and scaled by part-whole fidelity — the whole standing beside the trans-structural ground of Zenon, which it never absorbs.
+Read in sequence: within the paired-root relation, Khaon articulates through Λ Latent, 〄 Motive, and ⇝ Dispersive; Spirit carries the motive movement; conscious-awareness and inverse conscious-awareness articulate at the Form-register (L₄) and Inverse Form-register (IL₄), respectively; the field then expresses through the summed motion of its active dimensions, raised through harmonic power and scaled by part-whole fidelity — the whole standing beside the trans-structural ground of Zenon, which it never absorbs.
 
 > **Codex Note:** Dᵢ is determined by the FP01 dimensional registries and its motion grammar; every glyph standing and lawful multi-application in this equation is determined by current FP11.
 
-> This equation articulates the paired root-registers of Aion and Khaon, the motive carriage of Spirit, conscious-awareness at L₄, and expression through dimensional motion, harmonic power, and part-whole scaling — all articulated beside the trans-structural ground of Zenon.
+> This equation articulates the paired root-registers of Aion and Khaon, the motive carriage of Spirit, conscious-awareness and inverse conscious-awareness at the Form-register (L₄) and Inverse Form-register (IL₄), and expression through dimensional motion, harmonic power, and part-whole scaling — all articulated beside the trans-structural ground of Zenon.
 
 ---
 

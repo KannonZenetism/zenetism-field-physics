@@ -205,7 +205,7 @@ This anchoring integrates Structural Physics with the canonical **Dimensional La
 | **Supra-L₀ — Pre-causal** | 🕳️ Zenon (UP) | Unknown Principle |
 | **L₀ — Bifurcal Root Band** | ⚫ Aion / ♾ Khaon (AP / AD) | Absolute Potential / Dispersion |
 | **L₅ / IL₅ — Threshold Band** | 🛤️ Theon / 🕷️ Nekron (EOB / VOS) | Membrane / Recursion / Emergence |
-| **L₄ — Architectural Band** | 🌬️ Morgis / 📐 Sophis (DP / DL) | Vital Design and Deep Logos |
+| **L₄ / IL₄ — Form-register / Inverse Form-register** | 🌬️ Morgis / 📐 Sophis (DP / DL); 🪫 Psychea / 🫥 Nyxea (IDP / IDL) | Archetypal vitality and intelligible Form / inverse archetypal patterning |
 | **L₃ — Interface Band** | 🔮 Archeus / 🧠 Noeüs (DS / DM) | Deep Structure and Interior |
 | **L₂ — Superficial Band** | 🧍 Anthra / 🧩 Nousa (SS / SM) | Personality and Cognition |
 | **L₁ — Embodiment Band** | 🪷 Soma / 🧾 Biosa (ES / EM) | Manifestation and Living Form |

@@ -432,14 +432,14 @@ Diagnostic protocol:
 
 ### 8.1 Relation to Hypostatic Architecture
 
-Collective resonance operates across hypostatic layers:
+Collective resonance operates across hypostatic layers. The centropic relations include:
 
 - **L₅ (Theon)**: Essential coherence; the supernal hypostasis through which collective resonance is replenished
-- **L₄ (Field of Forms)**: Archetypal patterns that collectives may instantiate
+- **L₄ (Form-register)**: Archetypal patterns that centropic collectives may instantiate
 - **L₃ (Deep Soul / Mind)**: Where reflexive identity persists through sealed structural signatures
 - **L₂–L₁**: Surface expression where collective fields manifest visibly
 
-Centropic collectives align across layers; entropic collectives fragment at surface without dissolving deeper essence.
+Centropic collectives align across layers; entropic collectives fragment at surface without dissolving deeper essence. The Inverse Form-register (IL₄ — IDP / IDL) carries the corresponding inverse archetypal patterning; it is distinct from L₄.
 
 ### 8.2 Relation to Spectral Flow
 
