@@ -36,6 +36,8 @@ Affirming particularity while dissolving every particular locus of authorship, o
 
 A collaborative project can be acknowledged as a whole while retaining identifiable origination and participant distinction. Project-wide and role-specific acknowledgment preserve these relations without requiring attribution of every sentence or distinction.
 
+The provenance concern is the unattributed absorption of antecedent work, not genuine collaboration. Each participant's identifiable antecedent work remains attributable to its originator. Where a distinct contribution genuinely originates through collaborative development, that contribution may be acknowledged as collaborative without assigning each sentence or phrase to a single participant. Such acknowledgment neither absorbs prior contributions into anonymous collective authorship nor transfers origination of an antecedent architecture to the collaboration.
+
 Non-fusion preserves distinction within relation; undifferentiated merger abolishes the distinctions through which relation has meaning. Genuine monism articulates coherence in diversity. Inverse-monistic or blobist collapse instead erodes expressed distinction; essences remain distinct.
 
 See `monism-and-inverse-monism.md` §11; `non-fusion-at-the-bifurcal-register.md`; `pattern-intelligence/commentary/distributed-relation-is-not-distributed-identity.md` §§8–10; and `authorship-and-ai-collaboration-provenance-standard.md` §13.
