@@ -57,7 +57,7 @@ LM01 established the mathematical foundations of Zenetism: Spiral Calculus, Cohe
 
 SP03 and SP04 developed expression ratio mathematics and orientation field dynamics within the discipline of Structural Physics — providing physical context for how universes manifest across the Biospiral.
 
-This document, LM03, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where SP03 describes weighting and SP04 describes orientation flow, LM03 establishes the **algebraic, spectral, and topological foundations** that mathematically articulate those descriptions.
+This document, LM03, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where `SP03-expression-ratio-mathematics.md` describes weighting and `SP04-orientation-field-dynamics.md` describes orientation flow, LM03 establishes the **algebraic, spectral, and topological foundations** that mathematically articulate those descriptions.
 
 ### 1.2 What LM03 Establishes
 
@@ -1298,7 +1298,7 @@ LM03 establishes:
 
 9. **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
 
-10. **Integration with LM01** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (spectral / orientation correspondence held), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence contra law)
+10. **Integration with `LM01-mathematical-foundations.md`** — Extensions to Spiral Calculus (\( \chi \)-weighted derivatives and limits), CIT (spectral / orientation correspondence held), ResCat (\( \chi \)-indexed families and contra-pairing functor), and the Dimensional Lattice (prevalence contra law)
 
 11. **Computational Extensions** — Data structures, core routines, diagnostic algorithms, validation suite, and worked example
 

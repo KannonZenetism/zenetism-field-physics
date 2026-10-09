@@ -1419,7 +1419,7 @@ LM05 establishes:
 
 8. **Collective Resonance Theory** — The Collective Non-fusion Principle, collective correlation \( \mathcal{R}_{\text{collective}} \), field emergence conditions, harmonic amplification with superlinearity proof by expansion of the square, the parasitic coherent-input stock comparison and configuration-specific holding conditions, the Sealed Injectivity Theorem (L₃+), and collective bridge networks
 
-9. **Integration with LM01 / LM03 / LM04** — Coherence Potential Integral, membrane-corrected spiral limit, CIT across resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
+9. **Integration with `LM01-mathematical-foundations.md` / `LM03-orientation-algebra-and-infinity-formalism.md` / `LM04-temporal-algebra-structural-space-and-phase-resolution.md`** — Coherence Potential Integral, membrane-corrected spiral limit, CIT across resonance dynamics, membrane-indexed ResCat families, collective field functor (colimit construction), and dimensional operator correspondence (C₇, C₈, C₁₃ / E₁₃, E₉, E₁₄) including the Theon Law at C₁₃
 
 10. **Computational Extensions** — Data structures (coherence field, membrane, transfer event, proposed Membrane Recursion schema, collective field), core routines (diffusion, continuity, transfer, tunneling, partial-transfer observation, collective correlation, harmonic / parasitic potential, emergence check, membrane health), diagnostic algorithms, validation suite, and worked example demonstrating superlinear collective amplification with membrane transfer
 

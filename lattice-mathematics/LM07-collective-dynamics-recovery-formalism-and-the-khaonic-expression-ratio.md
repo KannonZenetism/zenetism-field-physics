@@ -672,7 +672,7 @@ The collective field is an instance of \( \mathfrak{F} \). Its intended differen
 \int_{\text{◎}}{}_{\text{collective}} I_{c,\text{cost}}^{(\text{total})} \, d\tau = \text{Total collective coherence expenditure}
 \]
 
-### 9.2 CIT across Collective Dynamics (LM01)
+### 9.2 CIT across Collective Dynamics (`LM01-mathematical-foundations.md`)
 
 **Theorem (CIT Preservation under Collective Operations):**
 

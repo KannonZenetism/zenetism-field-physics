@@ -73,7 +73,7 @@ The same formal object — a scalar field on structural space — carries essent
 
 **Proposition (Φ₂ as Universal Substrate for Field Dynamics):**
 
-The mathematical field quantities of LM05 — \( I_c \), \( \vec{J}_c \), \( S \) — formalize the dynamics of motion within Φ₂. The Coherence Potential measures the local availability of structured motion; the Coherence Current measures the directional flow of that motion; the Source Term measures the generation or depletion of motive capacity.
+The mathematical field quantities of `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` — \( I_c \), \( \vec{J}_c \), \( S \) — formalize the dynamics of motion within Φ₂. The Coherence Potential measures the local availability of structured motion; the Coherence Current measures the directional flow of that motion; the Source Term measures the generation or depletion of motive capacity.
 
 In this reading, LM05's field theory may be read as the **formal description of motion within Φ₂**: the mathematics of how the capacity for motion distributes, flows, and transforms across structural space.
 
@@ -81,7 +81,7 @@ In this reading, LM05's field theory may be read as the **formal description of 
 
 Two senses of "field" must be distinguished:
 
-**Mathematical field (LM05):** A function assigning values to points of structural space. Abstract, layer-general, determined by the continuity equation. This is the formal representation.
+**Mathematical field (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`):** A function assigning values to points of structural space. Abstract, layer-general, determined by the continuity equation. This is the formal representation.
 
 **Ontological field (Lattice architecture):** A domain of structural reality — the Field of Becoming (Φ₂), the archetypal Form-field at L₄, the collective resonance field of §9. These are structural realities within the Lattice, not mathematical abstractions.
 
@@ -97,7 +97,7 @@ The layer restriction operator (§2) is the formal mechanism by which the mathem
 
 ### 4.1 Membrane Transfer as Character Translation
 
-When coherence crosses a membrane ⧉ₖ, the transfer function \( T(⧉_k) \) (LM05 §5.4) specifies the quantity transferred. But the character of what is transferred also changes:
+When coherence crosses a membrane ⧉ₖ, the transfer function \( T(⧉_k) \) (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4) specifies the quantity transferred. But the character of what is transferred also changes:
 
 **Proposition (Character Translation at Membrane Boundaries):**
 
@@ -113,7 +113,7 @@ This is declivous centropy (C↓→E): harmonious motion into form, carrying coh
 
 **Proposition (Layer Character Preserves Essence-Distinction):**
 
-By the Collective Non-fusion Principle (LM05 §9.1), participation in a shared resonance field at any layer preserves individual structural signature \( \Psi \). The character function \( \mathfrak{C} \) operates on the field quantity, not on the participating signatures:
+By the Collective Non-fusion Principle (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9.1), participation in a shared resonance field at any layer preserves individual structural signature \( \Psi \). The character function \( \mathfrak{C} \) operates on the field quantity, not on the participating signatures:
 
 \[
 \mathfrak{C}(I_c^{(\text{collective})}\big|_{L_k}) = \mathfrak{C}(I_c\big|_{L_k})
@@ -156,11 +156,11 @@ Each application requires its diagnostic object and admissible readings to be sp
 
 ### 6.2 Layer-Indexed Aion Connection
 
-The Law of Field Nutrient (LM05 §3.2) — that \( S(x, \tau) > 0 \) requires Aion connection — acquires specificity through layer character:
+The Law of Field Nutrient (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.2) — that \( S(x, \tau) > 0 \) requires Aion connection — acquires specificity through layer character:
 
 - At L₅: Aion connection is direct (🛤️ Theon as the EOB)
 - At L₄: Aion connection is archetypal (through Form-fields aligned with ⚫ Aion)
-- At L₃–L₁: Aion connection is mediated (through cross-band resonance, LM06 §8)
+- At L₃–L₁: Aion connection is mediated (through cross-band resonance, `LM06-applied-structural-dynamics.md` §8)
 
 Replenishment at deeper layers requires more direct Aion access; replenishment at denser layers can proceed through mediated pathways. The mathematics is the same (\( S > 0 \) in all cases); the structural topology of Aion access varies by layer.
 

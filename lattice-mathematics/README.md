@@ -359,7 +359,7 @@ If referencing this discipline, cite the work as *Lattice Mathematics: The Forma
 
 The eight volumes are Active and citable as current, and remain open to revision.
 
-The volumes preserve established operator constructions and their stated conditions. Full spectral evolution, CIT conservation and native correspondence, and the other recorded mathematical constructions remain held where their specifications are incomplete. LM03–LM07 carry mathematical treatments applied in the Structural Physics series (SP02–SP12); LM07 also carries the cost and recovery treatment applied in Structural Neuroscience SN05–SN07.
+The volumes preserve established operator constructions and their stated conditions. Full spectral evolution, CIT conservation and native correspondence, and the other recorded mathematical constructions remain held where their specifications are incomplete. LM03–LM07 carry mathematical treatments applied in the Structural Physics series (SP02–SP12); `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` also carries the cost and recovery treatment applied in Structural Neuroscience SN05–SN07.
 
 ---
 

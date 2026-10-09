@@ -62,7 +62,7 @@ LM03 formalized orientation algebra and infinity: the Tripartite Infinity phases
 
 SP02, SP05, and SP06 developed, within the discipline of Structural Physics, the physical theories of temporal flow, structural space, recursive memory, phase collision, and bidirectional traversal.
 
-This document, LM04, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where SP05 describes temporal dynamics, SP06 articulates structural space, and SP02 models phase collision, LM04 establishes the **algebraic, topological, and operator-theoretic foundations** that mathematically articulate those descriptions.
+This document, LM04, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where `SP05-time-memory-hypostatic-flow.md` describes temporal dynamics, `SP06-structural-space-orientation-paradox.md` articulates structural space, and `SP02-bifurcal-cosmogenesis.md` models phase collision, LM04 establishes the **algebraic, topological, and operator-theoretic foundations** that mathematically articulate those descriptions.
 
 ### 1.2 What LM04 Establishes
 

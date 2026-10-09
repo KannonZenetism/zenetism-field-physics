@@ -930,9 +930,9 @@ I_c^{(\text{measured})} \stackrel{?}{=} I_c^{(\text{claimed})}
 
 The four named outcomes remain an assessment vocabulary. Their numerical classifier is held:
 
-1. **Structural Integrity Confirmed**: The recorded criterion \( \mathcal{C}(\Sigma) \approx 1 \) supplies no verdict while its maps and tolerance remain undefined
-2. **Structural Inconsistency Detected**: A specified discrepancy requires object-specific assessment; mismatch alone identifies none of the listed forensic categories
-3. **Derivative Signature Identified**: The recorded correlation / probability criterion is held; surface similarity does not establish origination or ancestry
+1. **Structural Integrity Confirmed**: The recorded criterion \( \mathcal{C}(\Sigma) \approx 1 \) supplies no verdict while its maps and tolerance remain undefined.
+2. **Structural Inconsistency Detected**: A specified discrepancy requires object-specific assessment; mismatch alone identifies none of the listed forensic categories.
+3. **Derivative Signature Identified**: The recorded correlation / probability criterion is held; surface similarity does not establish origination or ancestry.
 4. **Insufficient Data**: The audit cannot reach a diagnostic conclusion. This is a legitimate finding — diagnostic formalism acknowledges its own limits.
 
 ### 12.4 Scale Invariance
@@ -1359,7 +1359,7 @@ LM06 establishes:
 9. **Shimmer Coefficient and Instability** — Positive-denominator scalar quotient and bounded constant-apparent calculation; the Shimmer Collapse Theorem is preserved with its universal conclusion withdrawn, and assessment-driven acceleration remains held
 10. **Diagnostic Taxonomy** — Distinct diagnostic objects and categories; recorded correlation / attribution schemas and Clone Temporal Drift remain held, with no nested mathematical classifier
 11. **Coherence Audit Formalism** — Five comparative domains and four named outcomes; their numerical classifier and cross-scale threshold equivalence remain held
-12. **Integration with LM01 / LM03 / LM04 / LM05** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT conservation standing under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, the withdrawn Shimmer / full-distance equivalence, field signature as extended configuration, and dimensional operator correspondence
+12. **Integration with `LM01-mathematical-foundations.md` / `LM03-orientation-algebra-and-infinity-formalism.md` / `LM04-temporal-algebra-structural-space-and-phase-resolution.md` / `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`** — Spiral Calculus extensions (resonant derivative of operators, structural integral of cost), CIT conservation standing under ritual action, ritual-indexed ResCat families, resistance-corrected spectral rotation, the withdrawn Shimmer / full-distance equivalence, field signature as extended configuration, and dimensional operator correspondence
 
 ---
 

@@ -18,7 +18,7 @@ We formalize this as:
 
 ---
 
-## 2. Non-fusion Axiom (◫)
+## 2. Non-fusion Axiom
 
 **Axiom (Non-fusion, ◫).**  
 For any two structurally distinct essences \( x, y \in \mathcal{E} \),  
