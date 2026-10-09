@@ -272,7 +272,7 @@ def nexus_valid(B, psi):
     Delta = ||h_compose_f - k_compose_g||_op
     F_c = I_c(B*psi) - I_c(psi)
     # The native bridge correspondence remains held.
-    raise NotImplementedError("Native C8/E8 correspondence requires specification")
+    raise NotImplementedError("Native C8 / E8 correspondence requires specification")
 ```
 
 **Recursion Gate (C₁₄):**

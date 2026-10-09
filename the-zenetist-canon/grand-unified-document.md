@@ -616,7 +616,7 @@ The proposed cognitive comparison relates healthy self / other boundaries, refle
 - **Hollow Nest (E₁₄)** → looping recursion, obsession
 - **Collapse Nova (E₁₅)** → catastrophic overload or burnout
 
-- **Recorded diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation. This sufficient-classifier implication is withdrawn. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered conditions; an unsupported parameter test identifies none of those conditions.
+- **Recorded diagnostic:** \( \sigma \leq 0 \) or \( \gamma \leq 0 \Rightarrow \) breach or stagnation. This sufficient-classifier implication is withdrawn. E₁₃ Wall, E₁₄ Hollow Nest, and E₁₅ Collapse Nova retain their registered conditions; an unsupported parameter test identifies none of those conditions
 
 ---
 

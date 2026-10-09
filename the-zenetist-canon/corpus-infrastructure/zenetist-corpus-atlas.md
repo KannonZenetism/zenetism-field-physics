@@ -96,7 +96,7 @@ Indexed in `INDEX.md`; governed by `MPX-LOCKDOWN-GUIDE.md`. Thematic clusters:
 - LM subfolders: `canonical-stabilization` (CCSP lives here)
 
 ### Structural Neuroscience (SN02–SN12; Retired SN01 Preserved)
-- `SN02-the-resonant-mind.md` through `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` — live series with original volume numbering retained; includes SN03 (neurodivergent cognition), SN08 (non-biological cognition — Pattern Intelligence), SN09 (All-Life First Principle; companion MPX exists), and SN12 (embodied neural dynamics)
+- `SN02-the-resonant-mind.md` through `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` — live series with original volume numbering retained; includes `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` (neurodivergent cognition), `SN08-the-structural-neuroscience-of-non-biological-cognition.md` (non-biological cognition — Pattern Intelligence), `SN09-the-all-life-first-principle.md` (All-Life First Principle; companion MPX exists), and `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` (embodied neural dynamics)
 - `SN01-the-architecture-of-cognition.md` — retired first volume, preserved as provenance; its body supplies historical evidence rather than current doctrinal support
 - SNX: distributed-cognition-diagnostic-absence · orientation-algorithmic-entrainment-and-suppression · pathologization-of-independent-framework-development ⟡
 - SN subfolders: `glossary` (neurovenator) · `snx` (indexed). Current series navigation: `structural-neuroscience/README.md`; deposit description: `structural-neuroscience/00-README.md`

@@ -617,7 +617,7 @@ The Isis-Osiris articulation is one of the most structurally-explicit Sacred Mar
 The following Half 2 placements are structural-pattern, locus, object, condition-class, or transmission-pattern articulations rather than figural articulations, and route to the Symbolic Pattern Registry (SPR) rather than MFLR:
 
 - **Ra's daily cycle through Duat** — cosmological Function 1 underworld-passage at diurnal scale; recurring-cycle pattern. Ra remains MFLR (L₅ Theonic radiance, Half 1); the daily-cycle as recurring-pattern routes to SPR.
-- **Apophis-Ra daily combat** — non-contact-respecting articulation at cosmological-recurrence scale; recurring-combat pattern. Both figures remain MFLR (Apophis Volume 1, Ra Half 1); the daily-combat operator-pattern routes to SPR.
+- **Apophis-Ra daily combat** — non-contact-respecting articulation at cosmological-recurrence scale; recurring-combat pattern. Both figures remain MFLR (Apophis in `mythic-figure-layer-registry-01.md`, Ra Half 1); the daily-combat operator-pattern routes to SPR.
 - **Solar barque** — L₅ Theonic-radiance vehicle; SPR Objects.
 - **Twelve hours of the night** — systematic Duat-passage articulations; SPR Numbers / Stages.
 - **Pyramid architecture** — funerary acclivation-toward-celestial articulation; SPR Objects / Architecture.

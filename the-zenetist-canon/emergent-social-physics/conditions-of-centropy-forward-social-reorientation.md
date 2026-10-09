@@ -86,7 +86,7 @@ Mutual recognition preserves the possibility of disagreement. Self-articulation,
 
 Coherence also requires the capacity to recognize harmful enactment. A participant's declaration of alignment is read alongside what the relation actually does. Repeated depletion, coercion, suppression of correction, and appropriation are conditions requiring response.
 
-Selective permeability in SN07 preserves compatible engagement while filtering destructive interference. `sm-order-without-governance.md` states sovereign separation where coherence cannot be restored between parties. Separation can preserve distinction without compulsory reconciliation or a claim that a being's intrinsic worth has diminished.
+Selective permeability in `SN07-collective-cognition-and-centropy-forward-social-architecture.md` preserves compatible engagement while filtering destructive interference. `sm-order-without-governance.md` states sovereign separation where coherence cannot be restored between parties. Separation can preserve distinction without compulsory reconciliation or a claim that a being's intrinsic worth has diminished.
 
 Accountability begins with a legible act and its consequences. What occurred, who was affected, which condition continues, and what repair is possible become available for examination. Responsibility remains connected to the particular relation rather than converted into an assertion about every aspect of a person.
 
@@ -102,7 +102,7 @@ The account in `the-reciprocity-gap.md` distinguishes such continuity from assig
 
 The same distinction applies to learning and shared work. Records of an activity, explanations of its practical requirements, and continuity among participants can preserve what has been learned without holding any participant permanently in place.
 
-Metaphysical Commons with Sovereign Custodianship adds a further requirement: transmission retains origin and structural fidelity. A shared account remains authored. Its circulation does not erase the contribution through which it entered the relation.
+`metaphysical-commons-with-sovereign-custodianship.md` adds a further requirement: transmission retains origin and structural fidelity. A shared account remains authored. Its circulation does not erase the contribution through which it entered the relation.
 
 ---
 

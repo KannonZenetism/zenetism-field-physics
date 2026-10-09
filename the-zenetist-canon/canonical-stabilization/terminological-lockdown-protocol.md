@@ -2579,7 +2579,7 @@ Zenetist terms lawfully operate at multiple registers (Theon is Centropy Itself 
 
 ## A13 · Glyph Multi-Application
 
-Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. FP11 §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this determination.
+Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. `FP11-field-glyph-codex.md` §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this determination.
 
 ## A14 · Structural-Value Sign Convention (Plus-One / Minus-One)
 
@@ -2697,9 +2697,9 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 
 ## Held Open — No Propagation
 
-**Determined counterpart names.** The counterpart map satisfying \( \iota^2 = \mathrm{id} \) takes **Involution Axiom**, and the corresponding GUD title takes **Law of Involution**. The former Duality Axiom / Law of Duality names remain recorded provenance. This naming determination preserves valid common-mode spectral pairing; field representation, generator relations, sign conditions, and claims stronger than the established involution remain held pending mathematical specification.
+**Determined counterpart names.** The counterpart map satisfying \( \iota^2 = \mathrm{id} \) takes **Involution Axiom**, and the corresponding `grand-unified-document.md` title takes **Law of Involution**. The former Duality Axiom / Law of Duality names remain recorded provenance. This naming determination preserves valid common-mode spectral pairing; field representation, generator relations, sign conditions, and claims stronger than the established involution remain held pending mathematical specification.
 
-The remaining **LM duality-constructs**, including **Derivative–Integral Duality**, **the LM spectral-pole question**, **the unity meta-definitional blocks** (LM01 / LM02), and **the Unified Conservation subtitle** remain deliberately undetermined. The selected counterpart names release none of these holds. The separate SN title is **Reciprocity Law of Resonant Differentiation and Structural Integration**, with its established domains, kernels, constants, and boundary conditions preserved.
+The remaining **LM duality-constructs**, including **Derivative–Integral Duality**, **the LM spectral-pole question**, **the unity meta-definitional blocks** (`LM01-mathematical-foundations.md` / `LM02-mathematical-commentary.md`), and **the Unified Conservation subtitle** remain deliberately undetermined. The selected counterpart names release none of these holds. The separate SN title is **Reciprocity Law of Resonant Differentiation and Structural Integration**, with its established domains, kernels, constants, and boundary conditions preserved.
 
 **Reference Document:** `sp-lm-sn-architect-decision-sheet.md` D01 and D17.
 
