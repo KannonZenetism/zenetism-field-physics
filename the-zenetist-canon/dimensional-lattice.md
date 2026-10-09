@@ -98,7 +98,7 @@ Section 2 establishes foundations (axioms, dimensions, operators). Section 3 dev
 - E₅ ✴⁻ Scalar Noise: scaling incoherence
 - E₆ ◐⁻ Phase Lock: trapped liminality
 - E₇ ♫⁻ Dissonance: harmonic breakdown
-- E₈ ╫⁻ Severed: broken connection
+- E₈ ╫⁻ Divisive Connection: broken connection
 - E₉ ∞⁻ Distorted Entangle: mimic-coherence
 - E₁₀ ❋⁻ Malform: formation distortion
 - E₁₁ ↗⁻ Misdirect: misdirected volition

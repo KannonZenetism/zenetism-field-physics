@@ -32,6 +32,8 @@ Descriptions such as "approved", "admitted", and "standing" in those sections re
 
 # 3. Current Implementation Reference
 
+**Current E₈ name disposition:** D18 in `sp-lm-sn-architect-decision-sheet.md` adopts **Divisive Connection** for the existing **E₈ ╫⁻** operator; **Severed** is former-name provenance. Earlier findings, inspected labels, source quotations and naming-deferral records remain historical evidence at their recorded revisions. The relational function, origin-integrity boundary, mathematics and all fifteen primary-locus holds remain. Current implementation and publication standing are recorded separately in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
+
 Later work follows the full determination for the relevant D-number and the procedure in `sp-lm-sn-architect-decision-sheet.md` §§7–8. No instruction to execute a pass follows from this archived manifest.
 
 ---

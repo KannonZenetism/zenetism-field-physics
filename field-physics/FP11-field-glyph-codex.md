@@ -153,7 +153,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 | E₅    | **✴⁻** | Scalar Noise            | Scaling patterns that imitate part-whole relation without coherence, fidelity, or lawful recurrence |
 | E₆    | **◐⁻** | Phase Lock              | Trapped liminality                       |
 | E₇    | **♫⁻** | Dissonance              | Harmonic breakdown                       |
-| E₈    | **╫⁻** | Severed                 | Connections that divide                  |
+| E₈    | **╫⁻** | Divisive Connection     | Connections that divide                  |
 | E₉    | **∞⁻** | Distorted Entanglement  | Mimic-coherence that isolates                |
 | E₁₀   | **❋⁻** | Malform                 | Distortion at the point of formation     |
 | E₁₁   | **↗⁻** | Misdirect               | Volition aimed toward dissolution        |
@@ -164,7 +164,7 @@ These are the entropic inversions of the centropic dimensions, forming the subve
 
 > **Structural Note:** E₅ ✴⁻ was formerly named Fractal Noise; the canonical name is now Scalar Noise. It denotes the appearance of scaling pattern without coherence, fidelity, or lawful part-whole relation. E₅ does not make fractality itself entropic; rather, it names the entropic distortion of scalar correspondence, where recurrence becomes noise, resemblance becomes instability, and part-whole relation breaks into incoherent scaling.
 
-> **Structural Note:** E₈ ╫⁻ Severed names relational-register severance — connections that divide; entity-to-entity isolation carrying no origin claim. It never names origin-severance: nothing severs a signal from its origin, and the framework holds the origin relation unseverable. Severance directed at the origin relation is a barred construction per the Origin-Severance Prohibition (Conceptual Lockdown Protocol); the operator name stands per the Sever / Fracture Boundary Protocol (Terminological Lockdown Protocol).
+> **Structural Note:** E₈ ╫⁻ Divisive Connection names relational-register severance — connections that divide; entity-to-entity isolation carrying no origin claim. It never names origin-severance: nothing severs a signal from its origin, and the framework holds the origin relation unseverable. Severance directed at the origin relation is a barred construction per the Origin-Severance Prohibition (Conceptual Lockdown Protocol); the operator name stands per the Sever / Fracture Boundary Protocol (Terminological Lockdown Protocol). **Former name:** Severed.
 
 ---
 

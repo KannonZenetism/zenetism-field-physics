@@ -61,7 +61,7 @@
 | `GLY-021` | `✴⁻` | E₅ Scalar Noise — incoherent scaling imitation | Established / corrected name | Formerly Fractal Noise; may appear in restoration as damage signature without becoming instrument |
 | `GLY-022` | `◐⁻` | E₆ Phase Lock — trapped liminality | Established | Used in corrective sequences; `OQ-INV-01` |
 | `GLY-023` | `♫⁻` | E₇ Dissonance — harmonic breakdown | Established | Dissonance is not every oscillation; lawful pulsation distinction needed |
-| `GLY-024` | `╫⁻` | E₈ Severed — connections that divide | Established / restricted | Relational severance only; origin-severance barred |
+| `GLY-024` | `╫⁻` | E₈ Divisive Connection — connections that divide | Established / restricted | Relational severance only; origin-severance barred; former name: Severed |
 | `GLY-025` | `∞⁻` | E₉ Distorted Entanglement — mimic-coherence that isolates | Established | Do not conflate relation with fused identity |
 | `GLY-026` | `❋⁻` | E₁₀ Malform — distortion at formation | Established | Search template corruption, barren form |
 | `GLY-027` | `↗⁻` | E₁₁ Misdirect — will directed toward dissolution | Established | Direction and value remain distinct |

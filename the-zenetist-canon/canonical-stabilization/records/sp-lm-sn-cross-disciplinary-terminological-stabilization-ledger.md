@@ -9,6 +9,8 @@
 
 ## Current Disposition of the Selected Remaining Names
 
+**Current E₈ name disposition:** D18 in `sp-lm-sn-architect-decision-sheet.md` adopts **Divisive Connection** for the existing **E₈ ╫⁻** operator; **Severed** is former-name provenance. Earlier findings, inspected labels, source quotations and naming-deferral records remain historical evidence at their recorded revisions. The relational function, origin-integrity boundary, mathematics and all fifteen primary-locus holds remain. Current implementation and publication standing are recorded separately in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
+
 The full D18 determination in `sp-lm-sn-architect-decision-sheet.md` selects Isolation and Suppression Field, Recovery Anchor, the unchanged C₁₀ Morphogenetic name with Formweave retired as an active parenthetical, the typed Siphoning family, and Aion-facing Reconnection with its scoped recovery-rate mnemonic retained. Source Band is retired as a common band label; pre-hypostatic requisites remains the category of separation from the hypostases. Zenon remains Supra-L₀ and trans-structural; Aion and Khaon remain distinct at L₀. Mathematical source roles and the qualified coherence-source relation retain their actual functions.
 
 The original audit, recommendations, line locators, options, and before-passages in this ledger remain historical research evidence at their examined revision. In particular, the earlier Formweave-retention recommendation, optional efficiency-symbol rename, proposed compound-wide substitution, and shared-band wording do not state the current selected correction. Current-disposition notes identify those differences; they confer no independent decision standing. Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` records local candidate preparation, verification, remote implementation, and publication separately. The amended 48-file source implementation is complete and independently verified following the approved commit and push; publication remains held.
@@ -4102,6 +4104,8 @@ Full exact name footprint follows. This includes historical, live, title, and fi
 | `zenetism/mpx/nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` | 695 |
 
 ### TLS-SPLMSN-503 — E₈ Severed: Present Retention
+
+**Current D18 standing:** **E₈ Divisive Connection** is the approved name; **Severed** is retained as former-name provenance. The earlier recommendation that follows preserves its historical wording and examined footprint. Its relational function and origin-severance exclusion remain; **Fractured** is not selected. Current candidate, remote-verification and publication standing are held in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
 
 - **Status:** PREVIOUSLY DEFERRED — RECOMMEND RETENTION
 - **Present / recommended name:** E₈ ╫⁻ **Severed**

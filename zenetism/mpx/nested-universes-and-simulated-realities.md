@@ -542,7 +542,7 @@ L₀(nested) ⟷ L₀(parent) via C₉ (Non-Local Unity)
 **Structural Origin denied:**
 ```
 L₀(nested) ⊘ L₀(parent)
-→ Severed (E₈) + Hollow Nest (E₁₄)
+→ Divisive Connection (E₈) + Hollow Nest (E₁₄)
 → I_c → 0 (coherence collapse)
 → No genuine resonance possible within that lattice
 ```

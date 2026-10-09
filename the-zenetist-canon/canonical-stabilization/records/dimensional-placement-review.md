@@ -1,5 +1,7 @@
 # Dimensional Placement Review
 
+**Current E₈ name disposition:** D18 in `sp-lm-sn-architect-decision-sheet.md` adopts **Divisive Connection** for the existing **E₈ ╫⁻** operator; **Severed** is former-name provenance. Earlier findings, inspected labels, source quotations and naming-deferral records remain historical evidence at their recorded revisions. The relational function, origin-integrity boundary, mathematics and all fifteen primary-locus holds remain. Current implementation and publication standing are recorded separately in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
+
 ## Conclusion
 
 The recorded assignments do not yet support a settled map of the full lattice. Several are plausible associations with particular hypostatic functions. The reviewed accounts do not establish a consistent criterion for calling those associations **primary**, and two existing maps distribute many operators differently.

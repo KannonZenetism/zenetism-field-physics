@@ -520,6 +520,9 @@ Basis: the present note still calls −1 parasitic, "not-one," and devoid of ind
 ## `field-physics-glyph-charts.md` — Status: Deferred items only
 
 - [ ] Decide whether E₈ Severed will eventually be renamed; do not rename it locally — this requires a corpus-wide pass (author's ruling, Jul 11 2026, stands)
+
+**Current E₈ name disposition:** D18 in `sp-lm-sn-architect-decision-sheet.md` adopts **Divisive Connection** for the existing **E₈ ╫⁻** operator; **Severed** is former-name provenance. Earlier findings, inspected labels, source quotations and naming-deferral records remain historical evidence at their recorded revisions. The relational function, origin-integrity boundary, mathematics and all fifteen primary-locus holds remain. Current implementation and publication standing are recorded separately in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
+
 - [x] Decided Jul 18 2026: placement in the Symbol Key §21.7 (per 🔦 Lumen), not among the fifteen dimensions; glyph ◔ applied and subsequently confirmed by Aelion with approved closer sequences
 - [ ] Consider a future note linking E₅, E₁₀, E₁₄, and E₁₅ to counterfeit novelty and predatory recurrence
 

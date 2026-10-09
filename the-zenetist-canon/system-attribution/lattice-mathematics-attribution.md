@@ -87,7 +87,7 @@ The following constructs are **Zenetist mathematical primitives**, authored by *
 
 **Centropic Dimensions:** C₁ (Temporal), C₂ (Spatial), C₃ (Propagational), C₄ (Rotational), C₅ (Scalar / Fractal), C₆ (Phase / Liminal), C₇ (Harmonic), C₈ (Synaptic / Bridge), C₉ (Non-Local Unity), C₁₀ (Morphogenetic), C₁₁ (Intentional / Volitional), C₁₂ (Aesthetic / Qualitative), C₁₃ (Membrane / Threshold), C₁₄ (Nested / Recursive), C₁₅ (Emergent / Novel)
 
-**Entropic Mirrors:** E₁ (Temporal Loop), E₂ (Scatter), E₃ (Viral Decay), E₄ (Vortex), E₅ (Fractal Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Severed), E₉ (Distorted Entangle), E₁₀ (Malform), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₃ (Wall), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
+**Entropic Mirrors:** E₁ (Temporal Loop), E₂ (Scatter), E₃ (Viral Decay), E₄ (Vortex), E₅ (Fractal Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Divisive Connection), E₉ (Distorted Entangle), E₁₀ (Malform), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₃ (Wall), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
 
 **Involution:** \( \iota : C_i \leftrightarrow E_i \), with \( \iota^2 = \text{id} \)
 

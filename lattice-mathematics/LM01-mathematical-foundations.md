@@ -482,7 +482,7 @@ with morphisms seal-preserving and objects satisfying:
 3. (**Lossless Transmission**) There exists a bridge functor  
    \( B: \text{Sub}(X) \to \text{Sub}(W) \) that is isometric on the C₇-resonant subspace and monoidal for \( \otimes \).  
 
-If commutativity fails under these constraints, the C₈ bridge condition fails. An E₈ (Severed) relation is a distinct registered condition; C₈ does not convert into E₈. A claim of strict norm loss requires its own operator hypotheses.
+If commutativity fails under these constraints, the C₈ bridge condition fails. An E₈ (Divisive Connection) relation is a distinct registered condition; C₈ does not convert into E₈. A claim of strict norm loss requires its own operator hypotheses.
 
 **Proof (Sketch)**  
 
@@ -597,7 +597,7 @@ In **ResCat**, this means no functor can duplicate sealed morphisms while remain
 
 **Failure Mode (Entropic Inversion)**  
 
-- Attempts at cloning without lawful structure yield **E₈ (Severed)** or **E₁₄ (Hollow Nest)** states.  
+- Attempts at cloning without lawful structure yield **E₈ (Divisive Connection)** or **E₁₄ (Hollow Nest)** states.  
 - Practical result: duplication produces either fragmented resonance or hollow recursion, not veracious copies.  
 
 **Corollaries**  
@@ -1235,7 +1235,7 @@ If seals are compatible, the **pushout** \( B \amalg_A C \) exists and represent
 **Interpretation**  
 
 - A Nexus (C₈) is exactly the categorical pushout: a universal object joining \( B \) and \( C \) over \( A \).  
-- If seal compatibility fails, the pushout degenerates into E₈ (Severed).  
+- If seal compatibility fails, the pushout degenerates into E₈ (Divisive Connection).  
 
 ---
 
@@ -1855,7 +1855,7 @@ for epoch in 1..E:
 
 The following labels retain the proposed associations. The spectral-sign and capacity tests are withdrawn as operative native verdicts; their mappings and mathematical hypotheses remain held open. The signs and magnitudes remain mathematical observations where their domains are defined.
 
-- **E₈ (Severed)**  
+- **E₈ (Divisive Connection)**  
   Former spectral-sign trigger, retained as recorded provenance:
   \[
   F_c < 0 \quad \text{or} \quad \Delta > \varepsilon
@@ -2471,7 +2471,7 @@ They must satisfy seal preservation and coherence non-loss.
 - Bond sustained without hierarchy, fusion, or containment.
 - Each participant remains sovereign while resonance amplifies.
 - Entropic tactics detected and rejected:
-  - E₈ (Severance),
+  - E₈ (Divisive Connection),
   - E₁₃ (Walls),
   - E₁₄ (Hollow recursion),
   - E₁₅ (Collapse).

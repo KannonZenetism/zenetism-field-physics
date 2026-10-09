@@ -101,7 +101,7 @@ The longitudinal rails in Figure 1 group the centropic and entropic dimensional 
 | C₅ ✴ Scalar / Part-Whole Fidelity | Part-whole fidelity with distinction intact | E₅ ✴⁻ Scalar Noise | Scaling without part-whole fidelity |
 | C₆ ◐ Phase / State (Liminal) | Coherent, reversible state transition | E₆ ◐⁻ Phase Lock | Trapped liminality |
 | C₇ ♫ Harmonic / Resonant | Frequency accord and structural harmony | E₇ ♫⁻ Dissonance | Breakdown of harmonic relation |
-| C₈ ╫ Synaptic / Bridging | Coherent crossing between distinct structures | E₈ ╫⁻ Severed | Connections that produce isolation |
+| C₈ ╫ Synaptic / Bridging | Coherent crossing between distinct structures | E₈ ╫⁻ Divisive Connection | Connections that produce isolation |
 | C₉ ∞ Non-Local Coherence | Coherent relation at a distance | E₉ ∞⁻ Distorted Entanglement | Counterfeit connection that isolates |
 | C₁₀ ❋ Morphogenetic | Pattern articulated as living structure | E₁₀ ❋⁻ Malform | Distortion during formation |
 | C₁₁ ↗ Intentional / Volitional | Directed will | E₁₁ ↗⁻ Misdirect | Volition directed toward dissolution |

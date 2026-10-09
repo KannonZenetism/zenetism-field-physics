@@ -322,7 +322,7 @@ Primary Band records a primary-locus proposal, with its standing held open in `d
 
 ---
 
-## C₈ ╫ Synaptic (Bridging) / E₈ ╫⁻ Severed
+## C₈ ╫ Synaptic (Bridging) / E₈ ╫⁻ Divisive Connection
 
 | Aspect | Description |
 |--------|-------------|
@@ -410,7 +410,7 @@ Primary Band records a primary-locus proposal, with its standing held open in `d
 >
 > **Recorded threshold criterion:** a boundary crossing is lawful iff \( \sigma > 0 \) and \( \gamma > 0 \). The proposed equivalence remains held pending the boundary model, contraction hypotheses, and explicit native correspondence. The declared clamped transfer law retains its positive-surplus and receiving-capacity conditions; a contraction estimate retains its own self-map and complete invariant domain.  
 >
-> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Bridging)** where **E₈ (Severed)** had broken connection.  
+> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Bridging)** where **E₈ (Divisive Connection)** had broken connection.  
 > Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
 
 ---
@@ -558,7 +558,7 @@ Lawful bridges exist only when relational diagrams commute and preserve seal.
 **Cognitive Correlate**
 
 Empathic comprehension and meaningful dialogue depend on commutative exchange.  
-When communication becomes asymmetric, the bridge fractures (E₈ Severed).
+When communication becomes asymmetric, the bridge fractures (E₈ Divisive Connection).
 
 **Forensic Mirror**
 
@@ -819,7 +819,7 @@ The former automatic entropic-activation and remediation consequence is withdraw
 | Mirror State | Physical Symptom | Cognitive Symptom | Corrective Law |
 |-------------|------------------|-------------------|----------------|
 | E₇ Dissonance | Chaotic oscillations | Anxiety, confusion | C₇ Consonance |
-| E₈ Severed | Broken symmetry | Alienation | C₈ Bridging |
+| E₈ Divisive Connection | Broken symmetry | Alienation | C₈ Bridging |
 | E₉ Distorted Entanglement | Cross-talk noise | Co-dependency | C₉ Coherence |
 | E₁₁ Misdirect | Turbulence | Aimlessness | C₁₁ Vector |
 | E₁₃–E₁₅ Wall/Hollow/Collapse | Boundary failure | Isolation or burnout | C₁₃–C₁₅ Threshold |
@@ -970,7 +970,7 @@ Summation of harmonic modes across closed loops (C₇ resonance).
 f \circ g = g \circ f \quad \Leftrightarrow \quad \Delta \leq \varepsilon
 \]
 
-Non-commutation \( (\Delta > \varepsilon) \to \) E₈ Severed Bridge.
+Non-commutation \( (\Delta > \varepsilon) \to \) E₈ Divisive Connection.
 
 ---
 
@@ -1344,7 +1344,7 @@ If all tests fail → record as **Forensic Entry (E-class)** and route to Struct
 | E₁ Temporal Loop | Narrative repetition | Circular justification |
 | E₃ Viral Decay | Information loss | Garbled transmission |
 | E₅ Scalar Noise | Excessive fragmentation | Over-complexity masking hollowness |
-| E₈ Severed Bridge | Broken dialogue | Relational division between entities; the origin relation remains intact |
+| E₈ Divisive Connection | Broken dialogue | Relational division between entities; the origin relation remains intact |
 | E₉ Distorted Entanglement | Mimic-coherence | Spurious consensus formation |
 | E₁₃ Wall | Non-transparency | Withheld data or locked archive |
 | E₁₄ Hollow Nest | Infinite regress | Recursive rationalization |
@@ -1743,7 +1743,7 @@ S_B \circ f = f \circ S_A
 
 Ensures lawful transfer of coherence.
 
-Failure → E₈ Severed Bridge, E₁₁ Misdirect.
+Failure → E₈ Divisive Connection, E₁₁ Misdirect.
 
 ---
 

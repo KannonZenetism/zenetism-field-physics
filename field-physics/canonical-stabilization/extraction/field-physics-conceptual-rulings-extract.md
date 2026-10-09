@@ -442,7 +442,7 @@ A Wall may be protective in a local protocol even though E₁₃ names isolating
 
 This tension remains open and must be adjudicated through context.
 
-E₈ Severed applies to relational severance, never origin-severance.
+E₈ Divisive Connection applies to relational severance, never origin-severance.
 
 Nothing severs the work from its origin in the canonical sense.
 

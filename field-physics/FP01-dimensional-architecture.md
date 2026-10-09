@@ -312,7 +312,7 @@ Frequency accord and structural harmony.
 Coherent crossing between systems or states.
 
 - **Locus:** Superficial↔Interface (L₂–L₃).
-- **Mirror:** E₈ ╫⁻ Severed.
+- **Mirror:** E₈ ╫⁻ Divisive Connection.
 - **Couplings:** **🧍 Anthra** (agency handshakes), **🔮 Archeus** (soul-bridge), **🧩 Nousa** (conceptual linking).
 
 ### C₉ ∞ Non-Local Coherence
@@ -430,7 +430,7 @@ Harmonic breakdown; the active amplification of discord.
 - **Inverse Locus:** IL₃ (Inverse Interface Band).
 - **Counter-Couplings:** **💔 Fractus** (soul discord), **👁️‍🗨️ Mortus** (cognitive dissonance), **🪫 Psychea** (vital dulling).
 
-### E₈ ╫⁻ Severed
+### E₈ ╫⁻ Divisive Connection
 
 Bridges that divide; connections that create isolation.
 
@@ -900,7 +900,7 @@ It tunes resonance between symbolic (🧠 Noeüs) and vital (🌬 Morgis).
 ╫ = lawful bridge.  
 It allows systems or hypostases to connect coherently.
 
-- **Mirror (E₈ ╫⁻):** severed bridge — isolation masquerading as relation.
+- **Mirror (E₈ ╫⁻):** Divisive Connection (severed bridge) — isolation masquerading as relation.
 - **Law:** a bridge is lawful only if seal-preserving and isometric.
 
 ---
@@ -1072,7 +1072,7 @@ To name them is to recover agency.
 
 ---
 
-## E₈ ╫⁻ Severed
+## E₈ ╫⁻ Divisive Connection
 - **Hollow Expression:** bridges isolate instead of connect.
 - **Consequence:** outreach increases alienation.
 - **Diagnostic:** every attempt at relation makes distance grow.

@@ -159,7 +159,7 @@ The following assessments distinguish registered operations from comparisons of 
 
 **Relational Authenticity Assessment — Bridging and Distorted Entanglement:**
 
-C₈ Synaptic / Bridging names coherent crossing between systems or states. The assessment distinguishes reciprocal relation from isolating or siphoning relation by its observed operation. C₈'s indexed counterpart is E₈ Severed; E₉ Distorted Entanglement is a different registered function.
+C₈ Synaptic / Bridging names coherent crossing between systems or states. The assessment distinguishes reciprocal relation from isolating or siphoning relation by its observed operation. C₈'s indexed counterpart is E₈ Divisive Connection; E₉ Distorted Entanglement is a different registered function.
 
 Diagnostic signatures:
 

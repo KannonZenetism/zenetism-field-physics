@@ -2304,7 +2304,9 @@ The acquisition-sense capture (**Prepublication Contextual Capture**, **Persiste
 
 ## Named-Operator Retention
 
-The Field Physics dimensional operator **E₈ (╫⁻, Severed)** — the entropic inversion of C₈ Synaptic / Bridging, charted core function "Connections that divide," charted in `FP11-field-glyph-codex.md` §3 (mirrored in the extract registry `field-physics-glyph-charts.md`) — stands as-is. The name is consistent with this boundary: it names relational-register severance (connections that divide; entity-to-entity isolation carrying no origin claim), never origin-severance. This boundary applies to prose constructions, not charted operator names; a charted name is an exact string. A rename of E₈ remains registered as deferred (the corpus-wide sweep exceeds current work; flagged for later care); nothing in this section licenses a local patch.
+The Field Physics dimensional operator **E₈ (╫⁻, Divisive Connection)** retains the charted core function "Connections that divide" in `FP11-field-glyph-codex.md` §3 and its `field-physics-glyph-charts.md` twin. It names connections whose operation divides or isolates within the relational register, never origin-severance. C₈ Synaptic / Bridging remains its independently emanated centropic counterpart. The glyph, index, registered function, mathematics, and all fifteen primary-locus holds remain exact.
+
+**Former name:** Severed. Its earlier exact-string retention and deferred-rename standing remain recorded provenance; D18 in `sp-lm-sn-architect-decision-sheet.md` adopts Divisive Connection for the same function. Active definitions and same-operator references take the approved name together. Ordinary non-origin severance descriptions, historical testimony, retired bodies, and former-name records retain their distinct standing.
 
 ## Audit Guidance
 

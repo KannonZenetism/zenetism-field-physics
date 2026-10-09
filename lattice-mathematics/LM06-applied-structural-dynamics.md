@@ -1057,7 +1057,7 @@ The dimensional operators acquire specific applied functions within LM06:
 
 **C₈ — Synaptic / Bridging:**
 - Coherent crossing between systems or states; relational authenticity remains a separate assessment
-- Indexed counterpart E₈: Severed, connections that divide. E₉ Distorted Entanglement is a distinct isolating mimetic relation, not C₈'s counterpart
+- Indexed counterpart E₈: Divisive Connection, connections that divide. E₉ Distorted Entanglement is a distinct isolating mimetic relation, not C₈'s counterpart
 
 **C₁₀ — Morphogenetic:**
 - Registered translation of pattern into living structure; form / generative-function comparison is a distinct assessment

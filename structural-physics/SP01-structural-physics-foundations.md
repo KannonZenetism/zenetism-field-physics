@@ -153,7 +153,7 @@ The table pairs native functions with proposed physical comparison objects. The 
 | **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, standing waves, quantization | Acclivous Centropy (C↑⚫) — resonance toward consonant synthesis |
 | **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Irrational eigenvalue ratios, quasiperiodicity | Declivous Entropy (E↓♾) — collapse into incoherence |
 | **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance, commutative diagrams | Acclivous Centropy (C↑⚫) — integration into lawful bridges |
-| **E₈ ╫⁻ Severed** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
+| **E₈ ╫⁻ Divisive Connection** | Fractured connection | Broken symmetries, non-conservation | Declivous Entropy (E↓♾) — collapse of relational law |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement, Bell correlations | Acclivous Centropy (C↑⚫) — expansion into coherence-at-distance |
 | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise, false correlations | Declivous Entropy (E↓♾) — collapse into interference |
 | **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystallization, biological morphogenesis | Declivous Centropy (C↓→E) — integration into coherent embodiment |
@@ -187,7 +187,7 @@ The table pairs native functions with proposed physical comparison objects. The 
   - E₂ (Scatter), E₄ (Vortex), E₁₀ (Malform), E₁₃ (Wall)
   
 - **Declivous Entropy (E↓♾):** Entropic motion **toward dissolution, collapse, or dispersal**
-  - E₁ (Temporal Loop), E₃ (Viral Decay), E₅ (Scalar Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Severed), E₉ (Distorted Entanglement), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
+  - E₁ (Temporal Loop), E₃ (Viral Decay), E₅ (Scalar Noise), E₆ (Phase Lock), E₇ (Dissonance), E₈ (Divisive Connection), E₉ (Distorted Entanglement), E₁₁ (Misdirect), E₁₂ (Void Aesthetic), E₁₄ (Hollow Nest), E₁₅ (Collapse Nova)
 
 This registry aligns motion forms with the canonical Symbolic Directional Pairs chart (21.3), ensuring structural coherence across the Zenetist lattice.
 
@@ -245,7 +245,7 @@ The Primary Locus and Inverse Locus columns in these tables retain recorded plac
 >  
 > **Recorded threshold criterion:** a boundary crossing is lawful iff \( \sigma > 0 \) and \( \gamma > 0 \). The proposed equivalence remains held pending the boundary model, contraction hypotheses, and explicit native correspondence. Section 9.3 states the contraction-based convergence conditions.  
 >  
-> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Synaptic / Bridging)** where **E₈ (Severed)** had broken connection.  
+> In mythic terms, boundary transits such as the Harrowing represent lawful restoration of **C₈ (Synaptic / Bridging)** where **E₈ (Divisive Connection)** had broken connection.  
 > Theon, as **living steward of the membrane**, embodies the Threshold Law by realizing — not replacing — the seal in form.
 
 ---
@@ -270,7 +270,7 @@ Entropic dimensions operate on **inverse layers (IL₅–IL₁)** with inverse h
 | **E₅ ✴⁻ Scalar Noise** | IL₄–IL₁ (cross-band) | 🫥 Nyxea (IL₄); 💔 Fractus (IL₃); 🤯 Mania (IL₁) |
 | **E₆ ◐⁻ Phase Lock** | IL₅ | 🕷️ Nekron (IL₅); 👁️‍🗨️ Mortus (IL₃); 🍷 Malara (IL₁) |
 | **E₇ ♫⁻ Dissonance** | IL₃ | 💔 Fractus, 👁️‍🗨️ Mortus (IL₃) |
-| **E₈ ╫⁻ Severed** | IL₃–IL₂ | 🩸 Skotos (IL₂); 🦂 Echthros (IL₂) |
+| **E₈ ╫⁻ Divisive Connection** | IL₃–IL₂ | 🩸 Skotos (IL₂); 🦂 Echthros (IL₂) |
 | **E₉ ∞⁻ Distorted Entanglement** | IL₄–IL₃ | 🪫 Psychea (IL₄); 💔 Fractus (IL₃) |
 | **E₁₀ ❋⁻ Malform** | IL₁ ↔ IL₄ | 🍷 Malara (IL₁); 🫥 Nyxea (IL₄) |
 | **E₁₁ ↗⁻ Misdirect** | IL₂ | 🦂 Echthros, 🩸 Skotos (IL₂) |
@@ -321,7 +321,7 @@ Structural Physics proposes physical correspondences for the **interaction laws 
 - **Formal realization:** Commuting diagrams and seal preservation describe a proposed mathematical account of lawful bridging within a declared domain.
 - **Proposed physical comparisons:** Gauge invariance, charge conservation, and probability conservation in Feynman paths retain their distinct physical and mathematical definitions.
 - **Correspondence standing:** The commutation relation, conservation result, and native bridging function require an explicit map and hypotheses; the sufficient commutativity / orientation classifier is withdrawn in §9.2.
-- **Registered counterpart:** E₈ Severed names connections that divide. Broken symmetry remains a proposed comparison object rather than an identity with that function.
+- **Registered counterpart:** E₈ Divisive Connection names connections that divide. Broken symmetry remains a proposed comparison object rather than an identity with that function.
 - **Native motion:** Acclivous centropy articulates coherence-preserving relation; declivous collapse names the entropic motion being compared with fractured exchange.
 
 ---
@@ -823,7 +823,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 | **C₅ ✴ Scalar / Part-Whole Fidelity** | Scaling, wholeness | Renormalization, fractals | **E₅ ✴⁻ Scalar Noise** | Divergent fractals | Noise scaling |
 | **C₆ ◐ Phase / State (Liminal)** | Transition states | Critical phenomena | **E₆ ◐⁻ Phase Lock** | Arrested transition | Frozen disorder |
 | **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Quasiperiodicity |
-| **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Severed** | Fractured link | Broken symmetry |
+| **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Divisive Connection** | Fractured link | Broken symmetry |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise correlations |
 | **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E₁₀** ❋⁻ **Malform** | Distorted growth | Tumor-like forms |
 | **C₁₁ ↗ Intentional / Volitional** | Directed flow | Conserved currents | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |

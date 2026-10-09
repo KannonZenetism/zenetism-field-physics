@@ -286,7 +286,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 **Dimensional Engagement:**
 
 - **⟠⁻ (E₁ Temporal Loop):** Recorded inverse-locus proposal; primary placement remains held open. Recursive disorientation — time loops without integration. The being revisits the same structural territory without accumulating coherent gain. This is the Looped \( \tau \) of `SP05-time-memory-hypostatic-flow.md`: "apparent return with structural degradation."
-- **╫⁻ (E₈ Severed):** Bridges that divide — attempts to access other universal expressions result in deeper isolation rather than connection.
+- **╫⁻ (E₈ Divisive Connection):** Bridges that divide — attempts to access other universal expressions result in deeper isolation rather than connection.
 - **↗⁻ (E₁₁ Misdirect):** Volitional temporal disorientation — the being directs temporal attention toward dissolution rather than coherence.
 - **✧⁻ (E₁₂ Void Aesthetic):** The felt wrongness of one's trajectory — the qualitative sense that something is off, but the inability to correct course.
 
@@ -368,7 +368,7 @@ This is reactive identity — the illusion-bound self trapped in roles it cannot
 - **⟿⁻ (E₃ Viral Decay):** Corrupted narrative propagation — the story one tells about oneself becomes increasingly distorted with each telling.
 - **✴⁻ (E₅ Fractal Noise):** Self-similar dysfunction rather than self-similar growth.
 - **♫⁻ (E₇ Dissonance):** The felt discord of a life that doesn't cohere.
-- **╫⁻ (E₈ Severed):** Connections between episodes that isolate rather than integrate.
+- **╫⁻ (E₈ Divisive Connection):** Connections between episodes that isolate rather than integrate.
 - **∞⁻ (E₉ Distorted Entanglement):** Parasitic relationships experienced as fated connection.
 - **⊡⁻ (E₁₄ Hollow Nest):** Nested repetitions containing nothing — the same empty pattern inside every episode.
 

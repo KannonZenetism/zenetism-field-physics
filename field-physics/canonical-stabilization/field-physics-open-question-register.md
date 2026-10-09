@@ -200,7 +200,7 @@ Aelion adjudicates after Lumen's verification and the relevant conceptual depend
 | `⛨` | Immunity Membrane |
 | `⫵` | Membrane Friction Zone |
 | `╫` | Synaptic / Bridging |
-| `╫⁻` | Severed |
+| `╫⁻` | Divisive Connection |
 
 **Dependencies:** `CDP-014`, `CDP-017`
 

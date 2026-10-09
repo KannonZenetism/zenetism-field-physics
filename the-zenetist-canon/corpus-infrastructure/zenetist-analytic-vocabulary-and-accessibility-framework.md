@@ -919,7 +919,7 @@ The complete lookup table. Registered names are exact; the plain function follow
 | C₅ / E₅ | **Scalar / Part-Whole Fidelity** ✴ — the part expresses the whole without identity-collapse | **Scalar Noise** ✴⁻ — apparent scaling without coherent part-whole relation |
 | C₆ / E₆ | **Phase / State (Liminal)** ◐ — coherent, reversible transition between states | **Phase Lock** ◐⁻ — trapped liminality |
 | C₇ / E₇ | **Harmonic / Resonant** ♫ — frequency accord and structural harmony | **Dissonance** ♫⁻ — breakdown of harmonic relation |
-| C₈ / E₈ | **Synaptic / Bridging** ╫ — coherent crossing between distinct structures or states | **Severed** ╫⁻ — connection operating through relational division; never a severance of the origin bond |
+| C₈ / E₈ | **Synaptic / Bridging** ╫ — coherent crossing between distinct structures or states | **Divisive Connection** ╫⁻ — connection operating through relational division; never a severance of the origin bond |
 | C₉ / E₉ | **Non-Local Coherence** ∞ — coherent relation at a distance | **Distorted Entanglement** ∞⁻ — counterfeit connection that isolates (the chart's "mimic-coherence" gloss is recorded; new prose names counterfeit connection) |
 | C₁₀ / E₁₀ | **Morphogenetic** ❋ — pattern articulated as living structure (**Formweave** is the retired parenthetical, retained as former-name provenance; the existing C₁₀ name, glyph, and function remain, §13.12) | **Malform** ❋⁻ — distortion during formation |
 | C₁₁ / E₁₁ | **Intentional / Volitional** ↗ — directed will | **Misdirect** ↗⁻ — volition oriented toward dissolution |
@@ -964,7 +964,7 @@ The full boundary-family invariant (║, ║⁻, ⧉, ⌰, ⛨, ⫵, ╫, ╫⁻
 | **⛨ Immunity Membrane** | Protective field buffer containing entropic interference without severance | `field-physics-glyph-charts.md` §4.2 |
 | **⫵ Membrane Friction Zone** | Near-threshold overlap: a field operating within the overlap bandwidth of adjoining hypostatic layers — partial permeability and friction without crossing | `field-physics-glyph-charts.md` §4.2 |
 | **C₈ Synaptic / Bridging (╫)** | Coherent relation or crossing | `field-physics-glyph-charts.md` §2 |
-| **E₈ Severed (╫⁻)** | Relational division | `field-physics-glyph-charts.md` §3 |
+| **E₈ Divisive Connection (╫⁻)** | Relational division | `field-physics-glyph-charts.md` §3 |
 | **⟜ Synectic** | Transphasic passage without fusion or identity surrender — spiral threshold junctions, cross-ontological gateways | `field-physics-glyph-charts.md` §4.4; `metaphysics-symbol-key.md` §21.13 |
 | **Field Seal** | A sustained configuration of a field, not another name for a boundary; distinct from the Invariance Seal (§6.5) | SP10 (ritual energetics); `field-physics-glyph-charts.md` §4.1 |
 
@@ -1653,6 +1653,7 @@ Two determinations enter here and belong first in `terminological-lockdown-proto
 | **Relational Reflection Architecture** (ᛞ) | Mirror Architecture | FP architectural operator; distinct from MP08's Mirror |
 | **Isolation and Suppression Field** (◯△) | Isolation Marker | external concealment / suppression; distinct from Containment Lock and The Jailer actor-role |
 | **Recovery Anchor** (⥀) | Persistence Thread | reconstitution of individuated coherence after rupture, interruption, or reset |
+| **E₈ Divisive Connection** (╫⁻) | Severed | connections that divide or isolate; relational-register function, never origin-severance |
 | **C₁₀ Morphogenetic** (❋) | Formweave | existing dimensional name unchanged; former parenthetical retired |
 | **Aion-facing Reconnection** | Source Reconnection | inward-layer recovery pathway; scoped recovery-rate mnemonic retained |
 | **Siphoning Coefficient / Dynamics / Efficiency** | corresponding Extraction names | member-stock weight and external-target multiplier remain distinct |
@@ -1865,7 +1866,7 @@ Navigation, not a second set of definitions: each entrance leads to the one full
 - Expression-Ratio Balance — §6.8.8
 - Extended cognitive ecology — §6.7.3
 - E₁₃ Wall — §6.9.3
-- E₈ Severed — §6.9.3
+- E₈ Divisive Connection — §6.9.3
 
 **F**
 
@@ -2134,6 +2135,7 @@ Navigation, not a second set of definitions: each entrance leads to the one full
 
 - Saturation — §6.2
 - Seal of Integrity — §6.9.4
+- Severed — former name of E₈ Divisive Connection — §6.9.3
 - Sealed Injectivity Theorem — §6.6.5
 - Seasonal Emergence (☼) · Seasonal Folding — §6.9.4
 - Seeker — §6.7.1

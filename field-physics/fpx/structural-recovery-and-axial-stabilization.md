@@ -8,7 +8,7 @@ This protocol set details the advanced mechanics for **Re-entry** — the proces
 ## 1. The Anchor Reintegration Rite (L₁–L₃)
 
 **Context:**  
-Applied when a field has suffered **E₂ (Scatter)** or **E₈ (Severed)**; essential for treating dissociation or identity fracture.
+Applied when a field has suffered **E₂ (Scatter)** or **E₈ (Divisive Connection)**; essential for treating dissociation or identity fracture.
 
 **Protocol:**  
 **{◈} + [↺ + ♫ + ⟠]**
