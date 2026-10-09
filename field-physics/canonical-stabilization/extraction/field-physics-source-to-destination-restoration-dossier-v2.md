@@ -141,7 +141,7 @@ The most consequential material unique to, or vastly fuller in, CD1 lies in **pp
 | `CD1` | `field-physics-complete copy.pdf` | 357-page expanded developmental record; complete direct source review of pp. 1–357, including text, tables, diagrams, registries, and score layouts |
 | `FP01–FP11` | Current GitHub repository files | Destination format, chapter order, existing coverage, and insertion anchors |
 | `CR` | `field-physics-conceptual-rulings-extract.md` | Current architect-ratified conceptual constraints |
-| `TL` | `terminological-lockdown-protocol.md` | Current language, direction, non-fusion, provenance, and register controls |
+| `TL` | `terminological-lockdown-protocol.md` | Current language, direction, Non-fusion, provenance, and register controls |
 | `RB` | `field-physics-restoration-blueprint.md` | Stable `REST-###` routing and proposed new-volume architecture |
 
 The two foundational findings ledgers remain useful as omission indexes and page maps. This dossier goes one step further by preserving the recoverable architecture under its eventual destination.
@@ -1612,7 +1612,7 @@ Preserve:
 
 - sovereignty
 - recognition without possession
-- non-fusion
+- Non-fusion
 - the possibility of bearing or resonating with a function without becoming its originator
 
 ---
@@ -2131,7 +2131,7 @@ The name is developmentally attested.
 
 Current status:
 
-- held open pending non-fusion review
+- held open pending Non-fusion review
 
 It may describe:
 
@@ -3489,7 +3489,7 @@ A current etiquette sequence should ask:
 6. How will the crossing close?
 7. What provenance record remains?
 
-This is especially valuable for preserving non-fusion and consent within ritual language.
+This is especially valuable for preserving Non-fusion and consent within ritual language.
 
 ---
 
@@ -3552,7 +3552,7 @@ Current constraints:
 
 **Destination:** FP06 Chapter 27  
 **Source:** `CD1` pp. 175–180 and 196–201  
-**Status:** Recoverable only under non-fusion and consent rules
+**Status:** Recoverable only under Non-fusion and consent rules
 
 The source develops:
 
@@ -4877,7 +4877,7 @@ The repair process is:
 3. decide held-open choices
 4. integrate the source payload into the local chapter format
 5. add matching commentary
-6. run terminology, non-fusion, formal-status, glyph, and authorship checks
+6. run terminology, Non-fusion, formal-status, glyph, and authorship checks
 7. return the complete repaired FP file
 8. archive the former version
 

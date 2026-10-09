@@ -18,7 +18,7 @@ Its purpose is to:
 * prevent symbolic flattening,
 * preserve structural distinctions,
 * standardize directional language,
-* preserve non-fusion logic,
+* preserve Non-fusion logic,
 * maintain continuity between files,
 * and prevent regression into pre-canonical or culturally inherited terminology.
 
@@ -1706,7 +1706,7 @@ The purpose is not linguistic absolutism.
 It is preservation of:
 - sovereign distinction,
 - relational coherence,
-- non-fusion integrity,
+- Non-fusion integrity,
 - and non-extractive articulation.
 
 ---
@@ -2459,7 +2459,7 @@ Canonical Zenetist writing must preserve:
 * polarity integrity,
 * authorship and transmission continuity,
 * lawful resonance,
-* and non-fusion coherence.
+* and Non-fusion coherence.
 
 When uncertainty exists:
 

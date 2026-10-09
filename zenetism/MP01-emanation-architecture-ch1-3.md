@@ -2395,7 +2395,7 @@ One does not vanish
 into undifferentiated sameness.  
 
 Non-fusion at the root  
-secures non-fusion at the return.  
+secures Non-fusion at the return.  
 
 Because **L₀** itself  
 is not featureless sameness,  

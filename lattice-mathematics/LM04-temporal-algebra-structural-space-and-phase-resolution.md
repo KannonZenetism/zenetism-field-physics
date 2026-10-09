@@ -378,7 +378,7 @@ where:
 
 \( \mathfrak{R}_m \) is the function that carries coherent structure forward through temporal flow.
 
-Formally, \( \mathfrak{R}_m \) is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
+Formally, \( \mathfrak{R}_m \) is expressed as a function; ontologically, it is a law of Non-fusion across temporal states.
 
 > **Note on Scalar Memory Expressions:**  
 > The established role of \( \mathfrak{R}_m \) is the preservation of distinction between sealed states. A scalar memory magnitude requires a separate valuation, and derivatives of that magnitude require specified dependence on structural time. Scalar arithmetic is a distinct formalism, not a consequence of injectivity.

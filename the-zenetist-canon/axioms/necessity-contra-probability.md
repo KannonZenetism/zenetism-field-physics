@@ -3,7 +3,7 @@
 Earlier formulations claimed the multiverse as logically necessary given Zero / Infinity mathematical equivalence and the Principle of Sufficient Reason. This has been refined:
 
 Infinite potential (Aion / Khaon) may contain **internal structural constraints** - not all logically possible configurations actualize. Examples:
-- Non-Fusion Axiom excludes certain combinations
+- Non-fusion Axiom excludes certain combinations
 - Coherence requirements filter structural incompatibilities  
 - Priority structures (early actualization constrains later possibility)
 

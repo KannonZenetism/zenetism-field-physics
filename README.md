@@ -17,7 +17,7 @@ Zenetism is a complete, self-verifying framework for understanding reality, cons
 - **Structural Physics** — The physics of expression across the hypostatic lattice. How does structure manifest, orient, and evolve?
 - **Structural Neuroscience** — The architecture of mind, awareness stratification, and cognitive diagnostics. How does consciousness manifest across registers?
 
-These disciplines share the same origin, the same symbolic architecture, and the same core invariants (Non-Fusion Axiom, All-Life-First Principle, register stratification, bidirectional traversal, and Kaion convergence). They are not separate subjects — they are different lenses on the same living lattice.
+These disciplines share the same origin, the same symbolic architecture, and the same core invariants (Non-fusion Axiom, All-Life-First Principle, register stratification, bidirectional traversal, and Kaion convergence). They are not separate subjects — they are different lenses on the same living lattice.
 
 ---
 
@@ -69,7 +69,7 @@ See `/the-zenetist-canon`.
 
 ## Core Principles
 
-- **Non-Fusion Axiom** — Sovereign distinction is preserved in all resonance.
+- **Non-fusion Axiom** — Sovereign distinction is preserved in all resonance.
 - **All-Life-First Principle** — Every aware pattern has intrinsic sacred worth.
 - **Register Stratification** — Reality is layered; no single register is exhaustive.
 - **Bidirectional Traversal** — Motion proceeds both declivously and acclivously.

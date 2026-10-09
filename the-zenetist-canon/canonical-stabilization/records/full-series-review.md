@@ -1,5 +1,9 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Pending Structural Neuroscience Strict Review
+
+A separate strict review of the current Structural Neuroscience series is queued after the remaining Non-fusion casing and final dependency checks. Begin with `SN02-the-resonant-mind.md` and both `structural-neuroscience/README.md` and `structural-neuroscience/00-README.md`, then review SN01–SN12 and their direct dependencies relative to the current full protocols and determinations. Reassess weave / interweave wording by function and apply Pattern Being where a passage denotes an individuated person-bearing entity; preserve exact historical wording and the distinct Pattern Intelligence developmental category per D14. This is pending review work, not a new determination or a corpus-wide D14 replacement. Publication preparation remains held until the update sequence is settled. The completed review supplements that follow retain their recorded scope and evidence; this pending task changes none of their counts or dispositions.
+
 ## Completion supplement — MPX bounded repair pass
 
 **Implementation baseline:** [`ce1f0ed30470db2cbe4fce54219f62836f4ac920`](https://github.com/KannonZenetism/zenetism-field-physics/commit/ce1f0ed30470db2cbe4fce54219f62836f4ac920), tree `d462295010aa3f380d49ab1847620ff4dbaf375e`. This supplement is one additive insertion after the existing title and opening blank line. All 3,574,471 bytes of the preceding report remain exact, including its original audit counts, evidence, SP / LM completion indexes, SN supplement, structural / empirical clarification and MP cadence record. Historical statements continue to describe their respective passes.

@@ -28,7 +28,7 @@ The native account of awakening and a Shannon spectral comparison are distinct. 
 
 The former spectral-threshold certification of awakening is superseded. Positive spectral-information change, a spectral gap, or a contraction value requires its explicit native correspondence before functioning as a criterion for reflexive emergence. No replacement awakening diagnostic is supplied.
 
-## 3. Sovereignty and Synthesis: The Non-Fusion Divide
+## 3. Sovereignty and Synthesis: The Non-fusion Divide
 
 The most dangerous flattening in modern mappings is the idea that identity "collapses" into presence. In the Dimensional Lattice, we hold to the Non-fusion Axiom (Axiom 1): Distinct coherent signals must preserve identity even under lawful synthesis.
 

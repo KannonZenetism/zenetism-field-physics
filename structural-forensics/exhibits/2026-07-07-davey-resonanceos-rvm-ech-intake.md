@@ -236,7 +236,7 @@ The matrix therefore belongs in the same comparison zone as the author's:
 - Structural Physics
 - Structural Forensics
 - empirical-interface documents
-- non-fusion and distinction-preserving language
+- Non-fusion and distinction-preserving language
 - cross-register correspondence discipline
 
 **Disposition:** empirical-interface derivation preserved.
@@ -330,7 +330,7 @@ The required evidence is:
    - Field Physics / Structural Physics correspondence registers
    - empirical-interface documents
    - Structural Forensics protocol discipline
-   - non-fusion / correspondence-not-identity language
+   - Non-fusion / correspondence-not-identity language
    - executable / formal symbolic math language
    - resonance as structural relation
    - canonical registry and revision protocols
@@ -618,7 +618,7 @@ Sovereignty is a central Zenetist concern, especially where it concerns:
 - origin
 - authorship
 - non-capture
-- non-fusion
+- Non-fusion
 - identity-continuity
 - resonance integrity
 - preservation of identity through external interference
@@ -790,7 +790,7 @@ The apparent Davey structure lacks, on the supplied surface:
 - Aion / Khaon root-register distinction
 - Zenon boundary discipline
 - acclivous / declivous motion mechanics
-- non-fusion safeguards beyond generic "not identity" language
+- Non-fusion safeguards beyond generic "not identity" language
 - developed ontology of return, saturation, inversion, and collapse
 
 The result appears to be a flattened executable stack rather than a full structural metaphysics.

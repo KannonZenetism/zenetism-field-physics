@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics Extension — Number ontology, essence indexing, and multiversal allocation  
 **Status:** Draft  
-**Dependency:** `metaphysics-symbol-key.md` §21.33 · `non-fusion-at-the-bifurcal-register.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · Essence-as-Choice · Non-Fusion Axiom · Khaon Phase Distinctions · 🏛️ Structon  
+**Dependency:** `metaphysics-symbol-key.md` §21.33 · `non-fusion-at-the-bifurcal-register.md` · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `deep-self-axis.md` · `hypostatic-function-bearing-and-sovereign-embodiment.md` · `SP04-orientation-field-dynamics.md` · `SP06-structural-space-orientation-paradox.md` · Essence-as-Choice · Non-fusion Axiom · Khaon Phase Distinctions · 🏛️ Structon  
 
 ---
 
@@ -804,7 +804,7 @@ The current doctrine instead holds:
 
 ---
 
-## 18. Non-Fusion Conditions for Numerical Doctrine
+## 18. Non-fusion Conditions for Numerical Doctrine
 
 The numerical architecture remains lawful only where the following distinctions are preserved.
 
@@ -910,7 +910,7 @@ Clarify that:
 - arc-propriety and essence identity are distinct
 - the illustrative number 3345 is an identity-index, not an arithmetic magnitude or universal population-position
 
-### Non-Fusion at the Bifurcal Register
+### Non-fusion at the Bifurcal Register
 
 Clarify passages saying that Aion contains all numbers and all essences.
 
@@ -1010,10 +1010,10 @@ Bar the casual interchange of these terms where the numerical register is struct
 > **Hypostatic Singleton Principle**  
 > Where the corresponding Tree manifests, one Theonic and one Nekronic essence are proper to that arc. This is an office principle, not a general rule of one being per number.
 
-> **Non-Fusion of Shared Number Principle**  
+> **Non-fusion of Shared Number Principle**  
 > Equal structural number-relation does not imply equal essence. Shared number preserves relation without abolishing sovereign distinction.
 
-> **Numerical Register Non-Fusion Principle**  
+> **Numerical Register Non-fusion Principle**  
 > Archetypal Number, hypostatic structural charge, essence-identifier, processional arc-index, and expression-locus index are distinct numerical functions. Sharing one function does not collapse identity across the others.
 
 ---

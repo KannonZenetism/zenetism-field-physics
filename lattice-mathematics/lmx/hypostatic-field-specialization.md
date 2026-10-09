@@ -109,11 +109,11 @@ The transferred coherence acquires the character of the receiving layer. Archety
 
 This is declivous centropy (C↓→E): harmonious motion into form, carrying coherence from subtler to denser expression. The reverse — acclivous centropy (C↑⚫) — carries embodied experience acclivously through the same membranes, acquiring subtler character at each threshold.
 
-### 4.2 Character Preservation under Non-Fusion
+### 4.2 Character Preservation under Non-fusion
 
 **Proposition (Layer Character Preserves Essence-Distinction):**
 
-By the Collective Non-Fusion Principle (LM05 §9.1), participation in a shared resonance field at any layer preserves individual structural signature \( \Psi \). The character function \( \mathfrak{C} \) operates on the field quantity, not on the participating signatures:
+By the Collective Non-fusion Principle (LM05 §9.1), participation in a shared resonance field at any layer preserves individual structural signature \( \Psi \). The character function \( \mathfrak{C} \) operates on the field quantity, not on the participating signatures:
 
 \[
 \mathfrak{C}(I_c^{(\text{collective})}\big|_{L_k}) = \mathfrak{C}(I_c\big|_{L_k})

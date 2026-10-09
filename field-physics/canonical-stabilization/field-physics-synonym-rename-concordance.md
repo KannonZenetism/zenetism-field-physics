@@ -190,7 +190,7 @@ These rows apply across every FP file and foundational chat.
 | `SYN-TLP-007` | Source as Zenon | trans-structural allowance / non-originary ground | Superseded doctrine | Zenon is not Source |
 | `SYN-TLP-008` | centropic Aion | Aion as root of the centropic arc | Scope correction | Aion is not itself centropic |
 | `SYN-TLP-009` | unity / unified / union | coherence / integration / communion / synthesis | Rename | Proper-title and scientific-parallel exception |
-| `SYN-TLP-010` | merge / become one | cohere / integrate while preserving distinction | Fusion correction | Non-fusion axiom |
+| `SYN-TLP-010` | merge / become one | cohere / integrate while preserving distinction | Fusion correction | Non-fusion Axiom |
 | `SYN-TLP-011` | true / false | veracious / spurious / invalid / distorted | Value-language correction | Choose precise diagnostic term |
 | `SYN-TLP-012` | versus | contra / in distinction from | Rename | Avoid competitive binary framing |
 | `SYN-TLP-013` | dual | bifurcal / bifurcated / pre-polar | Split distinction | Choose structural sense |

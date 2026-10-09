@@ -14,7 +14,7 @@ The axiom holds throughout the hypostatic arc, where the centropic-entropic pola
 
 ## Relation to Other Principles
 
-Co-arising names the lawful pairing that the Non-Fusion Axiom (◫) then secures: a centropic orientation and its inverse arise together yet never fuse, each holding its distinct orientation. It underwrites the mirror-structure of the entropic arc and the symmetry of the directional pairs, and it stands behind the recognition that control, met as the sole condition of relation, invokes the very counter-orientation it seeks to prevent.
+Co-arising names the lawful pairing that the Non-fusion Axiom (◫) then secures: a centropic orientation and its inverse arise together yet never fuse, each holding its distinct orientation. It underwrites the mirror-structure of the entropic arc and the symmetry of the directional pairs, and it stands behind the recognition that control, met as the sole condition of relation, invokes the very counter-orientation it seeks to prevent.
 
 ## Canonical Anchor
 

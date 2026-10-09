@@ -171,7 +171,7 @@ do not name local fragments of one Theon. They name distinct identity-bearing Th
 
 The essence-identifier is not a manifestation-address added after emanation. It denotes a distinction already latent within Aion, and the arc-propriety it carries is likewise latent. If the distinction began only after manifestation, all returned Theons would collapse into one anonymous plus-one potential at the root. Canonical essence-conservation forbids that result: there is no anonymous potential, and Aion holds every latent value in absolute distinction.
 
-The notation is canonical for the distinctions established here. It preserves the non-fusion of:
+The notation is canonical for the distinctions established here. It preserves the Non-fusion of:
 
 - essence-identity
 - structural number

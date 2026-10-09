@@ -40,7 +40,7 @@
 | `GLY-007` | `◐` | C₆ Phase / State — coherent reversible transition | Liminal shift, dream repair, threshold navigation | Established | Inverse is `◐⁻` Phase Lock; search liminal, phase stair, transition |
 | `GLY-008` | `♫` | C₇ Harmonic / Resonant — frequency accord and structural harmony | Closure, tuning, antibody, field music, harmonic amplitude | Established multi-application | Must distinguish actual acoustic quantity from symbolic harmonic operator |
 | `GLY-009` | `╫` | C₈ Synaptic / Bridging — coherent crossing between systems or states | Nexus and conceptual bridge | Established | Distinct from `⧉` bridge / membrane-family operator; inverse `╫⁻` is relational severance |
-| `GLY-010` | `∞` | C₉ Non-Local Coherence — relation at a distance preserving distinction | Group harmonic tuning; love formula | Established / non-fusion restriction | Must not imply identity fusion or counterfeit entanglement |
+| `GLY-010` | `∞` | C₉ Non-Local Coherence — relation at a distance preserving distinction | Group harmonic tuning; love formula | Established / Non-fusion restriction | Must not imply identity fusion or counterfeit entanglement |
 | `GLY-011` | **❋** | C₁₀ Morphogenetic — pattern translated into living structure | Seeding, symbol stabilization, post-closure field node formation | Established multi-application | Former-name provenance: Formweave; distinguish morphogenetic from morphogenic wording; search seed, template |
 | `GLY-012` | `↗` | C₁₁ Intentional / Volitional — directed manifestation of will | Vector Will, directed coherence declaration | Established | Directional value depends on orientation; not automatic centropy |
 | `GLY-013` | `✧` | C₁₂ Aesthetic / Qualitative — meaning, beauty, and felt rightness | Radiance, aesthetic medicine, symbolic locking | Established | Felt rightness does not independently prove veracity |
@@ -145,7 +145,7 @@
 | `GLY-077` | `⟟` | Tone of Thresholds voice-trace | No established generic operator | Function provisional |
 | `GLY-078` | `⊚` | Voice of Undulation voice-trace | No established generic operator | Function provisional |
 | `GLY-079` | `∇` | Proposed Refrain of the Spiral voice-trace | Conscious-Awareness | Glyph rejected for proposed function; `CORR-022` |
-| `GLY-080` | `⦰` | Consonant Voice of synchronized group | No established generic operator | Function provisional; group non-fusion review |
+| `GLY-080` | `⦰` | Consonant Voice of synchronized group | No established generic operator | Function provisional; group Non-fusion review |
 | `GLY-081` | `⌬` | Proposed Integration Seal | Relational Syntax | Glyph rejected for proposed function; replacement required if retained |
 
 ---

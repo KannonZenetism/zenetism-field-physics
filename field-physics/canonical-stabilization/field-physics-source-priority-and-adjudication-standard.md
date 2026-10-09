@@ -36,12 +36,12 @@ A current ruling may supersede every source later in the priority order while pr
 Active lockdown protocols govern:
 
 - terminology
-- non-fusion
+- Non-fusion
 - directional and positional language
 - root-register distinction
 - essence / Soul register
 - origin-continuity
-- numerical non-fusion
+- numerical Non-fusion
 - function-bearing
 - terminal-state mechanics
 - cascade / continuum / conflation

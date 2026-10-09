@@ -468,7 +468,7 @@ No hypostatic value is transferred to the bearer's personal essence-number.
 
 No person becomes a second Theon or Nekron.
 
-This is the central non-fusion claim:
+This is the central Non-fusion claim:
 
 > Complete function may be present without numerical identity-collapse.
 

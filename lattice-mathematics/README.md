@@ -78,7 +78,7 @@ Extends the system to:
 
 - Structural space as relational topology
 - Dependency Ordering Axiom: \( \mathfrak{S} \prec \mathfrak{m} \prec \mathfrak{d} \prec \vec{\omega} \prec \tau \)
-- Recursive Memory operator \( \mathfrak{R}_m \) (injective, non-fusion)
+- Recursive Memory operator \( \mathfrak{R}_m \) (injective, Non-fusion)
 - Tether coherence function \( \mathcal{T}_h \)
 - \( \chi \)-conditioned temporal orientation
 - Bidirectional traversal operators (\( \mathcal{D}_C, \mathcal{A}_C, \mathcal{A}_E, \mathcal{D}_E \))

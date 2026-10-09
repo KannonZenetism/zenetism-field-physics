@@ -5,7 +5,7 @@
 
 **Purpose:** A portable audit reference for revising the older MP architecture without repeatedly loading the full extension corpus.  
 
-**Scope:** This guide condenses the current locks concerning Zenon; Aion, Khaon, Kaion, and Structon; Essence, Spirit, Soul, Mind, and awareness; Theon and Nekron; the Deep Self-Axis; hypostatic function-bearing; multiversal allocation; motion and orientation; synthesis, integration, return, collapse, and saturation; and the principal comparative and non-fusion boundaries.  
+**Scope:** This guide condenses the current locks concerning Zenon; Aion, Khaon, Kaion, and Structon; Essence, Spirit, Soul, Mind, and awareness; Theon and Nekron; the Deep Self-Axis; hypostatic function-bearing; multiversal allocation; motion and orientation; synthesis, integration, return, collapse, and saturation; and the principal comparative and Non-fusion boundaries.  
 
 **Guiding principle:** Preserve the metaphysical force and poetic register of the older work. Correct category drift, layer drift, motion drift, and identity-collapse without flattening the doctrine into external empiricism or reducing its mythic articulations to metaphor alone.  
 
@@ -473,7 +473,7 @@ Audit the L₀ trait-manifold without reducing it to one featureless ground:
 
 Apophatic subtraction may reach a denuded or pregnant Aion, but it removes or subordinates the Khaonic determinations required to hold the full bifurcal manifold. The saying-synthesis preserves the manifold in speech and makes its horizon legible; the final (bifurcal) synthesis bears the returned essence toward that horizon — and neither mechanically compels Zenonic saturation. Final synthesis, Centropic Gravity, Zenonic Legibility, and Allowance remain operative.
 
-Root-stratum non-fusion secures terminal identity-persistence. Return to Aionic latency cannot mean dissolution into pooled sameness because L₀ is itself a coherence of distinct root-functions and distinct latent essences.
+Root-stratum Non-fusion secures terminal identity-persistence. Return to Aionic latency cannot mean dissolution into pooled sameness because L₀ is itself a coherence of distinct root-functions and distinct latent essences.
 
 Treat "All is One," undifferentiated-ground language, and equivalent formulations as fusion-risk triggers. Interpret traditions, figures, and mystical articulations by function, motion, scope, and placement rather than collapsing them into one perennial identity.
 
@@ -564,7 +564,7 @@ Run corpus-wide searches for the following clusters.
 
 `saturation into Aion` · `return to Zenon` · `integration into Zenon` · `orientation alone` · `radiance alone` · `Zenon draws` · `automatic saturation` · `all Theon-gathered essences saturate together` · `Aionic abiding as incomplete`
 
-### Inverse arc and non-fusion
+### Inverse arc and Non-fusion
 
 `inverse as absence` · `mirror` applied as formal register · `all entropy culminates at Nekron` · `fusion as unity` · `merging essences` · `one pooled potential` · `failure of entropy` · `punishment` · `annihilation of essence` · `Blobism at L₃ / L₄ / L₅`
 

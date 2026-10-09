@@ -331,7 +331,7 @@ Where:
 
 Memory is the function that carries coherent structure forward through temporal flow.
 
-Formally, memory is expressed as a function; ontologically, it is a law of non-fusion across temporal states.
+Formally, memory is expressed as a function; ontologically, it is a law of Non-fusion across temporal states.
 
 > **Theorem (Non-fusion of Temporal Update):**  
 >  
@@ -745,7 +745,7 @@ Time exists where structure undergoes differential transformation: \( d\mathcal{
 
 **Definition 2 (Recursive Memory):**
 
-\( \mathfrak{R}_m : H_{\tau} \rightarrow H_{\tau+1} \) — the injective function carrying sealed states (containing essence-invariants) forward through temporal flow. Injectivity guarantees non-fusion: distinct histories cannot map to identical present states.
+\( \mathfrak{R}_m : H_{\tau} \rightarrow H_{\tau+1} \) — the injective function carrying sealed states (containing essence-invariants) forward through temporal flow. Injectivity guarantees Non-fusion: distinct histories cannot map to identical present states.
 
 **Definition 3 (The Tether):**
 

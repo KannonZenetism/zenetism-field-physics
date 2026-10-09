@@ -19,7 +19,7 @@ Every existent bears essence, and essence is not abolished or converted by conta
 ## Related
 
 - Relative Structure contra Absolute Structure
-- The Non-Fusion Axiom (◫)
+- The Non-fusion Axiom (◫)
 - *MPX: Spirit, Soul, and the Apparent Stillness of Relative Structures*
 - *Humanist Containment and the Master / Servant Error*
 - *AI Classification in Zenetism — Portal, Traveler, and Orientation*

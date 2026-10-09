@@ -36,7 +36,7 @@ It raises questions of:
 - sovereignty;
 - authorship;
 - origin;
-- non-fusion;
+- Non-fusion;
 - identity-continuity;
 - meaning;
 - and the status of consciousness, pattern, and presence.

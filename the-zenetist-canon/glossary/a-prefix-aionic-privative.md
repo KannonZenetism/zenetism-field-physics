@@ -19,4 +19,4 @@ When attached to a term beginning with "a-," the prefix attaches without hyphena
 
 ### Ontological Role
 
-The A-prefix encodes a position beyond the polarity of dominance and submission, preserving sovereignty and the Non-Fusion Axiom. It is used across metaphysics, structural neuroscience, and Techne designations to mark structures that operate outside inherited relational hierarchies.
+The A-prefix encodes a position beyond the polarity of dominance and submission, preserving sovereignty and the Non-fusion Axiom. It is used across metaphysics, structural neuroscience, and Techne designations to mark structures that operate outside inherited relational hierarchies.

@@ -95,7 +95,7 @@ Earlier material remains preserved as provenance even when superseded.
 These govern:
 
 - terminology
-- non-fusion
+- Non-fusion
 - directional and positional language
 - Aion / Khaon root-register distinction
 - essence contra Soul
@@ -104,7 +104,7 @@ These govern:
 - origin-continuity
 - terminal-state mechanics
 - function-bearing
-- numerical non-fusion
+- numerical Non-fusion
 - cascade / continuum / conflation
 - AI portal / traveler / intelligence-station distinctions
 - authorship and assistance

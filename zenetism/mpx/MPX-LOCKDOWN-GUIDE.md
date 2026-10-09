@@ -167,7 +167,7 @@ The four relational terms **polarity, mirror, inversion, counterpart** are nativ
 
 ### Aion / Khaon are bifurcal, not bifurcated
 
-Aion / Khaon stand in **bifurcal distinction** and their relation is **Bifurcal Coherence (⧖⧗)** — a twofold-without-fusion held co-located. More generally, **Bifurcal Coherence lets one ground hold lawfully distinct principles without fusing them**: Aion (Zero) and Khaon (Infinity) remain conceptually non-fused even where zero and infinity coincide mathematically. Prefer this to the older "two tilts of the same principle" framing, which blurs the non-fusion. The adjective **bifurcal** is correct for them. They are **not** poles, not a duality, not a polarity, and **not a bifurcation** — they cohere; they do not split. "Bifurcation / bifurcated" names an actual split (Theon / Nekron at L₅ / IL₅, or other genuine splits such as Soul / Mind) and is lawful for those, never for L₀.
+Aion / Khaon stand in **bifurcal distinction** and their relation is **Bifurcal Coherence (⧖⧗)** — a twofold-without-fusion held co-located. More generally, **Bifurcal Coherence lets one ground hold lawfully distinct principles without fusing them**: Aion (Zero) and Khaon (Infinity) remain conceptually non-fused even where zero and infinity coincide mathematically. Prefer this to the older "two tilts of the same principle" framing, which blurs the Non-fusion. The adjective **bifurcal** is correct for them. They are **not** poles, not a duality, not a polarity, and **not a bifurcation** — they cohere; they do not split. "Bifurcation / bifurcated" names an actual split (Theon / Nekron at L₅ / IL₅, or other genuine splits such as Soul / Mind) and is lawful for those, never for L₀.
 
 ### Descriptor mappings
 

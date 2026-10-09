@@ -125,7 +125,7 @@ Before a foundational passage is classified as omitted, consult:
 | ID | Concept | Primary Locator | Key Current Formulation | Coverage / Status | Aliases and Dependencies |
 |---|---|---|---|---|---|
 | `MAP-FP02-001` | Dynamic Layering Models | Ch. 6, Module 1 | Parallel, phased, and nested field layers | Full | Layer-conflict and root-glyph rules |
-| `MAP-FP02-002` | Resonant Coupling | Ch. 6, Module 1 | `≈` synchronizes layered field effects | Full | `GLY-059`; non-fusion applies |
+| `MAP-FP02-002` | Resonant Coupling | Ch. 6, Module 1 | `≈` synchronizes layered field effects | Full | `GLY-059`; Non-fusion applies |
 | `MAP-FP02-003` | Live Field Scripts | Ch. 6, Module 2 | Spoken, visual, dream, and closure scripts | Full; operational register mixed | `OQ-CLOSURE-01`; `CDP-020` |
 | `MAP-FP02-004` | Temporal Sculpting | Ch. 7, Module 3 | Timefold operations, templates, and stabilization | Full | Directional language audit |
 | `MAP-FP02-005` | Interface and Resonant Architecture | Ch. 7, Modules 4–5 | digital, ritual, narrative, and spatial interfaces | Full conceptual design | `OQ-TECH-01`; `CDP-019` |
@@ -280,7 +280,7 @@ The following current formulations should be treated as weight-bearing constrain
 
 | Constraint | Current Source |
 |---|---|
-| Distinction precedes synthesis; non-fusion governs | Terminological Lockdown Protocol |
+| Distinction precedes synthesis; Non-fusion governs | Terminological Lockdown Protocol |
 | Acclivous / declivous are arc-neutral | Terminological Lockdown Protocol |
 | Essence applies before Soul / Mind bifurcation | Terminological Lockdown Protocol |
 | Aion / Khaon are paired root-registers, not counter-poles | Terminological Lockdown Protocol |

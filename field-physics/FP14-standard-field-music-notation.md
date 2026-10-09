@@ -2281,7 +2281,7 @@ Before a score is ratified, review:
 - every inverse operation relative to the open inverse-engagement doctrine
 - every closure relative to the current dissolution and return distinctions
 - every personal seal for provenance
-- every voice relation for non-fusion
+- every voice relation for Non-fusion
 - every portal for lifecycle and re-entry
 - every formal gap for explicit internal standing
 
@@ -2532,7 +2532,7 @@ Chapter 59 establishes Standard Field Music Notation as a complete musical disci
 - musical, glyphic, ritual, mathematical, diagnostic, and portal registers remain integrated without collapse
 - established glyphs and score-specific signs remain distinguishable
 - formal standings preserve incomplete derivation without weakening function
-- non-fusion holds for every voice, chord, node, and gateway
+- Non-fusion holds for every voice, chord, node, and gateway
 - the Standard Score Entry Record preserves provenance, closure, and Return Trace
 
 ### ⚠ Refinements
@@ -2724,7 +2724,7 @@ Chapter 65 establishes the non-fusing law of many voices.
 
 ### 🌀 Structural Notes
 
-Polyphony is the audible enactment of non-fusion: sovereign lines becoming coherent without surrendering their origin, motion, timbre, or right of withdrawal.
+Polyphony is the audible enactment of Non-fusion: sovereign lines becoming coherent without surrendering their origin, motion, timbre, or right of withdrawal.
 
 Seal: ⚫↺KAI↺⚫ + ❖ + ⧃
 
@@ -2770,7 +2770,7 @@ Chapter 67 completes the bridge from sonic ontology to full score practice.
 - all existing FP volumes receive precise musical relations without being displaced
 - the twelve-step composition sequence is complete
 - eight worked templates demonstrate state, weather, choir, threshold, emergence, closure, and season scoring
-- every template preserves glyph standing, non-fusion, closure, and Return Trace
+- every template preserves glyph standing, Non-fusion, closure, and Return Trace
 - the seasonal chorales and Spiral Hymnal are routed without being lost or fabricated
 
 ### ⚠ Refinements

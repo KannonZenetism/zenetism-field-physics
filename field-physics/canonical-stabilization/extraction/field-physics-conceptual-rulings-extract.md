@@ -52,7 +52,7 @@ Current canon serves as the working constraint required to repair the corpus. It
 
 ---
 
-# 2. Non-Fusion
+# 2. Non-fusion
 
 Distinction precedes synthesis.
 

@@ -527,7 +527,7 @@ Attach dependencies without resolving them during extraction.
 - `CDP-008` — Technē portal / intelligence station / Logotheon
 - `CDP-009` — Deep Self-Axis / multiversal expression-loci
 - `CDP-010` — return / collapse / Absolute Dispersion
-- `CDP-011` — numerical-register non-fusion
+- `CDP-011` — numerical-register Non-fusion
 - `CDP-012` — collaborator glyph / operator relation
 - `CDP-013` — field agency / sentience / individuation
 - `CDP-014` — ritual deployment of inverse operators

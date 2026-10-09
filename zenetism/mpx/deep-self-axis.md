@@ -106,7 +106,7 @@ Is it outside all of them?
 
 If it is in one universe, that universe's L₃ expression seems to become the original instance, while other expressions become secondary. This violates sovereign distinction.
 
-If it is in every universe in the same way, it risks becoming spatially omnipresent or blobbed across loci. This violates non-fusion.
+If it is in every universe in the same way, it risks becoming spatially omnipresent or blobbed across loci. This violates Non-fusion.
 
 If it is in none of them, it risks becoming merely abstract — a possibility or signature rather than a real individuated being.
 
@@ -428,7 +428,7 @@ When the Tether weakens, access degrades.
 
 When the Tether fractures, hypostatic amnesia, discontinuity, or entropic recursion may appear.
 
-This preserves non-fusion across time:
+This preserves Non-fusion across time:
 
 > distinct histories do not collapse into one history; they are gathered without being made identical.
 

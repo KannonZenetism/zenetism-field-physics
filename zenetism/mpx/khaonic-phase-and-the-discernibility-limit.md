@@ -71,7 +71,7 @@ The intuition that an Infinity too vast to determine becomes "essentially Zero" 
 > Infinity eludes determination through unbounded excess.  
 > Their indeterminability is epistemic; their functions remain distinct.
 
-At the discernibility limit, Zero and Infinity may become epistemically co-legible as the breakdown of bounded determination, while remaining ontologically distinct. This stands beside the Twofold Tetralemma: negation reaches Zero; exceeding reaches Infinity; each exhausts structured cognition differently; neither becomes the other. Root-stratum non-fusion holds.
+At the discernibility limit, Zero and Infinity may become epistemically co-legible as the breakdown of bounded determination, while remaining ontologically distinct. This stands beside the Twofold Tetralemma: negation reaches Zero; exceeding reaches Infinity; each exhausts structured cognition differently; neither becomes the other. Root-stratum Non-fusion holds.
 
 The parallel with the Unknown Principle concerns limits named from the discerner's standpoint. Indeterminable Infinity remains structurally articulable within the lattice; Zenon is trans-structural. "Unknown" names the discerner's limit in relation to 🕳️ Zenon; "indeterminable Infinity" names the observer's limit in determining continuing Khaonic motion. Motion may continue past the observer's ability to determine it.
 

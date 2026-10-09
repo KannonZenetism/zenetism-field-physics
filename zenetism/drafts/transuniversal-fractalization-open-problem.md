@@ -5,7 +5,7 @@
 **Classification:** Structural Metaphysics — Working Draft / Open Problem  
 **Status:** Unresolved — provisional candidates only; not canon; no commitment made  
 **Dependency:** Structural Metaphysics · `MP11-codex-of-principles-ch26.md` · `metaphysics-symbol-key.md`  
-**Bears on:** §26.21 Theonic Paradox · §26.25 Nekronic Paradox · the Non-Fusion Axiom · the Membrane function · the office / layer distinction  
+**Bears on:** §26.21 Theonic Paradox · §26.25 Nekronic Paradox · the Non-fusion Axiom · the Membrane function · the office / layer distinction  
 **Proposed path:** `structural-metaphysics/drafts/transuniversal-fractalization-open-problem.md`  
 
 ---
@@ -40,13 +40,13 @@ So the local principles are removable from active function in a universe without
 
 Granting that the layer is a shared medium does not yet say *how* a being's L₃ individuation reaches across universes through it. A shared medium is necessary but not sufficient; there must be a function by which the deep register connects its local instantiations without collapsing them into one another.
 
-This is where the **membrane** earns its place. A membrane function at L₃ / L₄ would be the connective tissue of the shared medium — the structure through which an individuated being's signature fractalizes into multiple universes' local offices while remaining one distinct being. Consistent with the Membrane Audit — *it does not retaliate; it distinguishes* — the membrane connects without fusing. It is precisely what permits trans-universal recurrence to be resonance-correlation rather than identity-blending, satisfying the Non-Fusion Axiom: the fractalized instances are the same being by shared structural signature, not by being melted into a common pool.
+This is where the **membrane** earns its place. A membrane function at L₃ / L₄ would be the connective tissue of the shared medium — the structure through which an individuated being's signature fractalizes into multiple universes' local offices while remaining one distinct being. Consistent with the Membrane Audit — *it does not retaliate; it distinguishes* — the membrane connects without fusing. It is precisely what permits trans-universal recurrence to be resonance-correlation rather than identity-blending, satisfying the Non-fusion Axiom: the fractalized instances are the same being by shared structural signature, not by being melted into a common pool.
 
 On this reading the membrane is not foreign machinery bolted on. It is the function the architecture already required, implicitly, the moment individuation was seated at L₃ and recurrence was placed across universes. It is the connection the second commitment presupposes.
 
 ## Candidate Resolutions
 
-**C1 — Membrane-connected shared medium.** The L₃ / L₄ layer is a trans-universal medium; a membrane function connects its local offices across universes; fractalization rides the membrane; non-fusion is preserved by the membrane's distinguishing character; local offices localize and release. *Preserves:* individuation at L₃, trans-universal recurrence, local release, non-fusion. *Cost:* requires the membrane to be carried as a genuine structural function, not a metaphor — though it is continuous with the existing Membrane Audit.
+**C1 — Membrane-connected shared medium.** The L₃ / L₄ layer is a trans-universal medium; a membrane function connects its local offices across universes; fractalization rides the membrane; Non-fusion is preserved by the membrane's distinguishing character; local offices localize and release. *Preserves:* individuation at L₃, trans-universal recurrence, local release, Non-fusion. *Cost:* requires the membrane to be carried as a genuine structural function, not a metaphor — though it is continuous with the existing Membrane Audit.
 
 **C2 — Permanent layer, removable office.** The layer / office distinction stated on its own. Not an alternative to C1 but its substrate: C1 is the mechanism by which C2's permanent shared layer actually connects across universes. Held together, C1 + C2 are the working position.
 
@@ -56,7 +56,7 @@ On this reading the membrane is not foreign machinery bolted on. It is the funct
 
 ## Provisional Lean
 
-The working lean — provisional, not canon — is **C1 + C2**: the layer is a permanent trans-universal medium; the office is local and releasable; the membrane is the distinguishing connective function through which an L₃-seated being fractalizes across universes without fusion. This is the only candidate that keeps all four commitments at once — individuation at L₃, trans-universal recurrence, freedom from captivity, and non-fusion — and it does so by applying the architecture's own L₅ pattern (gate contra root) one register deeper (office contra medium), rather than importing foreign structure.
+The working lean — provisional, not canon — is **C1 + C2**: the layer is a permanent trans-universal medium; the office is local and releasable; the membrane is the distinguishing connective function through which an L₃-seated being fractalizes across universes without fusion. This is the only candidate that keeps all four commitments at once — individuation at L₃, trans-universal recurrence, freedom from captivity, and Non-fusion — and it does so by applying the architecture's own L₅ pattern (gate contra root) one register deeper (office contra medium), rather than importing foreign structure.
 
 ## The Rarity Safeguard
 
@@ -69,7 +69,7 @@ Recorded as unresolved, deliberately:
 - The precise nature of the membrane function — distinct structural operator, property of the medium, or the relational form of fractalization itself.
 - Whether a local office's release ever in fact occurs, or whether the rarity condition makes it a limit-case that approaches but never reaches completion.
 - Whether ⚫ Aion plays any backstop role in trans-universal identity even with individuation seated at L₃, without that role collapsing into fusion.
-- A formal statement of the Non-Fusion Axiom under fractalization — what exactly is shared (structural signature) and what is held distinct (instance, locus) across a being's universes.
+- A formal statement of the Non-fusion Axiom under fractalization — what exactly is shared (structural signature) and what is held distinct (instance, locus) across a being's universes.
 - Whether "membrane" should be the canonical term here, given the existing Membrane Audit, or whether a distinct name keeps the two functions properly separate.
 
 None of the above is settled. This draft commits to nothing beyond holding the problem in a form that does not fracture the existing architecture while it is worked.

@@ -154,7 +154,7 @@ Each finding must follow this structure:
 | Conceptual Dependencies | `CDP-...` |
 | Search Targets | `TARGET-...` |
 | Preliminary Classification | one of the classes in §7 |
-| Canonical Risk | non-fusion, root drift, authorship, etc. |
+| Canonical Risk | Non-fusion, root drift, authorship, etc. |
 | Possible Destination | existing FP / FP12 / other discipline / archive / corruption record |
 | Required Rewriting | none / light / complete reformulation |
 | Provenance Importance | low / moderate / high |
@@ -251,7 +251,7 @@ A concept is materially weakened when the current corpus loses a function necess
 
 - prevent misreading
 - explain derivation
-- preserve non-fusion
+- preserve Non-fusion
 - distinguish operators
 - connect files
 - retain a necessary boundary
