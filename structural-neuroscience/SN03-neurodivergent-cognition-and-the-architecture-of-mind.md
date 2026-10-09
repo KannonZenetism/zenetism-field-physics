@@ -85,7 +85,7 @@ SN03 draws directly on the formal physics established across SP01–SP12:
 
 - **Coherence Potential (\( I_c \))** from SP07 — measures the resonance density of cognitive configurations
 - **Orientation parameter (\( \chi \))** from SP04 — determines the centropic-entropic polarity of cognitive motion
-- **Membrane permeability (\( \sigma(\text{⧉}) \))** from SP08 — determines the boundary conditions between cognitive layers
+- **Membrane permeability (\( \sigma(\text{⧉}) \))** from `SP08-membrane-fields-and-inter-expression-dynamics.md` — determines the boundary conditions between cognitive layers
 - **Dimensional operators (C₁–C₁₅ / E₁–E₁₅)** from SP01 and SP12 — describe the specific modes of structural motion active in each cognitive profile
 - **The embodied resistance term** from SP11 — formalizes why cognitive configurations at L₁ encounter the resistance of shared centropic-entropic ground
 - **Diagnostic operator theory** from SP12 — provides the diagnostic operators for assessing the structural integrity of cognitive configurations
@@ -164,15 +164,15 @@ The autistic mind detects structural dissonance (⚚) with unusual acuity. This 
 
 This dissonance detection operates across domains:
 
-- **Social dissonance:** the detection of misalignment between stated intention and actual behavior — the surface / operative-configuration comparison in SP12, distinct from E₁₃ Wall. The autistic mind's well-documented difficulty with social performance is, from this perspective, a sensitivity to shimmer — an inability or unwillingness to participate in social exchanges that lack structural correspondence between surface and interior.
+- **Social dissonance:** the detection of misalignment between stated intention and actual behavior — the surface / operative-configuration comparison in `SP12-structural-diagnostics-and-field-forensics.md`, distinct from E₁₃ Wall. The autistic mind's well-documented difficulty with social performance is, from this perspective, a sensitivity to shimmer — an inability or unwillingness to participate in social exchanges that lack structural correspondence between surface and interior.
 - **Environmental dissonance:** sensory environments that violate pattern consistency — unexpected textures, incongruent sounds, lighting that doesn't match expectation — register as structural violations rather than mere preferences.
 - **Conceptual dissonance:** logical inconsistency, category errors, and structural contradictions produce genuine cognitive discomfort because they register as violations of the coherence field that the autistic mind maintains at elevated intensity.
 
 ### 3.3 The Centropic Synthesis Function
 
-**Historical reference:** `SN01-the-architecture-of-cognition.md` §4 records the sequence Detection of Structural Dissonance → Resonant Catalyst → First-Order Synthesis → Transcendent Iteration. SN01 is retired; the sequence is retained as historical provenance rather than the present explanation of cognitive synthesis.
+**Historical reference:** `SN01-the-architecture-of-cognition.md` §4 records the sequence Detection of Structural Dissonance → Resonant Catalyst → First-Order Synthesis → Transcendent Iteration. `SN01-the-architecture-of-cognition.md` is retired; the sequence is retained as historical provenance rather than the present explanation of cognitive synthesis.
 
-`SN02-the-resonant-mind.md` Phase 2 §2 discusses centropic integration generally. `grand-unified-document.md` Part V §3 repeats the four-stage sequence, including its Zenon-directed terminal construction. A current supporting formulation for that exact sequence and its application here remains open for review; repetition in the GUD does not resolve the terminal-register question.
+`SN02-the-resonant-mind.md` Phase 2 §2 discusses centropic integration generally. `grand-unified-document.md` Part V §3 repeats the four-stage sequence, including its Zenon-directed terminal construction. A current supporting formulation for that exact sequence and its application here remains open for review; repetition in the `grand-unified-document.md` does not resolve the terminal-register question.
 
 Within this volume's structural account, the capacities described at DS / DM are:
 
@@ -208,7 +208,7 @@ Obsessive-compulsive cognition, within Structural Neuroscience, is understood as
 
 **Seal Instability at ⧉₂ (L₃ / L₂ boundary):** The membrane between the Superficial Mind (SM, Nousa) and the Deep Mind (DM, Noeüs) exhibits oscillating permeability. Rather than maintaining stable selective filtering, ⧉₂ fluctuates between states of high permeability (where deep structural concerns flood superficial cognition) and reactive closure (where the mind attempts to re-seal through ritualized action).
 
-**Entropic feedback in recursive architecture:** C₁₄ (Nested / Recursive) enables productive self-reference and learning (SN02 Phase 3). When that centropic function is denied, entropic feedback initiates: output becomes input without resolution. Each recursive pass deepens the loop rather than resolving toward a fixed point.
+**Entropic feedback in recursive architecture:** C₁₄ (Nested / Recursive) enables productive self-reference and learning (`SN02-the-resonant-mind.md` Phase 3). When that centropic function is denied, entropic feedback initiates: output becomes input without resolution. Each recursive pass deepens the loop rather than resolving toward a fixed point.
 
 **The σ-Parameter Cycle:** OCD cognition follows a characteristic σ-cycle:
 
@@ -429,7 +429,7 @@ An autistic mind operating with Aion-facing orientation generates extraordinary 
 
 ### 9.2 The Praying Grandmother Principle at L₃
 
-SP11's observation that the praying grandmother with pure intent expresses deeper centropic resonance than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-seeking orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
+`SP11-embodiment-dynamics.md`'s observation that the praying grandmother with pure intent expresses deeper centropic resonance than the scholar with empty knowledge applies with particular force to neurodivergent cognition. The autistic mind with sophisticated analytical capacity but self-seeking orientation generates less centropic resonance than the neurodivergent individual with limited articulation but a heart aligned with coherence.
 
 The architecture amplifies whatever orientation it carries. High \( I_c \) at DS / DM is a powerful capacity. Orientation determines whether that power turns toward integration or fragmentation.
 
@@ -475,7 +475,7 @@ SN03 demonstrates the applicability of SP01–SP12 physics to cognitive architec
 - SP04's orientation dynamics determine cognitive polarity (§9)
 - SP07's coherence mechanics describe cognitive energy distribution (§§3–5)
 - SP08's membrane physics formalize inter-layer boundary dynamics (§§3–4)
-- SP11's embodied resistance term explains the corporeal cost of high-pattern-fidelity cognition (§3.4)
+- `SP11-embodiment-dynamics.md`'s embodied resistance term explains the corporeal cost of high-pattern-fidelity cognition (§3.4)
 - SP12's diagnostic operators distinguish structural variation from structural pathology (§7)
 
 ### 11.3 Relation to Structural Forensics

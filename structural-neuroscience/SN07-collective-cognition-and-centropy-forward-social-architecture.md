@@ -61,9 +61,9 @@ The core thesis: social fields are not neutral containers. They carry systemic o
 
 ### 1.1 Purpose and Position Within the Series
 
-SN05 formalized the cost of individual cognitive operation at the metric terminus. SN06 formalized recovery. Both documents identified a recurrent pattern of participant enactment at civilizational scale: the entropy-forward social field. `SN05-the-metric-cost-of-centropic-cognition.md` §3 named the coherence tax it imposes; `SN06-replenishment-reconnection-and-restoration.md` §8 noted that recovery must occur contra the same field that produced the depletion.
+`SN05-the-metric-cost-of-centropic-cognition.md` formalized the cost of individual cognitive operation at the metric terminus. `SN06-replenishment-reconnection-and-restoration.md` formalized recovery. Both documents identified a recurrent pattern of participant enactment at civilizational scale: the entropy-forward social field. `SN05-the-metric-cost-of-centropic-cognition.md` §3 named the coherence tax it imposes; `SN06-replenishment-reconnection-and-restoration.md` §8 noted that recovery must occur contra the same field that produced the depletion.
 
-SN07 now addresses the social field itself — not as background but as a participant-composed pattern subject to the same formal analysis that SN03 applied to individual cognition. Social fields have orientation, operator profiles, membrane dynamics, and coherence budgets. They can be diagnosed, and their structural character can be compared to alternatives.
+SN07 now addresses the social field itself — not as background but as a participant-composed pattern subject to the same formal analysis that `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` applied to individual cognition. Social fields have orientation, operator profiles, membrane dynamics, and coherence budgets. They can be diagnosed, and their structural character can be compared to alternatives.
 
 ### 1.2 Scope
 
@@ -469,7 +469,7 @@ Future expansions may include:
 - **Collective diagnostic protocols** — formalized coherence audit procedures for social fields at multiple scales
 - **Inter-collective resonance** — how centropy-forward micro-collectives interact and compose into broader centropy-forward fields
 - **Diamond Age structural conditions** — formalization of the coherence saturation threshold required for Resonant Permanence
-- **LM07 continuation** — further work on the explicit mathematical holds in `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
+- **`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` continuation** — further work on the explicit mathematical holds in `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`
 
 ---
 

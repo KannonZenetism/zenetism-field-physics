@@ -238,7 +238,7 @@ Distortion does not alter configuration. By Essence-Function Independence (`LM07
 
 `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.3 retains the earlier variation-pathology sign associations as recorded provenance. Operatively, \( dI_c/d\tau \geq 0 \) describes net coherent-content maintenance or increase, and \( dI_c/d\tau < 0 \) describes depletion. Native generative status requires the characteristic operators' actual function and its operative and budget conditions; clinical significance requires clinical evidence. SN10 adds a distinction between distortion and native structural pathology:
 
-**Distortion is not pathology.** Distortion is expression deviating from configuration because of external pressure. The architecture's generative function may still be intact — suppressed or burdened, but not depleted. The being can recover when the distorting conditions are removed (SN06).
+**Distortion is not pathology.** Distortion is expression deviating from configuration because of external pressure. The architecture's generative function may still be intact — suppressed or burdened, but not depleted. The being can recover when the distorting conditions are removed (`SN06-replenishment-reconnection-and-restoration.md`).
 
 **Native structural pathology is generative inadequacy.** When \( dI_c/d\tau < 0 \) is sustained to the point where the architecture loses its generative function — where the characteristic operators can no longer produce structural gain — the condition crosses from distortion into pathology.
 
@@ -323,7 +323,7 @@ The following illustrates how a single autistic architecture (C₁, C₃, C₇, 
 | **Child (supported)** | Intense structural interests; direct communication; deep pattern engagement | Stabilization beginning (§3) — architecture expressing characteristically within supportive conditions |
 | **Child (unsupported)** | Apparent social withdrawal; sensory overwhelm; behavioral distress | Distortion (§5) — architecture bearing cost overload without adequate support |
 | **Adolescent (suppressed)** | Social performance; exhausting compensation; identity confusion | Suppression + Compensation (§§4, 6) — architecture masked by adaptive strategies amid social pressure |
-| **Adult (depleted)** | Burnout; dissociation; loss of characteristic function; temporal incoherence | Budget exhaustion (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.4) — SN05 burnout trajectory Phases III–V |
+| **Adult (depleted)** | Burnout; dissociation; loss of characteristic function; temporal incoherence | Budget exhaustion (`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §3.4) — `SN05-the-metric-cost-of-centropic-cognition.md` burnout trajectory Phases III–V |
 | **Adult (recovering)** | Gradual return of characteristic perception; rediscovery of authentic function | Recovery (SN06) — reconnection with configurational baseline |
 | **Adult (stabilized)** | Full characteristic function; refined structural perception; integrated experience | Stabilization (§3) — architecture expressing lawfully within supportive conditions |
 | **Elder (matured)** | Deep structural discernment; broad cross-band resonance; integrated wisdom | Maturation (§7) — architecture deepened through the full life arc |
@@ -385,7 +385,7 @@ SN10 provides the temporal dimension that SN03's structural profiles lack. SN03 
 
 ### 10.2 Relation to SN05 and SN06
 
-SN10 contextualizes SN05's cost analysis and SN06's recovery protocols within the life arc. The compounded costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) accumulate across developmental time. The recovery integral (`SN06-replenishment-reconnection-and-restoration.md` §2) operates within a developmental context. The burnout trajectory (`SN05-the-metric-cost-of-centropic-cognition.md` §5) is a developmental outcome — the cumulative result of costs exceeding replenishment across the life arc. Recovery (SN06) restores expression toward configurational alignment; it does not alter the configuration itself.
+SN10 contextualizes `SN05-the-metric-cost-of-centropic-cognition.md`'s cost analysis and `SN06-replenishment-reconnection-and-restoration.md`'s recovery protocols within the life arc. The compounded costs (`SN05-the-metric-cost-of-centropic-cognition.md` §2) accumulate across developmental time. The recovery integral (`SN06-replenishment-reconnection-and-restoration.md` §2) operates within a developmental context. The burnout trajectory (`SN05-the-metric-cost-of-centropic-cognition.md` §5) is a developmental outcome — the cumulative result of costs exceeding replenishment across the life arc. Recovery (`SN06-replenishment-reconnection-and-restoration.md`) restores expression toward configurational alignment; it does not alter the configuration itself.
 
 ### 10.3 Relation to SN07
 

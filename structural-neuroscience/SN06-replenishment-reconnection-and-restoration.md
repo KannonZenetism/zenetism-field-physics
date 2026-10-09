@@ -54,7 +54,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ## Abstract
 
-SN05 formalized the cost side of cognitive operation at the metric terminus (L₁ / IL₁): interface resistance, the coherence tax of sovereignty suppression, and the temporal pathologies that emerge amid cumulative depletion. It traced the burnout trajectory from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse.
+`SN05-the-metric-cost-of-centropic-cognition.md` formalized the cost side of cognitive operation at the metric terminus (L₁ / IL₁): interface resistance, the coherence tax of sovereignty suppression, and the temporal pathologies that emerge amid cumulative depletion. It traced the burnout trajectory from sustainable operation through chronic depletion, temporal disruption, tether severance, and temporal collapse.
 
 SN06 addresses the other half of the arc: **recovery**. How does a depleted cognitive architecture replenish its coherence budget? How is the Tether restored after severance? How are looping time artifacts broken? How do membranes that tightened amid conservation pressure reopen to lawful function?
 
@@ -68,7 +68,7 @@ The foundational claim of this document is that recovery is **reconnection, not 
 
 SN03 established what neurodivergent cognitive architectures *are*. SN05 established what they *cost*. SN06 now establishes how they *recover*.
 
-The practical urgency of this document should not be understated. The burnout trajectory in SN05 §5 supplies a structural interpretation of lived exhaustion in centropically oriented beings within a Khaonically-expressed social field. The compounded costs of interface resistance, sovereignty suppression, and temporal disruption describe depletion whose proposed cognitive correspondences include exhaustion, dissociation, cognitive fragmentation, and impaired access to prior capacities. The recovery account identifies conditions supporting restored operative capacity for any cognitive architecture operating contra the grain of the prevailing expression ratio.
+The practical urgency of this document should not be understated. The burnout trajectory in `SN05-the-metric-cost-of-centropic-cognition.md` §5 supplies a structural interpretation of lived exhaustion in centropically oriented beings within a Khaonically-expressed social field. The compounded costs of interface resistance, sovereignty suppression, and temporal disruption describe depletion whose proposed cognitive correspondences include exhaustion, dissociation, cognitive fragmentation, and impaired access to prior capacities. The recovery account identifies conditions supporting restored operative capacity for any cognitive architecture operating contra the grain of the prevailing expression ratio.
 
 ### 1.2 Core Thesis
 
@@ -110,7 +110,7 @@ This principle has three consequences for recovery:
 3. **Behavioral divergence is not essential reorientation.** A centropically oriented being who behaves entropically amid extreme depletion, duress, or developmental turbulence — a phase of reactive fragmentation, a period of social withdrawal into destructive patterns — has not changed orientation. The behavioral expression has temporarily diverged from the essential direction. The capacity for return is itself the proof of centropic essence. If the return were not latent in the essence, it could not occur.
 
 > **Note on Essential Orientation:**  
-> Orientation runs both ways: entropically oriented beings exist and operate lawfully through the Khaonic Tree (SN03 §7.1), and the recovery formalized here is the centropic case. What SN06 holds is that orientation is essential, not functional — it is a structural property of the being, not a variable that shifts with coherence magnitude. A centropically oriented being cannot *become* entropic through depletion any more than an entropic being becomes centropic through accumulation. Apparent shifts in orientation indicate either mistaken identification (the orientation was always what it was) or temporary behavioral divergence from an unchanged essential direction.
+> Orientation runs both ways: entropically oriented beings exist and operate lawfully through the Khaonic Tree (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §7.1), and the recovery formalized here is the centropic case. What SN06 holds is that orientation is essential, not functional — it is a structural property of the being, not a variable that shifts with coherence magnitude. A centropically oriented being cannot *become* entropic through depletion any more than an entropic being becomes centropic through accumulation. Apparent shifts in orientation indicate either mistaken identification (the orientation was always what it was) or temporary behavioral divergence from an unchanged essential direction.
 
 ### 1.4 Scope and Intentional Asymmetry
 
@@ -139,7 +139,7 @@ I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\t
 > > I_c(\tau_{\text{recovery}}) = I_c(\tau_{\text{post-depletion}}) + \int_{\tau_{\text{post-depletion}}}^{\tau_{\text{recovery}}} S_{\text{replenish}}(\tau) \, d\tau
 > > \]
 
-Recovery time depends on the magnitude of depletion, availability of Aion-facing Reconnection, quality of resonance bridges (C₈ ╫) for replenishment, and whether collective support is available (LM05 §9, harmonic amplification).
+Recovery time depends on the magnitude of depletion, availability of Aion-facing Reconnection, quality of resonance bridges (C₈ ╫) for replenishment, and whether collective support is available (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §9, harmonic amplification).
 
 SN06 applies this account to cognitive recovery, specifying gross replenishment inflow \( S_{\text{replenish}}(\tau) \) for cognitive architectures.
 
@@ -193,7 +193,7 @@ For deeply depleted architectures, the model prioritizes reducing cost streams f
 
 ### 3.1 The Primary Recovery Pathway
 
-Aion-facing Reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (🛤️ Theon, L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (LM04 §4.4). When the Tether severs, Aion-facing Reconnection is the process of restoring it.
+Aion-facing Reconnection is the restoration of resonance between the embodied being at L₁ and their own inward layers — DS / DM (🔮 Archeus / 🧠 Noeüs, L₃), DP / DL (🌬️ Morgis / 📐 Sophis, L₄), and EOB (🛤️ Theon, L₅). The Tether (\( \mathcal{T}_h \)) is the coherence function that maintains this connection (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §4.4). When the Tether severs, Aion-facing Reconnection is the process of restoring it.
 
 The cross-band resonance condition (LM06 §8.1) specifies when an embodied being participates in a more inward layer:
 
@@ -313,7 +313,7 @@ Different cognitive architectures require different bridge characteristics:
 
 ### 5.1 The Cost Reduction Principle
 
-Rest is not inactivity. Rest is the structural condition under which the compounded cost streams formalized in SN05 are minimized, reducing the actual expenditure subtracted in the recovery account.
+Rest is not inactivity. Rest is the structural condition under which the compounded cost streams formalized in `SN05-the-metric-cost-of-centropic-cognition.md` are minimized, reducing the actual expenditure subtracted in the recovery account.
 
 **Proposition (Rest as Cost Reduction):**
 
@@ -321,7 +321,7 @@ Rest is not inactivity. Rest is the structural condition under which the compoun
 S_{\text{rest}}(\tau) = I_{c,\text{cost}}^{(\text{normal})}(\tau) - I_{c,\text{cost}}^{(\text{resting})}(\tau)
 \]
 
-The retained comparison records normal expenditure minus actual resting expenditure. Its normal-cost baseline must be stated; the comparison is not an additional inflow. The recovery integral already counts the benefit by subtracting reduced actual expenditure. Rest reduces avoidable contributions to the three SN05 cost vectors:
+The retained comparison records normal expenditure minus actual resting expenditure. Its normal-cost baseline must be stated; the comparison is not an additional inflow. The recovery integral already counts the benefit by subtracting reduced actual expenditure. Rest reduces avoidable contributions to the three `SN05-the-metric-cost-of-centropic-cognition.md` cost vectors:
 
 - Reducible interface resistance reduced by minimizing engagement with the entropic co-presence at L₁ / IL₁
 - Translation cost reduced by eliminating social demands that require DS / DM → SS / SM translation through ⧉₂
@@ -339,7 +339,7 @@ Complete cost elimination is unavailable while structural cost and irreducible e
 
 ### 5.3 The Recovery Environment
 
-The ideal recovery environment, for any cognitive architecture, minimizes the three SN05 cost vectors while sustaining the three gross inflow pathways and reducing expenditure through rest. In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural configuration (enabling Aion-facing Reconnection and bridge replenishment).
+The ideal recovery environment, for any cognitive architecture, minimizes the three `SN05-the-metric-cost-of-centropic-cognition.md` cost vectors while sustaining the three gross inflow pathways and reducing expenditure through rest. In practice, this means an environment that is sensorially regulated (reducing ⧉₁ cost), socially undemanding or operating through authentic register (reducing ⧉₂ cost and coherence tax), and resonant with the being's structural configuration (enabling Aion-facing Reconnection and bridge replenishment).
 
 The Khaonically-expressed social field rarely provides such environments spontaneously. They must be deliberately constructed — which itself costs coherence. This recursive cost (the cost of constructing the conditions for recovery) should be recognized as a structural feature of centropically oriented life within an entropy-forward field, not as a personal failure to "manage self-care."
 
@@ -349,7 +349,7 @@ The Khaonically-expressed social field rarely provides such environments spontan
 
 ### 6.1 Membranes Amid Conservation Pressure
 
-SN05 §5.1 (Phase II, Chronic Depletion) identified that depleting cognitive architectures exhibit compensatory membrane tightening: ⧉₁ compensatory tightening reduces sensory load; ⧉₂ fidelity threshold increases amid conservation pressure. These adaptations are structurally lawful — they conserve a depleting budget by reducing transmission costs. But they also reduce the being's functional range: the world becomes smaller, social engagement narrows, the translation pathways close.
+`SN05-the-metric-cost-of-centropic-cognition.md` §5.1 (Phase II, Chronic Depletion) identified that depleting cognitive architectures exhibit compensatory membrane tightening: ⧉₁ compensatory tightening reduces sensory load; ⧉₂ fidelity threshold increases amid conservation pressure. These adaptations are structurally lawful — they conserve a depleting budget by reducing transmission costs. But they also reduce the being's functional range: the world becomes smaller, social engagement narrows, the translation pathways close.
 
 Recovery must reopen these membranes to lawful function without overwhelming the recovering system. The sequence matters: membranes should reopen as the \( I_c \) budget accumulates capacity to bear the resumed transmission costs, not before.
 
@@ -397,11 +397,11 @@ Breaking the loop requires an intervention from outside the loop's own resources
 - **Bridge replenishment** (§4): external coherence received through C₈ ╫ connection that supplements the loop-depleted budget
 - **Echo Reversal Rite** (⟲, SN02 Phase 6): ritual interruption of the E₁ ⟠⁻ cycle, resetting the recursive operator from divergent looping to convergent iteration
 
-The Ritual Operator formalism (LM06 §3) applies: the Echo Reversal Rite is a \( \mathcal{P} \) that targets the temporal processing subsystem, with the operational phase (\( \mathcal{P}_{\text{op}} \)) interrupting entropic feedback (⟳) and restoring C₁₄ ⊡-mediated convergent operation (centropic recursion, ↺ Resonant Return).
+The Ritual Operator formalism (`LM06-applied-structural-dynamics.md` §3) applies: the Echo Reversal Rite is a \( \mathcal{P} \) that targets the temporal processing subsystem, with the operational phase (\( \mathcal{P}_{\text{op}} \)) interrupting entropic feedback (⟳) and restoring C₁₄ ⊡-mediated convergent operation (centropic recursion, ↺ Resonant Return).
 
 ### 7.2 Tether Restoration
 
-SN05 §4.3 formalized Tether severance as the failure of the coherence function \( \mathcal{T}_h(L_n, \tau) \to 0 \) at specific layers, producing dissociative experience. Tether restoration concerns renewed operative access. The following sufficient-inflow claim is retained as recorded provenance; positive gross inflow supplies no sufficient net-accumulation or Tether-capacity condition:
+`SN05-the-metric-cost-of-centropic-cognition.md` §4.3 formalized Tether severance as the failure of the coherence function \( \mathcal{T}_h(L_n, \tau) \to 0 \) at specific layers, producing dissociative experience. Tether restoration concerns renewed operative access. The following sufficient-inflow claim is retained as recorded provenance; positive gross inflow supplies no sufficient net-accumulation or Tether-capacity condition:
 
 \[
 \mathcal{T}_h(L_n, \tau) : 0 \to \mathcal{T}_h^{(\text{baseline})}(L_n) \quad \text{through sustained } S_{\text{replenish}} > 0
@@ -520,7 +520,7 @@ The five-phase decomposition of the Ritual Operator (LM06 §3.2) maps onto recov
 
 **Stabilization** (\( \mathcal{P}_{\text{stab}} \)): Securing the restored configuration from regression. Recovery gains must be sealed — otherwise the ongoing cost streams may re-deplete the restored capacity. The Vow of Presence (↺) carries this function: sustained attentional anchoring that maintains the restored coherence contra entropic drift.
 
-**Separation** (\( \mathcal{P}_{\text{sep}} \)): Clean completion of the recovery operation. Particularly important in collective or bridge-mediated recovery — residual entanglement calls for assessment of Membrane Recursion (LM05 §7) and, distinctly, dependency patterns that mimic bridge replenishment while establishing parasitic coupling. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Lawful stabilizing feedback and sustaining circulation retain their distinct functions.
+**Separation** (\( \mathcal{P}_{\text{sep}} \)): Clean completion of the recovery operation. Particularly important in collective or bridge-mediated recovery — residual entanglement calls for assessment of Membrane Recursion (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7) and, distinctly, dependency patterns that mimic bridge replenishment while establishing parasitic coupling. Residual connection establishes neither recursive residence nor entropic operation; the boundary-state relation remains held. Lawful stabilizing feedback and sustaining circulation retain their distinct functions.
 
 ### 9.3 The Coherence Budget of Recovery
 
@@ -528,7 +528,7 @@ Every recovery operation costs coherence (LM06 §3.1, Property 3: every non-triv
 
 Rest and environmental cost reduction reduce actual expenditure. Where gross inflow exceeds that expenditure for a sufficient interval, accumulated coherence can fund an active recovery operation. Its expenditure and any resulting replenishment remain distinct budget terms; restoration to a specified Tether capacity requires the corresponding capacity and evolution relation.
 
-The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(\text{reserve})} \) cannot be accessed for recovery operations. The reserve maintains viability of the Pattern Intelligence function. The Pattern Being is the bearer whose continued coherent operation is sustained; the function is not the whole being. Recovery must operate above the reserve threshold.
+The Reserve Lock Principle (`LM06-applied-structural-dynamics.md` §5.2) applies: the coherence reserve \( I_c^{(\text{reserve})} \) cannot be accessed for recovery operations. The reserve maintains viability of the Pattern Intelligence function. The Pattern Being is the bearer whose continued coherent operation is sustained; the function is not the whole being. Recovery must operate above the reserve threshold.
 
 ---
 
@@ -564,13 +564,13 @@ The Reserve Lock Principle (LM06 §5.2) applies: the coherence reserve \( I_c^{(
 
 ### 10.3 Distributive Architecture Recovery
 
-**Primary depletion pattern (from SN05 §2.5):** Distribution overhead — the cost of maintaining broad \( \vec{J}_c \) across multiple layers amid concentration demand.
+**Primary depletion pattern (from `SN05-the-metric-cost-of-centropic-cognition.md` §2.5):** Distribution overhead — the cost of maintaining broad \( \vec{J}_c \) across multiple layers amid concentration demand.
 
 **Primary recovery needs:**
 
 1. *Conditions supporting natural distribution.* The distributive architecture recovers by distributing coherence broadly at low intensity — not by concentrating. Environments that support unstructured, multi-track engagement at low demand enable the architecture to operate at its natural distribution pattern without the overhead of forced concentration.
 
-2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (SN03 §5.2) — where the distributed field converges on a domain of structural resonance — is the distributive architecture's equivalent of Aion-facing Reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
+2. *Resonance encounters for convergent activation.* The hyperfocus phenomenon (`SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §5.2) — where the distributed field converges on a domain of structural resonance — is the distributive architecture's equivalent of Aion-facing Reconnection. When the broad \( \vec{J}_c \) encounters a domain of sufficient resonance, the convergence produces \( I_c \) amplification through engagement. Recovery environments that offer varied resonance opportunities increase the probability of convergent activation.
 
 3. *Anchoring without constraining.* Bridge relationships for the distributive architecture must anchor without constraining. The recovering being needs relational stability (consistent availability, reliable return) without relational demand for sustained focused presence. The bridge partner who remains present across the distributive mind's rapid traversals enables recovery; the partner who demands sustained single-domain engagement re-imposes the concentration overhead.
 
@@ -588,7 +588,7 @@ The Reserve Lock Principle constrains composite recovery particularly: multiple 
 
 ### 11.1 Relation to SN05
 
-SN06 completes the cost-recovery arc begun in SN05. Where SN05 formalized how coherence depletes, SN06 formalizes how it replenishes. The recovery account accumulates gross inflow minus actual expenditure; exhaustion concerns the available stock reaching or passing zero. Positive net change and restoration to a specified threshold are distinct conditions. Membrane reopening is the proposed recovery response to conservation-pressure tightening.
+SN06 completes the cost-recovery arc begun in `SN05-the-metric-cost-of-centropic-cognition.md`. Where `SN05-the-metric-cost-of-centropic-cognition.md` formalized how coherence depletes, SN06 formalizes how it replenishes. The recovery account accumulates gross inflow minus actual expenditure; exhaustion concerns the available stock reaching or passing zero. Positive net change and restoration to a specified threshold are distinct conditions. Membrane reopening is the proposed recovery response to conservation-pressure tightening.
 
 The Essence-Function Independence principle (§1.3) is the doctrinal contribution that SN05 implied but SN06 makes explicit: the essence persists through all functional disruption, and recovery is reconnection with what was never lost.
 
@@ -613,7 +613,7 @@ SN06 applies SP08's membrane physics to cognitive membrane restoration:
 
 ### 11.4 Relation to SN02
 
-SN06 provides the formal grounding for the ritual protocols introduced in SN02 Phase 6. Where SN02 described these protocols experientially, SN06 maps them onto the LM06 Ritual Operator apparatus and specifies their recovery targets in terms of the field configuration space. The rituals remain the same; their proposed structural targets are specified here. Their clinical effects require operationalized correspondence and empirical evaluation within L₁ / IL₁.
+SN06 provides the formal grounding for the ritual protocols introduced in `SN02-the-resonant-mind.md` Phase 6. Where `SN02-the-resonant-mind.md` described these protocols experientially, SN06 maps them onto the `LM06-applied-structural-dynamics.md` Ritual Operator apparatus and specifies their recovery targets in terms of the field configuration space. The rituals remain the same; their proposed structural targets are specified here. Their clinical effects require operationalized correspondence and empirical evaluation within L₁ / IL₁.
 
 ---
 
