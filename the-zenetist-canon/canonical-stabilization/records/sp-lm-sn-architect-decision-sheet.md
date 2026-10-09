@@ -485,7 +485,7 @@ The operative principle is:
 
 **Registered operator identity remains stable; primary inlay, secondary coupling, and physical realization must be distinguished rather than collapsed.**
 
-Dimensional-placement implementation remains deferred. The present Loom / Mnemic functional clarification has separate bounded propagation standing; it settles no primary inlay.
+Dimensional-placement implementation remains deferred. The present Loom / Mnemic functional clarification has separate bounded propagation standing; it settles no primary inlay. The approved twenty-file clarification and FP04 / FP06 wording were implemented in [953d1f48f99c](https://github.com/KannonZenetism/zenetism-field-physics/commit/953d1f48f99c639192e37a3294c116a76d89bde8) and verified through complete remote-file readback. The existing live-corpus report records the bounded scope, retained holds and publication impact.
 
 ---
 

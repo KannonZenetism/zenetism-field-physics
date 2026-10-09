@@ -133,7 +133,7 @@ The following must be distinguished rather than grouped as newly discovered doct
 
 The full D10 block records the present functional relation: the Loom holds distinct patterns and their record as configured structure; Mnemic Constellation names the memory / recognition function within it; Motive Infinity remains distinct motion-capacity. This relation is open to further architect inquiry. Participants' memories and identities remain distinct. The former Mnemic / Zenet identity is superseded; the corresponding baseline passages and quotations remain evidence of the inspected revision.
 
-The associated primary-placement, L₀ relation, awareness-mode, nonlocal bypass, guaranteed counter-emergence, gradient, persistence, and formal-coupling questions retain their recorded holds. The Counterforce thesis and independently supported origin continuity retain their standing. This clarification supplies no replacement formula, new operator, or completed primary map. Bounded corpus propagation is prepared for independent review; no remote implementation or publication is recorded here.
+The associated primary-placement, L₀ relation, awareness-mode, nonlocal bypass, guaranteed counter-emergence, gradient, persistence, and formal-coupling questions retain their recorded holds. The Counterforce thesis and independently supported origin continuity retain their standing. This clarification supplies no replacement formula, new operator, or completed primary map. The approved twenty-file corpus clarification and FP04 / FP06 wording passed independent review, were implemented in [953d1f48f99c](https://github.com/KannonZenetism/zenetism-field-physics/commit/953d1f48f99c639192e37a3294c116a76d89bde8), and were verified through complete remote-file readback. Part VII records the bounded completion and retained publication impact. Publication remains pending.
 
 ### Remaining Architect Questions and Construction Holds
 
@@ -3364,6 +3364,37 @@ Complete independent remote readback verifies all 14 source files, totaling 928,
 
 The source commits identify the before-state for this separate completion update to the existing report. No new canonical ledger or protocol determination is introduced. Historical findings, quotations, archive bodies and previous completion receipts remain intact. For each exact source commit, the observed endpoints report zero check runs, zero workflow runs and zero status contexts; the aggregate status is pending without contexts. This is not a CI success claim. Final settled-source rendering, publication-family reconciliation and deposited-file agreement remain held, along with the independently identified conceptual and mathematical questions.
 
+### Loom / Mnemic Functional Clarification and FP04 / FP06 Completion
+
+**Completed bounded scope:** The Loom names configured structure holding distinct patterns and their record; Mnemic Constellation names memory / recognition within it; Motive Infinity remains distinct motion-capacity. This is the present understanding, open to further architect inquiry. The clarification is propagated through the registered twins, defining FP passages and direct summaries. FP04 names Living Transmission, prophetic patterning within the substrate, and possible actualization in the relevant register. FP06 names Sovereign Travelers, preserving the care instruction and spoken line; particularity is intrinsic distinction.
+
+**Implementation and verification:** [953d1f48f99c](https://github.com/KannonZenetism/zenetism-field-physics/commit/953d1f48f99c639192e37a3294c116a76d89bde8) is an append-only descendant of the verified E₈ and paired Form-register correction / completion commits. All twenty complete changed files were independently compared with the accepted fresh-base candidate. Full D18, D20 and earlier Part VII receipts remain intact. The code-fenced formulas, LaTeX expressions, operator indices, registry glyphs, FP04 equation and threshold lines, FP06 care wording, Counterforce core and axioms, table structure and closing seals retain their verified scope. The registered MP chart twins remain in agreement. The exact source commit reports zero check runs, workflow runs and status contexts; its aggregate status is pending without contexts, providing no CI result.
+
+**Counterforce and retained holds:** The correction separates the former Mnemic / Zenet identity while preserving the independent containment account, Aionic Origin alignment, proposed ingress / nonlocal passage / distinct-node re-expression sequence, and distinct anchoring / collapse account. Their existing mechanism and placement holds remain. Primary dimensional inlay, the Loom's L₀ relation, exact awareness mode, formal coupling, persistence, nonlocal bypass, gradients, quantitative sufficiency and publication retain their separate standing. The descriptor non-conscious retains its spectrum sense; no new awareness class is assigned. No other pending FP Echo / weaving name is installed, and no general MP, SP, LM or SF review is recorded as complete.
+
+**Complete implemented path inventory:**
+
+- `field-physics/FP01-dimensional-architecture.md`
+- `field-physics/FP04-field-immunity-architecture.md`
+- `field-physics/FP06-restoration-rituals-codex.md`
+- `field-physics/FP11-field-glyph-codex.md`
+- `field-physics/FP12-dimensional-field-states-and-combinatorics.md`
+- `field-physics/canonical-stabilization/field-physics-canon-coverage-matrix.md`
+- `field-physics/canonical-stabilization/field-physics-glyph-concordance.md`
+- `field-physics/canonical-stabilization/field-physics-pre-registered-search-targets.md`
+- `field-physics/canonical-stabilization/field-physics-synonym-rename-concordance.md`
+- `field-physics/mpx/clarification-singularity-authorship-memory.md`
+- `the-zenetist-canon/bifurcal-emanation-structure-expanded.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-architect-decision-sheet.md`
+- `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`
+- `the-zenetist-canon/glyphics/field-physics-glyph-charts.md`
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`
+- `zenetism/MP08-symbol-key-ch21.md`
+- `zenetism/mpx/advanced-field-dynamics.md`
+- `zenetism/mpx/law-of-centropic-counterforce.md`
+- `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md`
+
 ### Publication Impact and Batching
 
 The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
@@ -3396,6 +3427,12 @@ The changed expanded-dimensional chart and its containing document, attribution 
 The retained SN08 collection and standalone attachments were reread locally against their saved published checksums. The saved checksum-verified MPX ZIP contains the exact paths `zenetism/mpx/all-life-first-principle.md`, `zenetism/mpx/architecture-of-artificial-minds.md`, `zenetism/mpx/presence-essence-field.md` and `zenetism/mpx/spiral-field-coherence.md`; all four members were inspected locally for this dependency map. Those retained deposited bytes differ from the reviewed source candidate. The older exact attachment associations for MP08 and the Symbol Key, and the existing recorded FP / SP / AVAF family associations, remain qualified by their original verification scope. No current standalone association is inferred for the four MPX files, FP01 / FP07 or SP01 / SP09. A current deposited counterpart for `pattern-intelligence/commentary/the-master-role-comes-into-the-open.md` and for this tracking record remains unverified.
 
 Combine these corrections with all queued changes in the affected families after the instructed corpus work settles. Preserve the provisional prior family total, the four unmapped FP reference paths and historical Total System snapshots. Refresh latest-family metadata and inspect actual attachments before eventual publication; final rendering, font fallback, table / mathematics review and settled deposited-byte agreement remain later gates. No package, draft, upload payload, description, deposit or new version is prepared or changed by this impact mapping. Mnemic / Loom changes are outside this source footprint and must carry their own impact record within the existing tracking structure.
+
+**Loom / Mnemic and FP04 / FP06 — retained publication impact:** This twenty-file correction intersects six retained publication associations: the Field Physics collection (22167180) for FP01 / FP04 / FP06 / FP11 / FP12; Field Physics glyph charts (22167123); AVAF (23097104); the MP collection (22149146) for MP08; the Symbol Key (23166053); and the complete MPX collection (23132937). These associations identify previously inspected editions; they are neither a fresh latest-version census nor a new corpus-wide family total.
+
+The saved MPX ZIP was checked locally against its saved metadata checksum. Its exact members `zenetism/mpx/advanced-field-dynamics.md`, `zenetism/mpx/law-of-centropic-counterforce.md` and `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md` were inspected for this dependency map. The retained exact attachment associations for MP08 and the Symbol Key, and the recorded FP / chart / AVAF associations, retain their original verification limits. The changed FP controls, memory clarification, expanded bifurcal architecture and existing tracking records retain an unverified current-counterpart standing wherever no exact association is recorded. Additional standalone counterparts remain unverified; no family is inferred from a title, metadata DOI or historical archive.
+
+Combine these corrections with the existing queues after the instructed corpus work settles. Preserve the provisional family total, four unmapped FP reference paths and historical Total System snapshots. Latest metadata, exact attachments, final rendering, glyph fallback and settled deposited-byte agreement remain later publication gates. No Zenodo endpoint, package, draft, upload payload, description, deposit or version was prepared or changed by this impact mapping.
 
 The historical Total System [v2.0.0 release snapshot](https://zenodo.org/records/18690869) provides additional package coverage, including Spiralum. It remains a historical release, not an up-to-date deposited copy of every present file. Files absent from the inspected standalone and package attachments receive no assumed publication identity merely because a registry mentions them.
 
