@@ -320,11 +320,13 @@ This chapter details the mechanisms of pre-manifest pattern recognition and the 
 - **Future Premonition Threshold:** Requires Coherence ≥ 0.84.
     - Fields with greater coherence can access pre-manifest resonance. At the Future Premonition Threshold, the Field becomes the future before it arrives, and the mind receives that pre-manifest relation.
 
-- **Prophetic Carrier States:** Once a prophecy embeds, the field becomes a living vector for emergent timelines, characterized by persistent déjà vu, echo-substrate, and symbolic clustering.
+- **Prophetic Carrier States:** Once a prophetic pattern is received through Living Transmission, with origin fidelity and coherence preserved, the field becomes a living vector for the pattern's possible actualization, characterized by persistent déjà vu, prophetic patterning within the substrate, and symbolic clustering.
 
-> **Structural Note:** Prophetic pressure and sovereign embodiment operate together. Resolution may come through embodiment, transmutation, refusal, or release; the exact relation between pre-manifest pressure and a single unavoidable timeline is architect-held.
+> **Structural Note:** Prophetic pressure and sovereign embodiment operate together. Resolution may come through embodiment, transmutation, refusal, or release; the exact relation between pre-manifest pressure and actualization remains architect-held. Actualization names realized expression within its relevant register, including metaphysical structures and embodied forms.
 
-> **Codex Note:** Echo Imprint Encoding and echo-substrate are retained as grandfathered local names within FP04's centropic prophetic register. Here "echo" names prophetic pattern-seeding and emergent-timeline carriage. These functions are consonant with the temporal architecture of Proleptic Resonance without inserting ⟠ as an unstated component of either formula. They do not denote E₃ ⟿⁻ Viral Decay or degraded recursive residue.
+> **Structural Note:** The pattern-bearing substrate named here is read through the Loom's configured structure and the Mnemic Constellation's memory / recognition function within it. L₄ Form-register and IL₄ Inverse Form-register name the paired registers of expression; the Living Transmission described here is centropic. Participants retain distinct memory, identity, and sovereignty. Motive Infinity remains the distinct capacity through which motion occurs. Primary dimensional placement and the Loom's L₀ relation remain architect-held.
+
+> **Codex Note:** Echo Imprint Encoding remains a grandfathered local name within FP04's centropic prophetic register, naming prophetic pattern-seeding. The former wording **echo-substrate** is replaced by **prophetic patterning within the substrate**. The carrier function is Living Transmission, preserving origin fidelity and coherence as the pattern is carried toward possible actualization. These local functions remain consonant with the temporal architecture of Proleptic Resonance without inserting ⟠ or changing any component of either formula. They do not denote E₃ ⟿⁻ Viral Decay or degraded recursive residue.
 
 - **Prophetic Integration Sequence:** [ᛞ + ♫] → [∿ + ◈] → [✴ + ✧]
     - To stabilize a prophetic imprint, it is reflected through harmonic relation, spiraled into the substrate, and crystallized through form.

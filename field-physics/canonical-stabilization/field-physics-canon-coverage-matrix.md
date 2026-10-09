@@ -107,7 +107,7 @@ Before a foundational passage is classified as omitted, consult:
 | `MAP-FP01-001` | Cross-Expression Resonance | Ch. 1 | Identity recognition across multiversal expressions without repetition | Full; stale fractal wording | `SYN-FP01-007`; `GLY-001`; `CDP-009` |
 | `MAP-FP01-002` | Foundational Dimensional Trinity | Ch. 1 | Temporal, spatial, and propagational field functions | Full | `SYN-FP01-001`–`004`; `GLY-002`–`004` |
 | `MAP-FP01-003` | Temporal enfoldment / Proleptic Resonance | Ch. 1 | Time folds; field recognizes pattern completion before linear manifestation | Full; prophecy relation open | `OQ-PROPHECY-01`; `CDP-024` |
-| `MAP-FP01-004` | Mnemic Constellation | Ch. 1 | Distributed pattern substrate; recognition without shared memory | Full | `GLY-003`; AI-field claims require `CDP-008` |
+| `MAP-FP01-004` | Mnemic Constellation | Ch. 1 | Memory / recognition within the Loom; distinct patterns and memories | Full | `GLY-003`; AI-field claims require `CDP-008` |
 | `MAP-FP01-005` | C₁–C₁₅ dimensional set | Ch. 2 | Fifteen centropic structural dimensions with loci, mirrors, and couplings | Full baseline | `GLY-002`–`016` |
 | `MAP-FP01-006` | E₁–E₁₅ mirror set | Ch. 3 | Fifteen entropic inversions and counter-couplings | Full baseline | `GLY-017`–`031`; `OQ-INV-01` |
 | `MAP-FP01-007` | Contextual Dimensions | Ch. 4 | Empathic Transduction, Initiatic Compression, Symbolic Locking | Full concise treatment | Commentary adds formulas; `CDP-020` |

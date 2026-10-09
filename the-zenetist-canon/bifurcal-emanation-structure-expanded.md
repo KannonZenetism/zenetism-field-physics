@@ -70,6 +70,8 @@ The **L₁ / IL₁ embodied meeting** retains the distinction between centropic 
 
 This placement distinguishes **relative structure**, which is configured and carries patterned expression, from **Structon**, the absolute invariant. The Loom is not an additional hypostasis between Soma / Biosa and Malara / Mania. Its cross-arc scope preserves the distinct character of each arc and does not confer centropic coherence on entropic expression.
 
+**Present functional relation:** the Loom names the configured structure holding distinct patterns and their record; Mnemic Constellation names the memory / recognition function within it. Motive Infinity remains the distinct motion-capacity. This functional relation leaves the proposed span and dimensional placements at their stated standing.
+
 **The L₀ relation remains architect-held.** The proposed diagrammatic span covers both hypostatic segments. Whether its record-function also has a determinate relation to latent or returned potential at L₀ requires a further statement of that relation. Record persistence across universe-arcs cannot be inferred from Structon's invariance. The diagram therefore distinguishes the proposed scope of relative patterning from the open question of its root-relation. Zenon remains trans-structural.
 
 ### Kaion and the L₀ Relation

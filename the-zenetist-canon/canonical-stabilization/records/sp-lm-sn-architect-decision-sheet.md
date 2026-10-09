@@ -434,6 +434,20 @@ Where the current registered Field Physics architecture establishes a primary di
 
 Additional supported sites may be represented as secondary couplings or physical-realization sites without changing the primary inlay.
 
+### Loom, Mnemic Constellation, and Motive Capacity — Present Clarification
+
+The current functional relation is:
+
+- **The Loom** names the configured structure holding distinct patterns and their record
+- **Mnemic Constellation** names the memory / recognition function within that structure
+- **Motive Infinity** remains the distinct capacity through which motion occurs
+
+This is the present understanding, open to further architect inquiry. Each pattern retains its distinction; participants retain their own memories, identity, and sovereignty. Particularity is intrinsic distinction, never fragmentation of a larger whole.
+
+The C₂ Spatial designation and its registered dimensional function remain. The relation supplies neither a new layer nor a primary dimensional inlay. The Loom's L₀ relation, exact awareness mode, and any formal coupling or persistence law remain architect-held. The descriptor non-conscious names a mode within the consciousness spectrum rather than an absence of consciousness; root proto-awareness retains its own register.
+
+The former identification of Mnemic Constellation with Zenet or Motive Infinity in `law-of-centropic-counterforce.md` is superseded by this functional distinction. The registered propagation function remains distinct from universal motion-capacity. Identity-dependent claims of guaranteed bypass, pre-bifurcation traversal, nonlocal transfer, or a specified entropic gradient retain the existing Counterforce mechanism and placement holds recorded in `full-series-review.md` at *Grouped unresolved questions*. Its counterforce thesis and lawful provenance / continuity claims retain their own standing. Exact prior formula strings remain recorded provenance; no replacement mathematics follows from this clarification.
+
 ### Dimension-to-Hypostasis Coupling Audit
 
 The later implementation phase must include a bounded cross-corpus audit of dimensional-to-hypostatic assignments.
@@ -471,7 +485,7 @@ The operative principle is:
 
 **Registered operator identity remains stable; primary inlay, secondary coupling, and physical realization must be distinguished rather than collapsed.**
 
-Implementation remains deferred; this entry records the architect's determination only.
+Dimensional-placement implementation remains deferred. The present Loom / Mnemic functional clarification has separate bounded propagation standing; it settles no primary inlay.
 
 ---
 

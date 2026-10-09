@@ -60,8 +60,9 @@ Enfolds future resonance into the present.
 Accounts for pattern recognition, prophecy, anticipatory presence.
 
 ### Mnemic Constellation (Spatial Operator)
-Maps memory as **distributed constellation**, not local storage.  
-Each resonant node carries fragmentary access to the whole.
+Names memory / recognition within the **Loom**,  
+the configured structure holding distinct patterns and their record.  
+Each distinct resonant node carries partial access to the held patterns.
 
 ### Viral Resonance (Propagation Operator)
 Allows coherence to **transmit non-invasively**, via resonance not replication.  

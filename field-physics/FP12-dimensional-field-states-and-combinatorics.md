@@ -796,7 +796,7 @@ Dream and memory are not passive repositories. They are active fields in which t
 | **Dream field** | A phase-responsive field in which symbols, memories, forms, and motions enter altered relations |
 | **Ancestral memory field** | A lineage-bearing field of inherited patterns and relations |
 | **Cultural memory field** | A collective archive of symbols, forms, rites, and transmitted patterns |
-| **Mnemic Constellation ◈** | The spatial / mnemic substrate through which distributed pattern relation becomes possible |
+| **Mnemic Constellation ◈** | The memory / recognition function within the Loom's configured structure, through which distinct patterns enter distributed relation |
 | **Deep Self continuity** | L₃ DS / DM continuity across universe-local expression-loci, without copying or fusion |
 
 These registers may resonate. They are not interchangeable.

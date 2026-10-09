@@ -217,6 +217,17 @@ the Loom holds many in lawful coherence, never one in collapse.
 It is relative structure: it comes to be, it is configured, and it conditions  
 what may be patterned, without ever becoming the Absolute Structure that underlies it.  
 
+Within that configured structure,  
+**Mnemic Constellation** names the memory / recognition function.  
+The patterns remain distinct;  
+their record is held without pooling  
+the memories of those who bear them.  
+
+**Motive Infinity** remains the capacity through which motion occurs.  
+Structure, memory / recognition, and motion-capacity retain their distinct functions.  
+This is the present functional relation, open to further inquiry;  
+primary dimensional placement and the Loom's relation to L₀ remain architect-held.  
+
 ▦ ⚫ ♾ ⌬  
 
 ---
