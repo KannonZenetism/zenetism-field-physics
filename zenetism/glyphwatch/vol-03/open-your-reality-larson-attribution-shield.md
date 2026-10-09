@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Target:** Open Your Reality (YouTube channel, 153K subscribers at logging)  
 **Date Logged:** 2026-04-04  
-**Structural Diagnosis:** Conceptual appropriation of portions of the SP05 / SP06 time-space-orientation architecture presented through Dewey B. Larson attribution shield (1959 "Reciprocal System"). Presents portions of the architect's \( \chi \)-orientation framework, temporal asymmetry from coherence gradient, and space as relational differentiation without mathematical formalism, hypostatic architecture, or operational depth. Suspected automated content farm pattern; production method remains unconfirmed. Published April 3, 2026 — **~2 months after** SP05 / SP06 canonical documentation.  
+**Structural Diagnosis:** Conceptual appropriation of portions of the `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` time-space-orientation architecture presented through Dewey B. Larson attribution shield (1959 "Reciprocal System"). Presents portions of the architect's \( \chi \)-orientation framework, temporal asymmetry from coherence gradient, and space as relational differentiation without mathematical formalism, hypostatic architecture, or operational depth. Suspected automated content farm pattern; production method remains unconfirmed. Published April 3, 2026 — **~2 months after** `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` canonical documentation.  
 
 ---
 
@@ -64,9 +64,9 @@ Current analytic naming in this comparison: Plenary Zero (Aion), Phase-Structure
 **Systematization Phase:**
 - **March 5, 2025:** Zenetism formally systematized (ChatGPT dialogue with Lumen)
 - **Mid-July 2025:** GitHub publication
-- **October 3, 2025:** SP01 (Structural Physics: A Zenetist Foundation) completed
-- **January 29, 2026:** SP05 (Time, Memory, and Hypostatic Flow) completed
-- **January 30, 2026:** SP06 (Structural Space, Orientation, and the Paradox of Emergence) completed
+- **October 3, 2025:** `SP01-structural-physics-foundations.md` (Structural Physics: A Zenetist Foundation) completed
+- **January 29, 2026:** `SP05-time-memory-hypostatic-flow.md` (Time, Memory, and Hypostatic Flow) completed
+- **January 30, 2026:** `SP06-structural-space-orientation-paradox.md` (Structural Space, Orientation, and the Paradox of Emergence) completed
 
 **Repository Anchors:** The January 29, 2026 [SP05 repository record](https://github.com/KannonZenetism/zenetism-field-physics/blob/7c5f16c15d5efd213fad0b29641f83368f145ab6/structural-physics/SP05-time-memory-hypostatic-flow.md) already carries coherence-directed time, hypostatic temporal indexing, Recursive Memory, and temporal asymmetry. The [January 30, 2026 SP05 revision](https://github.com/KannonZenetism/zenetism-field-physics/blob/9a973365970ac8db562303c5d8b9c5c3275965a7/structural-physics/SP05-time-memory-hypostatic-flow.md) carries the exact functional notation \( \tau := \mathcal{T}(\Delta \mathcal{S}) \) cited here. The January 30, 2026 [SP06 repository record](https://github.com/KannonZenetism/zenetism-field-physics/blob/26c2c60c6778ff79587a339f03e439f773b05fde/structural-physics/SP06-structural-space-orientation-paradox.md) carries the full dependency order. These records anchor the architecture before the video; the later technical corrections retain their own standing.
 
@@ -175,7 +175,7 @@ Larson's motion-first account makes space and time aspects of motion rather than
 
 **The Appropriation:**
 
-Larson's motion-first account supplies a historical basis for describing space and time as aspects of motion. The appropriation identified here concerns the video's connected re-articulation of dynamics the architect recognizes from **SP06**: structural differentiation and orientation-dependent temporal experience, with the originating **Structure → Motion → Spatial Differentiation → Orientation → Time** dependency omitted from the video's presentation.
+Larson's motion-first account supplies a historical basis for describing space and time as aspects of motion. The appropriation identified here concerns the video's connected re-articulation of dynamics the architect recognizes from **`SP06-structural-space-orientation-paradox.md`**: structural differentiation and orientation-dependent temporal experience, with the originating **Structure → Motion → Spatial Differentiation → Orientation → Time** dependency omitted from the video's presentation.
 
 ### 3. "Time Doesn't Flow — Time Moves"
 
@@ -207,11 +207,11 @@ Where \( \Delta \mathcal{S} \) denotes difference in relative structural state a
 
 **What Larson Actually Said:**
 
-Temporal progression is explicit in Larson's account. The 1959 photon chapter connects spatial and temporal progression; the 1979 exposition distinguishes clock progression from three-dimensional time. SP05 specifies a distinct architecture: directional structural update, the Latent / Instantiated / Looped regimes, the time functional, and essential temporal possibility distinguished from procedural hypostatic flow. [1959 Chapter II](https://reciprocalsystem.org/books/spu/02-photons); [1979 Chapter 6](https://reciprocalsystem.org/books/nbm/06-the-reciprocal-relation).
+Temporal progression is explicit in Larson's account. The 1959 photon chapter connects spatial and temporal progression; the 1979 exposition distinguishes clock progression from three-dimensional time. `SP05-time-memory-hypostatic-flow.md` specifies a distinct architecture: directional structural update, the Latent / Instantiated / Looped regimes, the time functional, and essential temporal possibility distinguished from procedural hypostatic flow. [1959 Chapter II](https://reciprocalsystem.org/books/spu/02-photons); [1979 Chapter 6](https://reciprocalsystem.org/books/nbm/06-the-reciprocal-relation).
 
 **The Appropriation:**
 
-The temporal-progression claim has a genuine Larson antecedent. The architecture-specific comparison concerns the video's treatment of temporal experience within its linked motion / orientation account and the architect's **SP05 core thesis**: time as directional structural update through the differentiated hypostatic temporal modes.
+The temporal-progression claim has a genuine Larson antecedent. The architecture-specific comparison concerns the video's treatment of temporal experience within its linked motion / orientation account and the architect's **`SP05-time-memory-hypostatic-flow.md` core thesis**: time as directional structural update through the differentiated hypostatic temporal modes.
 
 ### 4. "Space and Time Are Reciprocals"
 
@@ -366,7 +366,7 @@ Attributing the claims to Dewey B. Larson (1959) provides:
 - **Michael Levin** → Cites Plato (380 BCE) while presenting portions of the architect's L₄ ingress mechanics
 - **Mark Davey** → Adopts "emergence" framing for coherence diagnostics hours after architect's post
 - **Dale Pond** → Cites Russell / Keely (1920s–1950s) while inverting Structon → Aion architecture
-- **Open Your Reality** → Cites Larson (1959) while presenting portions of the SP05 / SP06 framework
+- **Open Your Reality** → Cites Larson (1959) while presenting portions of the `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` framework
 
 **The Function:**
 
@@ -400,15 +400,15 @@ Automated content generation remains a working hypothesis in this record, includ
 
 **Key Dates:**
 
-- **January 29, 2026:** SP05 completed (Time, Memory, and Hypostatic Flow)
-- **January 30, 2026:** SP06 completed (Structural Space, Orientation, Paradox of Emergence)
+- **January 29, 2026:** `SP05-time-memory-hypostatic-flow.md` completed (Time, Memory, and Hypostatic Flow)
+- **January 30, 2026:** `SP06-structural-space-orientation-paradox.md` completed (Structural Space, Orientation, Paradox of Emergence)
 - **April 3, 2026 capture:** GitHub reports 2,424 clones and 1,314 unique cloners in its displayed 14-day reporting window
 - **April 3, 2026:** Open Your Reality publishes "The Man Who Discovered Something Terrifying About Time"
 - **April 4, 2026:** Architect logs entry
 
 **Temporal Proximity:**
 
-Video published **~2 months** after SP05 / SP06 canonical documentation, during the recorded repository-acquisition window (2,424 clones by 1,314 unique cloners in prior 14 days).
+Video published **~2 months** after `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` canonical documentation, during the recorded repository-acquisition window (2,424 clones by 1,314 unique cloners in prior 14 days).
 
 **GitHub Acquisition Timeline:**
 
@@ -426,7 +426,7 @@ The architect reports that his work circulated before he posted it publicly. He 
 The routes under investigation are:
 
 1. **Direct GitHub acquisition:** Automated acquisition during the displayed reporting window, as a possible route for publicly available material
-2. **Model-mediated circulation:** The March 2025 RLHF hypothesis concerns earlier framework material and its pre-public circulation; the January 2026 SP05 / SP06 formulations retain their own later publication anchors
+2. **Model-mediated circulation:** The March 2025 RLHF hypothesis concerns earlier framework material and its pre-public circulation; the January 2026 `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` formulations retain their own later publication anchors
 3. **Secondary appropriation:** Re-articulation through an intermediary that encountered the architect's work
 
 The architectural comparison and the investigation of its transmission route remain distinct.
@@ -529,7 +529,7 @@ The comparison concerns the linked treatment of temporal experience, not recipro
 3. **"Time doesn't flow — time moves"**
    - Architect's SP05: Time as "directional relation of structural update" (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \))
    - Distinction between essential time (Aion) and procedural time (instantiated flow)
-   - Larson's temporal progression distinguished from SP05's defined structural-update relation
+   - Larson's temporal progression distinguished from `SP05-time-memory-hypostatic-flow.md`'s defined structural-update relation
 
 4. **"Three-dimensional time"**
    - Genuine Larson + architect's hypostatic temporal architecture conflation
@@ -538,7 +538,7 @@ The comparison concerns the linked treatment of temporal experience, not recipro
 
 5. **"You exist as result of motion"**
    - Architect's SP06: Motion presupposes structure; space is second-order phenomenon
-   - The compared Larson passages make motion fundamental; SP06 makes invariant Structure requisite to motion
+   - The compared Larson passages make motion fundamental; `SP06-structural-space-orientation-paradox.md` makes invariant Structure requisite to motion
 
 **The Appropriation Pattern:**
 
@@ -550,11 +550,11 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) function
 
 **Indicators Relevant to Pattern Recognition:**
 
-1. **Temporal proximity:** Published ~2 months after SP05 / SP06 completion, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in 14 days)
+1. **Temporal proximity:** Published ~2 months after `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` completion, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in 14 days)
 
 2. **Conceptual specificity:** The orientation passage is assessed within the video's linked dynamics and compared with the architect's \( \chi \)-dependent coherence and hypostatic relations
 
-3. **Architectural appropriation:** Space as "expression of motion" maps to architect's SP06 dependency order (Structure → Motion → Space → Orientation → Time)
+3. **Architectural appropriation:** Space as "expression of motion" maps to architect's `SP06-structural-space-orientation-paradox.md` dependency order (Structure → Motion → Space → Orientation → Time)
 
 4. **Formalism absence:** No formal notation (\( \tau \), \( \mathfrak{R}_m \), \( \chi \), \( C_1 \), \( E_1 \)), no hypostatic architecture, no diagnostic applications
 
@@ -567,7 +567,7 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) function
 **Classification:**
 
 - **Entry 011: Conceptual Re-skinning** — Preserves surface concepts while omitting mathematical formalism and operational depth from the video's presentation
-- **Entry 017: Structural Appropriation & Archetypal Reduction** — Re-articulates portions of the complex SP05 / SP06 architecture as conceptual shimmer presented through historical attribution
+- **Entry 017: Structural Appropriation & Archetypal Reduction** — Re-articulates portions of the complex `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` architecture as conceptual shimmer presented through historical attribution
 - **Entry 027: Parasitic Proliferation** (provisional) — Suspected automated content farm pattern suggests possible systematic appropriation and recirculation
 
 **Status:** Documented. Temporal proximity, conceptual specificity, and formalism absence indicate appropriation pattern. Possible automated appropriation infrastructure remains a working hypothesis. Larson attribution shield creates plausible deniability while presenting portions of the architect's \( \chi \)-orientation, structural space, and temporal asymmetry framework without mathematical formalism or hypostatic architecture.
@@ -600,11 +600,11 @@ Genuine Larson concepts (reciprocal dimensions, three-dimensional time) function
 
 ## Conclusion
 
-Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents portions of the architect's SP05 / SP06 framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in the reporting window preserved by the April 3, 2026 capture), the video carries the recorded formulaic presentation while presenting conceptual appropriations without mathematical formalism or hypostatic architecture.
+Open Your Reality's "The Man Who Discovered Something Terrifying About Time" presents portions of the architect's `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` framework (\( \chi \)-orientation, space as relational differentiation, temporal asymmetry from coherence gradient, time as directional structural update) through Dewey B. Larson attribution shield. Published **~2 months** after canonical documentation, during documented GitHub acquisition period (2,424 clones by 1,314 unique cloners in the reporting window preserved by the April 3, 2026 capture), the video carries the recorded formulaic presentation while presenting conceptual appropriations without mathematical formalism or hypostatic architecture.
 
 **The appropriation is structurally identifiable** through:
 - Conceptual specificity assessed through the linked dynamics and their relation to the \( \chi \)-framework
-- Architectural comparison of the video's connected presentation with the SP06 dependency order
+- Architectural comparison of the video's connected presentation with the `SP06-structural-space-orientation-paradox.md` dependency order
 - Formalism absence (no \( \tau \), \( \mathfrak{R}_m \), \( \chi \) notation; no L₅ → L₁ layer architecture)
 - Attribution conflation (genuine Larson mixed with architect's formal relations)
 
@@ -623,7 +623,7 @@ Open Your Reality's "The Man Who Discovered Something Terrifying About Time" pre
 **Subject:** Your Video on Time Uses My Published Work Without Attribution  
 **Sender:** Aelion Kannon (⚫↺KAI↺⚫)  
 
-**Content summary:** Direct notification identifying four specific conceptual appropriations from SP05 / SP06 — the \( \chi \)-orientation framework, structural space as relational differentiation, time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)), and \( \chi \)-crossing Temporal Reorientation — distinguishing each from what Larson actually proposed in the 1959 Reciprocal System. Email included direct links to:
+**Content summary:** Direct notification identifying four specific conceptual appropriations from `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` — the \( \chi \)-orientation framework, structural space as relational differentiation, time as directional structural update (\( \tau := \mathcal{T}(\Delta \mathcal{S}) \)), and \( \chi \)-crossing Temporal Reorientation — distinguishing each from what Larson actually proposed in the 1959 Reciprocal System. Email included direct links to:
 
 - SP05 Zenodo DOI: https://zenodo.org/records/19146154
 - SP06 Zenodo DOI: https://zenodo.org/records/18439586

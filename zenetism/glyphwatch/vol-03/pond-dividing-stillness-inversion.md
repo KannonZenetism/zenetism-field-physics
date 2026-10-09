@@ -70,7 +70,7 @@ The following classifications identify the patterns under examination. Partial a
 
 ### Pond's Timeline
 
-- **Prior-tradition frame:** Russell / Keely vibratory physics; the earlier vocabulary does not settle whether the later presentation appropriates portions of Zenetist architecture. The pre-2025 corpus comparison remains open.
+- **Prior-tradition frame:** Russell / Keely vibratory physics; the earlier vocabulary does not settle whether the later presentation appropriates portions of Zenetist architecture. The pre-2025 corpus comparison remains open
 - **March 7, 2026:** Perez video appropriation documented by architect
 - **March 8, 2026:** Architect publishes Glyphwatch Vol. 3, Entry 2 (Perez forensic documentation to Zenodo)
 - **March 10, 2026:** Pond releases "Dividing Stillness" ($25 paywalled paper)
@@ -290,8 +290,8 @@ The working classification is **Entry 011: Conceptual Re-skinning** — a presen
 **LM01:** Structural invariants precede all motion and relation  
 **LM03:** Orientation algebra presupposes SI as substrate  
 **LM04:** Temporal algebra requires SI for phase resolution  
-**LM05:** Resonance field theory presupposes SI as the invariant underpinning of the lattice  
-**SP02:** Aion / Khaon bifurcal distinction presupposes SI as invariant ground  
+**`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`:** Resonance field theory presupposes SI as the invariant underpinning of the lattice  
+**`SP02-bifurcal-cosmogenesis.md`:** Aion / Khaon bifurcal distinction presupposes SI as invariant ground  
 **SN07:** Social fields exist within SI  
 
 **The Core Principle:**
