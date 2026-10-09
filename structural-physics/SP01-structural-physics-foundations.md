@@ -825,7 +825,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 | **C₇ ♫ Harmonic / Resonant** | Resonant structure | Eigenmodes, quantization | **E₇ ♫⁻ Dissonance** | Harmonic breakdown | Quasiperiodicity |
 | **C₈ ╫ Synaptic / Bridging** | Lawful joining | Gauge invariance | **E₈ ╫⁻ Severed** | Fractured link | Broken symmetry |
 | **C₉ ∞ Non-Local Coherence** | Distant coherence | Entanglement | **E₉ ∞⁻ Distorted Entanglement** | Spurious linkage | Cross-noise correlations |
-| **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E₁₀ ❋⁻ Malform** | Distorted growth | Tumor-like forms |
+| **C₁₀** ❋ **Morphogenetic** | Form generation | Symmetry breaking, crystalline form | **E₁₀** ❋⁻ **Malform** | Distorted growth | Tumor-like forms |
 | **C₁₁ ↗ Intentional / Volitional** | Directed flow | Conserved currents | **E₁₁ ↗⁻ Misdirect** | Fractured direction | Turbulence, incoherence |
 | **C₁₂ ✧ Aesthetic / Qualitative** | Coherence through harmony | Action principle | **E₁₂ ✧⁻ Void Aesthetic** | Lawless dissipation | Arbitrary motion |
 | **C₁₃ ║ Membrane / Threshold** | Selective boundary | Boundary conditions | **E₁₃ ║⁻ Wall** | Severed block | Event horizon |

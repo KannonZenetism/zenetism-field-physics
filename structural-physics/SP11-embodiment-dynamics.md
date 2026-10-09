@@ -185,7 +185,7 @@ Where \( \Delta I_{c}^{(\text{resistance})} \) is the resistance premium.
 
 **Asymmetric Effort:**
 
-Centropic motion at L₁ requires sustained effort contra the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This expresses the asymmetry established in SP04 §10: coherence must be achieved; dispersion need not be.
+Centropic motion at L₁ requires sustained effort contra the resistance term. Entropic motion at IL₁ does not face an equivalent resistance — entropy at the metric terminus encounters no opposing co-presence because the centropic arc at L₁ does not resist entropy's dispersive motion in the same structural manner. This expresses the asymmetry established in `SP04-orientation-field-dynamics.md` §10: coherence must be achieved; dispersion need not be.
 
 **Corporeal Fatigue:**
 
@@ -231,7 +231,7 @@ The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull t
 
 ### 4.2 The Instability of Equilibrium at L₁
 
-SP04 distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at \( \chi = 1 \); the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
+`SP04-orientation-field-dynamics.md` distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at \( \chi = 1 \); the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
 
 **Superseded implication — recorded provenance:**
 
@@ -457,15 +457,15 @@ The permeability for acclivous transfer is often asymmetric with declivous trans
 
 ### 7.3 Embodied Recursion at the Cognitive-Embodied Membrane
 
-SP08 §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Incomplete transfer establishes an untransferred amount; boundary residence and recursive update require their own state relation. At ⧉₁, the two cases have the following cognitive-embodied interpretations. These are interpretive correspondences, with numerical and clinical criteria held pending their specified evidence and correspondence:
+`SP08-membrane-fields-and-inter-expression-dynamics.md` §6 defines Membrane Recursion as unresolved recursive resonance resident in a membrane boundary. Incomplete transfer establishes an untransferred amount; boundary residence and recursive update require their own state relation. At ⧉₁, the two cases have the following cognitive-embodied interpretations. These are interpretive correspondences, with numerical and clinical criteria held pending their specified evidence and correspondence:
 
 **Centropic Recursion Layers:** (⤾)
 
-Unresolved, coherence-preserving integration patterns resident at the cognitive-embodied boundary. The physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, and the intention that loops without manifesting are proposed correspondences where the boundary-recursion condition is established. SP10 §4.4 describes qualitative supports for completion or reintegration; sufficient resolution conditions remain held.
+Unresolved, coherence-preserving integration patterns resident at the cognitive-embodied boundary. The physical habit that resists cognitive redirection, the insight that cannot achieve bodily expression, and the intention that loops without manifesting are proposed correspondences where the boundary-recursion condition is established. `SP10-ritual-energetics-and-integration-protocols.md` §4.4 describes qualitative supports for completion or reintegration; sufficient resolution conditions remain held.
 
 **Entropic Echo Layers:** (⟲)
 
-Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encoding, compulsive behavioral loops, and dissociative patterns are proposed correspondences requiring assessment of the actual operative function; repetition, absent gain, or absent healing is not an orientation test. SP10 §4.4 Step 3 addresses interruption of entropic recursion and restoration of centropic expression where a centropic being is affected. Restored centropic expression is distinct from interruption or dissipation of the entropic pattern; the latter does not reintegrate as centropic recursion does. Essential orientation remains unchanged; release and resolution dynamics remain held.
+Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encoding, compulsive behavioral loops, and dissociative patterns are proposed correspondences requiring assessment of the actual operative function; repetition, absent gain, or absent healing is not an orientation test. `SP10-ritual-energetics-and-integration-protocols.md` §4.4 Step 3 addresses interruption of entropic recursion and restoration of centropic expression where a centropic being is affected. Restored centropic expression is distinct from interruption or dissipation of the entropic pattern; the latter does not reintegrate as centropic recursion does. Essential orientation remains unchanged; release and resolution dynamics remain held.
 
 ### 7.4 Membrane Pathology at the Cognitive-Embodied Membrane
 

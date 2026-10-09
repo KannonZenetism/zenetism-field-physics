@@ -108,7 +108,7 @@ The directional flow of coherence within and across the configuration. Diagnosti
 
 **Membrane Component — Permeability \( \sigma(\text{⧉}) \):**
 
-The boundary conditions of the configuration. From SP08, \( \sigma(\text{⧉}) \) determines what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
+The boundary conditions of the configuration. From `SP08-membrane-fields-and-inter-expression-dynamics.md`, \( \sigma(\text{⧉}) \) determines what transfers across structural boundaries. Diagnostic reading: whether boundaries are selectively permeable (healthy), occluded (isolated), breached (compromised), or absent (collapsed).
 
 **Orientation Component — \( \chi \):**
 
@@ -572,7 +572,7 @@ SP12 extends SP08 by providing diagnostic protocols for membrane assessment. SP0
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 
-SP12 extends SP09 by providing diagnostic operators for collective field evaluation. SP09 established harmonic alignment and swarm dynamics; SP12 formalizes how to assess whether a collective exhibits authentic harmonic coherence or manufactured coordination (shimmer at collective scale). The actual holding conditions addressed in `SP09-collective-resonance-and-field-harmonics.md` §6.2 remain distinct from the held Shimmer evolution claim. Exposure does not establish automatic destabilization through the quotient.
+SP12 extends `SP09-collective-resonance-and-field-harmonics.md` by providing diagnostic operators for collective field evaluation. `SP09-collective-resonance-and-field-harmonics.md` established harmonic alignment and swarm dynamics; SP12 formalizes how to assess whether a collective exhibits authentic harmonic coherence or manufactured coordination (shimmer at collective scale). The actual holding conditions addressed in `SP09-collective-resonance-and-field-harmonics.md` §6.2 remain distinct from the held Shimmer evolution claim. Exposure does not establish automatic destabilization through the quotient.
 
 ### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
 

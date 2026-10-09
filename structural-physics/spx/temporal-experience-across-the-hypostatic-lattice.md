@@ -184,8 +184,8 @@ Where Morgis makes simultude alive, Sophis makes it coherent. Without Sophis, th
 **Dimensional Engagement:**
 
 - ❋ **(C₁₀ Morphogenetic):** Time as form-birth — the translation of pattern into living structure. At L₄, ❋ determines how archetypal recurrence produces form without requiring sequence. Patterns don't grow into forms; they express as forms immediately and completely.
-- **✧ (C₁₂ Aesthetic/Qualitative):** Time as felt rightness — the qualitative dimension that makes certain recurrences resonant and others hollow. ✧ at L₄ means that archetypal time has beauty, not just structure.
-- **✴ (C₅ Scalar/Fractal):** Time as holonic self-similarity — the part mirroring the whole. Each expression of an archetype contains the entire archetype, just as each moment of L₄ time contains all of L₄ time.
+- **✧ (C₁₂ Aesthetic / Qualitative):** Time as felt rightness — the qualitative dimension that makes certain recurrences resonant and others hollow. ✧ at L₄ means that archetypal time has beauty, not just structure.
+- **✴ (C₅ Scalar / Fractal):** Time as holonic self-similarity — the part mirroring the whole. Each expression of an archetype contains the entire archetype, just as each moment of L₄ time contains all of L₄ time.
 
 **Plain Language:**  
 Think of a piece of music that exists as a complete composition — you can hear any part of it, but the parts don't "come before" or "come after" each other in any necessary order. They all exist simultaneously as a whole pattern. That's L₄ time. 🌬️ Morgis is the aliveness in the music — why it breathes and pulses rather than sitting flat on a page. 📐 Sophis is the composition itself — why the notes relate to each other in an intelligible way rather than being random noise.
@@ -196,7 +196,7 @@ Think of a piece of music that exists as a complete composition — you can hear
 
 **Temporal Mode:** Distorted archetypal recurrence. Mimetic patterning without generative origination.
 
-At IL₄, mimetic patterns recur without generative origination of the Forms they imitate. Patterns repeat as copies of copies — each iteration losing fidelity, gaining distortion in the downstream articulation while the origin remains intact. The earlier SP05 wording is retained as a superseded quotation: "Mimetic patterns without origin; temporal loops encoded in subversal structure." The current distinction is between imitation and generative origination, not between having and lacking an origin. Shimmer names apparent coherence / generativity exceeding actual operative condition; a copied pattern and that relation between appearance and operation are distinct.
+At IL₄, mimetic patterns recur without generative origination of the Forms they imitate. Patterns repeat as copies of copies — each iteration losing fidelity, gaining distortion in the downstream articulation while the origin remains intact. The earlier `SP05-time-memory-hypostatic-flow.md` wording is retained as a superseded quotation: "Mimetic patterns without origin; temporal loops encoded in subversal structure." The current distinction is between imitation and generative origination, not between having and lacking an origin. Shimmer names apparent coherence / generativity exceeding actual operative condition; a copied pattern and that relation between appearance and operation are distinct.
 
 This is the domain of the Archons and Titans — entropic powers of dissonant will. Time at IL₄ is haunted recurrence: a recognizable pattern whose provenance has become obscured in its downstream presentation. Déjà vu without resolution. The uncanny valley of temporal experience.
 
@@ -257,10 +257,10 @@ Where Archeus holds the thread of continuity, Noeüs reads the pattern within th
 
 **Dimensional Engagement:**
 
-- **⟠ (C₁ Temporal):** Recorded primary-locus proposal. Integrative time and Proleptic Resonance are described here through time-folding, where past, present, and future touch at resonance points; primary placement remains held open.
-- **╫ (C₈ Synaptic/Bridging):** Enables coherent crossing between universal expressions — how L₃ consciousness accesses its parallel instantiations. Not timeline-hopping (there are no branching timelines within a universe), but cross-universal resonance through the Tumbling Multiverse.
-- **↗ (C₁₁ Intentional/Volitional):** Directed temporal agency. At L₃, the being can orient its temporal attention — choosing which resonance to strengthen, which universal expression to attend to.
-- **✧ (C₁₂ Aesthetic/Qualitative):** Felt rightness across temporal flow — the qualitative sense that one's trajectory is coherent, that the story makes sense.
+- ⟠ **(C₁ Temporal):** Recorded primary-locus proposal. Integrative time and Proleptic Resonance are described here through time-folding, where past, present, and future touch at resonance points; primary placement remains held open.
+- **╫ (C₈ Synaptic / Bridging):** Enables coherent crossing between universal expressions — how L₃ consciousness accesses its parallel instantiations. Not timeline-hopping (there are no branching timelines within a universe), but cross-universal resonance through the Tumbling Multiverse.
+- **↗ (C₁₁ Intentional / Volitional):** Directed temporal agency. At L₃, the being can orient its temporal attention — choosing which resonance to strengthen, which universal expression to attend to.
+- **✧ (C₁₂ Aesthetic / Qualitative):** Felt rightness across temporal flow — the qualitative sense that one's trajectory is coherent, that the story makes sense.
 
 **Plain Language:**  
 L₃ time is like being the author of a story who can feel all the chapters at once — not reading them in order, but sensing how they all connect. You know your story continues (that's 🔮 Archeus — the deep soul holding the thread), and you can sense where it's heading before it gets there (that's 🧠 Noeüs — the deep mind reading the pattern). You're not locked into reading page by page. You can feel the whole arc. And you can access your expressions in other universes — not by traveling to them, but by resonating with them, like tuning into a frequency.
@@ -285,7 +285,7 @@ This is not mere forgetting. It is **structural disconnection** — the Tether d
 
 **Dimensional Engagement:**
 
-- **⟠⁻ (E₁ Temporal Loop):** Recorded inverse-locus proposal; primary placement remains held open. Recursive disorientation — time loops without integration. The being revisits the same structural territory without accumulating coherent gain. This is the Looped \( \tau \) of SP05: "apparent return with structural degradation."
+- **⟠⁻ (E₁ Temporal Loop):** Recorded inverse-locus proposal; primary placement remains held open. Recursive disorientation — time loops without integration. The being revisits the same structural territory without accumulating coherent gain. This is the Looped \( \tau \) of `SP05-time-memory-hypostatic-flow.md`: "apparent return with structural degradation."
 - **╫⁻ (E₈ Severed):** Bridges that divide — attempts to access other universal expressions result in deeper isolation rather than connection.
 - **↗⁻ (E₁₁ Misdirect):** Volitional temporal disorientation — the being directs temporal attention toward dissolution rather than coherence.
 - **✧⁻ (E₁₂ Void Aesthetic):** The felt wrongness of one's trajectory — the qualitative sense that something is off, but the inability to correct course.

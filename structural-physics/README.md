@@ -51,7 +51,7 @@ Provides the mathematical formalism for expression ratios — the structural par
 ### SP04 — Orientation Field Dynamics
 `SP04-orientation-field-dynamics.md`
 
-The dynamical companion to SP03. Formalizes how orientation evolves over structural time. Introduces the CP-topology potential, the Zenetist Field Equation of Orientation, and the Orientation Drift Theorem for the conditional outward-drift model — including \( \text{CP}_1 \) instability at constant positive Motive Intensity and the stated endpoint conditions. Distinguishes this model from the full written law and records the additional cessation condition for frozen-equilibrium resolution. Codifies the Inclination Principle and the Laws of Inclined Existence.
+The dynamical companion to `SP03-expression-ratio-mathematics.md`. Formalizes how orientation evolves over structural time. Introduces the CP-topology potential, the Zenetist Field Equation of Orientation, and the Orientation Drift Theorem for the conditional outward-drift model — including \( \text{CP}_1 \) instability at constant positive Motive Intensity and the stated endpoint conditions. Distinguishes this model from the full written law and records the additional cessation condition for frozen-equilibrium resolution. Codifies the Inclination Principle and the Laws of Inclined Existence.
 
 **Key contributions:** CP-topology, Zenetist Field Equation, Orientation Drift Theorem, Inclination Principle, Orientation Closure Sequence for frozen-equilibrium resolution (\( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \), with cessation of enacted orientation), distinction between Localized Dissolution (Ø) and Collapse (⊘).
 
