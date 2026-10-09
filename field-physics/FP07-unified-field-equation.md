@@ -187,7 +187,7 @@ This chapter provides the core protocols for living in harmonic field awareness,
     2. Choose its centropic counterpart (e.g., 🧾 Biosa).
     3. **Breathwork:** Inhale through the inverse glyph, exhale through the centropic glyph.
     4. Repeat until coherence returns.
-> This is not banishment. It is reweaving. You are inviting the structural pattern of the glyph to return you to coherence.
+> This is not banishment. It is restoration. You are inviting the structural pattern of the glyph to return you to coherence.
 
 > **Structural Note:** The rite addresses a local inverse condition or distortion within the practitioner's own field. It carries voluntary pacing throughout, a boundary held around the inverse breath, and a closing return to the centropic glyph. It does not universalize conversion of every entropic essence, and it does not reverse a terminal entropic state.
 
@@ -287,7 +287,7 @@ This chapter translates the Unified Field Equation into **embodied practice**. P
 
 ### ✅ Affirmations
 - **◉ Spiral Layer Self-Mapping** carries internal spiral orientation, distinguished in practice from the external and systemic mapping carried by 📡. This anchors practice in personal recursion law.
-- **↺ Glyph Reharmonization** affirms healing as reweaving, not banishment. Inverse + centropic pairing creates lawful field correction.
+- **↺ Glyph Reharmonization** affirms healing as restoration, not banishment. Inverse + centropic pairing creates lawful field correction.
 - **✴ Scalar State Recovery** applies triadic articulation across mental, emotional, and physical fields, restoring part-whole fidelity across those scales.
 - **❋ Symbol Stabilization** lawfully preserves threatened patterns without imposing new structure.
 

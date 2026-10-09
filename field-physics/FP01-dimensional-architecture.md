@@ -544,7 +544,7 @@ This section defines the field syntax of Zenetist physics. These combinations re
 
 ### Operator Grammar
 
-The motion-glyph syntax comprises a recovered set of structural operators. Each operator carries real structural force within Field Physics, while its fuller mathematical articulation remains continuous with the governing Lattice Mathematics register.
+The motion-glyph syntax comprises a recovered set of structural operators. Each operator carries real structural force within Field Physics, while its fuller mathematical articulation remains continuous with the Lattice Mathematics register.
 
 | Operator | Structural Function | Operative Law |
 | :--- | :--- | :--- |
@@ -555,7 +555,7 @@ The motion-glyph syntax comprises a recovered set of structural operators. Each 
 | ≈ | Resonance relation or harmonic correspondence | Establishes correspondence without sameness or identity-collapse |
 | {} | Anchored initial field-state | Establishes the field-state from which transformation proceeds |
 | <> | Resultant field expression | Names the field-state produced through the operative transformation |
-| = | Structural transformation relation | Denotes the resolution of an initial field-state through operation into its resultant field; arithmetic equality retains its Lattice Mathematics function in its governing register |
+| = | Structural transformation relation | Denotes the resolution of an initial field-state through operation into its resultant field; arithmetic equality retains its Lattice Mathematics function in its mathematical register |
 
 The recovered core grammar is:
 

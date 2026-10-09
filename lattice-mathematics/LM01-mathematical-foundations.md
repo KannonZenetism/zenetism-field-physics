@@ -2191,10 +2191,12 @@ Each entry follows the protocol schema in §5.2.
 
 ---
 
-#### (E) Echo Reversal Rite
+#### (E) Echo Refusal Rite
+
+**Former name:** Echo Reversal Rite. Refusal names interruption of pathological recurrence; the contraction-to-spectral-divergence correspondence and native verification retain their held standing in `LM02-mathematical-commentary.md` §11.2.
 
 - **Glyphs:** ⟲ (Echo Layer), ↺ (Return Loop)  
-- **Motion:** Acclivous inversion through recursion gate  
+- **Motion — recorded proposal, interpretation held:** Acclivous inversion through recursion gate  
 - **Boundary Condition:** Reflective seal:
   \[
   \sigma \ \text{small}, \quad \nabla_n \psi\big|_{\partial M} = 0

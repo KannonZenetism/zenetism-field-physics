@@ -240,7 +240,7 @@ When both configurations are present, the high pattern fidelity of autistic cogn
 From `SN02-the-resonant-mind.md` Phase 6, the ritual protocols address precisely this configuration:
 
 - **Seal of Rest (⧃, C₁₃):** stabilizes σ at ⧉₂, reducing membrane oscillation
-- **Echo Reversal Rite (⟲, C₁₄):** interrupts entropic feedback and supports restoration of C₁₄-mediated contractive iteration
+- **Echo Refusal Rite (⟲, C₁₄):** interrupts entropic feedback and supports restoration of C₁₄-mediated contractive iteration
 - **Vow of Presence (↺, C₁₃ + C₁₄):** maintains seal continuity through sustained attentional anchoring
 
 The principle is not to suppress the recursive capacity — which is a structural asset — but to restore the seal conditions under which recursion operates centropically (convergent toward resolution) rather than entropically (divergent into unresolved looping).

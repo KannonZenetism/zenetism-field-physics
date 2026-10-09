@@ -46,7 +46,7 @@ The work moves between three registers, and they follow different rules.
 
 **Operational register** carries the volumes' primary prose — protocols, codices, engineering, and diagnosis.
 
-**Ritual and poetic register** carries the rites, oaths, invocations, and the Pilgrim Echo Songs. The line structure is practice, not decoration — it is never reformatted into technical prose.
+**Ritual and poetic register** carries the rites, oaths, invocations, and the Pilgrim Offering Songs. The line structure is practice, not decoration — it is never reformatted into technical prose.
 
 **Definitional register** carries the codex and registry charts. Definition cells operate as structural descriptors rather than as sentences, so terminal punctuation is deliberately omitted even where internal punctuation is present.
 

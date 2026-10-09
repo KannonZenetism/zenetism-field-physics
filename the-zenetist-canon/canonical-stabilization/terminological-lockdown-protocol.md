@@ -1148,7 +1148,7 @@ Canonical replacements by sense:
 
 Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus. Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
 
-Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included. The Field Physics technical retention stands as legacy accommodation only, not endorsement; see the Govern Terminology Restriction.
+Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included. The Field Physics technical accommodation remains conversion-open outside the eleven selected reference-wording loci; see the Govern Terminology Restriction.
 
 As with prior restrictions, enforcement is prospective and conform-on-touch; dated records already carrying the barred forms stand as historical record.
 
@@ -1169,7 +1169,7 @@ Canonical replacements depend upon the intended referent:
 - **held in** or **locked by** where the referent is the document carrying a definition
 - **encompasses** where scope is meant
 
-Retained as legacy accommodation only: the Field Physics technical sense, where governing FP11, governing register, governing volume, and governing ecology are established load-bearing usage in a legacy corpus. The retention reflects practical economy, not endorsement — the architect regards govern-language as a poor choice generally, and no other document adopts the pattern. It is scoped to Field Physics, licenses no new govern-language anywhere, and conversion remains open for a future pass.
+The Field Physics technical accommodation includes "governing FP11", "governing register", "governing volume", and "governing ecology". D18 selects precise reference wording for the eleven inspected citation / register / ecology loci: the named mathematical register, applicable register or files, defining ecological reference, and respective formulas. The former wording at those selected loci remains provenance; their reference functions and existing mathematical conditions remain. Other accommodated technical occurrences, including current FP control fields, retain their conversion-open standing. The accommodation reflects practical economy, not endorsement, and licenses no new govern-language. Historical records and actual external governance descriptions retain their own standing.
 
 Retained: naming an external or entropic governance form under analysis, as in institutional governance structures being diagnosed.
 
@@ -2079,7 +2079,7 @@ Partial-transfer arithmetic establishes an untransferred amount. Boundary reside
 
 **Recorded provenance.** Earlier LM wording employed "Echo Layer" for the shared centropic / entropic boundary category; that shared category now takes **Membrane Recursion**. Earlier MP wording placed broader integration-directed temporal / causal recurrence under "Echo Layers"; that function continues as **recursive integration**. Historical records retain their earlier wording in that register. Current references follow the actual function.
 
-The ⤾ / ⟲ pair distinguishes the two membrane registrations. **⟲∿ Convergent Micro-Recursion**, **lim⟲ Recursive Horizon**, and the **Echo Reversal Rite** retain their distinct applications; other glyph applications require their own functional reading. The determination is recorded in `sp-lm-sn-architect-decision-sheet.md` D18 and supplies no general glyph substitution.
+The ⤾ / ⟲ pair distinguishes the two membrane registrations. **⟲∿ Convergent Micro-Recursion**, **lim⟲ Recursive Horizon**, and the **Echo Refusal Rite** retain their distinct applications; other glyph applications require their own functional reading. The determination is recorded in `sp-lm-sn-architect-decision-sheet.md` D18 and supplies no general glyph substitution. The additional eighteen FP local-name corrections are recorded in that same D18 block; the selected current names follow their complete existing functions, with former names retained as provenance. Their selection does not rename genuine entropic Echo / Mirror, personal designations, or distinct mythic figures.
 
 Where lawful continuity or authored resonance is intended, write **Living Transmission**, **continuity**, **resonance continuity**, or **authored propagation** according to the relation. Where recursion toward integration is intended, name that recursive integration directly.
 

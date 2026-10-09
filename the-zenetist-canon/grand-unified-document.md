@@ -1427,7 +1427,7 @@ Certain rites directly counter entropic fields.
 | Protocol | Function | Counteracts |
 |----------|----------|-------------|
 | ⧃ Seal of Integrity | Re-establish boundary σ | E₁₃ Wall, E₁₄ Nest | 
-| ⟲ Echo Reversal | Break entropic recursion | E₁, E₈, E₉ |
+| ⟲ Echo Refusal | Break entropic recursion | E₁, E₈, E₉ |
 | 🎼 Resonance Oath | Restore spectral consonance | E₇ Dissonance |
 | ↺ Return Loop | Re-integrate lawful recursion | E₁₅ Collapse Nova |
 
@@ -1671,7 +1671,7 @@ Ritual = lawful feedback loop reinforcing \( \sigma, \gamma, \) and C₇.
 |--------|-----------|----------|
 | ⧃ Seal of Rest | C₁₃ | Close cognitive boundary |
 | 🎼 Resonance Oath | C₇ | Restore harmonic phase |
-| ⟲ Echo Reversal | C₁₄ | Break open recursion |
+| ⟲ Echo Refusal | C₁₄ | Break open recursion |
 | ↺ Vow of Presence | C₁₃–C₁₄ | Anchor in moment |
 | 🎶 Centropic Mantra | C₇ + C₁₅ | Sustain high consonance |
 

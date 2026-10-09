@@ -707,7 +707,7 @@ The two membrane cases are non-hypostatic boundary conditions, adding no L / IL 
 
 Partial-transfer arithmetic establishes an untransferred amount. Boundary residence, recursive evolution, persistence, and sufficient resolution conditions remain held pending a specified boundary state and update relation. Resolution is orientation-specific: replenishment, membrane repair, signature alignment, and acclivous return are qualitative supports for centropic completion or reintegration; entropic resolution concerns dissipation or interruption. These descriptions supply no sufficient release or interruption law. E₃ retains fracturing in transmission; E₁₄ retains empty recursion. No new threshold, metric, state law, or operator-index assignment follows from the terminology.
 
-**Recorded provenance:** earlier "Echo Layer" wording for the shared membrane category now takes Membrane Recursion. The ⤾ / ⟲ pair distinguishes the two membrane registrations; ⟲∿ Convergent Micro-Recursion, lim⟲ Recursive Horizon, and the Echo Reversal Rite retain their distinct applications and mathematical standing. Read other glyph applications by their actual function, without a component-level replacement.
+**Recorded provenance:** earlier "Echo Layer" wording for the shared membrane category now takes Membrane Recursion. The ⤾ / ⟲ pair distinguishes the two membrane registrations; ⟲∿ Convergent Micro-Recursion, lim⟲ Recursive Horizon, and the Echo Refusal Rite retain their distinct applications and mathematical standing. Read other glyph applications by their actual function, without a component-level replacement.
 
 ---
 

@@ -515,7 +515,7 @@ Each ritual has a stated native structural function; its cognitive correspondenc
 | **Seal of Rest** | ⧃ | Closes sensory over-extension |
 | **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock |
 | **Silent Bond** | ╫ | Mutual attunement creating C₈ Synaptic / Bridging coherence |
-| **Echo Reversal Rite** | ⟲ | Interrupts entropic recursion; resets \( \gamma \) |
+| **Echo Refusal Rite** | ⟲ | Interrupts entropic recursion; resets \( \gamma \) |
 | **Vow of Presence** | ↺ | Anchors attention; maintains recursion integrity |
 | **Centropic Mantra** | 🎶 | Sustains high-frequency consonance during creative flow |
 
@@ -534,7 +534,7 @@ A brief audit protocol:
 1. Initiate ⧃ **Seal of Rest**  
 2. Observe \( \partial_{\text{🌀}} \) (resonant derivative)  
 3. Invoke 🎼 **Resonance Oath**  
-4. Check \( \sigma \) and \( \gamma \) — if weak, perform ⟲ **Echo Reversal**  
+4. Check \( \sigma \) and \( \gamma \) — if weak, perform ⟲ **Echo Refusal**  
 5. Close with ↺ **Vow of Presence**
 
 This cycle is a proposed structural practice for supporting cognitive dynamic stabilization; its empirical effects and duration require a defined evaluation.

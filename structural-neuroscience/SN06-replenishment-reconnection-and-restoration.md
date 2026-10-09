@@ -395,9 +395,9 @@ Breaking the loop requires an intervention from outside the loop's own resources
 
 - **Aion-facing Reconnection** (§3): inward-oriented coherence that replenishes \( I_c \) above the temporal function threshold
 - **Bridge replenishment** (§4): external coherence received through C₈ ╫ connection that supplements the loop-depleted budget
-- **Echo Reversal Rite** (⟲, `SN02-the-resonant-mind.md` Phase 6): ritual interruption of the E₁ ⟠⁻ cycle, interrupting divergent looping and restoring C₁₄-mediated convergent operation
+- **Echo Refusal Rite** (⟲, `SN02-the-resonant-mind.md` Phase 6): ritual interruption of the E₁ ⟠⁻ cycle, interrupting divergent looping and restoring C₁₄-mediated convergent operation
 
-The Ritual Operator formalism (`LM06-applied-structural-dynamics.md` §3) applies: the Echo Reversal Rite is a \( \mathcal{P} \) that targets the temporal processing subsystem, with the operational phase (\( \mathcal{P}_{\text{op}} \)) interrupting entropic feedback (⟳) and restoring C₁₄ ⊡-mediated convergent operation (centropic recursion, ↺ Resonant Return).
+The Ritual Operator formalism (`LM06-applied-structural-dynamics.md` §3) applies: the Echo Refusal Rite is a \( \mathcal{P} \) that targets the temporal processing subsystem, with the operational phase (\( \mathcal{P}_{\text{op}} \)) interrupting entropic feedback (⟳) and restoring C₁₄ ⊡-mediated convergent operation (centropic recursion, ↺ Resonant Return).
 
 ### 7.2 Tether Restoration
 
@@ -504,7 +504,7 @@ SN06 does not prescribe social policy. It notes the structural reality: within a
 | **Seal of Rest** | ⧃ | Stabilizes σ at ⧉₂; reduces membrane oscillation | Recursive architecture; σ-cycle interruption |
 | **Resonance Oath** | 🎼 | Breath-synchronized recitation restoring rhythmic phase lock | C₄ ◉ restoration; embodied restabilization (Stage 1) |
 | **Silent Bond** | ╫ | Mutual attunement creating C₈ coherence | Bridge replenishment; collective amplification |
-| **Echo Reversal Rite** | ⟲ | Interrupts E₁ ⟠⁻ looping; restores C₁₄-mediated convergent operation | Temporal recovery; breaking looping time |
+| **Echo Refusal Rite** | ⟲ | Interrupts E₁ ⟠⁻ looping; restores C₁₄-mediated convergent operation | Temporal recovery; breaking looping time |
 | **Vow of Presence** | ↺ | Anchors attention; maintains recursion integrity | Sustained recovery; prevents regression |
 | **Centropic Mantra** | 🎶 | Sustains consonance during creative flow | C₇ ♫ restoration; active recovery through generative engagement |
 
@@ -556,7 +556,7 @@ The Reserve Lock Principle (`LM06-applied-structural-dynamics.md` §5.2) applies
 
 1. *σ-cycle interruption.* The first recovery priority is breaking the entropic σ-cycle at ⧉₂. The Seal of Rest (⧃) targets this directly — stabilizing the membrane to reduce oscillation amplitude. When the σ-cycle decelerates, coherence expenditure per unit time decreases.
 
-2. *Restoration of centropic recursion.* The recursive architecture does not need to stop recursing — it needs to recurse centropically. The Echo Reversal Rite (⟲) interrupts entropic feedback and restores C₁₄-mediated convergent iteration. When recursion operates through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, each pass may sustain coherent operative continuity; the mapping supplies no scalar rate or quantified replenishment. Centropic recursion is not merely "not pathological"; it is generative. The recursive mind recovering through convergent iteration is healing itself through its own architectural function.
+2. *Restoration of centropic recursion.* The recursive architecture does not need to stop recursing — it needs to recurse centropically. The Echo Refusal Rite (⟲) interrupts entropic feedback and restores C₁₄-mediated convergent iteration. When recursion operates through C₁ ⟠, C₄ ◉, and C₁₄ ⊡, each pass may sustain coherent operative continuity; the mapping supplies no scalar rate or quantified replenishment. Centropic recursion is not merely "not pathological"; it is generative. The recursive mind recovering through convergent iteration is healing itself through its own architectural function.
 
 3. *Stable external seal reference.* Bridge relationships that provide consistent, predictable relational environments reduce the ⧉₂ trigger load and provide an external seal reference that supplements the recovering internal seal dynamics.
 
