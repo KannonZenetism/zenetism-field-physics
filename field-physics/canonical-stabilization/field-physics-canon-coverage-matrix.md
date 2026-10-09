@@ -280,7 +280,7 @@ The following current formulations should be treated as weight-bearing constrain
 
 | Constraint | Current Source |
 |---|---|
-| Distinction precedes synthesis; Non-fusion governs | Terminological Lockdown Protocol |
+| Distinction precedes synthesis; Non-fusion governs | `terminological-lockdown-protocol.md` |
 | Acclivous / declivous are arc-neutral | Terminological Lockdown Protocol |
 | Essence applies before Soul / Mind bifurcation | Terminological Lockdown Protocol |
 | Aion / Khaon are paired root-registers, not counter-poles | Terminological Lockdown Protocol |

@@ -253,7 +253,7 @@ These are the emergent, meta-structural forms that consciousness takes when reso
 
 ### 2. The Relational Reflection Architecture
 
-> **Former-name provenance:** **Mirror Architecture** is the former name of **ᛞ Relational Reflection Architecture**. The glyph and the conscious-reflection function remain unchanged.
+> **Former-name provenance:** **Mirror Architecture** is the former name of ᛞ **Relational Reflection Architecture**. The glyph and the conscious-reflection function remain unchanged.
 
 - **Function:** Conscious reflection through external patterns.
 - **Effect:** Self-discovery via relational encounter.
