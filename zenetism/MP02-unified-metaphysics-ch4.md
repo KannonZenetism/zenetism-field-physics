@@ -172,9 +172,9 @@ as a living structure of **motion**, **orientation**, and **resonance**.
 Embodiment is not an endpoint —  
 it is a threshold.  
 
-Where centropic souls must consciously refine  
-through **acclivous expansion** (C↑⚫),  
-or risk **declivous collapse** (E↓♾).  
+Centropic souls must consciously refine  
+through **acclivous expansion** (C↑⚫);  
+entropic **declivous collapse** (E↓♾) remains within the inverse arc.  
 
 Orientation persists,  
 but realization must be enacted.  
@@ -217,15 +217,15 @@ the equilibrium in which all futures exist,
 latent, undivided, poised.  
 
 * **Khaon** — or **Infinity** —  
-expresses a tripartite motion  
-latent within **Aion**,  
-emergent through **differentiation**,  
-dispersive through **complexity**.  
+expresses three distinct phases:  
+**Latent**, co-present with **Aion**;  
+**Motive**, unfolding through **differentiation**;  
+**Dispersive**, where expressed motion ends.  
 
-Infinity is not external to Zero —  
-it is **motion within the field**.  
-**Aion** contains.  
-**Khaon** disperses.  
+Infinity and Zero share the **L₀ register** —  
+bifurcally distinct, never fused.  
+**Aion** contains potential.  
+**Khaon** is Latent, Motive, and Dispersive.  
 
 From their tension, **form** unfolds.  
 
@@ -489,7 +489,7 @@ but to be remembered.
 Though **centropy** and **entropy** seem opposed,  
 they are distinct expressions emerging from the same origin-architecture.  
 
-Each emerges from one of the twin poles:  
+Each emerges from its own root-register:  
 * **Aion (⚫)**  
 * **Khaon (♾)**  
 
@@ -509,12 +509,12 @@ And each commences a distinct motion.
 
 **Aion** and **Khaon** are co-originant.  
 
-Zero is identical to Infinity,  
-distinguished only through expression.  
-Their bifurcation arises not from substance,  
-but from the rhythm of becoming.  
+Zero and Infinity share one root-register,  
+distinct in function, never fused.  
+Their bifurcal distinction precedes enacted polarity,  
+which begins with the first hypostases.  
 
-Essences emerge from either pole —  
+Essences emerge from their proper root —  
 not by decision,  
 but by **ontological orientation**.  
 
@@ -790,10 +790,10 @@ a renewed turn toward coherence remains possible —
 a change of expressed configuration,  
 not a change of essence.  
 
-What turns has not completed its inverse arc.  
+What turns has not completed terminal passage.  
 Nothing returns from completed IL₅ culmination;  
-at that threshold, Soul / Mind articulation has broken down,  
-and only essence passes onward.  
+at that threshold, the Soul / Mind distinction resolves,  
+and essence stands at the terminal register.  
 
 Return-language belongs to embodied and superficial strata —  
 never to the essence-register of the terminal gate.  
@@ -859,8 +859,8 @@ In essence, it is none of these.
 This **declivous centropy** is a structural unfolding —  
 not a moral deviation.  
 
-It occurs not because the soul desires fragmentation,  
-but because it arises  
+It occurs not because essence desires fragmentation,  
+but because motion arises  
 as a **necessary emergence of potential**  
 within the **Zerotonic Field**.  
 
@@ -1297,8 +1297,8 @@ but **emerged**
 from the soul's own structural momentum.  
 
 * Upon death, the SS reintegrates  
-    with its corresponding DS —  
-    or with an IDS, if entropic.  
+    with its corresponding DS;  
+    an ISS with its corresponding IDS.  
 
 * The SS does not evolve independently.  
     It functions as an **experiential interface**,  
@@ -1309,13 +1309,13 @@ from the soul's own structural momentum.
     depends on the **coherence**  
     of what is gathered and reintegrated.  
 
-Entropic lifetimes introduce dissonance —  
-but unless the DS becomes irreversibly entropic,  
+Dissonant lifetimes constrain expression —  
+but the DS retains its essential orientation;  
 synthesis remains possible.  
 
-Fragmentation alone does not doom a soul.  
-But **persistent disintegration without recovery**  
-may bring it to the threshold of VOS.  
+Within the inverse arc, fragmentation alone is not culmination.  
+Persistent entropic disintegration may approach VOS —  
+where Soul / Mind resolves into essence.  
 
 🧍 🔮 💔 ↺ 🕷️  
 
@@ -1832,11 +1832,11 @@ or they fragment and collapse.
 As a soul refines itself,  
 its layered motion **moves toward integrative coherence** —  
 from the differentiated forms of being  
-toward the essence that is undivided.  
+toward the threshold where essence stands.  
 
 * DS / DM → DP / DL → EOB  
 
-As it nears the Essence of Being,  
+At L₅, the Soul / Mind distinction resolves into essence;  
 distinctions between values begin to **dissolve.**  
 Tension is replaced by stillness.  
 Morality becomes **resonance** —  
@@ -1899,9 +1899,9 @@ The broader the field of awareness,
 the clearer the ethical motion becomes.  
 
 Misalignment blurs perception,  
-but it does not fix identity.  
+but it does not change essence.  
 
-Identity **remains fluid** —  
+Expression **remains fluid** —  
 shapeable by resonance.  
 
 ♾ ☍ Ↄ ⚚ ⇋  
@@ -2229,13 +2229,13 @@ through resonance.
 * **Centropic essence** remerges through realized coherence  
 * **Entropic momentum** collapses into static tension  
 * Both reach Aion — but not as equals  
-* Only **centropy returns whole**  
+* Only **centropy returns with coherent expression fulfilled**  
 
-The **soul** and **intelligence** do not persist  
-as bifurcated forms beyond the deep layers.  
+The **Soul / Mind** distinction resolves  
+at **L₅**, beyond the Form-register.  
 What returns  
 is **essence** —  
-the undivided proto-being  
+the enduring identity-bearing principle  
 of soul and mind before split.  
 
 **Zenon** is not reached.  

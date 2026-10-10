@@ -87,7 +87,7 @@ Both are honored.
 
 For the thinker — principles.  
 For the seeker — synthesis.  
-For the soul — permission.  
+For the soul — freedom.  
 
 To unfold without shame.  
 At the pace of its own becoming.  

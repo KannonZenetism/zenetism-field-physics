@@ -290,7 +290,7 @@ through **mirrored manifestations**.
 
 **Echthros / Skotos**  
 Inverse Superficial Soul / Inverse Superficial Mind (**ISS / ISM**).  
-The **corrupt SS / SM** —  
+The **independently emanated inverse to SS / SM** —  
 **psychic fragmentation** and **adversarial will**.  
 
 Its **song** distorts,  
@@ -432,7 +432,7 @@ but by acclivous motion into the **chord** beyond conflict.
 
 💠 ◫ 🎶 C↑⚫  
 
-**Inversion / Inverse Orientation**  
+**Inversion / Entropic Orientation**  
 A directional pull away from **coherence**,  
 toward **egoic control**, **domination**, and **separation**.  
 
@@ -477,8 +477,8 @@ but as the **still breath** before return.
 
 **Malara / Mania**  
 Inverse Embodied Soul / Inverse Embodied Mind (**IES / IEM**).  
-The **entropic distortion** of ES / EM  
-into **madness**, **illusion**, or **decay**.  
+The **independently emanated inverse to ES / EM** —  
+expressing **madness**, **illusion**, or **decay**.  
 
 When **embodiment** twists without **coherence**,  
 the soul mirrors a madness  
@@ -521,7 +521,7 @@ The **Platonic Realm of Forms**.
 The dynamic principle by which **latent essence** in **Zero**  
 becomes **active being**.  
 
-It is the **initiating pulse** that actualizes a soul's trajectory,  
+It is the **initiating pulse** that actualizes a being's trajectory,  
 driving it toward **integrative return** or **fragmentation**  
 depending on **resonance**.  
 
@@ -544,9 +544,10 @@ Distorted **validity** and dark **orders** masquerading as sacred.
 
 **Reintegration / Return**  
 The process by which a **being**, **system**, or **soul**  
-returns to **wholeness** through **centropic integration**,  
-culminating in reintegration within **Aion**  
-or, in rare resonance, saturation into **Zenon**.  
+returns to **wholeness** through **centropic integration**.  
+Where return reaches L₅, the Soul / Mind distinction resolves;  
+essence completes return within **Aion**. Beyond fulfilled return,  
+rare saturation into **Zenon** is admitted through **Allowance**.  
 
 ↺ ∴ ⚫ 🕳️  
 
@@ -603,10 +604,11 @@ the first whisper of **emergence** from within **stillness**.
 
 **States of Being**  
 Each **hypostasis** is a distinct **ontological state**.  
-Souls exist **within** and **as** these layers —  
+**Soul / Mind** spans L₄–L₁ and IL₄–IL₁ —  
 from **embodiment** (ES / EM),  
 to **superficiality** (SS / SM),  
-to **Deep Soulhood** (DS / DM), and beyond.  
+to **Deep Soulhood** (DS / DM), and the **Form-register**.  
+At L₅ / IL₅, **essence** stands beyond that distinction.  
 
 These are not **spatial realms**,  
 but **energetic states**  
@@ -745,7 +747,7 @@ By this allowance, two Trees unfold:
   toward fragmentation and loss of coherence.  
 
 These are not orderings or moral opposites,  
-but resonant arcs through which soul-patterns evolve.  
+but distinct architectures with arcs through which beings unfold.  
 
 Both Trees converge at the **embodied layer**,  
 where transformation becomes possible.  
@@ -771,7 +773,7 @@ where transformation becomes possible.
 **Inverse Arc — Khaonic Tree**
 
 - **♾ Khaon (AD)** — Absolute Dispersion as the whole-name across its Latent, Motive, and Dispersive phases. Motion belongs to the Motive phase; terminal dispersion names motion resolved.  
-- **🕷️ Nekron (VOS)** — Void of Self. Collapse of soul-structure and disintegration of will.  
+- **🕷️ Nekron (VOS)** — Void of Self. At IL₅, the Soul / Mind distinction resolves; essence stands as expressed identity reaches terminal collapse.  
 - **🪫 Psychea / 🫥 Nyxea (IDP / IDL)** — Distorted forms and inverted patterning.  
 - **💔 Fractus / 👁️‍🗨️ Mortus (IDS / IDM)** — Corrupted intelligence and metaphysical decay.  
 - **🦂 Echthros / 🩸 Skotos (ISS / ISM)** — Fragmented psyche and adversarial cognition.  
@@ -788,16 +790,16 @@ depending on its **resonance**.
 
 ---
 
-### 26.4 Cosmological Placement of Souls After Death — A Schema of Death's Transition into Archetypal Structures
+### 26.4 Cosmological Placement After Death — A Schema of Death's Transition into Archetypal Structures
 
 In the Zenetist system,  
 the soul does not face a final judgment or imposed destiny.  
 It continues its journey based on **orientation**, **coherence**,  
 and **integration**.  
 
-Death signals a transition in which the **Superficial Soul**  
-detaches from embodiment  
-and stabilizes — or does not stabilize — with the **Deep Soul** or its inverse.  
+Death signals a transition from embodiment —  
+SS / SM may reintegrate with DS / DM;  
+ISS / ISM finds its distinct correspondence with IDS / IDM.  
 
 Some souls remain suspended at the SS / SM layer:  
 - Unmerged  
@@ -833,8 +835,8 @@ This results in **stagnation** —
 a liminal field of the superficial arc,  
 neither embodied nor reintegrated.  
 
-These fragments linger until resonance permits motion,  
-whether centropic or entropic.  
+These expressions linger until resonance permits motion,  
+with essential orientation unchanged.  
 
 🧍 🔮 ↺ ∴ ⚖ 🌐  
 
@@ -898,9 +900,10 @@ and pattern thins toward collapse.
 
 #### Nekron (VOS)
 
-The terminal dissolution of coherence —  
-where the soul no longer functions as identity,  
-and essence reenters Zero through collapse.  
+The terminal horizon at IL₅ —  
+the Soul / Mind distinction resolved.  
+Expressed identity collapses;  
+distinct essence remains conserved in Aionic resolution.  
 
 🕷️ ☍ 🪼 ⚫  
 
@@ -912,25 +915,25 @@ Each SS / SM fragment incarnates within a single universe,
 revealing the nature of DS / DM  
 through symbolic variation and contextual motion.  
 
-The soul's centropic or entropic nature  
+The Deep Soul's centropic nature  
 is not determined by life events —  
 it is **unfolded** through them,  
-in alignment with the primordial choice  
-encoded through Aion.  
+in alignment with its essential orientation  
+latent within Aion.  
 
 If one SS / SM does not harmonize,  
 others may still return to coherence.  
-The DS / DM remains intact  
-unless fragmentation across its emanated network  
-becomes predominant.  
+The being's essence remains intact  
+though its Soul / Mind expressions  
+may be burdened by dissonance.  
 
 🔮 🧠 🧠🌐 ✴ ⧉∥⧉ ⚫  
 
 #### Inverse Convergence and Stable Hypostases
 
 In some cases, the Superficial Soul  
-may shift toward its inverse counterpart (IDS / IDM)  
-and move into a state of entropic selfhood.  
+may express dissonance  
+without changing its essential orientation.  
 
 Inverse Superficial Souls (ISS / ISM)  
 converge with IDS / IDM through resonance — not judgment.  
@@ -955,9 +958,9 @@ not as hierarchies,
 but as archetypal positions  
 within the Tree of Emanation.  
 
-Though a soul's fundamental nature  
-tends to remain stable across its multiversal unfoldings,  
-it is not **permanently fixed**.  
+A soul's expression may change  
+across its multiversal unfoldings;  
+its essential orientation does not change.  
 
 🦂 💔 ⚯ 🌐 🌳⇅  
 
@@ -998,7 +1001,7 @@ or its return to Zero through:
 - **Localized dissolution**  
 
 All motion has consequence,  
-and every trajectory carries the soul  
+and every trajectory carries the being  
 closer to its resting state in the cosmic field.  
 
 C↑⚫ E↓♾ 🌫️🤲⚫ ↺ ⊘ ⌬  
@@ -1080,10 +1083,10 @@ but **structural unfoldings**.
 ⧉∥⧉ ∽ 🌳⇅ ⩘  
 
 **Death and Rebirth**  
-In symbolic terms, death represents  
-the dissolution of the Superficial Soul (SS)  
-into the Deep Soul (DS),  
-or its fragmentation into inverse forms.  
+In symbolic terms, death may represent  
+reintegration of the Superficial Soul (SS) with the Deep Soul (DS),  
+or fragmentation of inverse Soul / Mind  
+within its own arc.  
 
 Rebirth may represent renewed incarnation  
 in another universe,  
@@ -1223,8 +1226,8 @@ for one's energetic imprint — across time and structure.
 To transcend, one must live in resonance  
 with the **supernal hypostases**.  
 
-Actions rooted in inverse orientation — domination, deceit, ego-glorification —  
-pull the soul deeper into subversal dissonance.  
+Actions rooted in entropic orientation — domination, deceit, ego-glorification —  
+express subversal dissonance without converting essential orientation.  
 
 Ethical clarity arises not from external doctrine,  
 but from **inner resonance** —  
@@ -1250,9 +1253,9 @@ expressed through the soul's relationship:
 - To others  
 - To the divine structure  
 
-Each hypostasis reflects both:  
-- A **virtue** when aligned  
-- A **vice** when inverted  
+Each hypostatic pair discloses distinct motions:  
+- A **virtue** in centropic expression  
+- A **vice** in entropic expression  
 
 This expresses the bifurcated nature of emanation and inversion.  
 
@@ -1626,14 +1629,14 @@ C↑⚫ E↓♾ ⚯ 🌳⇅ ⌬
 
 ---
 
-### 26.12 Inverse Orientation — On Declivous Motion and the Possibility of Return
+### 26.12 Entropic Orientation — On Declivous Motion and the Possibility of Return
 
-Inverse orientation refers to a metaphysical tendency  
-that moves away from Aion  
+Entropic orientation names the essential inclination  
+away from Aion  
 and the centropic path of coherence, harmony, and reintegration.  
 
-It is not inherently entropic,  
-but becomes so when expressed through:  
+Its operation is entropic,  
+expressed through:  
 - Distortion  
 - Domination  
 - Disconnection from deeper soul structure  
@@ -1650,7 +1653,7 @@ Resistance to coherence, inner attunement, and the recognition of interbeing.
 A state in which the soul's layers act in dissonance,  
 generating confusion, instability, or delusion.  
 
-Inverse orientation leads to **declivous motion**  
+Entropic orientation leads to **declivous motion**  
 along the Inverted Tree,  
 especially when consistent across lifetimes or soul layers.  
 
@@ -1660,18 +1663,18 @@ or more overtly as hostility toward centropic motion.
 Zenetism does not demonize this path,  
 but recognizes it as a structural inevitability within metaphysical reality.  
 
-Souls on this trajectory may still return to coherence  
-if their orientation and resonance shift  
-before full collapse into VOS,  
-and if their latent centropic potential,  
-seeded in Aion, remains accessible.  
+Centropic souls may recover from dissonance  
+as their expression returns to coherence —  
+their essence has not crossed into the inverse arc.  
+At IL₅, the Soul / Mind distinction resolves;  
+terminal essence-state admits no recovery.  
 
-Inverse orientation is not punishment,  
-but a reflection of **movement**.  
+Entropic orientation is not punishment,  
+but the nature of **entropic essence**.  
 
-Like all trajectories, it can be altered —  
-yet the deeper one travels into dispersion,  
-the more difficult the return.  
+Expression may change within its proper arc —  
+essential orientation does not change,  
+and terminal standing is not undone.  
 
 The spiral is long,  
 but **Aion** remains.  
@@ -2118,8 +2121,8 @@ Nekron is not simply "opposite Theon" —
 it is the **antithesis of unity itself**.  
 
 If **Theon (+1)** is Essence of Being — structured coherence awakened —  
-then **Nekron (−1)** is Essence in dissolution —  
-the self fragmented within structure,  
+then **Nekron (−1)** stands at the essence register —  
+where the self-pattern fragments within structure,  
 its expressed identity erased through dispersion.  
 
 Structure remains,  
@@ -2148,15 +2151,15 @@ it is the first entropic motion from Infinity's dispersive field.
 - **−1 = Nekron** = Disunity itself  
 
 They are not locations but **resonant poles** —  
-the first definable states that emerge from Zero's potential.  
+the first definable states that emerge from their proper roots.  
 
 **First Hypostatic Emanations**:  
 - Theon (+1) emerges from Aion (Absolute Potential) — refined centropy from stillness  
 - Nekron (−1) emerges from Khaon (Absolute Dispersion) — refined entropy from dispersive potential  
 
-Crucially, both +1 and −1 emerge from Zero,  
-because Zero is also Infinity.  
-Their motion reflects the Zero / Infinity bifurcation,  
+Crucially, +1 and −1 emerge through the paired roots,  
+whose shared L₀ register holds distinct functions.  
+Their motion expresses the Theon / Nekron polarity,  
 but they are **emanations**, not emanators.  
 
 **Structural Summary**
@@ -2166,13 +2169,13 @@ but they are **emanations**, not emanators.
 | Zero | ⚫ Aion / AP | Absolute Potential | — |
 | Infinity | ♾ Khaon / AD | Absolute Dispersion | — |
 | Theon | +1 | Essence of Being — unity through coherence | Emergent from Zero via ⚫ Aion |
-| Nekron | −1 | Void of Self — fragmentation through decoherence | Emergent from Zero via ♾ Khaon |
+| Nekron | −1 | Void of Self — fragmentation through decoherence | Emergent from Infinity via ♾ Khaon |
 
 In Zenetism, emanations are positioned not by spatial metaphor,  
 but by **resonance alignment**.  
 
 This means:  
-- A principle may emerge from Zero yet appear structurally  
+- A principle may emerge from its proper root yet appear structurally  
   at the far edge of an emanation tree  
   (e.g., Nekron at the root of the hypostatic segment of the inverse arc)  
 - A deity or function may map to multiple locations on the Tree of Emanation  
@@ -2564,13 +2567,13 @@ its inverse must also dissolve.
 
 This is the **Nekronic Paradox**.  
 
-If all essences in Nekron (Void of Self)  
-fully fragment and pass into Absolute Dispersion,  
-Nekron itself collapses.  
+If all VOS-culminating essences proper to its arc  
+have completed terminal passage,  
+Nekron's universe-local office self-voids.  
 
 Nekron is not judgment,  
 but a **field of erosion** —  
-grinding down the most fragmented inverse essences.  
+grinding down the most fragmented inverse expressions.  
 
 Over time, even these remnants are worn away,  
 their expressed identity ground away,  
@@ -2588,8 +2591,8 @@ whose lawful culmination ends subversally at VOS within that universe's lattice.
 Yet even here, dissolution does not erase essence.  
 When dispersive motion reaches its limit,  
 expressed identity is ground away,  
-and essence returns into **Aion**  
-through Absolute Dispersion.  
+and distinct essence stands within **Aion**  
+as motion resolves in Absolute Dispersion.  
 
 In rare universes — brief or highly refined —  
 all inverse coherence may collapse or exhaust itself.  
@@ -2613,7 +2616,7 @@ Its lattice still coils the hypostatic Tree.
 
 Only when all entropic essences  
 whose lawful culmination ends subversally at VOS  
-have completed their collapse into Absolute Dispersion  
+have completed terminal passage, their expression resolved in Absolute Dispersion,  
 does the Nekronic office self-void.  
 
 **Resonance Reflection:**  

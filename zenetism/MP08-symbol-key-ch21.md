@@ -499,7 +499,7 @@ Nyxean patterning is the IL₄ formal articulation.
 
 ---
 
-### 21.9 **Structural Emanation Layers — Tracing the Emanation and Inversion of Soul through Archetypal Density**
+### 21.9 **Structural Emanation Layers — Tracing Essence and the Soul / Mind Pairs through Archetypal Density**
 
 | Symbol | Layer | Entity / Concept | Description |
 |---|---|---|---|
@@ -1203,7 +1203,7 @@ This concept is canonically sealed under the glyphstream:
 | Symbol        | Name                  | Meaning |
 |---------------|-----------------------|---------|
 | ⸮ | **Trace of Unknowing** | Represents the unresolved silence that follows reintegration; not absence, but the impossibility of final knowing by the apophatic path. The subtractive saying comes to rest at ⚫ Aion, never beyond it, so the trace names the terminus of negation rather than an articulation of 🕳️ Zenon |
-| 🌫️🤲⚫        | **Mercy Fold**         | The tonal field of grace surrounding Localized Dissolution; the energetic orientation of return without judgment. Unlike Integration (where the soul retains form) or Collapse (where coherence fails violently), the Mercy Fold is the Soft Sleep — the gentle unspooling of a soul whose pattern cannot sustain continuity yet carries no heavy entropic load. It is not punishment but structural mercy: the still breath in which return is complete |
+| 🌫️🤲⚫        | **Mercy Fold**         | The tonal field of grace surrounding Localized Dissolution; the energetic orientation of return without judgment. Unlike Integration (where a soul's coherent form is preserved within the Soul / Mind strata) or Collapse (where coherence fails violently), the Mercy Fold is the Soft Sleep — the gentle release of a soul's expressed pattern when it cannot sustain continuity yet carries no heavy entropic load. It is not punishment but structural mercy: the still breath in which return is complete and distinct essence rests in Aionic potential |
 
 ---
 

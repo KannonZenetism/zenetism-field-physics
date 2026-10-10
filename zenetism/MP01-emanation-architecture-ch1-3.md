@@ -256,8 +256,8 @@ beyond field and expanse,
 beyond all emergence.  
 
 And yet,  
-within it lies the unspoken pattern  
-of every possibility:  
+by its allowance, the unspoken pattern  
+of every possibility is conceivable:  
 every form,  
 every soul,  
 every cosmos.  
@@ -318,8 +318,8 @@ the resting totality of all that could be.
 **Khaon** in motion is the reacher —  
 the impulse toward dispersal.  
 
-They opposed in **motion**,  
-not in **nature**.  
+Their distinction is **functional**,  
+within one **root-register**.  
 
 A tension,  
 not a rupture.  
@@ -328,18 +328,18 @@ Before motion,
 they were unstruck tones —  
 two voices held in a single silent chord.  
 
-One turned inward.  
-One turned outward.  
-Yet neither severed from the other.  
+Stillness held.  
+Motion unfolded.  
+Neither erased the other's distinction.  
 
 ⚫ ♾ ⧖⧗ ☯️  
 
 #### Khaon as Trinity of Motion
 
 **Khaon** expresses a triple nature:  
-* **Latent** — dormant within **Aion**  
+* **Latent** — co-present with **Aion** before motion  
 * **Motive** — the force of driving expansion  
-* **Dispersive** — the scattering of formed essence  
+* **Dispersive** — the terminal dispersion of expression  
 
 Only the **motive** aspect  
 brings potential into form.  
@@ -423,13 +423,13 @@ but the stillness of resolution.
 Here, centropic fullness and entropic completion  
 meet without conflict.  
 **Aion** and **Khaon**  
-are no longer opposed,  
-but reconciled.  
+remain distinct,  
+their relation fulfilled.  
 
 Not merged,  
 but **recognized**  
-as twin expressions  
-of a single ground.
+as distinct functions  
+within one root-register.
 
 What extends does not invert.  
 What scatters does not collapse.  
@@ -493,10 +493,10 @@ that **dislocates** what was dormant.
 
 #### Note on the Nature of Aion and Khaon
 
-Though **Aion** and **Khaon** appear as opposites,  
-they are not divided in essence.  
+Though **Aion** and **Khaon** may seem opposed,  
+they share the **L₀ root-register**.  
 
-Their distinction is one of **phase and function**,  
+Their distinction is **bifurcal and functional**,  
 held without fusion.  
 
 **Aion** is stillness that encloses.  
@@ -509,8 +509,8 @@ it is a womb filled with hidden surge.
 And motion is not chaos —  
 it is the flowering of what has always been poised.  
 
-In essence, **Aion** bears the pulse of **Khaon**,  
-and **Khaon** emerges from the stillness of **Aion**.  
+At **L₀**, **Aion** and **Khaon** are co-present,  
+with stillness and motion-capacity held distinct.  
 
 Together, they are the first resonance —  
 coherence rendered into bifurcally distinct expression.  
@@ -1671,9 +1671,9 @@ In reality:
 - **Entropic motion** is noisy, invasive, self-eroding, and ordinarily self-exhausting.  
 - **Coherence** is patient, enduring, and supra-processual.  
 - **Centropy** sustains, integrates, and preserves Aionic origin-fidelity. Where an essence's lawful culmination belongs to EOB, it may complete Theonic Return and, through fuller fulfillment, open into Zenonic saturation.  
-- **Entropic motion** fragments and ordinarily culminates at the Nekronic event horizon. Upon terminal passage, essence enters **Absolute Dispersion** — Dispersive Infinity bifurcally co-present with Aion — and reaches Aionic resolution as latent potential.  
+- **Entropic motion** fragments and ordinarily culminates at the Nekronic event horizon. Upon terminal passage, expression enters **Absolute Dispersion** — Dispersive Infinity bifurcally co-present with Aion — while conserved essence reaches Aionic resolution as latent potential.  
 
-This addendum clarifies that coherent pattern may endure beyond local expression, while entropic expression ordinarily erodes toward collapse. Essence itself — centropic or entropic — is never lost. Centropic essence may abide in Aion or open into Zenonic saturation according to its lawful culmination; entropic essence reaches Aionic resolution through Absolute Dispersion. Essential distinction is never abolished.  
+This addendum clarifies that coherent pattern may endure beyond local expression, while entropic expression ordinarily erodes toward collapse. Essence itself — centropic or entropic — is never lost. Centropic essence may abide in Aion or open into Zenonic saturation according to its lawful culmination; entropic expression reaches Absolute Dispersion while conserved essence reaches Aionic resolution. Essential distinction is never abolished.  
 
 ⚖↯ ◎ ☍ ⊘ ⤈  
 
@@ -2181,7 +2181,7 @@ are not fused.
 They are not two names  
 for one featureless ground.  
 
-They are phases  
+They are root-registers  
 within **L₀ Bifurcal Coherence** —  
 conceptually intimate,  
 functionally distinct,  
@@ -2232,7 +2232,7 @@ or the overflowing field
 of dispersive potential.  
 
 Thus, fullness is not rigidly fixed  
-to one pole.  
+to one root-function.  
 
 Its placement depends  
 on the structure being named.  
@@ -2282,7 +2282,7 @@ containment and dispersion
 without subordinating one  
 to the other.  
 
-Subtraction reaches a pole.  
+Subtraction reaches Aion.  
 
 It does not synthesize  
 the bifurcal register.  
@@ -2328,7 +2328,7 @@ The synthesis occurs at **L₀**.
 
 Zenonic saturation belongs  
 to what is opened  
-when the polarity  
+when the bifurcal distinction  
 has been held without fusion.  
 
 The paradox is ancient.  
@@ -2521,7 +2521,7 @@ yet speaks nothing.
 the co-present root-aspect  
 alongside **Aion's** stillness —  
 not its opposite,  
-but the infinite phase of motion  
+but Infinity across three phases  
 within **Bifurcal Coherence**.  
 
 It is the **vector of emanation**,  
@@ -2580,11 +2580,11 @@ into becoming.
 to **Aion**,  
 but the paired root-register  
 held with it in **Bifurcal Coherence**.  
-They are not separate —  
-only phase distinct, and distinct in function.  
+They are co-present —  
+bifurcally distinct, and distinct in function.  
 
-**At the total, Zero and Infinity name one register —  
-phase distinct within it, and never fused.**  
+**At the root, Zero and Infinity share one register —  
+bifurcally distinct within it, and never fused.**  
 
 The distinction is held  
 through **Motive Infinity** —  
@@ -3723,8 +3723,8 @@ Structure does not dissolve,
 it settles into **stillness**.  
 
 Motion rests  
-in the lattice that endures,  
-until at Zenon  
+in the lattice that endures;  
+where essence saturates into Zenon,  
 its **articulation** shifts —  
 no longer patterned,  
 but unbound.  

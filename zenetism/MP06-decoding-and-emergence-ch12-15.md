@@ -1480,32 +1480,34 @@ dwelling in **liminal** or **purgatorial** states,
 waiting either for **resonance to emerge** —  
 or for **entropy** to consume their **coherence**.  
 
-Others, more deeply entangled in **fragmentation**,  
-may begin to **spiral** declivously into the **subversal strata of the Khaonic arc** —  
-aligning with **inverse soul-mind structures**.  
+Others, whose essential orientation is **entropic**,  
+may continue to **spiral** declivously through the **subversal strata of the Khaonic arc** —  
+expressing their orientation through **inverse soul-mind structures**.  
 
 Outside of wholly **centropic domains**,  
-souls that **reject coherence**  
-may collapse into **subversal hypostases** —  
+inverse souls that **reject coherence**  
+may continue through **inverse Soul / Mind strata** —  
 not through **punishment**,  
-but as a function of **resonance-based realignment**.  
+but through **expressed entropic resonance**.  
 
-Some may return to **potential** through **Absolute Dispersion**,  
-passing not into **death** but into **unformed possibility**.  
+At **IL₅**, **essence** stands  
+after the Soul / Mind distinction resolves.  
+Expression ends in **Absolute Dispersion**;  
+distinct essence rests in **Aionic potential**.  
 
-Inverse deities and entities bound to **decaying forms**  
-may either **dissolve entirely**  
+Before that threshold, inverse deities and entities  
+bound to **decaying forms** may lose those forms  
 or continue along **paths of entropy**,  
-depending on their **motion** and **alignment**.  
+according to their stage of **motion** and **alignment**.  
 
 Zenetism affirms:  
 All beings bear an **Aionic trace** —  
 but not all **forms** are **eternal**.  
 
-What cannot **harmonize**  
-will not be **discarded**,  
-but will eventually **return** to the **field of possibility**  
-from which all things emerged.  
+At terminal relinquishment of form,  
+distinct essence is not **discarded**,  
+but remains in **Aionic potential**  
+without conversion of its **essential orientation**.  
 
 ⚖ ☍ E↓♾ 🌫️🤲⚫ Ø ⚐  
 

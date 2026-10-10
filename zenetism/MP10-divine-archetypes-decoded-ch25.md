@@ -69,7 +69,7 @@ They are **positions**:
 Many mythic figures and story arcs are not historical claims.  
 They are **symbolic representations** of energetic processes —  
 states of consciousness,  
-stages in the soul's emanative journey.  
+stages in a being's emanative journey.  
 
 🗺️📜 🗝️ ∽ 🌳⇅ ⌬ ❂  
 
@@ -1236,7 +1236,7 @@ Egoic pride, distraction via sensory and narrative desire.
 **ISS / ISM** (Echthros / Skotos) —  
 superficial dissonance and illusion.  
 **VOS** (Nekron) —  
-terminal identity collapse through soul inversion.  
+terminal loss of expressed identity at IL₅.  
 
 **Justification**  
 Mara is both psychological and structural.  

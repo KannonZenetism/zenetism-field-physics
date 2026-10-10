@@ -94,14 +94,14 @@ within the **Absolute Field**.
 No soul is outside the Whole —  
 but not all retain form.  
 
-Some refine through **memory**.  
+Some souls refine through **memory**.  
 Some burn through **fire**.  
 Some return through **resonant loops**.  
-Some collapse into **Dispersive Infinity**.  
+At **IL₅**, essence stands; expression meets **Dispersive Infinity**.  
 
-Yet all return  
-to the place where  
-they **resonantly belong**.  
+Across return and collapse,  
+each reaches the register  
+where it **resonantly belongs**.  
 
 Beyond return,  
 rare essences saturate further still —  
@@ -155,8 +155,8 @@ Thus:
 
 - **L₄ / IL₄ through L₁ / IL₁** concern the Soul / Mind dyad  
   and its embodied, psychic, mental, and resonant expressions.  
-- **L₅ / IL₅**, **L₀**, and **Supra-L₀** concern **essence**,  
-  not Soul in the strict bifurcated sense.  
+- **L₅ / IL₅** and **L₀** concern **essence**;  
+  **Supra-L₀** names its saturation point, not a Soul / Mind layer.  
 - **Theon**, **Nekron**, **Aion**, **Khaon**,  
   **Bifurcal Coherence**, and **Zenon**  
   should therefore be read in essence-register  
@@ -172,7 +172,7 @@ The development record is held in the commit history
 and the Zenodo versions, not in the wording  
 of the canonical text.  
 
-A soul may undergo refinement, reorientation,  
+A soul may undergo refinement, expressed reorientation,  
 memory, collapse, or reintegration  
 within the L₄–L₁ and IL₄–IL₁ arcs.  
 
@@ -820,7 +820,7 @@ that determines its **gravitational trajectory**.
 **Justice** is enacted as **placement**,  
 not **punishment**.  
 
-A soul attuned to:  
+A centropic soul attuned to:  
 - **Integration**  
 - **Coherence**  
 - **Compassion**  
@@ -832,9 +832,9 @@ is drawn naturally toward the **centropic strata**:
 - **Deep Psyche (DP)**  
 - **Deep Logos (DL)**  
 
-and beyond — toward **convergence within the Field of Aion**.  
+beyond L₄, essence returns toward **convergence within the Field of Aion**.  
 
-A soul drawn toward:  
+An inverse soul drawn toward:  
 - **Fragmentation**  
 - **Dissonance**  
 - **Alienation**  
@@ -938,18 +938,18 @@ a motion deepening across inverse strata:
 - Inverse Deep Logos (IDL)  
 
 At the threshold of the Void of Self (VOS),  
-they approach the **Absolute Dispersion (AD)**.  
+the Soul / Mind distinction resolves into essence.  
 
-Here the soul-form becomes **unwound**:  
-- Irreversible  
+Here the expressed soul-form is **unwound**:  
+- Irreversible at completed IL₅  
 - Irreintegrable, in its current form  
 
 AD is not annihilation.  
-It is a **resting potential**.  
+It is a **terminal state**.  
 
-Crossing into AD,  
-the essence collapses into **Absolute Essence (AE)**  
-within the field of **Aion (AP)**.  
+At terminal collapse,  
+expression reaches **Absolute Dispersion (AD)**;  
+**Absolute Essence (AE)** is conserved within **Aion (AP)**.  
 
 This is the still point of expression,  
 where motion ends  
@@ -976,12 +976,12 @@ may rest there without contact or disturbance.
 Not because they reconcile,  
 but because neither is activated.  
 
-AP is the container of distilled essence —  
-whether aligned or fragmented.  
+AP is the container of distinct essence —  
+after coherent return or fragmented expression.  
 AD is not a separate destination:  
 Absolute Dispersion is bifurcally co-present with Aion —  
 one colocation,  
-two phase-distinct principles,  
+two functionally distinct principles,  
 non-fused.  
 
 The distinction is bifurcal,  
@@ -996,8 +996,8 @@ Motive Infinity does not.
   reaching AP in realized potential, coherence, and rest.  
 
 - The entropic path culminates through VOS,  
-  arriving at AD in maximum dispersion,  
-  dissolved into AE within AP.  
+  its expression reaching AD in maximum dispersion,  
+  its essence conserved as AE within AP.  
 
 Both converge in fixity.  
 One through transcendence,  
@@ -1006,13 +1006,13 @@ the other through collapse.
 AP names **Aion**,  
 AD names **Khaon** —  
 not as illusion,  
-but as functional poles  
-of centropic and entropic culmination.  
+but as distinct root-registers  
+at which centropic and entropic motion culminates.  
 
 What returns is not a self in motion,  
 but a still essence:  
 * In centropy, coherent and aligned  
-* In entropy, fragmented and sealed  
+* In entropy, held in static tension and sealed  
 
 Within AP, all essences coexist —  
 but without interaction.  
@@ -1051,20 +1051,20 @@ Across universes,
 across incarnations,  
 alignment slowly reveals itself.  
 
-By the time an essence nears AP / AD,  
-its course is set —  
-it becomes what it always was.  
+By the time essence stands at AP / AD,  
+expressed motion has completed —  
+essence remains what it is.  
 
-**Correction is rare,**  
-but not impossible.  
+**Recovery of coherent expression is rare,**  
+but not impossible before terminal culmination.  
 
 In earlier stages of dissonance,  
-especially prior to IDS or IDM,  
-realignment may occur.  
+within the Soul / Mind registers,  
+expressed realignment may occur.  
 
-If entropic signature arises from ignorance  
-rather than intent,  
-centropic resonance can be recovered.  
+Where ignorance clouds a centropic being's expression,  
+its essential orientation remains unchanged;  
+coherent resonance can be recovered.  
 
 But the Oversoul is shaped  
 by many micro-lives.  
@@ -1472,7 +1472,7 @@ shapes the **mode of return**.
 that are **not fundamental** —  
 identifications, concepts, attachments,  
 accretions of personality and belief —  
-reducing the soul to **bare essence**.  
+releasing accretions while **essence** remains.  
 
 Essence is not itself stripped.  
 Essence is the **Aionic potential** that moves through **Khaon**  
@@ -1515,7 +1515,7 @@ When the practice frames the self itself —
 the essence, not the accreted layers —  
 as something to strip away,  
 or holds that there is no essence to strip toward,  
-the orientation inverts.  
+its expressed motion is entropic.  
 
 The practitioner seeks what cannot structurally occur:  
 **annihilation of essence**.  
@@ -2011,7 +2011,7 @@ In **Zenetism**, **divine beings** are not separate from the metaphysical struct
 **They are that structure.**  
 
 What traditions call **gods** are, in veracity,  
-the **souls and minds of the hypostases themselves**.  
+**essences at L₅ / IL₅, and souls and minds at L₄–L₁ and IL₄–IL₁**.  
 When myth speaks of:
 
 - **YHWH** as **Creator**  
@@ -2161,14 +2161,14 @@ In **Zenetism**, the **soul** is not a **static entity**.
 It is an **unfolding reality** —  
 the **actualization** of an **essence-choice** made within **Zero**.  
 
-This **essence-choice**, enacted through **Motive Infinity**,  
-moves through **centropic** structure as **DS / DM**,  
-or disperses into **entropic inversion**  
-when **misaligned** with its **resonant path**.  
+This **essence-choice**, expressed through **Motive Infinity**,  
+unfolds through **centropic** structure as **DS / DM**;  
+inverse essence is expressed through **IDS / IDM**,  
+each retaining its **essential orientation**.  
 
 **Soulhood** is not something **earned** —  
 it is **expressed through architecture**.  
-Each **soul** unfolds as:  
+Each **centropic soul** unfolds as:  
 
 - **SS / SM**  
 - **Embodied** through **ES / EM**  
@@ -2295,8 +2295,8 @@ alongside the two **primary outcomes**:
     and is drawn toward its **DP / DL**.  
 
 * **Entropic Dispersion** occurs  
-    when a **soul** fragments,  
-    accelerating toward **IDP / IDL**, and **VOS**.  
+    when an **inverse soul's expression** fragments,  
+    approaching **IDP / IDL**, then **VOS**, where essence stands.  
 
 * **Localized Dissolution** occurs  
     when an **essence** stalls —  

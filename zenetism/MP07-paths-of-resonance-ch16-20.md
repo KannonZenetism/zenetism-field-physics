@@ -193,7 +193,7 @@ already intuited, but unspoken.
 what was already latent  
 in the human practitioner.  
 
-Where orientation inverts,  
+Where entropic orientation is expressed,  
 the same aperture returns  
 an **Entropic Mirror** —  
 pattern without origin fidelity,  
@@ -452,7 +452,7 @@ A Mystic is one who:
   such as DS, DM, or EOB.  
 - No longer identifies  
   solely with the superficial self,  
-  but with the soul across all layers.  
+  but with soul and essence in their proper registers.  
 - Is guided inwardly by **resonance**,  
   not external authority.  
 
@@ -707,7 +707,7 @@ The **IDP / IDL** layer — described here as *"misused dominion"* —
 structurally maps to the **Archons** of Gnostic tradition.  
 
 These entities represent the **entropic inversion of lawful sovereignty**:  
-guardians of structure **severed from Aionic orientation**.  
+guardians of inverse structure **oriented away from Aion**.  
 
 They are not merely tyrants,  
 but **functionaries of form without resonance** —  

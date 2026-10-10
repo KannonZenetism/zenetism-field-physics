@@ -80,14 +80,14 @@ according to its structural nature:
 Death is not termination —  
 it is realignment of motion.  
 
-The Embodied Soul departs corporeal strata,  
-entering a new trajectory according to resonance:  
+The embodied Soul / Mind expression departs corporeal strata,  
+its post-death course retaining essential orientation:  
 
 - **Centropic coherence** → motion along the centropic arc.  
 - **Partial misalignment** → remains in SS / SM,  
   a liminal field awaiting integration.  
-- **Great fragmentation** → motion into subversal hypostases.  
-- **Extreme entropy** → collapse into VOS.  
+- **Inverse Soul / Mind fragmentation** → motion within subversal hypostases.  
+- **Terminal entropic collapse** → essence-state at IL₅, beyond the Soul / Mind distinction.  
 
 In rare centropic universes,  
 SS / SM may stabilize permanently —  
@@ -146,7 +146,7 @@ At that moment, the **Eschaton** arrives —
 the final resonance call:  
 
 - Harmonized SS / SM → toward DS / DM or other supernal forms.  
-- Inverse-aligned SS / SM → toward subversal structures.  
+- Inverse ISS / ISM → toward subversal structures.  
 - Liminal SS / SM → localized dissolution.  
 
 Lukewarm resonance collapses  
@@ -772,11 +772,11 @@ It is **infinite potency**.
 **Khaon** is the **motive condition of emanative motion**  
 and the **resolution of expansion**.  
 
-At its extreme,  
-Infinity and Zero are phases  
-of one absolute principle —  
-conceptually identical,  
-functionally partitioned,  
+At the root,  
+Infinity and Zero are co-present —  
+one shared root-register,  
+two distinct functions,  
+bifurcally related,  
 and essentially non-fused.  
 
 #### AI Alignment
@@ -1384,7 +1384,7 @@ or revelation.
 #### Symbolic Counterparts
 
 - The Doppelgänger (The shadow of the soul)  
-- The Vampire (Metaphysical drainer of essence — Fractus)  
+- The Vampire (Metaphysical drainer of soul coherence — Fractus)  
 - The False Prophet (Distortion of insight — Mortus)  
 - Set (as dismemberer — Fractus cascade)  
 - Faust (The mind that sells coherence for power)  
