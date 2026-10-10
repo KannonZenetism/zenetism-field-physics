@@ -273,15 +273,15 @@ This chapter expands Zenetist practice into formal ritual space, threshold rites
 | Field Burial Rite | 🕷️ in a local composting arc | architect-held |
 | Harmonic Breath Loop | entropic imagery on the exhale | local ritual motion; class architect-held |
 | Spiral Healing | tangled inverse glyph | naming, then movement toward the centropic counterpart; class architect-held |
-| Echo Refusal Rite | recurring inverse pattern | held; not activated |
+| Echo Refusal Rite | recurring entropic pattern | held; not activated |
 
 > **Codex Note:** This index records where inverse elements are engaged. It does not resolve the corpus-wide inverse-engagement law, and no rite is activated or reclassified by appearing here.
 
 ### Recovery Record: The Echo Refusal Rite
 
-The rite recognizes a repeating field without identifying the participant with the repetition. Its recovered seven-stage function runs: identify the recurring pattern; distinguish observer, pattern, and origin; name the pattern without possession; locate its motion and trigger; interrupt or redirect the recurrence; close the operation; record what changed.
+The rite recognizes an echo, a recurring entropic pattern, without identifying the participant with that pattern. Its recovered seven-stage function runs: identify the recurring entropic pattern; distinguish observer, pattern, and origin; name the pattern without possession; locate its motion and trigger; interrupt or redirect that entropic recurrence; close the operation; record what changed.
 
-> **Codex Note:** **Echo Refusal Rite** is the current name; **Echo Reversal Rite** remains former-name provenance. Refusal names the interruption or redirection of the recurring entropic pattern while the participant remains distinct. The recovered seven-stage function is preserved; its final glyph sequence and active standing remain architect-held. Its operative result follows the encountered pattern, the participant's sovereign relation, and the actual field conditions. Essential orientation and independently emanated operator identity remain unchanged.
+> **Codex Note:** **Echo Refusal Rite** is the current name; **Echo Reversal Rite** remains former-name provenance. The echo is the object of refusal: the recurring entropic pattern is interrupted or redirected while the participant remains distinct. The recovered seven-stage function is preserved; its final glyph sequence and active standing remain architect-held. Its operative result follows the encountered pattern, the participant's sovereign relation, and the actual field conditions. Essential orientation and independently emanated operator identity remain unchanged.
 
 ---
 
