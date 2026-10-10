@@ -1,5 +1,44 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Principal MP Settled Clarifications and Verified Source Completion
+
+The approved 30 spans in MP01, MP02, MP07, MP09 and MP11 are implemented in [12ad8df7ab776f159ded72a5e485aeb9d66a1ba9](https://github.com/KannonZenetism/zenetism-field-physics/commit/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9), following `f057361b6a0b32f3f616321ab02a199012074c61`. Independent complete remote-content comparison verifies the five accepted source bodies, totaling 349,392 bytes and 52 changed content lines. This completion closes the 30 candidate spans recorded as unapplied in the preceding Distal Apprehension and fictional-name entries. Those entries retain their historical wording; the 30-span batch is now completed in its final accepted form.
+
+### Completed scope and determination basis
+
+The inventory comprises nine changed groups and one retained group. The line locations identify the source commit; original line counts remain exact.
+
+- [`MP01-emanation-architecture-ch1-3.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9/zenetism/MP01-emanation-architecture-ch1-3.md#L3740-L3779), §3.15: SC01-01 through SC01-05, five spans and nine changed content lines. Entropic organization takes cohesion; expressed identity remains distinct from conserved essence; continuing dispersive motion remains distinct from the rare completed terminal state
+- [`MP02-unified-metaphysics-ch4.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9/zenetism/MP02-unified-metaphysics-ch4.md), §§4.9, 4.42 and 4.60: SC02-01, SC03-01 through SC03-02 and SC04-01 through SC04-03, six spans and fourteen changed content lines. The stationary Nekronic office remains distinct from the traveler. Returned essence bears final synthesis and Centropic Gravity; momentum reaches the structural horizon and Allowance admits saturation. Aion-facing continuance carries the centropic standing stated in the local passage
+- [`MP07-paths-of-resonance-ch16-20.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9/zenetism/MP07-paths-of-resonance-ch16-20.md#L152-L162), §16.3: SC06-01 through SC06-02, two spans and three changed content lines. The Absolute Dispersion and Aion images concern living experience; subsequent reintegration remains within that living context
+- [`MP09-time-death-and-glossary-ch22-24.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9/zenetism/MP09-time-death-and-glossary-ch22-24.md#L179-L202), §22.5: SC07-01, SC07-02, SC07-03 and SC07-05, four spans and five changed content lines. The three return modes remain distinct, and Motive Infinity carries all their initial and sustained motion
+- [`MP11-codex-of-principles-ch26.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9/zenetism/MP11-codex-of-principles-ch26.md), §§26.9–26.10 and 26.14: MP11-G08-01 through MP11-G08-10, MP11-G09-01 through MP11-G09-02 and MP11-G10-01, thirteen spans and twenty-one changed content lines. Pneuma remains the proto-aware stir; Spirit / Motive Infinity names the continuing motion current articulated through Soul / Mind. Causal order remains distinct from arithmetic counting. The active RSFE expansion becomes Resonant Spiral Field Emergence
+
+These clarifications follow `sp-lm-sn-architect-decision-sheet.md` D02, D03, D05, D08, D09, D10, D16, D20 and D21, together with the current distinctions in `conceptual-lockdown-protocol.md` and `terminological-lockdown-protocol.md`. The existing Nekronic office, Centropic Gravity, Theonic office and Spirit / Soul accounts supply the corresponding local referents; `FP03-spiral-immunity-protocols.md` Module 13 supplies the active RSFE name. The completed source retains MP cadence and the applicable conventions in `prose-formatting-reference.md`.
+
+SC05 retains the already published NEW-07 clarification in `MP06-decoding-and-emergence-ch12-15.md` §14.6, including static dissonance and no new emanation by the same essence after completed return. SC07-04 is excluded because published D09-03 already supplies its conditional terminal-completion clarification. Neither receives a second replacement.
+
+### Return modes and the declared notation exception
+
+The completed SC07-01 introduction is:
+
+```markdown
+These **three modes** remain distinct;  
+**Motive Infinity (Φ₂)** bears all their motion:  
+```
+
+The local Potential Infinity (Φ₁) label is removed from the Centropic Traversal heading, and the local Dispersive Infinity (Φ₃) label is removed from the Entropic Collapse heading. Neither label is assigned to the common introduction. Motive Infinity (Φ₂) appears once in that introduction, with its earlier exclusive heading attachment to Localized Dissolution removed. The two declared Φ₁ / Φ₃ removals include their subscript numerals; the remaining numeral and phase-token sequences stay exact. Complete phase-token or numeral preservation is therefore not asserted.
+
+All three mode bodies remain exact. In this return-mode passage, Absolute Dispersion names the completed terminal state of resolved entropic motion, co-present with Aion; Motive Infinity carries the motion. Completion remains conditional. Centropic Traversal and Localized Dissolution receive no common Absolute Dispersion endpoint. Registered phase charts and function definitions, the complete §24 glossary, the §22.5 trailing signature and all 214 section-ending glyph lines in the five changed files remain exact. The three prose dashes removed with the former heading suffixes belong to those declared local edits; other hard breaks, blank lines, dividers, headings and trailing glyph signatures remain exact.
+
+### Preserved repairs and remaining questions
+
+All 278 previously published current range forms remain byte-exact: 98 basic, 102 register, 24 follow-on, 50 Distal and four naming ranges. This count preserves the current shaper wording of the two basic ranges already narrowly superseded by the Distal completion; it does not describe their earlier historical wording as unchanged. The final local packet passed 1,936 finite checks, with 217 independent phase checks. Complete forward and inverse reconstruction identifies exactly the five accepted bodies and the 30 nonoverlapping spans. Preambles, seals, quoted passages, fenced mathematics and internal dates remain exact.
+
+Remaining questions retain their actual scope: the MP04 terminal subject; Localized Dissolution route, mechanism, threshold relation, cessation condition, bypass and transfer law; MP05 and MP12 Zenon images; saturation-readiness distributions; and RSFE transmission, ontology, causal account, validation, reproducibility and evidence standing. Fixed χ = 1 does not establish cessation. All fifteen dimensional primary-locus holds, numerical weights and other mathematical / model, mechanism and activation holds remain. The earlier 27 ambiguity dispositions and six separate dependencies continue only for their unresolved content, read with the exact completions recorded here. The separate new three-span LD / MP03 proposal and the MP01 chapter 1 mythic proposal remain unapplied and outside this completion. This record establishes the bounded 30-span completion; whole-MP clearance remains open.
+
+These five-file changes join the existing MP collection (22149146) publication scope. The Symbol Key (23166053) association retains its earlier corrections, with no additional Symbol Key source change in this batch. These identifiers remain historical inspected family associations. The complete twelve-file MP family and both guides remain the eventual principal publication scope. Current-family metadata, exact attachments, rendering, glyph fallback, chart / mathematical presentation and settled deposited-byte agreement remain publication conditions. Tracking counterparts remain unverified wherever no exact attachment association exists. No Zenodo preparation, upload, description edit or new version occurs in this source completion. This additive entry preserves every preceding report byte and adds no historical date changes.
+
 ## Principal MP Fictional Names and Titles: Verified Source Completion
 
 The four approved naming occurrences are implemented in [d69f9631132525491bf26efc78d67a7037b437aa](https://github.com/KannonZenetism/zenetism-field-physics/commit/d69f9631132525491bf26efc78d67a7037b437aa). Independent complete remote-content comparison verifies all four accepted source bodies, totaling 326,875 bytes. The exact changes are:
