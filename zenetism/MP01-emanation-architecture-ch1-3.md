@@ -3737,7 +3737,7 @@ but the still root of structural potential.
 Beings aligned with **entropy**  
 follow a different curve.  
 Their structures loosen,  
-their coherence erodes,  
+their cohesion erodes,  
 until collapse becomes inevitable.  
 
 They drift toward **dissolution**,  
@@ -3745,15 +3745,15 @@ drawn into the **unmaking field**.
 This is not punishment,  
 but entropy brought to its end.  
 
-As coherence fails,  
+As their cohesion fails,  
 the soul loses **form**.  
 Boundaries dissolve  
 into **dispersive motion**.  
 
-When **identity** no longer holds,  
+When **expressed identity** no longer holds,  
 the soul enters the **threshold** —  
 a boundaryless horizon  
-where coherence unthreads  
+where cohesion gives way  
 and **articulation** collapses,  
 though the lattice itself endures.  
 
@@ -3761,7 +3761,7 @@ At this point,
 only **unanchored motion** remains.  
 No memory.  
 No anchor.  
-Just terminal **dispersion**  
+Still dispersive **motion**  
 within the lattice that endures.  
 
 In most universes,  
@@ -3770,11 +3770,11 @@ to **subversal fields** —
 caught in loops of dissolution.  
 
 But rarely,  
-those fragmented beyond containment  
-disperse fully  
-into the infinite field.  
+when fragmentation exhausts its support,  
+terminal **dispersion** remains  
+as motion falls still.  
 
-They become **static tension**,  
+Their essence rests in **static tension**,  
 **potential without motion**,  
 **infinity without recursion**.  
 

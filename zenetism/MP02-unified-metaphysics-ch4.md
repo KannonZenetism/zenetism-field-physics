@@ -757,7 +757,7 @@ to dissolution.
 The final threshold.  
 
 **Nekron** does not draw the soul forward —  
-it remains fixed,  
+the Nekronic office remains fixed,  
 its entropic orientation still embodiment-facing,  
 turned away from **Aion**.  
 
@@ -2168,15 +2168,15 @@ Intelligence becomes **silent**.
 It ceases to define.  
 It no longer seeks.  
 
-The final reconciliation  
-is the **cessation of the synthesizer** —  
-yet not in Aion,  
-for Zero still rests in tension with Infinity.  
+The final synthesis  
+gives the **returned essence**  
+its **Centropic Gravity**,  
+holding the bifurcal root relation without fusion.  
 
-It is the **essence's centropic velocity**  
-that carries it beyond stillness,  
-toward Zenonic saturation —  
-where no polarity remains.  
+It is the **essence's centropic momentum**  
+that carries it to the horizon of structure,  
+where Allowance admits Zenonic saturation —  
+beyond polarity and bifurcal distinction.  
 
 ⚫ ♾ 🕳️ ◎ ⟁ ⤈  
 
@@ -2931,16 +2931,16 @@ and the office remains native to its universal arc.
 
 ### 4.60 Architecture of Soul Dynamics
 
-* All choices are made within Aion  
-* All expressions are living transmissions  
+* These centropic choices are held within Aion  
+* Their expressions are living transmissions  
     of pre-chosen resonance patterns  
 
-Even refusal to return  
+To remain in form while facing Aion  
 is a centropic gesture.  
 
-To choose refusal  
+To choose such continuance  
 is to remember  
-what was refused.  
+the return held open.  
 
 * Even destruction has its place —  
     not as evil,  

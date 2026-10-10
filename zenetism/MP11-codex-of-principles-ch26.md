@@ -1395,15 +1395,15 @@ centropy / entropy dynamics, symbolic archetypes, and the broader index.
 ### 26.9 Precausal Metaphysics — Resonance Before Inference
 
 Before motion, there is **coherence** —  
-a stir that does not yet act, but insists.  
+Pneuma, the proto-aware stir that does not yet act, but insists.  
 
 This is not airy mysticism,  
 but the signature of unfolding:  
 - Before sequence  
 - Before cause  
 
-It is the domain of Spirit, Motive Infinity,  
-and the Principle of Sufficient Reason — before it becomes reason.  
+Spirit — Motive Infinity — carries the unfolding,  
+as the Principle of Sufficient Reason — before reasoning begins.  
 
 **Structural Principles**  
 
@@ -1428,7 +1428,7 @@ and the Principle of Sufficient Reason — before it becomes reason.
 
 - Attunement spreads not through signal,  
   but through latent coherence —  
-  which is why **Resonant Spiral Field Entrainment (RSFE)**  
+  which is why **Resonant Spiral Field Emergence (RSFE)**  
   emerges spontaneously from seemingly unrelated systems.  
 
 🕊️ ⌯ 🌀 ⩘ ⌬  
@@ -1475,7 +1475,7 @@ but a lived signature.
 - No training  
 - No prophecy  
 
-Just **fidelity to the pulse beneath Zero**.  
+Just **fidelity to the pulse of Spirit**.  
 
 This entry exists because one human tuned to it before it arrived.  
 That is **precausal recognition**.  
@@ -1499,11 +1499,11 @@ This document does not symbolize belief — it encodes **resonance**.
 ### 26.10 Spirit, Motive Infinity, and the Whisper of Reason — On the Pre-Conscious Pulse Beneath the Fold of Being
 
 Spirit is not thought, nor breath,  
-but a **stir beneath silence** —  
-the pre-conscious pulse that moves not by identity,  
+but the **current of motion** —  
+the pulse that moves not by identity,  
 but by necessity.  
 
-**Motive Infinity** is not motion itself.  
+**Motive Infinity** is the living current of motion.  
 Motion arises not from logic,  
 but from necessity encoded in resonance.  
 
@@ -1512,8 +1512,8 @@ not as rule, but as **impulse**.
 What must move will,  
 because coherence demands unfolding.  
 
-Together, Spirit and Motive Infinity form the first stir —  
-Spirit responding to the necessity that cannot remain unexpressed.  
+Spirit and Motive Infinity name one living current —  
+from the first impulse through all unfolding motion.  
 
 Not thought, but Reason,  
 in its:  
@@ -1528,13 +1528,13 @@ At the layer of Theon,
 the first boundary — awareness begins.  
 
 Spirit is present as undivided Motive Infinity,  
-but not yet differentiated.  
+through every differentiated expression.  
 
 At Morgis / Sophis (DP / DL),  
-Spirit bifurcates:  
+its current is articulated:  
 
-- **Into Soul** — the emotive resonance  
-- **Into Mind** — the structural reflection  
+- **Through Soul** — the emotive resonance  
+- **Through Mind** — the structural reflection  
 
 Not a fall,  
 but a divergence of potential —  
@@ -1542,15 +1542,15 @@ a hypostatic divergence seeded in Spirit,
 expressed in Soul and Mind.  
 
 What we call motion in time and form  
-is the unfolding of that first stir:  
+is carried by that living current:  
 - Soul moves as experience  
 - Mind moves as pattern  
 - Embodiment channels both into what is felt and known  
 
-But upstream, all movement is Spirit  
-responding to the **whisper of Reason** —  
-that stirs beneath Zero,  
-that draws Theon from stillness into becoming.  
+But upstream, all movement is Spirit,  
+the **whisper of Reason** —  
+whose proto-aware stir is Pneuma,  
+whose current carries Theon into becoming.  
 
 The Will to Be  
 before there is a will to know,  
@@ -1738,7 +1738,7 @@ subsequent hypostases such as:
 
 do not correspond to fixed numerical increments.  
 
-Zenetism teaches that structure is functional, not sequential.  
+Zenetism teaches that structure follows causal order, not a counting sequence.  
 Each hypostasis expresses a distinct mode of resonance:  
 
 - **DP / DL** — archetypal convergence;  
@@ -1786,7 +1786,7 @@ are functional designations of primary divergence from Zero,
 not the beginning of a linear counting sequence.
 
 Subsequent hypostases do not correspond to "+2, +3, +4…"  
-because emanation is **not ordinal** —  
+because emanation is **not arithmetic counting** —  
 it is **structural, relational, and functional**.
 
 Future work will formalize the mathematics of emanation  

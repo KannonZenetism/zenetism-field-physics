@@ -149,7 +149,7 @@ the effort to build a meaningful whole
 from discordant parts  
 can feel overwhelming.  
 
-**Absolute dispersion** —  
+An image of **Absolute Dispersion** —  
 not just burnout,  
 but metaphysical fragmentation,  
 where no path seems viable,  
@@ -157,8 +157,8 @@ and **synthesis collapses** into silence.
 
 This phase is not failure.  
 
-It is **Aion** —  
-the Zero-state  
+It evokes **Aion** —  
+in the living soul's stillness,  
 from which genuine reintegration may arise.  
 
 ∴ ☍ 🪼 ⟁ ⚫ ↺  

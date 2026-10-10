@@ -176,17 +176,17 @@ Some spiral back through **harmonic synthesis**.
 Others exhaust their relative expression through **collapse**.  
 None ever essentially leave.  
 
-This return expresses itself through **three modes**,  
-each expressing a **distinct motion of Infinity**:  
+These **three modes** remain distinct;  
+**Motive Infinity (Φ₂)** bears all their motion:  
 
-* **Centropic Traversal — Potential Infinity (Φ₁)**  
+* **Centropic Traversal**  
 Harmonized return through centropic layers,  
 attuning to Essence of Being,  
 returning in rare resonance to Aion,  
 or opening toward saturation into Zenon.  
 Convergence — stillness regained by harmonic consonance.  
 
-* **Entropic Collapse — Dispersive Infinity (Φ₃)**  
+* **Entropic Collapse**  
 When Nekronic collapse is complete,  
 relative expression is exhausted,  
 with motion resolved in Absolute Dispersion  
@@ -194,7 +194,7 @@ and distinct essence conserved within Zero,
 held in static dissonance.  
 A Khaonic arc — resolution through collapse.  
 
-* **Localized Dissolution — Motive Infinity (Φ₂)**  
+* **Localized Dissolution**  
 Neither integration nor collapse,  
 but stagnation.  
 Found in liminal Superficial states,  
