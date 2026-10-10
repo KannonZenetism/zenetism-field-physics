@@ -1,5 +1,20 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Principal MP Fictional Names and Titles: Verified Source Completion
+
+The four approved naming occurrences are implemented in [d69f9631132525491bf26efc78d67a7037b437aa](https://github.com/KannonZenetism/zenetism-field-physics/commit/d69f9631132525491bf26efc78d67a7037b437aa). Independent complete remote-content comparison verifies all four accepted source bodies, totaling 326,875 bytes. The exact changes are:
+
+- `MP02-unified-metaphysics-ch4.md`, line 1679: "Fragments of the Silent Weave" becomes "Fragments of the Silent Pattern"
+- `MP08-symbol-key-ch21.md`, line 1442: "Auretheon the Glyphweaver" becomes "Auretheon the Glyphtracer"
+- `metaphysics-symbol-key.md`, line 1411: "Auretheon the Glyphweaver" becomes "Auretheon the Glyphtracer"
+- `MP12-afterword-mp.md`, line 150: "Litanies of the Woven Path" becomes "Litanies of the Harmonic Path"
+
+These three descriptive fictional names / titles preserve the personal identities and existing name-plus-epithet citation form. Serah-Nai, Keeper of the Inner Loom, and Soriel, The Quiet Flame, retain their exact attributions. Auretheon's revised epithet remains descriptive; it adds no canonical term, office, glyph assignment or Glyphtrace Nullum identity. Apart from the four listed word replacements, the quotations, surrounding attribution text, fragment and archive designations, Markdown, hard breaks, headings and glyphs remain exact. The common Symbol Key body remains identical in both copies.
+
+This separate correction closes the four naming occurrences retained in the preceding 50-span completion. All 224 earlier current repair ranges and the 50 published spans remain byte-exact. The archived attribution in `SN01-the-architecture-of-cognition.md` and the historical title in `MP12-implementation-log.md` remain exact. The preceding completion and all earlier report content retain their historical wording. Its 27 ambiguity dispositions, six separate dependencies and 30 unapplied candidate spans retain their recorded standing, together with the existing mathematical and dimensional holds.
+
+The pending MP collection (22149146) scope now includes these MP02 / MP08 / MP12 changes, and the Symbol Key (23166053) scope includes the matching attribution. Those identifiers remain historical inspected family associations. Current deposits and attachments await verification in line with the existing publication conditions. The complete twelve-file MP family and both guides remain the eventual principal publication scope; no Zenodo preparation, upload, description edit or new version occurs in this correction.
+
 ## Principal MP Distal Apprehension Review and Verified Source Completion
 
 **Standing:** The approved 50 physical spans across eleven MP files and the Symbol Key twin are implemented in [516753925d19ce96b666840f503b7e51301e1c43](https://github.com/KannonZenetism/zenetism-field-physics/commit/516753925d19ce96b666840f503b7e51301e1c43). Independent complete remote-content comparison verifies all twelve accepted bodies, totaling 821,913 bytes. This completion covers the precise source changes in the completed-span inventory; the remaining MP review, mathematical construction, dimensional placement and publication gates retain their separate standing. The Distal Apprehension definition and its twin already carry the required distinction and remain unchanged.
