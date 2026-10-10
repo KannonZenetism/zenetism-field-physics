@@ -1,5 +1,81 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Principal MP Follow-on Review — Verified Source Completion
+
+**Standing:** The approved 24 exact spans across MP01–MP04 are implemented in [7ff4a27ae8194ff7d806894ab3d21a92bf7e2f2d](https://github.com/KannonZenetism/zenetism-field-physics/commit/7ff4a27ae8194ff7d806894ab3d21a92bf7e2f2d) and verified by complete independent remote-content comparison. All four accepted file bodies, totaling 287,078 bytes, match the published source. The fourteen record IDs listed here are completed for this bounded implementation. Tracking publication integrity is documented by a separate readback receipt.
+
+**Baseline and scope:** The source commit is a single-parent child of `8b641c35cb28a641a036c9e4a71e1386f04b38f1`, with tree `d0b4537d80670ae951071a55bfcd36797921c14c`. Its complete tree retains 1,282 leaves: four changed existing source paths and 1,278 unchanged leaves, with paths, types and modes preserved. Both existing tracking records remain unchanged in that source commit. The accepted correction comprises the thirteen prepared records with 22 spans and MP01-029's two selected stanzas, for fourteen records and 24 spans. Source publication and the additive tracking publication are separate commits.
+
+**Current disposition:** MP01-002, MP01-008, MP01-009, MP01-016, MP01-017, MP01-024, MP01-026, MP01-027, MP01-028, MP01-029, MP02-013, MP02-014, MP03-010 and MP04-004 are implemented and source-verified within the exact scope recorded here. Their former exclusion and local-review dispositions remain preserved as historical findings. In particular, the earlier MP01-029 local-meaning hold is resolved by the implemented eight-line motion stanza and seven-line AMI clarification. Remaining work elsewhere in the series retains its own review standing.
+
+### Completed Spans
+
+The locators name the unchanged line coordinates in the baseline and source commit. MP01 means `MP01-emanation-architecture-ch1-3.md`; MP02 means `MP02-unified-metaphysics-ch4.md`; MP03 means `MP03-ethics-and-soul-ch5-6.5.md`; MP04 means `MP04-intelligence-and-ecology-ch7-8.md`. The table gives scope summaries rather than quotations; the linked source commit preserves the exact implemented wording.
+
+| Span | Record | File and Lines | Bounded Completion | Standing |
+|---|---|---|---|---|
+| 1 | MP01-002 | MP01:292–295 | Aion holds the conditions for structure, Structon underpins them, and Zenon remains trans-structural Allowance | Completed; source verified |
+| 2 | MP01-002 | MP01:297–298 | The following stanza retains Structure Unconfined with the corrected confinement distinction | Completed; source verified |
+| 3 | MP01-024 | MP01:316–319 | Khaon's Motive phase carries the capacity and enactment of every motion; the reacher image remains | Completed; source verified |
+| 4 | MP01-026 | MP01:413–416 | The preceding stanza assigns unfolding into motion to Khaon's Motive phase | Completed; source verified |
+| 5 | MP01-026 | MP01:441–445 | The Kaion chord names the two-Tree architecture | Completed; source verified |
+| 6 | MP01-008 | MP01:772 | The §1.10 heading names the Deep Soul and the Deep Mind | Completed; source verified |
+| 7 | MP01-008 | MP01:774–785 | Deep Soul / Deep Mind articulate native L₃ reflexivity, retaining sentient experience and inward habitation | Completed; source verified |
+| 8 | MP01-009 | MP01:899 | The §1.13 heading names personal expression of self | Completed; source verified |
+| 9 | MP01-009 | MP01:901–908 | L₂ personal selfhood gives an already aware self a localized voice | Completed; source verified |
+| 10 | MP01-016 | MP01:2434–2436 | Aion remains the unmoving root of emanation | Completed; source verified |
+| 11 | MP01-017 | MP01:2444–2449 | Aion names the root of emanation while cradle, latent resonance and breath remain | Completed; source verified |
+| 12 | MP01-027 | MP01:2527–2532 | The flowering stanza assigns emanative motion to Khaon's Motive phase | Completed; source verified |
+| 13 | MP01-027 | MP01:2534–2538 | The following unfolding and differentiation stanza retains the same phase scope | Completed; source verified |
+| 14 | MP01-028 | MP01:2540–2543 | The Motive phase carries potential into motion; the complete breath image remains | Completed; source verified |
+| 15 | MP01-029 | MP01:2545–2552 | Centropic radiance and entropic fragmentation remain distinct; complexity may unfold in coherence, and intrinsic distinction is not fragmentation | Completed; source verified |
+| 16 | MP01-029 | MP01:2554–2560 | The AMI analogy retains bifurcally distinct Aion and Khaon at L₀, Aionic stillness and universal Motive initiation and sustainment | Completed; source verified |
+| 17 | MP02-013 | MP02:107–109 | The statement spanning both arcs names each being's proper Aionic or Khaonic root | Completed; source verified |
+| 18 | MP02-014 | MP02:1248–1249 | Universal emanation retains proper root relations; the later qualified return and saturation remain exact | Completed; source verified |
+| 19 | MP03-010 | MP03:1213–1216 | Completed Aionic return is distinguished from final synthesis, Centropic Gravity and Allowance-conditional saturation | Completed; source verified |
+| 20 | MP03-010 | MP03:1342 | The comparison names Aionic stillness and released relative form | Completed; source verified |
+| 21 | MP03-010 | MP03:1344 | The comparison distinguishes Aionic return from preparation and admission to saturation | Completed; source verified |
+| 22 | MP03-010 | MP03:1346 | The limitation concerns subtraction and final synthesis, preserving centropic apophatic orientation | Completed; source verified |
+| 23 | MP03-010 | MP03:1366–1367 | The closing stanza names preparation beyond return rather than exclusive completion by synthesis | Completed; source verified |
+| 24 | MP04-004 | MP04:818–819 | Ecological Soul language remains; each being retains its distinct root relation | Completed; source verified |
+
+The file totals are sixteen spans in MP01, two in MP02, five in MP03 and one in MP04. The §1.10 and §1.13 heading companions belong to the 24-span count; they are not additional applications.
+
+### Preserved Distinctions and Direct Dependencies
+
+Aion remains still and holds potential; Structon names Structure Itself; Zenon remains trans-structural Allowance. The completed root corrections preserve Aion's plenary holding while distinguishing every being's proper Aionic or Khaonic root relation. The ecological Soul statement retains its natural-world context and existing ethical scope.
+
+The paired awareness passages distinguish the native reflexive articulation of Deep Soul / Deep Mind at L₃ from personal expression at L₂. Soul / Mind begins at L₄ / IL₄. The new L₃ wording names individuation and reflexivity rather than the onset of Soul / Mind. Both dependent headings follow the corrected referents; their depth, numbering and positions remain. The subsequent personality, desire and self-expression passage and both complete trailing glyph sequences remain exact.
+
+Khaon remains one Infinity across its Latent, Motive and Dispersive phases. Motion belongs to its Motive phase, encompassing initiation and sustained traversal, including emanation, centropic return and entropic collapse. MP01-029 distinguishes centropic radiance from entropic fragmentation. Complexity may unfold in coherence; intrinsic distinction is not fragmentation. The following stanza explicitly frames AMI as an analogy: Aion and Khaon share L₀ while remaining bifurcally distinct; Aion holds inward readiness, and Khaon's Motive phase initiates and sustains all motion. The exact replacement settles these local subjects while broader intelligence-identity passages retain their separate review scope.
+
+MP03-010 preserves genuine apophatic completion at Aion and distinguishes final synthesis beyond return. Final synthesis gives the returned essence Centropic Gravity; Allowance admits saturation. The four-line opening, three comparison rows and two-line closing are completed together. The full §5.9 three-path account remains byte-exact. The retained nonexclusive synthetic-return statement and warnings about incomplete practice retain their contextual function.
+
+### Preservation and Repository Heading Check
+
+The 24-span candidate reconstructs the four baseline bodies exactly in reverse. Every byte outside the declared spans remains exact. All 102 previous register applications and all 98 basic applications, including the eighteen basic Symbol Key companions, retain their exact mapped after-ranges and completed standing. MP05–MP12, both principal guides and the Symbol Key companion remain byte-identical. Shared MP08 / Symbol Key bodies remain exact.
+
+Line counts, hard breaks, stanza boundaries, blank-line positions, divider positions, table structure, preambles, seals, mathematical expressions and structural glyph / operator sequences are preserved. The AMI stanza makes the established L₀ label explicit with Unicode subscript zero. The seven-line AMI clarification preserves the accepted eight-line motion stanza; relative to the original 22-span candidate, the two stanzas contain thirteen changed content lines. Their eight-line and seven-line shapes remain.
+
+The completed repository heading check covered all 757 text-capable files, including all 706 Markdown files, through complete hash-verified bodies at `c16474e8c4c1e27f68f45cb36ffd9f759df7c831`. It found no active caller of either changed heading or its old anchor. The subsequent baseline contains only the two additive historical-report changes; complete checks of those two bodies preserve the no-active-caller result. The approved source correction changes the two heading titles together; every other heading remains exact. External callers and non-text image content remain outside this repository text check.
+
+The current complete terminology, conceptual and prose references, full D01–D22 determination blocks and both mathematical / LaTeX references retain their distinct functions. New explanatory tracking prose follows current coined terms and casing, straight quotation marks, spaced prose separators and Unicode indices. Exact source evidence retains its original bytes. Historical reports remain intact, with no new internal editorial dates or passage-by-passage decision attribution.
+
+### Remaining Review and Held Questions
+
+- The linked MP01-021–023 terminal sequence, MP02-005's §4.9 antecedent, MP04-002's traveler and MP06's unspecified collapse bearer remain outside this implementation. Further local clarification is distinguished from a new doctrinal decision; harmful expression or damaged coherence does not establish an inverse essence
+- The Localized Dissolution / three-ending phase mapping and the selected MP05, MP07 and MP12 terminal or experiential imagery remain for bounded contextual review. Living-practitioner imagery retains its own register; completed IL₅ retains the terminal boundary
+- Broader PI / PB / portal passages, Spirit / Pneuma relations, numerical and ordinal exposition, and MP11's remaining phase, dimensional and figure-mapping questions retain their actual local review or held status. The completed MP01-029 AMI clarification is excluded from this residual list
+- All fifteen dimensional primary-locus holds and the existing mathematical / model, mechanism and activation holds remain. Current D18 naming determinations and completed naming implementations retain their own settled standing; a former blanket naming hold is not reinstated
+
+### Publication Impact and Historical Preservation
+
+This four-file source correction joins the existing MP collection (22149146) queue. That identifier records an inspected historical publication association; current-family metadata and actual attachments await their own verification. The earlier Symbol Key (23166053) association remains in the existing queue for its earlier corrections, while this 24-span source commit changes MP01–MP04 only. The eventual principal publication scope remains the complete twelve-file MP family and both guides, with overlapping corrections combined after the remaining selected MP and direct SP / LM work settles.
+
+Current publication counterparts for the two tracking records remain unverified wherever no exact attachment association is established. Rendering, glyph fallback, table and mathematics review, current-family attachment inspection and settled deposited-byte agreement remain publication gates. No Zenodo preparation, package, draft, upload, description edit or new version occurs in this implementation.
+
+The complete preceding 5,809,979-byte body of this report is recovered byte-for-byte by removing this one additive insertion. Its previous 102-register and 98-basic completion records, historical findings, receipts, exclusions and holds remain unchanged. This entry records the present bounded completion without declaring the whole MP series settled.
+
 ## Principal MP Register Review — Verified Source Repairs
 
 **Standing:** The exact 100 primary passage records and two Symbol Key companions are implemented in [c16474e8c4c1e27f68f45cb36ffd9f759df7c831](https://github.com/KannonZenetism/zenetism-field-physics/commit/c16474e8c4c1e27f68f45cb36ffd9f759df7c831) and verified by complete remote-content comparison. These 102 records are **completed** only for this bounded source implementation. Refreshed V3 acceptance is identified by acceptance-receipt SHA-256 `72ff0e925965f120ee7d6568397e62ac8a366ff6efd727784d5511f9e0c98776`; V2 acceptance supplies no V3 acceptance. Source-readback receipt SHA-256: `65d8a5274596c9fdc2f09d33ca405311c950c6534a20e8b59440a9d98a1beb30`. Tracking publication integrity is documented by a separate readback receipt. Remaining selected source work and all publication-family / rendering / deposit gates retain their separate standing.
