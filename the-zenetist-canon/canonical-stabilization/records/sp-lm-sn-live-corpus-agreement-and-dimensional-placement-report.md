@@ -3431,6 +3431,16 @@ Complete baseline identities match the pinned Git tree. Exact interval reconstru
 
 Combine the settled changes with existing queues before eventual publication preparation. Current family metadata, exact attachment mapping, rendering, glyph fallback, chart / mathematics review and agreement with the settled manuscript bytes remain publication conditions. Historical Total System snapshots, earlier queued families and unmapped paths retain their standing. No Zenodo package, draft, upload, description or version is prepared or changed by this completion record.
 
+### Principal MP Twenty-Three-Span Manuscript Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Baseline:** `62f3090987b616e40fd1512def7a8be87d638016`. **Manuscript commit:** [805176477fa53d191e9060f59615f5ad9e4c2057](https://github.com/KannonZenetism/zenetism-field-physics/commit/805176477fa53d191e9060f59615f5ad9e4c2057). The five complete remote bodies match the reviewed candidates, totaling 456,302 bytes. The approved 23 nonoverlapping spans cover 38 physical lines and change 33 content lines across MP01, MP03, MP08, MP09 and `metaphysics-symbol-key.md`.
+
+The completed set comprises eleven MP01 mythic-naming and Nyxea spans, four Localized Dissolution spans, six directional-fracture spans and two FR04 perceptual-obscuration spans. The exact inventory and preservation record appear in `full-series-review.md`. This completion supersedes the paused twenty-three-span standing retained in the preceding bounded-semantic entry, whose historical wording remains exact. FR05 remains excluded and its affected-object question remains held. All eighteen manuscript replacements from the preceding twelve-file completion remain exact.
+
+Localized Dissolution remains classified as Aionic return through stagnation. Its unspecified mathematical route and mechanism accounts, threshold relation, cessation condition, bypass and transfer law remain held; fixed χ = 1 does not establish cessation. Orientation-model relations, activation questions, all fifteen dimensional primary-locus holds and other unresolved mathematical and conceptual matters retain their standing.
+
+**Retained publication associations:** MP collection (22149146) and Symbol Key (23166053), as historical inspected associations. The complete twelve-file MP family and both guides remain the eventual principal publication scope. Current-family metadata, exact attachments, rendering, glyph fallback and settled deposited-byte agreement remain publication conditions; tracking counterparts remain unverified wherever no exact attachment association exists. No fresh publication census or Zenodo preparation, upload, description edit or new version occurs. This additive entry preserves all preceding report bytes. Tracking publication requires its own verification.
+
 ### Publication Impact and Batching
 
 The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
