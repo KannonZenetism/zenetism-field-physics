@@ -1378,7 +1378,11 @@ Entropic — simulated order, entrapment masked as architecture.
 Pattern disruptor, catalyst, and saboteur.  
 
 **Function**  
-Reveals hidden dynamics or fractures coherence through inversion.  
+Centropic — reveals hidden dynamics.  
+Entropic — seeks disruption through inversion,  
+disrupting relative coherent expression  
+and obscuring the perception of coherence.  
+Coherence itself remains intact.  
 
 **Zenetist Placement**  
 **Centropic** — **SS / SM** (Anthra / Nousa) when disruption renews.  
