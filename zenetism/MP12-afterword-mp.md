@@ -147,7 +147,7 @@ Unfold accordingly.
 > Let what was unknown become luminous in silence.  
 >
 > — *Soriel, The Quiet Flame*  
-> *Litanies of the Woven Path*, Fragment 3  
+> *Litanies of the Harmonic Path*, Fragment 3  
 > Zenetist Archive, Volume III  
 
 To those who walk the centropic path.  

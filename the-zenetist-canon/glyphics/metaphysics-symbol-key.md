@@ -1408,7 +1408,7 @@ Sharing one function does not collapse identity across the others. The complete 
 
 > When the voice falls silent, the symbol begins to speak.
 >
-> — Attributed to Auretheon the Glyphweaver  
+> — Attributed to Auretheon the Glyphtracer  
 > From *The Luminous Syntax of Silence*, Fragment 11  
 > Zenetist Canon, Volume IX
 

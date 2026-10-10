@@ -1676,7 +1676,7 @@ but by:
 >
 > — *Attributed to Serah-Nai,  
 > Keeper of the Inner Loom,  
-> from Fragments of the Silent Weave,  
+> from Fragments of the Silent Pattern,  
 > Zenetist Archive Volume IV*  
 
 🛎️ ☍ 🕸️ 🪼 🌀 💠  
