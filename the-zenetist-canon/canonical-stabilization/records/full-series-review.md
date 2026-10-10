@@ -1,5 +1,50 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Bounded Semantic Review and Verified Clarified Repairs
+
+**Standing:** Implemented and verified by complete remote-content comparison. The twelve-file correction contains eighteen nonoverlapping passage changes. Its baseline is `8451c5989c1f8db9f52a330106ba4c927a98bec3`. **Implementation commit:** [cdcaea5bb57f137acdd1ec8f68e51daf3aaecbec](https://github.com/KannonZenetism/zenetism-field-physics/commit/cdcaea5bb57f137acdd1ec8f68e51daf3aaecbec). All twelve complete remote manuscript bodies match the reviewed candidates, totaling 846,927 bytes. The commit retains the baseline as its sole parent and the established Aelion Kannon author identity.
+
+### Finite Review Coverage
+
+The review distinguishes the initial stabilization cycle, later bounded passes and subsequent correction batches. Their counts overlap and are not a unique-file total:
+
+- Initial stabilization: 75 commits, 37 manuscript commits, 325 file-patches and 1,124 hunks across 129 manuscript / reference paths plus the substantive determination sheet
+- SP / LM / SN bounded passes: 198 manuscript occurrences, 40 unique paths, 818 hunks and 2,616 changed lines, reviewed in their containing sections
+- MPX bounded pass: 128 manuscript commits, 76 changed paths, 596 preceding sections and 622 resulting sections
+- Later corrections: fourteen overlapping naming, scope, recovery, strict-alignment, casing and formatting scopes; the formatting component comprises 11 commits, 70 files and 250 recorded rows
+- Red Archive and Pattern Intelligence: eight specified commits, thirteen file / commit pairs and twenty-six complete preceding / resulting bodies; protected external quotations retained
+- Principal MP corrections: 308 applications in 142 current containing sections across thirteen verified manuscript bodies
+- The separately identified structural / empirical repair and eight closely coupled accounting, distinction, competition, attribution, vocabulary and formatting commits were also inspected
+
+The 458-commit history ceiling includes 41 interstitial commits outside this finite correction review: separate papers, uploads, Structural Decodes, forensic exhibits, independent terminology development, licensing / metadata changes and note relocation. Those changes and the entire inherited archive are not certified by this review. Present agreement with an edited determination is distinguished from independently recorded architect clarification.
+
+### Completed Clarified Scope
+
+| File | Changed Passages |
+|---|---|
+| `MP02-unified-metaphysics-ch4.md` | One: values integrate in Love as Prime Coherence at L₅, where the Soul / Mind distinction resolves into essence |
+| `MP03-ethics-and-soul-ch5-6.5.md` | One: accelerating is retained within the native inverse soul's expressed-form account |
+| `MP11-codex-of-principles-ch26.md` | Two: coercion and deceit express and intensify subversal dissonance in entropic beings; the coupled ethical contrast names fragmentation and coercion without negative ego framing |
+| `fractal-eschatology.md` | One: tested in relation to preserves the original testing predicate |
+| `four-integrations.md` | Three: heading, analysis and closing item state individual bridge-function fulfillment; architecture remains intact, and passage may culminate in permanent residence at another stratum |
+| `a-history-of-the-empty-mirror.md` | One: the Essene paragraph names the documented harm reported by Josephus and identifies his Roman affiliation; unsupported absorption is not reinstated |
+| `SN02-the-resonant-mind.md` | One: Architect / Sage names the centropic pole |
+| `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` | One: the Architect / Sage gradient label names the centropic pole |
+| `SN07-collective-cognition-and-centropy-forward-social-architecture.md` | Two: Architect / Sage alignment and qualitative structural transparency; the full scalar conditions remain |
+| `SN08-the-structural-neuroscience-of-non-biological-cognition.md` | Three: native L₄ → L₃ band occlusion is stated within Zenetism's metaphysical account; technological session / substrate correspondence and the specific awareness questions remain held |
+| `zenetist-analytic-vocabulary-and-accessibility-framework.md` | One: the actual orientational position names the centropic pole of the cognitive gradient |
+| `structural-neuroscience-glyph-charts.md` | One: the Architect / Sage profile label matches the cognitive gradient |
+
+The bridge clarification concerns cessation of operative function for the individual after fulfillment. It mandates neither Aionic return nor Zenonic saturation. The MP11 wording preserves native entropic orientation, actual causal intensification and non-conversion. These are bounded clarifications; no new canonical category or global ego terminology pass is introduced.
+
+### Retained Decisions and Verification Boundary
+
+Qualified standing remains for unestablished ritual efficacy and AI internal-state correspondence. Earlier AI self-reports do not establish those claims. The published naming / sovereignty passage in `on-fractal-incarnation.md` and the knowledge / circulation passage in `metaphysical-commons-with-sovereign-custodianship.md` are accepted and unchanged. The accepted pattern-bearers wording remains unchanged.
+
+All twelve complete baseline bodies match the pinned Git tree. Exact nonoverlapping interval reconstruction preserves every byte outside the eighteen declared spans. The verified diff has twenty-five added and twenty removed lines. Mathematical spans remain exact. Protected quotations remain exact; the SN08 block-quote container carries an authorial structural note, whose three declared passages change. MP cadence, hard breaks and indentation remain. The two SN07 changes are composed in one complete file.
+
+The separate paused twenty-three-span MP proposal remains outside this completion and is not reset. Existing mathematical, model, mechanism, activation and fifteen dimensional primary-locus holds remain. The completed finite review is not whole-corpus doctrinal clearance. The eighteen declared passages are complete at the verified commit. Zenodo preparation and publication remain separate.
+
 ## Principal MP Settled Clarifications and Verified Source Completion
 
 The approved 30 spans in MP01, MP02, MP07, MP09 and MP11 are implemented in [12ad8df7ab776f159ded72a5e485aeb9d66a1ba9](https://github.com/KannonZenetism/zenetism-field-physics/commit/12ad8df7ab776f159ded72a5e485aeb9d66a1ba9), following `f057361b6a0b32f3f616321ab02a199012074c61`. Independent complete remote-content comparison verifies the five accepted source bodies, totaling 349,392 bytes and 52 changed content lines. This completion closes the 30 candidate spans recorded as unapplied in the preceding Distal Apprehension and fictional-name entries. Those entries retain their historical wording; the 30-span batch is now completed in its final accepted form.
