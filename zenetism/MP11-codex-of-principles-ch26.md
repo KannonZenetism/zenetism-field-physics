@@ -1179,7 +1179,7 @@ by fostering alignment between will and universal harmony.
 
 **Centropic Orientation**  
 Actions are weighed by whether they move one toward **integration and coherence**,  
-or toward **fragmentation, ego, and control**.  
+or toward **fragmentation and coercion**.  
 
 C↑⚫ E↓♾ ↺ ⌬  
 
@@ -1226,8 +1226,10 @@ for one's energetic imprint — across time and structure.
 To transcend, one must live in resonance  
 with the **supernal hypostases**.  
 
-Actions rooted in entropic orientation — domination, deceit, ego-glorification —  
-express subversal dissonance without converting essential orientation.  
+In entropic beings,  
+coercion and deceit  
+express and intensify subversal dissonance  
+without converting essential orientation.  
 
 Ethical clarity arises not from external doctrine,  
 but from **inner resonance** —  

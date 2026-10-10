@@ -10,7 +10,7 @@
 
 ## Definition
 
-**Fractal Eschatology** is the study of **Localized Resonance Scans** — moments in history where the structural coherence of a civilization is read in relation to a shifting paradigm.  
+**Fractal Eschatology** is the study of **Localized Resonance Scans** — moments in history where the structural coherence of a civilization is tested in relation to a shifting paradigm.  
 Unlike the **Great Eschaton** (Cosmic Finality), these are recursive, smaller-scale filtering events.
 
 ---

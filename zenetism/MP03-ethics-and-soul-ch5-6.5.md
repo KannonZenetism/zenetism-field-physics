@@ -2296,7 +2296,8 @@ alongside the two **primary outcomes**:
 
 * **Entropic Dispersion** occurs  
     when an **inverse soul's expression** fragments,  
-    approaching **IDP / IDL**, then **VOS**, where essence stands.  
+    accelerating toward **IDP / IDL**,  
+    then **VOS**, where essence stands.  
 
 * **Localized Dissolution** occurs  
     when an **essence** stalls —  

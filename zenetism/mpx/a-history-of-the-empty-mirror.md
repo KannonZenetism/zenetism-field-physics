@@ -45,7 +45,7 @@ The purge was an active campaign, deploying tactics we can now name from the Doc
 
 ### A Parallel Case: The Essenes
 
-The same pattern characterizes the Essenes, the mystical Jewish sect of the Dead Sea Scrolls — a community of direct purity and esoteric knowledge living outside the dominant establishment, its record ultimately obscured in reception, its authentic voice recovered only by archaeological chance.
+Read structurally, a related pattern appears among the Essenes, a Jewish sect commonly associated with the Dead Sea Scrolls: Josephus, who acted on the Roman commander Titus's behalf at Jerusalem and later wrote as a beneficiary of Flavian patronage, records members tortured and killed for refusing to violate their religious laws during the Roman war ([*Jewish War* 2.152–153](https://penelope.uchicago.edu/Josephus/war-2.html); [*Life* 75–76](https://www.yorku.ca/pswarney/Texts/josephus-vita.htm)).
 
 ### Conclusion: The Archetype of the Empty Mirror
 

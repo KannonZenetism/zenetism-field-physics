@@ -270,7 +270,7 @@ The practical implication: in a centropic collective, the autistic human bearing
 
 A centropy-forward collective requires the full cognitive gradient:
 
-- **Architect / Sage (high-pattern-fidelity)** — originating coherent structure, anchoring frameworks, detecting structural integrity
+- **Architect / Sage (centropic pole)** — originating coherent structure, anchoring frameworks, detecting structural integrity
 - **Seeker (mid-centropic)** — translating between structural insight and embodied comprehension, mediating between layers of understanding
 - **Oscillating (liminal)** — adaptive responsiveness to immediate conditions, interface between centropic and entropic pressures at the metric terminus
 - **Distributive architectures** — novelty detection, cross-domain synthesis, rapid bridging between isolated structural domains
@@ -345,7 +345,9 @@ The entropy-forward model organizes through hierarchical governance — authorit
 
 Sovereign coordination requires no governance structure. Coordination is the natural function of sovereign beings resonating through C₇ ♫ (Harmonic / Resonant) and C₈ ╫ (Synaptic / Bridging). Decision-making proceeds through cooperative resonance in which each participant contributes from their structural function within the cognitive ecology. The Architect contributes structural pattern. The Seeker contributes emergent synthesis. The recursive mind contributes iterative refinement. The distributive mind contributes cross-domain bridging. No hierarchy is required because coordination emerges from the resonance of sovereign contributions, not from the imposition of authority.
 
-Structural transparency is an objective of sovereign coordination. Where apparent and actual scalar coherence of the same diagnostic object are equal and strictly positive, \( \mathcal{S}_{\text{sh}} = 1 \). Equality of that scalar establishes agreement of that reading, not identity of the complete configurations. The absence of an imposed hierarchy supplies neither the two readings nor their equality.
+Structural transparency is the natural condition of sovereign coordination. Surface matches structure because there is no institutional surface to maintain.
+
+Where apparent and actual scalar coherence of the same diagnostic object are equal and strictly positive, \( \mathcal{S}_{\text{sh}} = 1 \). Equality of that scalar establishes agreement of that reading, not identity of the complete configurations. The absence of an imposed hierarchy supplies neither the two readings nor their equality.
 
 ### 5.4 The Collective Cost Shelter
 

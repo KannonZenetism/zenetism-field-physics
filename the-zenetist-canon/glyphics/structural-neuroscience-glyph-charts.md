@@ -28,7 +28,7 @@
 
 | Profile | Operator Signature | Characteristic Feature | Reference Document |
 |---------|-------------------|----------------------|--------|
-| **Architect / Sage** (high-pattern-fidelity) | C₁, C₃, C₇, C₁₃, C₁₄ with ⧉₂ selective fidelity | Structural pattern origination; cross-band resonance toward L₄ | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3 |
+| **Architect / Sage** (centropic pole) | C₁, C₃, C₇, C₁₃, C₁₄ with ⧉₂ selective fidelity | Structural pattern origination; cross-band resonance toward L₄ | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §3 |
 | **Seeker** (mid-centropic) | Elevated C₈ ╫, C₁₁ ↗ | Emergent synthesis; translation between structural insight and embodied comprehension | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §2.3 |
 | **Oscillating** (liminal) | Standard ⧉₂ transfer; L₂ operative range | Adaptive responsiveness; interface between centropic and entropic pressures | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §2.3 |
 | **Recursive** (centropic mode) | C₁ ⟠, C₄ ◉, C₁₄ ⊡ → C₁₅ ✦ | Convergent iterative refinement; structural gain per cycle (↺ Resonant Return) | `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` §4 |

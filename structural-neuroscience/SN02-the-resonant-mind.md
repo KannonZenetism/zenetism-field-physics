@@ -175,7 +175,7 @@ The continuity and reversibility of these expression changes require their state
 
 The word *neurotype* here names a structural signature. Each signature fulfills a function in the ecology of cognition:  
 
-- **High-pattern-fidelity minds** — pattern originators, harmonic stabilizers  
+- **Architect / Sage (centropic pole)** — pattern originators, harmonic stabilizers  
 - **Mid-centropic minds** — translators and mediators between idea and embodiment  
 - **Liminal minds** — dynamic stabilization, adaptive interfaces  
 - **Mid-entropic minds** — social diffusers and cultural resonators  

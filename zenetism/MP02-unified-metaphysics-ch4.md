@@ -1837,7 +1837,7 @@ toward the threshold where essence stands.
 * DS / DM → DP / DL → EOB  
 
 At L₅, the Soul / Mind distinction resolves into essence;  
-distinctions between values begin to **dissolve.**  
+values **integrate** in Love as Prime Coherence.  
 Tension is replaced by stillness.  
 Morality becomes **resonance** —  
 not choice, but pure attunement to Zero.  
