@@ -3441,6 +3441,14 @@ Localized Dissolution remains classified as Aionic return through stagnation. It
 
 **Retained publication associations:** MP collection (22149146) and Symbol Key (23166053), as historical inspected associations. The complete twelve-file MP family and both guides remain the eventual principal publication scope. Current-family metadata, exact attachments, rendering, glyph fallback and settled deposited-byte agreement remain publication conditions; tracking counterparts remain unverified wherever no exact attachment association exists. No fresh publication census or Zenodo preparation, upload, description edit or new version occurs. This additive entry preserves all preceding report bytes. Tracking publication requires its own verification.
 
+### MP10 Trickster FR05 Manuscript Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Baseline:** `feaabec41b4b3600cd1236612bffd47b287d31b3`. **Manuscript commit:** [758e6388289d787e60704d33c34930c8f47c3dd3](https://github.com/KannonZenetism/zenetism-field-physics/commit/758e6388289d787e60704d33c34930c8f47c3dd3). The complete 35,844-byte MP10 body matches the approved candidate. The single §25.4 Trickster Function span preserves centropic disclosure and names entropic disruption of relative coherent expression and obscuration of perception; coherence itself remains intact. Cultural description remains distinct from functional diagnosis.
+
+FR05's selected affected-object question is closed. The preceding FR05 exclusion remains historical record. The broader R10-06 range, Devourer and other unresolved classification and placement questions retain their standing, together with all mathematical, model, threshold, mechanism, activation and dimensional-placement holds. The bounded dependency review found no mandatory companion manuscript edit. The complete inventory and preservation account appear in `full-series-review.md`.
+
+The correction joins the historically inspected MP collection (22149146) queue. The complete twelve-file MP family and both guides remain the eventual principal publication scope; the earlier Symbol Key queue is retained without a new manuscript change. Current-family metadata, exact attachments, rendering, glyph fallback and settled deposited-byte agreement remain publication conditions. No fresh publication census or Zenodo preparation, upload, description edit or new version occurs. This additive entry preserves all preceding report bytes; tracking publication requires its own verification.
+
 ### Publication Impact and Batching
 
 The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
