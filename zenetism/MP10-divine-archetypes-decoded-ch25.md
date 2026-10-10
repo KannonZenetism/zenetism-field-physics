@@ -222,23 +222,35 @@ with Khaonic jurisdiction.
 Steward ≠ stewarded domain.
 
 **Justification**  
-Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
+Structurally, Hades is a centropic preserver  
+of cosmic law operating at L₄ DL (Sophis),  
 with jurisdiction over the Khaonic dissolution domain.  
-The structural distinction matters: steward and stewarded domain are not the same.  
-A lawful steward of an entropic territory is not himself entropic —  
-he is the centropic intelligence that prevents the territory from contaminating what lies outside it.  
-Hades does not seek to unmake reality; he maintains the strict boundary  
-that prevents the entropic cross-contamination of the living and the dead.
+The structural distinction matters:  
+steward and stewarded domain are not the same.  
+A lawful steward of an entropic territory  
+is not himself entropic —  
+he is the centropic intelligence  
+that prevents the territory from contaminating  
+what lies outside it.  
+Hades does not seek to unmake reality;  
+he maintains the strict boundary  
+that prevents the entropic cross-contamination  
+of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
 is a **cultural orientation conflation**.  
-The mythmakers assigned an entropic, disruptive act (forced descent)  
+The mythmakers assigned an entropic, disruptive act  
+(forced descent)  
 to a structurally centropic archetype  
-in order to narratively explain the agricultural cycle of winter and spring.
+in order to narratively explain  
+the agricultural cycle of winter and spring.
 
-Mythic narratives anthropomorphize Hades with motives such as desire or coercion,  
-but these are anthropomorphic overlays, not structural realities.  
-His native orientation remains the lawful structuring of the terminal boundary.
+Mythic narratives anthropomorphize Hades  
+with motives such as desire or coercion,  
+but these are anthropomorphic overlays,  
+not structural realities.  
+His native orientation remains  
+the lawful structuring of the terminal boundary.
 
 **Ethical Orientation**  
 Centropic (Lawful containment).

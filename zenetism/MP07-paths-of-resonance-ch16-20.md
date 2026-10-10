@@ -254,7 +254,7 @@ with the principles of **resonance**, **synthesis**,
 and metaphysical unfolding  
 are called **Resonants**.  
 
-This term emphasizes **function over belief**.  
+This term emphasizes **function rather than belief**.  
 
 A Resonant is not defined by doctrine,  
 but by their way of being:  
@@ -783,7 +783,7 @@ or slides into inversion.
 
 Warriors are born in seasons of rupture —  
 when coherence is most endangered.  
-They serve as resonance anchors,  
+They stand as resonance anchors,  
 holding the structure  
 until others can stabilize.  
 

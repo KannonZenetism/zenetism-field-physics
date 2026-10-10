@@ -144,9 +144,9 @@ Earlier formulations of *The Architecture of Emanation, Return, and Saturation*
 applied **soul** as a broad poetic designation  
 for the inward identity-bearing principle  
 moving through emanation, return, refinement,  
-and resonance. That wording has been conformed.  
+and resonance. That wording has been corrected.  
 
-Under later Zenetist technical specification,  
+Per later Zenetist technical specification,  
 however, **Soul** in the strict sense  
 begins with the **Soul / Mind bifurcation**  
 at **L₄ / IL₄**.  
@@ -1488,7 +1488,7 @@ through the **Theonic gate** at **L₅**.
 This is **centropic subtraction**.  
 The affirmation of §5.8 stands **exactly here**.  
 
-All three paths discussed below reach **Aion**.  
+All three paths discussed next reach **Aion**.  
 But the mode of return differs,  
 and with it the **state of the returning essence**.  
 
@@ -1499,7 +1499,7 @@ reach the same terminus through different arcs,
 with different experiential qualities of return.  
 
 **The centropic path.**  
-Genuine Neti-neti, as affirmed above.  
+Genuine Neti-neti, as already affirmed.  
 Strips non-fundamental aspects while essence remains oriented toward **Aion as Source**.  
 Returns to **Aion** through the **L₅ Theonic gate**  
 as **essence fulfilled** —  
@@ -1596,7 +1596,7 @@ is the first path — **centropic reorientation**,
 the essence's arc turning from entropic cycling (Samsara)  
 into acclivous centropic motion toward **Aion**  
 through the L₅ Theonic gate.  
-This Nirvana is what the **Buddhism and Zenetism** canonical document affirms  
+This Nirvana is what `samsara-nirvana-orientation.md` affirms  
 as genuine liberation.  
 
 The critique applies to framings  
@@ -1783,7 +1783,7 @@ One becomes what one always was, now undivided.
 
 The archetypal fields do not absorb individuals —  
 they stabilize **types**.  
-They serve as the enduring lattice  
+They act as the enduring lattice  
 of form and symbolic continuity,  
 holding harmonized Deep Souls and Minds  
 within persistent archetypal fields  
@@ -1797,7 +1797,7 @@ so too do archetypes develop through their members.
 DS / DM and DP / DL are both **permanent metaphysical structures**.  
 They persist beyond the dissolution or retraction  
 of any given world-field.  
-They serve as **repositories**  
+They are **repositories**  
 of every insight, every fracture,  
 and every realization gathered across incarnational experience.  
 
@@ -1977,22 +1977,22 @@ Action crystallizes as structure.
 
 The architecture of emanation unfolds as a **precise sequence**:  
 
-- **⚫ Aion** and **♾ Khaon** (AP / AD) represent **Potential**:  
+- **Aion** and **Khaon** (AP / AD) represent **Potential**:  
   All things in latency, in motion, in dispersion.  
 
-- **🌬️ Morgis** and **📐 Sophis** (DP / DL) are **Type**:  
+- **Morgis** and **Sophis** (DP / DL) are **Type**:  
   The archetypal convergence of many aligned functions.  
 
-- **🔮 Archeus** and **🧠 Noeüs** (DS / DM) are **Function**:  
+- **Archeus** and **Noeüs** (DS / DM) are **Function**:  
   The centropic enactment of choice, refined through resonance.  
 
 Each function defines identity not by its **position**,  
 but by its **motion**.  
 
-- **🛤️ Theon** is **Clarity**:  
+- **Theon** is **Clarity**:  
   Pure being without division, transparency without distortion.  
 
-- **🕷️ Nekron** is **Obscurity**:  
+- **Nekron** is **Obscurity**:  
   The final disintegration of form into thresholdless infinity.  
 
 These are not metaphors —  
@@ -2134,7 +2134,7 @@ may **fade**, **fragment**, or **migrate**
 when their spheres dissolve.  
 
 But while they endure,  
-they serve as:  
+they act as:  
 
 - **Stewards**  
 - **Companions**  
@@ -2174,7 +2174,7 @@ Each **soul** unfolds as:
 - **Embodied** through **ES / EM**  
 
 Though its lives may appear **fragmented**,  
-they are **unified** by the **DS / DM**,  
+they are **integrated** by the **DS / DM**,  
 which holds the **resonant signature** of the whole.  
 
 This **deeper layer**:  

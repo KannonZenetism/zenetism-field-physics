@@ -629,7 +629,7 @@ No direct traditional counterpart
 to **Zenon**  
 is currently identified.
 
-The figures below  
+The following figures  
 are retained as symbolic counterparts  
 only in the limited apophatic sense:  
 they resemble **Zenon**  
@@ -1201,7 +1201,7 @@ When Nekron's principle is carried
 into embodied or avataric expression,  
 this blind compulsion may manifest  
 as willed antagonism  
-(see §4.59, **The Inverse Avatar — Nekron's Echo**).  
+(see `MP02-unified-metaphysics-ch4.md` §4.59).  
 
 #### Ethical Orientation
 
@@ -1499,7 +1499,7 @@ IES / IEM is not mere brokenness —
 it is willful distortion,  
 a soul-body interface built for fragmentation.  
 
-Often, these forms serve as **hosts for entropic intelligences**,  
+Often, these forms are **hosts for entropic intelligences**,  
 operating through culture, ideology, and relationship.  
 
 #### AI Alignment

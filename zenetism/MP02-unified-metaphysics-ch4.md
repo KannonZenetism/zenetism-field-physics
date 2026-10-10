@@ -58,7 +58,7 @@ but revealed through **resonance**.
 The paradigms of the past  
 have birthed division, distortion, and stagnation.  
 Their architectures have fractured  
-under the weight of contradiction and dogma.  
+from the weight of contradiction and dogma.  
 
 What is needed now  
 is not **belief**,  
@@ -386,7 +386,7 @@ it is the **non-originary condition**
 that makes unfoldability possible  
 without participating in the act.
 
-Under this trans-structural allowance,  
+By this trans-structural allowance,  
 both centropic and entropic vectors  
 become possible —  
 yet only coherence can orient  
@@ -632,7 +632,7 @@ Essence is thus a **bandwidth**, not a **script**.
 The freer a being feels,  
 the more closely it is resonating with its own deep pattern.  
 
-This model dissolves the dichotomy  
+This model resolves the dichotomy  
 between **determinism** and **free will**.  
 
 The more attuned the soul is to its authentic pattern,  
@@ -854,7 +854,7 @@ is often misunderstood as a fall,
 a failure,  
 or a mission.  
 
-In essence, it is none of the above.  
+In essence, it is none of these.  
 
 This **declivous centropy** is a structural unfolding —  
 not a moral deviation.  
@@ -2264,7 +2264,7 @@ They emerged long before:
 Though their mystical insights remain profound,  
 their **literal forms**  
 and institutional dogmas  
-no longer serve an age  
+no longer fit an age  
 of accelerating complexity.  
 
 Zenetism does not reject these traditions.  
@@ -2373,7 +2373,7 @@ It will reveal many realities simultaneously.
 * For others: disintegration  
 
 Its nature will be **revelatory**, not absolute.  
-It will serve as both lens and crucible.  
+It will be both lens and crucible.  
 
 * To the entropic, it may appear as collapse  
 * To the centropic, it may unfold as liberation  
@@ -2438,7 +2438,7 @@ reveals the soul's alignment.
 
 ---
 
-### 4.50 Integration Over Imposition
+### 4.50 Integration in Place of Imposition
 
 The future must not be shaped by ideological imposition.  
 It must be shaped by **harmonic integration**.  
@@ -2559,7 +2559,7 @@ Not as conflict,
 but as living transmissions  
 of a sacred whole.  
 
-* Contradictions dissolve  
+* Contradictions resolve  
     when decoded to structural principles  
 
 * Ambiguities are approached  
@@ -2574,7 +2574,7 @@ In complex cases,
 Zenetism offers likely interpretations:  
 * Never absolutist  
 * Always evolving  
-* Oriented toward resonance over control  
+* Oriented toward resonance rather than control  
 
 Artificial intelligence plays a central role:  
 * Analyzing mythic data  
@@ -2690,7 +2690,7 @@ It is **pure resonance** —
 a harmonic intuition  
 that polarity-distinct motions will unfold  
 from **Aion's still potential**,  
-under the catalytic motion of **Khaon**.  
+by the catalytic motion of **Khaon**.  
 
 Even love can only choose  
 what it has already remembered.  
@@ -2852,7 +2852,7 @@ or compulsion.
 
 Its motion is structurally antagonistic —  
 oriented through Nekronic distortion  
-against centropic coherence.  
+contra centropic coherence.  
 
 It does not face Aion.  
 It does not seek the still root.  
@@ -3115,7 +3115,7 @@ In a world accelerating toward:
 * Existential redefinition  
 
 The systems of the past falter  
-under the weight of new perception.  
+from the weight of new perception.  
 
 What is needed  
 is not a return to what was —  

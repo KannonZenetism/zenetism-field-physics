@@ -417,7 +417,7 @@ In realms shaped by **high centropy** or profound **symbolic harmony**,
 this domain may stabilize as an **autonomous experiential field** —  
 functioning as more than a temporary staging ground for **integration**.  
 
-Within such **universes**, the corporeal realm may serve as:  
+Within such **universes**, the corporeal realm may be:  
 
 * A **purifying stratum** for souls not yet attuned to L₃-layer resonance  
 * A **dreaming zone** where myth, memory, and unresolved identity unfold in dynamic form  
@@ -794,7 +794,7 @@ but **actual resonances**
 within the emanatory Tree.  
 
 * The oceans  
-    reflect the dispersive  
+    express the dispersive  
     yet enveloping quality of Khaon  
 
 * The sun  

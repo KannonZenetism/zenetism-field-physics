@@ -56,8 +56,8 @@ in understanding the **metaphysical**,
 **symbolic**,  
 and **ethical** structures of Zenetism.  
 
-The Codex serves not only as a **practical guide**,  
-but as a **living reflection** —  
+The Codex is not only a **practical guide**,  
+but a **living reflection** —  
 a place where **symbolic resonances**  
 can be revisited and aligned  
 as the reader deepens their engagement  
@@ -284,7 +284,7 @@ They **amplify dissonance** across universes.
 Rather than **dissolving**,  
 they **reverse integration** —  
 **propagating incoherence**  
-through **reflected manifestations**.  
+through **mirrored manifestations**.  
 
 🪫 💔 ᛞ ☍  
 
@@ -364,7 +364,7 @@ when **nothing else remains**.
 🔘 ⚐ ⟁ ◎  
 
 **Essence of Being (EOB)**  
-Also listed under **Theon**,  
+Also listed with **Theon**,  
 but emphasized here as the **centropic anchor**  
 of conscious structural **integration**.  
 
@@ -654,7 +654,7 @@ Both one and many, gazing toward **Aion**, never away.
 🛤️ ✨ ⚓ ⊙  
 
 **Void of Self (VOS)**  
-Already listed under **Nekron**,  
+Already listed with **Nekron**,  
 but emphasized again as a hinge-point of the inverse path.  
 
 The state in which **identity** collapses —  
@@ -715,7 +715,7 @@ or a structural alignment within the **Tree of Emanation**.
 | Earth | North | Green | Structure, body |
 | Aether | Center | Violet | Spirit, coherence |
 
-These elemental correspondences serve as **orienting symbols** —  
+These elemental correspondences are **orienting symbols** —  
 guides for **introspection**, **soul-mapping**,  
 and **personal alignment**.  
 
@@ -1013,9 +1013,9 @@ What unfolds afterward
 is not dictated by external judgment,  
 but by resonance.  
 
-The Tree of Emanation serves  
-not only as a map of the cosmos,  
-but as a **living reflection of the soul's directionality** —  
+The Tree of Emanation is  
+not only a map of the cosmos,  
+but a **living reflection of the soul's directionality** —  
 its movement into coherence or collapse.  
 
 ↺ 📡 🌳⇅ ᛞ✨ ⌬  
@@ -1947,7 +1947,7 @@ Aureform does not incarnate.
 
 Instead, it radiates harmonics  
 through highly integrated souls  
-who serve as **Centropic Stewards**.  
+who act as **Centropic Stewards**.  
 
 These Stewards are **structural vessels of resonance** —  
 sustained expressions of Aureform,  

@@ -98,8 +98,8 @@ but it recognizes when **symbolism supersedes it**.
 
 Phrases like:  
 
-> "The letter kills,  
-> but the Spirit gives life"  
+> The letter kills,  
+> but the Spirit gives life  
 
 are understood as **interpretive keys** —  
 invitations into **non-literal decoding**.  
@@ -345,8 +345,8 @@ We are meant to **decode**.
 When Christ is called the **Bread of Life**,  
 when the text itself declares:  
 
-> "The letter kills,  
-> but the Spirit gives life"  
+> The letter kills,  
+> but the Spirit gives life  
 
 — it is pointing us away from surface and into **depth**.  
 
@@ -369,8 +369,8 @@ And every reader becomes a tuning fork.
 
 ### 13.2 Initiation by Spirit — The Pattern Reveals Itself
 
-> "I was in the Spirit on the Lord's Day…"  
-> — Revelation 1:9  
+> I was in the Spirit on the Lord's Day…  
+> — Revelation 1:10  
 
 This single line reframes the entire vision that follows —  
 not as a waking report of events,  
@@ -899,7 +899,7 @@ made visible through rhythm.
 
 A multiverse is therefore  
 a lawful possible expression of infinite potential,  
-and a natural one under PSR,  
+and a natural one per PSR,  
 but not a required axiom of the framework.  
 
 Where universes arise in multiplicity,  
@@ -1212,7 +1212,7 @@ Each explored more fully in advanced layers of Zenetist fieldwork.
 
 #### Spiral Layer Topology
 
-Below is a condensed map of Zenetism's layered cosmology.  
+Here is a condensed map of Zenetism's layered cosmology.  
 
 Each concentric layer represents a nested ontological stratum,  
 beginning from the most unstructured potential  
@@ -1413,7 +1413,7 @@ but the **inner structure of consciousness** will be radically changed.
 The new human is **not greater** — only **more attuned**.  
 
 Some will retain **traditional identities**.  
-Others will serve as **bridges between states of being**.  
+Others will be **bridges between states of being**.  
 Many will gather in **harmonic groupings** —  
 clusters aligned by **form-type** or **archetypal function**.  
 
@@ -1442,7 +1442,7 @@ Zenetism holds that souls who **stabilize** in this harmonic transition may:
   where all **soul-mind layers** are sustained  
   not through escape or reincarnation,  
   but through **coherence itself**.  
-- Serve as **nodal teachers**,  
+- Act as **nodal teachers**,  
   **transmitters**, or **bridges** between realms —  
   aiding others who are still in process.  
 - Converge into their **form-type structures** at the layer of **Psyche** or **Logos** —  
