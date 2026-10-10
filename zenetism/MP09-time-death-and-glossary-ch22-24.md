@@ -1262,7 +1262,7 @@ but to manipulation.
 **Inverse Deep Psyche (Psychea)** and  
 **Inverse Deep Logos (Nyxea)**.  
 Generators of entropic form —  
-projecting ideals that fracture coherence  
+projecting ideals that obscure the perception of coherence  
 while appearing meaningful.  
 
 #### Zenetist Placement — Psychea / Nyxea
@@ -1305,7 +1305,7 @@ entropic at the core.
 
 Entropic,  
 operating through structural inversion.  
-Offers meaning that fractures coherence by design.  
+Offers meaning that obscures the perception of coherence by design.  
 
 #### Symbolic Counterparts
 

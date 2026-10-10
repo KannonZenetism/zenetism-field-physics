@@ -2266,7 +2266,7 @@ A kind of **metaphysical stasis**.
 
 **Zenetism** refers to the **fate** of such **beings**  
 as **Localized Dissolution** —  
-a **stagnant form** of **Absolute Dispersion**.  
+an **Aionic return** through **stagnation**.  
 But rather than **enacted** through **fragmentation**,  
 it arises through **inertia**.  
 
@@ -2276,14 +2276,14 @@ It is a **metaphysical consequence** of **non-decision** —
 **resonance** that neither **integrates** nor **inverts**,  
 and thus begins to lose **structural coherence**.  
 
-Over time — slowly, gently — the **soul-form** dissolves, and essence returns to **AP**.  
+Over time — slowly, gently — the **soul's relative expression** ceases, and essence returns to **AP**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  
 
 This is not **annihilation**.  
-What **dissolves** in **Localized Dissolution** is **form**, not **essence**.  
-The **directional imprint** of the **soul** fades,  
+What **ceases** in **Localized Dissolution** is **expression**, not **essence**.  
+The **expressed imprint** of the **soul** fades,  
 but its **potential** remains **suspended** within **Zero** —  
 unexpressed, but never **lost**.  
 
@@ -2300,9 +2300,9 @@ alongside the two **primary outcomes**:
     then **VOS**, where essence stands.  
 
 * **Localized Dissolution** occurs  
-    when an **essence** stalls —  
+    when a **soul** stalls —  
     neither **moving** toward **integration** nor **collapse** —  
-    and is gradually **returned**  
+    and **essence** gradually **returns**  
     to the still **silence** of **AP**.  
 
 In highly **centropic universes**,  

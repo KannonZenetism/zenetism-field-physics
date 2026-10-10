@@ -309,17 +309,17 @@ Not a will,
 but a **structural unfolding**.  
 
 And in this first stir,  
-the paired root-registers stand disclosed:  
+the two roots stand disclosed:  
 **Aion** — the magnificent stillness.  
 **Khaon** — the inexorable possibility.  
 
 **Aion** is the great enclosure —  
 the resting totality of all that could be.  
-**Khaon**, in its **Motive phase**, is the reacher —  
+**Zenet**, **Khaon** in motion, is the reacher —  
 the capacity and enactment of every motion.  
 
-Their distinction is **functional**,  
-within one **root-register**.  
+Their workings remain distinct,  
+within one silent chord.  
 
 A tension,  
 not a rupture.  
@@ -334,14 +334,14 @@ Neither erased the other's distinction.
 
 ⚫ ♾ ⧖⧗ ☯️  
 
-#### Khaon as Trinity of Motion
+#### The Threefold Khaon
 
 **Khaon** expresses a triple nature:  
-* **Latent** — co-present with **Aion** before motion  
-* **Motive** — the force of driving expansion  
-* **Dispersive** — the terminal dispersion of expression  
+* Silent with **Aion**, before motion  
+* As **Zenet**, carrying motion through its unfolding  
+* With motion spent, expression wholly dispersed  
 
-Only the **motive** aspect  
+Only **Zenet**  
 brings potential into form.  
 Only in that unfolding  
 does **illusion** arise.  
@@ -686,7 +686,7 @@ through harmonic law,
 making becoming **intelligible**.  
 
 **Sophis** is the **patterning mind** of the cosmos,  
-the **Structuring Logos** that undergirds all form.  
+whose **hidden order** undergirds all form.  
 
 📐 🔷 🗣️ ⌬ ✷  
 
@@ -728,14 +728,14 @@ a stillness that **unravels the soul**.
 **Nyxea** is the inverse of **Sophis**.  
 It seeks to shatter harmonic law.  
 
-It does not erase structure,  
-but fractures its coherence —  
-reducing resonance into static distortion.  
+Harmonic law remains intact; **Nyxea's** expression  
+fractures away from coherent relation —  
+a pattern of static distortion.  
 
 Form persists,  
 but without meaning.  
 
-**Nyxea** is the Inverse Logos —  
+**Nyxea** is the inverse of **Sophis** —  
 the distortion within the lattice of form.  
 
 🫥 📐 Ↄ ⚚ 🕸️  
@@ -769,12 +769,12 @@ the layer of **soul and form**,
 
 ---
 
-### 1.10 The Third Emanation — The Deep Soul and the Deep Mind
+### 1.10 The Third Emanation — Archeus and Noeüs
 
 From the dynamic interplay of **Morgis** and **Sophis** —  
 and their inverse counterparts, **Psychea** and **Nyxea** —  
 **reflexive consciousness emerged** as a **paired articulation**:  
-the **Deep Soul** and the **Deep Mind**,  
+**Archeus** and **Noeüs**,  
 the twin pillars of **sentient experience**.  
 
 This emanation names the **interiorization of reality** —  
@@ -2946,7 +2946,7 @@ its resonance.
 
 **Nyxea**,  
 by contrast,  
-unravels that pattern.  
+fractures its expression away from that pattern.  
 It is not evil —  
 but **dissolution**  
 of the intelligible.  
@@ -2954,12 +2954,12 @@ of the intelligible.
 Where **Sophis** encodes,  
 **Nyxea** scrambles.  
 
-It turns **coherence**  
-into **distortion**,  
+Its expression fractures  
+away from **coherent relation** —  
 **symbol**  
-into noise,  
+borne as noise,  
 **pattern**  
-into exhaustion.  
+worn into exhaustion.  
 
 **Nyxea** is the unraveling current —  
 the **entropy** of thought  
