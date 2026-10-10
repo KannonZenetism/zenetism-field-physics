@@ -572,7 +572,7 @@ with this trajectory:
 - Those near the Logos (DP / DL)  
   may carry revelatory roles.  
 - DS / DM-aligned mystics  
-  weave dream, meaning, and guidance.  
+  carry dream, meaning, and guidance.  
 - SS / SM mystics  
   may walk quietly,  
   radiating integration without display.  
@@ -824,7 +824,7 @@ but in **veracity**.
 
 The **Maker** is not simply an artist,  
 builder, or engineer.  
-They are a **weaver of coherence**  
+They are a **shaper of coherence**  
 within the world of form.  
 
 Where the Mystic perceives structure,  
@@ -924,7 +924,7 @@ that carry resonance:
 - **Symbol** —  
   embedding meaning into matter.  
 - **Story** —  
-  weaving coherence through narrative.  
+  shaping coherence through narrative.  
 - **System** —  
   designing processes  
   that hold freedom with harmony.  

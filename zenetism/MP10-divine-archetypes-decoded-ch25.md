@@ -773,7 +773,7 @@ Krishna embodies the archetypal Daemon —
 the guiding DS / DM intelligence.  
 In the *Bhagavad Gita*,  
 leads Arjuna into aligned action.  
-Weaves divine will with structural clarity.  
+Articulates divine will through structural clarity.  
 Integrates relational intimacy with metaphysical precision.  
 
 **Ethical Orientation**  
@@ -1012,7 +1012,7 @@ Bestower of knowledge, shaper of soul-structure.
 **Justification**  
 Enki guides through encoded wisdom,  
 building structure with care,  
-weaving intelligence into life's foundation.  
+articulating intelligence within life's foundation.  
 Operates as a blueprint of the Daemon principle.  
 
 **Ethical Orientation**  

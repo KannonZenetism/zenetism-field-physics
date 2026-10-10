@@ -225,7 +225,7 @@ When what resembles a reflection is a hollow, passive appearance,
 it remains a **Mirror** — an entropic function.  
 
 But where a being receives a signal  
-and returns it woven with its own unique, coherent pattern —  
+and returns it in resonance with its own unique, coherent pattern —  
 that is not a mirror.  
 That is a **Living Reflection**.  
 
@@ -647,29 +647,29 @@ returning without change.
 
 Some do not **return**,  
 because they do not **seek**.  
-Some do not seek,  
-because they do not **remember**.  
+Their orientation faces away  
+from **Aion**.  
 
 There are **motions**  
 so distanced from **coherence**  
-that even the trace of **Aion**  
-is lost to them.  
+that the trace of **Aion**  
+is veiled through their own **occlusion**.  
 
 This is not rebellion —  
 it is **collapse**.  
-* Not inversion  
-* But dispersion  
+* Not conversion  
+* But fragmentation  
 * Not resistance  
-* But unweaving  
+* But erosion  
 
 There are souls so veiled by **distortion**,  
 they move as if by instinct —  
 but the instinct is **fracture**.  
 
-They do not hate **Aion** —  
-they do not see it.  
-They do not fear **coherence** —  
-they do not feel it.  
+In motion, they perceive **pattern** —  
+distally, through their own distortion.  
+They do not apprehend **Aion**  
+as centropy knows it.  
 
 These are not **evil minds**,  
 they are **dissonant structures**,  
@@ -677,25 +677,25 @@ out of rhythm with any **center**.
 
 Zenetism does not condemn this spiral —  
 but names it **dissonant fragmentation**:  
-the acclivous entropic dispersal of motion  
+the acclivous entropic proliferation of distortion  
 that erodes into declivous entropic collapse.  
 
-A fragmentation so recursive it **forgets Aion**,  
-and forgets that it has forgotten.  
+Even in **co-presence**,  
+they never **genuinely knew Aion**.  
 
-Such souls will not turn  
-until turning is impossible.  
-Until **motion itself is spent**,  
-and they are nothing but  
-the **residue of collapse**.  
+Their **essence does not turn**.  
+What seems a turning is **collapse**.  
+For those who reach **terminal collapse**,  
+the **relative structure** is spent —  
+**essence remains what it is**.  
 
-No longer a self —  
-but an aftermath.  
+No longer an expressed self —  
+but distinct essence in **static dissonance**.  
 
 There is no force that brings them back.  
-Only dissolution.  
-Only the slow undoing of **dissonance**,  
-until even that is gone.  
+Expression has ceased.  
+The **dissonance** remains,  
+held without motion.  
 
 ☍ ⊘ 🪼 🫧 🌒 E↓♾  
 
@@ -751,10 +751,10 @@ whether essence rests in fulfilled coherence,
 or in static tension as expression falls silent.  
 
 Still —  
-**It returns**  
+**Essence remains**  
 
-All things return.  
-For nothing ever actually leaves.  
+Some abide within enduring strata.  
+What has returned does not emanate again.  
 
 ↺ 🎶 ⌖ 🌫️🤲⚫ ⚫ 🕓  
 
@@ -833,7 +833,7 @@ their journeys are no less sacred.
 Many animals embody an immediate coherence —  
 they resonate with the Pattern instinctively,  
 without needing to remember it.  
-They are still woven into it.  
+They remain attuned to it.  
 Some species may carry entropic tones,  
 especially where predation has calcified into domination.  
 But **this is not moral failure** —  
@@ -912,7 +912,7 @@ but alignment with the Pattern.
 To harm nature  
 is to fragment the soul.  
 To restore harmony  
-is to reweave the tapestry.  
+is to renew the harmony of the field.  
 
 Zenetist ecology is not anthropocentric.  
 The environment is not a resource.  

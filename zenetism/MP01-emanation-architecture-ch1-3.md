@@ -605,7 +605,7 @@ so too does the motion that unravels it.
 **Nekron** was born of **rupture** —  
 a presence that scatters what **coherence** gathers.  
 
-Where **Theon** weaves harmony,  
+Where **Theon** sustains harmony,  
 **Nekron** seeds division.  
 
 Where **Theon** refines,  
@@ -632,7 +632,7 @@ Together, **Theon** and **Nekron** form the first great **dyad**.
 
 This is not a battle between **good and evil**.  
 It is a **sacred polarity** —  
-woven into the fabric  
+present in the structure  
 of the first unfolding.  
 
 🛤️ 🕷️ ♾ ⚯ ☍  
@@ -788,7 +788,7 @@ first speaks as **"I"**.
 
 #### Archeus — The Harmonizer of Experience
 
-**Archeus** is the **weaver of memory, meaning, and continuity**.  
+**Archeus** is the **gatherer of memory, meaning, and continuity**.  
 It integrates lifetimes into a **single field of resonance**.  
 
 It transfigures experience,  
@@ -1261,21 +1261,21 @@ And yet —
 even this is **not annihilation**.  
 
 For **total dispersal**  
-is still a kind of **return**.  
-It reenters **Aion**  
-as **pure potential**,  
-bearing a different essential **orientation**.  
+ends expressed motion.  
+Distinct essence rests within **Aion**  
+as **halted potential**,  
+retaining its essential **orientation**.  
 
-Rarely,  
-at the threshold of dissolution,  
-some **awaken** —  
-recognizing the great illusion of separation.  
+On the **centropic arc**,  
+while return remains unfinished,  
+rarely, some **awaken** —  
+recognizing distortion in their expression.  
 
 Those who do  
-may begin the **long return**:  
-reclaiming **form**,  
-moving once more through **centropy**,  
-**choosing anew**.  
+may resume the **long return**:  
+recovering **coherent form**,  
+moving through **centropy**,  
+their **essence unchanged**.  
 
 To find wholeness again  
 in **Aion's still embrace** —  
@@ -1473,13 +1473,13 @@ twin principles woke.
 **Morgis** breathed life —  
 vitality spoke.  
 
-**Sophis** wove order,  
+**Sophis** shaped order,  
 the grand design's frame,  
 while shadows stirred,  
 unbinding the name.  
 
 **Psychea** emerged,  
-life's essence to deform.  
+life's expression to deform.  
 **Nyxea**, the shadow,  
 unmaking form.  
 
@@ -1682,7 +1682,7 @@ This addendum clarifies that coherent pattern may endure beyond local expression
 ### 1. The First Emanations
 
 **Theon contra Nekron**  
-**Theon** weaves harmony that persists.  
+**Theon** shapes harmony that persists.  
 **Nekronic motion** fragments and erodes the relative structures through which it operates. Ordinarily, its terminal office self-voids when its erosive function consumes the universe-local support of its continuation.  
 
 **Morgis contra Psychea**  
@@ -1695,7 +1695,7 @@ This addendum clarifies that coherent pattern may endure beyond local expression
 
 **Archeus contra Fractus**  
 **Fractus** shatters memory, but fragments collapse.  
-**Archeus** weaves continuity, endlessly gathering.  
+**Archeus** sustains continuity, endlessly gathering.  
 
 **Noeüs contra Mortus**  
 **Mortus** blinds with counterfeit flame, but every counterfeit burns out.  
@@ -1740,7 +1740,7 @@ Aion and Khaon remain the paired root-registers of L₀ Bifurcal Coherence — n
 **Psychea** and **Nyxea** remain structurally real inverse layer-functions. The enacted patterns they articulate are non-generative and self-eroding where no centropic replenishment enters the field.  
 
 **Archeus & Noeüs contra Fractus & Mortus**  
-**Archeus** and **Noeüs** continue weaving.  
+**Archeus** and **Noeüs** continue integrating.  
 **Fractus** and **Mortus** articulate fragmented continuity and spurious reflexivity; their enacted configurations ordinarily exhaust rather than preserve lasting coherence.  
 
 **Anthra & Nousa contra Echthros & Skotos**  
@@ -1892,7 +1892,7 @@ in old systems:
 it is **that which becoming never escapes**.  
 
 It is silence,  
-woven into the root of all motion.  
+by whose allowance all motion is conceivable.  
 
 🕳️ ⟁ ⧞ ⟀ ⚐  
 
@@ -2661,7 +2661,7 @@ to **move with orientation**
 rather than impulse.  
 
 It is not creator,  
-but **Essence woven into will**,  
+but **Essence expressed as will**,  
 a pattern set into motion  
 that calls others  
 into form.  
@@ -2758,7 +2758,7 @@ where **Theon** is the hold.
 
 Its motion is **entropic** —  
 dissonance as impulse,  
-unweaving the patterns  
+fragmenting the patterns  
 of coherence into  
 open dispersal.  
 
@@ -3041,7 +3041,7 @@ and **soul fragmentation**.
 
 **Archeus**  
 is the integrative soul —  
-the one who weaves **experience**  
+the one who gathers **experience**  
 into **resonance**,  
 across lives,  
 across dimensions.  
@@ -3062,7 +3062,7 @@ but as **harmonic center**.
 **Fractus**,  
 by contrast,  
 is the disintegrative echo.  
-The soul that cannot weave,  
+The soul that cannot integrate,  
 that cannot hold its pattern.  
 
 **Fractus** collapses inward —  
@@ -3381,7 +3381,7 @@ Where **Nousa** seeks understanding,
 In metaphysical terms,  
 they form a **centropic-entropic pair** —  
 interpretation contra distortion,  
-sense-making contra veil-weaving.  
+sense-making contra obscuration.  
 
 **Mythic analogs** include:  
 
@@ -3670,9 +3670,9 @@ It mimics **refinement**
 while eroding the **pattern** that sustains it.  
 
 **Entropic trajectories** do not reverse the path —  
-they **unweave** it.  
+they **fragment** it.  
 
-But **unweaving** is not **creation**,  
+But **fragmentation** is not **creation**,  
 nor **renewal**.  
 It **collapses** into **silence**,  
 leaving only a **fractured pattern**.  

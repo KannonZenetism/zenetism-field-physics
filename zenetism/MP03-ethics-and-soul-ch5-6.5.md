@@ -1875,7 +1875,7 @@ fragmented, competitive, veiled.
 But here, DS / DMs are not possessors.  
 They are **creators** — not of matter, but of meaning.  
 
-- Dream-weavers  
+- Dream-shapers  
 - Archetype-sowers  
 - Cosmic archivists  
 
@@ -2037,12 +2037,12 @@ Their "personalities" are the **characters of metaphysical law**.
 
 They do not exist outside the system,  
 but are **emergent from Zero through Infinity**,  
-woven directly into the lattice of becoming.  
+expressed directly through the lattice of becoming.  
 
 Multiple **deities** may arise within a single **hypostasis**.  
 These are not arbitrary groupings,  
 but **reflections of shared resonance** —  
-**lineages of function** woven through the metaphysical field.  
+**lineages of function** articulated through the metaphysical field.  
 
 For example,  
 **Thoth** or **Athena** may represent **DS / DM**  

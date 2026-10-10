@@ -303,7 +303,7 @@ The process by which **reality unfolds**
 from **Aion** and **Khaon** through **Theon** and **Nekron** into **multiplicity**,  
 through **successive stages**.  
 
-Each **veil** is **softer** than the last,  
+Each **centropic veil** is **softer** than the last,  
 until **form** remembers its **Aionic orientation**.  
 
 ⚫ ♾ ❂ 🛤️ 🕷️ ⌬  
@@ -825,7 +825,7 @@ across multiversal expression.
 
 When resonance is coherent and integration possible,  
 the soul's **experiences**, **memories**, and **symbolic motions**  
-are woven back into the larger harmonic field.  
+are integrated into the larger harmonic field.  
 
 Not all Superficial Souls reintegrate immediately.  
 Some remain suspended in SS / SM due to **incoherence**,  
@@ -1608,7 +1608,7 @@ In this way, the presence of entropy
 does not negate centropy —  
 it sharpens its necessity.  
 
-Each emanation carries the imprint of Theon's clarity,  
+Each centropic emanation carries the imprint of Theon's clarity,  
 and is clarified by contrast with the obscurity of VOS.  
 
 The integrity of the Deep Soul finds reflection  
@@ -1854,7 +1854,7 @@ Such resonance may manifest through:
 - A sense of service that is non-egoic, ahierarchical, yet clear in orientation  
 
 Unlike avatars who restructure through catalytic presence,  
-Bodhisattva resonance reweaves from within.  
+Bodhisattva resonance restores from within.  
 
 Its influence is:  
 - **Subtle**  
@@ -2595,16 +2595,16 @@ and distinct essence stands within **Aion**
 as motion resolves in Absolute Dispersion.  
 
 In rare universes — brief or highly refined —  
-all inverse coherence may collapse or exhaust itself.  
-Then Nekron holds no fragments  
-and its field is stilled,  
-its tension released back into **Aion**.  
+all relative inverse expression may exhaust.  
+Then Nekron holds no further fragments  
+and its office resolves,  
+while distinct essence retains static dissonance.  
 
 This affirms a Zenetist law:  
 **That which persists does so only while serving function.**  
 When function completes,  
 expressed identity and configuration release,  
-and essence returns to structure.  
+and distinct essence remains.  
 
 Nekron is not eternal prison,  
 but the terminal event horizon —  

@@ -1088,12 +1088,15 @@ as an **eternal wheel of repetition**,
 Zenetism offers another reading.  
 
 - The soul is not trapped in cyclic return  
-- Memory is not permanently lost  
+- Centropic integration preserves coherent memory  
 - World-expressions do not merely reset, but unfold, fade, and open into further forms  
 
-Even collapse is not punishment —  
-it is return to Zero for re-potentialization,  
-a renewal through dissolution.  
+Terminal collapse is not punishment —  
+it is exhausted expression in **Dispersive Khaon**,  
+with distinct essence held in **static dissonance**.  
+
+Once essence has emanated and returned,  
+it does not emanate again.  
 
 This structure offers a **vision of expansion**,  
 a possible multiversal field  
