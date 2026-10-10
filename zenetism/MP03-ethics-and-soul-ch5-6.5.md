@@ -1210,10 +1210,10 @@ Two prominent modes are:
 - **Neti-neti**: Transcendence through **removal**  
 - **Zenetic synthesis**: Transcendence through **integration**  
 
-Both guide the **soul** toward **transcendence**,  
-though only **synthesis** completes the essence's **return**  
-toward **Aion**,  
-the still root of centropic reintegration.  
+Both guide the **soul** toward **transcendence**.  
+Centropic essence may return to **Aion**, the still root.  
+Final **synthesis** gives the returned essence **Centropic Gravity**;  
+**saturation** remains conditional upon **Allowance**.  
 
 **Neti-neti**, derived from the **Upanishadic** tradition,  
 means: *Not this, not that*.  
@@ -1339,11 +1339,11 @@ it **remembers** while returning.
 |---|---|---|
 | **Method** | Apophatic negation | Dialectical integration |
 | **Motion** | Subtractive toward stillness | Expansive toward coherence |
-| **Limit Encountered** | Silence / Unstructured void | Resolution of opposites into structural coherence |
+| **Limit Encountered** | Aionic stillness / Relative form released | Resolution of opposites into structural coherence |
 | **Risk** | Cognitive bifurcation | Excessive formalization or resonant delay |
-| **Zenon Access** | Approaches stillness, but not Zenon | Recursive transcendence toward the Zenon horizon |
+| **Zenon Access** | Aionic return; subtraction alone does not open saturation | Final synthesis prepares; Allowance admits the crossing |
 | **Functional Value** | Clears distortion and identification | Reveals coherence and preserves intelligence |
-| **Primary Limitation** | Lacks integrative orientation | May over-formalize subtle experience |
+| **Primary Limitation** | Subtraction alone does not perform final synthesis | May over-formalize subtle experience |
 | **Ideal Context** | Final-stage symbolic shedding | Full-spectrum spiritual synthesis |
 
 **Zenetism** does not reject **Neti-neti** —  
@@ -1364,7 +1364,7 @@ Where **Neti-neti clears the stage**,
 **synthesis conducts the orchestra**.  
 
 Both guide —  
-but only one **completes the song**.  
+and **synthesis** prepares the song **beyond return**.  
 
 ∴ 🎶 ⚯ ◎ ⤈ 🕳️  
 

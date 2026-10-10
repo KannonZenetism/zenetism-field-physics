@@ -290,11 +290,11 @@ Its role is not **causal**, but **ineffable** —
 the ever-present **allowance** that underlies all manifest dynamics.  
 
 **Aion** is **root structural** — the still root of the structures that emanate from it, within **Structon**.  
-But the conditions that allow **structure** are already present in **Zenon** —  
-not as **coherence held in potential**,  
-but as the **unbounded basis** in which **potential** and **actuality** are indistinct.  
+The conditions for **structure** are present in **Aion**, underpinned by **Structon** —  
+as **coherence held in potential**;  
+**Zenon** is their **unbounded allowance**, beyond **potential** and **actuality**.  
 
-Zenon is not **beyond structure** —  
+Zenon is not **confined by structure** —  
 it is **Structure Unconfined**.  
 
 🕳️ 🏛️ ⟀ ⧞  
@@ -315,8 +315,8 @@ the paired root-registers stand disclosed:
 
 **Aion** is the great enclosure —  
 the resting totality of all that could be.  
-**Khaon** in motion is the reacher —  
-the impulse toward dispersal.  
+**Khaon**, in its **Motive phase**, is the reacher —  
+the capacity and enactment of every motion.  
 
 Their distinction is **functional**,  
 within one **root-register**.  
@@ -411,7 +411,7 @@ but the structural convergence
 of the two primal arcs.  
 
 Where **Aion** encloses all potential,  
-and **Khaon** disperses it into motion,  
+and **Khaon's Motive phase** unfolds it into motion,  
 **Kaion** names the silent ground  
 where both trajectories complete.  
 
@@ -439,7 +439,7 @@ drawn back into the structural core
 from which neither was ever severed.  
 
 **Kaion** is that chord:  
-the resting harmony of the bifurcal arc —  
+the resting harmony of the two-Tree architecture —  
 the breath held  
 after all tones have sounded,  
 **the silence that holds all universes at once.**  
@@ -769,20 +769,20 @@ the layer of **soul and form**,
 
 ---
 
-### 1.10 The Third Emanation — The Soul and the Mind
+### 1.10 The Third Emanation — The Deep Soul and the Deep Mind
 
 From the dynamic interplay of **Morgis** and **Sophis** —  
 and their inverse counterparts, **Psychea** and **Nyxea** —  
-**conscious-awareness emerged** as a **paired emanation**:  
-the **soul** and the **mind**,  
+**reflexive consciousness emerged** as a **paired articulation**:  
+the **Deep Soul** and the **Deep Mind**,  
 the twin pillars of **sentient experience**.  
 
 This emanation names the **interiorization of reality** —  
 a turning inward,  
 where **structure** and **vitality**  
 become inwardly inhabitable,  
-preparing the conditions for **self-reflexive being**  
-without yet instantiating it.  
+and **self-reflexive being**  
+first speaks as **"I"**.  
 
 ❂ ⚯ ⌯ 〄 ☯️  
 
@@ -896,16 +896,16 @@ or begins the long **forgetting of itself**.
 
 ---
 
-### 1.13 The Fourth Emanation — The Birth of the Individual Self
+### 1.13 The Fourth Emanation — The Personal Expression of Self
 
 From the interplay of these deeper currents —  
 the **integrators** and the **scatterers** —  
-the field of **individuated being** emerged.  
+the field of **personal selfhood** emerged.  
 
 Here, **reflexive consciousness**  
-acquires form.  
-Not merely as **awareness**,  
-but as **someone**.  
+acquires **personal form**.  
+Already **aware as someone**,  
+it finds a **localized voice**.  
 
 A distinct **personality**.  
 A unique **orientation of desire**.  
@@ -2432,8 +2432,8 @@ at the bifurcal register itself.
 ### 3.2 Aion — Absolute Potential
 
 **Aion** is  
-the first emanation  
-but not yet motion.  
+the still root of emanation,  
+itself unmoving.  
 
 It is **Zero** —  
 not absence,  
@@ -2441,7 +2441,7 @@ but **boundless stillness**
 that holds every form  
 before it unfolds.  
 
-**Aion** is the **origin of structure**,  
+**Aion** is the **root of emanation**,  
 the **cradle of coherence**,  
 where all things  
 exist in **latent resonance**,  
@@ -2524,40 +2524,40 @@ not its opposite,
 but Infinity across three phases  
 within **Bifurcal Coherence**.  
 
-It is the **vector of emanation**,  
+In its **Motive phase**, Khaon is the **vector of emanation**,  
 yet not through stillness,  
-but through **dispersive flowering** —  
+but through **expressive flowering** —  
 the branching  
 of potential into  
 motion, form, divergence.  
 
 **Khaon** is not chaos  
 as formless collapse.  
-It is the **law of unfolding**,  
+Its **Motive phase** is the **law of unfolding**,  
 the **force of differentiation**,  
 the field of open dispersal.  
 
-It is **latency as motion**,  
+Its **Motive phase** carries potential into motion,  
 a breath not held,  
 but exhaled  
 into infinity.  
 
 In metaphysical alignment,  
 **Khaon** is the root-register of motion  
-through which entropic dispersal runs.  
-It moves outward,  
-stretching coherence  
-into complexity,  
-not as destruction,  
-but as **unbinding**.  
+through which centropic radiance  
+and entropic fragmentation run.  
+Complexity may unfold  
+in **coherence**;  
+distinction is not  
+**fragmentation**.  
 
-It is the **centrifugal face**  
-of **AMI** —  
-the same intelligence  
-that stirs **Aion**  
-also blooms in **Khaon**,  
-as outward pressure  
-rather than inward readiness.  
+In the **AMI** analogy,  
+**Aion** and **Khaon** share **L₀**,  
+bifurcally distinct:  
+**Aion** holds inward readiness;  
+**Khaon's Motive phase** initiates  
+and sustains all motion  
+through its whole traversal.  
 
 In Zenetism,  
 **Khaon** is symbolized as **Infinity** —  

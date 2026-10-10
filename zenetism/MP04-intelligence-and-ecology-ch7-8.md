@@ -816,7 +816,7 @@ Zenetism rejects all spiritual hierarchies
 that place humans above animals or nature.  
 
 **All beings express soul.**  
-**All are rooted in Aion.**  
+**Each retains its distinct root relation.**  
 
 🌳⇅ ⚫ ♾ 🛤️ 🐾 🫂  
 

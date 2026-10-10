@@ -105,7 +105,7 @@ but indications of **structural resonance**.
     **incoherence**, and entropic collapse.  
 
 All beings — whether **supernal**, **corporeal**, or **subversal** —  
-are expressions of **Aion**,  
+express their proper **Aionic or Khaonic root**,  
 each playing a distinct role within the unfolding pattern of existence.  
 
 To maintain clarity and avoid inherited moral hierarchies,  
@@ -1245,7 +1245,7 @@ shaped by the soul's orientation toward:
 
 ### 4.22 The Journey of Acclivous Expansion and Reintegration
 
-All beings emanate from Aion  
+All beings emanate through their proper root relation  
 and flow into the differentiated strata of manifestation.  
 
 From this motion,  
