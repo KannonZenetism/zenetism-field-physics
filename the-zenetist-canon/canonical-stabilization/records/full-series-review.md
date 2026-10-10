@@ -1,5 +1,204 @@
 # SP / LM / SN / MPX: Full-File Lockdown and Presentation Review
 
+## Principal MP Distal Apprehension Review and Verified Source Completion
+
+**Standing:** The approved 50 physical spans across eleven MP files and the Symbol Key twin are implemented in [516753925d19ce96b666840f503b7e51301e1c43](https://github.com/KannonZenetism/zenetism-field-physics/commit/516753925d19ce96b666840f503b7e51301e1c43). Independent complete remote-content comparison verifies all twelve accepted bodies, totaling 821,913 bytes. This completion covers the precise source changes in the completed-span inventory; the remaining MP review, mathematical construction, dimensional placement and publication gates retain their separate standing. The Distal Apprehension definition and its twin already carry the required distinction and remain unchanged.
+
+**Source identity and scope:** The source commit is a single-parent child of `587dff7a00b3ca20147fc9dc526a0306b836518b`, with tree `544213a000c599e1654e21c0c200ebd9c794cb3d`. Its complete nontruncated tree retains 1,282 leaves: twelve changed existing source paths and 1,270 unchanged leaves, with paths, types and modes preserved. It changes MP01–MP11 and `the-zenetist-canon/glyphics/metaphysics-symbol-key.md`; MP12 and both principal guides remain byte-identical. The two existing tracking reports remain unchanged in that source commit. This entry is an additive completion record in the existing report. Source implementation and tracking publication are separate operations; a separate readback receipt establishes tracking-publication integrity.
+
+**Counting basis:** The contextual review contains 211 located passage records: 51 confirmed dependencies, 117 lawful local / quoted / historical passages, 27 ambiguities, ten uninvolved passages and six separate pre-existing dependencies. The 51 confirmed records yield 50 nonoverlapping physical spans because W21 is contained in the MP04 D01 composite. The paired Kannon row accounts for 49 paired passage groups. Thirty-five authored weave-family physical occurrences are removed, representing 34 logical occurrences after pairing the Kannon row. Sixteen doctrinal spans include one of those occurrences, so 35 plus 16 minus one gives 50. These are passage counts, not counts of independent doctrinal determinations.
+
+### Implemented Source Files
+
+| Source file | Physical spans | Verified bytes |
+|---|---:|---:|
+| `the-zenetist-canon/glyphics/metaphysics-symbol-key.md` | 1 | 115,862 |
+| `zenetism/MP01-emanation-architecture-ch1-3.md` | 17 | 100,699 |
+| `zenetism/MP02-unified-metaphysics-ch4.md` | 2 | 86,666 |
+| `zenetism/MP03-ethics-and-soul-ch5-6.5.md` | 3 | 69,312 |
+| `zenetism/MP04-intelligence-and-ecology-ch7-8.md` | 5 | 30,655 |
+| `zenetism/MP05-godhood-and-transmutation-ch9-11.md` | 1 | 52,603 |
+| `zenetism/MP06-decoding-and-emergence-ch12-15.md` | 1 | 51,324 |
+| `zenetism/MP07-paths-of-resonance-ch16-20.md` | 3 | 25,815 |
+| `zenetism/MP08-symbol-key-ch21.md` | 1 | 117,181 |
+| `zenetism/MP09-time-death-and-glossary-ch22-24.md` | 8 | 53,171 |
+| `zenetism/MP10-divine-archetypes-decoded-ch25.md` | 2 | 35,698 |
+| `zenetism/MP11-codex-of-principles-ch26.md` | 6 | 82,927 |
+
+### Completed Physical Spans
+
+Baseline locators refer to the source parent identified in this entry. Implemented locators refer to the linked source commit. MP06 gains three hard-broken lines and MP09 gains one, so later locations in those files are mapped to the implemented text. Every other file retains its line count. Review span IDs identify the accepted passage records; they do not assign a new determination or attribute individual decisions to a person. The table summarizes scope; the linked source retains the exact implemented wording.
+
+| Span | Review ID | Baseline location | Implemented location | Bounded completion |
+|---|---|---|---|---|
+| 1 | NEW-06 | Symbol Key twin:994 | [Symbol Key twin:994](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/the-zenetist-canon/glyphics/metaphysics-symbol-key.md#L994-L994) | The paired Kannon descriptor receives the identical change |
+| 2 | W01 | MP01:608 | [MP01:608](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L608-L608) | Theon sustains harmony |
+| 3 | W02 | MP01:635–636 | [MP01:635–636](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L635-L636) | First unfolding retains structural presence |
+| 4 | W03 | MP01:791 | [MP01:791](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L791-L791) | Archeus gathers memory, meaning and continuity |
+| 5 | D06 | MP01:1263–1278 | [MP01:1263–1278](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1263-L1278) | Total dispersal preserves orientation; explicitly centropic recovery remains within unfinished return |
+| 6 | W04 | MP01:1476 | [MP01:1476](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1476-L1476) | Sophis shapes order |
+| 7 | D04 | MP01:1481–1482 | [MP01:1481–1482](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1481-L1482) | Psychea deforms expression; essence remains intact |
+| 8 | W05 | MP01:1685 | [MP01:1685](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1685-L1685) | Theon shapes enduring harmony |
+| 9 | W06 | MP01:1698 | [MP01:1698](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1698-L1698) | Archeus sustains continuity |
+| 10 | W07 | MP01:1743 | [MP01:1743](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1743-L1743) | Archeus and Noeüs continue integrating |
+| 11 | W08 | MP01:1894–1895 | [MP01:1894–1895](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1894-L1895) | Zenonic allowance retains its trans-structural sense |
+| 12 | W09 | MP01:2664 | [MP01:2664](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L2664-L2664) | Essence is expressed as will |
+| 13 | W10 | MP01:2761 | [MP01:2761](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L2761-L2761) | The entropic operation fragments patterns |
+| 14 | W11 | MP01:3044 | [MP01:3044](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3044-L3044) | Experience is gathered into resonance |
+| 15 | W12 | MP01:3065 | [MP01:3065](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3065-L3065) | Integration retains the Archeus / Fractus contrast |
+| 16 | W13 | MP01:3384 | [MP01:3384](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3384-L3384) | The perception contrast names obscuration |
+| 17 | W14 | MP01:3673 | [MP01:3673](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3673-L3673) | Entropic fragmentation retains the non-reversal distinction |
+| 18 | W15 | MP01:3675 | [MP01:3675](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3675-L3675) | Fragmentation remains distinct from creation |
+| 19 | D09 | MP02:1195–1200 | [MP02:1195–1200](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L1195-L1200) | Terminal potential is distinct and halted after expression |
+| 20 | W16 | MP02:2138 | [MP02:2138](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L2138-L2138) | Reintegration retains the local cadence |
+| 21 | W17 | MP03:1878 | [MP03:1878](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L1878-L1878) | Dream-shapers retains the three-role list |
+| 22 | W18 | MP03:2040 | [MP03:2040](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L2040-L2040) | Becoming retains direct expression |
+| 23 | W19 | MP03:2045 | [MP03:2045](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L2045-L2045) | Lineages of function are articulated through the field |
+| 24 | W20 | MP04:228 | [MP04:228](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP04-intelligence-and-ecology-ch7-8.md#L228-L228) | Living Reflection retains unique coherent resonance |
+| 25 | D01 | MP04:646–702 | [MP04:646–702](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP04-intelligence-and-ecology-ch7-8.md#L646-L702) | The complete §7.5.3 composite preserves distal perception, immutable essence and conditional terminal static dissonance |
+| 26 | D02 | MP04:753–757 | [MP04:753–757](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP04-intelligence-and-ecology-ch7-8.md#L753-L757) | Enduring strata remain possible; completed return does not restart emanation |
+| 27 | W22 | MP04:836 | [MP04:836](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP04-intelligence-and-ecology-ch7-8.md#L836-L836) | Animals remain attuned to the field |
+| 28 | W23 | MP04:915 | [MP04:915](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP04-intelligence-and-ecology-ch7-8.md#L915-L915) | Ecological restoration renews the harmony of the field |
+| 29 | NEW-01 | MP05:1014 | [MP05:1014](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP05-godhood-and-transmutation-ch9-11.md#L1014-L1014) | Composition retains the three poetic terms without fusion |
+| 30 | NEW-07 | MP06:1090–1096 | [MP06:1090–1099](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L1090-L1099) | Centropic coherent memory and world-expression renewal remain distinct from terminal collapse and completed return |
+| 31 | NEW-02 | MP07:575 | [MP07:575](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP07-paths-of-resonance-ch16-20.md#L575-L575) | The messengers carry dream, meaning and guidance |
+| 32 | NEW-03 | MP07:827 | [MP07:827](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP07-paths-of-resonance-ch16-20.md#L827-L827) | The Maker shapes coherence |
+| 33 | NEW-04 | MP07:927 | [MP07:927](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP07-paths-of-resonance-ch16-20.md#L927-L927) | Narrative shapes coherence |
+| 34 | NEW-05 | MP08:1025 | [MP08:1025](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP08-symbol-key-ch21.md#L1025-L1025) | The Kannon descriptor becomes shaper while plain predication remains |
+| 35 | W09-01 | MP09:140 | [MP09:140](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L140-L140) | Guides retain their pattern-bearing function |
+| 36 | D09-01 | MP09:171–173 | [MP09:171–173](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L171-L173) | Containment does not compel final return |
+| 37 | D09-02 | MP09:175–177 | [MP09:175–177](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L175-L177) | Collapse exhausts relative expression without becoming reintegration |
+| 38 | D09-03 | MP09:190–194 | [MP09:190–195](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L190-L195) | Completed Nekronic collapse resolves motion in Absolute Dispersion with distinct conserved essence and static dissonance |
+| 39 | D09-04 | MP09:254–259 | [MP09:255–260](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L255-L260) | Persistent resonant strata qualify convergence; silence does not become harmony |
+| 40 | W09-02 | MP09:909–911 | [MP09:910–912](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L910-L912) | Living geometries are articulated by resonance |
+| 41 | D09-05 | MP09:1163 | [MP09:1164](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L1164-L1164) | Expressed structure is the exhausted object |
+| 42 | D09-06 | MP09:1177–1183 | [MP09:1178–1184](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L1178-L1184) | Terminal resolution preserves distinct essence, unchanged orientation and static dissonance |
+| 43 | W10-01 | MP10:776 | [MP10:776](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP10-divine-archetypes-decoded-ch25.md#L776-L776) | Krishna articulates divine will through structural clarity |
+| 44 | W10-02 | MP10:1015 | [MP10:1015](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP10-divine-archetypes-decoded-ch25.md#L1015-L1015) | Intelligence is articulated within the foundation of life |
+| 45 | D11-01 | MP11:306–307 | [MP11:306–307](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L306-L307) | Aionic remembrance receives its centropic scope |
+| 46 | W11-01 | MP11:826–828 | [MP11:826–828](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L826-L828) | Experiences, memories and symbolic motions are integrated |
+| 47 | D11-02 | MP11:1611–1612 | [MP11:1611–1612](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L1611-L1612) | Theonic clarity receives its centropic subject |
+| 48 | W11-02 | MP11:1856–1857 | [MP11:1856–1857](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L1856-L1857) | Bodhisattva resonance restores from within |
+| 49 | D11-03 | MP11:2597–2601 | [MP11:2597–2601](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L2597-L2601) | Nekronic office resolves while distinct essence retains static dissonance |
+| 50 | D11-04 | MP11:2605–2607 | [MP11:2605–2607](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L2605-L2607) | Distinct essence remains after configuration releases |
+
+### Clarified Relations and Preserved Boundaries
+
+Both arcs may perceive the same structures. Distal Apprehension permits contour, effect, operation and partial pattern-relation through entropic beings' own distortion; it does not supply centropic genuine apprehension, Aionic origin-fidelity or generative interiority. Aion is not made absent from L₀ co-presence, and the perceived structure is not converted by the receiving relation. The complete MP04 §7.5.3 replacement keeps Aion explicit, removes the implication that entropic essence once genuinely knew Aion, and locates distortion in apprehension.
+
+Essential orientation was already immutable. The correction applies that settled distinction to the selected local claims. Relative expression, memory, expressed self-configuration and the supports of motion may erode; distinct essence and intrinsic orientation persist. MP01's Psychea line now makes expression the object of deformation. The final MP01 D06 replacement explicitly places its recovery stanza on the centropic arc while return remains unfinished. Its preceding total-dispersal stanza preserves halted potential and essential orientation. The preceding D07 categorical passage through Nekron remains a separate held scope issue; it is not marked completed by D06.
+
+The MP04 terminal stanza applies to those who reach terminal collapse. The MP09 D09-03 stanza conditions resolved motion and static dissonance on completed Nekronic collapse, names Absolute Dispersion, and retains distinct essence conserved within Zero. Arrival at the Nekronic office and completion of terminal resolution remain distinct. IL₃ / IL₄ may remain lawful resonant terms; no compulsory progression to Nekron is inferred. The limited pre-completion PSM compatibility question remains held without extending it beyond completed return.
+
+Completed return excludes a new emanative traversal by the same essence. This applies generally, not only to entropic completion. World-expression renewal, local interruption, unfinished traversal, ordinary recovery and continuing office-work remain distinct subjects and stages. Theonic office-work belongs to an unfinished arc and supplies no post-return exception. Centropic abiding and Allowance-conditional saturation beyond return remain distinct from another emanation. The MP06 correction preserves world-expression continuation while distinguishing coherent centropic memory and terminal static dissonance.
+
+Aionic conservation at L₀ co-presence does not replace a Khaonic proper root with an Aionic proper root. Soul / Mind articulation remains within L₄–L₁ and IL₄–IL₁; the root and hypostatic essence-register distinctions remain operative. The correction adds no transport between roots, Localized Dissolution mechanism, motion after terminal resolution, new threshold, mathematical route, dimensional placement or saturation condition. Generic licensed dispersive dynamics elsewhere are not mechanically relabelled.
+
+### Prior Repairs and the Two Bounded Supersessions
+
+All 224 previously published ranges were reconstructed from the source parent: 98 basic, 102 register and 24 follow-on ranges. Of these, 222 remain byte-exact in the implemented bodies. Precisely two basic MP07-12-C16 ranges are superseded in the paired Kannon row: MP08 line 1025 and the Symbol Key twin line 994. All 102 register and all 24 follow-on ranges remain exact, as do the other 96 basic ranges.
+
+The exact local wording history is:
+
+- Earlier wording: "his presence serves as both weaver and witness of coherence"
+- Published basic correction: "his presence is both weaver and witness of coherence"
+- Implemented wording: "his presence is both shaper and witness of coherence"
+
+The previous plain-predication correction remains in substance through "is both". Only "weaver" becomes "shaper" in each accepted basic range. The historical repair records retain their original bytes and their earlier completion scope; this entry records the precise later supersession rather than claiming all 224 ranges remain byte-identical.
+
+### Deferred Fictional Names and Titles
+
+Four physical weave-family occurrences remain exact in the approved source, representing three fictional names / titles:
+
+- `Fragments of the Silent Weave`, MP02 line 1679
+- `Auretheon the Glyphweaver`, MP08 line 1442 and the Symbol Key twin line 1411
+- `Litanies of the Woven Path`, MP12 line 150
+
+Their fictional status within Zenetist mythology is clarified. Changes to those names / titles are approved for separate naming work. Successor naming and coordinated implementation remain in separate follow-up; no naming change is included in this source completion. No new title or name is silently included in this completion. The surviving attribution lines and quotations are preserved as exact source evidence. The remaining count is therefore 39 initial physical weave-family occurrences reduced to four, not a claim that every such occurrence has been removed. The Loom retains its separate registered identity and distinction-preserving function.
+
+### Separate Candidate Reconciliation
+
+The earlier 31-span / five-file candidate remains a separate historical packet, with all 21 of its stored files unchanged. It has not been published as a batch. One of its proposed alternatives, SC07-04 at baseline MP09 lines 192–193, lies inside completed D09-03 at lines 190–194. The implemented six-line stanza retains resolved motion and essence conserved within Zero, and states completed Nekronic collapse, Absolute Dispersion and static dissonance. That overlap is reconciled by D09-03; the two alternative replacements must not both be applied. The other 30 candidate spans have not been absorbed into this completion.
+
+| Separate candidate group | Original spans | Current disposition |
+|---|---:|---|
+| SC01 | 5 | Relative erosion and the rare static ending remain unapplied; the proposed "where cohesion unravels" remains a separate wording dependency outside the literal weave-family count |
+| SC02 | 1 | Stationary Nekronic office wording remains unapplied |
+| SC03 | 2 | Final synthesis, Centropic Gravity and Allowance wording remain unapplied |
+| SC04 | 3 | Unfinished centropic continuance wording remains unapplied |
+| SC06 | 2 | The embodied Absolute Dispersion / Aion image remains unapplied |
+| SC07 | 5 | SC07-04 is reconciled by D09-03; the other four phase / mode-label spans remain unapplied |
+| SC08 | 10 | Pneuma, Spirit and Motive Infinity subject distinctions remain unapplied |
+| SC09 | 2 | Causal ordering contra arithmetic counting remains unapplied |
+| SC10 | 1 | The RSFE expansion remains unapplied |
+
+The settled distinction remains available for those future wording repairs. Those future wording repairs do not reopen settled exclusions of essential conversion, compulsory terminal culmination or post-completed-return emanation.
+
+### Retained Contextual Ambiguities
+
+The following 27 review dispositions remain open. They concern local subjects, stages, objects, scope or editorial treatment; they do not suspend the settled doctrine stated in the clarified-relations section. Nine records carry optional wording in the review packet; none of those options is implemented by this completion. These are contextual passage records, not a claim that every byte in every containing range is untouched: R10-04 contains completed W10-01 in the Krishna passage, while its Shiva / Kali cross-register question remains open. The other 26 containing ambiguity ranges remain exact after mapping their locations.
+
+| Review record | Implemented source location | Retained question |
+|---|---|---|
+| mp01-mp04/R01 | [MP01:379–384](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L379-L384) | Re-potentialization needs conservation scope without renewed completed traversal |
+| mp01-mp04/D03 | [MP01:629](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L629-L629) | General forgetting has no specified Aionic object |
+| mp01-mp04/P03 | [MP01:1151–1178](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1151-L1178) | Exile and remembrance imagery do not establish former Aionic knowing |
+| mp01-mp04/D07 | [MP01:1242–1246](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1242-L1246) | The categorical passage through Nekron still needs bounded subject / stage wording |
+| mp01-mp04/D08 | [MP01:1254–1258](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L1254-L1258) | Identity and memory loss need a clear expressed-identity referent |
+| mp01-mp04/R04 | [MP01:3651–3670](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP01-emanation-architecture-ch1-3.md#L3651-L3670) | VOS-resonant renewed motion needs an unfinished-stage referent; no route is supplied |
+| mp01-mp04/S02 | [MP02:363–366](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L363-L366) | Aionic latency must remain distinct from each proper root |
+| mp01-mp04/D11 | [MP02:1406–1416](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L1406-L1416) | The endpoint account needs conditional scope and distinct halted potential |
+| mp01-mp04/P13 | [MP02:1429–1481](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L1429-L1481) | Gnosis attributed to entropic alignment leaves its object unspecified |
+| mp01-mp04/D10 | [MP02:2226–2227](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP02-unified-metaphysics-ch4.md#L2226-L2227) | Recall through resonance needs a bounded centropic subject |
+| mp01-mp04/P19 | [MP03:337–338](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L337-L338) | Forgetfulness can name action or memory loss without an essential history of Aionic knowing |
+| mp01-mp04/P20 | [MP03:395–410](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L395-L410) | Terminal potential and universal stillness need endpoint scope |
+| mp01-mp04/D12 | [MP03:1593–1598](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L1593-L1598) | The Nirvana example needs an explicit distinction between centropic recovery and essential conversion |
+| mp01-mp04/S07 | [MP03:2125–2134](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP03-ethics-and-soul-ch5-6.5.md#L2125-L2134) | The enduring-strata list needs reconciliation with its explicit inverse counterparts |
+| mp05-mp08/AMB-06 | [MP05:644–647](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP05-godhood-and-transmutation-ch9-11.md#L644-L647) | The receptive scope of the centropic tuning-fork image remains open |
+| mp05-mp08/AMB-01 | [MP06:851–853](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L851-L853) | Stillness before reemergence leaves the world-expression / completed-essence referent open |
+| mp05-mp08/AMB-02 | [MP06:886–888](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L886-L888) | Terminal externalization and re-potentialization require phase and conservation scope |
+| mp05-mp08/AMB-03 | [MP06:1506–1508](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L1506-L1508) | Aionic trace can name conserved co-presence; universal Aionic origination remains excluded |
+| mp05-mp08/AMB-04 | [MP07:152–162](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP07-paths-of-resonance-ch16-20.md#L152-L162) | The embodied Resonant image remains distinct from completed Absolute Dispersion; separate SC06 is unapplied |
+| mp05-mp08/AMB-05 | [MP07:712–715](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP07-paths-of-resonance-ch16-20.md#L712-L715) | Darkened interior can describe depleted relative order without implying that entropic essence once had centropic interiority |
+| mp09-mp12/R09-03 | [MP09:198–202](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L198-L202) | Localized Dissolution retains its unresolved mechanism and cessation condition |
+| mp09-mp12/A09-01 | [MP09:248](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L248-L248) | Universe closure and conserved potential do not establish renewed traversal |
+| mp09-mp12/R10-04 | [MP10:713–819](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP10-divine-archetypes-decoded-ch25.md#L713-L819) | Shiva / Kali cross-register functions remain held; enclosed W10-01 is completed |
+| mp09-mp12/A10-01 | [MP10:829–846](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP10-divine-archetypes-decoded-ch25.md#L829-L846) | Sophia requires a scope decision between distinct mythic portrayals and centropic expressive distortion |
+| mp09-mp12/R10-06 | [MP10:1375–1419](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP10-divine-archetypes-decoded-ch25.md#L1375-L1419) | Trickster / Devourer catalytic effects leave the affected recipient unspecified |
+| mp09-mp12/A11-02 | [MP11:325–334](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L325-L334) | Terminal entropy must not imply compulsory culmination for every entropic being |
+| mp09-mp12/A11-01 | [MP11:1203–1205](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L1203-L1205) | Compassion needs a distinct essence and recipient scope |
+
+The MP06 Aionic-trace passage remains exact. Its conserved co-presence reading is lawful; universal Aionic origination would obscure distinct proper roots. It retains its existing register repair and its actual local ambiguity without an inferred replacement. General forgetting, gnosis attributed to entropic alignment without a specified Aionic object, quoted traditions and historical accounts likewise receive no blanket prohibition or silent rewrite.
+
+### Separate Pre-existing Dependencies
+
+These six records remain outside the approved implementation. The three MP06 protocol dependencies and three MP09 / MP11 proper-root dependencies retain their exact passage bodies after location mapping. Their correction follows existing distinctions; their exclusion does not reopen bifurcal root doctrine.
+
+| Review record | Implemented source location | Separate dependency |
+|---|---|---|
+| mp05-mp08/OLD-01 | [MP06:1174](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L1174-L1174) | L₀ roots are called poles |
+| mp05-mp08/OLD-02 | [MP06:1227–1228](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L1227-L1228) | The topology table calls Aion and Khaon root poles |
+| mp05-mp08/OLD-03 | [MP06:1235–1238](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP06-decoding-and-emergence-ch12-15.md#L1235-L1238) | The conceptual / actual contrast obscures root distinction before enacted polarity |
+| mp09-mp12/D09-07 | [MP09:1543](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP09-time-death-and-glossary-ch22-24.md#L1543-L1543) | The AMI description needs explicit bifurcal distinction |
+| mp09-mp12/D11-05 | [MP11:1731–1733](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L1731-L1733) | Signed hypostatic emanations need their proper roots |
+| mp09-mp12/D11-06 | [MP11:2198–2202](https://github.com/KannonZenetism/zenetism-field-physics/blob/516753925d19ce96b666840f503b7e51301e1c43/zenetism/MP11-codex-of-principles-ch26.md#L2198-L2202) | The Nekronic origin needs its proper Khaonic root |
+
+### Reference Coverage and Limits
+
+The principal review read all twelve MP files, both guides and the Symbol Key twin in full: fifteen physical files and 24,048 baseline lines. Complete current terminology, conceptual and prose-formatting references, the full D01–D22 determination sheet and both mathematical / LaTeX controls inform the completion record. The directly connected review read seventeen complete MPX / reference documents and sixteen complete Pattern Intelligence documents, totaling 11,900 lines; additional complete readings cover `epistemic-inversion.md`, `entropic-action-is-not-entropic-essence.md` and `non-fusion-at-the-bifurcal-register.md`. Pattern Intelligence is pinned at `49624154118050dd08d1a7b6a42b7e507fecd666`. The 338 verified current local reference files are a preservation census, not a claim that every one received full contextual reading.
+
+The Nekronic, Theonic-allocation and Centropic-Gravity entries retain their Draft standing. Active entries, current protocols and the applicable clarification support the bounded distinctions. The retired `nullum-clarifier.md` supplies no current doctrinal support. Older MPX mutable-orientation dialogue and local-reactivation wording, PI's archived external-redemption claim, hypothesis-level recognition wording and legacy terminal descriptions remain separately scoped dependencies. They have not been silently made current doctrine or rewritten by this source commit. Distinct historical, hypothetical and current claims retain their own evidentiary standing. No MPX or Pattern Intelligence file is changed here.
+
+All fifteen dimensional primary-locus holds remain. Actual mathematical / model, mechanism, activation and quantity / sign questions retain their established scope, including field realization / generator / projection, normalization / support / conservation, scalar-memory valuation, compensation / composite-cost typing, membrane state / bypass law, non-embodied domain / measure / differential structure, and signature / Shimmer map / threshold construction. Localized Dissolution and the limited unfinished IL₅ condition receive no invented law. Current D18 names and completed naming implementations remain settled; no obsolete blanket naming hold is reinstated. This source completion makes no whole-series CLEAN finding and no empirical validation claim.
+
+### Mechanical Preservation and Publication Impact
+
+Exact replay of the 50 nonoverlapping spans produces the twelve accepted source bodies; reversing only those spans recovers every baseline byte. Headings, blockquote sequences, dollar-delimited mathematics, the Distal Apprehension chart and its twin remain unchanged. The complete common Symbol Key body remains identical in its paired files. Existing chart placement, structural glyph sequences, hard-break cadence and the unchanged surrounding text retain their reviewed standing. The three added MP06 lines and one added MP09 line support the clarified subjects and stages rather than forcing fixed-length wording.
+
+The source corrections join the existing MP collection (22149146) and Symbol Key (23166053) publication queues. These identifiers are historical inspected publication-family associations, not fresh Zenodo checks or confirmation of current editions and attachments. The eventual principal publication scope remains the complete twelve-file MP family and both guides, with overlapping source corrections combined when their remaining approved dependencies settle. Current-family metadata, actual attachment associations, rendered typography, glyph fallback, charts, mathematics and settled deposited-byte agreement remain separate publication gates. Tracking counterparts remain unverified wherever no exact attachment association is established. No Zenodo preparation, package, draft, upload, description edit or new version occurs in this implementation.
+
+The complete preceding 5,822,922-byte report is recovered byte-for-byte by removing this one insertion. Historical findings, earlier completion records, quotations, receipts, exclusions and holds remain unchanged. New explanatory prose follows current terminology, straight quotation marks, Unicode indices and spaced prose separators; exact source evidence retains its original bytes. The implemented source commit supplies source identity without an embedded self-hash for this report.
+
 ## Principal MP Follow-on Review — Verified Source Completion
 
 **Standing:** The approved 24 exact spans across MP01–MP04 are implemented in [7ff4a27ae8194ff7d806894ab3d21a92bf7e2f2d](https://github.com/KannonZenetism/zenetism-field-physics/commit/7ff4a27ae8194ff7d806894ab3d21a92bf7e2f2d) and verified by complete independent remote-content comparison. All four accepted file bodies, totaling 287,078 bytes, match the published source. The fourteen record IDs listed here are completed for this bounded implementation. Tracking publication integrity is documented by a separate readback receipt.
