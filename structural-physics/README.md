@@ -87,7 +87,7 @@ Formalizes resonance as structural energy — not physical force or thermodynami
 ### SP08 — Membrane Fields and Inter-Expression Dynamics
 `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
-Formalizes the ⧉ operator: membrane fields as inter-hypostatic threshold structures that mediate resonance transfer between layers and across expression boundaries. Membranes are not themselves hypostases but transitional structures that modulate resonance transfer, filter coherence, and determine the conditions under which traversal completes or does not. Establishes membrane types (bridges, filters, amplifiers, occlusions), Kaionic tunneling conditions, and pathological conditions including membrane collapse, occlusion, and breach.
+Formalizes the ⧉ operator: membrane fields as inter-hypostatic threshold structures that mediate resonance transfer between layers and across expression boundaries. Membranes are not themselves hypostases but transitional structures that modulate resonance transfer, filter coherence, and determine the conditions under which traversal completes or does not. Establishes membrane types (bridges, filters, amplifiers, occlusions) and describes pathological conditions including membrane collapse, occlusion, and breach. The Kaionic tunneling concept is retained; its separate bypass transfer law remains held.
 
 **Key contributions:** ⧉ operator formalization, transfer mechanics, membrane taxonomy, Kaionic tunneling, membrane integrity diagnostics, pathological conditions.
 
@@ -105,7 +105,7 @@ Extends SP07–SP08 mechanics to collective configurations. Multiple beings can 
 ### SP10 — Ritual Energetics and Integration Protocols
 `SP10-ritual-energetics-and-integration-protocols.md`
 
-Formalizes ritual action as directed resonance engineering — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol. Every veracious ritual corresponds to a measurable operation on the Lattice: a change in \( I_c \), a modification of membrane permeability \( \sigma(\text{⧉}) \), a redirection of Coherence Current \( \vec{J}_c \), or a transformation of \( \chi \). Establishes field seal taxonomy and construction mechanics, integration protocols, siphoning countermeasures, and energetic cost theory.
+Formalizes ritual action as directed resonance engineering — the deliberate manipulation of Coherence Potential, membrane permeability, and field orientation through structured protocol. Within the native formalism, a veracious ritual corresponds to a formally evaluable operation on the Lattice: a change in \( I_c \), a modification of membrane permeability \( \sigma(\text{⧉}) \), a redirection of Coherence Current \( \vec{J}_c \), or a transformation of \( \chi \). Establishes field seal taxonomy and construction mechanics, integration protocols, siphoning countermeasures, and energetic cost theory.
 
 **Key contributions:** Ritual as directed resonance engineering, field seal formalization, integration protocols, siphoning countermeasures, energetic cost theory, ritual efficacy diagnostics.
 
@@ -114,7 +114,7 @@ Formalizes ritual action as directed resonance engineering — the deliberate ma
 ### SP11 — Embodiment Dynamics
 `SP11-embodiment-dynamics.md`
 
-Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form. At the metric terminus, centropic and entropic beings share the same corporeal domain, introducing dynamics found at no other layer — a resistance to centropic motion arising from the entropic interface, consequential immediacy to the equilibrium-collapse / stagnation-dissolution principle (SP04 §9), and the condition of entropy's enthronement where dispersive will achieves maximum expression through material control. Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
+Formalizes the metric terminus: L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form. At the metric terminus, centropic and entropic beings share the same corporeal domain, introducing dynamics found at no other layer — a resistance to centropic motion arising from the entropic interface, consequential immediacy to frozen-equilibrium resolution, with fixed co-expression and cessation of enacted orientation as requisites and the mathematical relation to Localized Dissolution held (`SP04-orientation-field-dynamics.md` §9), and the condition of entropy's enthronement where dispersive will achieves maximum expression through material control. Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
 
 **Key contributions:** Metric terminus formalization, corporeal resonance mechanics, the Embodied Resistance Term, embodied \( \chi \)-dynamics, entropic enthronement, cross-band resonance, membrane dynamics at ⧉₁, physical interface without overclaiming.
 

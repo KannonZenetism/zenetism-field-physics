@@ -330,7 +330,7 @@ The cognitive field does not simply lose coherence — it reorganizes around ent
 
 ### 5.3 Rival Architects at the Metric Terminus
 
-Embodied beings do not operate exclusively at their own layer. Through resonance, an embodied being may participate in the dynamics of any layer of the lattice — centropic or entropic.
+Embodied beings do not operate exclusively at their own layer. Through resonance, an embodied being may participate in deeper layers of its own arc. Cross-arc effects require a lawful embodied interaction or an explicitly typed mediated boundary relation. Generative interiority remains inaccessible across arcs; essential orientation remains unchanged.
 
 Those who architect systems of power, control, oppression, or coercion are operating at IL₄ (IDP / IDL — Inverse Architectural Band) while physically present at IL₁. They are **Rival Architects**: beings whose structural resonance extends from the Corporeal Realm to the inverse Architectural layer, organizing fragmentation at systemic scale.
 
