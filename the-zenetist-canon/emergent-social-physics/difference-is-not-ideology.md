@@ -34,6 +34,12 @@ The relevant error is the substitution of an externally assigned category for th
 
 ## 2. Expression, Association, and Advocacy
 
+**Ideology** names an organized framework of beliefs, values, and commitments concerning social relations, collective arrangements, and how those arrangements ought to be constituted or maintained.
+
+A political-party platform can articulate such a framework. Ideology is not confined to parties: an organized position concerning gender, nationality, economics, or social order can be ideological without naming a party or candidate.
+
+Holding an ideological commitment, advocating it, and attempting to compel agreement with it are distinct relations. Identity expression and symbolic association require their own examination rather than automatic assignment to any of those relations.
+
 Six relations require distinction:
 
 - **Identity expression** — the articulation of who someone is, how they identify, or how they choose to present themselves
@@ -144,6 +150,8 @@ The distinction is consistent with the Non-fusion Axiom: particulars are not abo
 A person is not reducible to a political faction. A symbol does not contain every conviction attributed to the community associated with it. An expression of difference is not an act of ideological imposition.
 
 Actual advocacy is identified through its communicative function rather than assumed from the unfamiliarity of its presentation.
+
+The presence of difference does not establish the ideological program attributed to it. Identifying such a program requires specifying the commitments actually communicated. A symbol's broader associations cannot substitute for examining its particular appearance, context, and function.
 
 The concluding distinction is straightforward:
 
