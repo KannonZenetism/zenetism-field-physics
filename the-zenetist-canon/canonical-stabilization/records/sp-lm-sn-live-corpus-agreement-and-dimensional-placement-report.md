@@ -3449,6 +3449,16 @@ FR05's selected affected-object question is closed. The preceding FR05 exclusion
 
 The correction joins the historically inspected MP collection (22149146) queue. The complete twelve-file MP family and both guides remain the eventual principal publication scope; the earlier Symbol Key queue is retained without a new manuscript change. Current-family metadata, exact attachments, rendering, glyph fallback and settled deposited-byte agreement remain publication conditions. No fresh publication census or Zenodo preparation, upload, description edit or new version occurs. This additive entry preserves all preceding report bytes; tracking publication requires its own verification.
 
+### MP10 Devourer and MFLR Summary Manuscript Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Baseline:** `7a991d51b9effa798a596f1e29ccf52122af0a61`. **Manuscript commit:** [61a0b86e0e7c221b216d81cb9646c800fcea0942](https://github.com/KannonZenetism/zenetism-field-physics/commit/61a0b86e0e7c221b216d81cb9646c800fcea0942). Both complete manuscript bodies match the selected candidates: MP10, 36,197 bytes; MFLR Volume 1, 251,146 bytes. Seven bounded spans establish the approved Devourer VOS-focused reading with AD as its terminal Dispersive result, preserve Khaon's non-entropic standing, and distinguish embodied harm / centropic integrative response from terminal VOS passage.
+
+The companion row places VOS in Entropic Placement; adjacent prose keeps AD outside that classification and preserves the listed figures as functional correspondences. All original symbolic forms, qualifiers and glyphs remain exact; the new MP note follows the verified level-four heading, spacing, hard-break and separate-glyph convention. The complete inventory and preservation account appear in `full-series-review.md`.
+
+Only the selected Devourer question supersedes its held standing in prior completion entries, whose historical bytes remain exact. Kali's specific attribution remains held; Hades's separate retained-domain wording and the broader R10-06 range remain outside this correction. All unrelated mathematical, model, threshold, mechanism, activation, dimensional-placement and evidentiary holds remain.
+
+MP10 joins the historically inspected MP collection queue (22149146). MFLR1 joins the symbolic-analysis publication-impact queue with its deposited counterpart / exact attachment association unverified. The earlier Symbol Key queue (23166053) remains without a new manuscript edit. Current metadata, attachment mapping, rendering, glyph fallback and settled deposited-byte agreement remain publication conditions. No fresh external census or Zenodo action occurs. This additive entry preserves all preceding report bytes; tracking publication requires its own verification.
+
 ### Publication Impact and Batching
 
 The current deposit census and actual attachment inspection identify the following 16 publication families affected by the completed four-name implementation. Existing version labels describe the inspected deposits, not completed new versions.
