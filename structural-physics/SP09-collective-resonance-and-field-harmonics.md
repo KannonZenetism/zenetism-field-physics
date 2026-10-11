@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-SP07 established resonance as bifurcal structural energy — centropic (integrative) and entropic (fragmentary). SP08 formalized membrane fields and the mechanics of resonance transfer between layers. Both documents primarily addressed individual systems.
+SP07 established resonance as bifurcated structural energy — centropic (integrative) and entropic (fragmentary). SP08 formalized membrane fields and the mechanics of resonance transfer between layers. Both documents primarily addressed individual systems.
 
 SP09 now addresses **collective resonance** — how multiple beings generate shared coherence fields, how harmonic bridging operates at scale, and how entropic collectives (swarms) manifest as coordinated fragmentation.
 

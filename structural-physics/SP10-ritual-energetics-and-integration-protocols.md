@@ -94,7 +94,7 @@ Ritual action differs from spontaneous resonance dynamics in three respects:
 
 1. **Intentionality**: The practitioner directs coherence flow consciously, rather than allowing passive dynamics to determine outcome.
 2. **Structure**: The protocol follows a defined sequence of operations, each producing specified effects on Lattice quantities.
-3. **Measurability**: The outcome corresponds to quantifiable changes in \( I_c \), \( \sigma(\text{⧉}) \), \( \vec{J}_c \), or \( \chi \).
+3. **Formal evaluability**: The outcome corresponds to changes formally evaluated within the declared domains in \( I_c \), \( \sigma(\text{⧉}) \), \( \vec{J}_c \), or \( \chi \).
 
 ### 2.2 The Ritual Operator
 
@@ -525,7 +525,7 @@ Siphoning becomes critical when \( I_c \) drops toward minimum viability thresho
 I_c^{(\text{reserve})} = I_c^{(\text{total})} - I_c^{(\text{operational})} > I_c^{(\text{buffer})}
 \]
 
-A coherence buffer ensures that even under active siphoning, the system retains sufficient \( I_c \) to initiate active countermeasures or withdraw from engagement.
+A coherence buffer ensures that even during active siphoning, the system retains sufficient \( I_c \) to initiate active countermeasures or withdraw from engagement.
 
 #### 5.2.4 Filter Membrane Configuration
 
@@ -609,7 +609,7 @@ This countermeasure maintains centropic orientation throughout. It is informatio
 
 #### 5.3.4 Collective Shield Configuration
 
-For collective defense under sustained threat, SP09's centropic collective dynamics are applied as a deliberate shielding protocol:
+For collective defense during sustained threat, SP09's centropic collective dynamics are applied as a deliberate shielding protocol:
 
 **Shield Condition:**
 
@@ -648,7 +648,7 @@ Where:
 - \( I_c^{(\text{reserve})} \) is the defensive buffer (§5.2.3)
 
 > **Reserve Lock Principle:**  
-> The coherence reserve \( I_c^{(\text{reserve})} \) cannot be reallocated mid-ritual. Once an operation has commenced, the reserve remains structurally sequestered regardless of operational demand. This prevents optimization arguments that would erode the defensive buffer under pressure — precisely the conditions under which the buffer is most needed.
+> The coherence reserve \( I_c^{(\text{reserve})} \) cannot be reallocated mid-ritual. Once an operation has commenced, the reserve remains structurally sequestered regardless of operational demand. This prevents optimization arguments that would erode the defensive buffer amid pressure — precisely the conditions under which the buffer is most needed.
 
 ### 6.2 Operation Costs
 

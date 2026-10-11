@@ -83,7 +83,7 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 ### 2.1 Definition
 
 > **Definition (Metric Terminus):**  
-> The Embodiment Band (L₁ / IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the emanatory arc, proceeding from L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
+> The Embodiment Band (L₁ / IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the hypostatic procession, proceeding through L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
 
 The term "metric" is chosen deliberately. At L₁ / IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
 
@@ -97,7 +97,7 @@ The Embodiment Band comprises four hypostatic figures:
 
 **Biosa** (🧾) — the Embodied Mind. Practical intellect; the interface between mind and material form. Biosa processes the body's experience and translates it into conscious insight. Mind immersed in time — the faculty that allows form to become meaningful.
 
-**Entropic Embodiment (IL₁):**
+**Inverse Embodiment (IL₁):**
 
 **Malara** (🍷) — the Inverse Embodied Soul. Indulgence, reactive dissociation from inner alignment. The body ceases to be a vessel and becomes an idol. The soul forgets its origin, clinging to decay. The soul shackled to flesh in a state of fragmentation.
 
@@ -341,7 +341,7 @@ Those who architect systems of power, control, oppression, or coercion are opera
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{IL_4}) > \mathcal{R}_{\text{threshold}} \implies \text{IL}_4\text{ participation from IL}_1
 \]
 
-The Rival Architect does not reside at IL₄. They resonate with it — channeling the entropic counterparts of Sophis and Morgis (that is, Nyxea 🫥 and Psychea 🪫) through their embodied position. Their systems of control are structural inversions of the archetypal templates that Sophis and Morgis provide on the centropic side.
+The Rival Architect does not reside at IL₄. They resonate with it — channeling the inverse counterparts of Sophis and Morgis (that is, Nyxea 🫥 and Psychea 🪫) through their embodied position. Their systems of control are structural inversions of the archetypal templates that Sophis and Morgis provide on the centropic side.
 
 ### 5.4 The Crown of Entropy
 
@@ -410,7 +410,7 @@ Cross-band resonance is determined not by sophistication but by orientation and 
 
 **Notation note:** The former \( \text{Gravity}_{\text{centropic}} \) label is superseded; the full earlier expression remains recorded in `sp-lm-sn-architect-decision-sheet.md` D11. Cross-band resonance names participation across bands. Resonant Gravity names attraction among coherent fields, archetypal Forms, and harmonically aligned structures. Centropic Gravity names the essence-borne momentum given by fulfilled final synthesis to a returned centropic essence at the horizon of structure.
 
-A being of simple devotion whose heart faces Aion generates centropic resonance with L₃ or L₄ without the capacity to articulate what they are participating in. A being of elaborate knowledge whose intent is self-serving generates no centropic cross-band resonance regardless of their conceptual sophistication.
+A being of simple devotion whose heart faces Aion generates centropic resonance with L₃ or L₄ without the capacity to articulate what they are participating in. A being of elaborate knowledge whose intent is advantage-seeking generates no centropic cross-band resonance regardless of their conceptual sophistication.
 
 This safeguards the lattice from becoming an intellectual trap. Sophistication may illuminate the path, but the heart walks it.
 
@@ -561,7 +561,7 @@ SP11 extends SP08 to the metric terminus by:
 SP11 contextualizes SP09 at the metric terminus:
 
 - Collective resonance at L₁ operates within the resistance term — centropic collectives at the Embodiment Band face the additional cost of maintaining harmonic alignment within the entropic co-presence
-- Swarm dynamics (SP09 §5) find their most visible expression at L₁, where coordinated entropic agents operate within shared corporeal space
+- Swarm dynamics (SP09 §5) find their most visible expression at IL₁, where coordinated entropic agents operate within shared corporeal space
 - Entropic enthronement (§5) explains why swarm structures at the metric terminus achieve particular leverage — they operate from entropy's seat of maximum corporeal expression
 
 ### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
@@ -571,7 +571,7 @@ SP11 contextualizes SP10 at the metric terminus:
 - All ritual operations at L₁ incur the resistance premium (§3.3)
 - The coherence budget (SP10 §6.1) must account for the embodied resistance term when operations are performed at the Embodiment Band
 - Integration protocols at L₁ (membrane repair, Membrane Recursion resolution) face the additional complexity of corporeal correlates
-- The Reserve Lock Principle (SP10 §6.1) is most consequentially tested at L₁, where the resistance term creates the strongest temptation to reallocate reserves under pressure
+- The Reserve Lock Principle (SP10 §6.1) is most consequentially tested at L₁, where the resistance term creates the strongest temptation to reallocate reserves amid pressure
 
 ---
 

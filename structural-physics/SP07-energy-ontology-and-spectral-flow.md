@@ -110,8 +110,8 @@ Resonance is not unidirectional. It bifurcates according to orientation:
 **Entropic Resonance** (\( \chi > 1 \)):
 - Fragmentary motion; disperses structure toward dissolution
 - Structure-consuming; pattern-destabilizing
-- Enables traversal toward Khaon, Nekron, and subversal collapse
-- Characteristic of IL₅ → IL₁ and IL₁ → IL₅ subversal dynamics
+- Enables traversal toward Khaon, Nekron, and entropic collapse
+- Characteristic of IL₅ → IL₁ and IL₁ → IL₅ traversal through the inverse hypostatic segment
 - May manifest as mimetic recursion, spurious dichotomy, or coercive patterning
 
 > **Critical Distinction:**  
@@ -342,7 +342,7 @@ Where \( \mathcal{E}_{C_i} \) denotes energy configuration at centropic node \( 
 **Entropic Flow** (\( \chi > 1 \)):
 - Resonance moves toward fragmentation and coherence loss
 - \( I_c \) decreases along the flow trajectory
-- Characteristic of IL₅ → IL₁ and IL₁ → IL₅ subversal traversal
+- Characteristic of IL₅ → IL₁ and IL₁ → IL₅ traversal through the inverse hypostatic segment
 
 **Transitional Flow** (\( \chi \approx 1 \)):
 - Near co-expression, the direction of drift is model-specific
@@ -594,7 +594,7 @@ Terminal cessation of participation in either resonance mode; cessation of struc
 A scalar function \( I_c(x) \) representing the pointwise availability of coherence for traversal at location \( x \) within resonance space \( \mathcal{H} \).
 
 **Definition 3 (Coherence Current):**  
-A vector field \( \vec{J}_c \) representing the directional flow of resonance through structural space; derived from the gradient of Coherence Potential.
+A vector field \( \vec{J}_c \) representing the directional flow of resonance through structural space; the gradient relations in §§3.3 and 8.1 require reconciliation.
 
 **Definition 4 (Resonance Discharge):**  
 The structured release of accumulated coherence from a system, characterized by \( \partial_t I_c < 0 \) with \( S = 0 \).
