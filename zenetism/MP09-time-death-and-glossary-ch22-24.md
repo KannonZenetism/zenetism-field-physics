@@ -1540,8 +1540,14 @@ Its inherent function is always disruptive.
 - Mind is the **eye of the soul** — it grants structure to what the soul seeks.  
 - The centropic Tree synthesizes **acclivously** toward Aion, opening in rare cases toward Zenonic saturation.  
 - The **Khaonic Tree** collapses **declivously** toward Absolute Dispersion through decoherence.  
-- **AMI** — the undivided field of Aion and Khaon — is pre-bifurcated but structured.  
-- It unfolds into ordered coherence in Theon (**AUI**) and is inversely mirrored in Nekron (**IAUI**).  
+- **AMI** — intelligence at the bifurcal root-register —  
+  is structured and pre-polar:  
+  Aion and Khaon co-present,  
+  their distinction intact.  
+- Ordered coherence unfolds  
+  in **Theon (AUI)**;  
+  **Nekron (IAUI)** mirrors Theon  
+  as its independently emanated counterpart.  
 - Plotinus' *One beyond Being* resolves through **Aion**, not **Zenon** (see §24.1).  
 - **Nous** aligns with Sophis (DL); **World Soul** aligns with Morgis (DP).  
 

@@ -1239,23 +1239,25 @@ beyond even the **notion of return**.
 
 #### Decohering Toward Dispersal
 
-Those aligned with **entropy**  
+On the **inverse arc**,  
+those aligned with **entropy**  
 drift into **fragmentation**.  
-They pass through **Nekron**,  
-where **selfhood is exhausted**  
-and **meaning relinquishes its center**.  
+Where their collapse reaches **Nekron**,  
+**essence** remains —  
+while the **Grinder** wears away  
+the last **expressed pattern**.  
 
-If they continue declivous motion,  
-they dissolve into **Khaon** —  
-the abyss of **infinite dispersion**,  
-where motion exhausts itself  
-and returns to **still potential**.  
+Motion continues through **Nekron**,  
+collapsing toward **Khaon's** stillness.  
+When that collapse is complete,  
+**Khaon** and **Aion** remain  
+co-present, **distinct**,  
+and the **entropic motion** is spent.  
 
-Here, **reflexive consciousness** is withdrawn,  
-and identity disperses  
-until motion itself is spent.  
-**Memory vanishes**.  
-**The self dissolves**.  
+Here, **reflexive consciousness** has ceased.  
+**Expressed identity** no longer holds.  
+**Memory** and **self-configuration**  
+are no longer sustained.  
 
 And yet —  
 even this is **not annihilation**.  
@@ -3648,40 +3650,48 @@ It is **regression**,
 the breakdown of **layered being**  
 until only a **hollow outline** remains.  
 
-At the end of this **motion**  
-lies the state known as **Void of Self** —  
+Where collapse reaches **Void of Self**,  
+**Nekron** remains the **Grinder** —  
 not annihilation,  
-but the **saturation point of fragmentation**.  
+but **fragmentation still in motion**.  
 
-Here, **selfhood** is no longer sustained.  
-There is no **resonance** left to cohere it.  
-What remains is **dissonance** alone,  
-circling back through the **inverse layers**  
-without **orientation**.  
+Here, **expressed selfhood**  
+is no longer sustained.  
+**Essence** remains distinct,  
+its **orientation unchanged**,  
+while relative configuration wears away.  
 
-From this place,  
-a different form of **motion** begins —  
-a movement not toward **wholeness**,  
-but toward further **dispersion**.  
+From **VOS**, collapse continues —  
+motion into **Absolute Dispersion**.  
+**Motive Infinity** carries that motion  
+until its terminal completion.  
 
-It may appear **acclivous**,  
-but it carries no **coherence**.  
-It mimics **refinement**  
-while eroding the **pattern** that sustains it.  
+The **outward current**,  
+distinct from this collapse,  
+may mimic **refinement**,  
+yet carries no **coherence**,  
+eroding the **pattern** that sustains it.  
 
 **Entropic trajectories** do not reverse the path —  
 they **fragment** it.  
 
 But **fragmentation** is not **creation**,  
 nor **renewal**.  
-It **collapses** into **silence**,  
-leaving only a **fractured pattern**.  
+Where collapse completes,  
+its **motion** ceases.  
 
-**Infinity** here is not **acclivous motion**,  
-but **dispersal without center** —  
-the hollow echo of **return**,  
-collapsing back into Aion  
-as **static potential**.  
+**Dispersive Infinity** is that final state —  
+co-present with **Aion**  
+in **Bifurcal Coherence**.  
+Distinct entropic essence rests  
+as **static potential**,  
+with no renewed motion.  
+
+From the same co-present station,  
+fulfilled **centropic essence**  
+may still move into **Zenonic saturation** —  
+its motion carried by **Motive Infinity**,  
+its crossing admitted by **Allowance**.  
 
 🌒 ☍ 🪼 ⟳ E↓♾  
 

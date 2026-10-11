@@ -1745,7 +1745,7 @@ and living outwardly in a way that reflects it.
 
 While Theon (+1) and Nekron (−1)  
 are expressed as mathematical emanations —  
-initial divergences from Zero —  
+initial divergences from their proper roots —  
 subsequent hypostases such as:  
 
 - **Deep Psyche / Deep Logos (DP / DL)**  
@@ -1796,9 +1796,14 @@ When this text states that hypostases are not reducible to simple numerical incr
 it does not imply that mathematics is inapplicable —  
 only that the correct formalism has not yet been fully derived.
 
-The expressions **Theon (+1)** and **Nekron (−1)**  
-are functional designations of primary divergence from Zero,  
-not the beginning of a linear counting sequence.
+The expressions **Theon (+1)**  
+and **Nekron (−1)**  
+are **functional designations**  
+of first hypostatic divergence —  
+Theon from Zero,  
+Nekron from Infinity —  
+not the beginning  
+of a linear counting sequence.
 
 Subsequent hypostases do not correspond to "+2, +3, +4…"  
 because emanation is **not arithmetic counting** —  
@@ -2211,10 +2216,11 @@ as if fragmentation preceded it.
 Rather, it is **disunity itself**, instantiated.  
 
 It is the **First Inverse Hypostasis**,  
-appearing on the dispersive trajectory  
-of Zero's emanative split —  
-not as a child of Motive Infinity,  
-but as its structural result.  
+emanating from **Khaon** —  
+the first hypostatic articulation  
+of entropic orientation,  
+with motion borne  
+by **Motive Infinity**.  
 
 When coherence is no longer present,  
 Motive Infinity disperses.  

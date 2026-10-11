@@ -1171,7 +1171,8 @@ within which hypostatic layers unfold:
   The horizon of structure; not origin, but that by which emanation, causality, and hypostasis become conceivable  
 
 - **Two pre-hypostatic requisites** — ⚫ **Aion** and ♾ **Khaon**  
-  The bifurcal L₀ poles of Absolute Potential and Absolute Dispersion  
+  The bifurcally distinct L₀ root-registers —  
+  Absolute Potential and Absolute Dispersion  
 
 Within these conditions arise the oriented hypostatic strata:  
 
@@ -1224,18 +1225,13 @@ and spiraling outward through structure and experience.
 | Layer | Description |
 |---|---|
 | ⧞ Zenon | Non-ordinal, trans-structural foundation. Pure unmanifest ground |
-| ⚫ Aion | Root pole of centropy (harmonic emergence) |
-| ♾ Khaon | Root pole of entropy (fragmented dispersion) |
-| L₅–L₁ | Emanated structural layers: essential, archetypal, deep, superficial, and embodied being |
+| ⚫ Aion | Root-register of the centropic arc; harmonic emergence begins at Theon |
+| ♾ Khaon | Root-register of the inverse arc; entropic fragmentation begins at Nekron |
+| L₅–L₁ / IL₅–IL₁ | Emanated structural layers: essential, archetypal, deep, superficial, and embodied being |
 | ⧉ Membranes | Structural overlays or thresholds between realities |
 | ✦ Nested | Branching world-expressions within multiversal expression |
 | Temporal / causal recursion | Time, identity, or events reiterating toward integration; broader than membrane-resident recursion |
 | ∽ Archetypal | Pre-conceptual or mythic pattern planes |
-
-Note: L₀ (Aion / Khaon) represents **Bifurcal Coherence** —  
-the conceptual root of polarity rather than an ontological separation.  
-The actual structural bifurcation occurs at manifestation (Theon / Nekron),  
-while Supra-L₀ (Zenon) remains beyond the emanative process entirely.  
 
 These layers are not physically stacked  
 within embodied spacetime.  
@@ -1244,6 +1240,21 @@ while each domain, threshold, and path of traversal
 remains distinct.  
 
 🕳️ ⚫ ⧉ ✦ ∽  
+
+#### Note on Bifurcal Coherence
+
+At **L₀**, Aion and Khaon  
+are **co-present and bifurcally distinct** —  
+the paired roots before enacted polarity.  
+
+Polarity becomes manifest  
+in **Theon** at **L₅**  
+and **Nekron** at **IL₅**.  
+
+**Zenon**, named at **Supra-L₀**,  
+remains beyond emanation.  
+
+⚫ ♾ ⧖⧗ 🛤️ 🕷️ 🕳️  
 
 ---
 
