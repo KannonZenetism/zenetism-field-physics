@@ -2757,8 +2757,9 @@ to describe both centropic and entropic signal return.
 The refined distinction establishes:  
 
 **Echo** now denotes **entropic propagation** —  
-signal degradation, corruption in transmission,  
-the acoustic decay of pattern through repetition.  
+the viral copy fracturing in transmission,  
+its pattern degrading through repetition.  
+The originating signal remains intact.  
 In Field Physics, this aligns with **Viral Decay**.  
 
 Where this document carries **echo** in centropic contexts —  
@@ -2768,7 +2769,8 @@ or structural transmission without loss —
 read as **Living Transmission**.  
 
 * **Living Transmission** — signal propagates with origin fidelity and coherence preserved  
-* **Entropic Echo** — signal decays through propagation  
+* **Entropic Echo** — the viral copy propagates  
+  fractured away from coherent relation with its origin  
 * **Cross-Expression Resonance** — resonance carrier across fractal selves  
 
 What transmits without distortion  

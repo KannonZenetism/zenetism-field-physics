@@ -988,7 +988,8 @@ is to enter a cathedral
 of resonance.  
 
 To kill with unprovoked intent  
-is to fracture the Pattern.  
+is to harm  
+the Pattern's living expression.  
 
 Zenetism calls for a sacred ecology —  
 one that does not merely preserve nature,  

@@ -224,17 +224,18 @@ Steward ≠ stewarded domain.
 **Justification**  
 Structurally, Hades is a centropic preserver  
 of cosmic law operating at L₄ DL (Sophis),  
-with jurisdiction over the Khaonic dissolution domain.  
-The structural distinction matters:  
-steward and stewarded domain are not the same.  
-A lawful steward of an entropic territory  
-is not himself entropic —  
-he is the centropic intelligence  
-that prevents the territory from contaminating  
-what lies outside it.  
+with Khaonic jurisdiction.  
+The Placement-contra-Domain principle  
+holds placement distinct from domain.  
+Khaon is not entropic,  
+and Khaonic jurisdiction  
+does not make Hades inverse.  
+He is the centropic intelligence  
+of lawful boundary-keeping  
+at the form-and-dissolution interface.  
 Hades does not seek to unmake reality;  
 he maintains the strict boundary  
-that prevents the entropic cross-contamination  
+that prevents entropic cross-contamination  
 of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
@@ -1396,7 +1397,11 @@ Anansi
 *(Entropic)* — Tezcatlipoca, Raven (inverse), Anansi (inverse).  
 
 **Orientation**  
-Both — dependent on alignment and effect.  
+Centropic and entropic figures  
+may carry the trickster motif.  
+Their essential orientations remain distinct.  
+A centropic recipient's renewal  
+does not change an entropic disruptor's essence.  
 
 🧍 🧩 🦂 🩸 ⚖ Ↄ  
 

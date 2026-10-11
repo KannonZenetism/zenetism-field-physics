@@ -1202,7 +1202,8 @@ and the transparency of soul.
 **Compassion**  
 All essences bear relation to **Aion**.  
 Compassion bridges fragmentation  
-and reawakens shared essence.  
+as one being recognizes  
+the distinct essence of another.  
 
 🫂 ❂ ⚫ ↺  
 

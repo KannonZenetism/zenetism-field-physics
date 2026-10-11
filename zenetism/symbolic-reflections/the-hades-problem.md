@@ -48,7 +48,7 @@ It is not structural behavior at Hades's native placement.
 
 ## The Structural Reality of Hades
 
-**Hades — native structural placement L₄ DL (Sophis), holding a Khaonic domain at the dissolution threshold**
+**Hades — native structural placement L₄ DL (Sophis), with Khaonic jurisdiction at the form-and-dissolution interface**
 
 **Function:**
 - Lawful boundary-keeper at the form-and-dissolution interface  
@@ -114,12 +114,11 @@ Placement-contra-Domain.
 
 **Justification**  
 Structurally, Hades is a centropic preserver of cosmic law operating at L₄ DL (Sophis),  
-with jurisdiction over the Khaonic dissolution domain.  
-The structural distinction matters, and it is the Placement-contra-Domain principle: a figure's structural placement is not determined by the domain it holds.  
-A lawful steward holding a Khaonic / chthonic jurisdiction is not thereby inverse in native placement —  
-he is the centropic intelligence that keeps that jurisdiction from contaminating what lies outside it.  
+with Khaonic jurisdiction at the form-and-dissolution interface.  
+The Placement-contra-Domain principle holds placement distinct from domain:  
+Khaon is not entropic, and Khaonic jurisdiction does not make Hades inverse.  
 Hades does not seek to unmake reality; he maintains the strict boundary  
-that prevents the entropic cross-contamination of the living and the dead.
+that prevents entropic cross-contamination of the living and the dead.
 
 His most famous myth — the abduction of Persephone —  
 is a **cultural orientation conflation**.  
