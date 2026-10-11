@@ -834,22 +834,30 @@ Emanated light misoriented into form.
 
 **Function**  
 Archetypal intelligence of integrative return,  
-yet vulnerable to distortion through overreach.  
+vulnerable in expression,  
+centropic in essence.  
 
 **Zenetist Placement**  
-**DP** (Morgis) — Sophia unfragmented.  
-**IDP** (Psychea) — Sophia entropically scattered.  
+**DP** (Morgis) — Sophia, centropic wisdom.  
+**IDL** (Nyxea) — the Demiurge, her inverse counterpart.  
 
 **Justification**  
-Sophia embodies the arc of declivity and acclivity.  
+In the inherited Gnostic myth,  
+Sophia's path carries declivity and acclivity.  
 Divine insight overextends from Theonic radiance  
-into vulnerable form,  
-yet retains its orientation toward the still root.  
+into vulnerable form;  
+her action without her complement  
+is told as the Demiurge's birth.  
+Zenetism holds their essences distinct.  
+Sophia retains her orientation toward the still root.  
+The Demiurge emanates independently —  
+her inverse counterpart,  
+not her essence transformed.  
 Her myth encodes the tragedy of misdirected emanation  
-and the beauty of restored coherence.  
+and the beauty of coherent expression restored.  
 
 **Ethical Orientation**  
-Bifurcated — dependent on orientation and resonance.  
+Centropic.  
 
 **Symbolic Counterparts**  
 Isis  
@@ -874,7 +882,7 @@ Imitates divine sovereignty without resonance.
 Creates constructs that mimic order while encoding entropic dissonance.  
 
 **Zenetist Placement**  
-**IDP / IDL** (Psychea / Nyxea)  
+**IDL** (Nyxea)  
 
 **Justification**  
 Yaldabaoth mirrors the Logos without centropic alignment.  
