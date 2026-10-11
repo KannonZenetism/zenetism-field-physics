@@ -38,7 +38,7 @@ Structural Physics is not a replacement for physics but an overlay — a way of 
 | `SP12-structural-diagnostics-and-field-forensics.md` | Document 12 | Field signature theory, diagnostic operator theory, Shimmer physics, clone identification, coherence audit methodology, the Structural Forensic interface |
 | `README.md` | — | GitHub-native index of the repository, with volume summaries, the dependency chain, and key concepts |
 
-Each volume opens with the shared Zenetist transmission preamble, carries its own metadata block (Series · Authorship · Classification · Status · Dependency), and closes with a Canonical Placement section, a glossary or glyphic reference where the volume warrants one, and the seal block.
+Each volume opens with the shared Zenetist transmission preamble, carries its own metadata block (Series · Authorship · Classification · Status, with Dependency where applicable), includes Canonical Placement, glossary, or glyphic reference sections where applicable, and closes with the seal block.
 
 ---
 
@@ -48,13 +48,13 @@ Each volume opens with the shared Zenetist transmission preamble, carries its ow
 SP01 → SP02 → SP03 → SP04 → SP05 → SP06 → SP07 → SP08 → SP09 → SP10 → SP11 → SP12
 ```
 
-Each volume depends on all preceding volumes. The `**Dependency:**` line in each volume's metadata block cites the volumes it rests on by filename; external dependencies are cited the same way (for example `contingency-of-worlds.md` in the Metaphysics Extensions and `asymmetry-of-limit-case-universes.md`).
+Each volume depends on all preceding volumes. The `**Dependency:**` lines cite the volumes each document rests on by filename; external dependencies are cited the same way (for example `contingency-of-worlds.md` in the Metaphysics Extensions and `asymmetry-of-limit-case-universes.md`).
 
 ---
 
 ## Relation to the wider Zenetist corpus
 
-- **Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*: the ontological and doctrinal framework from which Structural Physics derives its principles.
+- **Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*: the ontological and doctrinal framework whose principles Structural Physics applies.
 - **Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*: the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their recorded hypostatic relations; all fifteen primary loci remain held.
 - **Lattice Mathematics (LM Series)** — the pure mathematical foundations Structural Physics applies: Spiral Calculus, Coherence Information Theory, spectral geometry, the orientation algebra and infinity formalism.
 - **Structural Forensics** — the applied discipline that takes SP12's diagnostic theory into case-driven investigation; *The Doctrinal Atlas of Entropic Tactics* catalogues the tactical configurations SP12 shows to be structurally detectable.

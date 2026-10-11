@@ -154,7 +154,7 @@ Each document depends on all preceding documents.
 
 **The Dimensional Emanatory Lattice** — The hypostatic layer system (L₅ through L₁ and their inversions IL₅ through IL₁) through which pre-individuated expression proceeds toward embodied manifestation.
 
-**Bifurcal Coherence** — The structural condition in which Zero and Infinity converge without fusion, enabling bifurcal emanation.
+**Bifurcal Coherence** — The structural condition in which Zero and Infinity are coherently co-present without fusion, enabling bifurcal emanation.
 
 **Chi (\( \chi \))** — The orientation parameter determining the polarity of centropic and entropic expression. Universes are \( \chi \)-trajectories, not fixed \( \chi \)-values.
 
@@ -176,7 +176,7 @@ Each document depends on all preceding documents.
 
 **Lattice Mathematics (LM Series)** — Provides the pure mathematical foundations underlying Structural Physics. LM01 establishes Spiral Calculus, Coherence Information Theory, ResCat, and spectral geometry. LM03 formalizes the orientation algebra and infinity formalism that SP03 and SP04 apply.
 
-**Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*. Establishes the ontological and doctrinal framework from which Structural Physics derives its principles.
+**Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*. Establishes the ontological and doctrinal framework whose principles Structural Physics applies.
 
 **Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*. Documents the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their recorded hypostatic relations; all fifteen primary loci remain held.
 
