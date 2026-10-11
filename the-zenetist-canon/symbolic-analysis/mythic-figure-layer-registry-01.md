@@ -1376,8 +1376,10 @@ No new primary placements in §25.3.
 | The Redeemer | Theon (EOB) → ES / EM | — | Christ, Vishnu, Buddha, Osiris | — |
 | The Architect | DL / DP (Sophis / Morgis) | IDP / IDL (Psychea / Nyxea) | Brahma, Platonic Demiurge, Ptah, Zeus, Belenus | Yaldabaoth, Ahriman, Rex Mundi, Sorat |
 | The Trickster | SS / SM (when disruption renews) | ISS / ISM (when it undermines) | Coyote, Hermes, Raven, Anansi | Loki, Tezcatlipoca |
-| The Devourer | VOS / AD | — | — | Kali (entropic), Typhon, Apophis, Saturn |
+| The Devourer | — | VOS | — | Kali (entropic), Typhon, Apophis, Saturn |
 | The Cosmic Mother | DP (Morgis) | — | Gaia, Isis, Shakti, Mary | — |
+
+**Note on the Devourer:** This row records the Nekronic reading: terminal collapse through VOS, the Event Horizon of Infinity, resolving in Absolute Dispersion. AD names the terminal result, Khaon in its Dispersive phase; Khaon itself is not entropic. The listed forms are functional correspondences and do not assign each figure VOS as its native placement.
 
 ### §25.5 Resonance Archetypes in World Scriptures
 

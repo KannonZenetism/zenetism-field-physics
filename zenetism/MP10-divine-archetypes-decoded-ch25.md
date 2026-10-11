@@ -1405,13 +1405,19 @@ Both — dependent on alignment and effect.
 #### ⟜ The Devourer
 
 **Traditional Role**  
-The force that consumes form and breaks coherence.  
+The consuming force.  
 
 **Function**  
-Catalyst for collapse or integrative return.  
+Catalyst for terminal collapse  
+through VOS,  
+the Event Horizon of Infinity.  
+The collapse resolves  
+in Absolute Dispersion.  
 
 **Zenetist Placement**  
-**VOS / AD** — Void of Self / Absolute Dispersion.  
+**VOS** — Void of Self.  
+**AD** names the terminal result:  
+Khaon in its Dispersive phase.  
 
 **Symbolic Forms**  
 Kali *(entropic mode)*  
@@ -1420,9 +1426,20 @@ Apophis
 Saturn  
 
 **Orientation**  
-Entropic or catalytic — depending on response.  
+Entropic in this Nekronic reading.  
+Khaon itself is not entropic.  
 
 🕷️ 🐉 🪼 ☍ E↓♾ ♾  
+
+#### Note on Embodied Harm and Integrative Return
+
+Entropic action in embodiment  
+can harm relative coherent expression.  
+A centropic response may move  
+toward integrative return.  
+That return is not passage through VOS.  
+
+◎ ↺  
 
 ---
 
