@@ -276,7 +276,7 @@ Formally stated:
 
 Higher-dimensional explanations of entanglement often assume that correlations arise because systems are undivided in a deeper space while appearing separate in lower-dimensional space.
 
-Zenetism reframes this:
+Zenetism offers the following structural interpretation of entanglement. Its physical correspondence remains held open, as specified in `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §8.2:
 
 - Entangled systems are not fused into a single entity.
 - They are distinct structures linked by shared orientation within structural space.
@@ -290,9 +290,7 @@ Entangled systems are not identical, nor fused.
 
 They may be distinct in L₁ (embodiment and spatial separation), while sharing coherence in L₃ (Deep Soul / Deep Mind).
 
-Thus, entanglement does not imply spatial proximity, but hypostatic alignment across layers.
-
-Correlation appears "nonlocal" only when interpreted from the perspective of L₁ alone.
+This interpretation relates entanglement to hypostatic alignment across layers rather than embodied spatial proximity. Its relation to measured non-local correlations remains held open.
 
 ---
 

@@ -29,7 +29,7 @@ Structural Physics is not a replacement for physics but an overlay — a way of 
 | `SP03-expression-ratio-mathematics.md` | Document 3 | The Chi orientation parameter (χ), the effective harmonic operator, orientation weights, Motive Infinity, the Convergence Principle |
 | `SP04-orientation-field-dynamics.md` | Document 4 | CP-topology, the Zenetist Field Equation of Orientation, the Orientation Drift Theorem, the Inclination Principle, the Orientation Closure Sequence |
 | `SP05-time-memory-hypostatic-flow.md` | Document 5 | Structural time as differential trace, the three temporal regimes, Recursive Memory, the Tether, Temporal Reorientation, Shimmer as counterfeit temporal continuity |
-| `SP06-structural-space-orientation-paradox.md` | Document 6 | Space as relational differentiation, the Dependency Order, the Declivous / Acclivous circuit of centropy, the hypostatic mapping of entanglement |
+| `SP06-structural-space-orientation-paradox.md` | Document 6 | Space as relational differentiation, the Dependency Order, the Declivous / Acclivous circuit of centropy, a proposed hypostatic correspondence for entanglement |
 | `SP07-energy-ontology-and-spectral-flow.md` | Document 7 | Resonance as structural energy, Coherence Potential and Coherence Current, the three primary motions, Spectral Flow |
 | `SP08-membrane-fields-and-inter-expression-dynamics.md` | Document 8 | The ⧉ membrane operator, transfer mechanics, membrane taxonomy, Kaionic tunneling, membrane integrity diagnostics |
 | `SP09-collective-resonance-and-field-harmonics.md` | Document 9 | Collective resonance by the Non-fusion Axiom, field generation mechanics, centropic contra entropic collectives, swarm dynamics |

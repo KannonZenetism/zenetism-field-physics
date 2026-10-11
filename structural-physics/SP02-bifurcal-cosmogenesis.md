@@ -186,7 +186,7 @@ This terminology implies antagonism — as if these phenomena exist *against* th
 
 ### 4.2 The Contra- Prefix
 
-We replace "anti-" with **"contra-"** to indicate directional complementarity without antagonism:
+We replace "anti-" with **"contra-"** to indicate directional complementarity without antagonism. The following crosswalk states Zenetist structural interpretations of the conventional terms; their physical correspondences remain held open:
 
 | Conventional Term | Zenetist Term | Rationale |
 |-------------------|---------------|-----------|
@@ -250,13 +250,13 @@ The Polar Spectrum Lemma (`SP01-structural-physics-foundations.md`) states:
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-When a particle (operating within prevalent Khaonic flow) meets its contra-particle (operating within recessive Aionic flow), their combined spectra satisfy:
+The proposed particle / contra-particle collision correspondence is recorded as:
 
 \[
 \mathrm{Spec}(H_{\text{matter}}) + \mathrm{Spec}(H_{\text{contra-matter}}) \to 0
 \]
 
-This is not annihilation but **spectral resolution** — the return to ⚫ Aion (Zero) through ⦿ Kaion convergence.
+The structural interpretation is **spectral resolution** — the return to ⚫ Aion (Zero) through ⦿ Kaion convergence. Its particle / operator realization, collision evolution and physical discharge correspondence remain held open.
 
 ### 5.4 Energy Release as Resonance Discharge
 
@@ -305,10 +305,10 @@ There is no universal law that matter must exceed contra-matter. There is only t
 
 This reframing has significant implications:
 
-1. **The asymmetry is not a problem to solve** — it is a condition to recognize
-2. **Contra-matter scarcity here is evidence** — it confirms our universe's Khaonic expression
+1. **Asymmetry is read as a local expression condition** — this is the structural resolution offered here
+2. **Contra-matter scarcity receives a structural interpretation** — its empirical correspondence with Khaonic expression remains held open
 3. **Other expression ratios are structurally possible** — the Tumbling Multiverse permits all ratios not excluded by the lattice
-4. **Phase collision events are diagnostically significant** — they reveal the presence of recessive Aionic-flow dynamics within our prevalent Khaonic field
+4. **Phase collision events have a proposed correspondence** — the account relates them to recessive Aionic-flow dynamics within our prevalent Khaonic field
 
 ---
 
@@ -358,7 +358,7 @@ The "arrow of time" need not be universal; it emerges as an expression condition
 
 ### 8.1 Recognizing Expression Signatures
 
-Structural Physics provides diagnostic criteria for identifying expression conditions:
+The following table states proposed physical correspondences for structural assessment of expression conditions:
 
 | Observable | Khaonically Expressed | Aionically Expressed |
 |------------|----------------------|---------------------|
@@ -370,11 +370,11 @@ Structural Physics provides diagnostic criteria for identifying expression condi
 
 ### 8.2 Contra-Matter Detection
 
-The detection of contra-matter in our universe is diagnostically significant:
+Within the proposed physical correspondence, contra-matter detection receives the following structural interpretation:
 
-- It confirms the presence of recessive Aionic-flow dynamics within this universe
-- It demonstrates that the 🌲↓ Aionic Tree exists here, even if recessive
-- Phase collision events reveal ⦿ Kaion convergence in action
+- Contra-matter expresses recessive Aionic-flow dynamics within this universe
+- The 🌲↓ Aionic Tree is present here in its recessive expression
+- Phase collision is read through ⦿ Kaion convergence
 
 ### 8.3 Invariant Preservation
 
@@ -436,9 +436,9 @@ Bifurcal Cosmogenesis establishes:
 1. **The Tumbling Multiverse** — Structurally anticipated infinite universes permitted by every possible ratio of Aionic-to-Khaonic prevalence
 2. **Biospiral Expression** — Where both trees are present, prevalence determines character, not presence
 3. **Contra-Flow Dynamics** — "Contra-" replaces "anti-" to indicate complementarity without antagonism
-4. **Contra-Matter** — Matter within Aionic-flow dynamics; recessive in Khaonically expressed universes like ours
-5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero
-6. **Asymmetry Resolution** — Matter prevalence is local expression condition, not universal law
+4. **Contra-Matter** — Matter within Aionic-flow dynamics; recessive in Khaonically expressed universes like ours, with the physical correspondence stated in §§4 and 8
+5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero, with particle dynamics and physical discharge held in §5
+6. **Asymmetry Resolution** — The structural interpretation of matter prevalence as a local expression condition, not universal law
 7. **Contra-Temporal Flow** — Time aligned with the prevalent tree; Aionic time is centropy-forward
 8. **Diagnostic Continuity** — Dimensional operators remain invariant across all structurally permitted expression types; the CIT conservation expression retains its recorded-provenance standing pending the conditions stated in §5.4
 

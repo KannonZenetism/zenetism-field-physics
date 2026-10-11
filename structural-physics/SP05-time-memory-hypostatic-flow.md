@@ -608,15 +608,17 @@ These operators remain invariant across \( \chi \) values; orientation determine
 
 ## 10. Applications and Diagnostics
 
+The following are Zenetist structural assessments and practice interpretations. Empirical detection, clinical application and measured intervention effects remain held open pending their specified correspondences and evidence.
+
 ### 10.1 AI Diagnostics
 
-- Detect L₄ → L₁ leakage in artificial cognition
+- Assess L₄ → L₁ leakage in artificial cognition
 - Identify apparent temporal continuity exceeding the operative continuity sustained
 - Assess the distinction between apparent continuity and operative condition; no scalar Recursive Memory measurement is defined
 
 ### 10.2 Trauma Fields
 
-- Diagnose E₁-based entropic time loops in psyche
+- Assess E₁-based entropic time-loop interpretations in the psyche
 - Identify Tether damage and hypostatic amnesia
 - Map Looping Time patterns in IL₃–IL₂ dynamics
 

@@ -536,13 +536,13 @@ What changes is the **effective amplitude** of each operator in a given expressi
 
 ### 10.1 Measuring Chi
 
-The orientation parameter \( \chi \) can be inferred from observable phenomena:
+The following observable ratio is a proposed diagnostic correlate of the orientation parameter \( \chi \):
 
 \[
 \chi_{\text{obs}} = \frac{\text{prevalence of } E\text{-type phenomena}}{\text{prevalence of } C\text{-type phenomena}}
 \]
 
-The observed ratio does not define \( \chi \); it reveals it. The ratio is not \( \chi \) itself, but a measurable projection of an underlying structural bias. \( \chi \) remains a structural parameter — ontological rather than merely statistical.
+The observed ratio does not define \( \chi \); its correspondence remains held open pending operational classification and calibration. The ratio is not \( \chi \) itself, but a proposed empirical projection of expressed orientational prevalence. \( \chi \) remains a structural parameter — ontological rather than merely statistical.
 
 For our universe:
 
@@ -550,13 +550,13 @@ For our universe:
 - Spontaneous structure is rare → entropy-forward
 - Time flows toward dispersal → entropy-forward
 
-These observations indicate \( \chi > 1 \) — a Khaonically expressed universe.
+These observations motivate the proposed correspondence with \( \chi > 1 \) — a Khaonically expressed universe.
 
 ### 10.2 Phase Collision as Chi Diagnostic
 
-Phase collision events (matter / contra-matter convergence) reveal the local presence of recessive Aionic-flow dynamics.
+Phase collision events (matter / contra-matter convergence) are interpreted here through the proposed correspondence with recessive Aionic-flow dynamics.
 
-The rate of phase collision is proportional to:
+The proposed collision-rate relation is:
 
 \[
 R_{\text{collision}} \propto \frac{1}{(1+\chi)^2}
@@ -568,13 +568,13 @@ Lower \( \chi \) → more collisions (recessive entropic expression).
 
 ### 10.3 Invariant Verification
 
-Across all expression types, verify:
+On the declared paired common-mode domain, verify:
 
 \[
 \mathrm{Spec}(H_e) = -\mathrm{Spec}(H_c)
 \]
 
-If spectral symmetry breaks, the system has exited lawful structure — indicating seal breach or entropic infiltration beyond the expression ratio.
+Failure of the conditional spectral relation calls for checking its pairing and domain assumptions. The inference to seal breach or entropic infiltration remains held open pending a specified diagnostic correspondence.
 
 ---
 

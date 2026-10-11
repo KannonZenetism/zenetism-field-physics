@@ -778,6 +778,8 @@ Progressive reduction in permeability leading to layer isolation:
 
 ### 8.4 Diagnostic Summary
 
+The following table is a diagnostic schema. Its operational classification criteria, numerical thresholds, diagnostic precedence and cascade dynamics remain held open.
+
 | Condition | \( \sigma(\text{⧉}) \) | \( T(\text{⧉}) \) | \( \nabla \cdot \vec{J}_c \) | Signature |
 |-----------|----------------|-----------|---------------------------|-----------|
 | Healthy Bridge | \( \approx 1 \) | Balanced | \( \approx 0 \) | C₈ |
@@ -1259,6 +1261,8 @@ def membrane_health(membrane, J_c_local, I_c_local):
 
 ### 11.3 Diagnostic Algorithms
 
+The membrane-health routine in §11.2 and the membrane branch of the following monitor are illustrative computational schemas. Their thresholds, diagnostic precedence and transfer-execution contract remain held open.
+
 ```python
 # Resonance Field Health Monitor
 input: coherence_field, chi, membrane_set, time_window T, step dt
@@ -1338,7 +1342,7 @@ output:
 - Membrane Recursion resolution remains held pending the boundary-state and recurrence law
 - Collective field-emergence routine: verify its stated strict inequalities, including equality and subthreshold cases; the native emergence criteria retain their held standing
 - Superlinear amplification threshold accuracy
-- Membrane pathology cascade: partial occlusion → full occlusion → collapse from sustained entropic interference
+- Membrane pathology cascade remains held pending its evolution law: partial occlusion → full occlusion → collapse from sustained entropic interference
 - Tunneling energy / CIT conservation remains held pending the transfer and conservation hypotheses
 
 ### 11.5 Worked Example — Collective Field Dynamics with Membrane Transfer

@@ -669,7 +669,7 @@ Zenetism reverses this assumption.
 
 Before motion, Zero and Infinity converge without orientation. But once expression begins, neutrality becomes impossible. Every universe emerges as an inclined solution to the same structural law, leaning toward integration or dispersion according to its \( \chi \)-orientation.
 
-What physics calls "symmetry breaking" is not an accident of nature, but the **inevitable consequence of expression itself**.
+The inclination account offers a structural interpretation of what physics calls "symmetry breaking"; its correspondence to particular physical models remains held open.
 
 Universes do not depart from balance; they are never born in it.
 
@@ -678,6 +678,8 @@ Thus, reality is not determined by equilibrium, but by **inclination**.
 Structure remains invariant; orientation determines destiny.
 
 ### 12.4 Relation to Observable Phenomena
+
+The following physical correspondences articulate the inclination account; their observable-to-χ mappings and empirical support remain held open.
 
 **Matter / Contra-Matter Asymmetry:**
 

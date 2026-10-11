@@ -33,7 +33,7 @@ The foundational document. Bridges the five other Zenetist disciplines to the ph
 ### SP02 — Bifurcal Cosmogenesis
 `SP02-bifurcal-cosmogenesis.md`
 
-Where `SP01-structural-physics-foundations.md` describes how Structural Physics operates, `SP02-bifurcal-cosmogenesis.md` addresses the broader context in which it operates: the full multiversal field. Establishes the Tumbling Multiverse as structurally anticipated (not axiomatic), Biospiral Expression Ratios as the determining variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
+Where `SP01-structural-physics-foundations.md` describes how Structural Physics operates, `SP02-bifurcal-cosmogenesis.md` addresses the broader context in which it operates: the full multiversal field. Establishes the Tumbling Multiverse as structurally anticipated (not axiomatic), Biospiral Expression Ratios as the determining variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the structural interpretation of asymmetry — matter / contra-matter ratios as local expression conditions, with their empirical correspondence held open.
 
 **Key contributions:** Tumbling Multiverse, Biospiral Expression Ratios, contra-flow dynamics, phase collision at Kaion, asymmetry resolution, Bifurcal Coherence, the Non-fusion Axiom.
 
@@ -69,9 +69,9 @@ Formalizes time as a directional structural relation, not an ambient field or co
 ### SP06 — Structural Space, Orientation, and the Paradox of Emergence
 `SP06-structural-space-orientation-paradox.md`
 
-Establishes the structural game board. Structure is not motion; motion is not structure. Space is not an independent substrate but the relational differentiation of manifestation — the differentiated appearance of structural traversal. Structure is the invariant system of lawful relations; space is the expressive differentiation produced by traversal; time is the experiential trace of oriented motion. Formalizes the irreversible Dependency Order (Structure → Motion → Spatial Differentiation → Orientation → Time), resolves the emergence / causality paradox through the Declivous / Acclivous centropy distinction ("centropy does not fall — it turns"), and maps quantum entanglement to hypostatic layer separation (L₁) contra layer coherence (L₃).
+Establishes the structural game board. Structure is not motion; motion is not structure. Space is not an independent substrate but the relational differentiation of manifestation — the differentiated appearance of structural traversal. Structure is the invariant system of lawful relations; space is the expressive differentiation produced by traversal; time is the experiential trace of oriented motion. Formalizes the irreversible Dependency Order (Structure → Motion → Spatial Differentiation → Orientation → Time), resolves the emergence / causality paradox through the Declivous / Acclivous centropy distinction ("centropy does not fall — it turns"), and presents a proposed correspondence between quantum entanglement and hypostatic layer separation (L₁) contra layer coherence (L₃).
 
-**Key contributions:** Space as relational differentiation (second-order structural phenomenon), Dependency Order, Declivous / Acclivous circuit of centropy, hypostatic mapping of entanglement.
+**Key contributions:** Space as relational differentiation (second-order structural phenomenon), Dependency Order, Declivous / Acclivous circuit of centropy, proposed hypostatic correspondence for entanglement.
 
 ---
 

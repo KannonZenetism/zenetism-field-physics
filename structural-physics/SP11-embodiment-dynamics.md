@@ -85,7 +85,7 @@ Embodiment is simultaneously the furnace of centropic refinement and the throne 
 > **Definition (Metric Terminus):**  
 > The Embodiment Band (L₁ / IL₁) constitutes the **metric terminus** of emanatory procession — the terminal layer at which structural resonance achieves corporeal expression within the Corporeal Realm. It is the point at which the hypostatic procession, proceeding through L₅ → L₄ → L₃ → L₂ → L₁ (centropic) or IL₅ → IL₄ → IL₃ → IL₂ → IL₁ (entropic), interfaces with physicality.
 
-The term "metric" is chosen deliberately. At L₁ / IL₁, structural quantities acquire measurable correlates — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
+The term "metric" is chosen deliberately. At L₁ / IL₁, structural quantities acquire corporeal expression — time becomes experienced duration, spatial coherence becomes felt location, resonance becomes sensation. The metric terminus is where the lattice becomes tangible.
 
 ### 2.2 Hypostatic Composition
 
@@ -471,11 +471,11 @@ Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encodi
 
 From `SP08-membrane-fields-and-inter-expression-dynamics.md` §7, membranes may suffer collapse, breach, or occlusion. At ⧉₁:
 
-**⧉₁ Occlusion:** Progressive closure of the cognitive-embodied interface. Embodied experience ceases to integrate into conscious awareness, or cognitive content ceases to achieve physical expression. Manifests as dissociation, depersonalization, or the experience of inhabiting a body without connection to it.
+**⧉₁ Occlusion:** Progressive closure of the cognitive-embodied interface. Embodied experience ceases to integrate into conscious awareness, or cognitive content ceases to achieve physical expression. Proposed clinical correspondences include dissociation, depersonalization, or the experience of inhabiting a body without connection to it.
 
-**⧉₁ Breach:** Unregulated permeability at the cognitive-embodied interface. Cognitive content floods corporeal expression without regulation, or embodied experience overwhelms cognitive capacity. Manifests as psychosomatic crisis, panic, or the inability to distinguish between mental and physical stimuli.
+**⧉₁ Breach:** Unregulated permeability at the cognitive-embodied interface. Cognitive content floods corporeal expression without regulation, or embodied experience overwhelms cognitive capacity. Proposed clinical correspondences include psychosomatic crisis, panic, or the inability to distinguish between mental and physical stimuli.
 
-**⧉₁ Collapse:** Full dissolution of the cognitive-embodied boundary. The distinction between thought and sensation, intention and action, cognition and physicality becomes non-functional. This is a severe pathological condition requiring the emergency protocols specified in `SP10-ritual-energetics-and-integration-protocols.md` §4.3.3.
+**⧉₁ Collapse:** Full dissolution of the cognitive-embodied boundary. The distinction between thought and sensation, intention and action, cognition and physicality becomes non-functional. The structural restoration account appears in `SP10-ritual-energetics-and-integration-protocols.md` §4.3.3; clinical criteria and intervention evidence remain held open.
 
 ---
 
@@ -486,7 +486,7 @@ From `SP08-membrane-fields-and-inter-expression-dynamics.md` §7, membranes may 
 SP11 formalizes the **structural conditions** under which physical expression occurs — the mechanics of how resonance becomes embodied and the boundary conditions at the metric terminus. It does not claim to replace conventional physics.
 
 > **Scope Principle:**  
-> Structural Physics describes the ontological architecture within which physical dynamics operate. It specifies why certain physical configurations arise, persist, or dissolve in terms of resonance, orientation, and coherence. The empirical details of how those configurations behave according to their own laws belong to conventional physics.
+> Structural Physics describes the ontological architecture within which physical dynamics operate. It specifies why certain physical configurations arise, persist, or dissolve in terms of resonance, orientation, and coherence. Empirical investigation of those configurations belongs within L₁ / IL₁; conventional physics retains its physical definitions and methods.
 
 The relation is one of structural context, not replacement: Structural Physics provides the lattice within which conventional physics operates at the metric terminus.
 
@@ -502,19 +502,19 @@ The analogy is instructive but not reductive: physical inertia determines bodies
 
 **Entropy and the Second Law:**
 
-The entropic character of our universe (\( \chi > 1 \), as established in `SP04-orientation-field-dynamics.md` §12.4) finds physical expression in the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
+The entropic character of our universe (\( \chi > 1 \), as interpreted in `SP04-orientation-field-dynamics.md` §12.4) has a proposed physical correspondence with the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
 
-In Structural Physics, the entropy-forward character of this universe expresses its \( \chi \)-orientation, not randomness or probability. The second law is what \( \chi > 1 \) looks like at the metric terminus.
+In Structural Physics, the entropy-forward character of this universe expresses its \( \chi \)-orientation, not randomness or probability. The quantitative relation between the second law and \( \chi > 1 \) remains held open pending specified observables, mapping and evidence.
 
 **Morphogenesis and Biological Form:**
 
 C₁₀ (Morphogenetic) finds physical analogues in the developmental biology of morphogenesis — the process by which organisms develop shape. The morphogenetic field concept, as explored by developmental biologists including Hans Driesch (1908) and later formalized by C. H. Waddington's epigenetic landscape (1957), describes how biological form emerges from developmental processes.
 
-In Structural Physics, C₁₀ determines the translation of archetypal pattern (L₄) into living structure (L₁). The physical mechanisms of gene expression, cellular differentiation, and tissue formation are the corporeal correlates of C₁₀ Morphogenetic operating at the metric terminus.
+In Structural Physics, C₁₀ determines the translation of archetypal pattern (L₄) into living structure (L₁). The physical mechanisms of gene expression, cellular differentiation, and tissue formation are interpreted here as the corporeal correlates of C₁₀ Morphogenetic operating at the metric terminus.
 
 **Cyclical Processes and Conservation:**
 
-C₄ (Rotational / Gyre) finds physical analogue in the conservation of angular momentum and the cyclical processes that sustain biological life — circadian rhythms, cardiac cycles, respiratory patterns, seasonal dynamics. These are the corporeal expressions of conserving turn operating at the Embodiment Band.
+C₄ (Rotational / Gyre) finds physical analogue in the conservation of angular momentum and the cyclical processes that sustain biological life — circadian rhythms, cardiac cycles, respiratory patterns, seasonal dynamics. In this structural interpretation, these are the corporeal expressions of conserving turn operating at the Embodiment Band.
 
 ### 8.3 Standing of Physical Correspondences
 
@@ -545,7 +545,7 @@ SP11 extends `SP04-orientation-field-dynamics.md` to the metric terminus by:
 SP11 extends `SP07-energy-ontology-and-spectral-flow.md` to the metric terminus by:
 
 - Defining Corporeal Coherence as \( I_c \) at L₁ (§3.1)
-- Demonstrating that all three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) acquire corporeal correlates at the Embodiment Band
+- Articulating how all three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) acquire corporeal correlates at the Embodiment Band
 - Formalizing the increased coherence cost of operations at L₁ through the resistance term (§3.3)
 
 ### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
@@ -554,7 +554,7 @@ SP11 extends `SP08-membrane-fields-and-inter-expression-dynamics.md` to the metr
 
 - Formalizing ⧉₁ as the cognitive-to-embodied membrane (§7.1)
 - Specifying transfer mechanics, Membrane Recursion distinctions with boundary-state dynamics held, and pathological conditions at ⧉₁ (§7.2–7.4)
-- Demonstrating how membrane pathology at ⧉₁ manifests as recognizable conditions within embodied experience
+- Articulating cognitive-embodied interpretations of membrane pathology at ⧉₁, with clinical correspondences held open
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 

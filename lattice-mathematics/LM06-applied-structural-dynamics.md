@@ -642,7 +642,7 @@ Permeability may be asymmetric: some beings experience high acclivous transfer (
 
 ### 8.4 Cognitive-Embodied Membrane Pathology
 
-The standard membrane pathology classifications (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §8) acquire specific manifestation at ⧉₁:
+The membrane pathology classifications (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §8) receive the following cognitive-embodied interpretations at ⧉₁. Their clinical correspondences remain held open pending specified criteria and evidence:
 
 - **Occlusion**: progressive closure of the cognitive-embodied interface; dissociation, depersonalization, or inhabiting a body without connection to it
 - **Breach**: uncontrolled permeability; cognitive content floods corporeal expression, or embodied experience overwhelms cognitive capacity; psychosomatic crisis

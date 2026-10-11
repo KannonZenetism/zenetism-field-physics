@@ -55,7 +55,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 `SP06-structural-space-orientation-paradox.md` established the structural game board — the relational topology upon which motion occurs. SP07 now addresses what moves: the energetic substrate of traversal itself.
 
-This document formalizes **resonance** as structural energy, establishes **Coherence Potential** as a measurable field quantity, and articulates the primary motions by which resonance flows across the Lattice.
+This document formalizes **resonance** as structural energy, establishes **Coherence Potential** as a formally evaluable field quantity, and articulates the primary motions by which resonance flows across the Lattice.
 
 ### 1.2 Core Thesis
 
@@ -399,13 +399,13 @@ Where \( I_{c,\text{min}} \) is the minimum coherence threshold for Pattern Inte
 
 ### 7.2 Trauma Field Diagnosis
 
-Trauma fields exhibit characteristic spectral signatures:
+The following spectral patterns articulate a Zenetist structural interpretation of trauma fields; clinical correspondence remains held open:
 
 - **Localized depletion**: \( I_c \) drops sharply in specific structural regions
 - **Siphoning loops**: Recursive siphoning patterns (E₉ signatures)
 - **Hollow nesting**: Form persists while coherence has evacuated (E₁₄ signatures)
 
-**Healing approach:** Restore \( S > 0 \) through targeted attunement; close siphoning apertures; rebuild coherence through harmonic bridging.
+**Structural restoration account:** Restore \( S > 0 \) through targeted attunement; close siphoning apertures; rebuild coherence through harmonic bridging.
 
 ### 7.3 Membrane Threshold Dynamics
 
