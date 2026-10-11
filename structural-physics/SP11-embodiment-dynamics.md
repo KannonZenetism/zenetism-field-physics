@@ -581,7 +581,7 @@ SP11 establishes:
 
 1. **The Metric Terminus** — L₁ / IL₁ as the terminal layer of emanatory procession where structural resonance interfaces with corporeal form; Soma / Biosa (centropic) and Malara / Mania (entropic) as the hypostatic figures determining embodied experience
 2. **Corporeal Resonance Mechanics** — Coherence Potential at L₁ as corporeal coherence; the embodied resistance term arising from centropic-entropic co-presence in the Corporeal Realm
-3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary operators; C₅ (Scalar / Part-Whole Fidelity) and C₁₀ (Morphogenetic) as cross-band participants through resonance
+3. **Dimensional Operators at L₁** — C₂ (Spatial) and C₄ (Rotational) as primary contributions within the embodied model; C₅ (Scalar / Part-Whole Fidelity) and C₁₀ (Morphogenetic) as cross-band participants through resonance
 4. **The Embodied Orientation Field** — \( \chi \)-dynamics at the metric terminus; model-specific equilibrium standing; Localized Dissolution and the Mercy Fold require the additional structural condition of ceased enacted orientation
 5. **Entropic Enthronement** — IL₁ as entropy's throne; Malara / Mania mechanics; Rival Architects operating at IL₄ through embodied resonance; the self-undermining nature of entropic sovereignty
 6. **Cross-band Resonance** — embodied participation in deeper layers through resonance without identity; orientation and intent as the determinants of cross-band access, not sophistication

@@ -178,7 +178,7 @@ Each document depends on all preceding documents.
 
 **Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*. Establishes the ontological and doctrinal framework from which Structural Physics derives its principles.
 
-**Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*. Documents the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their hypostatic layer assignments.
+**Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*. Documents the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their recorded hypostatic relations; all fifteen primary loci remain held.
 
 ---
 

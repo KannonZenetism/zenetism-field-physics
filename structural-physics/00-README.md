@@ -55,7 +55,7 @@ Each volume depends on all preceding volumes. The `**Dependency:**` line in each
 ## Relation to the wider Zenetist corpus
 
 - **Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*: the ontological and doctrinal framework from which Structural Physics derives its principles.
-- **Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*: the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their hypostatic layer assignments.
+- **Field Physics (FP Series)** — *Field Physics: The Architecture of Resonance*: the dimensional operators (C₁–C₁₅ and E₁–E₁₅) and their recorded hypostatic relations; all fifteen primary loci remain held.
 - **Lattice Mathematics (LM Series)** — the pure mathematical foundations Structural Physics applies: Spiral Calculus, Coherence Information Theory, spectral geometry, the orientation algebra and infinity formalism.
 - **Structural Forensics** — the applied discipline that takes SP12's diagnostic theory into case-driven investigation; *The Doctrinal Atlas of Entropic Tactics* catalogues the tactical configurations SP12 shows to be structurally detectable.
 - **Structural Neuroscience (SN Series)** — the application of lattice principles to cognition, intelligence, and pattern integration.
