@@ -54,7 +54,7 @@
 | Wilderness | Universal | **L₀ (Bifurcal Coherence)** — pre-polar, root-structural ground where Aionic stillness and Khaonic motion coexist prior to centropic or entropic activation. Neutral testing ground, crucible, dispersal field for expelled dissonance | 16 | Distinct from Forest (L₄ DP). Same word "wilderness" carries different structural meanings in Decode 16 (this entry) and Decode 22 (Forest as archetypal field) |
 | Primordial Waters / Nun / Narayana's Ocean | Universal | **L₀ (Bifurcal Coherence) in primarily Khaonic expression** — leaning dispersive but rooted in pre-activation ground; Aionic stillness underlies even the Deep | 18 | Tiamat, Nun, Narayana's Ocean as cultural articulations. Distinct from Wilderness (pre-polar) and Forest (L₄ DP). See Wilderness / Waters / Forest distinction note |
 | Chronos | Greek | Khaon — time as dissolution; the limit of forms; personified articulation of Khaon in its Dispersive phase; lawful entropy within Khaonic motion; terminal resonance touches VOS (Nekron) | MP01 §25.3 | Centropic → inverse arc. Distinct from **Saturn / Kronos** at IL₄ IDP / IDL: Chronos is the L₀ Khaonic time-principle, Kronos the Titan-leader, and the offspring-consuming myth belongs to that row |
-| Kali | Hindu | Khaon — sacred time-force, catalytic unmaking; walks the edge between liberation and annihilation; terminal function touches VOS | MP01 §25.3 | Transcendent or entropic depending on response; same orientation-dependent placement as Chronos |
+| Kali | Hindu | Khaon — sacred time-force and catalytic unmaking (cosmogonic articulation); DP (Morgis) — fierce structural correction (operative articulation); VOS is a devouring-image correspondence | MP10 §25.3 | Centropic in both articulations; destructive imagery and recipient response do not alter essence. See `mythic-figure-layer-registry-02.md`, *Note on Goddess-Tradition Cross-Stratum Articulation* |
 | Yama | Hindu | Khaon / VOS resonance — lord of death and dissolution; time-force holding the threshold of form's exhaustion | MP10 §25.3 | Also has judicial function (judging the dead) = L₄ DL cultural conflation; listed here for dissolution function |
 | Mahakala | Tibetan Buddhist | Khaon / VOS resonance — wrathful time-deity; protector of Dharma through destructive function; dissolution as service to coherence | MP10 §25.3 | Protector function is centropic (DL structural correction); time-dissolution function is Khaonic |
 | Janus | Roman | Aion / Khaon boundary — bifurcation point; stillness turning to motion; pure potential splitting into polarity; gateway where emanation begins | MP01 §25.3 | Pre-polar; neither wholly centropic nor entropic |
@@ -1289,7 +1289,7 @@ No figures placed. Zenon is pre-figural.
 |:--|:--|:--|:--|
 | Shiva | Khaon / Theon | Dispersive dissolution and return through release; awareness unbound by polarity; bridges both Trees | Transcendent / polar |
 | Chronos | Khaon → VOS | Time as dissolution; the limit of forms; Khaon in its Dispersive phase; lawful entropy; terminal resonance at IL₅ VOS | Entropic (lawful) |
-| Kali | Khaon → VOS | Sacred time-force; catalytic unmaking; liberation or annihilation depending on response | Transcendent or entropic |
+| Kali | Former shorthand: Khaon → VOS; canonical articulations: Khaon / DP (Morgis) | Cosmogonic sacred time-force and catalytic unmaking at Khaon; operative fierce correction at DP; VOS remains a devouring-image correspondence | Centropic; destructive imagery and recipient response do not alter essence |
 | Saturn / Kronos | IDP / IDL → Khaon | **Reclassified.** Titan; inverse archetypal order; time-as-dissolution consuming emanations; terminal resonance at IL₅ VOS | Entropic |
 | Janus | Aion / Khaon boundary | Bifurcation point; gateway where emanation begins | Pre-polar |
 
@@ -1376,7 +1376,7 @@ No new primary placements in §25.3.
 | The Redeemer | Theon (EOB) → ES / EM | — | Christ, Vishnu, Buddha, Osiris | — |
 | The Architect | DL / DP (Sophis / Morgis) | IDP / IDL (Psychea / Nyxea) | Brahma, Platonic Demiurge, Ptah, Zeus, Belenus | Yaldabaoth, Ahriman, Rex Mundi, Sorat |
 | The Trickster | SS / SM (when disruption renews) | ISS / ISM (when it undermines) | Coyote, Hermes, Raven, Anansi | Loki, Tezcatlipoca |
-| The Devourer | — | VOS | — | Kali (entropic), Typhon, Apophis, Saturn |
+| The Devourer | — | VOS | — | Kali (devouring portrayal), Typhon, Apophis, Saturn |
 | The Cosmic Mother | DP (Morgis) | — | Gaia, Isis, Shakti, Mary | — |
 
 **Note on the Devourer:** This row records the Nekronic reading: terminal collapse through VOS, the Event Horizon of Infinity, resolving in Absolute Dispersion. AD names the terminal result, Khaon in its Dispersive phase; Khaon itself is not entropic. The listed forms are functional correspondences and do not assign each figure VOS as its native placement.

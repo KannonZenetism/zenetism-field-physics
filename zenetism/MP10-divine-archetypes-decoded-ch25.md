@@ -796,21 +796,26 @@ Goddess of destruction, time, and egoic dissolution.
 
 **Function**  
 Fierce mother, annihilator of illusion.  
-Catalyst for liberation through purifying collapse,  
-yet capable of consuming through unchecked fragmentation.  
+Catalyst for liberation  
+through fierce structural correction.  
 
 **Zenetist Placement**  
 **Khaon** (AD) — sacred time-force, catalytic unmaking.  
-**VOS** — terminal entropy, identity collapse through over-fragmentation.  
+**DP** (Morgis) — fierce structural correction.  
+**VOS** — a correspondence of the devouring portrayal,  
+not her native placement.  
 
 **Justification**  
+In inherited portrayals,  
 Kali walks the edge between liberation and annihilation.  
 Her dance can strip the illusory self to reveal the eternal,  
 or scatter relative form beyond recovery.  
 Transformative, but never tame.  
 
 **Ethical Orientation**  
-Khaonic or entropic — depending on response.  
+Centropic.  
+Destructive imagery and recipient response  
+do not alter her essence.  
 
 **Symbolic Counterparts**  
 Sekhmet  
@@ -1425,7 +1430,7 @@ in Absolute Dispersion.
 Khaon in its Dispersive phase.  
 
 **Symbolic Forms**  
-Kali *(entropic mode)*  
+Kali *(devouring portrayal)*  
 Typhon  
 Apophis  
 Saturn  
