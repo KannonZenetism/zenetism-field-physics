@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Social Interpretation and Attribution  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Function:** Distinguishes identity expression, symbolic association, affiliation, advocacy, and imposition, with particular attention to the attribution of ideological intent through social classification  
 **Dependency:** `frame-dependent-fitness-and-reality-seeking.md` · `institutional-veracity-and-the-neutrality-inversion.md` · `conditions-of-centropy-forward-social-reorientation.md` · `metaphysics-symbol-key.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
