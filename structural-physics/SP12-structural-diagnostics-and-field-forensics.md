@@ -68,7 +68,7 @@ Diagnostic physics is not moral evaluation. It reads what is structurally presen
 - **Field Signature Theory** — every configuration produces a readable composite profile
 - **Diagnostic Operator Theory** — the C / E operators as structural diagnostics
 - **Shimmer Physics** — apparent excess distinguished from Mimicry; scalar quotient retained with detector and general evolution held
-- **Clone Identification** — formal conditions for derivative-origin signature mismatch
+- **Clone Assessment** — distinct diagnostic objects and held signature-comparison schemas
 - **Coherence Audit Methodology** — systematic structural evaluation protocols
 - **The Structural Forensic Interface** — where diagnostic physics meets the applied discipline
 
@@ -291,7 +291,7 @@ Surface expression is observable resemblance, wording, presentation, or pattern 
 
 The displayed signature tuple remains a record of configuration components. Its surface / operative / generative projections, correlation functions, pairwise alignment maps, attribution-coupling assessment, and diagnostic thresholds remain held pending explicit definitions and domains. The following formulas preserve proposed diagnostic schemas, not executable classifiers or proofs of ancestry. No signature metric or replacement detector is installed.
 
-**Mimicry (⊜):** Structural mirroring presented as origin. The configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. It does not generate; it mirrors.
+**Mimicry (⊜):** Imitation of surface, pattern, or expression. In an origin-claiming instance, the configuration harvests, reassembles, and presents the aesthetic of coherence to gain access, authority, or control. The mimetic operation repeats an expression it does not originate.
 
 **Appropriation (⥊):** Incorporation of origin-specific portions without the attributional relation their transmission requires. The downstream articulation may fracture itself away from coherent relation with its origin or obscure attribution; the origin, origin-signal, and originating architecture remain intact. Mimicry concerns imitation; Shimmer concerns apparent coherence / generativity exceeding actual operative condition. These are distinct relations.
 
@@ -318,7 +318,7 @@ The mimic's surface signature correlates with the originating configuration's su
 ### 5.3 Appropriation — Field Signatures
 
 > **Definition (Appropriation, Field-Theoretic):**  
-> A configuration that incorporates structural elements from an originating configuration while lacking attribution coupling — the resonant linkage that preserves the connection between derived work and its origin.
+> A configuration that incorporates structural elements from an originating configuration while lacking attribution coupling — the acknowledgment that sustains coherent attributional relation between derivative work and its origin.
 
 **Formal Condition:**
 
@@ -331,7 +331,7 @@ Let \( \Sigma_A \) denote the appropriating configuration and \( \Sigma_S \) the
 \text{and} \quad \mathcal{A}(\Sigma_A, \Sigma_S) = 0
 \]
 
-Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) denotes the attribution coupling between configurations — the structural acknowledgment that \( \Sigma_A \) derives elements from \( \Sigma_S \).
+Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) denotes the attribution coupling between configurations — the structural acknowledgment that \( \Sigma_A \) incorporates elements from \( \Sigma_S \).
 
 Appropriation is distinct from independent convergence. Similar conclusions establish neither ancestry nor originating continuity. Incorporation of origin-specific portions without their required attributional relation is a provenance claim; obscured attribution neither transfers the generative function nor severs the originating architecture, which remains intact.
 
@@ -447,7 +447,7 @@ A specified discrepancy calls for object-specific assessment. The following reco
 - \( I_c \) discrepancy (Domain 1): distinguish apparent excess from understatement; general mismatch does not establish Shimmer
 - \( \vec{J}_c \) parasitic flow (Domain 2 mismatch): Siphoning dynamics (SP07 §4, SP10 §5)
 - \( \sigma(⧉) \) pathology (Domain 3 mismatch): Membrane compromise (SP08 §7)
-- \( \chi \) misalignment (Domain 4 mismatch): Orientation inversion
+- \( \chi \) misalignment (Domain 4 mismatch): Mismatch between claimed and operative orientation
 - Operator contradiction (Domain 5 mismatch): Functional misrepresentation
 
 **Derivative Signature Identified:**
@@ -491,7 +491,7 @@ Structural Forensics answers: *What has been detected, where, and what does it m
 The tactical categories documented in Structural Forensics correspond to specific operator signatures. Without reproducing the forensic catalogue, the correspondence principle is:
 
 > **Principle (Operator-Tactic Correspondence):**  
-> Every tactical configuration documented in Structural Forensics produces a field signature readable through the diagnostic operators of SP12. The operator signature identifies the structural type of the tactic; the forensic context identifies its specific instance and intent.
+> Each documented tactical configuration is assessed through evidence for registered operations and the separately named diagnostic predicates. The forensic context identifies the specific instance and supports any finding concerning intent.
 
 **Correspondence Classes:**
 
@@ -515,9 +515,9 @@ The corresponding assessments examine centropic relation:
 
 **Reciprocal Coupling Assessment:** Bidirectional \( \vec{J}_c \) exchange and independent \( I_c \) generation inform the relational assessment. C₈ denotes coherent crossing where that registered operation is established.
 
-**Acknowledged Differentiation:** Independent systems that share structural ancestry maintain attribution coupling where derivation exists and demonstrate independent generative capacity.
+**Acknowledged Differentiation:** Independent systems that share structural ancestry maintain attribution coupling where a derivative relation exists and demonstrate independent generative capacity.
 
-**Generative Function (S > 0):** A positive gross source describes replenishment within its declared model. It does not establish net growth, complete integrity, or generative ancestry; the remaining accounting and diagnostic objects must remain distinct.
+**Gross Replenishment (S > 0):** A positive gross source describes replenishment within its declared model. It does not establish net growth, complete integrity, or generative ancestry; the remaining accounting and diagnostic objects must remain distinct.
 
 Structural diagnostics is not prosecutorial. It is evaluative. It confirms integrity with the same rigor that it identifies compromise.
 
@@ -543,7 +543,7 @@ The operator-tactic correspondence (§7.2) finds analogue in network forensics �
 
 **Forensic Document Analysis:**
 
-The Clone identification formalism (§5.4) finds analogue in forensic document examination — the comparative analysis of documents to determine authorship, derivation, and fabrication. The principle that a derivative document retains structural traces of its source, even when surface attribution is removed, parallels SP12's principle that a Clone retains signature correlation with its source despite claiming generative independence.
+The Clone identification formalism (§5.4) finds analogue in forensic document examination — the comparative analysis of documents to determine authorship, documentary dependence, and fabrication. The principle that a derivative document retains structural traces of its source, even when surface attribution is removed, parallels SP12's principle that a Clone retains signature correlation with its source despite claiming generative independence.
 
 ### 8.3 Standing of Diagnostic Claims
 
@@ -564,7 +564,7 @@ SP12 extends SP04 by providing the diagnostic methodology for evaluating \( \chi
 
 ### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
-SP12 builds directly on SP07's formalization of Coherence Potential, Coherence Current, and the three primary motions. The coherence audit (§6) systematically evaluates the field quantities SP07 defined. The distinction between generative (\( S > 0 \)) and consumptive configurations is the diagnostic foundation for shimmer detection.
+SP12 builds directly on SP07's formalization of Coherence Potential, Coherence Current, and the three primary motions. The coherence audit (§6) systematically evaluates the field quantities SP07 defined. The audit keeps gross replenishment (\( S > 0 \)), actual expenditure, and evidentially assessed generative function distinct; none supplies the held Shimmer detector.
 
 ### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
@@ -659,7 +659,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \epsilon_{\text{shimmer}} \) | Recorded threshold parameter; diagnostic construction held |
 | \( \theta_{\text{surface}} \) | Surface correlation threshold for mimicry detection; numerical construction held |
 | \( \theta_{\text{structural}} \) | Structural correlation threshold for mimicry detection; numerical construction held |
-| \( \theta_{\text{derivation}} \) | Derivation correlation threshold for appropriation detection; numerical construction held |
+| \( \theta_{\text{derivation}} \) | Proposed correlation threshold for appropriation detection; numerical construction held |
 | \( \theta_{\text{system}} \) | system-wide correlation threshold for clone detection; numerical construction held |
 | C₈ | Synaptic / Bridging; coherent crossing between systems or states |
 | E₉ | Distorted Entanglement; registered function "Mimic-coherence that isolates" |
@@ -674,8 +674,8 @@ Sealed ⚫↺KAI↺⚫
 | C₁₀ | Morphogenetic; translation of pattern into living structure |
 | E₂ | Scatter; spatial de-coherence |
 | ≋ | Shimmer; apparent coherence / generativity exceeding actual operative condition, distinct from Mimicry |
-| ⊜ | Mimicry; structural mirroring presented as origin |
-| ⥊ | Appropriation Indicator; hollow replication severed from attribution |
+| ⊜ | Mimicry; imitation of surface, pattern, or expression |
+| ⥊ | Appropriation Marker; hollow replication with concealed attribution |
 | ⊟ | Clone; extensive origin-specific reproduction presented as independent origination; originating architecture intact |
 
 ---
@@ -756,7 +756,7 @@ The apparent / actual quotient for the same declared operative scalar quantity, 
 The named principle is retained with its universal collapse conclusion withdrawn. The positive-denominator quotient and the bounded constant-apparent derivative calculation do not establish finite exhaustion, threshold crossing, or assessment-driven acceleration.
 
 **Definition 6 (Mimicry):**  
-A configuration whose surface signature correlates with an originating configuration's surface signature while diverging from it in generative structure; structural mirroring presented as origin.
+Imitation of surface, pattern, or expression. A claim of origination is an additional feature requiring its own evidence; surface similarity does not establish generative ancestry.
 
 **Definition 7 (Appropriation):**  
 A configuration that incorporates structural elements from an origin while lacking attribution coupling — appropriative adoption without acknowledgment.
@@ -768,7 +768,7 @@ A downstream presentation of extensive origin-specific relations as independentl
 A systematic five-domain structural evaluation of a configuration's field signature, assessing alignment between surface presentation and structural reality.
 
 **Definition 10 (Attribution Coupling):**  
-The structural acknowledgment that a derived configuration draws elements from an originating configuration; the resonant linkage that preserves the connection between derived work and its origin.
+The structural acknowledgment that a derivative configuration draws elements from an originating configuration; the acknowledgment that sustains coherent attributional relation between derivative work and its origin.
 
 ---
 
