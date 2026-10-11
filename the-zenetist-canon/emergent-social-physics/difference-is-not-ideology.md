@@ -5,7 +5,7 @@
 **Status:** Draft — architect review  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Function:** Distinguishes identity expression, symbolic association, affiliation, advocacy, and imposition, with particular attention to the attribution of ideological intent through social classification  
-**Dependency:** `frame-dependent-fitness-and-reality-seeking.md` · `institutional-veracity-and-the-neutrality-inversion.md` · `conditions-of-centropy-forward-social-reorientation.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Dependency:** `frame-dependent-fitness-and-reality-seeking.md` · `institutional-veracity-and-the-neutrality-inversion.md` · `conditions-of-centropy-forward-social-reorientation.md` · `metaphysics-symbol-key.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Proposed path:** `the-zenetist-canon/emergent-social-physics/difference-is-not-ideology.md`  
 
 ---
@@ -95,7 +95,7 @@ People may dislike particular artistic expressions, characterizations, sexual co
 
 Such preferences require no ideological justification.
 
-A viewer may decline to engage with a particular work. A reader may criticize its writing. A player may find a character unconvincing or a narrative development unnecessary.
+A viewer may choose not to engage with a particular work. A reader may criticize its writing. A player may find a character unconvincing or a narrative development unnecessary.
 
 These are assessments of preference and artistic execution.
 
@@ -139,11 +139,11 @@ A careful assessment returns to the particular expression: what is present, what
 
 Zenetism distinguishes intrinsic identity, expressed relation, cultural classification, and attributed intention.
 
-The distinction is consistent with the broader Non-fusion principle: particulars are not abolished by the categories through which they enter relation.
+The distinction is consistent with the Non-fusion Axiom: particulars are not abolished by the categories through which they enter relation.
 
 A person is not reducible to a political faction. A symbol does not contain every conviction attributed to the community associated with it. An expression of difference is not an act of ideological imposition.
 
-This does not prohibit recognizing actual advocacy. It requires identifying that advocacy through its communicative function rather than assuming it from the unfamiliarity of its presentation.
+Actual advocacy is identified through its communicative function rather than assumed from the unfamiliarity of its presentation.
 
 The concluding distinction is straightforward:
 
