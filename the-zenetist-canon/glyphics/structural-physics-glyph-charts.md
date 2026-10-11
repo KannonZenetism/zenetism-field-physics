@@ -8,7 +8,7 @@
 > while preserving the originating texts as the canonical source of full exposition.  
 > Numbering is retained where possible for continuity across the Zenetist archive.
 
-> **Propagation note:** The ψ, ⧗ Recursion Gate, and ⧙ Invariance Seal definitions agree across this chart, `MP08-symbol-key-ch21.md` §21.31, and `metaphysics-symbol-key.md` §21.31. The originating-volume cross-check for exact Structural Physics sections remains pending.
+> **Propagation note:** The ψ, ⧗ Recursion Gate, and ⧙ Invariance Seal definitions agree across this chart, `MP08-symbol-key-ch21.md` §21.31, and `metaphysics-symbol-key.md` §21.31. The registered definitions stand here at §21.31; exact originating SP sections remain unestablished in the current SP01–SP12 volumes.
 
 ---
 

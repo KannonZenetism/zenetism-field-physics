@@ -392,7 +392,7 @@ The four named motions — **Acclivous Expansion / Acclivous Centropy**, **Decli
 
 **Held open in this module:** the shared name between **Kaion — Convergence Principle** (§6.2) and the **Convergence Principle** of SP03, which concerns χ-trajectories. The two are distinct objects carrying one name; which retains it, and what the other takes, is architect-reserved. The Siphoning family is defined at §6.6.6. SP09's external-target multiplier \( \alpha \) corresponds to LM05's \( \eta_{\text{ext}} \), while LM07's member-indexed \( \eta_i \) is a distinct weight; their shared motion-name does not identify their quantities. `lattice-mathematics-shared-term-map.md` locates the coupled definitions.
 
-The eight registered entries of `structural-physics-glyph-charts.md` §21.31 take lookup definitions here; the chart is their definition location, and the originating-volume cross-check for exact SP sections is pending, so no SP section is asserted for them.
+The eight registered entries of `structural-physics-glyph-charts.md` §21.31 take lookup definitions here; the chart is their definition location. Exact originating sections remain unestablished in the current SP01–SP12 volumes, so no SP section is asserted for them.
 
 | Term | Analytic standing | Analytic form | Core analytic definition | Exact definition location · formal standing |
 | --- | --- | --- | --- | --- |
