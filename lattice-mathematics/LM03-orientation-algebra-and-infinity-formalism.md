@@ -61,7 +61,7 @@ This document, LM03, provides the **rigorous lattice-mathematical formalism** un
 
 ### 1.2 What LM03 Establishes
 
-- **Tripartite Infinity Formalism** — The three phases of L₀ (Latent, Motive, Dispersive) as formal mathematical objects, with the stillness-equivalence relation and activation conditions
+- **Tripartite Infinity Formalism** — The three phases of Khaon at L₀ (Latent, Motive, Dispersive) as formal mathematical objects, with the stillness-equivalence relation and activation conditions
 - **The Chi Orientation Parameter** — Rigorous definition, spectral properties, and trajectory characterization
 - **Effective Operator Theory** — The \( \chi \)-parameterized family of operators, with full spectral decomposition
 - **CP-Topology** — The geometric structure of convergence and equilibrium in orientation space
@@ -87,11 +87,11 @@ The dependency chain is:
 
 ### 2.1 The Pre-hypostatic Phase Space
 
-L₀ is not a simple point or undifferentiated ground. It contains structurally distinct phases that determine the transition from stillness to expression.
+At L₀, Khaon articulates structurally distinct phases spanning latent Infinity, active motion, and terminal dispersion. Aion remains the distinct co-present root of stillness.
 
 **Definition (Pre-hypostatic Phase Space):**
 
-Let \( \Omega_0 \) denote the **pre-hypostatic phase space** of L₀, partitioned into three structurally distinct regions:
+Let \( \Omega_0 \) denote the **Khaonic pre-hypostatic phase space** at L₀, partitioned into three structurally distinct regions:
 
 \[
 \Omega_0 = \Phi_1 \cup \Phi_2 \cup \Phi_3
@@ -131,7 +131,7 @@ Critically:
 \Phi_1 = \{\omega \in \Omega_0 \mid \mathcal{M}(\omega) = 0,\ \kappa(\omega) = \text{pre}\}
 \]
 
-Latent Infinity is unexpressed potential within Zero — stillness prior to expression. The condition \( \kappa(\omega) = \text{pre} \) indicates causal placement before any expression has occurred.
+Latent Infinity is unexpressed potential co-present with Zero — stillness prior to expression. The condition \( \kappa(\omega) = \text{pre} \) indicates causal placement before any expression has occurred.
 
 **Definition (Motive Infinity, \( \Phi_2 \)):**
 
@@ -281,11 +281,11 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 
 | Expression Type | \( \chi \) Value | Character |
 |-----------------|------------------|-----------|
-| Fully Aionic | \( \chi = 0 \) | Centropic expression without Khaonic participation (limit case) |
+| Fully Aionic | \( \chi = 0 \) | Centropic expression with zero entropic weight (limit case) |
 | Aionically expressed | \( 0 < \chi < 1 \) | Centropy-forward; entropy recessive |
 | Co-expressive equilibrium | \( \chi = 1 \) | Co-expressive ratio; stability depends on the model (§§7–8), and frozen equilibrium additionally requires cessation of enacted orientation (§8.7) |
 | Khaonically expressed | \( \chi > 1 \) | Entropy-forward; centropy recessive |
-| Fully Khaonic | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
+| Fully Khaonic | \( \chi \to \infty \) | Entropic expression with zero limiting centropic weight (limit case) |
 | Non-bifurcated | \( \chi \) undefined | Systems not instantiating the L₀ bifurcation |
 
 ### 3.3 Orientation as Trajectory
@@ -578,7 +578,7 @@ Let \( \bar{\mathcal{X}} = [0, \infty] \) denote the **closed orientation manifo
 
 Expressed universes occupy the **open interior** \( \mathcal{X} \). The boundary points \( \partial\bar{\mathcal{X}} = \{0, \infty\} \) are limit cases. Their attainment is model-specific: the outward-drift law has the intensity-integral endpoint conditions of §8.6; the full written law attracts finite positive initial values to 1 with the conditions of §7.
 
-Within \( \bar{\mathcal{X}} \):
+Relative to \( \bar{\mathcal{X}} \):
 
 - **CP₀** functions as a convergence singularity (pre-expressive closure, **outside** \( \bar{\mathcal{X}} \) entirely — \( \chi \) is undefined at CP₀)
 - **CP₁** is the expressive equilibrium coordinate **inside** \( \mathcal{X} \) at \( \chi = 1 \); its stability depends on the law (§§7–8)
@@ -1280,7 +1280,7 @@ The system drifts toward \( \chi = 0 \) but remains above zero — centropic app
 
 LM03 establishes:
 
-1. **Tripartite Infinity Formalism** — The three phases of L₀ (\( \Phi_1, \Phi_2, \Phi_3 \)) as formal mathematical objects with the Motive Intensity Functional \( \mathcal{M} \), stillness-equivalence relation \( \equiv_s \), and Activation Theorem
+1. **Tripartite Infinity Formalism** — The three phases of Khaon at L₀ (\( \Phi_1, \Phi_2, \Phi_3 \)) as formal mathematical objects with the Motive Intensity Functional \( \mathcal{M} \), stillness-equivalence relation \( \equiv_s \), and Activation Theorem
 
 2. **The Chi Orientation Parameter** — Rigorous definition of \( \chi \in [0, \infty] \) as a structural orientation parameter determining the polarity of centropic and entropic expression, with the Orientation Law characterizing universes as \( \chi \)-trajectories
 
@@ -1288,7 +1288,7 @@ LM03 establishes:
 
 4. **CP-Topology** — The CP-potential \( \Phi_{\text{CP}}(\chi) \) with reciprocal symmetry, the CP₀ / CP₁ distinction, and contra-biospiral pairing via \( \chi \cdot \chi' = 1 \)
 
-5. **Attractor Dynamics** — Basin structure under \( \chi \), connecting to the Lyapunov functional of LM01
+5. **Attractor Dynamics** — Recorded basin and orientation-slope interpretations under \( \chi \), with their relation to the Lyapunov-like functional of `LM01-mathematical-foundations.md` held pending specification (§6.1)
 
 6. **The Zenetist Field Equation** — The full written law \( d\chi/d\tau = \Lambda\mathcal{M}\chi(1-\chi) - \Gamma\,d\Phi_{\text{CP}}/d\chi \), with attraction to 1 for the stated positive coefficients and held-open activation compatibility
 
@@ -1444,7 +1444,7 @@ The drift arrows and endpoint times in this diagram describe the conditional out
 
 **Definition 1 (Pre-hypostatic Phase Space):**
 
-\( \Omega_0 = \Phi_1 \cup \Phi_2 \cup \Phi_3 \), where \( \Phi_1 \) (Latent), \( \Phi_2 \) (Motive), and \( \Phi_3 \) (Dispersive) are the three phases of L₀.
+\( \Omega_0 = \Phi_1 \cup \Phi_2 \cup \Phi_3 \), where \( \Phi_1 \) (Latent), \( \Phi_2 \) (Motive), and \( \Phi_3 \) (Dispersive) are the three phases of Khaon at L₀.
 
 **Definition 2 (Motive Intensity Functional):**
 

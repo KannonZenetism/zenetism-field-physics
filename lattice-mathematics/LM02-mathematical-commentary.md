@@ -192,6 +192,8 @@ states the Coherence Potential balance within its declared domain. A corresponde
 
 ### 5.1 Poles and Spectral Anchors
 
+**Recorded spectral-root proposal — identification and naming held.** The following spectral identifications retain the coordinated spectral-pole hold. Any identification of the metaphysical roots with spectral values requires its separately determined relation.
+
 The spectral characterization of the poles is stable and precise. Aion (⚫) as the two-sided spectral boundary at \( \lambda = 0 \), Khaon (♾) as the asymptotic dispersive boundary \( |\lambda| \to \infty \), and Zenon (🕳️) as extra-spectral and trans-structural — these identifications are consistent across the series and are not modified by LM03–LM06. The Polar Spectrum Lemma resolves as a mirror about zero, with Aion as the convergence point from both directions.
 
 ### 5.2 Theon and the EOB-Membrane Interface
@@ -462,7 +464,7 @@ As detailed in §8.3, the symbol \( I_c \) denotes two distinct quantities: spec
 
 ### 14.5 Gauss-Bonnet-Coherence Implications
 
-The Gauss-Bonnet-Coherence theorem (`LM01-mathematical-foundations.md` Phase 3) relates total spiral curvature, boundary geodesic curvature, and the coherence Euler characteristic \( \chi_c(\Omega, \sigma) \). The implications of this result for lattice stability (under what conditions is \( \chi_c \) invariant?), seal architecture (how do different seal types affect the boundary integral?), and topological phase transitions (what discontinuities in \( \chi_c \) correspond to in lattice dynamics?) have not been explored. This is a rich direction: the theorem connects local geometric quantities to global topological invariants weighted by seal structure.
+The recorded Gauss-Bonnet-Coherence proposal (`LM01-mathematical-foundations.md` Phase 3) names an intended relation among total spiral curvature, boundary geodesic curvature, and the coherence Euler characteristic \( \chi_c(\Omega, \sigma) \). Its geometric realization remains held. The open questions concern lattice stability (under what conditions is \( \chi_c \) invariant?), seal-dependent boundary integrals, and topological transitions (what discontinuities in \( \chi_c \) correspond to in lattice dynamics?). They require the manifold, metric, connection, boundary conditions, and seal-weighted invariant appropriate to the proposed relation before its consequences can be established.
 
 ### 14.6 Spectral Alignment Postulate — Independent Axiom or Provable Result?
 

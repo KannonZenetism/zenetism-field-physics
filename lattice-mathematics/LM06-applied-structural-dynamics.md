@@ -1336,7 +1336,7 @@ Step 5 — Coherence Audit:
 
 **Integration Tests:**
 
-- Ritual Operator composition: verify non-commutativity for operations that modify overlapping field regions
+- Ritual Operator composition: verify explicitly specified non-commuting examples; overlapping field regions do not establish non-commutativity
 - CIT expression: verify its declared spectral and logarithmic domains; native correspondence and full preservation across applied operations remain held
 - Embodied χ-equation: verify asymmetric resistance (centropic regime resisted via \( \Theta_{\text{c}} = 1 \), entropic regime unresisted via \( \Theta_{\text{c}} = 0 \))
 - Coherence Audit: confirm the routine declines an unsupported diagnostic verdict
@@ -1445,7 +1445,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \theta_{\text{derivation}} \) | Derivation threshold (appropriation detection); numerical construction held |
 | \( \theta_{\text{system}} \) | System correlation threshold (clone detection); numerical construction held |
 | ≋ | Shimmer; apparent coherence / generativity exceeding actual operative condition |
-| ⊜ | Mimicry; structural mirroring presented as origin |
+| ⊜ | Mimicry; imitation of surface, pattern, or a specified relation |
 | ⥊ | Appropriation; appropriative adoption without attribution |
 | ⊟ | Clone; extensive origin-specific reproduction presented as independent origination; originating architecture intact |
 | \( w_i \) | Voluntary cost weighting factor |
@@ -1632,9 +1632,11 @@ Five-domain evaluation of \( \Sigma \) assessing surface-structure alignment.
 
 \( \mathcal{R}_{\text{interface}}(L_k) \approx 0 \) for \( k \neq 1 \); \( \mathcal{R}_{\text{interface}}(L_1) > 0 \).
 
-**Theorem 4 (Embodied Orientation Evolution):**
+**Proposed Model 4 (Embodied Orientation Evolution):**
 
 \( d\chi/d\tau|_{L_1} = \Lambda \mathcal{M} \chi(1-\chi) - \Gamma \, d\Phi_{\text{CP}}/d\chi + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \).
+
+The coupled-model standing, rate typing, domain, boundary behavior, and relation to the intended motion architecture remain held as stated in §7.1.
 
 **Theorem 5 (Signature Consistency Principle):**
 

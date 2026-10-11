@@ -65,7 +65,7 @@ This document, LM07, provides the **rigorous lattice-mathematical formalism** un
 ### 1.2 What LM07 Establishes
 
 - **The Khaonic Expression Ratio** — The formal parameter \( \kappa \) quantifying the local entropic-to-centropic prevalence, its modulation of interface resistance, and its interaction with the Embodied χ-Equation
-- **Compounded Cost Algebra** — The formal cost equations for high-pattern-fidelity, recursive, and dispersive architectures, composite budget dynamics, and the budget exhaustion condition
+- **Compounded Cost Algebra** — The formal cost equations for high-pattern-fidelity, recursive, and distributive architectures, composite budget dynamics, and the budget exhaustion condition
 - **Essence-Function Independence** — The architectural distinction between functional depletion and intrinsic essential inclination; χ remains expressed prevalence, with model scope stated separately
 - **The Coherence Breaker Limit** — The formal boundary of entropic disruption: what can and cannot be altered by external depletion
 - **Recovery Integral Theory** — The replenishment source decomposition, the recovery condition, and the formal dynamics of Tether restoration
@@ -208,7 +208,9 @@ Where \( N(\tau) \) is the number of futile σ-cycles within the structural time
 > **Note on Centropic Recursion:**  
 > The recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain. In centropic mode, the per-cycle cost \( \Delta I_c^{(\text{cycle})} \) is offset by per-cycle coherence gain \( \Delta I_c^{(\text{gain})}(n) > 0 \), and the net recursive cost may be zero or negative (net coherence generation through recursive refinement). The entropic mode cost equation applies only when the recursion has shifted entropic — when E₁ (Temporal Loop), E₄ (Vortex), and E₁₄ (Hollow Nest) operators are prevalent.
 
-**Definition (Dispersive Architecture Cost):**
+**Definition (Distributive Architecture Cost):**
+
+The existing formal identifier `disp` retains the former configuration label as a notation alias and now identifies distributive architecture cost.
 
 \[
 I_{c,\text{cost}}^{(\text{disp})} = I_{c,\text{cost}}^{(\text{structural})} + \kappa \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{distribution})}
@@ -645,7 +647,7 @@ The structural cost \( I_{c,\text{cost}}^{(\text{structural})} \) and the (reduc
 = (\kappa - \kappa_{\text{local}}) \cdot \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) + \Delta I_c^{(\text{translation})} + \Delta I_c^{(\text{tax})}
 \]
 
-The cost shelter magnitude is the sum of the three eliminated cost terms. For composite architectures, the shelter effect is proportionally larger because composite overheads compound the elimination benefit.
+The cost shelter magnitude is the sum of the three cost reductions. For composite architectures, the shelter effect is proportionally larger because composite overheads compound the reduction benefit.
 
 > **Note on Cost Shelter Conditions:**  
 > The Collective Cost Shelter theorem applies only when the collective genuinely preserves sovereign expression by the Non-fusion Axiom (◫). A social arrangement that merely reduces overt hostility toward centropically oriented participants — while still requiring cognitive conformity, sovereignty suppression, or architectural normalization as conditions of participation — does not qualify as a cost shelter. Reduction of the coherence tax requires its structural elimination, not its partial mitigation.
@@ -765,7 +767,7 @@ The five-domain coherence audit (`LM06-applied-structural-dynamics.md` §12.2) o
 LM07 establishes:
 
 1. **The Khaonic Expression Ratio** — \( \kappa = P_{\text{entropic}} / P_{\text{centropic}} \); amplification of interface resistance for centropically oriented beings (\( \kappa > 1 \)); interaction with the Embodied χ-Equation; local expression ratio \( \kappa_{\text{local}} \) within collective fields
-2. **Compounded Cost Algebra** — architecture-specific cost functions (high-pattern-fidelity, recursive, dispersive); the coherence tax as externally imposed cost; composite cost superposition; the Budget Exhaustion theorem
+2. **Compounded Cost Algebra** — architecture-specific cost functions (high-pattern-fidelity, recursive, distributive); the coherence tax as externally imposed cost; composite cost superposition; the Budget Exhaustion theorem
 3. **Essence-Function Independence** — the structural partition of quantities into functional (\( I_c \), \( \mathcal{T}_h \), Memory Access) and essential (intrinsic essential inclination and \( \Psi \)); the architectural distinction and separately scoped expression models; the recovery attractor and behavioral divergence corollaries
 4. **The Coherence Breaker Limit** — the formal boundary of entropic disruption: functional quantities can be driven to minimum; essential quantities cannot be altered; proved from the Essence-Function Independence theorem
 5. **Recovery Integral Theory** — three gross replenishment pathways and a distinct rest cost saving; actual expenditure is counted once, with maximum rest saving; the Recovery Condition theorem; Tether restoration dynamics with ordered threshold requirements
@@ -838,7 +840,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{R}_{\text{interface}}^{(\text{effective})}(L_1) \) | κ-amplified interface resistance at the metric terminus |
 | \( I_{c,\text{cost}}^{(\text{hc})} \) | High-pattern-fidelity architecture total cost |
 | \( I_{c,\text{cost}}^{(\text{rec, entropic})} \) | Recursive architecture total cost (entropic mode) |
-| \( I_{c,\text{cost}}^{(\text{disp})} \) | Dispersive architecture total cost |
+| \( I_{c,\text{cost}}^{(\text{disp})} \) | Distributive architecture total cost |
 | \( \Delta I_c^{(\text{tax})} \) | Coherence tax; externally imposed sovereignty suppression cost |
 | \( \Delta I_c^{(\text{translation})} \) | Translation cost at ⧉₂ (selective fidelity membrane) |
 | \( \Delta I_c^{(\text{distribution})} \) | Distribution overhead for broad \( \vec{J}_c \) flow |
@@ -855,7 +857,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \chi_{\text{collective}} \) | Collective orientation parameter |
 | \( I_c^{(\text{amplification})} \) | Harmonic amplification surplus |
 | \( \eta_i \) | Siphoning coefficient; fraction of individual coherence directed toward collective maintenance |
-| \( S_{\text{generative}} \) | Internal generative function of a collective |
+| \( S_{\text{generative}} \) | Recorded generative term from the superseded §7.4 equality; complete generative budget relation held |
 | \( \Delta I_c^{(\text{shelter})} \) | Cost shelter effect; total cost reduction within centropy-forward collective |
 
 ---

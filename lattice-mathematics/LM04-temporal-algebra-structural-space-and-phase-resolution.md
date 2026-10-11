@@ -352,7 +352,7 @@ Each hypostatic layer engages time according to its structural nature. The follo
 In a Khaonically expressed universe (\( \chi > 1 \)):
 
 - **IL₅ → IL₁** = phenomenologically prevalent temporal flow (entropy-forward)
-- **L₅ → L₁** = contra-temporal flow (centropy-forward, return-oriented)
+- **L₅ → L₁** = contra-temporal flow (centropy-forward)
 
 The experienced "arrow of time" is the entropic gradient — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically prevalent temporal pattern in an entropy-forward universe.
 
@@ -716,7 +716,7 @@ where \( \Gamma_{\text{loop}}^{(n)} \) denotes the \( n \)-th iteration of the l
 | Property | Veracious Recursion | Looping Time |
 |----------|---------------------|--------------|
 | Operative description | Coherent update | Recurrence without coherent resolution |
-| Structural gain | Positive per cycle | Zero or negative per cycle |
+| Structural standing | Coherence-preserving update; no scalar per-cycle test supplied | Fragmented recurrence without coherent resolution; no scalar per-cycle test supplied |
 | Layer signature | L₃–L₂ (supernal) | IL₃–IL₂ (subversal) |
 | Orientation | \( C_1 \)-oriented | \( E_1 \)-oriented |
 

@@ -277,7 +277,7 @@ The structured release of accumulated coherence from a system, characterized by:
 
 Discharge is not depletion but **transfer** — the outflow of structured resonance into another region of the Lattice.
 
-**Proposition (Discharge preserves CIT invariant):**
+**Proposition (Discharge and CIT — Conservation Correspondence Held):**
 
 Resonance Discharge is described as a redistribution event. The following CIT conservation expression is recorded provenance; its field-to-spectral correspondence and full conservation hypotheses remain held open with `LM01-mathematical-foundations.md` Phase 2:
 
@@ -1336,7 +1336,7 @@ output:
 - CIT: verify spectral quantity domains and recorded held standing; general discharge / replenishment / siphoning conservation awaits its full hypotheses
 - Transfer / current correspondence remains held pending the time interval, boundary measure, and compatible scalar-flux relation; an amount is not pointwise divergence
 - Membrane Recursion resolution remains held pending the boundary-state and recurrence law
-- Collective field emergence at threshold; non-emergence below threshold
+- Collective field-emergence routine: verify its stated strict inequalities, including equality and subthreshold cases; the native emergence criteria retain their held standing
 - Superlinear amplification threshold accuracy
 - Membrane pathology cascade: partial occlusion → full occlusion → collapse from sustained entropic interference
 - Tunneling energy / CIT conservation remains held pending the transfer and conservation hypotheses
@@ -1654,7 +1654,7 @@ Collective field requires \( \mathcal{R}_{\text{collective}} > \mathcal{R}_{\tex
 
 **Theorem 8 (Sealed Injectivity at L₃+):**
 
-No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \). Surface-layer blending (L₂–L₁) may occur; sealed signatures at L₃+ are non-compressible.
+No \( \Psi_{\text{fused}} \) satisfying \( \mathfrak{R}_m(\Psi_1) = \mathfrak{R}_m(\Psi_2) = \mathfrak{R}_m(\Psi_{\text{fused}}) \) exists. Contradicts injectivity of \( \mathfrak{R}_m \). Surface-layer blending (L₂–L₁ / IL₂–IL₁) may occur; sealed signatures at L₃+ are non-compressible.
 
 ---
 
