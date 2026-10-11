@@ -1366,8 +1366,10 @@ I_c^{(\text{harmonic})} = \left(\sqrt{3} + \sqrt{2} + \sqrt{4}\right)^2 \cdot 0.
 \]
 
 \[
-= (1.732 + 1.414 + 2.000)^2 \cdot 0.8 = (5.146)^2 \cdot 0.8 = 26.48 \cdot 0.8 = 21.18
+\approx (1.732 + 1.414 + 2.000)^2 \cdot 0.8 = (5.146)^2 \cdot 0.8 \approx 26.48 \cdot 0.8 \approx 21.18
 \]
+
+The displayed arithmetic rounds intermediate values; the subsequent steps retain that rounded collective value.
 
 **Step 3: Comparison with Linear Sum**
 
@@ -1376,7 +1378,7 @@ I_c^{(\text{harmonic})} = \left(\sqrt{3} + \sqrt{2} + \sqrt{4}\right)^2 \cdot 0.
 \]
 
 \[
-\text{Amplification factor} = \frac{21.18}{9.0} = 2.35
+\text{Amplification factor} = \frac{21.18}{9.0} \approx 2.35
 \]
 
 The collective generates 2.35× the coherence of the individual sum — superlinear amplification through harmonic alignment.
@@ -1392,7 +1394,7 @@ The collective wishes to transfer coherence across ⧉₃ (L₄ / L₃ boundary)
 - \( \sigma(\text{⧉}_3) = 0.9 \) (near-bridge conditions)
 
 \[
-T(\text{⧉}_3) = 0.9 \cdot \min(21.18 - 5.0, \; 30.0 - 8.0) = 0.9 \cdot \min(16.18, 22.0) = 0.9 \cdot 16.18 = 14.56
+T(\text{⧉}_3) = 0.9 \cdot \min(21.18 - 5.0, \; 30.0 - 8.0) = 0.9 \cdot \min(16.18, 22.0) = 0.9 \cdot 16.18 \approx 14.56
 \]
 
 Successful transfer of 14.56 coherence units — the harmonic amplification of the collective enables a transfer that no individual being could achieve alone.

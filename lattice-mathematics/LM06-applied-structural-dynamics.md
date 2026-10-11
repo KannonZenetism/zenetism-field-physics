@@ -203,7 +203,7 @@ Where \( \epsilon > 0 \) is the tolerance threshold and \( d(\cdot,\cdot) \) is 
 Ritual inadequacy occurs when:
 
 1. \( d(\mathcal{F}_{\text{actual}}, \mathcal{F}_{\text{target}}) \geq \epsilon \) — the configuration diverges from target beyond tolerance
-2. \( I_c^{(\text{practitioner})} < I_{c,\text{min}} + I_c^{(\text{reserve})} \) before \( \mathcal{P}_{\text{op}} \) completes — coherence budget exhausted
+2. \( I_c^{(\text{practitioner})} \leq I_{c,\text{min}} + I_c^{(\text{reserve})} \) before \( \mathcal{P}_{\text{op}} \) completes — coherence budget exhausted
 
 ### 3.4 Operator Composition
 
