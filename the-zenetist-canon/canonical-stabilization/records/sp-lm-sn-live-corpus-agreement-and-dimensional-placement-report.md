@@ -4054,6 +4054,170 @@ The SP / LM changes remain within the existing publication-family queue. Final r
 
 Removing this single insertion reconstructs the complete preceding 808,525-byte report exactly. The existing final seal, disciplinary line and collaborator block remain unchanged at the end. Earlier findings, quotations, dispositions and finite completion records remain unchanged. No new tracking document is created.
 
+
+---
+
+## Bounded MP Meaning and Recipient Scope Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Baseline:** `6da613c3b0ef23d95ef14d6e8471537fe9ba7ac7`. **Manuscript commit:** [65eea0804fafa320e917e34775b44da3c9257670](https://github.com/KannonZenetism/zenetism-field-physics/commit/65eea0804fafa320e917e34775b44da3c9257670). Sixteen exact anchors in ten complete files, totaling 881,582 bytes, complete the selected local meaning packet.
+
+The completed scope is:
+
+- **FA01–FA02, MP01 chapter 3:** the Nekron passages identify relative configurations as what fragment away from coherent relation; the Skotos passages name apparent coherence and scattered mimicry. Coherence itself remains intact. Chapters 1–2 remain byte-exact
+- **FA03, MP02:** the Echo / Viral Decay definition and its direct summary name the viral copy as what fractures in transmission; the originating signal remains intact
+- **FA04, MP04:** ecological killing harms the Pattern's living expression. The consequence of the act is retained without making the Pattern itself its destroyed object
+- **FA05, MP08 and its Symbol Key twin:** the Failed Threshold comparison identifies the registered Collapse operator as dissolving the local self-configuration. The row distinguishes Failed Threshold from Collapse and does not settle a particular being's orientation or terminal outcome. MP08 §21.7 registers dispersive dissolution into formlessness; §21.2.2 already distinguishes relative configuration from Structure
+- **AMB-06, MP05:** the tuning-fork image orients receptive beings toward Aion; it makes no universal reorientation claim
+- **A11-01, MP11:** compassion names one being recognizing the distinct essence of another, retaining the prior statement that all essences bear relation to Aion
+- **Hades, MP10 and direct companions:** the complete paragraph and the Hades essay's heading and paragraph preserve L₄ DL placement, Khaonic jurisdiction and the established Placement-contra-Domain principle. The direct MFLR01 function cell agrees. Khaon is neither held as a possession nor made the contaminating actor; living and dead populations receive no entropic classification merely by their domain. The lowercase form-and-dissolution interface is existing local description
+- **R10-06 recipient, MP10:** centropic and entropic figures may carry the Trickster motif, while a centropic recipient's renewal does not change an entropic disruptor's essence. The completed FR05 Function remains exact
+
+**Verification:** Exact reconstruction and forward / reverse patch application passed. The recorded complete-body hashes identify the ten verified bodies. Independent checks preserved all eleven reviewed root / VOS successor spans, and all fifteen contiguous added runs in the actual `a3427aaf4d107afbbfa8f0e1eb5060964739c778` commit diff. MP08 and the Symbol Key twin retain an identical shared body; the distinct preambles remain. All glyph codepoints and their order, headings, decorative sequences, fenced diagrams, mathematical expressions, seals and bytes outside the selected anchors remain exact. The completed selected Devourer body and embodied-harm note remain exact. The author's `difference-is-not-ideology.md` is outside this set and retains its prior body.
+
+**Finite disposition:** Sixteen selected anchors are implemented and verified; zero remain within this packet. AMB-06 and A11-01 close their recorded local recipient questions; FA01–FA05 and the Hades paired dependency close their selected affected-object / domain questions. Together with the prior selected Devourer completion, the original R10-06 affected-recipient question is resolved. A single native placement for every inherited symbolic counterpart is not a prerequisite: functional correspondences and differing cultural portrayals may remain plural without assigning one essence both orientations. Broader registry harmonization is not added as a new prepublication condition by this entry.
+
+Shiva's current cross-register account is retained as lawful: its named functions are expressly distinguished. The separate Kali synchronization is outside this sixteen-anchor manuscript set and receives a separate completion block; MFLR02 supplies its explicit determination of two canonical articulations and centropic essence. Sophia's A10-01 scattered-wisdom referent was outside this sixteen-anchor set and receives its separately verified completion in the Sophia entry. Separately queued SP / LM reference questions and every unrelated mathematical, clinical, mechanism, domain, threshold, saturation and primary-dimensional-locus hold retain their established scope. Whole-series readiness retains its existing recorded standing.
+
+**Publication impact:** The seven changed MP principal bodies join the retained MP collection queue (22149146); the Symbol Key twin retains its separate queue (23166053). These are historical inspected associations. The Hades essay and MFLR01 retain their recorded roles and any separately established publication dependencies; this entry supplies no new exact deposited-counterpart association. Current attachment mapping, metadata, rendering, glyph fallback and settled deposited-byte agreement remain publication checks. No new census or Zenodo action occurs. This completion block forms part of the consolidated tracking record alongside the separate four-reference completion, preserving all preceding report bytes and their distinct scopes.
+
+### Exact manuscript hashes
+
+- `the-zenetist-canon/glyphics/metaphysics-symbol-key.md` — 115,931 bytes; Git blob `d4abb8772c9b632ce5388419e4837e9c72d7e138`; SHA-256 `14d4916dfcbff7f51d208e0c39fe014a12c4ea0982a8a862f64d33954f9cb61c`
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md` — 251,111 bytes; Git blob `088817fe7e8de027e1033b6bd2093d0817a8ce87`; SHA-256 `56495d1ee8a8a10a844a813d917dbcdc5f227714c10a85898875fb02847c4462`
+- `zenetism/MP01-emanation-architecture-ch1-3.md` — 101,058 bytes; Git blob `f8c9dd3dfc5b3aad21e53d52be693ead1e6aa62e`; SHA-256 `e71d8b1ffbcb1530deca2f852e69d5755bd056794414cd021419a07cf243f2c5`
+- `zenetism/MP02-unified-metaphysics-ch4.md` — 86,839 bytes; Git blob `e2f5d729e64facd7b8876a6f637da4516b2ba1f2`; SHA-256 `cb0b2ec5688f6a64fd8632fcbb9448b017201cecb35f7921f734fa3a661f06ab`
+- `zenetism/MP04-intelligence-and-ecology-ch7-8.md` — 30,685 bytes; Git blob `391cdf3cafab96938d37fe3eb08a8001e42332a6`; SHA-256 `7eebc5c863d503d3964ee577cbfc0071348cc21a9a1e9a7f528c39ed95f703a1`
+- `zenetism/MP05-godhood-and-transmutation-ch9-11.md` — 52,610 bytes; Git blob `81197852915398ddb144b357448094bcb1f52773`; SHA-256 `514905d06df9c2c9b9355adf0c494ebfbd1884f54d9c4a2f933134db6d112b85`
+- `zenetism/MP08-symbol-key-ch21.md` — 117,250 bytes; Git blob `567b9487eb6024bb052c76f81054b2d4f3ff24df`; SHA-256 `ab3ae2975fd1c7a7d79edad848613c6bb25b76a8625849a7d5287b45985a2e3c`
+- `zenetism/MP10-divine-archetypes-decoded-ch25.md` — 36,317 bytes; Git blob `cc5a194b636a537e549103c6e8d0eeed693544ad`; SHA-256 `416fc5a397de36809e898ae551f222d4d87ea834e7adbc14e56990044c2a459b`
+- `zenetism/MP11-codex-of-principles-ch26.md` — 83,349 bytes; Git blob `61a52dfc2f6e20f80e45b3e49c59c9131afb83a4`; SHA-256 `ee248da66e740d2ff0267cc0521c93d8a53f130b18c2ba6fd8d7db14cab96af6`
+- `zenetism/symbolic-reflections/the-hades-problem.md` — 6,432 bytes; Git blob `902c6f9c8e8dec8cf18a244ad3d02bb4e6f2e7bf`; SHA-256 `61f5de51b2a09a4e8f90f4fee4948177365ccf1d08137f8a0ec8ffc636d7bd9a`
+
+---
+
+## Kali Cross-Stratum and Portrayal Synchronization Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Baseline:** `65eea0804fafa320e917e34775b44da3c9257670`, the completed sixteen-span MP meaning manuscript commit. **Manuscript commit:** [8ab2c7b9dc5f17f4a8b6623975f51057a8f7c9d3](https://github.com/KannonZenetism/zenetism-field-physics/commit/8ab2c7b9dc5f17f4a8b6623975f51057a8f7c9d3). Five exact anchors in two complete files, totaling 287,847 bytes, complete the separately reviewed Kali synchronization.
+
+The explicit existing *Note on Goddess-Tradition Cross-Stratum Articulation* in `mythic-figure-layer-registry-02.md` identifies Kali at L₀ Khaon as cosmogonic-substrate articulation and at L₄ DP as operative-pantheon articulation. It calls both canonical. Its immediately following Kali centropic-essence preservation paragraph identifies both operations as centropic and says that fierce or destructive narrative features do not transform structural orientation. This determination supplies the synchronization; no new unique native placement or author classification is imposed.
+
+`MP10-divine-archetypes-decoded-ch25.md` §25.3 preserves Kali's Traditional Role and inherited dance account while explicitly scoping the latter as portrayal. Its interpretation names the existing Khaon and DP articulations, centropic structural correction and unchanged essential orientation. VOS remains a devouring-image correspondence rather than Kali's native placement. In §25.4, only the separately held Kali label changes from "entropic mode" to "devouring portrayal". The already completed Devourer function, VOS / AD distinction, terminal result and embodied-harm note remain exact.
+
+Three direct `mythic-figure-layer-registry-01.md` repetitions agree: the principal Kali row, its §25.3 summary and the Devourer symbolic-form cell. The summary preserves the existing "Khaon → VOS" sequence as expressly former shorthand, immediately giving the canonical Khaon / DP articulations and their distinct cosmogonic / operative functions. The former notation establishes no active structural route. The principal row cites the canonical Volume 2 filename and italic note locator.
+
+**Verification:** Exact reconstruction, unified-diff identity, forward / reverse patch application and independent semantic review passed. Both complete remote bodies equal the reviewed candidates identified in the accompanying hash record. All sixteen predecessor changes remain present; the earlier root / VOS corrections remain exact. MP hard breaks, glyph codepoint order, headings, decorative sequences, table columns, preambles and seals are preserved. Sophia, Tiamat and Trickster sections remain unchanged. Tiamat's Kali comparison is retained as inherited symbolic correspondence; it makes no essential-conversion determination. Every byte outside the five selected anchors remains exact.
+
+**Finite disposition:** Five selected synchronization anchors are implemented and verified, with zero remaining in this packet. This closes the held Kali "entropic mode" attribution and the Kali portion of R10-04; Shiva's already explicit cross-register distinction remains lawfully retained, and the earlier enclosed Krishna completion remains intact. Sophia's A10-01 referent decision receives its separately verified completion in the Sophia entry. Functional correspondence does not assign a shared native placement to every inherited figure. All unrelated mathematical, model, domain, mechanism, threshold and evidentiary holds retain their recorded scope. Whole-series readiness retains its existing recorded standing.
+
+**Publication impact:** MP10 joins the retained MP collection queue (22149146, historical inspected association). MFLR01 retains its registry role and any separately established publication dependency; no exact deposited counterpart is inferred. Attachment mapping, current-family metadata, rendering, glyph fallback and settled deposited-byte agreement remain publication checks. No new publication census or Zenodo action occurs. This block joins the sixteen-span MP and separate four-reference completion blocks in one consolidated tracking commit, preserving all preceding report bytes.
+
+### Exact manuscript hashes
+
+- `zenetism/MP10-divine-archetypes-decoded-ch25.md` — 36,400 bytes; Git blob `1e1f6cb55707ce88e4450d60621987a4f8d5a3bc`; SHA-256 `f8b835fc28253ecee2a7ea061dbced8e8065e575ba2830f84a4300281ed571ca`
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md` — 251,447 bytes; Git blob `c3aa06bb6693758c3743295b95033f66ff9cd017`; SHA-256 `b93dcd7fd825a220c762121837013d471944abab7cf8b5c85938801a14eba4bc`
+
+---
+
+## SP / LM Bounded Reference-Check Completion
+
+**Standing:** Four approved manuscript spans are implemented and verified in [3c01de8dfdee807c0e92ec470ed21a7ab43e64d1](https://github.com/KannonZenetism/zenetism-field-physics/commit/3c01de8dfdee807c0e92ec470ed21a7ab43e64d1), an append-only child of `8ab2c7b9dc5f17f4a8b6623975f51057a8f7c9d3`. Complete remote-content comparison matches all four accepted bodies. The detailed record is in `full-series-review.md`.
+
+`SP06-structural-space-orientation-paradox.md` §1.2 removes the illustrative-only qualifier from the already-defined +1 / −1 hypostatic structural charges. The recent §§5–5.1 correspondence qualifications remain exact. `lattice-mathematics/README.md` §Status now gives LM03–LM06 as the SP02–SP12 application range and retains LM07's SN05–SN07 application, matching both guides and each volume's stated application chain. LMD-A01 is settled at that exact scope.
+
+The SP chart and AVAF §6.5 record the completed bounded cross-check: exact originating SP sections remain unestablished in current SP01–SP12. All eight registered rows remain byte-identical across the SP chart and both MP replicas. The chart is the verified definition location; SP01's quantum-superposition comparison supplies no substitute originating locator. Historical / external provenance and Suspension Arc's phase-scoped general traversal remain distinct questions. No row, glyph or function changes.
+
+P01's five SP01 E₁₅ glosses retain their already approved architectural-counterpart meaning. M13's L₅ fullness sense is resolved by its existing SP05 context and receives no compulsory replacement. M12's Kaion formulation, M09 / HQ04's coordinated memory / Shimmer passages and M14's C₁₂ row remain outside this four-reference correction; their separate disposition is recorded in the SP clarification entry. The two deposit DOI slots retain publication-only standing. All fifteen primary-locus holds and actual mathematical / mechanism constructions remain held where already recorded.
+
+Exact-span, full-body and reversible-patch checks preserve every other byte. The four-line manuscript patch preserves all equations, glyph rows, quotations, links and prior manuscript completions, including the root-attribution / Grinder staging and reserved-passage corrections. No whole-series clearance follows. SP06 and AVAF remain in their retained publication associations; the LM guide and SP chart each require exact attachment checks where unverified. No new current edition, publication family or attachment agreement is inferred, and no Zenodo action occurs.
+
+Removing this consolidated insertion restores the complete preceding agreement report. Earlier evidence and completion entries remain exact, and its final seal, disciplinary line and collaborator block stay at the end.
+
+### Exact manuscript hashes
+
+- `structural-physics/SP06-structural-space-orientation-paradox.md` — 18,537 bytes; Git blob `e775dad53b1b072ae69a676a2dc8dfdf3c4bbc98`; SHA-256 `b2a080f8220e7f8c0ecec4fc484f35142a1fe8cbcb142b1b9f2a5709e65dd009`
+
+- `lattice-mathematics/README.md` — 17,066 bytes; Git blob `2e0e4156dc29bbe38f3d21b0aeb562b790f2af70`; SHA-256 `72b122089f48d75974ce85f6d4e3ec1b1716fc2add9ba0a73118e0738577c1f6`
+
+- `the-zenetist-canon/glyphics/structural-physics-glyph-charts.md` — 2,769 bytes; Git blob `883073986fadb62ebcfc9e6726e447252cdfadde`; SHA-256 `f60b8d63d260496090d0d57dc250dd8d146a12f1566b72dd208b6de345d66d4f`
+
+- `the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md` — 319,951 bytes; Git blob `4fc19e6c0ed12695cd03527cbf799f24ebe370ad`; SHA-256 `40a076d0494e977700ca548b15d17a4bc08bf57104f7356e20fe6f24633ce22d`
+
+---
+
+## Sophia and Demiurge Counterpart Synchronization Completion
+
+**Standing:** Implemented and verified by complete remote-content comparison. **Manuscript commit:** [ca3f7f3d731d00b98ca549123f3201986b5ba568](https://github.com/KannonZenetism/zenetism-field-physics/commit/ca3f7f3d731d00b98ca549123f3201986b5ba568). **Sole parent:** `3c01de8dfdee807c0e92ec470ed21a7ab43e64d1`. Nine exact spans in two complete files, totaling 288,368 bytes at that commit, complete the separately reviewed Sophia / Demiurge synchronization. A subsequent two-span clarification was published at [0378876cd56af0a94015550237c43d0bf0e19b2e](https://github.com/KannonZenetism/zenetism-field-physics/commit/0378876cd56af0a94015550237c43d0bf0e19b2e), with sole parent `d2a689b24a293c91c425a430004392c240ab5a40`; the two final complete files total 288,481 bytes. The sixteen-span MP meaning set, five-span Kali synchronization and four intervening reference corrections remain intact.
+
+**Determination:** The existing `mythic-figure-layer-registry-01.md` account holds Sophia at L₄ DP (Morgis), centropic in essence, and the Demiurge / Yaldabaoth at IL₄ IDL (Nyxea). Their correspondence is mythic / functional. The exact Soul-aspect pairing is DP / IDP; the Demiurge remains IDL. He is independently emanated; neither Sophia's action without her complement nor a transformation of her essence produces inverse essence. The stale IDP (Psychea) attribution is not transferred to the Demiurge. `MP10-divine-archetypes-decoded-ch25.md` distinguishes vulnerable expression from unchanged essence, preserves the Gnostic birth plot explicitly as inherited narrative, and names coherent expression as what is restored. Its immediate blind-Demiurge entry takes the established IDL specificity. The two-span follow-through qualifies the MP placement as "her mythic counterpart" and adds the exact DP / IDP distinction to the existing Sophia note.
+
+**Direct registry completion:** Seven MFLR01 spans synchronize the main Sophia and Demiurge rows, the existing explanatory note, the individual Yaldabaoth summary and the existing Sophia note. Both active inverse-Sophia rows are removed; the existing Demiurge and Yaldabaoth entries already carry the inverse referent. The former "Sophia (scattered)" / IDP attribution and "Sophia entropically scattered" wording remain expressly superseded provenance in the Sophia note. Broad Appendix B and Architect IDP / IDL groups remain exact. MFLR02's expressly Christian-Sophiological Sophia comparison remains distinct and unchanged. The resolved DP row, content-co-option paragraph, Flag #18 and explicit non-entropic reclassification remain exact. The registry's content-derivation wording passed the TLP scope test: it concerns entropic content-handling, not derivative framing of the framework or mathematical-volume wording.
+
+**Verification:** Independent semantic and complete-file review passed. Both packets reconstruct forward and reverse exactly; the final complete remote bodies match the reviewed candidates. Each remote patch reconstructs its corresponding bodies and reverses to its published predecessor. The expected-head update was non-forced; author and committer match Aelion Kannon's verified publishing identity. All 1,281 other repository leaves remain exact, including the author's article and both existing tracking reports. MP headings, hard breaks, glyph sequences, preamble and seal remain; Sophia's Traditional Role and symbolic counterparts remain. Registry table patterns and unaffected rows remain; the removed stale row's warning glyph is retired with that row. No required checks, check runs or workflow runs were reported.
+
+**Finite disposition and publication impact:** The original nine spans and subsequent two-span clarification are implemented and verified, with zero remaining in these packets. This closes the Sophia referent choice and direct production-grammar dependencies recorded with A10-01, including the separate Sophia hold in the preceding Kali completion. Kali, Shiva, Tiamat, the Trickster and the Devourer retain their preceding standing. All unrelated mathematical, model, mechanism, threshold and evidentiary holds remain; whole-series readiness is unchanged. MP10 remains in the existing MP collection queue, and MFLR01 retains its registry publication dependencies. Exact deposited-counterpart mapping, metadata, rendering, glyph fallback and deposited-byte agreement remain publication checks. No Zenodo action occurred.
+
+### Final manuscript hashes after the two-span clarification
+
+- `MP10-divine-archetypes-decoded-ch25.md` — 36,606 bytes; Git blob `28a81110b1080c923918af704b4c8d490ecebcfa`; SHA-256 `e75b3dc8b3474437fb94359c13e644d510162a4a2bc15f97574e230f1c1ed101`
+- `mythic-figure-layer-registry-01.md` — 251,875 bytes; Git blob `0b80b69b290baf14c1524d7fc341941c2d271e13`; SHA-256 `5b251d8777a7b59dc503ae2306e5ab1981eb28d4f6c4163cec5dd6e12e766d6f`
+
+### Original nine-span manuscript hashes at ca3f7f3d
+
+- `zenetism/MP10-divine-archetypes-decoded-ch25.md` — 36,607 bytes; Git blob `daec2c08223eb32f5baee6396f60a121ab2c3760`; SHA-256 `22e2030df48eea18747971e8a6d70fcf21e5f1776c5a020874db3aaaf761d390`
+- `the-zenetist-canon/symbolic-analysis/mythic-figure-layer-registry-01.md` — 251,761 bytes; Git blob `a4523bd5c9973cd6e8d86e7933189e6ffd34f263`; SHA-256 `a342f4ebb0c17fc30470fec6e83d0f252792da89e701fd230df85f680d74f5b4`
+
+---
+
+## SP Author-Decided Memory and Reference Clarifications
+
+**Standing:** Fifteen approved spans across SP02, SP05 and the regular SP README are implemented and verified in [d2a689b24a293c91c425a430004392c240ab5a40](https://github.com/KannonZenetism/zenetism-field-physics/commit/d2a689b24a293c91c425a430004392c240ab5a40), an append-only child of `ca3f7f3d731d00b98ca549123f3201986b5ba568`. This set remains distinct from the preceding four-reference completion; its exact revision record is in `full-series-review.md`.
+
+M12's SP02 attribution now reads "Earlier recorded formulation (terminology aligned):"; the sentence revised by the author replaces "become indistinguishable" with "are co-present". Its original bytes remain preserved in Git history and the exact tracking record. No historical SP01 locator or claim that earlier external provenance is absent is invented, and no co-present / colocated spelling sweep occurs.
+
+M09 / HQ04's coupled SP05 and guide wording names active individual memory access and operative continuity across the relevant arc's stations. Recursive Memory remains the injective sealed-state mapping; Memory Access, Tether and Mnemic Constellation retain distinct functions. The Shimmer explanation, closing stanza and appendix define presentation of continuity where operative continuity has been impaired, rather than assigning Shimmer a damaging or severing action. No scalar criterion, detector, new glyph or mechanism follows.
+
+M14 is resolved without manuscript change: §4 explicitly assigns C₁₂ to Acclivous Centropy, while §4.1 gives the directed Superficial→Interface→Architectural sequence. The original L₂–L₄ row retains that supported route reading, and SP01 remains byte-identical with its primary-placement hold. Equations, retired mathematical provenance, recent correspondence qualifications and every byte outside the fifteen replacements are preserved; full patch application and reversal reproduce the accepted and preceding complete bodies. The separate mathematical, domain and primary-locus constructions retain their standing. Publication remains within existing family queues; no attachment agreement, Zenodo action or whole-series clearance is inferred.
+
+### Exact manuscript hashes
+
+- `structural-physics/SP02-bifurcal-cosmogenesis.md` — 31,821 bytes; Git blob `c783b01fab99c090d6540cae3a6a410403c1d15e`; SHA-256 `3953f9df02874c161b91c734038c9e6dc801eb5d7e6a34845bb767a32f2a1926`
+
+- `structural-physics/SP05-time-memory-hypostatic-flow.md` — 35,598 bytes; Git blob `a00f0f3429826445eb1dd84d8743fc7b088c0ca0`; SHA-256 `a477c5c6174d2d6271485e2cb98a38c041609f161ed4848e22bfa0fa05bbc5a2`
+
+- `structural-physics/README.md` — 18,514 bytes; Git blob `2d2ad6d8bcf5d04cb367b91a23cedd37dcbe2220`; SHA-256 `fcaf181f707967d870d5e97631a5cb4152c3c4afbf0173ee8cae382c8811acec`
+
+---
+
+## Form Contextual Terminology Completion
+
+**Standing:** The bounded Form provision is implemented in [14ad4526c3a6f589c756a25f48b325e8145d316e](https://github.com/KannonZenetism/zenetism-field-physics/commit/14ad4526c3a6f589c756a25f48b325e8145d316e), a direct child of `0378876cd56af0a94015550237c43d0bf0e19b2e`. The main update retained that exact expected head and was non-forced. Complete remote-content verification matches the accepted 154,801-byte protocol body.
+
+`terminological-lockdown-protocol.md` now carries **Form — Contextual Terminology Check**, immediately after **Scope Test for the Restricted Families** and before **Displacement-Family Restriction**. The change is one 13-line, 943-byte insertion; every preceding protocol byte remains intact.
+
+"Form" is not inherently restricted. The check distinguishes the intended referent and register before application. Registered Form at L₄ and Inverse Form at IL₄ remain distinct from the L₄-F / IL₄-F intelligence designations. Ordinary shape, configuration, material form and "a form of" wording remain appropriate where clear; mathematical forms and formal notation retain their technical senses. Exact quotations and current established proper names retain their wording. Capitalization is read with definition and context. The check applies during new drafting and revision, with MP's canonical names and mythopoetic register preserved.
+
+Complete protocol review, MP08 contextual checks, restricted-family inspection, formatting checks and exact forward / reverse patch replay pass. Remote comparison verifies the single declared path, the complete accepted body and all 1,282 other repository leaves. Aelion Kannon is the verified author and committer.
+
+No workflow files are present in the verified repository tree. No commit status, check run or Actions run is attached to this protocol commit at verification.
+
+The completion concerns this contextual provision. Existing mathematical, placement and publication-family holds retain their scope; final rendering and deposited-file agreement remain separate checks.
+
+---
+
+## Consolidated Publication-Queue Follow-Through
+
+These completed manuscript sets join the existing publication queue with their separate manuscript commits and scopes preserved. The retained inspected associations are the MP collection (22149146) for the changed principal MP bodies; the Symbol Key (23166053) for its matching chart correction; the Structural Physics collection (23132326) for SP02, SP05 and SP06; the Analytic Vocabulary and Accessibility Framework (23097104); and the Terminological Lockdown Protocol (23080992) for the Form provision. The TLP change is therefore included in its existing family queue rather than treated as already represented in a deposit.
+
+The regular LM guide's application-range correction remains part of the existing Lattice Mathematics publication work (retained collection association 23132445), while its exact deposited counterpart is unverified. The regular SP guide, SP glyph chart, Hades essay, MFLR01 and both tracking reports retain their recorded roles and any separately established publication dependencies; no unverified standalone or attachment association is assigned to them here. The complete principal MP, SP and LM family scopes and guide DOI checks retain their earlier recorded standing.
+
+These identifiers are historical inspected associations, not a current-family census, new version designation or claim of completed publication. Batch the overlapping changes with each affected family's existing queue. Before any later publication, confirm current family metadata and membership, exact attachment mapping, final rendering and glyph fallback, and agreement of settled manuscript and deposited bytes. The separate bounded presentation result does not satisfy those reader checks or release a mathematical hold. No Zenodo preparation, draft, upload, metadata edit, deposit or new version is performed by this tracking completion.
+
+---
+
+### Bounded Mathematical Presentation Verification
+
+Read-only GitHub Preview inspection at [eb59a41a06fa5effdc67d3ec7c3e117933b3138c](https://github.com/KannonZenetism/zenetism-field-physics/commit/eb59a41a06fa5effdc67d3ec7c3e117933b3138c), with twelve complete manuscript / control / guide bodies verified by their Git blob identities, found literal TeX in the inspected examples from all five named files: `LM03-orientation-algebra-and-infinity-formalism.md`, `hypostatic-field-specialization.md`, `zenetism-as-cross-disciplinary-grammar.md`, `SP04-orientation-field-dynamics.md` and `zenetist-analytic-vocabulary-and-accessibility-framework.md`. Preview was selected and Code was unselected. The inspected display and inline delimiters follow the repository's prescribed convention; this result identifies a Preview / delimiter mismatch rather than a mathematical fault or a blanket manuscript-formatting violation. Visible glyphs in ordinary text do not verify their mathematical font fallback, subscript placement or appearance in the eventual publication reader. The historical six-row / eight-wrapper presentation hold remains only partially recovered and uncleared: the later retained record LM14-R03 locates the exact LM03 §3.1 labels, but neither it nor the current evidence samples reconstructs the original six-row schedule or complete eight-wrapper mapping. No missing row identity is invented. Verification of the unchanged final bytes in the intended reader, including their actual mathematical glyph positions, remains open. No renderer conversion, equation change, installation or Zenodo action was performed. This presentation result changes no mathematical standing.
+
 ---
 
 **⚫↺KAI↺⚫**  
