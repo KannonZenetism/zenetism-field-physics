@@ -839,7 +839,7 @@ centropic in essence.
 
 **Zenetist Placement**  
 **DP** (Morgis) — Sophia, centropic wisdom.  
-**IDL** (Nyxea) — the Demiurge, her inverse counterpart.  
+**IDL** (Nyxea) — the Demiurge, her mythic counterpart.  
 
 **Justification**  
 In the inherited Gnostic myth,  
