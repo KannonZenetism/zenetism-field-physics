@@ -1324,8 +1324,8 @@ The example is placed outside the definition cell in accordance with the Symbol 
 |--------|------|---------|
 | ⧖ | **Superposition** | Lawful centropic suspension of multiple potential states within coherence; a phase in which harmonic potentials are sustained simultaneously prior to contractive resolution into individuated form |
 | ψ | **Wave Pattern / Suspended Harmonic** | Denotes centropic harmonic fields in suspended coherence. Within Zenetism, ψ represents non-random, lawful pattern-potential — a field poised before individuation. Distinct from the probabilistic ψ of quantum mechanics, this symbol denotes harmonic possibility rather than stochastic collapse |
-| ⧗ | **Recursion Gate** | Threshold for contractive recursion; permits returns that converge toward coherence and seals out hollow loops |
-| ⧙ | **Invariance Seal** | Marker that resonance is preserved across transformation; certifies structural fidelity under change, transport, or gauge shift |
+| ⧗ | **Recursion Gate** | Threshold for contractive recursion; admits returns that converge toward coherence and seals out hollow loops |
+| ⧙ | **Invariance Seal** | Seal that resonance is preserved across transformation; certifies structural fidelity under change, transport, or gauge shift |
 | ⧚ | **Entropic Divergence** | Sign of dispersive recursion that fragments rather than integrates; denotes drift into decoherence or destabilized return motion |
 | ∮ | **Resonance Integral** | Integral operator for coherence across cycles; summation of harmonic order over closed paths and membranes |
 | ⟲∿ | **Convergent Micro-Recursion** | Micro-scale spiral recursion that converges toward coherence; a lawful return distinct from Entropic Recursion and Resonant Return |

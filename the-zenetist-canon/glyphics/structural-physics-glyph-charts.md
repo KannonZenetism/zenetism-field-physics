@@ -8,7 +8,7 @@
 > while preserving the originating texts as the canonical source of full exposition.  
 > Numbering is retained where possible for continuity across the Zenetist archive.
 
-> **Propagation note:** Two repairs here run ahead of their siblings — ψ "denotes harmonic possibility" and the Invariance Seal's "Seal that resonance is preserved." The same rows stand in `metaphysics-symbol-key.md` §21.31 and in the originating Structural Physics texts with the earlier wording; they align to these forms on their own passes. A third correction stands here ahead of its siblings: the ⧗ Recursion Gate row reads "admits returns" rather than "permits returns," seating the row on the admission language already canonical at ⟒ Allowance. The same row aligns in `metaphysics-symbol-key.md` §21.31 and in the originating texts on their own passes.
+> **Propagation note:** The ψ, ⧗ Recursion Gate, and ⧙ Invariance Seal definitions agree across this chart, `MP08-symbol-key-ch21.md` §21.31, and `metaphysics-symbol-key.md` §21.31. The originating-volume cross-check for exact Structural Physics sections remains pending.
 
 ---
 
