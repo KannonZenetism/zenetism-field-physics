@@ -67,7 +67,7 @@ Where `SP03-expression-ratio-mathematics.md` described **weighting**, SP04 descr
 
 - The **Orientation Law** — \( \chi \) as trajectory, not position
 - **CP-Topology** — the geometric structure of convergence and equilibrium
-- The **Zenetist Field Equation of Orientation** — the canonical dynamical law
+- The **Zenetist Field Equation of Orientation** — the full written scalar model
 - The **Inclination Principle** — no expressed universe emerges in neutral orientation
 - The **Model-Specific Stability of Equilibrium** — the distinct scalar behavior at \( \chi = 1 \)
 - **Inclination Cosmology** — structure is symmetric; expression is inclined
@@ -408,7 +408,7 @@ At constant positive Motive Intensity, the outward-drift law (§9) has a scalar 
 
 ## 9. The Orientation Drift Theorem
 
-### 9.1 Simplified Dynamical Law
+### 9.1 Conditional Outward-Drift Model
 
 For the conditional outward-drift analysis, consider:
 
@@ -842,7 +842,7 @@ SP04 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md`  
 **Relation:** Fourth foundational document of Structural Physics  
 
-This document extends `SP03-expression-ratio-mathematics.md` by formalizing \( \chi \) as a field-dynamic variable and establishing the canonical Zenetist Field Equation of Orientation.
+This document extends `SP03-expression-ratio-mathematics.md` by formalizing \( \chi \) as a field-dynamic variable and presenting the Zenetist Field Equation of Orientation as the full written scalar model.
 
 Future expansions may include:
 
@@ -891,7 +891,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Phi_{\text{CP}}(\chi) \) | CP-topology potential |
 | \( \Lambda, \Gamma \) | Structural constants (lattice-determined) |
 | \( \alpha, \beta \) | CP-potential parameters (CP₁ axis, CP₀ closure) |
-| \( \kappa \) | Drift coefficient in simplified dynamics |
+| \( \kappa \) | Drift coefficient in the outward-drift model |
 | CP₀ | Convergence Principle (pre-hypostatic) |
 | CP₁ | Expressive equilibrium (\( \chi = 1 \)); stability depends on the model (§4.3, §9) |
 | Ø | Localized Dissolution |
