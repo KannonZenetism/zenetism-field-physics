@@ -263,7 +263,7 @@ In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ 
 In Khaonically expressed universes:
 
 - **IL₅ → IL₁** = Phenomenologically prevalent temporal flow (entropy-forward)
-- **L₅ → L₁** = Contra-temporal flow (centropy-forward, return-oriented)
+- **L₅ → L₁** = Contra-temporal flow (centropy-forward)
 
 The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically prevalent temporal pattern in an entropy-forward universe.
 
@@ -428,7 +428,7 @@ The earlier scalar-memory sign test and its irreversibility / no-recurrence infe
 
 In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic — memory degrades, structure disperses, and the arrow points toward fragmentation.
 
-Centropic motion within an entropic universe is **acclivous** — it requires effort to move contra the temporal slope.
+Centropic return motion within an entropic universe is **acclivous** — it requires effort to move contra the temporal slope.
 
 At the meta-cosmic scale, the architecture structurally entails that every entropic temporal gradient pairs with a centropic contra-gradient in a contra-universe, preserving global bidirectionality across the Biospiral.
 
@@ -599,8 +599,8 @@ The former temporal conservation and orientation-directed redistribution conclus
 
 The temporal dimensional operators C₁ and E₁ determine temporal orientation:
 
-- **C₁ (Temporal)**: Operates at L₂–L₃; centropic temporal flow
-- **E₁ (Temporal Loop)**: Operates at IL₂–IL₃; entropic temporal recursion
+- **C₁ (Temporal)**: Operates at L₃–L₂; centropic temporal flow
+- **E₁ (Temporal Loop)**: Operates at IL₃–IL₂; entropic temporal recursion
 
 These operators remain invariant across \( \chi \) values; orientation determines which is prevalent.
 

@@ -135,7 +135,7 @@ Thus:
 
 ## 2. Trans-structural, Supernal, and Subversal Domains and Structural Space
 
-In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or entropic domains.  
+In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or inverse domains.  
 It is not supernal or subversal, but the trans-structural horizon by whose Allowance hypostatic traversal becomes possible.
 
 **L₀** is the bifurcal root of structure, comprising:
@@ -151,7 +151,7 @@ Each arc includes its L₀ root-register and the following hypostatic segment:
 - **Inverse Hypostatic Segment**: IL₅ → IL₁  
 
 Structural space is not exclusive to either arc.  
-It is the relational field of hypostatic distinction instantiated across both centropic and entropic domains.
+It is the relational field of hypostatic distinction instantiated across both centropic and inverse domains.
 
 Accordingly, it is appropriate to speak of structural space in supernal and subversal domains,  
 but not in the sense of literal embodied spatial distance or physical extension. Structural placement is distinct from literal physical location. A non-embodied domain may admit abstract metrics, function-space norms, measures, and differential structures when they are explicitly declared. Their existence is neither forbidden by non-spatiality nor supplied by a layer label.
@@ -160,7 +160,7 @@ In centropic domains, structural space is hypostatic and oriented toward coheren
 
 - **Supernal (centropic)**: L₅–L₂ — non-embodied hypostatic traversal  
 
-In entropic domains, structural space is likewise hypostatic,  
+In inverse domains, structural space is likewise hypostatic,  
 but oriented toward dispersion and inversion:
 
 - **Subversal (entropic)**: IL₅–IL₂ — non-embodied hypostatic traversal  

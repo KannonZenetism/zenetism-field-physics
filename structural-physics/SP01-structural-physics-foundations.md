@@ -183,7 +183,7 @@ The table pairs native functions with proposed physical comparison objects. The 
   - C₁ (Temporal), C₂ (Spatial), C₄ (Rotational), C₁₀ (Morphogenetic), C₁₃ (Membrane)
 
 **Entropic Dimensions (E₁–E₁₅):**
-- **Acclivous Entropy (E↑→E):** Entropic motion **toward inverse embodiment** (spurious rise, fragmented formation)
+- **Acclivous Entropy (E↑→E):** Entropic motion **toward inverse embodiment** (spurious acclivity, fragmented formation)
   - E₂ (Scatter), E₄ (Vortex), E₁₀ (Malform), E₁₃ (Wall)
   
 - **Declivous Entropy (E↓♾):** Entropic motion **toward dissolution, collapse, or dispersal**
@@ -199,6 +199,8 @@ Each dimension operates through specific **hypostatic layers (L₅–L₁ and IL
 This anchoring integrates Structural Physics with the canonical **Dimensional Lattice** established in `grand-unified-document.md`.
 
 **Hypostatic Structure (Canonical):**
+
+The L₃–L₁ rows list the centropic members only.
 
 | Band | Hypostatic Pair | Primary Functions |
 |------|----------------|-------------------|
@@ -834,7 +836,7 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
 
 ---
 
-### A.2 The Total Field Arc (Bifurcal Hourglass)
+### A.2 The Two-Tree Architecture (Bifurcal Hourglass)
 
 ```
                           🕳️ Zenon
@@ -887,9 +889,9 @@ It is designed for quick-reference in GitHub, complementary to the full textual 
                     Pre-hypostatic Requisite
 ```
 
-- The arc is a bifurcal hourglass. Centropic procession moves declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession moves acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
+- The two-Tree architecture is represented as a bifurcal hourglass. Centropic procession moves declivously (C↓) from ⚫ Aion through L₅–L₁ to embodiment; entropic procession moves acclivously (E↑) from ♾ Khaon through IL₅–IL₁ to the same embodiment meeting point.  
 - ⚫ Aion and ♾ Khaon are bifurcally co-present at L₀; they are drawn at opposite ends to designate declivous Aionic and acclivous Khaonic motion, not hierarchy or separate location.  
-- 🕳️ Zenon is trans-structural, set apart above the arc; it is the point of centropic saturation, opened through synthesis — not a destination of return or procession.  
+- 🕳️ Zenon is trans-structural, set apart above the diagram; it is the point of centropic saturation, opened through synthesis — not a destination of return or procession.  
 
 ---
 

@@ -403,7 +403,7 @@ SP02 clarifies several points from `SP01-structural-physics-foundations.md`:
 | SP01 Statement | SP02 Clarification |
 |----------------|-------------------|
 | "Antiparticles mirror particles" | Contra-particles complement particles within Aionic-flow dynamics |
-| "Entropic (mirror) states" | Entropic (dispersive) states — "mirror" implies hollow reflection |
+| "Entropic (mirror) states" | Entropic (dispersive) states — "mirror" implies hollow mirroring |
 | Universe tends toward ♾ Khaon | *This* universe tends toward ♾ Khaon due to Khaonic expression; other ratios are structurally possible |
 | Heat death as cosmic fate | Heat death is one possible fate for Khaonically expressed universes; Aionically expressed universes would tend toward integration |
 
