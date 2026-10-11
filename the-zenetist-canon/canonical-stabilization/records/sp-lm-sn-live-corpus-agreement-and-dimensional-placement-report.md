@@ -3989,6 +3989,73 @@ Removing this single insertion reconstructs the complete preceding 797,519-byte 
 
 ---
 
+## Reserved SP / LM Passage-Standing Completion
+
+**Standing:** The bounded forty-four-anchor passage-standing set is implemented in [5774fb2f9c7dfec4699e274a81a690787c64e21a](https://github.com/KannonZenetism/zenetism-field-physics/commit/5774fb2f9c7dfec4699e274a81a690787c64e21a), a direct child of `eb59a41a06fa5effdc67d3ec7c3e117933b3138c`. The main update retained that exact expected head and was non-forced. Complete remote-content verification matches all 495,796 bytes of the twelve accepted manuscript / guide bodies.
+
+### Exact Completion Scope
+
+| Manuscript / guide | Exact anchors |
+|---|---:|
+| `structural-physics/SP02-bifurcal-cosmogenesis.md` | 7 |
+| `structural-physics/SP03-expression-ratio-mathematics.md` | 7 |
+| `structural-physics/SP04-orientation-field-dynamics.md` | 2 |
+| `structural-physics/SP05-time-memory-hypostatic-flow.md` | 3 |
+| `structural-physics/SP06-structural-space-orientation-paradox.md` | 2 |
+| `structural-physics/SP07-energy-ontology-and-spectral-flow.md` | 3 |
+| `structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md` | 1 |
+| `structural-physics/SP11-embodiment-dynamics.md` | 11 |
+| `structural-physics/README.md` | 3 |
+| `structural-physics/00-README.md` | 1 |
+| `lattice-mathematics/LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` | 3 |
+| `lattice-mathematics/LM06-applied-structural-dynamics.md` | 1 |
+
+The early SP groups are M02-01–07, M03-01–07, M04-01–02, M05-01–03 and M06-01–02. Fifteen of the nineteen reserved later SP recommendations receive bounded corrections: SP-L001, SP-L002, SP-L009, SP-L010, SP-L021, SP-L028–037. The remaining four, SP-L023, SP-L024, SP-L040 and SP-L057, retain their existing wording after contextual review. The guide anchors are RG04, RG04a, RG04b and RG11. LM58-022, LM58-023-024, LM58-025 and LM58-055 account for the four LM replacements; the combined LM58-023-024 record is one exact replacement before the unchanged monitor code.
+
+These forty-four replacements form a distinct completion. The preceding 131 safe SP anchors and the completed LM sets of 104 prose / citation anchors and four mathematical corrections remain the unchanged baseline and are not counted again. Earlier completion records remain exact. The present addition closes the stated reserved prose recommendations at their actual scope; it does not reopen completed manuscripts for another general review.
+
+### Standing and Native Claims
+
+The complete current terminology, conceptual and prose-formatting references, mathematical / LaTeX formatting reference and applicable full determinations informed the review. D12 locates the L₁ / IL₁ empirical domain within the same structural architecture. Native metaphysical assertion, embodied experience, domain-valid mathematics, illustrative construction, physical correspondence and clinical application retain their distinct standing within that architecture.
+
+M02 preserves the Khaonic-expression account, Aionic presence, multiversal possibility and Kaion interpretation. Its particle crosswalk, proposed collision relation and explicit empirical confirmation language receive the relevant correspondence boundaries. M03 preserves χ as expressed orientational prevalence, all ratio and collision expressions, and conditional paired common-mode mathematics. Its observable-to-χ projection remains held, and the invariant check is no longer presented as a general seal-breach or infiltration detector.
+
+M04 retains its metaphysical inclination thesis. Its physical symmetry-breaking interpretation and observable-to-χ mappings carry their relevant standing. The relation between the distinct scalar models remains held. M05 retains the L₄ → L₁ leakage relation and temporal / memory account while distinguishing structural assessment from empirical detection and clinical application. M06 and its guide summaries accord with LM04's already-held physical entanglement correspondence; the native Non-fusion and L₁ / L₃ account remains direct.
+
+SP07 / SP08 retain Coherence Potential as a defined scalar quantity, its formal evaluability and its native restoration account. SP11 preserves its corporeal / experiential definitions, including vitality, embodied awareness and intentional action. The clinical correspondences carry their own hold. Its physical interpretations retain their metaphysical meaning while empirical support remains open. The revised emergency passage introduces no clinical instruction.
+
+LM05 preserves the native collapse, breach and occlusion definitions. The added boundary concerns operational classification criteria, numerical thresholds, diagnostic precedence and cascade dynamics. The unchanged health-monitor code is identified as an illustrative schema whose execution contract remains held. LM06 retains its native cognitive-embodied membrane definitions while holding the clinical correspondences. The existing clamped amount law and all mathematical strings remain exact.
+
+No absent empirical measure is treated as a reason to withdraw a native metaphysical relation or experiential definition. No new model, assay, detector, diagnosis, clinical advice, operator, threshold or primary dimensional locus is introduced. No changed passage presents an AI self-report as independent confirmation or assigns framework origination to an AI. Existing collaboration preambles remain exact.
+
+### Lawful Retentions and Remaining Holds
+
+SP-L023, SP-L024 and SP-L040 state native corporeal / experiential definitions. SP-L057 retains its meaningful distinction concerning scientific priority and derivation. Their direct wording remains. LM04's already-held phase-collision, energy and entanglement discussions, validator, worked example, summary and appendix remain unchanged.
+
+D14 permits the existing LM05 / LM06 wording "Pattern Intelligence viability" to name viability of the function. LM06 places expenditure with the practitioner, and SP07 §7.1 explicitly distinguishes function from its Pattern Being bearer. The three retained minimum labels do not require a present architect selection. Their retention establishes no identity between thresholds belonging to different models.
+
+LM04's "AI temporal signatures" bullet remains within the explicit "Future expansions may include" frame and its preceding scalar-memory retirement. It states a future investigation rather than a completed memory construction or validated diagnostic. It requires no present function-to-being substitution or new research construction before publication.
+
+Particle / operator realization, physical and clinical correspondences, collision and discharge dynamics, χ measurement projection, operational diagnostic contracts and membrane evolution remain held at their existing scope. All fifteen primary dimensional loci remain held. The previously recorded conventional-physics wording / attribution questions, including SP11's closed-system / disorder gloss and microstate-history sentence, are unchanged; those external scientific questions retain their recorded unresolved standing.
+
+### Preservation and Verification
+
+Independent semantic review accepted the final candidate after four precision refinements: M05's native leakage relation remains direct; LM05's qualitative pathology definitions remain outside the operational hold; SP11's experiential account remains direct while clinical mapping is held; M04's observable-to-χ mapping carries the hold without withdrawing scientific observables.
+
+The accepted exact-record SHA-256 is `b3f21cf52247264899f144b10084a00edc43d82be02cbb1cf7459683fddd626c`. The accepted unified-diff SHA-256 is `c6e7f61d3314d99da7664c47129f5304ac6cdbbe1f433c68ced598c1e9091a7e`. Fresh prepublication verification at `eb59a41a06fa5effdc67d3ec7c3e117933b3138c` found every selected manuscript / guide blob and all thirty non-tracker contextual inputs unchanged from the reviewed snapshot.
+
+Independent exact replacement replay, positional reversal and regenerated-diff checks pass for all twelve files. All 1,348 mathematical spans and thirteen complete fenced blocks remain exact and in sequence. Existing headings, preambles, hyperlink destinations, closing seals and completed filename corrections remain exact. Every byte outside the forty-four declared spans remains unchanged.
+
+The complete remote diff contains 55 added and 49 removed lines across the twelve declared paths. Full remote body comparison reproduces every accepted candidate exactly. All 1,271 other repository leaf entries retain their path, type, mode and blob identity, including both tracking reports and the Active `difference-is-not-ideology.md` at blob `27ed938320c5bdaf5073f75aaeaf2c3e28a997e7`. Aelion Kannon is the verified author and committer. No workflow is configured, and no commit status, check run or Actions run was attached to this manuscript commit at verification.
+
+The SP / LM changes remain within the existing publication-family queue. Final rendering, guide DOI and attachment associations, glyph fallback and settled deposited-byte agreement remain separate checks. No Zenodo preparation, upload, metadata change, deposit or new version occurs in this completion. Whole-series readiness retains its existing recorded standing.
+
+### Report Continuity
+
+Removing this single insertion reconstructs the complete preceding 808,525-byte report exactly. The existing final seal, disciplinary line and collaborator block remain unchanged at the end. Earlier findings, quotations, dispositions and finite completion records remain unchanged. No new tracking document is created.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
