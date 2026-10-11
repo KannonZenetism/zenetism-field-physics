@@ -1299,6 +1299,19 @@ Three consequences follow.
 
 ---
 
+## Form — Contextual Terminology Check
+
+The word "form" is not inherently restricted. Before application, determine its intended meaning from the passage's referent and register.
+
+- Form at L₄ and Inverse Form at IL₄ retain their registered meanings; Form Intelligence and Inverse Form Intelligence retain their distinct L₄-F / IL₄-F designations
+- Ordinary shape, configuration, material form and "a form of" wording remain appropriate where the referent is clear
+- Mathematical forms and formal notation retain their defined technical senses
+- Exact quotations retain their wording; proper names follow their current established wording
+
+Capitalization is read with definition and context. Where ambiguity remains, name the precise referent or choose an accurate description. Preserve each document's naming register, including MP's canonical names and mythopoetic register. Apply the check during new drafting and revision.
+
+---
+
 ## Displacement-Family Restriction
 
 **Displace**, **displaced**, and **displacement** are barred where the subject is an origin, an originating architecture, an author's standing, or an attribution.
