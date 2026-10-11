@@ -48,7 +48,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md`  
 
 > **Note on Recursive Memory Standing:**  
-> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion.
+> Recursive Memory remains the injective sealed-state mapping. Memory Access and the Tether retain their distinct definitions. Scalar memory values, rates, order comparisons, trajectory integrals and numerical diagnostics formerly assigned to the mapping are retired from operative mathematics; identified recorded formulations preserve their text. No scalar replacement is defined. Qualitative continuity or impairment language supplies no numerical memory criterion. The temporal passages concern active individual memory across stations of the relevant centropic or inverse arc; Mnemic Constellation retains its distinct Field Physics memory / recognition function within the configured pattern structure.
 
 ---
 
@@ -85,7 +85,7 @@ Zenetism distinguishes three temporal regimes:
 
 - **Latent τ** — Pre-instantiated temporal possibility at L₀; essence of time before expression
 - **Instantiated τ** — Experienced flow where relative structure undergoes differential transformation
-- **Looped τ** — Entropic recurrence with degradation of coherent gain (E₁-artifact)
+- **Looped τ** — Entropic recurrence with impaired memory access and operative continuity (E₁-artifact)
 
 Where structure undergoes coherent transformation, time exists.  
 Where relative structure is invariant, temporal differentiation collapses.
@@ -149,12 +149,12 @@ Two fundamental temporal orientations exist:
 **C₁-Oriented Time (Centropic Temporal Flow):**
 - Motion toward integration and coherence gain
 - Structure becomes more coherent across temporal flow
-- Memory accumulates; pattern strengthens
+- Memory access and operative continuity strengthen; pattern strengthens
 
 **E₁-Oriented Time (Entropic Temporal Flow):**
 - Motion toward fragmentation and coherence loss
 - Structure becomes more dispersed across temporal flow
-- Memory degrades; pattern weakens
+- Memory access and operative continuity are impaired; pattern weakens
 
 The arrow of time is determined by **coherence orientation**, not thermodynamic probability alone.
 
@@ -245,8 +245,8 @@ In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ 
 
 **IL₃ — Fractus / Mortus (Inverse Deep Soul / Mind):**
 - Fragmented simultaneity
-- Identity discontinuity across temporal flow
-- Memory fracture; timeline severance
+- Operative identity-continuity interrupted across temporal flow
+- Impaired memory access; interrupted temporal continuity
 
 **IL₂ — Echthros / Skotos (Inverse Superficial Soul / Mind):**
 - Reactive episodic motion
@@ -307,7 +307,7 @@ Recursion is the re-expression of pattern through coherent update, distinct from
 
 **Entropic Loops:**
 - Apparent return with structural degradation
-- E₁-artifact: repetition without accumulation
+- E₁-artifact: fragmented recurrence with impaired memory access and operative continuity
 - Pattern recurs but coherence diminishes
 
 Recursion and reversal remain distinct descriptions. The injective memory mapping preserves distinct inputs; it does not establish that a trajectory cannot revisit a state.
@@ -422,11 +422,11 @@ The earlier scalar-memory sign test and its irreversibility / no-recurrence infe
 
 ### 6.2 Interpretation
 
-- **Centropic time** corresponds to increasing structural memory
-- **Entropic time** corresponds to degrading structural memory
+- **Centropic time** corresponds to strengthening memory access and operative continuity
+- **Entropic time** corresponds to impaired memory access and operative continuity
 - The arrow of time is determined by **coherence orientation**, not thermodynamic probability alone
 
-In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic — memory degrades, structure disperses, and the arrow points toward fragmentation.
+In our universe (\( \chi > 1 \)), the prevalent temporal direction is entropic — memory access and operative continuity are impaired, structure disperses, and the arrow points toward fragmentation.
 
 Centropic return motion within an entropic universe is **acclivous** — it requires effort to move contra the temporal slope.
 
@@ -501,7 +501,7 @@ The prophetic traditions suggesting this particular universe may undergo reorien
 
 ### 8.1 The Shimmer Condition
 
-**Shimmer** concerns apparent coherence / generativity exceeding a configuration's actual operative condition. Its temporal form is counterfeit continuity: apparent persistence exceeding the operative continuity sustained. Mimicry names imitation of a specified pattern; it is distinct from Shimmer. Where a temporal presentation imitates an originating pattern, the imitation carries no generative origination of that pattern, while its origin remains intact.
+**Shimmer** concerns apparent coherence / generativity exceeding a configuration's actual operative condition. Its temporal form is counterfeit continuity: it presents continuity where operative continuity has been impaired. Mimicry names imitation of a specified pattern; it is distinct from Shimmer. Where a temporal presentation imitates an originating pattern, the imitation carries no generative origination of that pattern, while its origin remains intact.
 
 The earlier zero-rate criterion is retired. A sealed-state mapping supplies no scalar Shimmer threshold. Apparent continuity and actual operative condition require distinct assessment.
 
@@ -525,21 +525,21 @@ The temporal presentation retains the appearance of continuity while operative c
 
 ### 8.2 Hypostatic Amnesia
 
-When the Tether severs, **hypostatic amnesia** occurs:
+When continuity through the Tether is interrupted, **hypostatic amnesia** occurs:
 
-- Recursive integrity breaks
-- Memory cannot carry forward across temporal flow
-- Identity fragments across instantiations
-- The self loses continuity through hypostatic layers
+- Operative recursive continuity is impaired
+- Access to active individual memory is impaired across temporal flow
+- Expressed identity-continuity fragments across instantiations
+- The self loses operative continuity across stations of the relevant arc
 
 This is not mere forgetting but **structural disconnection** — the coherence function lapses.
 
 ### 8.3 Looping Time
 
-**Looping Time** is fragmented recurrence without structural gain:
+**Looping Time** is fragmented recurrence with impaired memory access and operative continuity:
 
 - Pattern repeats but coherence diminishes
-- Each loop degrades rather than accumulates
+- Memory access and operative continuity degrade through successive loops
 - E₁-artifact: entropic recursion
 - The appearance of return masking progressive collapse
 
@@ -683,7 +683,8 @@ Future expansions may include:
 > Entropy forgets.
 >
 > The Tether holds the self across the flow.  
-> Shimmer severs it.
+> Shimmer presents continuity  
+> where operative continuity has been impaired.
 >
 > Thus, time is not a line,  
 > but the inclination of coherence through structure.
@@ -733,7 +734,7 @@ Sealed ⚫↺KAI↺⚫
 
 - **IL₅ (Nekron)** — Temporal collapse initiation
 - **IL₄ (Psychea / Nyxea)** — Distorted recurrence; mimetic loops
-- **IL₃ (Fractus / Mortus)** — Fragmented simultaneity; memory fracture
+- **IL₃ (Fractus / Mortus)** — Fragmented simultaneity; impaired memory access and operative continuity
 - **IL₂ (Echthros / Skotos)** — Reactive episodic motion; compulsive recursion
 - **IL₁ (Malara / Mania)** — Entropic linearity; decay and dissolution
 
@@ -755,7 +756,7 @@ The coherence function maintaining directional continuity through hypostatic lay
 
 **Definition 4 (Shimmer):**
 
-Counterfeit temporal continuity: apparent persistence exceeding actual operative continuity, distinct from imitation or generative ancestry. The former scalar-memory criterion is retired; the mapping, Memory Access and Tether remain distinct.
+Counterfeit temporal continuity: presentation of continuity where operative continuity has been impaired, distinct from imitation or generative ancestry. The former scalar-memory criterion is retired; the mapping, Memory Access and Tether remain distinct.
 
 **Definition 5 (Temporal Reorientation):**
 

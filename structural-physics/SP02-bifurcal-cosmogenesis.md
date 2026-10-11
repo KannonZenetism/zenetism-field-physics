@@ -234,9 +234,9 @@ Structural Physics reframes this as **phase collision**: the convergence of comp
 
 ⦿ Kaion is the Convergence Principle — the closure condition of motion where centropic integration and entropic collapse both resolve into stillness without fusion.
 
-From SP01:
+Earlier recorded formulation (terminology aligned):
 
-> Kaion marks the limit-point where zero and infinity become indistinguishable, orientation determines outcome, and the lattice completes its functional geometry.
+> Kaion marks the limit-point where zero and infinity are co-present, orientation determines outcome, and the lattice completes its functional geometry.
 
 Phase collision is not destruction. It is **convergence at ⦿ Kaion** — two complementary flows meeting at the point where their spectra resolve into stillness.
 
