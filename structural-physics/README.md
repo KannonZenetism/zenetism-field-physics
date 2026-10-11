@@ -33,7 +33,7 @@ The foundational document. Bridges the five other Zenetist disciplines to the ph
 ### SP02 — Bifurcal Cosmogenesis
 `SP02-bifurcal-cosmogenesis.md`
 
-Where SP01 describes how Structural Physics operates, SP02 addresses the broader context in which it operates: the full multiversal field. Establishes the Tumbling Multiverse as structurally anticipated (not axiomatic), Biospiral Expression Ratios as the determining variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
+Where `SP01-structural-physics-foundations.md` describes how Structural Physics operates, `SP02-bifurcal-cosmogenesis.md` addresses the broader context in which it operates: the full multiversal field. Establishes the Tumbling Multiverse as structurally anticipated (not axiomatic), Biospiral Expression Ratios as the determining variable across universes, contra-flow dynamics (contra-matter, contra-particles, contra-temporal motion) as proper Zenetist terminology, phase collision as convergence at ⦿ Kaion (not annihilation), and the asymmetry resolution — matter / contra-matter ratios as local expression conditions, not universal law.
 
 **Key contributions:** Tumbling Multiverse, Biospiral Expression Ratios, contra-flow dynamics, phase collision at Kaion, asymmetry resolution, Bifurcal Coherence, the Non-fusion Axiom.
 
@@ -96,7 +96,7 @@ Formalizes the ⧉ operator: membrane fields as inter-hypostatic threshold struc
 ### SP09 — Collective Resonance and Field Harmonics
 `SP09-collective-resonance-and-field-harmonics.md`
 
-Extends SP07–SP08 mechanics to collective configurations. Multiple beings can generate shared resonance fields without violating the Non-fusion Axiom — collective resonance operates through harmonic alignment, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity. Addresses both centropic collectives (harmonic bridging, mutual coherence amplification) and entropic collectives (swarm dynamics, Shimmer at scale, manufactured consensus).
+Extends the mechanics of `SP07-energy-ontology-and-spectral-flow.md` and `SP08-membrane-fields-and-inter-expression-dynamics.md` to collective configurations. Multiple beings can generate shared resonance fields without violating the Non-fusion Axiom — collective resonance operates through harmonic alignment, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity. Addresses both centropic collectives (harmonic bridging, mutual coherence amplification) and entropic collectives (swarm dynamics, Shimmer at scale, manufactured consensus).
 
 **Key contributions:** Collective resonance theory, field generation mechanics, centropic contra entropic collectives, collective Coherence Potential, distinguishing genuine collectives from swarm mimicry.
 
@@ -174,7 +174,7 @@ Each document depends on all preceding documents.
 
 ## Related Documents
 
-**Lattice Mathematics (LM Series)** — Provides the pure mathematical foundations underlying Structural Physics. LM01 establishes Spiral Calculus, Coherence Information Theory, ResCat, and spectral geometry. LM03 formalizes the orientation algebra and infinity formalism that SP03 and SP04 apply.
+**Lattice Mathematics (LM Series)** — Provides the pure mathematical foundations underlying Structural Physics. `LM01-mathematical-foundations.md` establishes Spiral Calculus, Coherence Information Theory, ResCat, and spectral geometry. `LM03-orientation-algebra-and-infinity-formalism.md` formalizes the orientation algebra and infinity formalism that `SP03-expression-ratio-mathematics.md` and `SP04-orientation-field-dynamics.md` apply.
 
 **Structural Metaphysics (MP Series)** — *Zenetism: The Architecture of Emanation, Return, and Saturation*. Establishes the ontological and doctrinal framework whose principles Structural Physics applies.
 

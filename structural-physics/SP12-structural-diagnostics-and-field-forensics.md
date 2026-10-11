@@ -100,7 +100,7 @@ Every system possesses a field signature. The signature is not assigned; it is p
 
 **Scalar Component — Coherence Potential \( I_c \):**
 
-The resonance density of the configuration. From SP07, \( I_c \) measures how much structural coherence is present. Diagnostic reading: the magnitude and distribution of \( I_c \) across the system.
+The resonance density of the configuration. From `SP07-energy-ontology-and-spectral-flow.md`, \( I_c \) measures how much structural coherence is present. Diagnostic reading: the magnitude and distribution of \( I_c \) across the system.
 
 **Vector Component — Coherence Current \( \vec{J}_c \):**
 
@@ -116,7 +116,7 @@ The global polarity of the configuration. From SP03–SP04, \( \chi \) specifies
 
 **Operator Component — Dimensional Operator Profile:**
 
-The pattern of C / E operator activity within the configuration. Each operator describes a specific mode of structural motion (SP01, Field Physics Dimensional Registry). Diagnostic reading: which operators are active, at what intensity, and whether the operator profile is consistent with the system's claimed function.
+The pattern of C / E operator activity within the configuration. Each operator describes a specific mode of structural motion (`SP01-structural-physics-foundations.md`, Field Physics Dimensional Registry). Diagnostic reading: which operators are active, at what intensity, and whether the operator profile is consistent with the system's claimed function.
 
 ### 2.3 The Signature Consistency Principle
 
@@ -151,7 +151,7 @@ For a finite collection of assigned factors \( \delta \in [0,1] \), the product 
 
 The registered dimensional operators retain the functions stated in `FP11-field-glyph-codex.md` and `field-physics-glyph-charts.md`. Diagnostic assessments compare evidence for those functions and for separately named predicates; a diagnostic label does not redefine an operator.
 
-C₃ is Propagational, C₁₃ / E₁₃ is Membrane / Threshold and Wall, and C₁₅ / E₁₅ is Emergent / Novel and Collapse Nova. Temporal consistency, surface / operative-configuration comparison, and attribution are distinct assessments. They receive no new dimensional index here. Primary dimensional placement remains separate and held where unresolved.
+C₃ is Propagational, C₁₃ / E₁₃ are Membrane / Threshold and Wall, and C₁₅ / E₁₅ are Emergent / Novel and Collapse Nova. Temporal consistency, surface / operative-configuration comparison, and attribution are distinct assessments. They receive no new dimensional index here. Primary dimensional placement remains separate and held where unresolved.
 
 ### 3.2 Primary Diagnostic Assessments
 
@@ -445,8 +445,8 @@ The recorded criterion \( \mathcal{C}(\Sigma) \approx 1 \) establishes no verdic
 A specified discrepancy calls for object-specific assessment. The following recorded diagnostic associations do not operate as sufficient mathematical tests:
 
 - \( I_c \) discrepancy (Domain 1): distinguish apparent excess from understatement; general mismatch does not establish Shimmer
-- \( \vec{J}_c \) parasitic flow (Domain 2 mismatch): Siphoning dynamics (SP07 §4, SP10 §5)
-- \( \sigma(⧉) \) pathology (Domain 3 mismatch): Membrane compromise (SP08 §7)
+- \( \vec{J}_c \) parasitic flow (Domain 2 mismatch): Siphoning dynamics (`SP07-energy-ontology-and-spectral-flow.md` §4, `SP10-ritual-energetics-and-integration-protocols.md` §5)
+- \( \sigma(⧉) \) pathology (Domain 3 mismatch): Membrane compromise (`SP08-membrane-fields-and-inter-expression-dynamics.md` §7)
 - \( \chi \) misalignment (Domain 4 mismatch): Mismatch between claimed and operative orientation
 - Operator contradiction (Domain 5 mismatch): Functional misrepresentation
 
@@ -462,8 +462,8 @@ The audit cannot reach a diagnostic conclusion with the available evidence. This
 
 The comparative questions may be asked at these scales; numerical cross-scale equivalence remains held:
 
-- **Individual:** Assessment of a single being's field signature — corporeal coherence (SP11), orientation, membrane integrity
-- **Collective:** Assessment of a group's harmonic field (SP09) — collective \( I_c \), swarm signatures, Hollow Nest indicators
+- **Individual:** Assessment of a single being's field signature — corporeal coherence (`SP11-embodiment-dynamics.md`), orientation, membrane integrity
+- **Collective:** Assessment of a group's harmonic field (`SP09-collective-resonance-and-field-harmonics.md`) — collective \( I_c \), swarm signatures, Hollow Nest indicators
 - **Institutional:** Assessment of an organization's structural integrity — whether institutional form corresponds to generative function or persists as vacancy; E₁₄ attribution additionally requires empty recursion
 - **Doctrinal:** Assessment of a framework's structural coherence — whether its components are internally consistent, whether its claimed physics matches its operational behavior
 - **Artifactual:** Assessment of a specific product (document, teaching, system) — whether it exhibits generative signature or derivative signature, whether its field profile is consistent or shimmering
@@ -560,15 +560,15 @@ SP12 establishes structural findings within the Zenetist diagnostic framework:
 
 ### 9.1 Relation to `SP04-orientation-field-dynamics.md`
 
-SP12 extends SP04 by providing the diagnostic methodology for evaluating \( \chi \)-orientation in specific systems. SP04 established that \( \chi \) is a field-dynamic variable determining inclined expression; SP12 formalizes how to assess whether a system's claimed orientation matches its operational \( \chi \).
+SP12 extends `SP04-orientation-field-dynamics.md` by providing the diagnostic methodology for evaluating \( \chi \)-orientation in specific systems. `SP04-orientation-field-dynamics.md` established that \( \chi \) is a field-dynamic variable determining inclined expression; SP12 formalizes how to assess whether a system's claimed orientation matches its operational \( \chi \).
 
 ### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
-SP12 builds directly on SP07's formalization of Coherence Potential, Coherence Current, and the three primary motions. The coherence audit (§6) systematically evaluates the field quantities SP07 defined. The audit keeps gross replenishment (\( S > 0 \)), actual expenditure, and evidentially assessed generative function distinct; none supplies the held Shimmer detector.
+SP12 builds directly on `SP07-energy-ontology-and-spectral-flow.md`'s formalization of Coherence Potential, Coherence Current, and the three primary motions. The coherence audit (§6) systematically evaluates the field quantities `SP07-energy-ontology-and-spectral-flow.md` defined. The audit keeps gross replenishment (\( S > 0 \)), actual expenditure, and evidentially assessed generative function distinct; none supplies the held Shimmer detector.
 
 ### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
-SP12 extends SP08 by providing diagnostic protocols for membrane assessment. SP08 established membrane dynamics; SP12 formalizes how to evaluate whether a given membrane configuration is healthy, pathological, or compromised.
+SP12 extends `SP08-membrane-fields-and-inter-expression-dynamics.md` by providing diagnostic protocols for membrane assessment. `SP08-membrane-fields-and-inter-expression-dynamics.md` established membrane dynamics; SP12 formalizes how to evaluate whether a given membrane configuration is healthy, pathological, or compromised.
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 
@@ -576,11 +576,11 @@ SP12 extends `SP09-collective-resonance-and-field-harmonics.md` by providing dia
 
 ### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
 
-SP12 extends SP10 by formalizing the diagnostic applications referenced in SP10 §7. The seal integrity monitoring, ritual efficacy assessment, and countermeasure verification described in SP10 are applications of SP12's coherence audit methodology to specific ritual contexts.
+SP12 extends `SP10-ritual-energetics-and-integration-protocols.md` by formalizing the diagnostic applications referenced in `SP10-ritual-energetics-and-integration-protocols.md` §7. The seal integrity monitoring, ritual efficacy assessment, and countermeasure verification described in `SP10-ritual-energetics-and-integration-protocols.md` are applications of SP12's coherence audit methodology to specific ritual contexts.
 
 ### 9.6 Relation to `SP11-embodiment-dynamics.md`
 
-SP12 extends SP11 by providing diagnostic operators for assessing corporeal coherence, embodied orientation, and ⧉₁ membrane health at the metric terminus. The cross-band resonance assessment (SP11 §6) — evaluating whether an embodied being authentically resonates with deeper layers — is an application of SP12's diagnostic operator theory.
+SP12 extends `SP11-embodiment-dynamics.md` by providing diagnostic operators for assessing corporeal coherence, embodied orientation, and ⧉₁ membrane health at the metric terminus. The cross-band resonance assessment (`SP11-embodiment-dynamics.md` §6) — evaluating whether an embodied being authentically resonates with deeper layers — is an application of SP12's diagnostic operator theory.
 
 ---
 

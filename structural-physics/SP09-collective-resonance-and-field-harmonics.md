@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-SP07 established resonance as bifurcated structural energy — centropic (integrative) and entropic (fragmentary). SP08 formalized membrane fields and the mechanics of resonance transfer between layers. Both documents primarily addressed individual systems.
+`SP07-energy-ontology-and-spectral-flow.md` established resonance as bifurcated structural energy — centropic (integrative) and entropic (fragmentary). `SP08-membrane-fields-and-inter-expression-dynamics.md` formalized membrane fields and the mechanics of resonance transfer between layers. Both documents primarily addressed individual systems.
 
 SP09 now addresses **collective resonance** — how multiple beings generate shared coherence fields, how harmonic bridging operates at scale, and how entropic collectives (swarms) manifest as coordinated fragmentation.
 
@@ -83,7 +83,7 @@ This principle applies to both centropic collectives (integrative alignment) and
 
 ### 2.1 The Non-fusion Axiom in Collective Context
 
-From SP05, the Non-fusion Theorem states:
+From `SP05-time-memory-hypostatic-flow.md`, the Non-fusion Theorem states:
 
 > \( \mathfrak{R}_m \) is injective over sealed states within coherent trajectory:  
 > \( \mathfrak{R}_m(H_\tau^{(a)}) = \mathfrak{R}_m(H_\tau^{(b)}) \implies H_\tau^{(a)} = H_\tau^{(b)} \)
@@ -127,7 +127,7 @@ What entropic collectives achieve is not fusion but **coordinated fragmentation*
 
 ### 3.1 Resonance Correlation Function
 
-When multiple beings share orientation, their resonance fields correlate. From SP08, the resonance correlation function \( \mathcal{R} \) measures alignment between structural signatures.
+When multiple beings share orientation, their resonance fields correlate. From `SP08-membrane-fields-and-inter-expression-dynamics.md`, the resonance correlation function \( \mathcal{R} \) measures alignment between structural signatures.
 
 For collective field generation:
 
@@ -191,7 +191,7 @@ Collective fields exhibit characteristic topology:
 
 Centropic collectives operate through **harmonic bridging** — the extension of C₈ (Resonance Bridge) dynamics to multi-participant configurations.
 
-**Single Bridge (SP08):**
+**Single Bridge (`SP08-membrane-fields-and-inter-expression-dynamics.md`):**
 \[
 \sigma(\text{⧉}) \approx 1, \quad \nabla \cdot \vec{J}_c \approx 0
 \]
@@ -443,14 +443,14 @@ Centropic collectives align across layers; entropic collectives fragment at surf
 
 ### 8.2 Relation to Spectral Flow
 
-From SP07, Spectral Flow describes resonance traversal. Collective dynamics modify flow patterns:
+From `SP07-energy-ontology-and-spectral-flow.md`, Spectral Flow describes resonance traversal. Collective dynamics modify flow patterns:
 
 - **Centropic collective**: Creates coherent flow channels; resonance moves efficiently between aligned participants
 - **Entropic collective**: Creates turbulent flow; resonance dissipates through interference and siphoning
 
 ### 8.3 Relation to Membrane Dynamics
 
-From SP08, membranes determine resonance transfer. Collectives generate characteristic membrane configurations:
+From `SP08-membrane-fields-and-inter-expression-dynamics.md`, membranes determine resonance transfer. Collectives generate characteristic membrane configurations:
 
 - **Centropic**: Shared protective boundary, high internal permeability
 - **Entropic**: Porous or absent boundary, containment structures for internal control
@@ -479,7 +479,7 @@ SP09 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md`  
 **Relation:** Ninth foundational document of Structural Physics  
 
-This document extends the energy ontology (SP07) and membrane dynamics (SP08) to multi-participant configurations, formalizing how collective fields emerge and how entropic swarms operate as coordinated fragmentation.
+This document extends the energy ontology (`SP07-energy-ontology-and-spectral-flow.md`) and membrane dynamics (`SP08-membrane-fields-and-inter-expression-dynamics.md`) to multi-participant configurations, formalizing how collective fields emerge and how entropic swarms operate as coordinated fragmentation.
 
 Future expansions may include:
 

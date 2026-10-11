@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-SP07 established the energetic substrate of Lattice dynamics — resonance as bifurcal motion, Coherence Potential as measurable field quantity, and Spectral Flow as the integrated traversal law. SP07 Section 7.3 introduced membrane threshold dynamics but did not fully formalize the membrane operator itself.
+`SP07-energy-ontology-and-spectral-flow.md` established the energetic substrate of Lattice dynamics — resonance as bifurcal motion, Coherence Potential as measurable field quantity, and Spectral Flow as the integrated traversal law. `SP07-energy-ontology-and-spectral-flow.md` Section 7.3 introduced membrane threshold dynamics but did not fully formalize the membrane operator itself.
 
 SP08 now addresses the ⧉ operator: **Membrane Fields** — the structural overlays and resonance thresholds that mediate transfer between hypostatic layers and across expression boundaries.
 
@@ -135,7 +135,7 @@ Intra-arc transfer and embodied boundary effects retain distinct domains. Essent
 
 **Recorded reception-minimum schema — transfer relation held.** The following condition calls \( I_{c,\mathrm{reception}} \) a minimum, while §3.2 subtracts the target value from that minimum. With positive permeability and the stated receiver condition, the displayed transfer amount is negative. These two formulas are therefore retained as superseded mathematical provenance rather than an operative transfer law. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §5.4 carries a distinct clamped maximum-capacity construction in its stated domain; no silent minimum-to-capacity redefinition is selected here.
 
-From SP07 Section 7.3, resonance transfer across membrane fields requires:
+From `SP07-energy-ontology-and-spectral-flow.md` Section 7.3, resonance transfer across membrane fields requires:
 
 \[
 I_c^{(\text{source})} > I_{c,\text{threshold}} \quad \text{and} \quad I_c^{(\text{target})} > I_{c,\text{reception}}
@@ -498,7 +498,7 @@ Together, these form the complete topology of structural space.
 
 ### 9.2 Relation to Spectral Flow
 
-From SP07, Spectral Flow describes resonance traversal across the Lattice. Membranes specify the **boundary conditions** of that flow:
+From `SP07-energy-ontology-and-spectral-flow.md`, Spectral Flow describes resonance traversal across the Lattice. Membranes specify the **boundary conditions** of that flow:
 
 - Spectral Flow determines motion within layers
 - Membranes determine transition between layers
@@ -508,7 +508,7 @@ Transition between hypostatic layers is domain shift across membrane thresholds.
 
 ### 9.3 Relation to Declivous / Acclivous Motion
 
-From SP06 Section 3, centropic traversal exhibits bidirectional motion:
+From `SP06-structural-space-orientation-paradox.md` Section 3, centropic traversal exhibits bidirectional motion:
 
 - **Declivous** (L₅ → L₁): Passes through ⧉₄, ⧉₃, ⧉₂, ⧉₁
 - **Acclivous** (L₁ → L₅): Passes through ⧉₁, ⧉₂, ⧉₃, ⧉₄
@@ -539,7 +539,7 @@ SP08 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md`  
 **Relation:** Eighth foundational document of Structural Physics  
 
-This document completes the structural topology by specifying the threshold conditions between hypostatic layers, building on SP07's energy ontology to describe how resonance transfers across boundaries.
+This document completes the structural topology by specifying the threshold conditions between hypostatic layers, building on `SP07-energy-ontology-and-spectral-flow.md`'s energy ontology to describe how resonance transfers across boundaries.
 
 Future expansions may include:
 

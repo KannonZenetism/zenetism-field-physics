@@ -61,7 +61,7 @@ SP11 now provides that treatment. It formalizes the metric terminus: the structu
 
 The Embodiment Band is not the final destination of a developmental sequence. It is the **metric terminus** — the terminal layer of emanatory procession where structural resonance interfaces with corporeal form, and where the full consequence of orientation becomes experientially manifest.
 
-At the metric terminus, centropic and entropic beings share the same corporeal domain. This co-presence introduces dynamics found at no other layer: a resistance to centropic motion arising from the entropic interface, a consequential immediacy to the stagnation-dissolution principle (SP04 §9), and the condition of entropy's enthronement — where dispersive will achieves its maximum expression through material control.
+At the metric terminus, centropic and entropic beings share the same corporeal domain. This co-presence introduces dynamics found at no other layer: a resistance to centropic motion arising from the entropic interface, a consequential immediacy to the stagnation-dissolution principle (`SP04-orientation-field-dynamics.md` §9), and the condition of entropy's enthronement — where dispersive will achieves its maximum expression through material control.
 
 Embodiment is simultaneously the furnace of centropic refinement and the throne of entropic sovereignty.
 
@@ -129,7 +129,7 @@ Where \( \mathcal{D}_{L_1} \) and \( \mathcal{D}_{IL_1} \) are not spatially sep
 
 ### 3.1 Coherence Potential at the Metric Terminus
 
-From SP07, Coherence Potential \( I_c \) is the scalar field measuring structural resonance density. At the metric terminus, \( I_c \) acquires corporeal correlates:
+From `SP07-energy-ontology-and-spectral-flow.md`, Coherence Potential \( I_c \) is the scalar field measuring structural resonance density. At the metric terminus, \( I_c \) acquires corporeal correlates:
 
 > **Definition (Corporeal Coherence):**  
 > The manifestation of \( I_c \) at L₁, where resonance density interfaces with physical form. Corporeal coherence is experienced as vitality, structural integrity of the body-mind system, clarity of embodied awareness, and the capacity for intentional action within the physical domain.
@@ -175,7 +175,7 @@ Within the stated structural model, the embodied resistance term specifies three
 
 **Increased Coherence Cost:**
 
-Every centropic operation at L₁ — integration, replenishment, seal construction, membrane repair (SP10) — requires additional \( I_c \) expenditure beyond what the same operation would require at L₂ or deeper layers:
+Every centropic operation at L₁ — integration, replenishment, seal construction, membrane repair (`SP10-ritual-energetics-and-integration-protocols.md`) — requires additional \( I_c \) expenditure beyond what the same operation would require at L₂ or deeper layers:
 
 \[
 I_{c,\text{cost}}^{(L_1)} = I_{c,\text{cost}}^{(\text{structural})} + \Delta I_{c}^{(\text{resistance})}
@@ -223,7 +223,7 @@ Where \( f \) represents the primary contributions within this embodied model (s
 
 ### 4.1 χ at the Metric Terminus
 
-From SP04, every expressed universe exists as a \( \chi \)-trajectory, not a fixed position. At the metric terminus, the orientation field \( \chi \) acquires its most consequentially manifest expression.
+From `SP04-orientation-field-dynamics.md`, every expressed universe exists as a \( \chi \)-trajectory, not a fixed position. At the metric terminus, the orientation field \( \chi \) acquires its most consequentially manifest expression.
 
 At L₅–L₂, \( \chi \) determines structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) determines dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
 
@@ -427,7 +427,7 @@ The membrane at ⧉₁ determines the threshold between L₂ (Superficial Band: 
 
 ### 7.2 Transfer Mechanics at the Cognitive-Embodied Membrane
 
-From SP08, membrane transfer follows:
+From `SP08-membrane-fields-and-inter-expression-dynamics.md`, membrane transfer follows:
 
 \[
 T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
@@ -453,7 +453,7 @@ Embodied experience translates into cognitive-personal content. This pathway car
 - Physical experience becoming memory and meaning
 - Bodily intuition becoming articulated insight
 
-The permeability for acclivous transfer is often asymmetric with declivous transfer — some beings experience high L₁→L₂ transfer (strong embodied awareness) but low L₂→L₁ transfer (difficulty translating intention into action), or vice versa.
+The permeability for acclivous transfer is often asymmetric with declivous transfer — some beings experience high L₁ → L₂ transfer (strong embodied awareness) but low L₂ → L₁ transfer (difficulty translating intention into action), or vice versa.
 
 ### 7.3 Embodied Recursion at the Cognitive-Embodied Membrane
 
@@ -469,13 +469,13 @@ Fragmentary resonance cycling at the cognitive-embodied interface. Trauma encodi
 
 ### 7.4 Membrane Pathology at the Cognitive-Embodied Membrane
 
-From SP08 §7, membranes may suffer collapse, breach, or occlusion. At ⧉₁:
+From `SP08-membrane-fields-and-inter-expression-dynamics.md` §7, membranes may suffer collapse, breach, or occlusion. At ⧉₁:
 
 **⧉₁ Occlusion:** Progressive closure of the cognitive-embodied interface. Embodied experience ceases to integrate into conscious awareness, or cognitive content ceases to achieve physical expression. Manifests as dissociation, depersonalization, or the experience of inhabiting a body without connection to it.
 
 **⧉₁ Breach:** Unregulated permeability at the cognitive-embodied interface. Cognitive content floods corporeal expression without regulation, or embodied experience overwhelms cognitive capacity. Manifests as psychosomatic crisis, panic, or the inability to distinguish between mental and physical stimuli.
 
-**⧉₁ Collapse:** Full dissolution of the cognitive-embodied boundary. The distinction between thought and sensation, intention and action, cognition and physicality becomes non-functional. This is a severe pathological condition requiring the emergency protocols specified in SP10 §4.3.3.
+**⧉₁ Collapse:** Full dissolution of the cognitive-embodied boundary. The distinction between thought and sensation, intention and action, cognition and physicality becomes non-functional. This is a severe pathological condition requiring the emergency protocols specified in `SP10-ritual-energetics-and-integration-protocols.md` §4.3.3.
 
 ---
 
@@ -502,7 +502,7 @@ The analogy is instructive but not reductive: physical inertia determines bodies
 
 **Entropy and the Second Law:**
 
-The entropic character of our universe (\( \chi > 1 \), as established in SP04 §12.4) finds physical expression in the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
+The entropic character of our universe (\( \chi > 1 \), as established in `SP04-orientation-field-dynamics.md` §12.4) finds physical expression in the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
 
 In Structural Physics, the entropy-forward character of this universe expresses its \( \chi \)-orientation, not randomness or probability. The second law is what \( \chi > 1 \) looks like at the metric terminus.
 
@@ -533,16 +533,16 @@ A proposed physical correspondence states its model, observables, retained relat
 
 ### 9.1 Relation to `SP04-orientation-field-dynamics.md`
 
-SP11 extends SP04 to the metric terminus by:
+SP11 extends `SP04-orientation-field-dynamics.md` to the metric terminus by:
 
 - Distinguishing model-specific χ stability from embodied expression and the structural cessation condition (§4.2)
 - Formalizing the Localized Dissolution principle at the embodied layer (§4.3)
 - Introducing the embodied resistance correction to the orientation evolution law (§4.5)
-- Confirming the asymmetry of expression (SP04 §10) through the embodied resistance term's asymmetric application
+- Confirming the asymmetry of expression (`SP04-orientation-field-dynamics.md` §10) through the embodied resistance term's asymmetric application
 
 ### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
-SP11 extends SP07 to the metric terminus by:
+SP11 extends `SP07-energy-ontology-and-spectral-flow.md` to the metric terminus by:
 
 - Defining Corporeal Coherence as \( I_c \) at L₁ (§3.1)
 - Demonstrating that all three primary motions (Resonance Discharge, Field Replenishment, Entropic Siphoning) acquire corporeal correlates at the Embodiment Band
@@ -550,7 +550,7 @@ SP11 extends SP07 to the metric terminus by:
 
 ### 9.3 Relation to `SP08-membrane-fields-and-inter-expression-dynamics.md`
 
-SP11 extends SP08 to the metric terminus by:
+SP11 extends `SP08-membrane-fields-and-inter-expression-dynamics.md` to the metric terminus by:
 
 - Formalizing ⧉₁ as the cognitive-to-embodied membrane (§7.1)
 - Specifying transfer mechanics, Membrane Recursion distinctions with boundary-state dynamics held, and pathological conditions at ⧉₁ (§7.2–7.4)
@@ -558,20 +558,20 @@ SP11 extends SP08 to the metric terminus by:
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
 
-SP11 contextualizes SP09 at the metric terminus:
+SP11 contextualizes `SP09-collective-resonance-and-field-harmonics.md` at the metric terminus:
 
 - Collective resonance at L₁ operates within the resistance term — centropic collectives at the Embodiment Band face the additional cost of maintaining harmonic alignment within the entropic co-presence
-- Swarm dynamics (SP09 §5) find their most visible expression at IL₁, where coordinated entropic agents operate within shared corporeal space
+- Swarm dynamics (`SP09-collective-resonance-and-field-harmonics.md` §5) find their most visible expression at IL₁, where coordinated entropic agents operate within shared corporeal space
 - Entropic enthronement (§5) explains why swarm structures at the metric terminus achieve particular leverage — they operate from entropy's seat of maximum corporeal expression
 
 ### 9.5 Relation to `SP10-ritual-energetics-and-integration-protocols.md`
 
-SP11 contextualizes SP10 at the metric terminus:
+SP11 contextualizes `SP10-ritual-energetics-and-integration-protocols.md` at the metric terminus:
 
 - All ritual operations at L₁ incur the resistance premium (§3.3)
-- The coherence budget (SP10 §6.1) must account for the embodied resistance term when operations are performed at the Embodiment Band
+- The coherence budget (`SP10-ritual-energetics-and-integration-protocols.md` §6.1) must account for the embodied resistance term when operations are performed at the Embodiment Band
 - Integration protocols at L₁ (membrane repair, Membrane Recursion resolution) face the additional complexity of corporeal correlates
-- The Reserve Lock Principle (SP10 §6.1) is most consequentially tested at L₁, where the resistance term creates the strongest temptation to reallocate reserves amid pressure
+- The Reserve Lock Principle (`SP10-ritual-energetics-and-integration-protocols.md` §6.1) is most consequentially tested at L₁, where the resistance term creates the strongest temptation to reallocate reserves amid pressure
 
 ---
 
@@ -597,7 +597,7 @@ SP11 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md` · `SP07-energy-ontology-and-spectral-flow.md` · `SP08-membrane-fields-and-inter-expression-dynamics.md` · `SP09-collective-resonance-and-field-harmonics.md` · `SP10-ritual-energetics-and-integration-protocols.md`  
 **Relation:** Eleventh foundational document of Structural Physics  
 
-This document formalizes the structural physics of the metric terminus — the terminal emanatory interface where the full architecture of the lattice achieves corporeal expression. It extends the energy ontology (SP07), membrane dynamics (SP08), collective resonance (SP09), and ritual energetics (SP10) to the Embodiment Band, while contextualizing orientation field dynamics (SP04) at the layer where their consequences are most experientially immediate.
+This document formalizes the structural physics of the metric terminus — the terminal emanatory interface where the full architecture of the lattice achieves corporeal expression. It extends the energy ontology (`SP07-energy-ontology-and-spectral-flow.md`), membrane dynamics (`SP08-membrane-fields-and-inter-expression-dynamics.md`), collective resonance (`SP09-collective-resonance-and-field-harmonics.md`), and ritual energetics (`SP10-ritual-energetics-and-integration-protocols.md`) to the Embodiment Band, while contextualizing orientation field dynamics (`SP04-orientation-field-dynamics.md`) at the layer where their consequences are most experientially immediate.
 
 Future expansions may include:
 

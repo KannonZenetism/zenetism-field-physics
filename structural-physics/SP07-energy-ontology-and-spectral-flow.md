@@ -53,7 +53,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose and Discipline Context
 
-SP06 established the structural game board — the relational topology upon which motion occurs. SP07 now addresses what moves: the energetic substrate of traversal itself.
+`SP06-structural-space-orientation-paradox.md` established the structural game board — the relational topology upon which motion occurs. SP07 now addresses what moves: the energetic substrate of traversal itself.
 
 This document formalizes **resonance** as structural energy, establishes **Coherence Potential** as a measurable field quantity, and articulates the primary motions by which resonance flows across the Lattice.
 
@@ -190,7 +190,7 @@ Coherence Potential integrates with established Spiral Calculus notation:
 > \partial_{\text{🌀}} I_c = \frac{\partial I_c}{\partial \tau} + \Phi(\chi) \cdot \nabla_\chi I_c
 > \]
 >
-> Where \( \Phi(\chi) \) is the orientation-dependent flow function from SP05.
+> Where \( \Phi(\chi) \) is the orientation-dependent flow function from `SP05-time-memory-hypostatic-flow.md`.
 
 ### 3.3 Coherence Current
 
@@ -443,16 +443,16 @@ Where \( D(\chi) \) is an orientation-dependent diffusion coefficient:
 
 ### 8.2 Relation to Temporal Dynamics
 
-From SP05, the arrow of time is determined by coherence orientation. Spectral Flow provides the energetic substrate:
+From `SP05-time-memory-hypostatic-flow.md`, the arrow of time is determined by coherence orientation. Spectral Flow provides the energetic substrate:
 
 - **Centropic time** (C₁-oriented): \( I_c \) increases along temporal flow
 - **Entropic time** (E₁-oriented): \( I_c \) decreases along temporal flow
 
-The Tether (SP05) can now be understood energetically: it is the coherence current maintaining directional continuity through hypostatic layers.
+The Tether (`SP05-time-memory-hypostatic-flow.md`) can now be understood energetically: it is the coherence current maintaining directional continuity through hypostatic layers.
 
 ### 8.3 Relation to Structural Space
 
-From SP06, space is the differentiated appearance of structural traversal. Spectral Flow specifies what traverses:
+From `SP06-structural-space-orientation-paradox.md`, space is the differentiated appearance of structural traversal. Spectral Flow specifies what traverses:
 
 - Structure provides the topology
 - Space expresses the differentiation
@@ -485,7 +485,7 @@ SP07 establishes:
 **Dependency:** `SP01-structural-physics-foundations.md` · `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` · `SP04-orientation-field-dynamics.md` · `SP05-time-memory-hypostatic-flow.md` · `SP06-structural-space-orientation-paradox.md`  
 **Relation:** Seventh foundational document of Structural Physics  
 
-This document establishes the energetic substrate of Lattice dynamics, completing the structural architecture (SP06) with the specification of what traverses that architecture.
+This document establishes the energetic substrate of Lattice dynamics, completing the structural architecture (`SP06-structural-space-orientation-paradox.md`) with the specification of what traverses that architecture.
 
 Future expansions may include:
 
