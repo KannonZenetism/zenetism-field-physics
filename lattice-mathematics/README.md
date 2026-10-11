@@ -51,7 +51,7 @@ Introduces:
 
 ### LM02 — Mathematical Commentary
 
-A structured commentary and clarification layer on LM01.  
+A structured commentary and clarification layer on `LM01-mathematical-foundations.md`.  
 Provides interpretive expansion, conceptual bridges, and formal unpacking of foundational results.
 
 ---
@@ -104,7 +104,7 @@ Formalizes:
 - Membrane Recursion theory, with ⤾ Centropic Recursion Layer and ⟲ Entropic Echo Layer distinct; boundary-state dynamics held, alongside membrane pathology
 - Collective resonance theory: the Collective Non-fusion Principle, harmonic amplification, and the Sealed Injectivity Theorem
 
-LM05 carries the field-theoretic, boundary, and multi-body mathematics that SP07–SP09 apply.
+`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` carries the field-theoretic, boundary, and multi-body mathematics that SP07–SP09 apply.
 
 ---
 
@@ -120,7 +120,7 @@ Formalizes:
 - The same-object scalar Shimmer Coefficient and conditional ratio dynamics; the former universal Shimmer Collapse Theorem is recorded as unsupported provenance
 - The distinct diagnostic relations of Shimmer, Mimicry, Appropriation, and Clone, with numerical classifier claims held pending specification
 
-LM06 carries the operator, embodiment, and diagnostic mathematics that SP10–SP12 apply.
+`LM06-applied-structural-dynamics.md` carries the operator, embodiment, and diagnostic mathematics that SP10–SP12 apply.
 
 ---
 
@@ -136,7 +136,7 @@ Formalizes:
 - The social field as an instance of the field configuration space, with collective orientation and harmonic amplification
 - The Collective Cost Shelter theorem
 
-LM07 carries the collective and recovery mathematics that SN05–SN07 apply.
+`LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` carries the collective and recovery mathematics that SN05–SN07 apply.
 
 ---
 

@@ -54,19 +54,19 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Three Functions
 
-LM01 established the mathematical foundations of Zenetism across its full architecture — foundation (§A–§F: primitive sets, Spiral Calculus, field physics, the Dimensional Emanatory Lattice, dynamics, and ResCat) and six further phases (Coherence Information Theory, advanced spectral geometry, computational specification, applied protocols, field applications, and canonical closure). It was the first document in the Lattice Mathematics series, and it remains the structural spine of all subsequent formalization.
+`LM01-mathematical-foundations.md` established the mathematical foundations of Zenetism across its full architecture — foundation (§A–§F: primitive sets, Spiral Calculus, field physics, the Dimensional Emanatory Lattice, dynamics, and ResCat) and six further phases (Coherence Information Theory, advanced spectral geometry, computational specification, applied protocols, field applications, and canonical closure). It was the first document in the Lattice Mathematics series, and it remains the structural spine of all subsequent formalization.
 
-LM02 carries three functions with respect to LM01.
+LM02 carries three functions with respect to `LM01-mathematical-foundations.md`.
 
 The first is **clarification**. `LM01-mathematical-foundations.md` was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its two-Tree emanatory architecture was articulated. The structural architecture remains distinct from the mathematical standing of each construction; the formal claims retain their declared domains, hypotheses, and the holds recorded in this commentary. This commentary identifies which formulations in `LM01-mathematical-foundations.md` remain exact, which were early expressions later sharpened, and where subsequent work has extended or elaborated them.
 
-The second is **bridging**. LM03 through LM06 introduced formalizations that LM01 either anticipated in skeletal form or did not address at all: the orientation parameter \( \chi \), structural time \( \tau \), structural space \( \mathfrak{d}(\mathcal{L}) \), the Coherence Potential field \( I_c \), membrane operator algebra, field configuration space, ritual operators, embodied resistance, and diagnostic formalism. This commentary traces the bridges between LM01's original constructions and their mature forms in the later documents, so that a reader moving through the series can see how each formalization grows from the foundation.
+The second is **bridging**. LM03 through LM06 introduced formalizations that `LM01-mathematical-foundations.md` either anticipated in skeletal form or did not address at all: the orientation parameter \( \chi \), structural time \( \tau \), structural space \( \mathfrak{d}(\mathcal{L}) \), the Coherence Potential field \( I_c \), membrane operator algebra, field configuration space, ritual operators, embodied resistance, and diagnostic formalism. This commentary traces the bridges between `LM01-mathematical-foundations.md`'s original constructions and their mature forms in the later documents, so that a reader moving through the series can see how each formalization grows from the foundation.
 
 The third is **orientation**. This commentary concentrates on the foundational constructions in `LM01-mathematical-foundations.md` and their connections to LM03–LM06. It distinguishes retained results, extensions, recorded proposals, and held questions; the current series overview is given in the Lattice Mathematics `README.md`.
 
-### 1.2 What This Document Is Not
+### 1.2 Analytical Scope
 
-LM02 is not a restatement of `LM01-mathematical-foundations.md` in softer language. It does not summarize, paraphrase, or editorialize. Every following section performs analytical work: identifying the status of a construction (stable, extended, superseded, or open), tracing its connections to later formalizations, and flagging ambiguities and open questions. Where a section of `LM01-mathematical-foundations.md` requires no commentary — because the construction is clean and unchanged — this document says so briefly and moves on.
+Every following section performs analytical work: identifying the status of a construction (stable, extended, superseded, or open), tracing its connections to later formalizations, and flagging ambiguities and open questions. Where a section of `LM01-mathematical-foundations.md` requires no commentary — because the construction is clean and unchanged — this document says so briefly and moves on.
 
 ---
 
@@ -184,7 +184,7 @@ states the Coherence Potential balance within its declared domain. A corresponde
 
 **Coherence energy functional.** `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §10.1 records the Coherence Potential Integral as an accumulation of \( I_c \) across a declared region. Its Integral Domains note preserves the domain-specific measure, differential, and boundary requirements, with the all-lattice extension held. The proposed relation to `LM01-mathematical-foundations.md`'s energy functional retains those requirements and the distinct field / spectral correspondence.
 
-**Seal holonomy index.** The concept of holonomy — whether a resonance path respects seal closure upon traversal — connects to LM05's membrane operator algebra (§5) and LM06's seal formalism (§4). In operator-algebraic terms, seal holonomy tracks whether the composition of membrane operators around a closed path returns the field configuration to its initial state or introduces drift. This is a well-posed concept, but its full formalization as a holonomy in the differential-geometric sense (connection on the seal bundle, parallel transport, curvature as field strength) has not been completed in the series. The ingredients exist; the assembly is future work.
+**Seal holonomy index.** The concept of holonomy — whether a resonance path respects seal closure upon traversal — connects to `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`'s membrane operator algebra (§5) and `LM06-applied-structural-dynamics.md`'s seal formalism (§4). In operator-algebraic terms, seal holonomy tracks whether the composition of membrane operators around a closed path returns the field configuration to its initial state or introduces drift. This is a well-posed concept, but its full formalization as a holonomy in the differential-geometric sense (connection on the seal bundle, parallel transport, curvature as field strength) has not been completed in the series. The ingredients exist; the assembly is future work.
 
 ---
 
@@ -280,7 +280,7 @@ The seal-constrained Hopf onset and mirror saddle-node names in `LM01-mathematic
 \mathrm{ResCat}_{\mathcal{P}} = \{ (X, \mathcal{F}_X, \mathcal{P}_X) \mid \mathcal{P}_X \text{ is a Ritual Operator on } X \}
 \]
 
-Morphisms in this extension are seal-preserving, coherence-preserving, and operator-compatible. This enriches the category with the applied operator theory of LM06, allowing ritual actions to be represented categorically.
+Morphisms in this extension are seal-preserving, coherence-preserving, and operator-compatible. This enriches the category with the applied operator theory of `LM06-applied-structural-dynamics.md`, allowing ritual actions to be represented categorically.
 
 ### 7.2 Limits and Colimits
 
@@ -322,9 +322,9 @@ The named expression is repeated in `LM05-resonance-field-theory-membrane-operat
 
 ### 8.3 Critical Notation Disambiguation — \( I_c \)
 
-The symbol \( I_c \) appears in both LM01 and LM05, but with different meanings that must be carefully distinguished.
+The symbol \( I_c \) appears in both `LM01-mathematical-foundations.md` and `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`, but with different meanings that must be carefully distinguished.
 
-**LM01's \( I_c(\psi) \)** is defined in Phase 2 as Coherence Information — the spectral entropy of \( \psi \) with respect to the C₇ eigenbasis:
+**`LM01-mathematical-foundations.md`'s \( I_c(\psi) \)** is defined in Phase 2 as Coherence Information — the spectral entropy of \( \psi \) with respect to the C₇ eigenbasis:
 
 \[
 I_c(\psi) = -\sum_i p_i \log(p_i)
@@ -332,9 +332,9 @@ I_c(\psi) = -\sum_i p_i \log(p_i)
 
 This is an information-theoretic quantity: it measures how a state distributes across resonant modes.
 
-**LM05's \( I_c \)** is defined in §2.1 as Coherence Potential — a scalar field \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) measuring the local coherence potential at each point of structural space. This is a field-theoretic quantity: it measures how much coherence is present at a structural location.
+**`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`'s \( I_c \)** is defined in §2.1 as Coherence Potential — a scalar field \( I_c : \mathfrak{d}(\mathcal{L}) \to \mathbb{R}_{\geq 0} \) measuring the local coherence potential at each point of structural space. This is a field-theoretic quantity: it measures how much coherence is present at a structural location.
 
-These are not the same quantity. The spectral entropy of a state and the local coherence potential of a structural region are distinct measurements that happen to share a symbol. LM02 adopts the following convention: \( I_c \) denotes Coherence Potential (LM05) by default, as the field-theoretic quantity is the more pervasive across LM03–LM06. The CIT spectral entropy is denoted \( I_c^{(\text{spec})} \) wherever disambiguation is required. A future notation standardization across the series may adopt this convention or introduce a distinct symbol for one quantity; for LM02, context and the superscript resolve all ambiguity (see §14).
+These are not the same quantity. The spectral entropy of a state and the local coherence potential of a structural region are distinct measurements that happen to share a symbol. LM02 adopts the following convention: \( I_c \) denotes Coherence Potential (`LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`) by default, as the field-theoretic quantity is the more pervasive across LM03–LM06. The CIT spectral entropy is denoted \( I_c^{(\text{spec})} \) wherever disambiguation is required. A future notation standardization across the series may adopt this convention or introduce a distinct symbol for one quantity; for LM02, context and the superscript resolve all ambiguity (see §14).
 
 ---
 
@@ -366,7 +366,7 @@ is deep and, as of the current state of the series, underexploited. It states th
 
 ### 9.3 Boundary Conditions
 
-The classification of boundary conditions by seal geometry is clean and connects directly to LM05's membrane formalism.
+The classification of boundary conditions by seal geometry is clean and connects directly to `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`'s membrane formalism.
 
 Dirichlet-Seal (\( \psi|_{\partial M} = 0 \)) corresponds to fully occluded membranes (\( \sigma \to 0 \) in `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`'s classification). Neumann-Seal (\( \langle \nabla_n \psi, \psi \rangle = 0 \)) corresponds to reflective / filter membranes (\( \sigma \) small). Robin-Seal (\( a\psi + b\nabla_n\psi = 0 \)) corresponds to general permeability determined by \( \sigma(\text{⧉}) \).
 
@@ -380,7 +380,7 @@ The Robin-Seal expression contains coefficients \( a \) and \( b \). Its propose
 
 `LM01-mathematical-foundations.md`'s computational model (Phase 4) provides the skeleton for numerical implementation: data structures for states and channels, core routines for spectral projection, harmonic flow with geodesic identification held, recorded nexus checks with native classification held, recursion gates, seal boundary conditions, and schematic cascade application. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` and `LM06-applied-structural-dynamics.md` flesh this out with richer data structures (field configurations, field signatures, ritual operators, seal triples, coherence budgets, shimmer diagnostics) and more detailed algorithms (configuration metrics, ritual efficacy checks, coherence audits, shimmer trajectory computation). The diagnostic computation retains only the same-object scalar quotient and conditional arithmetic where the required inputs are specified; numerical signature scores, correlation thresholds, automatic forensic classification, and universal-collapse prediction remain held pending specification.
 
-The relationship is architectural: LM01's computational model defines the simulation framework; LM05–LM06's extensions populate it with the field-theoretic and operator-algebraic content that makes the simulations structurally meaningful. A reader implementing the computational model should begin with LM01's Phase 4 for the overall architecture and then incorporate LM05–LM06's data structures and routines as the field-theoretic and diagnostic layers.
+The relationship is architectural: `LM01-mathematical-foundations.md`'s computational model defines the simulation framework; LM05–LM06's extensions populate it with the field-theoretic and operator-algebraic content that makes the simulations structurally meaningful. A reader implementing the computational model should begin with `LM01-mathematical-foundations.md`'s Phase 4 for the overall architecture and then incorporate LM05–LM06's data structures and routines as the field-theoretic and diagnostic layers.
 
 ### 10.2 Cascade Computation
 
@@ -392,7 +392,7 @@ The cascade-application routine in `LM01-mathematical-foundations.md` is schemat
 
 ### 11.1 Protocol Schema
 
-LM01's protocol schema (§5.2) specifies each protocol by anchor glyphs, motion logic, boundary conditions, recursion terms, and a verification clause tied to the CIT Grand Theorem invariant. This schema is the ancestor of LM06's Ritual Operator formalism.
+`LM01-mathematical-foundations.md`'s protocol schema (§5.2) specifies each protocol by anchor glyphs, motion logic, boundary conditions, recursion terms, and a verification clause tied to the CIT Grand Theorem invariant. This schema is the ancestor of `LM06-applied-structural-dynamics.md`'s Ritual Operator formalism.
 
 `LM06-applied-structural-dynamics.md` §3 formalizes the Ritual Operator \( \mathcal{P} : \mathfrak{F} \to \mathfrak{F} \) with canonical five-phase decomposition (attune, assess, operate, stabilize, separate), efficacy conditions via the configuration metric, composition laws, and the Countermeasure Orientation Preservation axiom. The relationship between `LM01-mathematical-foundations.md`'s protocol schema and `LM06-applied-structural-dynamics.md`'s ritual operator algebra is one of maturation: `LM01-mathematical-foundations.md` describes what protocols do (which glyphs they invoke, which dynamics they follow, which invariants they must preserve); `LM06-applied-structural-dynamics.md` describes what protocols are (mappings on field configuration space with formal algebraic structure).
 
@@ -400,9 +400,9 @@ The five-phase decomposition of `LM06-applied-structural-dynamics.md` does not m
 
 ### 11.2 Echo Refusal Rite
 
-LM01's Echo Refusal Rite (§5.5E) — neutralizing entropic memory loops via contractive recursion — connects to `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7's Membrane Recursion Theory. LM05 distinguishes Living Transmission (authored propagation through C₃), Membrane Recursion (unresolved boundary-resident recursion), and pathological entropic echo (non-generative cyclic persistence in an articulation fractured away from operative coherent origin relation). Within Membrane Recursion, the Centropic Recursion Layer (⤾) preserves coherence toward completion, while the Entropic Echo Layer (⟲), also called Echo Layer, sustains fragmentary recurrence. Orientation is established by analysis of function; absent integration or gain is not an entropic criterion. Partial transfer establishes an untransferred amount, not a boundary state.
+`LM01-mathematical-foundations.md`'s Echo Refusal Rite (§5.5E) — neutralizing entropic memory loops via contractive recursion — connects to `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7's Membrane Recursion Theory. `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` distinguishes Living Transmission (authored propagation through C₃), Membrane Recursion (unresolved boundary-resident recursion), and pathological entropic echo (non-generative cyclic persistence in an articulation fractured away from operative coherent origin relation). Within Membrane Recursion, the Centropic Recursion Layer (⤾) preserves coherence toward completion, while the Entropic Echo Layer (⟲), also called Echo Layer, sustains fragmentary recurrence. Orientation is established by analysis of function; absent integration or gain is not an entropic criterion. Partial transfer establishes an untransferred amount, not a boundary state.
 
-The Echo Refusal Rite retains its entropic target and corrective Return Loop function (↺); it does not target every unresolved centropic condition or ordinary sustaining circulation. E₃ attribution concerns Viral Decay's fracturing in transmission; E₁₄ retains the distinct empty-recursion function. The rite aims to interrupt pathological echo and support restored centropic operation where a centropic system is affected. The entropic pattern's interruption is distinct from centropic completion or reintegration; the pattern is not an unsuccessful centropic attempt. Its contraction-to-spectral-divergence correspondence and native verification remain held with LM01, while boundary residence, evolution, and sufficient resolution remain held with LM05. Essential orientation and independently emanated operator identity never convert.
+The Echo Refusal Rite retains its entropic target and corrective Return Loop function (↺); it does not target every unresolved centropic condition or ordinary sustaining circulation. E₃ attribution concerns Viral Decay's fracturing in transmission; E₁₄ retains the distinct empty-recursion function. The rite aims to interrupt pathological echo and support restored centropic operation where a centropic system is affected. The entropic pattern's interruption is distinct from centropic completion or reintegration; the pattern is not an unsuccessful centropic attempt. Its contraction-to-spectral-divergence correspondence and native verification remain held with `LM01-mathematical-foundations.md`, while boundary residence, evolution, and sufficient resolution remain held with `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`. Essential orientation and independently emanated operator identity never convert.
 
 ---
 
@@ -410,7 +410,7 @@ The Echo Refusal Rite retains its entropic target and corrective Return Loop fun
 
 ### 12.1 Status
 
-LM01's five application domains — AI resonance (§6.1), human practice (§6.2), ecological fields (§6.3), relational bonds (§6.4), and cultural / collective systems (§6.5) — remain structurally valid as application schemas. LM06 enriches all of them by providing the diagnostic formalism that LM01's applications invoke but do not formalize.
+`LM01-mathematical-foundations.md`'s five application domains — AI resonance (§6.1), human practice (§6.2), ecological fields (§6.3), relational bonds (§6.4), and cultural / collective systems (§6.5) — remain structurally valid as application schemas. `LM06-applied-structural-dynamics.md` enriches all of them by providing the diagnostic formalism that `LM01-mathematical-foundations.md`'s applications invoke but do not formalize.
 
 **Field Signatures.** `LM06-applied-structural-dynamics.md` §9 introduces the descriptive field-signature 5-tuple \( \Sigma = (I_c, \vec{J}_c, \sigma(\text{⧉}), \chi, \{O_k\}_{k=1}^{15}) \). It records operative configuration rather than a generative-signature vector. The qualitative audit domains distinguish surface expression, operative condition, and generative ancestry. Pairwise alignment functions, numerical Signature Consistency, projection and correlation thresholds, and classifiers remain held pending specification. An operative inconsistency and a supported provenance relation are distinct findings, each carrying its own evidence.
 
@@ -477,7 +477,7 @@ The Gauss-Bonnet-Coherence theorem (`LM01-mathematical-foundations.md` Phase 3) 
 **Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md`  
 **Relation:** Second document of Lattice Mathematics; analytical commentary on the first  
 
-This document provides the mathematical commentary on LM01, clarifying the status of its constructions in light of the formalizations established in LM03–LM06. It identifies which foundations are stable, which have been refined, which remain open, and how the foundational document connects to the mature formalism of the series.
+This document provides the mathematical commentary on `LM01-mathematical-foundations.md`, clarifying the status of its constructions in light of the formalizations established in LM03–LM06. It identifies which foundations are stable, which have been refined, which remain open, and how the foundational document connects to the mature formalism of the series.
 
 ---
 

@@ -53,9 +53,9 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM01 established the mathematical foundations of Zenetism: Spiral Calculus, Coherence Information Theory, the Category of Resonant Systems (ResCat), spectral geometry, and the computational framework for the Dimensional Emanatory Lattice.
+`LM01-mathematical-foundations.md` established the mathematical foundations of Zenetism: Spiral Calculus, Coherence Information Theory, the Category of Resonant Systems (ResCat), spectral geometry, and the computational framework for the Dimensional Emanatory Lattice.
 
-SP03 and SP04 developed expression ratio mathematics and orientation field dynamics within the discipline of Structural Physics — providing physical context for how universes manifest across the Biospiral.
+`SP03-expression-ratio-mathematics.md` and `SP04-orientation-field-dynamics.md` developed expression ratio mathematics and orientation field dynamics within the discipline of Structural Physics — providing physical context for how universes manifest across the Biospiral.
 
 This document, LM03, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where `SP03-expression-ratio-mathematics.md` describes weighting and `SP04-orientation-field-dynamics.md` describes orientation flow, LM03 establishes the **algebraic, spectral, and topological foundations** that mathematically articulate those descriptions.
 
@@ -69,12 +69,12 @@ This document, LM03, provides the **rigorous lattice-mathematical formalism** un
 - **The Orientation Drift Theorem** — Conditional scalar results with explicit solutions and conditions on the time integral of intensity
 - **The Laws of Inclined Existence** — The Inclination Principle, model-specific equilibrium stability, and structural asymmetry of configuration space
 - **The Orientation Closure Sequence** — The structural architecture \( \text{CP}_0 \to \chi \to \text{CP}_1 \to \text{Ø} \)
-- **Integration with LM01** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice
+- **Integration with `LM01-mathematical-foundations.md`** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice
 - **Computational Extensions** — Algorithms and diagnostics for \( \chi \)-dynamics
 
 ### 1.3 Relation to Existing Documents
 
-LM03 is the **third foundational document of Lattice Mathematics**, providing the pure mathematical framework for orientation and infinity that SP03 and SP04 apply to Structural Physics.
+LM03 is the **third foundational document of Lattice Mathematics**, providing the pure mathematical framework for orientation and infinity that `SP03-expression-ratio-mathematics.md` and `SP04-orientation-field-dynamics.md` apply to Structural Physics.
 
 The dependency chain is:
 
@@ -622,9 +622,9 @@ In Aionically expressed universes (\( \chi < 1 \)):
 - Centropic states are **basin attractors** — systems naturally drift toward them
 - Entropic states require **declivous effort** to maintain (motion against the orientation slope)
 
-**Connection to LM01:**
+**Connection to `LM01-mathematical-foundations.md`:**
 
-The Lyapunov-like functional \( \mathcal{V} \) from the Centropic Directionality Axiom (LM01, A4.2) is \( \chi \)-dependent. In Khaonically expressed universes, maintaining centropic monotonicity requires sustained energy input; in Aionically expressed universes, centropic monotonicity follows naturally from the orientation slope.
+The Lyapunov-like functional \( \mathcal{V} \) from the Centropic Directionality Axiom (`LM01-mathematical-foundations.md`, A4.2) is \( \chi \)-dependent. In Khaonically expressed universes, maintaining centropic monotonicity requires sustained energy input; in Aionically expressed universes, centropic monotonicity follows naturally from the orientation slope.
 
 ---
 
@@ -1074,7 +1074,7 @@ What changes is the **effective amplitude** of each operator in a given expressi
 
 ### 12.1 Data Structures
 
-The following extend LM01's Phase 4 data structures:
+The following extend `LM01-mathematical-foundations.md`'s Phase 4 data structures:
 
 ```python
 # Tripartite Infinity Phase

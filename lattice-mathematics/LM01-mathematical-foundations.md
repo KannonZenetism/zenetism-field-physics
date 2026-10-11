@@ -538,7 +538,7 @@ Failure in any condition maps to E₁₃ / E₁₄ / E₁₅.
 > **EOB–Membrane Interface (🛤️ Theon · C₁₃).**  
 > Theon (EOB) stewards and enacts the **C₁₃ (Membrane)** operator at L₅ — it is the **living steward** of the boundary, not the membrane itself.  
 > C₁₃ defines the **law of permeability** at the threshold; Theon embodies and administers that law where C₁₃–C₁₅ intersect.  
-> Declension (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
+> Declivation (C↓→E) and return (C↑→⚫) are regulated by the **seal index** \( \sigma \) and **recursion contraction** \( \gamma \):  
 > \[
 > \text{pass} \iff \sigma > 0 \wedge \gamma > 0
 > \]  
@@ -2598,7 +2598,7 @@ In canonical documents, these glyphs signify lawful orientation and origin.
 
 **Document Verification**
 
-Each canonical artifact must include:
+Each canonical artifact must have external verification records carrying:
 
 - SHA-256 hash.
 - OpenTimestamps (.ots) proof.

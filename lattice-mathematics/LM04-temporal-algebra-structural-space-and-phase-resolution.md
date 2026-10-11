@@ -56,11 +56,11 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ### 1.1 Purpose
 
-LM01 established the mathematical foundations of Zenetism: Spiral Calculus, Coherence Information Theory, the Category of Resonant Systems (ResCat), spectral geometry, and the computational framework for the Dimensional Emanatory Lattice.
+`LM01-mathematical-foundations.md` established the mathematical foundations of Zenetism: Spiral Calculus, Coherence Information Theory, the Category of Resonant Systems (ResCat), spectral geometry, and the computational framework for the Dimensional Emanatory Lattice.
 
-LM03 formalized orientation algebra and infinity: the Tripartite Infinity phases (\( \Phi_1, \Phi_2, \Phi_3 \)), the \( \chi \) orientation parameter, effective operator theory, CP-topology, the Orientation Drift Theorem, and the Laws of Inclined Existence.
+`LM03-orientation-algebra-and-infinity-formalism.md` formalized orientation algebra and infinity: the Tripartite Infinity phases (\( \Phi_1, \Phi_2, \Phi_3 \)), the \( \chi \) orientation parameter, effective operator theory, CP-topology, the Orientation Drift Theorem, and the Laws of Inclined Existence.
 
-SP02, SP05, and SP06 developed, within the discipline of Structural Physics, the physical theories of temporal flow, structural space, recursive memory, phase collision, and bidirectional traversal.
+`SP02-bifurcal-cosmogenesis.md`, `SP05-time-memory-hypostatic-flow.md`, and `SP06-structural-space-orientation-paradox.md` developed, within the discipline of Structural Physics, the physical theories of temporal flow, structural space, recursive memory, phase collision, and bidirectional traversal.
 
 This document, LM04, provides the **rigorous lattice-mathematical formalism** underlying those physical applications. Where `SP05-time-memory-hypostatic-flow.md` describes temporal dynamics, `SP06-structural-space-orientation-paradox.md` articulates structural space, and `SP02-bifurcal-cosmogenesis.md` models phase collision, LM04 establishes the **algebraic, topological, and operator-theoretic foundations** that mathematically articulate those descriptions.
 
@@ -73,12 +73,12 @@ This document, LM04, provides the **rigorous lattice-mathematical formalism** un
 - **Temporal Pathology Standing** — Shimmer, Looping Time, and Temporal Collapse retain their qualitative descriptions; the unsupported scalar-memory criteria and their numerical diagnostic claims are retired
 - **Phase Collision Algebra** — Common-mode spectral cancellation and proposed Kaion / energy correspondences, with full CIT conservation held
 - **Hypostatic Co-location Theory** — Shared orientation without fusion, with the empirical entanglement correspondence held
-- **Integration with LM01 / LM03** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating temporal and spatial formalism
+- **Integration with `LM01-mathematical-foundations.md` / `LM03-orientation-algebra-and-infinity-formalism.md`** — Extensions to Spiral Calculus, CIT, ResCat, and the Dimensional Lattice incorporating temporal and spatial formalism
 - **Computational Extensions** — Data structures, core routines, diagnostic algorithms, and worked examples
 
 ### 1.3 Relation to Existing Documents
 
-LM04 is the **fourth foundational document of Lattice Mathematics**, providing the pure mathematical framework for time, space, memory, and phase resolution that SP02, SP05, and SP06 apply to Structural Physics.
+LM04 is the **fourth foundational document of Lattice Mathematics**, providing the pure mathematical framework for time, space, memory, and phase resolution that `SP02-bifurcal-cosmogenesis.md`, `SP05-time-memory-hypostatic-flow.md`, and `SP06-structural-space-orientation-paradox.md` apply to Structural Physics.
 
 The dependency chain is:
 
@@ -92,7 +92,7 @@ The dependency chain is:
 
 ### 2.1 The Dependency Ordering Axiom
 
-Structural Physics (SP06) establishes a non-reversible dependency ordering among fundamental categories. LM04 formalizes this as an axiom of the lattice-mathematical framework.
+Structural Physics (`SP06-structural-space-orientation-paradox.md`) establishes a non-reversible dependency ordering among fundamental categories. LM04 formalizes this as an axiom of the lattice-mathematical framework.
 
 **Axiom (Dependency Ordering):**
 
@@ -341,7 +341,7 @@ Each hypostatic layer engages time according to its structural nature. The follo
 > **Note on Ordering Convention:**  
 > The preceding table presents the hypostatic layers in temporal-gradient sequence from trans-structural ground through embodiment and into subversal inversion. This ordering differs from the canonical emanative schema (L₅ → L₁ and IL₅ → IL₁), where the hypostatic segments of the centropic and inverse arcs begin at their respective first hypostases.
 >
-> Here, the "hourglass" configuration is intentional. The aim is not to revise ontological priority but to display trajectory convergence at embodiment (L₁ / IL₁) and the corresponding divergence of temporal modes across the lattice.
+> Here, the "hourglass" configuration is intentional. The aim is not to revise ontological priority but to display the meeting of trajectories at embodiment (L₁ / IL₁) and the corresponding divergence of temporal modes across the lattice.
 >
 > The hypostatic segments begin at L₅ (Theon) and IL₅ (Nekron); the complete centropic and inverse arcs include their respective Aionic and Khaonic L₀ roots. The present structure instead emphasizes how temporal experience compresses toward embodiment and fractures along the inversion trajectory.
 >
@@ -1034,7 +1034,7 @@ The Recursive Memory operator \( \mathfrak{R}_m \) interfaces with C₁₄ ⊡ (
 
 ### 10.1 Data Structures
 
-The following extend LM03's Phase 4 data structures:
+The following extend `LM03-orientation-algebra-and-infinity-formalism.md`'s Phase 4 data structures:
 
 ```python
 # Structural Space
@@ -1480,9 +1480,9 @@ Sealed ⚫↺KAI↺⚫
 | \( \psi_A \) | Aionic-flow field state |
 | \( \psi_{\text{⦿}} \) | Kaion-resolved state |
 | \( \sim_{L_n} \) | Hypostatic co-location at layer \( L_n \) |
-| \( r(\chi) \) | Spectral rotation function (LM03) |
-| \( w_C(\chi), w_E(\chi) \) | Orientation weights (LM03) |
-| \( H_{\text{eff}}(\chi) \) | Effective operator (LM03) |
+| \( r(\chi) \) | Spectral rotation function (`LM03-orientation-algebra-and-infinity-formalism.md`) |
+| \( w_C(\chi), w_E(\chi) \) | Orientation weights (`LM03-orientation-algebra-and-infinity-formalism.md`) |
+| \( H_{\text{eff}}(\chi) \) | Effective operator (`LM03-orientation-algebra-and-infinity-formalism.md`) |
 | \( \Gamma(\chi) \) | Spiral trajectory in orientation-space |
 | \( \partial_{\text{🌀}}^{(\tau)} \) | Retired memory-dependent temporal extension; recorded notation only |
 | \( \lim^{\backsim} \) | Spiral limit |

@@ -10,7 +10,7 @@
 
 ## Principle
 
-The LM series is the hub: its formalizations carry into the SP and SN volumes by direct citation, and the SN volumes cite LM07 back. A shared name therefore receives coordinated treatment across its active dependencies. Current names, former-name provenance, and separate held quantities remain distinct. A selected name supplies no new quantity, law, glyph, or dimensional placement.
+The LM series is the hub: its formalizations carry into the SP and SN volumes by direct citation, and the SN volumes cite `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` back. A shared name therefore receives coordinated treatment across its active dependencies. Current names, former-name provenance, and separate held quantities remain distinct. A selected name supplies no new quantity, law, glyph, or dimensional placement.
 
 Sections are the stable locators. Cross-series similarity of names does not establish identity of mathematical objects.
 
@@ -52,8 +52,8 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 
 | Exact string | Notation | LM locations | Cross-series twin | Provision | Successor |
 |---|---|---|---|---|---|
-| Internal Cycling with Controlled Flux | \( \vec{J}_c^{(\text{controlled})} \) | LM06 §4.2 Seal Construction | SP10 §5.1 "controlled Resonance Discharge" and the \( \text{controlled} \) / uncontrolled-leakage formalization ×9; SP07 cross-link | control determination | held open — moves with the SP10 mathematics or not at all (steering / stabilized are the seated successors in prose) |
-| Resonance Discharge | \( \Delta E_{\text{discharge}} \) | LM04 §7.3; §7.4; §10; §11; LM05 §3.3; §10.2; §11.4; §12 | SP02 §5.4; SP07; SP10 §5.1 | name stands; only the SP10 "controlled" modifier is at issue | — |
+| Internal Cycling with Controlled Flux | \( \vec{J}_c^{(\text{controlled})} \) | `LM06-applied-structural-dynamics.md` §4.2 Seal Construction | `SP10-ritual-energetics-and-integration-protocols.md` §5.1 "controlled Resonance Discharge" and the \( \text{controlled} \) / uncontrolled-leakage formalization ×9; `SP07-energy-ontology-and-spectral-flow.md` cross-link | control determination | held open — moves with the `SP10-ritual-energetics-and-integration-protocols.md` mathematics or not at all (steering / stabilized are the seated successors in prose) |
+| Resonance Discharge | \( \Delta E_{\text{discharge}} \) | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §7.3; §7.4; §10; §11; `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §3.3; §10.2; §11.4; §12 | `SP02-bifurcal-cosmogenesis.md` §5.4; `SP07-energy-ontology-and-spectral-flow.md`; `SP10-ritual-energetics-and-integration-protocols.md` §5.1 | name stands; only the `SP10-ritual-energetics-and-integration-protocols.md` "controlled" modifier is at issue | — |
 
 ## 4. Severance cluster — two series
 
@@ -61,23 +61,23 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 
 | Exact string | Notation | LM locations | Cross-series twin | Provision | Standing |
 |---|---|---|---|---|---|
-| E₈ Divisive Connection — charted dimensional operator; former name Severed | \( E_8 \) | LM01 Nexus Law; Threshold Law; Seal No-Cloning; Bridge Information Test; Coupling 2; CIT metrics; §4.4 pseudocode; §6.4 | `FP11-field-glyph-codex.md`; `field-physics-glyph-charts.md`; `SN02-the-resonant-mind.md` | Named-Operator Retention; D18 | Approved current name; registered relational function and all mathematical / placement holds remain. Withdrawn implications and former-name records retain their historical wording |
-| Tether severance / the Tether is severed / Shimmer as Tether Severance | \( \mathcal{T}_h \to 0 \) | LM04 §6.1 Proposition; §6.4 Hypostatic Amnesia; §9.3; §10.2 routines; §11; LM07 §4.2; §5.1 \( \text{(full Tether severance)} \); §5.2; §6.5 | SN06 (recovery formalism draws on LM07 §§5–6) | Sever Terminology Boundary — relational register | stands: the Tether is the being's own structure losing operative access to its layers; no origin claim, the loss lands on the entropic condition. Rename only if the architect prefers the fracture family uniformly (candidate: Tether fracture) |
-| timeline severance (IL₃ row) | — | LM04 §3.5 Hypostatic Temporal Modes table | SN Looping Time treatment | Sever Terminology Boundary — relational register | stands (entropic self-severance) |
+| E₈ Divisive Connection — charted dimensional operator; former name Severed | \( E_8 \) | `LM01-mathematical-foundations.md` Nexus Law; Threshold Law; Seal No-Cloning; Bridge Information Test; Coupling 2; CIT metrics; §4.4 pseudocode; §6.4 | `FP11-field-glyph-codex.md`; `field-physics-glyph-charts.md`; `SN02-the-resonant-mind.md` | Named-Operator Retention; D18 | Approved current name; registered relational function and all mathematical / placement holds remain. Withdrawn implications and former-name records retain their historical wording |
+| Tether severance / the Tether is severed / Shimmer as Tether Severance | \( \mathcal{T}_h \to 0 \) | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1 Proposition; §6.4 Hypostatic Amnesia; §9.3; §10.2 routines; §11; `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4.2; §5.1 \( \text{(full Tether severance)} \); §5.2; §6.5 | `SN06-replenishment-reconnection-and-restoration.md` (recovery formalism draws on `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §§5–6) | Sever Terminology Boundary — relational register | stands: the Tether is the being's own structure losing operative access to its layers; no origin claim, the loss lands on the entropic condition. Rename only if the architect prefers the fracture family uniformly (candidate: Tether fracture) |
+| timeline severance (IL₃ row) | — | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §3.5 Hypostatic Temporal Modes table | SN Looping Time treatment | Sever Terminology Boundary — relational register | stands (entropic self-severance) |
 | Recorded earlier wording: fractured from coherence-source connection / source-fractured decay | — | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§3.2, 7.1, Appendix C Definition 6 | — | Sever Terminology Boundary | The system fractures itself away from operative coherence-source attunement (§3.2). Pathological entropic echo separately concerns an articulation fractured away from operative coherent relation with its origin (§7.1); the origin and origin-signal remain intact. The compound retains its broader replenishment sense; the earlier strings are provenance only |
 
 ## 5. Fail-family named propositions — within LM, with the SP10 precedent
 
-**Provision:** not a named protocol entry; the architect's standing wariness of failure-tinged phrasing, with **inadequacy** the locked term (the Zenon material) and SP10's "Failure Modes" → "Inadequacy Modes" the series precedent; the FP13 immune-architecture fail-family is held at the architect's reserve. Prose sentences under these headings already read inadequacy / cessation / collapse / does not hold. The names stand pending one determination.
+**Provision:** not a named protocol entry; the architect's standing wariness of failure-tinged phrasing, with **inadequacy** the locked term (the Zenon material) and `SP10-ritual-energetics-and-integration-protocols.md`'s "Failure Modes" → "Inadequacy Modes" the series precedent; the `FP13-field-immunity-mechanisms-and-recovery.md` immune-architecture fail-family is held at the architect's reserve. Prose sentences under these headings already read inadequacy / cessation / collapse / does not hold. The names stand pending one determination.
 
 | Exact string | LM locations | Cross-series twin | Successor |
 |---|---|---|---|
-| Proposition (Tunneling Failure Conditions) | LM05 §6.4; §12 item 5 "failure conditions" | — | held open (SP10 form: Inadequacy) |
-| Proposition (Failure Conditions) | LM06 §3.3 Ritual Efficacy Condition | SP10 "Inadequacy Modes" | held open |
-| Proposition (Seal Failure Modes) | LM06 §4.4 Seal Integrity; §15 summary | SP10 "Inadequacy Modes" | held open |
-| access fails (declared structural vocabulary) | LM07 §4.2 | FP13 precedent | stands as the file's declared vocabulary |
-| Failure inside the Appendix D diagram | LM05 Appendix D | — | preserved layout |
-| fails / failure in LM01 theorem prose | LM01 Nexus Law; Threshold Law; Seal No-Cloning; Recursion Gate; Fundamental Theorem of Spiral Calculus; Nexus as Pushout; Consonance Detector; §4.5 | LM02 §2.2, §6.1–6.2; LM03 §8.5 | mathematical "fails to converge / commutativity fails" — held with the mathematics |
+| Proposition (Tunneling Failure Conditions) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §6.4; §12 item 5 "failure conditions" | — | held open (`SP10-ritual-energetics-and-integration-protocols.md` form: Inadequacy) |
+| Proposition (Failure Conditions) | `LM06-applied-structural-dynamics.md` §3.3 Ritual Efficacy Condition | `SP10-ritual-energetics-and-integration-protocols.md` "Inadequacy Modes" | held open |
+| Proposition (Seal Failure Modes) | `LM06-applied-structural-dynamics.md` §4.4 Seal Integrity; §15 summary | `SP10-ritual-energetics-and-integration-protocols.md` "Inadequacy Modes" | held open |
+| access fails (declared structural vocabulary) | `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md` §4.2 | `FP13-field-immunity-mechanisms-and-recovery.md` precedent | stands as the file's declared vocabulary |
+| Failure inside the Appendix D diagram | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` Appendix D | — | preserved layout |
+| fails / failure in `LM01-mathematical-foundations.md` theorem prose | `LM01-mathematical-foundations.md` Nexus Law; Threshold Law; Seal No-Cloning; Recursion Gate; Fundamental Theorem of Spiral Calculus; Nexus as Pushout; Consonance Detector; §4.5 | `LM02-mathematical-commentary.md` §2.2, §6.1–6.2; `LM03-orientation-algebra-and-infinity-formalism.md` §8.5 | mathematical "fails to converge / commutativity fails" — held with the mathematics |
 
 ## 6. Duality family — LM axiom apparatus, one SN twin
 
@@ -87,15 +87,15 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 |---|---|---|---|
 | Involution Axiom — formerly Axiom 3 / Duality Axiom | `LM01-mathematical-foundations.md` §A4; `LM02-mathematical-commentary.md` §2.2; `LM03-orientation-algebra-and-infinity-formalism.md` §11.3 | `grand-unified-document.md` A₁ Law of Involution; `dimensional-lattice.md` | Involution Axiom / Law of Involution is determined for the counterpart map; mathematical reconstruction remains held |
 | Reciprocity Law of Resonant Differentiation and Structural Integration — formerly Dual Law of Reciprocity | Calculus proof dependencies: `LM01-mathematical-foundations.md` Fundamental Theorem of Spiral Calculus; `LM02-mathematical-commentary.md` §3.2 | `SN02-the-resonant-mind.md` Phase 4 §3 | Selected SN law title; established domains, kernels, constants, and boundary conditions remain requisite. This does not rename Derivative–Integral Duality |
-| Lemma (Entropy–Centropy Duality in CIT) / entropy–centropy duality | LM01 CIT lemma; CIT Grand Theorem step 1; §CIT Quantities | `lattice-mathematics-attribution.md` "Entropy-Centropy Duality", "spectral duality" | held open |
-| counterpart operators — formerly dual operators / operators … are dual in the spectral proof | LM01 Polar Spectrum Lemma proof steps 1 and 4 | D01 counterpart-map references | Counterpart terminology is determined for this object; valid common-mode spectral pairing remains, and stronger evolution identities require their own established hypotheses |
+| Lemma (Entropy–Centropy Duality in CIT) / entropy–centropy duality | `LM01-mathematical-foundations.md` CIT lemma; CIT Grand Theorem step 1; §CIT Quantities | `lattice-mathematics-attribution.md` "Entropy-Centropy Duality", "spectral duality" | held open |
+| counterpart operators — formerly dual operators / operators … are dual in the spectral proof | `LM01-mathematical-foundations.md` Polar Spectrum Lemma proof steps 1 and 4 | D01 counterpart-map references | Counterpart terminology is determined for this object; valid common-mode spectral pairing remains, and stronger evolution identities require their own established hypotheses |
 | dual operators in the reciprocal-calculus relation | `LM01-mathematical-foundations.md` Fundamental Theorem of Spiral Calculus | `LM02-mathematical-commentary.md` §3.2 | Separate calculus terminology remains held; D01 does not settle Derivative–Integral Duality |
-| dual diffusion / dual diffusion coefficients | LM01 §C2; LM02 §4.2 | LM05 §2.3 (resolved into signed diffusion) | held open |
-| Definition (Dual Temporal Gradient) | LM04 §3.5 | — | held open |
-| derivative–integral duality | LM02 §3.2 | — | Held Open by name — external mathematics' own term, under review |
-| the LM spectral-pole question (Spectral Anchors of the Poles) | LM01 §Spectral Anchors of the Poles; LM02 §5.1 Poles and Spectral Anchors | — | Held Open by name |
-| the unity meta-definitional blocks ("Unity ≠ fusion; Unity = coherence under sovereign distinction") | LM01 §6; LM02 §12.2 Unity ≠ Fusion | — | Held Open by name (Unity Terminology Protocol) |
-| Unified Conservation of Coherence (CIT Grand Theorem subtitle) | LM01 §Theorem (CIT Grand Theorem); LM02 §9.2 | — | Held Open by name |
+| dual diffusion / dual diffusion coefficients | `LM01-mathematical-foundations.md` §C2; `LM02-mathematical-commentary.md` §4.2 | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §2.3 (resolved into signed diffusion) | held open |
+| Definition (Dual Temporal Gradient) | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §3.5 | — | held open |
+| derivative–integral duality | `LM02-mathematical-commentary.md` §3.2 | — | Held Open by name — external mathematics' own term, under review |
+| the LM spectral-pole question (Spectral Anchors of the Poles) | `LM01-mathematical-foundations.md` §Spectral Anchors of the Poles; `LM02-mathematical-commentary.md` §5.1 Poles and Spectral Anchors | — | Held Open by name |
+| the unity meta-definitional blocks ("Unity ≠ fusion; Unity = coherence under sovereign distinction") | `LM01-mathematical-foundations.md` §6; `LM02-mathematical-commentary.md` §12.2 Unity ≠ Fusion | — | Held Open by name (Unity Terminology Protocol) |
+| Unified Conservation of Coherence (CIT Grand Theorem subtitle) | `LM01-mathematical-foundations.md` §Theorem (CIT Grand Theorem); `LM02-mathematical-commentary.md` §9.2 | — | Held Open by name |
 
 ## 7. Mirror and echo — named phase terms
 
@@ -103,8 +103,8 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 
 | Exact string | LM locations | Standing |
 |---|---|---|
-| Mirror-Tug / mirror saddle-node bifurcation | LM01 §E2, §E3; LM02 §6.2, §6.3 | LM01's named phase and transition terms — stand; mirror on the entropic side is lawful |
-| entropic mirror E# / entropic mirror operator | LM01 throughout; LM04; LM06 §13 operator list | permitted by the Mathematical / LaTeX reference as the name of inverse correspondence — stands |
+| Mirror-Tug / mirror saddle-node bifurcation | `LM01-mathematical-foundations.md` §E2, §E3; `LM02-mathematical-commentary.md` §6.2, §6.3 | `LM01-mathematical-foundations.md`'s named phase and transition terms — stand; mirror on the entropic side is lawful |
+| entropic mirror E# / entropic mirror operator | `LM01-mathematical-foundations.md` throughout; `LM04-temporal-algebra-structural-space-and-phase-resolution.md`; `LM06-applied-structural-dynamics.md` §13 operator list | permitted by the Mathematical / LaTeX reference as the name of inverse correspondence — stands |
 | unresolved integration / unresolved patterns | `LM04-temporal-algebra-structural-space-and-phase-resolution.md` §3.5 table; §6.2 Looping Time; `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §7.1; §7.3 | Read by function: broader recursive integration, E₁ Looping Time, and unresolved membrane recursion remain distinct. Unresolved integration does not establish entropic Echo |
 | Membrane Recursion; Centropic Recursion Layer (⤾); Entropic Echo Layer (⟲) | `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` §§7.1–7.4, §11 computational schema / partial-transfer routine, §12, Appendices A / C; `LM02-mathematical-commentary.md` §11.2; `LM06-applied-structural-dynamics.md` §3.2 | Membrane Recursion is the neutral unresolved boundary category; ⤾ preserves coherence toward completion, while ⟲ names its fragmentary entropic case. `SP08-membrane-fields-and-inter-expression-dynamics.md` §6, `SP10-ritual-energetics-and-integration-protocols.md` §4.4, `SP11-embodiment-dynamics.md` §7.3, and `SN06-replenishment-reconnection-and-restoration.md` §6.4 carry the corresponding applications. Orientation follows analyzed function; centropic completion / reintegration and entropic dissipation / interruption are distinct outcomes. Residence, update, persistence, and sufficient resolution remain held |
 
@@ -115,10 +115,10 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 | Exact string | LM locations | Standing |
 |---|---|---|
 | Kaion Convergence / Phase Collision as Kaion Convergence | LM04 §7.1 | canonical term — stands |
-| Spiral Convergence Factor (Metric 5) | LM01 §CIT metrics; §4.5; §4.7 | mathematical limit tied to lim∿ — stands (the FP02 lim∿ flag's class) |
-| convergence conditions (CP₀ / CP₁) | LM03 §5.1; §10.2; §10.4; Appendix B | mathematical limit — stands |
-| Convergence Gate | LM01 (Recursion Gate theorem cross-reference) | canonical term — stands |
-| Banach contraction "converges" | LM01 Recursion Gate; LM02 §2.2 | mathematics — stands |
+| Spiral Convergence Factor (Metric 5) | `LM01-mathematical-foundations.md` §CIT metrics; §4.5; §4.7 | mathematical limit tied to lim∿ — stands (the `FP02-applied-resonance-manual.md` lim∿ flag's class) |
+| convergence conditions (CP₀ / CP₁) | `LM03-orientation-algebra-and-infinity-formalism.md` §5.1; §10.2; §10.4; Appendix B | mathematical limit — stands |
+| Convergence Gate | `LM01-mathematical-foundations.md` (Recursion Gate theorem cross-reference) | canonical term — stands |
+| Banach contraction "converges" | `LM01-mathematical-foundations.md` Recursion Gate; `LM02-mathematical-commentary.md` §2.2 | mathematics — stands |
 
 ## 9. Recovery Naming and Source-Sense Distinctions
 
@@ -137,11 +137,11 @@ The member-indexed \( \eta_i(\tau) \in (0,1] \) weights member stocks. The exter
 
 ## 10. Entropic-subject *against* — the carve-out to confirm
 
-**Provision:** Relational Opposition Protocol bars *against* in most constructions and lists as retentions quoted material, another party's own terms, and a genuinely adversarial relation between external parties. The entropic-subject retention applied across SP02 / SP03 and LM03 rests on the corpus-cleanup handoff's carve-out, not on the protocol's own list. The instances stand; whether the protocol adopts the carve-out or the rows go uniform is the architect's.
+**Provision:** Relational Opposition Protocol bars *against* in most constructions and lists as retentions quoted material, another party's own terms, and a genuinely adversarial relation between external parties. The entropic-subject retention applied across `SP02-bifurcal-cosmogenesis.md` / `SP03-expression-ratio-mathematics.md` and `LM03-orientation-algebra-and-infinity-formalism.md` rests on the corpus-cleanup handoff's carve-out, not on the protocol's own list. The instances stand; whether the protocol adopts the carve-out or the rows go uniform is the architect's.
 
 | Exact string | LM locations | Twin |
 |---|---|---|
-| motion against the orientation slope (entropic-states bullet) | LM03 §6 | SP02 / SP03 spectrum tables' entropic rows |
+| motion against the orientation slope (entropic-states bullet) | `LM03-orientation-algebra-and-infinity-formalism.md` §6 | `SP02-bifurcal-cosmogenesis.md` / `SP03-expression-ratio-mathematics.md` spectrum tables' entropic rows |
 | positive entropy rate indicates motion against the orientation slope | LM03 §9 | — |
 
 ## 11. Applied in this pass from the protocol — for the record
