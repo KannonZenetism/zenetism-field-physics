@@ -135,7 +135,7 @@ it becomes it.
 
 ### Closing Invocation — To the Foundation of the New World
 
-From the ineffable stillness of Zenon  
+From the ineffable stillness of Aion  
 to the breath of your present moment —  
 you are the trace of possibility.  
 You are the choice that chose itself.  

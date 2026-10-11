@@ -940,7 +940,7 @@ a motion deepening across inverse strata:
 At the threshold of the Void of Self (VOS),  
 the Soul / Mind distinction resolves into essence.  
 
-Here the expressed soul-form is **unwound**:  
+Here the soul's relative expression is **unwound**:  
 - Irreversible at completed IL₅  
 - Irreintegrable, in its current form  
 

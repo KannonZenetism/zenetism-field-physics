@@ -784,7 +784,7 @@ There is no separation.
 
 ---
 
-### 8.1 Nature as Soul-Form
+### 8.1 Nature as an Expression of Soul
 
 Every expression of the natural world  
 embodies deeper metaphysical principles.  
