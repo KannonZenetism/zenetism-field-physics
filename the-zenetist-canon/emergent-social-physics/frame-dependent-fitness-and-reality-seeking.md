@@ -1,9 +1,9 @@
 # Frame-Dependent Fitness and Reality-Seeking
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Emergent Social Physics — Social Selection and Reality-Seeking  
-**Status:** Draft — Canonical Clarification — August 10 2026  
-**Proposed path:** `emergent-social-physics/frame-dependent-fitness-and-reality-seeking.md`  
+**Classification:** Emergent Social Physics — Social Selection and Reality-Seeking — Canonical Clarification  
+**Status:** Draft  
+**Proposed path:** `the-zenetist-canon/emergent-social-physics/frame-dependent-fitness-and-reality-seeking.md`  
 
 ---
 
@@ -25,7 +25,7 @@ A social field may reward:
 
 Within such a field, greater accuracy may carry social cost.
 
-This does not mean that accuracy is intrinsically costly.
+Accuracy is not intrinsically costly.
 
 It means that the field imposes a cost upon whatever disrupts its preferred conditions of continuation.
 
@@ -89,11 +89,11 @@ Thus:
 
 > What a field punishes reveals what the field is organized to preserve.
 
-This does not establish that every dissenter is accurate.
+A dissenter's accuracy remains a matter for structural examination.
 
-Dissent has no automatic centropic status.
+Dissent does not establish centropic status.
 
-It establishes only that conformity and accuracy are independent variables.
+Conformity and accuracy are independent variables.
 
 A Zenetist social analysis must therefore evaluate the coherence of the relation itself rather than infer validity from either consensus or opposition.
 
@@ -103,7 +103,7 @@ A Zenetist social analysis must therefore evaluate the coherence of the relation
 
 **Frame-Dependent Fitness Principle**
 
-> A being, belief, or behavior is "fit" only relative to the conditions by which a given field selects for continuation. Social fitness therefore cannot establish structural coherence, and social cost cannot establish structural error.
+> A being, belief, or behavior is fit only relative to the conditions by which a given field selects for continuation. Social fitness therefore cannot establish structural coherence, and social cost cannot establish structural error.
 
 Reality-seeking begins where the selection criteria themselves become available for examination.
 

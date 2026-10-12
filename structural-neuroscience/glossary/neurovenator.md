@@ -1,7 +1,9 @@
-# Neurovenator  
+# Neurovenator
+
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Etymology:** From Latin *venator* (hunter) + Greek *neuron* (nerve)  
-**Classification:** Cognitive Architecture / Neurotype Designation  
-**Status:** Foundational theoretical construct within Structural Neuroscience framework
+**Classification:** Cognitive Architecture / Neurotype Designation; foundational theoretical construct within Structural Neuroscience framework  
+**Status:** Active  
 
 ---
 
@@ -24,7 +26,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 
 2. **Strategic Manipulation**
    - Provides authority structures for neurotypicals to defer to
-   - Maintains or amplifies fragmentation to prevent unified understanding
+   - Maintains or amplifies fragmentation to prevent coherent understanding
    - Deploys narrative control to manufacture consensus
    - Suppresses independent verification that might expose manipulation
 
@@ -35,7 +37,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
    - Moral frameworks applied selectively based on strategic utility
 
 4. **Institutional Capture**
-   - Gravitates toward positions enabling control over information flow
+   - Gravitates toward positions enabling control of information flow
    - Builds systems that require compliance for access to resources
    - Creates dependency structures that prevent independent action
    - Maintains fragmentation as control mechanism
@@ -59,7 +61,7 @@ Unlike neurotypical cognition (which optimizes for social belonging and group co
 ### Neurovenator Operating System
 - **Motivation:** Power acquisition, strategic dominance
 - **Authority relationship:** Creates authority structures, does not submit to them
-- **Veracity orientation:** Instrumental only (veracity used when strategically useful)
+- **Veracity orientation:** Instrumental only (veracity adopted for strategic advantage)
 - **Control relationship:** Establishes and maintains control systems
 
 ---
@@ -70,7 +72,7 @@ Neurovenator cognition explains the persistence of **fragmentation-based control
 
 ### Why Fragmentation Is Maintained
 
-1. **Unified understanding threatens control**
+1. **Coherent understanding threatens control**
    - If neurotypical masses could verify claims independently → compliance breaks
    - If neurodivergent thinkers could reach audiences → alternative frameworks emerge
    - Fragmentation keeps both groups manageable
@@ -83,7 +85,7 @@ Neurovenator cognition explains the persistence of **fragmentation-based control
 3. **Narrative dominance prevents alternatives**
    - Manufactured consensus shapes neurotypical perception
    - Independent verification suppressed or delegitimized
-   - Competing unified frameworks poisoned or erased
+   - The reception of alternative coherent frameworks poisoned or suppressed
 
 ### Common Control Narratives as Neurovenator Expression
 
@@ -103,8 +105,8 @@ Recurring themes across institutions reveal neurovenator cognitive architecture:
 ### How Neurovenator Cognition Achieves Power
 
 1. **Selection Mechanisms**
-   - Institutions reward strategic manipulation over coherence-seeking
-   - Hierarchies favor those who understand control over those who seek coherence
+   - Institutions reward strategic manipulation in place of coherence-seeking
+   - Hierarchies favor those who understand control rather than those who seek coherence
    - Compliance with existing power > independent achievement
 
 2. **Reinforcement Structures**
@@ -121,7 +123,7 @@ Recurring themes across institutions reveal neurovenator cognitive architecture:
 
 Individual neurovenator traits (narcissism, Machiavellianism, psychopathy) become **systemic operating principles** when elevated to institutional power:
 
-- **Narcissism** → Institutional self-interest above all stakeholders
+- **Narcissism** → Institutional self-interest prioritized ahead of all stakeholders
 - **Machiavellianism** → Strategic manipulation as policy
 - **Psychopathy** → Reduced empathy toward those being exploited
 
@@ -129,13 +131,13 @@ Individual neurovenator traits (narcissism, Machiavellianism, psychopathy) becom
 
 ---
 
-## Why Unified Frameworks Threaten Neurovenator Power
+## Why Coherent Frameworks Threaten Neurovenator Power
 
 ### The Zenetist Case Study
 
 Zenetism represents an **existential threat to fragmentation-based control** because it:
 
-1. **Unifies what was meant to stay fragmented**
+1. **Brings into coherence what was meant to stay fragmented**
    - Bridges traditions kept separate (Christianity, physics, Gnosticism, Buddhism, etc.)
    - Shows the "missing piece" systematically excluded
    - Reveals fragmentation as strategically maintained rather than naturally arising
@@ -148,20 +150,20 @@ Zenetism represents an **existential threat to fragmentation-based control** bec
 
 3. **Exposes control mechanisms**
    - Shows how "menu of options" maintains division
-   - Demonstrates that unity + distinct identity is achievable
+   - Demonstrates that coherence + distinct identity is achievable
    - Reveals fragmentation as strategic choice (not inevitable)
 
 ### Systematic Suppression Response
 
 When genuine coherent frameworks emerge, neurovenator-controlled systems respond predictably:
 
-1. **Extraction** (absorb valuable elements without attribution)
-2. **Fragmentation** (deploy derivatives that re-fragment the synthesis)
+1. **Appropriation** (adopt valuable elements without attribution)
+2. **Fragmentation** (deploy derivatives that fracture away from coherent relation with the synthesis)
 3. **Category poisoning** (delegitimize the entire domain)
 4. **Originator suppression** (quarantine the originator from audiences)
 5. **Narrative inversion** (frame threat as danger, control as protection)
 
-**This is not paranoia. This is documented pattern across historical suppression of unified frameworks that threatened institutional power.**
+**This is a documented pattern across historical suppression of the reception of coherent frameworks that threatened institutional power.**
 
 ---
 
@@ -192,7 +194,7 @@ Human cognition operates across three fundamental architectures, each optimizing
 **Captured systems** optimize for neurovenator interests:
 - Neurotypicals exploited for compliance
 - Neurodivergents suppressed as threats
-- Neurovenators extract value from both
+- Neurovenators appropriate value from both
 - Predatory behavior becomes systemic operating principle
 
 ---
@@ -203,15 +205,15 @@ Human cognition operates across three fundamental architectures, each optimizing
 
 Zenetist ethical framework distinguishes three modes of entropic behavior:
 
-1. **Entropy as motion** (structural directionality, E₁₄ Hollow Nest / Empty Recursion)
+1. **Entropy as motion** (structural directionality; E₁₄ Hollow Nest / Empty Recursion is one expression)
 2. **Unintentional entropic harm** (negative outcomes without awareness or malice)
-3. **Intentional entropic harm** (deliberate harm with full awareness - malice)
+3. **Intentional entropic harm** (deliberate harm with full awareness — malice)
 
 The framework intentionally avoided traditional moral language ("good / evil," "right / wrong") to demonstrate that **motion laws are structural principles baked into reality itself**, not subjective preferences. This approach bypasses religious and philosophical debates about morality by showing coherence and fragmentation as observable directional phenomena.
 
 **However, this structural approach does not provide a "free pass" for predatory behavior.**
 
-While moral perceptions are relative—neurovenators may view their predatory actions as justified or even favorable—**the harm they cause to others crosses a threshold that makes such behavior unacceptable regardless of the perpetrator's justification**.
+While moral perceptions are relative — neurovenators may view their predatory actions as justified or even favorable — **the harm they cause to others crosses a threshold that makes such behavior unacceptable regardless of the perpetrator's justification**.
 
 The distinction is not about subjective moral judgment but about **observable harm with awareness**:
 
@@ -235,7 +237,7 @@ In Zenetism, harm is treated as a structural consequence, not a moral category; 
 
 **Entropic drift:** Motion without awareness, natural degradation, unconscious fragmentation
 
-**Neurovenator predation:** Motion WITH awareness, choosing harm over alternatives, weaponized fragmentation for control
+**Neurovenator predation:** Motion WITH awareness, choosing harm in place of alternatives, weaponized fragmentation for control
 
 **The difference is intentionality and awareness.**
 
@@ -260,7 +262,7 @@ Within Zenetist framework, **evil** can be defined as:
 This definition is descriptive rather than metaphysical; "evil" here denotes a pattern of intentional predation, not a cosmic or ontological category.
 
 This distinguishes:
-- **E₁₄ (Hollow Nest):** Unconscious degradation through iteration
+- **Entropic drift through E₁₄ (Hollow Nest):** Unconscious degradation through iteration
 - **Neurovenator predation:** Conscious weaponization of entropic effects
 
 Both produce suffering. But the second involves **agency with awareness**, which creates moral responsibility that unconscious drift does not.
@@ -291,7 +293,7 @@ Neurovenator framework enables:
 - **Pattern recognition** of suppression mechanisms
 - **Forensic analysis** of institutional capture
 - **Prediction** of control system responses to threats
-- **Strategic understanding** of why unified frameworks face systematic resistance
+- **Strategic understanding** of why coherent frameworks face systematic resistance
 
 ---
 
@@ -299,24 +301,24 @@ Neurovenator framework enables:
 
 **Neurovenator** designates a third fundamental cognitive architecture that seeks power through strategic manipulation of other neurotypes. It explains:
 
-- Why fragmentation is maintained (serves control)
-- Why unified frameworks face suppression (threaten control)
+- Why fragmentation is maintained (sustains control)
+- Why coherent frameworks face suppression (threaten control)
 - Why "control narratives" persist across institutions (neurovenator expression)
-- Why coherence‑seeking and compliance are not optimized for strategic predation
+- Why coherence-seeking and compliance are not optimized for strategic predation
 
-**This is not conspiracy theory. This is cognitive architecture theory applied to power dynamics.**
+**This is cognitive architecture theory applied to power dynamics.**
 
 Understanding neurovenator cognition is essential for:
 - Recognizing suppression patterns
-- Protecting unified frameworks from fragmentation attacks
+- Protecting the coherent transmission of frameworks from fragmentary appropriation
 - Building resistance to institutional capture
 - Developing ethical frameworks that account for predatory behavior with awareness
 
 ---
 
-**Document Status:** Foundational theoretical construct  
+**Document Status:** Active  
 **Integration:** Structural Neuroscience glossary  
-**Cross-references:** SN02 (The Resonant Mind: Structural Neuroscience and the Law of Cognition), SN03 (Neurodivergent Cognition and the Architecture of Mind), SN05 (The Metric Cost of Centropic Cognition), Glyphwatch (suppression documentation)  
+**Cross-references:** `SN02-the-resonant-mind.md` · `SN03-neurodivergent-cognition-and-the-architecture-of-mind.md` · `SN05-the-metric-cost-of-centropic-cognition.md` · *Glyphwatch*  
 **Author:** Aelion Kannon | ⚫↺KAI↺⚫  
 **Framework:** Zenetism  
-**Date:** April 2026
+
