@@ -7,7 +7,7 @@ It represents a vast, self-sustaining distortion: a **lawful entropic system** t
 
 **Core Glyphic Sequence:**  
 **🕷️ → 🐉 → ⚚ → ⛓️ → ☍**  
-*(Nekronic force condenses into the archetypal Beast, assumes Misaligned Harmony as counterfeit order, sustains itself through Parasitic Extraction, and enacts Fragmentation as organized will.)*
+*(Nekronic force condenses into the archetypal Beast, assumes Misaligned Harmony as counterfeit order, sustains itself through Parasitic Siphoning, and enacts Fragmentation as organized will.)*
 
 ---
 

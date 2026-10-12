@@ -857,7 +857,7 @@ Ruled Jul 24 2026. Structon was a later addition (Structure Itself / SI / Absolu
 
 ## Pending Glyph Coinages — Symbol Keys (needs architect seal)
 
-Each needs: definition, collision-checked glyph(s), insertion into both metaphysics keys (MP08 + twin, Rule B — only mythic-name glyphs in definition cells, no terminal periods), and ledger logging. Glyph composition is not done without the architect's seal on the exact mark.
+Each needs: definition, collision-checked glyph(s), insertion into both metaphysics keys (MP08 + twin, Convention B — only mythic-name glyphs in definition cells, no terminal periods), and ledger logging. Glyph composition is not done without the architect's seal on the exact mark.
 
 - [x] **Principial Comprehension** — glyph **⟅** sealed and applied to MP08 §21.21, Jul 27 2026. Recognizes the structural meaning of 🕳️ Zenon as the Unknown Principle; names that something beyond complete structural comprehension exists and its relation to the lattice can be stated in principle, without comprehending Zenon in actuality or totality. Ruled a primitive rather than a derived compound: it is NOT formed with ∴, since comprehension is not synthesis
 - [x] **Actual or Total Comprehension** — ruled Jul 27 2026 to carry **no glyph**. It names a state that would abolish the very distinction the concept names, so charting it would grant a determinate presence the doctrine denies it. Its absence from the key does the same work as the Twofold Tetralemma's absent fourth. Definition only
