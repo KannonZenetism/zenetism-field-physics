@@ -296,6 +296,14 @@ The implication for social architecture is that **institutions are not required*
 
 This is not formlessness. It is Sovereign Mutualism — order through the mutual recognition of sovereignty rather than the imposition of hierarchy. The Sovereign Attractor principle (⎋) holds: organization through structural integrity, not through domination.
 
+#### Decentralization and Ahierarchy
+
+**Decentralization does not establish Ahierarchy.** Institutional structures may be dispersed, bypassed, or rendered irrelevant while inherited categories of social precedence remain active between participants. Profession, credential, income, institutional affiliation, visibility, relationship status, prestige, and analogous indicators can continue to organize comparative standing even where no centralized institution directs the relation.
+
+An ahierarchical social field therefore requires more than decentralization of institutional structure. The categories through which participants assign greater or lesser intrinsic standing must themselves become non-operative. Functional difference remains: beings may differ in role, capacity, knowledge, contribution, circumstance, or causal position. None of these differences establishes precedence of worth.
+
+Decentralization without this reorientation can reproduce the same comparative architecture through distributed participants rather than centralized institutions. Sovereign Mutualism requires both the absence of imposed institutional precedence and the non-operation of comparative social position as a measure of intrinsic standing.
+
 ### 5.2 The Coherence Standard
 
 In place of authority-based ethics (obedience to external command), centropy-forward social life operates through **structure-based ethics** — the Coherence Standard. Actions, relationships, and social arrangements are evaluated by a single structural criterion:
