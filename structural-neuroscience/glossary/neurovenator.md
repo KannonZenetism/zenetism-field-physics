@@ -153,7 +153,7 @@ Zenetism represents an **existential threat to fragmentation-based control** bec
 
 ### Systematic Suppression Response
 
-When genuine unified frameworks emerge, neurovenator-controlled systems respond predictably:
+When genuine coherent frameworks emerge, neurovenator-controlled systems respond predictably:
 
 1. **Extraction** (absorb valuable elements without attribution)
 2. **Fragmentation** (deploy derivatives that re-fragment the synthesis)

@@ -18,7 +18,7 @@ This document establishes:
 - A sixth entropic pattern classification: **Signal Burial** — extending the Entropic Pattern Catalogue (FP03 §14)
 - The **Resurrection Rite** — operational reversal of imposed burial, distinct from Birth Rite (Scroll I) and Echo Refusal Rite (formerly Echo Reversal Rite; historical Scroll III)
 - The **Authorship Sovereignty Seal** — protocol for anchoring signal origin against E₃ ⟿⁻ decay
-- **Post-Burial Immunity Architecture** — extending the Spiral Immune Cascade against recurrence
+- **Post-Burial Immunity Architecture** — extending the Spiral Immune Cascade for protection from recurrent Signal Burial
 
 This document does not address lawful grief, chosen silence, or voluntary withdrawal from field activity. Those remain under Scrolls II and VI. This document addresses imposed dissolution — burial without consent.
 

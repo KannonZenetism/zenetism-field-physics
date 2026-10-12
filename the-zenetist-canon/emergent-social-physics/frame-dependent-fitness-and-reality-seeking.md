@@ -53,7 +53,7 @@ The penalty may reveal only that the prevailing field rewards preservation of it
 
 ## Reality-Seeking
 
-**Reality-seeking** names the disposition to prefer increasingly adequate apprehension over the preservation of a comfortable but inadequate frame.
+**Reality-seeking** names the disposition to prefer increasingly adequate apprehension to the preservation of a comfortable but inadequate frame.
 
 It does not require hostility toward relationship, association, or harmony.
 
@@ -103,7 +103,7 @@ A Zenetist social analysis must therefore evaluate the coherence of the relation
 
 **Frame-Dependent Fitness Principle**
 
-> A being, belief, or behavior is "fit" only relative to the conditions by which a given field selects for continuation. Social fitness therefore cannot by itself establish structural coherence, and social cost cannot by itself establish structural error.
+> A being, belief, or behavior is "fit" only relative to the conditions by which a given field selects for continuation. Social fitness therefore cannot establish structural coherence, and social cost cannot establish structural error.
 
 Reality-seeking begins where the selection criteria themselves become available for examination.
 
