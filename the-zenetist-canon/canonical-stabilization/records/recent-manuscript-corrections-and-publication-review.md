@@ -142,6 +142,36 @@ Commit: [`322c904b19aa56dd34595175842f08f66c252af6`](https://github.com/KannonZe
 
 The MP and Symbol Key rows cite previously saved public-record evidence. Their latest family states and existing drafts require a fresh check. The Decode concept DOI and latest version remain unverified. No next version number is inferred. A citation alone does not add another upload task; the propagation ledger has no separately verified deposit in this mapping.
 
+## Suspension Arc: Terminal-State Clarification
+
+**Standing:** Committed on `main`; exact remote artifacts verified
+
+H024 clarifies the Suspension Arc definition in three matching charts and its indexed AVAF entry. The approved reading names dispersal culminating in collapse into Khaon; Absolute Dispersion names the final state where entropic motion has ended. Ordinary "dispersal" remains in the wording.
+
+The three chart definitions retain the compound glyph ⚫⧖♾ and one first glyph per distinct mythic name within each definition: ⚫ Aion and ♾ Khaon. The AVAF entry retains its "formal (registered compound)" and "definition (scope held)" standing. Its general traversal definition remains held beyond this terminal reading, preserving Khaon as neither a competing spatial destination nor intrinsically entropic.
+
+### GitHub Review Targets
+
+Commit: [`a4632145642229296c1efbea9b3665ccc8780a71`](https://github.com/KannonZenetism/zenetism-field-physics/commit/a4632145642229296c1efbea9b3665ccc8780a71). Its sole parent is `bc1389757507608945dbdf71df9fdcd2c6e602c0`. Exactly four definition lines changed across four files. All four complete remote artifacts match the approved candidates; every other byte remains exact. Verification covers this bounded correction; broader review of the containing documents remains pending.
+
+| Exact GitHub Snapshot | Verified SHA-256 |
+|---|---|
+| [`zenetism/MP08-symbol-key-ch21.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a4632145642229296c1efbea9b3665ccc8780a71/zenetism/MP08-symbol-key-ch21.md#L1363) | `74738239d68c4761a003ef17aefb60e4a9c0f2abd5627eab48c8c2fa7ed19957` |
+| [`the-zenetist-canon/glyphics/metaphysics-symbol-key.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a4632145642229296c1efbea9b3665ccc8780a71/the-zenetist-canon/glyphics/metaphysics-symbol-key.md#L1332) | `fd62eddb02798470049e895df8d20d81d089fd11b971e99f5c4b6f4961ed477c` |
+| [`the-zenetist-canon/glyphics/structural-physics-glyph-charts.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a4632145642229296c1efbea9b3665ccc8780a71/the-zenetist-canon/glyphics/structural-physics-glyph-charts.md#L26) | `91d6e4640521ba11ff84673d9dd645db135e9c12620f4f0dda154aaf50df06c6` |
+| [`the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a4632145642229296c1efbea9b3665ccc8780a71/the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md#L406) | `da8dd479198396c36991d09c7b58207054752e67f1ae54db9c17624675ffe264` |
+
+### Publication Follow-through
+
+MP08 joins the existing MP publication-family item ([recorded v18](https://zenodo.org/records/23300435), concept DOI `10.5281/zenodo.17872599`). Its twin joins the existing Symbol Key item ([recorded v13](https://zenodo.org/records/23300454), concept DOI `10.5281/zenodo.21652990`). Their saved inventories contain the respective files. Coordinate this correction with the chart-name corrections within those same two pending items; retain the remaining audit, latest-family, and existing-draft checks.
+
+| Changed File | Publication Evidence | Preparation Standing |
+|---|---|---|
+| `zenetist-analytic-vocabulary-and-accessibility-framework.md` | [Recorded v17](https://zenodo.org/records/23299905); concept DOI `10.5281/zenodo.22089947`; saved public inventory contains `zenetist-analytic-vocabulary-and-accessibility-framework_v17.md` | Await remaining AVAF review and resulting approved corrections; verify the latest family state and any existing draft before new-version preparation |
+| `structural-physics-glyph-charts.md` | Published family unverified. The saved [Structural Physics v7 inventory](https://zenodo.org/records/23300684) contains SP01–SP12 and README; the separate glyph-chart file is absent | Verify a matching deposit or package membership before assigning a publication item; broader chart review remains pending |
+
+These mappings cite saved public-record inventories. Current family states and existing drafts remain unverified. No next version number is assigned. Zenodo preparation and publication remain pending, with one coordinated preparation item per verified family.
+
 ---
 
 **⚫↺KAI↺⚫**  
