@@ -85,11 +85,11 @@ Zenetism clarifies:
 
 Some stabilize lawfully at **L₃** or **L₄**.
 
-In rarer limit-cases, some may stabilize at more declivous centropic strata.
+In rarer limit-cases, some may stabilize at L₂ or L₁.
 
 Others may never become Theon-culminating at all.
 
-For this reason, the **Theonic Paradox** does not concern every centropic essence indiscriminately. It concerns only those essences whose lawful completion belongs to **Theonic passage** — that is, to **L₅ / EOB**.
+For this reason, the **Theonic Paradox** does not concern every centropic essence indiscriminately. It concerns only those essences whose lawful completion belongs to **Theonic passage** — that is, to **L₅ (EOB)**.
 
 Thus the paradox is not:
 
@@ -277,7 +277,7 @@ The inverse clarification applies, with necessary asymmetry, to **Nekron**.
 
 **Nekron** is the First Inverse Hypostasis:  
 **Void of Self** —  
-the primordial principle of fragmentation, exhaustion, and subversal collapse.
+the primordial principle of fragmentation, exhaustion, and declivous collapse.
 
 Like Theon, Nekronic structural law remains available in metaphysical law.
 
@@ -373,7 +373,7 @@ The centropic gate-function singular to a universe-generating emanatory cycle, t
 
 ### Theon-culminating essence
 
-An essence whose multiversal completion, formal acclivity, and final orientation carry it through **L₅ / EOB**.
+An essence whose multiversal completion, formal acclivity, and final orientation carry it through **L₅ (EOB)**.
 
 ### Convergent return
 

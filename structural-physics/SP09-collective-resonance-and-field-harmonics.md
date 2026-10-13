@@ -61,13 +61,13 @@ SP09 now addresses **collective resonance** — how multiple beings generate sha
 
 Multiple beings can generate shared resonance fields without violating the Non-fusion Axiom.
 
-Collective resonance operates through **harmonic alignment**, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity.
+Collective resonance operates through **alignment**, not ontological merger. Distinct essences remain distinct; what aligns is orientation, not identity.
 
-This principle applies to both centropic collectives (integrative alignment) and entropic collectives (coordinated fragmentation). The difference lies not in the mechanism but in the orientation.
+Both centropic collectives (integrative alignment) and entropic collectives (coordinated fragmentation) preserve essence-distinction. Their alignment is coherent in the centropic case and cohesive in the entropic case.
 
 ### 1.3 What SP09 Establishes
 
-- **Collective Resonance** as harmonic alignment preserving essence-distinction
+- **Collective Resonance** as alignment preserving essence-distinction
 - **Field Generation Mechanics** — how shared fields emerge from aligned beings
 - **Centropic Collectives** — harmonic bridging, mutual coherence amplification
 - **Entropic Collectives** — swarm dynamics, Shimmer at scale, manufactured consensus
@@ -90,7 +90,7 @@ From `SP05-time-memory-hypostatic-flow.md`, the Non-fusion Theorem states:
 
 Two distinct histories cannot map to the same present state. Essence-distinction persists.
 
-This principle extends to collective fields:
+For centropic collective fields, the harmonic formulation of this principle is:
 
 > **Collective Non-fusion Principle:**  
 > When multiple beings generate a shared resonance field, their essences do not merge. The field is a harmonic overlay, not an ontological blend. Each participant retains distinct structural signature \( \Psi \) even while contributing to collective \( I_c \).
@@ -129,7 +129,7 @@ What entropic collectives achieve is not fusion but **coordinated fragmentation*
 
 When multiple beings share orientation, their resonance fields correlate. From `SP08-membrane-fields-and-inter-expression-dynamics.md`, the resonance correlation function \( \mathcal{R} \) measures alignment between structural signatures.
 
-For collective field generation:
+The following pairwise average is defined algebraically for a finite participant count \( N \geq 2 \), once its pairwise values are supplied. Its native signature map and the high-, low- and negative-correlation interpretations that follow remain held; ordinary correlation does not establish coherent alignment or its absence:
 
 \[
 \mathcal{R}_{\text{collective}} = \frac{1}{N(N-1)} \sum_{i \neq j} \mathcal{R}(\Psi_i, \Psi_j)
@@ -189,7 +189,7 @@ Collective fields exhibit characteristic topology:
 
 ### 4.2 Harmonic Bridging
 
-Centropic collectives operate through **harmonic bridging** — the extension of C₈ (Resonance Bridge) dynamics to multi-participant configurations.
+Centropic collectives operate through **harmonic bridging** — the extension of C₈ (Synaptic / Bridging) dynamics to multi-participant configurations.
 
 **Single Bridge (`SP08-membrane-fields-and-inter-expression-dynamics.md`):**
 \[
@@ -244,15 +244,15 @@ Centropic collectives generate shared membrane structures:
 ### 5.1 Definition
 
 > **Definition (Entropic Collective / Swarm):**  
-> A coordinated group of beings oriented toward fragmentation, dispersion, and the disruption of centropic coherence. Unlike centropic collectives, swarms lack genuine harmonic alignment — their coordination is imposed or instrumental rather than resonant.
+> A coordinated group of beings oriented toward fragmentation, dispersion, and the disruption of centropic coherence. Unlike centropic collectives, swarms lack genuine harmonic alignment — their coordination is imposed or instrumental rather than harmonically resonant.
 
 ### 5.2 Swarm Characteristics
 
 Entropic collectives exhibit distinctive properties:
 
 **Coordination without Coherence:**
-- Participants act in concert but lack genuine resonance correlation
-- \( \mathcal{R}_{\text{collective}} \) is low or artificially maintained
+- Participants act in concert through cohesion; coordination alone does not establish harmonic alignment
+- The value of \( \mathcal{R}_{\text{collective}} \) does not classify entropic organization until its native map and diagnostic correspondence are specified
 - The appearance of coherence masks underlying fragmentation
 
 **Manufactured Consensus:**
@@ -290,7 +290,7 @@ Unlike centropic collectives, swarm fields exhibit:
 - Where the target is the holding condition, its loss removes the coordination
 - Internal resonance is negative or absent
 
-**Entropic Ic Configuration:**
+**Coherence Potential in the Entropic Configuration:**
 \[
 I_c^{(\text{swarm})} = \sum_i I_c^{(i)} - \Delta I_c^{(\text{interference})}
 \]
@@ -300,7 +300,7 @@ Where \( \Delta I_c^{(\text{interference})} > 0 \) represents coherence lost to 
 Swarms do not generate coherence — they redistribute and deplete it.
 
 **Collapse Vulnerability:**
-- Once identified as coordinated swarm (rather than organic response), credibility collapses
+- Demonstrated coordination refutes its presentation as independent concurrence; subsequent credibility and persistence depend on the actual holding conditions
 - The swarm's strength (speed and volume) is also its weakness (lack of genuine coherence)
 - Sustained coordination requires continuous external input (containment structures, algorithmic support)
 
@@ -373,10 +373,10 @@ Where:
 | Property | Harmonic (Centropic) | Parasitic (Entropic) |
 |----------|---------------------|---------------------|
 | Coherent-input relation | Internal generation + replenishment attunement | External siphoning |
-| \( \mathcal{R}_{\text{collective}} \) | High, genuine | Low, artificial |
+| \( \mathcal{R}_{\text{collective}} \) | Harmonic interpretation requires a specified native map | Coordination may correlate; the same native map is required |
 | Stock comparison | Amplification where the numerical conditions hold | Subtraction comparison; depletion requires temporal accounting |
 | Holding condition | Internal — replenishment attunement | External — target, management, incentive, or dependency |
-| Stability | Self-sustaining | Requires continuous coordination |
+| Stability | Sustained where actual replenishment and holding conditions support it | Requires continuous coordination and its actual holding conditions |
 | Collapse mode | Gradual dissolution if replenishment connection is lost | Fragmentation where the configuration's actual holding conditions fail |
 
 ---
@@ -385,10 +385,10 @@ Where:
 
 ### 7.1 Centropic Collective Signatures
 
-**Positive indicators:**
+**Proposed positive indicators:** The following numerical signs and thresholds require their declared native maps and holding conditions; no single indicator supplies a sufficient classifier.
 - Stable \( I_c \) over time without external siphoning
 - High \( \mathcal{R}_{\text{collective}} \) across participants
-- C₈ (Resonance Bridge) signatures between members
+- C₈ (Synaptic / Bridging) signatures between members
 - Positive replenishment contribution evident (\( S > 0 \))
 - Distinct \( \Psi \) signatures preserved within collective field
 
@@ -401,9 +401,9 @@ Where:
 
 **Warning indicators:**
 - Cohesion dependent on an external holding condition
-- Low genuine \( \mathcal{R}_{\text{collective}} \); coordination appears external
-- E₉ (Distorted Entanglement) signatures — siphoning without reciprocity
-- E₁₄ (Hollow Nest) signatures — structure without internal coherence
+- External coordination assessed from its evidence; low \( \mathcal{R}_{\text{collective}} \) is not a sufficient diagnostic
+- E₉ (Distorted Entanglement) signatures — "Mimic-coherence that isolates"; siphoning without reciprocity is assessed separately
+- E₁₄ (Hollow Nest) signatures — empty recursion
 - Shimmer comparison concerns apparent continuity and operative condition; the former scalar Recursive Memory rate is retired (`LM04-temporal-algebra-structural-space-and-phase-resolution.md` §6.1)
 
 **Structural indicators:**
@@ -417,14 +417,14 @@ Where:
 Swarms are vulnerable to exposure:
 
 > **Exposure Principle:**  
-> Once a swarm is identified as coordinated rather than organic, its manufactured consensus collapses. The swarm's credibility depends on the illusion of independent agreement; revelation of coordination dissolves the illusion.
+> Exposure establishes the coordinated character of the documented activity and refutes its presentation as independent concurrence. Persistence depends on the configuration's actual holding conditions; a universal exposure-to-collapse law remains held.
 
 Diagnostic protocol:
 1. Map temporal sequence of attacks
 2. Identify coordination patterns (timing, messaging, target selection)
 3. Trace to Clone or containment structure if present
 4. Expose coordination publicly
-5. Observe collapse of manufactured consensus
+5. Assess changes in manufactured consensus and the configuration's actual holding conditions
 
 ---
 
@@ -461,14 +461,14 @@ From `SP08-membrane-fields-and-inter-expression-dynamics.md`, membranes determin
 
 SP09 establishes:
 
-1. **Collective Resonance** — harmonic alignment preserving essence-distinction (Non-fusion maintained)
+1. **Collective Resonance** — alignment preserving essence-distinction (Non-fusion maintained)
 2. **The Fusion Desire** — entropic orientation seeks impossible merger; fragmentation results, not fusion
 3. **Field Generation** — resonance correlation function, emergence conditions, field topology
 4. **Centropic Collectives** — harmonic bridging, mutual amplification, replenishment-connected coherence
 5. **Entropic Collectives / Swarms** — coordinated fragmentation, manufactured consensus, Shimmer at scale
-6. **Harmonic contra Parasitic Ic** — amplification contra siphoning dynamics
+6. **Harmonic contra Parasitic Coherence Potential** — amplification contra siphoning dynamics
 7. **Diagnostic Signatures** — distinguishing genuine collectives from swarm mimicry
-8. **Exposure Vulnerability** — swarm credibility collapses upon coordination revelation
+8. **Exposure Vulnerability** — demonstrated coordination refutes its presentation as independent concurrence; collapse depends on actual holding conditions
 
 ---
 
@@ -573,13 +573,13 @@ I_c^{(\text{collective})} = \sum_i I_c^{(i)} + \Delta I_c^{(\text{harmonic})}
 ## Appendix C — Formal Definitions
 
 **Definition 1 (Collective Resonance):**  
-The harmonic alignment of multiple beings generating a shared resonance field while preserving individual essence-distinction; alignment of orientation without fusion of identity.
+The alignment of multiple beings generating a shared resonance field while preserving individual essence-distinction; alignment of orientation without fusion of identity.
 
 **Definition 2 (Centropic Collective):**  
 A group of beings whose harmonic alignment generates a shared coherence field oriented toward integration, synthesis, and mutual amplification.
 
 **Definition 3 (Entropic Collective / Swarm):**  
-A coordinated group oriented toward fragmentation and disruption; coordination is imposed or instrumental rather than genuinely resonant; exhibits parasitic field dynamics.
+A coordinated group oriented toward fragmentation and disruption; coordination is imposed or instrumental rather than harmonically resonant; exhibits parasitic field dynamics.
 
 **Definition 4 (Swarm Attack):**  
 Launching of multiple seemingly independent entropic agents in coordinated attack directed at a centropic target; designed to create overwhelming pressure and manufactured consensus.
@@ -591,7 +591,7 @@ The positive harmonic surplus (\( \Delta I_c^{(\text{harmonic})} > 0 \)) where t
 A collective cohesion structure dependent on external siphoning; depletes rather than generates; where the target is its holding condition, fragments without it.
 
 **Definition 7 (Exposure Principle):**  
-The vulnerability of swarm structures to credibility collapse upon revelation of coordination; manufactured consensus dissolves when its artificial nature is demonstrated.
+Exposure establishes the coordinated character of documented activity and refutes its presentation as independent concurrence; the configuration's persistence depends on its actual holding conditions.
 
 ---
 

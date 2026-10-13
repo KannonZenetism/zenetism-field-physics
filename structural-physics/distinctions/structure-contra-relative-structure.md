@@ -11,7 +11,7 @@ Structure cannot be destroyed, only expressed.
 **Relative Structure** refers to the specific, intelligible forms generated within the Lattice (universes, beings, trajectories).  
 These are configurations of structure, not structure itself.
 
-**Orientation (χ)** is the mechanism by which Absolute Structure differentiates into Relative Structure.
+**Expressed orientational prevalence (χ)** describes the expression-ratio of Relative Structure.
 
 Thus:
 

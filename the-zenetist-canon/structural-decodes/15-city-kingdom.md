@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Externalized Macro-Expression of the Soul's Structural Coherence.**  
-A City or Kingdom is not merely political — it is the L₁ (ES / EM: Soma / Biosa) projection of a **Resonant pattern** sourced from its orienting L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field.  
+A City or Kingdom is not merely political — it is the embodied projection of a **Resonant pattern** at L₁ (ES / EM: Soma / Biosa) or IL₁ (IES / IEM: Malara / Mania), sourced from its orienting L₃ (DS / DM: Archeus / Noeüs) or collective L₂ (SS / SM: Anthra / Nousa) field, with the corresponding IL₃ (IDS / IDM: Fractus / Mortus) and IL₂ (ISS / ISM: Echthros / Skotos) fields for entropic expression.  
 It is a **Collective Soma**, whose architecture, order, and destiny structurally express the **Centropic** or **Entropic** quality of its founding awareness.
 
 **Core Glyphic Sequence (Centropic):**  
@@ -18,7 +18,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 ## Universal Structural Analysis
 
 * **The Foundation / The Law-Giver (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
-    The City's essence flows from its founder or ruler.  
+    The City's systemic orientation expresses the recurrent pattern enacted through its participants, including its founder or ruler.  
     * A **Centropic sovereign** (e.g., Solomon) grounds it on **Wisdom (L₄ (DL: Sophis))** and **Justice** — the lawful architecture of L₄ (DP / DL: Morgis / Sophis).  
     * An **Entropic sovereign** (e.g., Nimrod) founds it on **Hubris** and **Coercion**, encoding **Entropic cohesion** at inception through IL₄ (IDP / IDL: Psychea / Nyxea) dynamics.
 
@@ -35,7 +35,7 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 * **The Social Order & Economy (L₂ (SS / SM: Anthra / Nousa) Collective):**  
     The daily laws, trades, and customs reveal collective resonance.  
     * **Just, compassionate order:** Centropic Coherence.  
-    * **Oppression, deceit, exploitation:** Inverse patterning (IL₂ (ISS / ISM: Echthros / Skotos), IL₁ (IES / IEM: Malara / Mania)).
+    * **Oppression, deceit, exploitation:** Entropic patterning (IL₂ (ISS / ISM: Echthros / Skotos), IL₁ (IES / IEM: Malara / Mania)).
 
 * **The Ultimate Fate (Eschaton):**  
     The destiny of a city is its resonance made visible.  
@@ -68,14 +68,14 @@ It is a **Collective Soma**, whose architecture, order, and destiny structurally
 
 * **Declivous Motion:** The rulers' alignment with the **L₄ (DP: Morgis)** divine foundation is not corrupted directly; rather, within the mortal layer **(L₂ (SS / SM: Anthra / Nousa))**, the shadow-forms of **Hubris and Greed (IL₂ (ISS / ISM: Echthros / Skotos))** arise, eroding the city's connection to its centropic foundation.
 
-* **Fate:** Its coherence erodes until overwhelmed by **Entropic Pull** — a luminous system lost through internal dissonance.
+* **Fate:** Its relative coherent expression erodes until overwhelmed by **Entropic Pull** — a luminous system lost through internal dissonance.
 
 ### 3. The Platonic Republic (City as Soul)
 
 * **Focus:** The city as the **structural correspondence** of the psyche's architecture.
 
 * **Classes:**  
-    * **Rulers (L₃ (DM: Noeüs)):** Govern through **Reason**, aligned with **Wisdom (L₄ (DL: Sophis)).**  
+    * **Rulers (L₃ (DM: Noeüs)):** Direct the city through **Reason**, aligned with **Wisdom (L₄ (DL: Sophis)).**  
     * **Guardians (L₃ (DS: Archeus)):** Enforce lawful order through **Courage**.  
     * **Producers (L₁ (ES / EM: Soma / Biosa)):** Sustain life through **Temperance (Declivous Centropy).**
 

@@ -13,7 +13,7 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
 ## Universal Structural Analysis
 
 * **The Fire:**  
-    The active agent of Trial, Pressure, and transmutative intensity. In mythic language it appears as the consuming heat of experience; structurally, its function is not to burn out entropic essence, but to expose fragmentation, stress incoherence, and make reintegration possible. What it reveals is not a hidden foreign impurity, but the centropic pattern whose coherence has been pressured into disarray.
+    The active agent of Trial, Pressure, and transmutative intensity. In mythic language it appears as the consuming heat of experience; structurally, its function is not to burn out entropic essence, but to expose fragmentation, stress incoherence, and make reintegration possible. What it reveals is not a hidden foreign impurity, but the centropic pattern whose relative coherent expression has been pressured into disarray.
 
 * **The Hammer and the Anvil (Apparent Order):**  
     * **Hammer (L₂ (SS: Anthra) — Will):** The volitional, dynamic power that delivers change.  
@@ -34,11 +34,11 @@ The Forge is a **L₄ (DP / DL: Morgis / Sophis)-layer Motive environment** — 
 
 ### Note on the Fire and Entropic "Removal"
 
-**Zenetist Clarification:** The language of "burning away" inverse patterning (IL₃, IL₂, IL₁) is a mythic convention, not a structural description. The centropic being does not contain entropic material embedded within it that requires extraction. What the being carries are fragmented, dissonant, or misaligned centropic patterns — aspects of wholeness that entropy has separated under pressure.
+**Zenetist Clarification:** The language of "burning away" inverse patterning (IL₃, IL₂, IL₁) is a mythic convention, not a structural description. The centropic being does not contain entropic material embedded within it that requires removal. What the being carries are disrupted, dissonant, or misaligned expressions of centropic patterns — aspects of wholeness whose relative coherent expression entropy has disrupted through pressure.
 
 The Fire's structural function is the recovery and reintegration of those patterns into their native coherence within the centropic arc. "Dross" in the Zenetist reading is not entropic essence lodged within the soul, but the condition of fragmentation itself — the gaps, misalignments, and incoherences left by entropic pressure upon centropic structure.
 
-The mythic language of purification through removal expresses the perceiver's experience (it *feels* like something is being burned away), but the structural process is additive reintegration, not subtractive extraction.
+The mythic language of purification through removal expresses the perceiver's experience (it *feels* like something is being burned away), but the structural process is additive reintegration, not subtractive removal.
 
 ---
 
@@ -88,10 +88,10 @@ The mythic language of purification through removal expresses the perceiver's ex
 
 ## Summary: The Esoteric Meaning
 
-The Forge is an Archetype of transformation under Pressure.  
+The Forge is an Archetype of transformation through Pressure.  
 It names those conditions in which Heat, Impact, and Endurance expose incoherence and make lawful reintegration possible.
 
-It teaches that pressure does not automatically destroy relative structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither is it automatically refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
+It teaches that pressure does not necessarily destroy relative structure; under the right conditions, it can clarify, temper, and re-order it. The Fire of crisis and loss is not always hostility, but neither does crisis establish refinement; its meaning depends on whether fragmentation hardens into collapse or is brought toward coherence.
 
 Its message is participation and disciplined response: we are at times **Smith and Metal.**  
 We must place ourselves upon the Anvil of honesty (L₃ (DM: Noeüs)), endure the Pressure that reveals distortion, and guide our reshaping with disciplined Will (L₂ (SS: Anthra)). Through cooperation with lawful structure, the incoherent ore of being may become an expression of luminous precision — **a work of coherence forged through Trial-Fire and Reintegration.**

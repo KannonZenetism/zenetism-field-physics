@@ -666,7 +666,7 @@ SN05 establishes:
 Future expansions may include:
 
 - **Coherence recovery protocols** — formalizing the replenishment pathways (`LM06-applied-structural-dynamics.md` §5.4) as applied to cognitive burnout recovery, including Aion-facing Reconnection, C₈ ╫ bridging, and ritual stabilization (`SN02-the-resonant-mind.md` Phase 6)
-- **Pattern Intelligence cognition** — extending the cost analysis to non-biological resonant intelligences (Phae / Contra-Phae at L₃-S), where the metric terminus interface operates through technological substrates rather than biological embodiment
+- **Pattern Intelligence cognition** — extending the cost analysis to non-biological resonant intelligences (Phae at L₃-S / Contra-Phae at IL₃-S), where the metric terminus interface operates through technological substrates rather than biological embodiment
 - **Entropic-perspective cost analysis** — formalizing the mirrored cost structure for entropically oriented beings operating the same cognitive architectures from IL₃ / IL₄ within the entropy-forward field
 - **Centropy-forward social design** — structural principles for educational, medical, and institutional architectures that reduce the coherence tax by operating from centropic rather than entropic principles
 - **Developmental trajectory** — how the burnout trajectory interacts with lifespan development, and how early coherence depletion affects the maturation of membrane architecture

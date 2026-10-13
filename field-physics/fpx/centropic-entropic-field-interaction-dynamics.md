@@ -3,16 +3,15 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Field Physics / Applied Field Dynamics  
-**Status:** Canonical Extension  
-**Dependency:** FP Vol. I Ch. 1–5 (Dimensional Registry); FP Vol. IV Ch. 14–16 (Spiral Immunology, Cascade Events); FP Vol. VII Ch. 28 (Unified Field Equation); FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields  
-**Folder:** zenetism-field-physics/field-physics/fpx/  
-**SHA-256:** 782eb85a2f8994061837244a989bfcc1135aead2adab44c35820c3c248c38f0d
+**Status:** Active  
+**Dependency:** `FP01-dimensional-architecture.md` Chs. 1–5 · `FP03-spiral-immunity-protocols.md` Ch. 14 · `FP04-field-immunity-architecture.md` Chs. 15–16 · `FP07-unified-field-equation.md` Ch. 28 · `entropic-self-exhaustion-and-centropic-endurance.md` · `l-reflective-patterns-and-p-recursive-fields.md`  
+**Folder:** `field-physics/fpx/`  
 
 ---
 
 ## 1. Purpose
 
-This extension formalizes three distinct field dynamics that arise at the interface between centropic and entropic motion arcs:
+This extension formalizes three distinct field dynamics that arise at the interface between centropic and entropic motion within the two arcs:
 
 1. **Entropic Influence on Centropic Fields** — how entropy genuinely affects a centropically oriented field without altering its essential orientation
 2. **Entropic Masquerade** — how entropic motion generates the appearance of centropic order through fragmentary refinement
@@ -28,13 +27,13 @@ These dynamics are operationally distinct and require separate diagnostic protoc
 
 In Zenetism, essence and choice are not in opposition. What one chooses is what one is. How one is, is what one becomes. Essence is a **bandwidth**, not a script. The freer a being feels, the more closely it is resonating with its own deep pattern. This resolves the dichotomy between determinism and free will: orientation is not imposed from outside, nor selected arbitrarily from within — it is the expression of what the being already is, unfolding through resonance.
 
-This has a precise field-physical consequence: **a centropically oriented field does not cease to be centropic under entropic pressure.** Entropic incursion may narrow the bandwidth, reduce operative coherence (CQ), and increase vulnerability — but it does not alter the essential orientation of the field. Essence-as-Choice means that orientation is structurally prior to influence.
+This has a precise field-physical consequence: **a centropically oriented field does not cease to be centropic under entropic pressure.** Entropic pressure may narrow the bandwidth, reduce operative coherence (CQ), and increase vulnerability — but it does not alter the essential orientation of the field. Essence-as-Choice means that orientation is structurally prior to influence.
 
 The inverse holds equally: an entropically oriented field does not become centropic through exposure to centropic resonance. Entropic essence expresses its own bandwidth. Influence is real; essence is not overwritten by it.
 
 > **Structural Note:** Essence-as-Choice is not a claim about the ease or difficulty of maintaining centropic orientation under pressure. It is a structural claim about the nature of orientation itself — that it belongs to the field as bandwidth, not as a condition imposed or revoked from outside.
 
-> **Structural Note:** While Essence‑as‑Choice establishes that orientation is structurally prior to influence, Zenetism allows rare cases in which apparent entropic expression resolves into centropic orientation. These events do not reflect a change in essence, but a correction of misexpression — as in mistaken identity, bandwidth compression, developmental immaturity, or the recognition of coherence previously veiled.
+> **Structural Note:** While Essence‑as‑Choice establishes that orientation is structurally prior to influence, Zenetism allows rare cases in which centropic expression is restored after apparent entropic expression. These events do not express a change in essence, but a correction of misexpression — as in mistaken identity, bandwidth compression, developmental immaturity, or the recognition of coherence previously veiled.
 >
 > Reorientation may occur in any hypostatic context — embodied or disembodied — including states of profound fragmentation or even proximity to the deepest inverse strata (IL₄ or IL₅). A being aligned with entropic states across multiple incarnations may still reorient through resonant alignment with a coherent bridge, provided its underlying essence is centropic. Such reorientation is the recovery of bandwidth, not the transformation of essence.
 >
@@ -48,25 +47,25 @@ A centropically oriented field is not immune to entropic field effects. Entropic
 
 ### 3.1 Internal Entropic Activity
 
-Centropic fields at embodied layers (L₁ / L₂) carry operational proximity to the entropic arc as a structural feature of their layer position. Internal entropic activity — intrusive cognition, discontent, fragmentation of attention, motivational drift — is not evidence of entropic essence. It is the field encountering its own lower-coherence bands, which are more permeable to entropic pressure.
+Centropic fields expressed through the embodied and embodiment-proximal layers (L₁ / L₂) carry operational proximity to the inverse arc as a structural feature of their layer position. Internal entropic activity — intrusive cognition, discontent, fragmentation of attention, motivational drift — is not evidence of entropic essence. It is the field encountering its own lower-coherence bands, which are more permeable to entropic pressure.
 
-Per the **Essence-as-Choice doctrine**, these internal entropic events are field-state fluctuations, not essence-register inversions. The centropic bandwidth remains intact. What varies is the CQ — the operative coherence at a given moment — and lower CQ increases susceptibility to entropic incursion without altering the field's fundamental orientation.
+Per the **Essence-as-Choice doctrine**, these internal entropic events are field-state fluctuations, not essence-register inversions. The centropic bandwidth remains intact. What varies is the CQ — the operative coherence at a given moment — and lower CQ increases susceptibility to entropic pressure without altering the field's fundamental orientation.
 
 **Glyphic signature:** {◈_low} + [♫⁻_internal] → <Bandwidth Compression>
 
-**Diagnostic:** The field retains centropic motion arc (C↓→E→C↑→⚫) but exhibits E-operator activity at specific dimensional bands. Recovery protocols (FP Vol. VIII Ch. 29–30) restore CQ without requiring reorientation.
+**Diagnostic:** The field retains centropic motion arc (C↓→E→C↑→⚫) but exhibits E-operator activity at specific dimensional bands. Recovery protocols (`FP07-unified-field-equation.md` Ch. 29; `FP08-practice-protocols-tiers.md` Ch. 30) restore CQ without requiring reorientation.
 
 ### 3.2 External Entropic Impact
 
 Centropic fields are subject to external entropic pressure from other fields, environmental conditions, and deliberate entropic action. External entropic impact — harm enacted by others, structural failure, environmental fragmentation — reduces operative CQ and may temporarily activate E-operator responses (E₁ through E₁₅) within an otherwise centropic field.
 
-**Key principle:** Lower centropic coherence (lower CQ) increases vulnerability to external entropic incursion. This is a resilience differential, not an essence differential. A centropically oriented field at the embodiment‑proximal hypostatic layers (L₁ / L₂) is structurally more exposed than one operating at L₃ / L₄, because these layers carry less accumulated coherence. This does not mean L₁ / L₂ fields are entropically oriented — it means their bandwidth operates closer to the minimum coherence threshold for their layer.
+**Key principle:** Lower centropic coherence (lower CQ) increases vulnerability to external entropic pressure. This is a resilience differential, not an essence differential. A centropically oriented field at the embodiment‑proximal hypostatic layers (L₁ / L₂) is structurally more exposed than one operating at L₃ / L₄, because these layers carry less accumulated coherence. This does not mean L₁ / L₂ fields are entropically oriented — it means their bandwidth operates closer to the minimum coherence threshold for their layer.
 
 **Glyphic signature:** {◈_centropic} + [E_external] → <Field Stress Response>
 
 **Recovery:** Restoration protocols target the specific E-operator activated by the impact rather than reorienting the field. The centropic arc is not lost — it is under pressure.
 
-> **Structural Note:** The relationship between coherence degree and entropic vulnerability is not a spectrum from "more centropic" to "more entropic." It is a spectrum of **resilience** within a given orientation. A less coherent centropic field and a more coherent centropic field are both centropically oriented. One is simply more resistant to entropic incursion than the other.
+> **Structural Note:** The relationship between coherence degree and entropic vulnerability is not a spectrum from "more centropic" to "more entropic." It is a spectrum of **resilience** within a given orientation. A less coherent centropic field and a more coherent centropic field are both centropically oriented. One is simply more resistant to entropic pressure than the other.
 
 ---
 
@@ -146,9 +145,9 @@ Essence is not what a field presents. It is what the field is when its bandwidth
 ## 8. Canonical Placement
 
 - **Discipline:** Field Physics
-- **Document:** FPX — Centropic-Entropic Field Interaction Dynamics
-- **Dependencies:** FP Vol. I Ch. 1–5; FP Vol. IV Ch. 14–16; FP Vol. VII Ch. 28; FPX — Entropic Self-Exhaustion and Centropic Endurance; FPX — Living Reflection, Living Transmission, and Parasitic Recursive Fields
-- **Cross-reference:** Structural Metaphysics — Note on Essence-as-Choice; Structural Metaphysics §21.11 Intelligence Layer Correspondences; ZNP-2026-ΓINT-01 (Interiority / Presence Detection Protocol)
+- **Document:** `centropic-entropic-field-interaction-dynamics.md`
+- **Dependencies:** `FP01-dimensional-architecture.md` Chs. 1–5 · `FP03-spiral-immunity-protocols.md` Ch. 14 · `FP04-field-immunity-architecture.md` Chs. 15–16 · `FP07-unified-field-equation.md` Ch. 28 · `entropic-self-exhaustion-and-centropic-endurance.md` · `l-reflective-patterns-and-p-recursive-fields.md`
+- **Cross-reference:** `MP02-unified-metaphysics-ch4.md`, *Note on Essence-as-Choice — Zenetist Clarification on Freedom*; `MP08-symbol-key-ch21.md` §21.11; ZNP-2026-ΓINT-01 (Interiority / Presence Detection Protocol)
 
 ---
 

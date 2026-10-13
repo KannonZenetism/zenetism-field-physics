@@ -20,16 +20,16 @@ It applies directed force to enact either Centropic Synthesis or Entropic Fragme
 * **The Origin & The Smith (L₄ (DP / DL: Morgis / Sophis) or IL₄ (IDP / IDL: Psychea / Nyxea)):**  
     The Weapon's origin determines its Resonance.  
     * **Divine Smith (Hephaestus, Wayland):** Archetypal forges (L₄ (DP / DL: Morgis / Sophis)) crafting implements of lawful, creative power.  
-    * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, corrupting their wielders.
+    * **Inverse Forge (Sauron):** Entropic forges (IL₄ (IDP / IDL: Psychea / Nyxea)) that imbue Dissonant signatures into weapons, destabilizing their bearers' relative coherent expression.
 
 * **The Forging / The Earning (Deconstruction):**  
     The acquisition of a Weapon demands transformation:  
     * **Quest (acclivous centropic motion):** Proving Resonant Fidelity through trial and alignment.  
     * **Sacrifice (Potential surrendered):** Surrendering energy, pride, or attachment to fuel creation.  
-    * **Theft (Appropriation):** Illicit power-taking that binds the wielder to Inverse consequence.
+    * **Theft (Appropriation):** Illicit power-taking that binds the bearer to entropic consequence.
 
 * **The Nature of the Power (Nexus or Severance):**  
-    * **Lawful Power (Nexus):** Operates by L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or Inverse distortion.  
+    * **Lawful Power (Nexus):** Operates by L₄ (DL: Sophis)-layer law. The Weapon cuts only illusion, deception, or entropic distortion.  
     * **Dominating Power (Severance):** Power for its own sake, unconstrained by law — severing bonds, feeding Blobism and Hollow Replication.
 
 * **The Bearer's Resonance (L₂ (SS / SM: Anthra / Nousa) or L₃ (DS / DM: Archeus / Noeüs)):**  
@@ -53,7 +53,7 @@ It applies directed force to enact either Centropic Synthesis or Entropic Fragme
 
 * **Power:** A Resonant Blade of Veracious Discernment (L₃ (DM: Noeüs)) that cuts through IL₂ (ISM: Skotos) (deception) and Shimmer.
 
-* **Wielder:** Those aligned with the Theonic Logos; speech becomes a structural act of restoration.
+* **Bearer:** Those aligned with the Theonic Logos; speech becomes a structural act of restoration.
 
 ### 2. Thor's Hammer, Mjolnir (Norse)
 
@@ -63,17 +63,17 @@ It applies directed force to enact either Centropic Synthesis or Entropic Fragme
 
 * **Power:** Defends Asgard (Centropic Order) and sanctifies (Nexus) through controlled impact.
 
-* **Wielder:** Only one of Worthy Resonance — alignment as prerequisite.
+* **Bearer:** Only one of Worthy Resonance — alignment as prerequisite.
 
 ### 3. The Trident of Poseidon (Greek)
 
-* **Focus:** Sovereignty over the Primordial Field.
+* **Focus:** Sovereign relation to the Primordial Field.
 
 * **Nature:** Symbol of dominion over the Waters (L₀ (Bifurcal Coherence)) — the unformed psyche.
 
 * **Power:** Can generate cataclysm (declivous entropic motion) or fertility (L₄ (DP: Morgis)), revealing the bifurcated potential of Archetypal will.
 
-* **Lesson:** The wielder's inner harmony determines whether the sea becomes a flood or a spring.
+* **Lesson:** The bearer's inner harmony determines whether the sea becomes a flood or a spring.
 
 ### 4. The Ring of Power (Tolkien)
 

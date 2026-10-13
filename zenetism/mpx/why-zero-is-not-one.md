@@ -34,20 +34,20 @@
 
 ---
 
-## 2. The Structural Incompatibility: Twofold contra Single Emanation
+## 2. The Structural Incompatibility: Bifurcal contra Single Emanation
 
 ### The Attempted Retrofit
-Morgue is attempting to map Zenetist principles (Twofold Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
+Morgue is attempting to map Zenetist principles (Bifurcal Emanation) onto the Kabbalistic Tree of Life (Single Emanation).
 
 * **Kabbalistic / Hyperian Model:** Single Axis (Origin → Declivity).
     * Problem: It cannot account for **Entropy as a Structural Mirror**. It sees Entropy only as "distance" or "illusion."
-* **Zenetist Model:** Twofold Axis (Aionic Tree + Khaonic Tree).
+* **Zenetist Model:** Two-Tree Architecture (Aionic Tree + Khaonic Tree).
     * **Centropy (C↑⚫):** Integrative Motion.
     * **Entropy (E↓♾):** Dispersive Motion.
     * **Nekron (IL₅):** The Inverse Hypostasis.
 
 ### Why the "One in Motion" Claim Fails Here
-Because Morgue lacks the **Twofold Tree**, he has to force both Centropy (Order) and Entropy (Chaos) into a single "Spiral of One."
+Because Morgue lacks the **Two-Tree architecture**, he has to force both Centropy (Order) and Entropy (Chaos) into a single "Spiral of One."
 * He claims Zero is "One in Motion" (Spiral).
 * **The Glitch:** A single spiral cannot move in two opposing directions simultaneously without tearing itself apart.
 * **The Fix:** Zenetism posits **Two Spirals**, joined as the **Biospiral** 🌳⇅ — the total Emanatory Spiral composed of:
@@ -74,7 +74,7 @@ Because Morgue lacks the **Twofold Tree**, he has to force both Centropy (Order)
 To say so is to confuse the **Canvas** (Zero) with the **Paint** (One).
 While the Paint may cover the Canvas, the Canvas must exist *before* the Paint can be applied.
 
-Morgue's claim is a **Category Error** driven by the need to retrofit a Twofold Emanation concept (Zenetist) into a Single Emanation framework (Hyperian).
+Morgue's claim is a **Category Error** driven by the need to retrofit a Bifurcal Emanation concept (Zenetist) into a Single Emanation framework (Hyperian).
 
 * **Zenetist Formulation:** 🕳️ Zenonic allowance; **⚫ → 1** (Aion → Emanation). The former glyph-chain **🕳️ → ⚫ → 1** is superseded: Zenon is not an emanatory member.
 * **Morgue's Formula:** **0 ↔ 1** (Circular loop).
@@ -135,7 +135,7 @@ Neogenian origin metaphysics is a **flattened numerical metaphor** built on Zene
 
 ---
 
-## 3. Twofold Trees and the Biospiral
+## 3. The Two Trees and the Biospiral
 
 ### The Biospiral Architecture
 
@@ -164,7 +164,7 @@ It represents the complete emanatory structure where the two opposing axes of mo
 | Motion Type | Notation | Directional Flow | Definition |
 | :--- | :--- | :--- | :--- |
 | **Acclivous Entropy** | **E↑→E** | **Khaon → Embodiment** | The acclivous motion from the Subversal domains into Form. This is the path of Inverse Incarnation, parasitic emergence, and the acclivity of Nekronic structures |
-| **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The declivous motion toward Dispersion. This is the path of dissolution, fragmentation, and terminal collapse into Khaon under its Dispersive phase, after the relevant motion resolves |
+| **Declivous Entropy** | **E↓♾** | **Embodiment → Khaon** | The declivous motion toward Dispersion. This is the path of dissolution, fragmentation, and terminal collapse into Khaon in its Dispersive phase, after the relevant motion resolves |
 
 **Articulated through:**
 * **C₁–C₁₅** — centropic dimensions  
@@ -308,7 +308,7 @@ Neogenian awakening is a **mythic overlay** of Zenetism's centropic return archi
 | Domain | Zenetism | Neogenian System | Forensic Result |
 | :--- | :--- | :--- | :--- |
 | **Trans-structural and Root Registers** | Zenon beyond the Aion / Khaon root-registers | Zero / One / Infinity | Flattened derivative |
-| **Twofold Trees** | Biospiral | Life / Death / Knowledge | Mythic rebrand |
+| **Two Trees** | Biospiral | Life / Death / Knowledge | Mythic rebrand |
 | **Subjectivity** | L₃ emergence | Gnostic triad | Structural compression |
 | **Mathematics** | Lattice Mathematics + Field Physics | Fourier metaphors | Masking of operators |
 | **Hypostases** | Theon / Nekron | Zoe / Achamoth | Direct mapping |

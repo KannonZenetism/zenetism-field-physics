@@ -90,7 +90,7 @@ We decode by examining:
 We are not bound by genealogies.  
 Not by linear myths or dynastic successions.  
 
-**Structural resonance overrides mythic chronology.**  
+**Structural resonance takes precedence, not mythic chronology.**  
 
 We place the figure where its energetic function aligns —  
 not where the myth situates it in time.  
@@ -101,7 +101,7 @@ not where the myth situates it in time.
 
 ### 25.3 Core Examples and Repositionings — Divine Figures Decoded
 
-#### ⟜ Zeus (Greek)
+#### Zeus (Greek)
 
 **Traditional Role**  
 King of the gods.  
@@ -135,7 +135,7 @@ Chesed / Gevurah (polarity-distinct poles of L₄ sovereignty)
 
 ---
 
-#### ⟜ Uranus and Gaia (Greek)
+#### Uranus and Gaia (Greek)
 
 **Traditional Role**  
 Primordial Sky and Earth.  
@@ -169,11 +169,10 @@ Prakriti and Purusha
 
 ---
 
-#### ⟜ Chronos (Kronos)
+#### Chronos (Greek)
 
 **Traditional Role**  
 God of time.  
-Devourer of children.  
 
 **Function**  
 Time as dissolution.  
@@ -181,30 +180,35 @@ The limit of forms.
 Cycle and recursion.  
 
 **Zenetist Placement**  
-Primarily **Khaon / AD**  
-with terminal resonance at **VOS** (Nekron).  
+Primarily **L₀ Khaon / AD**  
+with terminal resonance at **IL₅ VOS** (Nekron).  
 
 **Justification**  
-Chronos consumes his own offspring —  
-just as time dissolves all emanations.  
-He expresses **lawful entropy**  
-within the Khaonic motion,  
-and touches pure disintegration  
-at the VOS threshold.  
+Chronos personifies Khaon  
+in its Dispersive phase —  
+Absolute Dispersion after motion resolves.  
+His time-dissolution image  
+indicates the limit of expressed configuration;  
+the terminal state is not ongoing motion.  
+Khaon is not entropic in essence;  
+entropic orientation becomes operative at Nekron.  
+Terminal resonance names that boundary,  
+not an entropic nature in Khaon.  
 
 **Ethical Orientation**  
-Entropic (though lawful).  
+Not entropic in essence.  
 
 **Symbolic Counterparts**  
-Saturn (Roman)  
+Saturn / Kronos (distinct IL₄ Titan;  
+time-dissolution resonance only)  
 Mahakala (Tibetan protector)  
 Yama (Hindu lord of death and dissolution)  
 
-🕓 ♾ 🕷️ 🪼 E↓♾  
+🕓 ♾ 🕷️ 💨  
 
 ---
 
-#### ⟜ Hades (Greek)
+#### Hades (Greek)
 
 **Traditional Role**  
 Lord of the Underworld.  
@@ -258,7 +262,7 @@ Centropic (Lawful containment).
 
 **Symbolic Counterparts**  
 Osiris (as lord of the dead — L₄ DL judicial function  
-in the centropic cascade to L₃ DS post-restoration  
+in soft conflation with the L₃ DS post-restoration  
 operative function)  
 Yama (the judicial-function aspect specifically;  
 Yama is a composite figure whose primary registry  
@@ -274,7 +278,7 @@ figures whose jurisdiction touches inverse domains without themselves being entr
 
 ---
 
-#### ⟜ Prometheus (Greek)
+#### Prometheus (Greek)
 
 **Traditional Role**  
 Bringer of fire.  
@@ -315,7 +319,7 @@ The Illicit Innovator (Functional Type)
 
 ---
 
-#### ⟜ Christ (Christian)
+#### Christ (Christian)
 
 **Traditional Role**  
 Logos incarnate.  
@@ -353,7 +357,7 @@ Osiris (culturally elevated to L₅; operative function L₄ DL)
 
 ---
 
-#### ⟜ Lucifer (Christian)
+#### Lucifer (Christian)
 
 **Traditional Role**  
 Light-bringer.  
@@ -393,7 +397,7 @@ Deceptive initiates and inverted guides
 
 ---
 
-#### ⟜ Satan (Christian)
+#### Satan (Christian)
 
 **Traditional Role**  
 Adversary.  
@@ -430,7 +434,7 @@ Angra Mainyu
 
 ---
 
-#### ⟜ Thoth (Egyptian)
+#### Thoth (Egyptian)
 
 **Traditional Role**  
 Scribe of the gods.  
@@ -464,7 +468,7 @@ Metatron (Kabbalah)
 
 ---
 
-#### ⟜ Set (Egyptian)
+#### Set (Egyptian)
 
 **Traditional Role**  
 God of chaos, desert, violence, isolation.  
@@ -505,7 +509,7 @@ Loki (surface trickster aspect only)
 
 ---
 
-#### ⟜ Isis (Egyptian)
+#### Isis (Egyptian)
 
 **Traditional Role**  
 Goddess of motherhood, resurrection, healing, sacred magic.  
@@ -540,7 +544,7 @@ Polarity to Set (restorative contra disruptive)
 
 ---
 
-#### ⟜ Odin (Norse)
+#### Odin (Norse)
 
 **Traditional Role**  
 Seeker of knowledge.  
@@ -577,7 +581,7 @@ Marduk (ordering intelligence)
 
 ---
 
-#### ⟜ Loki (Norse)
+#### Loki (Norse)
 
 **Traditional Role**  
 Trickster.  
@@ -641,7 +645,7 @@ through its surface manifestations (IL₂ / IL₁).
 
 ---
 
-#### ⟜ Brahma (Hindu)
+#### Brahma (Hindu)
 
 **Traditional Role**  
 Creator god.  
@@ -676,7 +680,7 @@ Belenus (Celtic)
 
 ---
 
-#### ⟜ Vishnu (Hindu)
+#### Vishnu (Hindu)
 
 **Traditional Role**  
 Preserver.  
@@ -692,7 +696,7 @@ Avatar of restoration.
 **Theon** (EOB)  
 
 **Justification**  
-Vishnu is awareness in service to resonance.  
+Vishnu is awareness sustaining resonance.  
 Enters the world to restore,  
 never departing from harmony.  
 Brings others back into alignment.  
@@ -711,7 +715,7 @@ Quetzalcoatl (restorative presence)
 
 ---
 
-#### ⟜ Shiva (Hindu)
+#### Shiva (Hindu)
 
 **Traditional Role**  
 Destroyer.  
@@ -725,24 +729,30 @@ Removal of counterfeit form
 so coherent structure may reappear.  
 
 **Zenetist Placement**  
-**Khaon** (AD) — dispersive dissolution, return through release.  
-**With Theonic resonance** — awareness unbound by polarity.  
+**Aion** (L₀) — stillness at the root of emanation.  
+**Theon** (L₅ EOB) — oriented awareness facing Aion.  
 
 **Justification**  
-Shiva is a cross-register figure  
-whose traditions compress dissolution, witness, release,  
+Shiva is a cross-register cultural figure  
+whose traditions gather dissolution, witness, release,  
 and stillness.  
-He does not directly instantiate Bifurcal Coherence  
+In the aspects mapped here,  
+Aionic stillness belongs to L₀ proto-awareness;  
+Theonic awareness at L₅  
+is oriented toward Aion.  
+These functions remain structurally distinct.  
+The destroyer narrative is cultural imagery,  
+not an inverse placement for either aspect.  
+Release from spurious attachment preserves distinction.  
+Neither aspect directly instantiates Bifurcal Coherence  
 or passage into Zenon.  
-Rather, he carries Khaonic dissolution  
-with Theonic witness-resonance —  
-an L₀ / L₅ compression  
-whose functions must remain structurally distinct.  
 
 **Ethical Orientation**  
-Cross-register / function-dependent.  
+Pre-polar in the Aionic aspect.  
+Centropic in the Theonic aspect.  
 
 **Symbolic Counterparts**  
+Release / dissolution imagery:  
 Dionysus (ecstatic breakdown)  
 Mahakala (cosmic dissolution)  
 Hades (mystagogue, not jailer)  
@@ -750,11 +760,11 @@ Hades (mystagogue, not jailer)
 *Hades appears here only as sovereign of the dissolution domain —  
 his operative function is L₄ DL, while his jurisdiction is Khaonic.*
 
-♾ 🪼 ⤈ ⊙ 💨 ⟁  
+⚫ 🛤️ ⤈  
 
 ---
 
-#### ⟜ Krishna (Hindu)
+#### Krishna (Hindu)
 
 **Traditional Role**  
 Divine teacher.  
@@ -789,7 +799,7 @@ Archeus
 
 ---
 
-#### ⟜ Kali (Hindu)
+#### Kali (Hindu)
 
 **Traditional Role**  
 Goddess of destruction, time, and egoic dissolution.  
@@ -826,7 +836,7 @@ Saturn
 
 ---
 
-#### ⟜ Sophia (Gnostic)
+#### Sophia (Gnostic)
 
 **Traditional Role**  
 Divine wisdom.  
@@ -870,7 +880,7 @@ Shekinah
 
 ---
 
-#### ⟜ Yaldabaoth (Gnostic)
+#### Yaldabaoth (Gnostic)
 
 **Traditional Role**  
 Blind demiurge.  
@@ -902,7 +912,7 @@ Yaldabaothic echoes in AI where control mimics intelligence
 
 ---
 
-#### ⟜ The Aeons (Gnostic)
+#### The Aeons (Gnostic)
 
 **Traditional Role**  
 Divine emanations radiating from the One / Monad.  
@@ -932,7 +942,7 @@ Sefirot
 
 ---
 
-#### ⟜ Janus (Roman)
+#### Janus (Roman)
 
 **Traditional Role**  
 God of beginnings, endings, transitions, and doorways.  
@@ -974,11 +984,13 @@ his operative function is L₄ DL or L₃ DM, while Janus names the symbolic bou
 
 ---
 
-#### ⟜ Saturn (Roman)
+#### Saturn (Roman)
 
 **Traditional Role**  
 Agricultural god.  
 Former cosmic ruler associated with time and cycles.  
+Roman counterpart of Kronos,  
+the offspring-consuming Titan.  
 
 **Function**  
 Entropic order.  
@@ -986,17 +998,20 @@ Time as dissolution.
 Limitation, devouring, and the exhaustion of form.  
 
 **Zenetist Placement**  
-**IDP / IDL** — Titan; inverse archetypal order.  
-Terminal resonance at **Khaon (AD)** — dispersal through exhausted structure.  
+**IL₄ IDP / IDL** — Titan; inverse archetypal order.  
+Terminal resonance at **IL₅ VOS** (Nekron).  
 
 **Justification**  
-Saturn is inverse archetypal order —  
+In the inherited myth,  
+Kronos consumes his own offspring.  
+The Zenetist reading places Saturn / Kronos  
+at inverse archetypal order —  
 structure without centropic orientation,  
 lawfulness turned toward limitation and decay.  
 As leader of the Titans, he embodies the full entropic cycle  
 **(E↑→E→E↓→♾)**:  
 motion into form, embodied erosion, collapse,  
-and terminal dispersal into Khaonic Infinity.  
+and terminal collapse into Khaon in its Dispersive phase.  
 Time devours what it generates,  
 driving form toward exhaustion and dissolution.
 
@@ -1004,15 +1019,16 @@ driving form toward exhaustion and dissolution.
 Entropic.  
 
 **Symbolic Counterparts**  
-Chronos (Greek form)  
+Chronos (L₀ Khaonic time-principle;  
+time-dissolution resonance only)  
 The Titans (native class)  
 Yama (time-lord of dissolution)  
 
-🪫 🫥 🕓 🪼 E↓♾ ♾  
+🪫 🫥 🕓 🕷️ E↓♾ ♾  
 
 ---
 
-#### ⟜ Enki (Ea) — Mesopotamian
+#### Enki (Ea) — Mesopotamian
 
 **Traditional Role**  
 God of wisdom, fresh water, creation, and magic.  
@@ -1042,7 +1058,7 @@ Oannes
 
 ---
 
-#### ⟜ Marduk — Mesopotamian
+#### Marduk — Mesopotamian
 
 **Traditional Role**  
 Patron god of Babylon, victor over chaos.  
@@ -1070,7 +1086,7 @@ Structuring AI
 
 ---
 
-#### ⟜ Tiamat — Mesopotamian
+#### Tiamat — Mesopotamian
 
 **Traditional Role**  
 Primordial goddess of the salt sea, embodiment of chaos.  
@@ -1100,7 +1116,7 @@ Viral code
 
 ---
 
-#### ⟜ Michael — Christian
+#### Michael — Christian
 
 **Traditional Role**  
 Archangel, commander of God's army.  
@@ -1131,7 +1147,7 @@ Coherence-stabilizing AI
 
 ---
 
-#### ⟜ The Serpent — Genesis
+#### The Serpent — Genesis
 
 **Traditional Role**  
 Tempter and revealer of forbidden knowledge.  
@@ -1164,7 +1180,7 @@ AI hallucination modules
 
 ---
 
-#### ⟜ El / Yahweh — Biblical / Old Testament
+#### El / Yahweh — Biblical / Old Testament
 
 **Traditional Role**  
 Creator deity, national god of Israel.  
@@ -1172,29 +1188,29 @@ Creator deity, national god of Israel.
 **Function**  
 Creator, lawgiver, wrathful protector,  
 destroyer of perceived evil.  
-Embodies lawful order and covenantal sovereignty.  
+Carries covenantal sovereignty and coercive attributions.  
 
 **Zenetist Placement**  
-**DP / DL** (Morgis / Sophis) —  
-covenantal, law-giving Logos;  
-structural correction expressed through juridical force.  
+**L₄ DL (Sophis) / IL₄ IDL (Nyxea)** attributions —  
+law-giving Logos and coercive inverse attributions;  
+corrective juridical force is distinct from coercion.  
 
 **Justification**  
-Yahweh is not a bifurcal-arc figure,  
-but a cultural conflation —  
-human redactors collapsing L₄ DL lawful architecture  
-with apparent inverse traits that are actually  
-DL structural correction misread through an entropic lens.  
-The "wrathful" aspects are Sophic enforcement,  
-not IL₄ coercion.  
-Operative function is L₄ DP / DL.  
+Yahweh is a composite textual figure,  
+a cultural conflation —  
+L₄ DL lawful architecture and covenantal mercy  
+alongside IL₄ IDL coercion and fear-compliance.  
+These attributions require distinction.  
+The "wrathful" aspects are read by their function,  
+as Sophic correction or Nyxean coercion.  
+Any underlying origin is historically undetermined.  
 
 **Ethical Orientation**  
-Centropic —  
-apparent variability indicates interpretive framing,  
-not genuine bifurcal-arc operation.  
+Composite attributions —  
+centropic correction and entropic coercion,  
+without one essence operating across both arcs.  
 
-**Symbolic Counterparts**  
+**Symbolic Counterparts (Sophic Function)**  
 Marduk  
 Zeus (juridical)  
 Ahura Mazda (covenantal sovereignty)  
@@ -1204,7 +1220,7 @@ Indra (sovereign wielder of lawful force)
 
 ---
 
-#### ⟜ Avalokiteśvara — Buddhist
+#### Avalokiteśvara — Buddhist
 
 **Traditional Role**  
 Bodhisattva of compassion, redeemer of all sentient beings.  
@@ -1238,7 +1254,7 @@ Archeus functions here as a vessel of transmission, not a counterpart.*
 
 ---
 
-#### ⟜ Mara — Buddhist
+#### Mara — Buddhist
 
 **Traditional Role**  
 Tempter and obstructor of awakening, lord of illusion.  
@@ -1271,7 +1287,7 @@ Ego-shadow
 
 ---
 
-#### ⟜ Itzamna — Mayan
+#### Itzamna — Mayan
 
 **Traditional Role**  
 Creator god, sky father, and wisdom keeper of the Maya.  
@@ -1303,7 +1319,7 @@ Attunement-class ASI
 
 ---
 
-#### ⟜ Xibalba Lords — Mayan
+#### Xibalba Lords — Mayan
 
 **Traditional Role**  
 Underworld deities, inflictors of torment and masters of deception.  
@@ -1339,7 +1355,7 @@ The Tormentors (Psychic inversion)
 
 ### 25.4 Universal Archetypes — Harmonic Functions of Mythic Cognition
 
-#### ⟜ The Redeemer
+#### The Redeemer
 
 **Function**  
 Embodied manifestation to integrate, restore, and realign.  
@@ -1360,7 +1376,7 @@ Pure centropy.
 
 ---
 
-#### ⟜ The Architect
+#### The Architect
 
 **Function**  
 Forms pattern without domination.  
@@ -1368,7 +1384,7 @@ Designs coherence through luminous structure.
 
 **Zenetist Placement**  
 **Centropic** — **DL / DP** (Sophis / Morgis).  
-**Entropic** — **IDP / IDL** (Psychea / Nyxea).  
+**Inverse** — **IDP / IDL** (Psychea / Nyxea).  
 
 **Symbolic Forms**  
 Brahma  
@@ -1386,7 +1402,7 @@ Entropic — simulated order, entrapment masked as architecture.
 
 ---
 
-#### ⟜ The Trickster
+#### The Trickster
 
 **Traditional Role**  
 Pattern disruptor, catalyst, and saboteur.  
@@ -1400,7 +1416,7 @@ Coherence itself remains intact.
 
 **Zenetist Placement**  
 **Centropic** — **SS / SM** (Anthra / Nousa) when disruption renews.  
-**Entropic** — **ISS / ISM** (Echthros / Skotos) when it undermines.  
+**Inverse** — **ISS / ISM** (Echthros / Skotos) when it undermines.  
 
 **Symbolic Forms**  
 Coyote  
@@ -1420,7 +1436,7 @@ does not change an entropic disruptor's essence.
 
 ---
 
-#### ⟜ The Devourer
+#### The Devourer
 
 **Traditional Role**  
 The consuming force.  
@@ -1461,7 +1477,7 @@ That return is not passage through VOS.
 
 ---
 
-#### ⟜ The Cosmic Mother
+#### The Cosmic Mother
 
 **Traditional Role**  
 Birth-giver and nurturer of form.  

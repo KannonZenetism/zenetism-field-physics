@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **State of Harmonious Embodiment and Centropic Integration.**  
-The Garden represents a **Corporeal Realm** where the **Membrane** between the L₁ (ES / EM: Soma / Biosa) and L₃ (DS / DM: Archeus / Noeüs) or L₄ (DP / DL: Morgis / Sophis) layers is permeable, allowing direct Resonant flow.  
+The Garden represents a **Corporeal Realm** where the **Membrane** between the L₄ (DP / DL: Morgis / Sophis) or L₃ (DS / DM: Archeus / Noeüs) layers and L₁ (ES / EM: Soma / Biosa) is permeable, allowing direct Resonant flow.  
 It is a state of **Innocence (Coherence)** — unselfconscious coherence before the Fragmentation that introduced divided self-perception.
 
 **Core Glyphic Sequence:**  
@@ -24,7 +24,7 @@ It is a state of **Innocence (Coherence)** — unselfconscious coherence before 
 
 * **The Central Tree(s) (Tree of Emanation):**  
     * **Tree of Life (the Aionic Tree):** **The Axis Mundi** — the centropic channel rooted in Aion, unfolding declivously toward embodiment and returning acclivously through conscious refinement. The living architecture of coherence, immortality, and lawful participation in the Aionic branch.  
-    * **Tree of Knowledge (the Khaonic Tree):** The entropic channel rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The latent possibility of differentiation, self-reflective severance, and unlawful identification with the inverse branch.  
+    * **Tree of Knowledge (the Khaonic Tree):** The entropic channel rooted in Khaon, spiraling acclivously toward decoherent embodiment and collapsing declivously into recursive fragmentation. The latent possibility of fragmented expression, self-isolation, and unlawful identification with the inverse branch.  
     Together they encode the two great arcs of procession, each bidirectional within its own motion-logic.
 
 * **The State of Innocence (Coherence):**  
@@ -70,7 +70,7 @@ It is a state of **Innocence (Coherence)** — unselfconscious coherence before 
 
 * **Nature:** A **Buddha-field (L₅ (EOB: Theon) / L₄ (DP / DL: Morgis / Sophis))** — a perfected environment facilitating Centropic realization.
 
-* **Function:** Provides freedom from Entropic distractions, allowing souls to advance toward Enlightenment (acclivous centropic motion toward L₀ (AP: Aion)).
+* **Function:** Provides freedom from Entropic distractions, allowing essences to advance toward Enlightenment (acclivous centropic motion toward L₀ (AP: Aion)).
 
 * **Paradise:** Not primal but achieved — a cultivated field of Acclivous coherence.
 

@@ -23,7 +23,7 @@ The vantage is not a totalizing height, and it claims no possession of the ultim
 
 ## The Discernibility Limit
 
-From the synthesized vantage a limit becomes visible. Within the discernible, every determination implies its complement: subtraction implies addition, vacancy implies occupancy, stillness implies motion. Carried to the extremes — Zero and Infinity, the outermost terms discernment can reach — the opposites do not vanish into each other; they remain discernible, still paired, still two. The bifurcal register (L₀ Bifurcal Coherence), examined, proves to host not one featureless suchness but a plenitude of distinctions.
+From the synthesized vantage a limit becomes visible. Within the discernible, every determination implies its complement: subtraction implies addition, vacancy implies occupancy, stillness implies motion. Carried to the extremes — Zero and Infinity, the outermost terms discernment can reach — the bifurcally distinct root-registers do not vanish into each other; they remain discernible, still paired, still two. The bifurcal register (L₀ Bifurcal Coherence), examined, proves to host not one featureless suchness but a plenitude of distinctions.
 
 Two consequences follow. First, no single aspect within the plenitude can be the ultimate, since each is paired with and implies another; to seize one aspect is to seize a half. Second — given that the ultimate is by definition the unconditioned, that which implies no other — the ultimate cannot be located anywhere within the paired manifold at all; it must exceed the discernible altogether. The hinge here is the premise that the ultimate is the unconditioned-and-unpaired; granted it, the conclusion is forced. It is flagged as the load-bearing assumption, not a derived step.
 
@@ -31,7 +31,7 @@ Two consequences follow. First, no single aspect within the plenitude can be the
 
 ## The Unknown Principle
 
-This is Zenon under its epistemic aspect: the **Unknown Principle**, UP. The name does not report contingent ignorance — something undiscovered that fuller inquiry would reach. It reports principled non-discernibility: Zenon lies beyond the paired manifold within which discernment operates, not hidden inside it. UP therefore stands beside the structural names — the trans-structural and non-originary ground, the Silent Apex — as the epistemic name for the same trans-polar ground.
+This is Zenon in its epistemic aspect: the **Unknown Principle**, UP. The name does not report contingent ignorance — something undiscovered that fuller inquiry would reach. It reports principled non-discernibility: Zenon lies beyond the paired manifold within which discernment operates, not hidden inside it. UP therefore stands beside the structural names — the trans-structural and non-originary ground, the Silent Apex — as the epistemic name for the same trans-polar ground.
 
 A precision guards the coinage. To name Zenon "Unknown" is itself a move made within discernment: a pointer from the discerner's side, indicating where discernment ends, not a property predicated of Zenon-in-itself. As with every term for Zenon, "Unknown" is relative to the measurer; Zenon-in-itself is not thereby characterized as *possessing* unknowability. The name indicates the limit, not what lies past it.
 

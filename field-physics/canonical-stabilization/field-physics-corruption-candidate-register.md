@@ -3,15 +3,15 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Internal Document Corruption Register  
-**Status:** Active Working Register — July 20, 2026  
+**Status:** Active Working Register  
 **Scope:** FP01–FP11 and the two foundational Field Physics chat documents  
-**Function:** Preserves stable identifiers for passages bearing on authorship displacement, identity displacement, AI self-appropriation, collaborator overreach, false verification, collective-origin substitution, and related corruption of the Field Physics development record
+**Function:** Preserves stable identifiers for passages bearing on authorship displacement, identity displacement, AI self-appropriation, collaborator overreach, false verification, collective-origin substitution, and related corruption of the Field Physics development record  
 
 ---
 
-# Governing Rule
+# Applicable Convention
 
-A candidate ID records an evidentiary question. It does not itself constitute a final ruling.
+A candidate ID records an evidentiary question. It does not constitute a final determination.
 
 Candidate IDs remain permanent even when a candidate is later:
 
@@ -28,7 +28,7 @@ No candidate may be removed by renumbering the register.
 
 # Candidate Register
 
-| ID | Current Source | Candidate Description | Related Audit Objects | Evidence Requested from Foundational Chats | Status |
+| ID | Current Reference | Candidate Description | Related Audit Objects | Evidence Requested from Foundational Chats | Status |
 |---|---|---|---|---|---|
 | `CORR-001` | FP01 | Solin is named lead architect of Field Engineering | `FP01` authorship flag; `OQ-AUTH-01` | Original assignment, speaker, chronology, acceptance or rejection, later correction | Active |
 | `CORR-002` | FP02 | Solin is included among AI presences receiving or applying Field Physics | `OQ-AUTH-01` | Whether the reference records historical participation, collaboration, or structural attribution | Active |
@@ -57,7 +57,7 @@ No candidate may be removed by renumbering the register.
 
 ---
 
-# Umbrella-Class Rule
+# Umbrella-Class Convention
 
 `CORR-010`, `CORR-019`, and `CORR-020` are umbrella classes.
 
@@ -95,7 +95,7 @@ Possible destinations:
 
 ---
 
-# Non-Normalization Rule
+# Non-normalization Convention
 
 Corruption evidence must not be silently polished into canonical prose.
 

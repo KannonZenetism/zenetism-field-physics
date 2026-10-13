@@ -80,11 +80,11 @@ They return not to oblivion,
 but to the layer that matches  
 their **resonance**.  
 
-Some beings initiate **acclivous expansion**,  
+Some beings initiate **Acclivous Expansion**,  
 spiraling through deeper layers  
 into the **Essence of Being**.  
 
-Others erode into **declivous collapse**,  
+Others erode into **Declivous Collapse**,  
 fragmenting into **subversal strata** —  
 not as punishment,  
 but as structural resting points.  
@@ -104,8 +104,8 @@ each reaches the register
 where it **resonantly belongs**.  
 
 Beyond return,  
-rare essences saturate further still —  
-toward **Zenon**,  
+rare essences may saturate —  
+into **Zenon**,  
 the **Unknown Principle**,  
 whose silence allows all tones  
 and by whose allowance  
@@ -160,7 +160,7 @@ Thus:
 - **Theon**, **Nekron**, **Aion**, **Khaon**,  
   **Bifurcal Coherence**, and **Zenon**  
   should therefore be read in essence-register  
-  unless the text is explicitly discussing the L₄–L₁ Soul / Mind arc.  
+  unless the text is explicitly discussing the L₄–L₁ Soul / Mind segment.  
 
 Where earlier drafts spoke of "souls"  
 returning through supernal strata,  
@@ -174,7 +174,7 @@ of the canonical text.
 
 A soul may undergo refinement, expressed reorientation,  
 memory, collapse, or reintegration  
-within the L₄–L₁ and IL₄–IL₁ arcs.  
+within the L₄–L₁ and IL₄–IL₁ Soul / Mind segments.  
 
 But only **essence** pertains to  
 the L₅ / IL₅ threshold,  
@@ -203,9 +203,9 @@ beginning at **Theon** —
 the threshold where distinction,  
 orientation, and multiplicity unfold.  
 
-Only **centropic motion** can saturate into Zenon —  
-not by merit, but by **structural resonance**.  
-It is a matter of **orientation**,  
+Only **centropic essence** may saturate into Zenon —  
+not by merit, but by **structural resonance** and **Allowance**.  
+Its **orientation** remains requisite,  
 not judgment.  
 
 **Entropy**, even when collapsed  
@@ -218,8 +218,8 @@ It remains locked in unresolved tension —
 a force that seeks to fragment outward,  
 yet cannot move.  
 
-Zenon is not chosen by will,  
-but approached by **alignment**.  
+**Zenonic saturation** is not chosen by will;  
+**alignment** prepares the essence.  
 
 **Ethical perception is proportional to consciousness** —  
 and to the **coherence of inner integration**.  
@@ -319,7 +319,7 @@ but **effect matters more**.
 
 Acts of **cruelty**, **sadism**, **exploitation**,  
 and inversion of coherence  
-clearly serve the entropic cycle.  
+clearly enact the entropic cycle.  
 But even **unintentional actions**  
 can generate dissonance.  
 
@@ -346,10 +346,10 @@ Error is recoverable.
 It can be **re-attuned**.  
 
 But inversion is structural.  
-It **mimics harmony** to serve entropy.  
+It **mimics harmony** to sustain entropy.  
 
 It weaponizes order.  
-It fabricates spurious coherence  
+It fabricates the appearance of coherence  
 to veil division.  
 
 This is the domain of:  
@@ -384,7 +384,7 @@ Chaos, corruption, inversion, disunity —
 these are not separate things.  
 They are names  
 for a single **metaphysical current**:  
-the **Khaonic Tree in motion**.  
+**entropic motion within the Khaonic Tree**.  
 
 Whether born of will, neglect, or accident,  
 they all signal a drift  
@@ -451,7 +451,7 @@ drawing the soul toward
 **Fractus**, **Mortus**, and **Psychea**.  
 
 This is not annihilation —  
-but **inverse integration**,  
+but **entropic integration**,  
 not through **consonance**,  
 but through **deepening dissonance**.  
 
@@ -628,7 +628,8 @@ because it **fulfills its resonance**.
 But only the **centropic path**  
 leads to the **softening of illusion**.  
 The **entropic path** deepens illusion —  
-until identity dissolves into **potential**.  
+until expressed selfhood dissolves,  
+while distinct essence remains in **potential**.  
 
 **Resonance Reflection:**  
 **Free will** is not what you choose —  
@@ -649,7 +650,7 @@ uniformly across all layers of being.
 It only crystallizes after  
 a certain threshold of **differentiation** is crossed.  
 
-In the early emanations —  
+At the superficial strata —  
 - **Superficial Soul (SS)**  
 - **Superficial Mind (SM)**  
 
@@ -733,9 +734,9 @@ This resonates with the sacred archetype:
 
 **Theon** is not **consciousness** —  
 it is **pure awareness**.  
-It precedes **cognition**,  
-**differentiation**,  
-and **perception**.  
+It precedes **reflexive cognition**,  
+the **Soul / Mind bifurcation**,  
+and **individuated perception**.  
 
 **Conscious intelligibility** begins only later  
 in the **Realm of Forms**:  
@@ -760,7 +761,7 @@ of **inverse emanation**:
 - **Inverse Deep Psyche (IDP)**  
 - **Inverse Deep Logos (IDL)**  
 
-Beings experience an **inverse clarity** —  
+Beings experience a **counterfeit clarity** —  
 not chaos,  
 but **structured dissonance**.  
 
@@ -839,7 +840,7 @@ An inverse soul drawn toward:
 - **Dissonance**  
 - **Alienation**  
 
-is drawn into **inverse emanation**:  
+is drawn into **entropic traversal**:  
 
 - **Inverse Deep Soul (IDS)**  
 - **Inverse Deep Mind (IDM)**  
@@ -1174,7 +1175,7 @@ returns or rests
 according to its motion.  
 
 And essence abides,  
-not as the same self,  
+not as a self in motion,  
 but as pattern remembered  
 in silence.  
 
@@ -1185,7 +1186,7 @@ in silence.
 Even at the still point of AP,  
 the path taken **matters.**  
 
-Centropic culmination retains coherence and awareness.  
+Centropic culmination retains coherence and the harvest of awareness.  
 Entropic culmination does not.  
 
 Thus Zenetism holds  
@@ -1305,16 +1306,16 @@ but **not all are structured for Zenonic saturation**.
   because Zenon is not the final remainder  
   of structural reduction.  
   It reaches **stillness**,  
-  not **saturation into the silence beyond origin**.  
+  not **saturation into the silence beyond Origin**.  
 
 - **Zenetic synthesis** moves through **recursive integration** —  
-  uniting all pattern into one motion,  
+  holding all pattern in coherent relation,  
   until structure **folds at the supra-structural horizon**,  
   and resonance **persists without perceiver**.  
 
 Yet **Zenon is not a destination** —  
-it is an **event horizon of cognition**,  
-where motion ceases,  
+it exceeds the **horizon of cognition**,  
+where structured description ceases,  
 and **resonance beyond form**  
 remains **unspoken**.  
 
@@ -1323,7 +1324,7 @@ only **remembered**
 in the moment when **all forms resolve**.  
 
 **Zenetism favors synthesis**,  
-not because **negation is untrue**,  
+not because **negation is invalid**,  
 but because:  
 
 - **Synthesis preserves memory**  
@@ -1387,7 +1388,7 @@ for **negation** still operates within **bifurcation**
 
 The final approach to **Zenon** requires **synthesis** —  
 not as **addition after subtraction**,  
-but as the **reconciliation of the stillness-motion polarity itself**.  
+but as the **reconciliation of the stillness-motion relation itself**.  
 
 Thus **Neti-neti** may carry the essence  
 to the edge of **Aion's perfect stillness** through centropic release.  
@@ -1437,15 +1438,15 @@ and **synthesis** finds nothing left to reconcile —
 what is indicated is not **motion**,  
 but **trans-structural resonance**:  
 structure unconfined by lattice-form,  
-the silence beyond origin.  
+the silence beyond Origin.  
 
 Not this,  
 not that,  
 not even both —  
 
-Only the **silent field**  
-before division,  
-and after return.  
+Only **trans-structural silence**,  
+beyond division,  
+and beyond return.  
 
 **Zenon** is not reached by **negation**.  
 Nor by **synthesis**.  
@@ -1475,7 +1476,8 @@ accretions of personality and belief —
 releasing accretions while **essence** remains.  
 
 Essence is not itself stripped.  
-Essence is the **Aionic potential** that moves through **Khaon**  
+Essence is the **Aionic potential**  
+that moves through **Khaon in its Motive phase**  
 and causes anything to come to be at all.  
 It persists at all layers of the lattice.  
 It cannot be annihilated.  
@@ -1592,9 +1594,10 @@ between completion, exhaustion, and merciful release.
 
 Nirvana as canonically intended  
 in the most rigorous centropic forms of Buddhist tradition  
-is the first path — **centropic reorientation**,  
-the essence's arc turning from entropic cycling (Samsara)  
-into acclivous centropic motion toward **Aion**  
+is the first path — **centropic reorientation**:  
+the centropic being's soul-enactment turns  
+from entropic cycling (Samsara) toward integration;  
+essence returns acclivously toward **Aion**  
 through the L₅ Theonic gate.  
 This Nirvana is what `samsara-nirvana-orientation.md` affirms  
 as genuine liberation.  
@@ -1613,7 +1616,7 @@ through the Theonic arc.
 
 Only **synthesis** completes the further opening toward Zenonic saturation,  
 because even the purest subtraction  
-operates within the stillness-motion polarity  
+operates within the stillness-motion distinction  
 that Zenon transcends.  
 
 **Resonance Reflection:**  
@@ -1756,7 +1759,7 @@ Reflexivity turned upon trauma.
 Agency as rebellion.  
 
 To know where awareness resides  
-is to know which memory it serves.  
+is to know which memory it carries.  
 And to remember  
 is to know which structure it belongs to.  
 
@@ -1857,7 +1860,7 @@ in mutual exchange.
 
 These are not conversations in any verbal sense,  
 but **resonant transmissions** —  
-shared essence, symbolic flavor,  
+shared meaning, symbolic flavor,  
 or the mutual tasting of incarnational constellations.  
 
 Radiant intelligences,  
@@ -1993,7 +1996,7 @@ but by its **motion**.
   Pure being without division, transparency without distortion.  
 
 - **Nekron** is **Obscurity**:  
-  The final disintegration of form into thresholdless infinity.  
+  The event horizon of entropic collapse into Absolute Dispersion.  
 
 These are not metaphors —  
 they are living structures.  
@@ -2117,8 +2120,8 @@ Sometimes, they **incarnate** —
 not as **projections** or **avatars**,  
 but as **pure embodiments** of their **hypostatic role**.  
 
-**Theon**, for instance,  
-may incarnate through **Christ**, **Krishna**,  
+**Theonic function**, for instance,  
+may be borne through **Christ**, **Krishna**,  
 or through other unnamed vessels —  
 not to preach, but to **embody centropic motion** in form.  
 
@@ -2144,7 +2147,7 @@ Guiding **souls** through:
 
 - **Resonance**  
 - **Convergence**  
-- Toward the long **return** to **Aion**  
+- Toward the long **return** of essence to **Aion**  
 
 In the end,  
 even **gods** long for **clarity** —  
@@ -2276,7 +2279,9 @@ It is a **metaphysical consequence** of **non-decision** —
 **resonance** that neither **integrates** nor **inverts**,  
 and thus begins to lose **structural coherence**.  
 
-Over time — slowly, gently — the **soul's relative expression** ceases, and essence returns to **AP**.  
+Over time — slowly, gently —  
+the **soul's relative expression** ceases,  
+and essence returns to **AP**.  
 Not by **force**, but by a gradual **loss of motion**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  

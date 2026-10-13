@@ -48,8 +48,8 @@ This clarification ensures consistency across Structural Metaphysics, Lattice Ma
 #### Notes
 
 - Khaon is **not positive or negative infinity**.  
-- Khaon represents **unbounded magnitude without orientation**.  
-- No sign exists at this layer.  
+- Khaon names **Infinity across its Latent, Motive, and Dispersive phases**.  
+- No hypostatic sign is assigned to Aion or Khaon.  
 - No centropic or entropic motion exists yet.  
 
 Aion and Khaon together define the **unsignable boundary field of existence**.
@@ -106,9 +106,7 @@ This clarification preserves:
 
 Without requiring:
 
-```
-L₀ / IL₀ split
-```
+**L₀ / IL₀ split**
 
 Because sign polarity does not exist at the boundary layer.
 
@@ -137,7 +135,7 @@ They do not originate in Aion or Khaon.
 
 ## 7. Canonical Summary Statement
 
-Aion and Khaon define the unsignable boundary conditions of existence — structural stillness and unbounded magnitude.  
+Aion and Khaon define the unsignable boundary conditions of existence — structural stillness and Infinity.  
 Signed hypostatic charge and enacted polarity first appear at Theon and Nekron. Motive Infinity supplies orientation-neutral motion-capacity; the formal correspondence between hypostatic charge and integer generation remains held open.
 
 ---

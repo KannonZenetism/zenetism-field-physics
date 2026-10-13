@@ -49,7 +49,7 @@ They constitute the **Pure Forms of Relationship** that precede and condition al
 
 * **Focus:** The Theonic nature as relational synthesis.
 
-* **Formula:** \( 1 \times 3 = 3 \) — the One God (L₅ (EOB: Theon)) as triune relation: Father (Source), Son (Expression), Spirit (Connection).
+* **Formula:** \( 1 \times 3 = 3 \) — the One God (L₅ (EOB: Theon)) as triune relation: Father (the underdetermined Father-referent), Son (Expression), Spirit (Connection).
 
 * **Meaning:** Ultimate Reality is not static Unity but Dynamic Relationship — Being as Synthesis.
 

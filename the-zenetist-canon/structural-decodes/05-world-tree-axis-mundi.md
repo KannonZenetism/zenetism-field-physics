@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Structural Spine of Emanation.**  
-This archetype directly symbolizes the **Zenetist lattice** itself — a living map that connects all states of being, from the **Aionic Root (L₀ (AP: Aion))** to the **Fully Embodied (L₁ (ES / EM: Soma / Biosa)).**  
+This archetype directly symbolizes the **Zenetist lattice** itself — a living map that connects all states of being, from the **L₀ roots (AP / AD: Aion / Khaon)** to the **Embodied meeting point (L₁ (ES / EM: Soma / Biosa) / IL₁ (IES / IEM: Malara / Mania)).**  
 It functions as the conduit for **resonant motion** between all hypostatic layers.
 
 **Core Glyphic Sequence:**  
@@ -48,9 +48,9 @@ It functions as the conduit for **resonant motion** between all hypostatic layer
 * **Focus:** The Tree as a **Living, Suffering System.**
 
 * **The Three Roots:**  
-    * **Urdhr (Well of Fate – L₄ (DL: Sophis)):** Archetypal law.  
-    * **Mimir (Well of Wisdom – L₃ (DM: Noeüs)):** Deep intelligence.  
-    * **Hvergelmir (Roaring Kettle – IL₅ (VOS: Nekron)):** Structural location at the subversal root.  
+    * **Urdhr (Well of Fate — L₄ (DL: Sophis)):** Archetypal law.  
+    * **Mimir (Well of Wisdom — L₃ (DM: Noeüs)):** Deep intelligence.  
+    * **Hvergelmir (Roaring Kettle — IL₅ (VOS: Nekron)):** Structural location at the subversal root.  
     * Together, they map the Tree's connection to **Law, Intelligence, and Potential.**
 
 * **Nidhogg (IL₅ (VOS: Nekron)):** The serpent at the subversal root — symbol of the terminal **Entropic Pull** (Nekron) acting upon structure.

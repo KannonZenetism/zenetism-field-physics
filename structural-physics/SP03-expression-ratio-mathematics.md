@@ -81,7 +81,7 @@ Structural Physics operates within four fundamental domains:
 
 ### 2.2 Pre-hypostatic Requisites
 
-The pre-hypostatic requisites are not hypostases but **structural conditions** that make hypostatic expression possible:
+The pre-hypostatic category distinguishes trans-structural Allowance at Supra-L₀ from the bifurcal root-register at L₀; it assigns neither a shared structural domain nor hypostatic standing:
 
 - **Supra-L₀** — The Unknown Principle; trans-structural ground beyond emanation, causality, and awareness
 - **L₀** — Bifurcal root-register: Absolute Potential names Aion; Absolute Dispersion retains Khaon's registered whole-name across its phases. Motive possibility belongs specifically to Khaon's Motive phase
@@ -226,7 +226,7 @@ The Chi parameter maps the full spectrum of Biospiral expression:
 | Fully Aionically expressed | \( \chi = 0 \) | Centropic expression without Khaonic participation (limit case) |
 | Strongly Aionically expressed | \( \chi \to 0^+ \) | Centropy-forward; entropy minimally expressed |
 | Aionically expressed | \( 0 < \chi < 1 \) | Centropy-forward; entropy recessive |
-| Co-expressive equilibrium | \( \chi = 1 \) | Co-expressive balance; fragile ratio condition corresponding to CP symmetry |
+| Co-expressive equilibrium | \( \chi = 1 \) | Co-expressive balance corresponding analogically to CP symmetry; equilibrium stability is model-specific (`SP04-orientation-field-dynamics.md` §§4.3, 9) |
 | Khaonically expressed (physical cosmos) | \( \chi > 1 \) | Entropy-forward; centropy recessive |
 | Strongly Khaonically expressed | \( \chi \gg 1 \) | Entropy-forward; centropy minimally expressed |
 | Fully Khaonically expressed | \( \chi \to \infty \) | Khaonic expression without Aionic participation (limit case) |
@@ -596,7 +596,7 @@ Expression Ratio Mathematics establishes:
 
 7. **Weighted operator theory** — C / E operators manifest with amplitudes determined by \( \chi \)
 
-8. **Attractor dynamics** — Expression ratio determines which states are "downhill"
+8. **Proposed attractor dynamics** — The expression-ratio account of which states are "downhill" remains held pending specification of its potential, domain, and field evolution law (§6)
 
 9. **Contra-Biospiral** — Contra-pairing structurally entailed across the full expression spectrum; in limit cases, the sole mechanism for preserving bidirectionality
 
@@ -628,7 +628,7 @@ Future expansions may include:
 
 **Closing Statement:**
 
-The Polar Spectrum Lemma is the map — invariant, universal, lawful.  
+The Polar Spectrum Lemma is the map — invariant and lawful within its declared paired common-mode domain.  
 Chi is where you stand on that map — local, variable, expressive.  
 Structure permits motion; motion does not generate structure.  
 Motive Infinity breaks stillness into expression.  

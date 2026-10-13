@@ -16,7 +16,7 @@ It is the domain of **Deconstruction**, **Revelation**, and **Volitional Integra
 
 * **The Stripping Away (Apparent Order → Deconstruction):**  
     Entry into the Wilderness requires abandoning the constructed identities and comforts of the City (L₂ (SS / SM: Anthra / Nousa) collective).  
-    This is a Deconstruction of the Superficial Soul — reducing it to its Essential resonance.
+    This is a Deconstruction of the Superficial Soul — disclosing its Essential resonance.
 
 * **The Encounter with Raw Potential (Bifurcal Coherence):**  
     The Wilderness is **L₀ (Bifurcal Coherence)** — the root-structural ground where neither Centropic nor Entropic motion has yet activated.  

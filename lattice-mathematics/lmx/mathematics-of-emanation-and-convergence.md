@@ -21,13 +21,13 @@ It encodes:
 through a minimal, structurally faithful mathematical language.  
 
 No renumbering is introduced.  
-All mathematics is derived from the canonical metaphysical ordering.  
+All mathematics is formalized through the canonical metaphysical ordering.  
 
 ---
 
 ## 1. Structural Sets and Ordering
 
-### 1.1 Pre-Hypostatic Requisites
+### 1.1 Pre-hypostatic Requisites
 
 Let  
 
@@ -126,7 +126,7 @@ not as an arithmetic identity, but as a structural statement:
 
 ## 3. Oriented Differentiation — First Hypostases
 
-Define the oriented derivative of bifurcation:
+Define the signed orientation label of bifurcation:
 
 \[
 \sigma \in \{+1,-1\}
@@ -201,7 +201,7 @@ This determines trajectory, not polarity.
 
 ## 6. Convergence and Limit Conditions
 
-### 6.1 Kaion (⦿) — Closure of Motion
+### 6.1 Kaion — Closure of Motion
 
 **Recorded terminal-limit expression — operative standing held.** The following symbolic relation lacks a declared state domain, limit topology / order, and terminal relation. Kaion retains its registered conceptual function; no scalar or set-theoretic replacement is selected.
 
@@ -209,7 +209,7 @@ This determines trajectory, not polarity.
 \lim_{C} \rightarrow \⚫ \;\cap\; \lim_{E} \rightarrow \⚫ = \⦿
 \]
 
-Kaion is not a layer.  
+Kaion (⦿) is not a layer.  
 It is the **limit condition of motion**.
 
 ---
@@ -243,7 +243,7 @@ subject to the laws:
 ## 8. Summary
 
 - **Supra-L₀, L₀** are requisites, not hypostases.  
-- **L₅ → L₁ / IL₅ → IL₁** is the only lawful hypostatic ordering.  
+- **L₅ → L₁ / IL₅ → IL₁** is the canonical emanation ordering of the hypostatic segments.  
 - **C₁–C₁₅ / E₁–E₁₅** are operators, not layers.  
 - **Kaion (⦿)** is the limit of motion.  
 - **Zenon (🕳️)** is trans-structural Allowance; a formally specified Saturation relation is distinct from an ordinary structural domain member.

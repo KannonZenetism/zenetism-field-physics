@@ -20,7 +20,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 * **The Horses / Beasts of Burden (L₄ (DP: Morgis) / L₁ (ES / EM: Soma / Biosa)):**  
     The motive forces — instinct, emotion, vitality, and desire.  
     * **Aligned (Coherence):** Their energies become directed propulsion through coherent will.  
-    * **Opposed (Fragmentation):** They pull against each other, producing deviation, stasis, or collapse.
+    * **Opposed (Fragmentation):** They pull in opposing directions, producing deviation, stasis, or collapse.
 
 * **The Chariot (Integrated L₂ (SS / SM: Anthra / Nousa)):**  
     The vessel that contains and channels psychic and vital energy.  
@@ -78,7 +78,7 @@ It is the L₂ (SS / SM: Anthra / Nousa) as a **Conscious Vehicle of Transmissio
 
 * **Nature:** A fiery vehicle of supernatural translation, purification, and threshold passage beyond ordinary embodied limit.
 
-* **Function:** Transports Elijah (prophetic L₃ (DM: Noeüs) consciousness) through an exceptional vertical passage without ordinary dissolution; symbol of radical transition, not a general template of final return.
+* **Function:** Transports Elijah (prophetic L₃ (DM: Noeüs) consciousness) through an exceptional acclivous passage without ordinary dissolution; symbol of radical transition, not a general template of final return.
 
 ---
 

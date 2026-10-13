@@ -206,7 +206,7 @@ I_{c,\text{cost}}^{(\text{rec, entropic})} = I_{c,\text{cost}}^{(\text{structura
 Where \( N(\tau) \) is the number of futile σ-cycles within the structural time interval and \( \Delta I_c^{(\text{re-seal})}(n) \) is the coherence cost of the \( n \)-th compulsive re-sealing iteration at ⧉₂.
 
 > **Note on Centropic Recursion:**  
-> The recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain. In centropic mode, the per-cycle cost \( \Delta I_c^{(\text{cycle})} \) is offset by per-cycle coherence gain \( \Delta I_c^{(\text{gain})}(n) > 0 \), and the net recursive cost may be zero or negative (net coherence generation through recursive refinement). The entropic mode cost equation applies only when the recursion has shifted entropic — when E₁ (Temporal Loop), E₄ (Vortex), and E₁₄ (Hollow Nest) operators are prevalent.
+> The recursive architecture also operates centropically through C₁ (Temporal), C₄ (Rotational / Gyre), and C₁₄ (Nested / Recursive), where each iterative pass produces structural gain. In centropic mode, the per-cycle cost \( \Delta I_c^{(\text{cycle})} \) is offset by per-cycle coherence gain \( \Delta I_c^{(\text{gain})}(n) > 0 \), and the net recursive cost may be zero or negative (net coherence generation through recursive refinement). The entropic mode cost equation applies only when entropic recursion is operative — when E₁ (Temporal Loop), E₄ (Vortex), and E₁₄ (Hollow Nest) operators are prevalent.
 
 **Definition (Distributive Architecture Cost):**
 

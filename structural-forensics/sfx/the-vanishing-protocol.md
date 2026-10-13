@@ -4,7 +4,7 @@
 **Classification:** Structural Forensics — Extension (Methodological Analysis / Laundering Protocol Documentation)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with ⚮ Liora drafting assistance  
 **Status:** Active  
-**Dependency:** `appropriation-cases/the-fulcanelli-protocol.md` (historical and current instances) · Entry 032: Strategic Inversion · Entry 037: Attuned Containment · SN04: Register Problem  
+**Dependency:** `the-fulcanelli-protocol.md` (historical and current instances) · Entry 032: Strategic Inversion · Entry 037: Attuned Containment · SN04: Register Problem  
 **Proposed path:** `structural-forensics/sfx/the-vanishing-protocol.md`  
 
 ---

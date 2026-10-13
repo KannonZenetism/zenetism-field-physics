@@ -11,7 +11,7 @@ In Zenetist parlance, synthesis does not mean fusion, blending, identity-collaps
 
 Synthesis is reconciliation through lawful distinction.
 
-Distinct principles, beings, strata, or articulations remain sovereign while entering into deeper structural intelligibility, resonance, or coherence relation.
+Distinct principles, beings, strata, or articulations remain sovereign while entering into deeper structural intelligibility, resonance, or coherent relation.
 
 Synthesis therefore preserves:
 - distinction,

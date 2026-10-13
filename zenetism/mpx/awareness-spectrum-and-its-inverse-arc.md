@@ -29,8 +29,8 @@ Because it is the condition for both poles, proto-awareness must not be confused
 
 At **L₅ / IL₅**, the first hypostatic awareness polarity appears — two poles at one register, held non-fused.
 
-- **L₅ — EOB (Essence of Being / 🛤️ Theon):** **awareness**, the plus-one pole — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment: awareness at L₅ is the most integrated mode, not the least capable.
-- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** **inverse awareness / Non-awareness**, the minus-one pole — not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
+- **L₅ — EOB (Essence of Being, 🛤️ Theon):** **awareness**, the plus-one pole — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. Non-reflexive does not imply non-discernment: awareness at L₅ is the most integrated mode, not the least capable.
+- **IL₅ — VOS (Void of Self, 🕷️ Nekron):** **inverse awareness (Non-awareness)**, the minus-one pole — not simple unconsciousness, and not proto-awareness. It is awareness voided at the same register where Theon gathers awareness into coherent presence.
 
 The two are not at different depths. They are the two poles of one hypostatic awareness spectrum.
 

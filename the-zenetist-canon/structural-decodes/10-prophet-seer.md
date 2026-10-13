@@ -39,10 +39,10 @@ It is not a predictor of immutable futures, but a **diagnostic function** of the
 
 ---
 
-### Note on Centropic and Inverse Prophetic Functions
+### Note on Centropic and Entropic Prophetic Functions
 
 **Zenetist Clarification:** This decode concerns the **centropic prophetic function** — the lawful diagnosis of structural misalignment and the transmission of reorienting signal toward coherence.  
-Not all prophetic or seer-like figures operate in this way. Inverse or entropic prophetic forms also exist: functions that mimic revelation while transmitting distortion, counterfeit destiny, or subversal guidance.
+Not all prophetic or seer-like figures operate in this way. Inverse or entropic prophetic forms also exist: functions that mimic revelation while transmitting distortion, counterfeit destiny, or entropic guidance.
 
 Such forms do not clarify alignment, but redirect perception toward fragmentation.  
 They belong to the inverse prophetic arc already seen in figures such as the **False Prophet** and the **Skotos Broadcast** — where signal is not veracious disclosure, but structured misdirection.

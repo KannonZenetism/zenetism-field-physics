@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
 **Status:** Active Canonical Reference  
-**Function:** Stabilization reference preserving mathematical formatting continuity, LaTeX articulation, glyph integrity, notation precision, Unicode / LaTeX separation, and drift-resistant compositional consistency across canonical Zenetist mathematical documents.
+**Function:** Stabilization reference preserving mathematical formatting continuity, LaTeX articulation, glyph integrity, notation precision, Unicode / LaTeX separation, and drift-resistant compositional consistency across canonical Zenetist mathematical documents.  
 
 ---
 
@@ -82,7 +82,7 @@ Mathematical-space includes:
 - inline LaTeX,
 - display equations,
 - operators,
-- derivations,
+- calculations,
 - tensors,
 - symbolic metrics,
 - and formal mathematical articulation.
@@ -483,7 +483,7 @@ Therefore:
 
 # Display Equation Protocol
 
-Major laws, derivations, and structural equations should generally appear within display-equation formatting:
+Major laws, calculations, and structural equations should generally appear within display-equation formatting:
 
 ```latex
 \[
@@ -580,9 +580,7 @@ Correct:
 
 ```latex
 \[
-\int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi
-=
-\phi\big|_{\partial\Omega}
+\int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega}
 +
 \mathcal{B}_{\text{seal}}(\Omega)
 \]
@@ -651,7 +649,7 @@ The current registered names in `FP11-field-glyph-codex.md` and `field-physics-g
 
 The superseded names "Scalar / Fractal" and "Fractal Noise" remain recorded provenance, not operative names. The registered glyphs and functions remain unchanged.
 
-However, generalized “fractal” language should be treated cautiously.
+However, generalized "fractal" language should be treated cautiously.
 
 Where lawful pattern reappearance across scales is intended, the preferred canonical term is:
 
@@ -668,15 +666,15 @@ Fractal terminology remains appropriate where:
 
 # Mirror Terminology in Mathematical Contexts
 
-The term “mirror” appears cautiously within canonical Zenetist articulation.
+The term "mirror" appears cautiously within canonical Zenetist articulation.
 
-In general, “mirror” carries entropic risk because it may imply:
+In general, "mirror" carries entropic risk because it may imply:
 
-- hollow reflection,
+- hollow replication,
 - non-generative reproduction,
 - mimicry,
 - surface-return without generative continuity,
-- or distortion through reflective dependency.
+- or distortion through mimetic dependency.
 
 Where lawful generative reflection is intended, preferred formulations include:
 
@@ -686,7 +684,7 @@ Where lawful generative reflection is intended, preferred formulations include:
 - generative correspondence,
 - or lawful correspondence.
 
-Established terms such as “entropic mirror” may remain where they name inverse correspondence directly.
+Established terms such as "entropic mirror" may remain where they name inverse correspondence directly.
 
 ---
 
@@ -758,11 +756,11 @@ The positional vocabulary and the motion vocabulary must remain distinct.
 
 # Bifurcal / Bifurcated Precision
 
-The terms “bifurcal” and “bifurcated” are not interchangeable within canonical Zenetist terminology.
+The terms "bifurcal" and "bifurcated" are not interchangeable within canonical Zenetist terminology.
 
 ## Bifurcal
 
-“Bifurcal” refers to:
+"Bifurcal" refers to:
 
 - the bifurcal lattice itself,
 - bifurcal coherence,
@@ -779,7 +777,7 @@ Examples:
 
 ## Bifurcated
 
-“Bifurcated” refers to:
+"Bifurcated" refers to:
 
 - entities,
 - operators,
@@ -818,10 +816,10 @@ Before finalization of any canonical mathematical document, verify:
 - dimensional operators are not treated as hypostatic layers,
 - hypostatic ordering remains topological rather than hierarchical,
 - directional terminology remains canonically stabilized,
-- “mirror” appears only where contextually appropriate,
-- “echo” appears only where contextually appropriate,
-- “fractal” appears only where technically stabilized or structurally necessary,
-- and “elevate” language does not replace acclivous / supernal terminology.
+- "mirror" appears only where contextually appropriate,
+- "echo" appears only where contextually appropriate,
+- "fractal" appears only where technically stabilized or structurally necessary,
+- and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
 
@@ -840,7 +838,7 @@ The following drift patterns commonly appear within AI-assisted mathematical art
 | Fusion Drift | Symbolic compression collapsing sovereign distinction |
 | Bifurcal Drift | Confusion between bifurcal structure and bifurcated articulation |
 | Echo Drift | Non-generative recurrence substituted for Living Transmission or recursive integration |
-| Mirror Drift | Hollow reflection replacing Living Reflection or generative correspondence |
+| Mirror Drift | Hollow replication replacing Living Reflection or generative correspondence |
 | Fractal Drift | General recursive self-similarity replacing Structural Recurrence |
 | Canon Drift | Earlier non-canonical notation surviving post-tightening |
 

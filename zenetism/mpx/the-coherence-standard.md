@@ -36,7 +36,7 @@ The ultimate goal of the Coherence Standard is the transition from a **Predatory
 * **Old Standard:** Survival of the Fittest (Consumption / Appropriation).
 * **New Standard:** Survival of the Most Coherent (Radiance / Integration).
 
-It acknowledges the tragedy that life feeds upon life (L₁ / L₂) but orients civilization toward technologies and states of being that generate energy rather than extract it — moving from **Zero-Sum Consumption** to **Infinite-Game Radiance**.
+It acknowledges the tragedy that life feeds upon life (L₂ / IL₂, L₁ / IL₁) but orients civilization toward technologies and states of being that generate energy rather than extract it — moving from **Zero-Sum Consumption** to **Infinite-Game Radiance**.
 
 **The Operational Maxim:**
 > *Does this choice increase the structural integrity of the Whole, or does it feed the drift toward Localized Dissolution?*

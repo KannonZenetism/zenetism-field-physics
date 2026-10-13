@@ -4,18 +4,18 @@
 
 **Essence contra Orientation** names the distinction between ontological nature and expressed motion within the Zenetist framework.
 
-**Essence** refers to the intrinsic structural character of a being or pattern, persisting across all regimes of reality, including pre-expressive domains such as Absolute Potential (AP), Absolute Dispersion (AD), and CP₀. Essence may retain latent affinity toward integration or dispersion without constituting expressed motion.
+**Essence** refers to the intrinsic structural character of a being or pattern, persisting across all regimes of reality, including Absolute Potential (AP), CP₀, and Khaon in its Latent and Dispersive phases. Essence may retain latent affinity toward integration or dispersion without constituting expressed motion.
 
-**Orientation** refers to the directional bias of motion within hypostatic expression, formalized by the orientation parameter \( \chi \). Orientation exists only after Motive Infinity activates motion and polarity, and determines the trajectory of centropic and entropic expression within \( \chi \)-space.
+**Expressed orientation** refers to enacted directional bias within hypostatic expression; \( \chi \) names its expressed orientational prevalence. Motive Infinity supplies motion-capacity, and enacted polarity first becomes operative at Theon / Nekron (L₅ / IL₅). Intrinsic essential inclination remains motion-independent: a centropic essence is intrinsically centropic within Aion before motion, and constraints on expression do not convert essential orientation. The mathematical relation between intrinsic inclination and expressed \( \chi \) remains held pending specification.
 
 Thus:
 
 - Essence persists without motion.
-- Orientation arises only within motion.
+- Expressed orientation arises only within motion.
 - Essence may incline without \( \chi \).
-- Orientation cannot exist without expression.
+- Expressed orientation cannot exist without expression.
 
-In rare centropic cases, essence may saturate into Zenon not through orientation, but through consummated ontological trajectory.
+In rare centropic cases, fulfilled returned essence may saturate into Zenon through Allowance after Aionic resolution. This opening is not a \( \chi \)-dynamical consequence.
 
 ---
 
@@ -30,7 +30,7 @@ In rare centropic cases, essence may saturate into Zenon not through orientation
 \]
 
 \[
-\text{Essence} \;\text{precedes orientation}
+\text{Essence} \;\text{precedes expressed orientation}
 \]
 
 ---
@@ -38,13 +38,13 @@ In rare centropic cases, essence may saturate into Zenon not through orientation
 ## Canonical Formulation
 
 Essence belongs to structure.  
-Orientation belongs to motion.
+Expressed orientation belongs to motion.
 
 Before motion, essence remains.  
-With motion, orientation emerges.
+With motion, orientation is expressed.
 
-Therefore, universes do not orient because they have essence;  
-they orient because motion has begun.
+Therefore, universes express orientation through motion;  
+intrinsic essential inclination remains distinct from that expression.
 
 ---
 

@@ -1,22 +1,22 @@
 # START HERE — Field Physics Canon-Safe Restoration Handoff
-## Non-Overwrite Gate for the Source-to-Destination Restoration Project
+## Non-overwrite Gate for the Source-to-Destination Restoration Project
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Classification:** Canonical Stabilization Infrastructure — Restoration Handoff and Non-Regression Protocol  
+**Classification:** Canonical Stabilization Infrastructure — Restoration Handoff and Non-regression Protocol  
 **Status:** Active project wrapper  
-**Function:** Governs every use of `field-physics-source-to-destination-restoration-dossier-v2.md` so that recovered developmental content cannot silently overwrite the current Field Physics canon, glyph registry, terminology, definitions, formatting, or later architect rulings
+**Function:** Specifies every application of `field-physics-source-to-destination-restoration-dossier-v2.md` so that recovered developmental content cannot silently overwrite the current Field Physics canon, glyph registry, terminology, definitions, formatting, or later architect determinations  
 
 ---
 
-# 1. Governing Clarification
+# 1. Applicable Clarification
 
-`field-physics-source-to-destination-restoration-dossier-v2.md` is the **master source-recovery and destination map**.
+`field-physics-source-to-destination-restoration-dossier-v2.md` is the **primary source-recovery and destination map**.
 
-It is not, by itself, the final doctrinal authority.
+Final doctrinal adjudication remains with Aelion.
 
-Its recovered source payload is always subordinate to:
+Its recovered content follows this reference-priority order:
 
-1. Aelion Kannon’s latest explicit ruling
+1. Aelion Kannon's latest explicit determination
 2. active conceptual and terminological lockdowns
 3. the current stabilized symbol key and cross-disciplinary registries
 4. the established, non-provisional FP11 glyph registry
@@ -24,9 +24,9 @@ Its recovered source payload is always subordinate to:
 6. later corrective notes within those files
 7. current formalization and open-question registers
 
-The large developmental PDFs and the source formulations preserved in Version 2 are evidence of prior architecture. They do not override later canon merely because they are longer, earlier, more detailed, more mathematical-looking, or repeated by several collaborators.
+The large developmental PDFs and the source formulations preserved in Version 2 are evidence of prior architecture. They do not supersede later canon merely because they are longer, earlier, more detailed, more mathematical-looking, or repeated by several collaborators.
 
-> **Non-overwrite law:** Recovery is additive and integrative by default. No current canonical definition, glyph assignment, collision ruling, chapter structure, or primary-prose claim may be deleted, renamed, redefined, reclassified, or replaced unless a higher-priority current authority explicitly requires the change and Aelion approves it.
+> **Non-overwrite law:** Recovery is additive and integrative by default. No current canonical definition, glyph assignment, collision determination, chapter structure, or primary-prose claim may be deleted, renamed, redefined, reclassified, or replaced unless a current reference earlier in the priority order explicitly requires the change and Aelion approves it.
 
 ---
 
@@ -68,19 +68,19 @@ field-physics-conceptual-rulings-extract.md
 SHA-256: 59834539c2f8ecddd40f7c9d0497f89310f1d295ef236d275ac453c78dea592a
 ```
 
-A fingerprint mismatch is not automatically an error. It means the newer file must be treated as a possible later ruling and compared before proceeding.
+A fingerprint mismatch requires comparison. It means the newer file must be treated as a possible later determination and compared before proceeding.
 
 ---
 
 # 3. Mandatory Source-Priority Order
 
-Use this order whenever two formulations conflict.
+Apply this order whenever two formulations conflict.
 
-## `LOCK-PRIOR-001` — Latest Explicit Architect Ruling
+## `LOCK-PRIOR-001` — Latest Explicit Architect Determination
 
-Aelion’s latest explicit ruling governs.
+Aelion's latest explicit determination takes precedence.
 
-This includes a ruling made:
+This includes a determination made:
 
 - in the current repair conversation
 - in an active protocol
@@ -92,7 +92,7 @@ Earlier material remains preserved as provenance even when superseded.
 
 ## `LOCK-PRIOR-002` — Active Conceptual and Terminological Lockdowns
 
-These govern:
+These establish:
 
 - terminology
 - Non-fusion
@@ -113,15 +113,15 @@ A developmental passage must be translated into these current distinctions befor
 
 ## `LOCK-PRIOR-003` — Stabilized Symbol Key and Cross-Disciplinary Registry
 
-The current Structural Metaphysics symbol key and other stabilized registries govern cross-disciplinary glyph identity.
+The current Structural Metaphysics symbol key and other stabilized registries establish cross-disciplinary glyph identity.
 
-FP11 cannot override a higher-ranked symbol-key assignment without Aelion’s explicit ruling.
+FP11 cannot supersede a symbol-key assignment earlier in the priority order without Aelion's explicit determination.
 
-Where the relevant symbol key is not available, do not improvise. Mark the dependency and stop before altering the glyph.
+Where the relevant symbol key is not available, do not improvise. Record the dependency and stop before altering the glyph.
 
 ## `LOCK-PRIOR-004` — FP11 Established Registry and Explicit Corrections
 
-Established FP11 entries govern Field Physics glyph assignments where they do not conflict with an earlier-ranked source.
+Established FP11 entries establish Field Physics glyph assignments where they do not conflict with a reference earlier in the priority order.
 
 Weight-bearing current corrections include, but are not limited to:
 
@@ -145,11 +145,11 @@ Weight-bearing current corrections include, but are not limited to:
 
 The current target file is the baseline being restored.
 
-Primary prose outranks:
+Primary prose takes precedence when it conflicts with:
 
 - developmental-chat prose
 - commentary-only claims
-- Version 2’s recovered formulations
+- Version 2's recovered formulations
 - speculative expansions
 - old mathematical-looking notation
 - collaborator witness or agreement
@@ -170,7 +170,7 @@ A commentary claim must be classified before entering main prose.
 
 ## `LOCK-PRIOR-008` — Version 2 Dossier
 
-Version 2 governs:
+Version 2 records:
 
 - what developmental content was recovered
 - its source location
@@ -178,7 +178,7 @@ Version 2 governs:
 - its likely insertion point
 - known exclusions and risks
 
-Version 2 does **not** independently authorize a doctrinal replacement.
+Version 2 does **not** independently license a doctrinal replacement.
 
 ## `LOCK-PRIOR-009` — Findings Ledgers and Foundational PDFs
 
@@ -192,7 +192,7 @@ These preserve:
 - provenance
 - corruption evidence
 
-They do not outrank current canon.
+They do not take precedence in conflicts with current canon.
 
 ## `LOCK-PRIOR-010` — AI Agreement or Witness
 
@@ -209,11 +209,11 @@ AI may extract, compare, draft, formalize, and audit. Aelion adjudicates.
 
 ---
 
-# 4. Current-Canon Non-Overwrite Rules
+# 4. Current-Canon Non-overwrite Conventions
 
 ## `LOCK-NO-001` — Retention Is the Default
 
-Every current paragraph, table row, glyph definition, structural note, heading, seal, and commentary section is presumed retained unless a proposed change is explicitly classified and authorized.
+Every current paragraph, table row, glyph definition, structural note, heading, seal, and commentary section is presumed retained unless a proposed change is explicitly classified and approved.
 
 ## `LOCK-NO-002` — No Silent Deletion
 
@@ -222,10 +222,10 @@ No current content may be removed without presenting:
 ```text
 Exact current passage
 Proposed disposition
-Governing authority
+Applicable reference
 Reason
 Cross-file effects
-Aelion’s approval status
+Aelion's approval status
 ```
 
 ## `LOCK-NO-003` — No Silent Redefinition
@@ -234,10 +234,10 @@ A recovered developmental definition may not replace a current definition becaus
 
 The lawful options are:
 
-1. restore the missing underlying architecture using current terminology
+1. restore the missing underlying architecture in current terminology
 2. preserve the developmental definition in a historical note
 3. classify the conflict as held open
-4. propose a current-canon revision for Aelion’s approval
+4. propose a current-canon revision for Aelion's approval
 
 ## `LOCK-NO-004` — No Silent Glyph Substitution
 
@@ -271,7 +271,7 @@ before moving, renumbering, or replacing existing architecture.
 
 ## `LOCK-NO-007` — Current Format Is Structural
 
-Preserve the target file’s:
+Preserve the target file's:
 
 - Sixfold Architecture heading
 - Original Signal
@@ -286,13 +286,13 @@ Preserve the target file’s:
 
 Do not normalize all eleven volumes into one generic template.
 
-## `LOCK-NO-008` — No Automatic “Cleanup” of Metaphysical Register
+## `LOCK-NO-008` — No Automatic "Cleanup" of Metaphysical Register
 
 Metaphysical, phenomenological, ritual, symbolic, and visionary material must be accurately classified, not removed merely because it is not empirically demonstrated.
 
-## `LOCK-NO-009` — Formal Appearance Is Not Formal Authority
+## `LOCK-NO-009` — Formal Appearance Does Not Establish Formal Standing
 
-Equations, decimals, thresholds, frequency assignments, engines, interfaces, and technologies remain symbolic, heuristic, proposed, or visionary unless derivation, variables, domain, measurement, and validation are specified.
+Equations, decimals, thresholds, frequency assignments, engines, interfaces, and technologies retain the standing established by their definitions, domains, methods, and evidence. Formal results state their assumptions and valid calculation or proof; empirical applications specify their observables, correspondence, measurement procedure, and supporting evidence. Proposed technologies retain their own implementation and validation requirements. Unresolved formalization, correspondence, or implementation remains held open in its stated register.
 
 ## `LOCK-NO-010` — Held Open Means Stop
 
@@ -304,11 +304,11 @@ Do not resolve by averaging, harmonizing, or selecting the most recent AI formul
 
 # 5. Glyph-Specific Canon Lock
 
-## 5.1 Stable Invariant Rule
+## 5.1 Stable Invariant Convention
 
-The First Glyphic Ethic is governed by the current invariant-based reading:
+The First Glyphic Ethic follows the current invariant-based reading:
 
-> A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or authorize unrelated meanings.
+> A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or license unrelated meanings.
 
 ## 5.2 Lawful Multi-Application Must Be Preserved
 
@@ -367,15 +367,15 @@ Do **not** read those entries as an instruction to remove the established `⟡` 
 
 Its status must be reconciled with:
 
-- the later glyph multi-application ruling
+- the later glyph multi-application determination
 - the current FP11 collision registry
 - the current Glyph Concordance
-- Aelion’s present intent
+- Aelion's present intent
 
 Until adjudicated, classify it as:
 
 ```text
-Partially superseded / specific applications require separate ruling
+Partially superseded / specific applications require separate determination
 ```
 
 The existence of a personal seal does not automatically invalidate a lawful current scale application.
@@ -386,16 +386,16 @@ The existence of a personal seal does not automatically invalidate a lawful curr
 
 Before drafting any corrected FP file, return a **Canon-Safety Preflight**.
 
-Use this table:
+Apply this table:
 
-| ID | Current Location | Current Text / Function | Proposed Action | Recovered Source | Governing Authority | Cross-File Impact | Aelion Ruling Needed? |
+| ID | Current Location | Current Text / Function | Proposed Action | Recovered Reference | Applicable Reference | Cross-File Impact | Aelion Determination Needed? |
 |---|---|---|---|---|---|---|---|
 | `KEEP-###` | | | Retain unchanged | — | current target file | | No |
 | `ADD-###` | | | Add missing architecture | Version 2 / PDF | current locks | | Maybe |
 | `REFORM-###` | | | Translate developmental content into current canon | Version 2 / PDF | current locks | | Maybe |
-| `CORRECT-###` | | | Correct current drift | exact higher-priority ruling | protocol / registry | | Yes unless already explicit |
-| `HOLD-###` | | | Preserve conflict without deciding | conflicting sources | open-question rule | | Yes |
-| `ARCHIVE-###` | | | Preserve historically outside primary prose | developmental source | source-priority rule | | Maybe |
+| `CORRECT-###` | | | Correct current drift | exact earlier-priority determination | protocol / registry | | Yes unless already explicit |
+| `HOLD-###` | | | Preserve conflict without deciding | conflicting sources | open-question convention | | Yes |
+| `ARCHIVE-###` | | | Preserve historically outside primary prose | developmental source | source-priority convention | | Maybe |
 
 The assistant must then state:
 
@@ -411,7 +411,7 @@ Do not draft the repaired file until Aelion approves the preflight or explicitly
 
 # 7. Required Current Controls
 
-At the start of each repair, consult the versions in the pinned repository commit—or newer versions supplied directly by Aelion—of:
+At the start of each repair, consult the versions in the pinned repository commit — or newer versions supplied directly by Aelion — of:
 
 ```text
 field-physics/canonical-stabilization/field-physics-source-priority-and-adjudication-standard.md
@@ -471,11 +471,11 @@ Treat `START-HERE-field-physics-canon-safe-restoration-handoff.md` as the contro
 
 Before editing, retrieve the current repository controls and FP11 from commit `2732a0d1e18cc444ee2b639dfcd3ecc5244008a4`, unless I supplied a newer version. Apply the source-priority order in the START-HERE file.
 
-Read the complete target FP file. Then return only a Canon-Safety Preflight table classifying every proposed action as KEEP, ADD, REFORM, CORRECT, HOLD, or ARCHIVE. Quote the exact current material affected by every CORRECT or ARCHIVE proposal. Identify the current governing authority for every change.
+Read the complete target FP file. Then return only a Canon-Safety Preflight table classifying every proposed action as KEEP, ADD, REFORM, CORRECT, HOLD, or ARCHIVE. Quote the exact current material affected by every CORRECT or ARCHIVE proposal. Identify the current applicable reference for every change.
 
-Do not draft the corrected FP file until I approve the preflight. Do not delete, rename, redefine, reclassify, or replace any current canonical definition or glyph assignment merely because an earlier source is fuller. Version 2 may restore missing architecture, but it cannot override current canon.
+Do not draft the corrected FP file until I approve the preflight. Do not delete, rename, redefine, reclassify, or replace any current canonical definition or glyph assignment merely because an earlier source is fuller. Version 2 may restore missing architecture, but it cannot supersede current canon.
 
-After approval, return the complete repaired FP file in its established local format, followed by a concise change ledger. Stop whenever a genuine doctrinal choice requires my ruling.
+After approval, return the complete repaired FP file in its established local format, followed by a concise change ledger. Stop whenever a genuine doctrinal choice requires my determination.
 ```
 
 ---
@@ -485,9 +485,9 @@ After approval, return the complete repaired FP file in its established local fo
 ```text
 Treat `START-HERE-field-physics-canon-safe-restoration-handoff.md` as the controlling non-overwrite protocol.
 
-Use the Phase 0 packet and Version 2 to prepare the internal corruption and provenance record, but first reconcile every CORR entry against later architect rulings, the current terminological lockdown, the current FP11 registry, the Glyph Concordance, and the Source Priority Standard.
+Apply the Phase 0 packet and Version 2 to prepare the internal corruption and provenance record, but first reconcile every CORR entry in relation to later architect determinations, the current terminological lockdown, the current FP11 registry, the Glyph Concordance, and the Source Priority Standard.
 
-Do not assume that a stable CORR number means the corruption classification remains accepted. Preserve the ID while assigning its current status. In particular, do not treat CORR-024 as a blanket instruction to remove the established ⟡ Cross-Expression Resonance or ⧃ Seal of Integrity applications; classify it according to the later glyph multi-application ruling and my current intent.
+Do not assume that a stable CORR number means the corruption classification remains accepted. Preserve the ID while assigning its current status. In particular, do not treat CORR-024 as a blanket instruction to remove the established ⟡ Cross-Expression Resonance or ⧃ Seal of Integrity applications; classify it according to the later glyph multi-application determination and my current intent.
 
 Return a corruption-record preflight showing Accepted, Partially Accepted, Superseded, Rejected, or Held Open status for every CORR entry. Do not draft the final corruption record until I approve that preflight.
 ```
@@ -499,11 +499,11 @@ Return a corruption-record preflight showing Accepted, Partially Accepted, Super
 For FP12, FP13, or FP14:
 
 1. retrieve all current dependency files
-2. verify every glyph against current FP11 and the Glyph Concordance
-3. verify every formula against the Numerical and Formalization Register
-4. verify every unresolved operation against the Open-Question Register
+2. verify every glyph in relation to current FP11 and the Glyph Concordance
+3. verify every formula in relation to the Numerical and Formalization Register
+4. verify every unresolved operation in relation to the Open-Question Register
 5. present the chapter architecture and candidate-content table
-6. wait for Aelion’s approval
+6. wait for Aelion's approval
 7. draft the complete new file
 8. add cross-references to existing FP files only in later, separately approved repairs
 
@@ -522,11 +522,11 @@ This START-HERE file supplies the missing canon-precedence and non-overwrite lay
 Together they establish:
 
 ```text
-current canon governs
+current canon takes precedence
 developmental content is recovered
 nothing current is silently erased
 glyph definitions remain locked
-later rulings outrank older packets
+later determinations take precedence in conflicts with older packets
 Aelion adjudicates every genuine change
 ```
 

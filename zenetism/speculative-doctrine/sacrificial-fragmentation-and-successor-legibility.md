@@ -15,7 +15,7 @@ The recurring pattern is not treated here as merely literary or mythological. My
 
 Its most compressed form is:
 
-> Dismember the origin; preserve the signal; redistribute the fragments; obscure the originating bearer; raise the successor.
+> Dismember the embodied bearer; preserve the origin-signal; redistribute partial expressions; obscure the originating bearer; consolidate the successor's public legibility.
 
 The claim is that sacrifice and fragmentation may instantiate a real structural operation whose effects are not exhausted by the visible destruction of the sacrificed form. Instances sharing the sequence share a structure rather than an identity, and efficacy is a matter for the particular instance.
 
@@ -31,7 +31,7 @@ The primary event is **fracture of the later articulation away from coherent rel
 
 Fragments are broken from a coherent bearer. This may occur through death, dismemberment, disfiguration, ritual destruction, forced disappearance, or other forms of imposed fracture or discontinuity. What had been gathered into one locus is rendered discontinuous in the expressed field.
 
-The bearer is not thereby deprived. What fractures is coherent relation — the relation of the fragments to the bearer they came from. Read from the inverse side, the same event narrates itself as death and personal loss: the inverse frame accounts for itself as conquering what is centropic. That account describes the frame producing it. The bearer loses nothing in the ultimate sense.
+The bearer may suffer bodily injury, death, and loss of operative expression. The bearer's essence and origin-signal remain intact. In the attributional register, the later articulation fractures away from coherent relation with its origin; in the embodied register, the harm is real. The inverse frame may present that harm as conquest of what is centropic, but it does not alter the bearer's essential orientation or the origin-signal.
 
 Sacrifice therefore does more than remove a being or object. It alters the relation among:
 
@@ -54,7 +54,7 @@ The question becomes: **who or what carries the fragments afterward?**
 
 # 2. Sacrificial Fragmentation as an Entropic Operation
 
-Within this hypothesis, sacrificial destruction is structurally entropic to the degree that it converts integrated being into fragmentation.
+Within this hypothesis, sacrificial destruction is structurally entropic to the degree that it fragments integrated embodied expression without converting the being's essence.
 
 The sacrificed being is not thereby entropically oriented.
 
@@ -64,7 +64,7 @@ This distinction is especially important where innocence, integrity, or coherenc
 
 The resulting power would therefore not arise merely because something died. It would arise from an enacted relation:
 
-**coherence is broken so that the products of its fracture may be appropriated, redirected, redistributed, or converted into another structure.**
+**relative coherent expression is disrupted so that dissonant fragments may be appropriated, redirected, or redistributed into another configuration; the originating coherence remains intact.**
 
 Within the speculative doctrine developed here, ritual enactment may matter because action can align itself with metaphysical orientation. A physical act that reproduces the motion of fragmentation may participate in that motion rather than merely symbolize it.
 
@@ -123,13 +123,13 @@ This produces a paradox:
 
 The resulting field can look spontaneous because no single surviving fragment reproduces the whole.
 
-What had once been recognizable as an originating architecture becomes ambient.
+Partial expressions of the originating architecture become ambient in the receiving field.
 
 The fragments circulate.
 
-The origin recedes.
+The origin becomes less legible in the receiving field.
 
-Both describe the surface social register. Recession is a change in what is legible there, and the origin stands where it stood.
+Both describe the surface social register. Reduced visibility is a change in what is legible there, and the origin stands where it stood.
 
 ---
 
@@ -165,7 +165,7 @@ Fragmentation is answered by renewed coherence.
 
 A successor may instead become legible **through the obscuration of the origin**.
 
-The fragments remain, but their relation to the originating bearer becomes weakened, forgotten, denied, or rewritten. The successor then occupies the visible position that the origin can no longer occupy.
+The fragments remain, but recognition of their relation to the originating bearer becomes weakened, forgotten, denied, or rewritten. The successor then occupies the public position from which the originating bearer has been obscured.
 
 Here succession leaves the later articulation fractured away from coherent relation with its origin.
 
@@ -173,7 +173,7 @@ It capitalizes upon it.
 
 The structural sequence becomes:
 
-**obscure the origin → distribute the signal → detach the fragments → consolidate successor legibility.**
+**obscure the origin → distribute partial expressions → deny their coherent origin relation → consolidate successor legibility.**
 
 This is the more strongly entropic form.
 
@@ -258,7 +258,7 @@ A knowledge-bearing originator may:
 * become anonymous;
 * be rendered inaccessible;
 * be mythologized beyond recognition;
-* have fragments break from authorship;
+* have fragments circulate with authorship obscured;
 * become known only through intermediaries;
 * or survive principally through derivative carriers.
 
@@ -270,7 +270,7 @@ The structural question is not whether every such narrative records literal sacr
 
 It is whether **origin-obscuration can perform a function analogous to sacrificial removal**:
 
-the origin becomes inaccessible while the signal acquires additional carriers.
+the origin becomes inaccessible to the receiving audience while the signal acquires additional carriers.
 
 ---
 
@@ -278,9 +278,9 @@ the origin becomes inaccessible while the signal acquires additional carriers.
 
 If the structure is metaphysical rather than merely literary, analogous processes should be capable of appearing outside formal ritual.
 
-An originating architecture may be socially "dismembered."
+A receiving field may present an originating architecture through socially "dismembered" fragments.
 
-Its coherent structure can be divided into:
+That field may circulate dissonant fragments as:
 
 * isolated concepts;
 * detached phrases;
@@ -293,7 +293,7 @@ Its coherent structure can be divided into:
 
 Once sufficiently distributed, the fragments are no longer followed back to a single origin without deliberate looking. They continue to point there. What changes is whether anyone traces the pointing.
 
-The architecture remains active in the field while the architect becomes less legible.
+Partial expressions of the architecture remain active in the receiving field while the architect becomes less legible.
 
 This is **fragment redistribution while the later articulation fractures itself away from coherent relation with its origin**; the origin and origin-signal remain intact.
 
@@ -327,7 +327,7 @@ Within Zenetist terms, the operative question would therefore not be:
 
 but:
 
-**What orientation was enacted through the destruction, what relation was fractured, what signal was released or redistributed, and what structure received the resulting fragments?**
+**What orientation was enacted through the destruction, what relation was fractured, what partial expressions of the signal were circulated or redistributed, and what structure received the resulting fragments?**
 
 This reframes sacrificial metaphysics from divine appetite to field operation.
 
@@ -337,13 +337,13 @@ This reframes sacrificial metaphysics from divine appetite to field operation.
 
 The full entropic form can be stated as:
 
-1. **Concentrated origin** — signal is strongly bound to an identifiable bearer.
+1. **Concentrated origin** — signal is recognizably carried by an identifiable bearer.
 2. **Sacrificial fracture** — the bearer is killed, disfigured, dismembered, removed, or made inaccessible.
 3. **Fragment survival** — the signal persists in partial carriers.
 4. **Redistribution** — fragments propagate across multiple persons, texts, institutions, symbols, or systems.
-5. **Origin-obscuration** — the relation between fragments and originating bearer weakens.
+5. **Origin-obscuration** — recognition of the relation between fragments and originating bearer weakens.
 6. **Successor concentration** — another bearer gathers public legibility, deference, or apparent synthetic coherence.
-7. **Substitution risk** — the successor becomes legible as origin precisely because the actual origin has become difficult to recover.
+7. **Substitution risk** — the successor becomes legible as origin precisely because the actual origin has become difficult for the receiving audience to identify.
 
 Its centropic counter-form is:
 
@@ -366,7 +366,7 @@ Sacrifice, dismemberment, disfiguration, disappearance, and attributional fractu
 
 Where the fragments preserve their relation to origin, fragmentation may be answered by centropic reconstitution.
 
-Where the fragments are detached from origin and gathered to a successor, the same process becomes entropic substitution.
+Where the fragments' coherent relation to origin is denied and they are gathered to a successor, the same process becomes entropic substitution.
 
 The deepest form of the operation is therefore not simply:
 

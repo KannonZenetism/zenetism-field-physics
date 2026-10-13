@@ -1311,9 +1311,9 @@ The reference baseline for this working revision is repository commit `1bdce4562
 
 [5] `MP05-godhood-and-transmutation-ch9-11.md`, §§11.1–11.3.
 
-[6] `deep-self-axis.md`, "The Condition of Release" and "On the Multiverse as Premise."
+[6] `deep-self-axis.md`, *The Condition of Release* and *On the Multiverse as Premise*.
 
-[7] `khaonic-phase-and-the-discernibility-limit.md`, "The Resolution," "Dispersive Dynamics contra Dispersive Infinity Proper," and "The Limit Case."
+[7] `khaonic-phase-and-the-discernibility-limit.md`, *The Resolution*, *Continuing Motion contra Dispersive Infinity Proper*, and *The Limit Case*.
 
 [8] `zenetist-analytic-vocabulary-and-accessibility-framework.md`, §§2–4, 6.1–6.6, 6.8.3, 7, 9–10, 13.3, 13.10, and 14.
 

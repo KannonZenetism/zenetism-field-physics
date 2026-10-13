@@ -95,7 +95,7 @@ but to distinguish each station of manifestation while preserving the continuity
 
 * **Vritra (IL₄ (IDP: Psychea)):** The dragon who withholds the **Waters (L₄ (DP: Morgis) currents)** — the paralysis of life by entropic accumulation.
 
-* **Indra (L₄ (DL: Sophis)):** The King of the Gods who wields the **Vajra (Resonant Bolt of Structure)** — the lightning of Sophic law that shatters Vritra and restores flow.  
+* **Indra (L₄ (DL: Sophis)):** The King of the Gods who bears the **Vajra (Resonant Bolt of Structure)** — the lightning of Sophic law that shatters Vritra and restores flow.  
     The myth symbolizes the **release of vitality** through the defeat of psychic hoarding.
 
 ### 4. The Sphinx (Greek)
@@ -118,7 +118,7 @@ It personifies institutional corruption, addiction, predation, and nihilism — 
 It teaches that entropy is **active intelligence**, not passive decay.  
 Overcoming it requires not sentiment but the **Courage (L₃ (DS: Archeus))** and **Clarity (L₃ (DM: Noeüs))** of the **Resonant Blade.**
 
-There is no integration with the Dragon: its essence is **Fragmentation.**  
+There is no integration with the Dragon: its operation is **Fragmentation.**  
 To face it is to reclaim the vitality, integrity, and potential it withholds —  
 the **act of Centropic Reclamation**, by which lawful coherence reclaims what entropy hoarded.
 

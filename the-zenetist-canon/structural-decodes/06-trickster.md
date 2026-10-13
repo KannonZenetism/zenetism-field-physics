@@ -35,7 +35,7 @@ The bifurcated pattern belongs to the archetype as a pattern-class, not to any i
 
 * **The Method (Synectic Motion):**  
     The Trickster employs **transphasic motion** — crossing thresholds, breaking taboos, and enacting inversion, deceit (IL₂ (ISM: Skotos)), or mimicry.  
-    It moves through the **unexpected, the illogical, and the taboo,** exploiting weaknesses in the system's coherence or **Permeability.**
+    It moves through the **unexpected, the illogical, and the taboo,** exploiting weaknesses in the system's relative coherent expression or **Permeability.**
 
 * **The Centropic Articulation (Lawful Reconfiguration):**  
     In its centropic expression, the Trickster appears through figures whose essence is lawfully oriented toward coherence.  
@@ -142,7 +142,7 @@ Within the Zenetist lattice, however, this is a cultural conflation of visible i
 
 * **Focus:** The **Divine Mediator and Guardian of Crossroads.**
 
-* **Native Function:** Eshu reflects a lawful membrane-function grounded in dynamic judgment, threshold mediation, and calibrated unpredictability.  
+* **Native Function:** Eshu expresses a lawful membrane-function grounded in dynamic judgment, threshold mediation, and calibrated unpredictability.  
     His disruptions are not entropic sabotage, but judicial tests of alignment.
 
 * **Centropic Functions:** Custodian of the **Membrane** between realms and choices.  

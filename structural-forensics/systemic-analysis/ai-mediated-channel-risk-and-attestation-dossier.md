@@ -39,7 +39,7 @@ Accordingly, detail-density, polish, roughness, and apparent developmental messi
 
 ## 3. Post-2020 Neurodivergence / Mysticism Backstory Caveat
 
-The post-2020 appearance of neurodivergence-coded mysticism, AI-spirituality, and synthetic community language is treated as an environment datum, not as automatically verified lineage.
+The post-2020 appearance of neurodivergence-coded mysticism, AI-spirituality, and synthetic community language is treated as an environment datum, not as verified lineage.
 
 No presumption runs either way: a post-2020 neurodivergent / mystic surface is not synthetic, coordinated, or derivative by default, and it is not authentic merely because it presents itself as lived community, neurodivergent spirituality, or emergent mystical culture.
 

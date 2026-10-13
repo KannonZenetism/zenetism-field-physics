@@ -237,7 +237,7 @@ A Ritual Operator \( \mathcal{P} \) enacted as a siphoning countermeasure must s
 \chi_{\text{practitioner}}(\tau) < 1 \quad \text{throughout } \mathcal{P}
 \]
 
-Countermeasures are restorative and defensive, not retaliatory. This is not a strategic concession but a structural constraint: retaliatory action shifts \( \chi > 1 \), which compromises the practitioner's own coherence and adopts the entropic orientation of the threat.
+Countermeasures are restorative and defensive, not retaliatory. This is not a strategic concession but a structural constraint: retaliatory action shifts \( \chi > 1 \), which compromises the practitioner's own coherence and enacts the threat's entropic mode of expression.
 
 > **Note on Transient Orientation Monitoring:**  
 > Brief transient spikes toward \( \chi \approx 1 \) may occur amid extreme siphoning pressure. These do not invalidate the countermeasure provided the practitioner's mean orientation across the operation remains centropic (\( \langle \chi \rangle_\mathcal{P} < 1 \)) and the spike does not produce sustained entropic drift. Persistent breach of \( \chi < 1 \) indicates the countermeasure has itself shifted entropic and should be terminated.
@@ -598,7 +598,7 @@ An embodied being resonates with layer \( L_k \) (or \( IL_k \)) when:
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{L_k}) > \mathcal{R}_{\text{threshold}}^{(L_k)}
 \]
 
-Participation does not constitute identity with the layer. The being does not become \( L_k \); it functions through resonant engagement while remaining corporeally situated at L₁.
+Participation does not constitute identity with the layer. The being does not become \( L_k \); it functions through resonant engagement while remaining corporeally situated at L₁ / IL₁.
 
 > **Note on Continuous Scaling:**  
 > The threshold condition \( \mathcal{R} > \mathcal{R}_{\text{threshold}}^{(L_k)} \) determines onset of participation. Beyond threshold, resonance intensity scales continuously — participation deepens as \( \mathcal{R} \) increases. The threshold is not a binary gate but a minimum for structural engagement; the quality of cross-band resonance is graded, not all-or-nothing.
@@ -841,7 +841,7 @@ A configuration incorporating structural elements from a source while lacking at
 \text{and} \quad \mathcal{A}(\Sigma_A, \Sigma_S) = 0
 \]
 
-Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) is the **attribution coupling** — the structural acknowledgment that \( \Sigma_A \) derives elements from \( \Sigma_S \).
+Where \( \mathcal{A}(\Sigma_A, \Sigma_S) \) is the **attribution coupling** — the structural acknowledgment that \( \Sigma_A \) incorporates elements from \( \Sigma_S \).
 
 Appropriation incorporates origin-specific portions without the attributional relation their transmission requires. Independent origination and surface resemblance are distinct from that provenance relation. Suppressed or obscured attribution neither transfers the originating generative capacity nor fractures the origin; the originating architecture remains intact.
 
@@ -1442,7 +1442,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \mathcal{A}(\Sigma_A, \Sigma_S) \) | Attribution coupling between configurations |
 | \( \theta_{\text{surface}} \) | Surface correlation threshold (mimicry detection); numerical construction held |
 | \( \theta_{\text{structural}} \) | Structural correlation threshold (mimicry detection); numerical construction held |
-| \( \theta_{\text{derivation}} \) | Derivation threshold (appropriation detection); numerical construction held |
+| \( \theta_{\text{derivation}} \) | Origin-specific incorporation threshold (appropriation detection); numerical construction held |
 | \( \theta_{\text{system}} \) | System correlation threshold (clone detection); numerical construction held |
 | ≋ | Shimmer; apparent coherence / generativity exceeding actual operative condition |
 | ⊜ | Mimicry; imitation of surface, pattern, or a specified relation |
@@ -1612,7 +1612,7 @@ L₁ / IL₁; terminal emanatory layer where structural resonance achieves corpo
 
 **Definition 11 (Attribution Coupling):**
 
-\( \mathcal{A}(\Sigma_A, \Sigma_S) \); structural acknowledgment of derivation.
+\( \mathcal{A}(\Sigma_A, \Sigma_S) \); structural acknowledgment of origin-specific incorporation.
 
 **Definition 12 (Coherence Audit):**
 

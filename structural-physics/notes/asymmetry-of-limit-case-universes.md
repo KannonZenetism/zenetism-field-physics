@@ -1,14 +1,15 @@
 # Note: The Ontological Asymmetry of Limit-Case Universes
 
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics / Notes  
 **Status:** Exploratory, pending formal treatment  
-**Related Documents:** `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` §4.4 · `SP03-expression-ratio-mathematics.md` §8 · `SP04-orientation-field-dynamics.md` §14 · `SP04-orientation-field-dynamics.md` §10 (Asymmetry of Expression) · `awareness-spectrum-and-its-inverse-arc.md`  
+**Related Documents:** `SP02-bifurcal-cosmogenesis.md` · `SP03-expression-ratio-mathematics.md` §4.4 · `SP03-expression-ratio-mathematics.md` §8 · `SP04-orientation-field-dynamics.md` §14 · `SP04-orientation-field-dynamics.md` §10 · `awareness-spectrum-and-its-inverse-arc.md`  
 
 ---
 
 ## 1. The Observation
 
-The limit cases of the Expression Spectrum — fully Aionically expressed (\( \chi = 0 \)) and fully Khaonically expressed (\( \chi \to \infty \)) — are not structurally symmetric despite their formal symmetry in \( \chi \)-space. The character of the +1 and −1 hypostatic structural charges introduces a fundamental asymmetry between these extremes.
+The limit cases of the Expression Spectrum — fully Aionically expressed (\( \chi = 0 \)) and fully Khaonically expressed (\( \chi \to \infty \)) — are not functionally symmetric despite their formal symmetry in \( \chi \)-space. The character of the +1 and −1 hypostatic structural charges introduces a fundamental asymmetry between these extremes.
 
 +1, the Theonic structural charge, names generative coherence: integration, novelty, origin-fidelity, Aion-facing orientation. Its motion produces.
 
@@ -98,7 +99,7 @@ Essence conservation holds throughout: nothing in this asymmetry abolishes essen
 
 ## 7. Status
 
-This note is exploratory. It identifies a structural question implicit in the existing formalism and records preliminary reasoning. Formal treatment — including derivation of persistence conditions at the limit cases and possible proof of Khaonic structural impossibility — is deferred to a future SPX entry.
+This note is exploratory. It identifies a structural question implicit in the existing formalism and records preliminary reasoning. Formal treatment — including calculation of persistence conditions at the limit cases and possible proof of Khaonic structural impossibility — is deferred to a future SPX entry.
 
 ---
 
@@ -134,7 +135,7 @@ This is distinct from the self-consumption problem described in §3, which assum
 
 ### A.5 Connection to the Emanatory Sequence and Multiversal Expression
 
-This observation clarifies the relationship between the emanatory sequence and multiversal expression. L₀'s generative capacity is the hinge between potential and expression. Every universe — whether singular or one among many — requires the emanatory sequence to produce a corporeal realm. The scope of expression (how many universes) depends on L₀'s generative potential under PSR and PSM. But the *viability* of any given expression depends on whether its emanatory arc can complete the traversal from metaphysical structure to physical embodiment.
+This observation clarifies the relationship between the emanatory sequence and multiversal expression. L₀'s generative capacity is the hinge between potential and expression. Every universe — whether singular or one among many — requires the emanatory sequence to produce a corporeal realm. The scope of expression (how many universes) depends on L₀'s generative potential per PSR and PSM. But the *viability* of any given expression depends on whether its emanatory arc can complete the traversal from metaphysical structure to physical embodiment.
 
 For centropic and mixed-expression universes, this traversal is structurally supported: the Aionic Tree carries generative content through the layers. For a fully Khaonic universe, the traversal may be structurally unsupported — the Khaonic Tree alone may lack the capacity to produce a corporeal realm.
 

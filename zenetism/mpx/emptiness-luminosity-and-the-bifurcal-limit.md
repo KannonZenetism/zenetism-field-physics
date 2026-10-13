@@ -9,9 +9,9 @@
 
 ## Purpose and Scope
 
-This note is not a forensic entry.
+This note offers a comparative clarification.
 
-It is not a claim that Buddhism copies Zenetism, nor a claim that Buddhist doctrine is structurally invalid. Buddhism is an ancient tradition with its own internal vocabulary, contemplative methods, philosophical lineages, and doctrinal disputes. Any Zenetist comparison must therefore proceed carefully, without collapsing Buddhist terms into Zenetist terms or implying identity where only structural resonance appears.
+Buddhism is an ancient tradition with its own internal vocabulary, contemplative methods, philosophical lineages, and doctrinal disputes. Any Zenetist comparison must therefore proceed carefully, without collapsing Buddhist terms into Zenetist terms or implying identity where only structural resonance appears.
 
 The purpose of this note is narrower: to clarify the distinction between Buddhist articulations of emptiness and luminosity, especially in *Dzogchen* / *shentong* / *rangtong* discourse, and the Zenetist distinction between 🕳️ Zenon, ⚫ Aion, ♾ Khaon, L₀ Bifurcal Coherence, ⦿ Kaion, and 🛤️ Theon (L₅).
 
@@ -148,7 +148,7 @@ The bifurcal reading carries a condition.
 
 It applies only where the pair is held in lawful distinction — inseparable, yet still articulable as two. Inseparability is not identity. A pair that cannot be separated is not a pair that has been erased.
 
-If a formulation's unified ground is fused rather than held — emptiness and luminosity collapsed into undifferentiated sameness, distinction dissolved rather than reconciled — then the correct Zenetist placement is not Bifurcal Coherence and not Kaion. Per *Coming Undone Is Not Transcendence*, a fused ground describes the terminus of Terminal Collapse (E↓→♾→⚫): dissolution into static potential mistaken for completion. Coming undone is not transcendence, and a fused ground is not a coherent one.
+If a formulation's unified ground is fused rather than held — emptiness and luminosity collapsed into undifferentiated sameness, distinction dissolved rather than reconciled — then the correct Zenetist placement is not Bifurcal Coherence and not Kaion. Per `coming-undone-is-not-transcendence.md`, a fused ground describes the terminus of Terminal Collapse (E↓→♾→⚫): dissolution into static potential mistaken for completion. Coming undone is not transcendence, and a fused ground is not a coherent one.
 
 The diagnostic is the Non-fusion Axiom itself:
 
@@ -174,7 +174,7 @@ Fusion does not approach it; it collapses.
 
 ## Kaion Is Not Zenon
 
-Kaion is the convergence principle: the limit-condition at which motion resolves without fusion-collapse. It names a profound threshold of coherence, but it remains structurally articulable. It belongs to the domain where convergence, distinction, motion, and bifurcation can still be meaningfully named.
+Kaion is the convergence principle: the limit-condition at which motion resolves without fusion-collapse. It names a profound threshold of coherence, but it remains structurally articulable. It belongs to the domain where convergence, motion, and bifurcal distinction can still be meaningfully named.
 
 Zenon exceeds even this.
 
@@ -311,7 +311,7 @@ Luminosity does not reach Zenon by awakened expression.
 
 Nondual awareness does not become Zenon by refinement.
 
-The reconciliation of emptiness and expressive presence approaches the bifurcal limit, but the bifurcal limit remains structurally articulable. It still belongs to the field where distinction, bifurcation, awareness, and recognition can be named.
+The reconciliation of emptiness and expressive presence approaches the bifurcal limit, but the bifurcal limit remains structurally articulable. It still belongs to the field where bifurcal distinction, awareness, and recognition can be named.
 
 Zenon is not the negation of the pair.
 

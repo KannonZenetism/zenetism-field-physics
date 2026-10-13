@@ -238,7 +238,7 @@ Centropic Gravity may be experienced or described as:
 
 * radiant momentum
 * coherence-density
-* return carried beyond mere negation
+* synthesis carried beyond mere negation
 * fulfillment continuing through stillness
 * the trans-structural inclination of completed synthesis
 * the essence's own capacity to remain open past the boundary of structure

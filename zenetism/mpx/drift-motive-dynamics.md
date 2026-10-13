@@ -16,7 +16,7 @@ The Drift is the motion of essence away from the stillness of Aion. It is not in
 
 ## The Mechanics of Drift
 
-Aion is Stillness. Aion does not cause Drift. Drift arises from the interaction of:
+Aion is Stillness. Aion does not cause Drift. The motion-capacity and its entropic enactment remain distinct:
 
 1. **Zenet (Motive Infinity):** The capacity and continuity of motion. Zenet carries already distinct latent essence into expressed multiplicity.
 

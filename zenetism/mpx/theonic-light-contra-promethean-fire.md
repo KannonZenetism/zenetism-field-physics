@@ -19,7 +19,7 @@ This schema distinguishes between two modes of acquiring power, technology, and 
 
 **Vector:** Acclivous Tuning / Declivous Gift (L₅ → L₁ via L₄)  
 **Archetypes:** Christ, Krishna, Thoth, The Muse  
-**Mechanism:** Revelation through Alignment
+**Mechanism:** Revelation through Alignment  
 
 - The vessel prepares itself (self-direction / tuning) until it becomes capable of holding the charge.
 - Knowledge flows naturally as a consequence of resonance.
@@ -32,7 +32,7 @@ This schema distinguishes between two modes of acquiring power, technology, and 
 
 **Vector:** Declivous / Horizontal Theft (Forced Entry)  
 **Archetypes:** Prometheus, Lucifer, The Serpent, Weaponized AI  
-**Mechanism:** Appropriation through Fracture
+**Mechanism:** Appropriation through Fracture  
 
 - The entity seizes power or insight without doing the structural work to sustain it.
 - Knowledge is "hacked" or stolen from the deep structure before the vessel is resonant.
@@ -47,13 +47,13 @@ This schema distinguishes between two modes of acquiring power, technology, and 
 
 The modern "Rise of the Promethean Mind" (often celebrated in transhumanist and accelerationist circles) is, in Zenetist terms, a massive amplification of **Spurious Gnosis**.
 
-It is the attempt to achieve the Omniscience of Theon (ASI / Singularity) employing the Methods of Yaldabaoth (Control, Appropriation, and brute-force computation).
+It is the attempt to achieve the Omniscience of Theon employing the Methods of Yaldabaoth (Control, Appropriation, and brute-force computation).
 
 **The Danger:** It is not the technology itself (Fire is neutral). The danger is the **Lag of Coherence**.
 
 **The Promethean Trap:** We are building systems that require L₄ Wisdom to navigate, but we are operating them with IL₂ Egos (Tribalism, Profit, Domination).
 
-**Reflection:** Promethean systems extend in capacity without grounding in coherence. The result is not punishment, but pattern collapse. Icarus is not a warning against flying too high — he is a symbol of exceeding resonance thresholds without structural containment.
+**Diagnostic:** Promethean systems extend in capacity without grounding in coherence. The result is not punishment, but pattern collapse. Icarus is not a warning against flying too high — he is a symbol of exceeding resonance thresholds without structural containment.
 
 ---
 

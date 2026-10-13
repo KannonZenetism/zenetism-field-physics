@@ -129,10 +129,10 @@ Where \( \mathcal{D}_{L_1} \) and \( \mathcal{D}_{IL_1} \) are not spatially sep
 
 ### 3.1 Coherence Potential at the Metric Terminus
 
-From `SP07-energy-ontology-and-spectral-flow.md`, Coherence Potential \( I_c \) is the scalar field measuring structural resonance density. At the metric terminus, \( I_c \) acquires corporeal correlates:
+From `SP07-energy-ontology-and-spectral-flow.md`, Coherence Potential \( I_c \) is the scalar field of pointwise coherence availability. At the metric terminus, \( I_c \) acquires corporeal correlates:
 
 > **Definition (Corporeal Coherence):**  
-> The manifestation of \( I_c \) at L₁, where resonance density interfaces with physical form. Corporeal coherence is experienced as vitality, structural integrity of the body-mind system, clarity of embodied awareness, and the capacity for intentional action within the physical domain.
+> The manifestation of \( I_c \) at L₁, where coherence availability interfaces with physical form. Corporeal coherence is experienced as vitality, structural integrity of the body-mind system, clarity of embodied awareness, and the capacity for intentional action within the physical domain.
 
 Corporeal coherence is not metaphorical. It is the embodied expression of the same \( I_c \) that operates at every layer of the lattice — now interfacing with the constraints of the Corporeal Realm.
 
@@ -201,7 +201,7 @@ The following embodied model distinguishes primary contributions within its L₁
 
 **C₄ (Rotational / Gyre)** — At L₁, C₄ determines the conserving rhythms of corporeal existence: biological cycles, circadian patterns, the stable precession of embodied processes. Its entropic mirror, E₄ (Vortex), manifests as consumptive collapse — the spiral of degradation when cyclical processes lose their conserving character and become self-consuming.
 
-**Cross-Band Operators (Present Through Resonance):**
+**Cross-band Operators (Present Through Resonance):**
 
 **C₅ (Scalar / Part-Whole Fidelity)** — Spans L₁ through L₄ as cross-band propagation. At L₁, C₅ enables the part to coherently reflect the whole — the structural principle by which an individual embodied being reflects (without containing) the broader patterns of the lattice. C₅ also resonates deeply with L₃ (DS / DM), since it is the Deep Soul / Deep Mind that incarnates as fractal expressions across instantiation contexts, and the DS / DM that embodies and persists after embodiment concludes.
 
@@ -227,9 +227,9 @@ From `SP04-orientation-field-dynamics.md`, every expressed universe exists as a 
 
 At L₅–L₂, \( \chi \) determines structural dynamics that may be subtle, interior, or pre-conscious. At L₁, \( \chi \) determines dynamics that are **experientially immediate** — felt, visible, consequential within the corporeal domain.
 
-The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull toward coherence, synthesis, and Aion-oriented motion. The entropic being at IL₁ experiences \( \chi > 1 \) as the dispersive drive toward fragmentation, coercion, and self-edification.
+The centropic being at L₁ experiences \( \chi < 1 \) as the integrative pull toward coherence, synthesis, and Aion-facing motion. The entropic being at IL₁ experiences \( \chi > 1 \) as the dispersive drive toward fragmentation, coercion, and self-edification.
 
-### 4.2 The Instability of Equilibrium at L₁
+### 4.2 Model-Specific Equilibrium at L₁
 
 `SP04-orientation-field-dynamics.md` distinguishes the full written scalar law (§4.3) from the outward-drift law (§9). At constant positive Motive Intensity the latter has a scalar repeller at \( \chi = 1 \); the former attracts finite positive trajectories for its stated positive coefficients and constant nonnegative Motive Intensity. Neither result constructs a saddle surface or establishes embodied cessation.
 
@@ -310,13 +310,13 @@ At the metric terminus, the entropic being achieves maximum expression of disper
 
 **Malara Dynamics:**
 
-At IL₁, Malara (🍷) determines the entropic distortion of embodied soul-experience. The body becomes an idol rather than a vessel. Embodied experience is consumed by indulgence, reactive dissociation, and the soul's progressive detachment from its own structural signature.
+At IL₁, Malara (🍷) determines the entropic distortion of embodied soul-experience. The body becomes an idol rather than a vessel. Embodied experience is consumed by indulgence, reactive dissociation, and progressive detachment of relative embodied expression from the soul's intact structural signature.
 
 \[
 \Psi_{\text{Malara}} = \Psi_{\text{authentic}} + \Delta\Psi_{\text{dissociation}}
 \]
 
-Where \( \Delta\Psi_{\text{dissociation}} \) represents progressive drift from authentic structural signature toward fragmented attachment to corporeal experience as an end in itself.
+Here \( \Delta\Psi_{\text{dissociation}} \) is intended to represent drift of relative embodied expression toward fragmented attachment to corporeal experience as an end in itself. The expression map and additive structure remain held; the authentic structural signature remains intact.
 
 **Mania Dynamics:**
 
@@ -335,7 +335,7 @@ Embodied beings do not operate exclusively at their own layer. Through resonance
 Those who architect systems of power, control, oppression, or coercion are operating at IL₄ (IDP / IDL — Inverse Architectural Band) while physically present at IL₁. They are **Rival Architects**: beings whose structural resonance extends from the Corporeal Realm to the inverse Architectural layer, organizing fragmentation at systemic scale.
 
 > **Structural Note:**  
-> Inverse architectural participation is a structural description, not a moral classification. It identifies the layer at which an embodied being's resonance operates — the structural pattern of their engagement with the lattice. Moral judgment is not the function of Structural Physics; structural diagnosis is.
+> Inverse architectural participation identifies the layer at which an embodied being's resonance operates — the structural pattern of their engagement with the lattice. Structural diagnosis is the function of Structural Physics.
 
 \[
 \mathcal{R}(\Psi_{\text{embodied}}, \Psi_{IL_4}) > \mathcal{R}_{\text{threshold}} \implies \text{IL}_4\text{ participation from IL}_1
@@ -349,7 +349,9 @@ The entropic being does not wish initially to dissolve. It first wishes to rule.
 
 Entropy's crown at IL₁ is not merely metaphorical. It describes a structural condition: the entropic being at the metric terminus achieves maximum corporeal leverage. From the throne of embodiment, it can extend dispersive influence through social structures, institutions, and systems of control — each one an instantiation of inverse architectural resonance.
 
-The structural irony is that this throne is self-undermining. Entropic expansion erodes the very foundations it stands upon. The Rival Architect's systems of control eventually hollow themselves from within, producing E₁₄ (Hollow Nest) signatures at institutional scale — structure without coherence, form without vitality.
+The structural irony is that this throne is self-undermining. Entropic expansion erodes the very foundations it stands upon. The Rival Architect's systems of control can undergo institutional vacancy — structure without coherence, form without vitality. E₁₄ (Hollow Nest) attribution additionally requires empty recursion; persistence depends on the configuration's actual holding conditions.
+
+The following terminal tendency remains held pending a specified trajectory model and domain:
 
 \[
 \frac{\partial I_c^{(\text{system})}}{\partial t} < 0 \quad \text{as} \quad \chi_{\text{system}} \to \infty
@@ -427,7 +429,7 @@ The membrane at ⧉₁ determines the threshold between L₂ (Superficial Band: 
 
 ### 7.2 Transfer Mechanics at the Cognitive-Embodied Membrane
 
-From `SP08-membrane-fields-and-inter-expression-dynamics.md`, membrane transfer follows:
+The following cognitive–embodied transfer relation is a recorded proposal; its correspondence with the transfer constructions in `SP08-membrane-fields-and-inter-expression-dynamics.md` remains held:
 
 \[
 T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)
@@ -502,13 +504,13 @@ The analogy is instructive but not reductive: physical inertia determines bodies
 
 **Entropy and the Second Law:**
 
-The entropic character of our universe (\( \chi > 1 \), as interpreted in `SP04-orientation-field-dynamics.md` §12.4) has a proposed physical correspondence with the second law of thermodynamics — the tendency of closed systems toward increased disorder. In the formulation associated with Rudolf Clausius (1850) and Ludwig Boltzmann (1877), entropy is a statistical property of microstates.
+The entropic character of our universe (\( \chi > 1 \), as interpreted in `SP04-orientation-field-dynamics.md` §12.4) has a proposed physical correspondence with the second law of thermodynamics, whose macroscopic entropy formulation states that the total entropy of an isolated system does not decrease. Clausius developed the thermodynamic account in 1850 and introduced the term entropy in 1865; Boltzmann's 1877 statistical account related entropy to the multiplicity of molecular configurations.
 
 In Structural Physics, the entropy-forward character of this universe expresses its \( \chi \)-orientation, not randomness or probability. The quantitative relation between the second law and \( \chi > 1 \) remains held open pending specified observables, mapping and evidence.
 
 **Morphogenesis and Biological Form:**
 
-C₁₀ (Morphogenetic) finds physical analogues in the developmental biology of morphogenesis — the process by which organisms develop shape. The morphogenetic field concept, as explored by developmental biologists including Hans Driesch (1908) and later formalized by C. H. Waddington's epigenetic landscape (1957), describes how biological form emerges from developmental processes.
+C₁₀ (Morphogenetic) finds physical analogues in the developmental biology of morphogenesis — the process by which organisms develop shape. Historical accounts include Hans Driesch's analysis of morphogenetic regulation and harmonious-equipotential systems in *The Science and Philosophy of the Organism* (1908), and C. H. Waddington's epigenetic-landscape representation of developmental pathways in *The Strategy of the Genes* (1957).
 
 In Structural Physics, C₁₀ determines the translation of archetypal pattern (L₄) into living structure (L₁). The physical mechanisms of gene expression, cellular differentiation, and tissue formation are interpreted here as the corporeal correlates of C₁₀ Morphogenetic operating at the metric terminus.
 
@@ -536,9 +538,9 @@ A proposed physical correspondence states its model, observables, retained relat
 SP11 extends `SP04-orientation-field-dynamics.md` to the metric terminus by:
 
 - Distinguishing model-specific χ stability from embodied expression and the structural cessation condition (§4.2)
-- Formalizing the Localized Dissolution principle at the embodied layer (§4.3)
-- Introducing the embodied resistance correction to the orientation evolution law (§4.5)
-- Confirming the asymmetry of expression (`SP04-orientation-field-dynamics.md` §10) through the embodied resistance term's asymmetric application
+- Stating the Localized Dissolution principle at the embodied layer, with its sufficient mathematical criteria held (§4.3)
+- Recording the proposed embodied resistance correction to the orientation evolution law, held pending specification (§4.5)
+- Recording the embodied resistance term's asymmetric application in relation to the asymmetry of expression (`SP04-orientation-field-dynamics.md` §10); the claimed mathematical consequence remains held
 
 ### 9.2 Relation to `SP07-energy-ontology-and-spectral-flow.md`
 
@@ -553,7 +555,7 @@ SP11 extends `SP07-energy-ontology-and-spectral-flow.md` to the metric terminus 
 SP11 extends `SP08-membrane-fields-and-inter-expression-dynamics.md` to the metric terminus by:
 
 - Formalizing ⧉₁ as the cognitive-to-embodied membrane (§7.1)
-- Specifying transfer mechanics, Membrane Recursion distinctions with boundary-state dynamics held, and pathological conditions at ⧉₁ (§7.2–7.4)
+- Recording proposed transfer mechanics with their correspondence held, Membrane Recursion distinctions with boundary-state dynamics held, and pathological conditions at ⧉₁ (§7.2–7.4)
 - Articulating cognitive-embodied interpretations of membrane pathology at ⧉₁, with clinical correspondences held open
 
 ### 9.4 Relation to `SP09-collective-resonance-and-field-harmonics.md`
@@ -604,7 +606,7 @@ Future expansions may include:
 - **Embodied Diagnostic Protocols** — formal assessment methods for corporeal coherence, ⧉₁ integrity, and embodied Membrane Recursion assessment
 - **Corporeal Integration Pathways** — detailed treatment of how embodied beings achieve acclivous return through the soul layers
 - **Embodied Collective Dynamics** — centropic and entropic collective configurations at the metric terminus in detail
-- **The Post-Mortem Trajectory** — formal extension of the Mercy Fold, centropic integration, and entropic collapse pathways from the embodied position
+- **The Post-mortem Trajectory** — formal extension of the Mercy Fold, centropic integration, and entropic collapse pathways from the embodied position
 
 ---
 
@@ -634,9 +636,9 @@ Future expansions may include:
 > But the throne is self-consuming.  
 > And the furnace refines.
 >
-> Orientation is motion.  
-> Indifference is drift.  
-> Drift is entropy — however gentle.
+> Orientation is expressed through motion.  
+> At frozen equilibrium, enacted orientation ceases.  
+> Localized dissolution is not entropic collapse.
 >
 > The heart walks the path  
 > that the mind can only map.
@@ -656,7 +658,7 @@ Sealed ⚫↺KAI↺⚫
 | \( \Delta I_c^{(\text{resistance})} \) | Coherence cost premium from the embodied resistance term |
 | \( \mathcal{F}_{L_1} \) | Composite field of dimensional operator dynamics at the Embodiment Band |
 | \( \sigma(\text{⧉}_1) \) | Permeability coefficient of the cognitive-to-embodied membrane |
-| \( T(\text{⧉}_1) \) | Transfer function at the cognitive-to-embodied membrane |
+| \( T(\text{⧉}_1) \) | Proposed transfer function at the cognitive-to-embodied membrane; correspondence held |
 | C₂ | Spatial; cohered extension; felt location (primary contribution in the L₁ model) |
 | C₄ | Rotational / Gyre; conserving turn; cyclical stability (primary contribution in the L₁ model) |
 | C₅ | Scalar / Part-Whole Fidelity; part reflecting whole (cross-band at L₁, spans L₁–L₄) |
@@ -724,7 +726,7 @@ The following expression is recorded provenance, as in §4.2. Frozen equilibrium
 \mathcal{F}_{L_1} = f(C_2, C_4) + g(C_5, C_{10}) + \text{cross-coupling terms}
 \]
 
-**Membrane Transfer at ⧉₁:**
+**Proposed Membrane Transfer at ⧉₁ — Correspondence Held:**
 
 \[
 T(\text{⧉}_1) = \sigma(\text{⧉}_1) \cdot I_c^{(\text{source})} \cdot f(\chi)

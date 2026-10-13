@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics / Zenetist Canon  
-**Status:** Exploratory Extension  
-**Dependency:** LM01; LM03; LM05  
+**Status:** Exploratory  
+**Dependency:** `LM01-mathematical-foundations.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md`  
 
 ---
 
@@ -109,7 +109,7 @@ The transferred coherence acquires the character of the receiving layer. Archety
 
 This is declivous centropy (C↓→E): harmonious motion into form, carrying coherence from subtler to denser expression. The reverse — acclivous centropy (C↑⚫) — carries embodied experience acclivously through the same membranes, acquiring subtler character at each threshold.
 
-### 4.2 Character Preservation under Non-fusion
+### 4.2 Character Preservation per Non-fusion
 
 **Proposition (Layer Character Preserves Essence-Distinction):**
 

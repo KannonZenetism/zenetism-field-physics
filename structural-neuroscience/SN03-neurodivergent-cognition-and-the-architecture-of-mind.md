@@ -644,7 +644,7 @@ The recorded variation / pathology criterion compares (\( dI_c/d\tau \geq 0 \); 
 Clinical discrimination requires a separately operationalized and evaluated correspondence to this formal criterion.
 
 **Definition 8 (Soul / Mind Asymmetry):**  
-The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential orientations within the same structural category.
+The principle that in every neurodivergent architecture, the Soul and Mind dimensions contribute unequally to the characteristic profile, producing Mind-prevalent or Soul-prevalent experiential emphases within the same structural category.
 
 ---
 

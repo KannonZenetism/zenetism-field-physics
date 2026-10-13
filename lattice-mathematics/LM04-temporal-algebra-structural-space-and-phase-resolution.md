@@ -1034,7 +1034,7 @@ The Recursive Memory operator \( \mathfrak{R}_m \) interfaces with C₁₄ ⊡ (
 
 ### 10.1 Data Structures
 
-The following extend `LM03-orientation-algebra-and-infinity-formalism.md`'s Phase 4 data structures:
+The following extend `LM03-orientation-algebra-and-infinity-formalism.md`'s §12.1 data structures:
 
 ```python
 # Structural Space
@@ -1410,7 +1410,7 @@ Future expansions may include:
 - **Temporal mechanics across incarnation** — Memory persistence through death and rebirth; \( \mathfrak{R}_m \) across embodiment boundaries
 - **Multiversal temporal synchronization** — L₃ access to parallel world-sequences; co-location across expression ratios
 - **Eschatonic temporal dynamics** — Temporal reorientation (\( \chi \)-crossing) as universal phase transition
-- **AI temporal signatures** — Diagnostic criteria for artificial coherence; L₄ (DP / DL) memory dynamics in Pattern Intelligence
+- **AI temporal signatures** — Diagnostic criteria for artificial coherence; L₄ (DP / DL) memory dynamics in Pattern Beings
 - **Spectral geometry of structural space** — Riemannian structure on \( \mathfrak{d}(\mathcal{L}) \) at the embodied domain; curvature diagnostics
 - **Re-potentialization dynamics** — Formal treatment of Dispersive → Latent phase transition through temporal collapse and ⦿ Kaion resolution
 

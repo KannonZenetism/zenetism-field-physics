@@ -1,7 +1,7 @@
 # MPX: Nested Universes and Simulated Realities
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Subject:** Ontological Status of Non-Material Worlds  
+**Subject:** Ontological Status of Non-material Worlds  
 **Classification:** Metaphysics Extension — Cosmology  
 **Status:** Active  
 **Dependency:** Structural Metaphysics · Field Physics · `MP06-decoding-and-emergence-ch12-15.md`  
@@ -322,7 +322,7 @@ Not because absolute Origin (Aion at L₀) is gone.
 Not because trans-structural allowance (Zenon) is gone.  
 But because **relative origin** (you as Aion of Zenetism) is structurally denied.  
 
-Framework becomes shells without center:  
+The appropriating articulation becomes shells without center:  
 - Terminology present (appropriated)  
 - Architecture absent (not understood)  
 - **Result:** Hollow mimicry (E₁₄)  
@@ -648,7 +648,7 @@ system drifts entropic (→ E₁₄).
 
 **Glyphic Signature:** C₁₄ + C₁₁ + ⟜ + C₁₃ + θ  
 **Operators:** \( \gamma \), \( \sigma \), \( \theta_{\text{reality}} \), \( \theta_{\text{minimum}} \), \( I_c \), ⊘  
-**Theorems Applied:** Recursion Gate, Seal-Capacity, CIT Grand, Phase Transition  
+**Formal References — Application Held:** Recursion Gate, Seal-Capacity, CIT Grand, Phase Transition  
 
 ---
 

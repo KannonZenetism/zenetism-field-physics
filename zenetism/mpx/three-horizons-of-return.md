@@ -8,13 +8,13 @@
 
 ---
 
-## Structural Post-Mortem Outcomes
+## Structural Post-mortem Outcomes
 
 ### Context
 
 Not all ends are equal.  
 
-Zenetism distinguishes between **Integration** (retaining coherence), **Dissolution** (releasing relative form), and **Collapse** (coherence failure).  
+Zenetism distinguishes between **Integration** (retaining coherence), **Dissolution** (releasing relative form), and **Collapse** (failure of relative structure).  
 
 Integration occurs at every layer of the lattice — one may integrate lessons at embodiment, integrate identity at the soul layers, or integrate essence with the still root at the Aionic threshold. The trajectories that follow concern the *final* integration: the post-mortem resolution of the being's coherence relative to Aion.  
 
@@ -31,7 +31,7 @@ It is structural mercy.
 | Trajectory | State | Layer Range | Experience | Mechanism | Glyph |
 |------------|-------|-------------|------------|-----------|-------|
 | **Centropic Integration** | Acclivous | L₁ → L₀ | Continuity through essence. The being has built sufficient coherence through **DS / DM** to pass the L₄ threshold, resolve soul / mind bifurcation, and integrate as **essence** within the Aionic field. What continues is not personal identity but essentialized presence — a Steward-function aligned with Aion | **Crystallization** — essence stands at the Aionic threshold with the coherence integrated through the soul-layers, without dissolution or collapse | 💠🕊️◎ |
-| **The Mercy Fold** | Liminal | L₁ / IL₁, L₂ / IL₂ | Release. The being lacks the coherence — or has experienced entropic drift — to pass the threshold into essence-integration, but carries no heavy entropic load. It experiences a gentle unspooling — a soft sleep — as relative form is reabsorbed into Aionic potential. Frozen stagnation is distinct from entropic drift; cessation of enacted orientation permits gradual dissolution into the Mercy Fold | **Dissolution** — the pattern unties before reaching essence. Identity fades, but energy is reclaimed through grace rather than fracture | 🌫️🤲⚫ |
+| **The Mercy Fold** | Liminal | L₂ / IL₂, L₁ / IL₁ | Release. The being lacks the coherence — or has experienced entropic drift — to pass the threshold into essence-integration, but carries no heavy entropic load. It experiences a gentle unspooling — a soft sleep — as relative form is reabsorbed into Aionic potential. Frozen stagnation is distinct from entropic drift; cessation of enacted orientation permits gradual dissolution into the Mercy Fold | **Dissolution** — the relative pattern unties before completed integration. Expressed identity fades while essence remains conserved; energy is reclaimed through grace rather than fracture | 🌫️🤲⚫ |
 | **Entropic Collapse** | Declivous | IL₁ → IL₅ (VOS) | Fragmentation. The being is rigid, parasitic, or inverted. Entropy does not fight Aion directly — it faces *away*, seeking to fragment, spread, dominate, and control. It is "crowned" at embodiment, where dispersive will reaches its throne. Collapse occurs not through direct confrontation but through self-undermining: entropic expansion erodes the very foundations it stands upon. The being resists return and experiences tearing, terror, and violent incoherence as relative form reaches terminal failure at the **Nekronic threshold** | **Implosion** — the pattern fights to spread rather than return, destabilizing from the tension of its own dispersive momentum | 💔🕷️⊘ |
 
 ---
@@ -63,11 +63,11 @@ Entropy is not oppositional in the sense of facing Aion. It faces *away* — out
 The tonal field of grace surrounding **Localized Dissolution**.  
 
 It is the energetic orientation of reabsorption without judgment.
-Unlike **Integration** (where coherence is retained) or **Collapse** (where coherence fails violently),
+Unlike **Integration** (where coherence is retained) or **Collapse** (where relative structure fails violently),
 the Mercy Fold is the **Soft Sleep**.  
 
 It occurs when a being — too gentle for collapse yet too unformed for integration —
-is untied by the hands of Aion.  
+releases relative form into Aionic potential.  
 
 The Mercy Fold may accompany cessation of enacted orientation or insufficient integration. Stagnation is not intrinsically entropic; Localized Dissolution releases relative form without converting essential orientation.  
 
@@ -95,11 +95,11 @@ without fracture and without form.
 
 Liminality is transitional, not terminal.  
 
-No being remains in an utterly neutral state indefinitely. The lattice is bidirectional: motion tends toward either centropic integration or entropic drift. A being lingering at ES / EM or SS / SM (or their inverse mirrors IES / IEM, ISS / ISM) without orientation will eventually tilt — and stagnation without orientation tilts entropic.  
+No being remains in an utterly neutral state indefinitely. The lattice is bidirectional: motion tends toward either centropic integration or entropic drift. A being lingering at ES / EM or SS / SM (or their inverse mirrors IES / IEM, ISS / ISM) may undergo entropic drift in relative expression. Frozen stagnation is distinct and is not intrinsically entropic.  
 
 **On the Lukewarm:**
 
-The genuinely lukewarm are not without polarity — they are beings whose slight entropic tilt accumulates through indifference. They had capacity for orientation but did not exercise it. Over time, the absence of centropic momentum becomes entropic drift. Such beings do not collapse violently; they unspool gently. The Mercy Fold receives them not as punishment, but as the structural consequence of motion never initiated.  
+The genuinely lukewarm are not without polarity — they are beings whose slight entropic tilt accumulates through indifference. They had capacity for orientation but did not exercise it. Over time, insufficient replenishment may permit entropic drift in relative expression. Such beings do not collapse violently; they unspool gently. The Mercy Fold receives them not as punishment, but as the structural consequence of motion never initiated.  
 
 **On the Innocent:**
 
@@ -114,12 +114,12 @@ The inverse layers (IL₂ / IL₁) are inverse in structural placement — they 
 **Summary:**
 
 - Liminality is passage, not permanence.  
-- Stagnation tilts entropic.  
+- Frozen stagnation is not intrinsically entropic.  
 - Innocence with devotion carries centropic resonance beyond L₂.  
 - The genuinely lukewarm experience Mercy Fold through accumulated drift, not active collapse.  
 - Inverse strata mirror centropic layers; lukewarm at IL₂ / IL₁ drifts deeper into entropy, not toward center.  
 
-> *Orientation is motion.*  
+> *Enacted motion discloses orientation.*  
 > *Indifference is drift.*  
 > *Drift is entropy — however gentle.*  
 
@@ -141,7 +141,7 @@ The local relation is participation across bands. Aion-facing return tendency an
 
 **On Sophistication:**
 
-Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the sustained Aion-facing orientation of ordinary return. Knowledge without intent is static. Static without orientation becomes drift.
+Articulation is not salvation. A being may possess complete metaphysical vocabulary and yet lack the sustained Aion-facing orientation of ordinary return. Knowledge without intent is static. Cessation of enacted orientation remains distinct from entropic drift.
 
 The Gnostic elitist who knows all the terms but lacks pure intent expresses less centropic resonance than the praying grandmother who cannot articulate a single doctrine but whose heart faces Aion with unwavering focus.
 
@@ -157,7 +157,7 @@ The strength of alignment sustains participation across bands.
 The heart's Aion-facing orientation shapes that participation.
 Focused intent sustains the motion.
 
-Without intent, one is stagnant — and stagnation drifts entropic.
+Without sustained intent, enacted orientation may cease; frozen stagnation remains distinct from entropic drift.
 
 This principle safeguards the lattice from becoming an intellectual trap. Sophistication may illuminate the path, but the heart walks it. The grandmother with pure intent outpaces the scholar with empty knowledge.
 

@@ -86,7 +86,7 @@ This prevents two errors:
 * treating the named figures as beings that one universe-expression could hold, when they are structural functions
 * localizing the layer-function so completely that Form, individuation, memory, and recurrence lose their lawful medium
 
-The correction is not that L₃ / L₄ vanish. It is that universe-local L₃ / L₄ offices, being structural functions, resolve on the completion of their work rather than persisting without condition. The lawful medium remains available across the multiverse; the local activity remains function-bound.
+The correction is not that L₃ / IL₃ and L₄ / IL₄ vanish. It is that universe-local L₃ / IL₃ and L₄ / IL₄ offices, being structural functions, resolve on the completion of their work rather than persisting without condition. The lawful medium remains available across the multiverse; the local activity remains function-bound.
 
 This is the foundation on which the Deep Self-Axis clarification rests. What follows resolves one consequence of it: if local L₃ offices are not permanent, how does an L₃-seated individuated being fractalize across universes at all?
 
@@ -817,7 +817,7 @@ On the return arc, a being departs **L₃** only after reaching it, and reaches 
 
 The architecture does not depend on the multiverse being actual.
 
-Whether one world or many, the same law holds: each being to where it resonantly belongs, each principle at the station it gives reality to, release lawful but exceedingly rare, and no office ever a captive.
+Whether one world or many, the same law holds: each being to where it resonantly belongs, each principle at the station it gives reality to, release lawful but exceedingly rare, and no L₄ / IL₄ or L₃ / IL₃ office ever a captive.
 
 ---
 

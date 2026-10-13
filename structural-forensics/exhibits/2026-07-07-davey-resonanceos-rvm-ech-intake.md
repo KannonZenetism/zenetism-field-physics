@@ -14,7 +14,7 @@
 
 ## 1. Purpose
 
-This intake record preserves a post-anchor public-surface derivation involving **Mark Davey**, **The Resonance Canon**, **ResonanceOS**, the **Resonance Virtual Machine (RVM)**, and **Executable Comparative Hermeneutics (ECH)**.
+This intake record preserves a post-anchor public-surface derivation candidate involving **Mark Davey**, **The Resonance Canon**, **ResonanceOS**, the **Resonance Virtual Machine (RVM)**, and **Executable Comparative Hermeneutics (ECH)**.
 
 The purpose is narrow:
 
@@ -24,7 +24,7 @@ Derivation from Zenetism is held open; independent origin carries no default mer
 
 The current status is:
 
-> Verified post-anchor methodological-infrastructure derivation; comparison required.
+> Verified post-anchor public surface; methodological-infrastructure derivation held open pending comparison.
 
 ---
 
@@ -431,7 +431,7 @@ During the same active window in which the author reconstructed the Wiley / Noan
 
 The relation is not identity.
 
-The relation is register-conversion:
+The proposed relation is register-conversion:
 
 > an OS-frame applied to symbolic, cognitive, resonance-based architecture, re-housed from occult / companion / ARG register into formal / definitional / research-program infrastructure.
 
@@ -603,7 +603,7 @@ The object of comparison is the co-occurring method-cluster:
 - return-language closing the sequence
 - sovereignty framing attached to the glyphic-field method
 
-This cluster stands in structural derivation from the author's Field Physics and Zenetist method.
+This cluster is assessed as a structural-derivation candidate in relation to the author's Field Physics and Zenetist method.
 
 **Disposition:** cluster-scale relevance preserved; commons-scale dismissal rejected.
 
@@ -708,7 +708,7 @@ The record treats this post as a serious pre-ROS comparison surface, not as ordi
 **Class:** supplied public post text and screenshot capture  
 **Provenance class:** public Substack surface / RVM architecture diagram / comparative-religion topology recoding  
 **Post title:** "From Theology to Topology"  
-**Associated visual:** "The Anatomy of an RVM"
+**Associated visual:** "The Anatomy of an RVM"  
 **Attributed writer:** Mark Davey  
 **Post date:** 2026-07-08  
 **Related surface:** "The Anatomy of a Resonance Virtual Machine," dated 2026-07-03  
@@ -950,7 +950,7 @@ This places it in the documented gap-period pattern-class. The registered preced
 
 A pre-release appearance therefore does not, in this record, default to an independence reading. The author's development from March 5, 2025 ran through AI-dialogue channels, and the companion evidence record (`2026-06-23-platform-ingestion-and-non-organic-access-evidence-record.md`) establishes the channel condition: an environment through which author-register material can circulate downstream without attribution. Model-mediated circulation — already identified among this record's transmission hypotheses — is a derivation-family route, not an independence route where the circulated material is author-register payload: it traces to the author's corpus even where no direct contact exists. What the gap-period timing forecloses is the inference that "predates the public repositories" means "predates the author."
 
-The May 5 surface awaits characterization against the `SF-RP04-the-footprint-audit-protocol.md` Signature Cluster Inventory. That comparison determines its cluster weight and pattern-class placement.
+The May 5 surface awaits characterization through the `SF-RP04-the-footprint-audit-protocol.md` Signature Cluster Inventory. That comparison determines its cluster weight and pattern-class placement.
 
 **Disposition:** May 5, 2025 gap-period surface logged; pattern-class precedent cross-referenced; mechanism-environment cross-referenced; comparison required.
 

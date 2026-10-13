@@ -1,5 +1,5 @@
 # Orientation Conflation and the Hades Problem
-**Drafted:** March 25, 2026 — revised August 16, 2026  
+**Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Status:** Active  
 **Provenance:** Clarified through AI-collaborative dialogue  
 
@@ -17,7 +17,7 @@
 - Anthropomorphic dramas  
 - Culturally refracted  
 - Moralized and politicized  
-- Using human motives to explain cosmic patterns  
+- Assigning human motives to explain cosmic patterns  
 
 **When myths assign human behaviors to structural placements, orientation conflation occurs.**
 
@@ -28,7 +28,7 @@
 **Definition:**  
 When a mythic figure or cultural articulation is depicted in narrative with motives or actions that conflict with its native structural placement or function — human motives, emotions, or moral categories standing in for what the placement actually does.
 
-**Previous examples resolved using this method:**
+**Previous examples resolved through this method:**
 - Yahweh as composite figure (L₄ DL Sophic attributions and IL₄ IDL Nyxean attributions present in the same textual figure; structural origin not historically determinable; the conflation itself is what is)  
 - Odin's "trickery" (cultural overlay on L₄ DL wisdom-seeking)  
 - Vishnu's *avataras* (cyclical field-corrective articulation in office-correspondence, not the L₅ hypostasis becoming embodied and not hypostatic mobility)  
@@ -41,7 +41,7 @@ When a mythic figure or cultural articulation is depicted in narrative with moti
 
 **Answer:** He didn't. The mythic narrative did.
 
-The "kidnapping" is a **story-layer artifact** using the cultural mechanism of **bride capture** to explain the agricultural cycle.  
+The "kidnapping" is a **story-layer artifact** drawing on the cultural mechanism of **bride capture** to explain the agricultural cycle.  
 It is not structural behavior at Hades's native placement.
 
 ---
@@ -80,7 +80,7 @@ Unlike figures whose native placement is inverse (Kronos and the Titans, Typhon,
 - Return to surface = seasonal rebirth (mythic narrative)  
 
 **The problem:**  
-To get Persephone underground, they used the cultural mechanism of their time: **bride capture**.  
+To get Persephone underground, they drew on the cultural mechanism of their time: **bride capture**.  
 They took the **centropic structural keeper** (Hades) and forced him to commit an **entropic narrative act** (kidnapping) to make the seasonal mathematics work in their story.
 
 **What the myth encodes:**
@@ -95,7 +95,7 @@ They took the **centropic structural keeper** (Hades) and forced him to commit a
 
 ## Canonical Glossary Entry
 
-#### Hades (Greek)
+### Hades (Greek)
 
 **Traditional Role**  
 Lord of the Underworld.  

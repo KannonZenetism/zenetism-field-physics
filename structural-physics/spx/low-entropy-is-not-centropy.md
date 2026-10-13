@@ -155,7 +155,7 @@ Any further specialized entropy quantity requires its own definition, state spac
 
 ### Coherence Information Theory
 
-Coherence Information Theory (CIT) contains a formal entropy quantity and a formally named centropy quantity within a specified Lattice Mathematics construction. `LM01-mathematical-foundations.md`, Phase 2, establishes that construction; its quantities carry the definitions and conditions of that model. CIT is one formal articulation within the broader Zenetist architecture, not the complete definition of Zenetist entropy or centropy.
+Coherence Information Theory (CIT) contains spectral entropy and its complement, spectral concentration, within a specified Lattice Mathematics construction. `LM01-mathematical-foundations.md`, Phase 2, establishes that construction; its quantities carry the definitions and conditions of that model. CIT is one formal articulation within the broader Zenetist architecture, not the complete definition of Zenetist entropy or centropy.
 
 The mathematical result developed in this SPX rests on the independently valid factorization criterion in `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §7.1 and `zenetism-as-cross-disciplinary-grammar.md` §6.2. Its proof concerns the information retained by declared maps and is independent of CIT conservation claims. Unresolved internal CIT reconciliation belongs to a later coordinated review.
 

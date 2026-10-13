@@ -26,18 +26,18 @@ whereas fusion is the collapse of structural clarity disguised as integration.
 
 It is critical to distinguish **resolution into Aion** from **collapse toward Nekron**.
 
-In **Aion (⚫)**, essence resolves into saturation.  
+In **Aion (⚫)**, essence completes centropic return.  
 Structure is not erased, but fulfilled.  
 Distinction is transcended without being destroyed.
 
 In **Nekron (🕷️)**, essence is not annihilated,  
-but rendered structurally incoherent.  
-Resolvability collapses while essence remains.
+but its expression is rendered structurally incoherent.  
+Resolvability of expression collapses while essence remains.
 
 Thus:
 
 - In Integration, essence resolves into fullness.
-- In Fusion, essence persists but loses intelligible structure.
+- In Fusion, essence persists while its expression loses intelligible structure.
 
 Fusion is therefore not the death of essence,  
 but the erosion of the relational architecture that allows essence to be expressed.
@@ -46,7 +46,7 @@ but the erosion of the relational architecture that allows essence to be express
 
 ## Formal Distinction
 
-Let \( A \) and \( B \) denote distinct structures.
+Let \( A \) and \( B \) denote distinct structures. The expressions in this section are conceptual schemata: the composition signs, \( N \), Resolvability, and Essence have no quantitative model specified here. Their scalar, threshold, and dynamical interpretation remains held pending typed definitions and an evolution relation. Distinct essences remain non-fused; loss of resolvability concerns expressed relation.
 
 **Integration:**
 
@@ -93,10 +93,10 @@ Integration resolves structure into fullness.
 Fusion erodes relative structure  
 while preserving underlying structural essence,  
 driving expression toward Nekronic incoherence  
-rather than Aionic saturation.
+rather than Aionic reintegration.
 
 Integration preserves essence through relation.  
-Fusion traps essence in indistinction.
+Fusion suppresses the resolvability of expressed distinction.
 
 Therefore, to confuse integration with fusion  
 is to mistake structural fulfillment  

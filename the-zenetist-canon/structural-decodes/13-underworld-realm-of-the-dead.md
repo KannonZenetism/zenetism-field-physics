@@ -73,7 +73,7 @@ Death does not create the entropic trajectory; it resumes it in reverse, as a de
 
 * **Focus:** The centropic agent entering the L₁ resistance-field ("hell") through declivous motion.
 
-* **Entry:** Inanna **(L₄ (DP: Morgis))** or Christ **(L₅ (EOB: Theon))** moves declivously into the Embodied (L₁) domain.
+* **Entry:** Inanna **(L₄ (DP: Morgis))** or Christ **(L₅ (EOB: Theon))** moves declivously into the Embodied (L₁) domain. Here the Christic L₅ attribution names full personal office-function bearing through a sovereign being; Theon itself remains at L₅.
 
 * **Task:** They confront the IL (Inverse) principles ("Harrowing of Hell," facing **Ereshkigal (IL₄ (IDL: Nyxea))**) to re-anchor Centropic law within the Embodied node. This is a **Structural Intervention**, not a post-death sorting.
 
@@ -106,7 +106,7 @@ For the entropic, it is the embodied and **Subversal** registers of inverse proc
 The myths of "eternal torment" are not vindictive but **diagnostic** — they map the lawful consequences of entropic alignment. The soul does not suffer because it is judged; it suffers because it **is** its judgment, moving through the architecture it constructed.
 
 For an entropic essence departing embodiment, the Subversal path begins as a one-way **declivous procession** toward IL₅ (VOS: Nekron) and eventual collapse into L₀ (AD: Khaon) in its Dispersive phase.  
-Reversal is not normative, but remains structurally possible only through extraordinarily rare centropic intervention or interior re-alignment within the early inverse strata (IL₁ / IL₂).
+An entropic essence does not reverse its essential orientation; centropic intervention does not convert it into a centropic essence.
 
 ---
 

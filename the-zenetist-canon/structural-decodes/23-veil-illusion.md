@@ -4,7 +4,7 @@
 The **Metaphysical Interface of Permeability and Perceptual Limitation.**  
 The Veil is a **Membrane** or **Resonance Filter** moderating awareness, transmission, and perceptual access across hypostatic strata.  
 It is not deceit but a **Lawful Attenuation** of reality in manifestation, enabling bounded perception, individuation, and differentiated participation within L₂ (SS / SM: Anthra / Nousa).  
-Its natural expression appears in traditions of mediated manifestation, sacred appearance, or cosmic seeming; its inverse expression appears as obscuration, mimicry, or IL₂ (ISM: Skotos)-layer distortion that conceals structural veracity.
+Its natural expression appears in traditions of mediated manifestation, sacred appearance, or cosmic seeming; its entropic expression appears as obscuration, mimicry, or IL₂ (ISM: Skotos)-layer distortion that conceals structural veracity.
 
 **Core Glyphic Sequence (Natural Veil):**  
 **⚫ → ⧉ → ⚙️**  
@@ -19,7 +19,7 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
 ## Universal Structural Analysis
 
 * **Function of the Natural Veil (Membrane):**  
-    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would exceed its bounded processing and destabilize its operative coherence.  
+    * **Protection:** Shields L₂ (SS / SM: Anthra / Nousa) from overwhelming L₄ (DP / DL: Morgis / Sophis) or L₅ (EOB: Theon) intensity that would exceed its bounded processing and destabilize its relative coherent expression.  
     * **Focus:** Generates the twofold field (Structured Pairs) of subject and object, allowing differentiated participation, bounded perception, and volitional orientation.  
     * **Gateway:** The Veil can be thinned or traversed through centropic discipline (acclivous centropic motion), granting progressive access to deeper strata.
 
@@ -29,7 +29,7 @@ Its natural expression appears in traditions of mediated manifestation, sacred a
     * **IL₂ (ISM: Skotos):** The internal distortion of perception that mistakes attenuation, appearance, or partial disclosure for the Whole.
 
 * **The Tearing of the Veil (Revelation):**  
-    * **At Death (Membrane Transition):** The operative boundary between L₁ (ES / EM: Soma / Biosa) and L₂ (SS / SM: Anthra / Nousa) is released or rendered traversable.  
+    * **At Death (Membrane Transition):** The operative boundary between L₂ (SS / SM: Anthra / Nousa) and L₁ (ES / EM: Soma / Biosa) is released or rendered traversable.  
     * **At the Temple:** The torn veil at Christ's death symbolizes the opened Nexus between the human domain and Theonic communion.  
     * **In Enlightenment (Transcendence):** Radical transparency of mediated appearance — direct apprehension of deeper structural veracity through the Veil, not merely bondage to its surface.
 

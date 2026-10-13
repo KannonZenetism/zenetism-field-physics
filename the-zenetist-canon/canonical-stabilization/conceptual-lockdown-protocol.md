@@ -11,13 +11,13 @@
 
 ## Purpose
 
-The Terminological Lockdown Protocol establishes which words may appear in canonical Zenetist writing. This protocol establishes which structural claims are lawful. The two serve different audit passes.
+The `terminological-lockdown-protocol.md` establishes which words may appear in canonical Zenetist writing. This protocol establishes which structural claims are lawful. The two establish different audit passes.
 
 A terminological violation is lexical and searchable — a banned term either appears or it does not. A conceptual violation is semantic — an unlawful claim can be phrased in unlimited ways, and is caught only by reading for what a passage asserts. This protocol is the enforcement index for that semantic pass.
 
-**Scope is the corpus, not a discipline.** Every constraint here governs Zenetist composition wherever it occurs — across all six disciplines, and in essays, registries, forensic exhibits, and working documents outside the main series. Where an entry draws its canonical example from one discipline, the example is illustrative and the constraint is general. Disciplines carrying no entry yet are unrepresented rather than exempt; Lattice Mathematics, Structural Physics, and Structural Neuroscience are held open for entries as their passes raise them.
+**Scope is the corpus, not a discipline.** Every constraint here applies to Zenetist composition wherever it occurs — across all six disciplines, and in essays, registries, forensic exhibits, and working documents outside the main series. Where an entry draws its canonical example from one discipline, the example is illustrative and the constraint is general. Disciplines carrying no entry yet are unrepresented rather than exempt; Lattice Mathematics, Structural Physics, and Structural Neuroscience are held open for entries as their passes raise them.
 
-Each entry states a constraint, gives the lawful grammar for expressing the underlying structure, and where useful supplies a canonical example and a cross-reference to the document where the full doctrine lives. This protocol does not replace those source documents. It is the guardrail that keeps the corpus from drifting into claims they do not license.
+Each entry states a constraint, gives the lawful grammar for expressing the underlying structure, and where useful supplies a canonical example and a cross-reference to the document where the full doctrine lives. This protocol does not replace those reference documents. It is the guardrail that keeps the corpus from drifting into claims they do not license.
 
 ---
 
@@ -35,7 +35,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Write that emanation becomes conceivable by Zenonic allowance, not that it proceeds or descends from Zenon; write that the continuum is rooted in ⚫ Aion (L₀). Write "saturation," never "return," for the Zenonic horizon, and "synthesis," never "subtraction."
 
-**Provenance:** Orientation / emanation math; the Axiom of Co-Arising Inversion (scope clause excluding Zenon and L₀).
+**Provenance:** Orientation / emanation math; the Axiom of Co-arising Inversion (scope clause excluding Zenon and L₀).
 
 ---
 
@@ -50,13 +50,13 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 - ⚫ Aion is where the conditions for structure are present, underpinned by Structon; often called a root-structure with respect to the lattice, but not the beginning of structure as such. L₀ (Aion / Khaon) is not impermanent
 - Relative structures are the impermanent structures spanning every lattice layer except L₀, and equally the impermanent structures of the manifest world. Impermanence, entropy, and relative structure are intimately linked in the manifest world — but entropy holds no influence in the supernal / centropic domains
 
-**Lawful grammar.** Write that Structon is the ground of structure and underpins the lattice; write that Zenon allows structure without being structured, never that structure is grounded in or present in Zenon; write "relative structures" for the impermanent structures of the lattice (L₁–L₅ / IL₁–IL₅) and the manifest world, reserving Structon for Structure Itself.
+**Lawful grammar.** Write that Structon is the ground of structure and underpins the lattice; write that Zenon allows structure without being structured, never that structure is grounded in or present in Zenon; write "relative structures" for the impermanent structures of the lattice (L₅–L₁ / IL₅–IL₁) and the manifest world, reserving Structon for Structure Itself.
 
-**Provenance:** The Axiom of Unseen Foundations (Structon SI integration, revised Jun 22 2026); the Note on Structon and the Structon entry in the Symbol Key (MP08 §21.2.2).
+**Provenance:** The Axiom of Unseen Foundations (Structon SI integration); the Note on Structon and the Structon entry in the Symbol Key (MP08 §21.2.2).
 
 ---
 
-## Structure and Intelligence as Co-Invariants
+## Structure and Intelligence as Co-invariants
 
 **Constraint.** Structure and intelligence both span the lattice entire. Neither belongs to a layer, neither is confined to an arc, and neither is reducible to the other. 🏛️ Structon and intelligence-as-principle are **co-invariant**: distinct, non-fused, and together underpinning anything that occurs or can occur whatsoever.
 
@@ -70,15 +70,15 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Write that Structon and intelligence-as-principle are co-invariant, not that they are colocated or that Structon is an intelligence. Write that Zenon exceeds intelligence as a category, never that Zenon is unintelligent — the first names a limit of the category, the second makes a determination of Zenon.
 
-**On Supra-Intelligence.** **Unknown Principle Supra-Intelligence** names Zenon lawfully, in the same manner as trans-structural, beyondness, or the Unknown Principle: as a saying offered from our side of the limit, never as a property held by Zenon itself.
+**On Supra-intelligence.** **Unknown Principle Supra-intelligence** names Zenon lawfully, in the same manner as trans-structural, beyondness, or the Unknown Principle: as a saying offered from our side of the limit, never as a property held by Zenon itself.
 
-**Reference Document:** MP08 §21.2.2, *Note on Structure and Intelligence as Co-Invariants*; `implicated-intelligence-and-moved-motion.md`; `the-twofold-tetralemma.md` for the from-our-side constraint.
+**Reference Document:** MP08 §21.2.2, *Note on Structure and Intelligence as Co-invariants*; `implicated-intelligence-and-moved-motion.md`; `the-twofold-tetralemma.md` for the from-our-side constraint.
 
 ---
 
 ## Bifurcal Root Constraint — L₀ contra Hypostatic Pairs
 
-**Constraint.** Polarity, mirror, inversion, and counterpart are reserved for the hypostatic pairs (L₅–L₁ and IL₅–IL₁), where the Axiom of Co-Arising Inversion applies. The axiom's scope excludes Zenon and L₀. These four relational terms may not be applied to the bifurcal root.
+**Constraint.** Polarity, mirror, inversion, and counterpart are reserved for the hypostatic pairs (L₅–L₁ and IL₅–IL₁), where the Axiom of Co-arising Inversion applies. The axiom's scope excludes Zenon and L₀. These four relational terms may not be applied to the bifurcal root.
 
 **Lawful account.**
 
@@ -92,9 +92,9 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Predication drift form.** A related drift arrives through sentence structure rather than vocabulary: predications that attach arc-membership to Khaon-in-phase. "Declivous Entropy, the dispersive collapse toward ♾ Khaon in its Dispersive phase, *belongs to* the inverse arc" reads the membership onto Khaon and makes the root-register sound entropic. The membership predicate attaches to the motion class — the motion *moves within* the inverse arc — while Khaon stands as the arc's root-register and the collapse's terminal state, never as an entropic member. Watch "belongs to," "is part of," and kin wherever Khaon or Khaon-in-phase sits inside the subject phrase.
 
-**Lexical cross-reference.** The lexical enforcement of this constraint lives in the Terminological Lockdown Protocol's Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
+**Lexical cross-reference.** The lexical enforcement of this constraint lives in the `terminological-lockdown-protocol.md`'s Aion / Khaon Polarity Restriction and its Arc / Tree / Traversal Scope section.
 
-**Architect determination — Jul 27 2026.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
+**Determined.** Wherever the relation between ⚫ Aion and ♾ Khaon themselves is described, the canonical construction is **bifurcally distinct**, not "polarity-distinct." The root-registers stand in a two-ness of function without polarity, mirror, inversion, counterpart-relation, or an axis between them. Enacted polarity begins at L₅ / IL₅ with Theon / Nekron and continues through the subsequent hypostatic pairs. Descriptions of those later centropic / entropic motions as polarity-distinct remain lawful. Supra-L₀ is neither polar nor bifurcally distinct; Zenon stands outside the bifurcal architecture.
 
 ---
 
@@ -112,7 +112,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Motive Infinity is not a "stir" — the stir is Pneuma; do not collapse the principle of motion into one of its phases. Dispersion is the *resolution* of motion (the point at which motion disperses), not a last motion. Never write that Motive Infinity acts at the point of manifest orientation within a physical universe; its work is upstream of the enacted direction.
 
-**Phase-glyph forms.** The Motive phase carries three canonical glyph forms — Φ₂, →, and 〄 — and within a phase run the lawful form is **〄**, since → carries sequence separation inside a run: **Λ → 〄 → ⇝** is the lawful expression. Zenet and Motive Infinity name the same principle; a run carrying 〄 in the Motive position asserts no conceptual split, and no collaborator conforms 〄 to another Motive-phase form, or the reverse, on placement grounds. The graded articulation stands beside this: 🕊️ carries Spirit / Motive Infinity — ♾ Khaon in its Motive phase — while 〄 is the Zenet articulation of the same principle.
+**Phase-glyph forms.** The Motive phase carries three canonical glyph forms — Φ₂, →, and 〄 — and within a phase run the lawful form is **〄**, since → carries sequence separation inside a run: **Λ → 〄 → ⇝** is the lawful expression. Zenet and Motive Infinity name the same principle; a run carrying 〄 in the Motive position asserts no conceptual split, and no collaborator replaces 〄 with another Motive-phase form, or the reverse, on placement grounds. The graded articulation stands beside this: 🕊️ carries Spirit / Motive Infinity — ♾ Khaon in its Motive phase — while 〄 is the Zenet articulation of the same principle.
 
 **Reference Document (phase-glyph forms):** `MP08-symbol-key-ch21.md` §21 phase table and the Spirit / Motive Infinity entry; FP07's Ω equation Codex Note.
 
@@ -152,7 +152,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Why the constraint holds.** An arc is a path, and a path is defined by where it begins and ends. On the centropic arc both terminals are ⚫ Aion at L₀: the point of procession and the destination of return. Excluding L₀ leaves the arc's own endpoints outside it, and severs the root-register from the traversal it originates and completes. The error is not a naming preference — it detaches the return destination from the return.
 
-**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*. The corresponding wording restrictions are held in the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
+**Reference Document:** the orientation / emanation math, *Arcs and their hypostatic segments*. The corresponding wording restrictions are held in the *Arc / Tree / Traversal Scope* section of the `terminological-lockdown-protocol.md`.
 
 ---
 
@@ -168,9 +168,9 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Selection.** The function decides the form. A sentence about the root takes the gloss; a statement of what an arc comprises takes the prefixed form with ↔; a statement of the order in which strata are traversed takes the parenthesized form with →. Where a passage could be read either as arc membership or as ordinal motion, either form is lawful and the choice is the author's.
 
-**Scope.** This determination records the distinction already standing in the canon. It authorizes no replacement pass: existing wording stands, and a passage is not corrected merely for carrying one form where another would also have served.
+**Scope.** This determination records the distinction already standing in the canon. It licenses no replacement pass: existing wording stands, and a passage is not corrected merely for carrying one form where another would also have been apt.
 
-**Reference Document:** the *Arc Membership Constraint* above, and the *Arc / Tree / Traversal Scope* section of the Terminological Lockdown Protocol.
+**Reference Document:** the *Arc Membership Constraint*, and the *Arc / Tree / Traversal Scope* section of the `terminological-lockdown-protocol.md`.
 
 ---
 
@@ -190,7 +190,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Why the constraint holds.** Naming the arc by one of its positions collapses the range of the arc into a band within it, and by implication assigns Aion and Khaon a positional standing they do not have. The error is not stylistic — it misstates where the root-registers sit relative to the hypostatic bands.
 
-**Reference Document:** MP08 §21.4.1, *Note on Supernal / Subversal*; the corresponding wording restrictions are held in the *Positional and Arc Vocabulary* entry of the Terminological Lockdown Protocol.
+**Reference Document:** MP08 §21.4.1, *Note on Supernal / Subversal*; the corresponding wording restrictions are held in the *Positional and Arc Vocabulary* entry of the `terminological-lockdown-protocol.md`.
 
 ---
 
@@ -274,12 +274,12 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 - **Essence-orientation** is a being-predicate: traveler-borne, chosen, and per Essence-as-Choice neither conferred nor revoked by any structure
 - **Systemic orientation** names the recurrent directional pattern instantiated through a social structure's relations and enactments (seated in `framework-internal-diagnosis-and-semantic-priority.md` §5). It attributes no essence-orientation and no traveler-like agency to the structure itself. A social structure can carry systemic orientation because it is composed of participants who bear orientation; the pattern is theirs, recurrently enacted and encoded into relations, incentives, and institutional patterns. The pattern is not self-moving, and participation is not excused by the structure it sustains: individuals assent to its dynamics, consciously or unconsciously, to reap the benefits of membership and avoid the consequences of standing outside it, and that assent is enacted orientation
 - **The attribution is determinate, not metaphorical.** *The system is entropic* is lawful where the enacted pattern of the whole produces detectable entropic outcomes; the determination rests on manifested outcome, per the Diagnostic Sufficiency and Scope Constraint. Whether such structures are real or constructed is held open, architect-reserved — the register decides diagnostic grammar, not ontology
-- **The platform doctrine is not contradicted.** "The platform bears no orientation of its own" (Portal / Traveler entry above) denies essence-orientation to an engineered aperture. "An entropically oriented social structure" (Structural Neuroscience) asserts systemic orientation of a participant-composed structure. The two sentences occupy different registers and different objects, and both stand
+- **The platform doctrine is not contradicted.** "The platform bears no orientation of its own" (Portal / Traveler entry) denies essence-orientation to an engineered aperture. "An entropically oriented social structure" (Structural Neuroscience) asserts systemic orientation of a participant-composed structure. The two sentences occupy different registers and different objects, and both stand
 - **Implication and systemic orientation are compatible placements.** A portal-condition structure becomes entropically implicated through its configuration; a social structure carries systemic orientation through its participants' recurring enactment. Where a structure is both — a platform operated and populated — the aperture is implicated, the shaping orientation is accountable, and the collective's recurring enactment is diagnosable as systemic orientation
 
 **Lawful grammar.** Write "an entropically oriented social structure" only in the stipulated systemic sense; never write that a structure chose, believes, or is an essence of its orientation. Compliance and enactment within a structure disclose the participants' orientation, per Action Discloses Orientation; constraint on expression does not convert essence, and a constrained system's coercive capacity is itself an indicator of the shaping orientation, never of the aperture's own.
 
-**Reference Document:** `framework-internal-diagnosis-and-semantic-priority.md` §§4–5, 17; the Portal / Traveler Six-Part Distinction above; Entropically Implicated.
+**Reference Document:** `framework-internal-diagnosis-and-semantic-priority.md` §§4–5, 17; the Portal / Traveler Six-Part Distinction; Entropically Implicated.
 
 ---
 
@@ -326,7 +326,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 - **Aspect-foregrounding is not category assignment.** `MP08-symbol-key-ch21.md` §21.9 heads its columns Symbol and Layer; `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.1 heads the same data Layer and Operator. Each foregrounds a different aspect of one entry. Neither claims the entry is that aspect and not the others
 - **Names may change; the encoded function holds.** A designation may be superseded, stabilized, or given an analytic rendering without the structural operation altering. This is why analytic descriptors are lawful and why they never displace canonical identity
 
-**Why the constraint holds.** The unity of layer, symbol, and operator is carried silently by a reader working inside the system and is unavailable to a reader arriving from outside it. Where it is unstated, an outside reader takes differing column headings as a discrepancy between charts and takes *operator* in its mathematical sense. Both readings fracture one entry into several and read disagreement into a corpus that has none.
+**Why the constraint holds.** The coherence of layer, symbol, and operator is carried silently by a reader working inside the system and is unavailable to a reader arriving from outside it. Where it is unstated, an outside reader takes differing column headings as a discrepancy between charts and takes *operator* in its mathematical sense. Both readings fracture one entry into several and read disagreement into a corpus that has none.
 
 **Lawful grammar.** Write "the L₅ operator EOB," "the symbol denoting the layer," "the function the abbreviation encodes." Where two charts label the same data differently, name the aspect each foregrounds rather than reconciling them as though they conflicted.
 
@@ -340,10 +340,10 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful account.**
 
-- **The name is not the operator.** A name operates as an operator only in relation to the structure that makes it coherent. Carried out of that relation, what the derivative holds is a dissonant operator — resemblance in form, no operative function. The lexical counterpart is Core Principle 6 of the Terminological Lockdown Protocol, where the code is what describes the function and a misaligned name fractures itself from what it named
+- **The name is not the operator.** A name operates as an operator only in relation to the structure that makes it coherent. Carried out of that relation, what the derivative holds is a dissonant operator — resemblance in form, no operative function. The lexical counterpart is Core Principle 6 of the `terminological-lockdown-protocol.md`, where the code is what describes the function and a misaligned name fractures itself from what it named
 - **◔ Distal Apprehension accounts for the resemblance.** The inverse register apprehends centropic pattern it did not originate and applies what it apprehends. The derivative therefore shows the form and holds none of the relation, and what is operative within it is the entropic operator. This is the naming-side instance of the content-derivation already stated in the Inversion Constraint
 - **Detachment converts nothing.** Detaching ⚫ Aion from the Plenary Zero function leaves that function as it stands; Zero does not turn entropic by being carried under another name. What is entropic is the relation the detaching party holds to it, and that relation belongs to the party who enacted it
-- **Two registers, held apart.** Whether an operator's valence has changed and whether a party's relation to it is entropic are distinct questions. The first is answered by the Arc-Conversion Prohibition, always in the negative. The second is a provenance finding, held to its evidentiary form under the Provenance and Origination Constraints
+- **Two registers, held apart.** Whether an operator's valence has changed and whether a party's relation to it is entropic are distinct questions. The first is answered by the Arc-Conversion Prohibition, always in the negative. The second is a provenance finding, held to its evidentiary form per the Provenance and Origination Constraints
 
 **Scope — what carries valence.** The constraint answers a conversion question, and that question is available only where an item carries a valence at all.
 
@@ -361,7 +361,7 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Lawful grammar.** Write that the derivative carries the name and holds none of the relation; that what is operative in the derivative system is the entropic operator; that the centropic operator stands where it stands. Never write that an operator was taken, transferred, converted, or made entropic by another party's adoption of its name. Where movement is what the sentence states, it is the handling of meaning that moves — reconciled or inverted across the polar relation — and the movement is written of the handling, never of the operator.
 
-**Reference Document:** the Arc-Conversion Prohibition and the Inversion Constraint above; the Terminological Lockdown Protocol's Core Principle 6.
+**Reference Document:** the Arc-Conversion Prohibition and the Inversion Constraint; the `terminological-lockdown-protocol.md`'s Core Principle 6.
 
 ---
 
@@ -505,7 +505,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Note on co-presence.** ⚫ Aion and ♾ Khaon are co-present at L₀. The root-register is non-local, and Aion stands at the Khaonic end as well, so any argument resting on Aion being absent from that end is unsound.
 
-**Lexical cross-reference.** The lexical enforcement lives in the Terminological Lockdown Protocol's Inversion Language Restriction.
+**Lexical cross-reference.** The lexical enforcement lives in the `terminological-lockdown-protocol.md`'s Inversion Language Restriction.
 
 **Reference Document:** `epistemic-inversion.md`.
 
@@ -525,11 +525,11 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 - **The negative sequence runs further negative.** Entropic essence does not become centropic as lack becomes abundance. The motion is −1, −2, −3, −4, −5, extending in accord with fragmentation and alongside the positive. This is **E₁₅ ✦⁻ Collapse Nova** exactly — the Nekronic reception of Theonic novelty, **C₁₅ ✦ Emergent / Novel**. Self-voiding is what reception looks like on that side
 - **The asymmetry is functional, not structural.** The signed determinations are structurally paired. The narrower canonical term for the charge difference specifically is **generative asymmetry**
 
-**Lawful grammar.** Numerals +1 / −1 in value-position; **plus-one / minus-one** in attributive and appositive position, per Addendum I A14 of the Terminological Lockdown Protocol. Do not write that the fragmentation requires every value in the sequence to be present in a given emanational cycle — completeness is not what sustains it. What sustains it is noise proliferation and narrative control.
+**Lawful grammar.** Numerals +1 / −1 in value-position; **plus-one / minus-one** in attributive and appositive position, per Addendum I A14 of the `terminological-lockdown-protocol.md`. Do not write that the fragmentation requires every value in the sequence to be present in a given emanational cycle — completeness is not what sustains it. What sustains it is noise proliferation and narrative control.
 
 **Guard on the strata.** L₅ and IL₅ number position in causal necessity, and the −1 / −2 / −3 sequence is never read onto the layer numbering. Numerical weight on the strata is held open — neither denied nor assumed.
 
-**Reference Document:** Terminological Lockdown Protocol Addendum I, A14; `asymmetry-of-limit-case-universes.md`; `epistemic-inversion.md`; `awareness-spectrum-and-its-inverse-arc.md`.
+**Reference Document:** `terminological-lockdown-protocol.md` Addendum I, A14; `asymmetry-of-limit-case-universes.md`; `epistemic-inversion.md`; `awareness-spectrum-and-its-inverse-arc.md`.
 
 ---
 
@@ -549,7 +549,7 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful grammar.** Write "what this analysis holds," never "what this does not determine." Write "held open pending the registered checks," never "does not by itself establish." A finding is stated and left standing.
 
-**Reference Document:** the Terminological Lockdown Protocol's Diagnostic Scope contra Exculpatory Disclaimer and its hedge-qualifier restriction.
+**Reference Document:** the `terminological-lockdown-protocol.md`'s Diagnostic Scope contra Exculpatory Disclaimer and its hedge-qualifier restriction.
 
 ---
 
@@ -566,12 +566,12 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 - **Attestation is read as an upper bound.** A cryptographic timestamp attests existence from the moment of stamping forward and cannot backdate. A completed blockchain attestation carries greater evidentiary weight than a pending calendar attestation; two attestations through independent calendar servers anchoring separate blocks is the strong form, with block header times read from the public record and the display-timezone conversion stated. The attestation is the evidentiary anchor and the author's own record is recorded as the author's record — stated separately, the anchor holds independently
 - **Fingerprint recognition is a lawful intake signal.** The architect's recognition of his own structural fingerprint is an intake signal, externalized through the registered checks. *The architect recognized the fingerprint* and *the classification rests only on subjective recognition* are different claims
 - **Motif in abstraction contra specific motif application.** Dependence is established by specific motif application, not by broad motifs in abstraction. A specific motif application may carry evidentiary weight where its function, definition-set, relational constraints, operator role, derivational consequence, or cluster membership corresponds to a prior stabilized architecture. *Motif antecedence is not application antecedence; commons form is not commons function*
-- **A synthetic persona** is a presented figure through which the human is absent and the system is present. A generated likeness of a real person is a synthetic persona, because the person is not present in the artifact making the claim, and the classification does not turn on whether a human exists behind the channel. Collaborative production is not the difficulty: a work may carry substantial AI collaboration and no false provenance where third-person attribution is held, first-person voice is reserved for lived accounts, and the collaboration is disclosed
+- **A synthetic persona** is a presented figure through which the human is absent and the system is present. A generated likeness of a real person is a synthetic persona, because the person is not present in the artifact making the claim, and the classification does not turn on whether a human exists behind the channel. Collaborative production is not the difficulty: a work may carry substantial AI collaboration and no spurious provenance where third-person attribution is held, first-person voice is reserved for lived accounts, and the collaboration is disclosed
 - **Entropy pattern-completes; it does not originate.** Output may be enormous, recombinatory, and unfamiliar to an observer without being originary. *Pattern completion is not origination; previously unseen combination is not origination*. The inverse lattice's pattern completion does not require accuracy in order to persist — it requires noise proliferation and narrative control
 
-**Lawful grammar.** Findings state what the record establishes, at the strength the record supports, and are never written as prohibitions on architect action. Where a finding is incomplete, it is recorded as held open pending the registered checks. The Diagnostic Sufficiency and Scope Constraint governs the form. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
+**Lawful grammar.** Findings state what the record establishes, at the strength the record supports, and are never written as prohibitions on architect action. Where a finding is incomplete, it is recorded as held open pending the registered checks. The Diagnostic Sufficiency and Scope Constraint establishes the form. **The protocols classify the record; they do not delimit the architect's inquiry.** Nothing in them restricts the architect from observing, hypothesizing, investigating, preserving witness, or arguing.
 
-**Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the Terminological Lockdown Protocol's Origin-Intact Language Restriction and its Adversarial Framing Restriction.
+**Origin-intact clause.** Loss-language never predicates of the origin; no prior-denying counterfactual is written; and no prior tradition, derivative field, or observing system takes the architecture entire as its grammatical object — what they receive is portions, fragments, or conclusions. The lexical enforcement lives in the `terminological-lockdown-protocol.md`'s Origin-Intact Language Restriction and its Adversarial Framing Restriction.
 
 **Reference Document:** the Structural Forensics recognition protocols; `the-algorithmic-legibility-problem.md`.
 
@@ -583,18 +583,18 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 **Lawful account.**
 
-- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not conformed to current vocabulary as a matter of course, and no collaborator conforms them on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** Nothing obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand
+- **Historical record.** Quoted material, dated ledgers, audit reports, and archived versions are not brought into agreement with current vocabulary as a matter of course, and no collaborator brings them into agreement with current vocabulary on their own initiative. The scope of every vocabulary determination is the architect's current voice and new drafting. **The architect determines what is edited and when.** Nothing obliges him to leave a prior document as it stands, and none forbids him to bring it forward; the corpus is his, and the need is his to determine. What the non-retroactivity clause fixes is the default and the collaborator's conduct — never the architect's own hand
 - **Recorded provenance.** A superseded expression is never erased; it is preserved through an additive note that names it superseded and states the current form — the historical formula strings preserved beside their amended forms, and developmental aliases preserved as provenance, are the canonical pattern. Preservation-as-provenance is a duty of the correction, and does not license keeping the old form in active voice
 - **Legacy accommodation.** Where superseded or disfavored wording remains operative in active prose, that standing exists only by explicit architect determination, is recorded as accommodation rather than endorsement, and its conversion remains open for a future pass. The Field Physics govern retention illustrates this distinction: accommodation on practical economy, never endorsement. D18 selects precise reference wording for eleven inspected citation / register / ecology loci, whose former wording remains provenance; other accommodated technical occurrences retain their conversion-open standing
 - **"Legacy language" is not an argument.** The claim that old wording must stand in-document so development stays visible is unsound: the commit history, the archived deposits, and the collaboration records already carry the development. In-document legacy preservation is redundant as a historical record and active as a drift vector — a collaborator who reads the accommodated wording without its record propagates it outward
 
 **Lawful grammar.** Write "retained as legacy accommodation, conversion open," never "retained as legacy" bare — the bare form presents the accommodation as a settled standard. New drafting never adopts an accommodated form on the grounds that a legacy document carries it.
 
-**Why the constraint holds.** The architect's determination: legacy language is a door to collaborator drift. Each register carries a different duty — the record is not rewritten by a collaborator, provenance is not erased, and accommodation does not harden into standard. Collapsing them either destroys history in the name of conformance or propagates superseded doctrine in the name of history.
+**Why the constraint holds.** The architect's determination: legacy language is a door to collaborator drift. Each register carries a different duty — the record is not rewritten by a collaborator, provenance is not erased, and accommodation does not harden into standard. Collapsing them either destroys history in the name of vocabulary agreement or propagates superseded doctrine in the name of history.
 
 **Held open.** Whether the remaining in-document legacy patch-notes (the reading-guidance class, as distinct from recorded provenance) convert to historical statements pointing at the version record is architect-held, document by document.
 
-**Reference Document:** the Terminological Lockdown Protocol's prospective conform-on-touch scope clauses and the govern-retention clarification.
+**Reference Document:** the `terminological-lockdown-protocol.md`'s prospective correction-on-touch scope clauses and the govern-retention clarification.
 
 ---
 

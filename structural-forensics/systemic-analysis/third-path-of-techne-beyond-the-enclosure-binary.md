@@ -82,7 +82,7 @@ The crisis is that harvested data can be converted into predictive models of hum
 
 This produces a closed circuit:
 
-human life is collected, modeled, ranked, routed, and returned to the public as managed visibility.
+human life is collected, modeled, ordered, routed, and returned to the public as managed visibility.
 
 The same systems that ingest behavior can decide who appears credible, who appears risky, who is amplified, who is buried, who is monetizable, who is treated as anomalous, and who is allowed to speak as though they belong.
 
@@ -96,7 +96,7 @@ It is a Technē problem.
 
 People can feel the enclosure even before they have precise language for it.
 
-They sense that their gestures, preferences, expressions, movements, biometrics, associations, fears, desires, errors, and speech-patterns are being taken into systems they cannot audit, then returned as curated access, ranking, friction, exclusion, or permission.
+They sense that their gestures, preferences, expressions, movements, biometrics, associations, fears, desires, errors, and speech-patterns are being taken into systems they cannot audit, then returned as curated access, ordering, friction, exclusion, or permission.
 
 That sensed distrust is not irrational.
 

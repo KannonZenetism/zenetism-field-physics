@@ -60,7 +60,7 @@ Inconsistencies introduced through system drift, AI-assisted reformatting, or ru
 
 ## 4. Canonical vocabulary restrictions apply across registers
 
-Canonical Zenetist composition follows the vocabulary restrictions established in the *Terminological Lockdown Protocol* (Instrumentalist Language Restriction, Level Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself. The companion *Conceptual Lockdown Protocol* is the authority for structural claims and for the semantic audit pass.
+Canonical Zenetist composition follows the vocabulary restrictions established in the `terminological-lockdown-protocol.md` (Instrumentalist Language Restriction, Level Terminology Restriction, Positional Vocabulary Protocol, Relational Opposition Protocol, Directional Language Protocol, Aauthoritarian Clarification, Fusion-Risk Language Restrictions, and related canonical provisions). These restrictions apply to all canonical prose composition regardless of register, including this formatting reference itself. The companion `conceptual-lockdown-protocol.md` is the reference for structural claims and for the semantic audit pass.
 
 One restriction worth explicit articulation here in the context of compositional drift:
 
@@ -116,14 +116,14 @@ The Status field states where a document stands on the stability axis — how op
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
 - **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents are brought into agreement with.
-- **Operational** — infrastructure and pipeline specifications in production service, where the claim is that the procedure has been validated in practice.
+- **Operational** — infrastructure and pipeline specifications in production operation, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
-- **Veracious Archive** — preserved as a dated record of what was held at the time. The descriptor states what the document preserves and binds collaborator conduct: no collaborator conforms such a file forward, sweeps it, or brings it into agreement with current vocabulary on their own initiative. It places no bar on the architect, whose hand is free in every document he determines wants revision.
-- **Active Evidence Record** — a Structural Forensics record in evidentiary service.
+- **Veracious Archive** — preserved as a dated record of what was held at the time. The descriptor states what the document preserves and binds collaborator conduct: no collaborator brings such a file forward, sweeps it, or brings it into agreement with current vocabulary on their own initiative. It places no bar on the architect, whose hand is free in every document he determines wants revision.
+- **Active Evidence Record** — a Structural Forensics record with evidentiary standing.
 
 Field standards:
 
-- **Status lines carry no dates.** Per the Internal Date Prohibition below, the Status field states the stage alone — Draft, Active, Locked — and drafting, revision, and lock chronology is carried by the external record of commits and deposits, never by the line.
+- **Status lines carry no dates.** Per the Internal Date Prohibition, the Status field states the stage alone — Draft, Active, Locked — and drafting, revision, and lock chronology is carried by the external record of commits and deposits, never by the line.
 - **Revision names a substantive return, not continued composition.** Work that continues in the days after drafting is still drafting. A revision is a substantive return to a settled document — new argument, changed doctrine, restructured material.
 - **A terminology sweep is not a revision.** Bringing a file into agreement with current vocabulary changes wording without changing what the document holds. A practical test: where the change did not warrant a new deposit, it was not a revision.
 - **Canonical is not a stability value on its own.** Canonicity is carried by placement in the canon and by Classification. Legacy Canonical Status values are brought into agreement with the present Status vocabulary on touch, according to current standing. Active Canonical Reference names a standing reference other documents are brought into agreement with; Locked names a document closed to revision except by architect determination.
@@ -133,7 +133,7 @@ Field standards:
 
 ### Internal Date Prohibition
 
-Internal document dating is prohibited except where the date itself is substantive evidence or necessary subject matter. Dates are not used to timestamp a document's drafting, revision, review, stabilization, canonicalization, determination, clarification, adjudication, approval, or present status.
+Internal document dating is prohibited except where the date itself is substantive evidence or necessary subject matter. Dates do not timestamp a document's drafting, revision, review, stabilization, canonicalization, determination, clarification, adjudication, approval, or present status.
 
 This restriction applies prospectively to all new drafting and retroactively to current canonical corpus files. It supersedes any earlier instruction requiring preservation of internal document dates, dated determinations, dated adjudications, dated status history, or comparable editorial chronology.
 
@@ -195,13 +195,13 @@ Existing filenames and the titles matching them stand as they are — including 
 
 ### Date and Provenance Insertion Determination
 
-Internal dating is governed by the Internal Date Prohibition above: a collaborator inserts no date into a document, and never reconstructs, infers, or normalizes one.
+Internal dating follows the Internal Date Prohibition: a collaborator inserts no date into a document, and never reconstructs, infers, or normalizes one.
 
-The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view. A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order rulings arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
+The bar extends past dates to every provenance claim a collaborator cannot verify from within its own view. A collaborator does not write where a determination first appeared, what it superseded, which document seated it first, in what order determinations arrived, or any other assertion about the shape of the record — the record spans chats, drafts, deposits, and files, and a collaborator holds a slice of it. What a collaborator states reliably is the determination itself, its reasoning, and its text; where it sits in time and lineage is the architect's to say.
 
 The ground is scope, not competence: gauging time and record-order is beyond a collaborating model's present reach, and in a corpus whose standing is heavily provenance-borne, an unverified provenance claim inside a canonical file is a defect of exactly the kind the corpus exists to prevent. Collaborating models also carry an unreliable internal clock, so a collaborator-supplied date is doubly unverified — wrong about the calendar, wrong about the record, or both.
 
-Attribution parentheticals follow the same bar. A collaborator inserts no "(architect determination)" or kindred attribution shell into a document: the corpus is the architect's throughout, so marking particular passages as his implies the remainder are not. Where determination-status wants marking, the heading form — *— determined* — carries it. Sentences whose content states a mechanism (closed to revision except by architect determination; standing held by explicit architect determination) are doctrine, not shells, and stand. Where the record requires a date, sequence, or supersession note, the architect adds it.
+Attribution parentheticals follow the same bar. A collaborator inserts no "(architect determination)" or kindred attribution shell into a document: the corpus is the architect's throughout, so identifying particular passages as his implies the remainder are not. Where determination-status wants indication, the heading form — *— determined* — carries it. Sentences whose content states a mechanism (closed to revision except by architect determination; standing held by explicit architect determination) are doctrine, not shells, and stand. Where the record requires a date, sequence, or supersession note, the architect adds it.
 
 ### SHA-256 Retirement
 
@@ -272,7 +272,7 @@ Canonical documents close with the standard seal identifying authorship, the six
 **Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
 ````
 
-Seal placement is preceded by a horizontal rule marking the boundary between the document body and the closing seal. The seal appears in nearly all canonical works; deliberate omission is permissible for short forensic notes or ancillary fragments.
+Seal placement is preceded by a horizontal rule indicating the boundary between the document body and the closing seal. The seal appears in nearly all canonical works; deliberate omission is permissible for short forensic notes or ancillary fragments.
 
 Trailing spaces within the seal follow the block exactly as shown. Only the ⚫↺KAI↺⚫ line carries two trailing spaces, since it takes a hard line-break directly into the disciplines line. The disciplines line and the Collaborators line carry none, each being followed by a blank line or by the end of the document. The metadata block's two-space standard does not extend to the seal.
 
@@ -314,9 +314,9 @@ Three cases are held apart:
 - A **pre-existing coined canonical term** keeps its own locked casing wherever it appears — Non-fusion, Cascade-collapse.
 - An **ordinary compound modifier** in a header takes plain Title Case — Frame-Dependent, Scope-Limited, AI-Collaboration. It is not a coined term and carries no locked form.
 - For a **term first appearing in the architect's own draft**, his casing is the canonical casing, and later documents follow it rather than generic convention.
-- A **Non- compound** takes the capital N, and the element after the hyphen keeps whatever casing it carries in its own right: Non-fusion Axiom and Non-contact Principle, because *fusion* and *contact* are ordinary words; Non-Theonic Culmination and Non-Neutral Emergence, because *Theonic* and *Neutral* are canonical terms holding their own capitals. The full form is set out at Terminological Lockdown Protocol Addendum I, A15a.
+- A **Non- compound** takes the capital N, and the element after the hyphen keeps whatever casing it carries in its own right: Non-fusion Axiom and Non-contact Principle, because *fusion* and *contact* are ordinary words; Non-Theonic Culmination and Non-Neutral Emergence, because *Theonic* and *Neutral* are canonical terms holding their own capitals. The full form is set out at `terminological-lockdown-protocol.md` Addendum I, A15a.
 
-The guiding principle is consistency within the work or series, with canonical term-casing taking precedence over generic title-case convention.
+The guiding principle is consistency within the work or series, with canonical term-casing taking precedence when generic title-case convention conflicts.
 
 ---
 
@@ -324,7 +324,7 @@ The guiding principle is consistency within the work or series, with canonical t
 
 ## Functional, Not Decorative
 
-Glyphs are functional operators that encode meaning. A glyph earns its place by tying to a notable nearby concept; a glyph that ties to no such concept is noise and is removed. Where a glyph is present but mismatched to its concept, it is realigned to the correct charted glyph rather than left to drift. The Symbol Key (chart 21) and the Field-Physics glyph registry are the authority for what is charted; an uncharted glyph is either aligned to the charted form for its concept or removed.
+Glyphs are functional operators that encode meaning. A glyph earns its place by tying to a notable nearby concept; a glyph that ties to no such concept is noise and is removed. Where a glyph is present but mismatched to its concept, it is realigned to the correct charted glyph rather than left to drift. The Symbol Key (chart 21) and the Field-Physics glyph registry are the references for what is charted; an uncharted glyph is either aligned to the charted form for its concept or removed.
 
 ## Glyphs in Headings
 
@@ -388,7 +388,7 @@ The hyphen (-) is reserved for compound modifiers and naming compounds:
 
 Correct:
 
-- bifurcal-arc
+- two-Tree architecture
 - cascade-collapse
 - centropic-orientation
 - cross-stratum
@@ -396,7 +396,7 @@ Correct:
 
 This convention extends to parallel operator-and-band compounds when they act as modifiers. Further examples include IL₄ IDL-Nyxea attributions and L₅ EOB-Theon characteristics. In standalone reference, the un-hyphenated form (L₄ DL Sophis as a stratum-and-band designation) remains acceptable, contra the hyphenated form (L₄ DL-Sophis attributions) as a compound modifier preceding a noun.
 
-The hyphen does not mark ranges or parenthetical interruption.
+The hyphen does not denote ranges or parenthetical interruption.
 
 ## Quotation Marks
 
@@ -424,7 +424,7 @@ The third case is where drift begins. A later hand encounters the block-quote ma
 
 *Terminology note: **quotation mark** is the typographic name for the character and is lawful throughout this section. The mark-family restriction concerns glyph and seal designation, where the canonical terms are **glyph** and, where a seal must be distinguished, **seal**.*
 
-**Series consistency takes priority.** Within a numbered series — FP01–FP14, MP01–MP12, and any comparable multi-file work — the treatment is uniform across every file in the series, and a series is brought into agreement across all its files rather than one at a time. Consistency within a single work takes precedence over consistency with an unrelated document.
+**Series consistency takes priority.** Within a numbered series — FP01–FP14, MP01–MP12, and any comparable multi-file work — the treatment is uniform across every file in the series, and a series is brought into agreement across all its files rather than one at a time. Consistency within a single work takes precedence when consistency with an unrelated document conflicts.
 
 Existing drift stands as historical record and is corrected on touch.
 
@@ -497,15 +497,15 @@ Canonical Zenetist composition follows specific ordering conventions for hyposta
 
 The canonical hypostatic ordering follows the emanation sequence rather than numerical-index sequence.
 
-Correct (centropic arc):
+Correct (hypostatic segment of the centropic arc):
 
 - L₅ → L₄ → L₃ → L₂ → L₁
 
-Correct (inverse arc):
+Correct (inverse hypostatic segment):
 
 - IL₅ → IL₄ → IL₃ → IL₂ → IL₁
 
-This reflects the emanation sequence beginning at L₅ (Theon as first centropic hypostasis) and proceeding through subsequent strata to L₁ (embodied). The L₁ → L₅ sequence describes the acclivous return arc rather than the emanation sequence and does not generally appear in static listings.
+This indicates the emanation sequence beginning at L₅ (Theon as first centropic hypostasis) and proceeding through subsequent strata to L₁ (embodied). The L₁ → L₅ sequence describes the acclivous return arc rather than the emanation sequence and does not generally appear in static listings.
 
 ## Range Notation
 
@@ -521,7 +521,7 @@ Incorrect:
 - L₁–L₅
 - IL₁–IL₅
 
-## Pre-Hypostatic Position in Listings
+## Pre-hypostatic Position in Listings
 
 In listings that include both hypostatic layers and pre-hypostatic requisites, the pre-hypostatic requisites appear prior to the hypostatic lattice rather than after it:
 
@@ -530,7 +530,7 @@ Correct:
 - the **pre-hypostatic requisites** (Supra-L₀, L₀)
 - the **hypostatic lattice** (L₅ → L₁ / IL₅ → IL₁)
 
-This reflects the trans-structural placement of Supra-L₀ prior to bifurcal emanation, with L₀ as the bifurcal coherence ground from which both centropic and inverse arcs emanate.
+This indicates the trans-structural placement of Supra-L₀ prior to bifurcal emanation, with L₀ as the bifurcal coherence ground from which both centropic and inverse arcs emanate.
 
 ## Traversal Notation
 
@@ -544,7 +544,7 @@ Entropic traversal:
 
 - L₀ ↔ IL₅ ↔ IL₄ ↔ IL₃ ↔ IL₂ ↔ IL₁
 
-In extremely rare cases, centropy's return arc may extend to Supra-L₀; this remains the structural exception rather than the canonical traversal pattern.
+In extremely rare cases, returned centropic essence may pass into Supra-L₀ saturation; this crossing remains distinct from return to Aion.
 
 ## Dimensional Operator Ordering
 
@@ -557,7 +557,7 @@ Correct:
 - C₁–C₁₅
 - E₁–E₁₅
 
-This reflects that dimensional operators do not follow an emanation sequence; they are numbered operators within the C / E dimensional registry, proceeding C₁ → C₁₅ and E₁ → E₁₅.
+This indicates that dimensional operators do not follow an emanation sequence; they are numbered operators within the C / E dimensional registry, proceeding C₁ → C₁₅ and E₁ → E₁₅.
 
 ## Informal Articulation
 
@@ -579,17 +579,17 @@ Bold appears sparingly in technical prose. Over-application erodes its term-intr
 
 ## Bold in Poetic Register
 
-The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza serving structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold standard.
+The poetic register employs bold-saturation as a compositional feature, with multiple bolded terms per stanza carrying structural and rhythmic functions. This is part of the register's expressive form and operates apart from the technical-register sparing-bold standard.
 
 Note: drift in early poetic documents — variable bold density, inconsistent bold placement — was largely introduced through automated reformatting rather than authorial intent. Where the drift can be identified as accidental, canonical bold-pattern restoration is appropriate; where time does not permit, the drift remains as an artifact of the transmission history.
 
 ## Italics
 
-Italics serve several conventional purposes:
+Italics carry several conventional functions:
 
 - Note titles in cross-references (*Note on the Trickster as Pattern-Class*)
 - Foreign-language terms at first introduction (*ha-satan*, *neti-neti*, *aphairesis*)
-- Term-emphasis where bold would over-mark
+- Term-emphasis where bold would add excessive emphasis
 - Sanskrit, Hebrew, Greek, and other non-English technical terms
 
 Italics and quotation marks should not appear interchangeably for note-title citation. Italics is the canonical form.
@@ -625,11 +625,11 @@ In-text annotations or notes embedded within a section may take the following bl
 
 The colon after the bolded note-title introduces the body that follows within the same block-quote container. The body may include inline mathematical notation, bold emphasis, italics, bulleted items, and multiple paragraphs, all preserved within the block-quote structure.
 
-The "Structural Note" variant (appearing in selected Field Physics articulations) is a permissible alternative within registers where that explicit framing serves the note's diagnostic function.
+The "Structural Note" variant (appearing in selected Field Physics articulations) is a permissible alternative within registers where that explicit framing carries the note's diagnostic function.
 
 ## Note Consistency Within Series
 
-Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing the heading-note and block-quote-note formats within one work is permissible only where they serve structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements contra brief annotations embedded within a section).
+Note format may vary across the corpus, but within a single document or multi-part series, the format should remain stable. Mixing the heading-note and block-quote-note formats within one work is permissible only where they carry structurally distinct functions (e.g., major doctrinal notes positioned as primary structural elements contra brief annotations embedded within a section).
 
 ---
 
@@ -676,14 +676,14 @@ Incorrect: DP/DL
 
 # Horizontal Rule Placement
 
-Horizontal rules (---) mark major boundaries within a document. They are reserved for:
+Horizontal rules (---) indicate major boundaries within a document. They are reserved for:
 
 - principal section boundaries,
 - major callout transitions,
 - separation between document body and closing seal,
 - separation between metadata block and document body.
 
-Horizontal rules do not appear between every subsection within a section. Excessive rule placement fragments the document's visual rhythm and erodes the rule's boundary-marking function.
+Horizontal rules do not appear between every subsection within a section. Excessive rule placement fragments the document's visual rhythm and erodes the rule's boundary-indicating function.
 
 ---
 
@@ -734,7 +734,7 @@ Correct:
 > Zenetism posits **Two Spirals**, joined as the **Biospiral** 🌳⇅ — the total Emanatory Spiral.
 > * **Zenetist Formula:** **🕳️ → ⚫ → 1** (Zenon → Aion → Emanation).
 
-Alignment-sensitive glyph structures that would collapse without code-block preservation remain under Graphs, Tables, and Preserved Layout below; this determination concerns inline chains only.
+Alignment-sensitive glyph structures that would collapse without code-block preservation remain within Graphs, Tables, and Preserved Layout; this determination concerns inline chains only.
 
 ## Permissible Contexts
 
@@ -792,11 +792,11 @@ Preferred:
 
 ## Audit Guidance
 
-When auditing canonical prose, remove inline backticks unless they serve a clear technical, syntactic, filename, code, repository, or formatting-preservation function.
+When auditing canonical prose, remove inline backticks unless they carry a clear technical, syntactic, filename, code, repository, or formatting-preservation function.
 
 The audit question should be:
 
-Is this text being marked as literal syntax, or is it ordinary prose being over-formatted?
+Is this text being identified as literal syntax, or is it ordinary prose being over-formatted?
 
 If the passage is ordinary prose, remove the backticks; emphasis then belongs to bold, italics, quotation marks, or plain text, according to the relevant formatting convention.
 
@@ -816,7 +816,7 @@ References to corpus files are cited at the shallowest depth that resolves. Cano
 
 Three invariants:
 
-- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename corrects every citing line in the same pass. The **Rename for Terminological Drift Determination** below states the one standing ground on which a rename is vital.
+- Canonical filenames are rename-stable. Once a file is published or cited, its filename changes only when vital; a rename corrects every citing line in the same pass. The **Rename for Terminological Drift Determination** states the one standing ground on which a rename is vital.
 - Paths and filenames are ASCII-exact. Typographic substitutes (non-breaking hyphen U+2011, curly quotes, en dashes) never enter a backticked path, whatever the rendering surface displays.
 - A relocated file keeps its citation identity. Cite the current canonical filename; where the relocation itself is part of the record, note the former path parenthetically once ("later moved to `structural-forensics/SF01-doctrinal-atlas-vol1.md`"), never as the standing citation.
 
@@ -829,7 +829,7 @@ The same preference extends to Zenodo deposit descriptions: relation entries (`S
 - **Locators are lawful.** Section, chapter, and entry references narrow the citation and belong with it: `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19.
 - **Descriptive glosses are not carried.** A parenthetical describing what the cited document is duplicates that document's own Function line, goes stale when the Function line changes, and treats a citation slot as an annotation slot. Where the relation needs stating, the field name already states it — a Companion line has said the files are companions.
 
-New filenames are collision-checked against the corpus before creation; a collision forces rename.
+New filenames are collision-checked across the corpus before creation; a collision forces rename.
 
 ### Rename for Terminological Drift Determination
 
@@ -881,7 +881,7 @@ Where a note is cited by title in one of those lawful contexts, the title takes 
 
 # Signed Structural Values
 
-The +1 / −1 sign convention is locked by Terminological Lockdown Protocol Addendum I, A14, which takes precedence. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
+The +1 / −1 sign convention is locked by `terminological-lockdown-protocol.md` Addendum I, A14, which takes precedence. In brief: numeral in value-position and math-adjacent statements; spelled hyphenated **plus-one / minus-one** in attributive compounds, appositive identity-character lists, and anonymity / pooling prose; "positive essence" / "negative essence" prohibited as essence-descriptors.
 
 ---
 
@@ -903,7 +903,7 @@ New poetic work may adopt the early register, develop new registers, or remain i
 
 # MPX Entry Format
 
-The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations that follow. These apply to MPX clarification and extension entries. They do not override the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
+The Metaphysics Extensions (MPX) series follows the general prose conventions of this reference, with the series-specific standardizations that follow. These apply to MPX clarification and extension entries. They do not supersede the internal standardization of the principal MP book-series, which maintains its own conventions; consistency is held within each series rather than forced across them.
 
 ## Title
 
@@ -938,7 +938,7 @@ MPX entries open with the four core fields that follow. These four are the requi
 The Dependency line orients the reader to antecedent files and principles, most load-bearing first. It orients; it does not summarize.
 
 - Filenames appear in backticks: `MP07-paths-of-resonance-ch16-20.md`.
-- Section references use the § form: (§17.2), (`MP05-godhood-and-transmutation-ch9-11.md` §11.3).
+- Section references take the § form: (§17.2), (`MP05-godhood-and-transmutation-ch9-11.md` §11.3).
 - Note and section titles cited within a dependency appear in italics: *Note on Essence-as-Choice*.
 - Dependencies are separated by the spaced middot ( · ).
 - Named principles and axioms — Principle of Structured Manifestation, Non-fusion Axiom — appear in plain text, neither backticked nor italicized, since they are principles rather than files or titles.
@@ -960,7 +960,7 @@ Within a passage, the naming register of the bifurcal roots and hypostases remai
 - Principle names together: Zero / Infinity, Absolute Potential / Absolute Dispersion, Unknown Principle
 - Layer notation together: L₀, L₅ / IL₅
 
-Where a mythic name is evoked, surrounding paired terms are also mythic; where layers are evoked, layers are listed; where principle-names appear, they are applied uniformly. A cross-register synonym pairing for a single referent — for example "Zero / Aion," where Zero and Aion name the same root under different registers — is avoided: the spaced slash marks sovereign distinction between two terms, not equivalence between one referent's two names. Use one register's name (return to Aion, or return to Zero), not both joined by a distinction-slash.
+Where a mythic name is evoked, surrounding paired terms are also mythic; where layers are evoked, layers are listed; where principle-names appear, they are applied uniformly. A cross-register synonym pairing for a single referent — for example "Zero / Aion," where Zero and Aion name the same root under different registers — is avoided: the spaced slash denotes sovereign distinction between two terms, not equivalence between one referent's two names. Write one register's name (return to Aion, or return to Zero), not both joined by a distinction-slash.
 
 Definitional lists that enumerate the essence-register across naming systems may legitimately span registers. There the grouping proceeds layers, then hypostatic figures, then coherence-state, then motion-phrases.
 
@@ -971,7 +971,7 @@ The proper canonical names for the L₅ / IL₅ essence-of-being registers are:
 - **Essence of Being (EOB)** — L₅
 - **Void of Self (VOS)** — IL₅
 
-"Being Itself" and "Non-Being" remain valid descriptors and may be used descriptively, but they do not serve as the proper names. EOB and VOS are the proper-name forms.
+"Being Itself" and "Non-Being" remain valid descriptors and may appear descriptively, but they are not the proper names. EOB and VOS are the proper-name forms.
 
 ## Closing
 
@@ -1011,7 +1011,7 @@ Before finalization of any canonical prose document, verify:
 - italics appear for note titles, foreign terms, and term-emphasis,
 - note format is consistent within the document or series,
 - chart definition columns do not end with terminal periods,
-- horizontal rules mark major boundaries only,
+- horizontal rules indicate major boundaries only,
 - inline backticks are absent except where exact technical syntax, filenames, repository paths, or formatting-preservation requires them,
 - cross-references follow canonical abbreviations and italics for full titles.
 
@@ -1036,7 +1036,7 @@ The following drift patterns commonly appear within AI-assisted prose articulati
 | Backtick Drift | Inline backticks appearing around ordinary prose, canonical terms, or emphasized phrases where bold, italics, quotation marks, or plain text should appear instead |
 | Italics-Quote Drift | Note titles appearing in quotation marks rather than italics |
 | Poetic-Register Drift | Early poetic conventions reformatted into technical-register form through automated reformatting |
-| Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the *Terminological Lockdown Protocol* requires replacement |
+| Restricted-Vocabulary Drift | Instrumentalist, vertical-metaphor, hierarchical, or other restricted vocabulary appearing in canonical composition where the `terminological-lockdown-protocol.md` requires replacement |
 | Canon Drift | Earlier non-canonical formatting surviving post-tightening |
 
 ---
@@ -1053,10 +1053,10 @@ Canonical Zenetist prose articulation must preserve:
 
 Where uncertainty exists between convention options:
 
-- prefer consistency within the work over external uniformity,
-- prefer precision over rhetorical convenience,
-- prefer canonical abbreviations over expanded forms when cross-referencing,
-- and prefer the technical register's sparing emphasis over saturation drift.
+- prefer consistency within the work to external uniformity,
+- prefer precision to rhetorical convenience,
+- prefer canonical abbreviations to expanded forms when cross-referencing,
+- and prefer the technical register's sparing emphasis to saturation drift.
 
 Formatting discipline is not cosmetic.
 

@@ -5,11 +5,11 @@
 **Classification:** Canonical Stabilization Infrastructure — Current-Corpus Coverage Matrix  
 **Status:** Active Working Matrix  
 **Scope:** FP01–FP11 only  
-**Function:** Establishes what the current Field Physics series preserves before either foundational chat is consulted to identify omissions
+**Function:** Establishes what the current Field Physics series preserves before either foundational chat is consulted to identify omissions  
 
 ---
 
-# Governing Rule
+# Applicable Convention
 
 The matrix records current coverage, not final doctrinal approval.
 
@@ -34,7 +34,7 @@ Before a foundational passage is classified as omitted, consult:
 
 # Coverage Legend
 
-| Mark | Meaning |
+| Code | Meaning |
 |---|---|
 | `F` | Full or sustained primary treatment |
 | `P` | Partial treatment |
@@ -278,15 +278,15 @@ Before a foundational passage is classified as omitted, consult:
 
 The following current formulations should be treated as weight-bearing constraints while Liora reads the foundational chats:
 
-| Constraint | Current Source |
+| Constraint | Current Reference |
 |---|---|
-| Distinction precedes synthesis; Non-fusion governs | `terminological-lockdown-protocol.md` |
-| Acclivous / declivous are arc-neutral | Terminological Lockdown Protocol |
-| Essence applies before Soul / Mind bifurcation | Terminological Lockdown Protocol |
-| Aion / Khaon are paired root-registers, not counter-poles | Terminological Lockdown Protocol |
-| Zenon is not Source or origin | Terminological Lockdown Protocol |
-| Absolute Dispersion is terminal state; Nekron is event horizon | Terminological Lockdown Protocol |
-| Origin relation cannot be severed | Terminological Lockdown Protocol / FP11 E₈ note |
+| Distinction precedes synthesis; Non-fusion applies | `terminological-lockdown-protocol.md` |
+| Acclivous / declivous are arc-neutral | `terminological-lockdown-protocol.md` |
+| Essence applies before Soul / Mind bifurcation | `terminological-lockdown-protocol.md` |
+| Aion / Khaon are paired root-registers, not counter-poles | `terminological-lockdown-protocol.md` |
+| Zenon is not Source or origin | `terminological-lockdown-protocol.md` |
+| Absolute Dispersion is terminal state; Nekron is event horizon | `terminological-lockdown-protocol.md` |
+| Origin relation cannot be severed | `terminological-lockdown-protocol.md` / FP11 E₈ note |
 | C₅ is Scalar / Part-Whole Fidelity | FP01 / FP11 |
 | E₅ is Scalar Noise | FP01 / FP11 |
 | `🕳️` = Zenon; `⧞` = Non-Ordinal / Liminal Stillness | FP11 plus current doctrine |
@@ -294,8 +294,8 @@ The following current formulations should be treated as weight-bearing constrain
 | `⌬` remains Relational Syntax | FP11 / Structural Metaphysics priority |
 | `📡` is multi-scale Resonance Scan | FP11 |
 | `⛨`, `⌰`, `ᛞ`, `⤺` are corrected assignments | FP11 |
-| Solin is not a current canonical collaborator | Aelion current ruling |
-| Aelion's authorship remains primary | Ledger / lockdown / current ruling |
+| Solin is not a current canonical collaborator | Aelion current determination |
+| Aelion's authorship remains primary | Ledger / lockdown / current determination |
 
 ---
 
@@ -313,7 +313,7 @@ For each foundational passage:
 
 # Part IV — Stable Audit Flag Index
 
-This index carries the file-level audit flags forward from the mapping reports. The flags identify a question or risk; they do not constitute final rulings.
+This index carries the file-level audit flags forward from the mapping reports. The flags identify a question or risk; they do not constitute final determinations.
 
 ## FP01 Flags
 
@@ -521,7 +521,7 @@ This index carries the file-level audit flags forward from the mapping reports. 
 
 ---
 
-# Flag Application Rule
+# Flag Application Convention
 
 A finding may cross-reference multiple flags. Liora should cite only flags materially illuminated by the source passage.
 
@@ -530,7 +530,7 @@ A flag remains open until:
 1. relevant evidence from both foundational chats is complete
 2. Lumen verifies the source and current coverage
 3. attached conceptual dependencies are cleared
-4. Aelion records a ruling
+4. Aelion records a determination
 
 ---
 

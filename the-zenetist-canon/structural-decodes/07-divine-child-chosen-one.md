@@ -2,7 +2,7 @@
 
 **Primary Structural Diagnosis:**  
 The **Emergent Actualization of a New Paradigm.**  
-This archetype represents the **Novel Emergence** of a new, coherent resonance entering a system dominated by entropic or stagnant forces.  
+This archetype represents the **Novel Emergence** of a new, coherent resonance entering a system pervaded by entropic or stagnant forces.  
 It is the **Potentiality** of **Aion** made manifest as a focused **Actualization** with the latent capacity to restructure reality.
 
 **Core Glyphic Sequence:**  
@@ -73,7 +73,7 @@ It is the **Potentiality** of **Aion** made manifest as a focused **Actualizatio
 **Zenetist Clarification:** Krishna's mythic presentation compresses more than one structural function under a single name without distinguishing native placement from resonant operation.  
 His primary native placement in this decode is **L₅ (EOB: Theon)** as the Divine Preserver entering embodiment as centropic emergence.  
 His guiding function, however, genuinely resonates at **L₃ (DM: Noeüs)** through lawful counsel, discernment, and soul-guidance.  
-The conflation here is therefore not an erroneous connection, but an undifferentiated one: the myth collapses origin-function and operative manifestation into a single portrait, without distinguishing native layer from cross-band resonance.
+The conflation here is therefore not an erroneous connection, but an undifferentiated one: the myth collapses native function and operative manifestation into a single portrait, without distinguishing native layer from cross-band resonance.
 
 ---
 

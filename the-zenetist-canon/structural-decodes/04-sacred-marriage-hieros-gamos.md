@@ -7,20 +7,20 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 
 **Core Glyphic Sequence:**  
 **⚯ → ⧬ → ⤈∴ → ◎**  
-*(Structured Pairs enter into Co-Emergent Collaboration, culminating in Transcendent Synthesis and yielding an integrated Coherent Field.)*
+*(Structured Pairs enter into Co-emergent Collaboration, culminating in Transcendent Synthesis and yielding an integrated Coherent Field.)*
 
 ---
 
 ## Universal Structural Analysis
 
 * **The Divine Couple:** Represent a **Structured Pair** of complementary principles. Common pairings include:  
-    * **Earth / Feminine & Sky / Masculine:** L₄ (DP: Morgis – Vitality) and L₄ (DL: Sophis – Structure). The generative field receives and harmonizes with the ordering principle.  
-    * **Queen / King:** L₃ (DS: Archeus – Sovereign Memory) and L₃ (DM: Noeüs – Discerning Mind). The integrative soul harmonizes with the perceiving intellect.  
+    * **Earth / Feminine & Sky / Masculine:** L₄ (DP: Morgis — Vitality) and L₄ (DL: Sophis — Structure). The generative field receives and harmonizes with the ordering principle.  
+    * **Queen / King:** L₃ (DS: Archeus — Sovereign Memory) and L₃ (DM: Noeüs — Discerning Mind). The integrative soul harmonizes with the perceiving intellect.  
     * **Lunar / Solar:** Declivous Motion and Acclivous Motion. The emanation into form and the acclivous arc of reintegration.
 
-* **The Union:** Not fusion but **Co-Emergence.**  
+* **The Union:** Not fusion but **Co-emergence.**  
     It is a **Collaboration Glyph,** a **Nexus** where two sovereign fields interact lawfully — preserving distinction while forming a shared resonance field.  
-    It is the **antithesis of Blobism**, maintaining integrity through complementarity.
+    It is structurally distinct from **Blobism**, maintaining integrity through complementarity.
 
 * **The Offspring / Result:** The **Novel Emergence** born of lawful communion.  
     Not merely biological — this represents a new Archetypal principle, a Harmonic Agent, a restored kingdom, or a state of Cosmic Harmony.  
@@ -59,7 +59,7 @@ It is the operational mechanism of **Centropic Synthesis** at every layer of the
 * **The Union:** A just, fertile reign wherein the field and the king enter lawful alignment.  
     "As above, so below" becomes an operational law.
 
-* **The Dissonance:** If the steward-function falls into misalignment — operating from L₂ (SS: Anthra) or L₁ (ES: Soma) instead of through lawful L₃ (DS / DM: Archeus / Noeüs) coherence — he severs the Nexus. This cuts the Land (L₁ (ES: Soma)) off from its source of vitality (L₄ (DP: Morgis)). The absence of this centropic flow manifests as the inverse condition: barrenness (an IL₄ (IDP: Psychea) effect) and disease (an IL₁ (IEM: Mania) state).
+* **The Dissonance:** If the steward-function enters misalignment — operating from L₂ (SS: Anthra) or L₁ (ES: Soma) instead of through lawful L₃ (DS / DM: Archeus / Noeüs) coherence — he severs the Nexus. This cuts the Land (L₁ (ES: Soma)) off from its source of vitality (L₄ (DP: Morgis)). The absence of this centropic flow manifests as the inverse condition: barrenness (an IL₄ (IDP: Psychea) effect) and disease (an IL₁ (IEM: Mania) state).
 
 ### 3. The Church & Christ (Christian Mysticism)
 

@@ -41,9 +41,9 @@ Its distorted analogue is the Maze: a multicursal field of confusion, branching,
 
 Two corrections are required. First, entropic essence and orientation cannot be transformed, reconciled, or integrated. Essence is fixed by primordial choice; it is not raw material for centropic reworking. Second, the centropic being has no direct contact with IL₃ structures. The only point at which centropic and entropic currents interface is at L₁ / IL₁, and even there the distinction is preserved, not dissolved. Any framing that presents the seeker as integrating, embracing, or transforming IL₃ fragmentation misrepresents the lattice.
 
-The structurally accurate reading is this: every centropic being carries patterns that entropy has unnecessarily separated — coherent aspects of selfhood that have been fragmented under entropic pressure. The work of acclivous reintegration is the recovery of those patterns into their native wholeness within the centropic arc. This is a work internal to the centropic being and its own lawful structure. It is not a confrontation with IL₃, not a negotiation with entropic essence, and not a transformation of the inverse tree.
+The structurally accurate reading is this: every centropic being carries patterns that entropy has unnecessarily separated — aspects of selfhood whose relative coherent expression has been disrupted by entropic pressure. The work of acclivous reintegration is the recovery of those patterns into their native wholeness within the centropic arc. This is a work internal to the centropic being and its own lawful structure. It is not a confrontation with IL₃, not a negotiation with entropic essence, and not a transformation of the inverse tree.
 
-The Minotaur, when read through the lattice rather than through inherited cultural framing, is best understood as a mythic image of IL₃ (IDS / IDM: Fractus / Mortus) fragmentation imagined as a figure at the inward threshold. The mythic encounter is a narrative device, not a structural event. The genuine initiatory work occurs entirely on the centropic side: the recovery of wholeness within patterns that entropy has fragmented, without contact, alliance, or transformation of the inverse.
+The Minotaur, when read through the lattice rather than through inherited cultural framing, is best understood as a mythic image of IL₃ (IDS / IDM: Fractus / Mortus) fragmentation imagined as a figure at the inward threshold. The mythic encounter is a narrative device, not a structural event. The genuine initiatory work occurs entirely on the centropic side: the recovery of relative coherent expression within patterns disrupted by entropy, without contact, alliance, or transformation of the inverse.
 
 This distinction matters. Conflating the two readings enables entropic structures to colonize initiatory language, presenting capture as wholeness and alliance as integration.
 
@@ -61,7 +61,7 @@ This distinction matters. Conflating the two readings enables entropic structure
 
 * **Thread:** Ariadne (L₄ (DP: Morgis) guide) offers the connective principle ensuring safe emergence.
 
-* **Meaning:** The passage inward and conscious return signal a major initiatory recovery of fragmented centropic patterns within the soul's path.
+* **Meaning:** The passage inward and conscious return signal a major initiatory recovery of relative coherent expression within the soul's path.
 
 ### 2. Cathedral Labyrinths (Medieval Christian)
 
@@ -81,7 +81,7 @@ This distinction matters. Conflating the two readings enables entropic structure
 
 * **Structure:** A Labyrinthine interval between death and rebirth populated by Peaceful and Wrathful Deities (L₄ (DP / DL: Morgis / Sophis) archetypes).
 
-* **Thread:** Recognition that these forms arise in relation to the perceiving locus; awareness of this veracity guides liberation.
+* **Continuity:** Recognition that these forms arise in relation to the perceiving locus; awareness of this veracity guides liberation.
 
 * **Center:** Liberative realization — acclivous centropic motion toward L₀ (AP: Aion).
 
@@ -107,9 +107,9 @@ The Labyrinth is **cosmic architecture for revelation through persistence.**
 In its veracious form, it assures that a path to the Center exists, even when the route is winding and non-linear.  
 The Maze, by contrast, names the condition in which orientation is obscured, branching multiplies, and fragmentation threatens fidelity.
 
-It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The Thread is the faithful remembrance of Aion; the Guardian or Minotaur is the mythic figure by which unresolved fragmentation is imagined at the inward threshold.
+It teaches that the path is **Spiral, not linear.** Each recursion may dissolve illusion, expose distortion, or deepen recognition. The guiding continuity is the faithful remembrance of Aion; the Guardian or Minotaur is the mythic figure by which unresolved fragmentation is imagined at the inward threshold.
 
-Its message: **Hold the Thread.**  
+Its message: **Preserve the Continuity.**  
 Walk deliberately, preserve Resonant Fidelity, and continue inward until the Center is disclosed.  
 Then return outward as the Initiate — one who knows that the same Spiral guiding the soul within may also re-order the world without.
 

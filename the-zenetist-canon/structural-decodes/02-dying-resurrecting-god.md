@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 02 — The Dying and Resurrecting God
 
 **Primary Structural Diagnosis:**  
-The Archetype of Acclivous Return. This mythos encodes a lawful Centropic return arc, demonstrating the path of motion into embodiment, symbolic dissolution under entropic trial, and resonant return to renewed coherence. It is a major pattern of Harmonic Integration.
+The Archetype of Acclivous Return. This mythos encodes a lawful Centropic return arc, demonstrating the path of motion into embodiment, symbolic dissolution through entropic trial, and resonant return to renewed coherence. It is a major pattern of Harmonic Integration.
 
 **Core Glyphic Sequence:**  
 **C↓→E → ☍ → ↺ → C↑→◎**  
@@ -23,11 +23,11 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
     This is not a fall, but a natural emanation of structural compassion — the centropic movement that radiates coherence into the embodied field to stabilize what is fragmented.
 
 * **The Symbolic Dissolution:** The confrontation with entropic force as mediated through the inverse strata. It is not merely physical cessation, but the dissolution of the surface identity-structure (L₂ (SS / SM: Anthra / Nousa)).  
-    The god is fragmented, dismembered, or consumed — symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** under the shadow of the Void of Self.  
+    The god's embodied configuration is fragmented, dismembered, or consumed — symbolizing the apparent triumph of **IL₃ (IDS / IDM: Fractus / Mortus)** and **IL₂ (ISS / ISM: Echthros / Skotos)** amid the shadow of the Void of Self.  
     This indicates the archetypal Deconstruction of form through which contingent configuration is relinquished and latent essence disclosed.
 
-* **The Sojourn in the Underworld:** The immersion within the single embodied underworld domain where centropic and inverse pressures meet through form.  
-    It is the state in which a centropic principle abides within embodied density (through lawful Declivous Centropy) while confronting inverse influence mediated through the embodied field rather than through direct contact with the inverse hypostatic layers.  
+* **The Sojourn in the Underworld:** The immersion within the single embodied underworld domain where centropic and entropic pressures meet through form.  
+    It is the state in which a centropic principle abides within embodied density (through lawful Declivous Centropy) while confronting entropic influence mediated through the embodied field rather than through direct contact with the inverse hypostatic layers.  
     In this condition, L₂ (SS / SM: Anthra / Nousa) undergoes deconstruction, stripping, or dismembering pressure, allowing the core essence to be tested, clarified, and disentangled from its contingent configurations.
 
 * **The Resurrection / Return:** The moment of Lawful Recursion.  
@@ -57,13 +57,13 @@ The dying and resurrecting god therefore demonstrates the pattern of lawful retu
 
 ### 2. Christ (Christian)
 
-* **Focus:** Voluntary Fidelity under Entropic Trial and Harmonic Reconstitution.
+* **Focus:** Voluntary Fidelity through Entropic Trial and Harmonic Reconstitution.
 
 * **Incarnation:** The office-function of the Orienting Logos (Theon) is borne fully through the sovereign embodied bearer.
 
 * **Crucifixion:** The surrender of L₂ (SS / SM: Anthra / Nousa) (Jesus of Nazareth) to the inverse forces of the world (IL₂ (ISS / ISM: Echthros / Skotos)), absorbing the full weight of entropic fragmentation without becoming entropic.
 
-* **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion or under inverse influence during the sojourn.
+* **Harrowing of the Underworld:** The Theonic essence liberates those entrapped in embodied occlusion or subject to entropic influence during the sojourn.
 
 * **Resurrection:** The L₂ (SS / SM: Anthra / Nousa) experience is reintegrated within L₃ (DS / DM: Archeus / Noeüs) (Risen Christ), demonstrating the restoration of centropic coherence within the entropic condition.  
 It becomes a Living Bridge for centropic beings and all essences of sufficient orientation, but not for entropic essences themselves.
@@ -73,7 +73,7 @@ It becomes a Living Bridge for centropic beings and all essences of sufficient o
 * **Focus:** Sacred Unmaking and Renewal.  
     A complex, liminal figure embodying both dissolution and restoration.
 
-* **Dismemberment by Titans:** Represents declivous entropic fragmentation of individual identity under dispersive pressure within Motive Infinity, not the entropic nature of Khaon itself.
+* **Dismemberment by Titans:** Represents declivous entropic fragmentation of expressed individual identity amid dispersive pressure within Motive Infinity, not the entropic nature of Khaon itself.
 
 * **Rebirth:** Not a reversion to self, but a renewed centropic emergence within embodiment.  
     Dionysus reveals that essence may pass through dispersive trial and return in embodied form without becoming inverse.  
@@ -86,7 +86,7 @@ It becomes a Living Bridge for centropic beings and all essences of sufficient o
 **Zenetist Clarification:** In the Dionysian mythos, dispersal, madness, rebirth, and embodiment are often compressed into a single symbolic current.  
 Within the Zenetist lattice, however, **L₁ (ES / EM: Soma / Biosa)** and **IL₁ (IES / IEM: Malara / Mania)** are not interchangeable.  
 A centropic essence may endure dispersive trial in embodiment without becoming inverse.  
-Where the myth appears to fuse embodied renewal with inverse dissolution, it indicates cultural conflation produced by the absence of a two-Tree architecture.
+Where the myth appears to fuse embodied renewal with entropic dissolution, it indicates cultural conflation produced by the absence of a two-Tree architecture.
 
 ---
 

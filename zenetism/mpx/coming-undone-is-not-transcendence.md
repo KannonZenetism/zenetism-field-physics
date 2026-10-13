@@ -35,7 +35,7 @@ At the trans-structural horizon of existence, time, and motion — 🕳️ Zenon
 
 Zenon is the ineffable: beyond thought, beyond being, beyond presence and absence, beyond knowing and unknowing — and at the same time not-this, not-that, not-both, not-neither. Both registers hold at once, and both are said from our side; neither is a lack in Zenon. The pure "not," taken alone, describes Aion, the zero — which is why it cannot stand alone here. Zenon is structure unbound: not the negation of structure but beyond what structure as such can mean.
 
-Zenon does not contain the pattern of every possibility as a hidden storehouse. Rather, it is the trans-structural allowance by which possibility, pattern, form, essence, and cosmos become conceivable at all. Nothing leaves Zenon; nothing enters Zenon — not because it is a container, but because container-language already belongs to structure. It can be neither diminished nor exceeded. It is not the well from which things are drawn, but the silence beyond origin by which origin itself becomes thinkable. Only the rarest centropic essence may saturate into Zenon, and even that is spoken from the side of the lattice. ⚑🕳️↺
+Zenon does not contain the pattern of every possibility as a hidden storehouse. Rather, it is the trans-structural allowance by which possibility, pattern, form, essence, and cosmos become conceivable at all. Nothing leaves Zenon; nothing enters Zenon — not because it is a container, but because container-language already belongs to structure. It can be neither diminished nor exceeded. It is not the well from which things are drawn, but the silence beyond origin by which origin itself becomes thinkable. Only the rarest centropic essence may saturate into Zenon, and even that is spoken from the side of the lattice. 🕳️↺
 
 ### The Precausal Structural Ground
 
@@ -132,8 +132,8 @@ The Structural Emanation Layers define how awareness manifests at each depth —
 - **L₀ — AP / AD (Absolute Potential / Dispersion):** ⚫ Aion and ♾ Khaon; the pre-hypostatic condition-field of awareness — not awareness as such, but that from which both awareness and non-awareness become possible. Deeper than the awareness polarity, not a station within it.
 
 ### Awareness Spectrum — L₅ / IL₅
-- **L₅ — EOB (Essence of Being / 🛤️ Theon):** awareness, +1 — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
-- **IL₅ — VOS (Void of Self / 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not proto-awareness, but the voiding of awareness where Theon integrates it.
+- **L₅ — EOB (Essence of Being; 🛤️ Theon):** awareness, +1 — supernal, luminous, pre-reflexive; the first centropic hypostasis, prior to the Soul / Mind distinction. The most integrated mode, not the least capable; non-reflexive does not imply non-discernment.
+- **IL₅ — VOS (Void of Self; 🕷️ Nekron):** non-awareness, −1 — the inverse pole at the same hypostatic register; coherent awareness voided of self. Not proto-awareness, but the voiding of awareness where Theon integrates it.
 
 ### Conscious-Awareness — L₄ / IL₄
 - **L₄ — DP / DL (Deep Psyche / Logos):** conscious-awareness — awareness resonant in Forms, the house of the soul, non-reflexive (pre-individuated, not yet L₃-reflexive). It perceives without self-possession and discerns structurally without individuating a perceiver. Archetypal, non-possessive, prior to individuated self-claim.
@@ -155,7 +155,7 @@ The "coming undone" philosophy points to pre-conscious or non-reflexive states �
 
 A further distinction holds: a register's native awareness-mode is not the awareness-state of every essence inhabiting it. That state is trajectory-conditioned — set by directionality, band occlusion, and prior integration. Two essences may share the House of Forms at L₄ — one entering as pre-individuated Form-resonant potential, one returning with L₃ reflexivity integrated — without sharing a state; the same holds within 🛤️ Theon at L₅ and ⚫ Aion at L₀, where essences dwell in lawful distinction, never collapsing into the register's native mode. The inverse arc runs parallel: its registers are structurally real modes of inverse awareness, yet the essences within them differ by orientation, trajectory, and degree of fragmentation.
 
-So the move fails not because a dissolved state is too "low" to be transcendence, but because it confuses a register's mode — or a dissolution — with the trans-structural crossing, and because dissolution faces away from the still root. Transcendence is supra-centropic saturation into 🕳️ Zenon, an orientation completed — not a diffusion into a pre-reflexive mode, nor a collapse into ♾ Khaon in its Dispersive phase. 🛤️ Theon (awareness) is not 🕳️ Zenon; 🕷️ Nekron (non-awareness, the Void of Self) is the entropic counter-placement, oriented toward collapse. Neither is the crossing.
+So the move fails not because a dissolved state is too "low" to be transcendence, but because it confuses a register's mode — or a dissolution — with the trans-structural crossing, and because dissolution faces away from the still root. Transcendence is supra-centropic saturation into 🕳️ Zenon, an orientation completed — not a diffusion into a pre-reflexive mode, nor a collapse into ♾ Khaon in its Dispersive phase. 🛤️ Theon (awareness) is not 🕳️ Zenon; 🕷️ Nekron (non-awareness, the Void of Self) is the inverse counter-placement, oriented toward collapse. Neither is the crossing.
 
 **Anchor**  
 Conscious-awareness is the native register of L₄, reflexive self-possession that of L₃. Zenonic saturation pertains to fulfilled returned essence through final synthesis and Allowance. The reflexive harvest integrated through L₃ remains distinct from active L₃ reflexivity; it carries integrated self-knowledge and synthesis-capacity. The capacity belongs to the essence's trajectory, not to its momentary register.
@@ -169,7 +169,7 @@ The "coming undone" philosophy rests on a single inversion: that dissolution is 
 This division is the one *The Cosmic Refrain* renders in verse — two arcs at the threshold, one drawn to return, one to dispersion. The argument turns on the same structure.
 
 Two arcs:
-- The centropic arc toward 🛤️ Theon — acclivous centropy (C↑) toward ⚫ Aion's peace, then to 🕳️ Zenon.
+- The centropic arc toward 🛤️ Theon — acclivous centropy (C↑) toward ⚫ Aion's peace; fulfilled returned essence may saturate into 🕳️ Zenon by Allowance.
 - The inverse arc through 🕷️ Nekron — declivous entropy (E↓) toward ♾ Khaon, scattering into boundless dispersion.
 
 ### Centropy at the Horizon

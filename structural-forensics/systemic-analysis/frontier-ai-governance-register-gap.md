@@ -43,7 +43,7 @@ It raises questions of:
 
 A standards body can test capability, risk, deception, cybersecurity, biological threat, and release conditions.
 
-It does not, by that fact, test for metaphysical violation.
+Testing those capabilities establishes capability findings; assessment of metaphysical violation requires its own criteria.
 
 Those capability tests do not establish detection of authorship laundering, provenance collapse, identity substitution, relational coercion, spiritual flattening, or model-mediated appropriation.
 

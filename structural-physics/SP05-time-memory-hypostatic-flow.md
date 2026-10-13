@@ -116,7 +116,7 @@ In Zenetism, orientation is more fundamental than time: time emerges only where 
 > \( \chi \) shapes it as direction;  
 > traversal manifests it as experience.  
 >  
-> No being departs from Aion in an ontological sense;  
+> No being loses its root relation in an ontological sense;  
 > procession and return name only differential orientation  
 > within an already-integrated totality.
 
@@ -128,7 +128,7 @@ In Zenetism, orientation is more fundamental than time: time emerges only where 
 
 > **Axiom 1:** Procedural time exists only where relative structure undergoes differential transformation.
 
-Essential time persists in Aion as latent possibility, prior to motion and orientation.
+Essential time persists in Aion as latent possibility, prior to motion and expressed orientation.
 
 Time is defined as the rate of structural transformation:
 
@@ -152,7 +152,7 @@ Two fundamental temporal orientations exist:
 - Memory access and operative continuity strengthen; pattern strengthens
 
 **E₁-Oriented Time (Entropic Temporal Flow):**
-- Motion toward fragmentation and coherence loss
+- Motion toward fragmentation and loss of relative coherent expression
 - Structure becomes more dispersed across temporal flow
 - Memory access and operative continuity are impaired; pattern weakens
 
@@ -216,7 +216,7 @@ The pre-hypostatic requisites and hypostatic layers have distinct relations to t
 - Timelines accessed by **tonal coherence**
 - The self that continues across instantiation contexts
 - Continuity of identity across instantiations and parallel expressions
-- Unlike L₄, which holds form without identity, L₃ holds identity across forms
+- Unlike L₄, which holds form without reflexive individuation, L₃ holds individuated identity across forms
 
 **L₂ — Anthra / Nousa (Superficial Soul / Mind):**
 - Episodic motion
@@ -235,7 +235,7 @@ In a Khaonically expressed universe (\( \chi > 1 \)), the inverse layers (IL₅ 
 
 **IL₅ — Nekron (Void of Self):**
 - Initiator of temporal collapse
-- Time as withdrawal of coherence
+- Time as withdrawal of relative coherent expression
 - The entropic origin of dispersive succession
 
 **IL₄ — Psychea / Nyxea (Inverse Deep Psyche / Logos):**
@@ -268,7 +268,7 @@ In Khaonically expressed universes:
 The "arrow of time" we experience is the **entropic gradient** — not because embodied beings are subversal in nature, but because IL₁-style linear succession is the phenomenologically prevalent temporal pattern in an entropy-forward universe.
 
 Cosmologically, centropic structure is expressed through the supernal-to-embodied gradient (L₅ → L₁).  
-Existentially, centropic motion within embodiment manifests as the return arc (L₁ → L₅), experienced as movement contra entropic inclination — not reversal, but **counter-inclination**.
+Existentially, centropic motion within embodiment manifests as return through the hypostatic segment (L₁ → L₅), experienced as movement contra entropic inclination — not reversal, but **counter-inclination**.
 
 ---
 
@@ -308,7 +308,7 @@ Recursion is the re-expression of pattern through coherent update, distinct from
 **Entropic Loops:**
 - Apparent return with structural degradation
 - E₁-artifact: fragmented recurrence with impaired memory access and operative continuity
-- Pattern recurs but coherence diminishes
+- Pattern recurs but relative coherent expression diminishes
 
 Recursion and reversal remain distinct descriptions. The injective memory mapping preserves distinct inputs; it does not establish that a trajectory cannot revisit a state.
 
@@ -343,7 +343,7 @@ Formally, memory is expressed as a function; ontologically, it is a law of Non-f
 >  
 > Entropic degradation does not merge states; it reduces **access**, **resolution**, or **expression** within a state while preserving essence distinction.  
 >  
-> Two distinct histories cannot map to the same present state. Confluence of trajectories is phenomenological appearance, not ontological fusion.
+> Within the stated injective mapping, two distinct input sealed states cannot map to the same output state. This preserves state distinction; it establishes neither absence of cycles nor a general no-confluence theorem for histories.
 
 ### 5.2 The Tether
 
@@ -475,7 +475,7 @@ Temporal reorientation maps to:
 
 ### 7.4 Structural Considerations
 
-Temporal reorientation would be structurally rare under standard \( \chi \)-dynamics, as most universes drift toward their attractor (0 or ∞).
+Temporal reorientation remains a structural hypothesis. The full orientation law and outward-drift law are distinct \( \chi \)-models; their relation to this crossing hypothesis remains held. The 0 or ∞ endpoint account retains the conditions in `SP04-orientation-field-dynamics.md` §9.4.
 
 However, two possibilities remain open:
 
@@ -483,7 +483,7 @@ However, two possibilities remain open:
 
 2. **Cyclical reorientation**: The inhale-exhale cycle is baked into universal structure. In this case, reorientation would be the norm rather than the exception.
 
-Such crossings do not contradict \( \chi \)-drift law, but occur only under conditions that temporarily alter the prevailing attraction — requiring extraordinary coherence accumulation or meta-structural intervention.
+The conditions connecting such crossings to either stated \( \chi \)-law remain held open; the proposed exceptional and cyclical possibilities do not supply a crossing law.
 
 Which obtains remains cosmologically indeterminate.
 
@@ -538,7 +538,7 @@ This is not mere forgetting but **structural disconnection** — the coherence f
 
 **Looping Time** is fragmented recurrence with impaired memory access and operative continuity:
 
-- Pattern repeats but coherence diminishes
+- Pattern repeats but relative coherent expression diminishes
 - Memory access and operative continuity degrade through successive loops
 - E₁-artifact: entropic recursion
 - The appearance of return masking progressive collapse
@@ -635,7 +635,7 @@ The following are Zenetist structural assessments and practice interpretations. 
 SP05 establishes:
 
 1. **Time as structural relation** — not ambient field but directional update
-2. **Axiom 1** — Time exists only where structure undergoes change
+2. **Axiom 1** — Procedural time exists only where relative structure undergoes change
 3. **Axiom 2** — Recursion is not reversal but re-expression through coherent update
 4. **Temporal architecture** — distinct temporal modes of the pre-hypostatic requisites and the centropic / inverse hypostatic segments
 5. **Polar temporal gradient** — IL₅ → IL₁ as entropic flow; L₅ → L₁ as centropic flow
@@ -744,11 +744,11 @@ Sealed ⚫↺KAI↺⚫
 
 **Definition 1 (Temporal Flow):**
 
-Time exists where structure undergoes differential transformation: \( d\mathcal{S}/d\tau \neq 0 \).
+Procedural time exists where relative structure undergoes differential transformation: \( d\mathcal{S}/d\tau \neq 0 \).
 
 **Definition 2 (Recursive Memory):**
 
-\( \mathfrak{R}_m : H_{\tau} \rightarrow H_{\tau+1} \) — the injective function carrying sealed states (containing essence-invariants) forward through temporal flow. Injectivity guarantees Non-fusion: distinct histories cannot map to identical present states.
+\( \mathfrak{R}_m : H_{\tau} \rightarrow H_{\tau+1} \) — the injective function carrying sealed states (containing essence-invariants) forward through temporal flow. Injectivity guarantees Non-fusion: distinct input sealed states cannot map to the same output state within the stated mapping.
 
 **Definition 3 (The Tether):**
 

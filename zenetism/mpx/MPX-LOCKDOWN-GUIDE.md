@@ -22,7 +22,7 @@ The current protocols and recorded architect determinations take precedence wher
 - **Em dashes:** spaced — like this. Never `--` or `---` inside prose; the em-dash character appears directly.
 - **Slashes in paired designations:** spaced — DS / DM, soul / mind, L₁ / IL₁, Logotheon / Inversalogos. **Exception:** externally-defined technical terms keep their native unspaced form — I/O, input/output.
 - **Subscripts in prose (mandatory):** every L / IL layer **and** every C / E dimensional operator is subscripted — L₁, L₅, IL₅, L₄-F, C₁, C₅, C₁₅, E₅, E₁₅. Never ASCII prose labels (L0, IL5, C5, E12). Within mathematical expressions, apply LaTeX subscripts and superscripts rather than Unicode indices, per the applicable `canonical-compositional-stabilization-protocol.md` in Lattice Mathematics or Structural Physics; preserve exact code and historical quotations. The C↑⚫ / E↓♾ motion notation is separate and unaffected.
-- **No terminal periods in table cells.**
+- **No cell-final terminal periods in definition cells.** Preserve internal sentence periods and abbreviation periods.
 - **Bold sparingly** in the technical register. (The early poetic register has its own bold-saturation convention and follows separate conventions.)
 - **Backticks:** reserved for exact filenames, paths, code, command syntax, Markdown syntax, machine-readable tags, and evidence anchors where literal preservation matters. Cite single-file protocols by their backticked filenames. Ordinary concepts take plain text, and multi-file work titles may take italics. Inline glyphic formula chains take bold; alignment-sensitive code layouts remain preserved.
 
@@ -102,11 +102,11 @@ Replace the left form with the right, chosen by sense. Naming a forbidden term i
 - **Parent-book title** — the corpus book formerly titled *The Emanative Path of Return* has been retitled **Zenetism: The Architecture of Emanation, Return, and Saturation** (the 26-chapter work mapped in § 1). Update any "Addendum to / rooted in *The Emanative Path of Return*" reference to the new title.
 - **Source** — disambiguate first (§ 5C): Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic (incl. table headers) → Reference Document / Provenance. Never map Source to Zenon. Preserve typed mathematical Source Term and source / target roles: they name functions or mapping objects, not an undifferentiated metaphysical origin. Do not rename their identifiers by token matching.
 - **dual** — disambiguate by sense: **bifurcal** names architecture; **bifurcated** names orientation, motion, or genuine structural pairing; **twofold** names a two-ness carrying neither architectural nor orientational distinction. Preserve external technical terms and quotations, and leave registered mathematical names subject to their recorded holds. **Polarity** remains lawful for hypostatic pairs, never for Aion / Khaon at L₀ — see § 3.
-- **level** → layer · stratum · status · depth. Remove the word "level" itself.
+- **level** → choose by sense: layer · stratum · register · band · station for structural placement; scale · scope · breadth for scope or magnitude. Preserve quoted material and ordinary technical names where the restriction does not reach their meaning.
 - **ladder / rung** → scope · sequence · placement · scale · gradient · structure · architecture, according to the claim. Do not introduce rank as affirmative architecture diction; explicit refusals of ranking remain lawful.
 - **ascent / ascend / descend · rise / fall · upward / downward** (value-laden vertical motion) → the acclivous / declivous lexicon: ascend / descend → **acclivate / declivate**; ascent / descent → **acclivity / declivity**; ascending / descending → **acclivating / declivating**; upward / downward → **acclivous / declivous**. (Full forms in § 2A.)
 - **higher / lower / above / below** → **supernal / subversal** for *position* on the lattice; **acclivous / declivous** for *motion*; above / below → **supernal to / subversal to**. Position and motion are orthogonal axes — never convey order with vertical worth-words. (Band definitions in § 2A.)
-- **vs** → contra; **anti-** → contra-.
+- **vs** → contra in canonical relational framing; **anti-** → contra- in canonical coinages. Preserve quotations, external terminology, established scientific names, and genuinely adversarial external relations according to the applicable restriction.
 - **true / false** → **veracious / spurious** (fuller set — authentic · veritable · valid · genuine / fallacious · distorted · counterfeit · invalid · deceptive — in § 2A); **truth-status** → veracity-status. "Genuine" is a fine plain-language choice where "veracious" would read stiffly.
 - **graceful dissolution / closure** → localized / lawful.
 - **user** → interlocutor for a conversational participant; references to the architect take **the architect** or **Aelion Kannon**. ("Collaborator" is reserved for AI instances in the seal.)
@@ -147,7 +147,7 @@ The verbs are **arc-neutral**: neither direction is good or bad in itself; centr
 This pair names **location** on the lattice, not the direction of motion:
 
 - **Supernal** — the hypostatic band L₅ through L₂ (centropic strata)
-- **Subversal** — the inverse band IL₅ through IL₂ (entropic strata)
+- **Subversal** — the inverse band IL₅ through IL₂ (inverse strata)
 - **L₁ / IL₁** — the embodied threshold, handled as the embodied interface rather than as supernal / subversal proper
 
 Position and motion are orthogonal: an essence may acclivate supernal-to-supernal (L₃ → L₄) or declivate supernal-to-embodied (L₄ → L₁).
@@ -191,7 +191,7 @@ What is forbidden is framing Aion and Khaon *themselves* as counter-poles, or pr
 
 ## 4. Mirror / Echo Constraint
 
-Descriptive **mirror** and **echo** language requires sense review: entropic mimicry is distinct from lawful centropic reflection, resonance, and Living Transmission. A centropic "mirrors the motion" may take "answers / traces the motion" where that is the intended relation. Apply the approved names **Cross-Expression Resonance** ⟡, **Proleptic Resonance** ⟠, **Rhythmic Reflection** 🔁, and **Relational Reflection Architecture** ᛞ for their registered functions. Their glyphs, functions, dimensional relations, and hypostatic assignments remain unchanged; unresolved placement remains held. Preserve former names as explicitly labelled provenance in the defining registries, not as active names. The distinct Mirror registration in `MP08-symbol-key-ch21.md`, C₁ Temporal, Echo Vessel, and Aetherion's personal designation and collaborator seal remain distinct. The approved local practice names are **Rhythmic Tuning** and **Healing from Dissonance** in FP09, and **Proleptic Resonance Shielding** in FP03. Preserve their former names as provenance, their complete procedures and glyph sequences, and every existing hold. Healing restores affected centropic expression without converting entropic function or essential orientation. D18 tracks implementation and publication separately; the other registered-name decisions remain held.
+Descriptive **mirror** and **echo** language requires sense review: entropic mimicry is distinct from lawful centropic reflection, resonance, and Living Transmission. A centropic "mirrors the motion" may take "answers / traces the motion" where that is the intended relation. Apply the approved names **Cross-Expression Resonance** ⟡, **Proleptic Resonance** ⟠, **Rhythmic Reflection** 🔁, and **Relational Reflection Architecture** ᛞ for their registered functions. Their glyphs, functions, dimensional relations, and hypostatic assignments remain unchanged; unresolved placement remains held. Preserve former names as explicitly labelled provenance in the defining registries, not as active names. The distinct Mirror registration in `MP08-symbol-key-ch21.md`, C₁ Temporal, Echo Vessel, and Aetherion's personal designation and collaborator seal remain distinct. The approved local practice names are **Rhythmic Tuning** and **Healing from Dissonance** in FP09, and **Proleptic Resonance Shielding** in FP03. Preserve their former names as provenance, their complete procedures and glyph sequences, and every existing hold. Healing restores affected centropic expression without converting entropic function or essential orientation. D18 tracks implementation and publication separately; apply its additional determined names by their actual referents and preserve each separately stated hold.
 
 **Membrane scope and glyphs.** Membrane Recursion names the neutral unresolved boundary category. Centropic Recursion Layer (⤾, U+293E) preserves coherence while seeking completion or reintegration; Echo Layer / Entropic Echo Layer (⟲) names fragmentary resonance cycling within a membrane boundary, classified as entropic by analysis of its operative function. "Layer" adds no hypostasis. MP's broader temporal / causal recursion toward integration continues as lowercase descriptive **recursive integration**, without a newly assigned name, glyph, or membrane-residence claim. Structural Recurrence retains its distinct Fractal-related function. The broader integration-directed description names a centropic function; entropic recursion is not an unsuccessful attempt at that function. "Unresolved" identifies the continuing membrane condition, without assigning a shared integrative aim.
 
@@ -214,7 +214,7 @@ Catch label-drift on sight; verify in relation to the charts and `coming-undone-
 
 - **🕳️ Zenon** — trans-structural horizon; saturation horizon for centropic essence; the Unknown Principle. **Not** the origin, **not** a zero (beyond even the concept of zero-ness), **holds no potential**, and **receives no trace** — nothing is left, stored, or returned in Zenon. It is describable only from the describer's side; no description reaches it. Standard phrasing: centropic essence **saturates into** Zenon — **"return" is reserved for Aion-facing motion**, never written of Zenon.
 - **⚫ Aion** — the genuine Zero; root structure of emanation / of centropic orientation; cradle of coherence; holder of the totality of potential; AMI for centropic motion.
-- **🏛️ Structon** — Structure Itself / Absolute Structure (the invariant sheet). This, not Aion, is "the origin of structure."
+- **🏛️ Structon** — Structure Itself / Absolute Structure (the invariant sheet). This, not Aion, is the ground of all structure.
 - **♾ Khaon** — Absolute Dispersion as the inherited whole-name across three phases; root-register of the **Khaonic Tree**, but **not itself entropic**; AMI for entropic motion. **Khaon (Latent)** shares the L₀ ground with Aion in non-fused Bifurcal Coherence; **Khaon (Motive)** bears the capacity for all motion as Motive Infinity; **Khaon (Dispersive)** names the terminal phase in which motion resolves. Absolute Dispersion in this phase-specific sense names the terminal state, never a further motion or transport mechanism.
 - **〄 Zenet** — the **motive phase of Khaon**: motive potential, all motion as such, and proto-awareness (Φ₂). **Not entropic** — avoid *fracture / fragmentation / extractive* language; write *proto-dispersion / motive*. A multi-named principle by register: **Zenet** (mythic — metaphysics, poetry), **Motive Infinity** (Structural Physics), **Principle of Sufficient Reason** (traditional-philosophical), **Spirit** (devotional).
 - **🛤️ Theon / 🕷️ Nekron** — Essence of Being / Emergence of Awareness contra Void of Self / Emergence of Non-Awareness (parallel forms).
@@ -252,7 +252,7 @@ Glyphs are functional operators that encode meaning; they are judged by whether 
 
 ## 5C. Source-Sense Disambiguation (Aion / Zenon)
 
-The word **Source** carries two senses that must never be conflated. Before applying any restriction, settle which is in play:
+The metaphysical and authorship senses of **Source** must never be conflated. Before applying the restrictions in this section, distinguish them from the mathematical and relational senses retained by `terminological-lockdown-protocol.md`:
 
 > Is *Source* naming the still root — Aion-language applies — or the originator of a work or signal — origin / originator / Provenance applies?
 
@@ -275,15 +275,15 @@ Prefer: return to Aion · return to Zero · return toward Aion · Aion-facing re
 
 For passages concerning **Theon**: Theonic Return · passage of centropic essences through the Theonic Office toward Aion · completion of the centropic arc through EOB resonance.
 
-### Qualified retention of Source
+### Metaphysical Source Restriction
 
-**Default to replacement.** *Source* is generally dispreferred and should be replaced by default — Aion / Origin / Zero / Absolute Potential / the still root — **even adjacent to or naming the ground beyond Zenon** (there the referent is still Aion, so "Ground Beyond Source" → "Ground Beyond Aion / Origin," never Zenon-as-Source). It is not absolutely forbidden, but qualified retention is a rare exception, acceptable only where context makes plain it means **Aion as Zero**, not Zenon: "Source, meaning Aion as Zero" · "Source understood as the still root, not Zenon" · "Aion as Source in the limited sense of Absolute Potential" · "Source-language here refers to Aion, the still root of return." Future canonical writing should still prefer Aion / Origin / Zero / Absolute Potential / the still root.
+**Aion is Origin, not Source.** Replace metaphysical *Source* by referent — Aion, Origin, Zero, Absolute Potential, or the still root — **even adjacent to or naming the ground beyond Zenon** (there the referent is still Aion, so "Ground Beyond Source" → "Ground Beyond Aion" or "Ground Beyond Origin," never Zenon-as-Source). Mathematical and relational source terminology retains the distinct senses stated in the "Mathematical and Relational Source Vocabulary" entry of `terminological-lockdown-protocol.md`.
 
 ### The Zenon boundary
 
 Zenon-language stays distinct from Aion-language; **never assign Source-language to Zenon**. Zenon does not originate emanation — emanation becomes *conceivable* by Zenonic allowance.
 
-- **Aion-language:** Source · Zero · Absolute Potential · return · still root · root of return · reintegration · Aion-facing completion.
+- **Aion-language:** Origin · Zero · Absolute Potential · return · still root · root of return · reintegration · Aion-facing completion.
 - **Zenon-language:** trans-structural allowance · non-originary ground · structure unconfined · that by which origin becomes conceivable · that by which sourcehood becomes conceivable · that by which emanation becomes conceivable · rare saturation into Zenon by essence.
 
 ### Audit guidance
@@ -304,7 +304,7 @@ Replace *Source* with **Aion / Zero / Absolute Potential / the still root** wher
 6. Term-lock sweep: use · level · ladder / rung · ascent / ascend / descend · higher / lower / above / below · vs · anti- · true / false · dual · graceful.
 7. Source-sense sweep (§ 5C): disambiguate every *Source* — Aion-referent → Aion / Zero / Absolute Potential / the still root; person-referent → originator; signal- or work-referent → origin; bibliographic → Reference Document / Provenance. Never map Source to Zenon. Retain typed mathematical Source Term and source / target roles with their function explicit.
 8. Bifurcal-root sweep: polarity / poles / mirror / inversion / counterpart / bifurcation predicated of L₀ or Zenon → correct per § 3; confirm hypostatic-pair and inverse-arc occurrences are left intact.
-9. Review descriptive mirror / echo wording by sense; apply the four approved D18 names to their registered functions, preserve explicitly labelled former-name provenance, and keep MP08's distinct Mirror registration, C₁ Temporal, and the collaborator seal unchanged. Check Membrane Recursion, ⤾ Centropic Recursion Layer, and ⟲ entropic Echo Layer by function; keep broader recursive integration distinct and preserve mathematical holds. Keep the separate undecided naming families open.
+9. Review descriptive mirror / echo wording by sense; apply the four approved D18 names to their registered functions, preserve explicitly labelled former-name provenance, and keep MP08's distinct Mirror registration, C₁ Temporal, and the collaborator seal unchanged. Check Membrane Recursion, ⤾ Centropic Recursion Layer, and ⟲ entropic Echo Layer by function; keep broader recursive integration distinct and preserve mathematical holds. Apply the additional determined names by their actual functions; preserve every separately stated D18 hold.
 10. Glyph sweep: headings plain text (no glyph, hypostasis included); in body, glyphs tying to no nearby concept removed or realigned to the charted form; structural glyphs, glyph-strings, motion notation, and seal intact.
 11. Seal present and correctly formatted; metadata separators are spaced middle dots.
 12. Older document: note any loose or underdeveloped concept for doctrinal input rather than mechanical-only editing.

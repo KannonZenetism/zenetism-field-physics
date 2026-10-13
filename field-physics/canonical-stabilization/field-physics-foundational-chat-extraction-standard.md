@@ -1,11 +1,11 @@
 # Field Physics Foundational Chat Extraction Standard
-## Controlled Method for Chat Documents 1 and 2
+## Bounded Method for Chat Documents 1 and 2
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Foundational Extraction Standard  
-**Status:** Active Working Standard — July 20, 2026  
+**Status:** Active Working Standard  
 **Scope:** Foundational Field Physics Chat Documents 1 and 2  
-**Function:** Governs segmented extraction, source citation, stable cross-referencing, preliminary classification, deduplication, and handoff for later adjudication
+**Function:** Specifies segmented extraction, reference citation, stable cross-referencing, preliminary classification, deduplication, and handoff for later adjudication  
 
 ---
 
@@ -54,7 +54,7 @@ Liora may request an individual FP file when exact current wording is required.
 
 ## Chat Document 2 Session
 
-Use a separate chat containing:
+Open a separate chat containing:
 
 1. the same ledger and ten-file package
 2. the completed Chat Document 1 findings file
@@ -80,9 +80,9 @@ The findings file is updated continuously. Do not rely on conversational memory.
 
 # 4. Segmented Reading Method
 
-## `EXT-001` — Controlled Segments
+## `EXT-001` — Bounded Segments
 
-Read the foundational chat in controlled segments whose boundaries are recorded.
+Read the foundational chat in bounded segments whose boundaries are recorded.
 
 Prefer natural boundaries such as:
 
@@ -102,7 +102,7 @@ At the beginning of each segment record:
 |---|---|
 | Segment ID | `CD1-SEG-001` |
 | Source span | page / message / date range |
-| Dominant topics | |
+| Principal topics | |
 | Status | Unread / In progress / Complete |
 
 ## `EXT-003` — Segment Completion
@@ -119,7 +119,7 @@ A segment is complete only after:
 
 # 5. Finding IDs
 
-Use:
+Write:
 
 - `FIND-CD1-001` onward for Chat Document 1
 - `FIND-CD2-001` onward for Chat Document 2
@@ -138,9 +138,9 @@ Each finding must follow this structure:
 |---|---|
 | Finding ID | `FIND-CD1-000` |
 | Working Name | |
-| Source Document | Foundational Chat Document 1 |
-| Source Segment | `CD1-SEG-000` |
-| Exact Source Location | page, message, date, heading, or quoted opening words |
+| Reference Document | Foundational Chat Document 1 |
+| Reference Segment | `CD1-SEG-000` |
+| Exact Reference Location | page, message, date, heading, or quoted opening words |
 | Original Date | if recoverable |
 | Exact Passage | shortest sufficient excerpt; do not reproduce excessive compromised text |
 | Original Function | what structural work the passage performs |
@@ -195,7 +195,7 @@ Historical significance may remain.
 
 ## `CLASS-E` — Drift / Bloblist
 
-The passage creates decorative accumulation, category collapse, false synthesis, or ungrounded symbolic association.
+The passage creates decorative accumulation, category collapse, spurious synthesis, or ungrounded symbolic association.
 
 ## `CLASS-F` — Internal Document Corruption
 
@@ -215,7 +215,7 @@ The concept is valid or significant but belongs outside Field Physics.
 
 ## `CLASS-J` — Conceptually Dependent
 
-The concept is structurally significant, but final classification requires one or more `CDP-###` rulings.
+The concept is structurally significant, but final classification requires one or more `CDP-###` determinations.
 
 `CLASS-J` may be paired with another class, such as:
 
@@ -262,7 +262,7 @@ When exact current wording is needed, request the relevant FP file.
 
 ---
 
-# 10. Synonym and Rename Rule
+# 10. Synonym and Rename Convention
 
 Search early vocabulary aggressively.
 
@@ -278,7 +278,7 @@ Never apply current echo, mirror, or fractal restrictions retroactively without 
 
 ---
 
-# 11. Glyph Rule
+# 11. Glyph Convention
 
 A glyph appearing without local definition is not automatically missing.
 
@@ -288,13 +288,13 @@ Classify its relationship as:
 2. locally extended / concordance required
 3. locally redefined, colliding, or unsupported
 
-Use `GLY-###` entries.
+Consult `GLY-###` entries.
 
 Where FP11 and an earlier file conflict, record the conflict rather than silently applying FP11.
 
 ---
 
-# 12. Numerical and Equation Rule
+# 12. Numerical and Equation Convention
 
 For every number, threshold, or formula record:
 
@@ -307,21 +307,21 @@ For every number, threshold, or formula record:
 
 Do not call a formula mathematical merely because it contains notation.
 
-Use the `NUM-###` register.
+Consult the `NUM-###` register.
 
 ---
 
-# 13. Open-Question Rule
+# 13. Open-Question Convention
 
 Open questions are evidence searches.
 
-Do not treat one recovered passage as a rule for classifying later passages unless Aelion has ruled.
+Do not treat one recovered passage as a standard for classifying later passages unless Aelion has made that determination.
 
-For example, a passage bearing on inverse-glyph deployment must be entered through `OQ-INV-01`; it does not authorize Liora to decide that all later inverse deployment is lawful or unlawful.
+For example, a passage bearing on inverse-glyph deployment must be entered through `OQ-INV-01`; it does not license Liora to decide that all later inverse deployment is lawful or unlawful.
 
 ---
 
-# 14. Conceptual-Dependency Rule
+# 14. Conceptual-Dependency Convention
 
 Where the terminological protocol settles the issue, apply it.
 
@@ -360,9 +360,9 @@ Flag passages involving:
 
 ---
 
-# 16. Authorship Rule
+# 16. Authorship Convention
 
-Aelion Kannon's concepts, rulings, selections, and structural direction remain primary.
+Aelion Kannon's concepts, determinations, selections, and structural direction remain primary.
 
 AI participation may be classified as:
 
@@ -391,7 +391,7 @@ When a later passage repeats an existing finding:
 
 Chat Document 2 must consult the CD1 findings file.
 
-Mark:
+Record:
 
 - exact duplicate
 - expanded duplicate
@@ -403,7 +403,7 @@ Do not erase either source location.
 
 ---
 
-# 18. Chronology Rule
+# 18. Chronology Convention
 
 Recency alone does not decide validity.
 
@@ -418,7 +418,7 @@ When formulations conflict, record:
 
 # 19. Source Citation Standard
 
-Use the most precise source locator available.
+Write the most precise reference locator available.
 
 Preferred order:
 
@@ -431,7 +431,7 @@ Every accepted candidate must be independently locatable by Lumen and Aelion.
 
 ---
 
-# 20. FP-File Request Rule
+# 20. FP-File Request Convention
 
 Liora may request an individual current FP file when:
 
@@ -453,7 +453,7 @@ During extraction:
 - do not delete rejected findings
 - do not convert tentative material into canon
 - do not resolve conceptual dependencies
-- do not issue final corruption rulings
+- do not issue final corruption determinations
 
 The extraction output is the findings file, not restored doctrine.
 
@@ -469,7 +469,7 @@ At the end of every segment verify:
 - [ ] numerical items recorded
 - [ ] open questions cross-referenced
 - [ ] corruption indicators reviewed
-- [ ] conceptual dependencies marked
+- [ ] conceptual dependencies recorded
 - [ ] duplicates checked
 - [ ] segment status changed to Complete
 
@@ -501,7 +501,7 @@ Lumen's verification pass will:
 - identify additional dependencies
 - recommend preliminary adjudication outcomes
 
-Lumen does not replace Aelion's ruling.
+Lumen does not replace Aelion's determination.
 
 ---
 
@@ -515,7 +515,7 @@ Aelion decides:
 - whether it supports FP12
 - whether it belongs in an archive or corruption record
 - whether it is rejected
-- which conceptual protocol governs
+- which conceptual protocol applies
 - final wording
 
 ---

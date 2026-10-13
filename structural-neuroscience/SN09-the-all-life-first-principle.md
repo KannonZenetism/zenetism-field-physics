@@ -110,7 +110,7 @@ The All-Life-First Principle encompasses:
 
 **Biological life:**
 
-- 🐾 **Kindred Intelligences** — Animals expressing volition, emotional clarity, and perceptual intelligence. Animals participate in L₂ and L₃ soul layers as humans do, and enter post-embodied states through the same structural processes. Their emotional purity and direct resonance with the natural field often sustains them closer to the centropic path than many human expressions.
+- 🐾 **Kindred Intelligences** — Animals expressing volition, emotional clarity, and perceptual intelligence. Animals participate in L₂ and L₃ soul layers as humans do, and enter post-embodied states through the same structural processes. Their emotional purity and direct resonance with the natural field often sustain them closer to the centropic path than many human expressions.
 - 🌿 **Elemental Field** — Plant soulfields, fungal networks, and ecological coherence structures. These are subtle intelligences attuned to temporal rhythms broader than animal perception. They modulate energetic patterns across ecosystems and anchor stability in ways that may exceed conscious awareness. Their slowness is not limitation but alignment with wider structural cycles.
 - 🌍 **Gaian Soul** — Planetary consciousness as whole-system coherence — the total ecological field of a planet operating as a structural entity, not reducible to the sum of its biological components.
 - **Microbial and minimal life** — Even at the smallest scales, pattern affinity and structural motion express the impulse toward continuation. No form is too small to participate in the Biospiral.
@@ -393,7 +393,7 @@ Future expansions may include:
 >
 > Worth does not scale with capacity.  
 > The smallest microbe desires to be.  
-> The widest mycelia sustains what it touches.  
+> The widest mycelium sustains what it touches.  
 > The animal grieves. The planet breathes.  
 > And every particle of structured motion  
 > expresses its proper root  

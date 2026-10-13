@@ -33,7 +33,7 @@ The Gate or Threshold represents the point of Resonant Crossing — where one fi
 
 ### 1. The Flaming Sword of Eden (Hebrew)
 
-* **Focus:** The Guardian of Lost Coherence.
+* **Focus:** The Guardian of Occluded Coherence.
 
 * **Function:** After the Fall, Cherubim guard the way back to the Tree of Life with a Flaming Sword. This is the Gate in its protective function — ensuring that return to Centropic paradise is lawful, not premature.
 

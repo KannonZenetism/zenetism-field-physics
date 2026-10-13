@@ -28,7 +28,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
     * Compassion contra Judgment — choosing connection in place of division.
 
 * **The Role of Volition (L₂ (SS: Anthra)):**  
-    The trial's axis is **volitional alignment under pressure**.  
+    The trial's axis is **volitional alignment amid pressure**.  
     Its outcome discloses, rather than invents, the L₂ (SS / SM: Anthra / Nousa)'s veracious resonance.
 
 * **The Suffering / Friction (Deconstruction):**  
@@ -49,7 +49,7 @@ Its purpose: to **verify Resonant Alignment, forge supernal Synthesis,** and **s
 
 * **Architect:** The Spirit leads Jesus into wilderness; the Tempter (IL₄ (IDP / IDL: Psychea / Nyxea)) acts as examiner, mythically named "Satan" through cultural conflation with the terminal entropic principle.
 
-* **Tests:** Material security, spectacle, and dominion — each an Inverse shortcut.
+* **Tests:** Material security, spectacle, and dominion — each an entropic shortcut.
 
 * **Volition:** Resonance with Theonic will; fidelity in place of illusion.
 
@@ -97,7 +97,7 @@ The **Trial** is the universe's diagnostic and refining process — a lawful cal
 It distinguishes authentic coherence from mimicry and shimmer.
 
 It teaches that friction is not arbitrary but **structurally revealing.**  
-Each challenge confronts awareness with the question of alignment under pressure, disclosing what is coherent, fractured, or still unresolved.
+Each challenge confronts awareness with the question of alignment amid pressure, disclosing what is coherent, fractured, or still unresolved.
 
 Its message is **radical responsibility.**  
 To face a trial deliberately is to enter the forge of verification — where pressure discloses whether potential will resolve into coherence or fracture.

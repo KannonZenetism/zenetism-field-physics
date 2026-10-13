@@ -18,7 +18,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
     These Waters are the primal substrate — Tiamat, Nun, or Narayana's Ocean — containing every latent form.
 
 * **The Stirring / The Breath (Zenet / Motive Infinity):**  
-    The first motion within stillness — the Wind or Word that glides over the face of the deep.  
+    The Wind or Word that glides over the face of the deep images motion becoming operative.  
     This symbolizes **Motive Infinity** — not merely the initiating pulse of Emanation, but the total field of motion through which all traversal, differentiation, and bifurcation occur until motion exhausts into **Dispersive Infinity**.
 
 * **The Separation of Waters (Structured Pairs):**  
@@ -27,9 +27,9 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 
 * **The Sea as Symbolic Domain (Mapping the 4 Motions):**  
     * **The Unconscious (L₄ (DP: Morgis)):** The archetypal Psyche — teeming with Archetypes, Monsters, and hidden knowledge. In its Khaonic aspect, the Sea is the field upon which the four motions occur:  
-    * **1. Source of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
+    * **1. Emergence of Life (Declivous Centropy):** The Womb of Bios, birthing organic coherence (Embodiment).  
     * **2. The Acclivous Path (Acclivous Centropy):** The trial of navigation. A successful voyage (Odysseus, Parting the Red Sea) represents lawful passage through unstable potential and, at its fullest expression, Acclivous Centropic Procession.
-    * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" is to lose coherence and enter Declivous Entropic Procession.  
+    * **3. The Entropic Abyss (Declivous Entropy):** The stormy abyss. To "drown" symbolizes the loss of cohesion and Declivous Entropic Procession.  
     * **4. The Recursive Loop (Acclivous Entropy):** The stagnant "doldrums" or "Sargasso Sea." This maps Acclivous Entropy — a failed voyage (like the myth of the Flying Dutchman) trapped in a loop, neither progressing nor dissolving.
 
 * **The Act of Crossing (Seal → Nexus):**  
@@ -85,7 +85,7 @@ They are the primal substrate containing every latent form and embody **L₄ (DP
 ## Summary: The Esoteric Meaning
 
 The **Waters** represent the primordial field from which worlds, beings, and ideas emerge into form and toward which relative structures may dissolve.  
-They are both **Origin** and **Oblivion**, **Womb** and **Tomb** — the vast field of **Potential** awaiting coherent shaping.
+They symbolize both **Origin** and **Oblivion**, **Womb** and **Tomb** — the vast field of **Potential** awaiting coherent shaping.
 
 They teach that to live is to sail: to traverse the unbounded Psyche with a Vessel of selfhood strong enough to withstand its tides.  
 Cut off from the Waters, one withers in dryness; lost within them, one dissolves into shapelessness.

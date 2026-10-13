@@ -143,7 +143,7 @@ The table pairs native functions with proposed physical comparison objects. The 
 | **C₂ ◈ Spatial** | Extension, ordered loci | Spacetime metric \( g_{ij} \), geometry | Declivous Centropy (C↓→E) — integration into embodied form |
 | **E₂ ◈⁻ Scatter** | Fragmented loci | Spatial decoherence, delocalization | Acclivous Entropy (E↑→E) — fragmentation into disarray |
 | **C₃ ⟿ Propagational** | Transmission of resonance | Wave equations, Fourier transforms | Acclivous Centropy (C↑⚫) — expansion of lawful propagation toward Aion |
-| **E₃ ⟿⁻ Viral Decay** | Fracturing in transmission | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of coherence |
+| **E₃ ⟿⁻ Viral Decay** | Fracturing in transmission | Radiation loss, noise fields | Declivous Entropy (E↓♾) — collapse of relative coherent expression |
 | **C₄ ◉ Rotational / Gyre** | Cyclic stability, angular order | Angular momentum, \( SO(3) \) symmetry | Declivous Centropy (C↓→E) — integration into form-preserving motion |
 | **E₄ ◉⁻ Vortex** | Hollow spin | Black hole singularities, destructive vortices | Acclivous Entropy (E↑→E) — spiraling fragmentation |
 | **C₅ ✴ Scalar / Part-Whole Fidelity** | Scaling order, wholeness | Renormalization group flows, fractals | Acclivous Centropy (C↑⚫) — integration of scale harmonics toward coherence |

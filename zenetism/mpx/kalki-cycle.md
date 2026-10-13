@@ -28,7 +28,7 @@ In Zenetism, this prophecy can be read not as mythic ornament but as **structura
 ### 1. Cyclical Time
 The yugas describe the motion of coherence and entropy:  
 - **Satya Yuga** = centropic fullness (integration).  
-- **Kali Yuga** = entropic saturation (fragmentation).  
+- **Kali Yuga** = maximum entropic fragmentation.  
 - The transition point is read as reflective centropy. Entropic expression does not convert into coherence; the exact relation between terminal dispersion and a new centropic cycle remains held open.  
 
 ### 2. Signs and Portents
@@ -48,7 +48,7 @@ The prophecy emphasizes not only the defeat of demon kings but also the **awaken
 
 ### 6. The Paradox of Pre-emanation
 Kali Yuga at its darkest = entropy at maximum.  
-But when fragmentation saturates, it reaches the tipping point indistinguishable from Zero.  
+At terminal resolution, Dispersive Khaon and Aion are co-present at L₀ and remain distinct.  
 - The return-cycle relation remains held open: **maximum entropy does not convert into reflective centropy**.  
 
 ---

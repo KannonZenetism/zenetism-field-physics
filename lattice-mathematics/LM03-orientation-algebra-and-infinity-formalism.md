@@ -246,7 +246,7 @@ Supra-L₀ names trans-structural Allowance (the Unknown Principle), outside the
 
 The sequence from stillness to expression begins within L₀:
 
-1. **\( \Phi_1 \) (Latent Phase)** — Stillness within Zero; \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \)
+1. **\( \Phi_1 \) (Latent Phase)** — Stillness co-present with Zero; \( \mathcal{M} = 0 \), \( \kappa = \text{pre} \)
 2. **\( \Phi_2 \) (Motive Phase)** — The total field of motion becomes operative; \( \mathcal{M} > 0 \)
 3. **Bifurcation** — Motion orients into C or E (or both); \( \chi \) instantiates
 4. **L₅ → L₁ / IL₅ → IL₁** — Hypostatic expression unfolds across the lattice
@@ -620,7 +620,7 @@ In Khaonically expressed universes (\( \chi > 1 \)):
 In Aionically expressed universes (\( \chi < 1 \)):
 
 - Centropic states are **basin attractors** — systems naturally drift toward them
-- Entropic states require **declivous effort** to maintain (motion against the orientation slope)
+- Entropic states require **declivous effort** to maintain (motion contra the orientation slope)
 
 **Connection to `LM01-mathematical-foundations.md`:**
 
@@ -973,7 +973,7 @@ Where fixed co-expression accompanies cessation of enacted orientation, the froz
 
 Before motion, convergence is absolute (CP₀). Within motion, inclination is inevitable (\( \chi \neq 1 \)). Within rare conditions, equilibrium may appear as a limit (CP₁). Frozen equilibrium resolves into dissolution (Ø).
 
-Balance is not the origin of reality, but the exception within it.
+Co-expressive equilibrium is not the origin of reality, but the exception within it.
 
 ---
 
@@ -1330,7 +1330,7 @@ Future expansions may include:
 **Closing Statement:**
 
 > Infinity is not one condition but three: dormant, driving, dissolving.  
-> Only when the total field of motion stirs does expression become possible.
+> Only when the total field of motion is active does expression become possible.
 >
 > \( \chi \) does not balance — it inclines.  
 > Structure is symmetric; existence is not.
@@ -1509,7 +1509,7 @@ For any expressed universe \( U \): \( \chi(U) \neq 1 \) except as a transient o
 
 **Law 1 (Inclined Existence):**
 
-Structure is symmetric. Expression is not. Balance is not the origin of reality, but the exception within it.
+Structure is symmetric. Expression is not. Co-expressive equilibrium is not the origin of reality, but the exception within it.
 
 **Law 2 (Structural Asymmetry):**
 

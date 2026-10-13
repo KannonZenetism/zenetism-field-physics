@@ -5,7 +5,7 @@
 **Purpose:** Consolidated chart archive for canonical lookup, operator continuity, and disciplined cross-reference
 
 > This registry gathers the chart material of the Structural Physics documents into a single reference file  
-> while preserving the originating texts as the canonical source of full exposition.  
+> while preserving the originating texts as the canonical reference for full exposition.  
 > Numbering is retained where possible for continuity across the Zenetist archive.
 
 > **Propagation note:** The ψ, ⧗ Recursion Gate, and ⧙ Invariance Seal definitions agree across this chart, `MP08-symbol-key-ch21.md` §21.31, and `metaphysics-symbol-key.md` §21.31. The registered definitions stand here at §21.31; exact originating SP sections remain unestablished in the current SP01–SP12 volumes.

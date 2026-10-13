@@ -93,7 +93,7 @@ The present decode therefore treats exile not as a universal category, but as a 
 
 * **Wandering:** A spiral of failure and realization — his silence at the **Grail Castle** reveals a deficit of **L₃ (DS: Archeus)** empathy.
 
-* **Transformation:** Guided by **Trevrizent (L₃ (DS / DM: Archeus / Noeüs) mentor)**, Parzival reorients his essence through compassion and discernment.
+* **Transformation:** Guided by **Trevrizent (L₃ (DS / DM: Archeus / Noeüs) mentor)**, Parzival realigns his expression through compassion and discernment.
 
 * **Return:** Returns as **Synthesized King**, healing the **Wounded King (IL₃ (IDS: Fractus))** and restoring the centropic field.
 

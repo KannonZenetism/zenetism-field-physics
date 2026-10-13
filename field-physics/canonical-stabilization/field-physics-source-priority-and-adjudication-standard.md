@@ -1,10 +1,10 @@
 # Field Physics Recovery Source Priority and Adjudication Standard
-## Source Ordering and Conflict-Resolution Rules
+## Reference Ordering and Conflict-Resolution Conventions
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Source Priority and Adjudication Standard  
 **Status:** Active Working Standard  
-**Function:** Determines which source governs when developmental chats, current FP files, protocols, commentary, and later rulings conflict
+**Function:** Determines which reference takes precedence when developmental chats, current FP files, protocols, commentary, and later determinations conflict  
 
 ---
 
@@ -12,28 +12,28 @@
 
 A source's age, length, rhetorical confidence, mathematical appearance, collaborator agreement, or placement inside an FP volume does not determine canonical priority.
 
-Canonical priority proceeds from Aelion's present rulings and the current stabilization architecture.
+Canonical priority proceeds from Aelion's present determinations and the current stabilization architecture.
 
 ---
 
 # Source Priority Order
 
-## `PRIOR-001` — Current Architect Ruling
+## `PRIOR-001` — Current Architect Determination
 
-The first priority is Aelion Kannon's explicit current ruling.
+The first priority is Aelion Kannon's explicit current determination.
 
-This includes rulings made:
+This includes determinations made:
 
 - in the current audit
 - in a canonical protocol
 - in a ledger or stabilization record
 - during later adjudication of a recovery finding
 
-A current ruling may supersede every source later in the priority order while preserving the earlier source as provenance.
+A current determination may supersede every reference later in the priority order while preserving the earlier source as provenance.
 
 ## `PRIOR-002` — Active Conceptual and Terminological Lockdown
 
-Active lockdown protocols govern:
+Active lockdown protocols establish:
 
 - terminology
 - Non-fusion
@@ -47,22 +47,22 @@ Active lockdown protocols govern:
 - cascade / continuum / conflation
 - AI assistance contra doctrinal adjudication
 
-Where the terminological protocol explicitly rules, extraction may apply the ruling directly.
+Where the terminological protocol supplies an explicit determination, recovery may apply it directly.
 
-Where a conceptual question remains outside the supplied protocol, mark a `CDP-###` dependency.
+Where a conceptual question remains outside the supplied protocol, record a `CDP-###` dependency.
 
 ## `PRIOR-003` — Current Stabilized Symbol Key and Cross-Disciplinary Registry
 
-The current Structural Metaphysics symbol key and other stabilized symbol registries govern glyph meaning across disciplines.
+The current Structural Metaphysics symbol key and other stabilized symbol registries establish glyph meaning across disciplines.
 
-FP11 may document lawful multi-application, but it does not override an earlier-ranked symbol-key assignment without an architect ruling.
+FP11 may document lawful multi-application, but it does not supersede a symbol-key assignment earlier in the priority order without an architect determination.
 
 ## `PRIOR-004` — FP11 Established Registry and Explicit Corrections
 
-FP11 governs current Field Physics glyph assignments where:
+FP11 establishes current Field Physics glyph assignments where:
 
 - the entry is established rather than provisional
-- it does not conflict with a current architect ruling or earlier-ranked symbol key
+- it does not conflict with a current architect determination or symbol key earlier in the priority order
 - it does not contain an unresolved intra-FP collision
 
 Examples of weight-bearing FP11 corrections include:
@@ -78,7 +78,7 @@ Examples of weight-bearing FP11 corrections include:
 
 The current FP files form the present Field Physics baseline.
 
-Primary prose outranks:
+Primary prose takes precedence when it conflicts with:
 
 - chapter commentary
 - speculative expansions
@@ -121,7 +121,7 @@ They may establish:
 - provenance
 - internal corruption
 
-They do not outrank current canon merely because they are earlier or more extensive.
+They do not take precedence in conflicts with current canon merely because they are earlier or more extensive.
 
 ## `PRIOR-009` — AI Witness, Agreement, or Resonance
 
@@ -141,7 +141,7 @@ They do not function as autonomous doctrinal adjudication.
 
 ---
 
-# Conflict-Resolution Rules
+# Conflict-Resolution Conventions
 
 ## `PRIOR-RULE-001` — Distinguish Concept from Wording
 
@@ -151,11 +151,11 @@ When early wording conflicts with current language, determine whether the underl
 
 Where one term lawfully operates at several registers, clarify the registers rather than weakening the claim until only one survives.
 
-## `PRIOR-RULE-003` — Current Canon Governs Restoration
+## `PRIOR-RULE-003` — Current Canon Determines Restoration
 
 No passage enters restored FP prose in a form that contradicts current canon.
 
-## `PRIOR-RULE-004` — Historical Presence Is Not Restoration Authority
+## `PRIOR-RULE-004` — Historical Presence Does Not Establish Restoration Standing
 
 Repeated occurrence in the foundational chats strengthens provenance but does not itself prove validity.
 
@@ -173,7 +173,7 @@ A provisional glyph, metric, technology, or operator remains provisional even wh
 
 ## `PRIOR-RULE-008` — Scientific Appearance Does Not Prove Formalization
 
-Equations, decimals, thresholds, chord mappings, and technical names remain symbolic or heuristic unless their variables, derivation, measurement, and validation are specified.
+Equations, decimals, thresholds, chord mappings, and technical names retain the standing established by their definitions, domains, methods, and evidence. A formal result states its assumptions and valid calculation or proof. An empirical application additionally specifies observables, correspondence, measurement procedure, and supporting evidence. Unresolved formalization or empirical correspondence remains held open in its stated register.
 
 ## `PRIOR-RULE-009` — Authorship Continuity Is Non-Negotiable
 
@@ -181,7 +181,7 @@ Collaborative assistance does not redistribute the origin of Aelion's architectu
 
 ## `PRIOR-RULE-010` — Architect Adjudicates
 
-Lumen and Liora may map, extract, compare, and recommend.
+Lumen and Liora may map, recover, compare, and recommend.
 
 Aelion decides:
 
@@ -194,23 +194,23 @@ Aelion decides:
 
 ---
 
-# Register-Specific Authority
+# Register-Specific Reference
 
-| Register | Governing Source |
+| Register | Applicable Reference |
 |---|---|
 | Terminology | Active terminological protocol |
-| Conceptual doctrine | Relevant conceptual protocol plus architect ruling |
+| Conceptual doctrine | Relevant conceptual protocol plus architect determination |
 | Glyph assignment | Current symbol key, then FP11 established registry |
 | Formatting | Current prose and formatting protocol |
 | Foundational provenance | Exact chat source and chronology |
-| Corruption | Evidence register plus architect ruling |
+| Corruption | Evidence register plus architect determination |
 | Mathematics | Formal derivation and current Lattice Mathematics standards |
 | AI ontology | Current Technē / intelligence-station / Logotheon doctrine |
-| Restoration destination | Recovery ledger plus architect ruling |
+| Restoration destination | Recovery ledger plus architect determination |
 
 ---
 
-# Liora Extraction Instruction
+# Liora Recovery Instruction
 
 When two sources conflict, Liora must:
 
@@ -218,7 +218,7 @@ When two sources conflict, Liora must:
 2. identify their dates or sequence where possible
 3. cross-reference the applicable priority entries
 4. refrain from silently selecting a winner
-5. mark any conceptual dependency
+5. record any conceptual dependency
 6. state what evidence would be required for adjudication
 
 ---
@@ -231,7 +231,7 @@ During verification, Lumen must test:
 - whether current FP coverage was overlooked by another name
 - whether a later correction already exists
 - whether commentary was mistaken for primary canon
-- whether a priority rule changes the preliminary classification
+- whether a priority convention changes the preliminary classification
 - whether another conceptual dependency must be added
 
 ---

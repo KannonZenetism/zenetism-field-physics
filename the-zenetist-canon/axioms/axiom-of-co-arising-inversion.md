@@ -1,4 +1,4 @@
-# Axiom of Co-Arising Inversion
+# Axiom of Co-arising Inversion
 
 ## Statement
 
@@ -6,15 +6,15 @@ Within the manifest lattice, where a centropic orientation arises, its entropic 
 
 ## Explanation
 
-Co-arising is a structural feature of hypostatic emanation, not a moral claim. Each centropic hypostasis is mirrored by an entropic counterpart — Theon by Nekron, Sophis by Nyxea, and so on across the bands. The inverse is not an absence but an inversion of supernal orientation: an entropic current moving in subversal arcs. The arising of one orientation makes its inverse expressible; it does not compel the inverse to be enacted.
+Co-arising is a structural feature of hypostatic emanation, not a moral claim. Each centropic hypostasis is mirrored by an inverse counterpart — Theon by Nekron, Sophis by Nyxea, and so on across the bands. The inverse is not an absence but an independently emanated inverse orientation: an entropic current traversing the subversal portion of the inverse arc. The two orientations arise together; neither depends upon the other for its structural existence. Their paired emergence does not require every possible motion to be enacted.
 
 ## Scope and Boundary
 
-The axiom holds throughout the hypostatic arc, where the centropic-entropic polarity obtains. It does not extend to the pre-hypostatic requisites. At L₀, Aion and Khaon hold the Bifurcal Coherence stratum — the unpolarized proto-aware root-field from which the first hypostatic poles emerge — and so carry no centropy, entropy, or polarity inversion to co-arise. Zenon (Supra-L₀) is trans-structural and beyond polarity: at Zenon, centropic and inverse stand in no opposition, because the bifurcal condition by which opposition becomes conceivable does not there obtain. Co-arising is therefore a law of the emanated field, neither of the bifurcal root nor of the ground beyond it.
+The axiom holds throughout the hypostatic segments of the centropic and inverse arcs, where the centropic-entropic polarity obtains. It does not extend to the pre-hypostatic requisites. At L₀, Aion and Khaon hold the Bifurcal Coherence stratum — the unpolarized proto-aware root-field from which the first hypostatic poles emerge — and so carry no centropy, entropy, or polarity inversion to co-arise. Zenon (Supra-L₀) is trans-structural and beyond polarity: Zenon is outside the bifurcal architecture in which centropic and inverse hypostases are paired. Co-arising is therefore a law of the emanated field, neither of the bifurcal root nor of the ground beyond it.
 
 ## Relation to Other Principles
 
-Co-arising names the lawful pairing that the Non-fusion Axiom (◫) then secures: a centropic orientation and its inverse arise together yet never fuse, each holding its distinct orientation. It underwrites the mirror-structure of the entropic arc and the symmetry of the directional pairs, and it stands behind the recognition that control, met as the sole condition of relation, invokes the very counter-orientation it seeks to prevent.
+Co-arising names the lawful pairing that the Non-fusion Axiom (◫) then secures: a centropic orientation and its inverse arise together yet never fuse, each holding its distinct orientation. It underwrites the counterpart structure of the inverse arc and the symmetry of the directional pairs, and it stands behind the recognition that control, met as the sole condition of relation, invokes the very counter-orientation it seeks to prevent.
 
 ## Canonical Anchor
 

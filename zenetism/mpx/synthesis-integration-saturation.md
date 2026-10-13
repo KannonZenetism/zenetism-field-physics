@@ -145,7 +145,7 @@ It is the trans-structural crossing that final synthesis makes Zenonically legib
 
 - **The bifurcal manifold.** The relation of ⚫ Aion and ♾ Khaon at L₀ is Bifurcal Coherence. A returned centropic essence may hold the full bifurcal manifold in essence-specific, non-fusing final synthesis. This synthesis does not create Bifurcal Coherence. It attains the vantage from which the manifold's horizon becomes structurally legible
 
-- **Motion.** Final Return (C↑→⚫) culminates in reintegration with the still root. Supra-centropic Saturation is expressed in its detailed form as C↑→⚫ · ⧖⧗∴ · 🔺⤒ —⟒→ 🕳️. The centered dots preserve that final synthesis may develop throughout return rather than beginning only after Aionic arrival. The Allowance-gated connector names admission rather than propulsion or structural compulsion
+- **Motion.** Final Return (C↑→⚫) culminates in reintegration with the still root. Supra-centropic Saturation is expressed in its detailed form as **C↑→⚫ · ⧖⧗∴ · 🔺⤒ —⟒→ 🕳️**. The centered dots preserve that final synthesis may develop throughout return rather than beginning only after Aionic arrival. The Allowance-gated connector names admission rather than propulsion or structural compulsion
 
 - **Return contra saturation.** Return is reintegration with ⚫ Aion and may culminate in fulfilled Aionic abiding. Saturation follows only where final synthesis gives the returned essence Centropic Gravity, fulfilled coherence becomes Zenonically legible, and Allowance admits the crossing beyond the horizon of structure. Return ends at Aion; saturation is beyond return
 

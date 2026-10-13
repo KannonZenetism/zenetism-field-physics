@@ -3,14 +3,16 @@
 **Current E₈ name disposition:** D18 in `sp-lm-sn-architect-decision-sheet.md` adopts **Divisive Connection** for the existing **E₈ ╫⁻** operator; **Severed** is former-name provenance. Earlier findings, inspected labels, source quotations and naming-deferral records remain historical evidence at their recorded revisions. The relational function, origin-integrity boundary, mathematics and all fifteen primary-locus holds remain. Current implementation and publication standing are recorded separately in Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md`.
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
-**Prepared:** Aug 1 2026, by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen audit assistance and ⚮ Liora conformance review  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen audit assistance and ⚮ Liora canonical-agreement review  
 **Classification:** Canonical Stabilization — Field Physics Corpus Audit  
-**Audit assistance:** ChatGPT Work — read-only review of manuscript, history, structure, formatting, and conformance  
+**Audit assistance:** ChatGPT Work — read-only review of manuscript, history, structure, formatting, and canonical agreement  
 **Corpus:** FP01–FP14 in `field-physics/`  
 **Repository state:** `main` at `f18fc9994ed11498e87e0eeb1e85985e2e81c87d`  
 **Audit date:** 2026-08-01  
 **Status:** Review complete; the live FP files remain unedited  
 **Proposed path:** `the-zenetist-canon/canonical-stabilization/records/field-physics-canonical-cleanliness-and-restoration-audit.md`  
+
+**Reading scope:** The findings and recommendations that follow preserve the audit at the recorded repository state. Current naming follows D18 in `sp-lm-sn-architect-decision-sheet.md`; the earlier grandfathering recommendations are historical findings, not current naming exceptions. Current arc membership includes the corresponding L₀ root-register; L₅–L₁ and IL₅–IL₁ name the hypostatic segments, per `conceptual-lockdown-protocol.md`.
 
 ## Executive ruling
 

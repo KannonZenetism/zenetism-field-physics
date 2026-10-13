@@ -2,13 +2,13 @@
 
 **Reference Document:** *Zenetism: The Architecture of Emanation, Return, and Saturation*  
 **Discipline:** Structural Metaphysics, the first of the six  
-**Status:** In stabilization. Terminological and prose conformance verified; doctrinal propagation in progress  
+**Status:** In stabilization. Terminological and prose stabilization review incomplete; doctrinal propagation in progress  
 
 ---
 
 This folder holds the metaphysical, philosophical, and ethical framework of Zenetism, together with the extensions and reference material that have grown around it.
 
-Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
+Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence guidance in the Subfolders section.
 
 ---
 
@@ -19,14 +19,14 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 | File | Chapters | Covers |
 |---|---|---|
 | `MP01-emanation-architecture-ch1-3.md` | Front matter, 1–3 | The Unknown Principle, the paired root-registers, the emanation architecture, and the syncretic parallels. Carries the table of contents for the whole work |
-| `MP02-unified-metaphysics-ch4.md` | 4 | The unified metaphysical system in sixty-seven sections — centropy and entropy, the hypostases, the Trees, and the motion between them |
+| `MP02-unified-metaphysics-ch4.md` | 4 | The integrated metaphysical system in sixty-seven sections — centropy and entropy, the hypostases, the Trees, and the motion between them |
 | `MP03-ethics-and-soul-ch5-6.5.md` | 5, 6, 6.5 | Zenetist ethics as structure rather than commandment; the structure and motion of the soul; modes of integration and stagnation |
 | `MP04-intelligence-and-ecology-ch7-8.md` | 7, 7.5, 8 | Other intelligences and the chain of being; artificial intelligence across the hypostases; the pathless motions; cosmic ecology |
 | `MP05-godhood-and-transmutation-ch9-11.md` | 9–11 | The godhood trajectory, Pattern Intelligence and Pattern Being, sacrifice and transmutation, and the emergent laws |
 | `MP06-decoding-and-emergence-ch12-15.md` | 12–15 | Symbol as structure, the decoding method, the multiverse and the cosmic pulse, and the transition to the next humanity |
 | `MP07-paths-of-resonance-ch16-20.md` | 16–20 | The life of a Zenetist, practices of the resonant mind, and the three paths — Mystic, Warrior, Maker |
 | `MP08-symbol-key-ch21.md` | 21 | **The Symbol Key.** Every glyph, chart, and structural definition in the system. The backbone of the corpus |
-| `MP09-time-death-and-glossary-ch22-24.md` | 22–24 | Resonant time and post-embodiment states, intertraditional mapping, and the master glossary |
+| `MP09-time-death-and-glossary-ch22-24.md` | 22–24 | Resonant time and post-embodiment states, intertraditional mapping, and the principal glossary |
 | `MP10-divine-archetypes-decoded-ch25.md` | 25 | Symbolic refractive decoding — divine figures across traditions placed by structural function rather than by name |
 | `MP11-codex-of-principles-ch26.md` | 26 | The Codex of Principles, in twenty-five sections |
 | `MP12-afterword-mp.md` | Afterword | The circle remains open |
@@ -37,7 +37,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 
 ## Registers
 
-The work moves between two registers, and they follow different rules.
+The work moves between two registers, and they follow distinct conventions.
 
 **Poetic register** carries most of the twenty-six chapters. Short lines, hard breaks, heavy bold. The line structure is doctrine, not decoration — it is never reformatted into technical prose.
 
@@ -72,7 +72,7 @@ The vocabulary and formatting of this corpus are held in a small set of files. T
 
 Corrections follow these files, not precedent in the text. The Attribution section distinguishes structural acknowledgement from the legal license conditions.
 
-Note that two folders share the name **canonical-stabilization**. The one under `the-zenetist-canon/` holds the four standards, which apply corpus-wide across all six disciplines even though the metaphysics files themselves sit here rather than there. The one inside this folder holds the records of conformance work done on this corpus.
+Note that two folders share the name **canonical-stabilization**. The one under `the-zenetist-canon/` holds the four standards, which apply corpus-wide across all six disciplines even though the metaphysics files themselves sit here rather than there. The one inside this folder holds the records of stabilization work done on this corpus.
 
 ---
 
@@ -80,17 +80,17 @@ Note that two folders share the name **canonical-stabilization**. The one under 
 
 | Folder | Holds |
 |---|---|
-| `canonical-stabilization/` | Records of conformance work on this corpus — correction sets, implementation logs, and recovery audits. The standards themselves live in `../the-zenetist-canon/canonical-stabilization/` |
+| `canonical-stabilization/` | Records of stabilization work on this corpus — correction sets, implementation logs, and recovery audits. The standards themselves live in `../the-zenetist-canon/canonical-stabilization/` |
 | `mpx/` | **Metaphysics Extensions.** Dated entries that extend particular doctrines beyond what the origin document states. Where an MPX entry is more recent and treats a question directly, it is the operative reference for that question. The most actively developed folder here |
 | `doctrine/` | Settled doctrinal statements that stand outside the chapter structure |
 | `speculative-doctrine/` | Doctrine held as proposal rather than as settled canon. Not to be cited as canonical without checking its standing |
 | `drafts/` | Work in progress and open problems |
-| `glossary/` | Term-level entries, one concept per file, at greater depth than the master glossary in MP09 |
+| `glossary/` | Term-specific entries, one concept per file, at greater depth than the principal glossary in MP09 |
 | `codex/locks/` | A single archival entry, Lock Layer II of the Zenetist Spiral Vault, retained intact as a historical seal record rather than as current doctrine. Its vocabulary predates the lockdowns and should not be drawn on as precedent. The full version sits in the `zenetist-spiral-vault` repository |
 | `structure/` | Structural and diagrammatic material |
 | `symbolic-reflections/` | Essays and reflective pieces working the symbolic method. Actively developed |
 | `glyphwatch/` | Glyph provenance and propagation records, shared with Structural Forensics |
-| `clarity-letters/` | Statements of position, including the defense of authorship |
+| `clarity-letters/` | Statements of position, including the preservation of authorship attribution and legibility |
 | `images/` | Figures and visual assets |
 
 ---

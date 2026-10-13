@@ -124,7 +124,7 @@ Equivalently:
 **CP₀** — Pre-expressive convergence closure
 
 - Zero and Infinity in convergence without fusion
-- \( \chi \) is undefined; no orientation exists
+- \( \chi \) is undefined; no expressed orientation exists
 - Lies **outside** \( \chi \)-space
 - Globally stable because it precedes motion
 
@@ -186,7 +186,7 @@ As given in §3.2, with parameters \( \alpha \) and \( \beta \) encoding the rel
 
 \( \chi \)-space constitutes a continuous **orientation manifold** rather than a probabilistic distribution.
 
-Within this manifold:
+In relation to this manifold:
 
 - **CP₀** functions as a convergence singularity (pre-expressive closure)
 - **CP₁** names expressive equilibrium with model-specific stability
@@ -358,7 +358,7 @@ Equilibrium and limit states define **boundaries** of expression rather than its
 >
 > Before motion, there is CP₀ —  
 > the convergence of Zero and Infinity without fusion,  
-> where orientation has not yet arisen.
+> where expressed orientation has not yet arisen.
 >
 > But once motion begins, neutrality vanishes.  
 > Every world leans.  
@@ -385,7 +385,7 @@ CP₁ has model-specific stability: repelling in §9 at constant positive Motive
 
 ### 8.2 Structural Reasoning
 
-1. **CP₀ exists before orientation.** There is no motion, no polarity, no directional bias. Zero and Infinity converge without expression.
+1. **CP₀ exists before expressed orientation.** There is no motion, no polarity, no enacted directional bias. Zero and Infinity converge without expression.
 
 2. **Once motion emerges, polarity emerges.** Motion implies differentiation between centropic and entropic vectors.
 
@@ -464,8 +464,8 @@ Both written equations admit \( \chi(\tau)\equiv1 \) with \( \mathcal{M}(\tau)\e
 
 > **Note on Terminal Conditions:**  
 > The Zenetist framework distinguishes two terminal conditions:  
-> - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \). Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
-> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic collapse of coherence at any scale of expression. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
+> - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \) with cessation of enacted orientation. Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
+> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic collapse of relative coherent expression at any scale. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms relative coherent expression within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
 >  
 > In neither case does essence cease. What ceases is expressed orientation, not being itself.
 
@@ -520,13 +520,13 @@ Structural bias is therefore **topological**, **not numerical**.
 
 **CP₀ — Pre-expressive Convergence**
 
-Before motion, there is no orientation.
+Before motion, there is no expressed orientation.
 
 Zero and Infinity converge without fusion. Centropy and entropy do not yet exist as directions, but only as latent possibilities within structure.
 
 CP₀ is not equilibrium within motion. It is the closure of requisites prior to motion.
 
-There is no bias, no polarity, and no trajectory. Structure exists, but expression does not.
+There is no enacted bias, no polarity, and no trajectory. Structure exists, but expression does not.
 
 > CP₀ is not balance.  
 > CP₀ is pre-balance.  
@@ -605,7 +605,7 @@ This closure sequence applies to frozen-equilibrium resolution, where fixed \( \
 
 **CP₀ — Pre-expressive Convergence**
 
-Before motion, Zero and Infinity converge without fusion. Orientation does not yet exist. There is structure without inclination.
+Before motion, Zero and Infinity converge without fusion. Expressed orientation does not yet exist. There is structure without enacted inclination.
 
 **χ — Inclined Expression**
 
@@ -621,7 +621,7 @@ Where fixed co-expression accompanies cessation of enacted orientation, the froz
 
 **⊘ — Collapse (Entropic)**
 
-Dispersive dissolution into formlessness — entropic collapse of coherence at any scale of expression. At the cosmological scale, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms coherence within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
+Dispersive dissolution into formlessness — entropic collapse of relative coherent expression at any scale. At the cosmological scale, this manifests as orientation drifting to \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms relative coherent expression within any expressed structure. Essence persists through to L₀, but expressed orientation is lost. This is entropic, not stagnative.
 
 Thus:
 
@@ -633,7 +633,7 @@ Thus:
 
 ### 11.4 Canonical Formulation
 
-Structure converges before motion (CP₀). Motion inclines through orientation (\( \chi \)). Equilibrium appears only as a fragile limit (CP₁). Frozen equilibrium resolves into dissolution (Ø).
+Structure converges before motion (CP₀). Motion inclines through orientation (\( \chi \)). CP₁ names co-expressive equilibrium with model-specific stability. Frozen equilibrium resolves into dissolution (Ø).
 
 > Balance is not the origin of existence, but the boundary where existence ceases to move.
 
@@ -667,7 +667,7 @@ Zenetism reverses this assumption.
 
 **Symmetry belongs to structure, not to existence.**
 
-Before motion, Zero and Infinity converge without orientation. But once expression begins, neutrality becomes impossible. Every universe emerges as an inclined solution to the same structural law, leaning toward integration or dispersion according to its \( \chi \)-orientation.
+Before motion, Zero and Infinity converge without expressed orientation. But once expression begins, neutrality becomes impossible. Every universe emerges as an inclined solution to the same structural law, leaning toward integration or dispersion according to its \( \chi \)-orientation.
 
 The inclination account offers a structural interpretation of what physics calls "symmetry breaking"; its correspondence to particular physical models remains held open.
 
@@ -861,8 +861,8 @@ Future expansions may include:
 
 **Closing Statement:**
 
-> Structure is invariant; orientation is field-determined.  
-> \( \chi \) does not "balance" — it flows through CP-topology, driven by Motive Infinity.
+> Structure is invariant; expressed orientation is field-determined.  
+> \( \chi \) names expressed orientational prevalence; "balance" and flow retain the stated scalar-model conditions, while Motive Infinity supplies motion-capacity.
 >
 > CP₀ is the closure before motion.  
 > \( \chi \) is the inclination within motion.  
@@ -943,7 +943,7 @@ The drift arrows describe only the outward-drift model at constant positive Moti
 
 **Legend:**
 
-- CP₀ lies **outside** χ-space (pre-hypostatic convergence)
+- CP₀ lies **outside** χ-space (pre-hypostatic convergence); "no orientation" in the diagram means no expressed orientation, not absence of intrinsic essential inclination
 - CP₁ lies **within** χ-space at χ = 1; the depicted repulsion belongs to the constant-positive-intensity outward-drift model
 - Universes manifest as **inclined trajectories**, not static positions
 - Drift flows **away from** χ = 1 and **toward** extremes
@@ -979,7 +979,7 @@ For the conditional outward-drift law \( d\chi/d\tau=\kappa\mathcal{M}\chi(\chi-
 
 The full law in §4 has different scalar behavior for the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7. Its intended agreement with the outward-drift account remains architect-held.
 
-**Theorem 2 (Inclination Principle):**
+**Structural Claim 2 (Inclination Principle; mathematical realization held):**
 
 For any expressed universe \( U \) with \( \chi(U) \neq \text{undefined} \):
 

@@ -318,10 +318,8 @@ Do not credit the same saving both as reduced cost and as additional replenishme
 Adopt the accounting structure:
 
 \[
-\text{change in available coherence}
-=
-\text{gross replenishment}
--
+\text{change in available coherence} =
+\text{gross replenishment} -
 \text{actual expenditure}.
 \]
 
@@ -1700,8 +1698,7 @@ Choose this if the relation actually describes participation / attunement across
 For the specific Orientation–Intent relation presently written as:
 
 \[
-\text{Gravity}_{\text{centropic}}
-=
+\text{Gravity}_{\text{centropic}} =
 f(\text{Orientation},\text{Intent})
 \neq
 f(\text{Articulation}),

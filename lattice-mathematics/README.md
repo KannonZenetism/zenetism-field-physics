@@ -130,7 +130,7 @@ Formalizes:
 
 - The Khaonic expression ratio \( \kappa \) as a modifier of interface resistance
 - Compounded cost algebra and the budget exhaustion condition
-- Essence–function independence: depletion of \( I_c \) does not alter intrinsic essential inclination; \( \chi \) remains expressed orientational prevalence
+- Essence-Function Independence: depletion of \( I_c \) does not alter intrinsic essential inclination; \( \chi \) remains expressed orientational prevalence
 - The Coherence Breaker Limit
 - Recovery integral theory and Tether restoration dynamics
 - The social field as an instance of the field configuration space, with collective orientation and harmonic amplification

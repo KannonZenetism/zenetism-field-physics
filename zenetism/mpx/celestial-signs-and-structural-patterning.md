@@ -19,7 +19,7 @@ It clarifies only that celestial patterning may possess structural meaning when 
 
 Zenetism reads structure before prediction.
 
-The stars may function as signs or orientation markers, but they are not reduced to clocks, tools, or mechanistic governors.
+The stars may function as signs or orientation markers, but they are not reduced to clocks, apparatus, or mechanistic governors.
 
 ---
 

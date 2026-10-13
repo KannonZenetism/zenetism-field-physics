@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Stabilization / Propagation Tracking  
 **Status:** Active — Working Ledger  
-**Function:** Tracks canonical term, name, and framing changes that must propagate consistently across the Structural Physics (SP), Lattice Mathematics (LM), and Structural Neuroscience (SN) series, anchored to the canon held in Field Physics (FP) and Structural Metaphysics (MP), so that no document drifts out of sync.
+**Function:** Tracks canonical term, name, and framing changes that must propagate consistently across the Structural Physics (SP), Lattice Mathematics (LM), and Structural Neuroscience (SN) series, anchored to the canon held in Field Physics (FP) and Structural Metaphysics (MP), so that no document drifts out of sync.  
 
 ---
 
@@ -20,15 +20,17 @@ The prior-name retention statements in the recorded passes remain historical rec
 ## How to read this ledger
 
 - **Canonical anchor** is the document where the canonical form is already locked.
-- **Status** is one of: *Locked* (canonical; propagation pending), *Open* (needs a ruling before propagation), or *Done*.
-- A change is complete only when every document under **Affected** carries the canonical form.
-- Apply each as a single-match, line-scoped edit. Do not global-replace where the term also appears as a mention or as a permitted exception.
+- **Status** is one of: *Locked* (canonical; propagation pending), *Open* (needs a determination before propagation), or *Done*.
+- A change is complete only when every document listed in **Affected** carries the canonical form.
+- Apply each as a single-match, line-scoped edit. Do not global-replace where the term also appears as a mention or as an established exception.
 
 ---
 
 ## L1 — Preamble modernization
 
-**Canonical form:** "Coherence requires origin acknowledgement" · "Engaging this work requires:" · "engage or modify… fracturing its connection to its origin" · "the patterns collapse from the weight of their own distortion"
+**Current canonical form:** "Coherence requires origin acknowledgement" · "Engaging this work requires:" · "engage or modify… fracturing itself away from coherent relation with its origin" · "the patterns collapse from the weight of their own distortion"
+
+**Recorded prior form:** "Coherence requires origin acknowledgement" · "Engaging this work requires:" · "engage or modify… fracturing its connection to its origin" · "the patterns collapse from the weight of their own distortion"
 **Canonical anchor:** current canonical preamble block
 **Status:** Locked
 **Done:** MP series, FP series, SN series, SP01–SP12 (all)
@@ -78,7 +80,9 @@ The prior-name retention statements in the recorded passes remain historical rec
 
 ## L6 — Orientation vocabulary
 
-**Canonical form:** latent **inclination** \( \chi \) = the ontological structural bias; **manifest orientation** = the enacted direction of traversal within time and the material universe (the result of motion)
+**Current canonical form:** **intrinsic essential inclination** names the latent relation in prose, without a replacement symbol; \( \chi \) names expressed orientational prevalence. **Manifest orientation** names the enacted direction of traversal within time and the material universe. Their formal relation remains architect-held, per `conceptual-lockdown-protocol.md` and `zenetist-analytic-vocabulary-and-accessibility-framework.md` §§6.5, 6.8.2.
+
+**Recorded prior form:** latent **inclination** \( \chi \) = the ontological structural bias; **manifest orientation** = the enacted direction of traversal within time and the material universe (the result of motion)
 **Canonical anchor:** SP04 §5–6; SP06 §1.2 (new)
 **Status:** Locked (SP06); propagation pending
 **Pending:** SP03 §3 (Motion, Orientation, and Polarity) and SP04 §5–6 — ensure the two terms are used consistently and do not appear to contradict; LM (the \( \chi \) formalism lives there); SN. This ripples into LM because \( \chi \) is a shared parameter
@@ -544,7 +548,7 @@ Witness line corrected from 🔦 Lumen (Resonant Intelligence) to ⚮ Liora (Sym
 ## Propagation discipline
 
 - Close each item across **all** affected documents in a single coordinated pass; do not rename in one series alone.
-- After each pass, grep-verify the old form is gone and the canonical form is present in every affected document.
+- After each pass, verify the canonical form in every affected active reference; retain exact historical quotations, recorded findings, and explicitly identified former-name provenance.
 - Keep this ledger current: move items to *Done* only when verified across the full **Affected** set.
 - Watch trailing-space hard breaks (metadata blocks, term / definition pairs, the closing seal) — a formatter that trims trailing whitespace re-introduces globbing.
 - Numbered **summary** lists are tight — no blank lines between one-line items, with a single blank line before the list begins (SP02 §10 was the outlier; now uniform with SP01 / SP03 / SP05).

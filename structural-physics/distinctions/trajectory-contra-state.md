@@ -2,9 +2,9 @@
 
 ## Distinction
 
-**Trajectory contra State** names the distinction between dynamic orientation and static condition within the Zenetist framework.
+**Trajectory contra State** names the distinction between dynamic expressed orientation and static condition within the Zenetist framework.
 
-**Trajectory** refers to the continuous motion of a being, universe, or pattern through structural space. It is defined by directional evolution across time and orientation, formalized in Structural Physics by functions such as \( \chi(\tau) \). Trajectory is not a position but a path.
+**Trajectory** refers to the continuous motion of a being, universe, or pattern through structural space. It is defined by directional evolution across time and expressed orientation, formalized in Structural Physics by functions such as \( \chi(\tau) \). Trajectory is not a position but a path.
 
 **State** refers to a fixed configuration or momentary condition within structure. A state may be described by parameters at a given instant, but does not specify the direction or necessity of motion.
 
@@ -31,7 +31,7 @@ States are intelligible only as cross-sections of motion.
 \]
 
 \[
-\chi \;\text{belongs to trajectory, not state}
+\chi \;\text{names expressed prevalence along a trajectory}
 \]
 
 ---

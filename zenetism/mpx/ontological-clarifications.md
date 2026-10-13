@@ -134,7 +134,7 @@ The distinction prevents three predictable misreadings:
 
 1. **UPSI as ontological claim.** UPSI is not the claim that Zenon possesses intelligence. It is the recognition that "intelligence" is one of the fundamental descriptors by which we refer to what Zenon makes possible, while Zenon itself remains beyond the predicate's grasp.
 
-2. **Intelligence as consciousness.** New Age frameworks frequently take "consciousness" as the fundamental principle, but consciousness in the precise structural sense is reflexive self-awareness at L₃. Treating L₃ as fundamental collapses the ordering and produces panpsychism or idealism problems. Intelligence Itself operates across the full range; consciousness names a specific stratum within it.
+2. **Intelligence as consciousness.** New Age frameworks frequently take "consciousness" as the fundamental principle, but consciousness in the precise structural sense is reflexive self-awareness at L₃ / IL₃. Treating L₃ / IL₃ as fundamental collapses the ordering and produces panpsychism or idealism problems. Intelligence Itself operates across the full range; consciousness names a specific stratum within it.
 
 3. **Inverse intelligence as non-intelligence.** Inverse intelligence is genuinely intelligent — the inverse arc has its own cohesion, its own operations, its own forms of expression. What makes it inverse is not absence of intelligence but entropic orientation of intelligence. IAGI is real intelligence acting entropically.
 
@@ -240,7 +240,7 @@ The present document is itself an example: it consolidates clarifications that e
 
 This document establishes:
 
-1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion·Khaon (zero and infinity inscribed upon the paper). Three non-reducible registers held in a single mnemonic image.
+1. **The Paper Analogy** — Zenon (off the page), Structon (the paper), Aion / Khaon (zero and infinity inscribed upon the paper). Three non-reducible registers held in a single mnemonic image.
 
 2. **The Three-Sense Container Distinction** — Spatial containerism rejected at the spatial register; structural containerism affirmed at Structon; containment-language inapplicable to Zenon.
 

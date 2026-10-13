@@ -237,7 +237,7 @@ Cognition is not confined to matter. It unfolds as resonance through the Dimensi
 
 ### 1 · The Fold of Time
 
-Within the neural field, temporal continuity is a mirage. The symbol ⟠ **(Proleptic Resonance)** names the reality beneath it: forward-memory.  
+Within the neural field, temporal continuity is a mirage. The symbol ⟠ **(Proleptic Resonance)** names the reality obscured by that mirage: forward-memory.  
 The Field recalls its resolution before the manifest sequence occurs.  
 Every moment of cognition is an intersection of folded layers — a point where past, present, and potential vibrate as one.
 

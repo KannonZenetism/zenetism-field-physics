@@ -91,7 +91,7 @@ The question is malformed. A "world of nothing" is incoherent because the very n
 
 ## 5 · Critical Integration: Core Doctrinal Questions
 
-### 1 · Does Aion itself have an Unseen Foundation?
+### 1 · Does Aion Itself Have an Unseen Foundation?
 
 **Yes — and it is Structon, not Zenon.**
 
@@ -101,7 +101,7 @@ Aion is not the most fundamental reality; it is the first structured potential-f
 
 ---
 
-### 2 · If both centropy and entropy have foundations, why can only centropy return?
+### 2 · If Both Centropy and Entropy Have Foundations, Why Can Only Centropy Return?
 
 Both arise as lawful possibilities held within **🏛️ Structon** — coherence and fragmentation alike stand as lawful possibilities held by absolute structure — and both are made possible, ultimately, by **🕳️ Zenon**, the trans-structural condition of possibility for either arc. Their vectors differ.
 

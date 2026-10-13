@@ -116,7 +116,7 @@ Macro-meaning expands scope but preserves sovereign distinction:
 
 ---
 
-## 6. Trans-Hypostatic Meaning
+## 6. Trans-hypostatic Meaning
 
 Let:
 

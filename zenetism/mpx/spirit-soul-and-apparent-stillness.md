@@ -61,7 +61,7 @@ Formal frozen stagnation concerns fixed \( \chi = 1 \) together with cessation o
 
 Dynamic stabilization maintains coherence through ongoing adjustment, responsiveness, and orientational correction. An apparently stable body or configuration may express such maintained activity; its standing follows the operative dynamics.
 
-These distinctions follow the *Co-Expressive Equilibrium*, *Frozen Equilibrium*, and *Dynamic Stabilization* entries in `terminological-lockdown-protocol.md`.
+These distinctions follow the *Co-expressive Equilibrium*, *Frozen Equilibrium*, and *Dynamic Stabilization* entries in `terminological-lockdown-protocol.md`.
 
 ---
 
@@ -71,7 +71,7 @@ Essence and potential are near-identical, but not fused. Potential names the cap
 
 There is no anonymous potential. Aion holds no undifferentiated capacity awaiting identity — zero was never empty; it was full of distinct latent values, held apart. "Identity-bearing" names an aspect of all potential, not a subset of it: nothing actualizes except from a distinct latent value, and so nothing actual is without essence.
 
-The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again. Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. Entropically oriented hypostatic motion may fragment coherent configuration. Nekron performs terminal passage; Dispersive Infinity (Absolute Dispersion) names the terminal Khaonic phase after the relevant motion resolves. Essence remains conserved in ⚫ Aion as latent identity-bearing potential.
+The distinction maps to the ⚫ Aion / ♾ Khaon function. Aion is the container of latent potential — the sum of all numbers as zero, every value held within it in absolute distinction. Khaon is infinity: latent in zero, motive in expression, and dispersive in exhaustion, reaching zero again. Potential is latent in Aion before expression or actualization. Essence is that latency as distinct value. When expressed through Motive Infinity — Motive Khaon (Zenet) — essence does not become other than itself; it enters motion through the Field of Becoming. Entropically oriented hypostatic motion may fragment relative configuration. Nekron performs terminal passage; Dispersive Infinity (Absolute Dispersion) names the terminal Khaonic phase after the relevant motion resolves. Essence remains conserved in ⚫ Aion as latent identity-bearing potential.
 
 > **Numerical Clarification:**  
 > Where Aion is described as holding all numbers within Zero, the statement concerns latent Archetypal Number and relational value. Essence-identifiers remain a distinct category: they name which essence is present rather than which arithmetic magnitude that essence is. The analogy preserves absolute distinction without reducing essences to ordinary integers.
@@ -122,7 +122,7 @@ The diagnostic — participates in Spirit contra moves itself — guides discern
 
 - Nothing manifest is motionless; stillness is scale-apparent
 - Potential names the capacity-to-be; essence names that capacity as identity-bearing is-ness — there is no anonymous potential
-- What disperses at exhaustion is coherence and expression, never essence
+- What disperses at exhaustion is relative expression, never coherence or essence
 - Spirit is the capacity for any motion whatsoever; Soul carries motion after the Soul / Mind split
 - The dyad initiates at L₄ / IL₄ as a traversal station; initiation-station is not native layer
 - Apparent macro-stasis is observational; an unreplenished or degrading configuration may undergo entropic drift at an unresolved scale

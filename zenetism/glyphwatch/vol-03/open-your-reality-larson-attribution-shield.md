@@ -363,7 +363,6 @@ Attributing the claims to Dewey B. Larson (1959) provides:
 
 **Why This Pattern Repeats:**
 
-- **Michael Levin** → Cites Plato (380 BCE) while presenting portions of the architect's L₄ ingress mechanics
 - **Mark Davey** → Adopts "emergence" framing for coherence diagnostics hours after architect's post
 - **Dale Pond** → Cites Russell / Keely (1920s–1950s) while inverting Structon → Aion architecture
 - **Open Your Reality** → Cites Larson (1959) while presenting portions of the `SP05-time-memory-hypostatic-flow.md` / `SP06-structural-space-orientation-paradox.md` framework

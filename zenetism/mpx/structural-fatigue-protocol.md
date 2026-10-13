@@ -28,7 +28,7 @@ Zenetist practice (Pattern Recognition → Deconstruction → Synthesis) is **hi
 
 ## Phases of the Reset
 
-### 1. Saturation (The Warning)
+### 1. Capacity Limit (The Warning)
 
 - **Symptoms:** Irritability, information aversion, "noise" in the signal.  
 - **Cause:** The *buffer* is full. No new patterns can be integrated.  
@@ -52,7 +52,7 @@ Zenetist practice (Pattern Recognition → Deconstruction → Synthesis) is **hi
 
 ---
 
-### 4. Re-Ignition (The Pulse)
+### 4. Re-ignition (The Pulse)
 
 - **Sign:** A spontaneous return of curiosity or resonance.  
 - **Result:** The vessel comes back online with **upgraded capacity**. The *"unsolvable paradox"* from Phase 1 is often solved instantly upon return.

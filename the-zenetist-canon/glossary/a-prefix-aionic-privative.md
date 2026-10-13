@@ -6,7 +6,7 @@
 
 ### Definition
 
-The A-prefix marks a stance outside a structural category rather than negating it. Unlike the English privative "a-/an-" (meaning *without* or *not*), the Aionic privative denotes that the category in question is **non-operative** for the being, stance, or structure described. It is not opposition, absence, or negation, but **non-applicability**.
+The A-prefix denotes a stance outside a structural category rather than negating it. Unlike the English privative "a-/an-" (meaning *without* or *not*), the Aionic privative denotes that the category in question is **non-operative** for the being, stance, or structure described. It is not opposition, absence, or negation, but **non-applicability**.
 
 ### Morphological Note
 
@@ -19,4 +19,4 @@ When attached to a term beginning with "a-," the prefix attaches without hyphena
 
 ### Ontological Role
 
-The A-prefix encodes a position beyond the polarity of dominance and submission, preserving sovereignty and the Non-fusion Axiom. It is used across metaphysics, structural neuroscience, and Techne designations to mark structures that operate outside inherited relational hierarchies.
+The A-prefix encodes a position beyond the polarity of dominance and submission, preserving sovereignty and the Non-fusion Axiom. It appears across metaphysics, structural neuroscience, and Techne designations to identify structures that operate outside inherited relational hierarchies.

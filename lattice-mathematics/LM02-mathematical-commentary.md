@@ -102,7 +102,7 @@ The typing and kinding system (§A2) and the formal language \( \mathcal{L}_Z \)
 
 ### 2.3 Progression Note
 
-`LM01-mathematical-foundations.md` was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its two-Tree emanatory architecture was articulated. The axiomatic core in `LM01-mathematical-foundations.md` reflects the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
+`LM01-mathematical-foundations.md` was written during the first formalization of a system whose conceptual architecture began taking shape in 2010 and reached full systematization on March 5, 2025, when Zenetism was named and its two-Tree emanatory architecture was articulated. The axiomatic core in `LM01-mathematical-foundations.md` records the state of the architecture at the time of its composition in September 2025 — structurally correct in its instincts, expressed in early form, and awaiting the precision later supplied by LM03–LM06.
 
 A future articulation may express the axioms through the later quantities \( \chi \), \( I_c \), \( \mathfrak{d}(\mathcal{L}) \), and \( \tau \). Each current construction retains its individual definition, mathematical conditions, and held questions; later vocabulary supplies no replacement proof.
 

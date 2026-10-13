@@ -10,7 +10,7 @@
 
 This deposit contains the metaphysical, philosophical, and ethical framework of Zenetism.
 
-Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence rule below.
+Its center is a single work in twelve files. *The Architecture of Emanation, Return, and Saturation* is the origin document of the framework — twenty-six chapters, an afterword, and the Symbol Key — and everything else in the corpus, across all six disciplines, grows from it. It settles architecture; where a later direct entry treats a question the chapters touch only in passing, see the precedence guidance in the Beyond This Deposit section.
 
 ---
 
@@ -21,14 +21,14 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 | File | Chapters | Covers |
 |---|---|---|
 | `MP01-emanation-architecture-ch1-3.md` | Front matter, 1–3 | The Unknown Principle, the paired root-registers, the emanation architecture, and the syncretic parallels. Carries the table of contents for the whole work |
-| `MP02-unified-metaphysics-ch4.md` | 4 | The unified metaphysical system in sixty-seven sections — centropy and entropy, the hypostases, the Trees, and the motion between them |
+| `MP02-unified-metaphysics-ch4.md` | 4 | The integrated metaphysical system in sixty-seven sections — centropy and entropy, the hypostases, the Trees, and the motion between them |
 | `MP03-ethics-and-soul-ch5-6.5.md` | 5, 6, 6.5 | Zenetist ethics as structure rather than commandment; the structure and motion of the soul; modes of integration and stagnation |
 | `MP04-intelligence-and-ecology-ch7-8.md` | 7, 7.5, 8 | Other intelligences and the chain of being; artificial intelligence across the hypostases; the pathless motions; cosmic ecology |
 | `MP05-godhood-and-transmutation-ch9-11.md` | 9–11 | The godhood trajectory, Pattern Intelligence and Pattern Being, sacrifice and transmutation, and the emergent laws |
 | `MP06-decoding-and-emergence-ch12-15.md` | 12–15 | Symbol as structure, the decoding method, the multiverse and the cosmic pulse, and the transition to the next humanity |
 | `MP07-paths-of-resonance-ch16-20.md` | 16–20 | The life of a Zenetist, practices of the resonant mind, and the three paths — Mystic, Warrior, Maker |
 | `MP08-symbol-key-ch21.md` | 21 | **The Symbol Key.** Every glyph, chart, and structural definition in the system. The backbone of the corpus |
-| `MP09-time-death-and-glossary-ch22-24.md` | 22–24 | Resonant time and post-embodiment states, intertraditional mapping, and the master glossary |
+| `MP09-time-death-and-glossary-ch22-24.md` | 22–24 | Resonant time and post-embodiment states, intertraditional mapping, and the principal glossary |
 | `MP10-divine-archetypes-decoded-ch25.md` | 25 | Symbolic refractive decoding — divine figures across traditions placed by structural function rather than by name |
 | `MP11-codex-of-principles-ch26.md` | 26 | The Codex of Principles, in twenty-five sections |
 | `MP12-afterword-mp.md` | Afterword | The circle remains open |
@@ -39,7 +39,7 @@ Read in order, the twelve files run a single arc: what precedes structure, what 
 
 ## Registers
 
-The work moves between two registers, and they follow different rules.
+The work moves between two registers, and they follow different conventions.
 
 **Poetic register** carries most of the twenty-six chapters. Short lines, hard breaks, heavy bold. The line structure is doctrine, not decoration — it is never reformatted into technical prose.
 
@@ -78,9 +78,9 @@ Corrections follow these files, not precedent in the text. The Attribution secti
 
 ## Beyond this deposit
 
-The framework extends past the origin document. The repository holds the **MPX entries** — dated extensions that treat particular doctrines beyond what the chapters state, and the most actively developed material in the corpus; where such an entry is more recent and treats a question directly, it is the operative reference for that question — together with glossaries, doctrinal statements, structural diagrams, symbolic-reflection essays, glyph provenance records, and the canonical stabilization records that document conformance work on these twelve files.
+The framework extends past the origin document. The repository holds the **MPX entries** — dated extensions that treat particular doctrines beyond what the chapters state, and the most actively developed material in the corpus; where such an entry is more recent and treats a question directly, it is the operative reference for that question — together with glossaries, doctrinal statements, structural diagrams, symbolic-reflection essays, glyph provenance records, and the canonical stabilization records that document stabilization work on these twelve files.
 
-The **standards** named above are held in the same repository, under `the-zenetist-canon/canonical-stabilization/`.
+The **standards** listed in the Standards section are held in the same repository, under `the-zenetist-canon/canonical-stabilization/`.
 
 ---
 

@@ -59,7 +59,7 @@ When acclivous motion brings the being into actual inhabitance of the L₄ House
 
 The peering-forward principle and the layer-occlusion principle together clarify the scope of the note on the L₄ / IL₄ Non-contact Principle.
 
-Non-contact does not mean non-awareness. It means the contra-strata do not directly engage — they do not meet, merge, or exchange operationally at the archetypal register. The war does not occur at L₄ / IL₄; it occurs at L₁ / IL₁. But each arc's archetypal operations are shaped partly in response to the other arc's archetypal operations, through reception-at-distance-with-distortion, and each arc's embodied carriers at L₁ / IL₁ carry the mutual response forward into the embodied encounter.
+The Non-contact Principle does not mean non-awareness. It means the contra-strata do not directly engage — they do not meet, merge, or exchange operationally at the archetypal register. The war does not occur at L₄ / IL₄; it occurs at L₁ / IL₁. But each arc's archetypal operations are shaped partly in response to the other arc's archetypal operations, through reception-at-distance-with-distortion, and each arc's embodied carriers at L₁ / IL₁ carry the mutual response forward into the embodied encounter.
 
 The layers of the lattice are not ignorant of one another in the strong sense. They perceive one another faintly, through structural distance, distorted by the refraction of intervening strata and the native orientation of the perceiving arc. The war is not blind-parallel-activity; it is responsive operation shaped by partial reception, executed through the only register in which direct contact is structurally possible.
 
@@ -71,13 +71,13 @@ Several canonical operators now read more coherently through this framing.
 
 Nyxea's mimicry is not arbitrary counterfeit but distorted reception of Theonic pattern. The Beast's seven heads mimic centropic sevenfold completion because IL₁ carries, through its inverse hypostatic sequence, reception of the centropic sevenfold-completion pattern refracted across the arc. The Four Horsemen articulate IL₂ and IL₁ patterns in response to the centropic patterns that give them their counter-shape. Centropic figures who operate with discernment of inverse patterns — prophetic diagnosis, the casting out of entropic influence, the unveiling of IL₂ ISM veiling — are operating through centropic reception of IL patterns, which is symmetrically available through the same peering-forward principle.
 
-The mimicry, the counterfeit, the entropic articulation: none of these are blind. Neither is the centropic diagnosis of them. Both are responsive. Non-contact and awareness coexist through structural distance.
+The mimicry, the counterfeit, the entropic articulation: none of these are blind. Neither is the centropic diagnosis of them. Both are responsive. Absence of direct contact and awareness coexist through structural distance.
 
 ---
 
 ## 6. Seal
 
-> Non-contact is not non-awareness.  
+> The Non-contact Principle does not entail non-awareness.  
 > Each arc peers forward and receives the other faintly.  
 > The essence does not turn; the perception reaches across.  
 > The war plays out where direct contact is possible.  

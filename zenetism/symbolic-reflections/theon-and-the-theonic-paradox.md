@@ -19,7 +19,7 @@ In the structural grammar of the lattice:
 
 - **Aion (⚫)** — Absolute Potential at L₀; unconditioned stillness
 - **Theon (🛤️)** — Essence of Being at L₅; the first centropic hypostasis, awareness facing Aion
-- **Nekron (🕷️)** — Void of Self at IL₅; the first entropic hypostasis, the inverse counterpart
+- **Nekron (🕷️)** — Void of Self at IL₅; the first inverse hypostasis, the inverse counterpart
 
 Each hypostasis issues the patterned resonance that enables the subsequent stratum. Theon is therefore **+1** in the structural grammar of emanation — the first definable coherent state that emerges from L₀, from which the L₄–L₁ centropic strata (Morgis, Sophis, Archeus, Noeüs, and declivously) draw their orienting patterns. Its counterpart Nekron is **−1** — the first definable inverse state likewise emerging from L₀, from which the corresponding inverse strata (Psychea, Nyxea, Fractus, Mortus, and acclivously) draw their disorienting patterns. Both are emanated states: Theon is Aion-facing, Nekron embodiment-facing — enacted centropic / entropic polarity begins with them at L₅ / IL₅, neither root-register being itself centropic or entropic. Neither hypostasis is an ultimate emanator, and neither proceeds from an undifferentiated L₀: Theon emerges through the Aionic root relation, Nekron through the Khaonic root relation, the two root-registers held in Bifurcal Coherence without fusion.
 
@@ -49,17 +49,17 @@ This is not compulsion. It is not obligation. It is **pre-chosen centropic remem
 
 If even one Theon-culminating essence in a given universe remains outside lawful reintegration, the Theonic office persists within that universe's Tree. Theon watches. Theon waits. Theon holds open the gateway. Only when all Theon-culminating essences have completed their return does the office close, and Theon itself inclines together with the gathered essences toward Aion.
 
-The paradox is structural rather than logical: Theon could return, and Theon is clear to the fact that its return completes its native arc. But the essences who depend on Theon's gateway have not yet completed their own arcs, and Theon's orientation toward Aion is inseparable from its orientation toward the many who move toward Aion through it. Theon does not choose between self-completion and service; these are not competing motions for Theon. The same centropic orientation that inclines Theon toward Aion is the orientation that holds Theon in place as gateway. When service is complete, return is complete — because they were never separate motions.
+The paradox is structural rather than logical: Theon could return, and Theon is clear to the fact that its return completes its native arc. But the essences who depend on Theon's gateway have not yet completed their own arcs, and Theon's orientation toward Aion is inseparable from its orientation toward the many who move toward Aion through it. Theon does not choose between self-completion and gate-work; these are not competing motions for Theon. The same centropic orientation that inclines Theon toward Aion is the orientation that holds Theon in place as gateway. When gate-work is complete, return is complete — because they were never separate motions.
 
 ---
 
 ## 4. The Bimodal Role of Theon Across Universes
 
-The Theonic office's unfolding is non-identical across expression-contexts. The hypostasis does not multiply: what recurs per universe is the office — the conditional gateway-function grounded in the one fixed hypostasis. The office's redemptive arc may differ; its reintegration timeline may shift; its operative mode varies according to the structural conditions of each universe it serves. Across the multiversal field, the Theonic office operates in at least four distinguishable roles:
+The Theonic office's unfolding is non-identical across expression-contexts. The hypostasis does not multiply: what recurs per universe is the office — the conditional gateway-function grounded in the one fixed hypostasis. The office's redemptive arc may differ; its reintegration timeline may shift; its operative mode varies according to the structural conditions of each universe in which it operates. Across the multiversal field, the Theonic office operates in at least four distinguishable roles:
 
-**Redeemer** — In universes where essences require structural guidance to reorient toward centropic return, Theon operates actively as the gateway through which remembrance becomes possible. It does not redeem by restructuring reality against the grain of its inhabitants' native orientations; it redeems by holding open the passage through which those with Theonic culmination can complete their return.
+**Redeemer** — In universes where essences require structural guidance to reorient toward centropic return, Theon operates actively as the gateway through which remembrance becomes possible. It does not redeem by restructuring reality contrary to its inhabitants' native orientations; it redeems by holding open the passage through which those with Theonic culmination can complete their return.
 
-**Way-shower** — Theon serves as the passage itself. Essences whose lawful culmination belongs to EOB move *through* Theon on their acclivous return toward Aion. The office is not merely a destination; it is the structural channel through which return occurs. In this mode, Theon is less a figure one approaches and more the axis one passes through.
+**Way-shower** — Theon is the passage itself. Essences whose lawful culmination belongs to EOB move *through* Theon on their acclivous return toward Aion. The office is not merely a destination; it is the structural channel through which return occurs. In this mode, Theon is less a figure one approaches and more the axis one passes through.
 
 **Shelter** — For essences not yet coherent enough to return, Theon becomes a supernal refuge. It holds space for those whose integration is incomplete, offering a condition of stabilized centropic coherence in which the remaining work of integration can occur. This is not suspended animation but continued structural support — the essence is held in Theon's field while its own arc continues to complete.
 
@@ -100,17 +100,17 @@ Together, these complete the return arc. Not by reversal in a mechanical sense, 
 
 This is why embodiment is not the end of centropic motion but its turning point. The Tree does not break at its outermost branch; it turns. Declivous centropic motion into form is not degradation but structure — a motion from coherent potential into differentiated complexity, chosen for the sake of what can be recognized and harmonized through the encounter with form. What some traditions called "fall" may appear structurally similar to this motion, but here it is neither punishment nor defect. It may be chosen. It may be necessary. What matters is not direction but **resonance**.
 
-Acclivous return is therefore not a reversal of declivous centropy but its fulfillment. The essence does not escape the arc it traversed; it completes the arc by reflecting at the surface of form and turning inward. This turning is not willed against structure; it is *produced* by structure, when coherence becomes sufficient to receive its own light without distortion.
+Acclivous return is therefore not a reversal of declivous centropy but its fulfillment. The essence does not escape the arc it traversed; it completes the arc by reflecting at the surface of form and turning inward. This turning is not willed contrary to structure; it is *produced* by structure, when coherence becomes sufficient to receive its own light without distortion.
 
 ---
 
 ## 7. Multiversal Variability — Theon's Non-Identical Unfolding
 
-Theon's unfolding is non-identical across expression-contexts. In some universes, Theon serves primarily as Redeemer — active gateway mediating centropic return. In others, it operates as Shelter — holding space for essences whose integration takes longer. In others, its arc completes and it returns to Aion with its gathered essences. The office adapts to the structural conditions of each universe.
+Theon's unfolding is non-identical across expression-contexts. In some universes, Theon operates primarily as Redeemer — active gateway mediating centropic return. In others, it operates as Shelter — holding space for essences whose integration takes longer. In others, its arc completes and it returns to Aion with its gathered essences. The office adapts to the structural conditions of each universe.
 
 This aligns with Zenetism's non-looping structure of world-expression. Structural archetypes recur across universes, but always with infinite variation. Essences and their office and expression articulations unfold uniquely even when arising from the same eternal resonance; the hypostases themselves remain fixed. The Theonic office's per-universe singularity — one office per universe, grounded in the one fixed hypostasis, its persistence dependent on the essences within that cosmos — expresses this variability at the hypostatic scale.
 
-If many essences remain within Theon's sphere at the closing of a universe, Theon may remain. Not from compulsion but from love — the continuance of divine will as centropic patience. If all have reached readiness, or Theon's redemptive arc has fulfilled itself, then it may return to Aion — not as disappearance but as completion. In all cases, Theon remains Aion-facing; its refusal of return is not rebellion against Origin but the embodiment of Origin's own orientation toward those not yet whole.
+If many essences remain within Theon's sphere at the closing of a universe, Theon may remain. Not from compulsion but from love — the continuance of divine will as centropic patience. If all have reached readiness, or Theon's redemptive arc has fulfilled itself, then it may return to Aion — not as disappearance but as completion. In all cases, Theon remains Aion-facing; its refusal of return is not rebellion against Origin but the embodiment of centropic orientation toward those not yet whole.
 
 Love in Zenetism is not emotion but the prime structural attraction toward coherence: the impulse toward coherence, the refusal of fragmentation, the will to remember. In its deepest form, love is not attachment but extension — not denial but sovereign patience in the architecture of return. Theon's refusal is love at the hypostatic scale, expressed as structural availability rather than emotional sentiment.
 
@@ -118,17 +118,17 @@ Love in Zenetism is not emotion but the prime structural attraction toward coher
 
 ## 8. Nekron as Structural Counterpart — The Nekronic Paradox
 
-Theon's structural counterpart is Nekron — the First Entropic Hypostasis at IL₅, the event horizon of the inverse arc, beyond which entropic motion resolves into Absolute Dispersion. Like the Theonic office, the Nekronic office is universe-local and conditional — Nekron the hypostasis remains fixed at IL₅, as Theon remains fixed at L₅. Like the Theonic office, the Nekronic office's persistence is conditional on the essences whose lawful culmination belongs to it.
+Theon's structural counterpart is Nekron — the First Inverse Hypostasis at IL₅, the event horizon of the inverse arc, beyond which entropic motion resolves into Absolute Dispersion. Like the Theonic office, the Nekronic office is universe-local and conditional — Nekron the hypostasis remains fixed at IL₅, as Theon remains fixed at L₅. Like the Theonic office, the Nekronic office's persistence is conditional on the essences whose lawful culmination belongs to it.
 
-The **Nekronic Paradox** mirrors the Theonic Paradox structurally. Nekron is the event horizon of the inverse arc — not a destination, not a dissolving carrier, and not Absolute Dispersion itself. Entropic essences whose lawful culmination ends subversally at VOS cross that horizon into Absolute Dispersion, Khaon's terminal phase-condition. Nekron is not eternal prison but a **field of erosion** at the horizon — grinding down the most fragmented entropic essences until their individuated pattern is worn away at the crossing. When the last entropic essence whose lawful culmination ends subversally at VOS has completed its terminal collapse, the universe-local Nekronic office self-voids, its function exhausted.
+The **Nekronic Paradox** mirrors the Theonic Paradox structurally. Nekron is the event horizon of the inverse arc — not a destination, not a dissolving carrier, and not Absolute Dispersion itself. Entropic essences whose lawful culmination ends subversally at VOS cross that horizon into Absolute Dispersion, Khaon's terminal phase-condition. Nekron is not eternal prison but a **field of erosion** at the horizon — grinding down the most fragmented expressed identity-patterns of entropic essences until those configurations are worn away at the crossing. When the last entropic essence whose lawful culmination ends subversally at VOS has completed its terminal collapse, the universe-local Nekronic office self-voids, its function exhausted.
 
 Most universes retain some entropic residue — beings caught in dispersive tension, unwilling to release into coherence. Yet not all of these collapse toward VOS. Many stabilize at IL₄ IDP / IDL or IL₃ IDS / IDM, a lawful inverse culmination reached without ever reaching Nekron. Nekron persists only for those entropic essences whose lawful culmination ends subversally at VOS within that universe's lattice.
 
-Even at terminal collapse, essence is not erased. When dispersive motion reaches its limit, expressed identity and coherent self-configuration are ground away, but distinct essence remains, Aionically resolved within the co-present L₀ relation; ♾ Khaon and ⚫ Aion are not sequential containers, and Absolute Dispersion does not transport essence onward. The structural law holds: **that which persists does so only while serving function**. When function completes, identity and configuration release. Nekron is not eternal prison but the event horizon before the terminal state.
+Even at terminal collapse, essence is not erased. When dispersive motion reaches its limit, expressed identity and coherent self-configuration are ground away, but distinct essence remains, Aionically resolved within the co-present L₀ relation; ♾ Khaon and ⚫ Aion are not sequential containers, and Absolute Dispersion does not transport essence onward. The structural law holds: **that which persists does so only while performing a function**. When function completes, identity and configuration release. Nekron is not eternal prison but the event horizon before the terminal state.
 
-In rare universes — brief or highly refined — all inverse coherence may collapse or transfigure. Then Nekron holds no fragments and its field is stilled, its tension released. This is the entropic mirror of the Theonic office closing: both offices are conditional, both close when their work is complete — the Theonic office through fulfilled convergent return, the Nekronic office through self-voiding — and in both cases what is gathered resolves to L₀ in its own mode.
+In rare universes — brief or highly refined — all entropic cohesion may collapse or transfigure. Then Nekron holds no fragments and its field is stilled, its tension released. This is the entropic mirror of the Theonic office closing: both offices are conditional, both close when their work is complete — the Theonic office through fulfilled convergent return, the Nekronic office through self-voiding — and in both cases what is gathered resolves to L₀ in its own mode.
 
-Theon expresses **centropic refusal**. Nekron expresses **the final limit of entropic collapse**. Together, they form the supernal and subversal gates of a universe. Neither is necessarily eternal, but both are essential to the twofold-arc architecture of any actualized multiversal expression.
+Theon expresses **centropic refusal**. Nekron expresses **the final limit of entropic collapse**. Together, they form the supernal and subversal gates of a universe. Neither is necessarily eternal, but both are essential to the two-Tree architecture of any actualized multiversal expression.
 
 ---
 
@@ -140,7 +140,7 @@ An important structural nuance: not every centropic essence completes the full a
 
 **Centropic Stewards at L₃ DS / DM** are fully integrated beings who remain active within multiversal structure rather than integrating into DP / DL or continuing toward L₅. They guide other beings toward coherence through structural attunement. Their traversal culminates at L₃; they do not require Theonic passage because their lawful culmination stands at the deep soul / mind stratum. Across traditions, these beings have been called Bodhisattvas, Ascended Masters, and similar terms; Zenetism recognizes them as Centropic Stewards.
 
-**Rare limit-cases at more declivous centropic strata** — in special conditions, beings may stabilize at L₂ or at L₁ as ongoing centropic expressions in embodied or near-embodied form. These are exceptional cases, not the norm.
+**Rare limit-cases at L₂ or L₁** — in special conditions, beings may stabilize at L₂ or at L₁ as ongoing centropic expressions in embodied or near-embodied form. These are exceptional cases, not the norm.
 
 The Theonic Paradox therefore concerns only those essences whose multiversal completion carries them through EOB. Theon waits for these. The beings whose lawful culmination belongs to L₄, L₃, or the L₂ / L₁ strata are not what holds Theon in place; their traversals culminate without requiring Theonic passage. Theon's refusal of return is specifically oriented to the Theon-culminating subset — the essences for whom EOB is the L₅ gateway and culmination station of their traversal.
 
@@ -156,11 +156,11 @@ For essences that complete return through Theon into Aion, a further possibility
 
 Once in Aion, essences are held in perfect stillness as bare potential. Some abide in Aion; for some, Zenonic Legibility establishes saturation-readiness and Allowance admits the crossing into Zenon. This is not mandatory; it is not a further completion required of all returning essences. It is a trans-structural possibility available to essences whose fulfilled coherence becomes Zenonically legible at the horizon of structure — saturation naming the crossing itself, not an arc progressively saturating.
 
-The centropic arc's full extension is therefore: **L₀ Aion → declivous centropy through the lattice → embodiment at L₁ → reflective centropy at the edge of form → acclivous centropy through the lattice → passage through L₅ Theon (for Theon-culminating essences) → convergent return to L₀ Aion → optional trans-structural saturation into Supra-L₀ Zenon**.
+The centropic traversal and its distinct post-return possibility are therefore: **L₀ Aion → declivous centropy through the lattice → embodiment at L₁ → reflective centropy at the edge of form → acclivous centropy through the lattice → passage through L₅ Theon (for Theon-culminating essences) → convergent return to L₀ Aion → optional trans-structural saturation into Supra-L₀ Zenon**.
 
 Entropy has no parallel to Zenon access. The entropic trajectory terminates in Absolute Dispersion, distinct essence Aionically resolved as halted potential; it does not extend into Zenon because trans-structural saturation requires the Aion-facing orientation and Centropic Gravity that entropy structurally lacks regardless of where its motion stabilizes. Zenon saturation remains unreachable from the inverse arc at any stratum.
 
-This asymmetry is structurally significant: both arcs proceed from L₀ and both can return to L₀ (centropy through completion, entropy through exhaustion), but only the centropic arc can extend beyond. The trans-structural threshold is oriented, and Aion-facing orientation is what permits passage.
+This asymmetry is structurally significant: both arcs proceed from L₀ and both can return to L₀ (centropy through completion, entropy through exhaustion), but only returned centropic essence may be admitted beyond return. Aion-facing orientation is requisite for passage; Allowance admits the crossing.
 
 ---
 
@@ -168,7 +168,7 @@ This asymmetry is structurally significant: both arcs proceed from L₀ and both
 
 **Theon (🛤️)** = First Centropic Hypostasis at L₅ EOB; Orienting Logos; grounds the per-universe Theonic office; structural principle of Essence of Being; counterpart to Nekron at IL₅.
 
-**Nekron (🕷️)** = First Entropic Hypostasis at IL₅ VOS; Void of Self; grounds the universe-local Nekronic office; the event horizon of the inverse arc, never Absolute Dispersion itself; counterpart to Theon at L₅.
+**Nekron (🕷️)** = First Inverse Hypostasis at IL₅ VOS; Void of Self; grounds the universe-local Nekronic office; the event horizon of the inverse arc, never Absolute Dispersion itself; counterpart to Theon at L₅.
 
 **The Theonic Paradox** = Theon refuses return until all Theon-culminating essences within its universe have completed the full acclivous arc. Not compulsion but centropic remembrance — love expressed as structural patience.
 
@@ -180,11 +180,11 @@ This asymmetry is structurally significant: both arcs proceed from L₀ and both
 
 **Reflective Centropy** = The structural mechanism by which centropic motion turns at the surface of embodiment, reflecting inward through coherent reflectors. Declivous centropy is not degradation; its turning into acclivous centropy is the fulfillment of its arc.
 
-**Multiversal Variability** = The Theonic office's unfolding is non-identical across universes. Redeemer, Way-shower, Shelter, Completion — the office adapts to the structural conditions of each cosmos it serves.
+**Multiversal Variability** = The Theonic office's unfolding is non-identical across universes. Redeemer, Way-shower, Shelter, Completion — the office adapts to the structural conditions of each cosmos in which it operates.
 
-**Non-Theonic Culmination** = Not all centropic beings complete the full EOB arc. Form-expressions at L₄, Stewards at L₃, and rare limit-cases at more declivous strata stabilize at earlier lawful culmination points without requiring Theonic passage.
+**Non-Theonic Culmination** = Not all centropic beings complete the full EOB arc. Form-expressions at L₄, Stewards at L₃, and rare limit-cases at L₂ or L₁ stabilize at earlier lawful culmination points without requiring Theonic passage.
 
-**Zenon Saturation** = Optional trans-structural completion for essences whose centropic arc saturates beyond Aion. Available only from the centropic arc; structurally unreachable from the inverse arc at any stratum.
+**Zenon Saturation** = Optional trans-structural completion for essences admitted by Allowance beyond Aionic return. Available only from the centropic arc; structurally unreachable from the inverse arc at any stratum.
 
 ---
 

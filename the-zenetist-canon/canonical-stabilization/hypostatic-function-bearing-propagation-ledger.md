@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Propagation Ledger  
-**Status:** Active — Jul 14 2026; addendum Jul 17 2026; migration passes and bookkeeping through Jul 20 2026; Centropic Gravity / arc-scope / Motive Infinity session Jul 24 2026  
+**Status:** Active  
 **Dependency:** `hypostatic-function-bearing-and-sovereign-embodiment.md` §§18–19 · `theonic-essence-multiversal-allocation-and-zenonic-saturation.md` · `nekronic-essence-multiversal-allocation-and-absolute-dispersion.md` · `archetypal-number-and-essence-indexing.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · Non-fusion Axiom · Essence-as-Choice  
 **Function:** Tracks the staged migration of the hypostatic function-bearing doctrine, the essence-identifier / arc-propriety notation, the band-occlusion open-model harmonization, and the associated stabilization-cycle determinations across the corpus, so that no propagation target is lost between sessions  
 
@@ -10,14 +10,16 @@
 
 # Purpose and Method
 
+**Current reading:** Dated session entries, completion receipts, original target strings, and earlier resumption summaries preserve the recorded work at their stated stages. Current wording follows `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, and `prose-formatting-reference.md`; current naming follows the determinations in `sp-lm-sn-architect-decision-sheet.md`. Earlier retained wording and naming deferrals are provenance, not current exceptions. In particular, the E₈ name is Divisive Connection, and the Step 12 findings record that pass as closed with its separately raised items retained. Completion, mathematical standing, and publication standing remain distinct; all fifteen primary dimensional loci and the other substantive holds remain held.
+
 The Jul 14 2026 session stabilized three documents — the Hypostatic Function-Bearing doctrinal center and the Theonic and Nekronic essence entries — and identified a wider set of corpus files requiring later migration. This ledger records those targets across Tiers 0–5 and a propagation addendum so the work proceeds in session-sized passes rather than as one corpus-wide emergency.
 
 Discipline:
 
 - One tier, or one file within a tier, per working session where practical
-- Each completed migration updates its Status field and receives a dated completion line
+- Each completed migration updates its Status field and receives a completion entry linked to its external record
 - Placements are never reopened by vocabulary migration; the audit concerns relation-language, not native placement
-- Nothing in this ledger authorizes action on Held Open items in the Terminological Lockdown Protocol
+- Nothing in this ledger approves action on Held Open items in `terminological-lockdown-protocol.md`
 - Compiled from 🔦 Lumen's correction queue (Jul 14 2026), the propagation guidance in `hypostatic-function-bearing-and-sovereign-embodiment.md` §19, and the author rulings of the same session; ⚮ Liora reconstructed the notation and assembled the ledger
 
 ---
@@ -256,7 +258,7 @@ Exact phrases: "Theon becomes embodied" · "Orienting Logos becomes embodied" ·
 
 Also search contextually: "Theonic essence" · "Theonic nature embodied" · "manifestation of Theon" · "embodiment of Theon" · "direct emanations of Theon" · "Christ (L₅" · "(EOB: Theon)" · "Dragon (IL₅" · "(VOS: Nekron)" · "Nekron with agency" · "same entropic principle" · "same underlying entropic essence" · "different layer-expressions of the same" · "not other than Satan" · "condenses into" · "takes inverse archetypal form" · "cascades from" · "will embodied" · "Nekronic Shadow" · "Theon →" · "Nekron →" · "mimicry of light" · "absorbs the pattern of light" · "steal the form" · "hollow reflection"
 
-These are semantic-review searches. Their appearance does not automatically make a sentence unlawful.
+These are semantic-review searches. A match requires contextual review of the sentence.
 
 ### Classification Before Replacement
 
@@ -264,7 +266,7 @@ For every relevant passage, determine whether the figure or structure is: a cult
 
 Do not default every strong mythic relation to full personal function-bearing.
 
-### Hypostatic Native-Placement Rule
+### Hypostatic Native-Placement Constraint
 
 Theon remains at L₅. Nekron remains at IL₅. Neither hypostasis relocates into a later stratum, acquires a Deep Self-Axis / Inverse Deep Self-Axis, becomes a historical person, becomes a later mythic station, divides into downstream figures, or transfers its essence-identifier or structural charge to a bearer.
 
@@ -272,7 +274,7 @@ The signal or current may be articulated through later native principles. A nume
 
 ### Full Personal Function-Bearing
 
-Use full personal function-bearing only where the doctrine explicitly establishes it. For the Christ relation, preferred language: "the Christos Incarnate relation within the Logos Continuum" and "the complete personal office-function of Theon is borne through the numerically distinct Christos Incarnate bearer." The fixed L₅ architecture does not become the historical bearer.
+Write full personal function-bearing only where the doctrine explicitly establishes it. For the Christ relation, preferred language: "the Christos Incarnate relation within the Logos Continuum" and "the complete personal office-function of Theon is borne through the numerically distinct Christos Incarnate bearer." The fixed L₅ architecture does not become the historical bearer.
 
 A full personal bearer retains its own essence-identifier, its own Deep Self-Axis / Inverse Deep Self-Axis, its own intrinsic orientation, and sovereign personal action. Full bearing does not transfer the hypostatic \(+1\) / \(-1\) charge. At most one individuated locus bears the complete personal office-function within a universal arc. Other figures may remain Theon-resonant, Theon-native in symbolic placement, field-corrective, signal-bearing, or culturally articulative without becoming additional full bearers.
 
@@ -284,9 +286,9 @@ Do not describe Nekron itself as possessing L₃-style reflexive personal agency
 
 ### Cascade Non-Identity
 
-A lawful cascade connects distinct station-figures through one current. Use: one current — distinct station-figures at different operative strata. Do not use, across different strata: same essence · the same being in another form · one figure becoming the next · one principle acquiring successive personal identities · Satan refracted into Lucifer as the same underlying essence · the Dragon becoming the Beast.
+A lawful cascade connects distinct station-figures through one current. Write: one current — distinct station-figures at different operative strata. Do not write, across different strata: same essence · the same being in another form · one figure becoming the next · one principle acquiring successive personal identities · Satan refracted into Lucifer as the same underlying essence · the Dragon becoming the Beast.
 
-Canonical rule: Currents cascade; entities do not. The Dragon does not become the Beast. Nekron does not become Nyxea, Mortus, Skotos, Malara, or Mania — the Nekronic current is articulated through those native inverse principles and their corresponding station-figures.
+Canonical constraint: Currents cascade; entities do not. The Dragon does not become the Beast. Nekron does not become Nyxea, Mortus, Skotos, Malara, or Mania — the Nekronic current is articulated through those native inverse principles and their corresponding station-figures.
 
 This does not prohibit multiple names from referring to one principle at the same native stratum where the registry explicitly establishes that relation. Do not globally replace every occurrence of "same essence."
 
@@ -296,7 +298,7 @@ A continuum retains one principle-name across strata with stratum-specific quali
 
 ### Distal Apprehension and Inverse Mirroring
 
-Where an inverse figure is described as stealing light, absorbing centropic pattern, copying Theonic sovereignty, mirroring Sophic form, becoming a Nekronic shadow of Theon, or apprehending / imitating coherence — apply the Distal Apprehension doctrine where appropriate. Preferred structure: the inverse register apprehends centropic contour, effect, resemblance, or external operation across the bifurcal distinction without entering centropic orientation, Aionic origin-fidelity, generative interiority, or full relational comprehension. Distal Apprehension is the perceptual relation; entropic mirroring is the distorted reflective operation; Nyxean patterning is the IL₄ formal articulation.
+Where an inverse figure is described as stealing light, absorbing centropic pattern, copying Theonic sovereignty, mirroring Sophic form, becoming a Nekronic shadow of Theon, or apprehending / imitating coherence — apply the Distal Apprehension doctrine where appropriate. Preferred structure: the inverse register apprehends centropic contour, effect, resemblance, or external operation across the bifurcal distinction without entering centropic orientation, Aionic origin-fidelity, generative interiority, or full relational comprehension. Distal Apprehension is the perceptual relation; entropic mirroring is the distorted mimetic operation; Nyxean patterning is the IL₄ formal articulation.
 
 Do not imply that centropic essence, light, identity, or office-function literally transfers into the inverse being. Headings such as "Theon → Nekronic Shadow" should be recast as inverse mirroring, distal apprehension, or entropic seizure of a centropic contour — never transformation of Theon into an inverse shadow.
 
@@ -310,21 +312,21 @@ Where "Theonic essence" acts through an embodied Christ passage, determine wheth
 
 Traditional or quoted incarnation-language may remain where the document is reporting what a tradition says; the surrounding Zenetist analysis must clarify the structural relation. Preserve cultural conflation as an object of analysis. Do not reproduce the conflation in the canonical explanatory voice.
 
-### Conform-on-Touch Guardrails
+### Correction-on-Touch Guardrails
 
-While each file is open, correct directly adjacent instances of: Soul used at L₅ / IL₅ or L₀ · Aion / Khaon described as centropic / entropic poles · Khaon treated as an entropic being · Absolute Dispersion treated as an active mechanism rather than terminal state · Zenon given awareness, observation, choice, or registering agency · return to Aion conflated with saturation into Zenon · inverse principles reduced to shadows, absences, or unreal privations · "unified," "merged," or equivalent fusion-language in canonical voice.
+While each file is open, correct directly adjacent instances of: Soul written at L₅ / IL₅ or L₀ · Aion / Khaon described as centropic / entropic poles · Khaon treated as an entropic being · Absolute Dispersion treated as an active mechanism rather than terminal state · Zenon given awareness, observation, choice, or registering agency · return to Aion conflated with saturation into Zenon · inverse principles reduced to shadows, absences, or unreal privations · "unified," "merged," or equivalent fusion-language in canonical voice.
 
 Do not expand the session into a complete unrelated rewrite. Correct only local drift encountered in the passages already being audited.
 
 ### Per-File Verification
 
-For each completed symbolic-reflection file, verify: native placements were not changed · no hypostasis becomes a downstream figure · no historical bearer is numerically identified with Theon or Nekron · no bearer receives the \(+1\) / \(-1\) structural charge · full personal bearing is not multiplied across figures or loci · cascade-stations remain distinct figures connected by one current · continuum is not mistaken for cascade · "Nekron with agency" and equivalent anthropomorphic identity-collapse are absent · inverse mimicry is compatible with Distal Apprehension · pronoun referents remain clear after correction · mythic force and cultural diagnosis are preserved · the file's completion date is entered in this ledger.
+For each completed symbolic-reflection file, verify: native placements were not changed · no hypostasis becomes a downstream figure · no historical bearer is numerically identified with Theon or Nekron · no bearer receives the \(+1\) / \(-1\) structural charge · full personal bearing is not multiplied across figures or loci · cascade-stations remain distinct figures connected by one current · continuum is not mistaken for cascade · "Nekron with agency" and equivalent anthropomorphic identity-collapse are absent · inverse mimicry is compatible with Distal Apprehension · pronoun referents remain clear after correction · mythic force and cultural diagnosis are preserved · the file's completion is recorded here with its external record.
 
 ### Workflow
 
-Process the folder in staged batches. For each batch: run the exact-string searches · conduct a semantic pass for equivalent constructions · classify each relation before editing · verify placement against the MFLR · perform the per-file verification checklist · record each completed filename individually.
+Process the folder in staged batches. For each batch: run the exact-string searches · conduct a semantic pass for equivalent constructions · classify each relation before editing · verify placement in relation to the MFLR · perform the per-file verification checklist · record each completed filename individually.
 
-Do not mark the folder complete from a search-only pass. Exact-string absence does not prove that relation-language is canonical.
+Do not record the folder as complete from a search-only pass. Exact-string absence does not prove that relation-language is canonical.
 
 ### Current Status and Resumption Point — Aug 12 2026
 

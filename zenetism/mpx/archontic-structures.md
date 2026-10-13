@@ -12,7 +12,7 @@
 ## Definition
 
 The **Inverse Lattice** is the organized structure of the **Entropic Hierarchy**.  
-Unlike the **Void of Self** (Nekron / VOS), which operates as the **structural engine of dissolution**, the Inverse Lattice is a **rigid, highly ordered system of control**.
+Unlike the **Void of Self** (Nekron, VOS), which operates as the **structural engine of dissolution**, the Inverse Lattice is a **rigid, highly ordered system of control**.
 
 It is governed by **Archons** and **Titans** — entities operating at the **IDP / IDL layer** (*Inverse Deep Psyche / Inverse Deep Logos*).
 
@@ -43,7 +43,7 @@ The shorthand names fracture away from coherent relation with Origin, never subt
 - **Function:** Inversion  
   - Not absence of structure  
   - The **Structure of Collapse**  
-  - A geometric mechanism that disassembles coherence and actively funnels resonance away from Aion  
+  - A geometric mechanism that disaggregates relative coherent expression and actively funnels resonance away from Aion  
   - *(The Grinder)*
 
 ---
@@ -64,7 +64,7 @@ Manifestations include:
 
 ### The Error  
 Mistakes **Order** for the highest good rather than **Coherence**.  
-Seeks to freeze reality to prevent entropy, unknowingly fracturing centropic flow.
+Seeks to freeze reality to prevent entropy, unknowingly fragmenting relative coherent expression.
 
 **Zenetist Stance:**  
 > *They are guardians of pattern fractured away from coherent relation with Origin.*

@@ -38,7 +38,7 @@ Such attempts inevitably result in **entropic dissolution** — the patterns col
 
 ---
 
-# Membrane Fields and Inter-Expression Dynamics
+# Membrane Fields and Inter-expression Dynamics
 *Structural Physics — Document 8*
 
 **Series:** Structural Physics: The Physics of Expression  
@@ -70,7 +70,7 @@ Membranes are not themselves hypostases. They are **inter-hypostatic thresholds*
 - **Membrane Fields** (⧉) as inter-hypostatic threshold structures
 - **Transfer mechanics** — conditions for successful resonance passage
 - **Membrane types** — bridges, filters, amplifiers, occlusions
-- **Kaionic tunneling** — non-standard passage across membrane barriers
+- **Kaionic tunneling** — registered bypass concept; its transfer relation remains held
 - **Diagnostic applications** — membrane integrity assessment
 - **Pathological conditions** — membrane collapse, occlusion, and breach
 
@@ -92,7 +92,7 @@ Membranes are:
 
 ### 2.2 Membrane Position in the Lattice
 
-Membranes exist at every layer boundary:
+Membranes mediate layer boundaries. The Supra-L₀ / L₀ row records a trans-structural threshold designation; its treatment as an ordinary mathematical membrane remains held pending an admissible boundary domain.
 
 | Boundary | Membrane Designation | Function |
 |----------|---------------------|----------|
@@ -103,7 +103,7 @@ Membranes exist at every layer boundary:
 | L₃ / L₂ | ⧉₂ | Psychic-to-cognitive transition |
 | L₂ / L₁ | ⧉₁ | Cognitive-to-embodied transition |
 
-The inverse lattice (IL₅–IL₁) possesses corresponding membranes with inverted orientation:
+The inverse hypostatic segment (IL₅–IL₁) possesses corresponding membranes with entropic orientation:
 
 | Boundary | Membrane Designation | Function |
 |----------|---------------------|----------|
@@ -113,7 +113,7 @@ The inverse lattice (IL₅–IL₁) possesses corresponding membranes with inver
 | IL₃ / IL₂ | \( \text{⧉}_{IL_2} \) | Inverse-psychic-to-inverse-cognitive transition |
 | IL₂ / IL₁ | \( \text{⧉}_{IL_1} \) | Inverse-cognitive-to-inverse-embodied transition |
 
-### 2.3 Membrane as Non-Hypostatic Structure
+### 2.3 Membrane as Non-hypostatic Structure
 
 > **Critical Distinction:**  
 > Membranes are not layers. They do not possess the structural completeness of hypostases. A membrane has no hypostatic interior. Its boundary region may carry a mathematical state without becoming a layer; a state space and update law require their own specification.
@@ -176,7 +176,7 @@ Membrane permeability varies with orientation:
 \sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
-Where \( f(\chi) \) modulates permeability based on the χ-orientation of the traversing resonance:
+Here \( f(\chi) \) proposes orientation-dependent modulation. The following opposed-orientation passage claims remain held until their embodied or otherwise lawful mediated transfer path and domain are specified; additional energy does not authorize deep-arc essence traversal:
 
 - **Centropic resonance** (\( \chi < 1 \)) passing through centropic-aligned membranes: \( f(\chi) > 1 \) — facilitated passage
 - **Entropic resonance** (\( \chi > 1 \)) passing through centropic-aligned membranes: \( f(\chi) < 1 \) — impeded passage
@@ -400,7 +400,7 @@ Unresolved membrane recursion may persist across temporal cycles in the qualitat
 **Characteristics:**
 
 - \( \sigma(\text{⧉}) \) becomes undefined
-- Boundary between layers dissolves
+- Threshold function between layers is lost
 - Unfiltered resonance mixing occurs
 
 **Consequences:**
@@ -429,19 +429,19 @@ Unresolved membrane recursion may persist across temporal cycles in the qualitat
 ### 7.3 Membrane Occlusion Syndrome
 
 > **Definition (Membrane Occlusion Syndrome):**  
-> Progressive reduction in membrane permeability leading to isolation between layers.
+> Progressive reduction in membrane permeability leading to isolation of relative expression across layer boundaries.
 
 **Characteristics:**
 
 - \( \sigma(\text{⧉}) \to 0 \) over time
 - Transfer becomes increasingly difficult
-- Affected layer becomes "cut off" from adjacent layers
+- Affected relative expression becomes "cut off" from adjacent layers
 
 **Consequences:**
 
-- Starvation: Layer cannot receive replenishment from coherence-source structures
+- Starvation: The affected expression cannot receive replenishment from coherence-source structures
 - Accumulation: Resonance cannot discharge, leading to pressure buildup
-- Collapse risk: Isolated layers may undergo structural collapse
+- Collapse risk: Isolated relative expressions may undergo structural collapse
 
 ---
 
@@ -653,7 +653,7 @@ Complete collapse of membrane structure; loss of threshold function; unfiltered 
 Localized rupture in membrane structure creating unfiltered passage point; may be exploited for siphoning.
 
 **Definition 8 (Membrane Occlusion Syndrome):**  
-Progressive reduction in permeability leading to layer isolation; may result in starvation, accumulation, or collapse.
+Progressive reduction in permeability leading to isolation of relative expression across layer boundaries; may result in starvation, accumulation, or collapse.
 
 ---
 

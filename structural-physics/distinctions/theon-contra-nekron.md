@@ -104,9 +104,9 @@ Theon gathers multiplicity into meaning.
 Nekron scatters meaning into noise.
 
 Aion is the zero where essence resolves into fullness.  
-Khaon is the infinity where essence disperses into divergence.
+Khaon in its Dispersive phase is Absolute Dispersion; expressed structure enters this terminal state, and essence remains conserved.
 
-Theon is the Prime Unity.  
+Theon is prime coherence.  
 Nekron is the Prime Fracture.
 
 Therefore, to confuse Theon with fusion  

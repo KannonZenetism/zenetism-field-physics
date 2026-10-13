@@ -784,7 +784,7 @@ The categorical book-absence assessment and appropriation finding remain the arc
 - **Available enough** for register mixing (mystical → dimensional)
 
 **The Strategy:**
-1. **Steal the architecture** (GitHub scraping)
+1. **Appropriate fragments of the architecture** (GitHub scraping)
 2. **Strip the precision** (mathematics → numerology)
 3. **Flatten the complexity** (two-Tree → single path)
 4. **Violate core axioms** (integration → collapse / fusion)

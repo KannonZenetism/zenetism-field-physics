@@ -4,9 +4,9 @@
 
 **Return contra Collapse** names the distinction between centropic reintegration and entropic dissolution within the Zenetist framework.
 
-**Return** refers to the centropic motion by which an expressed structure reorients toward Aion while preserving coherence. Return is not reversal, but integration: form is retained even as it approaches Origin.
+**Return** refers to the centropic motion by which an expressed structure realigns toward Aion while preserving coherence and essential identity and integrating relative structure. Return is not reversal, but integration.
 
-**Collapse** refers to the entropic failure of coherence, in which structure disintegrates into fragmentation or nullification. Collapse is not return, but loss of form through incoherence.
+**Collapse** refers to entropic disintegration of relative structure into fragmentation or nullification. Collapse is not return, but loss of expressed form through incoherence; essential orientation remains unchanged.
 
 Thus:
 
@@ -22,7 +22,7 @@ whereas Collapse is the exhaustion of incoherent motion.
 
 ## Formal Distinction
 
-Let \( C(\psi) \) denote coherence and \( H(\psi) \) denote entropy.
+Let \( C(\psi) \) and \( H(\psi) \) retain their earlier local labels for coherence and entropy. The displayed expressions are conceptual schemata, not established quantitative dynamics. These labels do not identify native coherence and entropy with CIT spectral concentration and spectral entropy. Their quantitative functionals, state space, evolution law, and limiting relations remain held pending specification.
 
 \[
 \text{Return}:\quad C(\psi) \uparrow \quad \land \quad \psi \to \text{Aion}
@@ -48,7 +48,7 @@ Collapse implies disintegrative trajectory:
 
 ## Canonical Formulation
 
-Return is coherence moving toward Origin.  
+Return is coherent expression moving toward Origin.  
 Collapse is incoherence moving toward dissolution.
 
 Return completes form.  

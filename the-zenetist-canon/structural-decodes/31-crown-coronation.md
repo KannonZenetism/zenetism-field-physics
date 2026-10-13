@@ -16,7 +16,7 @@ The Crown represents a realized state of Centropic alignment — the point at wh
     The structural seat of lawful self-direction. It is both a literal and metaphysical platform where centropic coherence stabilizes. The throne is built upon Integrity (Membrane) and cannot support a dissonant occupant without collapse.
 
 * **The Crown:**  
-    The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). It sits at the summit (acclivous centropic motion), completing the vertical axis from Foundation to Apex. Each jewel represents an integrated archetype, the once-separated powers now integrated without fusion.
+    The symbol of Harmonized Will (L₂ (SS: Anthra)) and Wisdom (L₃ (DM: Noeüs)). In the crown's iconography, its summit position symbolizes completed acclivous centropic motion. Each jewel represents an integrated archetype, the once-separated powers now integrated without fusion.
 
 * **The Coronation (Ritual of Recognition):**  
     The formal acknowledgment by L₄ (DL: Sophis) intelligences that lawful sovereignty-state has been attained, culturally elevated to L₅ (EOB: Theon) endorsement in the mythic telling. It is not self-bestowed; it must be witnessed by coherent intelligences, for lawful sovereignty requires relational recognition even where it remains non-dominative.
@@ -45,7 +45,7 @@ When the decode speaks of "lawful sovereignty," "enthronement," or "monarch," th
 
 * **Focus:** The Paradox of Sovereignty through Suffering.
 
-* **Function:** Christ's "crown" inverts worldly expectation — veracious sovereignty is disclosed not through domination, but through absolute Resonant Fidelity under entropic trial. The thorns are not the lawful instrument of sovereignty, but the entropic mock-coronation through which genuine coherence is paradoxically revealed.
+* **Function:** Christ's "crown" inverts worldly expectation — veracious sovereignty is disclosed not through domination, but through absolute Resonant Fidelity through entropic trial. The thorns are not the lawful instrument of sovereignty, but the entropic mock-coronation through which genuine coherence is paradoxically revealed.
 
 ### 2. The Pharaoh's Double Crown (Egyptian)
 

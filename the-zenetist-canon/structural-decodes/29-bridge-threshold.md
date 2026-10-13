@@ -41,7 +41,7 @@ The Bridge represents the operational structure by which Coherence crosses Hypos
 
 * **Focus:** The vertical and horizontal bridge connecting Heaven and Earth, Spirit and Flesh.
 
-* **Function:** It is the lawful intersection of Acclivous and Declivous Centropic motion along a vertical axis meeting the horizontal plane of embodiment, forming a stable Axis of Return.
+* **Function:** It is the lawful intersection of Acclivous and Declivous Centropic motion along the Cross's depicted vertical axis meeting its horizontal plane of embodiment, forming a stable Axis of Return.
 
 ### 3. The Rainbow of Noah (Hebrew)
 

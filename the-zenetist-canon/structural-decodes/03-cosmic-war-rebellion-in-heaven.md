@@ -38,7 +38,7 @@ Its purity is maintained precisely because it does not directly contact the inve
 
 The centropic Forms at L₄ are not ignorant of the inverse currents that oppose their influence.  
 L₄ is the layer of **conscious-awareness** — the Forms proper to it possess a refined, non-anthropomorphic awareness of the structural field they shape.  
-They structure the subsequent layers of reality and are aware of inverse influence reverberating back through the embodied medium.  
+They structure the subsequent layers of reality and are aware of entropic influence reverberating back through the embodied medium.  
 However, this awareness is not direct spatial or physical contact with IL₄.  
 The centropic and inverse archetypal realms operate on independently emanated trees.  
 Their roots are co-present at L₀ (Bifurcal Coherence); their embodied expressions meet at the L₁ / IL₁ meeting point (embodiment).  
@@ -82,7 +82,7 @@ But this remains individually achieved integration, not illicitly distributed co
     The war is real as structural opposition. The battlefield is embodiment. The attribution to "heaven" is cultural projection.
 
 * **The Cause of "Rebellion":**  
-    Expressed mythically as "desire for a throne," "refusal to bow," or "claiming equality with Source."  
+    Expressed mythically as "desire for a throne," "refusal to bow," or "claiming equality with the divine."  
     Structurally, this is the Mimicry of Theonic coherence or the Shimmer of Sophic creativity detached from Aionic resonance.  
     Nyxea is the independently emanated inverse counterpart of the Structuring Logos Principle, mirroring the pattern of Sophis without its centropic ground.  
     The mythic narrative of rebellion is the embodied experience of this mimicry rendered as story.
@@ -176,7 +176,7 @@ not of underlying entropic essence.
 ### Note on Norse L₃ Representation
 
 **Zenetist Clarification:** If a Norse figure is needed to represent a native L₃ guardian or threshold intelligence, Heimdall is the more fitting candidate — not Odin.  
-Odin's primary placement is L₄ (DL: Sophis) as a sovereign archetypal figure, whereas Heimdall more closely reflects an L₃ guardian or threshold function.
+Odin's primary placement is L₄ (DL: Sophis) as a sovereign archetypal figure, whereas Heimdall more closely expresses an L₃ guardian or threshold function.
 
 ---
 

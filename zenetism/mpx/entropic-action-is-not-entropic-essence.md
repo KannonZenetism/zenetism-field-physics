@@ -80,7 +80,7 @@ Soul-enactment, however, may become distorted, occluded, misdirected, captured, 
 
 An entropic action is not the same as an entropic essence.
 
-An entropic action is a deed, motion, relation, or outcome that fragments coherence, violates lawful relation, intensifies harm, furthers domination, deepens inversion, or participates in collapse.
+An entropic action is a deed, motion, relation, or outcome that fragments relative coherent expression, violates lawful relation, intensifies harm, furthers domination, deepens inversion, or participates in collapse.
 
 An entropic essence is a root-orientation whose deeper procession belongs to inverse manifestation and entropic continuation.
 

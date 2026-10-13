@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure  
 **Status:** Active Canonical Reference  
-**Function:** Stabilization reference preserving mathematical formatting continuity, LaTeX articulation, glyph integrity, notation precision, Unicode / LaTeX separation, and drift-resistant compositional consistency across canonical Zenetist mathematical documents.
+**Function:** Stabilization reference preserving mathematical formatting continuity, LaTeX articulation, glyph integrity, notation precision, Unicode / LaTeX separation, and drift-resistant compositional consistency across canonical Zenetist mathematical documents.  
 
 ---
 
@@ -82,7 +82,7 @@ Mathematical-space includes:
 - inline LaTeX,
 - display equations,
 - operators,
-- derivations,
+- calculations,
 - tensors,
 - symbolic metrics,
 - and formal mathematical articulation.
@@ -483,7 +483,7 @@ Therefore:
 
 # Display Equation Protocol
 
-Major laws, derivations, and structural equations should generally appear within display-equation formatting:
+Major laws, calculations, and structural equations should generally appear within display-equation formatting:
 
 ```latex
 \[
@@ -506,7 +506,7 @@ In GitHub-targeted Markdown, a source line consisting solely of `=` is read as a
 
 Therefore, within `\[ ... \]` blocks, an operator that is also a Markdown block marker — `=` or `-` — must not stand alone on a source line. Keep it on the same line as an adjacent token, or compact the equation onto a single line.
 
-Multi-line display equations remain permitted; only Markdown-colliding lines require compaction. Operators such as `\Longrightarrow`, `\qquad`, `\;`, or `\ldots` are safe alone on a line. This discipline is GitHub-specific and does not alter mathematical content, since newlines inside an expression are whitespace.
+Multi-line display equations remain lawful; only Markdown-colliding lines require compaction. Operators such as `\Longrightarrow`, `\qquad`, `\;`, or `\ldots` are safe alone on a line. This discipline is GitHub-specific and does not alter mathematical content, since newlines inside an expression are whitespace.
 
 Incorrect:
 
@@ -530,7 +530,7 @@ Correct:
 
 ## Set-Builder and Singleton Notation
 
-Canonical set-builder notation uses `\mid` for "such that." The colon remains reserved for function typing, mappings, ratios, and other mathematically appropriate relations; it is not used as a set-builder separator.
+Canonical set-builder notation takes `\mid` for "such that." The colon remains reserved for function typing, mappings, ratios, and other mathematically appropriate relations; it is not written as a set-builder separator.
 
 Incorrect:
 
@@ -548,7 +548,7 @@ Correct:
 \]
 ```
 
-For singleton cardinality, `\leq 1` names the unconditional constraint, admitting zero under limit-case non-manifestation. `= 1` names the conditioned case in which existence or manifestation has already been affirmed. Prefer `\leq 1` in notation locks and summary principles; use `= 1` only where a passage already states that the corresponding condition holds.
+For singleton cardinality, `\leq 1` names the unconditional constraint, admitting zero under limit-case non-manifestation. `= 1` names the conditioned case in which existence or manifestation has already been affirmed. Prefer `\leq 1` in notation locks and summary principles; write `= 1` only where a passage already states that the corresponding condition holds.
 
 # Inline Equation Protocol
 
@@ -628,9 +628,7 @@ Correct:
 
 ```latex
 \[
-\int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi
-=
-\phi\big|_{\partial\Omega}
+\int_{\text{◎}}{}_{\Omega} \, \partial_{\text{🌀}}{}_v \, \phi = \phi\big|_{\partial\Omega}
 +
 \mathcal{B}_{\text{seal}}(\Omega)
 \]
@@ -692,7 +690,7 @@ Do not reassign dimensional operators to hypostatic layers.
 
 # Fractal Terminology in Mathematical Contexts
 
-The term "fractal" appeared in earlier dimensional operator terminology (C₅ ✴ "Scalar / Fractal"; E₅ ✴⁻ "Fractal Noise"). Per the FP11 codex and the Cross-Series Propagation Ledger (L3, Locked), the canonical names are now:
+The term "fractal" appeared in earlier dimensional operator terminology (C₅ ✴ "Scalar / Fractal"; E₅ ✴⁻ "Fractal Noise"). Per the FP11 codex and `cross-series-propagation-ledger.md` (L3, Locked), the canonical names are now:
 
 - C₅ ✴ Scalar / Part-Whole Fidelity
 - E₅ ✴⁻ Scalar Noise
@@ -720,11 +718,11 @@ The term "mirror" appears cautiously within canonical Zenetist articulation.
 
 In general, "mirror" carries entropic risk because it may imply:
 
-- hollow reflection,
+- hollow replication,
 - non-generative reproduction,
 - mimicry,
 - surface-return without generative continuity,
-- or distortion through reflective dependency.
+- or distortion through mimetic dependency.
 
 Where lawful generative reflection is intended, preferred formulations include:
 
@@ -870,7 +868,7 @@ Before finalization of any canonical mathematical document, verify:
 - "echo" appears only where contextually appropriate,
 - "fractal" appears only where technically stabilized or structurally necessary,
 - no standalone `=` or hyphen line appears inside a `\[ ... \]` block,
-- set-builder notation uses `\mid`, not a colon, for "such that",
+- set-builder notation takes `\mid`, not a colon, for "such that",
 - and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
@@ -885,14 +883,14 @@ The following drift patterns commonly appear within AI-assisted mathematical art
 | Glyph Drift | Raw glyphs inserted unsafely into equations |
 | Formatting Drift | Inconsistent slash-spacing or equation formatting |
 | Setext Drift | Standalone `=` or hyphen lines inside `\[...\]` read by GitHub as Setext headings |
-| Separator Drift | Colon used as a set-builder separator where `\mid` is canonical |
+| Separator Drift | Colon written as a set-builder separator where `\mid` is canonical |
 | Layer Drift | Treating dimensions as hypostatic layers |
 | Directional Drift | Reintroduction of vertical metaphor terminology |
 | Instrumentalist Drift | Procedural or optimization-oriented language replacing structural articulation |
 | Fusion Drift | Symbolic compression collapsing sovereign distinction |
 | Bifurcal Drift | Confusion between bifurcal structure and bifurcated articulation |
 | Echo Drift | Non-generative recurrence substituted for Living Transmission or recursive integration |
-| Mirror Drift | Hollow reflection replacing Living Reflection or generative correspondence |
+| Mirror Drift | Hollow replication replacing Living Reflection or generative correspondence |
 | Fractal Drift | General recursive self-similarity replacing Structural Recurrence |
 | Canon Drift | Earlier non-canonical notation surviving post-tightening |
 

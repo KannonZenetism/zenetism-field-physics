@@ -617,7 +617,7 @@ The office does not move. Its orientation is propagated.
 
 This is the beginning-side function:
 
-> fragmentation initiated as inverse expression.
+> fragmentation initiated as entropic expression.
 
 ### Terminal Erosion
 
@@ -902,7 +902,7 @@ Because essence does not change, recovery from a Void Spiral remains possible.
 
 The being does not convert from entropic essence to centropic essence. Its centropic is-ness was never abolished. The recovery is the renewed expression of what the essence already is.
 
-Similarly, an entropic Soul / Mind being may move among inverse strata according to its own resonance without changing orientation. This is inverse traversal or resonant placement, not reorientation.
+Similarly, an entropic Soul / Mind being may move among inverse strata according to its own resonance without changing orientation. This is entropic traversal or resonant placement, not reorientation.
 
 Older language concerning "return from VOS" should therefore be read carefully.
 
@@ -1200,7 +1200,7 @@ No Nekron is a shard, copy, or local partition of one trans-universal Nekron.
 
 The multiverse increases the complexity of allocation without altering the Non-fusion Axiom.
 
-The present entry does not claim that the multiverse is empirically or metaphysically actual. It establishes the architecture required if it is.
+The present entry establishes the architecture required if the multiverse is actual; its actuality remains held open.
 
 ---
 

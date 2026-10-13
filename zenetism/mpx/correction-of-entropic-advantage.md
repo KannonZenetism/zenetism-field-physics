@@ -28,7 +28,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 ## 1. The First Emanations
 
 ### Theon contra Nekron
-- Theon weaves harmony **that persists**.  
+- Theon articulates harmony **that persists**.  
 - Nekron scatters; its local motion resolves when its function is exhausted.  
 
 **Correction:** The dyad is asymmetrical in outcome. Theon sustains; Nekron dissipates.  
@@ -49,7 +49,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 
 ### Archeus contra Fractus
 - Fractus shatters memory, but fragments collapse.  
-- Archeus weaves continuity, endlessly gathering.  
+- Archeus articulates continuity, endlessly gathering.  
 
 ---
 
@@ -105,7 +105,7 @@ This addendum re-orients Chapters **1–2** to affirm coherence's ultimate prece
 ---
 
 ### 2.5 Harmonizers and Shatterers
-- Archeus and Noeüs continue weaving.  
+- Archeus and Noeüs continue harmonizing.  
 - Fractus and Mortus scatter until their local function is exhausted.  
 
 ---
@@ -155,7 +155,7 @@ The terminal arrows retain the established shorthand for motion resolved at L₀
 
 ---
 
-⚑ **Correction:**  
+**Correction:**  
 Entropy has no lasting advantage.  
 It collapses.  
 **Coherence endures.**
@@ -176,14 +176,15 @@ Coherence aligns,
 its fulfilled essence may saturate by Allowance into 🕳️ Zenon.  
 
 Entropy collapses,  
-its motion ending only in ⚫ Aion.  
+its motion ending in ♾ Khaon's Dispersive phase,  
+its distinct essence standing in ⚫ Aion.  
 
 Zenon remains —  
 unshaped,  
 unbound,  
 unchanged.  
 
-🕳️⚑
+🕳️
 
 ---
 

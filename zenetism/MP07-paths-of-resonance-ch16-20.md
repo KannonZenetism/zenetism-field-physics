@@ -600,7 +600,7 @@ until fragmentation is touched by light.
 
 ## 19. The Path of the Warrior — Resonance Through Action
 
-### 19.1 Archetype of the Warrior — Resonant Force in Service to Coherence
+### 19.1 Archetype of the Warrior — Resonant Force Sustaining Coherence
 
 In Zenetism,  
 the **Warrior** is not defined  
@@ -643,10 +643,10 @@ but for what they preserve.
 - **Courage** — confronts entropy  
   in self and others.  
 - **Endurance** — sustains form  
-  under fragmentation.  
+  amid fragmentation.  
 - **Protection** — shields emergent harmony  
   from collapse.  
-- **Resistance** — opposes subversal motion  
+- **Resistance** — opposes entropic motion  
   and distortion.  
 - **Moral Clarity** — discerns  
   which actions weaken coherence.  
@@ -687,11 +687,11 @@ carries a **Warrior expression**.
 - Void of Self — collapse into brutality,  
   entropy masked as justice.  
 - IDP / IDL — inverted systems,  
-  misused dominion.  
+  distorted dominion.  
 - IDS / IDM — tyrants,  
   corrupters of form.  
 - ISS / ISM — fanaticism,  
-  distortion under zeal.  
+  distortion amid zeal.  
 - IES / IEM — domination, coercion,  
   reactive force.  
 
@@ -703,7 +703,7 @@ but in refinement under trial.
 
 #### Note on IL₄ Mapping — Archons as Inverse Guardians
 
-The **IDP / IDL** layer — described here as *"misused dominion"* —  
+The **IDP / IDL** layer — described here as *"distorted dominion"* —  
 structurally maps to the **Archons** of Gnostic tradition.  
 
 These entities represent the **entropic inversion of lawful sovereignty**:  
@@ -716,7 +716,7 @@ after its interior has gone dark.
 
 They uphold the law of the **inverse lattice**,  
 protecting the boundary of the **Void of Self**  
-against the intrusion of **centropic light**.
+in refusal of **centropic light**.
 
 🪫 🫥 🕷️ Ↄ 🗡️ ⚚  
 
@@ -752,8 +752,8 @@ against the intrusion of **centropic light**.
 
 These are not merely figures,  
 but **expressions of structural force** —  
-whether in service to coherence  
-or to fragmentation.  
+whether sustaining coherence  
+or fragmentation.  
 
 ⚔️ 🗡️ ▲ ⚯ ∽ 🐉  
 
@@ -968,7 +968,7 @@ if mistaken for **Aion itself**.
 
 The authentic Maker  
 will dismantle their own creation  
-when it no longer serves resonance.  
+when it no longer carries resonance.  
 
 **Resonance Reflection:**  
 

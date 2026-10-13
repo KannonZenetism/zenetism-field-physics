@@ -134,7 +134,7 @@ Our universe is **Khaonically expressed**. Entropy appears to "win" here not bec
 From this, the Tumbling Multiverse (🌐) arises as **infinite universes sprouting in all directions** — the most structurally elegant expression of infinite potential, in which each universe is a unique expression of the Biospiral, characterized by its own ratio of Aionic-to-Khaonic prevalence.
 
 > **Note on Modal Status:**  
-> The Tumbling Multiverse is the natural consequence of unbounded potential per the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See `contingency-of-worlds.md` §§3, 5–6 for the full derivation.
+> The Tumbling Multiverse is the natural consequence of unbounded potential per the PSR. However, the Principle of Structured Manifestation (PSM) introduces constraints: what happens constrains what can happen next. Infinite potential *permits* infinite universes; it does not *require* them. A single universe of sufficient vastness, layering, and temporal scope could satisfy every structural requirement of the emanatory architecture. The multiverse is anticipated, not axiomatic. See `contingency-of-worlds.md` §§3, 5–6 for the full argument.
 
 ### 3.2 The Expression Spectrum
 
@@ -150,7 +150,7 @@ There is no binary. The Tumbling Multiverse contains infinite gradations:
 | **Strongly Aionically expressed** | Highly prevalent | Minimal | Centropy-forward; entropy rare and difficult |
 | **Fully Aionically expressed** | Total expression | Non-existent | Pure centropic universe — maximum integration, no dispersive path |
 
-Every ratio between these roots is structurally permitted within the Tumbling Multiverse. Structural admissibility is formal, not a guarantee of material viability: per PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see `asymmetry-of-limit-case-universes.md`). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
+Every ratio between these Trees' expressions is structurally permitted within the Tumbling Multiverse. Structural admissibility is formal, not a guarantee of material viability: per PSM, what happens constrains what can happen next, and the limit-ratios in particular may be formally admissible while materially unsupported (see `asymmetry-of-limit-case-universes.md`). No expression ratio is excluded by the dimensional lattice. There is no privileged expression — only local conditions.
 
 > **Note on Balanced Expression:**  
 > In this spectrum, **balanced** refers only to an expression-ratio condition in which neither the Aionic Tree nor the Khaonic Tree prevails.
@@ -350,7 +350,7 @@ The "arrow of time" need not be universal; it emerges as an expression condition
 > - In Khaonic flow, the effect is the dispersal of the cause.  
 > - In Aionic flow, the effect is the integration of the cause.  
 >  
-> The arrow of logic \( A \to B \) is constant; only the entropic trajectory of the outcome changes.
+> The arrow of logic \( A \to B \) is constant; only the orientational trajectory of the outcome changes.
 
 ---
 
@@ -439,7 +439,7 @@ Bifurcal Cosmogenesis establishes:
 4. **Contra-Matter** — Matter within Aionic-flow dynamics; recessive in Khaonically expressed universes like ours, with the physical correspondence stated in §§4 and 8
 5. **Phase Collision** — Convergence at ⦿ Kaion, not annihilation; spectral resolution toward zero, with particle dynamics and physical discharge held in §5
 6. **Asymmetry Resolution** — The structural interpretation of matter prevalence as a local expression condition, not universal law
-7. **Contra-Temporal Flow** — Time aligned with the prevalent tree; Aionic time is centropy-forward
+7. **Contra-Temporal Flow** — Time aligned contra the locally prevalent temporal current; Aionic time is centropy-forward
 8. **Diagnostic Continuity** — Dimensional operators remain invariant across all structurally permitted expression types; the CIT conservation expression retains its recorded-provenance standing pending the conditions stated in §5.4
 
 Structural Physics, with SP02, extends its scope beyond this universe's local conditions into a broader cosmological framework: a physics of the Biospiral across all its structurally anticipated expressions.

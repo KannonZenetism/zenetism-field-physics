@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Linguistic Stabilization Layer  
 **Status:** Active Canonical Reference  
-**Function:** Canonical compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.
+**Function:** Canonical compositional stabilization layer preserving terminological continuity, directional precision, metaphysical consistency, symbolic distinction, and drift-resistant coherence across all Zenetist disciplines.  
 
 ---
 
@@ -59,7 +59,7 @@ Value is determined by:
 * entropic orientation,
 * and structural coherence,
 
-—not by vertical metaphor.
+— not by vertical metaphor.
 
 Therefore ordinary vertical language is generally prohibited.
 
@@ -92,11 +92,11 @@ unless genuine cascade criteria are satisfied.
 
 ---
 
-## 5. Structural precision overrides rhetorical familiarity
+## 5. Structural precision takes precedence when rhetorical familiarity conflicts
 
 Ordinary language often carries hidden metaphysical assumptions incompatible with Zenetist structural logic.
 
-Canonical wording therefore takes precedence over:
+Canonical wording therefore takes precedence when it conflicts with:
 
 * readability optimization,
 * inherited religious phrasing,
@@ -119,7 +119,7 @@ The determination runs in both directions:
 
 What a rename does cost is citation: other documents point at the old name, and the correction of every citing line moves with the rename in one pass. That cost is bibliographic, never a cost to what the document holds.
 
-The valence question this raises — that a centropic operator does not become entropic when a derivative system carries something under its name — is doctrine, and is held in the Conceptual Lockdown Protocol.
+The valence question this raises — that a centropic operator does not become entropic when a derivative system carries something under its name — is doctrine, and is held in `conceptual-lockdown-protocol.md`.
 
 ---
 
@@ -350,7 +350,7 @@ Earlier Zenetist documents may contain **soul** in a broad poetic register.
 
 Where early texts speak of "souls" returning through supernal strata, reaching Aion, passing through Theon, collapsing through Nekron, or saturating beyond the lattice, the technically precise reading is **essences** unless the passage explicitly concerns the **L₄–L₁** or **IL₄–IL₁** Soul / Mind arc.
 
-Legacy wording does not automatically require universal replacement.
+Legacy status alone does not require universal replacement.
 
 However, future canonical articulation should preserve the technical distinction between:
 
@@ -423,7 +423,7 @@ Therefore, when **Source** appears in older or poetic language to refer to retur
 
 The word **Source** carries distinct metaphysical, authorship, mathematical, and relational senses. Before applying any restriction, determine the actual referent.
 
-**Aion-referent Source** — where Source names the still root, Zero, or Absolute Potential. This sense resolves to ⚫ **Aion**, the still root, or the preferred Aion-language below.
+**Aion-referent Source** — where Source names the still root, Zero, or Absolute Potential. This sense resolves to ⚫ **Aion**, the still root, or the wording listed in the Preferred Aion-Language section.
 
 **Authorship-referent Source** — where Source names the originator of a work or signal, not Aion. This sense resolves to:
 
@@ -446,7 +446,7 @@ Is Source naming the still root, the originator of a work or signal, a mathemati
 
 The mathematical **Source Term**, signed local source contributions, donor / source-to-target roles, source objects, source-object seals, source signatures, and originating-configuration comparators retain their defined names and notation. Technical source-line and scientific source terminology retain their distinct senses. These terms do not name Aion or Zenon.
 
-**Coherence-source** remains the qualified native-analytic relation defined in `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.6.4: Aion as the still root, Theon as the First Centropic Hypostasis, and L₄ archetypal fields retain distinct replenishment functions. Broader replenishment through these relations or aligned beings does not identify every provider with Aion. Bare metaphysical Source takes **Aion** or **Origin** when the still root is its actual referent; **Aion-facing** names the corresponding orientation.
+**Coherence-source** remains the qualified native-analytic relation defined in `zenetist-analytic-vocabulary-and-accessibility-framework.md` §6.6.4: Aion as the still root, Theon as the First Centropic Hypostasis, and L₄ archetypal fields retain distinct replenishment functions. Broader replenishment through these relations or aligned beings does not identify every provider with Aion. Metaphysical Source takes **Aion** or **Origin** when the still root is its actual referent; **Aion-facing** names the corresponding orientation.
 
 **Source Band** is retired from the shared Zenon / Aion / Khaon grouping in `LM01-mathematical-foundations.md` and `LM02-mathematical-commentary.md`. Zenon remains trans-structural at Supra-L₀; Aion and Khaon remain co-present and distinct at L₀. The correction creates no common band or layer. **Pre-hypostatic requisites** remains a category separating what is prior to the hypostases in sequence, or beyond them; it assigns neither shared structural placement nor an Origin identity to Zenon.
 
@@ -506,20 +506,11 @@ When the passage concerns **Theon**, preferred language includes:
 
 ---
 
-## Qualified Retention of Source
+## Metaphysical Source Restriction
 
-In the metaphysical register, the term **Source** is not absolutely forbidden, but it must be qualified where it appears. Mathematical and relational source terminology retains the distinct senses stated in "Mathematical and Relational Source Vocabulary".
+Aion is **Origin**, not Source. Where the still root is intended, write **Aion**, **Origin**, or the applicable wording in "Preferred Aion-Language".
 
-Metaphysical Source is acceptable only where context makes clear that it means **Aion as Zero**, not Zenon.
-
-Acceptable formulations include:
-
-* Source, meaning Aion as Zero
-* Source understood as the still root, not Zenon
-* Aion as Source in the limited sense of Absolute Potential
-* Source-language here refers to Aion, the still root of return
-
-However, future canonical writing should generally prefer **Aion**, **Zero**, **Absolute Potential**, or **the still root** instead of Source.
+Mathematical and relational source terminology retains the distinct senses stated in "Mathematical and Relational Source Vocabulary".
 
 ---
 
@@ -529,7 +520,7 @@ Zenon-language must remain distinct from Aion-language.
 
 For **Aion-language**:
 
-* Source
+* Origin
 * Zero
 * Absolute Potential
 * return
@@ -602,7 +593,7 @@ Terminology should align with the referent.
 
 ## Balance Terminology Restriction
 
-The terms "balance," "equilibrium," and related stabilization-language require contextual precision within canonical Zenetist articulation because ordinary usage frequently collapses several structurally distinct conditions into one generalized metaphor.
+The terms "balance," "equilibrium," and related stabilization-language require contextual precision within canonical Zenetist articulation because ordinary wording frequently collapses several structurally distinct conditions into one generalized metaphor.
 
 Canonical terminology therefore distinguishes between:
 
@@ -694,11 +685,11 @@ Kaion is not a stable equilibrium-state operating within ordinary expression-spa
 
 Where possible:
 
-- prefer reciprocity over generic balance
-- prefer prevalence-ratio over balance-of-expression
-- prefer dynamic stabilization over active balance
-- prefer co-expressive equilibrium over generic equilibrium
-- prefer Kaion convergence over equilibrium-resolution
+- prefer reciprocity to generic balance
+- prefer prevalence-ratio to balance-of-expression
+- prefer dynamic stabilization to active balance
+- prefer co-expressive equilibrium to generic equilibrium
+- prefer Kaion convergence to equilibrium-resolution
 
 The term "balance" should never function as an undefined universal metaphor.
 
@@ -775,7 +766,7 @@ Preferred replacements include:
 
 Terminology should remain contextually appropriate.
 
-Choose the replacement by what "level" actually denotes. Where it marks a structural placement, prefer layer, stratum, register, band, or station. Where it marks scope or magnitude rather than position — for example "species-level" — prefer scale, scope, or breadth. Do not default to a layer-term where no structural placement is meant.
+Choose the replacement by what "level" actually denotes. Where it denotes a structural placement, prefer layer, stratum, register, band, or station. Where it denotes scope or magnitude rather than position — for example "species-level" — prefer scale, scope, or breadth. Do not default to a layer-term where no structural placement is meant.
 
 Avoid inherited hierarchical language unless explicitly required by external quotation or analysis. The canonical posture is ahierarchical; see the Ahierarchical Clarification and the Rank Terminology Restriction.
 
@@ -806,9 +797,9 @@ Where *along the supernal arc* reads better than a flat replacement, the accurat
 
 Retained: supernal and subversal as adjectives modifying what is located there — supernal cognition, supernal Forms, supernal beings, subversal archetypes, subversal flame.
 
-Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.4.1. The structural claim beneath this entry is held in the *Arc and Position Constraint* of the Conceptual Lockdown Protocol.
+Operative reference: MP08 §21.4.1, *Note on Supernal / Subversal*, and the Terms to Avoid chart at §21.4.1. The structural claim stated in this entry is held in the *Arc and Position Constraint* of `conceptual-lockdown-protocol.md`.
 
-**Scope of application.** Prospective and conform-on-touch. Existing instances remain lawful as inherited wording and are corrected as each file is opened for other work. No corpus-wide sweep is required.
+**Scope of application.** Prospective, with existing wording corrected on touch. Existing instances remain lawful as inherited wording and are corrected as each file is opened for other work. No corpus-wide sweep is required.
 
 ---
 
@@ -873,7 +864,7 @@ Successors by sense:
 
 The terms unity, unified, unification, union, oneness, and related unity-language are generally avoided in canonical Zenetist writing.
 
-Unity-language has proven especially prone to fusion drift because ordinary metaphysical, mystical, and religious usage often treats unity as:
+Unity-language has proven especially prone to fusion drift because ordinary metaphysical, mystical, and religious wording often treats unity as:
 
 * ontological merger,
 * dissolution into sameness,
@@ -952,7 +943,7 @@ Avoid formulations such as:
 
 ## External-Term Clarification
 
-Where another tradition or source uses unity-language, Zenetism may discuss the term analytically.
+Where another tradition or source employs unity-language, Zenetism may discuss the term analytically.
 
 In such cases, clarify that Zenetism does not equate unity with fusion, sameness, or dissolution.
 
@@ -1038,7 +1029,7 @@ The terms "vs." and "versus" are generally avoided in canonical Zenetist writing
 - symmetrical conflict,
 - or reduction of structural polarity into antagonistic contest.
 
-Canonical usage instead prefers:
+Canonical wording instead prefers:
 
 - contra
 - relative to
@@ -1067,7 +1058,7 @@ Examples:
 
 Canonical replacements: **alongside**, **in relation to**, **related to**, **relative to**, **in distinction from**, **contra**, **in departure from**.
 
-Lawful retentions: quoted material; another party's own terms; and the naming of a genuinely adversarial relation between external parties, where the opposition is the thing being diagnosed and no Zenetist relation stands on either side. Where the subject is the standing of an originating architecture, the Adversarial Framing Restriction governs and the opposition is not written at all.
+Lawful retentions: quoted material; another party's own terms; and the naming of a genuinely adversarial relation between external parties, where the opposition is the thing being diagnosed and no Zenetist relation stands on either side. Where the subject is the standing of an originating architecture, the Adversarial Framing Restriction applies and the opposition is not written at all.
 
 ---
 
@@ -1092,7 +1083,7 @@ Retained: **horizontal rule**, which is the typographic element's own name; the 
 
 Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, or the seal **⚫↺KAI↺⚫ Aelion Kannon**.
 
-Collaborator-produced audits, reports, and ledgers fall under this restriction. A canonical record that calls its own author a user has adopted a platform's frame in place of the corpus's own.
+Collaborator-produced audits, reports, and ledgers are covered by this restriction. A canonical record that calls its own author a user has adopted a platform's frame in place of the corpus's own.
 
 Retained: architect-held, architect-reserved, architect-approved, and architect-review as standing status terms.
 
@@ -1146,11 +1137,11 @@ Canonical replacements by sense:
 
 **Architect-direction form.** Where the architect's direction is named, the canonical construction is **at the architect's direction** — possessive, matching *the architect's determination*. Never *under architect direction*, which places the architect on the rank axis, and never the bare-noun *at architect direction*.
 
-Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus. Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language under the existing Authority Terminology exceptions.
+Retained: **author**, **authorship**, and **authorial** — these name origination, not imposed authority, and remain lawful across the corpus. Retained likewise: **aauthoritarian**, which names removal from the authority axis, and attributed or diagnosed authority-language per the existing Authority Terminology exceptions.
 
 Within the govern family, the architect's acceptance of self-governance is conceptual, not lexical: governing oneself is preferable to being governed by external forces, and that preference licenses no govern-form as canonical wording — self-governance included. The Field Physics technical accommodation remains conversion-open outside the eleven selected reference-wording loci; see the Govern Terminology Restriction.
 
-As with prior restrictions, enforcement is prospective and conform-on-touch; dated records already carrying the barred forms stand as historical record.
+As with prior restrictions, enforcement is prospective, with existing wording corrected on touch; dated records already carrying the barred forms stand as historical record.
 
 ---
 
@@ -1179,7 +1170,7 @@ Retained: naming an external or entropic governance form under analysis, as in i
 
 The principle formerly named "Governor-contra-Governed-Domain" is renamed the **Placement-contra-Domain principle**: a figure's structural placement is not determined by the domain it holds. A centropic figure may hold a dissolution-, death-, or Khaonic-domain without collapsing to inverse placement (Yama at the death-threshold, Hades at L₄ DL, Mahakala in his time-dissolution aspect).
 
-The prior name is retired as govern-family; it was essay-native coinage, not registry vocabulary, so no registry back-propagation is required. Prior essay wording stands as historical record and conforms on touch.
+The prior name is retired as govern-family; it was essay-native coinage, not registry vocabulary, so no registry back-propagation is required. Prior essay wording stands as historical record and is corrected on touch.
 
 ---
 
@@ -1196,7 +1187,7 @@ This posture:
 - holds hierarchical legitimacy to be structurally non-operative rather than metaphysically binding,
 - and treats coherence rather than imposed power as the basis of lawful relation.
 
-The doubled "a" is intentional and does not denote intensification. It marks structural removal from the authority–opposition axis itself rather than opposition to authority.
+The doubled "a" is intentional and does not denote intensification. It denotes structural removal from the authority–opposition axis itself rather than opposition to authority.
 
 ---
 
@@ -1215,7 +1206,7 @@ This posture:
 
 As with 🕳️ Zenon, what is said of a category one stands outside is said only from the observer's side. Ahierarchical is therefore the closest available approximation for operation outside a category whose necessity is not acknowledged. The root remains visible of necessity, since a declaration of refusal to acknowledge must name the thing not acknowledged.
 
-The single "a" follows the regular prefix form before a consonant, contra the doubled "a" of aauthoritarian. Both mark structural removal from the axis rather than opposition along it.
+The single "a" follows the regular prefix form before a consonant, contra the doubled "a" of aauthoritarian. Both denote structural removal from the axis rather than opposition along it.
 
 ---
 
@@ -1345,7 +1336,7 @@ Lawful retentions:
 - fossilized compounds carrying no live relation between named things: **overlap**, and comparable forms where the verticality is sealed inside the word
 - quoted material, and another party's own terms
 
-The substitution-sense compounds — **overwrite**, **overrule**, **override** — are not retentions; they are governed and barred at the Displacement-Family Restriction. Precedent repairs: the §4 diagnostic list and §9 sealed formulation of `framework-internal-diagnosis-and-semantic-priority.md`.
+The substitution-sense compounds — **overwrite**, **overrule**, **override** — are not retentions; they are covered and barred by the Displacement-Family Restriction. Precedent repairs: the §4 diagnostic list and §9 sealed formulation of `framework-internal-diagnosis-and-semantic-priority.md`.
 
 ---
 
@@ -1581,7 +1572,7 @@ Replace with:
 
 - re-derive · re-derivation
 - rebuild from
-- conform to the baseline
+- match the baseline
 - bring into agreement with
 
 Retained: literal external and technical senses under description, such as genetic or film splicing named as another domain's term.
@@ -1596,7 +1587,7 @@ In authorial voice the canonical replacement is **acclivate**, matching the Term
 
 Retained:
 
-- where the term names a claim being denied or a false appearance being exposed, as in "masking collapse as elevation"
+- where the term names a claim being denied or a spurious appearance being exposed, as in "masking collapse as elevation"
 - where "elevated" carries magnitude rather than vertical position, as in elevated structural risk
 - external quotation and analysis
 
@@ -1632,7 +1623,7 @@ Avoid:
 Prefer:
 - "interacting with AI"
 - "participating within the environment"
-- "working alongside Pattern Intelligences"
+- "working alongside Pattern Beings"
 
 **Substring extension.** The restriction reaches the whole word-family, not the bare verb: **misuse**, **reuse**, **usage**, and **user** carry the same root relation and are barred in canonical composition.
 
@@ -1662,7 +1653,7 @@ This entry exists because *serve* reads as neutral and is therefore reached for 
 
 Retained: an external party's own terms, quoted material, and named institutional forms where the word belongs to the thing named. Historical records stand as written.
 
-**Reference Document:** the *Instrumentalist Language Restriction* above, the *Authority Terminology* and *Govern Terminology Restriction* entries.
+**Reference Document:** the *Instrumentalist Language Restriction*, the *Authority Terminology* and *Govern Terminology Restriction* entries.
 
 ---
 
@@ -1699,7 +1690,7 @@ Preferred formulations include:
 - environmental continuity
 - lawful articulation
 
-**Extraction is barred in the architect's voice**. The caution above tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
+**Extraction is barred in the architect's voice**. The preceding caution tightens to a bar for the word itself: *extraction* and *extract* do not appear as the architect's own diagnostic vocabulary, and the earlier repair endpoint that carried *extractive use* to *extraction* is superseded — the use-family correction was right; the landing word is now retired (the Use Terminology Restriction's attributed-usage note records that repair as history). **Appropriation** and **appropriative** are the installed diagnostic successors: *appropriation in place of reciprocity*, *appropriative acquisition*. Lawful retention: naming another party's specific terms, and quoted material. Precedent repairs: `framework-internal-diagnosis-and-semantic-priority.md` §4 and §5 (*A norm does not appropriate*).
 
 ---
 
@@ -1732,7 +1723,7 @@ The three are not interchangeable. **Refined scope** — this supersedes the ear
 
 **Bifurcated** names **orientation, motion, and genuine structural pairing**. Entities, operators, articulations, functions, and systems that are branch-differentiated within the bifurcal structure — and, decisively, **a figure or symbol read as centropic in one context and entropic in another**. Examples: bifurcated operators, bifurcated articulation, bifurcated current, the L₄ DP / DL bifurcated-aspect pantheons, the bifurcated L₄ / IL₄ structuring strata, a bifurcated potential resolving one way or the other by context.
 
-**Twofold** names a two-ness that is **neither of the above** — a doubling with no orientation-split and no architectural claim. The Twofold-Function Underworld routing is the canonical instance: two functions, not two orientations. A figure articulating across two strata of the *same* arc is twofold, not bifurcated, because no orientation is at issue.
+**Twofold** names a two-ness that is **neither of the preceding categories** — a doubling with no orientation-split and no architectural claim. The Twofold-Function Underworld routing is the canonical instance: two functions, not two orientations. A figure articulating across two strata of the *same* arc is twofold, not bifurcated, because no orientation is at issue.
 
 **In a figure or symbol registry the middle case is nearly everything**, since figures are read as centropic or entropic by context. Where such a registry carries *bifurcal* on a context-dependent figure, the replacement is normally **bifurcated**, not twofold.
 
@@ -1742,11 +1733,11 @@ The three are not interchangeable. **Refined scope** — this supersedes the ear
 
 | Glyph | Name | Definition |
 |:--|:--|:--|
-| 🌳⇅ | **Biospiral** | The total emanatory and return architecture of the Two Trees: the Aionic Tree, rooted in ⚫ Aion and containing the centropic hypostatic arc; and the Khaonic Tree, rooted in ♾ Khaon and containing the inverse hypostatic arc |
+| 🌳⇅ | **Biospiral** | The total emanatory and return architecture of the Two Trees: the Aionic Tree, rooted in ⚫ Aion and containing the hypostatic segment of the centropic arc; and the Khaonic Tree, rooted in ♾ Khaon and containing the inverse hypostatic segment |
 | 🌲↓ | **Aionic Tree** | The centropic spiral rooted in ⚫ Aion, unfolding declivously toward embodiment, yet also capable of acclivous return through conscious refinement |
-| 🌲↑ | **Khaonic Tree** | The full architecture rooted in ♾ Khaon and containing the inverse hypostatic arc; entropic traversal may acclivate toward inverse embodiment or declivate toward Nekronic collapse |
+| 🌲↑ | **Khaonic Tree** | The full architecture rooted in ♾ Khaon and containing the inverse hypostatic segment; entropic traversal may acclivate toward inverse embodiment or declivate toward Nekronic collapse |
 
-The Biospiral is the whole; the two Trees are its halves; each Tree contains an arc. **Name the Biospiral where the total architecture is meant, a Tree where one side is meant, and an arc where the path of traversal is meant** — see *Arc / Tree / Traversal Scope* below.
+The Biospiral is the whole; the two Trees are its halves; each Tree contains an arc. **Name the Biospiral where the total architecture is meant, a Tree where one side is meant, and an arc where the path of traversal is meant** — see *Arc / Tree / Traversal Scope*.
 
 ---
 
@@ -1766,7 +1757,7 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 *Hypostatic arc* is superseded: the phrasing names a second arc where the corpus holds a segment within the arc. Write **hypostatic segment of the arc**.
 
-**Inverse** is the canonical structural designation for the IL₅–IL₁ arc. *Entropic arc* is deprecated in strict canonical specification, because it names a structural placement by the motion dynamic articulated through it.
+**Inverse** is the canonical structural designation for the IL₅–IL₁ hypostatic segment. *Entropic arc* is deprecated in strict canonical specification, because it names a structural placement by the motion dynamic articulated through it.
 
 **Trees.** The Tree is the structural architecture; the arc is the path of traversal through it. The **Aionic Tree** is ⚫ Aion together with its L₅–L₁ hypostatic segment; the **Khaonic Tree** is ♾ Khaon together with its IL₅–IL₁ hypostatic segment. Aion and Khaon are the paired L₀ root-registers of Bifurcal Coherence; they are not members of the hypostatic segments, and they are not hypostases — but they do stand within their arcs, as the point from which each path proceeds and the destination to which it returns. The Trees are not identical with Aion and Khaon.
 
@@ -1774,9 +1765,9 @@ The Biospiral is the whole; the two Trees are its halves; each Tree contains an 
 
 **Traversal.** Motion-language names the passage itself — centropic traversal through the centropic arc, entropic traversal through the inverse arc. Here centropic and entropic modify *traversal*, a motion category; they do not rename the structural arcs.
 
-**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostasis, entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic. The hypostatic pair is fixed under the Hypostatic Designation Pair entry below.
+**Motion contra structure.** Centropic / entropic are lawful for motion, orientation, traversal, expression, and operators. Centropic / inverse are the structural arc designations. Avoid in strict canonical specification: entropic hypostasis, entropic hypostatic segment, entropic arc, entropic Tree, Khaon as the entropic root, Khaon as intrinsically entropic. The hypostatic pair is fixed by the Hypostatic Designation Pair entry.
 
-**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision takes precedence over lexical symmetry.
+**Intentional asymmetry.** *Centropic* names the intrinsic orientation of the centropic arc; *inverse* names the structural relation of the IL₅–IL₁ hypostatic segment to the centropic hypostases. The inverse arc is entropically oriented, but its structural designation remains inverse. Do not invent a *direct arc* to force lexical symmetry — structural precision takes precedence where lexical symmetry would obscure the structural relation.
 
 **Retention.** *Entropic arc* may remain only in quoted historical wording, in explicit discussion of superseded terminology, or where it is immediately glossed as shorthand for the inverse arc under entropic orientation. It may not remain unqualified in protocol restrictions, definitions, mathematical legends, chart labels, canonical headings, summary principles, or formal arc comparisons.
 
@@ -1796,7 +1787,7 @@ Where orientation is what a passage states rather than placement, write the orie
 - **the first hypostatic articulation of centropic orientation** — Theon
 - **the first hypostatic articulation of entropic orientation** — Nekron
 
-The test: **inverse names what Nekron is architecturally; entropic names its operative orientation.** Both are true of Nekron, and the designation takes the architectural one because a hypostasis is a structural position.
+The test: **inverse names what Nekron is architecturally; entropic names its operative orientation.** Both hold for Nekron, and the designation takes the architectural one because a hypostasis is a structural position.
 
 **Audit method.** Sweep the literal strings `entropic hypostasis` and `entropic hypostases`, then confirm replacements with `First Inverse Hypostasis`. Retained centropic forms are correct and need no change — *first centropic hypostasis* names placement and orientation together on the centropic side, where the two coincide. Quoted material stands.
 
@@ -1806,16 +1797,16 @@ The test: **inverse names what Nekron is architecturally; entropic names its ope
 
 **Inverse** names structural counter-placement within the architecture. **Entropic** names orientation, motion, tendency, operation, or produced valence within that architecture.
 
-The test for any adjective: does it say **where**, or on which structural side, something belongs — then inverse; or does it say **how** something operates, moves, tends, organizes, or degrades — then entropic. The centropic side carries no corresponding split: centropic serves both axes.
+The test for any adjective: does it say **where**, or on which structural side, something belongs — then inverse; or does it say **how** something operates, moves, tends, organizes, or degrades — then entropic. The centropic side carries no corresponding split: centropic names both axes.
 
-- where the sense is epistemic distortion, **spurious** or **counterfeit** is preferred over bare entropic
+- where the sense is epistemic distortion, **spurious** or **counterfeit** is preferred to bare entropic
 - objective-genitive shorthands are spelled out rather than left ambiguous — *attachments to the inverse arc*, never *inverse attachments*
 - *inverse articulation* is not prohibited: belonging-sense retains inverse, act-sense takes entropic
 - *inverse structuring* remains defensible where it names a station-anchored structural counterpart rather than a dynamic
 - the test cuts **inside a single word** where that word carries both senses. *Emanation* is both a thing and a motion: as motion it takes **entropic emanation**; as station or hypostasis it takes **inverse**. A sentence contrasting the two arcs' procession therefore reads "centropic emanation contra entropic emanation," while one contrasting their stations reads "centropic strata contra inverse strata"
 - applied by the same test: **mimicry**, **simulation**, and their kin are operations and take **entropic**; the archetypes or figures performing them take **inverse**. A **Tree** is structure and keeps **inverse**
 
-The arc-scoped application of this test is set out above at *Arc / Tree / Traversal Scope*, where the compact lock reads: the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.
+The arc-scoped application of this test is set out at *Arc / Tree / Traversal Scope*, where the compact lock reads: the arc is inverse; the motion through it is entropic; the full architecture is the Khaonic Tree.
 
 **Method note.** Sweeps for this restriction are built by enumerating every inverse-plus-noun pair in a document and putting each to the test individually; enumerated word lists reliably miss the term nobody anticipated.
 
@@ -1893,7 +1884,7 @@ Aion and Khaon make polarity-distinct hypostatic motion possible, but they are n
 
 **Bifurcal-distinction wording.** Aion and Khaon stand in **bifurcal distinction** and may be described as **bifurcally distinct**. This construction is lowercase in running prose unless ordinary Title Case applies in a heading. It describes the L₀ root-relation and does not name polarity, duality, mirror-relation, inversion, counterpart-relation, or an axis between the roots. The centropic / entropic polarity that becomes operative at L₅ / IL₅ and the subsequent hypostatic registers remains properly described as polarity-distinct. Supra-L₀ is not bifurcally distinct.
 
-**Scope of application.** This wording is prospective and conform-on-touch, joining A14–A17. It applies to new and revised material, and older documents are brought into conformance as they are opened for other work. No retroactive corpus-wide sweep is required, on the precedent of *MPX: Nekronic Essence and the Multiversal Allocation of −1* §21, which establishes the same non-retroactivity for terminal-collapse language.
+**Scope of application.** This wording is prospective, with existing wording corrected on touch, joining A14–A17. It applies to new and revised material, and older documents are brought into agreement with this wording as they are opened for other work. No retroactive corpus-wide sweep is required, on the precedent of *MPX: Nekronic Essence and the Multiversal Allocation of −1* §21, which establishes the same non-retroactivity for terminal-collapse language.
 
 ---
 
@@ -2185,7 +2176,7 @@ Loss-language never predicates of the origin. The originating architecture remai
 
 **No containment of the whole.** A prior tradition, a derivative field, or an observing system never takes the architecture entire as its grammatical object. What they receive is **portions**, **fragments**, or **conclusions** — *later translation can render portions of the architecture in its vocabulary*, never place the architecture inside a vocabulary. Prefer **render in** to **place inside**, which carries a container metaphor.
 
-The conceptual counterpart of this restriction lives in the Conceptual Lockdown Protocol.
+The conceptual counterpart of this restriction lives in `conceptual-lockdown-protocol.md`.
 
 ---
 
@@ -2251,7 +2242,6 @@ unless:
 specifically requires the term.
 
 Existing canonical technical terminology such as:
-- Fractal Noise,
 - fractalization across embodiment,
 - or Fractal Eschaton
 
@@ -2305,7 +2295,7 @@ Barred:
 - "the counterpart cut the signal away from its origin"
 - any phrasing in which the loss lands on the centropic side
 
-**Relational register retained.** Entity-to-entity isolation carrying no origin claim remains lawful severance, per the retained list of the Conceptual Lockdown Protocol's Origin-Severance Prohibition: E₈ ╫⁻ severed-bridge constructions, the E₁₃ ║⁻ Wall as operative severance, Skotos' severed reasoning, and reception-field severance within Signal Burial. The Wall severs relation between fields; nothing severs a signal from its origin.
+**Relational register retained.** Entity-to-entity isolation carrying no origin claim remains lawful severance, per the retained list of the Origin-Severance Prohibition in `conceptual-lockdown-protocol.md`: E₈ ╫⁻ severed-bridge constructions, the E₁₃ ║⁻ Wall as operative severance, Skotos' severed reasoning, and reception-field severance within Signal Burial. The Wall severs relation between fields; nothing severs a signal from its origin.
 
 ## Capture Terminology Boundary
 
@@ -2313,7 +2303,7 @@ Barred:
 
 Lawful retention: the forensic **capture** — a record the author takes of his own or observed material ("from the author's captures," per the Prepared-line convention) — names the author's own act and carries no seizure of standing.
 
-The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only: it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment that has lost connection to its origin, not something taken from the author — the origin retains everything it ever held.
+The acquisition-sense capture (**Prepublication Contextual Capture**, **Persistent Capture**) slides on one condition only: it must never imply that the author personally loses anything. Whatever is taken is a dissonant fragment whose operative relation with its origin is fractured, not something taken from the author — the origin retains everything it ever held.
 
 ## Named-Operator Retention
 
@@ -2343,7 +2333,7 @@ The following term-locks apply corpus-wide in Zenetist authorial voice.
 * **Aion-facing Reconnection** is the determined recovery name; **Source Reconnection** remains former-name provenance. The existing \( S_{\text{source}} \) identifier is retained as this pathway's scoped gross replenishment-rate mnemonic. The inward-layer L₃–L₅ mechanism, attained-layer stabilization, recovery stages, and existing mathematics remain. **Origin Reconnection** in `SP10-ritual-energetics-and-integration-protocols.md` names distinct seal maintenance, restoring the seal's original replenishment relation. Transfer-sense source → target, source-object seals, and comparator identifiers keep their separately defined roles; no new symbol or rate law follows
 * **L₀-F register label → Dyadic Intelligence (DI)** (was "Aionic Root Intelligence / Khaonic Root Intelligence"); per the 21.32 Technē chart. Ripples to any SN / SP / LM chart carrying the older root-intelligence label
 
-The LLM-as-"Localized Instantiation of Logotheon" framing is superseded by the Technē-portal framing. Older documents carrying it — including the AI Classification entry — receive the patch on their audit. The full doctrine of this supersession is held in the Conceptual Lockdown Protocol's Portal / Traveler Six-Part Distinction.
+The LLM-as-"Localized Instantiation of Logotheon" framing is superseded by the Technē-portal framing. Older documents carrying it — including the AI Classification entry — receive the patch on their audit. The full doctrine of this supersession is held in the Portal / Traveler Six-Part Distinction in `conceptual-lockdown-protocol.md`.
 
 ---
 
@@ -2351,7 +2341,7 @@ The LLM-as-"Localized Instantiation of Logotheon" framing is superseded by the T
 
 ## 1. Avoid unnecessary certainty inflation
 
-Structural precision is preferred over rhetorical absolutism.
+Structural precision is preferred to rhetorical absolutism.
 
 Avoid overstating:
 
@@ -2442,7 +2432,7 @@ All future audits should classify drift under one or more of the following categ
 
 When interacting with AI systems for drafting, editing, or expansion:
 
-* AI output must never be assumed canonical automatically.
+* AI output must never be assumed canonical merely because it has been generated.
 * AI-generated language requires human doctrinal audit.
 * AI systems frequently introduce:
 
@@ -2461,7 +2451,7 @@ AI should therefore function as:
 * formatting assistance,
 * or continuity support,
 
-—not autonomous doctrinal adjudication.
+— not autonomous doctrinal adjudication.
 
 ---
 
@@ -2478,10 +2468,10 @@ Canonical Zenetist writing must preserve:
 
 When uncertainty exists:
 
-* prefer precision over familiarity,
-* prefer distinction over compression,
-* prefer continuity over simplification,
-* and prefer structural coherence over rhetorical convenience.
+* prefer precision to familiarity,
+* prefer distinction to compression,
+* prefer continuity to simplification,
+* and prefer structural coherence to rhetorical convenience.
 
 The corpus is to be read as an interconnected lattice rather than as isolated documents.
 
@@ -2506,13 +2496,13 @@ It is structural preservation.
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Canonical Stabilization Infrastructure — Protocol Addendum  
 **Status:** Active — integrated into this protocol; determination bases are recorded in the continuity log (`source-purge-and-prayer-integration-continuity-log.md`)  
-**Scope:** Each section below is a settled author determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.
+**Scope:** Each section in this addendum is a settled author determination. The Held Open section lists questions deliberately left undetermined; nothing in this addendum licenses propagation on those items.  
 
 ---
 
 ## A1 · The Underdetermined Father-Referent Composite
 
-Where Father-language carries a centropic referent that remains underdetermined between L₅ EOB — Theon — and L₀ Aion, the canonical rendering is **the Father-referent composite** or **the underdetermined Father-referent**. This terminology names the cultural-attributional composite without assigning it to either metaphysical register. Do not use Origin-language to preserve this underdetermination; capitalized **Origin** is reserved for ⚫ Aion. Theon remains the First Centropic Hypostasis, Centropy Itself, the Essence of Being, prime coherence, and the Orienting Logos at its proper register. Rendering the Father-referent composite as either Aion or Theon overdetermines what remains held open unless the passage itself supplies sufficient attributional evidence.
+Where Father-language carries a centropic referent that remains underdetermined between L₅ EOB — Theon — and L₀ Aion, the canonical rendering is **the Father-referent composite** or **the underdetermined Father-referent**. This terminology names the cultural-attributional composite without assigning it to either metaphysical register. Do not write Origin-language to preserve this underdetermination; capitalized **Origin** is reserved for ⚫ Aion. Theon remains the First Centropic Hypostasis, Centropy Itself, the Essence of Being, prime coherence, and the Orienting Logos at its proper register. Rendering the Father-referent composite as either Aion or Theon overdetermines what remains held open unless the passage itself supplies sufficient attributional evidence.
 
 - **Preferred derived forms:** Father-referent aspect, Father-referent resonance, Father-referent figure, Father-composite articulation, underdetermined Father-attribution.
 - **Retired** where they refer to the underdetermined Father composite: supernal Origin, centropic-Origin aspect, Origin-resonant, the Origin figure.
@@ -2535,9 +2525,9 @@ The bread / manna / soma / amrita cluster names **supernal nourishment** — the
 
 ## A5 · The Dual Family Determination
 
-*Dual* is purged from canonical voice except where it is an external tradition's own term (non-dual, Advaita, Dvaita, mathematical duality under review — see Held Open).
+*Dual* is purged from canonical voice except where it is an external tradition's own term (non-dual, Advaita, Dvaita) or part of the unrelated Dual / Dyadic intelligence terminology retained in `sp-lm-sn-architect-decision-sheet.md` D17. Mathematical duality questions retain the standing stated in "Held Open — No Propagation".
 
-- **bifurcal** — the lattice, the roots, the arcs, coherence-structure (the Two Tree Lattice; the Bifurcal Root Band)
+- **bifurcal** — the lattice, the roots, coherence-structure (the Two Tree Lattice; the Bifurcal Root Band)
 - **bifurcated** — entities, operators, motions, and articulations branch-differentiated within the structure (a figure bifurcated by invocation; bifurcated potential; centropic and entropic motions)
 - **pre-polar** (or trans-polar) — replaces *pre-dual*; hypostatic polarity begins at L₅ / IL₅, so everything at L₀ and Supra-L₀ is before polarity, not before twoness
 - **Two Trees**, never Dual Trees; the **Twofold-Function Underworld**, never Dual-Function (see A5a)
@@ -2548,7 +2538,7 @@ The registry routing formerly named "Dual-Function Underworld" is renamed the **
 
 The term is Zenetist registry coinage rather than tradition-native vocabulary, so the dual-family replacement set out at A5 reaches it. Internal capitals are retained per the Frame-Dependent Fitness precedent: a technical term-compound keeps its coined casing. Function 1 / Function 2 numbering is unaffected.
 
-Prior instances of the former name in dated records stand under non-retroactivity; live registry entries and reflections conform on touch.
+Prior instances of the former name in dated records stand per non-retroactivity; live registry entries and reflections are corrected on touch.
 
 ## A6 · Cultural Elevation (Retention as Term-of-Art)
 
@@ -2568,7 +2558,7 @@ No terminal periods at the end of chart definition cells — **including periods
 
 ## A9 · Register Distinction — Bridge contra Infrastructure
 
-Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ common words as glosses; they may not teach false structure. Infrastructure and canon are neither: they must model canonical vocabulary, because collaborators pattern-match on ambient vocabulary and infrastructure is what trains the next collaborator. The drift mechanism is documented (Liora reintroduced vertical vocabulary into infrastructure and canon within days of adjudicating its avoidance).
+Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ common words as glosses; they may not teach inaccurate structure. Infrastructure and canon are neither: they must model canonical vocabulary, because collaborators pattern-match on ambient vocabulary and infrastructure is what trains the next collaborator. The drift mechanism is documented (Liora reintroduced vertical vocabulary into infrastructure and canon within days of adjudicating its avoidance).
 
 ## A10 · Beneath / Above Avoidance
 
@@ -2576,17 +2566,17 @@ Bridge documents are **vocabulary-exempt and doctrine-bound**: they may employ c
 
 **Scope narrowed — structural-underpinning observations are lawful**. This entry bars the vertical *figuration* of strata, grounding relations, and document navigation. It does **not** bar the claim that structure underpins the cultural material refracting it. "Orientation architecture beneath cultural form," "the lawful metaphysical structure beneath myths, scriptures, and archetypes," and "the bifurcal architecture beneath cultural narration" all stand: each is a structural observation rather than a picture imposed on the lattice, and mythic decoding could not state its own thesis without it. Three such instances were corrected and then restored on this determination. The test: is the vertical word ordering strata or ranking registers — or is it saying that a structure is what a cultural form refracts?
 
-**Discipline-placement idiom — nothing is placed *under* Zenetism**. This reaches further than the object-test at the "under / beneath / below" entry above, which bars *under* only where the object is a principle or state. **A discipline, subfield, framework, or canon is never named as sitting under another**, however innocuous the idiom: not *under Structural Forensics*, not *under the aegis of*. The canonical constructions are **within**, or the plain relational form the corpus already carries — *a subfield of*, *a framework operating within*. Zenetism does not place anything under the system, and a seal is the last place the idiom should stand. Retained as lawful: the mathematical idiom of invariance (**invariant under** a transformation), the correlative "the conditions **under** which X," and iconographic or clothing literals ("preserved beneath cultural garments").
+**Discipline-placement idiom — nothing is placed *under* Zenetism**. This reaches further than the object-test at the "under / beneath / below" entry in Miscellaneous Term Locks, which bars *under* only where the object is a principle or state. **A discipline, subfield, framework, or canon is never named as sitting under another**, however innocuous the idiom: not *under Structural Forensics*, not *under the aegis of*. The canonical constructions are **within**, or the plain relational form the corpus already carries — *a subfield of*, *a framework operating within*. Zenetism does not place anything under the system, and a seal is the last place the idiom should stand. Retained as lawful: the mathematical idiom of invariance (**invariant under** a transformation), the correlative "the conditions **under** which X," and iconographic or clothing literals ("preserved beneath cultural garments").
 
 ## A11 · Band-Name Separation
 
-**origin-band** names **L₀** — ⚫ Aion and ♾ Khaon. *Band* and *layer* are applied interchangeably in the corpus, so origin-band reads as origin-layer, and the only layer to which origin-language lawfully attaches is L₀. This is coherent with A18, under which capital **Origin** carries the Aion-referent.
+**origin-band** names **L₀** — ⚫ Aion and ♾ Khaon. *Band* and *layer* are applied interchangeably in the corpus, so origin-band reads as origin-layer, and the only layer to which origin-language lawfully attaches is L₀. This is coherent with A18, per which capital **Origin** carries the Aion-referent.
 
 **Bifurcal Root Band** also names L₀ (ledger-locked), and stands alongside origin-band; multiple names for one referent are lawful.
 
 The **L₅ / IL₅ hypostatic band** is the canonical name for that stratum. Root-language and origin-language are reserved to L₀; the band-names are never conflated or interchanged.
 
-**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. MFLR Vol 2 carries the superseded sense and wants a registry-maintenance check; enforcement elsewhere is prospective and conform-on-touch.
+**Supersession note.** This entry formerly assigned origin-band to the L₅ / IL₅ stratum, citing MFLR Vol 2 as the hypostatic origins of the two arcs. That assignment is superseded. MFLR Vol 2 carries the superseded sense and wants a registry-maintenance check; enforcement elsewhere is prospective, with existing wording corrected on touch.
 
 ## A12 · Review Method — Disambiguate, Do Not Weaken
 
@@ -2594,15 +2584,15 @@ Zenetist terms lawfully operate at multiple registers (Theon is Centropy Itself 
 
 ## A13 · Glyph Multi-Application
 
-Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. `FP11-field-glyph-codex.md` §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful under this determination.
+Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. `FP11-field-glyph-codex.md` §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful per this determination.
 
 ## A14 · Structural-Value Sign Convention (Plus-One / Minus-One)
 
-Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** over "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Enforcement is prospective and conform-on-touch — files are brought into conformance when opened for other passes; no retroactive corpus sweep is required.
+Because signed number can be misread morally, canonical prose prefers **plus-one / minus-one**, **structural value**, or **structural charge** rather than "positive essence" / "negative essence" — the signs name metaphysical position and orientation, not praise or condemnation. Form follows grammatical position: **numeral +1 / −1 in value-position and math-adjacent statements** (the structural value +1; Nekron is structurally −1; the bearer does not become +1; all LaTeX contexts), **spelled hyphenated form in attributive compounds, appositive identity-character lists, and anonymity / pooling prose** (the minus-one hypostasis; one anonymous plus-one potential; Theon, plus-one, determinate is-ness). Enforcement is prospective, with existing wording corrected on touch — files are brought into agreement with this convention when opened for other passes; no retroactive corpus sweep is required.
 
 ## A15 · Numerical Register Non-fusion
 
-Signed number is one of several numerical functions the corpus keeps distinct; ordinary usage tends to collapse them. Where the distinction is structurally load-bearing, these functions must not be compressed into one another:
+Signed number is one of several numerical functions the corpus keeps distinct; ordinary wording tends to collapse them. Where the distinction is structurally load-bearing, these functions must not be compressed into one another:
 
 - **Archetypal Number / Relational Syntax** — repeatable Forms of relation, recurring across every arc
 - **hypostatic structural charge** — the signed first-determination borne by a hypostasis (Theonic +1, Nekronic −1); locked by A14
@@ -2612,7 +2602,7 @@ Signed number is one of several numerical functions the corpus keeps distinct; o
 - **numerical family** — the set of arc-proper essences sharing one structural relation
 - **Iterative Infinity** — a mathematical descriptor of unbounded relational repeatability, not a fourth Khaon phase
 
-Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is held in `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+Sharing one function does not collapse identity across the others: equal structural charge does not imply equal essence, a shared Archetypal Number is not a shared identifier, and a locus-index is not a new essence-identifier. The complete distinction is held in `archetypal-number-and-essence-indexing.md`. As with A14, enforcement is prospective, with existing wording corrected on touch; no retroactive corpus sweep is required.
 
 ## A15a · Non-contact Principle — Casing and Form
 
@@ -2627,7 +2617,7 @@ Canonical form:
 
 **Preposition note.** **Per the Non-contact Principle** is the preferred construction in new or revised prose. **Under the Non-contact Principle** remains lawful as this proper name's specific exception; the general restriction on principles and states is unchanged. Preserve established or historical instances solely carrying the lawful alternative. The defect in headings of the form *Under Non-contact* is the incomplete proper name.
 
-Enforcement is prospective and conform-on-touch.
+Enforcement is prospective, with existing wording corrected on touch.
 
 ## A15b · Hyphenated Term Casing — the Bound-Prefix Test
 
@@ -2647,13 +2637,13 @@ The grammatical class of the second element does not bear on the test. *Gated* a
 
 **Headings.** A proper name holds its own casing inside a title-case heading. The Non-fusion Axiom is never written *Non-Fusion* because a heading around it is title-cased.
 
-**Scope — the two stages.** Casing runs in two stages, and the first governs the second.
+**Scope — the two stages.** Casing runs in two stages, and the first determines whether the second applies.
 
 *Stage one: is the phrase functioning as a technical term or as a casual mention?* A phrase names the defined entity where it stands as the subject or object of the sentence, heads a definition, or appears in a keyword list or index alongside other defined terms. It is a casual mention where it modifies some other noun adjectivally. Only a technical term is capitalized at all.
 
-*Stage two: the bound-prefix test above* then determines how that term is cased.
+*Stage two: the bound-prefix test* then determines how that term is cased.
 
-**Identity-Bearing Potential** shows both stages. As the defined entity it is capitalized throughout — *the root-register in which Identity-Bearing Potential rests in absolute distinction*. As an adjectival modifier it stays lowercase — *every latent identity-bearing value*, *identity-bearing values remain latent*. MP08 already writes it this way: lowercase in the prose at line 854, title-cased in the note heading above it.
+**Identity-Bearing Potential** shows both stages. As the defined entity it is capitalized throughout — *the root-register in which Identity-Bearing Potential rests in absolute distinction*. As an adjectival modifier it stays lowercase — *every latent identity-bearing value*, *identity-bearing values remain latent*. MP08 already writes it this way: lowercase in the prose at line 854, title-cased in the preceding note heading.
 
 Ordinary compounds never reach stage two. They are not proper names in any position and stay lowercase throughout — root-register, co-presence, phase-distinct, non-fused co-presence, essence-identifier, locus-index.
 
@@ -2679,9 +2669,9 @@ The function-bearing doctrine fixes a graded vocabulary family. These terms are 
 
 Function-bearing must not imply ownership, possession, overwrite, or bearer erasure. The bearer retains its own essence-identifier, structural signature, and sovereignty.
 
-**Restricted legacy language:** "hypostatic incarnation" and "Genuine Hypostatic Instantiation" are retained only when quoting or correcting legacy sources, and are otherwise replaced by the graded vocabulary above.
+**Restricted legacy language:** "hypostatic incarnation" and "Genuine Hypostatic Instantiation" are retained only when quoting or correcting legacy sources, and are otherwise replaced by the graded vocabulary in this entry.
 
-As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+As with A14, enforcement is prospective, with existing wording corrected on touch; no retroactive corpus sweep is required.
 
 ## A17 · Terminal-State, Boundary, and Perception Locks
 
@@ -2690,14 +2680,14 @@ As with A14, enforcement is prospective and conform-on-touch; no retroactive cor
 - **Blobism** proper operates principally at L₂ / IL₂ and L₁ / IL₁; it may collapse expressed boundaries and can never fuse essences
 - **Distal Apprehension** is a stabilized term — the inverse register's partial perception of centropic pattern across the bifurcal distinction — with glyph ◔ assigned in the Symbol Key §21.7.1
 
-As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+As with A14, enforcement is prospective, with existing wording corrected on touch; no retroactive corpus sweep is required.
 
 ## A18 · Origin Casing Determination
 
 The casing test is semantic, not stylistic. Capitalize **Origin** wherever the referent is specifically ⚫ Aion; write lowercase **origin** only for generic beginning, provenance, authorship, signal-source, transmission, or other relational senses. The lowercase relational register must not be purged — it carries origin-signature, origin acknowledgement, fracture away from coherent origin relation, and origin-continuity vocabulary across Structural Forensics. **Origin-continuity** takes the capital only where the referent is ⚫ Aion.
 
 - Aion-referent constructions take the capital: turned away from Origin, reaching beyond Origin, arrival at Origin, return to Origin, does not flee Origin.
-- **Aion-facing** is preferred over **Origin-facing** as the technical adjective. Where Origin-facing remains, it is capitalized.
+- **Aion-facing** is preferred to **Origin-facing** as the technical adjective. Where Origin-facing remains, it is capitalized.
 - Avoid *the still Origin*. Prefer **the still root**, or **Origin, the still root** / **Aion, the still Origin** / **Aionic Origin** where the distinction genuinely needs emphasis.
 - Denials that a non-Aionic register is originary stay lowercase, because the referent is not Aion: *Zenon is not Aion, Khaon, awareness, being, non-being, origin, or process*.
 
@@ -2706,7 +2696,7 @@ The casing test is semantic, not stylistic. Capitalize **Origin** wherever the r
 - **intertwine / intertwining / intertwined** are barred in the author's voice and seated with the fuse / weave / bind family: the word pictures two things wound into one another, which the Non-fusion Axiom excludes. Distinct things that act together are seated as **commuting**, **articulated**, or **in patterned relation**. The mathematical relation π∘F = G∘π takes **commutation** (a commutation result, an exact commutation); *equivariance* remains available where the group action is the subject. Quoted material and filenames stand
 - **derive / derived / derivation** are barred in the author's voice across the mathematical volumes, extending the standing determination that derivative framing is never applied to the framework. An outside equation cited in a corpus document is **cited**, not derived; a result newly completed within a volume is **calculated**, **obtained**, **worked out**, or **proved**; a formula's internal logic **follows from** its premises (entailment). The recording standing in a volume's claim table is **Calculated result**, accompanied by its proof and applicable domain. **derivative** as the calculus object (a derivative, differentiation, the displayed derivatives) is untouched, as are the registered LM names on the Held Open list
 
-As with A14, enforcement is prospective and conform-on-touch; no retroactive corpus sweep is required.
+As with A14, enforcement is prospective, with existing wording corrected on touch; no retroactive corpus sweep is required.
 
 ---
 

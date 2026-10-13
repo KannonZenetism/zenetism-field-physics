@@ -1264,7 +1264,7 @@ with structurally relational wording such as:
 
 ### Terminological Lockdown Protocol
 
-Add a future lock distinguishing:
+The current protocol distinguishes:
 
 - hypostatic function-bearing
 - resonance

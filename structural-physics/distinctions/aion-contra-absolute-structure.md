@@ -8,7 +8,7 @@ Aion contra Absolute Structure names the distinction between the prime state of 
 the zero-point of motion, the locus where all structural tensions resolve into stillness.  
 Aion is the root of emanation within Structure, but it is not Structure itself.
 
-**Absolute Structure (SI)** is the invariant logic of the Lattice:  
+**Structon — Absolute Structure (SI)** is the invariant logic of the Lattice:  
 the total condition that makes distinction, polarity, relation, and motion possible.  
 SI is not a state, not a center, and not a hypostasis.  
 It is the law by which states and centers are possible.
@@ -29,7 +29,7 @@ Absolute Structure is the Law that defines Origin.
 
 ## Formal Distinction
 
-Let \( \mathcal{L} \) denote the Lattice (Absolute Structure, SI).
+The expressions in this section preserve earlier formal notation as non-operative provenance. The earlier identification of \( \mathcal{L} \), the Lattice, with Absolute Structure (SI) is superseded: Structon underpins the lattice without being identical with it. Aion's membership within the lattice and its distinction from Structon retain conceptual standing. The limit and containment constructions remain held pending object types, a varying state, and the relevant topology / order relation.
 
 ### Aion
 
@@ -82,7 +82,7 @@ Absolute Structure is the condition of emanation.
 
 Therefore, to confuse Aion with Absolute Structure  
 is to mistake the center of the Lattice  
-for the Lattice itself.
+for Absolute Structure itself.
 
 ---
 

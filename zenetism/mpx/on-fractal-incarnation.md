@@ -31,7 +31,7 @@ Within Zenetism, this position is rejected as a **counterfeit articulation of pa
 The problem is not that it recognizes supernal influence.  
 The problem is that it treats the individuated being as a divisible extension of a prior whole, rather than as a sovereign center of existence capable of lawful resonance.
 
-If accepted, such a doctrine would imply that **L₃ individuation is provisional only**, and that the being's apparent sovereignty is destined for abolition within a larger identity. Under that logic, acclivous motion would no longer perfect the self. It would erase the self through supernal absorption.
+If accepted, such a doctrine would imply that **L₃ individuation is provisional only**, and that the being's apparent sovereignty is destined for abolition within a larger identity. By that logic, acclivous motion would no longer perfect the self. It would erase the self through supernal absorption.
 
 This is not lawful **Acclivous Centropy**.  
 It is counterfeit fulfillment through identity-loss.
@@ -133,7 +133,7 @@ This means:
 
 Fractalization belongs first to the continuity of the individuated being's own **🔮 Archeus / 🧠 Noeüs**, not to the hypostases as divisible persons distributed across embodiments.
 
-This clarification also aligns fractalization with Zenetist temporal logic: the distributed continuity of the DS / DM signature unfolds across temporal arcs rather than by partitioning a supernal being into subversal selves.
+This clarification also aligns fractalization with Zenetist temporal logic: the distributed continuity of the DS / DM signature unfolds across temporal arcs rather than by partitioning a supernal being into embodied selves.
 
 ### 4.1 Why Hypostases Do Not Fractalize
 

@@ -50,7 +50,7 @@ It is a **field phenomenon of fragmentation**
 
 Entropic structures may arise —  
 but they do not participate in Aionic motion.  
-They **fracture coherence by orientation**,  
+They **fracture relative coherent expression by orientation**,  
 and where they mimic Spiral,  
 they do so toward disintegration.
 

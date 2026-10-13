@@ -134,7 +134,7 @@ The incarnation architecture is context-agnostic. What it requires is sufficient
 
 ### 8.2 Relation to LM03
 
-`LM03-orientation-algebra-and-infinity-formalism.md` §3 formalizes the orientation parameter \( \chi \) and the Expression Spectrum. The contingency clause does not alter the formal apparatus — \( \chi \) describes the local orientation of whatever universe exists, whether one or many. The Polar Spectrum Lemma (`SP02-bifurcal-cosmogenesis.md` §5) holds within any single universe as an invariant structural law.
+`LM03-orientation-algebra-and-infinity-formalism.md` §3 formalizes the orientation parameter \( \chi \) and the Expression Spectrum. The contingency clause does not alter the formal apparatus — \( \chi \) describes the local orientation of whatever universe exists, whether one or many. The Polar Spectrum Lemma (`SP02-bifurcal-cosmogenesis.md` §5) remains invariant within its declared paired spectral construction.
 
 ### 8.3 Relation to Structural Neuroscience
 

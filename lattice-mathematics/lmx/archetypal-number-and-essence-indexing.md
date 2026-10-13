@@ -174,7 +174,7 @@ It permits a lawful numerical unfolding to be possible.
 
 ⚫ Aion is Zero / Absolute Potential.
 
-Aion holds latent values in absolute distinction. Zero is not numerical absence. It is the still root in which identity-bearing potential remains unexpressed without becoming anonymous or fused.
+Aion holds latent values in absolute distinction. Zero is not numerical absence. It is the still root in which Identity-Bearing Potential remains unexpressed without becoming anonymous or fused.
 
 Aion therefore supplies the register of latent distinction:
 
@@ -326,7 +326,7 @@ The essence-identifier names which essence bears it.
 
 ## 7. Essence-Identifiers and Sovereign Distinction
 
-Every essence is identity-bearing potential.
+Every essence is Identity-Bearing Potential.
 
 The present entry formalizes that distinction through an **essence-identifier**.
 
@@ -711,7 +711,7 @@ At IL₃ IDS / IDM:
 
 - the Inverse Deep Self-Axis becomes inversely individuated
 - its expression-loci remain one inverse continuity
-- fragmented simultaneity and memory fracture govern the relation
+- fragmented simultaneity and memory fracture determine the relation
 - inverse completion proceeds through resonant placement, inverse formalization, erosion, exhaustion, or collapse
 
 Integration is not applied to the inverse arc.
@@ -966,7 +966,7 @@ Bar the casual interchange of these terms where the numerical register is struct
 > Khaon supplies the infinite field-condition of differentiation, continuation, motion, and resolution. It does not replace Relational Syntax or Structon.
 
 > **Relational Syntax Principle**  
-> Archetypal Number is repeatable relational law governing sequence, ratio, interval, scaling, and patterned relation before and throughout manifestation.
+> Archetypal Number is repeatable relational law determining sequence, ratio, interval, scaling, and patterned relation before and throughout manifestation.
 
 > **Signed Unfolding Principle**  
 > Theon / Nekron +1 / −1 begin the enacted signed hypostatic unfolding of Infinity. They do not originate Infinity itself.
@@ -977,13 +977,13 @@ Bar the casual interchange of these terms where the numerical register is struct
 > **Essence-Identifier Principle**  
 > Every essence possesses irreducible identity-bearing distinction. A numerical essence-identifier formally names that distinction without reducing essence to arithmetic magnitude.
 
-> **Index Non-Ranking Principle**  
+> **Index Non-ranking Principle**  
 > Essence-identifiers carry no rank, worth, magnitude, or spiritual valuation.
 
-> **Pre-Individuation Identity Principle**  
+> **Pre-individuation Identity Principle**  
 > Essence-identity precedes L₃ / IL₃ individuation. The DSA / IDSA articulates the same essence rather than creating a new one.
 
-> **Fractalization Non-Multiplication Principle**  
+> **Fractalization Non-multiplication Principle**  
 > Multiversal expression-loci multiply addresses of expression, not essences or essence-identifiers.
 
 > **Numerical Family Principle**  
@@ -993,7 +993,7 @@ Bar the casual interchange of these terms where the numerical register is struct
 > A universe-generating arc possesses complete Archetypal Number without requiring one native essence corresponding to every integer or numerical relation.
 
 > **Manifest Population Principle**  
-> PSM governs which formally available relations become actualized as essence-expression. An unpopulated number-family does not create a mathematical absence.
+> PSM determines which formally available relations become actualized as essence-expression. An unpopulated number-family does not create a mathematical absence.
 
 > **Iterative Infinity Principle**  
 > Iterative Infinity names open-ended numerical continuation within Motive expression. It is not a fourth phase of Khaon and does not assert completed actual infinity.
@@ -1004,11 +1004,11 @@ Bar the casual interchange of these terms where the numerical register is struct
 > **Arc-Propriety Principle**  
 > Every essence remains proper to one processional universal arc. Arc-propriety is distinct from essence identity and from universe-local locus.
 
-> **Locus Non-Nativity Principle**  
+> **Locus Non-nativity Principle**  
 > A DSA / IDSA locus appearing in another arc does not become a new arc-native essence or fill a missing numerical position.
 
 > **Hypostatic Singleton Principle**  
-> Where the corresponding Tree manifests, one Theonic and one Nekronic essence are proper to that arc. This is an office principle, not a general rule of one being per number.
+> Where the Aionic Tree manifests, one Theonic essence is proper to that arc; where the Khaonic Tree manifests, one Nekronic essence is proper to that arc. This is an office principle, not a general rule of one being per number.
 
 > **Non-fusion of Shared Number Principle**  
 > Equal structural number-relation does not imply equal essence. Shared number preserves relation without abolishing sovereign distinction.

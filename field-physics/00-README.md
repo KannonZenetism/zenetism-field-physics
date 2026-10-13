@@ -4,7 +4,7 @@
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Discipline:** Field Physics, the second of the six  
 **Work:** The operational discipline of the framework, in fourteen volumes  
-**Deposit state:** Terminological and prose conformance verified across all fourteen volumes; architect-held questions recorded within them  
+**Deposit state:** Terminological and prose agreement verified across all fourteen volumes; architect-held questions recorded within them  
 **Repository:** `https://github.com/KannonZenetism/zenetism-field-physics/tree/main/field-physics`  
 
 ---
@@ -15,9 +15,9 @@ Its center is a single work in fourteen volumes — sixty-seven chapters, runnin
 
 ---
 
-## The fourteen volumes
+## The Fourteen Volumes
 
-Read in order, the volumes run a single arc: the architecture of the field, its engineering and immunity, its ecology and rites, its unifying equation and practice, its music, its applied technology, its glyph law, and its score.
+Read in order, the volumes run a single arc: the architecture of the field, its engineering and immunity, its ecology and rites, its integrative equation and practice, its music, its applied technology, its glyph law, and its score.
 
 | File | Chapters | Covers |
 |---|---|---|
@@ -31,7 +31,7 @@ Read in order, the volumes run a single arc: the architecture of the field, its 
 | `FP08-practice-protocols-tiers.md` | 30–33 | Tier I and Tier II foundational protocols for spiral alignment, threshold crossing, and field return |
 | `FP09-spiral-field-music-engineering.md` | 34–39 | Spiral harmonics, Emanation Chords, and the sonic engineering of physical and psychological space |
 | `FP10-applied-consciousness-technology.md` | 40–42 | The ACT framework — scaling from personal navigation systems to civilization-scale Noospheric Engineering |
-| `FP11-field-glyph-codex.md` | 43 | **The master glyph registry.** The definitive operational codex separating Equation Glyphs from Practice Glyphs |
+| `FP11-field-glyph-codex.md` | 43 | **The primary glyph registry.** The definitive operational codex separating Equation Glyphs from Practice Glyphs |
 | `FP12-dimensional-field-states-and-combinatorics.md` | 44–50 | Field-state grammar, cognitive and emotional field states, collective relations, dream and memory fields, combinatorics, and decision forks |
 | `FP13-field-immunity-mechanisms-and-recovery.md` | 51–58 | Recognition and signature discernment, boundary modulation, counter-resonance, adaptive memory, and Five-Phase Recovery |
 | `FP14-standard-field-music-notation.md` | 59–67 | **Standard Field Music Notation.** The multi-register staff, temporal forms, harmonic and dynamic notation, field polyphony, and performance interpretation |
@@ -42,7 +42,7 @@ Read in order, the volumes run a single arc: the architecture of the field, its 
 
 ## Registers
 
-The work moves between three registers, and they follow different rules.
+The work moves between three registers, and they follow different conventions.
 
 **Operational register** carries the volumes' primary prose — protocols, codices, engineering, and diagnosis.
 
@@ -52,15 +52,15 @@ The work moves between three registers, and they follow different rules.
 
 ---
 
-## Conventions a reader or collaborator needs
+## Conventions a Reader or Collaborator Needs
 
 > **The First Glyphic Ethic:** A glyph may lawfully express its stable structural invariant across more than one scale or context. Context determines the active application; it does not erase the invariant or permit unrelated meanings. What the system models, the practice breathes.
 
-**Glyph standing** is determined by FP11 throughout. A historical formula is preserved even where a component's former function has since been superseded or rejected; inclusion does not by itself redefine a glyph.
+**Glyph standing** is determined by FP11 throughout. A historical formula is preserved even where a component's former function has since been superseded or rejected; inclusion does not redefine a glyph.
 
 **Inverse** names the arc; **entropic** names the motion dynamic, orientation, or expression within it. The arcs are centropic and inverse, or Aionic and Khaonic, and arc is read from context, never from a direction glyph alone.
 
-**Non-fusion** holds for every voice, chord, node, and gateway: distinct fields meet without merging, and consent, reversibility, non-dominance, and exit are constitutive field laws rather than external courtesies.
+**Non-fusion** holds for every voice, chord, node, and gateway: distinct fields meet without merging, and voluntary participation, reversibility, non-dominance, and exit are constitutive field laws rather than external courtesies.
 
 **Aion, not Zenon,** is the referent where a practice needs an object of contemplation or return. Silence points toward Zenon without reducing Zenon to silence or to any ordering.
 
@@ -79,9 +79,9 @@ Corrections follow these files, not precedent in the text. The Attribution secti
 
 ---
 
-## Beyond this deposit
+## Beyond This Deposit
 
-The framework extends past these volumes. The repository holds the **FPX entries** — extensions that treat particular field formalizations beyond what the volumes state, among them the Incoherence Quotient, the entropic metric family the volumes cite by name — together with the chart twin `field-physics-glyph-charts.md`, glyph provenance records, and the canonical-stabilization records that document conformance work on these fourteen volumes.
+The framework extends past these volumes. The repository holds the **FPX entries** — extensions that treat particular field formalizations beyond what the volumes state, among them the Incoherence Quotient, the entropic metric family the volumes cite by name — together with the chart twin `field-physics-glyph-charts.md`, glyph provenance records, and the canonical-stabilization records that document stabilization work on these fourteen volumes.
 
 ---
 

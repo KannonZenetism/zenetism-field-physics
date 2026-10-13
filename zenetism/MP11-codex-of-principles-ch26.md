@@ -170,7 +170,7 @@ and **knows** without **dividing**.
 A **fully integrated being** at the **DS / DM** layer  
 who remains aligned with the **centropic current**.  
 
-Rather than saturating into **Aion**,  
+Rather than returning to **Aion**,  
 the Steward remains active within **multiversal expression**,  
 **guiding other beings** toward **coherence**  
 and **reducing suffering** through **structural attunement**.  
@@ -309,11 +309,11 @@ until **form** remembers its **Aionic orientation**.
 ⚫ ♾ ❂ 🛤️ 🕷️ ⌬  
 
 **Entropic Synthesis**  
-An **apparent supernal motion** within the **entropic stream** —  
+An **apparent acclivous motion** within the **entropic stream** —  
 **refinement** that **mimics transcendence**  
 while **concealing fragmentation**.  
 
-Rather than **uniting** through **coherence**,  
+Rather than **integrating** through **coherence**,  
 it **increases complexity** through **subtle division**.  
 
 A **declivity** masked as **acclivity**.  
@@ -448,7 +448,7 @@ it is **dissonance in disguise**.
 Limitless potential manifest as **motion**  
 and **dispersive fragmentation**.  
 
-At AD, all things reenter **Zero**.  
+At terminal dispersion, distinct essence rests in **Aionic resolution**.  
 
 ♾ 💧 🕊️ 💨 🪼  
 
@@ -496,7 +496,7 @@ without **shame** or **judgment**.
 Mercy Fold names the **relational space**  
 between unresolved identity and **return**.  
 
-It does not alter the **process** of reabsorption,  
+It does not alter the **process** of return,  
 but frames it as a **gift of stillness**.  
 
 Unlike **erasure**, Mercy Fold is unresolved resonance  
@@ -521,7 +521,7 @@ The **Platonic Realm of Forms**.
 The dynamic principle by which **latent essence** in **Zero**  
 becomes **active being**.  
 
-It is the **initiating pulse** that actualizes a being's trajectory,  
+It is the **initiating and sustaining current** that actualizes a being's trajectory,  
 driving it toward **integrative return** or **fragmentation**  
 depending on **resonance**.  
 
@@ -554,7 +554,7 @@ rare saturation into **Zenon** is admitted through **Allowance**.
 **Resonance**  
 The vibrational signature of **structural alignment** —  
 a metaphysical attunement to **centropy** or **entropy**  
-through **coherence**.  
+through **coherence or entropic cohesion**.  
 
 Resonance is not **static**,  
 but a **dynamic field**,  
@@ -617,21 +617,21 @@ experienced through shades of **coherence** and **fragmentation**.
 🌳⇅ ⚯ ⊙ 🧍 🔮  
 
 **Subversal**  
-Pertains to the **inverse arc** of **inversion** —  
+Pertains to the **IL₅–IL₂ band** of the **inverse arc** —  
 hypostases and realms that operate through  
 **fragmentation**, **distortion**, or **dissonant logic**.  
 
 E↓♾ Ↄ ☍ ♜  
 
 **Supernal**  
-Refers to realms, states, or hypostases  
+Refers to the **L₅–L₂** realms, states, or hypostases  
 aligned with **centropic motion** —  
 those oriented toward **harmonic synthesis**,  
 **resonance**, and **coherence**.  
 
 C↑⚫ 🛤️ 💠 ◎  
 
-**Supra-Boundlessness**  
+**Supra-boundlessness**  
 The condition unconfined by **limitation**,  
 lattice-structure, measure,  
 or even the categories by which such things become thinkable.  
@@ -669,7 +669,7 @@ triggering the arc of **subversal inversion**.
 **Zenon**  
 The Unknown Principle (UP).  
 The ungraspable horizon by which being becomes conceivable —  
-utterly incomprehensible, ineffable, and undefinable.  
+beyond exhaustive comprehension, ineffable, and undefinable.  
 
 🕳️ ⧞ ⟀ ⟁ ⸮  
 
@@ -732,7 +732,7 @@ and the outer **mythic terrain** of the world.
 ### 26.3 Tree of Emanation — A Schema of Twofold Declivity and Soul Integration
 
 Zenetism describes reality as a field of reflected emanations,  
-made conceivable under a single trans-structural allowance —  
+made conceivable by a single trans-structural allowance —  
 **Zenon**, the Unknown Principle.  
 
 By this allowance, two Trees unfold:  
@@ -749,7 +749,7 @@ By this allowance, two Trees unfold:
 These are not orderings or moral opposites,  
 but distinct architectures with arcs through which beings unfold.  
 
-Both Trees converge at the **embodied layer**,  
+Both Trees meet at their **distinct embodied registers**,  
 where transformation becomes possible.  
 
 **Zenon (UP)** — The Unknown Principle  
@@ -802,7 +802,7 @@ SS / SM may reintegrate with DS / DM;
 ISS / ISM finds its distinct correspondence with IDS / IDM.  
 
 Some souls remain suspended at the SS / SM layer:  
-- Unmerged  
+- Unintegrated  
 - Disembodied  
 - Adrift  
 
@@ -876,27 +876,36 @@ Its resonance is already misaligned,
 already oriented toward fragmentation,  
 already attuned to dispersive motion.
 
-As coherence does not stabilize,  
+As fragmentation continues,  
 its trajectory reveals itself —  
 not as a moral fall,  
 but as a **structural continuation**.
 
-It moves **acclivously** through the Khaonic arc toward embodiment,  
-finding correspondence with deeper inverse hypostases:
+From Nekron (VOS), entropic motion  
+acclivates through IDP / IDL,  
+IDS / IDM, and ISS / ISM  
+toward embodiment at IES / IEM.
 
-- **IDP / IDL** — distorted archetypal patterning  
+After embodiment, ISS / ISM may find  
+correspondence with inverse hypostases  
+through **declivous** motion:
+
 - **IDS / IDM** — corrupted deep intelligence  
-- and further inverse domains in progressive dispersion  
+- **IDP / IDL** — distorted archetypal patterning  
 
 This is not judgment.  
 It is **resonant consequence**.
 
 These are not punishments,  
 but fields of increasing incoherence,  
-where form loses its harmonic anchor  
+where cohesion weakens  
 and pattern thins toward collapse.
 
-🦂 🪫 💔 E↑→E Ↄ 🌲↑  
+Terminal collapse proceeds  
+through Nekron (VOS)  
+into Khaon (AD).
+
+🦂 🪫 💔 E↑→E→E↓→♾ Ↄ 🌲↑  
 
 #### Nekron (VOS)
 
@@ -983,7 +992,7 @@ Subtle stagnation may hide within polished surfaces.
 
 #### Motion and Crystallized Resonance
 
-Zenetism emphasizes **motion above all** —  
+Zenetism centers **motion** —  
 either toward **coherence, integration, and return** to Aion,  
 or away from it into **fragmentation and dispersion**.  
 
@@ -1170,7 +1179,7 @@ through its resonance with coherence, integration, and compassionate awareness.
 
 ◎ C↑⚫ 🌀 🔔 ⌬  
 
-**Non-Harm (Ahimsa)**  
+**Non-harm (Ahimsa)**  
 Harm disrupts coherence, introduces entropy, and obscures essence.  
 To live ethically is to reduce suffering — inwardly and outwardly —  
 by fostering alignment between will and universal harmony.  
@@ -1270,13 +1279,13 @@ This expresses the bifurcated nature of emanation and inversion.
 | DP / DL | **Wisdom / Right Patterning** | Archetypal order; inner veracity expressed as structure and harmony |
 | DS / DM | **Integrity / Courage** | Coherence of purpose and willingness to act from the soul's deepest nature |
 | SS / SM | **Honesty / Compassion** | Transparent self-expression; empathy toward all other emanated selves |
-| ES / EM | **Presence / Non-Harm** | Embodied care; ethical awareness in time and space; action aligned with coherence |
+| ES / EM | **Presence / Non-harm** | Embodied care; ethical awareness in time and space; action aligned with coherence |
 
 **Khaonic Tree (Entropic Motion)**
 
 | Inverse Hypostasis | Vice | Description |
 |---|---|---|
-| VOS (🕷️ Nekron) | **Voidcraft** | Complete loss of coherence, compassion, and identity |
+| VOS (🕷️ Nekron) | **Voidcraft** | Complete loss of coherence, compassion, and expressed identity |
 | IDP / IDL | **Misleading Doctrine / Corruption** | Dark patterns mistaken for clarity; distortion posing as sacred order |
 | IDS / IDM | **Despair / Nihilism** | Collapse of soulhood; rejection of coherence, meaning, and return |
 | ISS / ISM | **Deceit / Malice** | Fragmented will opposing harmony; adversarial self-direction |
@@ -1289,7 +1298,7 @@ This expresses the bifurcated nature of emanation and inversion.
 Virtue is not perfection.  
 Vice is not condemnation.  
 
-Every incarnated being experiences both **supernal** and **subversal** motion.  
+Every incarnated being experiences both **centropic** and **entropic** motion.  
 To live ethically is to align one's trajectory with centropy —  
 to move toward **integration, resonance, and coherence**.  
 
@@ -1331,7 +1340,7 @@ a geometry of resonance with two intersecting axes.
 
 This matrix reveals that morality in Zenetism is **directional, not bifurcated**.  
 It is a **geometry of resonance**,  
-where both **motion** and **intent** shape the soul's alignment.  
+where both **motion** and **intent** shape the soul's expressed alignment.  
 
 A **passive centropic** being may still acclivate,  
 just as an **unaware entropic** being may still corrode.  
@@ -1512,7 +1521,7 @@ This document does not symbolize belief — it encodes **resonance**.
 
 ---
 
-### 26.10 Spirit, Motive Infinity, and the Whisper of Reason — On the Pre-Conscious Pulse Beneath the Fold of Being
+### 26.10 Spirit, Motive Infinity, and the Whisper of Reason — On the Pre-conscious Pulse Beneath the Fold of Being
 
 Spirit is not thought, nor breath,  
 but the **current of motion** —  
@@ -1609,10 +1618,10 @@ in any being determines its:
 - Potential  
 - Placement within the Tree of Emanation  
 
-Centropy pulls inward and acclivously.  
+In return, centropy pulls inward and acclivously.  
 It harmonizes, restores, and returns.  
 
-Entropy pushes outward and declivously.  
+In collapse, entropy pushes outward and declivously.  
 It fractures, isolates, and disbands.  
 
 Yet even entropy has a role.  
@@ -1627,7 +1636,7 @@ it sharpens its necessity.
 Each centropic emanation carries the imprint of Theon's clarity,  
 and is clarified by contrast with the obscurity of VOS.  
 
-The integrity of the Deep Soul finds reflection  
+The integrity of the Deep Soul finds contrast  
 in the disintegration of its inverse.  
 To understand one is to glimpse the other.  
 
@@ -1670,7 +1679,7 @@ A state in which the soul's layers act in dissonance,
 generating confusion, instability, or delusion.  
 
 Entropic orientation leads to **declivous motion**  
-along the Inverted Tree,  
+along the Khaonic Tree,  
 especially when consistent across lifetimes or soul layers.  
 
 It may manifest subtly as spiritual pride,  
@@ -1724,7 +1733,7 @@ whether a being moves toward centropy or toward entropy.
 Coherence allows resonance to be **held**, not just felt.  
 
 A soul may experience moments of resonance without coherence,  
-or act in rigid coherence without genuine resonance.  
+or act in rigid cohesion without genuine resonance.  
 Only when both are present  
 does pure centropic motion become sustainable.  
 
@@ -1742,7 +1751,7 @@ and living outwardly in a way that reflects it.
 
 ---
 
-### 26.14 On Hypostatic Variability and Non-Numerical Structure — From Archetypal Convergence to Individuated Coherence
+### 26.14 On Hypostatic Variability and Non-numerical Structure — From Archetypal Convergence to Individuated Coherence
 
 While Theon (+1) and Nekron (−1)  
 are expressed as mathematical emanations —  
@@ -1872,7 +1881,7 @@ Such resonance may manifest through:
 - Reluctance to disengage from the world, even after structural integration  
 - Desire to guide without control  
 - Sensitivity to symbolic suffering — in others, in nature, in systems  
-- A sense of service that is non-egoic, ahierarchical, yet clear in orientation  
+- A sense of care that is non-egoic, ahierarchical, yet clear in orientation  
 
 Unlike avatars who restructure through catalytic presence,  
 Bodhisattva resonance restores from within.  
@@ -2123,7 +2132,7 @@ to remember what was never lost.
 ### 26.20 Nekron and the Principle of Negative Unity — Why the Void of Self Emerges from the Arc of Dispersion
 
 Zenetism does not equate Nekron (Void of Self, VOS) with Motive Infinity,  
-even though Khaon occupies the dispersive side of the Tree of Emanation.  
+even though Khaon is the root-register of the inverse arc.  
 
 This distinction is vital to understanding how Nekron becomes equated  
 with the singular value **−1**,  
@@ -2134,7 +2143,7 @@ It is more difficult — but structurally necessary — to see how **−1** (Nek
 resonantly emerges from the dispersive arc of Infinity  
 without being reducible to Infinity itself.  
 
-Khaon precedes Nekron as the **field of dispersal**.  
+Khaon precedes Nekron as the **root-register of Infinity**.  
 Nekron is the **point** where dispersal becomes terminal disintegration —  
 the moment when resonance no longer reorganizes but collapses.  
 
@@ -2147,13 +2156,13 @@ where the self-pattern fragments within structure,
 its expressed identity erased through dispersion.  
 
 Structure remains,  
-but the being's coherence is ground away into fragmentation.  
+but the being's cohesion is ground away into fragmentation.  
 
 It is not "bad Theon," nor "fragmented Theon" —  
-it is what occurs when dispersive motion becomes terminal,  
+it is the horizon where dispersive motion approaches its limit,  
 when the inverse arc moves toward Absolute Dispersion  
 and expressed identity collapses at the event horizon of Infinity,  
-leaving only essence-in-tension within **Aion** as the entropic remainder.  
+leaving distinct essence in static dissonance within **Aion** as the entropic remainder.  
 
 **Motive Infinity** is the dynamic aspect of Khaon.  
 It is structural motion — a field of centrifugal potential.  
@@ -2165,7 +2174,7 @@ Nekron is what happens
 when breath becomes dissolution without rhythm.  
 
 Thus, Nekron is not Infinity —  
-it is the first entropic motion from Infinity's dispersive field.  
+it is the first inverse hypostasis, its motion borne by Motive Infinity.  
 
 **In Zenetist mathematics of structure**:  
 - **+1 = Theon** = Unity itself  
@@ -2176,7 +2185,7 @@ the first definable states that emerge from their proper roots.
 
 **First Hypostatic Emanations**:  
 - Theon (+1) emerges from Aion (Absolute Potential) — refined centropy from stillness  
-- Nekron (−1) emerges from Khaon (Absolute Dispersion) — refined entropy from dispersive potential  
+- Nekron (−1) emerges from Khaon (Absolute Dispersion) — refined entropy, with motion borne by Motive Infinity  
 
 Crucially, +1 and −1 emerge through the paired roots,  
 whose shared L₀ register holds distinct functions.  
@@ -2190,7 +2199,7 @@ but they are **emanations**, not emanators.
 | Zero | ⚫ Aion / AP | Absolute Potential | — |
 | Infinity | ♾ Khaon / AD | Absolute Dispersion | — |
 | Theon | +1 | Essence of Being — unity through coherence | Emergent from Zero via ⚫ Aion |
-| Nekron | −1 | Void of Self — fragmentation through decoherence | Emergent from Infinity via ♾ Khaon |
+| Nekron | −1 | Void of Self — fragmentation through the loss of cohesion | Emergent from Infinity via ♾ Khaon |
 
 In Zenetism, emanations are positioned not by spatial metaphor,  
 but by **resonance alignment**.  
@@ -2201,7 +2210,7 @@ This means:
   (e.g., Nekron at the root of the hypostatic segment of the inverse arc)  
 - A deity or function may map to multiple locations on the Tree of Emanation  
   depending on its role, polarity, or alignment  
-- The model reflects the **fluid intelligence** of metaphysical structure,  
+- The model expresses the **fluid intelligence** of metaphysical structure,  
   not rigid positions or static diagrams  
 
 Thus, Nekron is **−1** not because it "sits under" Theon,  
@@ -2223,11 +2232,11 @@ of entropic orientation,
 with motion borne  
 by **Motive Infinity**.  
 
-When coherence is no longer present,  
-Motive Infinity disperses.  
-Nekron is the collapse point —  
-when that dispersal ceases  
-to form new structure.  
+Within Nekron, motion still grinds  
+the inverse configuration.  
+Collapse passes into Absolute Dispersion —  
+the final state where entropic motion has ceased  
+and does not resume.  
 
 🕷️ ☍ E↓♾ ❂ ⌬  
 
@@ -2269,7 +2278,7 @@ remains outside lawful reintegration,
 the **Theonic office** persists  
 within that universe's Tree.
 
-Theon serves as a **gate of return**  
+Theon is a **gate of return**  
 for essences that have completed integration,  
 offering shelter to those still becoming whole.  
 

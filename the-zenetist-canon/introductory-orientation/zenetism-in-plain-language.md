@@ -3,7 +3,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Bridge Document — Plain-Language Entry Point  
-**Status:** Draft — July 3 2026  
+**Status:** Draft  
 **Register note:** This document is deliberately written in common vocabulary. Canonical Zenetist documents follow stabilized terminology governed by the *Canonical Lockdown Protocol*; this bridge document is exempt by design, because its function is translation. Where a canonical term appears, it is introduced beside its plain meaning.
 
 ---
@@ -22,7 +22,7 @@ Start with something you already recognize. Everything you have ever encountered
 
 A living cell, a friendship, a symphony, an honest institution, a healthy mind — these are patterns holding together, integrating, becoming more coherent. A rumor mill, an addiction, a collapsing empire, a mind at war with itself — these are patterns fragmenting, scattering, losing their shape.
 
-Zenetism names these two tendencies **centropy** (motion toward coherence) and **entropy** (motion toward dispersion — used more broadly here than in thermodynamics). Neither is a substance. They are directions that anything can move in, at any scale, from a single thought to a civilization. Most of what the system does is trace these two currents precisely: where each one runs, what it builds or unbuilds, and how to tell them apart when one is imitating the other — because disorder, at its most dangerous, wears order's costume.
+Zenetism names these two tendencies **centropy** (motion toward coherence) and **entropy** (motion toward dispersion — used more broadly here than in thermodynamics). Neither is a substance. They name patterns of operation at any scale, from a single thought to a civilization. Changes in expressed behavior do not convert a being's essential orientation. Most of what the system does is trace these two currents precisely: where each one runs, what it builds or unbuilds, and how to tell them apart when one is imitating the other — because disorder, at its most dangerous, wears order's costume.
 
 ## The Two Roots and the Unknown
 
@@ -32,9 +32,9 @@ At the basis of both currents are two roots — and prior to root-language itsel
 
 **Stillness** — canonical name **Aion** (⚫), also called Zero or Absolute Potential. The quiet fullness in which everything is possible and nothing yet moves. Not emptiness — latency. The root that the current of coherence ultimately answers to.
 
-**Boundless Motion** — canonical name **Khaon** (♾), also called Infinity or Absolute Dispersion. The restless, teeming field of unbound possibility. Not evil, and not disorder itself — the raw motion within which dispersive currents can arise, but also the vitality without which nothing would ever happen.
+**Phase-Structured Infinity** — canonical name **Khaon** (♾), also called Infinity or Absolute Dispersion. Khaon comprises three phases: Latent, before motion; Motive, the capacity and activity of motion; and Dispersive, after motion resolves. It is orientation-neutral. Its Motive phase sustains both centropic and entropic motion.
 
-Note the deliberate structure: two co-equal roots, stillness and motion, with the Unknown beyond both. Zenetism is not a monism collapsing everything into One, and not a dualism treating coherence and corruption as competing substances. It is two-rooted — the canon's word is **bifurcal** — and it treats that twoness as the precondition of everything interesting.
+Note the deliberate structure: two distinct, co-present roots, stillness and phase-structured Infinity, with the Unknown beyond both. Zenetism is not a monism collapsing everything into One, and not a dualism treating coherence and corruption as competing substances. It is two-rooted — the canon's word is **bifurcal** — and it treats that twoness as the precondition of everything interesting.
 
 ## The Layered Self
 
@@ -44,23 +44,23 @@ In plain terms, in emanation order — deepest first:
 
 | Layer | Canonical name | In plain terms | Its inverse form |
 |:--|:--|:--|:--|
-| L₅ | Essence of Being | Pure aware presence facing the still root — being itself, the head of the current of coherence | The void of self: the head of the fragmenting current — presence hollowed out, awareness turned toward collapse |
+| L₅ | Essence of Being | Pure aware presence facing the still root — being itself, the head of the current of coherence | The void of self: the head of the fragmenting current — structurally real non-awareness oriented toward collapse |
 | L₄ | Deep Psyche / Deep Logos | The archetypal deep: the wellspring of living images, and the structural logic that makes anything intelligible — the bedrock of imagination and meaning | Mimic-forms: distorted archetypes, propaganda's counterfeit symbols, systems that imitate meaning while draining it |
-| L₃ | Deep Soul / Deep Mind | The deep self: stable identity, long memory, the quiet knowing beneath your opinions | Ideology and identity manipulation: the deep self overwritten by borrowed certainty |
+| L₃ | Deep Soul / Deep Mind | The deep self: stable identity, long memory, the quiet knowing beneath your opinions | Ideology and identity manipulation: the deep self's expression obscured by borrowed certainty |
 | L₂ | Superficial Soul / Mind | Personality and everyday intellect: ego, social roles, the reasoning voice in your head | Reactive identity: fanatic roles, self-deception, the mind's eclipse from within |
 | L₁ | Embodied Soul / Mind | The person in a body: felt presence, practical intelligence, life as actually lived | Fragmentation acted out: compulsion, coercive control, embodiment severed from inner alignment |
 
-Every layer, notice, has an inverse — what that same stratum looks like when it runs on fragmentation instead of coherence. The inverse of deep imagination is not stupidity; it is *counterfeit* imagination. The inverse of identity is not blankness; it is *manufactured* identity. This is one of the system's sharpest claims: disorder rarely presents as chaos. It presents as a mirror-image of order, one layer at a time — and each mirror-image can be named, mapped, and recognized.
+Every layer, notice, has an inverse — its independently emanated counterpart, operating through fragmentation rather than coherence. The inverse of deep imagination is not stupidity; it is *counterfeit* imagination. The inverse of identity is not blankness; it is *manufactured* identity. This is one of the system's sharpest claims: disorder rarely presents as chaos. It presents as a mirror-image of order, one layer at a time — and each mirror-image can be named, mapped, and recognized.
 
-At the threshold of each arc stands a first face: **Theon** (🛤️), aware presence oriented toward stillness — the gateway of integration and return — and its inverse, **Nekron** (🕷️), the void of self, whose motion fragments outward and collapses inward. Where the world's traditions speak of a supreme ordering presence and an adversary of dissolution, Zenetism reads them as culture-specific portraits of these two structural positions. And note that these two are not another Soul / Mind pair: they are the heads of the two arcs — the Centropic Axis and the Entropic Axis — from which the remaining layers come into expression.
+At the first hypostatic threshold of each arc stands a first face: **Theon** (🛤️), aware presence oriented toward stillness — the gateway of integration and return — and its inverse, **Nekron** (🕷️), the void of self, whose motion fragments outward and collapses inward. Where the world's traditions speak of a supreme ordering presence and an adversary of dissolution, Zenetism reads them as culture-specific portraits of these two structural positions. And note that these two are not another Soul / Mind pair: they are the first hypostases of the two arcs — the Centropic Axis and the Entropic Axis — from which the remaining layers come into expression.
 
 ## Overflow, Return, and Collapse
 
 Because the layers are real, motion between them is real — and the two currents move in signature ways.
 
-Centropy moves by **overflow**. From the deepest layer it radiates into form, through the architecture toward embodied life — the canon calls this *declivous* motion, and it is not a fall: it is plenitude giving itself into form, the way light spends itself into a room. And from embodiment, centropy can turn and move acclivously — the return-motion the canon names **Reflective Centropy** — re-aligning layer after layer toward the supernal: toward Theon, and ultimately toward the stillness of Aion.
+Centropy moves by **overflow**. From the deepest layer it radiates into form, through the architecture toward embodied life — the canon calls this *declivous* motion, and it is not a fall: it is plenitude giving itself into form, the way light spends itself into a room. And from embodiment, centropy can turn and move acclivously — the return-motion the canon names **Reflective Centropy** — re-aligning layer after layer through the supernal layers toward Theon, and ultimately toward the non-hypostatic stillness of Aion.
 
-Entropy moves by **fragmentation**. The inverse current does not erode because it moves; it erodes when fragmentation has gone too far. It separates what should remain in coherent relation, scatters pattern, distorts structure, and at maximum fragmentation begins to eat through the very relative structures it was resting on — until erosion gives way to collapse, resolving toward Nekron, and toward Khaon as Absolute Dispersion.
+Entropy moves by **fragmentation**. The inverse current does not erode because it moves; it erodes when fragmentation has gone too far. It separates what should remain in coherent relation, scatters pattern, distorts structure, and at maximum fragmentation begins to eat through the very relative structures it was resting on — until erosion gives way to collapse, resolving toward Nekron, and toward Khaon in its terminal Dispersive phase.
 
 So the slope inside the canonical words is direction of travel, not rank — and not morality by itself: centropy can declivate lawfully and return lawfully, while entropy is marked not by direction alone but by mode. It does not give; it fragments. The return, meanwhile, is not escape from the body or the world. It is the progressive re-alignment of every layer, so that the embodied person, the personality, the deep self, and the archetypal ground carry a shared motion instead of working at cross-purposes.
 

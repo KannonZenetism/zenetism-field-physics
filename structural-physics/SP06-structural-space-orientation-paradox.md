@@ -138,7 +138,7 @@ Thus:
 In Zenetism, **Zenon** (Supra-L₀) is trans-structural and does not belong to either centropic or inverse domains.  
 It is not supernal or subversal, but the trans-structural horizon by whose Allowance hypostatic traversal becomes possible.
 
-**L₀** is the bifurcal root of structure, comprising:
+**L₀** is the bifurcal root-register of emanation, comprising:
 
 - ⚫ **Aion** — Absolute Potential (paired pre-polar root-register)  
 - ♾ **Khaon** — Absolute Dispersion (paired pre-polar root-register)  
@@ -163,7 +163,7 @@ In centropic domains, structural space is hypostatic and oriented toward coheren
 In inverse domains, structural space is likewise hypostatic,  
 but oriented toward dispersion and inversion:
 
-- **Subversal (entropic)**: IL₅–IL₂ — non-embodied hypostatic traversal  
+- **Subversal (inverse)**: IL₅–IL₂ — non-embodied hypostatic traversal  
 
 Embodiment denotes the metric terminus of both arcs:
 
@@ -240,7 +240,7 @@ The inverse arc also exhibits bidirectional traversal, but with inverted orienta
   \[
   IL_1 \to IL_5
   \]
-  This is not mere declivity but progressive collapse of coherence and withdrawal of form.
+  This is not mere declivity but progressive collapse of relative coherent expression and withdrawal of form.
 
 Unlike centropy, which preserves and integrates structure across traversal,  
 entropy in both directions degrades resolvability and tends toward structural collapse rather than coherent return.

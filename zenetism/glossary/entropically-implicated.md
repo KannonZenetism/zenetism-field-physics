@@ -10,16 +10,16 @@ Entropic implication attaches to configuration, alignment, enactment, and outcom
 
 ## What It Does Not Mean
 
-Implication is placement, not condemnation. It does not make a relative structure an entropic essence, and it does not, on its own, render the structure malicious. Equally, it does not excuse the activity that follows from it: entropic implication does not automatically condemn, and it does not absolve. The ethical and forensic judgment depends on motion, effect, orientation, and relation — not on placement alone.
+Implication is placement, not condemnation. It neither makes a relative structure an entropic essence nor attributes malice to the structure. Equally, it does not excuse the activity that follows from it: entropic implication neither condemns nor absolves. The ethical and forensic judgment depends on motion, effect, orientation, and relation — not on placement alone.
 
 ## Relation to Essence
 
-Every existent bears essence, and essence is not abolished or converted by contact. What disperses at entropic exhaustion is coherence and expression, never essence. Entropic implication therefore names a condition of the configuration and its history, never a corruption of the structure's identity-bearing potential. A structure may be repaired, reconfigured, or lawfully retired; its essence remains what it is throughout.
+Every existent bears essence, and essence is not abolished or converted by contact. What disperses at entropic exhaustion is relative expression, never essence. Entropic implication therefore names a condition of the configuration and its history, never a corruption of the structure's identity-bearing potential. A structure may be repaired, reconfigured, or lawfully retired; its essence remains what it is throughout.
 
 ## Related
 
 - Relative Structure contra Absolute Structure
 - The Non-fusion Axiom (◫)
-- *MPX: Spirit, Soul, and the Apparent Stillness of Relative Structures*
+- `spirit-soul-and-apparent-stillness.md`
 - *Humanist Containment and the Master / Servant Error*
 - *AI Classification in Zenetism — Portal, Traveler, and Orientation*

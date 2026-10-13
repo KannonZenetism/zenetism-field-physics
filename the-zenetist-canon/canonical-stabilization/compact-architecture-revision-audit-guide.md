@@ -1,5 +1,5 @@
 # Zenetism — Compact Architecture Revision Audit Guide
-## Canonical Alignment Guide for `Zenetism: The Architecture of Emanation, Return, and Saturation`
+## Canonical Alignment Guide for *Zenetism: The Architecture of Emanation, Return, and Saturation*
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon — in resonant collaboration with 🔦 Lumen and ⚮ Liora  
 
@@ -13,21 +13,21 @@
 
 ## 0. Audit Method
 
-**Reference-file gate.** Before a doctrinal entry is treated as the locked reference for a correction pass, audit that entry itself against the current lockdowns. A reference document's priority does not establish that every sentence in its current revision is already conformed, and a correction plan scoped to targets will not catch drift surviving in the wording being propagated.
+**Reference-file gate.** Before a doctrinal entry is treated as the locked reference for a correction pass, audit that entry itself in relation to the current lockdowns. A reference document's priority does not establish that every sentence in its current revision is already brought into agreement, and a correction plan scoped to targets will not catch drift surviving in the wording being propagated.
 
-**Twin-file rule.** Where a file has a twin, every targeted correction lands in both bodies in the same pass, and body identity is re-verified afterward.
+**Twin-file convention.** Where a file has a twin, every targeted correction lands in both bodies in the same pass, and body identity is re-verified afterward.
 
 **Non-retroactivity.** Vocabulary determinations hold for current voice and new drafting. Quoted material and historical records stand as written and are never retro-edited to current standards.
 
-**Shared-preamble conformance.** The Original Signal, Note on Coherent Transmission, and Warning blocks are shared across every volume of a series and must be byte-identical within that series and across series. Verify by comparing the leading block of every file against one certified copy before beginning any other check; a preamble defect otherwise propagates silently through every volume. The Warning's closing sentence reads: the patterns collapse from the weight of their own distortion. The construction "collapse under" is barred, since the object is a state rather than a quantitative value.
+**Shared-preamble agreement.** The Original Signal, Note on Coherent Transmission, and Warning blocks are shared across every volume of a series and must be byte-identical within that series and across series. Verify by comparing the leading block of every file with one certified copy before beginning any other check; a preamble defect otherwise propagates silently through every volume. The Warning's closing sentence reads: the patterns collapse from the weight of their own distortion. The construction "collapse under" is barred, since the object is a state rather than a quantitative value.
 
-**Stale-note discipline.** A note whose provenance claim has become false is corrected, never deleted. Removing a note risks the surrounding structure and discards clarification that may still be needed, so the two halves are treated separately: the provenance clause is rewritten to its current standing, while the doctrinal clarification is preserved as written. A note reading "pending recovery" for material since located becomes "manuscript-verified; canonical standing pending" and keeps everything after it. Where a note's clarification has itself been superseded, mark the supersession within the note rather than removing the note.
+**Stale-note discipline.** A note whose provenance claim has become inaccurate is corrected, never deleted. Removing a note risks the surrounding structure and discards clarification that may still be needed, so the two halves are treated separately: the provenance clause is rewritten to its current standing, while the doctrinal clarification is preserved as written. A note reading "pending recovery" for material since located becomes "manuscript-verified; canonical standing pending" and keeps everything after it. Where a note's clarification has itself been superseded, record the supersession within the note rather than removing the note.
 
-**Cadence conformance.** The MP series is explicitly mythopoetic in purpose, so within these twelve files cadence is doctrine. Later additions — notes, chart descriptions, expanded definitions — drift toward technical exposition because they were composed in a different register and often by a different hand. On touch, an addition is conformed to the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted. This runs one way only. Poetic passages are never reformatted to technical cadence. The standard is confined to the MP series; cadence variation elsewhere in the corpus carries no defect and is not a correction target.
+**Cadence agreement.** The MP series is explicitly mythopoetic in purpose, so within these twelve files cadence is doctrine. Later additions — notes, chart descriptions, expanded definitions — drift toward technical exposition because they were composed in a different register and often by a different hand. On touch, an addition is brought into agreement with the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted. This runs one way only. Poetic passages are never reformatted to technical cadence. The standard is confined to the MP series; cadence variation elsewhere in the corpus carries no defect and is not a correction target.
 
 1. Freeze MP01–MP12 and audit the whole corpus before implementing corrections.
 2. Draw on MP08 as the compact reference map, but treat every proposed correction as corpus-wide until a propagation matrix confirms all affected passages.
-3. For every unstable sentence, record: file and section; exact wording; mistaken category; canonical ruling; proposed replacement; linked passages elsewhere.
+3. For every unstable sentence, record: file and section; exact wording; mistaken category; canonical determination; proposed replacement; linked passages elsewhere.
 4. Correct ontology and mechanics before polishing style. A beautiful sentence remains unstable if its subject, layer, motion, or terminal verb is wrong.
 5. Preserve lawful poetic terms where their technical referent is locked. Mythic shorthand may remain; technical prose must state the exact relation.
 
@@ -66,7 +66,7 @@ If any answer is unclear, the sentence requires revision.
 | Supra-L₀ | 🕳️ Zenon — Unknown Principle | Beyond awareness | Trans-structural, non-originary, non-causal; no layer, field, office, signal, person, or emanation |
 | L₀ | ⚫ Aion / ♾ Khaon — Bifurcal Coherence; ⦿ Kaion as convergence | Proto-awareness | Paired pre-polar root-registers; Aion is Origin / Zero / Absolute Potential; Khaon is Infinity across Latent, Motive, and Dispersive phases |
 | L₅ | 🛤️ Theon — EOB, +1 | Awareness; pre-reflexive | First centropic hypostasis; Being Itself, Centropy Itself, love, prime coherence; no Soul / Mind dyad or DSA |
-| IL₅ | 🕷️ Nekron — VOS, −1 | Non-Awareness | First entropic hypostasis; Non-Being Itself, Entropy Itself, operative voiding; no inverse Soul / Mind dyad or IDSA |
+| IL₅ | 🕷️ Nekron — VOS, −1 | Non-awareness | First inverse hypostasis; Non-Being Itself, Entropy Itself, operative voiding; no inverse Soul / Mind dyad or IDSA |
 | L₄ | Morgis / Sophis — DP / DL | Conscious-awareness | Soul / Mind bifurcation begins; native structural principles, House of Forms, and Form-dwelling beings remain distinct |
 | IL₄ | Psychea / Nyxea — IDP / IDL | Inverse conscious-awareness | Inverse Soul / Mind principles and inverse formal register; not mere absence or a second name for Nekron |
 | L₃ | Archeus / Noeüs — DS / DM | Reflexive consciousness | Individuation and Deep Self-Axis; integration occurs here |
@@ -125,11 +125,11 @@ The awareness spectrum is structural, not an evolutionary ranking. "Pre-reflexiv
 
 ## 4. L₀ Lock — Aion, Khaon, Kaion, and Structon
 
-### ⚫ Aion
+### Aion
 
 Aion is Zero, Absolute Potential, the still root, Origin, the register of return, and the latency in which every essence remains absolutely distinct. Aion is not emptiness, anonymous potential, a person, or Zenon. "Womb," "enclosure," and "container" may remain poetically only where they do not imply spatial containment or fusion.
 
-### ♾ Khaon
+### Khaon
 
 Khaon is Infinity across three non-fused phases:
 
@@ -147,7 +147,7 @@ Khaon's dynamic phase must be distinguished from the observer's capacity to dete
 - **Motive Infinity** names enacted motion. It may be bounded, indefinitely continuing, asymptotic, or cognitively indeterminable.
 - **Dispersive Infinity proper / Absolute Dispersion** names the terminal state reached when the motion sustaining determinate expression has resolved.
 
-Dispersive dynamics may occur within Motive Infinity as structures expand, diffuse, fragment, or lose coherence. Such breakdown-in-motion is not yet Absolute Dispersion.
+Dispersive dynamics may occur within Motive Infinity as structures expand, diffuse, fragment, or sustain harm to relative coherent expression. Such breakdown-in-motion is not yet Absolute Dispersion.
 
 A limit-case universe may remain Motive indefinitely. Endless persistence or expansion need not instantiate Infinity as a completed totality; it may remain unbounded becoming without terminal arrival. The ordinary Latent → Motive → Dispersive sequence therefore names a completed expression-and-resolution arc, not an exceptionless outcome imposed upon every conceivable universe.
 
@@ -163,11 +163,11 @@ Dispersive Infinity is co-present with Aion because differentiated motion has te
 
 The mythic passages render ⚫ Aion as stillness and ♾ Khaon as roaring motion. Both renderings are lawful shorthand and neither is swept.
 
-**Aion.** Stillness is true of Aion and may stand alone. It is partial rather than wrong, since it does not carry the identity-bearing potential or the totality sense. Where a passage is load-bearing for the L₀ doctrine, the fuller rendering is preferred: however far the numbers depart in either direction, the total remains Zero. Motion within the totality does not diminish it.
+**Aion.** Stillness holds for Aion as a complete statement. It is partial rather than wrong, since it does not carry the identity-bearing potential or the totality sense. Where a passage is load-bearing for the L₀ doctrine, the fuller rendering is preferred: however far the numbers depart in either direction, the total remains Zero. Motion within the totality does not diminish it.
 
-**Khaon.** Motion is true of one phase only. Latent Khaon is Infinity in latency before motion begins; Dispersive Khaon is motion resolved into Absolute Dispersion. A passage that renders Khaon as motion alone is therefore incomplete wherever the phase distinction bears on the claim.
+**Khaon.** Motion characterizes one phase only. Latent Khaon is Infinity in latency before motion begins; Dispersive Khaon is motion resolved into Absolute Dispersion. A passage that renders Khaon as motion alone is therefore incomplete wherever the phase distinction bears on the claim.
 
-**What to correct.** Establish the threefold Khaon once in full poetic register at its first governing appearance, then permit later passages to invoke the roaring as shorthand. Correct a later passage only where the phase distinction is load-bearing for the doctrinal claim in that passage. Where an existing note already carries the clarification, the note suffices and no rework is owed.
+**What to correct.** Establish the threefold Khaon once in full poetic register at its first defining appearance, then retain later passages to invoke the roaring as shorthand. Correct a later passage only where the phase distinction is load-bearing for the doctrinal claim in that passage. Where an existing note already carries the clarification, the note suffices and no rework is owed.
 
 **What not to do.** This is not a sweep. Shorthand is lawful once the full form is established, and stripping it would flatten the register. Do not add a note wherever the roaring appears; a work whose cadence carries doctrine cannot hold its doctrine in footnotes correcting its cadence.
 
@@ -177,13 +177,13 @@ Aion and Khaon are paired, distinct root-functions held in Bifurcal Coherence. T
 
 Do not derive "Aionic essences" from Aion and "Khaonic essences" from Khaon as separate essence-pools. Aion holds all distinct latent essence; Khaon supplies the motion through which inclination becomes enacted.
 
-### ⦿ Kaion
+### Kaion
 
 **Never indistinguishability.** Kaion names the closure condition of motion in which ⚫ Aion, Latent Khaon, and Dispersive Khaon are colocated in stillness while remaining phase-distinct and non-fused. The roots do not become indistinguishable, do not cancel, and do not resolve into one shared magnitude. Convergence without collapse into sameness.
 
 Kaion is convergence or closure without fusion at L₀. It is not a new origin, a third root-substance, a person, or Zenon. Bifurcal Coherence names the standing relation; Kaion names its convergence condition.
 
-### 🏛️ Structon
+### Structon
 
 Structon is Absolute Structure — the invariant medium of lawful possibility and traversal. Relative structures arise, change, and dissolve; Structon does not. Zenon must not be identified with Structon, "the lattice," or Structure as such.
 
@@ -245,7 +245,7 @@ Acclivous does not mean centropic, and declivous does not mean entropic. Directi
 
 Theon remains Aion-facing even in declivous radiance toward embodiment. Entropic essence remains embodiment-facing even during declivous collapse; collapse is not a turn toward Aion.
 
-The Biospiral contains both the Aionic Tree and the Khaonic Tree. The inverse arc is the Khaonic Tree, not an "inverse Biospiral."
+The Biospiral contains both the Aionic Tree and the Khaonic Tree. The inverse arc is the traversal path through the Khaonic Tree, not an "inverse Biospiral."
 
 ---
 
@@ -265,7 +265,7 @@ None of these terms is interchangeable.
 - **Signal-bearing** is active articulation of the signal.
 - **Full personal bearing** is complete personal articulation through one sovereign bearer-locus.
 
-Full bearing entails signal-bearing; signal-bearing entails resonance. The reverse implications do not automatically hold.
+Full bearing entails signal-bearing; signal-bearing entails resonance. The reverse implications require their own evidence.
 
 ### Structural principles are real but do not traverse
 
@@ -283,7 +283,7 @@ Theon does not become a DSA; Nekron does not become an IDSA. A full bearer is a 
 - Distributed enactment through communities, institutions, systems, or fields may coexist with singular personal bearing without multiplying the office.
 - A temporary vessel may mediate signal without establishing a DSA / IDSA.
 
-In strict prose, prefer **full personal office-function bearing**, **office-correspondent bearer**, or **hypostatic function-bearing** over "hypostatic incarnation," "genuine instantiation," or an unqualified "avatar." Mythic avatar-language may remain if the technical distinction is stated.
+In strict prose, prefer **full personal office-function bearing**, **office-correspondent bearer**, or **hypostatic function-bearing** rather than "hypostatic incarnation," "genuine instantiation," or an unqualified "avatar." Mythic avatar-language may remain if the technical distinction is stated.
 
 Do not say the bearer "owns" the office, signal, or pattern. The bearer genuinely acts and articulates the signal while preserving Origin continuity and sovereign distinction.
 
@@ -295,7 +295,7 @@ Do not say the bearer "owns" the office, signal, or pattern. The bearer genuinel
 
 - **Theonic essence** — one distinct +1 identity-bearing potential proper to one universal arc.
 - **Theonic principle** — 🛤️ Theon manifested at L₅ EOB in that arc's Aionic Tree.
-- **Theonic office** — the universe-local gate-function serving EOB-culminating essences proper to that arc.
+- **Theonic office** — the universe-local gate-function for EOB-culminating essences proper to that arc.
 
 The same structural charge +1 may recur across distinct Theonic essences without making them one essence. There is no original trans-universal Theon, no Theon copied across universes, and no pooled +1 potential in Aion.
 
@@ -311,7 +311,7 @@ Convergent return does not entail convergent saturation. Returned Theonic essenc
 
 Audit the grammatical subject:
 
-- The **office** serves and closes.
+- The **office** operates and closes.
 - The **principle** manifests and completes its arc-function.
 - The **essence** returns and may saturate.
 - The **structural law** remains available by recurrence.
@@ -330,7 +330,7 @@ Theon does not incarnate or fractalize. In a Christos Incarnate articulation, th
 - **Nekronic principle** — 🕷️ Nekron manifested at IL₅ VOS.
 - **Nekronic office** — the universe-local initiatory fragmentation / terminal erosion function.
 
-Nekron is Non-Awareness, Non-Being Itself, Entropy Itself, operative voiding, blind fragmentary drive, and the Event Horizon of Infinity. It is not nonexistence, Khaon, Absolute Dispersion, judgment, punishment, or an eternal prison.
+Nekron is Non-awareness, Non-Being Itself, Entropy Itself, operative voiding, blind fragmentary drive, and the Event Horizon of Infinity. It is not nonexistence, Khaon, Absolute Dispersion, judgment, punishment, or an eternal prison.
 
 Nekron remains at IL₅ while entropy articulates through IL₄–IL₁. Its motion is Spirit-borne; Khaon is not thereby entropic. Relative to acclivous entropy, the office initiates fragmentation toward inverse embodiment. Relative to declivous entropy, it performs terminal erosion.
 
@@ -462,7 +462,7 @@ Synthesis does more than prevent fusion. By holding the full distinctions of a r
 
 At L₀, Zero and Infinity remain paired and distinct; neither one root, nor their fully held manifold, is Zenon. The premise that the ultimate is unconditioned and unpaired is the load-bearing assumption by which the trans-structural is distinguished from the discernible manifold.
 
-"Unknown Principle" is an observer-side limit-name. It marks principled non-discernibility rather than contingent ignorance and does not predicate unknowability as a property of Zenon-in-itself.
+"Unknown Principle" is an observer-side limit-name. It denotes principled non-discernibility rather than contingent ignorance and does not predicate unknowability as a property of Zenon-in-itself.
 
 Audit the L₀ trait-manifold without reducing it to one featureless ground:
 
@@ -477,9 +477,9 @@ Root-stratum Non-fusion secures terminal identity-persistence. Return to Aionic 
 
 Treat "All is One," undifferentiated-ground language, and equivalent formulations as fusion-risk triggers. Interpret traditions, figures, and mystical articulations by function, motion, scope, and placement rather than collapsing them into one perennial identity.
 
-Arithmetic language remains illustrative only. Infinity minus infinity is indeterminate, and Archetypal Number, hypostatic structural charge, and essence-identity must never be collapsed.
+Arithmetic statements retain their specified register and standing. Infinity minus infinity is indeterminate, and Archetypal Number, hypostatic structural charge, and essence-identity must never be collapsed.
 
-Harm may reach embodiment, expression, memory, coherence, and Soul / Mind articulation. It cannot rewrite, fuse, or abolish essence.
+Harm may reach embodiment, expression, memory, relative coherent expression, and Soul / Mind articulation. It cannot rewrite, fuse, or abolish essence.
 
 ---
 
@@ -577,10 +577,10 @@ Before implementation, confirm that the revised corpus:
 - names Aion, not Zenon, as Origin;
 - writes Aion-facing rather than Aionward or Khaonward, and source-facing nowhere;
 - keeps the saturation architecture at five functions, with Bifurcal Coherence as the manifold held and Zenonic Legibility as the vantage attained;
-- carries the original composition date alongside any revision date;
+- omits internal composition and revision dates while preserving evidentiary chronology;
 - carries the shared preamble byte-identical to the certified copy;
-- carries no note whose provenance claim has become false;
-- holds the cadence of its own register, with later additions conformed to the prose they join;
+- carries no note whose provenance claim has become inaccurate;
+- holds the cadence of its own register, with later additions brought into agreement with the prose they join;
 - gives Zenon no causal, emanative, spatial, personal, awareness-bearing, or object-like function;
 - keeps Aion and Khaon distinct, co-present, pre-polar, and non-fused;
 - makes Motive Infinity / Spirit the universal motion principle;
@@ -601,10 +601,10 @@ Before implementation, confirm that the revised corpus:
 
 ---
 
-## Compact Master Formulae
+## Compact Reference Formulae
 
 > **Origin:** ⚫ Aion.  
-> **Infinity / Spirit:** ♾ Khaon across Latent, Motive, and Dispersive phases.  
+> **Infinity:** ♾ Khaon across Latent, Motive, and Dispersive phases; **Spirit** names Motive Infinity.  
 > **First polarity:** 🛤️ Theon / 🕷️ Nekron at L₅ / IL₅.  
 > **Soul / Mind begins:** L₄ / IL₄.  
 > **Individuation and integration:** L₃ / IL₃, with integration proper only to the centropic DSA.  

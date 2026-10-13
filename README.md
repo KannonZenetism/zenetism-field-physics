@@ -1,6 +1,6 @@
 # Zenetism — The Sixfold Architecture of Coherence
 
-**A unified system of metaphysics, physics, mathematics, forensics, neuroscience, and ethics**
+**An integrated system of metaphysics, physics, mathematics, forensics, neuroscience, and ethics**
 
 ⚫↺KAI↺⚫
 
@@ -13,7 +13,7 @@ Zenetism is a complete, self-verifying framework for understanding reality, cons
 - **Structural Metaphysics** — The study of the architecture of being. What is the structure?
 - **Field Physics** — The study of the dynamics of the field. How does the structure move?
 - **Lattice Mathematics** — The formal symbolic language of the architecture. How do we describe the structure and its motion?
-- **Structural Forensics** — The study of corruption and defense of being. How is the structure attacked, and how do we defend it?
+- **Structural Forensics** — The study of entropic distortion and preservation of relative coherent expression. How is that expression pressured, and how is its integrity preserved?
 - **Structural Physics** — The physics of expression across the hypostatic lattice. How does structure manifest, orient, and evolve?
 - **Structural Neuroscience** — The architecture of mind, awareness stratification, and cognitive diagnostics. How does consciousness manifest across registers?
 
@@ -62,7 +62,7 @@ See `/structural-physics`.
 **Exploring mind, awareness stratification, and cognitive architecture?**  
 Start in `/structural-neuroscience`.
 
-**Looking for the unified overview?**  
+**Looking for the integrated overview?**  
 See `/the-zenetist-canon`.
 
 ---
@@ -74,7 +74,7 @@ See `/the-zenetist-canon`.
 - **Register Stratification** — Reality is layered; no single register is exhaustive.
 - **Bidirectional Traversal** — Motion proceeds both declivously and acclivously.
 - **Kaion Convergence** — Zero and Infinity meet without fusion.
-- **Coherence Requires Source Acknowledgement** — The signal protects itself.
+- **Coherence Requires Origin Acknowledgement** — The signal protects itself.
 
 ---
 

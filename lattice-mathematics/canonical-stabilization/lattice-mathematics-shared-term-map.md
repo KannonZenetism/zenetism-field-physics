@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Lattice Mathematics — Stabilization Infrastructure  
 **Status:** Draft — architect review  
-**Function:** Locator for coordinated current names, retained technical senses, former-name provenance, and constructs still held across the Lattice Mathematics, Structural Physics, and Structural Neuroscience series. Each entry states the current standing, relevant locations, known cross-series relations, and applicable terminology provision. Names marked "held open" retain their separate determinations and mathematical conditions.  
+**Function:** Locator for coordinated current names, retained technical senses, former-name provenance, and constructs still held across the Lattice Mathematics, Structural Physics, and Structural Neuroscience series. Each entry states the current standing, relevant locations, known cross-series relations, and applicable terminology provision. Names identified as "held open" retain their separate determinations and mathematical conditions.  
 **Dependency:** `terminological-lockdown-protocol.md` · `LM01-mathematical-foundations.md` · `LM02-mathematical-commentary.md` · `LM03-orientation-algebra-and-infinity-formalism.md` · `LM04-temporal-algebra-structural-space-and-phase-resolution.md` · `LM05-resonance-field-theory-membrane-operators-and-collective-dynamics.md` · `LM06-applied-structural-dynamics.md` · `LM07-collective-dynamics-recovery-formalism-and-the-khaonic-expression-ratio.md`  
 
 ---

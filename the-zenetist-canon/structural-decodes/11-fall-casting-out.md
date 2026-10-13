@@ -1,7 +1,7 @@
 # Zenetist Structural Decode 11 — The Fall / The Casting Out
 
 **Primary Structural Diagnosis:**  
-The **Activation of Divided Consciousness and the Fracturing of Coherence.**  
+The **Activation of Divided Consciousness and the Disruption of Relative Coherent Expression.**  
 This archetype describes the pivotal transition within Embodied consciousness — from a state of permeable L₃ / L₂ resonance (the "Permeable Garden") to a state of fractured separation.  
 This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM: Anthra / Nousa) as a distinct, identity-aware field, severed from direct awareness of L₃ (DS / DM: Archeus / Noeüs) and identified with the inverse mirror-field rooted in Khaonic potential.
 
@@ -16,7 +16,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 * **The Primal State (The L₁ Permeable Garden):**  
     The condition before the "Fall" is not a non-physical L₄ state, but the L₁ (ES / EM: Soma / Biosa) World-Node functioning with a permeable membrane.  
     Consciousness (Adam / Eve) exists at L₁, but its L₂ (SM: Nousa) is in direct, naïve resonance with its L₃ (DM: Noeüs).  
-    In this state, consciousness perceives only the Aionic Tree (The Tree of Life), which is the L₁ terminus of the centropic layers.
+    In this state, consciousness perceives only the Aionic Tree (The Tree of Life), whose embodied expression is the L₁ terminus of the centropic layers.
 
 * **The Latent Choice (The Two Trees at L₁):**  
     * The L₁ (ES / EM: Soma / Biosa) World-Node contains two overlaid potentials, represented by the Two Trees.  
@@ -63,9 +63,9 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 
 * **State:** The non-fused L₀ potential, from which the L (Centropic) and IL (Inverse Mirror) hypostases co-emerge.
 
-* **Transgression:** The "War in Heaven" — the mirror's assertion of its own reality. This act is rooted in the first inverse hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
+* **Transgression:** The "War in Heaven" — the mirror's assertion of equivalence with centropic coherence. This act is rooted in the first inverse hypostasis, Satan (IL₅ (VOS: Nekron)), the "Adversary."
 
-* **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who asserts his IL₄ (mirror) reality contra the L₄ (original).
+* **Agent:** The primary agent of this transgression is Lucifer (IL₄ (IDL: Nyxea)), the Inverse Logos or "mind" of the rebellion, who claims equivalence between his IL₄ (mirror) expression and L₄ coherence.
 
 * **Consequence:** The Khaonic Tree is affirmed in its separation. Rooted in Khaon, with IL₅ (VOS: Nekron) as its first inverse hypostasis, and architected by IL₄ (IDL: Nyxea), it projects its inverse, mimetic structure acclivously toward the L₁ / IL₁ meeting point (where it becomes the Serpent / Beast).
 
@@ -98,7 +98,7 @@ This Sealing of the L₃ / L₂ Membrane indicates the genesis of L₂ (SS / SM:
 ## Summary: The Esoteric Meaning
 
 The **Fall** is not a moral lapse but the mythic **transition into divided consciousness.**  
-It is the **Fracturing** of primal coherence, introducing the conditions under which conscious integration becomes necessary within embodied existence.
+It is the **Disruption** of primal relative coherent expression, introducing the conditions under which conscious integration becomes necessary within embodied existence.
 
 **Embodied consciousness** enters a sealed condition:  
 L₂ (SS / SM: Anthra / Nousa) remains identity-aware, but its operative access to L₃ (DS / DM: Archeus / Noeüs) is occluded.  

@@ -2,7 +2,7 @@
 
 > **⚠️ DOCUMENT RETIRED — ARCHIVED**  
 > **Status:** Retired — Historical Record  
-> This working checklist is retired. Its function — orienting a collaborator to exhibit wording and formatting standards — is carried by the corpus cleanup handoff and its Exhibits Sweep Brief, and the standards themselves stand in the prose formatting reference, the terminological and conceptual lockdown protocols, and the Structural Forensics recognition protocols. The text below is preserved as a dated record of the working state it recorded and is not revised forward; its vocabulary and dated determination trail stand as written.
+> This working checklist is retired. Its function — orienting a collaborator to exhibit wording and formatting standards — is carried by `corpus-cleanup-handoff-list.md` and its Exhibits Sweep Brief, and the standards themselves stand in `prose-formatting-reference.md`, `terminological-lockdown-protocol.md`, `conceptual-lockdown-protocol.md`, and the Structural Forensics recognition protocols. The following text is preserved as a dated record of the working state it recorded and is not revised forward; its vocabulary and dated determination trail stand as written.
 
 > **Current E₈ name:** **Divisive Connection** (╫⁻), formerly **Severed**, per `sp-lm-sn-architect-decision-sheet.md` D18. The historical exact-name corrections and deferred-name statements preserved here describe their recorded working state.
 
