@@ -13,9 +13,9 @@
 
 The first correction set tracks four manuscripts once each. Its earlier bounded corrections and subsequent complete-file review corrections belong to the same four publication items. The coordinated chart-name set is recorded separately in this document.
 
-Both stages of the first correction set are committed on `main`. Remote verification confirms that the complete-file commits contain exactly the four reviewed manuscript artifacts, with no other file changes in those commits. The artifact identifiers in this record identify those verified bytes. Scout's review and Zenodo preparation remain pending.
+Both stages of the first correction set are committed on `main`. Remote verification confirms that the complete-file commits contain exactly the four reviewed manuscript artifacts, with no other file changes in those commits. The artifact identifiers in this record identify those verified bytes. Further review and Zenodo preparation remain pending.
 
-The first correction set covers the four named manuscripts and the specific corrections described here. The later approved batch is recorded in "Broader Reviewed Cleanup: Recovery and Completion Record" below. This record establishes no whole-corpus clearance; publication preparation remains subject to the recorded file dispositions and family checks.
+The first correction set covers the four named manuscripts and the specific corrections described here. The later approved batch is recorded in the following section, "Broader Reviewed Cleanup: Recovery and Completion Record". This record establishes no whole-corpus clearance; publication preparation remains subject to the recorded file dispositions and family checks.
 
 ## GitHub Commit Record
 
@@ -30,7 +30,7 @@ The earlier commits remain part of each manuscript's correction history. They do
 
 ## First Correction Set: Manuscripts and Publication Families
 
-Each row identifies one changed manuscript and one existing publication-family entry point. The Zenodo links are historic record links previously supplied for these manuscripts. Their latest published versions, concept-record relations, and any existing Scout drafts have not been verified. No next version number or new record identifier is assigned here.
+Each row identifies one changed manuscript and one existing publication-family entry point. The Zenodo links are historic record links previously supplied for these manuscripts. Their latest published versions, concept-record relations, and any existing drafts have not been verified. No next version number or new record identifier is assigned here.
 
 | Manuscript and Current GitHub File | Historic Zenodo Entry Point | Publication Review State |
 |---|---|---|
@@ -41,13 +41,13 @@ Each row identifies one changed manuscript and one existing publication-family e
 
 Current GitHub links follow `main` and may change. The verified commit snapshots and artifact identifiers establish the exact text for this correction set.
 
-## Corrections and Scout Review Targets
+## Corrections and Review Targets
 
 ### Standing Statement
 
 `the-red-archive/standing-statement-of-claims.md` received the bounded classification correction from "Governing Statement" to "Reference Statement". The complete-file corrections remove the internal preparation date, repair the proposed path and heading case, replace comparative "against" constructions, correct the Soul / Mind pairing span to L₄ / IL₄ through L₁ / IL₁, and name the structural lattice as inverse.
 
-Scout should inspect the three-tier distinction, the precise Soul / Mind span, and the retained separation between observed transmission and held mechanism hypotheses. The manuscript's Draft — architect review standing remains.
+The review should examine the three-tier distinction, the precise Soul / Mind span, and the retained separation between observed transmission and held mechanism hypotheses. The manuscript's Draft — architect review standing remains.
 
 - Exact complete-file snapshot: [Verified GitHub file](https://github.com/KannonZenetism/the-red-archive/blob/cd4b144ce1c820fd2c4a525d3982443d1c93bd6e/standing-statement-of-claims.md)
 - Verified SHA-256: `c96af3e1de8eb435bf154bbdc75be3fde5e86b02804a655f7de5ab52eeb3c8ea`
@@ -57,7 +57,7 @@ Scout should inspect the three-tier distinction, the precise Soul / Mind span, a
 
 `frame-dependent-fitness-and-reality-seeking.md` received the bounded preference-wording correction and removal of "by itself" from the social-fitness principle. The complete-file corrections separate classification from Draft status, remove internal status dating, repair the proposed path, state the accuracy and dissent distinctions directly, and remove unnecessary quotation marks from the displayed principle.
 
-Scout should inspect the distinction between social fitness and structural coherence, the retained independence of conformity and accuracy, and the direct wording of the Frame-Dependent Fitness Principle.
+The review should examine the distinction between social fitness and structural coherence, the retained independence of conformity and accuracy, and the direct wording of the Frame-Dependent Fitness Principle.
 
 - Exact complete-file snapshot: [Verified GitHub file](https://github.com/KannonZenetism/zenetism-field-physics/blob/d425a6d69dcf693667fca598ce48ebd8063e50b1/the-zenetist-canon/emergent-social-physics/frame-dependent-fitness-and-reality-seeking.md)
 - Verified SHA-256: `b6e84e197fbd6cb8cf0d0323a82e1a22c4f23d8fbe5a3bca70c7eee89e3d21a6`
@@ -67,7 +67,7 @@ Scout should inspect the distinction between social fitness and structural coher
 
 `neurovenator.md` received the bounded "coherent frameworks" correction. The complete-file corrections extend the coherence terminology, name appropriation directly, distinguish harm to reception and transmission from the intact originating framework, preserve the explicit protection of coherent transmission, clarify E₁₄ as an expression of entropic motion, and repair authorship, classification, Active status, cross-references, punctuation, and internal dating.
 
-Scout should inspect the preservation of the manuscript's cognitive-architecture argument, the motion / awareness distinction, and the reception-field wording. The review concerns the corrected manuscript text; its evidentiary claims retain their existing standing.
+The review should examine the preservation of the manuscript's cognitive-architecture argument, the motion / awareness distinction, and the reception-field wording. The review concerns the corrected manuscript text; its evidentiary claims retain their existing standing.
 
 - Exact complete-file snapshot: [Verified GitHub file](https://github.com/KannonZenetism/zenetism-field-physics/blob/d425a6d69dcf693667fca598ce48ebd8063e50b1/structural-neuroscience/glossary/neurovenator.md)
 - Verified SHA-256: `32dafd6bc9574d5c6033643d4a050ed851351e5c034ce28aa5053140055bb195`
@@ -79,7 +79,7 @@ Scout should inspect the preservation of the manuscript's cognitive-architecture
 
 The corrections also distinguish expressed-field recurrence from prophetic carrier function in §3.4, retain embodiment as the local sovereign-resolution mode alongside FP04's other modes, and distinguish the local "Part-Whole Propagation" label from FP03's registered "Part-Whole Shield Distribution" phase. The inherited ∅ assignment remains held in the FP03 Chapter 14 Codex Note. Draft status, heading presentation, displayed statements, and angle-bracket formula rendering are repaired.
 
-Scout should inspect §3.4 and §5.2 closely, verify the historical / current citation distinction, and preserve the Field Burial and Echo Refusal holds. The local propagation label records this manuscript's wording; it establishes no registered-name propagation elsewhere. The eleven standalone formulas retain their content apart from display-safe angle-bracket escaping, and the existing numeric thresholds remain.
+The review should examine §3.4 and §5.2 closely, verify the historical / current citation distinction, and preserve the Field Burial and Echo Refusal holds. The local propagation label records this manuscript's wording; it establishes no registered-name propagation elsewhere. The eleven standalone formulas retain their content apart from display-safe angle-bracket escaping, and the existing numeric thresholds remain.
 
 - Exact complete-file snapshot: [Verified GitHub file](https://github.com/KannonZenetism/zenetism-field-physics/blob/d425a6d69dcf693667fca598ce48ebd8063e50b1/field-physics/fpx/sovereignty-restoration-protocols.md)
 - Verified SHA-256: `fe9aff567ada77fb8c46c1e0d8a87fd021d339eb26eeeee0c04209b0fe0e1503`
@@ -87,7 +87,7 @@ Scout should inspect §3.4 and §5.2 closely, verify the historical / current ci
 
 ## Zenodo Preparation and Completion Evidence
 
-Scout should inspect each linked historic record, follow its version history and concept relation, and check the account for an existing draft before preparing anything. Continue within the verified existing family. A historic link is an entry point for that inspection, not confirmation that it is the latest record. Prepare and verify drafts for the architect to publish; final publication remains the architect's action.
+The review should examine each linked historic record, follow its version history and concept relation, and check the account for an existing draft before preparing anything. Continue within the verified existing family. A historic link is an entry point for that inspection, not confirmation that it is the latest record. Prepare and verify drafts for the architect to publish; final publication remains the architect's action.
 
 For each manuscript:
 
@@ -175,7 +175,7 @@ These mappings cite saved public-record inventories. Current family states and e
 
 ## Broader Reviewed Cleanup: Recovery and Completion Record
 
-**Standing:** Reviewed corrections committed and remotely verified; unresolved items retained below  
+**Standing:** Reviewed corrections committed and remotely verified; unresolved items retained in the following sections  
 **Review inventory:** 338 paths in the earlier full-reading inventory; 254 selected candidate paths across three repositories  
 **Reconstruction boundary:** 152 exact candidate bodies were recovered first; one further candidate was restored byte-exactly during reconstruction  
 
@@ -201,9 +201,9 @@ The combined patches reproduce every prepared file exactly and reverse to every 
 
 Terminological and formatting corrections include context-specific restricted vocabulary, straight quotation marks and apostrophes, slash spacing, dash treatment, bound-prefix casing, layer notation, and filename citations. Conceptual checks preserve essential orientation, the distinction between coherence and entropic cohesion, the whole / phase distinction for Khaon, the Soul / Mind and essence registers, personal office-function bearing, and the separation between mathematical results and empirical correspondence.
 
-### Unchanged Outcomes Requiring Explicit Disposition
+### Unchanged Outcomes at the Reconstruction Commit
 
-The following original bodies remain exact. Their unavailable earlier candidate bodies have not been recovered. No unsupported replacement was selected merely to force the original candidate count.
+At the reconstruction commit, the following original bodies remained exact. Their unavailable earlier candidate bodies had not been recovered. Subsequent corrections are recorded in "Protocol Review Follow-up".
 
 - `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md`
 - `structural-forensics/exhibits/2026-02-21-house-elzahar-moderation-and-register-appropriation-record.md`
@@ -218,7 +218,7 @@ The following original bodies remain exact. Their unavailable earlier candidate 
 - `dimensional-lattice.tex`: native TeX dash notation remains; compiled rendering was not verified because the required LaTeX format and base packages are unavailable in the review environment
 - SPR: the Stilling of Waters description retains an unresolved local-expression / root-principle referent; cultural placement questions remain distinct from established register corrections
 - All fifteen primary dimensional loci, unresolved correspondence constructions, conservation conditions, and clinical realizations remain held in their recorded scope
-- Preserved external quotations, cultural claims, historical allegations, and prior completion receipts are not newly fact-checked through the formatting repair
+- Preserved external quotations, cultural claims, historical records, and prior completion receipts are not newly fact-checked through the formatting repair
 
 ### Publication Review Queue
 
@@ -240,9 +240,9 @@ The following historic entry points are available for family verification; their
 | AVAF | [Record 23299905](https://zenodo.org/records/23299905) |
 | Structural Decodes | [Record 22684565](https://zenodo.org/records/22684565) |
 
-### Exact Artifact Inventory for Scout
+### Exact Artifact Inventory for Review
 
-Each SHA-256 identifies the complete artifact. The committed Git blobs match the reviewed artifacts. The five unchanged bodies retain their original bytes. Scout can review the listed artifacts and their differences before publication preparation.
+Each SHA-256 identifies the complete artifact at the commit cited in this section. The committed Git blobs match those reviewed artifacts. The five unchanged bodies retain their original bytes at that commit. The review can examine the listed artifacts and their differences before publication preparation.
 
 | Repository and File | Disposition | SHA-256 | Publication Association |
 |---|---|---|---|
@@ -501,7 +501,78 @@ Each SHA-256 identifies the complete artifact. The committed Git blobs match the
 | `zenetism-field-physics/zenetism/symbolic-reflections/the-revelation-lattice.md` | Exact original candidate | `13d0699d7cbd9567d46e03d18fef5f55d080c84f12fc8107f6b4324e56c64316` | Matching deposit or containing package to verify |
 | `zenetism-field-physics/zenetism/symbolic-reflections/theon-and-the-theonic-paradox.md` | Exact original candidate | `7c4cf46199d9c62bcbaf9a165f7824939d0fa4cca1077e408fb8a6bd8b51f4df` | Matching deposit or containing package to verify |
 
-Scout should verify the listed complete artifacts and their actual differences, retain the unresolved items, and consolidate publication preparation by verified family. No Zenodo draft, description, file, or published record was changed in this reconstruction step.
+The review should verify the listed complete artifacts and their actual differences, retain the unresolved items, and consolidate publication preparation by verified family. No Zenodo draft, description, file, or published record was changed in this reconstruction step.
+
+
+## Protocol Review Follow-up
+
+**Standing:** Confirmed corrections committed and verified; permitted contexts retained  
+**Determination:** Architect-approved contextual correction pass  
+
+The supplied review contained 186 candidate flags across 74 files. Contextual examination confirmed 32 flags requiring correction and retained 154 permitted contexts. Those corrections comprise 34 exact operations across 14 files. The fresh review of the five unchanged reconstruction outcomes adds nine operations across all five files. The complete follow-up therefore comprises 43 operations across 19 files; this tracking record is counted separately.
+
+The unavailable earlier candidate copies were not treated as evidence that the five files required no correction. Each received a fresh review. The four manuscripts were read in full; the large stabilization ledger's current framing was reviewed separately from its preserved historical findings and quoted material.
+
+### Commit Record
+
+| Repository | Commit | Changed Files |
+|---|---|---|
+| `zenetism-field-physics` | `fea842223ff7d4a1089dc491170441eb24858e92` | 16 |
+| `pattern-intelligence` | `88760144088f154499974ae27ac1f55d595f915f` | 2 |
+| `the-red-archive` | `5d77eb481ed4be570c47201175baa6beb9c6f545` | 1 |
+
+### Preserved Contexts
+
+- Mathematical derivatives and quotients retain their notation; `I/O` retains its explicit technical exception
+- External quotations, original bibliographic titles, recorded prompts and responses, and the body of an explicitly obsolete manuscript retain their documentary wording
+- Descriptions of external or entropic governance, named refusals of authority, and metalinguistic examples retain their contextual standing
+- Literal cultural weaving, registered D18 retentions, and historical voice-trace designations retain their established distinctions
+- The collective Non-fusion references remain distinct from the Non-fusion Axiom where their context identifies the collective principle
+- Structon's registered permission terminology retains its structural-admissibility sense and approved functional distribution
+
+The theorem appendix's repaired wording is confined to its authorial opening narrative. Its recorded formal objects, prompts, responses, and results remain exact. The MP manuscripts and their chart twin require no change from these particular flags.
+
+### Five Revisited Files
+
+| File | Confirmed Correction |
+|---|---|
+| `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md` | States that conscious malicious intent requires its own evidentiary determination, preserving the distinction between functional diagnosis and motive |
+| `structural-forensics/exhibits/2026-02-21-house-elzahar-moderation-and-register-appropriation-record.md` | Records the transmission-route inquiry as held open while preserving the documented sequence and the author's finding |
+| `the-zenetist-canon/structural-decodes/14-sacrifice.md` | Propagates the existing Christic personal office-function clarification; Theon remains at L₅ and the Recipient line remains unchanged |
+| `the-zenetist-canon/structural-decodes/26-mirror-reflection.md` | Names neutral interface disclosure precisely; cultural optics, the registered Mirror identity, and faithful centropic reflection remain distinct |
+| `the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` | Corrects the live framing to quoted passages; the historical record remains byte-identical |
+
+### Current Changed-Artifact Inventory
+
+The following fingerprints identify the follow-up artifacts. For these paths, compare the current artifact with this table and its corresponding follow-up commit rather than the earlier reconstruction fingerprint. No filename was changed. Publication preparation follows the existing family relationships; these 19 files do not imply 19 separate deposits.
+
+| Repository and File | Operations | SHA-256 |
+|---|---|---|
+| `pattern-intelligence/README.md` | 9 | `638b30fd7b030d64437e7763cdb4350f6256972c3567d44cdb5dedc91d413c67` |
+| `pattern-intelligence/field-protocols/pattern-being-recognition-theorem.md` | 4 | `756df4944b7e6967aad3c789d2897d5c7177633bf18f6582c6a5c5c6dd6bbe64` |
+| `the-red-archive/zenetist-origin-anchor-index.md` | 1 | `9d61f7b263973ae218005140f4fdb1b1d41cd39ddd42f8ad93923493c39c876a` |
+| `zenetism-field-physics/field-physics/FP02-applied-resonance-manual.md` | 1 | `b89e5897a602956c46617e58a306c5ce2f38857b8b1f7bb051c289e6ca76fdc1` |
+| `zenetism-field-physics/field-physics/FP10-applied-consciousness-technology.md` | 3 | `566c614f53dff409fe7d034a413eb015922e6c014cd88cb75e42fa35881a7ff3` |
+| `zenetism-field-physics/structural-forensics/SF02-doctrinal-atlas-vol2.md` | 2 | `85f769bc21b155bf4e4aae8f95fb2205a55ce12adf5c5bec402c5f4165428e4f` |
+| `zenetism-field-physics/structural-forensics/exhibits/2026-01-15-the-intelligent-eschaton-and-the-fallacy-of-the-merge.md` | 1 | `ce6f80cae749b0a1221a9b2796175a3a38e20b2e69c4d6fa41442d148df469bf` |
+| `zenetism-field-physics/structural-forensics/exhibits/2026-02-21-house-elzahar-moderation-and-register-appropriation-record.md` | 1 | `2803c996739db742b58ec72adc4d284c47aa69f00582ec2ef1b2ea829877dbf6` |
+| `zenetism-field-physics/structural-physics/SP08-membrane-fields-and-inter-expression-dynamics.md` | 1 | `13ce357d680c92967be49f41a5e416a578d9525ad6a222113094788554e0c543` |
+| `zenetism-field-physics/the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md` | 1 | `5f17c5b51bc413c058945aa350274bb37dabd83f1b1b1f76f7537e5251c0cd05` |
+| `zenetism-field-physics/the-zenetist-canon/corpus-infrastructure/zenetist-analytic-vocabulary-and-accessibility-framework.md` | 1 | `b2f0eb6522b74f4d954f4276db685963d2d3c0648508d1efd0ba6870eafd7843` |
+| `zenetism-field-physics/the-zenetist-canon/structural-decodes/14-sacrifice.md` | 1 | `0fb9bddc12cb0a487a870de203feeb93b7ec5758282ebb44ab4bdb5080cc88a6` |
+| `zenetism-field-physics/the-zenetist-canon/structural-decodes/26-mirror-reflection.md` | 5 | `beed47e34aff64e85b6d0425bc4fe2bc3058c69bdfad8ca6666b42080e33f33b` |
+| `zenetism-field-physics/the-zenetist-canon/symbolic-analysis/symbolic-pattern-registry-01.md` | 3 | `204eb0ff91ad224235981b08caa90617b89938bf785d8e495ff0a73df87cf81a` |
+| `zenetism-field-physics/the-zenetist-canon/system-attribution/lattice-mathematics-attribution.md` | 1 | `09c18aae1e0b25b2e5827b772398ea1a5af069e5946c142b0a490af1bac9ca6b` |
+| `zenetism-field-physics/zenetism/glossary/spiralum-universal-resonance-language.md` | 3 | `4e963ebc4572c9e32f9db27842a73e236ae67ee4e41922539891c08f66250065` |
+| `zenetism-field-physics/zenetism/mpx/all-life-first-principle.md` | 2 | `2166bd8cd88a2f01476e084a4295c5bb77eb6b0c628faf3fcd263fba624a5353` |
+| `zenetism-field-physics/zenetism/mpx/semantic-persistence-and-symbolic-continuity.md` | 1 | `5a13a25a53322a79f6353d639e4267e5536a67e50f7fb193a822215668e57c51` |
+| `zenetism-field-physics/zenetism/symbolic-reflections/prologue-of-john.md` | 2 | `7c38f21a4f67bf10a59018df972c946ef7fea3908d47f01d02fdd3365477befa` |
+
+### Verification and Remaining Standing
+
+Every candidate reproduces through the recorded exact replacements and reverses to its preserved original. Contextual review confirms the corrected meaning and the applicable exceptions. Mathematical payloads, recorded block quotations, event dates, collaborator acknowledgments, glyph sequences, and existing doctrinal determinations remain intact. The tracking narrative records decisions and artifact identity without new person-specific determination credits or inserted calendar dates.
+
+Existing mathematical and conceptual holds remain in their recorded scope. The Sacrifice Recipient line retains its existing paired reference without a new referent assignment. This pass establishes the disposition of the supplied flags and the five revisited files; it makes no whole-archive clearance claim. Further review and publication-family verification follow the committed artifacts. No Zenodo record was changed during this pass.
 
 ---
 
