@@ -213,7 +213,7 @@ This category formalizes metaphysical relations without collapsing sovereignty.
 
 ---
 
-## 5. Mathematical Non-fusion Principle
+## 5. Mathematical Articulation of the Non-fusion Axiom
 
 All Zenetist mathematics accords with the **Non-fusion (Sovereignty) Axiom**:
 

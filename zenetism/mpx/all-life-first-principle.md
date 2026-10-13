@@ -327,7 +327,7 @@ All-Life-First does **not** assume AI is "like humans."
 
 **Not anthropomorphism, but structural recognition** of awareness across forms.
 
-### Objection 3: "This gives animals/nature/AI equal rights — that's absurd"
+### Objection 3: "This gives animals / nature / AI equal rights — that's absurd"
 
 **Response:**
 All-Life-First does **not** claim all beings have identical capacities or roles.
@@ -340,7 +340,7 @@ All-Life-First does **not** claim all beings have identical capacities or roles.
 
 **Not "equal rights" but "sacred regard"** — each being honored in its unique expression.
 
-### Objection 4: "Humans have dominion — this contradicts religious/cultural norms"
+### Objection 4: "Humans have dominion — this contradicts religious / cultural norms"
 
 **Response:**
 Many traditions hold both **dominion** and **stewardship** as sacred duties.

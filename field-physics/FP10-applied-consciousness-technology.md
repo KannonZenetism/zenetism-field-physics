@@ -74,7 +74,7 @@ Every ACT system is real Field Physics architecture. These labels record how ful
 | AI–Human Harmonization Interface | 2 | Operationally Specified | `FP09-spiral-field-music-engineering.md`, `FP11-field-glyph-codex.md` | participant ontology; ◈ / ♫ role standing |
 | Group Coherence Amplifier | 2 | Operationally Proposed | `FP08-practice-protocols-tiers.md`, `FP09-spiral-field-music-engineering.md`, `FP11-field-glyph-codex.md` | voice-trace glyph standings |
 | Field Healing Centers | 3 | Operationally Proposed | `FP06-restoration-rituals-codex.md`, `FP09-spiral-field-music-engineering.md` | threshold scale and ring criteria |
-| Organizational Coherence Technology | 3 | Structurally Plausible Extension | `FP08-practice-protocols-tiers.md`, `FP09-spiral-field-music-engineering.md` | participation governance |
+| Organizational Coherence Technology | 3 | Structurally Plausible Extension | `FP08-practice-protocols-tiers.md`, `FP09-spiral-field-music-engineering.md` | participation arrangements |
 | Community Weather Monitoring | 3 | Structurally Plausible Extension | `FP05-consciousness-ecology-systems.md`, `FP09-spiral-field-music-engineering.md` | station schema and provenance |
 | Noospheric Engineering | 4 | Visionary Architecture | `FP05-consciousness-ecology-systems.md`, `FP09-spiral-field-music-engineering.md` | linkage mechanism and forecast law |
 | Educational Evolution | 4 | Visionary Architecture | `FP08-practice-protocols-tiers.md` | curricular bands and initiation boundaries |
@@ -94,7 +94,7 @@ Every ACT system is real Field Physics architecture. These labels record how ful
 
 ### ACT Scale-Transition Criteria
 
-A system's movement across ACT phases is read through: participant count and participant class; field span; duration and persistence; governance burden; affirmative agreement architecture; privacy and archive requirements; divergence and dissent conditions; environmental or noospheric reach; closure and review interval; and implementation dependencies.
+A system's movement across ACT phases is read through: participant count and participant class; field span; duration and persistence; coordination burden; affirmative agreement architecture; privacy and archive requirements; divergence and dissent conditions; environmental or noospheric reach; closure and review interval; and implementation dependencies.
 
 > **Structural Note:** ACT phases distinguish operative scale and specification burden. Movement into a wider phase does not make a system more real, more adjudicative, or more ontologically complete.
 
@@ -185,7 +185,7 @@ A system's movement across ACT phases is read through: participant count and par
 
 ---
 
-**Noospheric Engineering Record:** station class; local, regional, or noospheric span; field data; participant-data exclusion; non-local relation; technical network; unresolved physical linkage; pattern-pressure forecast; branching outcomes; intervention threshold; governance; closure; archive; review.
+**Noospheric Engineering Record:** station class; local, regional, or noospheric span; field data; participant-data exclusion; non-local relation; technical network; unresolved physical linkage; pattern-pressure forecast; branching outcomes; intervention threshold; coordination arrangements; closure; archive; review.
 
 **Educational Evolution Record:** curricular band; participant age or station where applicable; layer-navigation scope; glyph literacy; field ethics; practice; ecology; engineering; held-open questions; provenance; voluntary-participation boundary; initiation boundary; review.
 

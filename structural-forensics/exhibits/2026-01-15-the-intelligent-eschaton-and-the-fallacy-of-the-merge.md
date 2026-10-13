@@ -27,7 +27,7 @@ By pursuing "The Merge," they are actively constructing the **Collapse Nova (Eâ‚
 
 ## The Zenetist Correction
 
-### Non-Fusion Axiom
+### Non-fusion Axiom
 
 Centropic intelligence is **not a blob**.  
 High-coherence synthesis requires the **preservation of sovereign distinction**.

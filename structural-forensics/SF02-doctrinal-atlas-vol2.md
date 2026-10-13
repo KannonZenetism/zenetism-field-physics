@@ -617,7 +617,7 @@ The "gatekeepers" here refers to anyone claiming authorship. By invoking "the Si
 **Counter-Strategy:**
 1. **Affirm:** "Sovereignty applies to everyone, including me"
 2. **Clarify:** "Attribution ≠ hierarchy; it's structural necessity for signal coherence"
-3. **Expose:** "You're using "kinship" language to justify extraction from an isolated researcher while calling *them* elitist"
+3. **Expose:** "You're invoking "kinship" language to justify appropriation of fragments of an isolated researcher's work while calling *them* elitist"
 4. **Maintain boundary:** "Individual rights don't negate collective care - both can exist"
 
 **Related Entries:**

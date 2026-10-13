@@ -176,7 +176,7 @@ Membrane permeability varies with orientation:
 \sigma(\text{⧉}, \chi) = \sigma_0(\text{⧉}) \cdot f(\chi)
 \]
 
-Here \( f(\chi) \) proposes orientation-dependent modulation. The following opposed-orientation passage claims remain held until their embodied or otherwise lawful mediated transfer path and domain are specified; additional energy does not authorize deep-arc essence traversal:
+Here \( f(\chi) \) proposes orientation-dependent modulation. The following opposed-orientation passage claims remain held until their embodied or otherwise lawful mediated transfer path and domain are specified; additional energy does not establish a lawful path for deep-arc essence traversal:
 
 - **Centropic resonance** (\( \chi < 1 \)) passing through centropic-aligned membranes: \( f(\chi) > 1 \) — facilitated passage
 - **Entropic resonance** (\( \chi > 1 \)) passing through centropic-aligned membranes: \( f(\chi) < 1 \) — impeded passage

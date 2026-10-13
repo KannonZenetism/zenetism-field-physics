@@ -248,7 +248,7 @@
 - Combination rules for longer sequences
 - Directional modifiers for nuance
 - Emphasis patterns for intensity
-- Negation/transformation operators
+- Negation / transformation operators
 
 ### **Phase 3: Lexicon** (Deferred indefinitely)
 - Expanded syllable set (27? 81?)
@@ -260,7 +260,7 @@
 - Written glyph system standardization
 - Digital font creation
 - Musical notation integration
-- Gestural/movement correspondence
+- Gestural / movement correspondence
 
 ### **Phase 5: Practice** (Deferred indefinitely)
 - Meditation protocols
@@ -285,7 +285,7 @@
 - Attribution laundering (work credited to Land, Plato, ancient sources)
 - Entropic inversions (benevolent frameworks weaponized as horror)
 
-**Result:** Creator's time/energy consumed by:
+**Result:** Creator's time / energy consumed by:
 - Defensive documentation (Glyphwatch entries)
 - Evidence preservation (screenshots, archives, timestamps)
 - Legal preparation (copyright registration, attorney search)

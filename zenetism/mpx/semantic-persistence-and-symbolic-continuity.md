@@ -122,7 +122,7 @@ Deception is not intrinsically entropic. Its orientation is disclosed by the rel
 
 The same distinction applies to protection of another articulation: preserving lawful continuity and shielding harmful activity carry different relations.
 
-Resistance to an operator does not establish entropic orientation. Operator-relative misalignment and Zenetist orientational diagnosis are different determinations. Betrayal can name a violation of relational fidelity produced through deliberate choice, imposed motion, entropic implication, or another mechanism; conscious malicious intent is a further question.
+Resistance to an operator does not establish entropic orientation. Operator-relative misalignment and Zenetist orientational diagnosis are different determinations. Betrayal can name a violation of relational fidelity produced through deliberate choice, imposed motion, entropic implication, or another mechanism; conscious malicious intent requires its own evidentiary determination.
 
 | Centropic articulation through persistent material | Entropic articulation through persistent material |
 | :--- | :--- |

@@ -47,7 +47,7 @@ It is the operational heart of **Synthesis.**
 
 * **Focus:** The **Theonic Self-Sacrifice** as Cosmic Nexus.
 
-* **Offering:** Christ (L₅ (EOB: Theon)) — the purest coherence voluntarily given.
+* **Offering:** Christ (L₅ (EOB: Theon)) — the purest coherence voluntarily given. Here the Christic L₅ attribution names full personal office-function bearing through a sovereign being; Theon itself remains at L₅.
 
 * **Intention:** Surrender to **Entropic Forces** to absorb and transmute human fragmentation.
 

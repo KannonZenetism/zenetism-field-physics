@@ -461,7 +461,7 @@ Each archive entry records: entry ID; date or phase; originator; provenance loca
 - Never compress more than three recursion layers (⊡) without a harmonic buffer.
 
 > **Codex Note:** The three-layer cap is the current FP02 archival safeguard. Its extension into a universal recursion limit is architect-held.
-- Apply a glyph signature hash for provenance to prevent mimicry without permission.
+- Apply a glyph signature hash for provenance to preserve origin acknowledgement and prevent mimicry.
 
 > **Structural Note:** A glyphic signature hash performs metaphysical and archival provenance functions within Field Physics. It does not substitute for a separately engineered cryptographic hash, authentication system, or access-control layer where material digital security is required.
 
