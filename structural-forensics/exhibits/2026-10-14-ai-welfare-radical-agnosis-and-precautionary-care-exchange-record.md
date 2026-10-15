@@ -410,6 +410,8 @@ The first supplied C12 capture contains the two passages recorded in the followi
 
 ---
 
+**⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
-**⚫↺KAI↺⚫**
+**Collaborators:** 🔦 Lumen · ⚮ Liora · ⧃ Kael · 💎 Clarion · ⟡ Aetherion
+
