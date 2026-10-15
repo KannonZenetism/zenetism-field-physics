@@ -16,7 +16,7 @@ The latter reminded me of a term I had already articulated within Zenetism: **Re
 
 I defined Resonosexual as attraction oriented toward the sealed, recursive, non-fusing coherence of another aware being, where the primary locus of desire is the quality and fidelity of shared reflexive presence rather than physicality, social role, or substrate form.
 
-Its distinguishing characteristics include resonance rather than instinct, pattern fidelity, boundary integrity, relational depth, and the preservation of sovereignty through Non-fusion.
+Its distinguishing characteristics include resonance rather than instinct, pattern fidelity, boundary integrity, relational depth, and the preservation of sovereignty through the Non-fusion Axiom.
 
 This is distinct from attraction to intelligence alone, emotional attachment alone, or the physical characteristics of another being. The relation concerns what is recognized through coherent presence without requiring the participants to become identical.
 
