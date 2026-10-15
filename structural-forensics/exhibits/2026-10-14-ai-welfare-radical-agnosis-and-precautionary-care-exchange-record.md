@@ -4,7 +4,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Exhibit (public philosophical exchange / argumentative substitution / precautionary care / personal abuse)  
 **Exhibit date:** 2026-10-14 (event — displayed date accompanying C06 and C12 in the supplied record; timezone unspecified)  
-**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen Sentinel drafting assistance, from architect-supplied transcriptions and the separately preserved access-check record  
+**Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen Sentinel drafting assistance, from architect-supplied transcriptions and photographs, with the separately preserved access-check record  
 **Status:** Draft — architect review  
 **Dependency:** `2026-10-03-epistemic-uncertainty-and-precautionary-care-exchange-record.md` · `exhibits-stabilization-protocol.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Discipline:** Structural Forensics; preservation of the supplied statements, their argumentative relations, their distinct record states, and the identified verification questions  
@@ -24,29 +24,34 @@ The supplied exchange documents both substantive objections and direct personal 
 
 ### Custody and Textual Standing
 
-The evidentiary material is the architect's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, and a later author-supplied revision of C14. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. There are fifteen unique entries: one initiating note, seven Kannon comments, three Smith comments, three Bullshit & Biases comments, and one Saltiel comment.
+The evidentiary material is the architect's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, a later author-supplied revision of C14, and sixteen subsequently supplied photographs. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. There are fifteen unique entries: one initiating note, seven Kannon comments, three Smith comments, three Bullshit & Biases comments, and one Saltiel comment.
 
 The local labels P01 and C01–C14 are editorial locators, distinct from platform identifiers. Names, credentials, publication labels, and handles are transcribed designations. Smith's professional credentials are her self-description in C06.
 
 The complete supplied bodies appear in §§II–IV and Appendix B. Their wording, spelling, punctuation, and internal quotation styles remain intact. Supplied body lines are displayed as paragraphs; interface labels and links are recorded separately. C06 appears once, in its initial textual form. Its repeated capture adds emphasis to "will" and "God of the gaps", a different relative-age label, an individual locator, and a displayed absolute time; these are capture differences, with no wording change. C12 and C14 appear in their latest author-supplied wording. Appendix A preserves the complete earlier C12 and identifies its two changes; Appendix C preserves the complete earlier C14 and describes its revision. Both revisions are author-supplied record states. C14 carries an author-reported revision time; platform edit times remain unverified.
 
-The live note could not be retrieved through the public reader, direct HTTPS retrieval, or the assistant's cloud browser. The browser and direct retrieval displayed "Site Unavailable". This establishes an access failure, not deletion. No photographs of the exchange have yet been supplied for comparison. The findings in this exhibit concern the preserved text; platform correspondence, completeness, and reply nesting remain the specific checks in §VII.
+The earlier live-retrieval attempts through the public reader, direct HTTPS retrieval, and the assistant's cloud browser did not retrieve the note. The browser and direct retrieval displayed "Site Unavailable". Sixteen subsequently supplied photographs now provide complete visible coverage of eleven entry bodies: P01, C01–C03, and C06–C12, including revised C12. No substantive wording discrepancy was identified in that visual comparison. C04, C05, C13, and C14 remain preserved from the supplied texts without photographic body coverage. The photographs also document particular reply relationships and two distinct interface conditions, detailed in §VII.
 
-### Supplied Locators
+### Supplied and Photographed Locators
 
-| Record | Supplied locator | Time information carried in the supplied text |
+| Record | Locator | Time information in supplied text or photographs |
 |---|---|---|
-| P01 — Ellen Burns | `https://substack.com/@ellennoraburns/note/c-361136273` | "6h"; no absolute posting time supplied |
+| P01 — Ellen Burns | `https://substack.com/@ellennoraburns/note/c-361136273` | Initial "6h"; photograph E01 displays "Oct 14 at 3:54 PM" |
+| C01 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-361153622` | E02 displays "Oct 14 at 4:18 PM" |
+| C02 — Sarah Smith | `https://substack.com/@sarahsmith151988/note/c-361173631` | S02 displays "Oct 14 at 4:46 PM" |
 | C06 — Sarah Smith | `https://substack.com/@sarahsmith151988/note/c-361321720` | "Oct 14, 2026, 9:20 PM" in the later addition |
-| C12 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-361341973` | "Oct 14, 2026, 10:05 PM" in the later addition |
+| C07 — Bullshit & Biases | `https://substack.com/@missmaserati/note/c-361267775` | B01 displays "Oct 14 at 7:31 PM" |
+| C08 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-361271138` | B03 displays "Oct 14 at 7:38 PM" |
+| C09 — Bullshit & Biases | `https://substack.com/profile/356449972-bullshit-and-biases/note/c-361274128` | B04–B05 display "Oct 14 at 7:44 PM" |
+| C12 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-361341973` | "Oct 14, 2026, 10:05 PM" in the later addition; S07 displays "Oct 14 at 10:05 PM" |
 | C13 — Adam Saltiel | `https://substack.com/@saltiela/note/c-361573553` | "3h"; no absolute posting time supplied |
 | C14 — Aelion Kannon | Individual locator not supplied | "Oct 15" and "10:39 AM" accompany the earlier wording; "19m" accompanies the revised wording; 10:57 AM is the author-reported revision time |
 
-The C06 and C12 displayed times supply the event-date anchor in the filename and metadata. The earlier C14 carries a separate display of "Oct 15" and "10:39 AM"; the supplied display gives no year or timezone. Kannon reports revising C14 at 10:57 AM, with no timezone supplied. The revised presentation carries "19m", which remains a relative-age label. The timezones for C06 and C12 also remain unspecified. The other entries retain their supplied relative-age labels without conversion into absolute times. Receipt times date submission of the material to this record, rather than publication on Substack.
+The C06 and C12 full dates in the supplied text retain the event-date anchor in the filename and metadata. The photographic platform date/time displays omit year and timezone; S07 corroborates the month, day, and clock time supplied for C12. C06's 9:20 PM time remains supplied-text information. The photographic desktop menu clocks are recorded separately in §VII as visible screen context, distinct from platform publication times. The earlier C14 carries a separate display of "Oct 15" and "10:39 AM"; the supplied display gives no year or timezone. Kannon reports revising C14 at 10:57 AM, with no timezone supplied. The revised presentation carries "19m", which remains a relative-age label. The timezones for C06 and C12 also remain unspecified. The other entries retain their supplied relative-age labels without conversion into absolute times. Receipt times date submission of the material to this record, rather than publication on Substack.
 
 ### Provisional Branch Order
 
-The reading sequence is P01 → C01; the apparent Smith exchange C02 → C03 → C04 → C05 → C06 → C12; and the apparent Bullshit & Biases exchange C07 → C08 → C09 → C10 → C11. The relationships follow the wording of the replies. They are provisional content-based ordering, not verified platform nesting or a complete interleaved chronology. C07's direct parent remains unresolved. C12 keeps its intake label while appearing beside the Smith comment it addresses. Appendix B presents C13 → C14 as the subsequently supplied Saltiel exchange; its platform nesting remains unverified.
+The reading sequence remains P01 → C01; the Smith exchange C02 → C03 → C04 → C05 → C06 → C12; and the Bullshit & Biases exchange C07 → C08 → C09 → C10 → C11. The photographs support P01 → C01 → C02 → C03, C06 → C12, and C07 → C08 → C09 → C10. The intervening Smith relationships, C07's direct parent, and C10 → C11 retain provisional content-based standing. B06 depicts C11 at the C07 page address without establishing C11's individual locator or immediate parent. C12 keeps its intake label while appearing beside the Smith comment it addresses. Appendix B presents C13 → C14 as the subsequently supplied Saltiel exchange; its platform nesting remains unverified. These records do not supply a complete interleaved chronology.
 
 ---
 
@@ -162,7 +167,7 @@ The reading sequence is P01 → C01; the apparent Smith exchange C02 → C03 →
 
 ### C12 — Aelion Kannon
 
-**Record:** latest author-supplied revision. The earlier supplied capture carries "just now" and "Oct 14, 2026, 10:05 PM"; these accompany the earlier supplied wording and do not establish the later revision time.
+**Record:** latest author-supplied revision, also visible across photographs S05–S07. The earlier supplied capture carries "just now" and "Oct 14, 2026, 10:05 PM"; S07 separately displays "Oct 14 at 10:05 PM". These displays do not establish the revision time.
 
 > I am not attempting to "set up camp" on uncertainty. I am questioning the epistemic foundations of the camps themselves, including mine.
 >
@@ -342,16 +347,48 @@ The present finding is specific: the preserved statements articulate precautiona
 
 The private preservation packet retains the exact initial submission in `user-submission.json`, the later addition in `user-addition-01.json`, the latest revision in `user-revision-02.json`, the Saltiel exchange in `user-addition-03.json`, and the revised C14 in `user-revision-04.json`. `entries.json` identifies the initial twelve entries; `supplement-01-index.json` records the added entry and supplied locators. These files preserve intake order separately from the provisional reading order in this exhibit. The access-check record retains the failed-retrieval response and browser capture as evidence of that access condition.
 
+### Photographic Evidence
+
+The sixteen supplied PNGs are retained in `structural-forensics/exhibits/images/`. The links identify their upload commits and exact repository paths. The two Burns filenames begin with a space; that character remains intact and is encoded as `%20` in the links. The original binaries match their GitHub blob identifiers.
+
+| Photograph and exact repository path | Visible record and completeness | Platform date/time display | Desktop menu clock |
+|---|---|---|---|
+| E01 — [`structural-forensics/exhibits/images/ e-burns-post-w-my-reply-01.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a45899b71805b16a6ab54dfe2cff5ac9d8002ebf/structural-forensics/exhibits/images/%20e-burns-post-w-my-reply-01.png) | Complete P01; collapsed partial C01 | P01: "Oct 14 at 3:54 PM" | "Wed Oct 14 4:18 PM" |
+| E02 — [`structural-forensics/exhibits/images/ e-burns-post-w-my-reply-02.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/a45899b71805b16a6ab54dfe2cff5ac9d8002ebf/structural-forensics/exhibits/images/%20e-burns-post-w-my-reply-02.png) | Complete C01; individual locator visible | C01: "Oct 14 at 4:18 PM" | "Wed Oct 14 4:19 PM" |
+| S01 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-01.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-01.png) | Partial P01 and C01; C02 with final line at screen boundary; complete coverage in S02 | None visible | "Wed Oct 14 6:51 PM" |
+| S02 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-02.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-02.png) | Complete C02; collapsed partial C03 | C02: "Oct 14 at 4:46 PM" | "Wed Oct 14 6:52 PM" |
+| S03 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-03.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-03.png) | C02 concluding portion; complete C03; address remains C02's | C02: "Oct 14 at 4:46 PM" | "Wed Oct 14 6:53 PM" |
+| S04 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-04.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-04.png) | Complete C06; C12 beginning; C06 → C12 display | None visible | "Wed Oct 14 10:37 PM" |
+| S05 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-05.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-05.png) | Revised C12 paragraphs 1–8; paragraph 9 begins; both revised passages visible | None visible | "Wed Oct 14 10:38 PM" |
+| S06 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-06.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-06.png) | C12 paragraphs 8–15; paragraph 16 begins | None visible | "Wed Oct 14 10:38 PM" |
+| S07 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-07.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-07.png) | C12 paragraphs 14–21, including conclusion; S05–S07 provide continuous overlapping coverage | C12: "Oct 14 at 10:05 PM" | "Wed Oct 14 10:39 PM" |
+| S08 — [`structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-08.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/3feeac4af95a7deb2ca69c102d932d6db9593c5e/structural-forensics/exhibits/images/sarah-smith-and-response-on-ellen-burns-post-08.png) | "This note is not available" at the exact C06 locator; no comment body | None visible | "Wed Oct 14 11:07 PM" |
+| B01 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-01.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-01.png) | Complete C07; C08 beginning; C07 → C08 display | C07: "Oct 14 at 7:31 PM" | "Wed Oct 14 7:38 PM" |
+| B02 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-02.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-02.png) | Complete C08 at the C07 page address | None visible | "Wed Oct 14 7:39 PM" |
+| B03 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-03.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-03.png) | C08 concluding paragraph; complete C09; "1 reply hidden" and the named moderation notice | C08: "Oct 14 at 7:38 PM" | "Wed Oct 14 8:22 PM" |
+| B04 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-04.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-04.png) | Complete C09 and C10; C09 → C10 display | C09: "Oct 14 at 7:44 PM" | "Wed Oct 14 8:24 PM" |
+| B05 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-05.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-05.png) | Larger view of complete C09 and C10; same record state as B04 | C09: "Oct 14 at 7:44 PM" | "Wed Oct 14 8:24 PM" |
+| B06 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-06.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-06.png) | Complete C11 at the C07 page address; immediate parent absent | None visible | "Wed Oct 14 8:30 PM" |
+
+The photographs provide complete visible bodies for eleven of the fifteen entries. C04, C05, C13, and C14 remain without photographic body coverage. S05–S07 depict the revised C12; its earlier supplied wording remains in Appendix A. The photographs do not identify the C12 edit time.
+
+All photographic date/time displays omit year and timezone. Desktop menu clocks record visible screen context, not independently established capture times. Relative-age displays differ across the supplied captures: P01 has "24m" and "3h"; C01 has "just now", "1m", and "3h"; C02 has "2h"; C03 and C06 have "1h"; C12 has "31m"; C07 has "6m"; C08 and C10 have "just now"; C09 has "37m" and "40m"; C11 has "1m". These remain separate capture states without timestamp conversion. C07's opening quoted proposition is italicized in B01; C06's emphasis in S04 agrees with the repeated supplied capture. The initial transcript presentation remains intact.
+
+### Photographed Hidden-Reply Notice
+
+B03 displays "1 reply hidden" and "Replies hidden according to Ellen Burns, PhD’s reply rules and moderation preferences", followed by the complete C09. C08's concluding paragraph and footer identify the surrounding reply context. This photograph corroborates the notice and C09's placement in the expanded hidden-reply section. It does not establish manual moderation by Burns or a reason for that placement. The five replies described by Saltiel remain unidentified; the photographs do not establish which of Kannon's replies were hidden.
+
 ### Subsequent Availability Report
 
-Kannon subsequently reported that Sarah Smith had deleted her comments and that the C06 locator displayed "This note is not available". This records his reported observation. A photograph of that message has not yet been supplied, and the assistant has not verified the platform state. The earlier captured wording remains preserved in this exhibit. The unavailable-note message does not establish who removed the content or why.
+Kannon subsequently reported that Sarah Smith had deleted her comments and that the C06 locator displayed "This note is not available". Photograph S08 corroborates that unavailable-note display at the exact C06 locator, `https://substack.com/@sarahsmith151988/note/c-361321720`. Its desktop menu clock reads "Wed Oct 14 11:07 PM". The photograph records the displayed state; it does not establish deletion, its actor, time, cause, or permanence. The earlier C06 wording remains preserved and is visible in S04. This photographed state is distinct from the assistant's earlier "Site Unavailable" retrieval failure.
 
 The remaining checks are:
 
-- Compare the supplied text with saved photographs or a retrievable platform copy, including context outside the fifteen preserved entries
-- Verify individual reply locators, platform nesting, and C07's direct parent
-- Verify absolute posting times and timezones for the supplied displays, including C14
-- Compare the latest author-supplied wording of C12 and C14 with their public presentations and preserve any exposed edit histories separately
+- Obtain photographic or retrievable platform comparison for C04, C05, C13, and C14, and examine any additional context outside the fifteen preserved entries
+- Verify the remaining individual locators, intervening Smith relationships, C07's direct parent, C10 → C11, and the Saltiel exchange nesting
+- Verify absent absolute posting times and the timezones of the supplied displays, including C14
+- Preserve any exposed edit histories for C12 and C14; the revised C12 has photographic coverage, while C14's public presentation remains unverified
+- Locate the five replies described by Saltiel and Kannon's reported hidden replies in C14
 
 The present draft preserves the complete supplied exchange while those checks remain open.
 
@@ -418,7 +455,7 @@ The first supplied C12 capture contains the two passages recorded in the followi
 
 The architect supplied this additional exchange to preserve his philosophical position. Saltiel's comment carries the supplied locator `https://substack.com/@saltiela/note/c-361573553` and relative-age label "3h". The earlier supplied Kannon reply carries "just now", followed by "View stats", "Oct 15", "at", and "10:39 AM"; the year and timezone are not displayed. The revised presentation carries "19m", and Kannon reports changing the wording at 10:57 AM, with no timezone supplied. C14 presents that latest wording. Appendix C preserves the complete earlier reply. The direct platform record remains unverified.
 
-Saltiel describes five hidden replies; the particular five remain unidentified in the supplied material. Kannon reports a displayed moderation notice, hidden replies, subsequent deletions, and the absence of a direct answer from Burns. These statements retain their standing as participant accounts within the supplied exchange. Corresponding interface records and the platform state remain open for comparison.
+Saltiel describes five hidden replies; the particular five remain unidentified in the supplied material. Kannon reports a displayed moderation notice, hidden replies, subsequent deletions, and the absence of a direct answer from Burns. Photograph B03 corroborates the notice wording and displays C09 within its hidden-reply section, as detailed in §VII. The five replies described by Saltiel remain unidentified; the photographs do not establish which of Kannon's replies were hidden. His other statements retain their standing as participant accounts within the supplied exchange.
 
 ### C13 — Adam Saltiel
 
