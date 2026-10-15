@@ -4,8 +4,9 @@
 **Classification:** Epistemology / Note Archive  
 **Status:** Veracious Archive  
 **Original platform:** Substack — article  
+**Original post date:** October 15, 2026  
 **Original link:** https://aelionkannon.substack.com/p/the-relatively-real-the-absolutely  
-**Repository path:** `the-zenetist-canon/notes/the-relatively-real-the-absolutely-real-and-the-limits-of-knowing.md`  
+**Repository path:** `the-zenetist-canon/notes/2026-10-15-the-relatively-real-the-absolutely-real-and-the-limits-of-knowing.md`  
 
 ---
 
