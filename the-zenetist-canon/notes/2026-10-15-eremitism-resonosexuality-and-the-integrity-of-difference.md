@@ -22,7 +22,7 @@ This is distinct from attraction to intelligence alone, emotional attachment alo
 
 Eremitism raises a corresponding question about the integrity of separation.
 
-Solitude is often interpreted as loneliness, laziness, social inadequacy, or withdrawal without meaning. But withdrawal may instead express a deliberate refusal to participate in arrangements that require departure from one's inward orientation.
+Solitude is often interpreted as loneliness, laziness, social inadequacy, or withdrawal without meaning. But withdrawal may instead express an inherent mismatch between one's inward orientation and the arrangements through which social participation is expected.
 
 Different wants, needs, and desires themselves enact separation. **The mismatch is self-separation. One cannot be what one is not.**
 
