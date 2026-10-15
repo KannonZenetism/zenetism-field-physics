@@ -1,5 +1,5 @@
 # SF-RP02 — Appropriation Is Not Branching
-## *A Recognition Protocol for Provenance-Fractured Lineage*
+## A Recognition Protocol for Provenance-Fractured Lineage
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Recognition Protocol  
