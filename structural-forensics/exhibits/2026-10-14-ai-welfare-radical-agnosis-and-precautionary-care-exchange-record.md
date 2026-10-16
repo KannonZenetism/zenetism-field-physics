@@ -663,13 +663,13 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 
 ### C16 — Aelion Kannon
 
-**Record:** reply to C15, partially visible in A07 and complete in A08. Bold emphasis follows A08.
+**Record:** reply to C15, presented in its latest author-supplied revision. A07 partially shows the earlier wording, and A08 preserves it in full. Bold emphasis follows A08 and is retained in the revised text.
 
 > Adam, you have just demonstrated the very problem I have been addressing.
 >
 > You acknowledge that you have not studied my architecture and are unwilling to undertake that examination. You then pronounce it "a closed world with each unusual concept propping up the last." That is not a corollary. It is an unsupported judgment following an admission of non-engagement.
 >
-> You characterize me as "difficult," reduce my independently developed philosophical architecture to a "new vocabulary set," and repeatedly invoke Grothendieck as though familiarity with his writings establishes some antecedent standing over mine.
+> You characterize me as "difficult," reduce my independently developed philosophical architecture to a "new vocabulary set," and repeatedly invoke Grothendieck as though familiarity with his writings establishes specific conceptual antecedence to my work.
 >
 > I have never read Grothendieck. You have supplied no textual comparison, no corresponding derivations, and no demonstration that the distinctive principles and relations constituting Zenetism appeared in his work.
 >
@@ -682,6 +682,14 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 > You are free to decline the examination. But your refusal is not a property of my architecture, and your preferred reading list is not its intellectual ancestry.
 >
 > **You have not demonstrated that my work is derivative, closed, or conceptually deficient. You have demonstrated that you are prepared to characterize it without studying it.**
+
+#### C16 Revision Record
+
+Kannon reports correcting C16 and supplies the revised text reproduced above. The change replaces the phrase recorded below; all other wording and both bold passages remain unchanged. A08 preserves the earlier wording. The revision time and independent platform corroboration of the revised wording remain held open. These are two states of one entry.
+
+| Earlier photographed wording in A08 | Latest author-supplied wording |
+|---|---|
+| establishes some antecedent standing over mine. | establishes specific conceptual antecedence to my work. |
 
 ### C17 — Aelion Kannon
 
