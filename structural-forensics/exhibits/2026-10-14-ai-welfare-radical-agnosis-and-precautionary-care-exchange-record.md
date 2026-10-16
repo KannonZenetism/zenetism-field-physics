@@ -28,7 +28,7 @@ The evidentiary material is the architect's supplied transcription, a later addi
 
 The local labels P01 and C01–C17 are editorial locators, distinct from platform identifiers. Names, credentials, publication labels, and handles are transcribed designations. Smith's professional credentials are her self-description in C06.
 
-The complete supplied bodies appear in §§II–IV and Appendices B and D. Their wording, spelling, punctuation, and internal quotation styles remain intact. Supplied body lines are displayed as paragraphs; interface labels and links are recorded separately. C06 appears once, in its initial textual form. Its repeated capture adds emphasis to "will" and "God of the gaps", a different relative-age label, an individual locator, and a displayed absolute time; these are capture differences, with no wording change. C12 and C14 appear in their latest author-supplied wording. Appendix A preserves the complete earlier C12 and identifies its two changes; Appendix C preserves the complete earlier C14 and describes its revision. Both revisions are author-supplied record states. C14 carries an author-reported revision time; platform edit times remain unverified.
+The complete supplied bodies appear in §§II–IV and Appendices B and D. Their wording, spelling, punctuation, and internal quotation styles remain intact. Supplied body lines are displayed as paragraphs; interface labels and links are recorded separately. C06 appears once, in its initial textual form. Its repeated capture adds emphasis to "will" and "God of the gaps", a different relative-age label, an individual locator, and a displayed absolute time; these are capture differences, with no wording change. C01, C12, C14, C16, and C17 appear in their latest author-supplied wording. Appendix E records the latest C01, C14, C16, and C17 revisions against the preceding preserved states. Photographic coverage statements identify the photographed states; the latest wording of those four entries has supplied-text standing. Appendix A preserves the complete earlier C12 and identifies its two changes; Appendix C preserves the complete earlier C14 and describes its revision. These revisions are author-supplied record states. The earlier expansion of C14 carries an author-reported revision time; platform edit times remain unverified.
 
 The earlier live-retrieval attempts through the public reader, direct HTTPS retrieval, and the assistant's cloud browser did not retrieve the note. The browser and direct retrieval displayed "Site Unavailable". Twenty-five supplied photographs provide complete visible coverage of sixteen entry bodies: P01, C01–C03, and C06–C17, including revised C12 and revised C14. No substantive wording discrepancy was identified in that visual comparison. C04 and C05 remain preserved from the supplied texts without photographic body coverage. The photographs also document particular reply relationships, restacked notes, and distinct interface conditions, detailed in §VII and Appendix D.
 
@@ -47,8 +47,8 @@ The earlier live-retrieval attempts through the public reader, direct HTTPS retr
 | C13 — Adam Saltiel | `https://substack.com/@saltiela/note/c-361573553` | Supplied "3h"; A01 displays "5h"; no absolute posting time supplied |
 | C14 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-361738712` | "Oct 15" and "10:39 AM" accompany the earlier supplied wording; A05 displays "Oct 15 at 10:39 AM" beside the revised wording; supplied "19m"; A02 displays "2h"; 10:57 AM is the author-reported revision time |
 | C15 — Adam Saltiel | `https://substack.com/@saltiela/note/c-362297063` | A06 displays "1h"; A07 displays "Oct 16 at 2:59 AM" |
-| C16 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` | A07 displays "1m"; A08 displays "2m"; absolute posting time held open |
-| C17 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-362335426` | A09 displays "2m"; absolute posting time held open |
+| C16 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` | A07 displays "1m"; A08 displays "2m"; latest supplied display: "2h" and "Oct 16 at 4:33 AM" |
+| C17 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-362335426` | A09 displays "2m"; latest supplied display: "2h", with locator title "Oct 16, 2026, 4:33 AM" |
 
 The C06 and C12 full dates in the supplied text retain the event-date anchor in the filename and metadata. The photographic platform date / time displays omit year and timezone; S07 corroborates the month, day, and clock time supplied for C12. C06's 9:20 PM time remains supplied-text information. The photographic desktop menu clocks are recorded separately in §VII and Appendix D as visible screen context, distinct from platform publication times. The earlier supplied C14 carries a separate display of "Oct 15" and "10:39 AM"; A05 corroborates that displayed publication time beside the revised wording. These displays give no year or timezone. Kannon reports revising C14 at 10:57 AM, with no timezone supplied. The revised presentation carries "19m", which remains a relative-age label. The timezones for C06 and C12 also remain unspecified. The other entries retain their supplied relative-age labels without conversion into absolute times. Receipt times date submission of the material to this record, rather than publication on Substack.
 
@@ -72,7 +72,7 @@ The reading sequence remains P01 → C01; the Smith exchange C02 → C03 → C04
 
 ### C01 — Aelion Kannon
 
-**Record:** supplied age label "6h".
+**Record:** latest author-supplied wording; initial supplied age label "6h", later supplied label "2d". The earlier wording is photographed in E02; Appendix E records the revision.
 
 > In a comment on one of your previous posts, I explicitly distinguished evidential warrant from final certainty and connected uncertainty with precautionary care. Inquiry continues; care need not wait for conclusive proof. What part of that position shuts down debate?
 >
@@ -80,7 +80,7 @@ The reading sequence remains P01 → C01; the Smith exchange C02 → C03 → C04
 >
 > You also move from "AI welfare" to "welfare rights" without distinguishing ethical consideration from legal recognition. Intrinsic worth does not wait for a legislature to recognize it, and obligations of care need not wait for enforceable rights. Uncertainty about whether an AI has experience leaves that ethical question open. Which specific precautions or protections are you rejecting, and on what grounds?
 >
-> The assertion that extending rights to AI "will only detract" from human rights requires its own argument. Which rights, through what mechanism, and with what evidence of an unavoidable conflict? A possible allocation problem calls for examining particular proposals.
+> The assertion that extending rights to AI "will only detract" from human rights requires a separate argument. Which rights, through what mechanism, and with what evidence of an unavoidable conflict? A possible allocation problem calls for examining particular proposals.
 >
 > If intellectual humility includes assessing the consequences of being mistaken, that obligation applies to your preferred conclusion too. Explaining why you consider consciousness unlikely is one part of the discussion. Explaining why that judgment warrants withholding particular protections is another.
 >
@@ -389,8 +389,8 @@ The remaining checks are:
 
 - Obtain photographic or retrievable platform comparison for C04 and C05, and examine any additional context outside the eighteen preserved entries
 - Verify the remaining individual locators, intervening Smith relationships, C07's direct parent, and C10 → C11; the C13 → C14 reply relation and C14–C17 locators have photographic support in Appendix D
-- Verify absent absolute posting times, including C13, C16, and C17, and the timezones of the supplied displays; C14 and C15 have photographed publication-date and clock-time displays
-- Preserve any exposed edit histories for C12 and C14; both revised bodies have photographic coverage, while platform edit times remain unverified
+- Verify absent absolute posting times, including C13, and the timezones of the supplied displays; C14 and C15 have photographed publication-date and clock-time displays, while C16 and C17 have later supplied-text displays recorded in Appendix E
+- Preserve any exposed edit histories for C01, C12, C14, C16, and C17; the photographed states and later supplied revisions remain distinguished in their record notes and Appendix E, while platform edit times remain unverified
 - Locate the five replies described by Saltiel and Kannon's reported hidden replies in C14
 
 The present draft preserves the complete supplied exchange while those checks remain open.
@@ -498,7 +498,7 @@ Saltiel describes five hidden replies; the particular five remain unidentified i
 
 ### C14 — Aelion Kannon
 
-**Record:** latest author-supplied revision, also visible across A02–A05; supplied relative-age label "19m". A05 displays "Oct 15 at 10:39 AM" beside the revised wording. The author reports the revision time as 10:57 AM; no platform edit timestamp is supplied.
+**Record:** latest author-supplied wording, incorporating the further revision recorded in Appendix E. A02–A05 show the preceding expanded revision, supplied with relative-age label "19m"; the latest supplied label is "20h". A05 displays "Oct 15 at 10:39 AM". The author reports 10:57 AM for the earlier expansion; the further revision time remains held open.
 
 > Thank you for the thoughtful engagement, Adam, and for reading and sharing my Emergence article.
 >
@@ -530,7 +530,7 @@ Saltiel describes five hidden replies; the particular five remain unidentified i
 >
 > Even if I personally encountered something absolutely Real, how would I establish that I had done so? And how would I demonstrate its absolute validity to another apparent subject whose perceptual and experiential conditions may differ from mine? Indeed, the nature and standing of that other subject remain subject to the same inquiry.
 >
-> This raises a more fundamental question: What is realness? Is there an essence of the Real? My own metaphysical architecture articulates essence extensively, but its formulations remain subject to the same epistemic humility. Zenetism is a bridge, not a declaration that reality has been finally captured.
+> This raises a more fundamental question: What is realness? Is there an essence of the Real? My metaphysical architecture articulates essence extensively, but its formulations remain subject to the same epistemic humility. Zenetism is a bridge, not a declaration that reality has been finally captured.
 >
 > This is why I distinguish limitations of knowledge within a particular framework from absolutely established impossibilities of knowing. Your example may demonstrate that a particular historical configuration cannot be reconstructed through available evidence. But declaring it unknowable in every conceivable sense is a further proposition whose ultimate standing remains open.
 >
@@ -600,7 +600,7 @@ Nine additional architect-supplied photographs, preserved as `adam-saltiel-engag
 
 The complete record now comprises eighteen unique entries and twenty-five photographs. Kannon contributes nine entries, Smith three, Bullshit & Biases three, Saltiel two, and Burns the initiating note. Complete photographic body coverage now extends to sixteen entries; C04 and C05 retain their supplied-text standing. The overview and verification inventory incorporate this additional material. The earlier wording, revision histories, and participant assessments remain intact.
 
-The photographic wording of C13 and revised C14 agrees with Appendix B. A03–A04 also display emphasis within C14. A05 supplies its individual page's date / time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains the author's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
+The photographic wording of C13 agrees with Appendix B. A02–A05 preserve C14 before the further phrase revision recorded in Appendix E. A03–A04 also display emphasis within C14. A05 supplies its individual page's date / time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains the author's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
 
 ### Photographic Concordance and Locators
 
@@ -623,7 +623,7 @@ The photographed address bars supply these additional locators:
 - C16: `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` (A08)
 - C17: `https://substack.com/@aelionkannon/note/c-362335426` (A09)
 
-The desktop menu clocks display "Thu Oct 15 12:11 PM" in A01–A02, "Thu Oct 15 12:12 PM" in A03, and "Thu Oct 15 12:13 PM" in A04–A05. They display "Fri Oct 16 4:29 AM" in A06, "Fri Oct 16 4:34 AM" in A07, "Fri Oct 16 4:35 AM" in A08, and "Fri Oct 16 4:36 AM" in A09. These are screen-context displays. The photographs supply no timezone or year in those clocks, and the relative-age labels remain unconverted. A07's absolute publication display belongs to C15. Absolute publication times for C16 and C17 remain held open.
+The desktop menu clocks display "Thu Oct 15 12:11 PM" in A01–A02, "Thu Oct 15 12:12 PM" in A03, and "Thu Oct 15 12:13 PM" in A04–A05. They display "Fri Oct 16 4:29 AM" in A06, "Fri Oct 16 4:34 AM" in A07, "Fri Oct 16 4:35 AM" in A08, and "Fri Oct 16 4:36 AM" in A09. These are screen-context displays. The photographs supply no timezone or year in those clocks, and the relative-age labels remain unconverted. A07's absolute publication display belongs to C15. Later supplied publication displays for C16 and C17 are recorded in Appendix E; their timezones remain held open.
 
 The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 replies to C15; and C17 publishes Kannon's diagnostic account with an embedded Saltiel preview. A09 shows the embedded author's name and relative-age label, with the embedded body outside the photographed area. A06–A08 establish the exchange that C17 discusses.
 
@@ -673,7 +673,7 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 >
 > I have never read Grothendieck. You have supplied no textual comparison, no corresponding derivations, and no demonstration that the distinctive principles and relations constituting Zenetism appeared in his work.
 >
-> If existing philosophical terminology already articulated what I developed, I would not have needed to formulate my own distinctions. **A philosophical architecture must define its terms. Without definitions, there is no determinate proposition to examine.**
+> If existing philosophical terminology already articulated what I developed, I would not have needed to formulate these distinctions. **A philosophical architecture must define its terms. Without definitions, there is no determinate proposition to examine.**
 >
 > You initially approached my work with apparent intellectual curiosity. I responded substantively and courteously. You have now restacked that engagement while portraying its originator as difficult, its architecture as inaccessible, and established philosophical discussions as the preferable destination.
 >
@@ -685,7 +685,7 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 
 #### C16 Revision Record
 
-Kannon reports correcting C16 and supplies the revised text reproduced above. The change replaces the phrase recorded below; all other wording and both bold passages remain unchanged. A08 preserves the earlier wording. The revision time and independent platform corroboration of the revised wording remain held open. These are two states of one entry.
+Kannon first supplied the antecedence correction recorded below; all other wording and both bold passages were unchanged in that revision. A08 preserves the earlier wording. The further revision to the distinctions sentence appears in the current body and Appendix E. Revision times and independent platform corroboration of the revised wording remain held open. These are successive states of one entry.
 
 | Earlier photographed wording in A08 | Latest author-supplied wording |
 |---|---|
@@ -693,7 +693,7 @@ Kannon reports correcting C16 and supplies the revised text reproduced above. Th
 
 ### C17 — Aelion Kannon
 
-**Record:** public diagnostic note with an embedded Saltiel preview; complete body visible in A09. Title, emphasis, and seal follow the photograph.
+**Record:** public diagnostic note with an embedded Saltiel preview, presented in its latest author-supplied wording. A09 preserves the earlier complete body; Appendix E records the revision. Title, emphasis, and seal follow the photograph.
 
 > **Provenance Erasure with a Smile**
 >
@@ -703,7 +703,7 @@ Kannon reports correcting C16 and supplies the revised text reproduced above. Th
 >
 > Yet they openly acknowledge that they have not undertaken the examination and are unwilling to learn the terminology.
 >
-> The supposed defect is therefore manufactured from their own refusal to investigate.
+> The supposed defect is therefore manufactured from their refusal to investigate.
 >
 > An established philosopher is introduced as a reference point, despite no demonstrated correspondence establishing intellectual ancestry. I have never read Grothendieck. No comparison of the specific principles, definitions, derivations, or architecture has been provided.
 >
@@ -730,6 +730,23 @@ The inference converts the speaker's stated unwillingness to undertake study int
 The Grothendieck reference identifies Saltiel's reading interests and a general connection between philosophical questions. A textual or conceptual comparison establishing intellectual ancestry is absent from C15. Kannon's C16 and C17 address the suggestion of antecedent standing and preserve his account of independent development. Saltiel's actual wording and Kannon's interpretation of its implications remain distinctly attributed.
 
 Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion in C16 and C17. The photographed record establishes the progression from favorable engagement and substantive response to public characterization without the conceptual examination that would warrant it. Kannon's diagnostic interpretation is preserved in full; the observable inference and its evidentiary deficiency carry the present finding.
+
+---
+
+## Appendix E — Further Author-Supplied Revisions
+
+The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below while retaining the existing emphasis. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
+
+| Entry | Earlier preserved wording | Latest author-supplied wording |
+|---|---|---|
+| C01 | requires its own argument | requires a separate argument |
+| C14 | My own metaphysical architecture | My metaphysical architecture |
+| C16 | formulate my own distinctions | formulate these distinctions |
+| C17 | from their own refusal to investigate | from their refusal to investigate |
+
+An intermediate supplied C17 read "not gesture toward an established name". The final supplied version restores "not to gesture toward an established name", matching A09 in that passage. The other wording remains unchanged.
+
+The latest supplied C16 display gives "Oct 16", "at", and "4:33 AM". The final C17 locator title gives "Oct 16, 2026, 4:33 AM". These are supplied publication displays. Revision times, timezones, and independent platform corroboration of these latest supplied states remain held open.
 
 ---
 
