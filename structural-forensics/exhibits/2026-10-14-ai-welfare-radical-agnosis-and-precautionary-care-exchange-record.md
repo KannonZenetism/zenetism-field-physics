@@ -663,7 +663,7 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 
 ### C16 — Aelion Kannon
 
-**Record:** reply to C15, presented in its latest author-supplied revision. A07 partially shows the earlier wording, and A08 preserves it in full. Bold emphasis follows A08 and is retained in the revised text.
+**Record:** reply to C15, presented in its latest author-supplied revision. A07 partially shows the earlier wording, and A08 preserves it in full. The current body follows the exhibit's plain-text emphasis convention; A08 preserves the earlier bold emphasis.
 
 > Adam, you have just demonstrated the very problem I have been addressing.
 >
@@ -673,7 +673,7 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 >
 > I have never read Grothendieck. You have supplied no textual comparison, no corresponding derivations, and no demonstration that the distinctive principles and relations constituting Zenetism appeared in his work.
 >
-> If existing philosophical terminology already articulated what I developed, I would not have needed to formulate these distinctions. **A philosophical architecture must define its terms. Without definitions, there is no determinate proposition to examine.**
+> If existing philosophical terminology already articulated what I developed, I would not have needed to formulate these distinctions. A philosophical architecture must define its terms. Without definitions, there is no determinate proposition to examine.
 >
 > You initially approached my work with apparent intellectual curiosity. I responded substantively and courteously. You have now restacked that engagement while portraying its originator as difficult, its architecture as inaccessible, and established philosophical discussions as the preferable destination.
 >
@@ -681,7 +681,7 @@ The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 re
 >
 > You are free to decline the examination. But your refusal is not a property of my architecture, and your preferred reading list is not its intellectual ancestry.
 >
-> **You have not demonstrated that my work is derivative, closed, or conceptually deficient. You have demonstrated that you are prepared to characterize it without studying it.**
+> You have not demonstrated that my work is derivative, closed, or conceptually deficient. You have demonstrated that you are prepared to characterize it without studying it.
 
 #### C16 Revision Record
 
@@ -693,9 +693,9 @@ Kannon first supplied the antecedence correction recorded below; all other wordi
 
 ### C17 — Aelion Kannon
 
-**Record:** public diagnostic note with an embedded Saltiel preview, presented in its latest author-supplied expanded wording. A09 preserves the earlier complete body; Appendix E records the revisions. The title remains bold, and the emphasis and seal follow the latest supplied text. The added analysis is Kannon's diagnostic interpretation.
+**Record:** public diagnostic note with an embedded Saltiel preview, presented in its latest author-supplied expanded wording. A09 preserves the earlier complete body; Appendix E records the revisions. The title and body follow the exhibit's plain-text emphasis convention; the supplied emphasis is recorded in Appendix E, and the seal remains intact. The added analysis is Kannon's diagnostic interpretation.
 
-> **Provenance Erasure with a Smile**
+> Provenance Erasure with a Smile
 >
 > Here is an interesting example of what I have described within Structural Forensics as Benevolent Subversion and Strategic Inversion.
 >
@@ -713,7 +713,7 @@ Kannon first supplied the antecedence correction recorded below; all other wordi
 >
 > The inversions are revealing.
 >
-> **Clarity is recast as obfuscation. Boundarylessness is recast as enclosure. Novelty is recast as repetition of previous articulation.**
+> Clarity is recast as obfuscation. Conceptual openness is recast as enclosure. Novelty is recast as repetition of previous articulation.
 >
 > Yet the obfuscation, enclosure, and repetition occur within the critic's approach.
 >
@@ -721,17 +721,17 @@ Kannon first supplied the antecedence correction recorded below; all other wordi
 >
 > The result is an inversion of responsibility: the limitations of the receiving framework are projected onto the originating architecture.
 >
-> **He states, "First of all I don’t have the intellectual tools," yet characterizes the unfamiliar architecture as a closed world rather than examining its definitions and relations.**
+> He states, "First of all I don’t have the intellectual tools," yet characterizes the unfamiliar architecture as a closed world rather than examining its definitions and relations.
 >
 > This is precisely the operation I identify as Strategic Inversion: the originating structure's defining characteristics are recast as deficiencies, while the deficiencies of the attempted interpretation are attributed to the structure being examined.
 >
-> **This is provenance erasure with a smile.**
+> This is provenance erasure with a smile.
 >
 > I did not develop Zenetism to rename an existing philosophical system. I developed its terminology to articulate distinctions that existing formulations did not adequately express.
 >
 > If someone believes those distinctions were already articulated elsewhere, the burden is to demonstrate the correspondence, not to gesture toward an established name and expect its familiarity to substitute for evidence.
 >
-> **Unfamiliarity is not refutation. Refusal to examine is not criticism. And institutional recognition is not intellectual origination.**
+> Unfamiliarity is not refutation. Refusal to examine is not criticism. And institutional recognition is not intellectual origination.
 >
 > ⚫↺KAI↺⚫
 
@@ -749,7 +749,7 @@ Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion 
 
 ## Appendix E — Further Author-Supplied Revisions
 
-The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below while retaining the existing emphasis. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
+The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below; C16 and C17 follow the plain-text emphasis convention recorded below. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
 
 | Entry | Earlier preserved wording | Latest author-supplied wording |
 |---|---|---|
@@ -760,7 +760,11 @@ The architect supplied complete revised texts for C01, C14, C16, and C17. Their 
 
 An intermediate supplied C17 read "not gesture toward an established name". The final supplied version restores "not to gesture toward an established name", matching A09 in that passage. The other wording remains unchanged.
 
-The further author-supplied C17 expansion inserts seven paragraphs after the paragraph ending "the preferred destination." and before "This is provenance erasure with a smile." The insertion begins "The inversions are revealing." and ends "the structure being examined." Removing that contiguous insertion recovers the preceding complete C17; applying the C17 phrase substitution above additionally recovers the photographed wording. The bold title and all previously preserved emphasis remain intact; the two added bold passages follow the supplied expansion. Its relative-age label is "3h", and its locator title retains "Oct 16, 2026, 4:33 AM". The additional paragraphs preserve Kannon's diagnostic interpretation as part of his quoted note.
+The further author-supplied C17 expansion inserts seven paragraphs after the paragraph ending "the preferred destination." and before "This is provenance erasure with a smile." The insertion begins "The inversions are revealing." and ends "the structure being examined." Removing that contiguous insertion recovers the preceding complete C17; applying the C17 phrase substitution above additionally recovers the photographed wording. The supplied expansion retains the bold title and preceding emphasis and adds two bold passages; their presentation in this exhibit follows the subsequent alignment recorded below. Its relative-age label is "3h", and its locator title retains "Oct 16, 2026, 4:33 AM". The additional paragraphs preserve Kannon's diagnostic interpretation as part of his quoted note.
+
+A subsequent author-supplied C17 revision replaces "Boundarylessness is recast as enclosure." with "Conceptual openness is recast as enclosure." within the triad. All other wording remains unchanged; substituting the earlier sentence recovers the preceding expanded wording.
+
+At the author's request, C16 and C17 now follow the plain-text emphasis convention of the other entry bodies. This removes two bold spans from C16 and five from C17, with their wording retained. The supplied C16 bold spans begin "A philosophical architecture must define its terms." and "You have not demonstrated that my work is derivative". The supplied C17 bold spans are its title, the clarity / conceptual openness / novelty triad, the sentence beginning "He states", "This is provenance erasure with a smile.", and the final three-sentence passage beginning "Unfamiliarity is not refutation." Headings, record labels, and the closing seal retain their existing formatting.
 
 The latest supplied C16 display gives "Oct 16", "at", and "4:33 AM". The final C17 locator title gives "Oct 16, 2026, 4:33 AM". These are supplied publication displays. Revision times, timezones, and independent platform corroboration of these latest supplied states remain held open.
 
