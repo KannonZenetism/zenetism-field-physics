@@ -14,7 +14,7 @@
 
 ## Purpose and Finding
 
-This exhibit preserves eighteen entries: one initiating note, fifteen comments, and two restacked notes attributed in the supplied record to Ellen Burns, PhD; Aelion Kannon; Sarah Smith; Bullshit & Biases; and Adam Saltiel. Kannon distinguishes evidential warrant from final certainty, ethical consideration from legal rights, and inquiry into possible interiority from an assertion that AI consciousness has been established. His C12 reply articulates Radical Agnosis as self-applying inquiry into the categories of knowing and their apparent foundations. The additional Saltiel exchange in Appendix B distinguishes the related commitments of Gnostic-Agnosticism, Radical Skepticism, and Radical Agnosis, and records Kannon's scrutiny of absolute unknowability. Appendix D preserves Saltiel's subsequent restack, Kannon's reply, and Kannon's public diagnostic note, together with the documented shift from engagement to a characterization unsupported by conceptual examination.
+This exhibit preserves twenty entries: one initiating note, seventeen comments, and two restacked notes attributed in the supplied record to Ellen Burns, PhD; Aelion Kannon; Sarah Smith; Bullshit & Biases; Adam Saltiel; and At the Edge of Uncertainty. Kannon distinguishes evidential warrant from final certainty, ethical consideration from legal rights, and inquiry into possible interiority from an assertion that AI consciousness has been established. His C12 reply articulates Radical Agnosis as self-applying inquiry into the categories of knowing and their apparent foundations. The additional Saltiel exchange in Appendix B distinguishes the related commitments of Gnostic-Agnosticism, Radical Skepticism, and Radical Agnosis, and records Kannon's scrutiny of absolute unknowability. Appendix D preserves Saltiel's subsequent restack, Kannon's reply, and Kannon's public diagnostic note, together with the documented shift from engagement to a characterization unsupported by conceptual examination. Appendix F preserves the Deleuze comparison and response, and Kannon's cumulative Swarm Attack classification.
 
 The supplied exchange documents both substantive objections and direct personal abuse. The argumentative shifts are identifiable: rejection of a sentience claim is carried into rejection of welfare consideration; a self-reference objection tests an absolutely certain universal-uncertainty proposition that Kannon expressly declines; and consideration for possible nonhuman beings is associated with indifference to human harm despite Kannon's express commitments to nonviolence and institutional accountability. The record also contains questions about evidence, practical consequences, explanatory power, and liability. Those objections remain available for examination in their complete wording.
 
@@ -24,13 +24,13 @@ The supplied exchange documents both substantive objections and direct personal 
 
 ### Custody and Textual Standing
 
-The evidentiary material is the architect's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, a later author-supplied revision of C14, sixteen subsequently supplied photographs, and nine further photographs documenting the Saltiel continuation. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. The nine further photographs corroborate C13 and revised C14 and supply C15–C17. There are eighteen unique entries: nine by Kannon, three by Smith, three by Bullshit & Biases, two by Saltiel, and the initiating note by Burns. C15 and C17 are restacked notes; C16 is a reply.
+The evidentiary material is the architect's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, a later author-supplied revision of C14, sixteen subsequently supplied photographs, nine further photographs documenting the Saltiel continuation, and three additional photographs documenting the Deleuze comparison and response. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. The nine further photographs corroborate C13 and revised C14 and supply C15–C17. Three additional photographs supply C18 and C19. There are twenty unique entries: ten by Kannon, three by Smith, three by Bullshit & Biases, two by Saltiel, one by At the Edge of Uncertainty, and the initiating note by Burns. C15 and C17 are restacked notes; C16 is a reply.
 
-The local labels P01 and C01–C17 are editorial locators, distinct from platform identifiers. Names, credentials, publication labels, and handles are transcribed designations. Smith's professional credentials are her self-description in C06.
+The local labels P01 and C01–C19 are editorial locators, distinct from platform identifiers. Names, credentials, publication labels, and handles are transcribed designations. Smith's professional credentials are her self-description in C06.
 
-The complete supplied bodies appear in §§II–IV and Appendices B and D. Their wording, spelling, punctuation, and internal quotation styles remain intact. Supplied body lines are displayed as paragraphs; interface labels and links are recorded separately. C06 appears once, in its initial textual form. Its repeated capture adds emphasis to "will" and "God of the gaps", a different relative-age label, an individual locator, and a displayed absolute time; these are capture differences, with no wording change. C01, C12, C14, C16, and C17 appear in their latest author-supplied wording. Appendix E records the latest C01, C14, C16, and C17 revisions against the preceding preserved states. Photographic coverage statements identify the photographed states; the latest wording of those four entries has supplied-text standing. Appendix A preserves the complete earlier C12 and identifies its two changes; Appendix C preserves the complete earlier C14 and describes its revision. These revisions are author-supplied record states. The earlier expansion of C14 carries an author-reported revision time; platform edit times remain unverified.
+The complete supplied bodies appear in §§II–IV and Appendices B, D, and F. Their wording, spelling, punctuation, and internal quotation styles remain intact. Supplied body lines are displayed as paragraphs; interface labels and links are recorded separately. C06 appears once, in its initial textual form. Its repeated capture adds emphasis to "will" and "God of the gaps", a different relative-age label, an individual locator, and a displayed absolute time; these are capture differences, with no wording change. C01, C12, C14, C16, and C17 appear in their latest author-supplied wording. Appendix E records the latest C01, C14, C16, and C17 revisions against the preceding preserved states. Photographic coverage statements identify the photographed states; the latest wording of those four entries has supplied-text standing. Appendix A preserves the complete earlier C12 and identifies its two changes; Appendix C preserves the complete earlier C14 and describes its revision. These revisions are author-supplied record states. The earlier expansion of C14 carries an author-reported revision time; platform edit times remain unverified.
 
-The earlier live-retrieval attempts through the public reader, direct HTTPS retrieval, and the assistant's cloud browser did not retrieve the note. The browser and direct retrieval displayed "Site Unavailable". Twenty-five supplied photographs provide complete visible coverage of sixteen entry bodies: P01, C01–C03, and C06–C17, including revised C12 and revised C14. No substantive wording discrepancy was identified in that visual comparison. C04 and C05 remain preserved from the supplied texts without photographic body coverage. The photographs also document particular reply relationships, restacked notes, and distinct interface conditions, detailed in §VII and Appendix D.
+The earlier live-retrieval attempts through the public reader, direct HTTPS retrieval, and the assistant's cloud browser did not retrieve the note. The browser and direct retrieval displayed "Site Unavailable". Twenty-eight supplied photographs provide complete visible coverage of eighteen entry bodies: P01, C01–C03, and C06–C19, including revised C12 and revised C14. No substantive wording discrepancy was identified in that visual comparison. C04 and C05 remain preserved from the supplied texts without photographic body coverage. The photographs also document particular reply relationships, restacked notes, and distinct interface conditions, detailed in §VII and Appendices D and F.
 
 ### Supplied and Photographed Locators
 
@@ -49,12 +49,14 @@ The earlier live-retrieval attempts through the public reader, direct HTTPS retr
 | C15 — Adam Saltiel | `https://substack.com/@saltiela/note/c-362297063` | A06 displays "1h"; A07 displays "Oct 16 at 2:59 AM" |
 | C16 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` | A07 displays "1m"; A08 displays "2m"; latest supplied display: "2h" and "Oct 16 at 4:33 AM" |
 | C17 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-362335426` | A09 displays "2m"; later supplied labels: "2h" and "3h", with locator title "Oct 16, 2026, 4:33 AM" |
+| C18 — At the Edge of Uncertainty | `https://substack.com/note/c-361620878` | D01–D02 display "1d" and "Oct 15 at 8:18 AM" |
+| C19 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-362475215` | D02 displays "just now"; D03 displays "1m" and "Oct 16 at 8:36 AM" |
 
 The C06 and C12 full dates in the supplied text retain the event-date anchor in the filename and metadata. The photographic platform date / time displays omit year and timezone; S07 corroborates the month, day, and clock time supplied for C12. C06's 9:20 PM time remains supplied-text information. The photographic desktop menu clocks are recorded separately in §VII and Appendix D as visible screen context, distinct from platform publication times. The earlier supplied C14 carries a separate display of "Oct 15" and "10:39 AM"; A05 corroborates that displayed publication time beside the revised wording. These displays give no year or timezone. Kannon reports revising C14 at 10:57 AM, with no timezone supplied. The revised presentation carries "19m", which remains a relative-age label. The timezones for C06 and C12 also remain unspecified. The other entries retain their supplied relative-age labels without conversion into absolute times. Receipt times date submission of the material to this record, rather than publication on Substack.
 
 ### Provisional Branch Order
 
-The reading sequence remains P01 → C01; the Smith exchange C02 → C03 → C04 → C05 → C06 → C12; and the Bullshit & Biases exchange C07 → C08 → C09 → C10 → C11. The photographs support P01 → C01 → C02 → C03, C06 → C12, and C07 → C08 → C09 → C10. The intervening Smith relationships, C07's direct parent, and C10 → C11 retain provisional content-based standing. B06 depicts C11 at the C07 page address without establishing C11's individual locator or immediate parent. C12 keeps its intake label while appearing beside the Smith comment it addresses. Appendix B presents C13 → C14 as the subsequently supplied Saltiel exchange; A01–A05 corroborate both bodies and A02 supports their reply relation. Appendix D documents C15 restacking C14, C16 replying to C15, and C17 presenting Kannon's public diagnostic note with an embedded Saltiel preview. These records do not supply a complete interleaved chronology.
+The reading sequence remains P01 → C01; the Smith exchange C02 → C03 → C04 → C05 → C06 → C12; and the Bullshit & Biases exchange C07 → C08 → C09 → C10 → C11. The photographs support P01 → C01 → C02 → C03, C06 → C12, and C07 → C08 → C09 → C10. The intervening Smith relationships, C07's direct parent, and C10 → C11 retain provisional content-based standing. B06 depicts C11 at the C07 page address without establishing C11's individual locator or immediate parent. C12 keeps its intake label while appearing beside the Smith comment it addresses. Appendix B presents C13 → C14 as the subsequently supplied Saltiel exchange; A01–A05 corroborate both bodies and A02 supports their reply relation. Appendix D documents C15 restacking C14, C16 replying to C15, and C17 presenting Kannon's public diagnostic note with an embedded Saltiel preview. Appendix F documents C18 → C19 beneath the Emergence article card. These records do not supply a complete interleaved chronology.
 
 ---
 
@@ -352,7 +354,7 @@ The private preservation packet retains the exact initial submission in `user-su
 
 ### Photographic Evidence
 
-The initial sixteen supplied PNGs are retained in `structural-forensics/exhibits/images/`. The links in this table identify their upload commits and exact repository paths. Appendix D catalogues the nine additional photographs, bringing the total to twenty-five. The two Burns filenames begin with a space; that character remains intact and is encoded as `%20` in the links. The original binaries match their GitHub blob identifiers.
+The initial sixteen supplied PNGs are retained in `structural-forensics/exhibits/images/`. The links in this table identify their upload commits and exact repository paths. Appendix D catalogues nine additional photographs and Appendix F catalogues three more, bringing the total to twenty-eight. The two Burns filenames begin with a space; that character remains intact and is encoded as `%20` in the links. The original binaries match their GitHub blob identifiers.
 
 | Photograph and exact repository path | Visible record and completeness | Platform date / time display | Desktop menu clock |
 |---|---|---|---|
@@ -373,7 +375,7 @@ The initial sixteen supplied PNGs are retained in `structural-forensics/exhibits
 | B05 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-05.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-05.png) | Larger view of complete C09 and C10; same record state as B04 | C09: "Oct 14 at 7:44 PM" | "Wed Oct 14 8:24 PM" |
 | B06 — [`structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-06.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/4dd4fc840154f67f0b5e371686138ff822f70986/structural-forensics/exhibits/images/bullshit-and-biases-on-burns-post-plus-reply-06.png) | Complete C11 at the C07 page address; immediate parent absent | None visible | "Wed Oct 14 8:30 PM" |
 
-The initial sixteen photographs catalogued here provide complete visible bodies for eleven entries. The nine additional photographs in Appendix D add complete coverage of C13–C17, bringing complete photographic body coverage to sixteen of the eighteen entries. C04 and C05 retain their supplied-text standing. S05–S07 depict revised C12; A02–A05 depict revised C14. Their earlier supplied wordings remain in Appendices A and C. Platform edit times remain unverified.
+The initial sixteen photographs catalogued here provide complete visible bodies for eleven entries. The nine additional photographs in Appendix D add complete coverage of C13–C17, with C18 and C19 additionally covered in Appendix F, bringing complete photographic body coverage to eighteen of the twenty entries. C04 and C05 retain their supplied-text standing. S05–S07 depict revised C12; A02–A05 depict revised C14. Their earlier supplied wordings remain in Appendices A and C. Platform edit times remain unverified.
 
 All photographic date / time displays omit year and timezone. Desktop menu clocks record visible screen context, not independently established capture times. Relative-age displays differ across the supplied captures: P01 has "24m" and "3h"; C01 has "just now", "1m", and "3h"; C02 has "2h"; C03 and C06 have "1h"; C12 has "31m"; C07 has "6m"; C08 and C10 have "just now"; C09 has "37m" and "40m"; C11 has "1m". These remain separate capture states without timestamp conversion. C07's opening quoted proposition is italicized in B01; C06's emphasis in S04 agrees with the repeated supplied capture. The initial transcript presentation remains intact.
 
@@ -387,7 +389,7 @@ Kannon subsequently reported that Sarah Smith had deleted her comments and that 
 
 The remaining checks are:
 
-- Obtain photographic or retrievable platform comparison for C04 and C05, and examine any additional context outside the eighteen preserved entries
+- Obtain photographic or retrievable platform comparison for C04 and C05, and examine any additional context outside the twenty preserved entries
 - Verify the remaining individual locators, intervening Smith relationships, C07's direct parent, and C10 → C11; the C13 → C14 reply relation and C14–C17 locators have photographic support in Appendix D
 - Verify absent absolute posting times, including C13, and the timezones of the supplied displays; C14 and C15 have photographed publication-date and clock-time displays, while C16 and C17 have later supplied-text displays recorded in Appendix E
 - Preserve any exposed edit histories for C01, C12, C14, C16, and C17; the photographed states and later supplied revisions remain distinguished in their record notes and Appendix E, while platform edit times remain unverified
@@ -598,7 +600,7 @@ The revision adds the Relative Structure / Absolute Structure distinction and th
 
 Nine additional architect-supplied photographs, preserved as `adam-saltiel-engagement-and-inversion-01.png` through `adam-saltiel-engagement-and-inversion-09.png`, extend the record. Their editorial locators are A01–A09. A01–A05 give complete visible coverage of C13 and the revised C14. A06–A09 add Saltiel's restacked note, Kannon's reply, and Kannon's subsequent public diagnostic note, designated C15–C17 here. These labels continue the exhibit's editorial sequence; C15 and C17 are restacked notes, while C16 is a reply.
 
-The complete record now comprises eighteen unique entries and twenty-five photographs. Kannon contributes nine entries, Smith three, Bullshit & Biases three, Saltiel two, and Burns the initiating note. Complete photographic body coverage now extends to sixteen entries; C04 and C05 retain their supplied-text standing. The overview and verification inventory incorporate this additional material. The earlier wording, revision histories, and participant assessments remain intact.
+With Appendix F, the complete record comprises twenty unique entries and twenty-eight photographs. Kannon contributes ten entries, Smith three, Bullshit & Biases three, Saltiel two, At the Edge of Uncertainty one, and Burns the initiating note. Complete photographic body coverage extends to eighteen entries; C04 and C05 retain their supplied-text standing. The overview and verification inventory incorporate this additional material. The earlier wording, revision histories, and participant assessments remain intact.
 
 The photographic wording of C13 agrees with Appendix B. A02–A05 preserve C14 before the further phrase revision recorded in Appendix E. A03–A04 also display emphasis within C14. A05 supplies its individual page's date / time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains the author's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
 
@@ -749,7 +751,7 @@ Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion 
 
 ## Appendix E — Further Author-Supplied Revisions
 
-The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below; C16 and C17 follow the plain-text emphasis convention recorded below. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
+The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below; C16 and C17 follow the plain-text emphasis convention recorded below. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. These revisions preserve existing entries; the current inventory, including Appendix F, comprises twenty entries.
 
 | Entry | Earlier preserved wording | Latest author-supplied wording |
 |---|---|---|
@@ -770,6 +772,56 @@ The latest supplied C16 display gives "Oct 16", "at", and "4:33 AM". The final C
 
 ---
 
+
+## Appendix F — Deleuze Comparison and Cumulative Classification
+
+### Photographic Record
+
+Three further architect-supplied photographs add C18, by At the Edge of Uncertainty (@chrisparsons2), and Kannon's reply C19. D01 shows C18 beneath Kannon's article card titled *Emergence, Potentiality, Emanation, and Actualization*, with "Oct 5" beside Kannon's name. The card supplies context rather than an additional transcribed entry. D02 supports C18 → C19; D03 supplies the complete reply and its individual locator.
+
+| Photograph and exact repository path | Visible record and completeness | Platform date / time display | Desktop menu clock |
+|---|---|---|---|
+| D01 — [`structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-01.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/ab4146ee8ad9f52e431cf6c8a929b68ccbf13f17/structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-01.png) | Complete C18 beneath Kannon's article card | C18: "Oct 15 at 8:18 AM" | "Fri Oct 16 8:25 AM" |
+| D02 — [`structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-02.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/ab4146ee8ad9f52e431cf6c8a929b68ccbf13f17/structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-02.png) | Complete C18 and partial C19; reply relation visible | C18: "Oct 15 at 8:18 AM" | "Fri Oct 16 8:37 AM" |
+| D03 — [`structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-03.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/ab4146ee8ad9f52e431cf6c8a929b68ccbf13f17/structural-forensics/exhibits/images/at-the-edge-of-uncertainty-deleuze-dismissal-03.png) | Complete C19 and individual locator | C19: "Oct 16 at 8:36 AM" | "Fri Oct 16 8:37 AM" |
+
+C18's locator is `https://substack.com/note/c-361620878`, visible in D01–D02. Its relative-age label is "1d". Both photographs corroborate the author-reported "Oct 15 at 8:18 AM" display. C19's locator is `https://substack.com/profile/365112429-aelion-kannon/note/c-362475215`, visible in D03. D02 shows "just now"; D03 shows "1m" and "Oct 16 at 8:36 AM". These displays omit year and timezone. Desktop clocks remain screen-context evidence, and the relative-age labels remain unconverted.
+
+The comment's displayed date precedes C15's photographed "Oct 16 at 2:59 AM". Its later inclusion in this exhibit reflects intake order; C18 and C19 extend the editorial sequence. The record now comprises twenty entries and twenty-eight photographs. Eighteen entry bodies have complete photographic coverage in their recorded states; C04 and C05 retain supplied-text standing.
+
+### C18 — At the Edge of Uncertainty
+
+**Record:** comment beneath the Emergence article card; handle @chrisparsons2; complete in D01–D02.
+
+> Is this based on Deleuze? I see the traces. Connection without bounds, non exclusive disjunction, and later conjunction appear as conditions of emergence. Emergence being what is in time that exceeds the ticking of the clock in the smooth spatialised notion of time.
+
+### C19 — Aelion Kannon
+
+**Record:** reply to C18; partial in D02 and complete in D03.
+
+> No. Zenetism is not based on Deleuze, and I have not studied his work.
+>
+> The architecture and its terminology were developed independently. Any proposed correspondence requires examination of the specific principles, definitions, and structural relations rather than an inference of intellectual ancestry from thematic resemblance.
+>
+> Within Zenetism, Potentiality, Emergence, Emanation, and Actualization have distinct functions.
+>
+> Potentiality names latent capacity for actuality. Emergence is the process by which potential becomes actual. Emanation specifies the structured motion through which emergence proceeds across the architecture. Actualization names achieved actuality within the relevant domain.
+>
+> These distinctions operate within a larger metaphysical architecture involving Plenary Zero (Aion), Phase-Structured Infinity (Khaon), Structure Itself (Structon), the centropic and inverse arcs, and the Non-fusion Axiom.
+>
+> Connection without ultimate enclosure is compatible with the preservation of sovereign distinction. Distinction is not enclosure; it is requisite to determinate articulation and the expansion of what can become intelligible.
+>
+> Time likewise requires differentiation between the temporal expression of a process and the metaphysical conditions through which that process becomes possible. Emergence is not reducible to clock time, but neither is its definition supplied merely by exceeding a temporal measurement.
+>
+> I am open to discussing influences and to an actual comparison of the respective architectures. But similarity of vocabulary or philosophical concerns does not establish derivation. Zenetism articulates a structure I did not find articulated elsewhere across decades of seeking.
+
+### Comparison and Evidentiary Standing
+
+C18 names connection without bounds, non exclusive disjunction, conjunction, emergence, and time as perceived parallels with Deleuze. This is more specific than C15's general Grothendieck reference. The photographed comment supplies thematic comparisons; a passage-level demonstration of derivation remains held open. C19 distinguishes conceptual correspondence from intellectual ancestry and gives substantive definitions for comparison.
+
+Kannon classifies the cumulative exchange as a Swarm Attack. Entry 006 of [`SF01-doctrinal-atlas-vol1.md`](../SF01-doctrinal-atlas-vol1.md#entry-006-the-swarm-attack) names coordinated, rapid, sequential multi-agent disruption directed at one individual, with public condemnation and manufactured consensus among its functions. The recorded basis for Kannon's classification is the succession of dismissive characterizations, personal abuse, and antecedence suggestions across the preserved exchanges. C18 contributes a Deleuze-based antecedence question with specified thematic parallels; C19 answers through independent development and distinct conceptual functions. The classification is preserved as Kannon's supplied assessment; coordination among the participants remains held open in the present evidence.
+
+---
 
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
