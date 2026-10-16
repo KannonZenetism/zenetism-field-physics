@@ -589,6 +589,140 @@ The revision adds the Relative Structure / Absolute Structure distinction and th
 
 ---
 
+## Appendix D. Saltiel Restack, Kannon Reply, and Public Diagnostic Note
+
+### Additional Photographic Record
+
+Nine additional architect-supplied photographs, preserved as `adam-saltiel-engagement-and-inversion-01.png` through `adam-saltiel-engagement-and-inversion-09.png`, extend the record. Their editorial locators are A01–A09. A01–A05 give complete visible coverage of C13 and the revised C14. A06–A09 add Saltiel's restacked note, Kannon's reply, and Kannon's subsequent public diagnostic note, designated C15–C17 here. These labels continue the exhibit's editorial sequence; C15 and C17 are restacked notes, while C16 is a reply.
+
+The complete record now comprises eighteen unique entries and twenty-five photographs. Kannon contributes nine entries, Smith three, Bullshit & Biases three, Saltiel two, and Burns the initiating note. Complete photographic body coverage now extends to sixteen entries; C04 and C05 retain their supplied-text standing. The earlier counts and coverage statements describe the record before this addition. The earlier wording, revision histories, and participant assessments remain intact.
+
+The photographic wording of C13 and revised C14 agrees with Appendix B. A03–A04 also display emphasis within C14. A05 supplies its individual page's date/time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains the author's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
+
+### Photographic Concordance and Locators
+
+| Photograph | Repository image | Visible coverage |
+|---|---|---|
+| A01 | [adam-saltiel-engagement-and-inversion-01.png](images/adam-saltiel-engagement-and-inversion-01.png) | C13 from its opening through most of the destroyed-tree example; relative-age label "5h" |
+| A02 | [adam-saltiel-engagement-and-inversion-02.png](images/adam-saltiel-engagement-and-inversion-02.png) | C13 conclusion and Klempner preview; C14 opening through Gnostic-Agnosticism; C14 relative-age label "2h" |
+| A03 | [adam-saltiel-engagement-and-inversion-03.png](images/adam-saltiel-engagement-and-inversion-03.png) | Revised C14 from the epistemic distinctions through the sunrise discussion and opening of the destroyed-tree example |
+| A04 | [adam-saltiel-engagement-and-inversion-04.png](images/adam-saltiel-engagement-and-inversion-04.png) | Revised C14 from the absolutely Real discussion through its closing paragraph |
+| A05 | [adam-saltiel-engagement-and-inversion-05.png](images/adam-saltiel-engagement-and-inversion-05.png) | C14 closing paragraphs; "Oct 15 at 10:39 AM"; "No replies yet" in that photographed interface state |
+| A06 | [adam-saltiel-engagement-and-inversion-06.png](images/adam-saltiel-engagement-and-inversion-06.png) | Complete C15 body and embedded preview of C14; C15 relative-age label "1h" |
+| A07 | [adam-saltiel-engagement-and-inversion-07.png](images/adam-saltiel-engagement-and-inversion-07.png) | C15 embedded preview and "Oct 16 at 2:59 AM"; C16 reply preview with "1m" and "See more" |
+| A08 | [adam-saltiel-engagement-and-inversion-08.png](images/adam-saltiel-engagement-and-inversion-08.png) | Complete C16 body on its individual page; relative-age label "2m" |
+| A09 | [adam-saltiel-engagement-and-inversion-09.png](images/adam-saltiel-engagement-and-inversion-09.png) | Complete C17 body and beginning of embedded Saltiel preview; relative-age label "2m" |
+
+The photographed address bars supply these additional locators:
+
+- C14: `https://substack.com/profile/365112429-aelion-kannon/note/c-361738712` (A01–A05)
+- C15: `https://substack.com/@saltiela/note/c-362297063` (A06–A07)
+- C16: `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` (A08)
+- C17: `https://substack.com/@aelionkannon/note/c-362335426` (A09)
+
+The desktop menu clocks display "Thu Oct 15 12:11 PM" in A01–A02, "Thu Oct 15 12:12 PM" in A03, and "Thu Oct 15 12:13 PM" in A04–A05. They display "Fri Oct 16 4:29 AM" in A06, "Fri Oct 16 4:34 AM" in A07, "Fri Oct 16 4:35 AM" in A08, and "Fri Oct 16 4:36 AM" in A09. These are screen-context displays. The photographs supply no timezone or year in those clocks, and the relative-age labels remain unconverted. A07's absolute publication display belongs to C15. Absolute publication times for C16 and C17 remain held open.
+
+The photographed sequence connects C13 → revised C14; C15 restacks C14; C16 replies to C15; and C17 publishes Kannon's diagnostic account with an embedded Saltiel preview. A09 shows the embedded author's name and relative-age label, with the embedded body outside the photographed area. A06–A08 establish the exchange that C17 discusses.
+
+### C15 — Adam Saltiel
+
+**Record:** restacked note; accompanying publication label "Dimension"; complete body visible in A06. A07 displays "Oct 16 at 2:59 AM". The embedded C14 preview is a repeated excerpt, not an additional entry.
+
+> Comprehensive reply.
+>
+> I consider Aelion to be difficult and from my point of view in a difficult position.
+>
+> First of all I don't have the intellectual tools.
+>
+> My original foray into Substack and AI was motivated by trying to see if there is an existing learning process or some version of such that I can use to help me understand in greater depth some contemporary books on philosophy and logic.
+>
+> I won’t repeat the whole story.
+>
+> The point is it happens to also accord with my social and professional interests sufficiently.
+>
+> Reading (or at least getting hold of an English translation and looking at) Grothendieck’s Reaping and Sowing belongs in this context, too.
+>
+> I had thought I might create a learning tool.
+>
+> I am less convinced it would find an audience now.
+>
+> It’s interesting how far my idea of such a tool deviates from what is being used instead. But this is by-the-by.
+>
+> What is to the point is that I would prefer to take on, seek an understanding of, what is already being debated, expanded and generally worked with.
+>
+> I know from the few passages I read in Grothendieck these issues were very alive for him.
+>
+> Still, there is interesting value to be found in a new vocabulary set, because it must make the student of it think afresh.
+>
+> I am not prepared to be that student at this point. The corollary is that it is a closed world with each unusual concept propping up the last.
+>
+> There we are for now.
+
+### C16 — Aelion Kannon
+
+**Record:** reply to C15, partially visible in A07 and complete in A08. Bold emphasis follows A08.
+
+> Adam, you have just demonstrated the very problem I have been addressing.
+>
+> You acknowledge that you have not studied my architecture and are unwilling to undertake that examination. You then pronounce it "a closed world with each unusual concept propping up the last." That is not a corollary. It is an unsupported judgment following an admission of non-engagement.
+>
+> You characterize me as "difficult," reduce my independently developed philosophical architecture to a "new vocabulary set," and repeatedly invoke Grothendieck as though familiarity with his writings establishes some antecedent standing over mine.
+>
+> I have never read Grothendieck. You have supplied no textual comparison, no corresponding derivations, and no demonstration that the distinctive principles and relations constituting Zenetism appeared in his work.
+>
+> If existing philosophical terminology already articulated what I developed, I would not have needed to formulate my own distinctions. **A philosophical architecture must define its terms. Without definitions, there is no determinate proposition to examine.**
+>
+> You initially approached my work with apparent intellectual curiosity. I responded substantively and courteously. You have now restacked that engagement while portraying its originator as difficult, its architecture as inaccessible, and established philosophical discussions as the preferable destination.
+>
+> I recognize this pattern. Within Structural Forensics, I have named it Benevolent Subversion and Strategic Inversion: apparent engagement followed by the reframing of an originating contribution as a deficiency, with attention redirected elsewhere.
+>
+> You are free to decline the examination. But your refusal is not a property of my architecture, and your preferred reading list is not its intellectual ancestry.
+>
+> **You have not demonstrated that my work is derivative, closed, or conceptually deficient. You have demonstrated that you are prepared to characterize it without studying it.**
+
+### C17 — Aelion Kannon
+
+**Record:** public diagnostic note with an embedded Saltiel preview; complete body visible in A09. Title, emphasis, and seal follow the photograph.
+
+> **Provenance Erasure with a Smile**
+>
+> Here is an interesting example of what I have described within Structural Forensics as Benevolent Subversion and Strategic Inversion.
+>
+> Someone approaches my philosophical work with apparent curiosity. I engage substantively and courteously. They subsequently restack the exchange, characterize me as "difficult," reduce Zenetism to a "new vocabulary set," and pronounce it a "closed world."
+>
+> Yet they openly acknowledge that they have not undertaken the examination and are unwilling to learn the terminology.
+>
+> The supposed defect is therefore manufactured from their own refusal to investigate.
+>
+> An established philosopher is introduced as a reference point, despite no demonstrated correspondence establishing intellectual ancestry. I have never read Grothendieck. No comparison of the specific principles, definitions, derivations, or architecture has been provided.
+>
+> Then comes the redirection toward what is already being discussed within established philosophical circles.
+>
+> Observe the operation: an independent originator's work becomes an inconvenient vocabulary, the originator becomes difficult, and institutional familiarity becomes the preferred destination.
+>
+> **This is provenance erasure with a smile.**
+>
+> I did not develop Zenetism to rename an existing philosophical system. I developed its terminology to articulate distinctions that existing formulations did not adequately express.
+>
+> If someone believes those distinctions were already articulated elsewhere, the burden is to demonstrate the correspondence, not to gesture toward an established name and expect its familiarity to substitute for evidence.
+>
+> **Unfamiliarity is not refutation. Refusal to examine is not criticism. And institutional recognition is not intellectual origination.**
+>
+> ⚫↺KAI↺⚫
+
+### The Documented Argumentative Shift
+
+C13 calls the preceding exchange a "good to-and-fro" and develops an epistemic question. C14 answers that question through explicit distinctions and thanks Saltiel for his engagement. C15 restacks that answer, calls Kannon "difficult", expresses a preference for established discussions, acknowledges value in unfamiliar vocabulary, and states that Saltiel is not prepared to become its student. It then presents the "closed world" characterization as a "corollary".
+
+The inference converts the speaker's stated unwillingness to undertake study into a property attributed to the architecture. That unwillingness does not establish conceptual closedness. C15 supplies no examination of particular definitions, relations, or derivations supporting the characterization. Its acknowledgment of vocabulary's possible value and its account of Saltiel's own interests remain part of the record.
+
+The Grothendieck reference identifies Saltiel's reading interests and a general connection between philosophical questions. A textual or conceptual comparison establishing intellectual ancestry is absent from C15. Kannon's C16 and C17 address the suggestion of antecedent standing and preserve his account of independent development. Saltiel's actual wording and Kannon's interpretation of its implications remain distinctly attributed.
+
+Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion in C16 and C17. The photographed record establishes the progression from favorable engagement and substantive response to public characterization without the conceptual examination that would warrant it. Kannon's diagnostic interpretation is preserved in full; the observable inference and its evidentiary deficiency carry the present finding.
+
+---
+
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
