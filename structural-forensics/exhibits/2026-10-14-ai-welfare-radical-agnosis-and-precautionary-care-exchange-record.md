@@ -48,7 +48,7 @@ The earlier live-retrieval attempts through the public reader, direct HTTPS retr
 | C14 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-361738712` | "Oct 15" and "10:39 AM" accompany the earlier supplied wording; A05 displays "Oct 15 at 10:39 AM" beside the revised wording; supplied "19m"; A02 displays "2h"; 10:57 AM is the author-reported revision time |
 | C15 — Adam Saltiel | `https://substack.com/@saltiela/note/c-362297063` | A06 displays "1h"; A07 displays "Oct 16 at 2:59 AM" |
 | C16 — Aelion Kannon | `https://substack.com/profile/365112429-aelion-kannon/note/c-362335073` | A07 displays "1m"; A08 displays "2m"; latest supplied display: "2h" and "Oct 16 at 4:33 AM" |
-| C17 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-362335426` | A09 displays "2m"; latest supplied display: "2h", with locator title "Oct 16, 2026, 4:33 AM" |
+| C17 — Aelion Kannon | `https://substack.com/@aelionkannon/note/c-362335426` | A09 displays "2m"; later supplied labels: "2h" and "3h", with locator title "Oct 16, 2026, 4:33 AM" |
 
 The C06 and C12 full dates in the supplied text retain the event-date anchor in the filename and metadata. The photographic platform date / time displays omit year and timezone; S07 corroborates the month, day, and clock time supplied for C12. C06's 9:20 PM time remains supplied-text information. The photographic desktop menu clocks are recorded separately in §VII and Appendix D as visible screen context, distinct from platform publication times. The earlier supplied C14 carries a separate display of "Oct 15" and "10:39 AM"; A05 corroborates that displayed publication time beside the revised wording. These displays give no year or timezone. Kannon reports revising C14 at 10:57 AM, with no timezone supplied. The revised presentation carries "19m", which remains a relative-age label. The timezones for C06 and C12 also remain unspecified. The other entries retain their supplied relative-age labels without conversion into absolute times. Receipt times date submission of the material to this record, rather than publication on Substack.
 
@@ -693,7 +693,7 @@ Kannon first supplied the antecedence correction recorded below; all other wordi
 
 ### C17 — Aelion Kannon
 
-**Record:** public diagnostic note with an embedded Saltiel preview, presented in its latest author-supplied wording. A09 preserves the earlier complete body; Appendix E records the revision. Title, emphasis, and seal follow the photograph.
+**Record:** public diagnostic note with an embedded Saltiel preview, presented in its latest author-supplied expanded wording. A09 preserves the earlier complete body; Appendix E records the revisions. The title remains bold, and the emphasis and seal follow the latest supplied text. The added analysis is Kannon's diagnostic interpretation.
 
 > **Provenance Erasure with a Smile**
 >
@@ -710,6 +710,20 @@ Kannon first supplied the antecedence correction recorded below; all other wordi
 > Then comes the redirection toward what is already being discussed within established philosophical circles.
 >
 > Observe the operation: an independent originator's work becomes an inconvenient vocabulary, the originator becomes difficult, and institutional familiarity becomes the preferred destination.
+>
+> The inversions are revealing.
+>
+> **Clarity is recast as obfuscation. Boundarylessness is recast as enclosure. Novelty is recast as repetition of previous articulation.**
+>
+> Yet the obfuscation, enclosure, and repetition occur within the critic's approach.
+>
+> He refuses to examine the definitions, then treats their unfamiliarity as a defect. He remains confined to established conceptual categories, then declares an architecture extending beyond those categories a "closed world." He invokes an established philosopher without demonstrating correspondence between the respective principles, definitions, derivations, or structural relations.
+>
+> The result is an inversion of responsibility: the limitations of the receiving framework are projected onto the originating architecture.
+>
+> **He states, "First of all I don’t have the intellectual tools," yet characterizes the unfamiliar architecture as a closed world rather than examining its definitions and relations.**
+>
+> This is precisely the operation I identify as Strategic Inversion: the originating structure's defining characteristics are recast as deficiencies, while the deficiencies of the attempted interpretation are attributed to the structure being examined.
 >
 > **This is provenance erasure with a smile.**
 >
@@ -735,7 +749,7 @@ Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion 
 
 ## Appendix E — Further Author-Supplied Revisions
 
-The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below while retaining the existing emphasis. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
+The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below while retaining the existing emphasis. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. The entry count remains eighteen.
 
 | Entry | Earlier preserved wording | Latest author-supplied wording |
 |---|---|---|
@@ -745,6 +759,8 @@ The architect supplied complete revised texts for C01, C14, C16, and C17. Their 
 | C17 | from their own refusal to investigate | from their refusal to investigate |
 
 An intermediate supplied C17 read "not gesture toward an established name". The final supplied version restores "not to gesture toward an established name", matching A09 in that passage. The other wording remains unchanged.
+
+The further author-supplied C17 expansion inserts seven paragraphs after the paragraph ending "the preferred destination." and before "This is provenance erasure with a smile." The insertion begins "The inversions are revealing." and ends "the structure being examined." Removing that contiguous insertion recovers the preceding complete C17; applying the C17 phrase substitution above additionally recovers the photographed wording. The bold title and all previously preserved emphasis remain intact; the two added bold passages follow the supplied expansion. Its relative-age label is "3h", and its locator title retains "Oct 16, 2026, 4:33 AM". The additional paragraphs preserve Kannon's diagnostic interpretation as part of his quoted note.
 
 The latest supplied C16 display gives "Oct 16", "at", and "4:33 AM". The final C17 locator title gives "Oct 16, 2026, 4:33 AM". These are supplied publication displays. Revision times, timezones, and independent platform corroboration of these latest supplied states remain held open.
 
