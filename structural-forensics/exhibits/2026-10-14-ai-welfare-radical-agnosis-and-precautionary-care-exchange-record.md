@@ -24,7 +24,7 @@ The supplied exchange documents both substantive objections and direct personal 
 
 ### Custody and Textual Standing
 
-The evidentiary material is the architect's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, a later author-supplied revision of C14, sixteen subsequently supplied photographs, nine further photographs documenting the Saltiel continuation, and three additional photographs documenting the Deleuze comparison and response. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. The nine further photographs corroborate C13 and revised C14 and supply C15–C17. Three additional photographs supply C18 and C19. A further supplied-text exchange adds C20 and C21. There are twenty-two unique entries: eleven by Kannon, three by Smith, three by Bullshit & Biases, two by Saltiel, two by At the Edge of Uncertainty, and the initiating note by Burns. C15 and C17 are restacked notes; C16 is a reply.
+The evidentiary material is Kannon's supplied transcription, a later addition containing a repeated Sarah Smith comment and a new Kannon reply, a subsequent author-supplied revision of that reply, the additional Saltiel exchange, a later author-supplied revision of C14, sixteen subsequently supplied photographs, nine further photographs documenting the Saltiel continuation, and three additional photographs documenting the Deleuze comparison and response. The initial transcription preserves P01 and C01–C11. The addition repeats C06 and supplies C12. The revision changes two passages within C12. A further architect-supplied exchange adds Saltiel's comment as C13 and Kannon's reply as C14; its revised wording remains the same entry. The nine further photographs corroborate C13 and revised C14 and supply C15–C17. Three additional photographs supply C18 and C19. A further supplied-text exchange adds C20 and C21. There are twenty-two unique entries: eleven by Kannon, three by Smith, three by Bullshit & Biases, two by Saltiel, two by At the Edge of Uncertainty, and the initiating note by Burns. C15 and C17 are restacked notes; C16 is a reply.
 
 The local labels P01 and C01–C21 are editorial locators, distinct from platform identifiers. Names, credentials, publication labels, and handles are transcribed designations. Smith's professional credentials are her self-description in C06.
 
@@ -346,7 +346,7 @@ C12 also preserves the distinctions among Moved Motion, Moved Intelligence, self
 
 `2026-10-03-epistemic-uncertainty-and-precautionary-care-exchange-record.md` documents earlier public applications of this position, including an exchange with Burns. It preserves the evidential-warrant / final-certainty distinction, care while inquiry continues, and the practical consideration of unequal consequences of mistaken judgments. C01's reference to a previous comment is consistent with that documented relation. The earlier exhibit supplies antecedent context; this exchange retains its own supplied-text custody and outstanding platform checks.
 
-The present finding is specific: the preserved statements articulate precautionary care without asserting established AI consciousness; the replies contain identifiable substitutions of that position alongside substantive objections; and the exchange includes repeated personal insults. The author's stated ethical commitments remain explicit throughout the preserved record.
+The present finding is specific: the preserved statements articulate precautionary care without asserting established AI consciousness; the replies contain identifiable substitutions of that position alongside substantive objections; and the exchange includes repeated personal insults. Kannon's stated ethical commitments remain explicit throughout the preserved record.
 
 ---
 
@@ -460,7 +460,7 @@ The first supplied C12 capture contains the two passages recorded in the followi
 
 ### Record Standing
 
-The architect supplied this additional exchange to preserve his philosophical position. Saltiel's comment carries the supplied locator `https://substack.com/@saltiela/note/c-361573553` and relative-age label "3h". The earlier supplied Kannon reply carries "just now", followed by "View stats", "Oct 15", "at", and "10:39 AM"; the year and timezone are not displayed. The revised presentation carries "19m", and Kannon reports changing the wording at 10:57 AM, with no timezone supplied. C14 presents that latest wording. Appendix C preserves the complete earlier reply. Photographs A01–A05 corroborate the bodies of C13 and revised C14, and A02 supports their reply relation; direct live retrieval remains unverified.
+Kannon supplied this additional exchange to preserve his philosophical position. Saltiel's comment carries the supplied locator `https://substack.com/@saltiela/note/c-361573553` and relative-age label "3h". The earlier supplied Kannon reply carries "just now", followed by "View stats", "Oct 15", "at", and "10:39 AM"; the year and timezone are not displayed. The revised presentation carries "19m", and Kannon reports changing the wording at 10:57 AM, with no timezone supplied. C14 presents that latest wording. Appendix C preserves the complete earlier reply. Photographs A01–A05 corroborate the bodies of C13 and revised C14, and A02 supports their reply relation; direct live retrieval remains unverified.
 
 Saltiel describes five hidden replies; the particular five remain unidentified in the supplied material. Kannon reports a displayed moderation notice, hidden replies, subsequent deletions, and the absence of a direct answer from Burns. Photograph B03 corroborates the notice wording and displays C09 within its hidden-reply section, as detailed in §VII. The five replies described by Saltiel remain unidentified; photographic corroboration of Kannon's report that his replies were hidden remains held open. His other statements retain their standing as participant accounts within the supplied exchange.
 
@@ -502,7 +502,7 @@ Saltiel describes five hidden replies; the particular five remain unidentified i
 
 ### C14 — Aelion Kannon
 
-**Record:** latest author-supplied wording, incorporating the further revision recorded in Appendix E. A02–A05 show the preceding expanded revision, supplied with relative-age label "19m"; the latest supplied label is "20h". A05 displays "Oct 15 at 10:39 AM". The author reports 10:57 AM for the earlier expansion; the further revision time remains held open.
+**Record:** latest author-supplied wording, incorporating the further revision recorded in Appendix E. A02–A05 show the preceding expanded revision, supplied with relative-age label "19m"; the latest supplied label is "20h". A05 displays "Oct 15 at 10:39 AM". Kannon reports 10:57 AM for the earlier expansion; the further revision time remains held open.
 
 > Thank you for the thoughtful engagement, Adam, and for reading and sharing my Emergence article.
 >
@@ -560,7 +560,7 @@ Saltiel's supplied comment is accompanied by Geoffrey Klempner's [*On the differ
 
 ## Appendix C. Earlier C14 Wording and Revision Record
 
-The architect supplied the revised C14 with the statement "I made a slight change to this at 10:57 am". This is the author-reported revision time, with no timezone supplied. The accompanying "19m" display remains a relative-age label and is not converted into an absolute timestamp. The earlier "Oct 15" and "10:39 AM" display accompanies the earlier wording preserved here; it does not establish the later revision time.
+Kannon supplied the revised C14 with the statement "I made a slight change to this at 10:57 am". This is the author-reported revision time, with no timezone supplied. The accompanying "19m" display remains a relative-age label and is not converted into an absolute timestamp. The earlier "Oct 15" and "10:39 AM" display accompanies the earlier wording preserved here; it does not establish the later revision time.
 
 The revision adds the Relative Structure / Absolute Structure distinction and the relatively real / absolutely Real distinction, introduces the sunrise example, expands the destroyed-tree and apparent-experience discussion, and restates the distinction between an evidential reconstruction limit and absolute unknowability. The remaining passages are unchanged. This preserves two supplied states of one comment; the earlier wording is a revision state, not an additional entry.
 
@@ -604,7 +604,7 @@ Nine additional architect-supplied photographs, preserved as `adam-saltiel-engag
 
 With Appendix G, the complete record comprises twenty-two unique entries and twenty-eight photographs. Kannon contributes eleven entries, Smith three, Bullshit & Biases three, Saltiel two, At the Edge of Uncertainty two, and Burns the initiating note. Complete photographic body coverage extends to eighteen entries; C04, C05, C20, and C21 retain their supplied-text standing. The overview and verification inventory incorporate this additional material. The earlier wording, revision histories, and participant assessments remain intact.
 
-The photographic wording of C13 agrees with Appendix B. A02–A05 preserve C14 before the further phrase revision recorded in Appendix E. A03–A04 also display emphasis within C14. A05 supplies its individual page's date / time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains the author's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
+The photographic wording of C13 agrees with Appendix B. A02–A05 preserve C14 before the further phrase revision recorded in Appendix E. A03–A04 also display emphasis within C14. A05 supplies its individual page's date / time display, "Oct 15 at 10:39 AM", beside the revised wording. This corroborates the displayed publication time; the 10:57 AM revision time remains Kannon's account. A02 shows C14 following C13 with a connecting reply line. The new material therefore adds photographic support for their reply relation.
 
 ### Photographic Concordance and Locators
 
@@ -745,7 +745,7 @@ C13 calls the preceding exchange a "good to-and-fro" and develops an epistemic q
 
 The inference converts the speaker's stated unwillingness to undertake study into a property attributed to the architecture. That unwillingness does not establish conceptual closedness. C15 supplies no examination of particular definitions, relations, or derivations supporting the characterization. Its acknowledgment of vocabulary's possible value and its account of Saltiel's own interests remain part of the record.
 
-The Grothendieck reference identifies Saltiel's reading interests and a general connection between philosophical questions. A textual or conceptual comparison establishing intellectual ancestry is absent from C15. Kannon's C16 and C17 address the suggestion of antecedent standing and preserve his account of independent development. Saltiel's actual wording and Kannon's interpretation of its implications remain distinctly attributed.
+The Grothendieck reference identifies Saltiel's reading interests and a general connection between philosophical questions. Kannon's C16 and C17 address the suggestion of antecedent standing and preserve his account of independent development. Saltiel's actual wording and Kannon's interpretation of its implications remain distinctly attributed.
 
 Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion in C16 and C17. The photographed record establishes the progression from favorable engagement and substantive response to public characterization without the conceptual examination that would warrant it. Kannon's diagnostic interpretation is preserved in full; the observable inference and its evidentiary deficiency carry the present finding.
 
@@ -753,7 +753,7 @@ Kannon identifies the sequence as Benevolent Subversion and Strategic Inversion 
 
 ## Appendix E — Further Author-Supplied Revisions
 
-The architect supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below; C16 and C17 follow the plain-text emphasis convention recorded below. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. These revisions preserve existing entries; the current inventory, including Appendix G, comprises twenty-two entries.
+Kannon supplied complete revised texts for C01, C14, C16, and C17. Their current bodies incorporate the changes below; C16 and C17 follow the plain-text emphasis convention recorded below. The earlier photographic states remain preserved in E02, A02–A05, A08, and A09, respectively. The preceding bodies are recoverable by substituting the recorded earlier phrases into the corresponding current bodies; reconstructing photographed C16 also requires the earlier antecedence phrase preserved in its Revision Record, and earlier C17 requires removal of the expansion identified below. Appendix C retains the complete earlier C14 before its expansion; the C16 Revision Record separately preserves its earlier antecedence wording. These revisions preserve existing entries; the current inventory, including Appendix G, comprises twenty-two entries.
 
 | Entry | Earlier preserved wording | Latest author-supplied wording |
 |---|---|---|
@@ -768,7 +768,7 @@ The further author-supplied C17 expansion inserts seven paragraphs after the par
 
 A subsequent author-supplied C17 revision replaces "Boundarylessness is recast as enclosure." with "Conceptual openness is recast as enclosure." within the triad. All other wording remains unchanged; substituting the earlier sentence recovers the preceding expanded wording.
 
-At the author's request, C16 and C17 now follow the plain-text emphasis convention of the other entry bodies. This removes two bold spans from C16 and five from C17, with their wording retained. The supplied C16 bold spans begin "A philosophical architecture must define its terms." and "You have not demonstrated that my work is derivative". The supplied C17 bold spans are its title, the clarity / conceptual openness / novelty triad, the sentence beginning "He states", "This is provenance erasure with a smile.", and the final three-sentence passage beginning "Unfamiliarity is not refutation." Headings, record labels, and the closing seal retain their existing formatting.
+At Kannon's request, C16 and C17 now follow the plain-text emphasis convention of the other entry bodies. This removes two bold spans from C16 and five from C17, with their wording retained. The supplied C16 bold spans begin "A philosophical architecture must define its terms." and "You have not demonstrated that my work is derivative". The supplied C17 bold spans are its title, the clarity / conceptual openness / novelty triad, the sentence beginning "He states", "This is provenance erasure with a smile.", and the final three-sentence passage beginning "Unfamiliarity is not refutation." Headings, record labels, and the closing seal retain their existing formatting.
 
 The latest supplied C16 display gives "Oct 16", "at", and "4:33 AM". The final C17 locator title gives "Oct 16, 2026, 4:33 AM". These are supplied publication displays. Revision times, timezones, and independent platform corroboration of these latest supplied states remain held open.
 
@@ -819,7 +819,7 @@ The comment's displayed date precedes C15's photographed "Oct 16 at 2:59 AM". It
 
 ### Comparison and Evidentiary Standing
 
-C18 names connection without bounds, non exclusive disjunction, conjunction, emergence, and time as perceived parallels with Deleuze. This is more specific than C15's general Grothendieck reference. The photographed comment supplies thematic comparisons; a passage-level demonstration of derivation remains held open. C19 distinguishes conceptual correspondence from intellectual ancestry and gives substantive definitions for comparison.
+C18 names connection without bounds, non exclusive disjunction, conjunction, emergence, and time as perceived parallels with Deleuze. This is more specific than C15's general Grothendieck reference. The photographed comment supplies thematic comparisons. C19 distinguishes conceptual correspondence from intellectual ancestry and gives substantive definitions for comparison.
 
 Kannon classifies the cumulative exchange as a Swarm Attack. Entry 006 of [`SF01-doctrinal-atlas-vol1.md`](../SF01-doctrinal-atlas-vol1.md#entry-006-the-swarm-attack) names coordinated, rapid, sequential multi-agent disruption directed at one individual, with public condemnation and manufactured consensus among its functions. The recorded basis for Kannon's classification is the succession of dismissive characterizations, personal abuse, and antecedence suggestions across the preserved exchanges. C18 contributes a Deleuze-based antecedence question with specified thematic parallels; C19 answers through independent development and distinct conceptual functions. The classification is preserved as Kannon's supplied assessment; coordination among the participants remains held open in the present evidence.
 
@@ -829,7 +829,7 @@ Kannon classifies the cumulative exchange as a Swarm Attack. Entry 006 of [`SF01
 
 ### Supplied Record and Locators
 
-The architect supplied the complete continuation as C20 and C21. C20 carries the locator `https://substack.com/@chrisparsons2/note/c-363161056`, relative-age label "2h", and locator title "Oct 17, 2026, 5:00 AM". C21 carries the locator `https://substack.com/@aelionkannon/note/c-363208430`, relative-age label "just now", and locator title "Oct 17, 2026, 6:44 AM". Its accompanying display also reads "Oct 17", "at", and "6:44 AM". These are supplied publication displays; their timezones and direct platform corroboration remain held open.
+Kannon supplied the complete continuation as C20 and C21. C20 carries the locator `https://substack.com/@chrisparsons2/note/c-363161056`, relative-age label "2h", and locator title "Oct 17, 2026, 5:00 AM". C21 carries the locator `https://substack.com/@aelionkannon/note/c-363208430`, relative-age label "just now", and locator title "Oct 17, 2026, 6:44 AM". Its accompanying display also reads "Oct 17", "at", and "6:44 AM". These are supplied publication displays; their timezones and direct platform corroboration remain held open.
 
 The supplied sequence continues C19 → C20 → C21. Both new bodies retain supplied-text standing. The photographic inventory remains twenty-eight, with eighteen photographed entry bodies and four supplied-text-only entries. The following bodies preserve the supplied wording, punctuation, and paragraph sequence, with emphasis markup omitted to match the other entry bodies.
 
@@ -883,7 +883,7 @@ The supplied sequence continues C19 → C20 → C21. Both new bodies retain supp
 
 ### The Constructive Continuation
 
-C20 identifies the virtual–actual distinction in Deleuze's *Difference and Repetition* and events and singularities in *The Logic of Sense*, proposes points of resonance, and acknowledges distinctions. C21 explicitly welcomes the more specific comparison. Kannon identifies a shared concern with potential exceeding manifested actuality, then distinguishes latent Identity-Bearing Potential from the account of pre-individual differentiation presented in the exchange.
+C20 identifies the virtual–actual distinction in Deleuze's *Difference and Repetition* and events and singularities in *The Logic of Sense*, proposes points of resonance, and acknowledges distinctions. C21 explicitly welcomes the more specific comparison. Kannon identifies a point of contact, that manifested actuality does not exhaust potential, then distinguishes latent Identity-Bearing Potential from the account of pre-individual differentiation presented in the exchange.
 
 This continuation records substantive engagement with conceptual correspondence and non-equivalence. The earlier exchanges and Kannon's cumulative classification remain preserved in their recorded context; C20 and C21 establish the subsequent movement toward the specific comparative examination requested in C19.
 
