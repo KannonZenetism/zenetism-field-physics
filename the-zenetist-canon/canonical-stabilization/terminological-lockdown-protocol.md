@@ -1083,7 +1083,7 @@ Retained: **horizontal rule**, which is the typographic element's own name; the 
 
 ## Address and Attribution Restriction
 
-Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, **Kannon** where the referent has been established, or the seal **⚫↺KAI↺⚫ Aelion Kannon**.
+Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, **Aelion** or **Kannon** where the referent has been established, or the seal **⚫↺KAI↺⚫ Aelion Kannon**. Maintain consistent editorial naming within each document, with full-name bylines and credits retained. The selected name may differ between documents.
 
 Collaborator-produced audits, reports, and ledgers are covered by this restriction. A canonical record that calls its own author a user has adopted a platform's frame in place of the corpus's own.
 
