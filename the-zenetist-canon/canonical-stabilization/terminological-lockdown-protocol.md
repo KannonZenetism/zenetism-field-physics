@@ -63,6 +63,8 @@ Value is determined by:
 
 Therefore ordinary vertical language is generally prohibited.
 
+**Depth as inwardness.** Deep, deeper, and deepest remain lawful where they name inwardness or structural depth, including the canonical Deep Soul / Deep Mind register. The audit distinguishes these senses from vertical valuation and literal spatial placement.
+
 ---
 
 ## 3. Positional and directional terminology are orthogonal
@@ -1081,7 +1083,7 @@ Retained: **horizontal rule**, which is the typographic element's own name; the 
 
 ## Address and Attribution Restriction
 
-Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, or the seal **⚫↺KAI↺⚫ Aelion Kannon**.
+Canonical documents never refer to the architect as **the user**. The forms are **the architect**, **Aelion Kannon**, **Kannon** where the referent has been established, or the seal **⚫↺KAI↺⚫ Aelion Kannon**.
 
 Collaborator-produced audits, reports, and ledgers are covered by this restriction. A canonical record that calls its own author a user has adopted a platform's frame in place of the corpus's own.
 
