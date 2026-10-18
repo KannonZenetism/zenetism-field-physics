@@ -1,11 +1,15 @@
 # Capitalist Profanation
 
-**Capitalist Profanation** names the reduction of lived experience, creative work, and intellectual labor to their commercial convertibility, where recognition of their significance becomes conditional on their packaging as a marketable product.
+**Capitalist Profanation** names the reduction of lived experience, creative work, and intellectual labor to marketability, profitability, and commercial packaging. Recognition of an articulation's significance becomes conditional on its economic convertibility.
 
-The operation substitutes commercial presentation and saleability for substantive engagement with what has been experienced, originated, or understood. The originating contribution is treated as secondary to the product through which it becomes commercially recognizable.
+Within this operation, complexity, precision, depth, and novelty are recast as obstacles to saleability, while architectural distinctness is treated as inaccessibility. Commercial expectations replace substantive engagement with what has been experienced, originated, or understood.
 
-The profanation consists in treating worth and significance as though they were conferred by market recognition. The contribution and its provenance retain their standing; the commercial assessment narrows what it acknowledges.
+Clarification for understanding preserves precision, conceptual distinction, and the relations through which an articulation remains intelligible. Simplification directed toward marketability makes commercial reception the criterion of presentation. Where that presentation abandons necessary distinctions, it misdirects understanding.
+
+The profanation also concerns discontinuity with the original transmission. A derivative articulation that abandons the originating distinctions and relations fractures itself away from coherent relation with that transmission. The resulting degradation belongs to the derivative articulation; the original articulation and its provenance remain intact.
+
+Zenetism rejects economic incentive as the basis of intellectual transmission. Its exploitative relation directs engagement toward commercial gain. Sovereign Mutualism and the Metaphysical Commons with Sovereign Custodianship articulate a centropy-forward relation through mutual recognition, shared understanding, and fidelity to originating coherence.
 
 The corrective principle is:
 
-> **Economic convertibility is not structural significance.**
+> **Economic convertibility is not structural significance. Clarification preserves precision and origin fidelity.**
