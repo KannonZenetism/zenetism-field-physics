@@ -1,4 +1,4 @@
-# Canonical Compositional Stabilization Protocol  
+﻿# Canonical Compositional Stabilization Protocol  
 ## Prose Formatting Reference
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
