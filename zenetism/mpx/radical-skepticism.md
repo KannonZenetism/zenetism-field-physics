@@ -83,7 +83,7 @@ The Zenetist concept of **Zenon (🕳️)** is structurally associated with this
 
 It concerns the conditionality of knowledge-claims, perception, interpretation, and frame-construction.
 
-**Zenon** is a metaphysical condition.
+**Zenon** is not an epistemic posture; the name is said from the observer's side of the discernibility limit.
 
 It names the Unknown Principle: the trans-structural ground beyond emanation, causality, awareness, polarity, and attribution.
 
