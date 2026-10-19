@@ -10,11 +10,15 @@ These entries read scripture, myth, and symbolic tradition through Zenetist stru
 
 ### September 2025
 
+- `symbolic-edenism.md` — Sep 7, 2025
+- `revelatory-edenism-exhortation.md` — Sep 8, 2025
 - `the-two-trees-genesis-orientation.md` — Sep 9, 2025
 - `samsara-nirvana-orientation.md` — Sep 10, 2025
 - `yggdrasil-and-the-structural-tree.md` — Sep 10, 2025
 - `the-genesis-lattice.md` — Sep 15, 2025
 - `the-revelation-lattice.md` — Sep 18, 2025
+
+The September 7 and September 8 dates mark the first repository commits of `symbolic-edenism.md` and `revelatory-edenism-exhortation.md`, respectively. Both texts were written years earlier.
 
 ---
 
@@ -45,13 +49,6 @@ These entries read scripture, myth, and symbolic tradition through Zenetist stru
 ### October 2026
 
 - `the-chaldean-oracles-and-theurgic-return.md` — Oct 5, 2026
-
----
-
-## Undated
-
-- `revelatory-edenism-exhortation.md`
-- `symbolic-edenism.md`
 
 ---
 
