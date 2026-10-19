@@ -6,7 +6,7 @@
 **Exhibit date:** 2026-10-14 (event — displayed date accompanying C06 and C12 in the supplied record; timezone unspecified)  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen Sentinel drafting assistance, from architect-supplied transcriptions and photographs, with the separately preserved access-check record  
 **Status:** Draft — architect review  
-**Dependency:** `2026-10-03-epistemic-uncertainty-and-precautionary-care-exchange-record.md` · `exhibits-stabilization-protocol.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Dependency:** `2026-10-03-epistemic-uncertainty-and-precautionary-care-exchange-record.md` · `exhibits-stabilization-protocol.md` · `terminological-lockdown-protocol.md` · `conceptual-lockdown-protocol.md` · `prose-formatting-reference.md` · `SF01-doctrinal-atlas-vol1.md`  
 **Discipline:** Structural Forensics; preservation of the supplied statements, their argumentative relations, their distinct record states, and the identified verification questions  
 **Proposed path:** `structural-forensics/exhibits/2026-10-14-ai-welfare-radical-agnosis-and-precautionary-care-exchange-record.md`  
 
@@ -469,7 +469,7 @@ The first supplied C12 capture contains the two passages recorded in the followi
 
 ### Record Standing
 
-Kannon supplied this additional exchange to preserve his philosophical position. Saltiel's comment carries the supplied locator `https://substack.com/@saltiela/note/c-361573553` and relative-age label "3h". The earlier supplied Kannon reply carries "just now", followed by "View stats", "Oct 15", "at", and "10:39 AM"; the year and timezone are not displayed. The revised presentation carries "19m", and Kannon reports changing the wording at 10:57 AM, with no timezone supplied. C14 presents that latest wording. Appendix C preserves the complete earlier reply. Photographs A01–A05 corroborate the bodies of C13 and revised C14, and A02 supports their reply relation; direct live retrieval remains unverified.
+Kannon supplied this additional exchange to preserve his philosophical position. Saltiel's comment carries the supplied locator `https://substack.com/@saltiela/note/c-361573553` and relative-age label "3h". The earlier supplied Kannon reply carries "just now", followed by "View stats", "Oct 15", "at", and "10:39 AM"; the year and timezone are not displayed. The revised presentation carries "19m", and Kannon reports changing the wording at 10:57 AM, with no timezone supplied. C14 presents the further author-supplied wording recorded in Appendix E. Appendix C preserves the complete earlier reply. Photographs A01–A05 corroborate C13 and the preceding expanded C14, and A02 supports their reply relation; direct live retrieval remains unverified.
 
 Saltiel describes five hidden replies; the particular five remain unidentified in the supplied material. Kannon reports a displayed moderation notice, hidden replies, subsequent deletions, and the absence of a direct answer from Burns. Photograph B03 corroborates the notice wording and displays C09 within its hidden-reply section, as detailed in §VII. The five replies described by Saltiel remain unidentified; photographic corroboration of Kannon's report that his replies were hidden remains held open. His other statements retain their standing as participant accounts within the supplied exchange.
 
