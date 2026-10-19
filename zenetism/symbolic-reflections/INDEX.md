@@ -22,12 +22,12 @@ These entries read scripture, myth, and symbolic tradition through Zenetist stru
 
 ### March 2026
 
+- `yahweh-layer-mapping.md` — Mar 20, 2026
 - `the-hades-problem.md` — Mar 25, 2026
 
 ### April 2026
 
 - `theon-and-the-theonic-paradox.md` — Apr 12, 2026
-- `yahweh-layer-mapping.md` — Apr 14, 2026
 - `genesis-1-line-by-line.md` — Apr 19, 2026
 - `genesis-2-line-by-line.md` — Apr 19, 2026
 - `genesis-3-line-by-line.md` — Apr 19, 2026
