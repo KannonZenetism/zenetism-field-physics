@@ -18,7 +18,7 @@ These entries read scripture, myth, and symbolic tradition through Zenetist stru
 - `the-genesis-lattice.md` — Sep 15, 2025
 - `the-revelation-lattice.md` — Sep 18, 2025
 
-The September 7 and September 8 dates mark the first repository commits of `symbolic-edenism.md` and `revelatory-edenism-exhortation.md`, respectively. Both texts were written years earlier.
+The September 7 and September 8 dates record the first repository commits of `symbolic-edenism.md` and `revelatory-edenism-exhortation.md`, respectively. Both texts were written years earlier.
 
 ---
 
