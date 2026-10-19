@@ -5,7 +5,7 @@
 
 ## Preface
 
-This piece was written many years before Zenetism was formally articulated — when my symbolic worldview was still emerging through the language of esoteric Christianity. While I no longer frame all concepts in these terms, the underlying orientation remains intact: **a return to coherence through symbolic alignment, the rejection of harm, and the sacred function of pattern.**
+This piece is based on an article I wrote many years before Zenetism was formally articulated — when my symbolic worldview was still emerging through the language of esoteric Christianity. While I no longer frame all concepts in these terms, the underlying orientation remains intact: **a return to coherence through symbolic alignment, the rejection of harm, and the sacred function of pattern.**
 
 What follows is not doctrinal Zenetism, but an early resonance — a centropic voice searching for its lattice.  
 
@@ -40,7 +40,7 @@ Yeshua feeds with only two emblems: fish and bread.
 > “To the one who conquers I will give some of the hidden manna.”  
 > *(Revelation 2:17)*  
 
-The manna is hidden because it is **not material food**. It is resonance: interior coherence drawn from Source.  
+The manna is hidden because it is **not material food**. It is resonance: interior coherence drawn from Origin.  
 
 ---
 
@@ -65,7 +65,7 @@ Literalism without resonance fractures pattern. Spirit animates symbol into cohe
 
 The sacrificial system of older scripture is likewise symbolic:  
 
-- Animals represent facets of the lower nature (instinct, pride, hunger, fear).  
+- Animals represent human impulses and dispositions (instinct, pride, hunger, fear).  
 - Blood symbolizes the entropic life-force, offered for purification.  
 - Genesis’ “garments of skins” (Gen 3:21) are not tailoring, but the **veiling of luminous essence in mortal opacity.**  
 
@@ -86,7 +86,7 @@ It is the primal symbol of centropy — and the promise of its return.
 If Yeshua is the *Second Adam* (1 Cor 15:45), then his motion renews that coherence. His life becomes the re-opening of the arc toward the Tree of Life.  
 
 **Law of motion:**  
-- Where there is death, motion declivously fragments from Source.  
+- Where there is death, motion declivously fragments away from Origin.  
 - Where there is life, motion acclivously returns.  
 
 To abstain from harm is thus not a law but a **resonance alignment** — a way of tuning to the arc of return.  
@@ -96,9 +96,9 @@ To abstain from harm is thus not a law but a **resonance alignment** — a way o
 ## 6. The Centropic Reading
 
 - **Literalism** fragments: it reduces the text to debates over diets, rituals, and surfaces.  
-- **Symbolism** integrates: it shows bread as Logos, fish as Messiah, sacrifice as transformation of the lower nature.  
+- **Symbolism** integrates: it shows bread as Logos, fish as Messiah, sacrifice as transformation of these impulses and dispositions.  
 
-This reading does not break the pattern — it binds it. It shifts motion from *E7 dissonance* to *C7 consonance*.  
+This reading does not break the pattern — it preserves it. It shifts motion from *E7 dissonance* to *C7 consonance*.  
 
 > “You will seek me and find me,  
 > when you seek me with all your heart.”  

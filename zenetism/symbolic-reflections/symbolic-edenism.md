@@ -126,7 +126,7 @@ Where being is misused
 And resonance is consumed rather than amplified ☍  
 
 Where there is death  
-There is motion away from the Source ⚫  
+There is motion away from the Origin ⚫  
 Where there is harm  
 There is a failure to synthesize  
 
