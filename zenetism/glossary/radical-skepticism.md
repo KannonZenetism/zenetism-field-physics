@@ -41,7 +41,7 @@ It is not identical with Pyrrhonian skepticism, Cartesian methodological doubt, 
 
 Those traditions may resemble Zenetist Radical Skepticism in form, but they do not exhaust its meaning.
 
-In Zenetist usage, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
+In Zenetist articulation, Radical Skepticism names the epistemic posture that recognizes the conditionality of all frames of understanding, including the frame that claims to have overcome framing itself.
 
 ---
 
@@ -55,9 +55,15 @@ This principle is self-applying.
 
 It does not permit the skeptic to stand outside the field of mediation as though skepticism itself were final, purified, or exempt from doubt.
 
-Radical Skepticism therefore prevents its own absolutization.
+Radical Skepticism therefore prevents the absolutization of skepticism.
 
 The claim "all perception is mediated" must itself remain subject to the same structural humility it requires of other claims.
+
+Certainty and uncertainty remain distinct modes within the same epistemic spectrum of knowability. When simultaneously asserted at the same register as absolute final determinations, their claims to finality cancel; their operative distinction remains. Neither mode is intrinsically centropic or entropic.
+
+Uncertainty belongs to the conditions of the knower and knowing. Proceeding with care amid uncertainty recognizes those epistemic limits without making uncertainty absolute.
+
+Radical Agnosis extends examination to the epistemic primitives through which these modes and their apparent cancellation are articulated, as specified in `the-agnostic-tetralemma.md` §13.
 
 ---
 
@@ -73,7 +79,7 @@ It applies to political systems when they convert partial social models into tot
 
 It applies to esoteric systems when symbolic insight becomes dogmatic certainty.
 
-It applies to contra-esoteric systems when critique of esotericism becomes its own closed ideology.
+It applies to contra-esoteric systems when critique of esotericism becomes a closed ideology.
 
 Radical Skepticism is therefore not anti-religious, anti-scientific, anti-esoteric, or anti-rational.
 
@@ -83,7 +89,7 @@ It is contra-finality.
 
 ## Distinction from Zenon
 
-Radical Skepticism is structurally associated with **Zenon (🕳️)**, but it is not identical with Zenon.
+Radical Skepticism recognizes an epistemic limit; **Zenon (🕳️)** names what exceeds the discernible manifold.
 
 **Radical Skepticism** is an epistemic posture.
 
@@ -97,7 +103,7 @@ Radical Skepticism recognizes that all frames of understanding remain provisiona
 
 Zenon is what lies beyond all frames of understanding.
 
-Thus, the two are related by their shared recognition of limit, but the limits are not the same kind.
+The distinction concerns the limit recognized by a knower and the trans-structural referent indicated from that standpoint.
 
 Radical Skepticism names the limit of interpretive certainty.
 
@@ -105,7 +111,11 @@ Zenon names the trans-structural horizon beyond knowing-as-such.
 
 Radical Skepticism does not reach Zenon.
 
-It only prevents the mind from mistaking any frame for the final capture of what Zenon withholds.
+It prevents the mind from treating an interpretive frame as a final determination of Zenon-in-itself.
+
+Zenon is neither certain nor uncertain. Even "Unknown" is an observer-side designation of the discernibility limit, not an intrinsic property established concerning Zenon. The Unknown exceeds the epistemic categories, as clarified in `synthesis-as-vantage.md`.
+
+The proposed correspondence between the Gnostic-Agnostic posture and L₀ Bifurcal Coherence concerns non-fusing epistemic distinction, not an identification of certainty with Aion or uncertainty with Khaon. Epistemic reconciliation remains distinct from Zenonic saturation, which pertains to fulfilled centropic essence and Allowance.
 
 ---
 
@@ -149,7 +159,7 @@ But no frame may claim absolute closure over reality itself.
 
 ## Structural Function
 
-Radical Skepticism protects Zenetism from becoming dogmatic about its own architecture.
+Radical Skepticism protects Zenetism from becoming dogmatic about its architecture.
 
 It requires that every system, including Zenetism, remain aware of its mediated status.
 
@@ -157,7 +167,7 @@ This does not weaken structural metaphysics.
 
 It stabilizes it.
 
-A framework that cannot question its own limits becomes ideology.
+A framework that cannot question its limits becomes ideology.
 
 A framework that can preserve structure while remaining open before the unknown retains coherence without absolutization.
 

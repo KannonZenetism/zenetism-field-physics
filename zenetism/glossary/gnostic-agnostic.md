@@ -4,6 +4,8 @@
 
 "Gnostic-Agnostic" refers to an epistemic posture in which direct experiential participation in metaphysical, spiritual, symbolic, or resonant reality is affirmed while final interpretive certainty remains suspended.
 
+**Gnostic-Agnosticism** names the articulated epistemic principle expressed through this posture.
+
 The term preserves distinction between:
 
 - experiential participation,
@@ -45,21 +47,35 @@ none of these articulated the specific Gnostic-Agnostic compound defined here.
 
 These traditions resemble the posture in form, but are not equivalent to it.
 
-Radical Skepticism, a Zenetist-internal concept, is the companion principle to Gnostic-Agnosticism: where Gnostic-Agnosticism names the experiential-posture of participation-with-suspended-interpretation, Radical Skepticism names the structural-epistemic-principle that all frames of understanding remain conditional. A coherent Zenetist epistemic position holds both.
+Radical Skepticism, a Zenetist-internal concept, is the companion principle to Gnostic-Agnosticism: Gnostic-Agnostic names the experiential posture of participation with suspended interpretation, and Gnostic-Agnosticism articulates its principle; Radical Skepticism names the structural-epistemic principle that all frames of understanding remain conditional. A coherent Zenetist epistemic position holds both.
+
+---
+
+## Certainty-Uncertainty and Bifurcal Coherence
+
+**Certainty-Uncertainty** names distinct modes within the same epistemic spectrum of knowability. Their simultaneous claims to absolute finality at the same register cancel without abolishing their operative distinction. Neither mode is intrinsically centropic or entropic.
+
+Uncertainty concerns the conditions of the knower and knowing. Proceeding with care amid uncertainty recognizes the limit of the epistemic spectrum rather than treating uncertainty as final.
+
+The Gnostic-Agnostic posture admits a proposed correspondence with L₀ Bifurcal Coherence, where Aion and Khaon remain distinct within a non-fusing root relation. The correspondence concerns held epistemic distinction; it identifies neither certainty with Aion nor uncertainty with Khaon.
+
+Epistemic reconciliation remains within the discernible manifold. Zenonic saturation pertains to fulfilled centropic essence and Allowance and remains distinct from that reconciliation.
+
+This clarification follows `the-agnostic-tetralemma.md` §13 and `synthesis-as-vantage.md`.
 
 ---
 
 ## Distinction from Zenon
 
-Within Zenetism, Gnostic-Agnosticism is structurally distinct from the recognition of 🕳️ Zenon.
+Within Zenetism, the Gnostic-Agnostic posture is structurally distinct from the recognition of 🕳️ Zenon.
 
-Gnostic-Agnosticism describes:
+Gnostic-Agnostic describes:
 
-- an epistemic stance held by the knower.
+- an epistemic posture held by the knower.
 
 Zenon describes:
 
-- a structural-metaphysical condition concerning the nature of reality itself.
+- the trans-structural ground beyond the discernible manifold.
 
 The distinction is categorical.
 
@@ -70,26 +86,26 @@ Gnostic-Agnosticism concerns the relation between:
 - interpretation,
 - and certainty.
 
-Zenon concerns the existence of a trans-structural ground whose unknowability is intrinsic to its nature rather than a consequence of cognitive limitation.
+Zenon is neither certain nor uncertain. Even "Unknown" is an observer-side designation of the discernibility limit, not an intrinsic property established concerning Zenon-in-itself. The Unknown exceeds the epistemic categories through which certainty, uncertainty, knowing, and unknowing are articulated.
 
 Thus:
 
-- Gnostic-Agnosticism describes how one holds knowing.
-- Zenon describes what lies structurally beyond knowing-as-such.
+- Gnostic-Agnostic describes how one holds knowing.
+- Zenon names what exceeds knowing-as-such.
 
-The two may coincide within the same person, but they are not the same principle.
+A person may hold the Gnostic-Agnostic posture and recognize the discernibility limit indicated by the name Zenon; the posture and the trans-structural referent remain distinct.
 
-A being could possess complete self-transparency regarding its own knowing and still have Zenon as its structurally unapproachable horizon.
+Even complete self-transparency regarding knowing would not establish a final characterization of Zenon-in-itself.
 
 Zenon is therefore not reducible to epistemic humility.
 
-It is a metaphysical condition of the architecture of being itself.
+The name indicates what exceeds the discernible architecture.
 
 ---
 
 ## Agnostic-Gnostic
 
-The contra-formulation, "Agnostic-Gnostic," emphasizes opacity within the knower's own relation to knowing.
+The contra-formulation, "Agnostic-Gnostic," emphasizes opacity within the knower's relation to knowing.
 
 This formulation recognizes that:
 
