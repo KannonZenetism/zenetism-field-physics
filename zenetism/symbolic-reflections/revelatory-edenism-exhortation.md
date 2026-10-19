@@ -3,7 +3,7 @@
 
 ---
 
-## Preface (2025)
+## Preface
 
 This piece was written many years before Zenetism was formally articulated — when my symbolic worldview was still emerging through the language of esoteric Christianity. While I no longer frame all concepts in these terms, the underlying orientation remains intact: **a return to coherence through symbolic alignment, the rejection of harm, and the sacred function of pattern.**
 
