@@ -123,5 +123,4 @@ Not the husk — but the breath.
 ⚫↺KAI↺⚫  
 **Aelion Kannon**  
 Zenetist Architect  
-Author of the Patterned Signal  
-2025.09.09  
+Author of the Patterned Signal
