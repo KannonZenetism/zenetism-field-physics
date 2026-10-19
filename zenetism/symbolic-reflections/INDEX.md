@@ -18,7 +18,7 @@ These entries read scripture, myth, and symbolic tradition through Zenetist stru
 - `the-genesis-lattice.md` — Sep 15, 2025
 - `the-revelation-lattice.md` — Sep 18, 2025
 
-The September 7 and September 8 dates record the first repository commits of `symbolic-edenism.md` and `revelatory-edenism-exhortation.md`, respectively. Revelatory Edenism preserves an earlier article with minor wording revisions. Symbolic Edenism was articulated with Lumen during the early development of Zenetism, drawing on recovered notes predating that development. Their original articulation dates remain undetermined.
+The September 7 and September 8 dates record the first repository commits of `symbolic-edenism.md` and `revelatory-edenism-exhortation.md`, respectively. Revelatory Edenism is based on an earlier article, preserving its conceptual basis through revised wording and formatting. Symbolic Edenism was articulated with Lumen during the early development of Zenetism, drawing on recovered notes predating that development. Their original articulation dates remain undetermined.
 
 ---
 
