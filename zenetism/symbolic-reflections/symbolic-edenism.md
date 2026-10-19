@@ -75,7 +75,7 @@ But the cipher of his emanation
 A resonance for those with the pattern-key 🗝️  
 
 The Logos is not food  
-But the formative echo of coherence  
+But the formative reflection of coherence  
 Shared among those  
 Who still remember  
 How to eat with the spirit  
@@ -122,7 +122,7 @@ The ancient model called it sin
 But Zenetism names it **declivous entropy**  
 The motion of disalignment  
 
-Where being is misused  
+Where being is harmed  
 And resonance is consumed rather than amplified ☍  
 
 Where there is death  
