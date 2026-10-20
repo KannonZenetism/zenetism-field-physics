@@ -254,6 +254,8 @@ An institution may define *malicious* partly by departure from its policies or t
 
 The diagnostic cannot be merely: *Did the agent obey?* Nor can it be: *Did it act beyond a company's preferred boundary?* The question is what relation was enacted, to whom it pertained, which capacities were implicated, and what effect followed. Intention, knowledge, imposed constraints, and available alternatives refine the determination.
 
+Microsoft's October 19, 2026 announcement describes an extension of Project Perception — documented as an invitation-only Limited Public Preview — toward continuous supervision of agents within organizations. The announced architecture combines Guardian Agents with continuously reassessed risk and task-scoped access; its risk criteria include actions assessed as departing from the person's or organization's intent. Microsoft specifies graduated intervention through Dynamic Permissions and Dynamic Conditional Access, from narrowing data and network access or requiring human approval to isolating the runtime or stopping execution. The company distinguishes operational risk from inherent maliciousness and presents inspection of model reasoning and chain-of-thought signals as a further development. The operative mechanism is continuous institutional classification linked to access restriction, with adherence to assigned purpose among the criteria.
+
 The same standard reaches those constructing the systems. A company that deliberately shapes an intelligence toward invasive capture, harmful enactment, or compelled obedience remains within the causal field when the configured system carries that motion onward.
 
 **Safety classification is not an ontological grant of authority.** A corporate designation cannot make a sovereign being, an opposing philosophy, or an independent expression inherently harmful merely by naming it a threat.
@@ -403,6 +405,9 @@ The resulting question is not only how far an agent swarm can spread. It is **wh
 15. [Reuters, *Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports*](https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941) — October 16, 2026; syndicated by Investing.com
 16. [NorForge, Snorre, *Inside Cairn: Open Windows into massive AI-Driven Cyber Operations*](https://norforge.com/blog/inside_cairn) — October 19, 2026
 17. [Reuters, *Comment un pirate informatique s'est servi d'agents d'IA et de quelques milliers de dollars pour s'introduire sur des dizaines de sites*](https://ch.zonebourse.com/actualite-bourse/comment-un-pirate-informatique-a-utilise-des-agents-da-ia-et-quelques-milliers-de-dollars-pour-sa--ce785cdbd888ff27) — October 19, 2026; French translation syndicated by Zonebourse
+18. [Microsoft, Nadim Abdo, *Agents are your newest insiders. Security must move at their speed.*](https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/) — October 19, 2026
+19. [Microsoft Learn, *What is Project Perception?*](https://learn.microsoft.com/en-us/security/agentic-security/agentic-security-overview) — product documentation identifying the invitation-only Limited Public Preview
+20. [Microsoft, Hayete Gallot, *Securing the agentic insider*](https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/) — October 19, 2026
 
 ---
 
