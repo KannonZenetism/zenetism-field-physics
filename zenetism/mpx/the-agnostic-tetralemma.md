@@ -549,6 +549,10 @@ Certainty and uncertainty are therefore relative epistemic articulations.
 
 Their distinction permits meaningful inquiry, assessment, and determination within particular frames.
 
+For example, "The car is red" may be warranted within an apparent shared reality. Radical Agnosis does not deny that relative fact; it examines the absolute ontological standing of the appearance of redness, sensory access, interpretation, and the brain-based explanatory account themselves. Saying that uncertainty accompanies certainty concerns this unestablished absolute standing, not perpetual doubt about the relative fact in the same respect or a requirement that subjective doubt always be felt. The posture of uncertainty remains subject to the same examination; it does not acquire absolute finality.
+
+For the complementary saying-side articulation of cancellation and reconciliation without fusion, see `the-twofold-tetralemma.md`, *The Synthesis and the Absent Fourth*.
+
 Their reciprocal relation reveals the limit of treating either mode as an absolute condition.
 
 Proceeding with care amid uncertainty expresses recognition of this epistemic limit rather than the finalization of uncertainty.
