@@ -1157,7 +1157,7 @@ The article named in the comparison is [*Certainty-Uncertainty and the Limits of
 
 > My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes certainty and uncertainty as relative epistemic modes, rejects the attempted absoluteness of either, and examines the problem with declaring “absolute certainty is unattainable” as though that declaration were itself a final certainty.
 >
-> Saying “I am certain” when one’s actual epistemic position is “I do not know” is a different matter. Challenging that discrepancy does not make uncertainty an absolute epistemological position. Nor does acting without conclusive proof establish the warrant for whichever action one chooses.
+> Claiming certainty without establishing sufficient grounds for that certainty is a different matter. Challenging that unwarranted claim does not make uncertainty an absolute epistemological position. Nor does acting without conclusive proof establish the warrant for whichever action one chooses.
 >
 > The article’s proposed correspondence with Bifurcal Coherence concerns holding distinct modes in relation without abolishing their distinction. Within that relation, certainty remains accompanied by doubt. What exceeds the spectrum of knowability is not uncertainty treated as an ultimate condition. As the subtitle states, the Unknown is not the ultimate form of uncertainty.
 >
@@ -1167,12 +1167,13 @@ The article named in the comparison is [*Certainty-Uncertainty and the Limits of
 
 #### C32 Revision Record
 
-Kannon supplied the preceding revision as his posted text and subsequently supplied the current wording. L02 retains the earlier complete body. All other wording remains unchanged; substituting the phrases from either earlier-state column into the current body recovers that state. Revision times and independent platform corroboration of the revised wording remain held open. These are successive states of one entry.
+Kannon supplied the first revision as his posted text and subsequently supplied two further revisions. L02 retains the earlier complete body. All other wording remains unchanged; substituting the phrases from either earlier-state column into the current body recovers that state. Restoring only the earlier wording of the second paragraph recovers the immediately preceding author-supplied state. Revision times and independent platform corroboration of the revised wording remain held open. These are successive states of one entry.
 
 | Earlier photographed wording in L02 | Intermediate author-supplied posted wording | Latest author-supplied wording |
 |---|---|---|
 | There is no reversal of position here. My article explicitly distinguishes | My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes | My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes |
 | certainty and uncertainty as relative epistemic modes and rejects the attempted absoluteness of either. It also explicitly examines | certainty and uncertainty as relative epistemic modes and rejects the attempted absoluteness of either. It also explicitly examines | certainty and uncertainty as relative epistemic modes, rejects the attempted absoluteness of either, and examines |
+| Saying “I am certain” when one’s actual epistemic position is “I do not know” is a different matter. Challenging that discrepancy does not make uncertainty an absolute epistemological position. | Saying “I am certain” when one’s actual epistemic position is “I do not know” is a different matter. Challenging that discrepancy does not make uncertainty an absolute epistemological position. | Claiming certainty without establishing sufficient grounds for that certainty is a different matter. Challenging that unwarranted claim does not make uncertainty an absolute epistemological position. |
 | uncertainty elevated into an ultimate condition | uncertainty treated as an ultimate condition | uncertainty treated as an ultimate condition |
 
 ### Comparison and Continuity of Position
