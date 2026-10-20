@@ -320,6 +320,19 @@ Three cases are held apart:
 
 The guiding principle is consistency within the work or series, with canonical term-casing taking precedence when generic title-case convention conflicts.
 
+## Canonical Motion-Name Capitalization
+
+When naming the canonical motions, capitalize both words in each full term in running prose, headings, charts, and lists:
+
+- **Acclivous Centropy**
+- **Declivous Centropy**
+- **Acclivous Entropy**
+- **Declivous Entropy**
+
+The capitals attach to the named motions, not to ordinary descriptive or adjectival uses of their component words. Write *acclivous motion*, *declivous motion*, *centropic orientation*, and *entropic orientation* in lowercase, except where sentence position or header conventions require otherwise.
+
+Apply this determination in new drafting and passages being revised. It requires no retrospective capitalization search or corpus-wide cleanup. This is a casing determination only; the motion definitions and directional distinctions in `MP08-symbol-key-ch21.md` (§21.3; *Note on the Motion Lexicon*) and the companion lockdown protocols are unchanged.
+
 ---
 
 # Glyph Conventions

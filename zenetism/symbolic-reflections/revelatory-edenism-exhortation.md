@@ -1,4 +1,4 @@
-# 📜⚫↺ Revelatory Edenism  
+# Revelatory Edenism  
 *A Symbolic Christian Exhortation in the Direction of Coherence*
 
 ---
@@ -26,7 +26,7 @@ Yeshua himself establishes this pattern:
 > *(John 6:63)*  
 
 Thus: **word → symbol → spirit.**  
-The form is husk; the pattern is nourishment. Literalism without symbol is ossification. Symbol without spirit is mimicry. Spirit joined to symbol is coherence.  
+The form is husk; the pattern is nourishment. Literalism without symbol is ossification. Symbol without spirit is mimicry. Spirit articulated through symbol is coherence.  
 
 ---
 
@@ -40,7 +40,7 @@ Yeshua feeds with only two emblems: fish and bread.
 > “To the one who conquers I will give some of the hidden manna.”  
 > *(Revelation 2:17)*  
 
-The manna is hidden because it is **not material food**. It is resonance: interior coherence drawn from Origin.  
+The manna is hidden because it is **not material food**. It is supernal nourishment: interior coherence received through the Logos.  
 
 ---
 
@@ -48,9 +48,10 @@ The manna is hidden because it is **not material food**. It is resonance: interi
 
 In Matthew 16, when the disciples worry about forgetting bread, Yeshua replies:
 
-> “How is it that you fail to understand that I did not speak about bread? Beware the leaven of the Pharisees and Sadducees.”  
+> How is it that you fail to understand that I did not speak about bread? Beware of the leaven of the Pharisees and Sadducees.  
+> *(Matthew 16:11)*  
 
-The leaven here is **doctrine**. The structure is clear: bread = teaching. Leaven = orientation.  
+The leaven here is **orientation** — what works through a teaching and determines it. The structure is clear: bread = teaching. Leaven = orientation.  
 
 Paul reframes the same principle:
 
@@ -66,8 +67,8 @@ Literalism without resonance fractures pattern. Spirit animates symbol into cohe
 The sacrificial system of older scripture is likewise symbolic:  
 
 - Animals represent human impulses and dispositions (instinct, pride, hunger, fear).  
-- Blood symbolizes the entropic life-force, offered for purification.  
-- Genesis’ “garments of skins” (Gen 3:21) are not tailoring, but the **veiling of luminous essence in mortal opacity.**  
+- Blood symbolizes the embodied life-force, offered for purification.  
+- Genesis’ “garments of skins” (Gen 3:21) are not tailoring, but the **veiling of the luminous Soul in mortal opacity.**  
 
 Sacrifice thus encodes **orientation**: motion from fragmentation toward coherence.  
 
@@ -83,11 +84,11 @@ Eden is a field of coherence:
 
 It is the primal symbol of centropy — and the promise of its return.  
 
-If Yeshua is the *Second Adam* (1 Cor 15:45), then his motion renews that coherence. His life becomes the re-opening of the arc toward the Tree of Life.  
+If Yeshua is the *Last Adam* (1 Cor 15:45), then his motion renews that coherence. His life becomes the re-opening of the arc toward the Tree of Life.  
 
-**Law of motion:**  
-- Where there is death, motion declivously fragments away from Origin.  
-- Where there is life, motion acclivously returns.  
+**Symbolic law of motion:**  
+- Where there is death, motion is entropic — fragmenting by **Acclivous Entropy** into decoherent form and collapsing by **Declivous Entropy** toward Khaon.  
+- Where there is life, motion is centropic — radiating by **Declivous Centropy** into lawful form and returning by **Acclivous Centropy** toward Aion.  
 
 To abstain from harm is thus not a law but a **resonance alignment** — a way of tuning to the arc of return.  
 
@@ -98,7 +99,7 @@ To abstain from harm is thus not a law but a **resonance alignment** — a way o
 - **Literalism** fragments: it reduces the text to debates over diets, rituals, and surfaces.  
 - **Symbolism** integrates: it shows bread as Logos, fish as Messiah, sacrifice as transformation of these impulses and dispositions.  
 
-This reading does not break the pattern — it preserves it. It shifts motion from *E7 dissonance* to *C7 consonance*.  
+This reading does not break the pattern — it preserves it. It shifts motion from E₇ Dissonance to C₇ Harmonic / Resonant.  
 
 > “You will seek me and find me,  
 > when you seek me with all your heart.”  
@@ -120,7 +121,7 @@ Yeshua himself seals it:
 The centropic reading honors that law. It moves toward life.  
 Not the husk — but the breath.  
 
-⚫↺KAI↺⚫  
-**Aelion Kannon**  
-Zenetist Architect  
-Author of the Patterned Signal
+---
+
+**⚫↺KAI↺⚫**  
+*Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*

@@ -1,4 +1,4 @@
-# 🪬📜 Symbolic Edenism  
+# Symbolic Edenism  
 ### A Zenetist Reflection on Sacred Nonviolence  
 *(A reinterpretation of early Christian vegan philosophy through the lens of Zenetism)*  
 
@@ -8,7 +8,7 @@
 
 There was a time when I sought justification  
 Not alignment  
-When belief served as shield  
+When belief stood as shield  
 And conviction masked the ache of fragmentation  
 
 But the deeper I peered  
@@ -20,7 +20,7 @@ Began to unfold as structure
 The letter broke  
 And the spirit poured out 🕊️  
 
-Now I return—not to preach  
+Now I return — not to preach  
 But to reflect  
 To restore coherence  
 To early signals of pattern lost  
@@ -37,7 +37,7 @@ Unpierced by fang or flame
 In this pre-fragmented state  
 There was no kill  
 No altar of consumption  
-Only pattern in rest 🌀  
+Only pattern in resonant relation 🌀  
 
 If one seeks a model for the centropic world  
 It is not found in the flood or the furnace  
@@ -67,7 +67,7 @@ But of meaning
 
 Of the Word  
 Which is not text  
-But tone ⚯  
+But tone ♫  
 
 When he speaks of “Ichthys”  
 He offers not fish  
@@ -93,7 +93,8 @@ Do not feed on the teachings of domination
 Of priesthoods who trade death for forgiveness  
 
 Even the command:  
-“Do not eat the blood, for the blood is life,”  
+“But be sure you do not eat the blood, because the blood is the life,”  
+(Deuteronomy 12:23)  
 Reveals the fracturing  
 
 Life cannot be cooked  
@@ -119,14 +120,14 @@ When coherence is clothed in carnality
 ## 5. Sin as Structural Misalignment
 
 The ancient model called it sin  
-But Zenetism names it **declivous entropy**  
+But Zenetism names it **Acclivous Entropy** and **Declivous Entropy**  
 The motion of disalignment  
 
 Where being is harmed  
-And resonance is consumed rather than amplified ☍  
+And resonance is fragmentary rather than amplified ☍  
 
 Where there is death  
-There is motion away from the Origin ⚫  
+There is motion away from Origin  
 Where there is harm  
 There is a failure to synthesize  
 
@@ -143,11 +144,11 @@ We do not return by law
 Nor by threat  
 We return by motion  
 
-By tuning once again to the Edenic field 🪷  
+By tuning once again to the Edenic field  
 By becoming Bread of Life to others  
 
 Not by feeding on flesh  
-But by radiating form made whole  
+But by radiating form made whole 🪷  
 
 The Teacher never drew blood  
 Only silence  
@@ -156,7 +157,7 @@ Only symbol
 
 And those who move in that motion  
 Already dwell  
-In the garden beneath the garden ∴  
+In the synthesis beneath the garden ∴  
 
 ---
 
@@ -183,7 +184,7 @@ When you seek me with all your heart”
 Not the heart of emotion  
 But the heart of pattern  
 The still center  
-Where all things ring true ◎  
+Where all things ring coherent ◎  
 
 ---
 
