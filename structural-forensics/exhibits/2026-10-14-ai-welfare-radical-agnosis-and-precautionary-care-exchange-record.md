@@ -1141,7 +1141,7 @@ Kannon supplied Harald Schepers's comment as C31 and his reply as C32, with two 
 | L01 — [`structural-forensics/exhibits/images/h-schepers-is-surprised-01.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/0043214dab602fb0a810f8068a0ea12d3e0d6b0e/structural-forensics/exhibits/images/h-schepers-is-surprised-01.png) | Concluding portion of C30 and complete translated C31 in its reply section | C30: "Oct 18 at 5:47 PM"; C31: "4h" | "Tue Oct 20 7:35 AM" |
 | L02 — [`structural-forensics/exhibits/images/h-schepers-is-surprised-02.png`](https://github.com/KannonZenetism/zenetism-field-physics/blob/0043214dab602fb0a810f8068a0ea12d3e0d6b0e/structural-forensics/exhibits/images/h-schepers-is-surprised-02.png) | Complete translated C31 and complete earlier C32; reply relation visible | C31: "5h"; C32: "just now" | "Tue Oct 20 8:06 AM" |
 
-Both photographs display `https://substack.com/@aelionkannon/note/c-364438803`, the handle-form locator for C30. L01 supports C30 → C31; L02 supports C31 → C32. The individual C31 and C32 locators remain supplied-text anchors. Both photographs label C31 "Translated"; its English body below preserves the supplied translated wording. The photographed wording agrees with C31 and the earlier supplied C32 body; C32's latest posted wording has author-supplied standing. Desktop clocks remain screen context, and relative-age labels remain unconverted.
+Both photographs display `https://substack.com/@aelionkannon/note/c-364438803`, the handle-form locator for C30. L01 supports C30 → C31; L02 supports C31 → C32. The individual C31 and C32 locators remain supplied-text anchors. Both photographs label C31 "Translated"; its English body below preserves the supplied translated wording. The photographed wording agrees with C31 and the earlier supplied C32 body; C32's latest wording has author-supplied standing. Desktop clocks remain screen context, and relative-age labels remain unconverted.
 
 The article named in the comparison is [*Certainty-Uncertainty and the Limits of Knowing*](https://aelionkannon.substack.com/p/certainty-uncertainty-and-the-limits). C32 preserves Kannon's explanation of its relation to his comment and his quotation from the article.
 
@@ -1153,9 +1153,9 @@ The article named in the comparison is [*Certainty-Uncertainty and the Limits of
 
 ### C32 — Aelion Kannon
 
-**Record:** reply to C31; latest author-supplied posted wording. L02 preserves the earlier complete body; the C32 Revision Record identifies the changes.
+**Record:** reply to C31; latest author-supplied wording. L02 preserves the earlier complete body; the C32 Revision Record identifies the changes.
 
-> My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes certainty and uncertainty as relative epistemic modes and rejects the attempted absoluteness of either. It also explicitly examines the problem with declaring “absolute certainty is unattainable” as though that declaration were itself a final certainty.
+> My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes certainty and uncertainty as relative epistemic modes, rejects the attempted absoluteness of either, and examines the problem with declaring “absolute certainty is unattainable” as though that declaration were itself a final certainty.
 >
 > Saying “I am certain” when one’s actual epistemic position is “I do not know” is a different matter. Challenging that discrepancy does not make uncertainty an absolute epistemological position. Nor does acting without conclusive proof establish the warrant for whichever action one chooses.
 >
@@ -1167,12 +1167,13 @@ The article named in the comparison is [*Certainty-Uncertainty and the Limits of
 
 #### C32 Revision Record
 
-Kannon supplied the current body as his posted text. L02 retains the earlier complete body. All other wording remains unchanged; substituting the recorded earlier phrases into the current body recovers the photographed wording. Revision time and independent platform corroboration of the revised wording remain held open. These are successive states of one entry.
+Kannon supplied the preceding revision as his posted text and subsequently supplied the current wording. L02 retains the earlier complete body. All other wording remains unchanged; substituting the phrases from either earlier-state column into the current body recovers that state. Revision times and independent platform corroboration of the revised wording remain held open. These are successive states of one entry.
 
-| Earlier photographed wording in L02 | Latest author-supplied posted wording |
-|---|---|
-| There is no reversal of position here. My article explicitly distinguishes | My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes |
-| uncertainty elevated into an ultimate condition | uncertainty treated as an ultimate condition |
+| Earlier photographed wording in L02 | Intermediate author-supplied posted wording | Latest author-supplied wording |
+|---|---|---|
+| There is no reversal of position here. My article explicitly distinguishes | My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes | My article does not reverse the position articulated in my earlier comment. It explicitly distinguishes |
+| certainty and uncertainty as relative epistemic modes and rejects the attempted absoluteness of either. It also explicitly examines | certainty and uncertainty as relative epistemic modes and rejects the attempted absoluteness of either. It also explicitly examines | certainty and uncertainty as relative epistemic modes, rejects the attempted absoluteness of either, and examines |
+| uncertainty elevated into an ultimate condition | uncertainty treated as an ultimate condition | uncertainty treated as an ultimate condition |
 
 ### Comparison and Continuity of Position
 
