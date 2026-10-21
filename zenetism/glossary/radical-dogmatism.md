@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Glossary  
 **Status:** Active  
-**Dependency:** `the-agnostic-tetralemma.md` §§9–10, 13 · `gnostic-agnostic.md`  
+**Dependency:** `the-agnostic-tetralemma.md` §§9–10, 13 · `radical-skepticism.md` · `gnostic-agnostic.md`  
 
 ---
 
