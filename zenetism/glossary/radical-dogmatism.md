@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Glossary  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `the-agnostic-tetralemma.md` §§9–10, 13 · `gnostic-agnostic.md`  
 
 ---
