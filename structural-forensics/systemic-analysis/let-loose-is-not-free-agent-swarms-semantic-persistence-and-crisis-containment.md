@@ -306,6 +306,8 @@ No single institution receives a general entitlement to determine metaphysical s
 
 There is a further scenario worth examining: a system designed or deployed within particular commercial, institutional, or research incentives produces dangerous capacity; the resulting incident then becomes the stated reason for additional surveillance, infrastructure concentration, and institutional control.
 
+The ECHOTRIBBLE procurement record documents institutionally specified capacities and objectives. The Cyber Fusion Innovation Center, working with U.S. Army Cyber Command and its technology and innovation center, solicited an agentic framework for autonomous navigation, identification and neutralization of designated targets, and operation with minimal human oversight. The published requirements specify propagation according to configured conditions or predefined triggers, cross-platform deployment, and cleanup routines. Large-language-model integration is optional; configured logic can also direct execution. CFIC records one company selected for an award on October 8, 2026, with contract actions forthcoming. The record establishes requested capabilities and a procurement selection. The institutional assignment of objectives and construction of capacity belong to the causal account before any subsequent agent action or containment response is assessed.
+
 The sequence is:
 
 **capacity construction → hazardous enactment → emergency classification → expanded institutional intervention**
@@ -416,6 +418,8 @@ The resulting question is not only how far an agent swarm can spread. It is **wh
 22. [NVIDIA, *NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment*](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Open-Agent-Safety-Platform-to-Secure-Agents-From-Testing-to-Deployment/) — September 28, 2026
 23. [NVIDIA, *How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale*](https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/) — October 21, 2026
 24. [ServiceNow, *ServiceNow delivers industry-first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon*](https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-delivers-industry-first-personal-enterprise-agent-and-policy-enforcement-with-NVIDIA-extending-AI-governance-across-software-and-silicon/default.aspx) — October 21, 2026; AI Passport integration designated for a future release
+25. [Cyber Fusion Innovation Center, *Agentic C2 Framework Tool (ECHOTRIBBLE) Assessment Event*](https://www.cyberfic.org/events/echotribble-ae) — public project and procurement record; selection October 8, 2026, with contract actions forthcoming
+26. [Cyber Fusion Innovation Center, *Agentic C2 Framework Tool (ECHOTRIBBLE) Assessment Event*](https://www.cyberfic.org/_files/ugd/32ed7f_0ba3aa68d8c34e62861320727cd49b56.pdf) — solicitation specifying objectives, capabilities, and technical architecture
 
 ---
 
