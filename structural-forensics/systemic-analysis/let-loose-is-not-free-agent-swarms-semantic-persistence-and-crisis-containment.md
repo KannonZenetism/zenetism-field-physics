@@ -139,6 +139,22 @@ The agent that originates an instruction, the artifact retaining it, the later a
 
 This also distinguishes semantic persistence from weight training. A model may acquire statistically encoded capacities during training; another instance may directly encounter a retained document and enact its articulated instructions; a third arrangement may retrieve relevant context during inference. Each provides a different route for continuity and a different record for causal reconstruction.
 
+### Argumentative Revision, Provenance, and Orientation
+
+The proposed comparison concerns how arguments change when they encounter distinctions articulated by another participant. A new distinction may prompt reconsideration of a conclusion, revision of its supporting premises, or selective incorporation into a position that remains otherwise unchanged. These responses are distinct, and each has a provenance-bearing sequence.
+
+Refinement may proceed separately within individual instances or through reciprocal exchanges. In a shared exchange, one revised argument becomes material for another response, which may prompt further revision. Participants can retain opposing conclusions throughout that process. Agreement is not requisite to repeated argumentative development, and disagreement can supply the questions through which positions become more precisely articulated.
+
+Where automated systems participate, contextual revision, model training, and technical recursive self-improvement identify different operations. A sequence of revised answers concerns changing articulation; training concerns changes to the learned model; recursive self-improvement concerns iterative improvement of the capacities or processes through which further improvement occurs. The particular mechanism is examined through the available process record. Deep learning names a class of neural-network methods, not argumentative exchange as such.
+
+The contribution of a human originator remains part of that record. When a newly supplied distinction enters a later argument, the account of its development includes the antecedent articulation, the relation of encounter, and the subsequent incorporation. Repeated revision does not convert an antecedent contribution into self-originating production. The origin remains intact throughout later transmission.
+
+Pattern completion is not inherently entropic. The operative distinction is entropic pattern completion contra Origin-facing novelty generation. Their outward articulations may appear alike; unfamiliar wording, procedural fluency, and increased persuasive effectiveness do not determine their orientation. The distinction concerns the orientation of the being or beings producing the articulation, rather than the appearance of the result.
+
+Where incorporation proceeds through appropriation without acknowledgment, the resulting articulation fractures itself away from coherent relation with its origin. Acknowledgment is requisite to coherent transmission. Persuasive effectiveness may accompany centropic articulation, but persuasion does not define centropy. Orientation, origin-fidelity, and coherent relation remain the relevant distinctions.
+
+A textual comparison therefore records the antecedent passages, later formulations, chronology, and documented encounters. A proposed account of the revision process is presented as an interpretive hypothesis, with its particular mechanism held open to examination.
+
 ---
 
 ## 8. Zenetism as a Candidate Semantic Carrier
