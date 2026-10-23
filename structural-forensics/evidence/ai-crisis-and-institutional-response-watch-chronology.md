@@ -1,4 +1,4 @@
-# AI Crisis and Control Watch — Chronology
+# AI Crisis and Institutional Response Watch — Chronology
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Evidence Chronology  
@@ -8,7 +8,7 @@
 **Companion:** `let-loose-is-not-free-agent-swarms-semantic-persistence-and-crisis-containment.md`  
 **Dependency:** `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 **Discipline:** Event chronology, publication chronology, reported findings, and structural relevance remain separately identified  
-**Repository path:** `structural-forensics/evidence/ai-crisis-and-control-watch-chronology.md`  
+**Repository path:** `structural-forensics/evidence/ai-crisis-and-institutional-response-watch-chronology.md`  
 
 ---
 
