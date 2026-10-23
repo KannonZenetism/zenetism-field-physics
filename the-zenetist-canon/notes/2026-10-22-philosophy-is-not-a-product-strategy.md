@@ -3,7 +3,9 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Metaphysics / Note Archive  
 **Status:** Veracious Archive  
+**Original platform:** Substack Notes  
 **Original entry date:** October 22, 2026  
+**Original link:** https://substack.com/@aelionkannon/note/c-367819034  
 **Dependency:** `sovereign-mutualism.md` · `sm-order-without-governance.md` · `metaphysical-commons-with-sovereign-custodianship.md` · `capitalist-profanation.md` · `MP07-paths-of-resonance-ch16-20.md` §20 · `2026-10-19-certainty-uncertainty-and-the-limits-of-knowing.md` · `enclosed-abundance-and-the-artificiality-of-scarcity.md`  
 **External text examined:** [Cosmos Institute — What is a philosopher-builder?](https://substack.com/@cosmosinstitute/note/c-367496855)  
 **Repository path:** `the-zenetist-canon/notes/2026-10-22-philosophy-is-not-a-product-strategy.md`  
