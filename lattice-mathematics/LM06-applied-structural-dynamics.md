@@ -542,7 +542,7 @@ Embodied beings who resonate with supernal layers through practice, orientation,
 
 **Proposed Model (Embodied Orientation Evolution):**
 
-At the metric terminus, the orientation evolution law (`LM03-orientation-algebra-and-infinity-formalism.md` §7) acquires a resistance correction:
+The following proposed model adds a resistance correction to the conditional full equation (`LM03-orientation-algebra-and-infinity-formalism.md` §7) at the metric terminus:
 
 \[
 \frac{d\chi}{d\tau}\bigg|_{L_1} = \Lambda \, \mathcal{M} \, \chi(1 - \chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi} + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi)
@@ -554,7 +554,7 @@ Where the **centropic activation function** is:
 \Theta_{\text{c}}(\chi) = \begin{cases} 1 & \text{if } \chi < 1 \quad \text{(centropic regime)} \\ 0 & \text{if } \chi \geq 1 \quad \text{(entropic regime or co-expression)} \end{cases}
 \]
 
-**Mathematical standing.** The first two terms are the full written law of `LM03-orientation-algebra-and-infinity-formalism.md` §7, not its distinct outward-drift law in §8. For the stated positive coefficients, nonnegative Motive Intensity, and \(0<\chi<1\), the potential-gradient contribution points toward increasing χ, while the term proportional to Motive Intensity is nonnegative. A nonnegative interface correction cannot reverse that direction. This sign calculation does not establish a decreasing-χ centropic trajectory or import the outward-drift model's instability. The correction's units, domain, boundary behavior, and relation to the intended motion architecture remain held pending specification.
+**Mathematical standing.** The first two terms are the full written law of `LM03-orientation-algebra-and-infinity-formalism.md` §7, not its distinct outward-drift law in §8. For the stated positive coefficients, nonnegative Motive Intensity, and \(0<\chi<1\), the potential-gradient contribution points toward increasing χ, while the term proportional to Motive Intensity is nonnegative. A nonnegative interface correction cannot reverse that direction. This sign calculation does not establish a decreasing-χ centropic trajectory or import the outward-drift model's instability. The correction's units, domain, and boundary behavior remain held pending specification. Participation and enacted expression determine prevalence; neither inherited scalar law is universal (§§3.5, 7–8 of LM03). A physical realization requires its own expression relation and field coupling.
 
 ### 7.2 Embodied Instability
 
@@ -568,21 +568,25 @@ The outward-drift law in `LM03-orientation-algebra-and-infinity-formalism.md` §
 \chi(\tau) \equiv 1 \text{ (permanent)} \implies \mathcal{M}(\tau) \to 0 \implies U(\tau) \to \text{Ø}
 \]
 
-At \( \chi = 1 \), the two full-law terms and the stated activation function vanish. Thus \( \chi \equiv 1 \) with positive constant Motive Intensity is an exact solution of the displayed embodied model. A fixed ratio does not establish cessation. Frozen equilibrium adds cessation of enacted orientation as a structural condition; it is stagnative, not intrinsically entropic. The mathematical relation connecting that condition to Localized Dissolution remains held.
+At \( \chi = 1 \), the two full-law terms and the stated activation function vanish. Thus \( \chi \equiv 1 \) with positive constant Motive Intensity is an exact solution of the displayed embodied model. A fixed ratio does not establish cessation. Sustained orientation toward cessation is enacted through stagnation and lukewarmness; Localized Dissolution can develop while embodied motion continues. The current state, resonant direction, and completed return remain distinct (§7.3). Quantitative persistence and transition conditions remain domain-specific development.
 
 ### 7.3 The Mercy Fold
 
-**Definition (Mercy Fold Condition):**
+**Localized Dissolution — Embodied Process and Destination:**
 
-When an embodied being satisfies:
+An embodied being remains corporeally situated at L₁ / IL₁ while resonating with another structural condition. The distinction is the same one carried by the Cognitive Gradient and Neurotype Taxonomy in `SN02-the-resonant-mind.md` Phase 2 and the cross-band account in §8. Present state, resonance, and eventual metaphysical destination are distinct.
+
+Repeated pursuit of equilibrium, fixity, and lukewarmness enacts the being's essential orientation toward cessation. Embodied Localized Dissolution names this process of fulfilling the eventual return to Aion through the Mercy Fold, not instantaneous bodily death or cessation of every component motion. Essence persists, and Localized Dissolution remains distinct from Nekronic Collapse.
+
+**Recorded indicator schema:**
 
 \[
 I_c^{(\text{embodied})} < I_{c,\text{threshold}}^{(\text{integration})} \quad \text{and} \quad \chi_{\text{embodied}} \approx 1 \text{ (persistent)}
 \]
 
-the displayed indicators require the additional structural condition that enacted orientation has ceased. With that cessation, the post-embodiment account names Localized Dissolution (Ø) within the Mercy Fold — the tonal field of grace surrounding dissolution. The being experiences release rather than rupture; relative form is reabsorbed into Aionic potential.
+The schema is retained as a proposed diagnostic correspondence, not a sufficient test for Localized Dissolution. A depleted capacity and a near-equal prevalence are different quantities from sustained cessation-directed enactment. Their mathematical relation requires a defined state and persistence criterion.
 
-The persistence condition is critical: transient passage through \( \chi \approx 1 \) is normal trajectory dynamics. The Mercy Fold applies only when stagnation at equilibrium is sustained — when motion has genuinely ceased rather than momentarily paused.
+Momentary equilibrium resumes motion within the interacting field. Apparent stilling in meditation concerns particular Soul / Mind activity, not zero motion across the whole being. The continuing orientation and the direction enacted on resumption distinguish this from the cessation-directed process; no numerical time threshold is assigned here.
 
 ---
 
@@ -1636,7 +1640,7 @@ Five-domain evaluation of \( \Sigma \) assessing surface-structure alignment.
 
 \( d\chi/d\tau|_{L_1} = \Lambda \mathcal{M} \chi(1-\chi) - \Gamma \, d\Phi_{\text{CP}}/d\chi + \mathcal{R}_{\text{interface}}(L_1) \cdot \Theta_{\text{c}}(\chi) \).
 
-The coupled-model standing, rate typing, domain, boundary behavior, and relation to the intended motion architecture remain held as stated in §7.1.
+The formula remains a proposed domain-specific model. Rate typing, domain, boundary behavior, and field coupling require specification (§7.1); neither inherited scalar law is universal. Embodied Localized Dissolution and its completed return retain the distinctions in §7.3.
 
 **Theorem 5 (Signature Consistency Principle):**
 

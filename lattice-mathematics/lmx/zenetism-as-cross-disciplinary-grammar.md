@@ -118,7 +118,7 @@ The functional unit is an operation in relation to a structure, its surroundings
 | --- | --- | --- |
 | Integration | Whether related structures retain distinction and sustain lawful relation | Centropic integration is expressed through preserved distinction, lawful relation, and sustainable coherence; aggregation, coordination, and internal rigidity are separate relations |
 | Dispersion | Which organization loses relation, continuity, or capacity | Dispersion is expressed through loss of relation, continuity, or structural capacity; spatial extension is a geometrical description whose function must be determined |
-| Stagnation | Whether a configuration prevents further lawful traversal or remains inactive | Frozen equilibrium requires χ ≡ 1 together with cessation of enacted orientation; a fixed ratio alone does not establish stagnation. Passage through χ = 1 and entropic trapping operations remain distinct |
+| Stagnation | Whether a configuration prevents further lawful traversal or remains inactive | Recurrent cessation-directed enactment can constitute embodied Localized Dissolution while component motion continues. Current state, resonance, and completed return remain distinct; fixed χ and passage through χ = 1 are not tests for that process |
 | Destructive interaction | What is consumed or destabilized, and how recipient and surrounding structures are affected | Local persistence can coexist with depletion of the conditions supporting it |
 | Stabilization | Which configuration is sustained and through which continuing exchanges | Stabilization can be dynamically maintained through continuing motion and exchange even when a selected observable remains steady |
 | Transfer and replenishment | Donor loss, recipient gain, available capacity, and expenditure across the boundary | Donor decrease, recipient gain, boundary flux, and expenditure distinguish coherent transfer from depletion |
@@ -558,7 +558,7 @@ The variable \(\mathbf n\) has the local physical meaning defined here. It is on
 
 ### A.6 Orientation Drift and the Meaning of a Limit
 
-**Basis:** the simplified orientation equation and exact trajectory already carried by `LM03-orientation-algebra-and-infinity-formalism.md` §§8.1–8.5.[10]
+**Basis:** the conditional outward-drift equation and exact trajectory already carried by `LM03-orientation-algebra-and-infinity-formalism.md` §§8.1–8.5.[10]
 
 Motive Intensity \(\mathcal M\) measures orientation-neutral motion-capacity. For constant \(\mathcal M>0\) and finite positive initial \(\chi_0\),
 
@@ -612,7 +612,7 @@ This is an arithmetic illustration of compatible limits, with \(a\) and \(b\) lo
 
 ### A.7 Mathematical Reconciliation Items
 
-**Full and simplified orientation dynamics.** `LM03-orientation-algebra-and-infinity-formalism.md` §7.1 gives
+**Full and outward-drift orientation dynamics.** `LM03-orientation-algebra-and-infinity-formalism.md` §7.1 gives
 
 \[
 F(\chi) =
@@ -637,7 +637,9 @@ For constant nonnegative \(\mathcal M\), the full scalar law is attracting at \(
 
 The outward-drift law in §A.6 is repelling at 1 for constant positive intensity. Omitting the potential gradient from the full law would leave \(\Lambda\mathcal M\chi(1-\chi)\), so matching the outward-drift term would require \(\kappa=-\Lambda\), incompatible with both coefficients being positive. This is a difference of vector fields, not an equivalent sign convention. The corrected comparison is between the equations in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and `SP04-orientation-field-dynamics.md` §§4 and 9; `SP03-expression-ratio-mathematics.md` supplies the expression weights, not a scalar evolution law.
 
-At \(\mathcal M=0\), the full formula retains \(-\Gamma\Phi'_{\mathrm{CP}}\), so it does not implement cessation of expressed motion. Both equations also admit \(\chi\equiv1\) with constant \(\mathcal M>0\); a fixed ratio does not imply \(\mathcal M\to0\). Frozen-equilibrium resolution requires an additional admissibility condition or coupled law expressing cessation of enacted orientation. The intended vector field, activation compatibility, and frozen-equilibrium closure remain architect-held. Both displayed equations remain unchanged. Evolving expressive prevalence does not alter essential inclination, and Motive Infinity remains orientation-neutral.
+At \(\mathcal M=0\), the full formula retains \(-\Gamma\Phi'_{\mathrm{CP}}\), so it does not implement cessation of expressed motion. Both equations also admit \(\chi\equiv1\) with constant \(\mathcal M>0\); a fixed ratio does not imply \(\mathcal M\to0\). Neither scalar law is universal: no tendency toward equality or away from it is imposed. Participation, enactment, and visibility of expression can change prevalence while essential inclination remains unchanged. Both displayed equations and their valid conditional calculations remain unchanged. Motive Infinity remains orientation-neutral.
+
+Total equilibrium is transiently attainable but unsustainable within an interacting field; a stationary observable is distinct from that whole-state condition. Embodied Localized Dissolution names recurrent cessation-directed enactment, with present state, resonance, and eventual return through the Mercy Fold held distinct. A quantitative realization requires its participating state, expression relation, coupled evolution, and persistence or transition conditions. These are domain-specific development items, not an unresolved selection between the two scalar signs.
 
 **Signed flux and physical viscosity.** The fluid specialization retains \(\nu>0\). For the constant-coefficient scalar equation \(\partial_\tau I_c=D\Delta I_c\), each Fourier mode satisfies
 
@@ -1253,7 +1255,7 @@ Candidate specializations include a separately transported coherence observable 
 
 ### B.8 χ Evolution, Time, and Continuation
 
-For the simplified corpus law
+For the conditional outward-drift law
 
 \[
 \frac{d\chi}{d\tau}=\kappa\mathcal M(\tau)\chi(\chi-1),
@@ -1269,7 +1271,7 @@ for positive initial χ, separation gives
 
 The initial value χ₀ = 0 has the separate constant solution χ = 0. For \(\chi_0>1\), a finite structural-time coordinate divergence occurs only when \(\Theta\) reaches \(\log(\chi_0/(\chi_0-1))\) at a finite structural time. Strictly positive but integrable Motive Intensity can remain below that threshold indefinitely. For \(0<\chi_0<1\), convergence to zero requires unbounded cumulative \(\Theta\). Constant positive intensity yields Appendix A's particular results.
 
-The full written law attracts χ to one for the stated positive coefficients, while its potential term remains active at zero Motive Intensity. Neither written law implies \(\chi\equiv1\Rightarrow\mathcal M\to0\). The referenced equations retain distinct mathematical standing in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and `SP04-orientation-field-dynamics.md` §§4 and 9. The intended vector field, activation compatibility, and frozen-equilibrium closure remain architect-held (§A.7). The cumulative-intensity calculation in this section is conditional on the outward-drift law and does not settle that choice.
+The full written law attracts χ to one for the stated positive coefficients, while its potential term remains active at zero Motive Intensity. Neither written law implies \(\chi\equiv1\Rightarrow\mathcal M\to0\). The referenced equations retain distinct mathematical standing in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 and `SP04-orientation-field-dynamics.md` §§4 and 9. Their non-universal standing is settled (§A.7). The cumulative-intensity calculation in this section remains conditional on the outward-drift law. Quantitative participating-state and cessation-directed transition relations require their own domain realization.
 
 Physical time remains an additional relation: \(\dot\chi=\dot\tau\,d\chi/d\tau\). A finite \(\tau_*\) can correspond to infinite physical time, and conversely, depending on the time map. A divergence in the χ coordinate need not imply divergence in \(\mathbf u\) or \(\boldsymbol\omega\). Their magnitudes, spatial scales, and regularity must be calculated independently. Neither this scalar law nor a decaying energy law requires every trajectory to return to Plenary Zero.
 

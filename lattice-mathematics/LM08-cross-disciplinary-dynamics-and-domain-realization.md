@@ -1183,8 +1183,9 @@ The architectural scope remains wider than any one physical scalar or domain. Th
 
 | Question | Current Treatment |
 | --- | --- |
-| Full and simplified χ evolution have different sign behavior | The LMX's explicit linearization and the inherited formulas remain the reference; this volume makes no coefficient correction |
-| Intrinsic inclination and evolving expression | Intrinsic essential inclination is named in prose; χ denotes expressed prevalence. Their formal correspondence remains held |
+| Full and outward-drift χ evolution have different sign behavior | Both retain conditional-model standing, with no universal tendency toward equality or away from it. The calculations and domains remain; no coefficient correction is made |
+| Intrinsic inclination and evolving expression | Essential inclination remains unchanged; participation, enactment, and expressive visibility can change χ. A quantitative domain realization specifies its state, expression relation, and evolution |
+| Equilibrium and cessation-directed resolution | Total equilibrium is transient within an interacting field; fixed χ records one observable. Embodied Localized Dissolution, resonance, and completed Mercy Fold return remain distinct; quantitative persistence and transition relations require their stated domain |
 | Dimensional primary placement differs among references | Functions are articulated here; primary placement remains in the dedicated dimensional audit |
 | The native sealed norm awaits a complete construction | Each proof in this volume specifies its actual norm or state space; no unnamed sealed norm is assumed |
 | A scalar valuation is needed for some memory or capacity inequalities | The relevant functional is defined where an inequality is obtained; an operator and its numerical valuation retain distinct types |

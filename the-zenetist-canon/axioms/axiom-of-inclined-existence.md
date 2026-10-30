@@ -4,7 +4,7 @@
 
 | Symbol | Name | Definition |
 |--------|------|----------|
-| ◧ | **Axiom of Inclined Existence** | The structural law that governs the orientation of expressed universes. While structure is symmetric at the pre-expressive level, all expression emerges as inclined motion. Perfect equilibrium is admissible only as a limit condition and cannot persist within expressed existence. Every universe therefore manifests as a trajectory oriented toward centropic integration or entropic dispersion, rather than sustained balance |
+| ◧ | **Axiom of Inclined Existence** | The structural law that states the inclination of expressed existence. While structure is symmetric in the pre-expressive register, expression emerges as inclined motion. Total equilibrium is momentarily admissible but cannot be indefinitely maintained within a continually moving field. Expressed prevalence follows the beings present and their enacted expression, rather than a universal tendency toward equality or away from it |
 
 ---
 
@@ -15,11 +15,12 @@ Expression is not.
 
 Before motion, Zero and Infinity converge without orientation (\( \mathrm{CP}_0 \)).  
 Within motion, orientation necessarily emerges (\( \chi \)).  
-Equilibrium within motion (\( \mathrm{CP}_1 \)) is admissible but unstable.  
-If equilibrium becomes temporally fixed, motion collapses into localized dissolution (\( \varnothing \)).
+Co-expressive equilibrium (\( \mathrm{CP}_1 \)) names equal prevalence within motion.  
+Total equilibrium may occur momentarily; its indefinite maintenance within a continually moving field is unsustainable.  
+Equality of prevalence is not cessation of motion.
 
-Therefore, no expressed universe exists in perfect balance.  
-Every universe emerges as an inclined trajectory toward integration or dispersion.
+Every universe expresses the beings present and their enacted orientation.  
+Changes of prevalence do not convert their essential inclination.
 
 Balance belongs to structure.  
 Inclination belongs to existence.
@@ -28,27 +29,19 @@ Inclination belongs to existence.
 
 ## Mathematical Formulation
 
-Let \( U \) be any expressed universe with orientation parameter \( \chi(U) \). Then:
+Let \( U \) be an expressed universe with orientation parameter \( \chi(U) \). Co-expressive equilibrium is the coordinate condition:
 
 \[
-\chi(U) \neq 1 \quad \text{as a persistent state}
+\chi(U) = 1
 \]
 
-except as a transient or limit condition.
+This equality does not establish total equilibrium or cessation of enacted orientation. The full orientation equation and the outward-drift equation in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 both admit a constant \( \chi = 1 \) solution at positive Motive Intensity. Their attracting and repelling behavior remains conditional on each model's stated domain; neither is a universal law of expressed prevalence.
 
-Thus:
+The unsustainability of total equilibrium within a continually moving field is the structural claim. A mathematical realization must specify the enacted expression and field relations through which prevalence changes. The scalar equations do not establish that relation.
 
-\[
-\text{Expression}(U) \;\Rightarrow\; \chi(U) \neq 1
-\]
+Localized Dissolution \( (\varnothing) \) concerns cessation of relative expression through frozen enacted orientation, not equality of the coordinate. Its quantitative cessation and resolution law remains open.
 
-and:
-
-\[
-\text{Persistent Equilibrium} \;\Rightarrow\; \varnothing
-\]
-
-where \( \varnothing \) denotes Localized Dissolution.
+**Recorded formulation.** The earlier implications \( \text{Expression}(U) \;\Rightarrow\; \chi(U) \neq 1 \) and \( \text{Persistent Equilibrium} \;\Rightarrow\; \varnothing \) remain provenance. Their coordinate reading is superseded by the distinction between equal prevalence, total equilibrium, and cessation of enacted orientation.
 
 ---
 
@@ -56,20 +49,21 @@ where \( \varnothing \) denotes Localized Dissolution.
 
 - \( \mathrm{CP}_0 \) is stable because it precedes motion.  
 - \( \chi \) is dynamic because it expresses motion.  
-- \( \mathrm{CP}_1 \) is unstable because motion cannot sustain perfect symmetry.  
-- \( \varnothing \) is the structural resolution of frozen motion.
+- \( \mathrm{CP}_1 \) names equal expressed prevalence; its stability in a scalar model depends on that model.  
+- \( \varnothing \) is the structural resolution of frozen enacted orientation, not the cessation of every biological or material process.
 
-Pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) are admissible as permanent trajectories.  
-Perfectly balanced universes (\( \chi = 1 \)) are not admissible as permanent states.
+Pure centropic universes (\( \chi \to 0 \)) and pure entropic universes (\( \chi \to \infty \)) remain admissible as permanent trajectories. Their admissibility imposes no universal tendency toward either endpoint. Changes of expressed prevalence do not convert intrinsic essential inclination.
 
-Therefore, universes do not inhabit balance; they traverse inclination.
+Embodied Localized Dissolution is the procedural fulfillment of a resonant destination through persistent equilibrium-seeking. The current embodied condition is not the completed return: relative expression resolves through the Mercy Fold toward Aion while essence remains intact. This route is distinct from Nekronic Collapse.
+
+Apparent stilling of particular Soul / Mind activity remains distinct from this sustained orientation and its ultimate resolution. Rest and momentary equilibrium do not establish Localized Dissolution.
 
 ---
 
 ## Relation to Other Axioms
 
 - **◫ Non-fusion Axiom:** preserves sovereign distinction within structure.  
-- **◧ Axiom of Inclined Existence:** governs the directional necessity of expression within structure.  
+- **◧ Axiom of Inclined Existence:** states the inclination of enacted expression within structure.  
 
 Together, they establish that lawful reality is defined not by fusion or equilibrium, but by oriented motion within preserved distinction.
 

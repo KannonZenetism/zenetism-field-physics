@@ -643,7 +643,7 @@ Refers to the expressed prevalence condition at:
 
 within expressed orientation-space.
 
-Its dynamical standing is model-specific. The outward-drift model in `LM03-orientation-algebra-and-infinity-formalism.md` §8 makes this equilibrium repelling at constant positive Motive Intensity. With its stated positive coefficients and constant nonnegative Motive Intensity, the full equation in §7 attracts finite positive trajectories toward it. The relation between the two models remains architect-held; neither is selected as universal.
+Its dynamical standing is model-specific. The outward-drift model in `LM03-orientation-algebra-and-infinity-formalism.md` §8 makes this equilibrium repelling at constant positive Motive Intensity. With its stated positive coefficients and constant nonnegative Motive Intensity, the full equation in §7 attracts finite positive trajectories toward it. The two remain conditional models, not universal tendencies imposed on expression. Expressed prevalence follows the beings present and their enacted expression; the mathematical relation specifying that dependence remains architect-held.
 
 It must not be conflated with:
 - living stability,
@@ -664,11 +664,13 @@ It is not strict equilibrium.
 
 ### Frozen Equilibrium
 
-Refers to fixed \( \chi = 1 \) equilibrium where enacted orientation ceases.
+Refers to fixed \( \chi = 1 \) equilibrium where enacted orientation ceases. The cessation concerns relative expression, not essential identity or every biological and material process.
 
-The structural condition resolves toward Localized Dissolution \( (\text{Ø}) \). Fixed \( \chi = 1 \) does not establish cessation: both scalar models admit that exact ratio at positive constant Motive Intensity. The mathematical relation connecting cessation and Localized Dissolution remains architect-held.
+The structural condition resolves toward Localized Dissolution \( (\text{Ø}) \). Fixed \( \chi = 1 \) does not establish cessation: both scalar models admit that exact ratio at positive constant Motive Intensity. Momentary total equilibrium is admissible; its indefinite maintenance within a continually moving field is unsustainable. Equality of prevalence and total equilibrium remain distinct.
 
-Frozen equilibrium is stagnative, not intrinsically entropic, though cessation of enacted orientation permits gradual dissolution into the Mercy Fold (🌫️🤲⚫).
+Embodied Localized Dissolution names the procedural fulfillment of this resolution through persistent equilibrium-seeking: current state, resonance, and ultimate destination are distinct. The being enacts its essential orientation while biological and material motion continue; the destination is return to Aion through the Mercy Fold (🌫️🤲⚫). Localized Dissolution is distinct from Nekronic Collapse.
+
+Frozen equilibrium is stagnative, not intrinsically entropic. Its relation to Localized Dissolution is structurally stated; a quantitative cessation and resolution law remains open. Apparent stilling of particular Soul / Mind activity is not the terminal condition.
 
 ---
 

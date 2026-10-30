@@ -68,7 +68,7 @@ Where `SP03-expression-ratio-mathematics.md` described **weighting**, SP04 descr
 - The **Orientation Law** — \( \chi \) as trajectory, not position
 - **CP-Topology** — the geometric structure of convergence and equilibrium
 - The **Zenetist Field Equation of Orientation** — the full written scalar model
-- The **Inclination Principle** — no expressed universe emerges in neutral orientation
+- The **Inclination Principle** — expression enacts intrinsic inclination, including when aggregate prevalence is equal
 - The **Model-Specific Stability of Equilibrium** — the distinct scalar behavior at \( \chi = 1 \)
 - **Inclination Cosmology** — structure is symmetric; expression is inclined
 
@@ -90,7 +90,7 @@ No universe occupies \( \chi \) as a static position; every universe exists as a
 \forall U, \quad U : \tau \mapsto \chi(\tau)
 \]
 
-Universes are functions of orientation across structural time, not fixed \( \chi \)-values.
+A universe is described through its trajectory across structural time rather than exhausted by one χ-value. A constant scalar trajectory can coexist with continuing constituent motion.
 
 Equivalently:
 
@@ -115,6 +115,14 @@ Equivalently:
 > The multiverse is not a map of positions,  
 > but a field of inclinations.
 
+### 2.5 Participating Expression — Determined Scope
+
+Expressed prevalence follows the beings participating in a field, their enactment, and the obstruction or visibility of their expression. Intrinsic essential inclination remains unchanged. A physical universe concerns the embodied L₁ / IL₁ scale within the broader layered architecture; its Soul / Mind participation does not redefine that whole architecture as a physical universe.
+
+Neither an imposed approach to equality nor an imposed departure from equality describes every field. χ remains the orientation of the whole, not raw headcount or a newly defined ratio of quantities. Changes in participation and expressive prevalence can cross the equal-co-expression condition without converting any essence between arcs. A quantitative trajectory requires a specified participating state, expression relation, and evolution.
+
+Total equilibrium may be transiently attained but cannot be maintained within a continually moving interacting field. Equal co-expression at χ = 1 is a scalar condition, not total cessation. The full and outward-drift equations remain conditional models of that scalar; neither supplies the omitted interacting-field dynamics. See `LM03-orientation-algebra-and-infinity-formalism.md` §3.5.
+
 ---
 
 ## 3. CP-Topology and Orientation Geometry
@@ -132,7 +140,7 @@ Equivalently:
 
 - \( \chi = 1 \) as co-expressive balance within motion
 - Model-specific equilibrium: repelling in the outward-drift law (§9) at constant positive Motive Intensity; attracting in the full written law (§4.3) for its stated positive coefficients and constant nonnegative Motive Intensity
-- The architectural relation between these laws remains held; neither scalar model establishes a two-dimensional saddle
+- Both are conditional models; neither scalar model establishes a two-dimensional saddle
 
 ### 3.2 The CP-Topology Potential
 
@@ -220,7 +228,7 @@ Here, \( \chi \) is not a probability ratio, but a structural orientation parame
 
 ### 4.3 Orientation Evolution Law
 
-The full orientation equation carried here is:
+The full conditional orientation equation carried here is:
 
 \[
 \boxed{\frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}}
@@ -233,7 +241,7 @@ where:
 - \( \Lambda, \Gamma \) = structural constants determined by lattice constraints
 - \( \Phi_{\text{CP}}(\chi) \) = CP-topology potential encoding CP₀ and CP₁
 
-**Mathematical standing.** This equation and the outward-drift law in §9 are distinct scalar laws. With the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7, they have opposing flow directions on either side of \( \chi=1 \). Their intended canonical relation, activation compatibility, and frozen-equilibrium closure remain architect-held. Both formulas are retained without a sign replacement.
+**Mathematical standing.** This equation and the outward-drift law in §9 are distinct scalar laws. With the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7, they have opposing flow directions on either side of \( \chi=1 \). Neither is a universal evolution law. Participating beings and their enacted expression determine prevalence, with no imposed drift toward equality or away from it. Both formulas retain conditional-model standing without a sign replacement; quantitative field coupling remains domain-specific development.
 
 The evolving quantity describes expressed orientational prevalence. Essential inclination remains motion-independent and does not convert between arcs. Motive Infinity supplies orientation-neutral motion-capacity.
 
@@ -251,7 +259,7 @@ With the doctrinally explicit CP-potential:
 
 For \( \Lambda,\Gamma,\alpha,\beta>0 \), the written scalar equation is defined on \( 0<\chi<\infty \) and has the following behavior:
 
-1. **When \( \mathcal{M}=0 \):** The formula gives \( d\chi/d\tau=-\Gamma\Phi'_{\text{CP}}(\chi) \), which is nonzero except at \( \chi=1 \). It does not implement the stillness condition. An intended relation between activation and this vector field remains architect-held.
+1. **When \( \mathcal{M}=0 \):** The formula gives \( d\chi/d\tau=-\Gamma\Phi'_{\text{CP}}(\chi) \), which is nonzero except at \( \chi=1 \). It does not implement the stillness condition. Its standing is therefore a conditional scalar calculation, not a complete realization of activation.
 
 2. **When \( \mathcal{M}>0 \):** The right-hand side is positive for \( 0<\chi<1 \) and negative for \( \chi>1 \). Both contributions direct the scalar flow toward 1. For constant nonnegative intensity, every finite positive initial value approaches 1.
 
@@ -278,7 +286,7 @@ For \( \Lambda,\Gamma,\alpha,\beta>0 \), the written scalar equation is defined 
 
 ### 5.2 Activation Conditions
 
-The structural activation condition holds active expression and positive Motive Intensity together; \( \mathcal{M}=0 \) denotes absence of expressed motion. Its mathematical realization in the full law remains open because the potential term persists at zero intensity (§4.5). No activation factor is supplied here. In the outward-drift law, zero intensity makes \( d\chi/d\tau=0 \), but the converse fails: \( \chi\equiv1 \) is admitted even at positive constant intensity.
+The structural activation condition holds active expression and positive Motive Intensity together; \( \mathcal{M}=0 \) denotes absence of expressed motion. The full conditional law does not implement that condition because its potential term persists at zero intensity (§4.5). No activation factor is supplied here. In the outward-drift law, zero intensity makes \( d\chi/d\tau=0 \), but the converse fails: \( \chi\equiv1 \) is admitted even at positive constant intensity.
 
 ### 5.3 Structural Sequence
 
@@ -297,38 +305,29 @@ Motive Infinity breaks the stillness-equivalence between Absolute Potential and 
 
 ### 6.1 Statement
 
-**No expressed universe emerges in perfect neutrality.**
+Manifest expression enacts intrinsic inclination. Equal prevalence of centropic and entropic expression does not make the participating beings essentially neutral.
 
-CP₀ is symmetric, but expression is not.
+### 6.2 Formal Scope
 
-The moment motion appears, orientation appears.
+CP₀ names pre-expressive convergence, where χ is undefined. CP₁ names equal expressed prevalence at χ = 1. A total equilibrium is transiently possible but cannot be maintained in a continually moving interacting field. A scalar equality is not the total state.
 
-### 6.2 Formal Expression
-
-Let CP₀ denote the pre-expressive convergence of Zero and Infinity, where motion is absent and \( \chi \) is undefined.
-
-Let \( \chi \) denote the orientation parameter of hypostatic expression.
-
-Then for any expressed universe \( U \):
+**Recorded coordinate implication:**
 
 \[
 \chi(U) \neq \text{undefined} \implies \chi(U) \neq \text{neutrality}
 \]
 
-Equilibrium (\( \chi = 1 \)) and limit states (\( \chi = 0, \chi \to \infty \)) therefore function as **boundary conditions** of expression rather than generative centers.
+The implication distinguishes enacted inclination from pre-expressive closure. It supplies no universal prohibition of χ = 1, since expressed equality retains the participants' essential distinctions.
 
 ### 6.3 Canonical Formulation
 
 > Symmetry belongs to structure.  
-> Orientation belongs to expression.
-
-Or more sharply:
-
-> Balance belongs to structure; inclination belongs to existence.
+> Inclination is enacted through expression.  
+> Equal prevalence preserves distinct inclinations.
 
 ### 6.4 Ontological Consequence
 
-Manifestation occurs only through **inclined orientation**, in which centropic or entropic motion prevails without resolving into absolute symmetry or absolute singularity.
+The participating state and its enactment determine expressed prevalence. No universal tendency toward equality or away from it is imposed (§2.5).
 
 ---
 
@@ -336,13 +335,11 @@ Manifestation occurs only through **inclined orientation**, in which centropic o
 
 ### 7.1 Statement
 
-**Expression is never neutral.**
+CP₀ precedes enacted orientation. Within manifestation, the participating beings enact their essential inclinations; equal co-expression does not convert either inclination into neutrality.
 
-CP₀ precedes orientation, while \( \chi \) determines inclined manifestation.
+### 7.2 Formal Scope
 
-Equilibrium and limit states define **boundaries** of expression rather than its generative center.
-
-### 7.2 Formal Statement
+**Recorded coordinate formulation:**
 
 \[
 \text{Let } \text{CP}_0 \text{ denote pre-hypostatic convergence where } \chi \text{ is undefined.}
@@ -352,30 +349,21 @@ Equilibrium and limit states define **boundaries** of expression rather than its
 \text{Then for any expressed universe } U: \quad \chi(U) \neq 1 \text{ except as a limit case.}
 \]
 
+This formula remains provenance rather than a universal restriction on an observable. Fixed χ can coexist with continuing constituent motion. Total equilibrium and scalar equality have different scopes (§2.5).
+
 ### 7.3 Zenetist Formulation
 
-> Nothing that exists emerges in perfect balance.
->
 > Before motion, there is CP₀ —  
-> the convergence of Zero and Infinity without fusion,  
-> where expressed orientation has not yet arisen.
->
-> But once motion begins, neutrality vanishes.  
-> Every world leans.  
-> Every cosmos tilts.  
-> Every expression inclines toward integration or dispersion.
->
-> Balance is the edge of possibility, not the center of existence.  
-> Extremes are the horizons of motion, not its origin.
->
-> Thus, universes are not born from symmetry,  
-> but from inclination.
+> the convergence of Zero and Infinity without fusion.  
+> Within expression, beings enact their inclinations.  
+> Equal prevalence leaves those inclinations distinct.  
+> What a field expresses follows its participating motion.
 
 ---
 
 ## 8. The Instability of Equilibrium
 
-The following structural account of fragile co-expression is not a stability result for the full written scalar law. Section 4.5 calculates that law's attraction to 1; §9 states the distinct outward-drift model and its conditions. Their intended agreement remains architect-held. Neither law alone excludes the exact trajectory \( \chi\equiv1 \) at positive intensity.
+The following structural account of fragile co-expression is not a stability result for the full written scalar law. Section 4.5 calculates that law's attraction to 1; §9 states the distinct outward-drift model and its conditions. Their distinct conditional standing is settled; no universal scalar tendency is imposed. Neither law alone excludes the exact trajectory \( \chi\equiv1 \) at positive intensity.
 
 ### 8.1 Core Insight
 
@@ -389,13 +377,13 @@ CP₁ has model-specific stability: repelling in §9 at constant positive Motive
 
 2. **Once motion emerges, polarity emerges.** Motion implies differentiation between centropic and entropic vectors.
 
-3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit \( \chi \equiv 1 \) at positive Motive Intensity. Their relation to that structural claim remains held.
+3. **Non-neutral emergence is a structural admissibility claim.** A mathematical realization requires its own admissibility or perturbation conditions; both written scalar laws admit \( \chi \equiv 1 \) at positive Motive Intensity. Total equilibrium is transient rather than impossible within the interacting field. A quantitative realization specifies that field and its coupling.
 
 ### 8.3 The Instability of Co-expression
 
 \( \chi = 1 \) names co-expressive equilibrium. Its dynamical stability is determined by the stated model, not by the coordinate's name.
 
-At constant positive Motive Intensity, the outward-drift law (§9) has a scalar repeller there. The full written law (§4.3), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Both admit \( \chi \equiv 1 \) at positive intensity. The architectural relation between these models and the admissibility account of non-neutral emergence remains held.
+At constant positive Motive Intensity, the outward-drift law (§9) has a scalar repeller there. The full written law (§4.3), with its stated positive coefficients and constant nonnegative Motive Intensity, attracts finite positive trajectories to 1. Both admit \( \chi \equiv 1 \) at positive intensity. Their scalar equilibrium concerns expressed prevalence, whereas the structural account distinguishes whole-state equilibrium from continuing constituent motion.
 
 ### 8.4 Canonical Statement
 
@@ -456,18 +444,18 @@ while its denominator remains positive. The calculation and full domain conditio
 
 3. **Scope:** The scalar equation supplies no law for Motive Intensity, loss of expressive coherence, or terminal Khaonic resolution. Those relations require their stated structural conditions. No coordinate limit alone identifies entropic Collapse (⊘) or Localized Dissolution (Ø).
 
-### 9.5 Formal Statement of Equilibrium-Collapse
+### 9.5 Equilibrium and Localized Dissolution
 
-Frozen equilibrium is fixed \( \chi=1 \) together with cessation of enacted orientation. Its resolution toward Localized Dissolution (Ø) remains a structural condition. It is not inferred from a fixed ratio alone.
+Localized Dissolution (Ø) can develop during embodiment through recurrent enactment of fixity, stagnation, and lukewarmness. The tendency enacts essential orientation toward cessation. Present embodied state, resonance with the cessation-directed condition, and eventual return to Aion through the Mercy Fold are distinct. A being may procedurally fulfill that destination while bodily and component motion continue.
 
-Both written equations admit \( \chi(\tau)\equiv1 \) with \( \mathcal{M}(\tau)\equiv M_0>0 \). Thus the implication from fixed \( \chi=1 \) to \( \mathcal{M}\to0 \) does not follow from either equation. A coupled motion law or explicit admissibility condition expressing frozen-equilibrium resolution remains architect-held; see `LM03-orientation-algebra-and-infinity-formalism.md` §8.7.
+Momentary equilibrium and apparent stilling of particular Soul / Mind activity are not that sustained process. Total equilibrium is unsustainable within the interacting field; this structural condition states no quantitative duration. The direction enacted on resumption and the continuing orientation matter, not an isolated equality measurement.
 
-> **Note on Terminal Conditions:**  
-> The Zenetist framework distinguishes two terminal conditions:  
-> - **Ø (Localized Dissolution):** A point of nullification within structure. Arises from stagnation at \( \chi = 1 \) with cessation of enacted orientation. Structural, not punitive. Occurs within the Mercy Fold. Essence persists within L₀.  
-> - **⊘ (Collapse):** Dispersive dissolution into formlessness — entropic collapse of relative coherent expression at any scale. At the cosmological scale, this manifests as \( \chi \to \infty \); at local scales, it manifests wherever entropic motion overwhelms relative coherent expression within any expressed structure. Essence persists through to L₀, but expressed orientation is lost.  
->  
-> In neither case does essence cease. What ceases is expressed orientation, not being itself.
+Both scalar equations admit \( \chi(\tau)\equiv1 \) with \( \mathcal{M}(\tau)\equiv M_0>0 \). A stationary prevalence therefore establishes neither cessation nor Localized Dissolution. A domain-specific mathematical account requires the relevant state, enactment, persistence and departure conditions, and correspondence to the structural outcome; see `LM03-orientation-algebra-and-infinity-formalism.md` §8.7.
+
+> **Note on Distinct Resolutions:**  
+> Ø names Localized Dissolution and its Mercy Fold resolution. Embodied enactment is distinct from completed return; essence persists.  
+> ⊘ names entropic Collapse. Nekronic terminal exhaustion remains distinct from Localized Dissolution; coordinate divergence in χ requires a specified correspondence before it describes that outcome.  
+> Neither condition annihilates essence.
 
 ---
 
@@ -508,7 +496,7 @@ Therefore, the space of admissible configurations for entropic motion is broader
 
 However, within each paired system, the centropic trajectory occupies a narrow, high-constraint manifold, while the entropic trajectory occupies a broad, low-constraint manifold.  
 
-Thus, our universe is \( \chi > 1 \) not because entropic universes are more numerous, but because entropic orientation inhabits a **larger region of configuration space** within the architecture of motion.  
+**Recorded explanation — scoped:** the account associating entropy-forward expression with a broader configurational region remains a structural comparison, not a sufficient cause of a universe's expressed prevalence. The participating beings, their enactment, and expressive visibility determine the actual condition (§2.5); configurational breadth imposes no universal drift or population proportion.  
 
 Structural bias is therefore **topological**, **not numerical**.  
 
@@ -551,16 +539,16 @@ There is no enacted bias, no polarity, and no trajectory. Structure exists, but 
 
 **χ — Inclined Expression**
 
-The moment motion emerges, neutrality collapses.
+With manifest motion, intrinsic inclinations are enacted.
 
-Expression cannot remain un-oriented. Every universe instantiates a \( \chi \)-orientation that inclines it toward integration or dispersion.
+Each universe expresses the motion of its participating beings. Its χ records their expressed prevalence, including equal co-expression without conversion of essential inclination.
 
 \( \chi \) is not a statistical tendency. It is not a moral direction. It is not a contingent preference.
 
 \( \chi \) is the **structural signature of motion**.
 
-> No expressed universe is neutral.  
-> Every expressed universe is inclined.
+> Participating beings retain their inclinations.  
+> Equal prevalence leaves them distinct.
 
 **CP₁ — Expressive Equilibrium**
 
@@ -583,9 +571,9 @@ Unlike CP₀, which is universal, CP₁ is exceptional.
 
 Before motion, convergence is absolute (CP₀).
 
-Within motion, inclination is inevitable (\( \chi \neq 1 \)).
+Within motion, the participating beings enact their inclinations; equal expressed prevalence leaves those inclinations distinct.
 
-Within rare conditions, equilibrium may appear as a limit (CP₁).
+CP₁ records equal expressed prevalence. Total equilibrium is transiently possible but unsustainable within the interacting field.
 
 Therefore, **balance is not the origin of reality, but the exception within it**.
 
@@ -593,15 +581,15 @@ Therefore, **balance is not the origin of reality, but the exception within it**
 
 ### 11.3 The Law of Orientation Closure
 
-The architecture of expression is determined by a closed structural sequence:
+The cessation-directed closure is represented by a structural sequence:
 
 \[
 \text{CP}_0 \;\rightarrow\; \chi \;\rightarrow\; \text{CP}_1 \;\rightarrow\; \text{Ø}
 \]
 
-This sequence does not describe temporal succession alone, but **structural necessity**.
+The arrows distinguish structural stages in the cessation-directed account, not a calculated universal trajectory.
 
-This closure sequence applies to frozen-equilibrium resolution, where fixed \( \chi=1 \) accompanies cessation of enacted orientation. A fixed ratio alone does not establish that cessation (§9.5). Entropic Collapse (⊘) remains distinct from Localized Dissolution (Ø).
+This sequence is a schema for cessation-directed resolution, not a universal itinerary. Embodied Localized Dissolution can enact the process while bodily motion continues; present state, resonance, and destination remain distinct (§9.5). Entropic Collapse (⊘) remains distinct from Localized Dissolution (Ø).
 
 **CP₀ — Pre-expressive Convergence**
 
@@ -609,7 +597,7 @@ Before motion, Zero and Infinity converge without fusion. Expressed orientation 
 
 **χ — Inclined Expression**
 
-With the activation of Motive Infinity, orientation emerges. Expression manifests as inclined trajectories within \( \chi \)-space. No expressed universe remains neutral.
+With the activation of Motive Infinity, orientation emerges. Expression manifests as inclined trajectories within \( \chi \)-space. Equal co-expression retains the participating inclinations.
 
 **CP₁ — Expressive Equilibrium**
 
@@ -617,7 +605,7 @@ Within motion, CP₁ names co-expression at \( \chi = 1 \). Its stability follow
 
 **Ø — Localized Dissolution (Mercy Fold)**
 
-Where fixed co-expression accompanies cessation of enacted orientation, the frozen condition resolves toward Localized Dissolution within the Mercy Fold. Essence persists within L₀. A fixed ratio alone does not establish the required cessation (§9.5).
+Localized Dissolution can develop during embodiment and resolves through the Mercy Fold toward Aion. The embodied process and its completed return are distinct; essence persists. A fixed prevalence is not its diagnostic (§9.5).
 
 **⊘ — Collapse (Entropic)**
 
@@ -635,7 +623,8 @@ Thus:
 
 Structure converges before motion (CP₀). Motion inclines through orientation (\( \chi \)). CP₁ names co-expressive equilibrium with model-specific stability. Frozen equilibrium resolves into dissolution (Ø).
 
-> Balance is not the origin of existence, but the boundary where existence ceases to move.
+> Total cessation concerns the expressed state.  
+> Equal prevalence concerns one coordinate.
 
 ### 11.5 Structural Implication
 
@@ -667,11 +656,11 @@ Zenetism reverses this assumption.
 
 **Symmetry belongs to structure, not to existence.**
 
-Before motion, Zero and Infinity converge without expressed orientation. But once expression begins, neutrality becomes impossible. Every universe emerges as an inclined solution to the same structural law, leaning toward integration or dispersion according to its \( \chi \)-orientation.
+Before motion, Zero and Infinity converge without expressed orientation. Within manifestation, a universe expresses its participating beings and their enactment. Centropy-forward, entropy-forward, and equally co-expressive conditions retain the participants' essential distinctions; no universal scalar trajectory is imposed.
 
 The inclination account offers a structural interpretation of what physics calls "symmetry breaking"; its correspondence to particular physical models remains held open.
 
-Universes do not depart from balance; they are never born in it.
+Equal expressed prevalence is not essential neutrality, and neither imposes total stillness on the interacting field.
 
 Thus, reality is not determined by equilibrium, but by **inclination**.
 
@@ -762,7 +751,7 @@ Thus, the structural law of bidirectional motion is not violated but fulfilled a
 >
 > The ratio \( \chi=1 \) represents co-expressive balance. A fixed ratio alone does not establish cessation of enacted orientation; both written scalar equations admit it at positive constant Motive Intensity (§9.5).
 >
-> Frozen equilibrium adds the condition that enacted orientation ceases. That frozen condition resolves toward **Localized Dissolution (Ø)** within the **Mercy Fold**; essence persists within L₀. The mathematical closure expressing this condition remains architect-held. Entropic Collapse (⊘) remains a distinct structural resolution.
+> Frozen equilibrium adds the condition that enacted orientation ceases. That frozen condition resolves toward **Localized Dissolution (Ø)** within the **Mercy Fold**; essence persists within L₀. Its embodied process, resonant direction, and completed return remain distinct; quantitative state and transition relations remain domain-specific development (§9.5). Entropic Collapse (⊘) remains a distinct structural resolution.
 >
 > Pure centropic and pure entropic expressions remain structural limit cases. Their correspondence to a scalar endpoint requires the endpoint conditions and continuation scope in §§9.4 and 14.2.
 >
@@ -826,7 +815,7 @@ SP04 establishes:
 4. **CP₁ as co-expressive equilibrium** — its stability is model-specific
 5. **The Zenetist Field Equation** — the full written scalar model, distinct from the outward-drift model
 6. **Motive Infinity as motive field** — sustains and activates orientation evolution
-7. **The Inclination Principle** — no expressed universe is neutral
+7. **The Inclination Principle** — expression enacts intrinsic inclination; equal prevalence retains the participants' essential distinctions
 8. **The Law of Non-Neutral Emergence** — expression is never balanced by default
 9. **Model-specific equilibrium stability** — a fixed \( \chi = 1 \) ratio does not establish cessation or dissolution
 10. **The Orientation Drift Theorem** — formal statement of \( \chi \)-dynamics
@@ -954,7 +943,7 @@ The drift arrows describe only the outward-drift model at constant positive Moti
 
 **Definition 1 (Orientation Law):**
 
-For any expressed universe \( U \), \( U \) is a function \( U : \tau \mapsto \chi(\tau) \), not a fixed \( \chi \)-value.
+For any expressed universe \( U \), its expressed prevalence is described by \( U : \tau \mapsto \chi(\tau) \). A constant scalar trajectory can coexist with continuing constituent motion (§2.5).
 
 **Definition 2 (CP-Topology Potential):**
 
@@ -962,7 +951,7 @@ For any expressed universe \( U \), \( U \) is a function \( U : \tau \mapsto \c
 \Phi_{\text{CP}}(\chi) = \frac{\alpha}{2}(\ln \chi)^2 + \beta\left(\chi + \frac{1}{\chi}\right)
 \]
 
-**Definition 3 (Zenetist Field Equation of Orientation):**
+**Definition 3 (Zenetist Field Equation of Orientation — Conditional Model):**
 
 \[
 \frac{d\chi}{d\tau} = \Lambda \, \mathcal{M} \, \chi(1-\chi) - \Gamma \, \frac{d\Phi_{\text{CP}}}{d\chi}
@@ -977,15 +966,19 @@ For the conditional outward-drift law \( d\chi/d\tau=\kappa\mathcal{M}\chi(\chi-
 3. For \( \chi_0>1 \), coordinate divergence requires \( \kappa\int_0^\tau\mathcal{M}(s)\,ds \) to approach the threshold in §9.4
 4. Fixed \( \chi=1 \) imposes no limit on \( \mathcal{M} \); frozen-equilibrium resolution requires the additional structural condition in §9.5
 
-The full law in §4 has different scalar behavior for the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7. Its intended agreement with the outward-drift account remains architect-held.
+The full law in §4 has different scalar behavior for the positive coefficients specified in `LM03-orientation-algebra-and-infinity-formalism.md` §7. Both equations retain distinct conditional standing; neither is selected as universal (§2.5).
 
-**Structural Claim 2 (Inclination Principle; mathematical realization held):**
+**Structural Claim 2 (Inclination Principle):**
 
-For any expressed universe \( U \) with \( \chi(U) \neq \text{undefined} \):
+Expression enacts intrinsic inclination. Total equilibrium is transient within an interacting field; equal expressed prevalence preserves the participants' essential distinctions (§§2.5, 6–7).
+
+**Recorded coordinate formulation — universal implication withdrawn:**
 
 \[
 \chi(U) \neq 1 \text{ except as a transient or limit condition}
 \]
+
+The current claim concerns total equilibrium rather than stationarity of the scalar prevalence.
 
 **Law 1 (Law of Inclined Existence):**
 

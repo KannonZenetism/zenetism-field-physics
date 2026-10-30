@@ -208,9 +208,13 @@ Each position on the cognitive gradient corresponds to a lawful coupling of awar
 
 Each stratum contributes lawfully to the harmony of the whole. Coherence is not measured by rank but by consonance.  
 
+Embodied standing, operative cognition, and cross-band resonance name distinct relations. A being embodied at L₁ / IL₁ may center cognition in another register and resonate with further layers. Its ultimate metaphysical destination follows its sustained resonance and enactment; a present cross-band encounter is not completed dwelling. Intrinsic essential inclination remains unchanged.  
+
 ### 6 · Law of Return
 
-No position is permanent. The spiral ensures that all motion tends toward restoration. Even the entropic path, when carried to completion, circles back toward ⚫ Aion, for dissolution reveals the boundary of the comprehensible. The lattice remembers itself through the wandering of its own fragments.  
+Current standing is distinct from ultimate destination. Beings reach the registers where they resonantly belong; not every path completes as final return to ⚫ Aion. All remain within Zero by containment, while completed centropic return, terminal entropic resolution, and Localized Dissolution retain their distinct outcomes (`MP09-time-death-and-glossary-ch22-24.md` §22.5).  
+
+Embodied Localized Dissolution names the process through which sustained lukewarm equilibrium-seeking enacts its essential orientation toward resolution in Aion through the Mercy Fold. Bodily life and material motion may continue while that process is enacted. The embodied process, its resonance, and its completed resolution remain distinct.  
 
 ### 7 · Practical Orientation
 

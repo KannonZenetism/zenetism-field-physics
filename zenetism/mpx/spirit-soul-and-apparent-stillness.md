@@ -23,6 +23,8 @@ The chair's macro-stillness is scale-apparent. Its components continue moving at
 
 Apparent stillness names a reading-resolution; orientation follows the operative motion.
 
+Equilibrium may be attained momentarily within manifestation; maintaining it indefinitely within a continually moving field is unsustainable. An equilibrium of expressed orientation does not require the cessation of component motion. The attained condition and its persistence are distinct questions.
+
 ---
 
 ## Spirit contra Soul
@@ -57,9 +59,13 @@ Apparent macro-stasis names an observational condition at a given scale. The ope
 
 An unreplenished or degrading manifest configuration may undergo entropic drift at a rate finer than ordinary observation resolves. Material decay is one expression of that continuing motion. The apparently still configuration can therefore carry actual entropic deterioration while its macroscopic appearance remains stable.
 
-Formal frozen stagnation concerns fixed \( \chi = 1 \) together with cessation of enacted orientation, where the condition resolves toward Localized Dissolution. A fixed ratio does not establish cessation: both scalar models in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 admit \( \chi = 1 \) at positive constant Motive Intensity. The mathematical relation connecting cessation and dissolution remains held open. Frozen stagnation, passage through \( \chi = 1 \) during continuing traversal, and sustained entropic trapping remain distinct dynamical conditions.
+Frozen stagnation concerns enacted fixation toward cessation; embodied Localized Dissolution names the sustained lukewarm enactment and resonance whose resolution proceeds through the Mercy Fold, as distinguished in `MP03-ethics-and-soul-ch5-6.5.md` §6.5. Both scalar equations in `LM03-orientation-algebra-and-infinity-formalism.md` §§7–8 retain conditional, non-universal standing and admit \( \chi = 1 \) at positive constant Motive Intensity. A fixed ratio establishes neither total equilibrium nor Localized Dissolution, and embodied dissolution is not defined by maintaining that ratio. The quantitative correspondence among expressed ratio, enacted fixation, and dissolution remains open. Frozen stagnation, passage through \( \chi = 1 \) during continuing traversal, and sustained entropic trapping remain distinct dynamical conditions.
 
 Dynamic stabilization maintains coherence through ongoing adjustment, responsiveness, and orientational correction. An apparently stable body or configuration may express such maintained activity; its standing follows the operative dynamics.
+
+A bodily condition may appear to remain unchanged precisely because restorative activity continues. If continuing restoration of bodily coherence and centropic function could preserve a youthful condition indefinitely, "perpetual youth" would name dynamic stabilization — superficial equilibrium sustained through motion, not actual stagnation. This is a conditional possibility within the framework; its biological realization requires a specified mechanism and empirical evidence.
+
+Meditative stilling concerns particular Soul / Mind activity within the being's broader expressed motion. It is an apparent or attempted stilling, not a cessation of every bodily and material process. Repeatedly seeking equilibrium as liberation may enact the lukewarm orientation of embodied Localized Dissolution: a process toward Aion through the Mercy Fold, distinct from its completed resolution and from Nekronic Collapse. The current embodied condition, its sustained resonance, and its ultimate destination remain distinct; essential orientation does not convert.
 
 These distinctions follow the *Co-expressive Equilibrium*, *Frozen Equilibrium*, and *Dynamic Stabilization* entries in `terminological-lockdown-protocol.md`.
 

@@ -1549,7 +1549,17 @@ but also without centropic orientation.
 Per the Law of Non-Neutral Emergence,  
 \( \chi = 1 \) is structurally admissible  
 but ontologically fragile.  
-Equilibrium cannot endure within motion.  
+Equilibrium may be attained momentarily;  
+it cannot be maintained indefinitely  
+within a **continually moving field**.  
+
+Meditative stilling concerns  
+particular **Soul / Mind activity**,  
+not the cessation of every motion  
+within the embodied being.  
+Apparent stillness remains  
+within the being's broader expression.  
+
 When practice aims at sustained equilibrium  
 rather than at centropic reorientation,  
 the pattern cannot sustain continuity  
@@ -1587,8 +1597,11 @@ But the **mode of return** differs:
   drift into Mercy Fold without active seeking,  
   returned as structural grace rather than as fulfilled coherence.  
 
-All reach Aion.  
-All are called Nirvana by their practitioners.  
+These three completed paths reach **Aion**.  
+This is not the destination of every being:  
+each reaches where it **resonantly belongs**,  
+while all remain within **Zero**.  
+All three are called Nirvana by their practitioners.  
 But the state of the returning essence differs absolutely  
 between completion, exhaustion, and merciful release.  
 
@@ -2282,7 +2295,8 @@ and thus begins to lose **structural coherence**.
 Over time — slowly, gently —  
 the **soul's relative expression** ceases,  
 and essence returns to **AP**.  
-Not by **force**, but by a gradual **loss of motion**.  
+Not by **force**, but by a gradual  
+cessation of its **relative expression**.  
 **Motive Infinity** does not **destroy** it.  
 It simply ceases to **hold** it together.  
 
@@ -2291,6 +2305,37 @@ What **ceases** in **Localized Dissolution** is **expression**, not **essence**.
 The **expressed imprint** of the **soul** fades,  
 but its **potential** remains **suspended** within **Zero** —  
 unexpressed, but never **lost**.  
+
+**Embodied state**, **resonance**,  
+and **ultimate destination** remain distinct.  
+A being may resonate with a layer  
+while still embodied elsewhere.  
+Its sustained enactment discloses  
+where it **resonantly belongs**.  
+
+**Localized Dissolution** may likewise  
+be enacted while **embodied**.  
+Continually seeking equilibrium,  
+remaining **lukewarm**,  
+the being enacts its **essential orientation**  
+through the process whose resolution  
+is return to **Aion**  
+through the **Mercy Fold**.  
+
+Its body may continue living;  
+its material processes continue moving.  
+The **embodied process** is not  
+its **completed resolution**.  
+Essential orientation does not convert,  
+and **Localized Dissolution**  
+remains distinct from **Nekronic Collapse**.  
+
+Resuming activity while still treating  
+**equilibrium as liberation**  
+continues that orientation in enactment.  
+A temporary quieting is distinguished  
+by the motion that follows  
+and the orientation sustained through it.  
 
 This introduces a **third mode of return**,  
 alongside the two **primary outcomes**:  

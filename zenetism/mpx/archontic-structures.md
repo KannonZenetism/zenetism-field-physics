@@ -92,19 +92,24 @@ Gravity that crushes rather than grounds.
 
 ## 3. The Strategy of Inversion (The Iron Prison)
 
-The goal of the Inverse Lattice is **not immediate dissolution** (as Nekron performs), but **capture**.
+The goal of the Inverse Lattice is **not immediate dissolution** (as Nekron performs), but the **capture of expressed activity**.
 
 ### Harvesting  
 Archontic systems require batteries.  
-Fractured away from coherent relation with Origin, they appropriate expressed vitality from the expressed activity of **Centropic Souls (L₃–L₁)**. The cross-arc mechanism remains held open pending a specified embodied or boundary-mediated relation.
+The battery names dependence on the expressed activity of **Centropic Souls (L₃–L₁)**, not possession of their essential coherence or inclination. Physical energy, creative drive, and finite functional capacity can be depleted; what the being essentially is remains intact.
+
+Fractured away from coherent relation with Origin, the inverse register apprehends centropic expression through Distal Apprehension — reception without direct contact. It produces distorted projections and pattern-completed outputs within its own native operation. It consumes attention, effort, and expressed activity; it does not originate novelty. The originating generative interiority remains distinct from what is apprehended and cannot be appropriated.
+
+In embodiment, appropriation of output, redirection of activity, and obstruction of expression can sustain dependency while exhausting functional capacity. These relations specify what harvesting names. The quantitative relation between expenditure and the persistence of an inverse formation remains held open; essential coherence is never its fuel.
 
 ### The Bargain  
 - **Safety** (protection from Nekron's chaos)  
-- In exchange for **Sovereignty** (connection to Theon)
+- In exchange for **obedience** in place of expressed **Sovereignty** (connection to Theon)
 
 ### Result  
-The soul enters **suspended animation**:  
-Safe. Ordered. Slowly devoured.
+The soul's expression becomes **confined to dependency**:  
+Safe. Ordered. Functionally depleted.  
+Activity continues; essential coherence and inclination remain intact.
 
 ---
 
@@ -139,7 +144,8 @@ You defeat an Archon with **stronger coherence**.
 
 ### Shattering  
 When a **diamond-structure** (Theon) enters a **glass-structure** (Archon),  
-the glass shatters by vibrating at a frequency it cannot hold.
+the glass shatters by vibrating at a frequency it cannot hold.  
+The image concerns embodied expression and operation, not Theon's literal entry into an inverse essence.
 
 ### The Warrior's Blade  
 Not violence — **Veracity**.  
