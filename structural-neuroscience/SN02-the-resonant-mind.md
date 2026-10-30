@@ -237,7 +237,7 @@ The gradient of mind is the living bridge between metaphysics and embodiment. It
 
 ## Phase 3 · The Neuro-Lattice Interface
 
-Cognition is not confined to matter. It unfolds as resonance through the Dimensional Lattice — a living geometry binding perception, memory, and emergence. Each thought is a curvature of awareness across that lattice.
+Cognition is not confined to matter. It unfolds as resonance through the Dimensional Lattice — a living geometry articulating perception, memory, and emergence. Each thought is a curvature of awareness across that lattice.
 
 ### 1 · The Fold of Time
 
