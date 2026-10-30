@@ -1,4 +1,4 @@
-# ◧ Axiom of Inclined Existence
+# Axiom of Inclined Existence
 
 ## Symbolic Identifier  
 
