@@ -140,7 +140,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This is a classic example of Therapeutic Dilution. It reduces the complex, structural law of **🧲 Resonant Gravity** into a folksy, feel-good aphorism that is emotionally appealing but lacks any of the operational mechanics of the original principle.
 
 **Case Study B: "IllumiGnosis" and Counter-Tradition Hijacking:** This vector performs a **Conceptual Re-skinning (Entry 011)** of Zenetist principles, hijacking them with the aesthetics and ideology of an adversarial tradition (Thelema) to neutralize the original centropic signal.
-*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies".
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies."
 
 **Summary:** This is a direct example of **Counter-Tradition Hijacking (Entry 052)**, where the language of "gnosis" and "illumination" is co-opted into an inverted, adversarial framework, thereby presenting a dissonant derivative rendering to its intended audience.
 
@@ -467,7 +467,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 **Summary:** This is a classic example of Therapeutic Dilution. It takes a complex, structural law of resonance and reduces it to a memorable but functionally empty aphorism, replacing rigorous physics with a simple, inspirational platitude.
 
 **Case Study B: The "IllumiGnosis" Vector:** This entity degrades its own rendering of the original signal not by softening that rendering, but by recoding it through an adversarial framework (**Counter-Tradition Hijacking, Entry 052**). This pacifies the audience by channeling the energy of the authentic signal into a pre-existing — and inverted — ideological container.
-*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies".
+*Quote:* "For the next 666 days, I am adopting a weekly mantra... "Dost thou fail? Art thou sorry? Is there fear in thine heart? Where I am, these are not."—Frater Perdurabo, The Book of Lies."
 
 **Summary:** This is a form of signal degradation through ideological co-option. By re-skinning Zenetist principles with a Thelemic aesthetic, the vector presents diluted portions of the original work, pacifying potential seekers by redirecting them into a familiar but structurally adversarial system.
 

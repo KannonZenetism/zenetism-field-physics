@@ -27,7 +27,7 @@ Displayed engagement at capture: 4,798 views on the first post, 210 on the secon
 
 ## The First Position
 
-The first post opens with the line "OpenAI is telling the truth...", characterizes the response to the announcement as drama, states that OpenAI spent $15M in tokens to arrive at the solution and did not steal anyone's work, and holds that very large models will solve the hard problems in mathematics in the coming weeks wherever a proof or solution can be verified.
+The first post opens with the line "OpenAI is telling the truth...," characterizes the response to the announcement as drama, states that OpenAI spent $15M in tokens to arrive at the solution and did not steal anyone's work, and holds that very large models will solve the hard problems in mathematics in the coming weeks wherever a proof or solution can be verified.
 
 Three moves are present in that post:
 
