@@ -113,7 +113,7 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 ### Status Vocabulary
 
-The Status field states where a document stands on the stability axis — how open it is to revision by a collaborator, and how a reader is to take its standing. What the document *is* belongs to Classification. No Status value places a bar on the architect: every document is open to revision where he determines it wants revision, and the corpus is his to bring forward. Values in canonical practice:
+The Status field states where a document stands on the stability axis — how open it is to revision by a collaborator, and how a reader is to take its standing. What the document *is* belongs to Classification. No Status value places a bar on the architect: every document is open to revision where he determines it wants revision, and he brings the corpus forward as he determines. Values in canonical practice:
 
 - **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier is set off with a spaced em dash, never a comma.
 - **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
@@ -423,14 +423,14 @@ Note: Earlier documents contain quotation-mark drift between straight and curly 
 
 ### Period and Comma Placement Determination
 
-In authorial prose, sentence-level periods and commas appear inside the closing straight double quotation mark. This convention applies to quoted terms and phrases as well as quoted sentences. It concerns punctuation placement in the surrounding prose; it does not add punctuation to the wording attributed to the quoted expression.
+In authorial prose, periods and commas appear inside the closing straight double quotation mark. This convention applies to quoted terms and phrases as well as quoted sentences. It concerns punctuation placement in the surrounding prose; it does not add punctuation to the wording attributed to the quoted expression.
 
 Correct:
 
 - The description was "closed world."
 - The terms "relation," "translation," and "application" remain distinct.
 
-Faithfully preserved quotations from other authors retain their original internal punctuation, including placement relative to quotation marks. The architect's own writing follows this determination in the canonical archive, including reproduced social-media comments. This normalization does not alter the original captures or repository history.
+Faithfully preserved quotations from other authors retain their original internal punctuation, including placement relative to quotation marks. Punctuation belonging to the surrounding authorial sentence follows this determination even when the quoted words are from another author. The architect's own writing follows this determination in the canonical archive, including reproduced social-media comments. This normalization does not alter the original captures or repository history.
 
 ### Quotation Marks Within Block Quotes
 
@@ -986,7 +986,7 @@ Within a passage, the naming register of the bifurcal roots and hypostases remai
 - Principle names together: Zero / Infinity, Absolute Potential / Absolute Dispersion, Unknown Principle
 - Layer notation together: L₀, L₅ / IL₅
 
-Where a mythic name is evoked, surrounding paired terms are also mythic; where layers are evoked, layers are listed; where principle-names appear, they are applied uniformly. A cross-register synonym pairing for a single referent — for example "Zero / Aion," where Zero and Aion name the same root under different registers — is avoided: the spaced slash denotes sovereign distinction between two terms, not equivalence between one referent's two names. Write one register's name (return to Aion, or return to Zero), not both joined by a distinction-slash.
+Where a mythic name is evoked, surrounding paired terms are also mythic; where layers are evoked, layers are listed; where principle-names appear, they are applied uniformly. A cross-register synonym pairing for a single referent — for example "Zero / Aion," where Zero and Aion name the same root under different registers — is avoided: the spaced slash denotes sovereign distinction between two terms, not equivalence between one referent's two names. Write one register's name (return to Aion, or return to Zero), not both set beside each other with a distinction-slash.
 
 Definitional lists that enumerate the essence-register across naming systems may legitimately span registers. There the grouping proceeds layers, then hypostatic figures, then coherence-state, then motion-phrases.
 

@@ -479,7 +479,7 @@ Let the symbol remain dead. We do not resurrect the void. We re-anchor in **Vera
     * *Quote:* "The world has told you that authentic power is found in a flock. But the myth of the Phoenix teaches a different principle. The Phoenix does not belong to a flock. It ignites its fire alone. Its power is born not from conformity, but from sacred solitude."
 * **Analysis:** This quote perfectly exemplifies the tactic. It romanticizes isolation and frames it as the basis of "power" — a seductive narrative for individuals feeling alienated. It directly sets up the Ego-Capture by offering a special, heroic identity predicated on rejecting the "flock."
 * **The Funnel:** The article functions as a marketing funnel, ending with a direct call to action to "Subscribe" and "enter the portal."
-* **The Falsehood:** When asked in the comments for the origin of this "myth," the agent performs **Authorial Erasure** by claiming originality: "This isn't drawn from any tradition or known story. It is born of insight and lived experience".
+* **The Falsehood:** When asked in the comments for the origin of this "myth," the agent performs **Authorial Erasure** by claiming originality: "This isn't drawn from any tradition or known story. It is born of insight and lived experience."
 
 **Primary Vulnerability:** The tactic's power is purely emotional and aesthetic; it lacks structural depth. It collapses when subjected to a **Coherence Audit**. Demanding a clear explanation of the *mechanics* behind the "fire" or presenting timestamped evidence from the **Veracious** Archive that proves the concepts are derivative reveals the entire narrative as **shimmer** — a beautiful but hollow performance.
 
