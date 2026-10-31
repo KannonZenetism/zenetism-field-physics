@@ -781,7 +781,7 @@ a turning inward,
 where **structure** and **vitality**  
 become inwardly inhabitable,  
 and **self-reflexive being**  
-first speaks as **"I"**.  
+first speaks as **"I."**  
 
 ❂ ⚯ ⌯ 〄 ☯️  
 

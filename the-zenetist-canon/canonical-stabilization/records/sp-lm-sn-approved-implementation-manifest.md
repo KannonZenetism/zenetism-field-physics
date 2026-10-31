@@ -26,7 +26,7 @@ The full architect determinations in `sp-lm-sn-architect-decision-sheet.md` take
 
 The schedules, allowlists, specifications, procedural statements, and completion criteria retained in §§4–24 belong to the earlier planning model. They are historical material, not instructions for later implementation.
 
-Descriptions such as "approved", "admitted", and "standing" in those sections record that former model and confer no present implementation standing. The decision summaries and allowlists remain unrevised; they are not a substitute for the full determinations.
+Descriptions such as "approved," "admitted," and "standing" in those sections record that former model and confer no present implementation standing. The decision summaries and allowlists remain unrevised; they are not a substitute for the full determinations.
 
 ---
 
@@ -550,7 +550,7 @@ The following TLS records have **HOLD — NO CHANGE ADMISSION** standing. This i
 
 The allowlists do not admit:
 
-- recovery-label adoption, including the proposed "Aion-facing reconnection", or a recovery mnemonic rename;
+- recovery-label adoption, including the proposed "Aion-facing reconnection," or a recovery mnemonic rename;
 - the independent LM calculus-identity heading choices in TLS-SPLMSN-302;
 - any Recovery Anchor alias retirement or unrelated glyph change embedded in TLS-SPLMSN-054 or TLS-SPLMSN-219;
 - a general under-language purge from TLS-SPLMSN-225;

@@ -340,13 +340,13 @@ Native references and companion filenames appear in the metadata and at their su
 
 | ID | Scientific reference |
 | --- | --- |
-| A1 | Hengen, K. B., et al. (2016), "Neuronal Firing Rate Homeostasis Is Inhibited by Sleep and Promoted by Wake", *Cell* 165, 180–191; DOI `10.1016/j.cell.2016.01.046` |
-| A2 | Torrado Pacheco, A., et al. (2021), "Sleep Promotes Downward Firing Rate Homeostasis", *Neuron* 109, 530–544.e6; DOI `10.1016/j.neuron.2020.11.001` |
-| A3 | Laigaard, P. P., et al. (2026), "Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis", *European Journal of Neurology* 33, e70713; DOI `10.1111/ene.70713` |
-| A4 | Dancause, N., et al. (2005), "Extensive Cortical Rewiring after Brain Injury", *Journal of Neuroscience* 25, 10167–10179; DOI `10.1523/JNEUROSCI.3256-05.2005` |
-| A5 | Nibras, N., et al. (2021), "Dissociating Sensorimotor Recovery and Compensation During Exoskeleton Training Following Stroke", *Frontiers in Human Neuroscience* 15, 645021; DOI `10.3389/fnhum.2021.645021` |
-| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures", *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
-| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance", *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
+| A1 | Hengen, K. B., et al. (2016), "Neuronal Firing Rate Homeostasis Is Inhibited by Sleep and Promoted by Wake," *Cell* 165, 180–191; DOI `10.1016/j.cell.2016.01.046` |
+| A2 | Torrado Pacheco, A., et al. (2021), "Sleep Promotes Downward Firing Rate Homeostasis," *Neuron* 109, 530–544.e6; DOI `10.1016/j.neuron.2020.11.001` |
+| A3 | Laigaard, P. P., et al. (2026), "Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis," *European Journal of Neurology* 33, e70713; DOI `10.1111/ene.70713` |
+| A4 | Dancause, N., et al. (2005), "Extensive Cortical Rewiring after Brain Injury," *Journal of Neuroscience* 25, 10167–10179; DOI `10.1523/JNEUROSCI.3256-05.2005` |
+| A5 | Nibras, N., et al. (2021), "Dissociating Sensorimotor Recovery and Compensation During Exoskeleton Training Following Stroke," *Frontiers in Human Neuroscience* 15, 645021; DOI `10.3389/fnhum.2021.645021` |
+| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures," *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
+| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance," *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
 
 ---
 

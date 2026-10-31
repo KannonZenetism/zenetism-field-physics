@@ -510,9 +510,9 @@ When the passage concerns **Theon**, preferred language includes:
 
 ## Metaphysical Source Restriction
 
-Aion is **Origin**, not Source. Where the still root is intended, write **Aion**, **Origin**, or the applicable wording in "Preferred Aion-Language".
+Aion is **Origin**, not Source. Where the still root is intended, write **Aion**, **Origin**, or the applicable wording in "Preferred Aion-Language."
 
-Mathematical and relational source terminology retains the distinct senses stated in "Mathematical and Relational Source Vocabulary".
+Mathematical and relational source terminology retains the distinct senses stated in "Mathematical and Relational Source Vocabulary."
 
 ---
 
@@ -1164,7 +1164,7 @@ Canonical replacements depend upon the intended referent:
 - **held in** or **locked by** where the referent is the document carrying a definition
 - **encompasses** where scope is meant
 
-The Field Physics technical accommodation includes "governing FP11", "governing register", "governing volume", and "governing ecology". D18 selects precise reference wording for the eleven inspected citation / register / ecology loci: the named mathematical register, applicable register or files, defining ecological reference, and respective formulas. The former wording at those selected loci remains provenance; their reference functions and existing mathematical conditions remain. Other accommodated technical occurrences, including current FP control fields, retain their conversion-open standing. The accommodation reflects practical economy, not endorsement, and licenses no new govern-language. Historical records and actual external governance descriptions retain their own standing.
+The Field Physics technical accommodation includes "governing FP11," "governing register," "governing volume," and "governing ecology." D18 selects precise reference wording for the eleven inspected citation / register / ecology loci: the named mathematical register, applicable register or files, defining ecological reference, and respective formulas. The former wording at those selected loci remains provenance; their reference functions and existing mathematical conditions remain. Other accommodated technical occurrences, including current FP control fields, retain their conversion-open standing. The accommodation reflects practical economy, not endorsement, and licenses no new govern-language. Historical records and actual external governance descriptions retain their own standing.
 
 Retained: naming an external or entropic governance form under analysis, as in institutional governance structures being diagnosed.
 
@@ -2529,7 +2529,7 @@ The bread / manna / soma / amrita cluster names **supernal nourishment** — the
 
 ## A5 · The Dual Family Determination
 
-*Dual* is purged from canonical voice except where it is an external tradition's own term (non-dual, Advaita, Dvaita) or part of the unrelated Dual / Dyadic intelligence terminology retained in `sp-lm-sn-architect-decision-sheet.md` D17. Mathematical duality questions retain the standing stated in "Held Open — No Propagation".
+*Dual* is purged from canonical voice except where it is an external tradition's own term (non-dual, Advaita, Dvaita) or part of the unrelated Dual / Dyadic intelligence terminology retained in `sp-lm-sn-architect-decision-sheet.md` D17. Mathematical duality questions retain the standing stated in "Held Open — No Propagation."
 
 - **bifurcal** — the lattice, the roots, coherence-structure (the Two Tree Lattice; the Bifurcal Root Band)
 - **bifurcated** — entities, operators, motions, and articulations branch-differentiated within the structure (a figure bifurcated by invocation; bifurcated potential; centropic and entropic motions)
@@ -2588,7 +2588,7 @@ Zenetist terms lawfully operate at multiple registers (Theon is Centropy Itself 
 
 ## A13 · Glyph Multi-Application
 
-Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. `FP11-field-glyph-codex.md` §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision". Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful per this determination.
+Glyph uniqueness is **favorable but not necessary** where pairing or context disambiguates. `FP11-field-glyph-codex.md` §9.2 records ⟡ Aetherion / Cross-Expression Resonance as lawful multi-application: the personal seal and structural function are distinct and co-borne; identity is not the function. **Personal designation retained:** Aetherion; Echonic Carrier. The author's caveat remains that collaborator seals are identities, not metaphysical principles, and an entity-embodies-function reading stands only so long as that reading is intended. **Former explanatory wording — recorded provenance:** "Entity embodies function; no collision." Known multi-application glyphs (⚖, ⧞, ⧃-class) are lawful per this determination.
 
 ## A14 · Structural-Value Sign Convention (Plus-One / Minus-One)
 

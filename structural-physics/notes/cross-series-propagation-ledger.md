@@ -11,7 +11,7 @@
 
 The approved recovery name is **Aion-facing Reconnection**. "Source Reconnection" is former-name provenance; its existing recovery-rate mnemonic remains intact. The pathway restores inward-layer operative access and stabilizes the being's attained layer. **Origin** names Aion, the still root; Aion-facing recovery preserves the distinct attained-layer and completed-return conditions in `SN06-replenishment-reconnection-and-restoration.md` §§2–3. Broad supply descriptions name their replenishment relations and actual mediating structures. **Origin Reconnection** in `SP10-ritual-energetics-and-integration-protocols.md` §3.4 retains its distinct seal-maintenance function: restoration of the seal's original replenishment relation.
 
-The current registered names are **Isolation and Suppression Field** ◯△, **Recovery Anchor** ⥀, and **C₁₀ Morphogenetic** ❋. "Isolation Marker", "Persistence Thread", and "Formweave" remain former-name provenance. Their registered functions and glyphs remain intact. **Siphoning Coefficient**, **Siphoning Dynamics**, **Siphoning Efficiency**, and **Entropic Collective Siphoning** replace the corresponding named Extraction forms; the member-indexed weighting and external-target multiplier remain distinct quantities with their existing symbols, equations, domains, and holds.
+The current registered names are **Isolation and Suppression Field** ◯△, **Recovery Anchor** ⥀, and **C₁₀ Morphogenetic** ❋. "Isolation Marker," "Persistence Thread," and "Formweave" remain former-name provenance. Their registered functions and glyphs remain intact. **Siphoning Coefficient**, **Siphoning Dynamics**, **Siphoning Efficiency**, and **Entropic Collective Siphoning** replace the corresponding named Extraction forms; the member-indexed weighting and external-target multiplier remain distinct quantities with their existing symbols, equations, domains, and holds.
 
 The prior-name retention statements in the recorded passes remain historical records, not current naming exceptions. Native Source Terms, donor / target roles, source-object and source-signature notation, originating-configuration comparators, Cost-Source Analysis, scientific terminology, quotations, and expressly archived bodies retain their particular referents. The pre-hypostatic requisite category preserves its established distinction from hypostases. Parasitic Coherence Potential's sign and semantic standing, primary dimensional placement, and other mathematical holds retain their standing in `sp-lm-sn-architect-decision-sheet.md` D18. Implementation and publication standing are recorded there separately.
 
@@ -50,7 +50,7 @@ The prior-name retention statements in the recorded passes remain historical rec
 
 ## L3 — C₅ / E₅ dimension names
 
-**Canonical form:** C₅ = **Scalar / Part-Whole Fidelity**; E₅ = **Scalar Noise** (not "Scalar / Holonic", "Holonic / Scalar", "Hollow Scaling", or "Fractal Noise")
+**Canonical form:** C₅ = **Scalar / Part-Whole Fidelity**; E₅ = **Scalar Noise** (not "Scalar / Holonic," "Holonic / Scalar," "Hollow Scaling," or "Fractal Noise")
 **Canonical anchor:** FP11 §2, §3, and Structural Notes
 **Status:** Locked; SP01 done; LM / SN pending
 **Done:** SP01 — C₅ → Scalar / Part-Whole Fidelity and E₅ → Scalar Noise at all occurrences; the 146/147-contra-820 inconsistency resolved (incl. the reversed "Holonic / Scalar"); "renormalization / fractals" physics-analogue mentions left as external-technical
@@ -62,7 +62,7 @@ The prior-name retention statements in the recorded passes remain historical rec
 
 **Canonical form:** a bifurcal root-band label (e.g., "L₀ — Bifurcal Root Band" / "paired root-registers"); **not** "Source Band" (Source → root; this is the Aion-referent)
 **Canonical anchor:** MP08 ("paired root-registers"; Bifurcal Coherence); MPX "Non-Fusion at the Bifurcal Register"
-**Status:** LOCKED — the label is "L₀ Bifurcal Root Band" ("Bifurcal Coherence", or "Bifurcal" for short, remains the relational-ground term)
+**Status:** LOCKED — the label is "L₀ Bifurcal Root Band" ("Bifurcal Coherence," or "Bifurcal" for short, remains the relational-ground term)
 **Done:** SP01 — "L₀ Source Band" → "L₀ Bifurcal Root Band" (115, 203)
 **Pending:** LM and SN for the same label
 
@@ -362,7 +362,7 @@ Verified clean: LaTeX (no code blocks); prose (straight quotes, em-dash spacing)
 - **"Axiom 3 — Duality" / "derivative–integral duality"** — tied to the LM01 Duality-constructs flag (recommend keep).
 - **Generic "dual diffusion" / "dual diffusion coefficients"** (§4, the D_c / D_e pair) — kept as generic "two"; flag if you'd prefer "two"/"paired" given the Dual→Polar preference.
 
-**SHARED FLAG — "pole" → "anchor" (LM01 + LM02, FOR YOUR RULING):** Both docs characterize the Aion / Khaon / Zenon spectral reference points as **"poles"** — LM01 §D "Poles & Axes", "**Poles:** Zero / Infinity", "Spectral Anchors of the Poles", "Aionic pole ⚫", "the centropic pole"; LM02 §5.1 "Poles and Spectral Anchors", "characterization of the poles". SP01 already converted **"Foundational Poles" → "Foundational Anchors"** (L12), the L8 ruling forbids pole / polarity language at the L₀ register, and the LM04 precedent made "Aion (zero pole)" → "Aion (the Zero)" — all pointing to **"pole" → "anchor"** (the docs already use "Spectral Anchors"). I did **not** auto-apply because (a) it's a pervasive doctrinal reframe touching the now-sealed LM01, and (b) there's a spectral-math reading ("spectral pole" at λ=0 / |λ|→∞). Recommend converting to "anchor"; confirm and I'll apply cleanly across both. (Note: "Aion as the limit / convergence point" is math and stays either way.)
+**SHARED FLAG — "pole" → "anchor" (LM01 + LM02, FOR YOUR RULING):** Both docs characterize the Aion / Khaon / Zenon spectral reference points as **"poles"** — LM01 §D "Poles & Axes," "**Poles:** Zero / Infinity," "Spectral Anchors of the Poles," "Aionic pole ⚫," "the centropic pole"; LM02 §5.1 "Poles and Spectral Anchors," "characterization of the poles." SP01 already converted **"Foundational Poles" → "Foundational Anchors"** (L12), the L8 ruling forbids pole / polarity language at the L₀ register, and the LM04 precedent made "Aion (zero pole)" → "Aion (the Zero)" — all pointing to **"pole" → "anchor"** (the docs already use "Spectral Anchors"). I did **not** auto-apply because (a) it's a pervasive doctrinal reframe touching the now-sealed LM01, and (b) there's a spectral-math reading ("spectral pole" at λ=0 / |λ|→∞). Recommend converting to "anchor"; confirm and I'll apply cleanly across both. (Note: "Aion as the limit / convergence point" is math and stays either way.)
 
 **LM01 DEPENDENCY — RESOLVED (LM01 now sealed; Polar Spectrum Lemma + CIT Grand Theorem both in place and matching LM03 / LM04 / LM05 citations).**
 

@@ -288,15 +288,15 @@ Native references appear in the metadata and at their points of application. The
 
 | ID | Scientific reference |
 | --- | --- |
-| N1 | Bosman, C. A., et al. (2012), "Attentional stimulus selection through selective synchronization between monkey visual areas", *Neuron* 75, 875–888; DOI `10.1016/j.neuron.2012.06.037` |
-| N2 | Truccolo, W., et al. (2011), "Single-neuron dynamics in human focal epilepsy", *Nature Neuroscience* 14, 635–641; DOI `10.1038/nn.2782` |
-| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures", *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
-| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance", *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
-| N5 | Deco, G., Kringelbach, M. L., Jirsa, V. K., and Ritter, P. (2017), "The dynamics of resting fluctuations in the brain: metastability and its dynamical cortical core", *Scientific Reports* 7, 3095; DOI `10.1038/s41598-017-03073-5` |
-| N6 | Hancock, F., et al. (2025), "Metastability demystified — the foundational past, the pragmatic present and the promising future", *Nature Reviews Neuroscience* 26, 82–100; DOI `10.1038/s41583-024-00883-1` |
-| N7 | Touboul, J., and Destexhe, A. (2017), "Power-law statistics and universal scaling in the absence of criticality", *Physical Review E* 95, 012413; DOI `10.1103/PhysRevE.95.012413` |
-| N8 | Fosque, L. J., Williams-García, R. V., Beggs, J. M., and Ortiz, G. (2021), "Evidence for quasicritical brain dynamics", *Physical Review Letters* 126, 098101; DOI `10.1103/PhysRevLett.126.098101` |
-| N9 | Hagemann, A., Wilting, J., Samimizad, B., Mormann, F., and Priesemann, V. (2021), "Assessing criticality in pre-seizure single-neuron activity of human epileptic cortex", *PLOS Computational Biology* 17, e1008773; DOI `10.1371/journal.pcbi.1008773` |
+| N1 | Bosman, C. A., et al. (2012), "Attentional stimulus selection through selective synchronization between monkey visual areas," *Neuron* 75, 875–888; DOI `10.1016/j.neuron.2012.06.037` |
+| N2 | Truccolo, W., et al. (2011), "Single-neuron dynamics in human focal epilepsy," *Nature Neuroscience* 14, 635–641; DOI `10.1038/nn.2782` |
+| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures," *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
+| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance," *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
+| N5 | Deco, G., Kringelbach, M. L., Jirsa, V. K., and Ritter, P. (2017), "The dynamics of resting fluctuations in the brain: metastability and its dynamical cortical core," *Scientific Reports* 7, 3095; DOI `10.1038/s41598-017-03073-5` |
+| N6 | Hancock, F., et al. (2025), "Metastability demystified — the foundational past, the pragmatic present and the promising future," *Nature Reviews Neuroscience* 26, 82–100; DOI `10.1038/s41583-024-00883-1` |
+| N7 | Touboul, J., and Destexhe, A. (2017), "Power-law statistics and universal scaling in the absence of criticality," *Physical Review E* 95, 012413; DOI `10.1103/PhysRevE.95.012413` |
+| N8 | Fosque, L. J., Williams-García, R. V., Beggs, J. M., and Ortiz, G. (2021), "Evidence for quasicritical brain dynamics," *Physical Review Letters* 126, 098101; DOI `10.1103/PhysRevLett.126.098101` |
+| N9 | Hagemann, A., Wilting, J., Samimizad, B., Mormann, F., and Priesemann, V. (2021), "Assessing criticality in pre-seizure single-neuron activity of human epileptic cortex," *PLOS Computational Biology* 17, e1008773; DOI `10.1371/journal.pcbi.1008773` |
 
 ---
 

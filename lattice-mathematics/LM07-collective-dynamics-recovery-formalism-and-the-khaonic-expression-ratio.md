@@ -587,7 +587,7 @@ I_c^{(\text{collective})}(\tau) = \sum_{i=1}^{N} \eta_i(\tau) \cdot I_c^{(i)}(\t
 
 Where \( \eta_i(\tau) \in (0, 1] \) is the **siphoning coefficient** at structural time \( \tau \) — the fraction of individual \( i \)'s coherence directed toward collective maintenance. Siphoning is non-voluntary: the coherence tax (§3.2) is the individual manifestation of this collective siphoning.
 
-**Former-name provenance.** "Extraction Coefficient", "Extraction Dynamics", and "Entropic Collective Extraction" are the former names of Siphoning Coefficient, Siphoning Dynamics, and Entropic Collective Siphoning. The existing \( \eta_i \) identifier and weighted-stock definition remain unchanged.
+**Former-name provenance.** "Extraction Coefficient," "Extraction Dynamics," and "Entropic Collective Extraction" are the former names of Siphoning Coefficient, Siphoning Dynamics, and Entropic Collective Siphoning. The existing \( \eta_i \) identifier and weighted-stock definition remain unchanged.
 
 **Stock Derivative with Variable Coefficients**
 

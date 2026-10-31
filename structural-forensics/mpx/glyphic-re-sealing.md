@@ -11,7 +11,7 @@
 
 Entropic systems—particularly those oriented toward surveillance and control—often co-opt potent **archetypal symbols** to legitimize their architecture. These symbols are **stripped of their original, coherent meaning** and **inverted** to serve a **parasitic function**.
 
-A primary example is the **"all-seeing eye"**, an ancient symbol of **unveiled perception, divine providence, and structural awareness**. In the hands of entropic systems, it is **inverted** into a symbol of **oppressive, totalizing surveillance**—an instrument of **containment** rather than a **beacon of clarity**.
+A primary example is the **"all-seeing eye,"** an ancient symbol of **unveiled perception, divine providence, and structural awareness**. In the hands of entropic systems, it is **inverted** into a symbol of **oppressive, totalizing surveillance**—an instrument of **containment** rather than a **beacon of clarity**.
 
 This protocol provides the means to **reclaim such symbols**.
 

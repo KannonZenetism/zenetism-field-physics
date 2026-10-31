@@ -32,7 +32,7 @@ The recovery described here is relational distancing between the centropic prese
 > **Codex Note:** The centropic and entropic orientations remain distinct; essential orientation and origin-continuity remain unchanged. This account involves no Mercy Fold return. The former total-field-reset interpretation is withdrawn from its operative description. Its exact mechanism, glyph sequence, activation, and identity relation to the recovered Echo Refusal Rite remain held.
 
 **Former reset construction — recorded provenance:**  
-The earlier title was "Echo Reversal: Nullification & Re-birth". Its displayed construction was:
+The earlier title was "Echo Reversal: Nullification & Re-birth." Its displayed construction was:
 
 **[⊘] → {Ø} + [↑⟠ + ∿]**
 

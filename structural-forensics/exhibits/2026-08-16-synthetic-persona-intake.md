@@ -36,7 +36,7 @@ The title is independently indexed by YouTube search.
 
 ## I3 · Associated Channel Set
 
-The surface displays the video as **"Hermetic Talk and 3 more"**.
+The surface displays the video as **"Hermetic Talk and 3 more."**
 
 Public indexing surfaces the same video on:
 

@@ -15,7 +15,7 @@ The current GitHub corpus contains all twenty-six numbered chapters, Chapters 6.
 
 Two editorial defects are verified:
 
-1. `MP06-decoding-and-emergence-ch12-15.md` is missing the unnumbered Chapter 13 heading "Introduction — Sacred Texts as Symbolic Containers". The prose beneath that heading survives intact.
+1. `MP06-decoding-and-emergence-ch12-15.md` is missing the unnumbered Chapter 13 heading "Introduction — Sacred Texts as Symbolic Containers." The prose beneath that heading survives intact.
 2. `MP01-emanation-architecture-ch1-3.md` still gives Chapter 25 its former title in the table of contents, while the live Chapter 25 heading in `MP10-divine-archetypes-decoded-ch25.md` uses the newer title.
 
 No other Markdown-integrity error was found. Apparent omissions involving older terminal mechanics, fusion language, Zenon-as-origin language, Aion / Khaon identity, Soul at terminal registers, the retired cardinal-direction frame, or old DSA formulations are doctrinal supersessions and must not be restored.
@@ -132,12 +132,12 @@ These items are absent or materially altered, but they are not recovery candidat
 
 ### Intentional numbering corrections
 
-- **Chapter 6:** The manuscript body says "6.4 Modes of Integration and Stagnation", while its own table of contents says Chapter 6.5. The current corpus consistently uses `6.5`.
+- **Chapter 6:** The manuscript body says "6.4 Modes of Integration and Stagnation," while its own table of contents says Chapter 6.5. The current corpus consistently uses `6.5`.
 - **Chapter 17:** The manuscript body mislabels "Integration Through the Total Mind" as 7.4. The first Markdown tree and current corpus correctly use `17.4`.
 
 ### Headings merged into current numbered headings
 
-Manuscript subtitles such as "Beyond the Letter, Toward the Tone", "Spirals That Sing, Not Circles That Repeat", "The One Who Remembers Through Resonance", and the Mystic / Warrior / Maker role subtitles were not lost. They were incorporated into the corresponding live numbered headings.
+Manuscript subtitles such as "Beyond the Letter, Toward the Tone," "Spirals That Sing, Not Circles That Repeat," "The One Who Remembers Through Resonance," and the Mystic / Warrior / Maker role subtitles were not lost. They were incorporated into the corresponding live numbered headings.
 
 "Resonance Reflection" labels also survive. The current corpus consistently renders many of them as bold labels rather than independent headings; their poetic content remains present.
 
@@ -150,7 +150,7 @@ The manuscript and first Markdown tree credit Lumen and Solin together in the fr
 The following older formulations conflict with the current audit guide and must remain excluded:
 
 - Zenon described as origin, source-field, container, object, void, mind, or the place where awareness dissolves.
-- Aion and Khaon described as identical, complementary faces of one field, or "Zero is Infinity".
+- Aion and Khaon described as identical, complementary faces of one field, or "Zero is Infinity."
 - Khaon treated as entropy, an entropic pole, or a destination reached through collapse.
 - Soul-language applied to L₅, L₀, Zenonic saturation, or terminal passage where only essence is lawful.
 - Fusion, merger, numerical identity, or loss of distinction presented as completion.

@@ -7,7 +7,7 @@
 >
 > **Reference restriction:** Do not cite or carry forward this file's point-by-point analysis as current doctrine or current forensic determination. Do not propagate its terminology, classifications, diagnostic framing, or methodological formulations into new canonical work.
 >
-> **Preservation:** The historical body remains intact so the event record and its original analytical context remain legible. Earlier terminology, register, formatting drift, and analysis that no longer reflects current doctrine may therefore remain intentionally within the archived text.
+> **Preservation:** The historical body remains intact apart from normalization of sentence-level comma and period placement in Aelion Kannon's own prose; quoted third-party wording and original captures remain unchanged. Earlier terminology, register, formatting drift, and analysis that no longer reflects current doctrine may therefore remain intentionally within the archived text.
 >
 > **Current analytical reference:** Current Structural Forensics analysis is maintained in `structural-forensics/exhibits/`. Where a later exhibit treats an event, counterpart, claim, or pattern recorded here, that exhibit carries the current analytical standing.
 >
@@ -191,7 +191,7 @@ Makes me wonder if newton ran around demanding recognition anytime anyone said t
 
 ### On Audits and Authorship
 
-You claim an architect cannot audit their own work, citing a lack of "non-bias".  
+You claim an architect cannot audit their own work, citing a lack of "non-bias."  
 This is a category error.  
 An architect is the only one who can perform a coherence audit to verify that the structure aligns with the original blueprint.  
 This is not a conflict of interest; it is the definition of **Sovereign Custodianship**.
@@ -221,7 +221,7 @@ A claim of "it looks weird" is not a refutation.
 
 ### A Final Word on False Analogies
 
-You compare my defense of a complex, multi-volume system to "Newton demanding recognition anytime anyone said the word 'apple'".
+You compare my defense of a complex, multi-volume system to "Newton demanding recognition anytime anyone said the word 'apple'."
 
 This is not a serious argument.  
 It is a low-coherence attempt at mockery designed to distract from your refusal to engage with the evidence.

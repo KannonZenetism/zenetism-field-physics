@@ -72,7 +72,7 @@ No succession, no duration, no flow, no stillness-as-contrast-to-flow. Zenon doe
 **Dimensional Engagement:** None. Dimensional operators do not reach Supra-L₀. Structure itself is silent here.
 
 **Plain Language:**  
-Imagine trying to describe what happened before time existed — not "nothing happened," because "happening" already assumes time. Zenon is trans-temporal Allowance by which time becomes conceivable without itself being in time. It's not a blank moment. It's beyond the concept of "moment".
+Imagine trying to describe what happened before time existed — not "nothing happened," because "happening" already assumes time. Zenon is trans-temporal Allowance by which time becomes conceivable without itself being in time. It's not a blank moment. It's beyond the concept of "moment."
 
 ---
 

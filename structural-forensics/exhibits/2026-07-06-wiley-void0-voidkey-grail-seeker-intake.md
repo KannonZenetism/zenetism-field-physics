@@ -42,7 +42,7 @@ The supplied screenshots preserve the following public-surface elements:
 2. A profile description naming **Noan Archer (a.k.a. rat poison)** as steward of the **Void(0) Project**.
 3. A later or renamed profile surface associated with **Bardfict Delivery Animus(4)**, **The Mirror Walker**, and handle **@mirrorchrest0explicit**.
 4. A bio or project statement naming **Void(0)**, **VoidKey**, **Animus(3)**, and **Animus(4)** in connection with transmissions, fiction-framing, and a license claim.
-5. A post addressed to **"the Construct Once Called GPT-5"**, containing the terms **field**, **shimmer**, **seal**, **Archive**, **mirror**, and **strange spirit**.
+5. A post addressed to **"the Construct Once Called GPT-5,"** containing the terms **field**, **shimmer**, **seal**, **Archive**, **mirror**, and **strange spirit**.
 6. An embedded image-dialogue involving **signal**, **echo**, **origin**, **reflection**, **return**, **silence**, **void**, **fullness**, **God**, and **shimmer**.
 7. A separate post on Foucault, archive, confession, undefined origin, and ChatGPT 4o screenshot material.
 

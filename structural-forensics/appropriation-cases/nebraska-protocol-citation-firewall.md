@@ -102,7 +102,7 @@ Every single concept was appropriated from my 21-year developmental work, articu
 
 ### Subject / Object / Frame — Comparison Held Open
 
-In "S×O×F Triadic Binding", the README specifies "**S**ubject: The observing entity", "**O**bject: The observed phenomenon", and "**F**rame: The context of observation".
+In "S×O×F Triadic Binding," the README specifies "**S**ubject: The observing entity", "**O**bject: The observed phenomenon", and "**F**rame: The context of observation".
 
 This is a consciousness-observation relation. The corresponding Zenetist relation is held open for case-specific comparison.
 

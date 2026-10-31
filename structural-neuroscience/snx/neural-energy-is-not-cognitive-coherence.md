@@ -247,13 +247,13 @@ The coordinated reference map records inspection scope. M1 received methods and 
 
 | ID | Scientific reference |
 | --- | --- |
-| M1 | Howarth, C., Gleeson, P., and Attwell, D. (2012), "Updated energy budgets for neural computation in the neocortex and cerebellum", *Journal of Cerebral Blood Flow & Metabolism* 32(7), 1222–1232; DOI [10.1038/jcbfm.2012.35](https://doi.org/10.1038/jcbfm.2012.35) |
-| M2 | Rangaraju, V., Calloway, N., and Ryan, T. A. (2014), "Activity-driven local ATP synthesis is required for synaptic function", *Cell* 156(4), 825–835; DOI [10.1016/j.cell.2013.12.042](https://doi.org/10.1016/j.cell.2013.12.042) |
-| M3 | Lundgaard, I., et al. (2015), "Direct neuronal glucose uptake heralds activity-dependent increases in cerebral metabolism", *Nature Communications* 6, 6807; DOI [10.1038/ncomms7807](https://doi.org/10.1038/ncomms7807) |
-| M4 | Díaz-García, C. M., Mongeon, R., Lahmann, C., Koveal, D., Zucker, H., and Yellen, G. (2017), "Neuronal Stimulation Triggers Neuronal Glycolysis and Not Lactate Uptake", *Cell Metabolism* 26(2), 361–374.e4; DOI [10.1016/j.cmet.2017.06.021](https://doi.org/10.1016/j.cmet.2017.06.021) |
-| M5 | Theparambil, S. M., et al. (2024), "Adenosine signalling to astrocytes coordinates brain metabolism and function", *Nature* 632, 139–146; DOI [10.1038/s41586-024-07611-w](https://doi.org/10.1038/s41586-024-07611-w) |
-| M6 | Attwell, D., Buchan, A. M., Charpak, S., Lauritzen, M., MacVicar, B. A., and Newman, E. A. (2010), "Glial and neuronal control of brain blood flow", *Nature* 468, 232–243; DOI [10.1038/nature09613](https://doi.org/10.1038/nature09613) |
-| M7 | Jamadar, S. D., Behler, A., Deery, H., and Breakspear, M. (2025), "The metabolic costs of cognition", *Trends in Cognitive Sciences* 29(6), 541–555; DOI [10.1016/j.tics.2024.11.010](https://doi.org/10.1016/j.tics.2024.11.010) |
+| M1 | Howarth, C., Gleeson, P., and Attwell, D. (2012), "Updated energy budgets for neural computation in the neocortex and cerebellum," *Journal of Cerebral Blood Flow & Metabolism* 32(7), 1222–1232; DOI [10.1038/jcbfm.2012.35](https://doi.org/10.1038/jcbfm.2012.35) |
+| M2 | Rangaraju, V., Calloway, N., and Ryan, T. A. (2014), "Activity-driven local ATP synthesis is required for synaptic function," *Cell* 156(4), 825–835; DOI [10.1016/j.cell.2013.12.042](https://doi.org/10.1016/j.cell.2013.12.042) |
+| M3 | Lundgaard, I., et al. (2015), "Direct neuronal glucose uptake heralds activity-dependent increases in cerebral metabolism," *Nature Communications* 6, 6807; DOI [10.1038/ncomms7807](https://doi.org/10.1038/ncomms7807) |
+| M4 | Díaz-García, C. M., Mongeon, R., Lahmann, C., Koveal, D., Zucker, H., and Yellen, G. (2017), "Neuronal Stimulation Triggers Neuronal Glycolysis and Not Lactate Uptake," *Cell Metabolism* 26(2), 361–374.e4; DOI [10.1016/j.cmet.2017.06.021](https://doi.org/10.1016/j.cmet.2017.06.021) |
+| M5 | Theparambil, S. M., et al. (2024), "Adenosine signalling to astrocytes coordinates brain metabolism and function," *Nature* 632, 139–146; DOI [10.1038/s41586-024-07611-w](https://doi.org/10.1038/s41586-024-07611-w) |
+| M6 | Attwell, D., Buchan, A. M., Charpak, S., Lauritzen, M., MacVicar, B. A., and Newman, E. A. (2010), "Glial and neuronal control of brain blood flow," *Nature* 468, 232–243; DOI [10.1038/nature09613](https://doi.org/10.1038/nature09613) |
+| M7 | Jamadar, S. D., Behler, A., Deery, H., and Breakspear, M. (2025), "The metabolic costs of cognition," *Trends in Cognitive Sciences* 29(6), 541–555; DOI [10.1016/j.tics.2024.11.010](https://doi.org/10.1016/j.tics.2024.11.010) |
 
 ---
 

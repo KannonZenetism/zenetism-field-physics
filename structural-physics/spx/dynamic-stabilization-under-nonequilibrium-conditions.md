@@ -378,12 +378,12 @@ The coordinated reference map records the inspected scope. P1 received relevant 
 
 | ID | Scientific reference |
 | --- | --- |
-| P1 | Seifert, U. (2012), "Stochastic thermodynamics, fluctuation theorems, and molecular machines", *Reports on Progress in Physics* 75, 126001; DOI [10.1088/0034-4885/75/12/126001](https://doi.org/10.1088/0034-4885/75/12/126001) |
-| P2 | Rao, R., and Esposito, M. (2016), "Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics", *Physical Review X* 6, 041064; DOI [10.1103/PhysRevX.6.041064](https://doi.org/10.1103/PhysRevX.6.041064) |
+| P1 | Seifert, U. (2012), "Stochastic thermodynamics, fluctuation theorems, and molecular machines," *Reports on Progress in Physics* 75, 126001; DOI [10.1088/0034-4885/75/12/126001](https://doi.org/10.1088/0034-4885/75/12/126001) |
+| P2 | Rao, R., and Esposito, M. (2016), "Nonequilibrium Thermodynamics of Chemical Reaction Networks: Wisdom from Stochastic Thermodynamics," *Physical Review X* 6, 041064; DOI [10.1103/PhysRevX.6.041064](https://doi.org/10.1103/PhysRevX.6.041064) |
 | P3 | Onsager, L. (1931), "Reciprocal Relations in Irreversible Processes. I.", *Physical Review* 37, 405–426; DOI [10.1103/PhysRev.37.405](https://doi.org/10.1103/PhysRev.37.405) |
-| P4 | Ragazzon, G., and Prins, L. J. (2018), "Energy consumption in chemical fuel-driven self-assembly", *Nature Nanotechnology* 13, 882–889; DOI [10.1038/s41565-018-0250-8](https://doi.org/10.1038/s41565-018-0250-8) |
-| P5 | Maiti, S., Fortunati, I., Ferrante, C., Scrimin, P., and Prins, L. J. (2016), "Dissipative self-assembly of vesicular nanoreactors", *Nature Chemistry* 8, 725–731; DOI [10.1038/nchem.2511](https://doi.org/10.1038/nchem.2511) |
-| P6 | Conradt, J., and Furst, E. M. (2026), "Dissipative self-assembly of colloidal suspensions", *Physical Review E* 114, 025416; DOI [10.1103/8h2w-vhcn](https://doi.org/10.1103/8h2w-vhcn) |
+| P4 | Ragazzon, G., and Prins, L. J. (2018), "Energy consumption in chemical fuel-driven self-assembly," *Nature Nanotechnology* 13, 882–889; DOI [10.1038/s41565-018-0250-8](https://doi.org/10.1038/s41565-018-0250-8) |
+| P5 | Maiti, S., Fortunati, I., Ferrante, C., Scrimin, P., and Prins, L. J. (2016), "Dissipative self-assembly of vesicular nanoreactors," *Nature Chemistry* 8, 725–731; DOI [10.1038/nchem.2511](https://doi.org/10.1038/nchem.2511) |
+| P6 | Conradt, J., and Furst, E. M. (2026), "Dissipative self-assembly of colloidal suspensions," *Physical Review E* 114, 025416; DOI [10.1103/8h2w-vhcn](https://doi.org/10.1103/8h2w-vhcn) |
 
 ---
 

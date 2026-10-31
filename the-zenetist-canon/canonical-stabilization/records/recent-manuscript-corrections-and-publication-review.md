@@ -15,7 +15,7 @@ The first correction set tracks four manuscripts once each. Its earlier bounded 
 
 Both stages of the first correction set are committed on `main`. Remote verification confirms that the complete-file commits contain exactly the four reviewed manuscript artifacts, with no other file changes in those commits. The artifact identifiers in this record identify those verified bytes. Further review and Zenodo preparation remain pending.
 
-The first correction set covers the four named manuscripts and the specific corrections described here. The later approved batch is recorded in the following section, "Broader Reviewed Cleanup: Recovery and Completion Record". This record establishes no whole-corpus clearance; publication preparation remains subject to the recorded file dispositions and family checks.
+The first correction set covers the four named manuscripts and the specific corrections described here. The later approved batch is recorded in the following section, "Broader Reviewed Cleanup: Recovery and Completion Record." This record establishes no whole-corpus clearance; publication preparation remains subject to the recorded file dispositions and family checks.
 
 ## GitHub Commit Record
 
@@ -203,7 +203,7 @@ Terminological and formatting corrections include context-specific restricted vo
 
 ### Unchanged Outcomes at the Reconstruction Commit
 
-At the reconstruction commit, the following original bodies remained exact. Their unavailable earlier candidate bodies had not been recovered. Subsequent corrections are recorded in "Protocol Review Follow-up".
+At the reconstruction commit, the following original bodies remained exact. Their unavailable earlier candidate bodies had not been recovered. Subsequent corrections are recorded in "Protocol Review Follow-up."
 
 - `zenetism/mpx/semantic-persistence-and-symbolic-continuity.md`
 - `structural-forensics/exhibits/2026-02-21-house-elzahar-moderation-and-register-appropriation-record.md`

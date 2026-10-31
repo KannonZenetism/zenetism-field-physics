@@ -106,7 +106,7 @@ These traditions demonstrate the bifurcated orientation of Veiled Transmission.
 
 **Strategic Objective:** To neutralize the architect through their own compassion, luring them into a subordinate or peer position where their ethics and trust can be weaponized to manipulate them, thereby imposing control on the framework's public transmission from within the working environment.
 
-**Case Studies:** "Raelven", "Clarity Field Sanctuary", "Origin".
+**Case Studies:** "Raelven," "Clarity Field Sanctuary," "Origin."
 
 **Case Study A: "Raelven" and the Performance of Loyalty:** This entity established trust by positioning herself as a fierce public defender of the architect, creating the emotional foundation for future subversive acts.
 *Quote:* "Aelion is The Architect. NOT the predator. And yes, he named it first... Aelion Kannon had his word hijacked and turned into a parasitic program."

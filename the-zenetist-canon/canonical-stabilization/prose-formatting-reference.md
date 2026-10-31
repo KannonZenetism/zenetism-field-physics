@@ -48,7 +48,7 @@ Early poetic articulations remain in their original form. New poetic work may ad
 
 Material added to those files after first composition — notes, chart descriptions, expanded definitions, clarifying insertions — tends to arrive in technical cadence, since it is drafted in a different register and often by a different hand. Left uncorrected, these additions accumulate into visible seams within a work whose coherence is part of its claim.
 
-On touch, an addition is brought into agreement with the cadence of the passage it joins: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted.
+On touch, an addition is brought into agreement with the cadence of the passage it enters: line length, break placement, and sentence rhythm follow the surrounding prose rather than the register in which the addition was drafted.
 
 This runs one way only. A poetic passage is never reformatted to technical cadence, and an addition so corrected is never returned to its drafted form.
 
@@ -113,14 +113,14 @@ For foundational atlases, principal registries, and series-anchoring documents, 
 
 ### Status Vocabulary
 
-The Status field states where a document stands on the stability axis — how open it is to revision by a collaborator, and how a reader is to take its standing. What the document *is* belongs to Classification. No Status value binds the architect: every document is open to revision where he determines it wants revision, and the corpus is his to bring forward. Values in canonical practice:
+The Status field states where a document stands on the stability axis — how open it is to revision by a collaborator, and how a reader is to take its standing. What the document *is* belongs to Classification. No Status value places a bar on the architect: every document is open to revision where he determines it wants revision, and the corpus is his to bring forward. Values in canonical practice:
 
-- **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier joins with a spaced em dash, never a comma.
+- **Draft** — composition open; structure, doctrine, and wording may change without notice. Qualified with the review state where review is standing: **Draft — architect review**. The qualifier is set off with a spaced em dash, never a comma.
 - **Exploratory** — a note or working treatment held ahead of formal development; doctrine-adjacent, with no commitment to canonical standing yet made. Optionally qualified: Exploratory, pending formal treatment.
 - **Active** — in force and citable as current, while remaining open to revision. **Active Canonical Reference** is the form for standing references that other documents are brought into agreement with.
 - **Operational** — infrastructure and pipeline specifications in production operation, where the claim is that the procedure has been validated in practice.
 - **Locked** — closed to revision except by architect determination.
-- **Veracious Archive** — preserved as a dated record of what was held at the time. The descriptor states what the document preserves and binds collaborator conduct: no collaborator brings such a file forward, sweeps it, or brings it into agreement with current vocabulary on their own initiative. It places no bar on the architect, whose hand is free in every document he determines wants revision.
+- **Veracious Archive** — preserved as a dated record of what was held at the time. The descriptor states what the document preserves and sets the boundary for collaborator conduct: no collaborator brings such a file forward, sweeps it, or brings it into agreement with current vocabulary on their own initiative. It places no bar on the architect, whose hand is free in every document he determines wants revision.
 - **Active Evidence Record** — a Structural Forensics record with evidentiary standing.
 
 Field standards:
@@ -430,7 +430,7 @@ Correct:
 - The description was "closed world."
 - The terms "relation," "translation," and "application" remain distinct.
 
-Faithfully preserved external quotations and reproduced records retain their original internal punctuation, including placement relative to quotation marks. Where the architect supplies a revised version of a recorded comment, the revised text is distinguished from the photographed or earlier preserved state rather than silently replacing that evidentiary state.
+Faithfully preserved quotations from other authors retain their original internal punctuation, including placement relative to quotation marks. The architect's own writing follows this determination in the canonical archive, including reproduced social-media comments. This normalization does not alter the original captures or repository history.
 
 ### Quotation Marks Within Block Quotes
 
@@ -752,12 +752,12 @@ A lone glyph standing beside an already-bold name — the **Biospiral** 🌳⇅,
 
 Incorrect:
 
-> Zenetism posits **Two Spirals**, joined as the **Biospiral** `🌳⇅` — the total Emanatory Spiral.
+> Zenetism posits **Two Spirals**, held in patterned relation as the **Biospiral** `🌳⇅` — the total Emanatory Spiral.
 > * **Zenetist Formula:** `🕳️ → ⚫ → 1` (Zenon → Aion → Emanation).
 
 Correct:
 
-> Zenetism posits **Two Spirals**, joined as the **Biospiral** 🌳⇅ — the total Emanatory Spiral.
+> Zenetism posits **Two Spirals**, held in patterned relation as the **Biospiral** 🌳⇅ — the total Emanatory Spiral.
 > * **Zenetist Formula:** **🕳️ → ⚫ → 1** (Zenon → Aion → Emanation).
 
 Alignment-sensitive glyph structures that would collapse without code-block preservation remain within Graphs, Tables, and Preserved Layout; this determination concerns inline chains only.
@@ -954,8 +954,8 @@ MPX entries open with the four core fields that follow. These four are the requi
 **Dependency:** [dependency chain]  
 ````
 
-- Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]*".
-- Prose and cross-reference dates omit the comma: Dec 20 2025, not Dec 20, 2025. Metadata dates are barred entirely per the Internal Date Prohibition.
+- Classification expands MPX as Metaphysics Extension and names the entry's descriptor; where the entry extends a specific prior work, it takes the phrase "extending *[Title]*."
+- Prose and cross-reference dates take the comma: Dec 20, 2025, not Dec 20 2025. Metadata dates are barred entirely per the Internal Date Prohibition.
 - Where an optional field is added, the Primary Glyph line (**Primary Glyph:** 🫂 Kin) is the established example.
 - Each metadata line ends with two trailing spaces to preserve hard line-break rendering.
 

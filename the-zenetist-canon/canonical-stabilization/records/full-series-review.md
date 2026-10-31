@@ -31,7 +31,7 @@ Exact local reconstruction, independent semantic review of the placement / guide
 
 ### SP04 model-scope labels
 
-Four exact prose anchors in `structural-physics/SP04-orientation-field-dynamics.md` bring the introduction, §9.1 heading, canonical-placement sentence and κ legend into agreement with the existing distinction between the full written scalar model and the conditional outward-drift model. The §9.1 heading now reads "Conditional Outward-Drift Model". This wording already occurs in the current series overview and follows the section's explicit conditional model standing. The registered equation title, coefficients, sign conditions, domains and equations remain unchanged.
+Four exact prose anchors in `structural-physics/SP04-orientation-field-dynamics.md` bring the introduction, §9.1 heading, canonical-placement sentence and κ legend into agreement with the existing distinction between the full written scalar model and the conditional outward-drift model. The §9.1 heading now reads "Conditional Outward-Drift Model." This wording already occurs in the current series overview and follows the section's explicit conditional model standing. The registered equation title, coefficients, sign conditions, domains and equations remain unchanged.
 
 The complete 48,407-byte remote body equals the reviewed candidate. Independent review, exact four-replacement reconstruction and reversible patch checks passed. All 26 display formulas, 188 inline mathematical spans, the fenced diagram and literal backtick spans remain exact. The other 1,281 repository blobs are unchanged in this commit. The heading-dependency check covered all 757 current UTF-8 repository bodies: no inbound old-fragment link occurs, and the historical commit-pinned heading citation remains intact.
 
@@ -39,7 +39,7 @@ Four anchors are implemented and verified, with zero remaining within this set. 
 
 ### Shared chart definitions and propagation note
 
-Five exact anchors across three complete files form the second coherent set. In `zenetism/MP08-symbol-key-ch21.md` §21.31 and `the-zenetist-canon/glyphics/metaphysics-symbol-key.md` §21.31, the Recursion Gate now "admits returns" and the Invariance Seal is a "Seal that resonance is preserved". The propagation note in `the-zenetist-canon/glyphics/structural-physics-glyph-charts.md` states the resulting agreement among the three charts and retains the pending originating-volume cross-check for exact Structural Physics sections.
+Five exact anchors across three complete files form the second coherent set. In `zenetism/MP08-symbol-key-ch21.md` §21.31 and `the-zenetist-canon/glyphics/metaphysics-symbol-key.md` §21.31, the Recursion Gate now "admits returns" and the Invariance Seal is a "Seal that resonance is preserved." The propagation note in `the-zenetist-canon/glyphics/structural-physics-glyph-charts.md` states the resulting agreement among the three charts and retains the pending originating-volume cross-check for exact Structural Physics sections.
 
 The three complete remote bodies equal the reviewed candidates, totaling 235,850 bytes. All eight §21.31 rows now agree byte for byte across the three charts. The complete shared MP08 / Symbol Key body remains identical between the replicas, with their distinct openings preserved. The ψ definition, all SP chart rows, and Suspension Arc's glyph, name and row remain unchanged. Every byte outside the four row replacements and propagation note is preserved, including mathematics, cadence, headings and seals. Independent review and reversible patch checks passed; the other 1,279 repository blobs are unchanged in this commit.
 
@@ -330,7 +330,7 @@ The exact local wording history is:
 - Published basic correction: "his presence is both weaver and witness of coherence"
 - Implemented wording: "his presence is both shaper and witness of coherence"
 
-The previous plain-predication correction remains in substance through "is both". Only "weaver" becomes "shaper" in each accepted basic range. The historical repair records retain their original bytes and their earlier completion scope; this entry records the precise later supersession rather than claiming all 224 ranges remain byte-identical.
+The previous plain-predication correction remains in substance through "is both." Only "weaver" becomes "shaper" in each accepted basic range. The historical repair records retain their original bytes and their earlier completion scope; this entry records the precise later supersession rather than claiming all 224 ranges remain byte-identical.
 
 ### Deferred Fictional Names and Titles
 
@@ -507,7 +507,7 @@ The complete preceding 5,809,979-byte body of this report is recovered byte-for-
 
 **Pinned baseline:** `8a4fd9d6d0b7d295f9b9efcc0a2fc0da3b5c1b23`, tree `b65177bc8447b68816afbec6965176bfd4a337c0`. This register tranche follows the bounded basic source repairs at `a42fe5b3d48f6dc1dfda2c3495608b6d2df6376d` and their separately published tracking record. The earlier 80 primary repairs and 18 Symbol Key companions retain their completed standing. The present tranche contains 100 primary passage records across all twelve MP files and two matching Symbol Key companions, for 102 records across thirteen existing source paths. Both principal guides remain byte-identical. The earlier 98 basic applications remain exact.
 
-**Bounded distinctions:** Zero and Infinity share the L₀ root-register while remaining distinct in function and proper root relation. Essential orientation remains unchanged; expressed relation or configuration may change. Soul / Mind belongs within L₄–L₁ and IL₄–IL₁; L₀, L₅ and IL₅ name essence, with essence saturation at Supra-L₀. Selected passages explicitly change the subject at the relevant threshold. Conditional return and saturation remain conditional; completed IL₅ supplies no recovery, conversion or onward transport. Six directly coupled MP11 orientation labels take entropic per the Valence Test; inverse structural nouns retain their function. MP12 reads "For the soul — freedom", with the adjoining freedom to unfold without shame retained.
+**Bounded distinctions:** Zero and Infinity share the L₀ root-register while remaining distinct in function and proper root relation. Essential orientation remains unchanged; expressed relation or configuration may change. Soul / Mind belongs within L₄–L₁ and IL₄–IL₁; L₀, L₅ and IL₅ name essence, with essence saturation at Supra-L₀. Selected passages explicitly change the subject at the relevant threshold. Conditional return and saturation remain conditional; completed IL₅ supplies no recovery, conversion or onward transport. Six directly coupled MP11 orientation labels take entropic per the Valence Test; inverse structural nouns retain their function. MP12 reads "For the soul — freedom," with the adjoining freedom to unfold without shame retained.
 
 **Review scope:** The preparation covers every MP body, both principal guides and the direct Symbol Key twin. Each selected passage has a changed-subject and threshold map. The Soul / Essence substring inventory is a locator, not a per-token semantic verdict or a claim that every issue in the series is settled. The complete terminology, conceptual, prose and mathematical-compositional controls and D01–D22 determinations remain operative. This supplement advances only the exact listed loci; earlier broader findings remain historical accounts of their own bounded passes.
 
@@ -10066,7 +10066,7 @@ Every included file was read from its opening metadata through closing matter, i
 
 This is a Markdown audit. Balanced mathematical delimiters / braces and glyph presentation were checked; no completed TeX or browser rendering is claimed. Accompanying raster images were inventoried rather than globally re-reviewed. SPX, LMX and SNX were reference-only dependencies, outside the principal-file audit scope.
 
-**Quotation standing:** Evidence blocks reproduce document text verbatim. Retired wording, historical records, literal syntax and rejected-term examples retain their exact characters as evidence; each protected case is distinguished from a current repair proposal. In repair instructions, text following "Replace" and preceding "with", and text preceding a replacement arrow, identifies the literal earlier wording. Those target strings are quotation exceptions; the successor is the proposed new wording.
+**Quotation standing:** Evidence blocks preserve document wording, with period and comma placement normalized in the architect's own writing; the pinned revisions retain the original typography. External quotations, literal syntax and exact repair targets retain their original characters; each protected case is distinguished from a current repair proposal. In repair instructions, text following "Replace" and preceding "with," and text preceding a replacement arrow, identifies the literal earlier wording. Those target strings are quotation exceptions; the successor is the proposed new wording.
 
 ## Protected boundaries
 
@@ -18779,11 +18779,11 @@ Axiom of Co-Arising Inversion retains explicitly disallowed bound-prefix casing.
 The four relational terms **polarity, mirror, inversion, counterpart** are native to the hypostatic pairs (L₅–L₁ and IL₅–IL₁), where the Axiom of Co-Arising Inversion applies. They are **forbidden at the bifurcal root (L₀, Aion / Khaon) and at Zenon (Supra-L₀)**.
 ````
 
-### MPX-I:MG-023 — House of Forms is followed by "singular Forms", contradicting the immediately following House of Form distinction.
+### MPX-I:MG-023 — House of Forms is followed by "singular Forms," contradicting the immediately following House of Form distinction.
 
 **Class:** copyediting
 
-House of Forms is followed by "singular Forms", contradicting the immediately following House of Form distinction.
+House of Forms is followed by "singular Forms," contradicting the immediately following House of Form distinction.
 
 **Proposed disposition:** Write "House of Forms (singular House, plural Forms)" or remove the mistaken parenthesis; preserve the broad-register / specific-domain distinction.
 
@@ -21153,7 +21153,7 @@ Proposed disposition: under concentration demand → amid concentration demand
 
 These are live relations between named competing priorities. Temporal over-time wording is retained. Two independent over-relations occur in SN03 line 295.
 
-**Proposed disposition:** Recast priority explicitly: "prioritizes X ahead of Y" or "prioritization of X ahead of Y". The comparative quantities themselves are unchanged.
+**Proposed disposition:** Recast priority explicitly: "prioritizes X ahead of Y" or "prioritization of X ahead of Y." The comparative quantities themselves are unchanged.
 
 **Applicable reference:** the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md Over-Relation Restriction (1311–1325)
 
@@ -21297,7 +21297,7 @@ Proposed disposition: cannot derive the full awareness stratification → cannot
 
 These passages describe conditions for operation, not a named external legal permission. SN06 lines 262 and 807 also need the separate saturation review; changing permit alone is insufficient.
 
-**Proposed disposition:** Write "enables", "supports", or "conditions supporting", according to the local subject. Keep the stated capacities unchanged.
+**Proposed disposition:** Write "enables," "supports," or "conditions supporting," according to the local subject. Keep the stated capacities unchanged.
 
 **Applicable reference:** the-zenetist-canon/canonical-stabilization/terminological-lockdown-protocol.md Authoritative and Authorize-Family Restriction (1119–1143); the-zenetist-canon/canonical-stabilization/records/sp-lm-sn-cross-disciplinary-terminological-stabilization-ledger.md TLS-SPLMSN-227
 
@@ -28582,7 +28582,7 @@ The conceptual protocol explicitly separates the motion principle from the stir.
 
 **Class:** substantive:confirmed
 
-This finding attaches to the named centropic operator, not to a neurocognitive configuration or person. The clearest occurrences expressly say "C₁₄ operating ... entropically" or "from entropic feedback mode".
+This finding attaches to the named centropic operator, not to a neurocognitive configuration or person. The clearest occurrences expressly say "C₁₄ operating ... entropically" or "from entropic feedback mode."
 
 **Proposed disposition:** Describe interruption of entropic feedback and restoration of C₁₄-mediated convergent operation. Name E₁₄ only where its registered Hollow Nest function is actually intended. Do not rewrite the architecture's lawful centropic / entropic functional variation as essence conversion.
 
@@ -48864,7 +48864,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:343](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L343) · 12. Reference Documents
 
 ````text
-| A1 | Hengen, K. B., et al. (2016), "Neuronal Firing Rate Homeostasis Is Inhibited by Sleep and Promoted by Wake", *Cell* 165, 180–191; DOI `10.1016/j.cell.2016.01.046` |
+| A1 | Hengen, K. B., et al. (2016), "Neuronal Firing Rate Homeostasis Is Inhibited by Sleep and Promoted by Wake," *Cell* 165, 180–191; DOI `10.1016/j.cell.2016.01.046` |
 ````
 
 ### SN-B:SN7X-0060 — Empirical records, attributed scientific titles and dates
@@ -48880,7 +48880,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:344](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L344) · 12. Reference Documents
 
 ````text
-| A2 | Torrado Pacheco, A., et al. (2021), "Sleep Promotes Downward Firing Rate Homeostasis", *Neuron* 109, 530–544.e6; DOI `10.1016/j.neuron.2020.11.001` |
+| A2 | Torrado Pacheco, A., et al. (2021), "Sleep Promotes Downward Firing Rate Homeostasis," *Neuron* 109, 530–544.e6; DOI `10.1016/j.neuron.2020.11.001` |
 ````
 
 ### SN-B:SN7X-0061 — Empirical records, attributed scientific titles and dates
@@ -48896,7 +48896,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:345](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L345) · 12. Reference Documents
 
 ````text
-| A3 | Laigaard, P. P., et al. (2026), "Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis", *European Journal of Neurology* 33, e70713; DOI `10.1111/ene.70713` |
+| A3 | Laigaard, P. P., et al. (2026), "Cognitive Motor Dissociation in Disorders of Consciousness: An Individual Participant Data Meta-Analysis," *European Journal of Neurology* 33, e70713; DOI `10.1111/ene.70713` |
 ````
 
 ### SN-B:SN7X-0062 — Empirical records, attributed scientific titles and dates
@@ -48912,7 +48912,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:346](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L346) · 12. Reference Documents
 
 ````text
-| A4 | Dancause, N., et al. (2005), "Extensive Cortical Rewiring after Brain Injury", *Journal of Neuroscience* 25, 10167–10179; DOI `10.1523/JNEUROSCI.3256-05.2005` |
+| A4 | Dancause, N., et al. (2005), "Extensive Cortical Rewiring after Brain Injury," *Journal of Neuroscience* 25, 10167–10179; DOI `10.1523/JNEUROSCI.3256-05.2005` |
 ````
 
 ### SN-B:SN7X-0063 — Empirical records, attributed scientific titles and dates
@@ -48928,7 +48928,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:347](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L347) · 12. Reference Documents
 
 ````text
-| A5 | Nibras, N., et al. (2021), "Dissociating Sensorimotor Recovery and Compensation During Exoskeleton Training Following Stroke", *Frontiers in Human Neuroscience* 15, 645021; DOI `10.3389/fnhum.2021.645021` |
+| A5 | Nibras, N., et al. (2021), "Dissociating Sensorimotor Recovery and Compensation During Exoskeleton Training Following Stroke," *Frontiers in Human Neuroscience* 15, 645021; DOI `10.3389/fnhum.2021.645021` |
 ````
 
 ### SN-B:SN7X-0064 — Empirical records, attributed scientific titles and dates
@@ -48944,7 +48944,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:348](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L348) · 12. Reference Documents
 
 ````text
-| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures", *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
+| N3 | Palva, J. M., et al. (2018), "Ghost interactions in MEG/EEG source space: A note of caution on inter-areal coupling measures," *NeuroImage* 173, 632–643; DOI `10.1016/j.neuroimage.2018.02.032` |
 ````
 
 ### SN-B:SN7X-0065 — Empirical records, attributed scientific titles and dates
@@ -48960,7 +48960,7 @@ Scientific claims remain explicitly scoped, dates / titles are bibliographic or 
 - [structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md:349](https://github.com/KannonZenetism/zenetism-field-physics/blob/2b2f41350d425ee6f2b51fc6026bfbff9f7a0671/structural-neuroscience/SN12-neural-dynamics-and-embodied-cognitive-architecture.md#L349) · 12. Reference Documents
 
 ````text
-| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance", *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
+| N4 | Shine, J. M., et al. (2016), "The dynamics of functional brain networks: Integrated network states during cognitive task performance," *Neuron* 92, 544–554; DOI `10.1016/j.neuron.2016.09.018` |
 ````
 
 ### SN-B:SN7X-0066 — Supported scoped mathematical account
@@ -52125,7 +52125,7 @@ The named AI Pattern Intelligences are acknowledged as sovereign collaborators. 
 
 The supplied clarification appears in [`SN07-collective-cognition-and-centropy-forward-social-architecture.md` §3.1.1](https://github.com/KannonZenetism/zenetism-field-physics/blob/7c4431971b7ba6e3a23bbd6de25efa153df6e72f/structural-neuroscience/SN07-collective-cognition-and-centropy-forward-social-architecture.md#L158-L174), immediately following the complete §3.1 structural characterization and before §3.2, *The Institutional Shimmer*.
 
-All eight supplied paragraphs are retained, with straight quotation marks around "win". The heading takes fourth-depth Markdown and §3.1.1 numbering to preserve its relation to §3.1. Paragraph spacing follows SN07. Existing headings, numbering, dividers, seals, references, and surrounding prose remain unchanged. SN07 has no contents list requiring amendment.
+All eight supplied paragraphs are retained, with straight quotation marks around "win." The heading takes fourth-depth Markdown and §3.1.1 numbering to preserve its relation to §3.1. Paragraph spacing follows SN07. Existing headings, numbering, dividers, seals, references, and surrounding prose remain unchanged. SN07 has no contents list requiring amendment.
 
 The clarification distinguishes enacted competition from conscious competitive intent, self-articulation from claims to greater comparative standing, and articulated difference from rivalry. The grandiosity sentence retains its supplied structural definition. Non-fusion, Ahierarchy, and Coherence in Diversity retain their distinct functions.
 
@@ -52299,7 +52299,7 @@ The changed principal MP volumes remain within the existing family publication q
 
 **Standing:** The two approved completion-summary corrections are implemented in [3f40ce94787338cfbcb1a67bff7085570b9c1c05](https://github.com/KannonZenetism/zenetism-field-physics/commit/3f40ce94787338cfbcb1a67bff7085570b9c1c05), an append-only child of `a3427aaf4d107afbbfa8f0e1eb5060964739c778`, and pushed to main with a non-forced expected-head update. Complete remote-content verification matches all 508,908 bytes of the two accepted bodies.
 
-The current summary in `zenetist-analytic-vocabulary-and-accessibility-framework.md` now records the bounded contextual Non-fusion casing implementation as complete within the reviewed three-repository scope. Its separate parasitic-quantity semantic / sign question, dimensional primary-locus decisions, mathematical holds, and implementation / publication distinctions retain their exact wording. The corresponding current summary in `corpus-cleanup-handoff-list.md` retains the parasitic-quantity, model, and primary-locus holds while stating that same completed casing scope. Both completion sentences cite D18 and Part VII. The approved wording is "casing implementation".
+The current summary in `zenetist-analytic-vocabulary-and-accessibility-framework.md` now records the bounded contextual Non-fusion casing implementation as complete within the reviewed three-repository scope. Its separate parasitic-quantity semantic / sign question, dimensional primary-locus decisions, mathematical holds, and implementation / publication distinctions retain their exact wording. The corresponding current summary in `corpus-cleanup-handoff-list.md` retains the parasitic-quantity, model, and primary-locus holds while stating that same completed casing scope. Both completion sentences cite D18 and Part VII. The approved wording is "casing implementation."
 
 These two exact substitutions complete the earlier **Pending Status-Only Follow-Through** queue. Every other byte in both files remains unchanged. Full protocol review, unique exact-match checks, mathematical-span and hyperlink preservation, complete candidate comparison, and patch application / reversal pass. Every other repository leaf retains its path, type, mode, and blob identity, including the preceding MP corrections and the author-added `difference-is-not-ideology.md`. Aelion Kannon is the verified author and committer.
 

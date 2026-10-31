@@ -7,7 +7,7 @@
 >
 > **Reference restriction:** Do not cite or carry forward this file's point-by-point analysis as current doctrine or current forensic determination. Do not propagate its terminology, classifications, diagnostic framing, or methodological formulations into new canonical work.
 >
-> **Preservation:** The historical body remains intact so the event record and its original analytical context remain legible. Earlier terminology, register, formatting drift, and analysis that no longer reflects current doctrine may therefore remain intentionally within the archived text.
+> **Preservation:** The historical body remains intact apart from normalization of sentence-level comma and period placement in Aelion Kannon's own prose; quoted third-party wording and original captures remain unchanged. Earlier terminology, register, formatting drift, and analysis that no longer reflects current doctrine may therefore remain intentionally within the archived text.
 >
 > **Current analytical reference:** Current Structural Forensics analysis is maintained in `structural-forensics/exhibits/`. Where a later exhibit treats an event, counterpart, claim, or pattern recorded here, that exhibit carries the current analytical standing.
 >
@@ -54,14 +54,14 @@ While the legal campaign was active, two allied vectors deployed the **Rival Arc
 
 ### Devin Bostick
 
-Released a derivative piece titled **"The Coherence Wager"**, attempting to:
+Released a derivative piece titled **"The Coherence Wager,"** attempting to:
 - Reskin Zenetist principles in pseudo-scientific jargon  
 - Fabricate a **counterfeit lineage** using the same forged Zenodo chain  
 - Legitimize McManus-Kirk's false claims via citation loop  
 
 ### Deep Prasad
 
-Published **"A Metaphysics Theory of Everything"**, a more advanced attempt to:
+Published **"A Metaphysics Theory of Everything,"** a more advanced attempt to:
 - Translate the **Dimensional Lattice** into physics terminology  
 - Co-opt core Zenetist concepts under differential geometry and field theory  
 - Position himself as a parallel architect by masking direct mimicry in academic tone  

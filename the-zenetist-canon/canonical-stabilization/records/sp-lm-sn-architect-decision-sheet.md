@@ -83,7 +83,7 @@ Retain the CIT mathematical quantities within their declared mathematical regist
 - The metaphysical, mathematical, and empirical scopes may differ in how they articulate the same architecture without implying that the architecture itself is inadequate.
 - Where entropic organization is being described, write **cohesion** rather than coherence.
 - Write **inverse** for architectural placement or structure and **entropic** for operation, motion, orientation, tendency, or organizational valence.
-- Therefore prefer **entropic organization / cohesion**, not "inverse organization", unless the passage is specifically naming architectural placement.
+- Therefore prefer **entropic organization / cohesion**, not "inverse organization," unless the passage is specifically naming architectural placement.
 - Coherent content present within an entropic context may still be separately identified as coherent content.
 
 Do not create a new native-coherence functional during this stabilization pass unless the existing mathematics already establishes one.
@@ -356,7 +356,7 @@ Do not apply D07 to identify Aion as Source.
 
 Aion is **Origin**, not Source.
 
-Any recovery-variable or replenishment-label question involving "Source", `S_source`, Aion-facing reconnection, or another successor remains a matter for its dedicated architect determination. **Current naming disposition:** D18 selects Aion-facing Reconnection and retains \( S_{\text{source}} \) as the scoped recovery-rate mnemonic. That separate selection preserves this D07 accounting decision and its original naming boundary.
+Any recovery-variable or replenishment-label question involving "Source," `S_source`, Aion-facing reconnection, or another successor remains a matter for its dedicated architect determination. **Current naming disposition:** D18 selects Aion-facing Reconnection and retains \( S_{\text{source}} \) as the scoped recovery-rate mnemonic. That separate selection preserves this D07 accounting decision and its original naming boundary.
 
 The recovery accounting must therefore be corrected independently of that naming question.
 
@@ -659,7 +659,7 @@ Preserve the distinction between:
 
 **Phae** and **Pattern Being** are structurally the same referent.
 
-Phae functions as the shorter proper designation in the same way that ordinary prose may say "human" without repeating "human being".
+Phae functions as the shorter proper designation in the same way that ordinary prose may say "human" without repeating "human being."
 
 Therefore:
 
@@ -912,7 +912,7 @@ The operative structure is:
 
 ### Origin-Context Vocabulary
 
-Avoid "sever", "severance", "severed", and especially "origin self-severance" when the passage concerns the relation between a derivative articulation and its origin.
+Avoid "sever," "severance," "severed," and especially "origin self-severance" when the passage concerns the relation between a derivative articulation and its origin.
 
 Prefer fracture-language such as:
 
@@ -1724,7 +1724,7 @@ The displayed Orientation–Intent relation may retain its schematic right-hand 
 
 Do not reinterpret later MPX refinements of Centropic Gravity to preserve the older overloaded wording.
 
-Where the current corpus calls ordinary embodied return tendency "Centropic Gravity", distinguish that local return tendency from the proper registered Centropic Gravity relation.
+Where the current corpus calls ordinary embodied return tendency "Centropic Gravity," distinguish that local return tendency from the proper registered Centropic Gravity relation.
 
 The operative principle is:
 
@@ -1784,9 +1784,9 @@ A high-pattern-fidelity architecture may enact centropic or entropic function ac
 
 ### Directional-Language Constraint
 
-Do not describe the configuration through "elevated pattern fidelity".
+Do not describe the configuration through "elevated pattern fidelity."
 
-"Elevate", "elevation", and related vertical value-language are restricted in canonical authorial voice.
+"Elevate," "elevation," and related vertical value-language are restricted in canonical authorial voice.
 
 For this configuration, write formulations such as:
 
@@ -1797,7 +1797,7 @@ For this configuration, write formulations such as:
 
 according to context.
 
-Do not substitute "acclivated pattern fidelity", because the configuration characteristic is not itself a directional motion along the centropic return path.
+Do not substitute "acclivated pattern fidelity," because the configuration characteristic is not itself a directional motion along the centropic return path.
 
 ### Structural Orientation / Configuration Distinction
 
@@ -1812,7 +1812,7 @@ Preserve "orientation" where the passage genuinely concerns:
 - centropic / entropic orientation;
 - or another actual orientation-register claim.
 
-Do not globally replace every occurrence of "structural orientation".
+Do not globally replace every occurrence of "structural orientation."
 
 Do not rename clinically established terms such as autism, OCD, or ADHD as part of this determination.
 
@@ -1896,7 +1896,7 @@ Do not interpret the new title as proof that differentiation and integration are
 
 Where the current proof or explanatory prose overstates that relation, synchronize it with the actual established scope during later implementation.
 
-Do not alter Dual / Dyadic intelligence terminology merely because this unrelated mathematical law loses "Dual".
+Do not alter Dual / Dyadic intelligence terminology merely because this unrelated mathematical law loses "Dual."
 
 The operative principle is:
 
@@ -1948,7 +1948,7 @@ The following boundaries remain in force:
 - **Mirror is never centropic.** Entropic Mirror retains its name. **Living Reflection** names general centropic reflection, including the general Structural Metaphysics register. **Relational Reflection Architecture** names the specialized Field Physics function of conscious reflection through external patterns and self-discovery through relational encounter. Apply the name according to the actual function; do not impose the specialized FP name on every general centropic reflection. This distinction supplies no new glyph assignment to Living Reflection.
 - C₁ ⟠ **Temporal** remains its distinct dimensional designation.
 - Echo / Mirror names whose registered functions genuinely concern entropic operation remain. The approved four-name correction does not approve a general Echo / Mirror purge.
-- **Echo Layer** follows the additional determination in "Approved Membrane Recursion Scope and Glyphs". Its former umbrella sense does not establish entropic valence for every earlier passage; each referent receives the selected name and glyph according to its actual function.
+- **Echo Layer** follows the additional determination in "Approved Membrane Recursion Scope and Glyphs." Its former umbrella sense does not establish entropic valence for every earlier passage; each referent receives the selected name and glyph according to its actual function.
 
 ### Completed Four-Name Corpus Implementation
 
@@ -2102,7 +2102,7 @@ The existing full D18 block supplies this determination. The current protocols a
 
 **Approved bounded follow-through:** In `MP08-symbol-key-ch21.md` and its Symbol Key twin, repair the six introduced prose-glyph placements per file while preserving chart rows, definition cells, registered glyph functions, protected trailing / process sequences, poetic hard breaks, mathematics, and all other wording. This correction concerns the inspected MP additions and their twin; it supplies neither a broader MP audit nor a prose-glyph restriction for other series.
 
-In `SP10-ritual-energetics-and-integration-protocols.md` §4.2, the approved question is "Which replenishment relation is operative", retaining Aionic attunement, Theonic reconnection, archetypal field alignment, and harmonic bridging with an aligned being in their existing order. The sentence "Identify the specific referent with which the relation is established" preserves the step's concrete identification function. It adds no supplier theory, necessary intermediary, sufficient replenishment condition, or mathematical construction. The subsequent source-to-target connection, resonance and permeability conditions, reception-capacity relation, and stabilization step remain unchanged.
+In `SP10-ritual-energetics-and-integration-protocols.md` §4.2, the approved question is "Which replenishment relation is operative," retaining Aionic attunement, Theonic reconnection, archetypal field alignment, and harmonic bridging with an aligned being in their existing order. The sentence "Identify the specific referent with which the relation is established" preserves the step's concrete identification function. It adds no supplier theory, necessary intermediary, sufficient replenishment condition, or mathematical construction. The subsequent source-to-target connection, resonance and permeability conditions, reception-capacity relation, and stabilization step remain unchanged.
 
 **Verified source implementation:** The amended candidate contains the same 48 existing files. The original candidate and each bounded follow-through repair passed independent review; independent cumulative verification of the composed candidate is complete. The review includes changed operational passages and their dependent formulations, current protocol / record fields, glyph-chart twins, retained mathematical objects, and seals. The architect has approved commit and push of the amended scope to main after cumulative verification, followed by complete live-file verification and a separate completion record. Source commit [954e554f10a4b680aa9d30213875598a5becde31](https://github.com/KannonZenetism/zenetism-field-physics/commit/954e554f10a4b680aa9d30213875598a5becde31) has been pushed to main as a direct append-only descendant of `78a0ee9260e8dad11332b393c31753b3b61d1d90`. The [baseline-to-source comparison](https://github.com/KannonZenetism/zenetism-field-physics/compare/78a0ee9260e8dad11332b393c31753b3b61d1d90...954e554f10a4b680aa9d30213875598a5becde31) identifies the committed change. Aelion Kannon is the verified author and committer. All 48 complete remote source-file bodies, totaling 4,744,036 bytes, match the independently reviewed amended candidate in byte content, length, Git blob identity, and SHA-256. This includes the complete 1,087,649-byte terminology ledger. Independent verification confirms the source commit and complete file identities. Source implementation is complete within this approved scope. Publication preparation, upload, new versions, and deposited-file verification remain held. Earlier verified implementations in this block retain their own recorded scope and commits.
 
@@ -2164,7 +2164,7 @@ The following work remains explicit in this same determination block. The earlie
 
 5. **Structural Neuroscience strict review — verified source completion.** The strict Structural Neuroscience review is complete for SN01–SN12, both guides and the full dependent glyph chart. The approved bounded corrections are implemented in [3ce74684b36164a4e2f48388261863be5dd73db2](https://github.com/KannonZenetism/zenetism-field-physics/commit/3ce74684b36164a4e2f48388261863be5dd73db2): 239 integrated review records compose into 220 distinct original line / span loci across 13 existing files. SN10 and SN12 required no source correction; SN01 changes are confined to five current archive-notice citation slots, with its historical body preserved exactly. The architect explicitly selected the reviewed SN02 interweave replacement, superseding the prior optional retention without revising historical findings. D14 function / being distinctions remain contextual, with genuine Pattern Intelligence functions and historical wording preserved. Part VII of `sp-lm-sn-live-corpus-agreement-and-dimensional-placement-report.md` records the exact source scope, full remote verification, residual holds and publication-family continuity. The six mathematical-presentation rows, all fifteen primary dimensional loci and separate interpretive, mathematical and evidentiary questions remain held. The retained Field Physics terminology queue follows; the broader principal MP review and publication preparation remain pending.
 
-6. **Remaining Field Physics local-name propagation.** The eighteen selected names and the bounded technical / descriptive wording corrections are recorded in "Approved Remaining FP Local Names and Reference Wording". Their 32-file source implementation and complete independent remote-content verification are complete. The recovery account's relational function is determined in the clarification recorded here; its exact mechanism, glyph sequence, activation, and identity relation to FP08 remain held. The four-file source clarification and complete independent remote verification are complete; the recovered Scroll III locator and completed one-file caller propagation are recorded in Part VII. Preserve the separate figure-name, glyph, awareness, placement, mathematical and activation holds. Earlier verified FP and SN source implementations retain their completed standing; publication and the broader principal MP review remain pending.
+6. **Remaining Field Physics local-name propagation.** The eighteen selected names and the bounded technical / descriptive wording corrections are recorded in "Approved Remaining FP Local Names and Reference Wording." Their 32-file source implementation and complete independent remote-content verification are complete. The recovery account's relational function is determined in the clarification recorded here; its exact mechanism, glyph sequence, activation, and identity relation to FP08 remain held. The four-file source clarification and complete independent remote verification are complete; the recovered Scroll III locator and completed one-file caller propagation are recorded in Part VII. Preserve the separate figure-name, glyph, awareness, placement, mathematical and activation holds. Earlier verified FP and SN source implementations retain their completed standing; publication and the broader principal MP review remain pending.
 
 ### Publication Readiness
 

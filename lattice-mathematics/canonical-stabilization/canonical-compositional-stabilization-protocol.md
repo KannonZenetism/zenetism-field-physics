@@ -868,7 +868,7 @@ Before finalization of any canonical mathematical document, verify:
 - "echo" appears only where contextually appropriate,
 - "fractal" appears only where technically stabilized or structurally necessary,
 - no standalone `=` or hyphen line appears inside a `\[ ... \]` block,
-- set-builder notation takes `\mid`, not a colon, for "such that",
+- set-builder notation takes `\mid`, not a colon, for "such that,"
 - and "elevate" language does not replace acclivous / supernal terminology.
 
 ---
