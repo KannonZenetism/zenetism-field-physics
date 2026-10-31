@@ -421,6 +421,17 @@ Double quotation marks apply throughout. Nested quotations within quotations als
 
 Note: Earlier documents contain quotation-mark drift between straight and curly forms. This drift is not structurally significant and is not flagged as canonical error in older work. New work follows straight quotes.
 
+### Period and Comma Placement Determination
+
+In authorial prose, sentence-level periods and commas appear inside the closing straight double quotation mark. This convention applies to quoted terms and phrases as well as quoted sentences. It concerns punctuation placement in the surrounding prose; it does not add punctuation to the wording attributed to the quoted expression.
+
+Correct:
+
+- The description was "closed world."
+- The terms "relation," "translation," and "application" remain distinct.
+
+Faithfully preserved external quotations and reproduced records retain their original internal punctuation, including placement relative to quotation marks. Where the architect supplies a revised version of a recorded comment, the revised text is distinguished from the photographed or earlier preserved state rather than silently replacing that evidentiary state.
+
 ### Quotation Marks Within Block Quotes
 
 **A block quote is already a quotation. Enclosing quotation marks are not added to it**.
