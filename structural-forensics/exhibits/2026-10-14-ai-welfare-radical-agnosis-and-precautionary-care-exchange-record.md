@@ -1395,7 +1395,7 @@ O03 preserves C40 before the apostrophe in its final paragraph was changed from 
 
 ### Stated Limits and the Unanswered Judgments
 
-C39 presents Saltiel's narrow focus and limits as the substance of his earlier position. C15 also characterized Kannon as "difficult", called the architecture a "closed world", and preferred established philosophical discussions. C16 and C17 had already challenged both the unsupported characterization and the redirection of attention toward established thinkers without a demonstrated comparison of the respective architectures.
+C39 presents Saltiel's narrow focus and limits as the substance of his earlier position. C15 also characterized Kannon as "difficult", called the architecture a "closed world", and preferred established philosophical discussions. C16 and C17 had already challenged both the unsupported characterization and the redirection of attention toward established thinkers without a demonstrated comparison of the respective architectures. The redirection toward established thinkers began in C13 with Grothendieck and G.V. Klempner and the attached article *On the difference between the truth and facts*, preserved in Appendix B in the section *The Attached Klempner Reference* and previewed in A02, before C15 renewed it through Grothendieck.
 
 The new account of personal limits leaves those judgments unexamined. C39 supplies neither a particular defect in the architecture nor a comparison establishing that the recommended work articulates the same distinctions and relations. Its "all" omits the substantive claims that prompted Kannon's objection. C40 therefore asks whether Saltiel retains those judgments and what examination supports them.
 
