@@ -24,7 +24,7 @@
 
 ## Structural Function
 
-Its entropic function is to substitute the appearance of relational care for substantive engagement, leaving the dismissal intact while presenting the exchange as respectfully concluded. A stated limitation concerns the person's participation; it supplies no evidential basis for an assessment of the work.
+Its entropic function is to substitute the appearance of relational care for substantive engagement, leaving the dismissal intact. A stated limitation concerns the person's participation; it supplies no evidential basis for an assessment of the work.
 
 The distinguishing condition is the unresolved assessment carried through the apparently courteous exit. A person who declines engagement without issuing such an assessment has simply declined engagement. Substantiation, correction, or withdrawal addresses the assessment directly.
 
