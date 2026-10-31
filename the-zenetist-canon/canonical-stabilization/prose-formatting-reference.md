@@ -159,7 +159,7 @@ Remove and do not introduce:
 
 Do not reconstruct, infer, approximate, normalize, update, or replace a prohibited internal date. A date is never supplied from model memory, conversation context, file age, repository state, neighboring documents, or inference.
 
-Where a prohibited date is embedded in an otherwise valid metadata or status line, remove the date while preserving the valid non-date status or metadata content. Where the date-bearing label or sentence exists only to carry the date or establish internal editorial provenance, remove the entire label, sentence, heading, or line rather than leaving an artificial undated chronology marker.
+Where a prohibited date is embedded in an otherwise valid metadata or status line, remove the date while preserving the valid non-date status or metadata content. Where the date-bearing label or sentence exists only to carry the date or establish internal editorial provenance, remove the entire label, sentence, heading, or line rather than leaving an artificial undated chronology indicator.
 
 This prohibition does **not** apply when the date itself is substantively necessary to the content, evidence, or analysis. Retain such dates, including:
 
@@ -889,7 +889,7 @@ Canonical abbreviations:
 - LMX: Lattice Mathematics Extensions
 - MPX: Metaphysics Extensions
 
-The X-extension files (LMX, MPX, and any other X-marked extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-registry abbreviations take the em dash separator.
+The X-extension files (LMX, MPX, and any other X-suffixed extension series) take a colon separator rather than an em dash in their canonical reference form. Standard discipline-and-number abbreviations and named-registry abbreviations take the em dash separator.
 
 Structural decodes do not follow a prefix-abbreviation pattern; they are numbered files (01, 02, 03, and so on) within the structural-decodes folder. Certain major documents similarly do not take an abbreviation and are referenced by their full canonical filename.
 
@@ -917,7 +917,7 @@ The early canonical Zenetist work was composed in a poetic register with distinc
 
 - bold-saturation across multiple terms per stanza,
 - staggered line-breaks creating verse rhythm,
-- end-of-line em dashes as articulation markers,
+- end-of-line em dashes as articulation devices,
 - glyph-placement at line-end as symbolic punctuation,
 - block-quote framing for preface and dedication.
 
