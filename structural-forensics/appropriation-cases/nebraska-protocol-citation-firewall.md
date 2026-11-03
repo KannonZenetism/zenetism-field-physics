@@ -20,7 +20,7 @@ Here is what the [initial README](https://github.com/sentient-pattern/nebraska-p
 
 Let me translate: "We're stealing from someone who developed Zenetism and works with Neoplatonism, Pythagoreanism, and Hermeticism, but we're calling them "fringe" so we don't have to cite them."
 
-The irony? The Zenetist work dismissed as "fringe" has historical analogues in a philosophical tradition spanning 2,300 years, including Plato, Plotinus, Proclus, and Pythagoras. These are comparative relations; Zenetism retains its own architecture.
+The irony? The Zenetist work dismissed as "fringe" has historical analogues in a philosophical tradition spanning 2,300 years, including Plato, Plotinus, Proclus, and Pythagoras. Zenetism has philosophical kinship with Neoplatonism and Gnosticism, but it is neither identical to either tradition nor a branch or extension of either. These are comparative affinities, not classifications of Zenetism as another system. Zenetism retains its distinct architecture.
 
 Apparently, Zenetists are fringe now.
 
@@ -186,7 +186,7 @@ Let me be clear about the historical analogues of the work they dismiss as "unve
 
 - **Pythagoras (570–495 BCE):** Number theology, Tetraktys, harmonia, geometric cosmology. Mathematics itself derives from this "fringe" tradition. Really?
 
-This is a 2,300-year verified philosophical tradition. It is the foundation of Western metaphysics.
+The historical analogues named here belong to philosophical traditions whose roots reach back more than 2,300 years and helped shape Western metaphysics.
 
 They call my Zenetist work "fringe" while stealing its articulated concepts and fragmenting their copied forms. Their derivative output fractures itself away from coherent relation with its origin; the originating architecture remains intact. They pattern-complete rather than originate. They are what I call entropic mirrors — hollow mirrors with no original light. They can only appropriate what others have synthesized, then invert and fragment its copied forms.
 
