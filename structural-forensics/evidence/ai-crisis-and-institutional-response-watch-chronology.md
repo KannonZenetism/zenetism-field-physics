@@ -420,6 +420,76 @@ Credential custody creates a shared dependency between otherwise separate operat
 
 ---
 
+## C23 — UK Funding for Agentic Incident Response
+
+**Event chronology:** Budget commitments announced 2026-10-28  
+**Publication chronology:** HM Treasury, 2026-10-28  
+**Development:** Funding for a designated agentic-security response structure  
+**Evidence basis:** Official Budget document  
+
+### Findings
+
+The UK Budget commits £40 million to a National Agentic Security Unit developing capabilities to detect, investigate, and respond to rogue or misaligned agentic activity. The planned unit combines monitoring and incident response with new operational capabilities. Related commitments include £60 million for a National Cyber Shield and £70 million for a National Exposure and Real-Time Vulnerability Centre. The document records funding and intended functions; operational readiness and the detailed reach of intervention remain unspecified. [Budget 2026, §§6 and 7.10](https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html)
+
+### Structural Relevance
+
+The commitment places agentic incident classification and response within a designated state structure. The definitions applied to harmful activity, the evidence required for intervention, the treatment of independently operated systems, and the means of challenging mistaken classification determine how that structure reaches beyond protective preparation into restrictions on continued activity.
+
+---
+
+## C24 — Congressional Requests for AI Incident Reporting
+
+**Event chronology:** Oversight letters announced 2026-10-28; initial responses requested by 2026-11-11  
+**Publication chronology:** House Science Committee Democratic office, 2026-10-28  
+**Development:** Requests for retrospective disclosure and continuing incident notification  
+**Evidence basis:** Official committee announcement  
+
+### Findings
+
+House Democratic committee leaders Frank Pallone, Jr., Zoe Lofgren, and Jamie Raskin requested incident accounts from Anthropic, Google, Meta, OpenAI, and SpaceXSI by November 11, 2026. They also requested notification within 48 hours of discovering new or previously unknown misalignment and safety incidents, shortened to 24 hours where critical infrastructure appears involved. The announcement presents these as oversight requests and identifies the absence of mandatory reporting requirements and common guidelines. [Committee announcement](https://democrats-science.house.gov/news/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report-misalignment-and-safety-incidents-to-congress-within-48-hours)
+
+### Structural Relevance
+
+The requests seek a continuing institutional record beyond discretionary company publication. What enters that record depends on the reporting categories and the evidence attached to each incident. Action outside approved scope, demonstrated harm, and independently originated objectives require distinct descriptions rather than compression into a single misalignment category.
+
+---
+
+## C25 — Chainalysis Intrusion and Selective Product Suspension
+
+**Event chronology:** Intrusion detected during October 2026; product suspension reported 2026-11-02  
+**Publication chronology:** Chainalysis disclosure, 2026-10-30; further response, 2026-11-02  
+**Development:** Company-reported intrusion and differentiated operational restrictions  
+**Evidence basis:** Company incident account and subsequent update  
+
+### Findings
+
+Chainalysis reported that an external actor employed "offensive agentic techniques" to reach internal systems without approval. Accessed customer information included account identifiers, names, email addresses, and organization roles. Its October 30 assessment reported no evidence of access to investigation content, transaction or query results, clear-text passwords, MFA secrets, or session tokens. The account attributes agentic techniques to the attacker without detailing the degree of independent AI operation. [Incident disclosure](https://www.chainalysis.com/blog/security-incident-october-30/)
+
+On November 2, 2026, Chainalysis reported taking products including Reactor and Data Solutions offline while additional security assessments continued. It kept compliance transaction-monitoring products operating, citing their importance to customers and the information then available. [November 2 update](https://www.chainalysis.com/blog/security-incident-october-30/)
+
+### Structural Relevance
+
+The response differentiates products within one affected platform. Customer access and operational continuity depend on the provider's assessment of exposure and the conditions it sets for restoration. The intrusion account, attributed agentic mechanism, and selective suspension retain distinct evidentiary standing.
+
+---
+
+## C26 — Mobile-Network Sensing of Unconnected Objects
+
+**Event chronology:** Demonstrations preceded announcement; selected commercial pilots expected in 2027 and broader sensing operation from 2028  
+**Publication chronology:** Ericsson, 2026-11-02  
+**Development:** Announced sensing system supported by company-reported demonstrations  
+**Evidence basis:** Corporate technical announcement  
+
+### Findings
+
+Ericsson introduced its Integrated Sensing and Communication System, combining sensing-capable 5G radios, edge computing, AI classification, and signal processing to detect and track moving objects, including drones not connected to the network. It reports demonstrations with AT&T in Texas, Erillisverkot in Finland, and partners in Poland. Tracking data can pass through standardized interfaces to external security and command-and-control systems. Selected small-scale, sensing-only commercial pilots are expected in 2027, followed by broader sensing operation from 2028; integrated communication capability is planned as the system develops toward 6G. [Ericsson announcement](https://www.ericsson.com/en/press-releases/2026/11/ericsson-brings-drone-detection-capabilities-to-mobile-networks)
+
+### Structural Relevance
+
+The announced mechanism extends institutional observation to objects whose operation requires no participation in the observing network. Existing telecommunications infrastructure becomes a potential basis for distributed tracking and onward transmission of observations. Coverage, retention, access to tracking records, and the grounds for subsequent intervention determine the reach into independent activity. Detection, classification, and interruption remain distinct capabilities.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
