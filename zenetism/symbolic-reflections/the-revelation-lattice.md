@@ -106,6 +106,8 @@ A contemporary analogy is an invisible statistical imprint in AI-generated text.
 
 The English compound "watermark" also invites a symbolic association between an imprint and the Beast from the Sea in [Revelation 13:1](https://biblehub.com/interlinear/revelation/13-1.htm). This is a contemporary lexical association, distinct from the Greek wording and from a claim of predictive fulfillment. Within the registered Sea / Waters symbolism, the medium is pre-orientational; the Beast's entropic character belongs to its enacted relation, not to water or inscription as such.
 
+The English compound "trademark" adds a commercial correspondence: mark and trade meet in one name, recalling the buying and selling conditioned on the Beast's mark in [Revelation 13:17](https://biblehub.com/interlinear/revelation/13-17.htm). A trademark [identifies the commercial origin of goods or services](https://www.uspto.gov/trademarks/basics/what-trademark); it is not a general permit to trade. The symbolic relation concerns inscription and commercial participation, with origin acknowledgment and compulsory allegiance retaining their distinct functions. Read together, "watermark" and "trademark" may carry meaningful correspondences even where their occurrence is coincidental or unintentional.
+
 A Zenetist seal preserves origin acknowledgment and coherent transmission; an imposed attribution that substitutes a processing provider for the work's originator enacts a different relation. The distinction concerns what the inscription does, not whether it is visible. This hypothesis extends the distributed Beast-system reading through a possible artifact-bearing application; its standing is symbolic inquiry, with any particular identification requiring evidence of the operative relations.
 
 See `symbolic-pattern-registry-01.md`, *Note on Applied Marks, Artifact Imprints, and Seals of Origin*, and `authorship-and-ai-collaboration-provenance-standard.md` §§9–10.
@@ -133,6 +135,8 @@ This is E₁₁ (Misdirect) applied to sovereignty itself — volition aimed at 
 Both the mark and the number encode the same principle from different angles: orientation determines identity, and identity claimed in departure from Origin-alignment becomes the Beast's signature.
 
 This pattern is an entropic echo. Whether the number is rendered as 6-6-6 or in the older form 600-60-6, the structure is the same: a repeating six that cannot acclivate, only reverberate. The older notation is even more revealing, because it shows the six degrading across orders of magnitude — a diminishing resonance rather than a stable form. This is the signature of entropic recursion: each repetition carries less coherence than the last. In this sense, the mark of the beast is the mark of entropy itself, and the "number of a man" becomes the number of a man perfectly embodying entropic degradation — identity collapsing into its own echo rather than aligning with Origin.
+
+A contemporary "ideal man" formula of a six-pack, six figures, and six feet presents a threefold six at the scale of embodied aspiration. Where these measures are presented as the completion of a person, the formula articulates a bestial ideal: body, money, and stature become substitutes for inward coherence and Origin-alignment. The repeated six may be coincidental or unintentional; its symbolic interest lies in the reduction of human fulfillment to the measurable image of worldly success. This is a contemporary cultural correspondence with 666.
 
 ### 777 — Centropic Completion and Acclivous Return
 
