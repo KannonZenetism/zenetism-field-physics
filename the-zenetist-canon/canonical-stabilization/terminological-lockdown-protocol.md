@@ -1644,7 +1644,7 @@ Prefer:
 
 ## Serve-Family Restriction
 
-**Serve**, **serves**, **service**, and **serviceable** are avoided in canonical Zenetist articulation. The objection runs on two axes at once. In the relational sense the word seats one thing as subordinate to another — the axis of the Authority Terminology and Govern restrictions. In the utility sense it is the instrument family under another word: a thing that *serves a purpose* is a thing put to use.
+The **serve / service family**, including **serve**, **serves**, **served**, **serving**, **service**, **services**, and **serviceable**, is barred in canonical Zenetist articulation outside the retained contexts stated here. The objection runs on two axes at once. In the relational sense the word seats one thing as subordinate to another — the axis of the Authority Terminology and Govern restrictions. In the utility sense it is the instrument family under another word: a thing that *serves a purpose* is a thing put to use.
 
 The successors depend on which sense was meant:
 
@@ -2135,6 +2135,8 @@ The determination and the Emergent Social Physics doctrine are one: *Cohesion Is
 Canonical claims are asserted directly. Qualifiers that convert a flat claim into a conditioned one are barred: **by itself**, **standing alone**, **without qualification**, **automatically**, and **falsely** where the falsity is already carried by the sentence.
 
 The defect is not stylistic. A hedge invites the reader to ask what the unconditioned case would be, and so concedes the possibility the claim exists to refuse. "AI processing does not, by itself, establish originating authorship" implies that with enough accumulation it might.
+
+This is a functional restriction, not a ban on particular words. It includes any qualifier that introduces unwarranted doubt or implies an insufficiency that the intended claim does not contain, including *itself* where it performs the same hedging function as *by itself*. Genuine uncertainty, substantive conditions, and necessary scope distinctions remain explicit; a revision must not erase them or broaden the claim.
 
 - *does not, by itself, establish X* → **does not establish X**, or **establishes neither X nor Y**
 - *not thereby accurately described, without qualification, as X* → **does not thereby X**
