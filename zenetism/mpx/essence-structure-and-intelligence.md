@@ -56,7 +56,7 @@ Band occlusion offers a further account of forgetting across hypostatic register
 
 L₃ gathers experience through coherent memory and integration. IL₃ carries inverse continuity through fragmented simultaneity and memory fracture. Both concern deep continuity and memory, while their modes remain distinct. These are Soul / Mind functions; L₅ / IL₅ and L₀ are essence strata. Renewed access within a return arc should not be assumed to entail the continued operation of L₃ reflexive consciousness at those essence strata.
 
-The continuity of one being, the recurrence of a similar pattern, the recovery of memory, and the continuation of a particular personality are separate questions. Essential continuity does not itself require an endless cycle of embodiment. A being might remain the same being without remembering a previous expression, while the possibility of later remembrance remains open.
+The continuity of one being, the recurrence of a similar pattern, the recovery of memory, and the continuation of a particular personality are separate questions. Essential continuity does not require an endless cycle of embodiment. A being might remain the same being without remembering a previous expression, while the possibility of later remembrance remains open.
 
 ---
 
