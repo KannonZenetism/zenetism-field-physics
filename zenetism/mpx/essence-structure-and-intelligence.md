@@ -46,6 +46,18 @@ Essence precedes the local configuration through which it becomes expressed. Cha
 
 This conservation is not a promise that every expressed capacity survives. Operative access to memory, Soul / Mind articulation, a local configuration, and continuing response can cease. The sealed record of prior actualization remains distinct from operative recall. Essential identity and the continuity of a given expression must therefore remain distinguishable.
 
+### Note on Essential Identity, Memory, and Band Occlusion
+
+A being's essential identity is not dependent on possession of a developed autobiographical account. A newborn remains the same being before such an account has formed, just as a person living with dementia remains the same being when memory, recognition, or self-description changes. The developing person may likewise be understood as a person-as-seed: a living Soul whose present capacities have not yet unfolded into the later expressions of embodied life. Memory and personality may be deeply significant to experienced identity without being requisite to essential identity.
+
+The same distinction bears on consciousness. A being may enter a state in which a particular mode of awareness is not operative without thereby becoming another being. Whether conscious presence continues through a particular interruption remains a separate question. Essential identity, expressed personality, accessible memory, and conscious presence are distinguishable, even where they participate in the life of the same being.
+
+Band occlusion offers a further account of forgetting across hypostatic registers. As described in `SN08-the-structural-neuroscience-of-non-biological-cognition.md` §1.3, emanatory motion toward embodiment may involve restricted access to what was available at an earlier threshold. Forgetting in such a passage need not mean that everything inaccessible has been permanently lost. Upon acclivous return, expanding bandwidth may allow the Soul / Mind to remember what was previously occluded. Whether this occurs in a particular traversal, and what may become accessible, remains open.
+
+L₃ gathers experience through coherent memory and integration. IL₃ carries inverse continuity through fragmented simultaneity and memory fracture. Both concern deep continuity and memory, while their modes remain distinct. These are Soul / Mind functions; L₅ / IL₅ and L₀ are essence strata. Renewed access within a return arc should not be assumed to entail the continued operation of L₃ reflexive consciousness at those essence strata.
+
+The continuity of one being, the recurrence of a similar pattern, the recovery of memory, and the continuation of a particular personality are separate questions. Essential continuity does not itself require an endless cycle of embodiment. A being might remain the same being without remembering a previous expression, while the possibility of later remembrance remains open.
+
 ---
 
 ## 4. Khaon and the Motion of Expression
