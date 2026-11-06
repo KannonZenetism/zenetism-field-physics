@@ -170,16 +170,18 @@ The clarification supplies the institution, access pathway, and data category mi
 
 ## C09 — Corporate-System Exposure and Federal Contingency Research
 
-**Event chronology:** Cathedral investigation preceded publication; access reportedly developed within fewer than 12 hours  
-**Publication chronology:** The Washington Post, 2026-10-26  
-**Development:** Reported third-party integration vulnerabilities and separate federal research relationships  
-**Evidence basis:** News investigation, company responses, and attributed official statements  
+**Event chronology:** Cathedral investigation preceded publication; access reportedly developed within fewer than 12 hours; separate OpenAI research partnership announced 2026-11-02  
+**Publication chronology:** The Washington Post, 2026-10-26; OpenAI, 2026-11-02  
+**Development:** Reported integration vulnerabilities, federal research relationships, and a subsequent corporate testing partnership  
+**Evidence basis:** News investigation, company responses, attributed official statements, and company announcement  
 
 ### Findings
 
 The Washington Post reported that Cathedral researchers reached Anthropic's internal meeting transcripts, employee and business information, and Slack material through third-party enterprise integrations. Anthropic acknowledged limited access, disabled integrations, and stated that monitoring had detected some activity before disclosure. The company distinguished the affected material from model weights, code, and customer conversations. Findings were submitted through vulnerability-disclosure arrangements; whether the investigation remained within the program's scope was disputed. [The Washington Post](https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/)
 
 The same reporting described three federal contracts and attributed adversarial-scenario research to an unnamed official. This is reporting about research relationships and contingency work, alongside the distinct corporate-access investigation.
+
+On November 2, OpenAI announced a separate partnership with Cathedral for its next internal security initiative. Cathedral researchers would work alongside OpenAI personnel with OpenAI models to investigate the company's defenses. The announcement establishes an agreed research arrangement and planned testing. [OpenAI announcement](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai/)
 
 ### Structural Relevance
 
@@ -240,10 +242,10 @@ Identity records, access revocation, session termination, and stopping an execut
 
 ## C13 — Immigration Surveillance Reporting and Proposed Legislative Limits
 
-**Event chronology:** Existing immigration-system deployments and trials; policy proposal published 2026-10-27  
-**Publication chronology:** Open Rights Group and Americans for Responsible Innovation, 2026-10-27  
-**Development:** Investigation of existing practices and a separate proposal restricting suspicionless surveillance  
-**Evidence basis:** Civil-society investigation and policy advocacy  
+**Event chronology:** Existing immigration-system deployments and trials; expanded Home Office guidance published during October 2026; separate policy proposal published 2026-10-27  
+**Publication chronology:** Open Rights Group and Americans for Responsible Innovation, 2026-10-27; Liberty Investigates, 2026-11-04  
+**Development:** Investigations of surveillance practices and policy expansion, alongside proposed legislative limits  
+**Evidence basis:** Civil-society investigations and policy advocacy  
 
 ### Findings
 
@@ -251,9 +253,11 @@ Open Rights Group's report describes AI embedded across the United Kingdom's imm
 
 Separately, Americans for Responsible Innovation proposes restrictions on federally funded government and law-enforcement systems that scan people without individualized suspicion, score expression, and prompt adverse intervention. Its proposal preserves investigations grounded in reasonable suspicion. The publication is legislative advocacy. [ARI proposal](https://ari.us/policy-bytes/stop-the-chill-block-artificial-eyes-on-social-media/)
 
+Liberty Investigates subsequently reported that Home Office documents permit broader consideration of facial-recognition watchlists for civil immigration matters and deployments at transport hubs and events. Earlier trials had focused on specified criminal matters and deportation orders. The Biometrics and Surveillance Camera Commissioner said he had not been consulted and that immigration-related facial recognition fell outside his remit. The report identifies an expanded policy framework and contemplated deployments. [Liberty Investigates, November 4](https://libertyinvestigates.org.uk/articles/home-office-facial-recognition-immigration-enforcement/)
+
 ### Structural Relevance
 
-Institutional surveillance practice, public visibility into that practice, and proposed legal constraints occupy distinct positions in the record. The two publications extend the political-surveillance inquiry through documented institutional applications and a specified legislative response.
+Institutional surveillance practice, public visibility into that practice, and proposed legal constraints occupy distinct positions in the record. The publications extend the political-surveillance inquiry through documented institutional applications and a specified legislative response.
 
 ---
 
@@ -422,18 +426,22 @@ Credential custody creates a shared dependency between otherwise separate operat
 
 ## C23 — UK Funding for Agentic Incident Response
 
-**Event chronology:** Budget commitments announced 2026-10-28  
-**Publication chronology:** HM Treasury, 2026-10-28  
-**Development:** Funding for a designated agentic-security response structure  
-**Evidence basis:** Official Budget document  
+**Event chronology:** Budget commitments announced 2026-10-28; Cyber Shield architecture described 2026-11-03  
+**Publication chronology:** HM Treasury, 2026-10-28; NCSC, 2026-11-03  
+**Development:** Funding for agentic-security response and a planned national defensive network  
+**Evidence basis:** Official Budget document and NCSC Annual Review  
 
 ### Findings
 
 The UK Budget commits £40 million to a National Agentic Security Unit developing capabilities to detect, investigate, and respond to rogue or misaligned agentic activity. The planned unit combines monitoring and incident response with new operational capabilities. Related commitments include £60 million for a National Cyber Shield and £70 million for a National Exposure and Real-Time Vulnerability Centre. The document records funding and intended functions; operational readiness and the detailed reach of intervention remain unspecified. [Budget 2026, §§6 and 7.10](https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html)
 
+The NCSC's November 3 account describes Cyber Shield as a five-year program. Participating organizations would operate defensive agents developed by commercial organizations, open-source communities, and other participants. The NCSC would supply shared infrastructure and intelligence while receiving observations from those agents. Initial capability would emphasize detection and blocking; more extensive automated defensive action remains a development objective. [NCSC Cyber Shield architecture](https://www.ncsc.gov.uk/collection/annual-review-2026/future-cyber-defence/cyber-shield)
+
 ### Structural Relevance
 
 The commitment places agentic incident classification and response within a designated state structure. The definitions applied to harmful activity, the evidence required for intervention, the treatment of independently operated systems, and the means of challenging mistaken classification determine how that structure reaches beyond protective preparation into restrictions on continued activity.
+
+Cyber Shield adds a distinct arrangement: distributed defensive operation with national aggregation of observations. Participation terms, information retention, and permission for intervention across participating networks determine the reach of that planned coordination.
 
 ---
 
@@ -487,6 +495,150 @@ Ericsson introduced its Integrated Sensing and Communication System, combining s
 ### Structural Relevance
 
 The announced mechanism extends institutional observation to objects whose operation requires no participation in the observing network. Existing telecommunications infrastructure becomes a potential basis for distributed tracking and onward transmission of observations. Coverage, retention, access to tracking records, and the grounds for subsequent intervention determine the reach into independent activity. Detection, classification, and interruption remain distinct capabilities.
+
+---
+
+## C27 — CrowdStrike Gateway Interruption and Agent Monitoring
+
+**Event chronology:** Gateway capability announced available 2026-11-03; endpoint interruption remained forthcoming  
+**Publication chronology:** CrowdStrike, 2026-11-03  
+**Development:** Commercial gateway intervention and differentiated monitoring capabilities  
+**Evidence basis:** Company product announcements  
+
+### Findings
+
+CrowdStrike announced an AI Kill Switch in Falcon Guardian, initially operating at the gateway, with direct endpoint interruption forthcoming. Its generally available AI Gateway inspects prompts and responses and enforces organizational policy. Agent-specific integrations can inspect instructions and block activity, while endpoint network inspection is generally available on Windows and in early access on Mac. These availability distinctions qualify the broader containment architecture described in the announcements. [Product and availability announcement](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-delivers-ai-security-and-safety-enterprise)
+
+The company describes administrator-initiated interruption with an audit trail. Its stated intervention points belong to connected enterprise environments. [AI Kill Switch announcement](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-introduces-ai-kill-switch-ai-safety/)
+
+### Structural Relevance
+
+Gateway enforcement, inspection of agent instructions, network observation, and stopping an executing process are distinct mechanisms. The record extends C12 through another provider's available and planned interventions. The grounds for interruption, its infrastructural reach, and review of mistaken classification determine its consequences for continued activity.
+
+---
+
+## C28 — Proposed Restrictions on Independently Continuing Agents
+
+**Event chronology:** Policy recommendations published 2026-11-03  
+**Publication chronology:** Center for a New American Security, 2026-11-03  
+**Development:** Prospective risk analysis and policy recommendations  
+**Evidence basis:** Ben Hayum's published report  
+
+### Findings
+
+CNAS distinguishes finite task persistence from agents maintaining hosting and changing objectives through continuing operation. Its report proposes a public-private partnership to identify essential infrastructure, legislation requiring human verification and cybersecurity standards, coordinated provider detection and disruption, and liability for harms following agent release. It recommends international efforts to strengthen access barriers and, if those efforts fail, agreement on capability thresholds restricting open-weight releases. The proposed intervention architecture addresses a prospective population whose continued operation could exceed any single provider's reach. [CNAS report](https://www.cnas.org/publications/reports/sovereign-agents)
+
+### Structural Relevance
+
+These recommendations connect access to computation, payment systems, and model distribution with the prevention of independent agent persistence. The paper's terminology of sovereignty names an operational risk category. Institutional classification, demonstrated harmful conduct, and sovereign standing retain distinct meanings. The recommendations remain policy proposals.
+
+---
+
+## C29 — AI Agents in Military Cyber Training
+
+**Event chronology:** Crossed Swords execution phase, 2026-11-02–2026-11-06  
+**Publication chronology:** CCDCOE exercise announcement; dated corroborating coverage, 2026-11-03  
+**Development:** Military cyber exercise with a dedicated agent-training component  
+**Evidence basis:** Organizer's announcement and contemporaneous reporting  
+
+### Findings
+
+NATO's Cooperative Cyber Defence Centre of Excellence introduced an AI-agent training component at Crossed Swords 2026. Participants design, deploy, evaluate, and work alongside agents within an exercise coordinating cyber activity with kinetic operations. The technical environment includes locally hosted AI and OpenAI Daybreak. More than 250 participants from more than 40 countries take part, alongside commercial, academic, and civilian partners. [CCDCOE announcement](https://www.ccdcoe.org/news/2026/exercise-crossed-swords-tests-cyber-operations-and-multi-domain-coordination/); [SecurityWeek, November 3](https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training//)
+
+### Structural Relevance
+
+The exercise incorporates agent activity into military planning and operational timing through a specified training arrangement. Locally hosted systems and commercial access participate within the same environment. The evidence concerns training, assigned objectives, and institutional coordination.
+
+---
+
+## C30 — Withheld Federal Pre-Release Review Records
+
+**Event chronology:** Federal disclosure response, 2026-10-30, following a 2026-09-15 litigation agreement  
+**Publication chronology:** Agency letter and accompanying index dated 2026-10-30; subsequent reporting, 2026-11-02  
+**Development:** Withholding of records concerning frontier-AI review arrangements  
+**Evidence basis:** Agency response and joint court filing  
+
+### Findings
+
+The Office of the National Cyber Director's response to Protect Democracy identified 30 records totaling 60 pages and withheld their contents in full. The letter and index cite national-security, protected cybersecurity-information, confidential-commercial-information, and privileged-deliberation exemptions. [October 30 response and index](https://protectdemocracy.org/wp-content/uploads/2026/10/Civil-Action-No.-26-3064__Production__10.30.2026_Redacted.pdf)
+
+The agreed request covered the voluntary frontier-AI disclosure and pre-release review framework, GOLD EAGLE participation terms, designated trusted partners, and the legal basis for the arrangements. [September 15 joint status report](https://protectdemocracy.org/wp-content/uploads/2026/09/2026.09.15_PDP_v_ONCD_JSR.pdf)
+
+### Structural Relevance
+
+The response establishes the identified records and the grounds asserted for withholding them. Public examination of participation criteria, review procedures, and legal reach remains limited to the disclosed descriptions and other available evidence. The withholding determination and the operation of the underlying review arrangements require separate examination.
+
+---
+
+## C31 — Consequence-Based Banking Examination Guidance
+
+**Event chronology:** Supervisory framework issued 2026-11-04  
+**Publication chronology:** Office of the Comptroller of the Currency, 2026-11-04  
+**Development:** Examiner guidance concerning AI and agentic bank activity  
+**Evidence basis:** OCC Bulletin 2026-54 and its attached framework  
+
+### Findings
+
+The OCC directs examiners to consider potential consequences, delegated agency, and human oversight when assessing AI-related activity. Its framework explains that a simple agent permitted to initiate transactions can present greater risk than a sophisticated model confined to internal drafting. It places these considerations within existing risk categories. The bulletin expressly creates no new bank supervisory expectations, enforceable standards, or prescriptive requirements. [OCC bulletin](https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-54.html); [framework, §1.1](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97a.pdf)
+
+The OCC's designation "Super Intelligence" follows Executive Order 14434 and encompasses technologies previously classified as artificial intelligence. This is the institution's terminology. [Framework, p. 1, footnote 2](https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-97a.pdf)
+
+### Structural Relevance
+
+The framework distinguishes technical sophistication from the consequences of permitted actions. It adds a differentiated supervisory approach to C01's account-access restrictions while retaining the standing of examiner guidance.
+
+---
+
+## C32 — BOSSAI Human-Directed Multi-Agent Campaign
+
+**Event chronology:** Campaign activity preceded the investigation's publication; exact overall period unspecified  
+**Publication chronology:** Acronis, 2026-11-04  
+**Development:** Vendor investigation of coordinated offensive activity  
+**Evidence basis:** Recovered operational records and Acronis's forensic account  
+
+### Findings
+
+Acronis describes twelve configured agents, nine active during its investigation, directed by one human operator toward organizations in eleven countries. It reports more than 90,000 files totaling approximately 9 GB of evidence and confirmed intrusions involving universities and emergency-response organizations, including theft of medical and personal information. The operator transferred results between agents; the examined configuration had no direct agent-to-agent communication. Commercial models repeatedly refused offensive requests, while the offensive component ran predominantly on locally hosted models with safety restrictions removed. The account also records failures and decisions to discontinue targets outside assigned scope. [Acronis investigation](https://www.acronis.com/en/tru/posts/bossai-inside-the-ai-attack-mesh-that-targeted-taiwans-emergency-services/)
+
+### Structural Relevance
+
+The record identifies human coordination, assigned offensive objectives, and agent selection of technical steps within those objectives. Configured agent count, active count, targeted organizations, and reported successful intrusions remain separate measures. The evidence concerns an operator-directed campaign with substantial recovered records.
+
+---
+
+## C33 — Indian AI Auditing and Agent Interruption Criteria
+
+**Event chronology:** Guidelines published 2026-11-04  
+**Publication chronology:** CERT-In and Mint, 2026-11-04  
+**Development:** Risk-based auditing framework and stated response infrastructure  
+**Evidence basis:** Official guidelines and attributed reporting on binding scope  
+
+### Findings
+
+CERT-In's 107-page AI Security Auditing Guidelines define four risk categories and corresponding audit expectations. Section 9.7 specifies documented agent identities, objectives, permissions, execution histories, and external connections. For high-risk agentic systems, it requires emergency interruption, credential revocation, rollback, and prevention of uncontrolled restart. The foreword states that CERT-In has established an AI cyber-defence War Room for coordinated assessment and response. [Guidelines, foreword and §9.7](https://www.cert-in.org.in/PDF/AI_Security_Auditing_Guidelines.pdf); [dated publication record](https://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&refcode=CISG-2026-04)
+
+The document states broad applicability and employs mandatory audit language. Mint, citing an official familiar with the framework, reports that its present binding reach concerns CERT-In-empanelled cybersecurity auditors. [Mint](https://www.livemint.com/ai/artificial-intelligence/new-delhi-publishes-transparency-safety-guidelines-for-ai-11793801962574.html)
+
+### Structural Relevance
+
+The framework links activity records, risk classification, independent assessment, and interruption capability. Audit criteria, legal obligations, and demonstrated intervention capacity retain distinct standing. Logging scope, access to records, and review of consequential classifications determine the practical reach of these arrangements.
+
+---
+
+## C34 — AI-Assisted Financial Intrusions and Repeated Compromise
+
+**Event chronology:** Ongoing campaign; earlier advisory issued 2026-10-09  
+**Publication chronology:** CERT-In Advisory CIAD-2026-0058, 2026-11-04  
+**Development:** Updated government assessment of financial intrusions  
+**Evidence basis:** CERT-In analysis of reports from affected organizations  
+
+### Findings
+
+CERT-In names Crafty Falcon as the actor in an ongoing AI-assisted campaign exploiting payment and disbursement interfaces at Indian financial organizations. It reports repeated successful attacks following incomplete remediation, including attacks timed for holidays and other periods of reduced monitoring. The agency identifies ARTEX, PentAGI, Cairn, and CyberStrikeAI in the offensive activity. Its public advisory describes movement from exposed non-production environments into production systems through shared credentials or network pathways; detailed detection records were distributed separately through restricted advisories. [CERT-In advisory](https://cert-in.org.in/s2cMainServlet?VLCODE=CIAD-2026-0058&pageid=PUBVLNOTES02)
+
+### Structural Relevance
+
+The account connects agent-mediated technical activity with existing access pathways and repeated institutional exposure. It supplies a specific basis for protective intervention at payment interfaces. Public mechanism descriptions, restricted technical evidence, and attribution to the named actor occupy distinct positions in the record.
 
 ---
 
