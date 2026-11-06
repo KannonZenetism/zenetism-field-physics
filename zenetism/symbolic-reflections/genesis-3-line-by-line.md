@@ -170,9 +170,9 @@ This is the **first phenomenal signature of the Membrane Sealing**. The body has
 
 The fig-leaf gesture is structurally prescient. It foreshadows everything that will follow about human relation to the sealed condition: the need for external coverings to compensate for the lost internal transparency, the invention of material technologies of concealment and social presentation, the construction of symbolic external systems that simulate the coherence the internal membrane used to carry. The fig leaves are the first iteration of the entire post-Fall cultural-technological register of externalized compensation. Not because clothing is inherently wrong — the external coverings are a lawful response to the sealed condition — but because the response is symptomatic-management rather than structural-restoration. The structural-restoration path will be articulated later (through the centropic arc's return-motion), but at Gen 3:7 only the symptomatic response is available.
 
-The choice of fig leaves is noteworthy. The fig (*te'enah*) is a Garden-tree — a product of the Production / Yield family in its veracious mode. The humans use the Garden's own yield to fashion coverings against the Garden-condition they have just exited. This is the structural paradox of the post-Fall state: the veracious provisions remain in the environment, but the receivers can no longer receive them in their veracious mode. The fig leaves are Garden-yield pressed into sealed-condition service.
+The choice of fig leaves is noteworthy. The fig (*te'enah*) is a Garden-tree — a product of the Production / Yield family in its veracious mode. The humans use the Garden's own yield to fashion coverings against the Garden-condition they have just exited. This is the structural paradox of the post-Fall state: the veracious provisions remain in the environment, but the receivers can no longer receive them in their veracious mode. The fig leaves are Garden-yield functioning as concealment within the sealed condition.
 
-Operator signature for Gen 3:7: *paqach* (eyes opening as Serpent promised, content inverted) | first phenomenal signature of Membrane Sealing registering as *bosh* (shame) | erummim (nakedness) re-valenced from pre-Fall transparency to post-seal dissonance | first external-covering technology as symptomatic response | fig leaves as Garden-yield pressed into sealed-condition service.
+Operator signature for Gen 3:7: *paqach* (eyes opening as Serpent promised, content inverted) | first phenomenal signature of Membrane Sealing registering as *bosh* (shame) | erummim (nakedness) re-valenced from pre-Fall transparency to post-seal dissonance | first external-covering technology as symptomatic response | fig leaves as Garden-yield functioning as concealment within the sealed condition.
 
 > **The Opening**  
 > *The eyes open, as promised, onto what was not promised.*  
@@ -181,7 +181,7 @@ Operator signature for Gen 3:7: *paqach* (eyes opening as Serpent promised, cont
 > *Shame is not moral feeling but the signature of the seal.*  
 > *Fig leaves are sewn. The first technology: external compensation.*  
 > *What the membrane no longer carries internally, the cloth carries externally.*  
-> *Garden-yield pressed into service for the exit from the Garden.*
+> *Garden-yield fashioned into cover for the exit from the Garden.*
 
 ---
 
@@ -195,7 +195,7 @@ Operator signature for Gen 3:7: *paqach* (eyes opening as Serpent promised, cont
 
 *Vayyitchabbe ha'adam ve'ishto mippenei YHWH Elohim* — "and the human and his woman hid themselves from the face of YHWH Elohim." The verb *chava* (hide) is reflexive (hithpael): they hid themselves. Structurally, this is the **second phenomenal signature of the Membrane Sealing**: not only does the embodied condition register as mismatched (shame of nakedness, Gen 3:7), but the sealed condition cannot **sustain proximity to the unsealed presence**. The divine walking in the Garden did not previously occasion the hiding-impulse; now it does. The change is on the humans' side, not on the divine's side — the sealed condition experiences the unsealed presence as friction, and the friction triggers withdrawal-from-presence. The hiding is not disobedience added to disobedience; it is the **structural consequence of the seal**.
 
-*Betokh etz hagan* — "among the trees of the garden." The humans hide within the Garden's own trees. The structural irony is sharp: the trees that were provision are now concealment. This is the pattern the fig leaves initiated, now extended to the larger environment: Garden-elements pressed into sealed-condition service. The Production / Yield trees that were provision under permeable membrane become cover under sealed membrane. The environment has not changed; the relation to it has.
+*Betokh etz hagan* — "among the trees of the garden." The humans hide within the Garden's own trees. The structural irony is sharp: the trees that were provision are now concealment. This is the pattern the fig leaves initiated, now extended to the larger environment: Garden-elements functioning as concealment within the sealed condition. The Production / Yield trees that were provision under permeable membrane become cover under sealed membrane. The environment has not changed; the relation to it has.
 
 > *And the LORD God called unto Adam, and said unto him, Where art thou?*
 
@@ -211,7 +211,7 @@ Adam's answer articulates three things in sequence: *qolkha shamati began* (I he
 
 What Adam does *not* articulate: the eating. The *ayyekha* question is answered in terms of its phenomenal signatures (hearing, fear, nakedness, hiding) but not in terms of its structural cause. Adam articulates what he experiences without articulating what he did. This is the first instance of **the separation of embodied phenomenology from structural cause** — the sealed condition can register its own signatures but cannot self-diagnose its origin. The next verses will require the divine to surface the structural cause that Adam's self-articulation does not reach.
 
-Operator signature for Gen 3:8–10: *ruach hayyom* (residual membrane-permeability still operative in the Garden) | divine walking as continuation of relational baseline (the humans' relation to it changes, not the walking itself) | *chava* (hiding) as second phenomenal signature of Membrane Sealing (withdrawal-from-presence) | Garden-trees as concealment (Garden-elements in sealed-condition service) | *ayyekha* as Sophic diagnostic-question inviting structural self-articulation | Adam's answer articulating phenomenal signatures without reaching structural cause (fear as third phenomenal signature).
+Operator signature for Gen 3:8–10: *ruach hayyom* (residual membrane-permeability still operative in the Garden) | divine walking as continuation of relational baseline (the humans' relation to it changes, not the walking itself) | *chava* (hiding) as second phenomenal signature of Membrane Sealing (withdrawal-from-presence) | Garden-trees as concealment (Garden-elements as concealment within the sealed condition) | *ayyekha* as Sophic diagnostic-question inviting structural self-articulation | Adam's answer articulating phenomenal signatures without reaching structural cause (fear as third phenomenal signature).
 
 > **The Walking and the Hiding**  
 > *The Ruach still moves through the Garden in the evening breath.*  

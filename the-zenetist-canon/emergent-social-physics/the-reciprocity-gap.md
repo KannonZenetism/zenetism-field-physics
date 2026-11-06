@@ -127,7 +127,7 @@ It means:
 * no one is positioned to recognize a meaningful interruption
 * no reciprocal obligation has emerged strongly enough to return as action
 
-The absence of relationship cannot serve as a sufficient justification for the absence of every care structure.
+The absence of relationship cannot sufficiently justify the absence of every care structure.
 
 A coherent society cannot guarantee friendship, intimacy, love, or personal compatibility.
 

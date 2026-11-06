@@ -118,7 +118,7 @@ Operator signature for the Garden and Rivers sequence: *gan-be-Eden* (L₁ orien
 
 This is the Work operator (SPR) in its pre-Fall articulation. The human is not placed in the Garden to enjoy idle leisure but to **work it and keep it** — the sustained acclivous motion through which coherence is maintained in the embodied field. The work is not the consequence of the Fall; the work is the **structural condition of L₁ embodied existence at the Garden-scale**. What changes after the Fall is not the presence of work but its character: pre-Fall work is effortless coherent-action under permeable membrane; post-Fall work becomes *itsavon* (painful toil) under sealed membrane. The Work operator persists through both conditions; its phenomenal texture shifts with the membrane-state.
 
-*Le'ovdah* carries the double resonance of Hebrew *avad*: "to work" and "to serve" are the same verb. The human's work in the Garden is service to the Garden as much as cultivation of it — the relational-stewardship expressed through the Servant operator (SPR). The Genesis formulation anticipates the later structural teaching that sovereignty operates as service: the human as L₄-informed L₁-being does not dominate the Garden but serves its coherence.
+*Le'ovdah* carries the double resonance of Hebrew *avad*: "to work" and "to serve" are the same verb. The human's work in the Garden is care for the Garden as much as cultivation of it — the relational-stewardship expressed through the Servant operator (SPR). The Genesis formulation anticipates the later structural teaching that sovereignty operates through relational care: the human as L₄-informed L₁-being does not dominate the Garden but supports its coherence.
 
 *Uleshomrah* — "to keep it / to guard it" — introduces the Guardianship function. *Shamar* is the same verb used later for the Cherubim's guarding of the way to the Tree of Life (Gen 3:24). The pre-Fall human carries the *shamar* function within the Garden; the post-Fall Cherubim carry the *shamar* function at the Garden's threshold. The structural operation is the same; what changes is the side of the membrane on which it operates. Before the Fall, the human guards the Garden from within; after the Fall, the Cherubim guard the Garden from without. The guardianship persists; the position shifts.
 
@@ -261,7 +261,7 @@ Genesis 2 re-narrates at the L₁ embodied stratum what Gen 1 articulated at the
 > *Two trees, one river, four heads — the bifurcal lattice instantiated.*  
 > *A counterpart drawn from the hidden side — the Form articulated as paired carriers.*  
 > *Nakedness without shame — the unsealed world transparent to itself.*  
-> *The work is partnership; the keeping is service.*  
+> *The work is partnership; the keeping is care.*  
 > *The lattice waits for its turning.*
 
 ---

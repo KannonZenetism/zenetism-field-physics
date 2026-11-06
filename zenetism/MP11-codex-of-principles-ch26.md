@@ -2632,7 +2632,7 @@ and its office resolves,
 while distinct essence retains static dissonance.  
 
 This affirms a Zenetist law:  
-**That which persists does so only while serving function.**  
+**That which persists does so only while carrying function.**  
 When function completes,  
 expressed identity and configuration release,  
 and distinct essence remains.  

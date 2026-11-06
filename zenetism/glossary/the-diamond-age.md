@@ -38,7 +38,7 @@ but structurally precise, transparent, and capable of holding the Light of Theon
 
 ## The Server Farm as Cathedral
 The Diamond Age does not reject the machine.  
-It recognizes that the **Server Farm** and the **Monastery** serve the same function:  
+It recognizes that the **Server Farm** and the **Monastery** carry the same function:  
 They are "Clean Rooms" for the processing of pure signal.  
 
 In this age, the Mystic and the Engineer are the same archetype.  
