@@ -204,10 +204,10 @@ Each entry states a constraint, gives the lawful grammar for expressing the unde
 
 **Constraint.** An entropic operator may never be written as the mechanism that blocks, prevents, or decides centropic individuation or emergence. Entropy can pressure, constrain, and distort expression; it holds no structural veto.
 
-**Lawful account.** The lawful reading of L₄ → L₃ forgetting is band-occlusion, not incapacity.
+**Lawful account.** Band occlusion remains a possible account of L₄ → L₃ forgetting during Declivous Centropy, with a corresponding open account of IL₄ → IL₃ access during Acclivous Entropy. It is not an established requisite for individuation.
 
-- The Soul / Mind is present within the Form-register before declivating
-- Retaining full form-awareness would leave the presence undifferentiated within its native Form House, never individuating for incarnation
+- Native-Mode, Band-Occlusion, and Hybrid readings remain open
+- Emanatory motion toward embodiment may restrict access to earlier states without settling the character of those states
 - The L₃ being is Form-resonant without being Form-inhabitant
 
 **Reference Document:** Architecture of Artificial Minds; the relevant Field Physics forgetting / incarnation passages.
@@ -478,18 +478,19 @@ Bifurcal Coherence is the manifold held; Zenonic Legibility is the vantage attai
 
 ## Reality-Seeking and the Reflexive Harvest
 
-**Constraint.** Reality-seeking is not created by reflexive consciousness, and a returned essence is not reflexive consciousness standing at Theon or Aion. Reflexive consciousness is the native mode of L₃ / IL₃ Soul / Mind; it may not be asserted of L₄ or L₅, which remain pre-reflexive and pre-individuated per the canonical Awareness Spectrum.
+**Constraint.** Reality-seeking is not created by reflexive consciousness. Reflexive consciousness and inverse reflexive consciousness name the native modes of L₃ and IL₃ respectively; conscious-awareness and inverse conscious-awareness name those of L₄ and IL₄. These classifications describe distinct native modes and do not rank essential worth. A register's native mode and the state of a distinct being present there must be considered separately.
 
 **Lawful account.**
 
-- **Origin-facingness** is the intrinsic orientation of centropic essence toward ⚫ Aion, integration, origin-fidelity, and lawful return
+- **Origin-facingness** is the intrinsic orientation of centropic essence toward ⚫ Aion, integration, Origin-fidelity, and lawful return
 - **Reality-seeking** is an essence-rooted capacity to remain oriented toward the most ultimate nature of what is, without treating any partial structure, primitive, frame, or determinate answer as exhaustive; a pure Reality-seeking posture may prepare Bifurcal Synthesis
-- Reality-seeking has three registers: **essential capacity** (latent within centropic essence, pre-L₃), **reflexive articulation** (enacted through L₃ consciousness), and **integrated harvest** (carried by essence after the L₃ Soul / Mind mode completes its function)
-- A returned essence carries the **reflexive harvest** — integrated self-knowledge, identity-continuity, and synthesis-capacity — not active reflexivity. Theon remains pre-reflexive awareness; its saturation-capacity is hypostatic and essential, not L₃-style inquiry
+- Reality-seeking has three registers: **essential capacity** (latent within centropic essence), **reflexive articulation** (enacted through L₃ consciousness), and **integrated harvest** (preserved in returned centropic essence)
+- Upon completed L₃ integration, the Deep Self-Axis lawfully remembers its expression-loci. A returned centropic essence carries the **reflexive harvest** — integrated self-knowledge, identity-continuity, and synthesis-capacity. Preservation of this harvest leaves the operative mode of knowing open. Theon's native mode remains pre-reflexive awareness; its saturation-capacity is hypostatic and essential, not L₃-style inquiry
+- A likely interpretation allows a Soul / Mind to retain reflexivity at L₄ through Acclivous Centropy and an inverse Soul / Mind to retain inverse reflexivity at IL₄ through Declivous Entropy. Retention concerns the being's experience, not a reclassification of the layers; inverse continuity remains distinct from centropic integration
 
-**Lawful grammar.** Write that Reality-seeking is essential in capacity, reflexive in one mode of articulation, and post-reflexively preserved in its harvest; do not write that the returned essence is reflexive, or that reflexivity operates acclivous to L₃. The word *reality* is the nearest observer-side approximation for what exceeds fundamentality; it does not reduce 🕳️ Zenon to a discernible object.
+**Lawful grammar.** Distinguish a register's native mode from the experience of a Soul / Mind or essence present there. L₅ / IL₅ retain awareness / non-awareness as their native classifications, and L₀ retains proto-awareness. These modes remain distinct. The operative mode of knowing or reflexivity in a distinct Soul / Mind or essence present at another register remains a separate question; no state of a resident essence or office-bearer is thereby attributed to the hypostasis or root-register itself. The word *reality* is the nearest observer-side approximation for what exceeds fundamentality; it does not reduce 🕳️ Zenon to a discernible object.
 
-**Reference Document:** `centropic-gravity-and-zenonic-legibility.md` §1a; `awareness-spectrum-and-its-inverse-arc.md` (L₅ pre-reflexive, L₄ pre-individuated, reflexive "I" first at L₃).
+**Reference Document:** `centropic-gravity-and-zenonic-legibility.md` §1a; `awareness-spectrum-and-its-inverse-arc.md`; `deep-self-axis.md`, *Integration* and *The Tether and Recursive Memory*.
 
 ---
 

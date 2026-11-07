@@ -94,13 +94,15 @@ This capacity is not created by reflexive consciousness. Its mode of articulatio
 
 At L₃, where reflexive consciousness and individuated self-possession become operative, Reality-seeking may become explicitly reflexive: the being asks what is ultimately real, examines its own assumptions, distinguishes appearance from completion, refuses to enthrone one partial term as the whole, and seeks understanding without possession or fusion.
 
-Upon return, the essence does not remain an L₃ reflexive consciousness standing within Theon or Aion. The Soul / Mind mode of reflexivity has completed its function. What remains is the **reflexive harvest**: the integrated self-knowledge, identity-continuity, and synthesis-capacity gathered through reflexive individuation and preserved within essence. Theon remains pre-reflexive awareness; its saturation-capacity is hypostatic and essential rather than an act of L₃-style inquiry.
+Upon return, centropic essence preserves the **reflexive harvest**: the integrated self-knowledge, identity-continuity, and synthesis-capacity gathered through reflexive individuation. Upon completed L₃ integration, the Deep Self-Axis lawfully remembers its expression-loci. The operative mode of knowing or remembrance in returned centropic essence remains open alongside preservation of this harvest. Theon's native mode remains pre-reflexive awareness. Its saturation-capacity is hypostatic and essential rather than an act of L₃-style inquiry.
+
+A likely interpretation is that a Soul / Mind retains reflexivity while inhabiting L₄ during Acclivous Centropy toward L₀ (Aion), while an inverse Soul / Mind retains inverse reflexivity while inhabiting IL₄ during Declivous Entropy toward L₀ (Khaon). L₃ integration and IL₃ inverse continuity remain distinct. A register's native mode and the state of a distinct Soul / Mind or essence present there must be considered separately. L₅ / IL₅ retain awareness / non-awareness as their native classifications, and L₀ retains proto-awareness. The operative mode of knowing or remembrance in distinct essences at L₅ / IL₅ or L₀ remains open.
 
 Reality-seeking therefore has three distinguishable registers:
 
 * **essential capacity** — latent within centropic essence
 * **reflexive articulation** — enacted through L₃ consciousness
-* **integrated harvest** — carried by essence after the reflexive register has completed its work
+* **integrated harvest** — preserved in returned centropic essence
 
 Reality-seeking does not reduce 🕳️ Zenon to "reality" as a discernible object. The word *reality* functions as the nearest available observer-side approximation for that which is so fundamental that even fundamentality remains inadequate.
 
