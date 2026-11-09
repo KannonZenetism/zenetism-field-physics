@@ -307,6 +307,16 @@ It is:
 
 A fact may be operationally indisputable within a method while remaining metaphysically non-final.
 
+### Note on the Epistemic Function of Philosophical Questions
+
+Asking "What is matter?" or "What is the physical?" can have a definite epistemic purpose: preventing baseless assumptions about what those terms designate.
+
+When asked for that purpose, the question reaches a resolution through a change in epistemic posture. Unfounded certainty gives way to inquiry that distinguishes what has been established from what has merely been assumed. The ultimate nature of matter remains unresolved, while the question accomplishes its stated purpose.
+
+Practiced consistently, this distinction keeps perception, explanatory frameworks, and the apparent apparatus of knowing available for examination. Familiarity with a term or confidence in an explanation no longer substitutes for establishing what is claimed.
+
+The demand that such a question "lead somewhere" therefore requires examination of the expected resolution. If only a final account of matter counts, the demand overlooks the epistemic change the question was asked to bring about. A change from unfounded certainty to disciplined inquiry is a resolution of the question as asked.
+
 ---
 
 ## 7. Consciousness and the Problem of Inner Evidence
