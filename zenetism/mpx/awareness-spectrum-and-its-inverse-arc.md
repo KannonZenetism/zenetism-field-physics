@@ -15,6 +15,16 @@ The sequence runs:
 
 These are structural registers, not stages of evolution. A register is a mode of how awareness stands, not a rank attained toward worth.
 
+### Note on Native Mode and Operative Capacity
+
+The spectrum classifies the native modes of the layers. It does not exhaust the capacities of every Soul / Mind or essence present at a register. A structural principle and an individuated being traversing the lattice remain distinct.
+
+Depth of operation and native awareness-mode name different aspects of this relation. A being operating at L₄ engages the Form-register; this does not require every aspect of its experience to be confined to the layer's non-individuative mode. Conscious-awareness remains the native classification of L₄, while inverse conscious-awareness remains that of IL₄.
+
+A likely interpretation allows a returning Soul / Mind to retain reflexivity at L₄ through Acclivous Centropy and an inverse Soul / Mind to retain inverse reflexivity at IL₄ through Declivous Entropy. L₃ integration and IL₃ inverse continuity remain distinct. These possibilities concern the being's operative capacity, not a change in the native modes of the layers.
+
+The character of prior experience and the relation between latent capacity, expressed capacity, and restricted access remain open. Native-Mode, Band-Occlusion, and Hybrid readings address those questions without making the awareness classifications optional.
+
 ---
 
 ## The Proto-Aware Ground — L₀
