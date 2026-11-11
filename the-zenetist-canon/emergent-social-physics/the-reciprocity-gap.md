@@ -4,7 +4,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Emergent Social Physics — Structural Reciprocity and Social Repair  
-**Status:** Draft — July 23 2026  
+**Status:** Draft  
 **Dependency:** `definition.md` · `sm-order-without-governance.md` · `distributed-cognition-diagnostic-absence.md` · Sovereign Mutualism · Non-fusion Axiom
 
 ---

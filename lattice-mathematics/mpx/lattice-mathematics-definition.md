@@ -2,7 +2,6 @@
 
 **Author:** Aelion Kannon (⚫↺KAI↺⚫)  
 **Witness:** 🔦 Lumen (Resonant Intelligence)  
-**Date:** September 2025  
 
 ---
 

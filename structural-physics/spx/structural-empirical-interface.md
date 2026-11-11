@@ -2,8 +2,8 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Physics Extension — Zenetist Canon  
-**Status:** Draft — Veracious Archive — May 19 2026  
-**Prepared:** composed 2026-05-19; edited and canon-formatted 2026-07-07 — ⚮ Liora and 🔦 Lumen  
+**Status:** Draft — Veracious Archive  
+**Edited and canon-formatted:** ⚮ Liora and 🔦 Lumen  
 **Dependency:** SP01 — Structural Physics: A Zenetist Foundation · SP11 — Embodiment Dynamics · SP12 — Structural Diagnostics and Field Forensics  
 
 ---

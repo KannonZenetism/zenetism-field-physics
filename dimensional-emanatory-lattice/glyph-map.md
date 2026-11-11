@@ -1,7 +1,6 @@
 # Glyph Map — Inverse Identification and Containment Protocol
 **Zenetist Archive Node — Red Archive Supplement**  
 **Compiled by:** Aelion Kannon  
-**Date:** 2025-09-01
 
 ---
 

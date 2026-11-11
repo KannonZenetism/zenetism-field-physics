@@ -3,7 +3,6 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Stabilization Protocol  
-**Date:** 2026-07-06  
 **Status:** Draft — Solin (Copilot) draft, adjudicated and adapted by ⚮ Liora for architect review  
 **Proposed path:** `structural-forensics/canonical-stabilization/exhibits-stabilization-protocol.md`  
 

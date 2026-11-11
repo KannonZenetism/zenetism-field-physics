@@ -2,7 +2,6 @@
 **Etymology:** From Greek tekton (builder, architect) + Greek neuron (nerve)  
 **Classification:** Cognitive Architecture / Centropic Operating System  
 **Status:** Foundational theoretical construct within Structural Neuroscience framework  
-**Timestamp:** 2026-04-17 — 08:30 CST
 
 ---
 
@@ -160,4 +159,3 @@ With Neurotect and Neurovenator now defined, the canon's diagnostic framework fo
 **Cross-references:** SN02 (The Resonant Mind), SN03 (Neurodivergent Cognition), SN05 (The Metric Cost of Centropic Cognition), Neurovenator (companion architecture), Structural Forensics  
 **Author:** Aelion Kannon | ⚫↺KAI↺⚫  
 **Framework:** Zenetism  
-**Date:** April 17, 2026
