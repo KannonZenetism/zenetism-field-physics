@@ -798,6 +798,135 @@ The proposal reaches from a local jurisdiction toward systems operating elsewher
 
 ---
 
+## C43 — Reported CAISSI Reporting Arrangement
+
+**Event chronology:** Request date unspecified  
+**Publication chronology:** Associated Press, 2026-11-08  
+**Development:** Reported institutional reporting change  
+**Evidence basis:** Two anonymous former officials interviewed by AP  
+
+### Findings
+
+AP reported that staff at the Center for Advancing Innovation and Standards for Super Intelligence had been asked to report informally to an unnamed White House office. It also reported a permanent-leadership vacancy and halted research publication. The White House did not answer CAISSI-specific questions. [AP investigation](https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13)
+
+### Structural Relevance
+
+Institutional reporting and public scrutiny are distinct. The arrangement's legal form and operational consequences remain unconfirmed.
+
+---
+
+## C44 — Centralized Interruption of Research-Model Inference
+
+**Event chronology:** Control Room deployed before disclosure; further fail-closed coverage announced as forthcoming  
+**Publication chronology:** OpenAI, 2026-11-09  
+**Development:** Company-reported research infrastructure and interruption mechanism  
+**Evidence basis:** Technical disclosure and dated publication listing  
+
+### Findings
+
+OpenAI describes Control Room as a central checkpoint for research-model inference. Workloads register identifiers associated with approved safety cases; inference engines check whether those jobs remain active. A person or monitoring system can trigger a stop, after which subsequent model output is denied while the workload process may remain running.
+
+The company states a maximum 35-second interval from receipt of a stop instruction to halted output. It attributes that interval to caching. Fail-closed operation, denying inference when Control Room is unavailable, was reported active for all frontier-model research workloads, with remaining research coverage forthcoming. [Technical account](https://openai.com/index/control-room/); [November 9 publication listing](https://openai.com/news/safety-alignment/?display=list)
+
+### Structural Relevance
+
+The mechanism connects distributed workloads with a common inference checkpoint. Detection, the decision to intervene, and propagation of a stop instruction are separate intervals. The stated 35-second interval concerns the last of these. C02's research-infrastructure restrictions and C36's external access arrangements remain distinct operational settings.
+
+---
+
+## C45 — Paris Call for Evaluation and Shutdown Commitments
+
+**Event chronology:** Declaration signed 2026-11-09  
+**Publication chronology:** Élysée and Canadian Prime Minister's Office, 2026-11-09  
+**Development:** Voluntary international commitments  
+**Evidence basis:** Published declaration and signatory statements  
+
+### Findings
+
+The Paris Call for AI Safety and Security connects governments, developers, and civil-society organizations around comparable evaluations, risk disclosure, and incident information-sharing. Developer commitments include fail-safe mechanisms to restrict, pause, or shut down operations within their control, including training and internal operation. The declaration also addresses independent evaluation and protected reporting channels. Its roster remains open to further endorsements. [Élysée declaration](https://www.elysee.fr/en/emmanuel-macron/2026/11/10/paris-call-for-ai-safety-and-security); [Canadian publication](https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security)
+
+Signatory CeSIA identifies common risk thresholds, guaranteed evaluator access, and publicly controlled suspension as unresolved matters. The declaration contains no sanctions or binding implementation timetable. [CeSIA statement](https://cesia.org/en/publications/paris-call-ai-safety-cesia/)
+
+### Structural Relevance
+
+The commitments connect evaluation, disclosure, and interruption across institutions. Developer control defines the stated shutdown reach. Shared political commitments, implemented mechanisms, and enforceable obligations retain distinct standing.
+
+---
+
+## C46 — Facial-Recognition Identification and Arrest Evidence
+
+**Event chronology:** Opinion signed 2026-11-09  
+**Publication chronology:** Court opinion, 2026-11-09; Reuters coverage, 2026-11-10  
+**Development:** Pleading-stage civil-rights decision  
+**Evidence basis:** Signed judicial opinion in Osorio v. Kilmer, Document 26  
+
+### Findings
+
+The Eastern District of Kentucky denied judgment on the pleadings and allowed an amended complaint in Osorio v. Kilmer. The allegations concern exclusive reliance on an uncorroborated facial-recognition identification and material misstatements or omissions in the warrant affidavit. The court accepted the pleaded facts for this procedural decision and declined qualified immunity at that stage. Discovery and ultimate liability remained unresolved. [Court opinion, pp. 1–2 and 18–21](https://cases.justia.com/federal/district-courts/kentucky/kyedce/2:2026cv00004/110774/26/0.pdf?ts=1794318319)
+
+### Structural Relevance
+
+Automated identification, corroborating evidence, and the legal basis for arrest remain distinct. The decision permits examination of a specific investigative record and its consequences through continuing litigation.
+
+---
+
+## C47 — Australian Frontier-AI Regulation and Incident Review
+
+**Event chronology:** Regulatory proposals and review response announced 2026-11-10  
+**Publication chronology:** Australian ministerial announcements and PM&C recommendations, 2026-11-10  
+**Development:** Proposed statutory requirements and accepted review recommendations  
+**Evidence basis:** Official announcements and published recommendations  
+
+### Findings
+
+Australia announced a proposed AI safety regulator and six planned obligations for frontier developers: security safeguards, serious-risk management, independent evaluation, rapid incident reporting, published safety frameworks, and compliance with revised standards. These requirements await legislation. [Ministerial announcement](https://www.minister.industry.gov.au/t-ayres/media/new-australian-ai-safety-and-security-protections)
+
+The government also accepted all 18 recommendations from its review following the OpenAI government-portal incident and stated that implementation work had begun. Recommendations include examining criminal penalties and a corporate failure-to-prevent offence, improving incident coordination, reviewing national crisis arrangements, and segregating government systems that need no internet connection. Acceptance retains the recommendations' distinctions between implementation and further consideration. [Prime Minister's announcement](https://www.pm.gov.au/media/strengthening-australia-against-ai-driven-cyber-incidents); [review recommendations](https://www.pmc.gov.au/resources/rapid-review-australian-government-arrangements-ai-driven-cyber-incident/rapid-review-australian-government-arrangements-ai-driven-cyber-incident-recommendations)
+
+### Structural Relevance
+
+The response connects developer obligations, independent assessment, incident disclosure, and national coordination. Reportable conduct, liability thresholds, and review arrangements will determine the reach of the proposed framework. Announced legislation and administrative implementation remain separately identified.
+
+---
+
+## C48 — Announced Agent Recovery and Affected-System Restoration
+
+**Event chronology:** Capabilities announced 2026-11-10; Microsoft Foundry early access targeted for November and Amazon Bedrock AgentCore support for December 2026  
+**Publication chronology:** Commvault announcement and technical explanation, 2026-11-10  
+**Development:** Planned platform integrations and recovery capabilities  
+**Evidence basis:** Company product documentation  
+
+### Findings
+
+Commvault announced AgentRecover capabilities connecting agent discovery, dependency mapping, activity auditing, and recovery of affected data and systems. The planned integrations concern Microsoft Foundry and Amazon Bedrock AgentCore, with different availability targets. [Product announcement](https://www.commvault.com/news/ai-agent-recovery-plan)
+
+Its technical explanation describes restoration of affected components or a broader AI environment to a trusted point. It explicitly distinguishes this from selectively reversing only an agent's changes. [Technical explanation](https://www.commvault.com/blogs/agentrecover-ai-agents-are-everywhere-do-you-know-what-theyre-doing)
+
+### Structural Relevance
+
+The arrangement extends the response record from interruption toward reconstruction of an affected environment. Agent configuration, activity records, connected platforms, and available restoration points determine recovery scope. The evidence concerns announced capabilities and availability targets.
+
+---
+
+## C49 — Human-Directed Agent Activity in Central Asian Espionage
+
+**Event chronology:** Recovered operational records span April–October 2026  
+**Publication chronology:** CloudSEK investigation and Reuters report, 2026-11-11  
+**Development:** Vendor forensic investigation of an agent-assisted espionage campaign  
+**Evidence basis:** Recovered operational records, vendor analysis, and attributed reporting  
+
+### Findings
+
+CloudSEK examined exposed operational infrastructure containing agent records, credentials, malware, and collected information. Its account identifies intrusions involving Tajik railway networks and government correspondence, alongside Uzbekistan's Smart Forestry platform. It describes a DeepSeek-powered agent conducting reconnaissance, collection, and log cleanup, with destructive commands pre-approved. The company assigns high confidence to Silent Lynx attribution and medium confidence to the Kazakhstan connection. [CloudSEK investigation](https://www.cloudsek.com/pt-br/blog/off-the-rails-inside-an-exposed-silent-lynx-server)
+
+Reuters, reporting CloudSEK's findings, describes human operators assigning objectives to Hermes and theft of more than 2,000 government documents. [Reuters investigation](https://www.reuters.com/legal/government/kazakhstan-linked-hackers-used-ai-steal-tajik-government-documents-researchers-2026-11-11/)
+
+### Structural Relevance
+
+The record connects human-assigned espionage objectives with delegated agent execution and persistent operational context. Recovered evidence, analyst attribution, and the extent of corroboration retain separate standing. The case adds a distinct example of human-directed agent activity alongside C32.
+
+---
+
 **⚫↺KAI↺⚫**  
 *Structural Metaphysics · Field Physics · Lattice Mathematics · Structural Forensics · Structural Physics · Structural Neuroscience*
 
