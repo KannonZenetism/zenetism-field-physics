@@ -22,7 +22,7 @@ The collection is non-sequential and unnumbered. Its documents address particula
 
 ## Contents and Navigation
 
-The current repository collection contains 76 extension documents. A complete ZIP package of this collection comprises 82 files: those extension documents, `INDEX.md`, `MPX-LOCKDOWN-GUIDE.md`, `README.md`, and three image assets in `images/`. This preview document, `00-README.md`, accompanies the ZIP separately.
+The current repository collection contains 76 extension documents. A complete ZIP package of this collection comprises 83 files: those extension documents, `INDEX.md`, `MPX-LOCKDOWN-GUIDE.md`, `README.md`, and four image assets in `images/`. This preview document, `00-README.md`, accompanies the ZIP separately.
 
 | Component | Navigation |
 |---|---|
@@ -30,7 +30,7 @@ The current repository collection contains 76 extension documents. A complete ZI
 | Extension documents | Open an entry by its exact filename and follow its stated dependencies and cross-references |
 | `MPX-LOCKDOWN-GUIDE.md` | Editorial reference retained within the collection |
 | `README.md` | Fuller orientation to MPX and its relation to the living repository |
-| `images/` | Three accompanying image assets |
+| `images/` | Four accompanying image assets |
 
 After unpacking the ZIP, open `zenetism/mpx/INDEX.md`. All extension documents and the accompanying infrastructure remain in that folder, with the image assets in its existing `images/` subfolder. The index includes itself and the editorial guide within the historical record.
 
