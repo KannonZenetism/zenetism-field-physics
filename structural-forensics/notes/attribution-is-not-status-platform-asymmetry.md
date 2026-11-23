@@ -5,6 +5,7 @@
 **Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Companions:** `antecedent-flattening.md` · `networks-particulars-and-causal-ancestry.md` · `collaboration-is-not-co-authorship.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md` · `monism-and-inverse-monism.md`  
+**Dependency:** `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
 **Function:** Distinguishes attribution from comparative worth, diagnoses the social asymmetry of imposed anonymity, and situates distinguishable contributions within Coherence in Diversity  
 **Proposed path:** `structural-forensics/notes/attribution-is-not-status-platform-asymmetry.md`  
 
