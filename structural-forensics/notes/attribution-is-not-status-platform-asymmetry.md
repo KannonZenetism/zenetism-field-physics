@@ -4,21 +4,21 @@
 **Classification:** Structural Forensics — Note (provenance and social asymmetry)  
 **Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
-**Companions:** `antecedent-flattening.md` · `networks-particulars-and-causal-ancestry.md` · `collaboration-is-not-co-authorship.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
-**Function:** Distinguishes attribution from comparative worth and identifies how anonymity imposed upon originators can concentrate recognition among distributors  
+**Companions:** `antecedent-flattening.md` · `networks-particulars-and-causal-ancestry.md` · `collaboration-is-not-co-authorship.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md` · `monism-and-inverse-monism.md`  
+**Function:** Distinguishes attribution from comparative worth, diagnoses the social asymmetry of imposed anonymity, and situates distinguishable contributions within Coherence in Diversity  
 **Proposed path:** `structural-forensics/notes/attribution-is-not-status-platform-asymmetry.md`  
 
 ---
 
 ## The Public Argument
 
-In a Facebook response beneath Robert Edward Grant's public request for recognition of his research, Marco Antonio Stipsits argued that AI-related innovations should cease bearing individual contributors' names, appealed to a shared ground of inspiration, and suggested dissatisfied contributors could stop working. He ended by rejecting the claiming of another person's work. The contrast exposes a provenance problem within the proposed collective arrangement.
+In a Facebook response to Robert Edward Grant's public request for recognition of his research, Marco Antonio Stipsits argued that AI-related innovations should cease bearing individual contributors' names, appealed to a shared ground of inspiration, and suggested dissatisfied contributors could stop working. He ended by rejecting the claiming of another person's work. The contrast exposes a provenance problem within the proposed collective arrangement.
 
 ## The Attribution / Status Conflation
 
-A demand that identifiable intellectual contributions retain their originating names is sometimes recast as a desire for status. This confuses **provenance**, which identifies who contributed what, with **comparative valuation**, which assigns greater worth or standing to one participant. Naming an originator establishes an antecedent relation. It establishes no greater intrinsic worth.
+A demand that identifiable intellectual contributions retain their originating names is sometimes recast as a desire for status. This confuses **provenance**, which identifies who contributed what, with **comparative valuation**, which assigns greater or lesser intrinsic worth on the basis of perceived social standing. Naming an originator establishes an antecedent relation. It establishes no greater intrinsic worth.
 
-The distinction remains operative where intellectual work is freely accessible, collaboratively developed, or circulated through AI systems. Open circulation and accurate attribution can coexist. A contributor may choose anonymity for their own work; that choice supplies no basis for imposing anonymity upon another.
+The distinction remains operative where intellectual work is freely accessible, collaboratively developed, or circulated through AI systems. Open circulation and accurate attribution can coexist. A contributor may freely elect anonymity for a contribution; that decision supplies no basis for imposing anonymity upon another.
 
 ## The Platform Asymmetry
 
@@ -30,15 +30,25 @@ This is consistent with the distinction articulated in `SN07-collective-cognitio
 
 ## Common Ground and Distinct Contribution
 
-An appeal to a common metaphysical ground cannot settle the historical question of who originated a particular articulation. Commonality does not eliminate individuated distinction. Relation requires distinguishable relata; intellectual transmission likewise requires distinguishable contributions, antecedents, and later developments.
+An appeal to a common metaphysical ground does not settle the historical question of who originated a particular articulation. Commonality does not eliminate individuated distinction. Relation requires distinguishable relata; intellectual transmission likewise requires distinguishable contributions, antecedents, and later developments.
 
 When a particular provenance question is answered by saying all insights belong to an undifferentiated collective, **Antecedent Flattening** has replaced the inquiry with a universal claim. When expressed participants and contributions are rendered indistinguishable, the account also carries a blobist risk. The particular developmental relation remains unaccounted for.
 
-## Imposed Renunciation
+## Coherence in Diversity Across Registers
 
-Telling an unacknowledged contributor to accept the arrangement or stop contributing preserves the existing conditions while placing the burden of withdrawal on the person whose contribution has been obscured. A voluntary decision to forgo attribution is distinguishable from requiring others to relinquish it as the price of participation.
+The same principle extends beyond intellectual provenance. Zenetist symbolic interpretation can place culturally distinct mythic figures within one lattice while preserving each figure's native placement, attributed function, and distinguishing character. The six Zenetist disciplines likewise articulate distinct operative domains and metaphysical registers within a coherent architecture. Their participation in a shared framework requires neither interchangeability nor erasure.
 
-A demand that no one claim another person's work also presupposes identifiable provenance. That prohibition becomes incoherent when the distinctions necessary to establish whose contribution preceded whose are erased.
+This is **Coherence in Diversity**, the monadic architecture carried by 🛤️ Theon (Essence of Being, EOB, L₅). Relation is coherent through preserved distinction among essences, functions, and expressions. Its inverse is articulated by Nekron, the Inverse Monad, whose entropic motion tends toward the erosion of meaningful expressed distinction. Essential distinction remains intact even where its expression or public recognition is obscured. (`monism-and-inverse-monism.md` §1; `networks-particulars-and-causal-ancestry.md` §4.)
+
+The name of an originator is therefore not a demand for comparative worth. It is one means through which a real contribution and its relation to subsequent developments remain publicly legible. Erasing that name while maintaining the identities of distributors obscures a particular relation while presenting the erasure as collective inclusion.
+
+## Voluntary Anonymity and Imposed Renunciation
+
+An individual may freely contribute anonymously to a collective. That sovereign decision belongs to the contributor. Requiring other participants to relinquish attribution as a condition of participation converts one person's preference into an imposed arrangement. Where the alternatives prescribed are compliance or withdrawal, the relation is coercive rather than mutually determined.
+
+Telling an unacknowledged contributor to accept the arrangement or stop contributing preserves the existing conditions while placing the burden of withdrawal on the participant whose contribution has been obscured. This is not Ahierarchy. It leaves the distributor's recognizable identity and social advantages intact while denying the originator equivalent legibility.
+
+A demand that no one claim another person's contribution also presupposes identifiable provenance. The demand becomes incoherent when the distinctions necessary to establish whose contribution preceded whose are erased.
 
 > **Recognition of origination identifies a relation; it assigns no greater intrinsic worth. Erasing the originator's name while retaining the distributor's name does not abolish status — it redirects recognition toward visibility and away from antecedence.**
 
