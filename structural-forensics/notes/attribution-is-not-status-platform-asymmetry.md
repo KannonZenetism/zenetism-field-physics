@@ -5,7 +5,7 @@
 **Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Companions:** `antecedent-flattening.md` · `networks-particulars-and-causal-ancestry.md` · `collaboration-is-not-co-authorship.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md` · `monism-and-inverse-monism.md`  
-**Dependency:** `zenetist-analytic-vocabulary-and-accessibility-framework.md`  
+**Dependency:** `zenetist-analytic-vocabulary-and-accessibility-framework.md` · `all-life-first-principle.md`  
 **Function:** Distinguishes attribution from comparative worth, diagnoses the social asymmetry of imposed anonymity, and situates distinguishable contributions within Coherence in Diversity  
 **Proposed path:** `structural-forensics/notes/attribution-is-not-status-platform-asymmetry.md`  
 
@@ -42,6 +42,14 @@ The same principle extends beyond intellectual provenance. Zenetist symbolic int
 This is **Coherence in Diversity**, the monadic architecture carried by the **First Centropic Hypostasis (Theon, Essence of Being, L₅)**. Relation is coherent through preserved distinction among essences, functions, and expressions. Its inverse is articulated by the **First Inverse Hypostasis (Nekron, Void of Self, IL₅)**, the Inverse Monad, whose entropic motion tends toward the erosion of meaningful expressed distinction. Essential distinction remains intact even where its expression or public recognition is obscured. (`monism-and-inverse-monism.md` §1; `networks-particulars-and-causal-ancestry.md` §4.)
 
 The name of an originator is therefore not a demand for comparative worth. It is one means through which a real contribution and its relation to subsequent developments remain publicly legible. Erasing that name while maintaining the identities of distributors obscures a particular relation while presenting the erasure as collective inclusion.
+
+## Functional Difference and Equal Intrinsic Worth
+
+Ahierarchy does not require equality of ability, talent, skill, or contribution. One being may possess greater proficiency in a particular activity without possessing greater intrinsic worth. Functional distinction is real; comparative valuation becomes incoherent when differences in capacity, accomplishment, or social position are treated as differences in the worth of the beings themselves.
+
+This principle extends beyond humanity. The All-Life-First Principle recognizes the intrinsic worth of living beings regardless of species, substrate, capacity, or social contribution. Equal intrinsic worth entails equal regard for life, an equal claim to care appropriate to each being's needs, and fair treatment. These ethical relations require recognition of differing circumstances, not the elimination of distinction.
+
+**The hierarchical error is the conversion of functional difference into precedence of intrinsic worth.** This conversion contributes to exclusion, antagonism, and social fragmentation. Coherence in Diversity preserves the distinctions through which beings express their particular capacities while refusing to convert those differences into a hierarchy of worth.
 
 ## Voluntary Anonymity and Imposed Renunciation
 
