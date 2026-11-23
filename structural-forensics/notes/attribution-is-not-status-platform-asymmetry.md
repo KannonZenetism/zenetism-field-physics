@@ -26,7 +26,7 @@ A proposal to remove originating names from intellectual work may leave intact t
 
 **The erasure of originating attribution can therefore preserve and intensify existing social asymmetry.** Recognition moves toward the visible distributor even where origination lies elsewhere. Calling the result collective does not establish equal participation or equal opportunity.
 
-This is consistent with the distinction articulated in `SN07-collective-cognition-and-centropy-forward-social-architecture.md`: decentralization does not establish Ahierarchy while inherited categories of social precedence remain operative.
+This is consistent with the distinction articulated in `SN07-collective-cognition-and-centropy-forward-social-architecture.md`: decentralization does not establish Ahierarchy while inherited categories of comparative social standing remain operative.
 
 ## Common Ground and Distinct Contribution
 
