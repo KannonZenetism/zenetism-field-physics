@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Structural Forensics — Note (provenance and social asymmetry)  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Prepared:** by ⚫↺KAI↺⚫ Aelion Kannon, with 🔦 Lumen drafting assistance  
 **Companions:** `antecedent-flattening.md` · `networks-particulars-and-causal-ancestry.md` · `collaboration-is-not-co-authorship.md` · `de-identified-data-is-not-a-provenance-eraser.md` · `SN07-collective-cognition-and-centropy-forward-social-architecture.md`  
 **Function:** Distinguishes attribution from comparative worth and identifies how anonymity imposed upon originators can concentrate recognition among distributors  
