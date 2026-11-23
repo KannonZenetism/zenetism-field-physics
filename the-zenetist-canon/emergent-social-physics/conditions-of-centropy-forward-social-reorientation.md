@@ -88,11 +88,11 @@ Incompatibility does not require opposition. Distinct positions, practices, and 
 
 Recognition of difference does not require acceptance of harmful enactment. Targeted degradation, intimidation, coercion, and physical harm must be assessed through their effects upon the beings and relations involved. Serious harm requires protective responses appropriate to the circumstances, without converting the harmful act into a determination that the responsible being possesses lesser intrinsic worth. Accountability concerns the act, its consequences, and the protection of affected beings; it need not depend upon inherited legal classifications or compulsory philosophical conformity.
 
-Coherence also requires the capacity to recognize harmful enactment. A participant's declaration of alignment is read alongside what the relation actually does. Repeated depletion, coercion, suppression of correction, and appropriation are conditions requiring response.
+Coherence requires assessing a participant's declaration of alignment alongside what the relation actually does. Repeated depletion, coercion, suppression of correction, and appropriation are conditions requiring response.
 
 Selective permeability in `SN07-collective-cognition-and-centropy-forward-social-architecture.md` preserves compatible engagement while filtering destructive interference. `sm-order-without-governance.md` states sovereign separation where coherence cannot be restored between parties. Separation can preserve distinction without compulsory reconciliation or a claim that a being's intrinsic worth has diminished.
 
-Accountability begins with a legible act and its consequences. What occurred, who was affected, which condition continues, and what repair is possible become available for examination. Responsibility remains connected to the particular relation rather than converted into an assertion about every aspect of a person.
+Accountability examines the act and its consequences: what occurred, who was affected, which condition continues, and what repair is possible. Responsibility remains connected to the particular relation rather than converted into an assertion about every aspect of a person.
 
 Some settings involve shared infrastructure, dependent beings, or immediate harm for which separation is insufficient. The required response must be examined within that setting. The general principle supplies a criterion of sovereign relation; a complete procedure for every such circumstance remains to be worked out. Calling an arrangement centropic supplies no missing procedure.
 
