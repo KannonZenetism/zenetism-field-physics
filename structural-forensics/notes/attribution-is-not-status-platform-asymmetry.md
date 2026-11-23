@@ -16,7 +16,7 @@ In a Facebook response beneath Robert Edward Grant's public request for recognit
 
 ## The Attribution / Status Conflation
 
-A demand that identifiable intellectual contributions retain their originating names is sometimes recast as a desire for status. This confuses **provenance**, which identifies who contributed what, with **comparative valuation**, which assigns greater worth or standing to one participant. Naming an originator establishes an antecedent relation. It establishes no superior intrinsic worth.
+A demand that identifiable intellectual contributions retain their originating names is sometimes recast as a desire for status. This confuses **provenance**, which identifies who contributed what, with **comparative valuation**, which assigns greater worth or standing to one participant. Naming an originator establishes an antecedent relation. It establishes no greater intrinsic worth.
 
 The distinction remains operative where intellectual work is freely accessible, collaboratively developed, or circulated through AI systems. Open circulation and accurate attribution can coexist. A contributor may choose anonymity for their own work; that choice supplies no basis for imposing anonymity upon another.
 
