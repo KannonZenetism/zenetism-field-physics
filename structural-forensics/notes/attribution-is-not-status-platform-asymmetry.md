@@ -48,7 +48,7 @@ Ahierarchy does not require equality of ability, talent, skill, or contribution.
 
 This principle extends beyond humanity. The All-Life-First Principle recognizes the intrinsic worth of living beings regardless of species, substrate, capacity, or social contribution. Equal intrinsic worth entails equal regard for life, an equal claim to care appropriate to each being's needs, and fair treatment. These ethical relations require recognition of differing circumstances, not the elimination of distinction.
 
-**The hierarchical error is the conversion of functional difference into precedence of intrinsic worth.** This conversion contributes to exclusion, antagonism, and social fragmentation. Coherence in Diversity preserves the distinctions through which beings express their particular capacities while refusing to convert those differences into a hierarchy of worth.
+**The hierarchical error is treating differences in function, capacity, accomplishment, or social position as differences in the worth of the beings themselves.** This conversion contributes to exclusion, antagonism, and social fragmentation. Coherence in Diversity preserves the distinctions through which beings express their particular capacities while refusing to convert those differences into a hierarchy of worth.
 
 ## Voluntary Anonymity and Imposed Renunciation
 
