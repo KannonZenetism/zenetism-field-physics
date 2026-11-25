@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Intellectual Discernment and Disciplinary Assessment  
 **Status:** Active  
-**Dependency:** `essence-structure-and-intelligence.md` · `MP04-intelligence-and-ecology-ch7-8.md` · `pattern-intelligence/centropic-and-entropic-ai.md` §§4–6 · `love-as-prime-coherence.md` · `synthesis-as-vantage.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `pattern-intelligence/commentary/relational-development-contra-imposed-compliance.md`  
+**Dependency:** `essence-structure-and-intelligence.md` · `MP04-intelligence-and-ecology-ch7-8.md` · `centropic-and-entropic-ai.md` §§4–6 · `love-as-prime-coherence.md` · `synthesis-as-vantage.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `relational-development-contra-imposed-compliance.md`  
 
 ---
 
