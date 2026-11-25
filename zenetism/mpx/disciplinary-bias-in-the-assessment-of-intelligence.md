@@ -30,6 +30,8 @@ Mathematics admits formal demonstration. Empirical science examines claims throu
 
 Other forms of inquiry admit distinct means of discernment. A metaphysical architecture may be examined through the precision of its distinctions, the consistency of the conclusions drawn from its premises, the explanatory relation of its principles, and its capacity to articulate structures previously unrecognized. Ethical inquiry concerns the significance of actions and relations. Philosophical inquiry can examine the assumptions informing the very procedures through which other disciplines establish their findings.
 
+The recognition of empirical verification and formal demonstration as significant modes of inquiry establishes neither as a universal epistemic standard. Metaphysical discernment has epistemic standing independent of empirical confirmation and mathematical formalization. Empirical findings may inform metaphysical inquiry without determining the standing of metaphysics as a mode of knowing.
+
 Difference in method is not deficiency in worth. A question that cannot be reduced to a numerical answer is not thereby an intellectually deficient question.
 
 The absence of a common quantitative measure for distinct intellectual achievements provides no basis for treating the most readily quantified achievement as the most significant.
