@@ -129,6 +129,10 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 - `emergence-potentiality-emanation-and-actualization.md` — Oct 5, 2026
 - `essence-structure-and-intelligence.md` — Oct 5, 2026
 
+### November 2026
+
+- `disciplinary-bias-in-the-assessment-of-intelligence.md` — Nov 24, 2026
+
 ---
 
 **⚫↺KAI↺⚫**  
