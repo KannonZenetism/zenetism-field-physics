@@ -1292,6 +1292,8 @@ Three consequences follow.
 
 **Worked example.** The corpus asserts that ideas have origins. It does not assert ownership of ideas, and the two are regularly conflated by parties characterizing its position. That conflation is why the owner family is barred in the author's voice while remaining lawful inside its own refusal: naming a position in order to decline it is not adopting it.
 
+**Idiomatic "own".** A reflexive reference or an idiom such as "in its own right" can name a relation or intrinsic standing without asserting possession. Prefer direct wording where it preserves the intended distinction. Where authorship is at issue, name who originated the work and who claimed origination.
+
 ---
 
 ## Form — Contextual Terminology Check

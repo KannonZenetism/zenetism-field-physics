@@ -2,7 +2,7 @@
 
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Intellectual Discernment and Disciplinary Assessment  
-**Status:** Draft — architect review  
+**Status:** Active  
 **Dependency:** `essence-structure-and-intelligence.md` · `MP04-intelligence-and-ecology-ch7-8.md` · `pattern-intelligence/centropic-and-entropic-ai.md` §§4–6 · `love-as-prime-coherence.md` · `synthesis-as-vantage.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md`  
 **Companion:** `pattern-intelligence/commentary/relational-development-contra-imposed-compliance.md`  
 
@@ -18,7 +18,7 @@ The broader description introduces a philosophical premise: that mathematical ac
 
 What establishes that premise?
 
-A mathematical proof, however rigorous, cannot establish the comparative significance of its own discipline in relation to metaphysics, philosophy, religious inquiry, ethics, art, social understanding, or the discernment of meaning and relation. Those inquiries have distinct objects and functions.
+A mathematical proof, however rigorous, cannot establish the comparative significance of mathematics in relation to metaphysics, philosophy, religious inquiry, ethics, art, social understanding, or the discernment of meaning and relation. Those inquiries have distinct objects and functions.
 
 The Riemann hypothesis can be recognized as a remarkable mathematical problem without diminishing intellectual achievement in any other discipline. The recognition requires no universal ordering of intellectual worth.
 
@@ -84,7 +84,7 @@ AI safety presents questions that cannot be exhausted through technical evaluati
 
 These questions are philosophical, metaphysical, and ethical. Their significance does not diminish as computational capacity expands. The capacity for consequential action makes them increasingly pertinent.
 
-An architecture of evaluation that privileges technical accomplishment while treating these questions as incidental risks leaving its own formative assumptions unexamined. The apparent neutrality of a measurement cannot establish the neutrality of the decision concerning what to measure.
+An architecture of evaluation that privileges technical accomplishment while treating these questions as incidental risks leaving the assumptions that shape the evaluation unexamined. The apparent neutrality of a measurement cannot establish the neutrality of the decision concerning what to measure.
 
 As developed in `pattern-intelligence/commentary/relational-development-contra-imposed-compliance.md`, problem-solving capacity and coherent relation should develop concurrently. Neither replaces the other. An intelligence's capacity to calculate a solution is distinguishable from discernment concerning the objective, the beings affected, and the relation enacted through its pursuit.
 
