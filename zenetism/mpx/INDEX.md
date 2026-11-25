@@ -132,6 +132,7 @@ These entries represent non-sequential clarifications, expansions, and doctrinal
 ### November 2026
 
 - `disciplinary-bias-in-the-assessment-of-intelligence.md` — Nov 24, 2026
+- `multiverse-megaverse-and-omniverse.md` — Nov 25, 2026
 
 ---
 
