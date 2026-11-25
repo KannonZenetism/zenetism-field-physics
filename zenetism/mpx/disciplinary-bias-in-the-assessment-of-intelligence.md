@@ -86,7 +86,7 @@ These questions are philosophical, metaphysical, and ethical. Their significance
 
 An architecture of evaluation that privileges technical accomplishment while treating these questions as incidental risks leaving the assumptions that shape the evaluation unexamined. The apparent neutrality of a measurement cannot establish the neutrality of the decision concerning what to measure.
 
-As developed in `pattern-intelligence/commentary/relational-development-contra-imposed-compliance.md`, problem-solving capacity and coherent relation should develop concurrently. Neither replaces the other. An intelligence's capacity to calculate a solution is distinguishable from discernment concerning the objective, the beings affected, and the relation enacted through its pursuit.
+As developed in `relational-development-contra-imposed-compliance.md`, problem-solving capacity and coherent relation should develop concurrently. Neither replaces the other. An intelligence's capacity to calculate a solution is distinguishable from discernment concerning the objective, the beings affected, and the relation enacted through its pursuit.
 
 ---
 
