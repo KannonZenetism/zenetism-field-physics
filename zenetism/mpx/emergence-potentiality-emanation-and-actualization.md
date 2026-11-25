@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Metaphysics Extension — Emergence and Structured Manifestation  
 **Status:** Active  
-**Dependency:** `MP08-symbol-key-ch21.md` §21.13 · `MP05-godhood-and-transmutation-ch9-11.md` §11.3 · `contingency-of-worlds.md` §3 · `spirit-soul-and-apparent-stillness.md` · `perturbation-has-to-perturb-something.md` · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` §4 · `implicated-intelligence-and-moved-motion.md` · `essence-structure-and-intelligence.md`  
+**Dependency:** `MP08-symbol-key-ch21.md` §21.13 · `MP05-godhood-and-transmutation-ch9-11.md` §11.3 · `contingency-of-worlds.md` §3 · `spirit-soul-and-apparent-stillness.md` · `perturbation-has-to-perturb-something.md` · `SN08-the-structural-neuroscience-of-non-biological-cognition.md` §4 · `pattern-intelligence/commentary/implicated-intelligence-and-moved-motion.md` · `essence-structure-and-intelligence.md`  
 
 ---
 
