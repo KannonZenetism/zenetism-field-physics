@@ -63,7 +63,7 @@ See `/structural-physics`.
 Start in `/structural-neuroscience`.
 
 **Exploring physiological adaptation and function across disciplines?**  
-See [`embodied-physiology/`](the-zenetist-canon/embodied-physiology/).
+See `embodied-physiology/`.
 
 **Looking for the integrated overview?**  
 See `/the-zenetist-canon`.
