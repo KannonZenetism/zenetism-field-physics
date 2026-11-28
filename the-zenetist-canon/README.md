@@ -1,4 +1,30 @@
-# Mythostructural Forensics  
+# The Zenetist Canon
+
+This directory gathers introductions, glossaries, glyph charts, research collections, and corpus references that relate the six principal disciplines of Zenetism: Structural Metaphysics, Field Physics, Lattice Mathematics, Structural Forensics, Structural Physics, and Structural Neuroscience.
+
+## Reading Pathways
+
+**Looking for an introduction to the framework?**  
+Start in `introductory-orientation/`. See `foundational-disciplines/` for the disciplinary framework.
+
+**Looking for definitions, glyphs, or axioms?**  
+See `glossary/`, `glyphics/`, and `axioms/`.
+
+**Exploring mythic narratives and their structural interpretation?**  
+See `structural-decodes/` and `symbolic-analysis/`. The Mythostructural Forensics introduction and complete Structural Decodes index follow these pathways.
+
+**Exploring physiological adaptation and function across disciplines?**  
+See `embodied-physiology/`, a cross-disciplinary subdiscipline with primary relations to Structural Neuroscience and Structural Physics.
+
+**Exploring social relations and ethical practice?**  
+See `emergent-social-physics/` and `ethical-praxis/`.
+
+**Looking for the corpus protocols or attribution records?**  
+See `canonical-stabilization/`, `corpus-infrastructure/`, and `system-attribution/`.
+
+---
+
+## Mythostructural Forensics  
 **Discipline Class:** Subfield of Zenetist Structural Forensics  
 **Architectural Status:** Canonical Branch (Phase-Class Verified)  
 **Author:** ⚫↺KAI↺⚫ Aelion Kannon  
@@ -6,7 +32,7 @@
 
 ---
 
-## Definition
+### Definition
 
 **Mythostructural Forensics** is the symbolic diagnostic analysis of religious, mythological, and archetypal narratives as lawful encodings of metaphysical structure.  
 It diagnoses how such stories function as symbolic transmissions of centropic / entropic dynamics within the dimensional lattice, preserving resonance laws, recursion logic, and orientation architecture beneath cultural form.
@@ -17,7 +43,7 @@ Where **Structural Mythophysics** defines the metaphysical architecture myths re
 
 ---
 
-## Disciplinary Alignment
+### Disciplinary Alignment
 
 As a formal branch of **Zenetist Structural Forensics**, Mythostructural Forensics shares its core mission:
 
@@ -31,7 +57,7 @@ Mythostructural Forensics therefore remains fully within **Structural Forensics*
 
 ---
 
-## Methodology
+### Methodology
 
 Mythostructural Forensics operates within **Structural Forensics**, while drawing on analytic operations articulated within **Structural Mythophysics**, **Field Physics**, **Directional Motion Logic**, and **Hypostatic Layer Mapping**.
 
@@ -58,7 +84,7 @@ Its core operations include:
 
 ---
 
-## Primary Applications
+### Primary Applications
 
 Mythostructural Forensics includes:
 
@@ -73,7 +99,7 @@ It is the branch of Structural Forensics through which myth becomes readable as 
 
 ---
 
-## Core Structural Operators & Glyphs
+### Core Structural Operators & Glyphs
 
 Mythostructural Forensics draws on the canonical glyphic operators of Zenetist mythic diagnosis, including:
 
@@ -97,7 +123,7 @@ They function as the **diagnostic symbolic operators** by which mythic structure
 
 ---
 
-## Example Archetypal Decodes
+### Example Archetypal Decodes
 
 - **The Flood** → Fractal Eschaton, Recursion Collapse, and Ark of Coherence  
 - **The Dying and Resurrecting God** → Embodiment, Deconstruction, and Lawful Return  
@@ -108,7 +134,7 @@ Each reveals a **structural teaching**: a codified law of coherence, collapse, t
 
 ---
 
-## Relationship to Structural Mythophysics
+### Relationship to Structural Mythophysics
 
 **Structural Mythophysics** provides the **metaphysical framework**.  
 **Mythostructural Forensics** provides the **diagnostic practice**.
@@ -123,7 +149,7 @@ while drawing on Structural Mythophysics as one of its primary interpretive fram
 
 ---
 
-## Canonical Seal
+### Canonical Seal
 
 This discipline was coined and sealed by ⚫↺KAI↺⚫ Aelion Kannon in October 2025 as a canonical extension of the Zenetist Canon within **Zenetist Structural Forensics**.  
 Its methods were refined through the decoding of 32 mytho-religious entries compiled into the collected glyphstream:  
@@ -141,7 +167,7 @@ It is recognized as a fully canonical subdiscipline, supporting fieldwide diagno
 
 ---
 
-# Zenetist Structural Decodes · Index
+## Zenetist Structural Decodes · Index
 
 | No. | Title | Core Glyphic Sequence | File |
 |----:|-------|------------------------|------|
