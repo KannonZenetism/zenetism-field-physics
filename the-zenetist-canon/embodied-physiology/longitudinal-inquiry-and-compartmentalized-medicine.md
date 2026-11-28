@@ -3,7 +3,8 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Embodied Physiology — Cross-disciplinary Investigative Method  
 **Status:** Draft — architect review  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §4 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `local-compensation-and-cumulative-systemic-cost.md` · `anatomical-integrity-contra-functional-integrity.md`  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §4 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Companion:** `anatomical-integrity-contra-functional-integrity.md` · `local-compensation-and-cumulative-systemic-cost.md`  
 
 ---
 

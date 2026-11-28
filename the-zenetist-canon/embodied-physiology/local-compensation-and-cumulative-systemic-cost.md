@@ -3,7 +3,8 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Embodied Physiology — Physiological Adaptation  
 **Status:** Draft — architect review  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§4, 8–10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 · `SN05-the-metric-cost-of-centropic-cognition.md` §2 · `SN06-replenishment-reconnection-and-restoration.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §4.3 · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `anatomical-integrity-contra-functional-integrity.md`  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§4, 8–10 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 · `SN05-the-metric-cost-of-centropic-cognition.md` §2 · `SN06-replenishment-reconnection-and-restoration.md` · `SN10-developmental-dynamics-and-the-stabilization-of-cognitive-architecture.md` §4.3 · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Companion:** `anatomical-integrity-contra-functional-integrity.md` · `longitudinal-inquiry-and-compartmentalized-medicine.md`  
 
 ---
 

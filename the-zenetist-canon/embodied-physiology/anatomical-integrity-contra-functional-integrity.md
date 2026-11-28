@@ -3,7 +3,8 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Embodied Physiology — Physical Structure and Operative Function  
 **Status:** Draft — architect review  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1, 4, 8–10 · `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `local-compensation-and-cumulative-systemic-cost.md` · `longitudinal-inquiry-and-compartmentalized-medicine.md`  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1, 4, 8–10 · `neural-energy-is-not-cognitive-coherence.md` · `neural-synchrony-is-not-structural-coherence.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Companion:** `local-compensation-and-cumulative-systemic-cost.md` · `longitudinal-inquiry-and-compartmentalized-medicine.md`  
 
 ---
 
