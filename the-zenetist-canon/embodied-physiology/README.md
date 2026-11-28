@@ -3,7 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Embodied Physiology — Cross-disciplinary Subdiscipline  
 **Status:** Draft — architect review  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` · `SN09-the-all-life-first-principle.md` · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
 
 ---
 
@@ -11,9 +11,9 @@
 
 Embodied Physiology examines the material relations through which living organisms maintain, adapt, express, and restore physiological function. Its initial focus concerns the interaction of nervous regulation, musculoskeletal activity, posture, movement, visceral function, and the cumulative consequences of protective adaptation.
 
-The collection is a cross-disciplinary subdiscipline of Zenetism, with primary relations to Structural Neuroscience and Structural Physics. The six principal disciplines retain their existing architecture. The present collection introduces neither a seventh principal discipline nor a new hypostatic designation. Its physical inquiry concerns the empirically relevant embodiment register, L₁ / IL₁.
+The collection is a cross-disciplinary subdiscipline of Zenetism, with primary relations to Structural Neuroscience and Structural Physics. Its physical inquiry concerns the empirically relevant embodiment register, L₁ / IL₁. The six principal disciplines retain their existing roles.
 
-Disciplinary proficiency concerns depth of knowledge and exceptional competence within a particular domain. Compartmentalization concerns the separation of inquiry in ways that inhibit the examination of operative relations across domains. The distinction between domains remains necessary. Their separation into mutually inaccessible accounts is not necessary. Cross-disciplinary inquiry retains the distinct methods and evidentiary requirements of each participating discipline.
+Disciplinary proficiency concerns depth of knowledge and exceptional competence within a particular domain. Compartmentalization concerns the separation of inquiry in ways that inhibit the examination of operative relations across domains. Cross-disciplinary inquiry makes findings available across domains while retaining the distinct methods and evidentiary requirements of each discipline.
 
 ## Initial Documents
 
@@ -25,23 +25,23 @@ Disciplinary proficiency concerns depth of knowledge and exceptional competence 
 
 ## Register and Evidentiary Standing
 
-The Analytic Register predominates. Native structural terminology retains its canonical identity where relevant. Physical descriptions employ explicitly defined physiological quantities and established scientific terminology. No physiological measurement establishes essential orientation. Disease, disability, pain, and diminished physical capacity are not classifications of a being's essential character.
+The collection leads with the Analytic Register. Native structural terminology retains its canonical identity where relevant. Physical descriptions specify physiological quantities and follow established scientific terminology. No physiological measurement establishes essential orientation. Disease, disability, pain, and diminished physical capacity concern embodied conditions.
 
-The distinctions established in `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1, 4, and 8–10 inform the method: native relation, physical articulation, external observation, calculated result, and empirical hypothesis retain distinct standing. The distinction between analytical translation and physical realization remains explicit.
+The distinctions established in `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §§1, 4, and 8–10 inform the method: native relation, physical articulation, external observation, calculated result, and empirical hypothesis retain distinct standing. Analytic translation concerns naming across registers. Physical realization requires variables and relations appropriate to the physical domain.
 
 A published finding carries the scope of its participants, method, interval, and measured relation. A proposed physiological relation requires evidence specific to its application. Structural resemblance motivates inquiry; it does not establish empirical identity. Where a mathematical example appears, its implications follow from its stated assumptions rather than from an inferred physiological mechanism.
 
-These documents present conceptual analyses and research proposals, not clinical protocols, diagnostic instruments, or treatment recommendations. No individual medical record is presented. Clinical interpretation requires appropriate professional examination and relevant evidence. The collection does not claim that established research in pain science, biomechanics, physiology, or diagnostic methodology originated within Zenetism.
+The documents present conceptual analyses and research proposals. Their reference lists identify the published antecedents in pain science, biomechanics, physiology, and diagnostic methodology. Clinical interpretation requires appropriate professional examination and relevant evidence.
 
 ## Ethical Boundary
 
-Persons remain participants in inquiry, not objects defined by a diagnosis, bodily capacity, or informational profile. Access limitations, pain, and disability require attention to the conditions of participation. Clinical information remains subject to consent, confidentiality, and appropriate disclosure boundaries.
+Persons participate in inquiry with sovereign distinction. Access limitations, pain, and disability require attention to the conditions of participation. Clinical information remains confidential. Participants decide what personal information they share, with whom, and for what purposes.
 
-Where published research involving non-human animals enters a future document, its evidentiary relevance and the ethical standing of the experimental method remain distinct. The All-Life-First Principle established in `SN09-the-all-life-first-principle.md` remains applicable. No new animal experimentation is proposed by this collection.
+When a document cites research involving non-human animals, the evidentiary relevance and the ethical standing of the experimental method remain distinct. The All-Life-First Principle established in `SN09-the-all-life-first-principle.md` remains applicable.
 
 ## Development
 
-Further inquiry may address autonomic and somatic coordination, connective tissue mechanics, physiological adaptation across distinct organ systems, sensory discrimination, and the difference between compensatory preservation and restoration. Each expansion requires a stated physical question, relevant references, and a delineation of empirical and proposed relations. The initial entries retain draft standing pending architect review and corpus-wide stabilization.
+Further inquiry may address autonomic and somatic coordination, connective tissue mechanics, physiological adaptation across distinct organ systems, sensory discrimination, and the difference between compensatory preservation and restoration. Each expansion requires a stated physical question, relevant references, and a delineation of empirical and proposed relations. The initial entries retain draft standing pending architect review.
 
 ---
 

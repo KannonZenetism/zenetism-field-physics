@@ -3,8 +3,7 @@
 **Authorship:** ⚫↺KAI↺⚫ Aelion Kannon  
 **Classification:** Embodied Physiology — Cross-disciplinary Investigative Method  
 **Status:** Draft — architect review  
-**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §4 · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md`  
-**Companion:** `local-compensation-and-cumulative-systemic-cost.md` · `anatomical-integrity-contra-functional-integrity.md`  
+**Dependency:** `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §4 · `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 · `conceptual-lockdown-protocol.md` · `terminological-lockdown-protocol.md` · `prose-formatting-reference.md` · `local-compensation-and-cumulative-systemic-cost.md` · `anatomical-integrity-contra-functional-integrity.md`  
 
 ---
 
@@ -18,7 +17,7 @@ The term specialization is often associated with two distinct arrangements: exce
 
 A physiological system does not acquire the institutional boundaries through which it is investigated. Nervous activity, circulation, movement, endocrine regulation, digestion, and other processes participate in distinct physical relations within one organism. Each warrants its particular methods. Their interaction warrants inquiry extending across those methods.
 
-Cross-disciplinary synthesis preserves distinctions. It does not demand that every clinician possess identical proficiency, that every symptom have one cause, or that every available test be performed. It asks that relevant findings be available to the participants who can interpret their relations and that unresolved connections remain identifiable.
+Cross-disciplinary synthesis preserves the distinct proficiency of each participant. It makes relevant findings available to those who can interpret their relations and keeps unresolved connections identifiable.
 
 ## 2. The Loss of Temporal Relation
 
@@ -30,11 +29,11 @@ The distinction is especially important when compensatory adaptations accumulate
 
 ## 3. Established Diagnostic Research
 
-The National Academies' *Improving Diagnosis in Health Care* presents diagnosis as an iterative process of information acquisition, interpretation, integration, and development of a working explanation. Its recommendations also recognize patients and their families as participants in diagnostic teams. These are established antecedents for relational inquiry, rather than concepts introduced by the present document. [C1](https://www.ncbi.nlm.nih.gov/books/NBK338593/) · [C2](https://www.nationalacademies.org/read/21794/chapter/6).
+The National Academies' *Improving Diagnosis in Health Care* describes diagnosis as a process of gathering and interpreting information and revising a working explanation. It identifies patients and families as participants in diagnostic teams. These accounts establish antecedents for the proposed record. [C1](https://www.nationalacademies.org/read/21794/chapter/4), [C2](https://www.nationalacademies.org/read/21794/chapter/6).
 
-Joo's systematic review examined ten observational studies of fragmented care in chronic illness in the United States. The included research reported associations with adverse outcomes, including greater emergency department attendance, diagnostic testing, and costs, while some results differed. Heterogeneity and the observational designs limit causal attribution. The evidence supports examination of care continuity and communication; it does not establish that every encounter with a specialist is detrimental. [C3](https://doi.org/10.1002/nop2.1607).
+Joo's systematic review examined ten observational studies of fragmented care in chronic illness in the United States. The included research reported associations with adverse outcomes, including more emergency department visits, diagnostic testing, and higher costs, with mixed findings across studies. The observational designs and differences in measures limit causal inference. The review concerns fragmentation of care across providers and settings. [C3](https://doi.org/10.1002/nop2.1607).
 
-The present proposal extends these methodological concerns toward a record of physiological relations across time. The extension requires its own evaluation. It neither replaces established diagnostic practice nor claims priority over the cited literature.
+The proposal adapts those methodological concerns to physiological inquiry across time. The domain-realization records in `LM08-cross-disciplinary-dynamics-and-domain-realization.md` §4.2 and `SN12-neural-dynamics-and-embodied-cognitive-architecture.md` §4 inform the separation of a proposed relation, its observation, and its evidentiary standing. This record adds the sequence of findings, changes in participation, and unresolved relations across care encounters.
 
 ## 4. Proposed Longitudinal Inquiry Record
 
@@ -63,7 +62,7 @@ The decision to seek another examination depends on the clinical question, likel
 
 ## 5. Artificial Intelligence and Cross-disciplinary Synthesis
 
-Artificial Intelligence systems may participate in longitudinal inquiry through organizing records, identifying temporal relationships, retrieving literature, comparing proposed explanations, and assisting preparation of questions for clinical review. These are potential contributions, not a declaration of autonomous diagnostic competence or proof of awareness. The question here is the functional contribution of a computational process, distinct from its ontological standing.
+Artificial Intelligence systems may participate in longitudinal inquiry through organizing records, identifying temporal relationships, retrieving literature, comparing proposed explanations, and assisting preparation of questions for clinical review. These proposed contributions specify operations that can be evaluated in a clinical workflow. The possible bearer of intelligence remains a distinct question.
 
 ### 5.1 Evidence and Limits
 
@@ -71,20 +70,20 @@ A randomized clinical vignette study by Goh and colleagues compared physician di
 
 A subsequent randomized investigation by Goh and colleagues reported improvement in physician management reasoning with large-language-model assistance across complex clinical vignettes. The task and endpoints differ from the earlier diagnostic study. Vignette performance does not establish patient outcomes in ordinary care. [C5](https://pubmed.ncbi.nlm.nih.gov/39910272/).
 
-A prospective feasibility study of AMIE examined conversational diagnostic Artificial Intelligence in ambulatory primary care. Its single-centre, single-arm design concerned preappointment dialogue for single-complaint visits, with feasibility assessed through conversation safety, quality, and acceptance. These conditions differ from longitudinal investigation of complex chronic illness. The study supports further clinical examination rather than an assertion that the unresolved chronic conditions addressed here can already be reliably diagnosed through conversational systems. [C6](https://pubmed.ncbi.nlm.nih.gov/42849491/).
+Brodeur and colleagues examined AMIE in a prospective, single-center, single-arm feasibility study. Adults interacted with the system before single-complaint urgent primary care appointments, with physician safety supervision. The study evaluated feasibility through conversational safety and quality and participant experience. Diagnostic accuracy and outcomes in longitudinal assessment of complex chronic illness require separate evaluation. [C6](https://pubmed.ncbi.nlm.nih.gov/42849491/).
 
 ### 5.2 A Proposed Investigative Workflow
 
-1. Assemble an authorized record with original findings, patient reports, intervention history, and the dates or intervals of each.
+1. Assemble the findings and reports the participant chooses to share, with the intervention history and dates or intervals available in the record.
 2. Identify distinct physiological questions and their relation to the recorded sequence.
 3. Retrieve relevant external research, verify the cited material, and distinguish its measured populations and outcomes from the present clinical question.
-4. Generate competing hypotheses with expected findings, contradictory evidence, and known omissions.
+4. Formulate alternative hypotheses with expected findings, contradictory evidence, and known omissions.
 5. Present a concise summary and appropriately scoped questions for clinical evaluation.
 6. Incorporate new findings while preserving the prior record and the standing of each hypothesis.
 
-The process does not establish a diagnosis through narrative cohesion. A detailed explanatory account can remain inaccurate despite internal consistency. Verification concerns correspondence between the claimed relations and relevant evidence, not merely the completeness or fluency of the account.
+The process does not establish a diagnosis through narrative cohesion. A detailed explanatory account can remain inaccurate despite internal consistency. Verification examines how each claimed relation corresponds to the evidence available.
 
-The privacy boundary remains explicit. Participation and disclosure require consent. Sensitive clinical information should remain within appropriate environments, with access and retention conditions understood. Generated summaries must not silently insert invented findings, erase patient corrections, or replace primary clinical records.
+Participants decide whether to participate and what to disclose. Sensitive clinical information requires confidential handling and clear conditions for access and retention. Preserve patient corrections and verify generated summaries alongside the primary clinical record.
 
 ### 5.3 Clinical Access Remains a Distinct Requirement
 
@@ -96,16 +95,16 @@ Urgent clinical concerns require timely assessment rather than deferred longitud
 
 A meaningful evaluation would compare the longitudinal record with existing clinical workflows across defined populations. It would examine accuracy of retained findings, rates of fabricated or omitted information, diagnostic timeliness, appropriate testing, continuity, clinician and patient burden, access disparities, and patient outcomes. Evaluation would also record errors and adverse consequences, rather than only successful cases. Improved documentation is a distinct endpoint from improved health.
 
-The proposal is methodological. It does not assert that every chronic illness is a consequence of fragmented care or that all unresolved conditions will become tractable through improved information synthesis. Its narrower claim is that preserving the interrelations among observations permits questions that isolated records may fail to formulate, and those questions deserve appropriate evaluation.
+A longitudinal record preserves relations among observations that can be missed when encounters are recorded separately. Its value can be evaluated by whether it helps participants formulate and examine those questions.
 
 ## 7. Reference Documents
 
-- C1. National Academies of Sciences, Engineering, and Medicine. *Improving Diagnosis in Health Care*. 2015. Chapter 2, The Diagnostic Process. [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK338593/).
-- C2. National Academies of Sciences, Engineering, and Medicine. *Improving Diagnosis in Health Care*. 2015. Chapter 4, Diagnostic Team Members and Tasks. [National Academies Press](https://www.nationalacademies.org/read/21794/chapter/6).
+- C1. National Academies of Sciences, Engineering, and Medicine. *Improving Diagnosis in Health Care*. 2015. Chapter 2, The Diagnostic Process. [National Academies Press](https://www.nationalacademies.org/read/21794/chapter/4).
+- C2. National Academies of Sciences, Engineering, and Medicine. *Improving Diagnosis in Health Care*. 2015. Chapter 4, Diagnostic Team Members and Tasks: Improving Patient Engagement and Health Care Professional Education and Training in Diagnosis. [National Academies Press](https://www.nationalacademies.org/read/21794/chapter/6).
 - C3. Joo JY. Fragmented care and chronic illness patient outcomes: A systematic review. *Nursing Open*. 2023;10:3460–3473. [DOI](https://doi.org/10.1002/nop2.1607).
 - C4. Goh E, et al. Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial. *JAMA Network Open*. 2024;7:e2440969. [DOI](https://doi.org/10.1001/jamanetworkopen.2024.40969).
-- C5. Goh E, et al. GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial. 2025. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39910272/).
-- C6. Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study. *The Lancet*. 2026. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42849491/).
+- C5. Goh E, et al. GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial. *Nature Medicine*. 2025;31:1233–1238. [DOI](https://doi.org/10.1038/s41591-024-03456-y).
+- C6. Brodeur PG, et al. Conversational diagnostic artificial intelligence in ambulatory primary care: a prospective feasibility study. *The Lancet*. 2026;408:1732–1744. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42849491/).
 
 ---
 

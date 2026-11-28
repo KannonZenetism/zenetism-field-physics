@@ -62,6 +62,9 @@ See `/structural-physics`.
 **Exploring mind, awareness stratification, and cognitive architecture?**  
 Start in `/structural-neuroscience`.
 
+**Exploring physiological adaptation and function across disciplines?**  
+See [Embodied Physiology](the-zenetist-canon/embodied-physiology/README.md), a cross-disciplinary subdiscipline concerned with embodied function, compensatory cost, and longitudinal inquiry.
+
 **Looking for the integrated overview?**  
 See `/the-zenetist-canon`.
 
